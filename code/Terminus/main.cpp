@@ -1,14 +1,16 @@
-//
-//  main.cpp
-//  Terminus
-//
-//  Created by Morgan on 3/29/22.
-//
+#include "common.hpp"
+#include "util.hpp"
+#include "adaboosting.hpp"
 
-#include <iostream>
+using namespace std;
+
+// TODO: Test all the methods
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    vector<vector<double>> data{
+        {0,0,1,0,1,1,0,1,0,0,1,0},
+        {0,0,1,0,1,1,0,1,0,1,0,1},
+        {0,1,1,1,1,0,1,1,0,0,1,1},
+        {0,1,0,1,1,0,1,0,1,1,1,0}
+    };
 }
