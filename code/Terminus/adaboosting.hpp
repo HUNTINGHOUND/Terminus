@@ -5,14 +5,15 @@
 #include "decisionStump.hpp"
 
 
-class AdaBoosting {
+class BinaryAdaBoosting {
     
 public:
     
     struct SplitInfo {
+        bool initialized = false;
         size_t feature;
         double threshold;
-        bool up;
+        bool up, down;
         
         std::vector<size_t> deci;
         double gini;
@@ -32,7 +33,7 @@ public:
     std::vector<size_t> boot;
     
     // Find the feature and threshold that yields the least gini index. Return the information.
-    SplitInfo find_gini(std::vector<std::vector<double>> const & data, std::unordered_set<size_t> const & skip, size_t target=0);
+    SplitInfo find_gini(std::vector<std::vector<double>> const & data, std::vector<bool> const & target, std::unordered_map<size_t, double> const & skip);
     
     // Find the thresholds given values of a feature.
     static std::vector<double> find_threshold(std::vector<double> const & val);
@@ -41,7 +42,7 @@ public:
     // Return a vector of the following form
     // {number of 0 with feature higher than the threshold, number of 1 with feature higher than the threshold,
     //  number of 0 with feature lower than the threshold, number of 1 with feature lower than the threshold }
-    std::vector<size_t> find_decision(std::vector<std::vector<double>> const & val, size_t col, double thres, size_t target);
+    std::vector<size_t> find_decision(std::vector<std::vector<double>> const & val, size_t col, double thres, std::vector<bool> const & target);
     
     // Calculate the gini index given the purity of the 
     static double calculate_gini(std::vector<size_t> const & decision);
@@ -56,9 +57,11 @@ public:
     static void change_weight(std::vector<bool> const & incorrect, std::vector<double> & w, double a);
     
     // Bootstrap data, return weighted selection
-    std::pair<std::vector<size_t>, std::vector<double>> boot_strap(std::vector<std::vector<double>> const & data);
+    std::vector<size_t> boot_strap(size_t n);
     
-    // TODO: Implement training loop
+    void fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_steps, std::vector<std::string> const & feature_name={});
+    
+    std::vector<bool> predict(std::vector<std::vector<double>> const & x);
 };
 
 #endif /* adaboosting_hpp */

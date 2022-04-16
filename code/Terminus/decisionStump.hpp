@@ -4,14 +4,15 @@
 #include "common.hpp"
 
 class DecisionStump {
+public:
     
     double threshold;
     std::string featureName;
-    bool above;
+    size_t feature_idx;
+    bool above, below;
     
-public:
     
-    DecisionStump(std::string const & featureName, double threshold, bool above=true);
+    DecisionStump(std::string const & featureName, size_t feature_idx, double threshold, bool above=true, bool below=false);
     
     bool predict(double value);
 };
