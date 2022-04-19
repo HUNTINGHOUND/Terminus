@@ -2,10 +2,10 @@ from __future__ import annotations
 import json
 import pandas as pd
 from baseline_functions import *
-crime_fileName = "Baseline/data_set_SJVMK/cyber_crime.json"
-bva_fileName = "Baseline/data_set_SJVMK/bva.json"
-IP_fileName = "Baseline/data_set_SJVMK/intellectual_property.json"
-SCOTUS_fileName = "Baseline/data_set_SJVMK/scotus.json"
+crime_fileName = "data_set_SJVMK/cyber_crime.json"
+bva_fileName = "data_set_SJVMK/bva.json"
+IP_fileName = "data_set_SJVMK/intellectual_property.json"
+SCOTUS_fileName = "data_set_SJVMK/scotus.json"
 
 '''
 #Dictionaries to store results
@@ -38,8 +38,8 @@ ResultsBaselineThree[SCOTUS_fileName] = {}
 run Basline systems, filling dictionaries
 '''
 #system one
-baseLineSystemOneWSJ('Baseline/WSJ_24.words', ResultsBaselineOne)
-baseLineSystemOneBrown('Baseline/BROWN/tagged/cb/cb02.pos', ResultsBaselineOne)
+baseLineSystemOneWSJ('WSJ_24.words', ResultsBaselineOne)
+baseLineSystemOneBrown('BROWN/tagged/cb/cb02.pos', ResultsBaselineOne)
 baseLineSystemOneData_Sets(crime_fileName, ResultsBaselineOne)
 baseLineSystemOneData_Sets(bva_fileName, ResultsBaselineOne)
 baseLineSystemOneData_Sets(IP_fileName, ResultsBaselineOne)
