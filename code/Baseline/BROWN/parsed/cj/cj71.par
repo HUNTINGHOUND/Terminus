@@ -1,0 +1,2381 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP the three main categories
+	     (PP of
+		 (NP antisubmarine warfare operations)))
+	 (VP are
+	     (NP (NP defense
+		     (PP of
+			 (NP shipping)))
+		 ,
+		 (NP defense
+		     (PP of
+			 (NP naval forces)))
+		 ,
+		 and
+		 (NP area defense)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The last category)
+   (VP overlaps
+       (NP the others)
+       (PP (PP in
+	       (NP amphibious operations))
+	   and
+	   (PP near
+	       (NP  (NP terminals) 
+		    and 
+		    (NP bases))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)  
+	(AUX To)
+	(VP effect
+	    (NP these operations)))
+    ,
+    (S (NP (NP five elements)
+	   (NP-1 *pseudo-attach*))
+       (VP exist)
+       (NP-1 (NP (NP *LRB*
+		   1
+		   *RRB*)
+	       (NP surface))
+	   ,
+	   (NP (NP *LRB*
+		   2
+		   *RRB*)
+	       (NP air))
+	   ,
+	   (NP (NP *LRB*
+		   3
+		   *RRB*)
+	       (NP mines))
+	   ,
+	   (NP (NP *LRB*
+		   4
+		   *RRB*)
+	       (NP submarine))
+	   ,
+	   and
+	   (NP (NP *LRB*
+		   5
+		   *RRB*)
+	       (NP (VP fixed)
+		   installations)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Surface forces)
+      (AUX have)
+      (VP been
+	  (VP used
+	    
+	      (S (NP *)
+		 (AUX to)
+		 (VP provide
+		     (NP defense zones)
+		     (PP around
+			 (NP naval and merchant ship formations)))))))
+     ,
+     (X (NP air)
+	(S (NP *)
+	   (AUX to)
+	   (VP furnish
+	       (NP area surveillance))))
+     ,
+     and
+     (X (NP mines)
+	(PP for
+	    (NP protection
+		(PP of
+		    (NP  limited
+			areas))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Submarines) 
+       and 
+       (NP shore installations))
+   (VP are
+       (NP new elements)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The submarine)
+   (ADVP now)
+   (VP has
+       (NP a definite place)
+       (PP in
+	   (NP submarine defense))
+       (ADVP particularly
+	     (PP in
+		 (S (NP *)  
+		    (VP denying
+			(NP enemy access
+			    (PP to
+				(NP ocean areas)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP Fixed)
+	installations)
+    (VP offer
+	(NP possibilities
+	    (PP for
+		(NP area detection)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mine warfare)
+   (AUX is)
+   (VP being
+       (VP reoriented
+	    
+	   (PP against
+	       (NP submarine targets)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A sixth element)
+      ,
+      (NEG not)
+      (ADVP always)
+      (VP considered)
+      ,)
+  (VP is
+      (NP intelligence)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP includes
+       (NP (NP operational intelligence
+	       (PP of
+		   (NP the enemy)))
+	   and
+	   (NP knowledge
+	       (PP of
+		   (NP the environment))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Operational intelligence)
+      (ADVP presumably)
+      (AUX will)
+      (VP be
+	  (ADJP available
+		(PP from
+		    (NP our national intelligence agencies)))))
+     ;
+     ;
+     (S (NP intelligence
+	    (PP on
+		(NP the environment)))
+	(AUX will)
+	(VP come
+	    (PP from
+		(NP the
+		    (ADJP  recently
+			  augmented)
+		    program
+		    (PP in
+			(NP oceanography)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       major postwar
+       development)
+   (VP is
+       (NP the certainty
+	   (SBAR that
+		 (S (NP these elements)
+		    (AUX should)
+		    (NEG not)
+		    (VP be
+			(VP considered
+			    (ADVP singly)
+			    (PP but
+				(PP in
+				    (NP combination))
+				and
+				(PP as
+        
+				    (S  (NP *)
+					(VP being
+					    (VP (ADVP mutually)
+						supporting))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Necessity
+       (PP for
+	   (NP an over-all concept Thinking
+	       (PP on
+		   (NP submarine defense)))))
+   (AUX has)
+   (NEG not)
+   (ADVP always)
+   (VP been
+       (ADJP clear-cut)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Proponents
+	  (PP of
+	      (NP single elements)))
+      (VP tend
+	  (S (NP *)
+	     (AUX to)
+	     (VP ensure
+		 (NP predominance
+		     (PP of
+			 (NP that element)))
+		 (PP without
+		     (S (NP *)  
+			(VP determining
+			    (SBAR if
+				  (S (NP it)
+				     (AUX is)
+				     (VP justified
+					 ))))))))))
+     ,
+     and
+     (S  
+      (NP the element
+	  (PP with
+	      (NP the
+		  (ADJP most enthusiastic
+			and
+			vociferous)
+		  proponents)))
+      (AUX has)
+      (VP assumed
+	  (NP the
+	      (ADJP greatest)
+	      importance))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Consequently)
+      ,
+      (S (NP  air
+	     ,
+	     surface
+	     ,
+	     and
+	     submarine elements)
+	 (VP overshadow
+	     (NP (NP the mine)
+		 ,
+		 (NP (VP fixed)
+		     installations)
+		 ,
+		 and
+		 (NP intelligence)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX have)
+   (VP sought
+       (ADVP more
+	     and
+	     more
+	     (PP of
+		 (SBAR (WHNP what)
+		       (S
+			(NP they)
+			(VP have
+			    (NP T))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each)
+   (VP seems
+       (S (NP *)
+	  (AUX to)
+	  (VP strive
+	      (PP for
+		  (NP elimination
+		      (PP of
+			  (NP the necessity
+			      (PP for
+				  (NP the others))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    ,
+    (PP despite
+	(NP (NP postwar experience)
+	    (VP demonstrating
+		(SBAR that
+		      (S (NP all elements)
+			 (AUX are)
+			 (ADVP necessarily)
+			 (VP  (ADVP mutually)
+			      supporting)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP the
+	     (ADJP most productive)
+	     areas)
+	 (VP are
+	     (NEG not)
+	     (ADVP necessarily)
+	     (NP the
+		 most
+		 (VP stressed)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP stated
+       )
+   (S (NP *)
+      (AUX to)
+      (VP emphasize
+	  (NP the necessity
+	      (PP for
+		  (NP (NP an over-all concept
+			  (PP of
+			      (NP submarine defense)))
+		      ,
+		      (NP (NP one)
+			  (SBAR (WHNP which)
+				(S (NP T)
+				   (AUX would)
+				   (VP provide
+				       (NP (NP positions
+					       (PP of
+						   (NP relative importance))
+					       (PP to
+						   (NP ASW elements)))
+					   (VP based
+					       (PP on
+						   (NP (VP projected)
+						       potentialities))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP the enthusiasm and energy
+	     (PP of
+		 (NP all elements)))
+	 (AUX can)
+	 (VP be
+	     (VP channeled
+		  
+		 (S (NP *)
+		    (AUX to)
+		    (VP produce
+			(NP cumulative progress
+			    (PP toward
+				(NP a common objective)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An over-all concept)
+   (AUX would)
+   (VP have
+       (NP other advantages)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP allow
+       (NP presentation
+	   (PP to
+	       (NP the public))
+	   (PP of
+	       (NP a unified approach)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP the problem)
+	 (AUX is)
+	 (VP presented
+	     (ADVP piecemeal) 
+	     and 
+	     (ADVP sometimes)
+	     (ADVP contradictorily))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR While
+	 (S (NP one element)
+	    (AUX is)
+	    (VP announcing
+		(NP progress))))
+   ,
+   (S (NP another)
+      (AUX is)
+      (VP delineating
+	  (NP its problems))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The result)
+   (AUX can)
+   (ADVP only)
+   (VP be
+       (NP confusion
+	   (PP in
+	       (NP the public mind)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A unified concept)
+    (X (X (AUX can)
+	  (VP serve
+	      (PP as
+		  (NP a guide
+		      (PP to
+			  (NP budgeting))))))
+       and
+       ,
+       (SBAR if
+	     (S (NP public support)
+		(AUX is)
+		(VP gained
+		    )))
+       ,
+       (X (AUX will)
+	  (VP command
+	      (NP Congressional support)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Industry)
+    's main criticism
+    (PP of
+	(NP 
+	 (NP the Navy)
+	 's antisubmarine effort)))
+   (VP is
+       (SBAR that
+	     (S (NP it)
+		(AUX can)
+		(NEG not)
+		(VP determine
+		    (SBAR 
+		     (WHADVP where)
+		     (S (NP any one company or industry)
+			(AUX can)
+			(VP apply
+			    (NP its skills and know-how)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+	(VP Lacking
+	    (NP guidance)))
+    ,
+    (S (NP industry)
+       (VP picks
+	   (NP its own areas))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S  
+  (NP (NP The result)
+      ,
+      (VP coupled
+	  (PP with
+	      (NP (NP the salesmanship)
+		  (SBAR (WHPP for
+			      (WHNP which))
+			(S (NP American industry)
+			   (VP is
+			       (ADJP famous)))))))
+      ,)
+  (VP is
+      (NP considerable expenditure
+	  (PP of
+	      (NP (NP funds) 
+		  and 
+		  (NP efforts)))
+	  (PP in
+	      (NP marginal areas)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An over-all concept)
+   (AUX will)
+   (VP guide
+       (NP industry)
+       (SBAR 
+	(WHADVP where)
+	(S (NP available talents and facilities)
+	   (AUX will)
+	   (VP yield
+	       (NP 
+		(ADJP greatest)
+		dividends))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP a broad concept
+	     (PP of
+		 (NP over-all submarine defense)))
+	 (AUX is)
+	 (VP needed
+	      
+	     (PP (PP for
+		     (NP co-ordination
+			 (PP of
+			     (NP 
+			      (NP the Navy)
+			      's efforts))))
+		 ,
+		 (PP for
+		     (NP a logical presentation
+			 (PP to
+			     (NP the public))))
+		 ,
+		 (PP for
+		     (NP 
+		      (NP industry)
+		      's guidance))
+		 ,
+		 and
+		 (PP as
+		     (NP a basis
+			 (PP for
+			     (NP a program
+				 (PP to
+				     (NP the Congress))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP (NP Principles)
+    (VP involved
+	(PP in
+	    (NP an over-all concept)))))
+(  
+ (S  
+  (NP (NP That)
+      (SBAR (WHNP which)
+	    (S  (NP T) 
+		(VP follows))))
+  (AUX will)
+  (VP be
+      (NP a discussion
+	  (PP of
+	      (NP (NP principles)
+		  and
+		  (NP possible content)
+		  (PP for
+		      (NP an over-all concept
+			  (PP of
+			      (NP antisubmarine warfare)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Russia)
+   (VP possesses
+       (NP (NP the preponderance
+	       (PP of
+		   (NP submarines))
+	       (PP in
+		   (NP the world)))
+	   ,
+	   (VP divided
+	       (PP between
+		   (NP her various fleets))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Some)
+      (VP are
+	  (ADVP also)
+	  (PP in
+	      (NP Albania))))
+     and
+     (S (NP others)
+	(VP are
+	    (PP on
+		(NP loan
+		    (PP to
+			(NP Egypt)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Other countries)
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (AUX may)
+		 (VP (ADVP willingly
+			   or
+			   unwillingly)
+		     become
+		     (NP Communist)))))
+    (AUX can)
+    (VP furnish
+	(NP bases)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Communist target areas)
+      (AUX can)
+      (VP be
+	  (VP assumed
+	      )))
+     ,
+     but
+     (S (NP there)
+	(VP is
+	    (NP no certainty
+		(SBAR that
+		      (S (NP such assumptions)
+			 (VP coincide
+			      
+			     (PP with
+				 (NP Soviet intentions)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Attack)
+   (AUX can)
+   (VP come
+       (PP from
+	   (NP  almost
+	       any direction))
+       (PP against
+	   (NP many locations))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Logically)
+      ,
+      (ADVP then)
+      ,
+      (S (NP the first principle
+	     (PP of
+		 (NP the plan)))
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   (S (NP it)
+		      (AUX is)
+		      (NEG not)
+		      (VP  (ADVP rigidly)
+			   oriented
+			    
+			   (PP toward
+			       (NP any geographical area))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX is)
+   (ADVP often)
+   (VP stated
+)
+   (SBAR-1 that
+	 (S (NP the submarine)
+	    (AUX can)
+	    (VP be
+		(VP destroyed
+		    (SBAR while
+			  (S (NP *)  
+			     (VP building)))
+		    ,
+		    (PP at
+			(NP bases))
+		    ,
+		    (PP in
+			(NP transit))
+		    ,
+		    and
+		    (PP on
+			(NP station)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Destruction
+	(PP of
+	    (NP 
+	     (NP the enemy)
+	     's building and base complex)))
+    ,
+    (ADVP however)
+    ,
+    (VP requires
+	(NP (NP attacks
+		(PP on
+		    (NP enemy territory)))
+	    ,
+	    (SBAR 
+	     (WHNP which)
+	     (S (NP T)
+		(VP is
+		    (ADJP possible)
+		    (PP  only
+			 in
+			 (NP event
+			     (PP of
+				 (NP all-out hostilities))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP In
+	    (NP transit))
+	or
+	(PP on
+	    (NP station)))
+    ,
+    (S (NP it
+	   (S-2 *pseudo-attach*))
+       (AUX may)
+       (NEG not)
+       (VP be
+	   (ADJP possible))
+       (S-2 (NP *)
+	  (AUX to)
+	  (VP attack
+	      (NP the submarines)))
+       (PP until
+	   (NP commission
+	       (PP of
+		   (NP an overt act))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Communists)
+   (X (VP are
+	  (ADJP adept
+		(PP at
+		    (S (NP *)  
+		       (VP utilizing
+			   (NP (NP hostilities)
+			       (ADJP short
+				     (PP of
+					 (NP general war)))))))))
+      and
+      (X (AUX will)
+	 (VP do
+	     (ADVP so)
+	     (SBAR 
+	      (WHADVP whenever)
+	      (S (NP it)
+		 (VP is
+		     (PP to
+			 (NP their advantage)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      (S (NP the second principle
+	     (PP of
+		 (NP the plan)))
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   ,
+		   (S (SBAR while
+			    (S (NP *)  
+			       (VP providing
+				   (PP for
+				       (NP all-out hostilities)))))
+		      ,
+		      (S (NP its effectiveness)
+			 (VP is)
+			 (NEG not
+			      (ADJP dependent
+				    (PP on
+					(NP general war))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Antisubmarine warfare)
+   (AUX does)
+   (NEG not)
+   (VP involve
+       (NP clashes
+	   (PP between
+	       (NP (ADJP large)
+		   (VP opposing)
+		   forces))
+	   ,
+	   (PP with
+	       (NP (NP the decision)
+		   (NP a result
+		       (PP of
+			   (NP a single battle))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP a war
+	   (PP (PP of
+		   (NP attrition))
+	       ,
+	       (PP of
+		   (NP single actions))
+	       ,
+	       (PP of
+		   (NP an exchange
+		       (PP of
+			   (NP losses))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This exchange)
+   (AUX must)
+   (VP result
+       (PP in
+	   (S (NP our)
+	      (VP ending
+		  (PRT up)
+		  (PP with
+		      (NP some effective units)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Initially)
+      ,
+      (S (NP *)  
+	 (VP having
+	     (NP 
+	      (ADJP fewer)
+	      units
+	      (PP of
+		  (NP (NP some elements)
+		      --
+		      (ADVP especially)
+		      (NP submarines)
+		      --))
+	      (PP than
+		  (NP the opponent)))))
+      ,
+      (S (NP our capabilities)
+	 (VP need
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP  sufficiently
+			  greater
+			  (PP than
+			      (NP theirs)))
+		    ,
+		    (SBAR  so
+			   that
+			   (S (NP the exchange)
+			      (AUX will)
+			      (VP be
+				  (PP in
+				      (NP our favor))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP the third principle
+	     (PP of
+		 (NP the plan)))
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   (S (NP it)
+		      (AUX does)
+		      (NEG not)
+		      (VP depend
+			  (PP for
+			      (NP effectiveness))
+			  (PP on
+			      (NP engagement
+				  (PP by
+				      (NP the same types)))))
+		      ,
+		      (PP unless
+			  (PP at
+			      (NP an
+				  assured favorable
+				  exchange rate))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The submarine)
+   (AUX has)
+   (VP increased
+       (NP its effectiveness)
+       (PP by
+	   (NP several orders
+	       (PP of
+		   (NP magnitude)))))
+   (PP since
+       (NP World War 2)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Its speed)
+      (AUX has)
+      (VP increased))
+     ,
+     (S (NP it)
+	(VP operates
+	    (PP at
+		(NP 
+		 (ADJP  increasingly
+		       greater)
+		 depths))))
+     ,
+     (S (NP its submerged endurance)
+	(AUX is)
+	(VP becoming
+	    (ADJP unlimited)))
+     ,
+     and
+     (S (NP it)
+	(AUX will)
+	(VP become
+	    (ADJP  even
+		   more
+		   silent))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The next developments)
+   (AUX will)
+   (ADVP probably)
+   (VP be
+       (PP in
+	   (NP weaponry))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The missile)
+   (AUX can)
+   (ADVP gradually)
+   (VP be
+       (VP expected
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP replace
+		  (NP the torpedo))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP detection
+		 ranges)
+	     (VP increase)))
+    ,
+    (S (NP weapons)
+       (AUX will)
+       (VP be
+	   (VP developed
+	        
+	       (S (NP *)
+		  (AUX to)
+		  (VP attack
+		      (NP other submarines and surface craft)
+		      (PP at
+			  (NP these ranges))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP the fourth principle
+	     (PP of
+		 (NP the plan)))
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   (S (NP it)
+		      (VP provide
+			  (PP for
+			      (NP (VP  (ADVP continuously)
+				       increasing)
+				  capabilities
+				  (PP in
+				      (NP the opponent))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No element)
+   (AUX can)
+   (VP accomplish
+       (NP the total objective
+	   (PP of))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Some elements)
+      (VP support
+	  (NP the others)))
+     ,
+     but
+     (S (NP all)
+	(VP have
+	    (NP limitations))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some limitations
+       (PP of
+	   (NP one element)))
+   (AUX can)
+   (VP be
+       (VP compensated
+	    
+	   (PP for
+	       (NP *)) 
+	   (PP by
+	       (NP a capability
+		   (PP (NP submarine defense)
+		       of
+		       (NP another)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Elements)
+       (VP used
+	   (PP in
+	       (NP combination))))
+   (AUX will)
+   (VP increase
+       (NP the over-all capability)
+       (ADJP more
+	     (PP than
+		 (NP the sum
+		     (PP of
+			 (NP the capabilities
+			     (PP of
+				 (NP the individual elements)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP
+	  (NP the plan)
+	  's fifth principle)
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   (S (NP it)
+		      (VP capitalize
+			  (PP on
+			      (NP the capabilities
+				  (PP of
+				      (NP all elements
+					  (PP in
+					      (NP combination))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Conceivably)
+      (S (NP the submarine defense problem)
+	 (AUX can)
+	 (VP be
+	     (VP solved
+	      
+		 (PP by
+		     (NP sufficient forces))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Numbers)
+      (AUX would)
+      (VP be
+	  (ADJP astronomical)))
+     and
+     (S (NP  current fiscal
+	     policies)
+	(VP make
+	    (NP this)
+	    (NP an impractical solution))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Shipbuilding
+	 ,
+	 aircraft procurement
+	 ,
+	 and
+	 weapon programs)
+     (VP indicate
+	 (SBAR that
+	       (S (NP there)
+		  (AUX will)
+		  (NEG not)
+		  (VP be
+		      (ADVP enough
+			    (PP of
+				(NP anything))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP (NP any measures)
+	     (VP taken
+		 (PP in
+		     (NP peacetime)))
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (AUX will)
+		      (VP decrease
+			  (NP force requirements)
+			  (PP in
+			      (NP war))))))
+	 (AUX will)
+	 (VP contribute
+	     (ADVP greatly)
+	     (PP to
+		 (NP success)))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP hostilities)
+	     (VP occur)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP the sixth principle
+	     (PP of
+		 (NP the plan)))
+	 (AUX must)
+	 (VP be
+	     (SBAR that
+		   (S (NP it)
+		      (VP concentrate
+			  (PP on
+			      (NP (NP current measures)
+				  (SBAR (WHNP which)
+					(S (NP T)
+					   (AUX will)
+					   (VP reduce
+					       (NP future force requirements))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The world)
+       (AUX is)
+       (VP  (ADVP constantly)
+	    changing))
+    ;
+    ;
+    (S (NP (SBAR 
+	    (WHNP what)
+	    (S (NP T)
+	       (VP was
+		   (ADJP new))
+	       (NP yesterday))))
+       (VP is
+	   (ADJP obsolescent))
+       (NP today)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The seventh principle
+	  (PP of
+	      (NP the plan)))
+      (VP is
+	  (ADJP self-evident)))
+     ;
+     ;
+     (S (NP it)
+	(AUX must)
+	(VP be
+	    (ADVP (ADJP flexible)
+		  enough
+		  (S (NP *)
+		     (AUX to)
+		     (VP allow
+			 (PP for
+			     (NP (NP technological breakthroughs)
+				 ,
+				 (NP scientific progress)
+				 ,
+				 and
+				 (NP changes
+				     (PP in
+					 (NP world conditions)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP (VP Supporting)
+    elements
+    (PP in
+	(NP asw operations))))
+(  
+ (S (PP To
+	(NP this point))
+    (S
+     (NP the need
+	 (PP for
+	     (NP an over-all plan
+		 (PP for
+		     (NP submarine defense)))))
+     (AUX has)
+     (VP been
+	 (VP demonstrated
+	     )))
+    ,
+    (S (NP the mission)
+       (AUX has)
+       (VP been
+	   (VP stated
+	       )))
+    ,
+    (S (NP (NP broad principles)
+	   (VP delineating
+	       (NP its content)))
+       (VP laid
+	   (ADVP down)))
+    ,
+    and
+    (S (NP the (VP supporting) elements)
+       (VP listed)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Before
+	(S (NP *)  
+	   (VP considering
+	       (NP these elements)
+	       (PP in
+		   (NP 
+		    (ADJP more)
+		    detail)))))
+    ,
+    (S (NP an additional requirement)
+       (AUX should)
+       (VP be
+	   (VP stated
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Large area coverage)
+   (AUX will)
+   (VP accomplish
+       (NP all other tasks)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (SBAR because
+	    (S (NP reduction
+		   (PP in
+		       (NP tasks)))
+	       (VP results
+		   (PP in
+		       (NP reduction
+			   (PP of
+			       (NP (NP forces)
+				   (VP required))))))))
+      ,
+      (S (NP the plan)
+	 (AUX should)
+	 (VP provide
+	     (PP for
+		 (S (NP *)  
+		    (VP expanding
+			(NP area coverage)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP it)
+	 (AUX must)
+	 (VP be
+	     (VP remembered
+		  
+		 (SBAR that
+		       (S (NP the plan)
+			  (AUX should)
+			  (NEG not)
+			  (VP be
+			      (VP oriented
+				  (ADVP geographically)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Consequently)
+      ,
+      (S (NP (NP the system)
+	     (VP giving
+		 (NP area coverage)))
+	 *LRB*
+	 (SBAR if
+	       (S (NP such coverage)
+		  (VP is
+		      (ADJP less
+			    (PP than
+				(NP world
+				    (ADJP wide)))))))
+	 *RRB*
+	 (AUX must)
+	 (VP be
+	     (ADJP flexible)
+	     and
+	     (ADVP hence)
+	     (ADJP (PP at
+		       (ADJP least
+			     (ADVP partially)))
+		   mobile))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP effective area coverage)
+	     (VP appears
+		 (ADJP  fairly
+			remote))))
+    ,
+    (S (NP the requirement)
+       (AUX can)
+       (VP be
+	   (VP borne
+	        
+	       (PP in
+		   (NP mind))))
+       (SBAR (WHNP while)
+	     (S (NP *)  
+		(VP considering
+		    (NP (NP the elements)
+			:
+			(NP air)
+			,
+			(NP surface)
+			,
+			(NP sub-surface)
+			,
+			(NP (VP fixed)
+			    installations)
+			,
+			(NP mines)
+			,
+			and
+			(NP intelligence)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (X (X (AUX are)
+	 (VP arranged
+	     (ADVP approximately)
+	     (PP in
+		 (NP the order
+		     (PP of
+			 (NP the vociferousness
+			     (PP of
+				 (NP their proponents))))))))
+      but
+      (X (AUX will)
+	 (VP be
+	     (VP discussed
+	       
+		 (PP in
+		     (NP the reverse order))
+		 (PP in
+		     (NP the hope
+			 (SBAR that
+			       (S (NP the true order
+				      (PP of
+					  (NP importance)))
+				  (AUX will)
+				  (VP result
+				      ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Intelligence)
+    ,
+    (PP as
+	(S (NP *)  
+	   (VP used
+	       (ADVP herein))))
+    ,
+    (AUX will)
+    (VP include
+	(NP (NP information
+		(PP on
+		    (NP possible opponents))
+		and
+		(PP on
+		    (NP the environment)))
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (AUX can)
+		     (VP affect
+			 (NP operations)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX can)
+   (VP be
+       (VP referred
+	    
+	   (PP to
+	       (PP as
+		   (NP (NP operational intelligence)
+		       and
+		       (NP environmental intelligence)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP submarine defense))
+    (S (NP these)
+       (AUX must)
+       (VP have
+	   (NP maximum stress))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     Good operational
+     intelligence)
+    (AUX can)
+    (VP (VP ensure
+	    (NP sound planning))
+	,
+	(VP  (ADVP greatly)
+	     reduce
+	     (NP force requirements))
+	,
+	and
+	(VP increase
+	    (NP tactical effectiveness))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Environmental intelligence)
+   (VP is
+       (ADJP  just
+	      as
+	      important)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ocean)
+   (ADVP presently)
+   (VP co-operates
+       (PP with
+	   (NP the target))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Full knowledge
+       (PP of
+	   (NP the science
+	       (PP of
+		   (NP oceanography)))))
+   (AUX can)
+   (VP bring
+       (NP the environment)
+       (PP to
+	   (NP our side)))
+   ,
+   (S (NP *)  
+      (VP resulting
+	  (PP in
+	      (NP (NP an increase
+		      (PP in
+			  (NP effectiveness
+			      (PP of
+				  (NP equipment and tactics)))))
+		  ,
+		  (NP a decrease
+		      (PP in
+			  (NP enemy capabilities)))
+		  ,
+		  and
+		  (NP the development
+		      (PP of
+			  (NP methods
+			      (PP of
+				  (S (NP *)  
+				     (VP capitalizing
+					 (PP on
+					     (NP the environment)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP  (VP improved)
+	      intelligence)
+	 (X (X (AUX will)
+	       (VP result
+		   (PP in
+		       (NP (VP reduced)
+			   force requirements))))
+	    and
+	    ,
+	    (SBAR as
+		  (S (NP it)
+		     (VP supports
+			 (NP all other elements))))
+	    ,
+	    (VP rates
+		(NP a top priority)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Gathering intelligence)
+       (VP is
+	   (ADJP important)))
+    ,
+    but
+    (SINV (PP of
+	      (NP equal importance))
+	  (VP is)
+	  (NP its translation
+	      (PP into
+		  (NP usable form)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A program)
+   (AUX is)
+   (VP needed
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP translate
+	      (NP the results
+		  (PP of
+		      (NP oceanographic research)))
+	      (PP into
+		  (NP  tactical
+		       and
+		       (VP operating)
+		       instructions))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (S  (NP *) 
+	    (VP Approaching
+		(NP this problem)
+		(PP on
+		    (NP a statistical basis)))))
+    (VP is
+	(ADJP invalid))
+    ,
+    (SBAR because
+	  (S (NP the opponent)
+	     (X (VP has
+		    (NP the same sources)
+		    (ADJP available))
+		and
+		(X (AUX will)
+		   (VP be
+		       (VP encountered
+			      
+			   (PP (NEG not)
+			       (PP under
+				   (NP average conditions))
+			       ,
+			       but
+			       (PP under
+				   (NP (NP the conditions)
+				       (ADJP most advantageous
+					     (PP to
+						 (NP him)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP the on-the-scene commander)
+	 (AUX must)
+	 (VP have
+	     (NP (NP  detailed
+		      (VP operating)
+		      instructions)
+		 (VP based
+		     (PP on
+			 (NP measurement
+			     (PP of
+				 (NP conditions
+				     ,
+				     (PP in
+					 (NP the area))
+				     ,
+				     (PP at
+					 (NP the time
+					     (PP of
+						 (NP encounter)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All capabilities)
+   (AUX must)
+   (VP be
+       (VP used
+	    
+	   (PP to
+	       (NP maximum advantage))))
+   (ADVP then))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Temperature)
+      ,
+      (NP wind)
+      ,
+      (NP oxygen content)
+      ,
+      (NP depth)
+      ,
+      (NP bottom character)
+      ,
+      and
+      (NP animal life))
+  (VP are
+      (NP the
+	  chief environmental
+	  variables)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX may)
+   (VP be
+       (NP others)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Variations
+	(PP in
+	    (NP sound velocity
+		(ADVP-4 *pseudo-attach*))))
+    (AUX should)
+    (VP be
+	(VP measured
+	    ))
+    (ADVP-4 rather
+	  (PP than
+	      (NP temperature)))
+    ,
+    (SBAR because
+	  (S  
+	   (NP more
+	       (PP of
+		   (NP the variables)))
+	   (AUX would)
+	   (VP be
+	       (VP encompassed
+		   )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These variations)
+   (AUX must)
+   (ADVP eventually)
+   (VP be
+       (VP measured
+	   (ADVP (ADVP horizontally)
+		 (ADVP as
+		       well
+		       (PP as
+			   (ADVP vertically)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP Progress
+	   (PP in
+	       (S (NP *)  
+		  (VP predicting
+		      (NP water conditions)))))
+       (VP is
+	   (ADJP encouraging)))
+    ,
+    but
+    (S (NP little guidance)
+       (VP is
+	   (ADJP available
+		 (PP to
+		     (NP the man
+			 (PP at
+			     (NP sea))))
+		 (PP on
+		     (NP the use
+			 (PP of
+			     (NP such information))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A concurrent effort)
+   (AUX is)
+   (VP needed
+       )
+   (S (NP *)
+      (AUX to)
+      (VP make
+	  (NP oceanographic data)
+	  (ADJP useful
+		(PP on
+		    (NP the spot))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mine warfare)
+    (AUX has)
+    (PP in
+	(NP the past))
+    (VP been
+	(VP directed
+	     
+	    (PP against
+		(NP surface targets)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP By
+	 (NP its nature))
+     (S
+      (NP it)
+      (AUX has)
+      (ADVP always)
+      (VP been
+	  (PP of
+	      (NP 
+	       great psychological
+	       advantage))))
+     and
+     (S (NP small efforts)
+	(AUX have)
+	(VP required
+	    (NP 
+	     (ADJP  considerably
+		   greater)
+	     counter-efforts))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mines)
+   (AUX are)
+   (VP being
+       (ADVP increasingly)
+       (VP oriented
+	     
+	   (PP against
+	       (NP submarine targets)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (AUX are)
+      (ADVP still)
+      (VP considered
+        
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (PP for
+		     (NP use
+			 (PP in
+			     (NP restricted waters))))))))
+     ,
+     (ADVP however)
+     ,
+     and
+     (S (NP targets)
+	(AUX must)
+	(VP come
+	    (PP within
+		(NP a few yards
+		    (PP of
+			(NP them)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mines)
+    (VP need
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP be
+		   (VP (VP recognized
+		    
+			   (PP as
+			       (NP a major element
+				   (PP in
+				       (NP anti-submarine warfare employment)))))
+		       ,
+		       (VP extended
+			   (PP to
+			       (NP deep water)))))
+	       ,
+	       and
+	       (VP have
+		   (NP their effective area
+		       (PP per
+			   (NP unit)))
+		   (VP increased))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Mines)
+       (AUX can)
+       (VP be
+	   (VP used
+		 
+	       (S (NP *)
+		  (AUX to)
+		  (VP deny
+		      (NP access
+			  (PP to
+			      (NP great areas))))))))
+    ;
+    ;
+    (S (NP they)
+       (X (VP are
+	      (ADJP difficult
+		    (S (NP *)
+		       (AUX to)
+		       (VP counter))))
+	  ,
+	  (VP cost
+	      (NP little)
+	      (S (NP *)
+		 (AUX to)
+		 (VP maintain
+		     (PP until
+			 (S (NP *)  
+			    (VP required))))))
+	  ,
+	  and
+	  (X (AUX can)
+	     (VP be
+		 (VP put
+		   
+		     (PP into
+			 (NP place))
+		     (ADVP quickly)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP most attractive)
+       feature)
+   (VP is
+       (SBAR that
+	     (S (NP  (NP detection) 
+		     and 
+		     (NP attack))
+		(AUX are)
+		(VP combined
+		     
+		    (PP in
+			(NP a single package)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Effective employment)
+   (AUX will)
+   (VP reduce
+       (NP force requirements)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP effective mine barriers
+	   (PP (PP from
+		   (NP Florida))
+	       (PP to
+		   (NP Cuba)))
+	   and
+	   (PP across
+	       (NP the Yucatan Channel
+		   (PP (PP from
+			   (NP Cuba))
+		       (PP to
+			   (NP Mexico))))))
+       (AUX would)
+       (VP remove
+	   (NP all requirements
+	       (PP for
+		   (NP (NP harbor defense)
+		       ,
+		       (NP inshore patrol)
+		       ,
+		       (NP convoy escort)
+		       ,
+		       (NP shipping control)
+		       ,
+		       and
+		       (NP mine defense)))
+	       (PP for
+		   (NP the
+		       (ADJP entire)
+		       Gulf
+		       (PP of
+			   (NP Mexico))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (ADJP More
+		extended)
+	  systems)
+      ,
+      (VP covering
+	  (NP all passage
+	      (PP into
+		  (NP the Caribbean))))
+      ,)
+  (AUX would)
+  (VP free
+      (NP (NP the Caribbean)
+	  and
+	  (NP the Gulf
+	      (PP of
+		  (NP Mexico))))
+      (PP from
+	  (NP the
+	      (ADJP  previously
+		     listed)
+	      requirements))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Systems)
+      (VP covering
+	  (NP (NP the Gulf
+		  (PP of
+		      (NP St. Lawrence)))
+	      and
+	      (ADVP possibly)
+	      (NP the entire coasts
+		  (PP of
+		      (NP the United States))))))
+  (VP are
+      (NEG not)
+      (ADJP impossible)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Such
+	 mine defense systems)
+    (AUX could)
+    (VP permit
+	(NP concentration
+	    (PP of
+		(NP mobile forces))
+	    (PP in
+		(NP the open oceans))
+	    (PP with
+		(NP consequent increase
+		    (PP in
+			(NP the probability
+			    (PP of
+				(NP success)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The advantages)
+	(ADJP inherent
+	      (PP in
+		  (NP mine warfare))))
+    (VP justify
+	(NP (ADJP  as
+		   great)
+	    an importance
+	    (PP for
+		(NP this element))
+	    (PP as
+		(S (NP *)  
+		   (AUX is)
+		   (VP accorded
+		        
+		       (NP any
+			   (PP of
+			       (NP the other elements)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (VP Fixed)
+	installations)
+    (AUX are)
+    (ADVP increasingly)
+    (VP advocated)
+    (SBAR as
+	  (S (NP the problem
+		 (PP of
+		     (NP area defense)))
+	     (VP emerges))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The proponents)
+   (VP are
+       (NP (NP scientific and technical men)
+	   (SBAR (WHNP who)
+		 (S (NP T)
+		    (VP exercise
+			(NP considerable influence
+			    (PP on
+				(NP their military counterparts)))))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+((S (NP (NP Systems)
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP detect
+		     (NP submarines)
+		     (PP over
+			 (NP wide areas))))))
+    (VP are
+	(ADJP attractive))
+    ,
+    (SBAR although
+	  (S (NP they)
+	     (AUX can)
+	     (VP be
+		 (NP only
+		     ``
+		     burglar alarms
+		     '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mobile forces)
+   (AUX are)
+   (VP required)
+   (S (NP *)
+      (AUX to)
+      (VP  localize 
+	  and 
+	  attack
+	  (NP 
+	   (VP detected)
+	   targets)))
+   ,
+   (SBAR since
+	 (S (NP the systems)
+	    (VP are
+		(NEG not)
+		(ADJP capable
+		      (PP of
+			  (S (NP *)  
+			     (VP pinpointing
+				 (NP a target)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such systems)
+   (X (VP are
+	  (ADJP expensive))
+      and
+      (X (AUX are)
+	 (VP oriented
+	     (ADVP geographically)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP an over-all ASW concept))
+    ,
+    (S (NP (NP dependence
+	       (PP on
+		   (NP-5 *pseudo-attach*)))
+	   and
+	   (NP (NP effort)
+	       (VP expended
+		   (PP for
+		       (NP-5 such systems)))))
+       (AUX should)
+       (VP be
+	   (VP limited
+	        
+	       (PP to
+		   (NP those
+		       (PP with
+			   (NP (VP proven)
+			       capabilities))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP No general installation)
+       (AUX should)
+       (VP be
+	   (VP made
+	       ))
+       (PP until
+	   (S (NP a model installation)
+	      (AUX has)
+	      (VP been
+		  (VP proved
+		      )))))
+    and
+    (S (NP its maximum capability)
+       (VP determined)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP proposals
+	   (PP for
+	       (NP (VP fixed)
+		   installations)))
+       (AUX should)
+       (VP be
+	   (VP (ADVP carefully)
+	       weighed
+	        
+	       (PP against
+		   (NP a
+		       counterpart mobile
+		       system))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP Fixed)
+	installations)
+    (AUX will)
+    (ADVP always)
+    (VP lack
+	(NP (NP the flexibility)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (AUX should)
+		     (VP be
+			 (ADJP inherent
+			       (PP in
+				   (NP naval systems)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The submarine)
+   (AUX has)
+   (VP become
+       (ADJP  increasingly
+	      attractive))
+   (PP as
+       (NP an antisubmarine weapon system)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP operates
+	  (PP in
+	      (NP 
+	       (NP its target)
+	       's environment))))
+     ,
+     and
+     (S (NP (NP any advantage)
+	    (VP gained
+		(ADVP therefrom)
+		(PP by
+		    (NP the target))))
+	(AUX is)
+	(VP shared
+	   
+	    (PP by
+		(NP the attacker)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the submarine)
+	 (VP (VP is
+		 (NP a weapon
+		     (PP of
+			 (NP ambush))))
+	     and
+	     (X (ADVP therefore)
+		(ADVP always)
+		(PP in
+		    (NP danger
+			(PP of
+			    (S (NP *)  
+			       (VP being
+				   (VP ambushed))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2381 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (NP Farming)
+     (AUX is)
+     (VP confining))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The farmer)
+	 's life)
+     (AUX must)
+     (VP be
+	 (VP arranged
+	     (S (NP *)
+		(AUX to)
+		(VP meet
+		    (NP the demands
+			(PP of
+			    (NP (NP crops) 
+				and 
+				(NP livestock)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Livestock)
+     (AUX must)
+     (VP be
+	 (VP tended))
+     (NP every day)
+     ,
+     (ADVP routinely))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP A slight change
+	 (PP in
+	     (NP the work schedule)))
+     (AUX may)
+     (VP cut
+	 (NP the production
+	     (PP of
+		 (NP (NP cows) 
+		     or 
+		     (NP chickens))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  Even
+	   if
+	   (S (NP there)
+	      (VP are
+		  (NP no livestock))))
+    ,
+    (S (NP the farmer)
+       (AUX can)
+       (NEG not)
+       (VP leave
+	   (NP the farm)
+	   (PP for
+	       (NP long periods)))
+       ,
+       (PP  (ADVP particularly)
+	    during
+	    (NP the growing season))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The worker)
+	 (SBAR (WHNP who)
+	       (S (NP T)
+		  (VP lives
+		      (PP on
+			  (NP a farm))))))
+     (AUX can)
+     (NEG not)
+     (VP change
+	 (NP jobs)
+	 (ADVP readily)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP He)
+       (AUX can)
+       (NEG not)
+       (VP leave
+	   (NP the farm))
+       (S (NP *)
+	  (AUX to)
+	  (VP take
+	      (NP work
+		  (PP in
+		      (NP another locality)))))
+       (PP on
+	   (NP short notice)))
+    ;
+    ;
+    (S (NP  such
+	    a move)
+       (AUX may)
+       (VP mean
+	   (NP a loss
+	       (PP of
+		   (NP capital))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Hard physical
+	    labor)
+	and
+	(NP undesirable hours))
+    (VP are
+	(NP a part
+	    (PP of
+		(NP life)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP The farmer)
+    (AUX must)
+    (VP (VP get
+	    (ADVP up)
+	    (ADVP early))
+	,
+	and
+	,
+	(PP at
+	    (NP times))
+	,
+	(VP work
+	    (ADVP late)
+	    (PP at
+		(NP night)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Frequently)
+      (S (NP he)
+	 (AUX must)
+	 (VP work
+	     (NP long hours)
+	     (PP in
+		 (NP  the hot sun
+		     or
+		     cold rain)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP No matter
+	    (SBAR (ADVP (WHADVP how)
+			well)
+		  (S (NP  work)
+		     (AUX is)
+		     (VP planned))))
+      ,
+      (S (NP (NP bad weather)
+	     or
+	     (NP unexpected setbacks))
+	 (AUX can)
+	 (VP cause
+	     (NP (NP extra work)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (AUX must)
+			  (VP be
+			      (VP caught
+				  (PRT up)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-1 *pseudo-attach*))
+     (AUX may)
+     (NEG not)
+     (VP be
+	 (ADJP profitable))
+     (SBAR-1  for
+	      (S (NP a (ADJP part-time) farmer)
+		 (AUX to)
+		 (VP own
+		     (NP (NP the (ADJP labor-saving) machinery)
+			 (SBAR (WHNP that)
+			       (S (NP a (ADJP full-time) farmer)
+				  (AUX can)
+				  (VP invest
+				      (PP in
+					  (NP T) )
+				      (ADVP profitably)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Production)
+     (AUX may)
+     (VP fall
+	 (PP  (ADVP far)
+	      below
+	      (NP expectations))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Drought)
+	,
+	(NP hail)
+	,
+	(NP disease)
+	,
+	and
+	(NP insects))
+    (VP take
+	(NP their toll
+	    (PP of
+		(NP crops)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sickness or loss
+	 (PP of
+	     (NP some
+		 (PP of
+		     (NP the livestock)))))
+     (AUX may)
+     (VP cut
+	 (PP (PP into
+		 (NP (NP the owner)
+		     's earnings))
+	     ,
+	     (PP (ADVP even)
+		 into
+		 (NP his capital)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Returns
+       (PP for
+	   (NP (NP (NP money) 
+		   and 
+		   (NP labor))
+	       (VP invested))))
+   (AUX may)
+   (VP be
+       (ADJP small))
+   (PP  (ADVP even)
+	in
+	(NP a good year)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP The high cost
+	(PP of
+	    (NP (NP land)
+		,
+		(NP supplies)
+		,
+		and
+		(NP labor))))
+    (VP make
+	(NP it
+	    (S-2 *pseudo-attach*))
+	(ADJP difficult)
+	(S-2 (NP *)
+	     (AUX to)
+	     (VP farm
+		 (ADVP profitably)
+		 (PP on
+		     (NP a (ADJP part-time) basis))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Land
+	 (PP within
+	     (NP commuting distance
+		 (PP of
+		     (NP a growing city)))))
+     (VP is
+	 (ADVP usually)
+	 (ADJP (ADJP high
+		     (PP in
+			 (NP price)))
+	       ,
+	       (ADJP higher
+		     (SBAR if
+			   (S (NP it)
+			      (VP has
+				  (NP subdivision possibilities))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Part-time) farmers)
+     (ADVP generally)
+     (AUX must)
+     (VP pay
+	 (NP higher
+	     prices
+	     (PP for
+		 (NP supplies))
+	     (PP than
+		 (NP (ADJP full-time) farmers))))
+     (SBAR because
+	   (S (NP they)
+	      (VP buy
+		  (PP in
+		      (NP 
+		       smaller
+		       quantities))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  If
+	    (S (NP the farm)
+	       (VP is
+		   (PP in
+		       (NP (NP an industrial area)
+			   (SBAR (WHADVP where)
+				 (S (NP wages)
+				    (VP are
+					(ADJP high)))))))))
+     ,
+     (S (NP farm labor costs)
+	(AUX will)
+	(ADVP also)
+	(VP be
+	    (ADJP high))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A (ADJP part-time) farmer)
+    (VP needs
+	(NP unusual skill))
+    (S (NP *)
+       (AUX to)
+       (VP get
+	   (NP (ADJP  as
+		      high)
+	       production
+	       (PP (PP per
+		       (NP hen))
+		   ,
+		   (PP per
+		       (NP cow))
+		   ,
+		   or
+		   (PP per
+		       (NP acre)))
+	       (PP as
+		   (S  (NP *) 
+		       (AUX can)
+		       (VP be
+			   (VP obtained
+			       (PP by
+				   (NP a
+				       competent (ADJP full-time)
+				       farmer))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-3 *pseudo-attach*))
+     (AUX will)
+     (ADVP frequently)
+     (VP be
+	 (ADJP uneconomical))
+     (SBAR-3  for
+	      (S (NP him)
+		 (AUX to)
+		 (VP own
+		     (NP the
+			 most (ADJP up-to-date)
+			 equipment)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP He)
+       (AUX may)
+       (VP have
+	   (S (NP *)
+	      (AUX to)
+	      (VP depend
+		  (PP upon
+		      (NP custom service)))))
+       (PP for
+	   (NP (NP specialized operations)
+	       ,
+	       (ADJP such
+		     (PP as
+			 (S (S (NP *)
+			       (VP spraying)) 
+			    or 
+			    (S (NP *)
+			       (VP threshing))))))))
+    ,
+    and
+    (S (PP for
+	   (NP these))
+       ,
+       (S (NP he)
+	  (AUX may)
+	  (VP have
+	      (S (NP *)
+		 (AUX to)
+		 (VP wait
+		     (NP his turn)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (AUX will)
+     (VP be
+	 (NP (NP losses)
+	     (VP caused
+		 (PP by
+		     (NP (NP emergencies)
+			 (SBAR (WHNP that)
+			       (S (NP T)
+				  (VP arise)
+				  (SBAR while
+					(S (NP he)
+					   (VP is
+					       (ADJP away)
+					       (PP at
+						   (NP his (ADJP off-farm) job)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP The farm)
+     (AUX may)
+     (VP be
+	 (NP an additional burden))
+     (SBAR if
+	   (S (NP the main job)
+	      (AUX is)
+	      (VP lost))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (AUX may)
+    (VP be
+	(ADJP true))
+    (SBAR whether
+	  (S (NP the farm)
+	     (AUX is)
+	     (VP (VP owned)
+		 or
+		 (VP rented)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR If
+	   (S (NP the farm)
+	      (AUX is)
+	      (VP rented)))
+     ,
+     (S (NP the rent)
+	(AUX must)
+	(VP be
+	    (VP paid))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (SBAR If
+	      (S (NP it)
+		 (AUX is)
+		 (VP owned)))
+	,
+	(S (NP taxes)
+	   (AUX must)
+	   (VP be
+	       (VP paid))))
+     ,
+     and
+     (S (SBAR if
+	      (S (NP the place)
+		 (VP is
+		     (NEG not)
+		     (ADJP free
+			   (PP of
+			       (NP mortgage))))))
+	,
+	(S (NP there)
+	   (AUX will)
+	   (VP be
+	       (NP (NP interest and payments
+		       (PP on
+			   (NP the principal)))
+		   (S (NP *)
+		      (AUX to)
+		      (VP take
+			  (NP care)
+			  (PP of
+			      (NP T) ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP Advantages))
+( (S
+   (NP A farm)
+   (VP provides
+       (NP a (ADJP wholesome and healthful) environment)
+       (PP for
+	   (NP children))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP gives
+       (NP them)
+       (NP (NP (NP room)
+	       (S (NP *)
+		  (AUX to)
+		  (VP play)))
+	   and
+	   (NP  plenty
+		(PP of
+		    (NP fresh air))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The children)
+    (AUX can)
+    (VP do
+	(NP (NP chores)
+	    (VP adapted
+		(PP to
+		    (NP their age and ability))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (S  (NP *) 
+	     (VP Caring
+		 (PP for
+		     (NP (NP a calf)
+			 ,
+			 (NP a pig)
+			 ,
+			 or
+			 (NP some chickens))))))
+     (VP develops
+	 (PP in
+	     (NP children))
+	 (NP a sense
+	     (PP of
+		 (NP responsibility
+		     (PP for
+			 (NP work)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Part-time) farming)
+   (VP gives
+       (NP a measure
+	   (PP of
+	       (NP security))))
+   (SBAR if
+	 (S (NP the regular job)
+	    (AUX is)
+	    (VP lost)))
+   ,
+   (S (NP *) 
+      (VP provided
+	  (SBAR 0
+		(S (NP the farm)
+		   (X (X (AUX is)
+			 (VP owned
+			     (ADJP free
+				   (PP of
+				       (NP debt)))))
+		      and
+		      (VP furnishes
+			  (NP enough income
+			      (S (NP *)
+				 (AUX to)
+				 (VP meet
+				     (NP (NP fixed expenses)
+					 and
+					 (NP minimum living costs))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP some retired persons))
+    ,
+    (S (NP (ADJP part-time) farming)
+       (VP is
+	   (NP (NP a good way)
+	       (S (NP *)
+		  (AUX to)
+		  (VP supplement
+		      (NP retirement income)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP is
+	 (ADJP (ADVP particularly)
+	       suitable
+	       (PP for
+		   (NP those
+		       (SBAR (WHNP who)
+			     (S (NP T)
+				(VP need
+				    (S (NP *)
+				       (AUX to)
+				       (VP work or exercise
+					   (PP out
+					       (PP of
+						   (NP doors))))))
+				(PP for
+				    (NP their health)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Generally)
+      ,
+      (S (NP the same level
+	     (PP of
+		 (NP  living)))
+	 (VP costs
+	     (NP less
+		 (PP in
+		     (NP the country))
+		 (PP than
+		     (PP in
+			 (NP the city)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The savings)
+    (VP are
+	(NEG not)
+	(ADJP  as
+	       great
+	       ,
+	       (ADVP however)
+	       ,
+	       (PP as
+		   (S  (NP *) 
+		       (AUX is)
+		       (ADVP sometime)
+		       (VP supposed))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Usually)
+      ,
+      (S (S (NP the cost
+		(PP of
+		    (NP (NP food) 
+			and 
+			(NP shelter))))
+	    (AUX will)
+	    (VP be
+		(ADJP  somewhat
+		       less))
+	    (PP on
+		(NP the farm)))
+	 and
+	 (X  (NP the cost
+		 (PP of
+		     (NP (NP transportation) 
+			 and 
+			 (NP utilities))))
+	     (ADJP  somewhat
+		    more))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP Where)
+	   (S (NP (NP schools)
+		  ,
+		  (NP fire and police protection)
+		  ,
+		  and
+		  (NP similar municipal
+		      services))
+	      (VP are
+		  (PP of
+		      (NP equal quality)))
+	      (PP in
+		  (NP (NP city) 
+		      and 
+		      (NP country)))))
+     ,
+     (S (NP real estate taxes)
+	(VP are
+	    (ADVP usually)
+	    (PP about
+		(NP the
+		    (ADJP same))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A (ADJP part-time) farmer)
+	and
+	(NP his family))
+    (AUX can)
+    (VP use
+	(NP their spare time)
+	(ADVP profitably)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Some persons)
+     (VP consider
+	 (NP the work
+	     (PP on
+		 (NP a farm)))
+	 (ADJP recreational)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP some (ADJP white-collar) workers))
+     (S (NP it)
+	(VP is
+	    (NP (NP a welcome change
+		    (PP from
+			(NP the regular job)))
+		,
+		and
+		(NP a physical conditioner)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+  (NP (NP (NP Land)
+	  ,
+	  (NP labor)
+	  ,
+	  and
+	  (NP equipment))
+      (VP needed)))
+(  
+ (S (NP (ADJP Part-time) farming)
+    (AUX can)
+    (VP take
+	(NP (NP (ADJP comparatively
+		      little) 
+		land
+		,
+		labor
+		,
+		and
+		equipment)
+	    --
+	    or
+	    (NP a great deal))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP depends
+       (PP on
+	   (NP  the kind
+		and
+		the scale
+		(PP of
+		    (NP the farming operation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP General requirements
+      (PP for
+	  (NP (NP land)
+	      ,
+	      (NP labor)
+	      ,
+	      and
+	      (NP equipment))))
+  (AUX are)
+  (VP discussed
+      (ADVP below)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Specific requirements
+       (PP for
+	   (NP each
+	       (PP of
+		   (NP various types
+		       (PP of
+			   (NP enterprises)))))))
+   (AUX are)
+   (VP discussed
+	     
+       (PP on
+	   (NP pages 
+	       (NP 8
+		   (PP to
+		       (NP 14)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (NP Land))
+(
+ (S (NP (NP   Three
+	      quarters
+	      (PP to
+		  (NP 1)))
+	acre
+	(PP of
+	    (NP good land)))
+    (VP is
+	(ADJP enough
+	      (PP (PP for
+		      (S  (NP *)
+			  (VP raising
+			      (NP (NP fruits) 
+				  and 
+				  (NP vegetables))
+			      (PP for
+				  (NP home use)))))
+		  ,
+		  and
+		  (PP for
+		      (NP (NP a small flock
+			      (PP of
+				  (NP chickens)))
+			  ,
+			  (NP a cow)
+			  ,
+			  and
+			  (NP two pigs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX could)
+   (NEG not)
+   ,
+   (PP of
+       (NP course))
+   ,
+   (VP raise
+       (NP feed
+	   (PP for
+	       (NP the livestock))))
+   (PP on
+       (NP (NP a plot)
+	   (ADJP  this
+		  small))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP want
+		  (S (NP *)
+		     (AUX to)
+		     (VP (VP raise
+			     (NP feed))
+			 or
+			 (VP carry
+			     (PRT out)
+			     (NP some enterprise)
+			     (PP on
+				 (NP a
+				     larger
+				     scale))))))))
+    ,
+    (S (NP you)
+       (AUX 'll)
+       (VP need
+	   (NP more
+	       land))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S  (NP *)
+	    (VP deciding
+		(SBAR (WHNP  (ADJP (WHADVP how)
+				   much)
+			     land)
+		      (S (NP you)
+			 (VP want
+			     (NP T) ))))))
+    ,
+    (S  (NP *) 
+        (VP take
+	    (PP into
+		(NP account))
+	    (NP (NP the amount)
+		(SBAR 0
+		      (S (NP you)
+			 (AUX 'll)
+			 (VP need
+			     (NP T) )
+			 (S (NP *)
+			    (AUX to)
+			    (VP bring
+				(ADVP in)
+				(NP (NP the income)
+				    (SBAR 0
+					  (S (NP you)
+					     (VP expect
+						 (NP T) ))) ))))) ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S  (NP *) 
+	  (VP consider
+	      (ADVP also)
+	      (SBAR (ADJP (WHADVP how)
+			  much)
+		    (S (NP (NP you)
+			   and
+			   (NP your family))
+		       (AUX can)
+		       (VP keep
+			   (PRT up))
+		       (PP along
+			   (PP with
+			       (NP your other work))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The cost
+	    (PP of
+		(NP land)))
+	and
+	(NP the prospects
+	    (PP for
+		(NP appreciation
+		    (PP in
+			(NP value))))))
+    (AUX may)
+    (VP influence
+	(NP your decision)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Some (ADJP part-time) farmers)
+    (VP buy
+	(NP more
+	    land
+	    (PP than
+		(S (NP they)
+		   (VP need)))))
+    (PP in
+	(NP anticipation
+	    (PP of
+		(NP suburban development)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP a
+	   (ADJP  highly
+		  speculative) venture)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      (S (NP a (VP desired) acreage)
+	 (AUX is)
+	 (VP offered
+	      
+	     (PP  (ADVP only)
+		  as
+		  (NP part
+		      (PP of
+			  (NP a
+			      larger
+			      tract)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP surplus land)
+	 (VP is
+	     (NEG not)
+	     (ADJP expensive
+		   (S (S (NP *)
+			 (AUX to)
+			 (VP buy))
+		      or
+		      (S (NP *)
+			 (AUX to)
+			 (VP keep
+			     (PRT up))))))))
+     ,
+     (S (NP it)
+	(VP is
+	    (ADVP usually)
+	    (ADJP better
+		  (S (NP *)
+		     (AUX to)
+		     (VP buy
+			 (NP it)))
+		  (PP than
+		      (S (NP *)
+			 (AUX to)
+			 (VP buy  
+			     (NP (ADJP  so
+					small)
+				 an acreage
+				 (SBAR that
+				       (S (NP the development
+					      (PP of
+						  (NP  adjoining
+						       properties)))
+					  (AUX might)
+					  (VP impair
+					      (NP the residential value
+						  (PP of
+						      (NP the farm))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (NP Labor))
+((S (SBAR If
+	  (S (NP you)
+	     (VP have
+		 (NP a
+		     (ADJP year-round)
+		     ,
+		     (ADJP full-time)
+		     job))))
+    (S (NP you)
+       (AUX ca)
+       (NEG n't)
+       (VP expect
+	   (S (NP *)
+	      (AUX to)
+	      (VP grow
+		  (ADJP much
+			more
+			(PP than
+			    (S (NP your family)
+			       (VP uses)))))))
+       --
+       (SBAR unless
+	     (S (S (NP other members
+		       (PP of
+			   (NP the family)))
+		   (VP do
+		       (NP a good deal
+			   (PP of
+			       (NP the work)))))
+		or
+		(S (NP you)
+		   (VP hire
+		       (NP help)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a rule))
+    ,
+    (S (NP (ADJP part-time) farmers)
+       (VP hire
+	   (NP little help))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S (NP *) 
+	   (VP deciding
+	       (PP on
+		   (NP (NP the enterprises)
+		       (S  (NP T) 
+			   (AUX to)
+			   (VP be
+			       (VP managed
+				        
+				   (PP by
+				       (NP family labor))))))))))
+    ,
+    (S  (NP *) 
+        (VP compare
+	    (NP (NP the amount
+		    (PP of
+			(NP labor)))
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (AUX can)
+			 (VP be
+			     (VP supplied
+			     
+				 (PP by
+				     (NP the family)))))))
+	    (PP with
+		(NP the labor needs
+		    (PP of
+			(NP (NP various enterprises)
+			    (VP listed
+				(PP in
+				    (NP table 1))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *)
+       (VP List
+	   (NP (NP the number
+		   (PP of
+		       (NP hours)))
+	       (SBAR 0
+		     (S
+		      (NP the family)
+		      (AUX can)
+		      (VP be
+			  (VP expected
+			       
+			      (S (NP *)
+				 (AUX to)
+				 (VP work
+				     (NP T))
+				 (NP each month)))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX may)
+   (VP want
+       (S (NP *)
+	  (AUX to)
+	  (VP include
+	      (NP your
+		  own regular
+		  vacation period))
+	  (SBAR if
+		(S (NP you)
+		   (VP have
+		       (NP one)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (AUX Do)
+       (NEG not)
+       (VP include
+	   (NP (NP (NP all
+		       your spare time)
+		   or
+		   (NP all
+		       (NP your family)
+		       's spare time))
+	       --
+	       (SBAR  (ADVP only)
+		      (WHNP what)
+		      (S
+		       (NP you)
+		       (AUX are)
+		       (VP willing
+			   (S (NP *)
+			      (AUX to)
+			      (VP use
+				  (NP T) 
+				  (PP for
+				      (NP farm work))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (NP Equipment))
+((S (SBAR If
+	  (S (NP you)
+	     (AUX are)
+	     (VP going
+		 (S (NP *)
+		    (AUX to)
+		    (VP produce
+			(PP for
+			    (NP home use
+				(ADVP only))))))))
+    ,
+    (S (NP you)
+       (AUX will)
+       (VP need
+	   (NP  (ADVP only)
+		hand tools))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX will)
+     (ADVP probably)
+     (VP want
+	 (S (NP *)
+	    (AUX to)
+	    (VP hire
+		(NP (NP someone)
+		    (S  (NP T) 
+			(AUX to)
+			(VP do
+			    (NP the plowing)))))))
+     ,
+     (ADVP however))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP larger
+	    plantings))
+    ,
+    (S (NP you)
+       (AUX 'll)
+       (VP need
+	   (NP some kind
+	       (PP of
+		   (NP power
+		       (PP for
+			   (S (S  (NP *) 
+				  (VP plowing))
+			      ,
+			      (S  (NP *) 
+				  (VP harrowing))
+			      ,
+			      (S  (NP *) 
+				  (VP disking))
+			      ,
+			      and
+			      (S  (NP *) 
+				  (VP cultivating))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP have
+		  (NP a planting
+		      (PP of
+			  (NP (NP half
+				  an acre)
+			      or
+			      (NP more)))))))
+    (S (NP you)
+       (AUX may)
+       (VP want
+	   (S (NP *)
+	      (AUX to)
+	      (VP buy
+		  (NP (NP a small garden tractor)
+		      *LRB*
+		      (ADJP available
+			    (PP for
+				(NP (NP $ 300
+					(PP to
+					    (NP $ 500
+						(PP with
+						    (NP attachments)))))
+				    ,
+				    (NP 1960 prices))))
+		      *RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These tractors)
+    (VP are
+	(NEG not)
+	(ADJP  entirely
+	       satisfactory
+	       (PP for
+		   (S  (NP *)
+		       (VP plowing)))))
+    ,
+    (PP  (ADVP particularly)
+	 on
+	 (NP heavier
+	     soils))
+    ,
+    (S  (ADVP so)
+	(S (NP you)
+	   (AUX may)
+	   (ADVP still)
+	   (VP want
+	       (S (NP *)
+		  (AUX to)
+		  (VP hire
+		      (NP (NP someone)
+			  (S  (NP T) 
+			      (AUX to)
+			      (VP do
+				  (NP the plowing))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Cost
+	 (PP of
+	     (NP (NP power) 
+		 and 
+		 (NP machinery))))
+     (VP is
+	 (ADVP often)
+	 (NP a serious problem)
+	 (PP to
+	     (NP the (ADJP small-scale) farmer))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR If
+	   (S (NP you)
+	      (AUX are)
+	      (VP going
+		  (S (NP *)
+		     (AUX to)
+		     (VP farm
+			 (PP for
+			     (NP extra cash income))
+			 (PP on
+			     (NP a (ADJP part-time) basis)))))))
+     (S (NP you)
+	(AUX must)
+	(VP keep
+	    (PP in
+		(NP mind))
+	    (NP the (VP needed) machinery investments))
+	(SBAR (WHADVP when)
+	      (S (NP you)
+		 (VP choose
+		     (PP among
+			 (NP farm enterprises)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX can)
+     (VP keep
+	 (NP your machinery investment)
+	 (PRT down))
+     (PP (PP by
+	     (S  (NP *)
+		 (VP buying
+		     (NP good secondhand
+			 machinery))))
+	 ,
+	 (PP by
+	     (S  (NP *) 
+		 (VP sharing
+		     (NP the cost and upkeep
+			 (PP of
+			     (NP machinery)))
+		     (PP with
+			 (NP a neighbor)))))
+	 ,
+	 and
+	 (PP by
+	     (NP (S  (NP *) 
+		     (VP hiring
+			 (NP (NP someone
+				 (PP with
+				     (NP machinery)))
+			     (S  (NP T) 
+				 (AUX to)
+				 (VP do
+				     (NP certain jobs))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR If
+	  (S (NP (NP an (ADJP expensive and specialized) piece
+		     (PP of
+			 (NP machinery)))
+		 (ADJP-1 *pseudo-attach*))
+	     (AUX is)
+	     (VP needed)
+	     --
+	     (ADJP-1 such
+		     (PP as
+			 (NP (NP a spray rig)
+			     ,
+			     (NP a combine)
+			     ,
+			     or
+			     (NP a binder))))
+	     --))
+    (S (NP it
+	   (S-2 *pseudo-attach*))
+       (VP is
+	   (ADJP better))
+       (S-2 (NP *)
+	    (AUX to)
+	    (VP pay
+		(NP (NP someone
+			(PP with
+			    (NP a machine)))
+		    (S  (NP T) 
+			(AUX to)
+			(VP do
+			    (NP the work))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+     (VP Selecting
+	 (NP a farm))))
+( 
+ (S (PP Before
+	(S (NP you)
+	   (VP look
+	       (PP for
+		   (NP a farm)))))
+    (S (NP you)
+       (AUX 'll)
+       (VP need
+	   (S (NP *)
+	      (AUX to)
+	      (VP know
+		  (X  (NP (NP  *LRB*
+			       1
+			       *RRB*)
+			  (NP (NP the kind and scale
+				  (PP of
+				      (NP farming)))
+			      (SBAR 0
+				    (S (NP you)
+				       (VP want
+					   (S (NP *)
+					      (AUX to)
+					      (VP undertake
+						  (NP T) )))))))
+		      ;
+		      ;
+		      and
+		      (SBAR  (NP  *LRB*
+				  2
+				  *RRB*)
+			     (SBAR whether
+				   (S (NP you)
+				      (VP want
+					  (S (NP *)
+					     (AUX to)
+					     (VP (VP buy) 
+						 or 
+						 (VP rent)))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (NP Information
+	 (PP on
+	     (NP pages (NP 8
+			   (PP to
+			       (NP 14))))))
+     (AUX may)
+     (VP help
+	 (NP you)
+	 (PP in
+	     (S  (NP *)
+		 (VP deciding
+		     (PP on
+			 (NP the kind and scale
+			     (PP of
+				 (NP your farming venture)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (SBAR If
+		 (S (NP you)
+		    (AUX are)
+		    (NEG not)
+		    (VP  (ADVP well)
+			 acquainted
+			 (PP with
+			     (NP (NP the area)
+				 (SBAR (WHPP in
+					     (WHNP which))
+				       (S (NP you)
+					  (VP wish
+					      (S (NP *)
+						 (AUX to)
+						 (VP locate))))))))))
+	   ,
+	   or
+	   (SBAR if
+		 (S (NP you)
+		    (VP are
+			(NEG not)
+			(ADJP sure
+			      (SBAR that
+				    (S (NP (NP you)
+					   and
+					   (NP your family))
+				       (S (AUX will)
+					  (VP like and make
+					      (NP a success
+						  (PP of
+						      (NP farming))))))))))))
+     ,
+     (S (ADVP usually)
+	(S (NP you)
+	   (AUX would)
+	   (VP do
+	       (ADVP better))
+	   (S (NP *)
+	      (AUX to)
+	      (VP rent
+		  (NP a place))
+	      (PP for
+		  (NP a year
+		      or
+		      two))
+	      (PP before
+		  (S (NP you)
+		     (VP buy)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (VP Discussed
+	   (ADVP below))
+       (AUX are)
+       (NP some
+	   (PP of
+	       (NP (NP the main things)
+		   (S (NP *)
+		      (AUX to)
+		      (VP look
+			  (PP for
+			      (NP T) ))
+		      (SBAR (WHADVP when)
+			    (S (NP you)
+			       (VP select
+				   (NP a (ADJP part-time) farm)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Location)
+      (NP nearness
+	  (PP to
+	      (NP work))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  --
+   (S  (NP *) 
+       (VP Choose
+	   (NP a location
+	       (PP within
+		   (NP easy commuting distance
+		       (PP of
+			   (NP both
+			       (NP the regular job)
+			       and
+			       (NP other employment opportunities))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (SBAR if
+	       (S (NP you)
+		  (VP change
+		      (NP jobs))))
+	 (S (NP you)
+	    (AUX wo)
+	    (NEG n't)
+	    (ADVP necessarily)
+	    (VP have
+		(S (NP *)
+		   (AUX to)
+		   (VP sell
+		       (NP the farm)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The presence
+	 (PP of
+	     (NP alternative job opportunities)))
+     (ADVP also)
+     (AUX will)
+     (VP make
+	 (NP the place)
+	 (ADJP easier
+	       (S (NP *)
+		  (AUX to)
+		  (VP sell))))
+     (SBAR if
+	   (S (NP that)
+	      (AUX should)
+	      (VP become
+		  (ADJP desirable)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Obviously)
+      (S (NP the farm)
+	 (AUX should)
+	 (VP be
+	     (PP on
+		 (NP an (ADJP all-weather) road)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Nearness
+      (PP to
+	  (NP markets)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  --
+   (S (SBAR  If
+	     (S (NP you)
+		(VP grow
+		    (NP (NP anything)
+			(S (NP *)
+			   (AUX to)
+			   (VP sell
+			       (NP T) ))))))
+      (S (NP you)
+	 (AUX will)
+	 (VP need
+	     (NP markets)
+	     (ADVP nearby))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP plan
+		  (S (NP *)
+		     (AUX to)
+		     (VP sell
+			 (NP (NP fresh vegetables)
+			     or
+			     (NP whole milk))
+			 ,
+			 (PP for
+			     (NP example))
+			 ,)))))
+    (S (NP you)
+       (AUX should)
+       (VP be
+	   (ADJP close
+		 (PP to
+		     (NP a town or city))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Kind
+      (PP of
+	  (NP neighborhood)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  --
+   (S  (NP *) 
+       (VP Look
+	   (PP for
+	       (NP a farm
+		   (PP in
+		       (NP a neighborhood
+			   (PP of
+			       (NP (ADJP well-kept) homes))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP are
+	 (NP slums)
+	 (PP (PP in
+		 (NP the country))
+	     (ADVP as
+		   well
+		   (PP as
+		       (PP in
+			   (NP the city)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Few rural
+	 areas)
+     (AUX are)
+     (VP protected
+	 (PP by
+	     (NP zoning))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A tavern)
+	,
+	(NP (VP filling)
+	    station)
+	,
+	(NP junk yard)
+	,
+	(NP (VP rendering) plant)
+	,
+	or
+	(NP some other business))
+    (AUX may)
+    (VP go
+	(ADVP up)
+	(ADJP near
+	      enough
+	      (S (S (NP *)
+		    (AUX to)
+		    (VP hurt
+			(NP your home)))
+		 or
+		 (S (NP *)
+		    (AUX to)
+		    (VP hurt
+			(NP its value)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Facilities
+      (PP in
+	  (NP the area)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  --
+   (S  (NP *) 
+       (VP Check
+	   (PP on
+	       (NP (NP the schools
+		       (PP in
+			   (NP the area)))
+		   ,
+		   (NP the quality
+		       (PP of
+			   (NP teaching)))
+		   ,
+		   and
+		   (NP the provision
+		       (PP for
+			   (NP transportation
+			       (PP to and from
+				   (NP them)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Find
+	   (PRT out)
+	   (SBAR whether
+		 (S (NP  (NP fire protection)
+			 ,
+			 (NP sewage system)
+			 ,
+			 (NP gas)
+			 ,
+			 (NP water mains)
+			 ,
+			 and
+			 (NP electrical lines))
+		    (VP are
+			(ADJP available))
+		    (PP in
+			(NP the locality))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP these facilities)
+	      (VP are
+		  (NEG not)
+		  (PP at
+		      (NP the door)))))
+    ,
+    (S (NP (S  (NP *)
+	       (VP getting
+		   (NP them))))
+       (AUX may)
+       (VP cost
+	   (NP  more
+		(PP than
+		    (S (NP you)
+		       (VP expect)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX may)
+     (VP have
+	 (S (NP *)
+	    (AUX to)
+	    (VP (VP provide
+		    (NP them)
+		    (NP yourself))
+		or
+		(VP get
+		    (ADVP along)
+		    (PP without
+			(NP them)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX can)
+     (NEG not)
+     (VP get
+	 (ADVP along)
+	 (PP without
+	     (NP an adequate supply
+		 (PP of
+		     (NP pure water))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP you)
+	     (AUX are)
+	     (VP considering
+		 (NP (NP a (ADJP part-time) farm)
+		     (SBAR (WHADVP where)
+			   (S (NP the water)
+			      (AUX must)
+			      (VP be
+				  (VP provided
+				  
+				      (PP by
+					  (NP a well))))))))))
+    ,
+    (S  (NP *) 
+        (VP find
+	    (PRT out)
+	    (X  (SBAR if
+		      (S (NP there)
+			 (VP is
+			     (NP a good well)
+			     (PP on
+				 (NP the farm)))))
+		or
+		(NP the probable cost
+		    (PP of
+			(S  (NP *) 
+			    (VP having
+				(NP one)
+				(VP drilled)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP A pond)
+     (AUX may)
+     (VP provide
+	 (NP adequate water
+	     (PP for
+		 (NP (NP livestock) 
+		     and 
+		     (NP garden))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Pond water)
+	(AUX can)
+	(VP be
+	    (VP filtered
+		(PP for
+		    (NP human use)))))
+     ,
+     but
+     (S (NP most
+	    (ADJP part-time)
+	    farmers)
+	(AUX would)
+	(NEG not)
+	(VP want
+	    (S (NP *)
+	       (AUX to)
+	       (VP go
+		   (PP to
+		       (NP (ADJP  so
+				  much) 
+			   trouble)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The following amounts
+	 (PP of
+	     (NP water)))
+     (AUX are)
+     (VP needed
+	 (PP per
+	     (NP day))
+	 (PP for
+	     (NP (NP livestock)
+		 and
+		 (NP domestic uses)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (NP Topography and soil))
+( 
+ (SQ  (AUX Is)
+      (NP the land)
+      (VP suited
+	  (PP to
+	      (NP (NP the crops)
+		  (SBAR 0
+			(S (NP you)
+			   (VP intend
+			       (S (NP *)
+				  (AUX to)
+				  (VP raise
+				      (NP T) )))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP you)
+	     (AUX ca)
+	     (NEG n't)
+	     (VP tell)))
+    ,
+    (S  (NP *) 
+	(VP get
+	    (NP help)
+	    (PP from
+		(NP (NP your county agricultural agent)
+		    or
+		    (NP 
+		     other local
+		     specialist))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Soil type)
+	,
+	(NP drainage)
+	,
+	or
+	(NP degree
+	    (PP of
+		(NP slope))))
+    (AUX can)
+    (VP make
+	(NP the difference
+	    (PP between
+		(NP (NP good crops)
+		    and
+		    (NP poor ones))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Small areas)
+	(SBAR (WHNP that)
+	      (S (NP T)
+		 (VP are
+		     (NEG n't)
+		     (ADJP right
+			   (PP for
+			       (NP a certain crop)))))))
+    (AUX may)
+    (VP lie
+	(PP next
+	    (PP to
+		(NP (NP areas)
+		    (SBAR (WHNP that)
+			  (S (NP T)
+			     (AUX are)
+			     (ADVP well)
+			     (VP suited
+				 (PP to
+				     (NP that crop))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (NP The house))
+((SQ (AUX Will)
+     (NP the house
+	 (PP on
+	     (NP (NP any (ADJP part-time) farm)
+		 (SBAR 0
+		       (S (NP you)
+			  (AUX are)
+			  (VP considering
+			      (NP T) ))))))
+     (VP make
+	 (NP a
+	     satisfactory (ADJP full-time)
+	     residence)))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (ADJP (WHADVP How)
+	      much)
+	(SQ  (AUX will)
+	     (NP it)
+	     (VP cost)
+	     (S (NP *)
+		(AUX to)
+		(VP do
+		    (NP any necessary modernizing and redecorating)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (SBAR If
+		 (S (NP the house)
+		    (AUX is)
+		    (NEG not)
+		    (VP wired
+			(ADVP adequately)
+			(PP for
+			    (NP electricity)))))
+	   or
+	   (SBAR if
+		 (S (NP (NP plumbing)
+			or
+			(NP a central heating system))
+		    (AUX must)
+		    (VP be
+			(VP installed)))))
+     ,
+     (S  (NP *) 
+	 (VP check
+	     (PP into
+		 (NP the cost
+		     (PP of
+			 (S  (NP *)
+			     (VP making
+				 (NP these improvements)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Buying
+	   (NP a farm))))
+( (S
+   (NP The value
+       (PP of
+	   (NP the farm))
+       (PP to
+	   (NP you)))
+   (AUX will)
+   (VP depend
+       (PP on
+	   --
+	   (NP Its worth
+	       (PP as
+		   (NP (NP a place)
+		       (S (NP *)
+			  (AUX to)
+			  (VP live))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The value
+     (PP of
+	 (NP (NP the products)
+	     (SBAR 0
+		   (S (NP you)
+		      (AUX can)
+		      (VP raise
+			  (NP T)
+			  (PP on
+			      (NP it))))) )))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP The possibilities
+      (PP of
+	  (S  (NP *) 
+	      (VP selling
+		  (NP the property)
+		  (ADVP later
+			on)
+		  (PP for
+		      (NP suburban subdivision))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Decide
+	 (ADVP first)
+	 (SBAR (WHNP what)
+	       (S (NP the place)
+		  (VP is
+		      (ADJP worth))
+		  (PP to
+		      (NP (NP you)
+			  and
+			  (NP your family)))
+		  (PP as
+		      (NP a home))))
+	 (PP in
+	     (NP comparison
+		 (PP with
+		     (SBAR (WHNP what)
+			   (S (NP it)
+			      (AUX would)
+			      (VP cost
+				  (NP T) )
+			      (S (NP *)
+				 (AUX to)
+				 (VP live
+				     (PP in
+					 (NP town)))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Take
+	   (PP into
+	       (NP account))
+	   (NP the difference
+	       (PP in
+		   (NP (NP city and county 
+			   taxes
+			   ,
+			   insurance rates
+			   ,
+			   utility rates)
+		       ,
+		       and
+		       (NP the cost
+			   (PP of
+			       (NP travel
+				   (PP to
+				       (NP work))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Next)
+      ,
+      (S  (NP *) 
+	  (VP estimate
+	      (NP the value
+		  (PP of
+		      (NP possible earnings
+			  (PP of
+			      (NP the farm))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP do
+            (NP this)))
+     ,
+     (S  (NP *) 
+	 (VP set
+	     (PRT up)
+	     (NP a plan
+		 (PP on
+		     (NP paper))
+		 (PP for
+		     (S  (NP *)
+			 (VP operating
+			     (NP the farm))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *) 
+      (VP List
+	  (NP the kind and quantity
+	      (PP of
+		  (NP (NP things)
+		      (SBAR 0
+			    (S (NP the farm)
+			       (AUX can)
+			       (VP be
+				   (VP expected
+				       (S (NP *)
+					  (AUX to)
+					  (VP produce
+					      (NP T)
+					      (PP in
+						  (NP an average year)))))))) )))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Estimate
+	   (NP the value
+	       (PP of
+		   (NP the produce
+		       (PP at
+			   (NP normal prices)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The total)
+     (VP is
+	 (NP the
+	     probably
+	     gross income
+	     (PP from
+		 (NP farming)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP find
+	    (NP (VP estimated)
+		net farm income)))
+    ,
+    (S  (NP *) 
+	(VP subtract
+	    (NP (VP estimated)
+		annual
+		farming
+		expenditures)
+	    (PP from
+		(NP probable gross
+		    income
+		    (PP from
+			(NP farming)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Include
+	   (PP as
+	       (NP expenditures))
+	   (NP an allowance
+	       (PP for
+		   (NP depreciation
+		       (PP of
+			   (NP (NP farm buildings) 
+			       and 
+			       (NP equipment))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      (S  (NP *) 
+	  (VP count
+	      (PP as
+		  (NP an expense))
+	      (NP a charge
+		  (PP for
+		      (NP (NP the labor)
+			  (S  (NP T) 
+			      (AUX to)
+			      (VP be
+				  (VP contributed
+				      (PP by
+					  (NP the family)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP It)
+	(AUX may)
+	(VP be
+	    (ADJP hard
+		  (S  (NP *)
+		      (AUX to)
+		      (VP decide
+			  (SBAR (WHNP what)
+				(S
+				 (NP this labor)
+				 (VP is
+				     (ADJP worth)))))))))
+     ,
+     but
+     (S  (NP *) 
+	 (VP charge
+	     (NP something)
+	     (PP for
+		 (NP it)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Otherwise)
+      ,
+      (S (NP you)
+	 (AUX may)
+	 (VP (VP pay
+		 (NP too
+		     much)
+		 (PP for
+		     (NP the farm)))
+	     and
+	     (VP get
+		 (NP nothing)
+		 (PP for
+		     (NP your labor))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP figure
+	    (NP the value
+		(PP of
+		    (NP the farm))
+		(PP in
+		    (NP terms
+			(PP of
+			    (NP investment income)))))))
+    ,
+    (S  (NP *) 
+	(VP divide
+	    (NP the
+		(VP estimated) annual net
+		farm income)
+	    (PP by
+		(NP (NP the percentage)
+		    (SBAR (WHNP that)
+			  (S (NP you)
+			     (AUX could)
+			     (VP expect
+			       
+				 (S (NP *)
+				    (AUX to)
+				    (VP get
+					(NP T) 
+					(PP in
+					    (NP interest)))))
+			     (SBAR if
+				   (S (NP the money)
+				      (AUX were)
+				      (VP invested
+	        
+					  (PP in
+					      (NP some other way))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

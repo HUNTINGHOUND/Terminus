@@ -1,0 +1,2108 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP  Sales
+	and
+	net income
+	(PP for
+	    (NP (NP the year)
+		(VP ended
+		    (NP  (NP December 31)
+			 ,
+			 (NP 1960))))))
+    (VP showed
+	(NP an improvement
+	    (PP over
+		(NP 1959)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Net income)
+   (VP was
+       (NP (NP $ 2,557,111)
+	   ,
+	   or
+	   (NP $ 3.11
+	       (PP per
+		   (NP share)))
+	   (PP on
+	       (NP (NP 821,220 common shares)
+		   (ADJP (ADVP currently)
+			 outstanding)))))
+   ,
+   (PP as
+       (S (NP *)
+	  (VP compared
+	      (PP to
+		  (NP (NP (NP $ 2,323,867)
+			  or
+			  (NP $ 2.82
+			      (PP per
+				  (NP share)))
+			  (PP in
+			      (NP 1959)))
+		      ,
+		      (VP adjusted
+			  (PP to
+			      (NP the same number
+				  (PP of
+				      (NP shares)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Sales)
+	and
+	(NP  other
+	     operating
+	     income))
+    (VP increased
+	(NP 25.1 %)
+	(PP (PP from
+		(NP $ 24,926,615
+		    (PP in
+			(NP 1959))))
+	    (PP to
+		(NP $ 31,179,816
+		    (PP in
+			(NP 1960)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This increase)
+   (VP was
+       (ADJP sufficient
+	     (S (NP *)
+		(AUX to)
+		(VP overcome
+		    (NP the effect
+			(PP on
+			    (NP net income
+				(PP of
+				    (NP (NP 
+					 (ADJP higher)
+					 costs
+					 (PP of
+					     (NP manufacture)))
+					and
+					(NP (ADJP increased)
+					    expenditures
+					    (PP on
+						(NP (NP research)
+						    and 
+						    (NP development))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP spite
+	    (PP of
+		(NP the fact
+		    (SBAR that
+			  (S (NP (NP our
+				     (ADJP largest)
+				     market)
+				 ,
+				 (NP the textile industry)
+				 ,)
+			     (AUX was)
+			     (VP affected
+				 (ADVP substantially)
+				 (PP by
+				     (NP the current decline
+					 (PP in
+					     (NP business activity)))))))))))
+    ,
+    (S (NP we)
+       (AUX have)
+       (VP been
+	   (ADJP able
+		 (S (NP *)
+		    (AUX to)
+		    (VP produce and deliver
+			(NP our machines)
+			(PP throughout
+			    (NP (NP the
+				    year) 
+				(NP 1960)))
+			(PP at
+			    (NP (NP a rate)
+				(ADJP (ADVP materially)
+				      higher
+				      (PP than
+					  (PP during
+					      (NP 1959))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Outlook
+    (PP for
+	(NP current year))))
+(  
+ (S (S (NP Our current rate
+	   (PP of
+	       (NP (ADJP incoming) 
+		   orders)))
+       (AUX has)
+       (ADVP now)
+       (VP contracted))
+    and
+    (S (SBAR unless
+	     (S (NP this trend)
+		(AUX can)
+		(VP be
+		    (VP reversed))))
+       ,
+       (S (NP our production
+	      (PP for
+		  (NP 1961)))
+	  (AUX will)
+	  (VP be
+	      (ADJP lower
+		    (PP than
+			(PP for
+			    (NP 1960))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (NP the healthy inventory position
+            (PP of
+                (NP the textile industry)))
+        (VP lends
+            (NP support)
+	    (PP to
+		(NP the
+		    (ADJP (ADVP broadly)
+			  expressed)
+		    belief
+		    (SBAR that 
+			  (S (NP improvement
+				 (PP in
+				     (NP that industry)))
+			     (AUX can)
+			     (VP be
+				 (VP expected
+				     ))
+			     (PP by
+				 (NP the
+				     second
+				     half
+				     (PP of
+					 (NP 1961)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Need
+    (PP for
+	(NP sound tax policy))))
+(  
+ (S (PP In
+	   (NP connection
+	       (PP with
+		   (NP our continuing development
+		       (PP of
+			   (NP  new
+				and
+				(ADJP more
+				      efficient)
+				mill machinery))))))
+       ,
+       (S (NP (NP a
+		  (ADJP sounder)
+		  U.S. income tax policy
+		  (PP on
+		      (NP depreciation
+			  (PP of
+			      (NP production equipment)))))
+	      ,
+	      (VP enabling
+		  (NP the mills)
+		  (S (NP *)
+		     (AUX to)
+		     (VP charge
+			 (PRT off)
+			 (NP the cost
+			     (PP of
+				 (NP new machines)))
+			 (PP on
+			     (NP a
+				 (ADJP more
+				       realistic)
+				 basis)))))
+	      ,)
+	  (AUX could)
+	  ,
+	  (PP if
+	      (S (NP *)
+		 (VP adopted)))
+	  ,
+	  (VP have
+	      (NP favorable effects)
+	      (PP on
+		  (NP 
+		   (NP Leesona)
+		   's business)))
+	  (PP in
+	      (NP the
+		  (ADJP next)
+		  few years))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Such
+	a depreciation policy)
+    (AUX would)
+    (ADVP also)
+    ,
+    (S (NP we)
+       (VP believe))
+    ,
+    (VP prove
+	(NP a
+	    (ADJP very
+		  important)
+	    factor
+	    (PP in
+		(S (NP *)
+		   (VP strengthening
+		       (NP the competitive position
+			   (PP of
+			       (NP  the U.S. textile
+				    and
+				    other industries))))))))
+    ,
+    (ADVP thus)
+    (S (NP *)
+       (VP helping
+	   (S (NP *)
+	      (AUX to)
+	      (VP strengthen
+		  (NP the position
+		      (PP of
+			  (NP the dollar))
+		      (PP in
+			  (NP foreign exchange))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (NP Research) 
+    and
+    (NP development)))
+(  
+ (S (NP (NP Our research and development program)
+	,
+	(VP serving
+	    (PP as
+		(S (NP it)
+		   (VP does)))
+	    (NP (NP an industry)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (AUX must)
+		    (VP compete
+			(PP against
+			    (NP low-cost production
+				(PP throughout
+				    (NP the world)))))))))
+	,)
+    (VP continues
+	(S (NP *)
+	   (AUX to)
+	   (VP have
+	       (NP primary emphasis)
+	       (PP at
+		   (NP Leesona))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This program)
+   (AUX is)
+   (VP based
+       (PP on
+	   (NP the policy
+	       (PP of
+		   (S (NP *)
+		      (VP designing
+			  and
+			  building
+			  (NP (NP efficient machines)
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (AUX will)
+				  (VP help
+				      (VP produce
+					  (NP (NP 
+					       (ADJP better)
+					       textile values)
+					      --
+					      (NP (NP fabrics)
+						  (SBAR (WHNP whose cost
+							      (WHPP in
+								  (WHNP relation
+								      (WHPP to
+									    (WHNP  (WHNP quality)
+										  ,
+										  (WHNP fashion)
+										  and
+										  (WHNP utility))))))
+							(S (NP T)
+							   (VP provide
+							       (NP the consumer)
+							       (PP with
+								   (NP 
+								    (ADJP better)
+								    textile products
+								    (PP for
+									(NP the money)))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Such policy)
+    (VP involves
+	(NP continuing
+	    effort
+	    (S (NP *)
+	       (AUX to)
+	       (VP improve
+		   (PP on
+		       (NP  existing
+			    mill equipment))
+		   ,
+		   (PP in
+		       (NP terms
+			   (PP of
+			       (NP (NP efficiency)
+				   and 
+				   (NP versatility))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (ADJP more
+	      important)
+	,
+	(S (NP we)
+	   (VP believe))
+	,
+	(S (NP it)
+	   (AUX must)
+	   (VP concentrate
+	       (PP on
+		   (NP the development
+		       (PP of
+			   (NP (ADJP (ADVP entirely)
+				     new)
+			       concepts
+			       (PP in
+				   (NP textile
+				       processing)))))))
+	   (PP as
+	       (SINV (VP do)
+		     (NP (NP the Unifil loom winder)
+			 and
+			 (NP our
+			     (ADJP more recent)
+			     Uniconer automatic coning machine)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP (NP Budget)
+    (VP increased)))
+( 
+ (S (PP On
+	  (NP this basis))
+      ,
+      (S (NP our
+	     (ADJP already
+		   substantial)
+	     budget
+	     (PP for
+		 (NP (NP research) 
+		     and 
+		     (NP development))))
+	 (AUX has)
+	 (VP been
+	     (ADVP further)
+	     (VP increased
+		 (PP in
+		     (NP recent years))))
+	 (PP in
+	     (NP order
+		 (S (NP *)
+		    (AUX to)
+		    (VP finance
+			(NP (NP the continuing engineering and design work)
+			    (ADJP essential
+				  (PP to
+				      (NP 
+				       (NP Leesona)
+				       's future growth
+				       (PP in
+					   (NP (NP sales)
+					       and 
+					       (NP earnings)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Much
+	  (PP of
+	      (NP this necessary increase
+		  (PP in
+		      (NP research and development)))))
+      ,
+      (ADVP though
+	    (ADJP (ADVP properly)
+		  chargeable
+		  (PP to
+		      (NP current expenses))))
+      ,
+      (AUX is)
+      (NEG not)
+      (VP reflected
+	  (PP in
+	      (NP earnings)))
+      (PP until
+	  (X (S (NP projects)
+		(AUX are)
+		(VP completed))
+	     and
+	     (X (NP the new machines)
+		(VP sold
+		    (PP in
+			(NP quantity))
+		    ,
+		    (ADVP usually)
+		    (PP over
+			(NP a period
+			    (PP of
+				(NP several years)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Stretch yarn machines))
+(  
+ (S (PP In
+	   (NP December))
+       (S (NP we)
+	  (VP began
+	      (S (NP *)
+		 (AUX to)
+		 (VP ship
+		     (NP our
+			 (ADJP ultra-high-speed)
+			 stretch
+			 yarn machines))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These machines)
+    (VP produce
+	(NP (NP the
+		higher
+		quality stretch yarns)
+	    (VP required
+		(PP in
+		    (S (NP *)
+		       (VP weaving
+			   (NP stretch and 
+			       (ADJP textured)
+			       fabrics))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the past year))
+    ,
+    (S (NP great progress)
+       (AUX has)
+       (VP been
+	   (VP made
+	       (PP by
+		   (NP the weaving mills))))
+       (PP in
+	   (S (NP *)
+	      (VP creating
+		  (NP 
+		   new stretch and 
+		   (ADJP textured)
+		   fabrics))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Fashion centers)
+   (AUX are)
+   (ADVP now)
+   (VP predicting
+       (NP broad acceptance
+	   (PP of
+	       (NP (NP sports
+		       apparel)
+		   and
+		   (NP (NP (ADJP improved)
+			   ``
+			   wash and wear
+			   ''
+			   dresses and blouses)
+		       (VP made
+			   (PP from
+			       (NP these fabrics)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP This machine)
+	,
+	(VP operating
+	    (PP at
+		(NP (NP speeds)
+		    (ADVP up
+			  (PP to
+			      (NP 350,000 revolutions
+				  (PP per
+				      (NP minute))))))))
+	,)
+    (AUX is)
+    (VP believed
+	(S (NP *)
+	   (AUX to)
+	   (VP provide
+	       (NP one
+		   (PP of
+		       (NP the
+			   fastest mechanical
+			   operations
+			   (PP in
+			       (NP (NP industry)
+				   (ADVP today))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP transfers
+       (NP yarn)
+       (ADVP directly)
+       (PP from
+	   (NP 
+	    (NP the producers)
+	    '
+	    (ADJP largest)
+	    package))
+       (PP into
+	   (NP ideal supply packages
+	       (PP for
+		   (NP use
+		       (PP on
+			   (NP Unifil loom winders))
+		       (PP in
+			   (S  (NP *) 
+			       (VP weaving
+				   (NP stretch yarn fabrics))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Large-package twister))
+(  
+ (S (NP Our
+	new large-package
+	ring twister
+	(PP for
+	    (NP glass fiber yarns)))
+    (AUX is)
+    (VP performing
+	(ADVP well)
+	(PP in
+	    (NP 
+	     (NP our customers)
+	     ' mills))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Later
+	   (PP in
+	       (NP the year)))
+     ,
+     (S (NP additional types
+	    (PP of
+		(NP this Leesona twister)))
+	(AUX will)
+	(VP be
+	    (VP made
+		(ADJP available
+		      (PP to
+			  (NP mills))
+		      (PP for
+			  (NP 
+			   other man-made
+			   fibers
+			   and
+			   natural yarns)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These machines)
+   (AUX are)
+   (VP designed
+       (S (NP *)
+	  (AUX to)
+	  (VP provide
+	      (NP (NP 
+		   higher
+		   operating speeds)
+		  ,
+		  (NP 
+		   larger
+		   yarn packages)
+		  ,
+		  and
+		  (NP 
+		   greater
+		   flexibility
+		   (PP of
+		       (NP application))))
+	      (PP to
+		  (NP different types
+		      (PP of
+			  (NP yarn))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (S (NP we)
+       (VP believe))
+    (AUX will)
+    (ADVP substantially)
+    (VP broaden
+	(NP the potential market
+	    (PP for
+		(NP the equipment)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Uniconer Major activity
+       (PP at
+	   (NP Providence))
+       (PP in
+	   (NP 1961)))
+   (AUX will)
+   (VP involve
+       (NP the scheduled completion
+	   (PP of
+	       (NP tooling
+		   (PP for
+		       (NP production
+			   (PP of
+			       (NP the Uniconer automatic coning machine)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This work)
+      (AUX is)
+      (VP progressing
+	  (PP on
+	      (NP schedule))))
+     and
+     (S (NP we)
+	(VP expect
+	    (S (NP *)
+	       (AUX to)
+	       (VP make
+		   (NP initial shipments)
+		   (PP in
+		       (NP the fourth quarter
+			   (PP of
+			       (NP this year)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This machine)
+   (X (X (AUX was)
+	 (VP demonstrated
+	     (PP in
+		 (NP two textile machinery exhibitions))
+	     (ADVP (NP last year))))
+      and
+      (X (AUX was)
+	 (VP (ADVP well)
+	     received
+	     (PP by
+		 (NP the industry))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The potential market
+       (PP for
+	   (NP the machine)))
+   (AUX should)
+   (VP be
+       (ADJP comparable
+	     (PP to
+		 (NP that
+		     (PP of
+			 (NP the Unifil loom winder)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Uniconer)
+   (VP has
+       (NP (NP several outstanding features)
+	   --
+	   (S (S (NP it)
+		 (VP operates
+		     (PP with
+			 (NP  (ADJP much greater) 
+			      efficiency
+			      (PP than
+				  (NP  existing
+				       equipment))))))
+	      ;
+	      ;
+	      (S (NP it)
+		 (VP incorporates
+		     (NP an
+			 automatic knot-tying
+			 device)
+		     (PP on
+			 (NP each spindle))))
+	      ,
+	      and
+	      (S (NP it)
+		 (AUX will)
+		 (VP (VP knot
+			 (NP a break
+			     (PP in
+				 (NP the yarn)))
+			 (PP in
+			     (NP 10 seconds)))
+		     (ADVP as
+			   well
+			   (PP as
+			       (VP tie
+				   (PRT in)
+				   (NP new bobbins)
+				   (SBAR as
+				       (S (NP the running end)
+					  (AUX is)
+					  (VP exhausted
+					      ))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR Because
+	 (S (NP the 
+		(ADJP bobbin-to-cone) 
+		winding process)
+	    (VP is
+		(NP a
+		    (ADJP (ADVP relatively)
+			  high-cost)
+		    operation
+		    (PP for
+			(NP the mill))))))
+   ,
+   (S (NP the
+	  (ADJP (ADVP almost)
+		complete)
+	  automation)
+      (VP provided
+	  (PP by
+	      (NP the Uniconer)))
+      (AUX can)
+      (VP mean
+	  (NP (NP important economies
+		  (PP in
+		      (NP textile production)))
+	      ,
+	      (PP at
+		  (NP the same time))
+	      (S (NP *)
+		 (VP upgrading
+		     (NP quality)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Many mills)
+   (AUX have)
+   (ADV already)
+   (VP placed
+       (NP firm orders
+	   (PP for
+	       (NP this machine)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP New Unifil application))
+( 
+ (S (NP (NP A new application
+	    (PP for
+		(NP the Unifil loom winder)))
+	,
+	(S (NP *)
+	   (VP running
+	       (NP single filling
+		   (PP for
+		       (NP box looms)))))
+	,)
+    (AUX will)
+    (VP broaden
+	(NP mill use
+	    (PP of
+		(NP this equipment)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Take-up machines))
+(  
+ (S (NP A
+	new spinning take-up
+	machine)
+    (AUX has)
+    (VP been
+	(VP developed))
+    (S (NP *)
+       (AUX to)
+       (VP facilitate
+	   (NP the use
+	       (PP of
+		   (NP our take-up machine))
+	       (PP in
+		   (NP the production
+		       (PP of
+			   (NP thermoplastic yarns))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP equipped
+       (PP with
+	   (NP (NP electronic controls)
+	       (SBAR
+		(WHNP that)
+		(S (NP T)
+		   (AUX can)
+		   (VP be
+		       (VP set
+			   (S (NP *)
+			      (AUX to)
+			      (VP hold
+				  (NP precise tension and speed)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This new machine)
+   (VP (VP takes
+	   (PRT up)
+	   (NP filament yarn)
+	   (PP from
+	       (NP (NP spinneret) 
+		   or 
+		   (NP extruder))))
+       and
+       (VP winds
+	   (NP large packages)
+	   (PP at
+	       (NP (NP speeds)
+		   (ADVP up
+			 (PP to
+			     (NP 6,000 feet
+				 (PP per
+				     (NP minute))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (AUX is)
+   (VP equipped
+       (PP with
+	   (NP an
+	       automatic
+	       threading
+	       device)))
+   (S-1 (NP *)
+      (AUX to)
+      (VP reduce
+	  (NP waste and handling time))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Our take-up machines)
+	and
+	(NP our twister-coners))
+    (AUX are)
+    (VP undergoing
+	(NP important pilot plant testing
+	    (PP for
+		(NP application
+		    (PP with
+			(NP 
+			 new high
+			 polymer yarns))))))
+    ,
+    (PP in
+	(NP several fiber
+	    producing
+	    plants)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP look
+       (ADVP forward)
+       (PP to
+	   (NP a
+	       (ADJP stronger)
+	       position
+	       (PP in
+		   (NP this expanding field))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Diversification plans))
+(  
+ (S (NP We)
+    (X (X (AUX are)
+	  (VP interested
+	      (PP in
+		  (NP 
+		   (ADJP further)
+		   diversification
+		   (PP into
+		       (NP (NP other fields
+			       (PP of
+				   (NP capital goods)))
+			   ,
+			   or
+			   (NP components
+			       (PP for
+				   (NP industrial products)))))))))
+       ,
+       and
+       (X (AUX have)
+	  (ADVP recently)
+	  (VP intensified
+	      (NP our efforts
+		  (PP in
+		      (NP that direction)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Patterson Moos research))
+(  
+ (S (NP Our Patterson Moos Research Division)
+    (AUX has)
+    (VP made
+	(NP  further
+	     (ADJP very
+		   encouraging)
+	     progress
+	     (PP in
+		 (NP development
+		     (PP of
+			 (NP fuel cells)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The cooperation
+	(PP of
+	    (NP (NP our
+		    exclusive
+		    American licensee)
+		,
+		(NP Pratt
+		    &
+		    Whitney Aircraft Division
+		    (PP of
+			(NP United Aircraft Corporation)))
+		,)))
+    (AUX has)
+    (VP been
+	(ADJP important
+	      (PP in
+		  (NP this work)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(NP its major effort
+		    (PP on
+			(NP fuel cells))))))
+    ,
+    (S (NP Patterson Moos Research Division)
+       (AUX is)
+       (VP continuing
+	   (S (NP *)
+	      (AUX to)
+	      (VP carry
+		  (PRT on)
+		  (NP research
+		      (PP in
+			  (NP other fields))
+		      ,
+		      (PP both
+			  (PP under
+			      (NP contract
+				  (PP for
+				      (NP (NP the Defense Department)
+					  ,
+					  (NP other government agencies)))))
+			  and
+			  (PP for
+			      (NP our own account)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP PMR)
+   (AUX is)
+   (ADVP currently)
+   (VP supplying
+       (NP (NP components)
+	   (ADJP vital
+		 (PP to
+		     (NP the Titan
+			 and
+			 Minuteman programs))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX have)
+    (ADVP recently)
+    (VP entered
+	(PP into
+	    (NP an agreement
+		(PP with
+		    (NP (NP Compagnie Generale De Telegraphie Sans Fil)
+			(NP *LRB*
+			    CSF
+			    *RRB*)
+			(PP of
+			    (NP France))))
+		(PP for
+		    (NP the exclusive exchange
+			(PP of
+			    (NP technical information
+				(PP on
+				    (NP thermoelectric materials))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The agreement)
+   (VP gives
+       (NP us)
+       (NP rights
+	   (PP for
+	       (S (NP *)
+		  (VP manufacturing
+		      and
+		      marketing
+		      (PP of
+			  (NP such materials))
+		      (PP in
+			  (NP the United States))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADVP Initially)
+	(S (NP we)
+	   (AUX will)
+	   (VP import
+	       (NP the thermoelectric materials and modules)
+	       (PP from
+		   (NP France)))))
+     but
+     (S (ADVP later)
+	(S (NP we)
+	   (AUX will)
+	   (VP manufacture
+	       (PP in
+		   (NP this country))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a
+	   (ADJP (ADVP rapidly)
+		 growing)
+	   demand
+	   (PP for
+	       (NP this material))
+	   ,
+	   (ADVP primarily)
+	   (PP from
+	       (NP the military)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 
+     (ADJP Further)
+     research)
+    ,
+    (S (NP we)
+       (VP believe))
+    ,
+    (AUX will)
+    (VP develop
+	(NP 
+	 important commercial
+	 applications)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A project
+	   (PP for
+	       (NP the Air Force)))
+       (SBAR-1 *pseudo-attach*))
+   (AUX has)
+   (VP been
+       (VP completed))
+   (SBAR-1 (WHPP in
+		 (WHNP which))
+	   (S (NP the NAIR infrared
+		  detecting
+		  device)
+	      (AUX was)
+	      (VP developed
+		  (PP for
+		      (NP area
+			  monitoring
+			  (PP of
+			      (NP (ADJP noxious or dangerous) 
+				  gases))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX are)
+   (VP initiating
+       (NP research
+	   (PP on
+	       (NP the use
+		   (PP of
+		       (NP (NP solid state materials
+			       (PP for
+				   (NP infrared detection)))
+			   (VP using
+			       (NP (NP a method)
+				   (SBAR
+				    (WHNP which)
+				    (S (NP T)
+				       (AUX will)
+				       (NEG not)
+				       (VP require
+					   (NP cooling
+					       (PP of
+						   (NP materials)))
+					   (S (NP *)
+					      (AUX to)
+					      (VP attain
+						  (NP high sensitivity)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The rapid advance
+       (PP in
+	   (NP science)))
+   (ADVP today)
+   (VP suggests
+       (NP many other avenues
+	   (PP of
+	       (NP investigation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our plan)
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP (VP keep
+		  (ADVP abreast
+			(PP of
+			    (NP these advances))))
+	      ,
+	      and
+	      (VP select
+		  (PP for
+		      (NP development))
+		  (NP (NP those fields)
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (VP seem
+			      (ADJP most
+				    promising
+				    (PP for
+					(NP our special capabilities))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP New plant facilities))
+(  
+ (S (ADJP Early
+	  (PP in
+	      (NP August)))
+    (S (NP we)
+       (VP broke
+	   (NP ground
+	       (PP for
+		   (NP (NP a new $
+			   3,500,000 plant
+			   (PP in
+			       (NP (NP Warwick)
+				   ,
+				   (NP Rhode Island))))
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX will)
+			   (VP house
+			       (NP our textile and coil
+				   winding
+				   machinery operations))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Construction)
+      (VP is
+	  (ADVP well
+		along)))
+     ,
+     and
+     (S (NP the plant)
+	(AUX is)
+	(VP scheduled
+	    (PP for
+		(NP completion
+		    (PP in
+			(NP November
+			    (PP of
+				(NP this year)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP All operations)
+	(ADVP now)
+	(VP carried
+	    (PRT on)
+	    (PP at
+		(NP our plant
+		    (PP at
+			(NP Cranston))))))
+    (AUX will)
+    (VP be
+	(VP transferred
+	    (PP to
+		(NP Warwick)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Operations
+       (PP in
+	   (NP the new plant)))
+   (AUX should)
+   (VP be
+       (VP producing
+	   (ADVP efficiently)))
+   (ADJP early
+	 (PP in
+	     (NP 1962))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP An architect)
+    's sketch
+    (PP of
+	(NP the new plant)))
+   (AUX is)
+   (VP shown
+       (PP on
+	   (NP the front cover))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The building)
+   (AUX will)
+   (VP contain
+       (NP (NP 430,000 square feet)
+	   ,
+	   (ADVP approximately)
+	   (NP the
+	       same
+	       (PP as
+		   (NP our present plant))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (NP its
+	    modern one-story
+	    layout)
+	(AUX is)
+	(VP designed
+	    (S (NP *)
+	       (AUX to)
+	       (VP (VP increase
+		       (NP our production capacity))
+		   ,
+		   (VP permit
+		       (NP (ADJP more
+				 efficient)
+			   manufacturing))
+		   ,
+		   and
+		   (VP (ADVP substantially)
+		       reduce
+		       (NP current repair and maintenance costs)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A major consideration
+	(PP in
+	    (NP the choice
+		(PP of
+		    (NP (NP the Warwick site)
+			,
+			(NP four miles
+			    (PP from
+				(NP Cranston))))))))
+    ,
+    (VP was
+	(NP (NP the fact)
+	    (SBAR that
+		  (S (NP it)
+		     (VP permits
+			 (NP retention
+			     (PP of
+				 (NP our
+				     present 
+                                     (ADJP (ADJP trained)
+					   and
+					   (ADJP (ADVP highly)
+						 skilled))
+				     work force)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX have)
+    (VP entered
+	(PP into
+	    (NP (NP an agreement
+		    (PP for
+			(NP the sale
+			    (PP of
+				(NP the
+				    (ADJP present)
+				    Cranston properties)))))
+		,
+		(ADJP effective
+		      (ADJP as
+			    soon
+			    (PP as
+				(S (NP we)
+				   (AUX have)
+				   (VP completed
+				       (NP removal
+					   (PP to
+					       (NP our new plant))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP British subsidiary))
+(  
+ (S (PP During
+	(NP the year))
+    (S (NP (NP our British subsidiary)
+	   ,
+	   (NP Leesona-Holt
+	       ,
+	       Limited
+	       ,))
+       (VP (VP expanded
+	       (NP its plant
+		   (PP in
+		       (NP (NP Darwen)
+			   ,
+			   (NP England)))))
+	   ,
+	   and
+	   (VP added
+	       (NP machine tool capacity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The operations
+	    (PP of
+		(NP its other plant
+		    (PP in
+			(NP Rochdale)))))
+	and
+	(NP
+	 (NP Leesona)
+	 's former operations
+	 (PP in
+	     (NP Manchester))))
+    (AUX were)
+    (VP transferred
+	(PP to
+	    (NP a
+		(ADJP (ADVP recently)
+		      acquired)
+		plant
+		(PP in
+		    (NP the adjoining town
+			(PP of
+			    (NP Heywood))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Layout) 
+       and 
+       (NP equipment))
+   (AUX were)
+   (VP (VP modernized)
+       and
+       (VP improved))
+   (S (NP *)
+      (AUX to)
+      (VP obtain
+	  (NP 
+	   (ADJP increased)
+	   production
+	   (PP on
+	       (NP an efficient basis))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The area)
+       (ADJP available
+	     (PP at
+		 (NP Heywood))))
+   (VP is
+       (NP (ADVP approximately)
+	   (NP three times)
+	   (NP the size
+	       (PP of
+		   (NP the
+		       former
+		       Rochdale
+		       and
+		       Manchester
+		       locations))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP land)
+       (AUX has)
+       (VP been
+	   (VP purchased))
+       (S (NP *)
+	  (AUX to)
+	  (VP permit
+	      (S (NP *)
+		 (VP doubling
+		     (NP the size
+			 (PP of
+			     (NP the plant)))
+		     (PP in
+			 (NP the future))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Financial developments))
+( 
+ (S (NP The
+	new
+	Warwick
+	plant)
+    (AUX is)
+    (VP being
+	(VP built
+	    (PP (PP at
+		    (NP our expense))
+		and
+		(PP under
+		    (NP our direction))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX will)
+   (VP be
+       (VP transfered
+	   (PP on
+	       (NP completion))
+	   (PP to
+	       (NP (NP The Industrial Foundation
+		       (PP of
+			   (NP Rhode Island)))
+		   ,
+		   (NP (NP a non-profit organization)
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX will)
+			   (VP reimburse
+			       (NP us)
+			       (PP for
+				   (NP the cost
+				       (PP of
+					   (NP construction)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX will)
+   (ADVP then)
+   (VP occupy
+       (NP the new plant)
+       (PP under
+	   (NP lease))
+       ,
+       (PP with
+	   (NP an option
+	       (S (NP *)
+		  (AUX to)
+		  (VP purchase))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These arrangements)
+   (VP are
+       ,
+       (PP in
+	   (NP our opinion))
+       ,
+       (ADJP very
+	     favorable
+	     (PP to
+		 (NP Leesona)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Interim financing
+       (PP of
+	   (NP construction costs)))
+   (AUX is)
+   (VP provided
+       (PP by
+	   (NP a short term loan
+	       (PP from
+		   (NP The Chase Manhattan Bank))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(NP expenditures
+		    (PP on
+			(NP the Warwick plant))))))
+    ,
+    (S (NP we)
+       (AUX have)
+       (VP invested
+	   (NP (ADVP approximately)
+	       $ 1,961,000)
+	   (PP (PP for
+		   (NP machinery and equipment
+		       (PP at
+			   (NP Cranston))))
+	       ,
+	       and
+	       (PP for
+		   (NP new machinery
+		       ,
+		       plant and equipment
+		       (PP at
+			   (NP Leesona-Holt
+			       ,
+			       Limited))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP believe
+       (SBAR that
+	     (S (NP these improved facilities)
+		(AUX will)
+		(VP (VP contribute
+			(NP (NP income)
+			    (SBAR-1 *pseudo-attach*)))
+		    and
+		    (VP effect
+			(NP (NP savings)
+			    (SBAR-1
+			     (WHNP which)
+			     (S (NP T)
+				(AUX will)
+				(VP (ADVP fully)
+				    justify
+					(NP the investment)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Long term loans)
+   (AUX have)
+   (VP been
+       (VP reduced
+	   (PP by
+	       (NP $ 395,000))
+	   (PP to
+	       (NP $ 2,461,000)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Inventories)
+   (X (VP increased
+	   (NP $ 625,561)
+	   (PP to
+	       (NP $ 8,313,514))
+	   (PP during
+	       (NP the year)))
+       and
+       (X (AUX should)
+	  (VP decline
+	      (PP in
+		  (NP (ADJP coming)
+		      months))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Thus)
+     (S (NP we)
+	(VP enter
+	    (NP 1961)
+	    (PP in
+		(NP a
+		    strong financial
+		    position)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Employee contracts))
+(  
+ (S (PP In
+	(NP accordance
+	    (PP with
+		(NP (NP the two-year contract)
+		    (VP signed
+			(PP in
+			    (NP (NP May)
+				,
+				(NP 1959)))
+			,
+			(PP with
+			    (NP (NP the International Association
+				    (PP of
+					(NP Machinists)))
+				,
+				(NP AFL-CIO)
+				,)))))))
+    (S (S (NP wages
+	      (PP of
+		  (NP hourly employees)))
+	  (AUX were)
+	  (VP increased
+	      (PP by
+		  (NP 4 %)))
+	  (PP in
+	      (NP (NP May)
+		  ,
+		  (NP 1960))))
+       ,
+       and
+       (S (NP pay
+	      levels
+	      (PP for
+		  (NP 
+		   non-exempt salaried
+		   employees)))
+	  (AUX were)
+	  (VP increased
+	      (ADVP proportionately)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP Blue Cross coverage
+	   (PP for
+	       (NP (NP all employees)
+		   and
+		   (NP their dependents))))
+       (AUX was)
+       (VP extended
+	   (S (NP *)
+	      (AUX to)
+	      (VP provide
+		  (NP the full cost
+		      (PP of
+			  (NP semi-private hospital accommodations))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Personnel
+    benefits))
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(NP direct salaries and wages))))
+    ,
+    (S  (NP the Company)
+	(VP paid
+	    or
+	    accrued
+	    (PP during
+		(NP the year))
+	    (NP the following amounts
+		(PP for
+		    (NP the benefit
+			(PP of
+			    (NP employees))))))
+	:
+	(S (PP During
+	       (NP (NP the pension year)
+		   (VP ended
+		       (NP (NP December 31)
+			   ,
+			   (NP 1960)
+			   ,))))
+	   (S (NP 23 employees)
+	      (VP retired)
+	      ,
+	      (S (NP *)
+		 (VP making
+		     (NP a total
+			 (PP of
+			     (NP (NP 171)
+				 (ADJP (ADVP currently)
+				       retired
+				       (PP under
+					   (NP 
+					    (NP the Company)
+					    's pension plan))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP (NP December 13)
+	     ,
+	     (NP 1960)))
+     (S (NP (NP the fund)
+	    (VP held
+		(PP by
+		    (NP the Industrial National Bank
+			(PP of
+			    (NP Providence))
+			,
+			(PP as
+			    (NP trustee
+				(PP for
+				    (NP payment
+					(PP of
+					    (NP past
+						and
+						future service pensions))
+					(PP to
+					    (NP (ADJP qualified)
+						members
+						(PP of
+						    (NP the plan))))))))
+			,))))
+	(VP totaled
+	    (NP $ 2,412,616))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The basic market
+       (PP for
+	   (NP textiles)))
+   (AUX is)
+   (VP growing)
+   (PP with
+       (NP (NP the expansion
+	       (PP of
+		   (NP the population)))
+	   (SBAR 
+	    (WHNP that)
+	    (S (NP T)
+	       (VP began
+		   (ADVP (NP 20 years)
+			 ago)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another growth factor)
+   (VP is
+       (NP (ADJP increased)
+	   consumer demand
+	   (PP for
+	       (NP (NP 
+		    better
+		    quality
+		    and
+		    larger
+		    quantities
+		    (PP of
+			(NP fabrics)))
+		   (SBAR
+		    (WHNP that)
+		    (S (NP T)
+		       (VP go
+			   (PP with
+			       (NP a rising standard
+				   (PP of
+				       (NP living))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(PP in
+	    (NP many other industries)))
+    ,
+    (S (NP (NP (NP (ADJP rising)
+		   costs)
+	       and
+	       (NP intense competition))
+	   ,
+	   (ADJP both
+		 (ADJP domestic)
+		 and
+		 (ADJP foreign))
+	   ,)
+       (AUX have)
+       (VP exerted
+	   (NP increasing
+	       pressure)
+	   (PP on
+	       (NP earnings
+		   (PP of
+		       (NP the textile industry)))))
+       (PP in
+	   (NP recent years))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Increased)
+    efficiency))
+(  
+ (S (PP In
+	(NP textiles
+	    ,
+	    (PP as
+		(ADVP elsewhere))))
+    ,
+    (S (NP a major part
+	   (PP of
+	       (NP the solution)))
+       (VP lies
+	   (PP in
+	       (NP (NP 
+		    greater
+		    efficiency)
+		   and
+		   (NP 
+		    higher
+		    productivity))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a designer and manufacturer
+	    (PP of
+		(NP textile production machinery))))
+    ,
+    (S (NP (NP Leesona)
+	   and
+	   (NP other companies
+	       (PP in
+		   (NP its industry))))
+       (AUX have)
+       (VP sought
+	   (S (NP *)
+	      (AUX to)
+	      (VP meet
+		  (NP this challenge)
+		  (PP with
+		      (NP (NP  new
+			       or
+			       (ADJP improved
+				     equipment and methods))
+			  (SBAR 
+			   (WHNP that)
+			   (S (NP T)
+			      (AUX would)
+			      (VP (VP increase
+				      (NP production))
+				  ,
+				  yet
+				  (VP maintain
+				      (NP both 
+					  (NP quality)
+					  and 
+					  (NP flexibility)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Problems
+    (PP of
+	(S (NP *)
+	   (VP shifting
+	       (NP styles))))))
+((S (NP The problem
+	(PP of
+	    (NP efficient production
+		(PP in
+		    (NP textiles)))))
+    (AUX is)
+    (VP complicated
+	(PP by
+	    (NP (NP the fact)
+		(SBAR that
+		      (S (NP the industry)
+			 (VP serves
+			     (NP (NP large markets)
+				 (SBAR
+				  (WHNP which)
+				  (S (NP T)
+				     (VP shift
+					 (ADVP quickly)
+					 (PP with
+					     (NP changes
+						 (PP of
+						     (NP fashion))
+						 (PP in
+						     (NP (NP apparel) 
+							 or 
+							 (NP home decoration))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Production)
+   (AUX must)
+   (VP be
+       (VP adjusted
+	   (ADVP (ADVP accordingly
+		       ,
+		       (PP at
+			   (NP minimum cost)))
+		 and
+		 (ADVP quickly)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP production machinery)
+       (AUX must)
+       (PP in
+	   (NP many cases))
+       (VP be
+	   (VP designed
+	       (S (NP *)
+		  (AUX to)
+		  (VP handle
+		      (PP with
+			  (NP equal efficiency))
+		      (NP (NP both
+			      (NP natural fibers)
+			      and
+			      (NP the 
+				  (ADJP increasing) 
+				  number
+				  (PP of
+				      (NP synthetics))))
+			  ,
+			  (ADVP as
+				well
+				(PP as
+				    (NP blends))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

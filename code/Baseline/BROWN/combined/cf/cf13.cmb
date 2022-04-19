@@ -1,0 +1,2893 @@
+
+ 
+ 
+
+ 
+
+((S (NP (VBG Farming))
+    (AUX (VBZ is))
+    (VP (VBG confining)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT The) (NN farmer))
+        (POS 's) (NN life))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN arranged)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB meet)
+                   (NP (DT the) (NNS demands)
+                       (PP (IN of)
+                           (NP (NP (NNS crops))
+                               (CC and)
+                               (NP (NN livestock))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NN Livestock))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN tended)))
+    (NP (DT every) (NN day))
+    (, ,)
+    (ADVP (RB routinely)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT A) (JJ slight) (NN change)
+        (PP (IN in)
+            (NP (DT the) (NN work) (NN schedule))))
+    (AUX (MD may))
+    (VP (VB cut)
+        (NP (DT the) (NN production)
+            (PP (IN of)
+                (NP (NP (NNS cows))
+                    (CC or)
+                    (NP (NNS chickens)))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR (RB Even)
+          (IN if)
+          (S (NP (EX there))
+             (VP (VBP are)
+                 (NP (DT no) (NN livestock)))))
+    (, ,)
+    (S (NP (DT the) (NN farmer))
+       (AUX (MD can))
+       (NEG (RB not))
+       (VP (VB leave)
+           (NP (DT the) (NN farm))
+           (PP (IN for)
+               (NP (JJ long) (NNS periods))))
+       (, ,)
+       (PP (ADVP (RB particularly))
+           (IN during)
+           (NP (DT the) (VBG growing) (NN season)))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NP (DT The) (NN worker))
+        (SBAR (WHNP (WP who))
+              (S (NP (-NONE- T))
+                 (VP (VBZ lives)
+                     (PP (IN on)
+                         (NP (DT a) (NN farm)))))))
+    (AUX (MD can))
+    (NEG (RB not))
+    (VP (VB change)
+        (NP (NNS jobs))
+        (ADVP (RB readily))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (PRP He))
+       (AUX (MD can))
+       (NEG (RB not))
+       (VP (VB leave)
+           (NP (DT the) (NN farm)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB take)
+              (NP (NN work)
+                  (PP (IN in)
+                      (NP (DT another) (NN locality))))))
+       (PP (IN on)
+           (NP (JJ short) (NN notice))))
+    (: ;)
+    (: ;)
+    (S (NP (JJ such)
+           (DT a) (NN move))
+       (AUX (MD may))
+       (VP (VB mean)
+           (NP (DT a) (NN loss)
+               (PP (IN of)
+                   (NP (NN capital)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (JJ Hard) (JJ physical)
+            (NN labor))
+        (CC and)
+        (NP (JJ undesirable) (NNS hours)))
+    (VP (VBP are)
+        (NP (DT a) (NN part)
+            (PP (IN of)
+                (NP (NN life))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN farmer))
+    (AUX (MD must))
+    (VP (VP (VB get)
+            (ADVP (RP up))
+            (ADVP (RB early)))
+        (, ,)
+        (CC and)
+        (, ,)
+        (PP (IN at)
+            (NP (NNS times)))
+        (, ,)
+        (VP (VB work)
+            (ADVP (RB late))
+            (PP (IN at)
+                (NP (NN night))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Frequently))
+    (S (NP (PRP he))
+       (AUX (MD must))
+       (VP (VB work)
+           (NP (JJ long) (NNS hours))
+           (PP (IN in)
+               (NP (DT the) (JJ hot) (NN sun)
+                   (CC or)
+                   (JJ cold) (NN rain))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (DT No) (NN matter)
+          (SBAR (ADVP (WHADVP (WRB how))
+                      (JJ well))
+                (S (NP (NN work))
+                   (AUX (VBZ is))
+                   (VP (VBN planned)))))
+    (, ,)
+    (S (NP (NP (JJ bad) (NN weather))
+           (CC or)
+           (NP (JJ unexpected) (NNS setbacks)))
+       (AUX (MD can))
+       (VP (VB cause)
+           (NP (NP (JJ extra) (NN work))
+               (SBAR (WHNP (WDT that))
+                     (S (NP (-NONE- T))
+                        (AUX (MD must))
+                        (VP (VB be)
+                            (VP (VBN caught)
+                                (PRT (RP up))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (AUX (MD may))
+    (NEG (RB not))
+    (VP (VB be)
+        (ADJP (JJ profitable)))
+    (SBAR-1 (IN for)
+            (S (NP (DT a) (ADJP (JJ part-time)) (NN farmer))
+               (AUX (TO to))
+               (VP (VB own)
+                   (NP (NP (DT the) (ADJP (JJ labor-saving)) (NN machinery))
+                       (SBAR (WHNP (IN that))
+                             (S (NP (DT a) (ADJP (JJ full-time)) (NN farmer))
+                                (AUX (MD can))
+                                (VP (VB invest)
+                                    (PP (IN in)
+                                        (NP (-NONE- T)))
+                                    (ADVP (RB profitably))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NN Production))
+    (AUX (MD may))
+    (VP (VB fall)
+        (PP (ADVP (RB far))
+            (IN below)
+            (NP (NNS expectations)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (NN Drought))
+        (, ,)
+        (NP (NN hail))
+        (, ,)
+        (NP (NN disease))
+        (, ,)
+        (CC and)
+        (NP (NNS insects)))
+    (VP (VBP take)
+        (NP (PRP$ their) (NN toll)
+            (PP (IN of)
+                (NP (NNS crops))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NN Sickness) (CC or) (NN loss)
+        (PP (IN of)
+            (NP (DT some)
+                (PP (IN of)
+                    (NP (DT the) (NN livestock))))))
+    (AUX (MD may))
+    (VP (VB cut)
+        (PP (PP (IN into)
+                (NP (NP (DT the) (NN owner))
+                    (POS 's) (NNS earnings)))
+            (, ,)
+            (PP (ADVP (RB even))
+                (IN into)
+                (NP (PRP$ his) (NN capital))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NNS Returns)
+        (PP (IN for)
+            (NP (NP (NP (NN money))
+                    (CC and)
+                    (NP (NN labor)))
+                (VP (VBN invested)))))
+    (AUX (MD may))
+    (VP (VB be)
+        (ADJP (JJ small)))
+    (PP (ADVP (RB even))
+        (IN in)
+        (NP (DT a) (JJ good) (NN year))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT The) (JJ high) (NN cost)
+        (PP (IN of)
+            (NP (NP (NN land))
+                (, ,)
+                (NP (NNS supplies))
+                (, ,)
+                (CC and)
+                (NP (NN labor)))))
+    (VP (VBP make)
+        (NP (PRP it)
+            (S-2 (-NONE- *pseudo-attach*)))
+        (ADJP (JJ difficult))
+        (S-2 (NP (-NONE- *))
+             (AUX (TO to))
+             (VP (VB farm)
+                 (ADVP (RB profitably))
+                 (PP (IN on)
+                     (NP (DT a) (ADJP (JJ part-time)) (NN basis)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NN Land)
+        (PP (IN within)
+            (NP (NN commuting) (NN distance)
+                (PP (IN of)
+                    (NP (DT a) (VBG growing) (NN city))))))
+    (VP (VBZ is)
+        (ADVP (RB usually))
+        (ADJP (ADJP (JJ high)
+                    (PP (IN in)
+                        (NP (NN price))))
+              (, ,)
+              (ADJP (RBR higher)
+                    (SBAR (IN if)
+                          (S (NP (PRP it))
+                             (VP (VBZ has)
+                                 (NP (NN subdivision) (NNS possibilities)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (ADJP (JJ Part-time)) (NNS farmers))
+    (ADVP (RB generally))
+    (AUX (MD must))
+    (VP (VB pay)
+        (NP (JJR higher)
+            (NNS prices)
+            (PP (IN for)
+                (NP (NNS supplies)))
+            (PP (IN than)
+                (NP (ADJP (JJ full-time)) (NNS farmers)))))
+    (SBAR (IN because)
+          (S (NP (PRP they))
+             (VP (VBP buy)
+                 (PP (IN in)
+                     (NP
+                         (JJR smaller)
+                         (NNS quantities)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (S (NP (DT the) (NN farm))
+             (VP (VBZ is)
+                 (PP (IN in)
+                     (NP (NP (DT an) (JJ industrial) (NN area))
+                         (SBAR (WHADVP (WRB where))
+                               (S (NP (NNS wages))
+                                  (VP (VBP are)
+                                      (ADJP (JJ high))))))))))
+    (, ,)
+    (S (NP (NN farm) (NN labor) (NNS costs))
+       (AUX (MD will))
+       (ADVP (RB also))
+       (VP (VB be)
+           (ADJP (JJ high)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT A) (ADJP (JJ part-time)) (NN farmer))
+    (VP (VBZ needs)
+        (NP (JJ unusual) (NN skill)))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB get)
+           (NP (ADJP (IN as)
+                     (JJ high))
+               (NN production)
+               (PP (PP (IN per)
+                       (NP (NN hen)))
+                   (, ,)
+                   (PP (IN per)
+                       (NP (NN cow)))
+                   (, ,)
+                   (CC or)
+                   (PP (IN per)
+                       (NP (NN acre))))
+               (PP (IN as)
+                   (S (NP (-NONE- *))
+                      (AUX (MD can))
+                      (VP (VB be)
+                          (VP (VBN obtained)
+                              (PP (IN by)
+                                  (NP (DT a)
+                                      (JJ competent) (ADJP (JJ full-time))
+                                      (NN farmer)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (PRP It)
+        (SBAR-3 (-NONE- *pseudo-attach*)))
+    (AUX (MD will))
+    (ADVP (RB frequently))
+    (VP (VB be)
+        (ADJP (JJ uneconomical)))
+    (SBAR-3 (IN for)
+            (S (NP (PRP him))
+               (AUX (TO to))
+               (VP (VB own)
+                   (NP (DT the)
+                       (RBS most) (ADJP (JJ up-to-date))
+                       (NN equipment))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (PRP He))
+       (AUX (MD may))
+       (VP (VB have)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB depend)
+                  (PP (IN upon)
+                      (NP (JJ custom) (NN service))))))
+       (PP (IN for)
+           (NP (NP (JJ specialized) (NNS operations))
+               (, ,)
+               (ADJP (JJ such)
+                     (PP (IN as)
+                         (S (S (NP (-NONE- *))
+                               (VP (NN spraying)))
+                            (CC or)
+                            (S (NP (-NONE- *))
+                               (VP (NN threshing)))))))))
+    (, ,)
+    (CC and)
+    (S (PP (IN for)
+           (NP (DT these)))
+       (, ,)
+       (S (NP (PRP he))
+          (AUX (MD may))
+          (VP (VB have)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB wait)
+                     (NP (PRP$ his) (NN turn))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (EX There))
+    (AUX (MD will))
+    (VP (VB be)
+        (NP (NP (NNS losses))
+            (VP (VBN caused)
+                (PP (IN by)
+                    (NP (NP (NNS emergencies))
+                        (SBAR (WHNP (WDT that))
+                              (S (NP (-NONE- T))
+                                 (VP (VBP arise))
+                                 (SBAR (IN while)
+                                       (S (NP (PRP he))
+                                          (VP (VBZ is)
+                                              (ADJP (RB away))
+                                              (PP (IN at)
+                                                  (NP (PRP$ his) (ADJP (JJ off-farm)) (NN job))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT The) (NN farm))
+    (AUX (MD may))
+    (VP (VB be)
+        (NP (DT an) (JJ additional) (NN burden)))
+    (SBAR (IN if)
+          (S (NP (DT the) (JJ main) (NN job))
+             (AUX (VBZ is))
+             (VP (VBN lost)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This))
+    (AUX (MD may))
+    (VP (VB be)
+        (ADJP (JJ true)))
+    (SBAR (IN whether)
+          (S (NP (DT the) (NN farm))
+             (AUX (VBZ is))
+             (VP (VP (VBN owned))
+                 (CC or)
+                 (VP (VBN rented))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (S (NP (DT the) (NN farm))
+             (AUX (VBZ is))
+             (VP (VBN rented))))
+    (, ,)
+    (S (NP (DT the) (NN rent))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN paid)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (SBAR (IN If)
+             (S (NP (PRP it))
+                (AUX (VBZ is))
+                (VP (VBN owned))))
+       (, ,)
+       (S (NP (NNS taxes))
+          (AUX (MD must))
+          (VP (VB be)
+              (VP (VBN paid)))))
+    (, ,)
+    (CC and)
+    (S (SBAR (IN if)
+             (S (NP (DT the) (NN place))
+                (VP (VBZ is)
+                    (NEG (RB not))
+                    (ADJP (JJ free)
+                          (PP (IN of)
+                              (NP (NN mortgage)))))))
+       (, ,)
+       (S (NP (EX there))
+          (AUX (MD will))
+          (VP (VB be)
+              (NP (NP (NN interest) (CC and) (NNS payments)
+                      (PP (IN on)
+                          (NP (DT the) (NN principal))))
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (VP (VB take)
+                         (NP (VB care))
+                         (PP (IN of)
+                             (NP (-NONE- T))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NNS Advantages)))
+ 
+
+((S
+    (NP (DT A) (NN farm))
+    (VP (VBZ provides)
+        (NP (DT a) (ADJP (JJ wholesome) (CC and) (JJ healthful)) (NN environment))
+        (PP (IN for)
+            (NP (NNS children)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ gives)
+        (NP (PRP them))
+        (NP (NP (NP (NN room))
+                (S (NP (-NONE- *))
+                   (AUX (TO to))
+                   (VP (VB play))))
+            (CC and)
+            (NP (RB plenty)
+                (PP (IN of)
+                    (NP (JJ fresh) (NN air)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NNS children))
+    (AUX (MD can))
+    (VP (VB do)
+        (NP (NP (NNS chores))
+            (VP (VBN adapted)
+                (PP (TO to)
+                    (NP (PRP$ their) (NN age) (CC and) (NN ability)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (S (NP (-NONE- *))
+           (VP (VBG Caring)
+               (PP (IN for)
+                   (NP (NP (DT a) (NN calf))
+                       (, ,)
+                       (NP (DT a) (NN pig))
+                       (, ,)
+                       (CC or)
+                       (NP (DT some) (NNS chickens)))))))
+    (VP (VBZ develops)
+        (PP (IN in)
+            (NP (NNS children)))
+        (NP (DT a) (NN sense)
+            (PP (IN of)
+                (NP (NN responsibility)
+                    (PP (IN for)
+                        (NP (NN work))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (ADJP (JJ Part-time)) (NN farming))
+    (VP (VBZ gives)
+        (NP (DT a) (NN measure)
+            (PP (IN of)
+                (NP (NN security)))))
+    (SBAR (IN if)
+          (S (NP (DT the) (JJ regular) (NN job))
+             (AUX (VBZ is))
+             (VP (VBN lost))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBD provided)
+           (SBAR (-NONE- 0)
+                 (S (NP (DT the) (NN farm))
+                    (X (X (AUX (VBZ is))
+                          (VP (VBN owned)
+                              (ADJP (RB free)
+                                    (PP (IN of)
+                                        (NP (NN debt))))))
+                       (CC and)
+                       (VP (VBZ furnishes)
+                           (NP (JJ enough) (NN income)
+                               (S (NP (-NONE- *))
+                                  (AUX (TO to))
+                                  (VP (VB meet)
+                                      (NP (NP (JJ fixed) (NNS expenses))
+                                          (CC and)
+                                          (NP (JJ minimum) (NN living) (NNS costs)))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (DT some) (JJ retired) (NNS persons)))
+    (, ,)
+    (S (NP (ADJP (JJ part-time)) (NN farming))
+       (VP (VBZ is)
+           (NP (NP (DT a) (JJ good) (NN way))
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB supplement)
+                      (NP (NN retirement) (NN income))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (PRP It))
+    (VP (VBZ is)
+        (ADJP (ADVP (RB particularly))
+              (JJ suitable)
+              (PP (IN for)
+                  (NP (DT those)
+                      (SBAR (WHNP (WP who))
+                            (S (NP (-NONE- T))
+                               (VP (VBP need)
+                                   (S (NP (-NONE- *))
+                                      (AUX (TO to))
+                                      (VP (VB work) (CC or) (VB exercise)
+                                          (PP (IN out)
+                                              (PP (IN of)
+                                                  (NP (NNS doors)))))))
+                               (PP (IN for)
+                                   (NP (PRP$ their) (NN health))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Generally))
+    (, ,)
+    (S (NP (DT the) (JJ same) (NN level)
+           (PP (IN of)
+               (NP (VBG living))))
+       (VP (VBZ costs)
+           (NP (JJR less)
+               (PP (IN in)
+                   (NP (DT the) (NN country)))
+               (PP (IN than)
+                   (PP (IN in)
+                       (NP (DT the) (NN city))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NNS savings))
+    (VP (VBP are)
+        (NEG (RB not))
+        (ADJP (RB as)
+              (JJ great)
+              (, ,)
+              (ADVP (RB however))
+              (, ,)
+              (PP (IN as)
+                  (S (NP (-NONE- *))
+                     (AUX (VBZ is))
+                     (ADVP (RB sometime))
+                     (VP (VBN supposed)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Usually))
+    (, ,)
+    (S (S (NP (DT the) (NN cost)
+              (PP (IN of)
+                  (NP (NP (NN food))
+                      (CC and)
+                      (NP (NN shelter)))))
+          (AUX (MD will))
+          (VP (VB be)
+              (ADJP (RB somewhat)
+                    (JJR less)))
+          (PP (IN on)
+              (NP (DT the) (NN farm))))
+       (CC and)
+       (X (NP (DT the) (NN cost)
+              (PP (IN of)
+                  (NP (NP (NN transportation))
+                      (CC and)
+                      (NP (NNS utilities)))))
+          (ADJP (RB somewhat)
+                (RBR more)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (WHADVP (WRB Where))
+          (S (NP (NP (NNS schools))
+                 (, ,)
+                 (NP (NN fire) (CC and) (NN police) (NN protection))
+                 (, ,)
+                 (CC and)
+                 (NP (JJ similar) (JJ municipal)
+                     (NNS services)))
+             (VP (VBP are)
+                 (PP (IN of)
+                     (NP (JJ equal) (NN quality))))
+             (PP (IN in)
+                 (NP (NP (NN city))
+                     (CC and)
+                     (NP (NN country))))))
+    (, ,)
+    (S (NP (JJ real) (NN estate) (NNS taxes))
+       (VP (VBP are)
+           (ADVP (RB usually))
+           (PP (IN about)
+               (NP (DT the)
+                   (ADJP (JJ same)))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NP (DT A) (ADJP (JJ part-time)) (NN farmer))
+        (CC and)
+        (NP (PRP$ his) (NN family)))
+    (AUX (MD can))
+    (VP (VB use)
+        (NP (PRP$ their) (JJ spare) (NN time))
+        (ADVP (RB profitably))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT Some) (NNS persons))
+    (VP (VBP consider)
+        (NP (DT the) (NN work)
+            (PP (IN on)
+                (NP (DT a) (NN farm))))
+        (ADJP (JJ recreational))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (DT some) (ADJP (JJ white-collar)) (NNS workers)))
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (NP (NP (DT a) (JJ welcome) (NN change)
+                   (PP (IN from)
+                       (NP (DT the) (JJ regular) (NN job))))
+               (, ,)
+               (CC and)
+               (NP (DT a) (JJ physical) (NN conditioner))))))
+ (. .))
+ 
+
+ 
+
+(
+ (NP (NP (NP (NN Land))
+         (, ,)
+         (NP (NN labor))
+         (, ,)
+         (CC and)
+         (NP (NN equipment)))
+     (VP (VBN needed))))
+ 
+
+(
+ (S (NP (ADJP (JJ Part-time)) (NN farming))
+    (AUX (MD can))
+    (VP (VB take)
+        (NP (NP (ADJP (RB comparatively)
+                      (JJ little))
+                (NN land)
+                (, ,)
+                (NN labor)
+                (, ,)
+                (CC and)
+                (NN equipment))
+            (: --)
+            (CC or)
+            (NP (DT a) (JJ great) (NN deal)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ depends)
+        (PP (IN on)
+            (NP (DT the) (NN kind)
+                (CC and)
+                (DT the) (NN scale)
+                (PP (IN of)
+                    (NP (DT the) (VBG farming) (NN operation)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (JJ General) (NNS requirements)
+        (PP (IN for)
+            (NP (NP (NN land))
+                (, ,)
+                (NP (NN labor))
+                (, ,)
+                (CC and)
+                (NP (NN equipment)))))
+    (AUX (VBP are))
+    (VP (VBN discussed)
+        (ADVP (RB below))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Specific) (NNS requirements)
+        (PP (IN for)
+            (NP (DT each)
+                (PP (IN of)
+                    (NP (JJ various) (NNS types)
+                        (PP (IN of)
+                            (NP (NNS enterprises))))))))
+    (AUX (VBP are))
+    (VP (VBN discussed)
+        
+        (PP (IN on)
+            (NP (NNS pages)
+                (NP (CD 8)
+                    (PP (TO to)
+                        (NP (CD 14))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Land)))
+ 
+
+(
+ (S (NP (NP (CD Three)
+            (NNS quarters)
+            (PP (TO to)
+                (NP (CD 1))))
+        (NN acre)
+        (PP (IN of)
+            (NP (JJ good) (NN land))))
+    (VP (VBZ is)
+        (ADJP (JJ enough)
+              (PP (PP (IN for)
+                      (S (NP (-NONE- *))
+                         (VP (VBG raising)
+                             (NP (NP (NNS fruits))
+                                 (CC and)
+                                 (NP (NNS vegetables)))
+                             (PP (IN for)
+                                 (NP (NN home) (NN use))))))
+                  (, ,)
+                  (CC and)
+                  (PP (IN for)
+                      (NP (NP (DT a) (JJ small) (NN flock)
+                              (PP (IN of)
+                                  (NP (NNS chickens))))
+                          (, ,)
+                          (NP (DT a) (NN cow))
+                          (, ,)
+                          (CC and)
+                          (NP (CD two) (NNS pigs))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP You))
+    (AUX (MD could))
+    (NEG (RB not))
+    (, ,)
+    (PP (IN of)
+        (NP (NN course)))
+    (, ,)
+    (VP (VB raise)
+        (NP (NN feed)
+            (PP (IN for)
+                (NP (DT the) (NN livestock)))))
+    (PP (IN on)
+        (NP (NP (DT a) (NN plot))
+            (ADJP (DT this)
+                  (JJ small)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP you))
+             (VP (VBP want)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VP (VB raise)
+                            (NP (NN feed)))
+                        (CC or)
+                        (VP (VB carry)
+                            (PRT (RP out))
+                            (NP (DT some) (NN enterprise))
+                            (PP (IN on)
+                                (NP (DT a)
+                                    (JJR larger)
+                                    (NN scale)))))))))
+    (, ,)
+    (S (NP (PRP you))
+       (AUX (MD 'll))
+       (VP (VB need)
+           (NP (JJR more)
+               (NN land)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (S (NP (-NONE- *))
+           (VP (VBG deciding)
+               (SBAR (WHNP (ADJP (WHADVP (WRB how))
+                                 (JJ much))
+                           (NN land))
+                     (S (NP (PRP you))
+                        (VP (VBP want)
+                            (NP (-NONE- T))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB take)
+           (PP (IN into)
+               (NP (NN account)))
+           (NP (NP (DT the) (NN amount))
+               (SBAR (-NONE- 0)
+                     (S (NP (PRP you))
+                        (AUX (MD 'll))
+                        (VP (VB need)
+                            (NP (-NONE- T)))
+                        (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB bring)
+                               (ADVP (RP in))
+                               (NP (NP (DT the) (NN income))
+                                   (SBAR (-NONE- 0)
+                                         (S (NP (PRP you))
+                                            (VP (VBP expect)
+                                                (NP (-NONE- T))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (-NONE- *))
+       (VP (VB consider)
+           (ADVP (RB also))
+           (SBAR (ADJP (WHADVP (WRB how))
+                       (RB much))
+                 (S (NP (NP (PRP you))
+                        (CC and)
+                        (NP (PRP$ your) (NN family)))
+                    (AUX (MD can))
+                    (VP (VB keep)
+                        (PRT (RP up)))
+                    (PP (IN along)
+                        (PP (IN with)
+                            (NP (PRP$ your) (JJ other) (NN work)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT The) (NN cost)
+            (PP (IN of)
+                (NP (NN land))))
+        (CC and)
+        (NP (DT the) (NNS prospects)
+            (PP (IN for)
+                (NP (NN appreciation)
+                    (PP (IN in)
+                        (NP (NN value)))))))
+    (AUX (MD may))
+    (VP (VB influence)
+        (NP (PRP$ your) (NN decision))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT Some) (ADJP (JJ part-time)) (NNS farmers))
+    (VP (VB buy)
+        (NP (JJR more)
+            (NN land)
+            (PP (IN than)
+                (S (NP (PRP they))
+                   (VP (VBP need))))))
+    (PP (IN in)
+        (NP (NN anticipation)
+            (PP (IN of)
+                (NP (JJ suburban) (NN development))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (NP (DT a)
+            (ADJP (RB highly)
+                  (JJ speculative)) (NN venture))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Sometimes))
+    (S (NP (DT a) (VP (VBN desired)) (NN acreage))
+       (AUX (VBZ is))
+       (VP (VBN offered)
+           
+           (PP (ADVP (RB only))
+               (IN as)
+               (NP (NN part)
+                   (PP (IN of)
+                       (NP (DT a)
+                           (JJR larger)
+                           (NN tract))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (JJ surplus) (NN land))
+             (VP (VBZ is)
+                 (NEG (RB not))
+                 (ADJP (JJ expensive)
+                       (S (S (NP (-NONE- *))
+                             (AUX (TO to))
+                             (VP (VB buy)))
+                          (CC or)
+                          (S (NP (-NONE- *))
+                             (AUX (TO to))
+                             (VP (VB keep)
+                                 (PRT (RP up)))))))))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (ADVP (RB usually))
+           (ADJP (JJR better)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB buy)
+                        (NP (PRP it))))
+                 (PP (IN than)
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB buy)
+                            (NP (ADJP (RB so)
+                                      (JJ small))
+                                (DT an) (NN acreage)
+                                (SBAR (IN that)
+                                      (S (NP (DT the) (NN development)
+                                             (PP (IN of)
+                                                 (NP (VBG adjoining)
+                                                     (NNS properties))))
+                                         (AUX (MD might))
+                                         (VP (VB impair)
+                                             (NP (DT the) (JJ residential) (NN value)
+                                                 (PP (IN of)
+                                                     (NP (DT the) (NN farm)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NNP Labor)))
+ 
+
+((S (SBAR (IN If)
+          (S (NP (PRP you))
+             (VP (VBP have)
+                 (NP (DT a)
+                     (ADJP (JJ year-round))
+                     (, ,)
+                     (ADJP (JJ full-time))
+                     (NN job)))))
+    (S (NP (PRP you))
+       (AUX (MD ca))
+       (NEG (RB n't))
+       (VP (VB expect)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB grow)
+                  (ADJP (RB much)
+                        (RBR more)
+                        (PP (IN than)
+                            (S (NP (PRP$ your) (NN family))
+                               (VP (VBZ uses))))))))
+       (: --)
+       (SBAR (IN unless)
+             (S (S (NP (JJ other) (NNS members)
+                       (PP (IN of)
+                           (NP (DT the) (NN family))))
+                   (VP (VBP do)
+                       (NP (DT a) (JJ good) (NN deal)
+                           (PP (IN of)
+                               (NP (DT the) (NN work))))))
+                (CC or)
+                (S (NP (PRP you))
+                   (VP (VBP hire)
+                       (NP (NN help))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN As)
+        (NP (DT a) (NN rule)))
+    (, ,)
+    (S (NP (ADJP (JJ part-time)) (NNS farmers))
+       (VP (VBP hire)
+           (NP (JJ little) (NN help)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (S (NP (-NONE- *))
+           (VP (VBG deciding)
+               (PP (IN on)
+                   (NP (NP (DT the) (NNS enterprises))
+                       (S (NP (-NONE- T))
+                          (AUX (TO to))
+                          (VP (VB be)
+                              (VP (VBN managed)
+                                  
+                                  (PP (IN by)
+                                      (NP (NN family) (NN labor)))))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB compare)
+           (NP (NP (DT the) (NN amount)
+                   (PP (IN of)
+                       (NP (NN labor))))
+               (SBAR (WHNP (WDT that))
+                     (S (NP (-NONE- T))
+                        (AUX (MD can))
+                        (VP (VB be)
+                            (VP (VBN supplied)
+                                
+                                (PP (IN by)
+                                    (NP (DT the) (NN family))))))))
+           (PP (IN with)
+               (NP (DT the) (NN labor) (NNS needs)
+                   (PP (IN of)
+                       (NP (NP (JJ various) (NNS enterprises))
+                           (VP (VBN listed)
+                               (PP (IN in)
+                                   (NP (NN table) (CD 1)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB List)
+        (NP (NP (DT the) (NN number)
+                (PP (IN of)
+                    (NP (NNS hours))))
+            (SBAR (-NONE- 0)
+                  (S
+                     (NP (DT the) (NN family))
+                     (AUX (MD can))
+                     (VP (VB be)
+                         (VP (VBN expected)
+                             
+                             (S (NP (-NONE- *))
+                                (AUX (TO to))
+                                (VP (VB work)
+                                    (NP (-NONE- T)))
+                                (NP (DT each) (NN month))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP You))
+    (AUX (MD may))
+    (VP (VB want)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB include)
+               (NP (PRP$ your)
+                   (JJ own) (JJ regular)
+                   (NN vacation) (NN period)))
+           (SBAR (IN if)
+                 (S (NP (PRP you))
+                    (VP (VBP have)
+                        (NP (CD one))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (AUX (VB Do))
+    (NEG (RB not))
+    (VP (VB include)
+        (NP (NP (NP (DT all)
+                    (PRP$ your) (JJ spare) (NN time))
+                (CC or)
+                (NP (DT all)
+                    (NP (PRP$ your) (NN family))
+                    (POS 's) (JJ spare) (NN time)))
+            (: --)
+            (SBAR (ADVP (RB only))
+                  (WHNP (WP what))
+                  (S
+                     (NP (PRP you))
+                     (AUX (VBP are))
+                     (VP (JJ willing)
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB use)
+                                (NP (-NONE- T))
+                                (PP (IN for)
+                                    (NP (NN farm) (NN work)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Equipment)))
+ 
+
+((S (SBAR (IN If)
+          (S (NP (PRP you))
+             (AUX (VBP are))
+             (VP (VBG going)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB produce)
+                        (PP (IN for)
+                            (NP (NN home) (NN use)
+                                (ADVP (RB only)))))))))
+    (, ,)
+    (S (NP (PRP you))
+       (AUX (MD will))
+       (VP (VB need)
+           (NP (ADVP (RB only))
+               (NN hand) (NNS tools)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (PRP You))
+    (AUX (MD will))
+    (ADVP (RB probably))
+    (VP (VB want)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB hire)
+               (NP (NP (NN someone))
+                   (S (NP (-NONE- T))
+                      (AUX (TO to))
+                      (VP (VB do)
+                          (NP (DT the) (NN plowing))))))))
+    (, ,)
+    (ADVP (RB however)))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (JJR larger)
+            (NNS plantings)))
+    (, ,)
+    (S (NP (PRP you))
+       (AUX (MD 'll))
+       (VP (VB need)
+           (NP (DT some) (NN kind)
+               (PP (IN of)
+                   (NP (NN power)
+                       (PP (IN for)
+                           (S (S (NP (-NONE- *))
+                                 (VP (VBG plowing)))
+                              (, ,)
+                              (S (NP (-NONE- *))
+                                 (VP (VBG harrowing)))
+                              (, ,)
+                              (S (NP (-NONE- *))
+                                 (VP (VBG disking)))
+                              (, ,)
+                              (CC and)
+                              (S (NP (-NONE- *))
+                                 (VP (VBG cultivating)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP you))
+             (VP (VBP have)
+                 (NP (DT a) (NN planting)
+                     (PP (IN of)
+                         (NP (NP (DT half)
+                                 (DT an) (NN acre))
+                             (CC or)
+                             (NP (RBR more))))))))
+    (S (NP (PRP you))
+       (AUX (MD may))
+       (VP (VB want)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB buy)
+                  (NP (NP (DT a) (JJ small) (NN garden) (NN tractor))
+                      (-LRB- -LRB-)
+                      (ADJP (JJ available)
+                            (PP (IN for)
+                                (NP (NP ($ $) (CD 300)
+                                        (PP (TO to)
+                                            (NP ($ $) (CD 500)
+                                                (PP (IN with)
+                                                    (NP (NNS attachments))))))
+                                    (, ,)
+                                    (NP (CD 1960) (NNS prices)))))
+                      (-RRB- -RRB-)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT These) (NNS tractors))
+    (VP (VBP are)
+        (NEG (RB not))
+        (ADJP (RB entirely)
+              (JJ satisfactory)
+              (PP (IN for)
+                  (S (NP (-NONE- *))
+                     (VP (VBG plowing))))))
+    (, ,)
+    (PP (ADVP (RB particularly))
+        (IN on)
+        (NP (JJR heavier)
+            (NNS soils)))
+    (, ,)
+    (S (ADVP (IN so))
+       (S (NP (PRP you))
+          (AUX (MD may))
+          (ADVP (RB still))
+          (VP (VB want)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB hire)
+                     (NP (NP (NN someone))
+                         (S (NP (-NONE- T))
+                            (AUX (TO to))
+                            (VP (VB do)
+                                (NP (DT the) (NN plowing)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NN Cost)
+        (PP (IN of)
+            (NP (NP (NN power))
+                (CC and)
+                (NP (NN machinery)))))
+    (VP (VBZ is)
+        (ADVP (RB often))
+        (NP (DT a) (JJ serious) (NN problem))
+        (PP (TO to)
+            (NP (DT the) (ADJP (JJ small-scale)) (NN farmer)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (S (NP (PRP you))
+             (AUX (VBP are))
+             (VP (VBG going)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB farm)
+                        (PP (IN for)
+                            (NP (JJ extra) (NN cash) (NN income)))
+                        (PP (IN on)
+                            (NP (DT a) (ADJP (JJ part-time)) (NN basis))))))))
+    (S (NP (PRP you))
+       (AUX (MD must))
+       (VP (VB keep)
+           (PP (IN in)
+               (NP (NN mind)))
+           (NP (DT the) (VP (VBN needed)) (NN machinery) (NNS investments)))
+       (SBAR (WHADVP (WRB when))
+             (S (NP (PRP you))
+                (VP (VBP choose)
+                    (PP (IN among)
+                        (NP (NN farm) (NNS enterprises))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (PRP You))
+    (AUX (MD can))
+    (VP (VB keep)
+        (NP (PRP$ your) (NN machinery) (NN investment))
+        (PRT (JJ down)))
+    (PP (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG buying)
+                   (NP (JJ good) (JJ secondhand)
+                       (NN machinery)))))
+        (, ,)
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG sharing)
+                   (NP (DT the) (NN cost) (CC and) (NN upkeep)
+                       (PP (IN of)
+                           (NP (NN machinery))))
+                   (PP (IN with)
+                       (NP (DT a) (NN neighbor))))))
+        (, ,)
+        (CC and)
+        (PP (IN by)
+            (NP (S (NP (-NONE- *))
+                   (VP (VBG hiring)
+                       (NP (NP (NN someone)
+                               (PP (IN with)
+                                   (NP (NN machinery))))
+                           (S (NP (-NONE- T))
+                              (AUX (TO to))
+                              (VP (VB do)
+                                  (NP (JJ certain) (NNS jobs)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (S (NP (NP (DT an) (ADJP (JJ expensive) (CC and) (JJ specialized)) (NN piece)
+                     (PP (IN of)
+                         (NP (NN machinery))))
+                 (ADJP-1 (-NONE- *pseudo-attach*)))
+             (AUX (VBZ is))
+             (VP (VBN needed))
+             (: --)
+             (ADJP-1 (JJ such)
+                     (PP (IN as)
+                         (NP (NP (DT a) (NN spray) (NN rig))
+                             (, ,)
+                             (NP (DT a) (NN combine))
+                             (, ,)
+                             (CC or)
+                             (NP (DT a) (NN binder)))))
+             (: --)))
+    (S (NP (PRP it)
+           (S-2 (-NONE- *pseudo-attach*)))
+       (VP (VBZ is)
+           (ADJP (JJR better)))
+       (S-2 (NP (-NONE- *))
+            (AUX (TO to))
+            (VP (VB pay)
+                (NP (NP (NN someone)
+                        (PP (IN with)
+                            (NP (DT a) (NN machine))))
+                    (S (NP (-NONE- T))
+                       (AUX (TO to))
+                       (VP (VB do)
+                           (NP (DT the) (NN work)))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VBG Selecting)
+        (NP (DT a) (NN farm)))))
+ 
+
+(
+ (S (PP (IN Before)
+        (S (NP (PRP you))
+           (VP (VBP look)
+               (PP (IN for)
+                   (NP (DT a) (NN farm))))))
+    (S (NP (PRP you))
+       (AUX (MD 'll))
+       (VP (VB need)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB know)
+                  (X (NP (NP (-LRB- -LRB-)
+                             (LS 1)
+                             (-RRB- -RRB-))
+                         (NP (NP (DT the) (NN kind) (CC and) (NN scale)
+                                 (PP (IN of)
+                                     (NP (NN farming))))
+                             (SBAR (-NONE- 0)
+                                   (S (NP (PRP you))
+                                      (VP (VBP want)
+                                          (S (NP (-NONE- *))
+                                             (AUX (TO to))
+                                             (VP (VB undertake)
+                                                 (NP (-NONE- T)))))))))
+                     (: ;)
+                     (: ;)
+                     (CC and)
+                     (SBAR (NP (-LRB- -LRB-)
+                               (LS 2)
+                               (-RRB- -RRB-))
+                           (SBAR (CC whether)
+                                 (S (NP (PRP you))
+                                    (VP (VBP want)
+                                        (S (NP (-NONE- *))
+                                           (AUX (TO to))
+                                           (VP (VP (VB buy))
+                                               (CC or)
+                                               (VP (VB rent))))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+((S (NP (NN Information)
+        (PP (IN on)
+            (NP (NNS pages) (NP (CD 8)
+                    (PP (TO to)
+                        (NP (CD 14)))))))
+    (AUX (MD may))
+    (VP (VB help)
+        (NP (PRP you))
+        (PP (IN in)
+            (S (NP (-NONE- *))
+               (VP (VBG deciding)
+                   (PP (IN on)
+                       (NP (DT the) (NN kind) (CC and) (NN scale)
+                           (PP (IN of)
+                               (NP (PRP$ your) (NN farming) (NN venture))))))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR (SBAR (IN If)
+                (S (NP (PRP you))
+                   (AUX (VBP are))
+                   (NEG (RB not))
+                   (VP (ADVP (RB well))
+                       (VBN acquainted)
+                       (PP (IN with)
+                           (NP (NP (DT the) (NN area))
+                               (SBAR (WHPP (IN in)
+                                           (WHNP (WDT which)))
+                                     (S (NP (PRP you))
+                                        (VP (VBP wish)
+                                            (S (NP (-NONE- *))
+                                               (AUX (TO to))
+                                               (VP (VB locate)))))))))))
+          (, ,)
+          (CC or)
+          (SBAR (IN if)
+                (S (NP (PRP you))
+                   (VP (VBP are)
+                       (NEG (RB not))
+                       (ADJP (JJ sure)
+                             (SBAR (IN that)
+                                   (S (NP (NP (PRP you))
+                                          (CC and)
+                                          (NP (PRP$ your) (NN family)))
+                                      (S (AUX (MD will))
+                                         (VP (VB like) (CC and) (VB make)
+                                             (NP (DT a) (NN success)
+                                                 (PP (IN of)
+                                                     (NP (NN farming)))))))))))))
+    (, ,)
+    (S (ADVP (RB usually))
+       (S (NP (PRP you))
+          (AUX (MD would))
+          (VP (VB do)
+              (ADVP (RB better)))
+          (S (NP (-NONE- *))
+             (AUX (TO to))
+             (VP (VB rent)
+                 (NP (DT a) (NN place)))
+             (PP (IN for)
+                 (NP (DT a) (NN year)
+                     (CC or)
+                     (CD two)))
+             (PP (RB before)
+                 (S (NP (PRP you))
+                    (VP (VBP buy))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (SINV (VP (VBN Discussed)
+           (ADVP (RB below)))
+       (AUX (VBP are))
+       (NP (DT some)
+           (PP (IN of)
+               (NP (NP (DT the) (JJ main) (NNS things))
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB look)
+                          (PP (IN for)
+                              (NP (-NONE- T))))
+                      (SBAR (WHADVP (WRB when))
+                            (S (NP (PRP you))
+                               (VP (VBP select)
+                                   (NP (DT a) (ADJP (JJ part-time)) (NN farm))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NP (NN Location))
+     (NP (NN nearness)
+         (PP (TO to)
+             (NP (NN work)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(--
+    (S (NP (-NONE- *))
+       (VP (VB Choose)
+           (NP (DT a) (NN location)
+               (PP (IN within)
+                   (NP (JJ easy) (NN commuting) (NN distance)
+                       (PP (IN of)
+                           (NP (DT both)
+                               (NP (DT the) (JJ regular) (NN job))
+                               (CC and)
+                               (NP (JJ other) (NN employment) (NNS opportunities)))))))))
+    (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Then))
+    (S (SBAR (IN if)
+             (S (NP (PRP you))
+                (VP (VBP change)
+                    (NP (NNS jobs)))))
+       (S (NP (PRP you))
+          (AUX (MD wo))
+          (NEG (RB n't))
+          (ADVP (RB necessarily))
+          (VP (VB have)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB sell)
+                     (NP (DT the) (NN farm))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (NN presence)
+        (PP (IN of)
+            (NP (JJ alternative) (NN job) (NNS opportunities))))
+    (ADVP (RB also))
+    (AUX (MD will))
+    (VP (VB make)
+        (NP (DT the) (NN place))
+        (ADJP (JJR easier)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB sell)))))
+    (SBAR (IN if)
+          (S (NP (DT that))
+             (AUX (MD should))
+             (VP (VB become)
+                 (ADJP (JJ desirable))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Obviously))
+    (S (NP (DT the) (NN farm))
+       (AUX (MD should))
+       (VP (VB be)
+           (PP (IN on)
+               (NP (DT an) (ADJP (JJ all-weather)) (NN road))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Nearness)
+     (PP (TO to)
+         (NP (NNS markets))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(--
+    (S (SBAR (IN If)
+             (S (NP (PRP you))
+                (VP (VBP grow)
+                    (NP (NP (NN anything))
+                        (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB sell)
+                               (NP (-NONE- T))))))))
+       (S (NP (PRP you))
+          (AUX (MD will))
+          (VP (VB need)
+              (NP (NNS markets))
+              (ADVP (RB nearby)))))
+    (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP you))
+             (VP (VBP plan)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB sell)
+                        (NP (NP (JJ fresh) (NNS vegetables))
+                            (CC or)
+                            (NP (JJ whole) (NN milk)))
+                        (, ,)
+                        (PP (IN for)
+                            (NP (NN example)))
+                        (, ,))))))
+    (S (NP (PRP you))
+       (AUX (MD should))
+       (VP (VB be)
+           (ADJP (JJ close)
+                 (PP (TO to)
+                     (NP (DT a) (NN town) (CC or) (NN city)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Kind)
+     (PP (IN of)
+         (NP (NN neighborhood))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(--
+    (S (NP (-NONE- *))
+       (VP (VB Look)
+           (PP (IN for)
+               (NP (DT a) (NN farm)
+                   (PP (IN in)
+                       (NP (DT a) (NN neighborhood)
+                           (PP (IN of)
+                               (NP (ADJP (JJ well-kept)) (NNS homes)))))))))
+    (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (EX There))
+    (VP (VBP are)
+        (NP (NNS slums))
+        (PP (PP (IN in)
+                (NP (DT the) (NN country)))
+            (ADVP (RB as)
+                  (RB well)
+                  (PP (IN as)
+                      (PP (IN in)
+                          (NP (DT the) (NN city))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (JJ Few) (JJ rural)
+        (NNS areas))
+    (AUX (VBP are))
+    (VP (VBN protected)
+        (PP (IN by)
+            (NP (VBG zoning)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT A) (NN tavern))
+        (, ,)
+        (NP (VP (VBG filling))
+            (NN station))
+        (, ,)
+        (NP (NN junk) (NN yard))
+        (, ,)
+        (NP (VP (NN rendering)) (NN plant))
+        (, ,)
+        (CC or)
+        (NP (DT some) (JJ other) (NN business)))
+    (AUX (MD may))
+    (VP (VB go)
+        (ADVP (RP up))
+        (ADJP (IN near)
+              (RB enough)
+              (S (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB hurt)
+                        (NP (PRP$ your) (NN home))))
+                 (CC or)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB hurt)
+                        (NP (PRP$ its) (NN value))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NNS Facilities)
+     (PP (IN in)
+         (NP (DT the) (NN area))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(--
+    (S (NP (-NONE- *))
+       (VP (VB Check)
+           (PP (RP on)
+               (NP (NP (DT the) (NNS schools)
+                       (PP (IN in)
+                           (NP (DT the) (NN area))))
+                   (, ,)
+                   (NP (DT the) (NN quality)
+                       (PP (IN of)
+                           (NP (NN teaching))))
+                   (, ,)
+                   (CC and)
+                   (NP (DT the) (NN provision)
+                       (PP (IN for)
+                           (NP (NN transportation)
+                               (PP (TO to) (CC and) (IN from)
+                                   (NP (PRP them))))))))))
+    (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Find)
+        (PRT (RP out))
+        (SBAR (IN whether)
+              (S (NP (NP (NN fire) (NN protection))
+                     (, ,)
+                     (NP (NN sewage) (NN system))
+                     (, ,)
+                     (NP (NN gas))
+                     (, ,)
+                     (NP (NN water) (NNS mains))
+                     (, ,)
+                     (CC and)
+                     (NP (JJ electrical) (NNS lines)))
+                 (VP (VBP are)
+                     (ADJP (JJ available)))
+                 (PP (IN in)
+                     (NP (DT the) (NN locality)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT these) (NNS facilities))
+             (VP (VBP are)
+                 (NEG (RB not))
+                 (PP (IN at)
+                     (NP (DT the) (NN door))))))
+    (, ,)
+    (S (NP (S (NP (-NONE- *))
+              (VP (VBG getting)
+                  (NP (PRP them)))))
+       (AUX (MD may))
+       (VP (VB cost)
+           (NP (JJR more)
+               (PP (IN than)
+                   (S (NP (PRP you))
+                      (VP (VBP expect))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (PRP You))
+    (AUX (MD may))
+    (VP (VB have)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VP (VB provide)
+                   (NP (PRP them))
+                   (NP (PRP yourself)))
+               (CC or)
+               (VP (VB get)
+                   (ADVP (RP along))
+                   (PP (IN without)
+                       (NP (PRP them))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (PRP You))
+    (AUX (MD can))
+    (NEG (RB not))
+    (VP (VB get)
+        (ADVP (RP along))
+        (PP (IN without)
+            (NP (DT an) (JJ adequate) (NN supply)
+                (PP (IN of)
+                    (NP (JJ pure) (NN water)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP you))
+             (AUX (VBP are))
+             (VP (VBG considering)
+                 (NP (NP (DT a) (ADJP (JJ part-time)) (NN farm))
+                     (SBAR (WHADVP (WRB where))
+                           (S (NP (DT the) (NN water))
+                              (AUX (MD must))
+                              (VP (VB be)
+                                  (VP (VBN provided)
+                                      
+                                      (PP (IN by)
+                                          (NP (DT a) (NN well)))))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB find)
+           (PRT (RP out))
+           (X (SBAR (IN if)
+                    (S (NP (EX there))
+                       (VP (VBZ is)
+                           (NP (DT a) (JJ good) (NN well))
+                           (PP (IN on)
+                               (NP (DT the) (NN farm))))))
+              (CC or)
+              (NP (DT the) (JJ probable) (NN cost)
+                  (PP (IN of)
+                      (S (NP (-NONE- *))
+                         (VP (VBG having)
+                             (NP (NN one))
+                             (VP (VBN drilled))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT A) (NN pond))
+    (AUX (MD may))
+    (VP (VB provide)
+        (NP (JJ adequate) (NN water)
+            (PP (IN for)
+                (NP (NP (NN livestock))
+                    (CC and)
+                    (NP (NN garden)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (NN Pond) (NN water))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN filtered)
+               (PP (IN for)
+                   (NP (JJ human) (NN use))))))
+    (, ,)
+    (CC but)
+    (S (NP (RBS most)
+           (ADJP (JJ part-time))
+           (NNS farmers))
+       (AUX (MD would))
+       (NEG (RB not))
+       (VP (VB want)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB go)
+                  (PP (TO to)
+                      (NP (ADJP (RB so)
+                                (JJ much))
+                          (NN trouble))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (JJ following) (NNS amounts)
+        (PP (IN of)
+            (NP (NN water))))
+    (AUX (VBP are))
+    (VP (VBN needed)
+        (PP (IN per)
+            (NP (NN day)))
+        (PP (IN for)
+            (NP (NP (NN livestock))
+                (CC and)
+                (NP (JJ domestic) (NNS uses))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Topography) (CC and) (NN soil)))
+ 
+
+(
+ (SQ (AUX (VBZ Is))
+     (NP (DT the) (NN land))
+     (VP (VBN suited)
+         (PP (TO to)
+             (NP (NP (DT the) (NNS crops))
+                 (SBAR (-NONE- 0)
+                       (S (NP (PRP you))
+                          (VP (VBP intend)
+                              (S (NP (-NONE- *))
+                                 (AUX (TO to))
+                                 (VP (VB raise)
+                                     (NP (-NONE- T)))))))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP you))
+             (AUX (MD ca))
+             (NEG (RB n't))
+             (VP (VB tell))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB get)
+           (NP (NN help))
+           (PP (IN from)
+               (NP (NP (PRP$ your) (NN county) (JJ agricultural) (NN agent))
+                   (CC or)
+                   (NP
+                       (JJ other) (JJ local)
+                       (NN specialist)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (NN Soil) (NN type))
+        (, ,)
+        (NP (NN drainage))
+        (, ,)
+        (CC or)
+        (NP (NN degree)
+            (PP (IN of)
+                (NP (NN slope)))))
+    (AUX (MD can))
+    (VP (VB make)
+        (NP (DT the) (NN difference)
+            (PP (IN between)
+                (NP (NP (JJ good) (NNS crops))
+                    (CC and)
+                    (NP (JJ poor) (NNS ones)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (JJ Small) (NNS areas))
+        (SBAR (WHNP (WDT that))
+              (S (NP (-NONE- T))
+                 (VP (VBP are)
+                     (NEG (RB n't))
+                     (ADJP (JJ right)
+                           (PP (IN for)
+                               (NP (DT a) (JJ certain) (NN crop))))))))
+    (AUX (MD may))
+    (VP (VB lie)
+        (PP (RB next)
+            (PP (TO to)
+                (NP (NP (NNS areas))
+                    (SBAR (WHNP (WDT that))
+                          (S (NP (-NONE- T))
+                             (AUX (VBP are))
+                             (ADVP (RB well))
+                             (VP (VBN suited)
+                                 (PP (TO to)
+                                     (NP (DT that) (NN crop)))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (DT The) (NN house)))
+ 
+
+((SQ (AUX (MD Will))
+     (NP (DT the) (NN house)
+         (PP (IN on)
+             (NP (NP (DT any) (ADJP (JJ part-time)) (NN farm))
+                 (SBAR (-NONE- 0)
+                       (S (NP (PRP you))
+                          (AUX (VBP are))
+                          (VP (VBG considering)
+                              (NP (-NONE- T))))))))
+     (VP (VB make)
+         (NP (DT a)
+             (JJ satisfactory) (ADJP (JJ full-time))
+             (NN residence))))
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBARQ (ADJP (WHADVP (WRB How))
+              (RB much))
+        (SQ (AUX (MD will))
+            (NP (PRP it))
+            (VP (VB cost))
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB do)
+                   (NP (DT any) (JJ necessary) (NN modernizing) (CC and) (NN redecorating))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (SBAR (IN If)
+                (S (NP (DT the) (NN house))
+                   (AUX (VBZ is))
+                   (NEG (RB not))
+                   (VP (VBN wired)
+                       (ADVP (RB adequately))
+                       (PP (IN for)
+                           (NP (NN electricity))))))
+          (CC or)
+          (SBAR (IN if)
+                (S (NP (NP (NN plumbing))
+                       (CC or)
+                       (NP (DT a) (JJ central) (NN heating) (NN system)))
+                   (AUX (MD must))
+                   (VP (VB be)
+                       (VP (VBN installed))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB check)
+           (PP (IN into)
+               (NP (DT the) (NN cost)
+                   (PP (IN of)
+                       (S (NP (-NONE- *))
+                          (VP (VBG making)
+                              (NP (DT these) (NNS improvements))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VBG Buying)
+        (NP (DT a) (NN farm)))))
+ 
+
+((S
+    (NP (DT The) (NN value)
+        (PP (IN of)
+            (NP (DT the) (NN farm)))
+        (PP (TO to)
+            (NP (PRP you))))
+    (AUX (MD will))
+    (VP (VB depend)
+        (PP (RP on)
+            (: --)
+            (NP (PRP$ Its) (NN worth)
+                (PP (IN as)
+                    (NP (NP (DT a) (NN place))
+                        (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB live)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (NP (DT The) (NN value)
+     (PP (IN of)
+         (NP (NP (DT the) (NNS products))
+             (SBAR (-NONE- 0)
+                   (S (NP (PRP you))
+                      (AUX (MD can))
+                      (VP (VB raise)
+                          (NP (-NONE- T))
+                          (PP (IN on)
+                              (NP (PRP it)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (DT The) (NNS possibilities)
+     (PP (IN of)
+         (S (NP (-NONE- *))
+            (VP (VBG selling)
+                (NP (DT the) (NN property))
+                (ADVP (RB later)
+                      (RP on))
+                (PP (IN for)
+                    (NP (JJ suburban) (NN subdivision)))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Decide)
+        (ADVP (RB first))
+        (SBAR (WHNP (WP what))
+              (S (NP (DT the) (NN place))
+                 (VP (VBZ is)
+                     (ADJP (JJ worth)))
+                 (PP (TO to)
+                     (NP (NP (PRP you))
+                         (CC and)
+                         (NP (PRP$ your) (NN family))))
+                 (PP (IN as)
+                     (NP (DT a) (NN home)))))
+        (PP (IN in)
+            (NP (NN comparison)
+                (PP (IN with)
+                    (SBAR (WHNP (WP what))
+                          (S (NP (PRP it))
+                             (AUX (MD would))
+                             (VP (VB cost)
+                                 (NP (-NONE- T)))
+                             (S (NP (-NONE- *))
+                                (AUX (TO to))
+                                (VP (VB live)
+                                    (PP (IN in)
+                                        (NP (NN town))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Take)
+        (PP (IN into)
+            (NP (NN account)))
+        (NP (DT the) (NN difference)
+            (PP (IN in)
+                (NP (NP (NN city) (CC and) (NN county)
+                        (NNS taxes)
+                        (, ,)
+                        (NN insurance) (NNS rates)
+                        (, ,)
+                        (NN utility) (NNS rates))
+                    (, ,)
+                    (CC and)
+                    (NP (DT the) (NN cost)
+                        (PP (IN of)
+                            (NP (NN travel)
+                                (PP (TO to)
+                                    (NP (NN work)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Next))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB estimate)
+           (NP (DT the) (NN value)
+               (PP (IN of)
+                   (NP (JJ possible) (NNS earnings)
+                       (PP (IN of)
+                           (NP (DT the) (NN farm)))))))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB do)
+           (NP (DT this))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBN set)
+           (PRT (RP up))
+           (NP (DT a) (NN plan)
+               (PP (IN on)
+                   (NP (NN paper)))
+               (PP (IN for)
+                   (S (NP (-NONE- *))
+                      (VP (VBG operating)
+                          (NP (DT the) (NN farm)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB List)
+        (NP (DT the) (NN kind) (CC and) (NN quantity)
+            (PP (IN of)
+                (NP (NP (NNS things))
+                    (SBAR (-NONE- 0)
+                          (S (NP (DT the) (NN farm))
+                             (AUX (MD can))
+                             (VP (VB be)
+                                 (VP (VBN expected)
+                                     (S (NP (-NONE- *))
+                                        (AUX (TO to))
+                                        (VP (VB produce)
+                                            (NP (-NONE- T))
+                                            (PP (IN in)
+                                                (NP (DT an) (JJ average) (NN year))))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Estimate)
+        (NP (DT the) (NN value)
+            (PP (IN of)
+                (NP (DT the) (NN produce)
+                    (PP (IN at)
+                        (NP (JJ normal) (NNS prices))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT The) (NN total))
+    (VP (VBZ is)
+        (NP (DT the)
+            (RB probably)
+            (JJ gross) (NN income)
+            (PP (IN from)
+                (NP (NN farming))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB find)
+           (NP (VP (VBN estimated))
+               (JJ net) (NN farm) (NN income))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB subtract)
+           (NP (VP (VBN estimated))
+               (JJ annual)
+               (VBG farming)
+               (NNS expenditures))
+           (PP (IN from)
+               (NP (JJ probable) (JJ gross)
+                   (NN income)
+                   (PP (IN from)
+                       (NP (NN farming))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Include)
+        (PP (IN as)
+            (NP (NNS expenditures)))
+        (NP (DT an) (NN allowance)
+            (PP (IN for)
+                (NP (NN depreciation)
+                    (PP (IN of)
+                        (NP (NP (NN farm) (NNS buildings))
+                            (CC and)
+                            (NP (NN equipment)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Also))
+    (S (NP (-NONE- *))
+       (VP (VB count)
+           (PP (IN as)
+               (NP (DT an) (NN expense)))
+           (NP (DT a) (NN charge)
+               (PP (IN for)
+                   (NP (NP (DT the) (NN labor))
+                       (S (NP (-NONE- T))
+                          (AUX (TO to))
+                          (VP (VB be)
+                              (VP (VBN contributed)
+                                  (PP (IN by)
+                                      (NP (DT the) (NN family))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (PRP It))
+       (AUX (MD may))
+       (VP (VB be)
+           (ADJP (JJ hard)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB decide)
+                        (SBAR (WHNP (WP what))
+                              (S
+                                 (NP (DT this) (NN labor))
+                                 (VP (VBZ is)
+                                     (ADJP (JJ worth))))))))))
+    (, ,)
+    (CC but)
+    (S (NP (-NONE- *))
+       (VP (VB charge)
+           (NP (NN something))
+           (PP (IN for)
+               (NP (PRP it))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Otherwise))
+    (, ,)
+    (S (NP (PRP you))
+       (AUX (MD may))
+       (VP (VP (VB pay)
+               (NP (RB too)
+                   (RB much))
+               (PP (IN for)
+                   (NP (DT the) (NN farm))))
+           (CC and)
+           (VP (VB get)
+               (NP (NN nothing))
+               (PP (IN for)
+                   (NP (PRP$ your) (NN labor)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB figure)
+           (NP (DT the) (NN value)
+               (PP (IN of)
+                   (NP (DT the) (NN farm)))
+               (PP (IN in)
+                   (NP (NNS terms)
+                       (PP (IN of)
+                           (NP (NN investment) (NN income))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB divide)
+           (NP (DT the)
+               (VP (VBN estimated)) (JJ annual) (JJ net)
+               (NN farm) (NN income))
+           (PP (IN by)
+               (NP (NP (DT the) (NN percentage))
+                   (SBAR (WHNP (IN that))
+                         (S (NP (PRP you))
+                            (AUX (MD could))
+                            (VP (VB expect)
+                                
+                                (S (NP (-NONE- *))
+                                   (AUX (TO to))
+                                   (VP (VB get)
+                                       (NP (-NONE- T))
+                                       (PP (IN in)
+                                           (NP (NN interest))))))
+                            (SBAR (IN if)
+                                  (S (NP (DT the) (NN money))
+                                     (AUX (VBD were))
+                                     (VP (VBN invested)
+                                         
+                                         (PP (IN in)
+                                             (NP (DT some) (JJ other) (NN way)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

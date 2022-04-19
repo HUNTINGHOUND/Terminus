@@ -1,0 +1,2397 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (NP Origin
+       (PP of
+	   (NP state automobile practices)))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The practice
+	 (PP of
+	     (NP  state-owned 
+		       vehicles
+		 (PP for
+		     (NP use
+			 (PP of
+			     (NP employees
+				 (PP on
+				     (NP business)))))))))
+     (VP dates
+	 (ADVP back)
+	 (PP over
+	     (NP forty years))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (PP At
+	   (NP (ADJP least)))
+       one state vehicle)
+   (VP was
+       (PP in
+	   (NP existence)))
+   (PP in
+       (NP 1917)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The state)
+   (ADVP presently)
+   (VP owns
+       (NP 389 passenger vehicles))
+   (PP in
+       (NP comparison
+	   (PP to
+	       (NP (ADVP approximately)
+		   200
+		   (PP in
+		       (NP 1940)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The automobile maintenance unit)
+	,
+	or
+	(NP motor pool)
+	,)
+    (X (VP came
+	    (PP into
+		(NP existence))
+	    (PP in
+		(NP 1942)))
+	and
+	(X (AUX has)
+	   (VP been
+	       (ADJP responsible
+		     (PP for
+			 (NP (ADJP centralized)
+			     maintenance and management
+			     (PP of
+				 (NP (ADJP state-owned) 
+				     transportation)))))
+	       (PP since
+		   (NP that time))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The motor pool)
+   (AUX has)
+   (VP made
+       (NP (NP (ADJP exceptional) 
+	       progress
+	       (PP in
+		   (NP (ADJP automotive) 
+		       management)))
+	   (VP including
+	       (X (NP establishment
+		      (PP of
+			  (NP cost billing systems)))
+		  ,
+		  (NP records
+		      keeping)
+		  ,
+		  (NP analyses
+		      (PP of
+			  (NP vehicle use)))
+		  ,
+		  and
+		  (S (NP *)
+		     (VP effecting
+			 (NP economies
+			     (PP in
+				 (NP vehicle operation))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Cars)
+   (AUX were)
+   (VP operated
+       (PP in
+	   (NP 1959))
+       (PP for
+	   (NP an 
+	       (ADJP average) 
+	       $
+	       .027
+	       (PP per
+		   (NP mile))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Purchase
+       (PP of
+	   (NP state vehicles)))
+   (AUX is)
+   (VP handled
+       (ADVP similarly
+	     (PP to
+		 (NP all state purchases)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Unit prices
+       (PP to
+	   (NP the state)))
+   (VP are
+       (ADJP (ADVP considerably)
+	     lower
+	     (PP than
+		 (PP to
+		     (NP the
+			 (ADJP general) 
+			 public)))))
+   (ADVP because
+	 (PP of
+	     (NP (NP quantity purchases)
+		 and
+		 (NP no payment
+		     (PP of
+			 (NP  state sales
+			      or
+			      (ADJP federal)
+			      excise taxes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Vehicle purchase)
+     ,
+     (NP assignment and use policies))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP
+	  (NP The legislature)
+	  's role
+	  (PP in
+	      (NP (NP policy determination)
+		  (VP-1 concerning
+			(NP (ADJP state-owned) 
+			    vehicles)))))
+	 (VP-1 *pseudo-attach*))
+     (AUX has)
+     (VP been
+	 (VP confined
+	     (ADVP almost
+		   exclusively)
+	     (PP to
+		 (S (NP *)
+		    (VP appropriating
+			(NP funds
+			    (PP for
+				(NP vehicles)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The 
+	    (ADJP meaningful) 
+	    policies)
+	(VP governing
+	    (NP the purchase
+		,
+		assignment
+		,
+		use and management
+		(PP of
+		    (NP state vehicles)))))
+    (AUX have)
+    (VP been
+	(VP shaped
+	    (PP by
+		(NP 
+		 (NP the state)
+		 's 
+		 (ADJP administrative) 
+		 officers)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Meaningful) 
+	policies)
+    (VP include
+	:
+	(X (NP (NP *LRB*
+		   A
+		   *RRB*)
+	       (NP (NP kinds
+		       (PP of
+			   (NP cars)))
+		   (SBAR 0
+			 (S (NP the state)
+			    (AUX should)
+			    (VP own
+				(NP T))))))
+	   ,
+	   (X (NP *LRB*
+		  B
+		  *RRB*)
+	      (SBAR 
+	       (WHADVP when)
+	       (S (NP cars)
+		  (AUX should)
+		  (VP be
+		      (VP traded)))))
+	   ,
+	   (NP (NP *LRB*
+		   C
+		   *RRB*)
+	       (NP the need and assignment
+		   (PP of
+		       (NP vehicles))))
+	   ,
+	   (NP (NP *LRB*
+		   D
+		   *RRB*)
+	       (NP use
+		   (PP of
+		       (NP cars))
+		   (PP in
+		       (NP lieu
+			   (PP of
+			       (NP mileage allowances))))))
+	   ,
+	   (NP (NP *LRB*
+		   E
+		   *RRB*)
+	       (NP (NP employees)
+		   (VP taking
+		       (NP cars)
+		       (ADVP (NP home)))))
+	   ,
+	   and
+	   (NP (NP *LRB*
+		   F
+		   *RRB*)
+	       (NP need
+		   (PP for
+		       (NP liability insurance
+			   (PP on
+			       (NP state automobiles)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A review
+	(PP of
+	    (NP these policies)))
+    (VP indicates
+	:
+	(NP *LRB*
+	    1
+	    *RRB*)
+	(SBAR 0
+	      (S (NP The state)
+		 (VP  purchases
+		      and
+		      assigns
+		      (NP grades
+			  (PP of
+			      (NP cars)))
+		      (VP according
+			  (PP to
+			      (NP (NP need and position status
+				      (PP of
+					  (NP driver)))
+				  and
+				  (NP use
+				      (PP of
+					  (NP vehicle)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 2
+	 *RRB*)
+     (S (NP The purchase
+	    (PP of
+		(NP (ADJP compact)
+		    *LRB*
+		    economy
+		    *RRB*
+		    cars)))
+	(AUX is)
+	(VP being
+	    (VP made
+		(ADVP currently)
+		(PP on
+		    (NP a test basis))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 3
+	 *RRB*)
+     (S (NP Cars)
+	(AUX are)
+	(VP traded
+	    (ADVP mostly)
+	    (PP on
+		(NP a three-year basis)))
+	(PP in
+	    (NP the interest
+		(PP of
+		    (NP economy))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 4
+	 *RRB*)
+     (S (NP (NP The factors)
+	    (VP governing
+		(NP need and assignment
+		    (PP of
+			(NP cars)))))
+	(VP are
+	    (ADJP flexible))
+	(VP according
+	    (PP to
+		(NP circumstances)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 5
+	 *RRB*)
+     (S (NP (ADJP Unsuccessful) 
+	    efforts
+	    (S-1 *pseudo-attach*))
+	(AUX have)
+	(VP been
+	    (VP made
+		))
+	(S-1 (NP *)
+	     (AUX to)
+	     (VP replace
+		 (NP (ADJP high
+			   mileage) allowances)
+		 (PP with
+		     (NP state automobiles))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 6
+	 *RRB*)
+     (S (NP It)
+	(VP is
+	    (ADJP (ADVP reasonably)
+		  economical))
+	(PP for
+	    (S (NP the state)
+	       (AUX to)
+	       (VP have
+		   (NP drivers)     
+		   (VP garage
+		       (NP state cars)
+		       (PP at
+			   (NP their homes))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 7
+	 *RRB*)
+     (S (NP The state)
+        (AUX has)
+        (ADVP recently)
+        (VP undertaken
+            (NP liability insurance
+		(PP for
+		    (NP drivers
+			(PP of
+			    (NP state cars))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Automobile practices
+      (PP in
+	  (NP (ADJP other) 
+	      states)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP A survey
+	     (PP of
+		 (NP  practices 
+		     and 
+		     policies
+		     (PP in
+			 (NP (ADJP other)
+			     states)))))
+	 (VP concerning
+	     (NP  assignment
+		 and 
+		 (NP use)
+		 (PP of
+		     (NP state automobiles)))))
+     (VP reveals
+	 (NP several points
+	     (PP for
+		 (NP comparison
+		     (PP with
+			 (NP 
+			  (NP Rhode Island)
+			  's practices)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Forty-seven states)
+   (VP assign
+       or
+       provide
+       (NP vehicles
+	   (PP for
+	       (NP employees
+		   (PP on
+		       (NP state business)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two
+       (ADJP other) 
+       states)
+   (VP provide
+       (NP vehicles)
+       ,
+       (ADVP but)
+       (ADVP only)
+       (PP with
+	   (NP (ADJP legislative)
+	       approval))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP States)
+	 (SBAR 
+	  (WHNP which)
+	  (S (NP T)
+	     (VP provide
+		 (NP automobiles
+		     (PP-2 *pseudo-attach*))
+		 (PP-2 for
+		       (NP employees))))))
+     (VP assign
+	 (NP them)
+	 (ADVP variously)
+	 (PP (PP to
+		 (NP (NP the agency)
+		     ,
+		     (NP the individual)))
+	     ,
+	     or
+	     (PP to
+		 (NP a 
+		     (ADJP central) 
+		     pool)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Twenty-six states)
+   (VP operate
+       (NP a 
+	   (ADJP central)
+	   motor pool
+	   (PP for
+	       (NP acquisition
+		   ,
+		   allocation and maintenance
+		   (PP of
+		       (NP (ADJP state-owned) 
+			   vehicles)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nineteen states)
+   (VP report
+       (NP  laws
+	   ,
+	   policies
+	   or
+	   regulations
+	   (PP for
+	       (S (NP *)
+		  (VP assigning
+		      (NP state vehicles)
+		      (PP in
+			  (NP lieu
+			      (PP of
+				  (S (NP *)
+				     (VP paying
+					 (NP mileage allowances))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Of
+	 (NP these states))
+     (S (NP (NP the
+		(ADVP average)
+		``
+		change-over
+		''
+		point)
+	    (SBAR *LRB*
+		  (WHPP at
+			(WHNP which))
+		  (S (NP a car)
+		     (AUX is)
+		     (VP substituted
+			 (PP for
+			     (NP allowances))))
+		  *RRB*))
+	(VP is
+	    (NP 13,200 miles
+		(PP per
+		    (NP year))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Mileage allowances)
+ .)
+(  END_OF_TEXT_UNIT)
+(S (NP Mileage allowances
+       (PP for
+	   (NP state employees)))
+   (VP are
+       (PP of
+	   (NP (NP two types)
+	       :
+	       (NP (NP (NP *LRB*
+			   A
+			   *RRB*)
+		       (NP (ADJP actual) 
+			   mileage))
+		   and
+		   (NP (NP *LRB*
+			   B
+			   *RRB*)
+		       (NP  fixed
+			    monthly 
+			   allowances)))))))
+ .
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP  Actual 
+	mileage allowances)
+   (VP are
+       (NP (NP itemized
+	       reimbursements)
+	   (VP allowed
+	       (NP employees)
+	       (PP for
+		   (NP the use
+		       (PP of
+			   (NP (ADJP personally-owned) 
+			       vehicles))
+		       (PP on
+			   (NP state business)))))
+	   (PP at
+	       (NP the rate
+		   (PP of
+		       (NP $ .07
+			   (PP per
+			       (NP mile)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Fixed)
+	 (ADJP monthly)
+	 allowances)
+     (VP are
+	 (NP reimbursements
+	     (PP for
+		 (NP the
+		     (ADJP same) 
+		     purpose))
+	     (ADVP except)
+	     (PP on
+		 (NP a 
+		     (ADJP non-itemized)
+		     basis)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+( (S
+   (NP  Both
+       allowances)
+   (AUX are)
+   (VP governed
+	     
+       (PP by
+	   (NP (NP (NP conditions) 
+		   and 
+		   (NP restrictions))
+	       (VP set
+		   (ADVP forth)
+		   (PP in
+		       (NP detail))
+		   (PP in
+		       (NP 
+			(NP the state)
+			's Travel Regulations)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Rhode Island)
+    's 
+    reimburseable 
+    rate
+    (PP of
+	(NP $ .07
+	    (PP per
+		(NP mile))))
+    (PP for
+	(NP use
+	    (PP of
+		(NP (ADJP personally-owned) 
+		    cars)))))
+   (VP compares
+       (ADVP favorably)
+       (PP with
+	   (NP 
+	    (NP (ADJP other)
+		states)
+	    ' rates))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The average
+       (PP of
+	   (NP 
+	    (NP states)
+	    ' rates)))
+   (VP is
+       (NP $ .076
+	   (PP per
+	       (NP mile)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Rhode Island)
+    's rate
+    (PP of
+	(NP $ .07
+	    (PP per
+		(NP mile)))))
+   (VP is
+       (ADJP (ADVP considerably)
+	     lower
+	     (PP than
+		 (NP (ADJP reimburseable)
+		     rates
+		     (PP (PP in
+			     (NP the 
+				 (ADJP federal) 
+				 government))
+			 and
+			 (PP in
+			     (NP (NP industry
+				     (ADVP nationally))
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (VP approximate
+					 (NP a
+					     $ .09
+					     (PP per
+						 (NP mile))
+					     average))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP  Actual 
+       mileage allowances)
+   (VP are
+       (ADJP (ADJP well-administered)
+	     and
+	     (NEG not)
+	     (ADJP (ADVP unduly)
+		   expensive
+		   (PP for
+		       (NP the state))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The travel regulations
+	    ,
+	    requirements and procedures)
+	(VP governing
+	    (NP reimbursement)))
+    (AUX are
+	 (X (VP controlled
+		(ADVP properly))
+	    and
+	    (NEG not)
+	    (ADJP (ADVP overly)
+		  restrictive))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Fixed)
+	 (ADJP monthly) 
+	 allowances)
+     (VP are
+	 (NP a 
+	     (ADJP controversial) 
+	     subject)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP have
+       (NP a 
+	   (ADJP great) 
+	   advantage))
+   (PP in
+       (NP ease
+	   (PP of
+	       (NP (NP audit time) 
+		   and 
+		   (NP payment))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (NP they)
+	(VP lend
+	    (NP themselves)
+	    (PP to
+		(NP (NP abuse)
+		    and
+		    (NP (ADJP inadequate) 
+			control measures))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Flat) 
+       payments
+       (PP over
+	   (NP $ 50
+	       (PP per
+		   (NP month)))))
+   (VP are
+       (ADJP more
+	     expensive
+	     (PP to
+		 (NP the state))
+	     (PP than
+		 (NP the assignment
+		     (PP of
+			 (NP (ADJP state-owned) 
+			     vehicles)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Travel allowances)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Travel allowances)
+	,
+	(VP including
+	    (NP subsistence))
+	,)
+    (X (X (AUX have)
+	  (VP been
+	      (VP revised
+		  (PP by
+		      (NP (ADJP administrative) 
+			  officials))
+		  (ADVP recently))))
+       and
+       (VP compare
+	   (ADVP favorably)
+	   (PP with
+	       (NP 
+		(NP (ADJP other)
+		    states)
+		' allowances)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (ADJP few)
+	    exceptions))
+    (S (NP travelers
+	   (PP on
+	       (NP state business)))
+       (AUX are)
+       (VP allowed
+	   (NP (NP (ADJP actual) 
+		   travel expenses)
+	       and
+	       (NP $
+		   15
+		   (PP per
+		       (NP day))
+		   subsistence)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Travel allowances)
+   (VP (VP are
+	   (ADJP well-regulated))
+       and
+       (VP pose
+	   (NP little problem
+	       (PP in
+		   (NP (NP administration) 
+		       and 
+		       (NP audit control)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Origin
+	 (PP of
+	     (NP state automobile practices)))
+     (NP (ADJP general) 
+	 background))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADJP difficult
+	     (S (NP *)
+		(AUX to)
+		(VP pinpoint
+		    (NP the time
+			(PP of
+			    (NP origin
+				(PP of
+				    (NP (NP the state)
+					(VP purchasing
+					    (NP automobiles)
+					    (PP for
+						(NP use
+						    (PP of
+							(NP
+							 employees)))))))
+				(PP in
+				    (NP Rhode Island))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (NP (ADJP Few) 
+		records)
+	    (VP-3 *pseudo-attach*))
+	(ADJP-4 *pseudo-attach*))
+    (VP are
+	(ADJP available))
+    (VP-3 concerning
+	  (NP (NP the subject)
+	      (ADJP-4 *pseudo-attach*)))
+    (ADJP-4 prior
+	    (PP to
+		(NP 1940))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Those)
+	 (SBAR that
+	       (S (NP T)
+		  (VP are
+		      (ADJP available)))))
+     (VP shed
+	 (NP little light)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Registry
+	(PP of
+	    (NP Motor Vehicles)))
+    (VP indicates
+	(SBAR that
+	      (S (NP (PP at
+			 (ADJP least))
+		     one state automobile)
+		 (AUX was)
+		 (VP registered)
+		 (ADVP (ADJP as
+			     far)
+		       back
+		       (PP as
+			   (NP 1917)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX should)
+   (VP be
+       (ADJP enough))
+   (S (NP *)
+      (AUX to)
+      (VP say
+	  (SBAR that
+		(S (NP the practice
+		       (PP of
+			   (NP (NP the state)
+			       (VP buying
+				   (NP automobiles)))))
+		   (VP is
+		       (ADJP (NP (PP at
+				     (ADJP least))
+				 forty years)
+			     old)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The
+	     (ADJP best)
+	     reason
+	     (PP-5 *pseudo-attach*))
+	 (SBAR that
+	       (S (NP T)
+		  (AUX can)
+		  (VP be
+		      (VP advanced))))
+	 (PP-5 for
+	     (NP (NP the state)
+		 (VP adopting
+		     (NP the practice)))))
+     (VP was
+	 (NP the advent
+	     (PP of
+		 (NP (ADJP expanded
+			   highway construction)))
+	     (PP during
+		 (NP the 1920s
+		     and
+		     '30s)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP that time))
+    (S (NP highway engineers)
+       (VP traveled
+	   (NP (ADJP rough and dirty) 
+	       roads))
+       (S (NP *)
+	  (AUX to)
+	  (VP accomplish
+	      (NP their duties)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *)
+	(VP Using
+	    (NP (ADJP privately-owned) 
+		vehicles)
+	    (VP was
+		(NP a 
+		    (ADJP personal)
+		    hardship)))
+	(PP for
+	    (NP (ADJP such) 
+		employees)))
+     ,
+     and
+     (S (NP the matter
+	    (PP of
+		(S (NP *)
+		   (VP providing
+		       (NP state transportation)))))
+	(AUX was)
+	(VP felt
+	    (ADJP (ADVP perfectly)
+		  justifiable)))) 
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Once
+	    (S (NP the principle)
+	       (AUX was)
+	       (VP established)))
+      ,
+      (S (NP the increase
+	     (PP in
+		 (NP (ADJP state-owned) 
+		     vehicles)))
+	 (VP came
+	     (ADVP rapidly))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP reasons)
+	     (ADJP other
+		   (PP than
+		       (NP employee need))))
+	 (VP contributed
+	     (PP to
+		 (NP the growth)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Table 1)
+       (ADVP immediately
+	     below))
+   (VP shows
+       (NP the rate
+	   (PP of
+	       (NP growth
+		   (PP of
+		       (NP (NP vehicles)
+			   and
+			   (NP employees))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This rate
+       (PP of
+	   (NP increase))
+       (PP-1 *pseudo-attach*))
+   (AUX does)
+   (NEG not)
+   (VP signify
+       (NP anything
+	   (PP-1 *pseudo-attach*)))
+   (PP-1 in
+	 (NP itself)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX does)
+   (NEG not)
+   (VP indicate
+       (NP (NP (ADJP loose)
+	       management)
+	   ,
+	   (NP (ADJP ineffective) 
+	       controls)
+	   or
+	   (NP (ADJP poor) 
+	       policy))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP it)
+        (AUX does)
+        (VP show
+	    (SBAR that
+		  (S (NP automobiles)
+		     (AUX have)
+		     (VP increased
+			 (X (X (ADVP steadily)
+			       (PP over
+				   (NP the years)))
+			    and
+			    (PP in
+				(NP almost
+				    the
+				    (ADJP same)
+				    proportion
+				    (PP to
+					(NP the increase
+					    (PP of (NP state
+						       employees))))))))))))  )
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the
+             (ADJP past)
+	     twenty years))
+     (S (NP the ratio
+	    (PP of
+		(NP (ADJP state-owned) 
+		    automobiles
+		    (PP per
+			(NP state employees)))))
+	(AUX has)
+	(VP varied
+	    (PP (PP from
+		    (NP 1
+			(PP to
+			    (NP 22))
+			(ADVP then)))
+		(PP to
+		    (NP 1
+			(PP to
+			    (NP 23))
+			(ADVP now)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (SBAR Whether
+	     (X (S (NP there)
+		   (VP were
+		       (NP (ADJP (ADVP too)
+				 few)
+			   automobiles))
+		   (PP in
+		       (NP 1940)))
+		or
+		(NP (ADJP (ADVP too)
+			  many)
+		    (ADVP now)))))
+   (VP is
+       (ADJP problematical)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The fact)
+   (VP is
+       (ADVP simply)
+       (SBAR that
+	     (S (NP (ADJP state-owned) 
+		    vehicles)
+		(AUX have)
+		(VP remained
+		    (PP in
+			(ADVP practically)
+			(NP the
+			    (ADJP same) 
+			    proportion
+			    (PP as
+				(NP (NP employees)
+				    (S (NP *)
+				       (AUX to)
+				       (VP use
+					   (NP them))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP  History 
+      and 
+      operation
+      (PP of
+	  (NP the motor pool)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR While
+	 (S (NP the origin
+		(PP of
+		    (NP (ADJP state-owned) 
+			automobiles)))
+	    (AUX may)
+	    (VP be
+		(VP obscured))))
+   ,
+   (S (NP (NP (ADJP subsequent) 
+	      developments)
+	  (VP concerning
+	      (NP the assignment
+		  ,
+		  use
+		  ,
+		  and
+		  management
+		  (PP of
+		      (NP state automobiles)))))
+      (AUX can)
+      (VP be
+	  (VP related
+	      (ADVP more clearly)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADJP Prior
+	  (PP to
+	      (NP 1942)))
+    ,
+    (S (NP automobiles)
+       (VP were
+	   (NP the 
+	       (ADJP individual) 
+	       responsibility
+	       (PP of
+		   (NP (NP the agency)
+		       (SBAR (WHPP to
+				   (WHNP which))
+			     (S (NP *)
+				(VP assigned)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This responsibility)
+   (VP included
+       (NP all phases
+	   (PP of
+	       (NP management)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP embraced
+	(S (NP *)
+	   (VP determining
+	       (X (SBAR (WHADVP when)
+			(S (NP *)
+			   (AUX to)
+			   (VP purchase
+			       (NP-2 *pseudo-attach*))))
+		  and
+		  (SBAR (WHADVP when)
+			(S (NP *)
+			   (AUX to)
+			   (VP trade
+			       (NP-2 *pseudo-attach*))))
+		  (NP-2 vehicles)
+		  ,
+		  (SBAR 
+		   (WHNP who)
+		   (S (NP T)
+		      (VP was
+			  (S (NP *)
+			     (AUX to)
+			     (VP drive)))))
+		  ,
+		  (SBAR (WHADVP when
+				and
+				where)
+			(S (NP repairs)
+			   (VP were
+			       (S (NP *)
+				  (AUX to)
+				  (VP be
+				      (VP made))))))
+		  ,
+		  (SBAR 
+		   (WHADVP where)
+		   (S (NP (NP gasoline) 
+			  and 
+			  (NP automobile services))
+		      (VP were
+			  (S (NP *)
+			     (AUX to)
+			     (VP be
+				 (VP obtained))))))
+		  and
+		  (NP  other
+		       allied
+		      matters))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1942))
+    ,
+    (ADVP however)
+    ,
+    (S (NP the nation)
+       (VP was
+	   (PP at
+	       (NP war)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Gasoline) 
+       and 
+       (NP automobile tires))
+   (VP were
+       (NP (ADJP rationed)
+	   commodities)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The state)
+   (AUX was)
+   (VP confronted
+       (PP with
+	   (NP (NP transportation problems)
+	       (ADJP similar
+		     (PP to
+			 (NP those
+			     (PP of
+				 (NP the individual)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP met
+	(NP these problems)
+	(PP by
+	    (NP the creation
+		(PP of
+		    (NP (NP (NP the state automobile maintenance unit)
+			    (VP *LRB*
+				(ADVP more popularly)
+				called
+				(NP the motor pool)
+				*RRB*))
+			,
+			(NP a 
+			    (ADJP centralized) 
+			    operation
+			    (PP for
+				(NP the maintenance and control
+				    (PP of
+					(NP all state transportation)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The motor pool)
+    (ADVP then)
+    ,
+    (PP as
+	(ADVP now))
+    ,
+    (VP had
+	(NP (NP headquarter facilities
+		(PP in
+		    (NP Providence)))
+	    and
+	    (NP (NP other garages)
+		(VP located
+		    (PP throughout
+			(NP the state)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP was
+	   (ADVP organizationally)
+	   (NP the responsibility
+	       (PP of
+		   (NP the Department
+		       (PP of
+			   (NP (ADJP Public) 
+			       Works))))))
+       and
+       (X (AUX was)
+	  (VP financed
+	      (PP on
+		  (NP a rotary fund basis))
+	      (PP with
+		  (NP (NP each agency
+			  (PP of
+			      (NP government)))
+		      (VP contributing
+			  (PP to
+			      (NP 
+			       (NP the pool)
+			       's operation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP 1951))
+     (S (NP 
+	 (NP the pool)
+	 's operation)
+	(AUX was)
+	(VP transferred
+	    (PP to
+		(NP (NP the
+			(ADJP newly-created)
+			Department
+			(PP of
+			    (NP Administration)))
+		    ,
+		    (NP (NP an agency)
+			(VP established
+			    (PP as
+				(NP the 
+				    (ADJP central)
+				    staff
+				    and
+				    (ADJP auxiliary)
+				    department
+				    (PP of
+					(NP the state government)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The management
+	  (PP of
+	      (NP (ADJP state-owned) 
+		  vehicles)))
+      (PP since
+	  (NP that time))
+      (AUX has)
+      (VP been
+	  (VP described
+	      (PP in
+		  (NP a 
+		      (ADJP recent) 
+		      report))
+	      (PP in
+		  (NP the following manner)))))
+     :
+     (S ``
+	(PP Under
+	    (NP this
+		(ADJP new) 
+		management))
+	(S (NP (ADJP considerable)
+	       progress)
+	   (VP appears
+	       (S (NP *)
+		  (AUX to)
+		  (VP have
+		      (VP been
+			  (VP made
+			      ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The agencies
+       (PP of
+	   (NP government)))
+   (AUX are)
+   (ADVP now)
+   (VP billed
+       (PP for
+	   (NP (NP the 
+		   (ADJP actual) 
+		   cost
+		   (PP of
+		       (NP services)))
+	       (VP provided
+		   (PP to
+		       (NP each passenger car))))
+	       (ADVP rather
+		     (PP than
+			 (NP the
+			     (ADJP prior)
+			     (ADJP uniform)
+			     charge
+			     (PP for
+				 (NP all cars))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (ADVP Whereas)
+     (S (NP the maintenance rotary fund)
+	(AUX had)
+	(PP in
+	    (NP the past))
+	(VP sustained
+	    (NP (NP losses)
+		(PP (ADVP considerably)
+		    beyond
+		    (NP expectations)))))
+     ,
+     (S (NP the introduction
+	    (PP of
+		(NP (NP the cost-billing system)
+		    plus
+		    (NP (ADJP other)
+			control refinements))))
+	(AUX has)
+	(VP resulted
+	    (PP in
+		(S (NP *)
+		   (VP keeping
+		       (NP the fund)
+		       (PP on
+			   (NP a
+			       (ADJP proper) 
+			       working basis))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One indication
+       (PP of
+	   (NP the merits
+	       (PP of
+		   (NP the 
+		       (ADJP new) 
+		       management)))))
+   (AUX is)
+   (VP found
+       (PP in
+	   (NP the fact
+	       (SBAR that
+		     (S (PP during
+			    (NP (NP the
+				    period)
+				(NP 1951-1956)
+				,
+				(SBAR while
+				      (S (NP (NP (ADJP total) 
+						 (ADJP annual) 
+						 mileage)
+					     (VP put
+						 (PP on
+						     (NP the vehicles))))
+					 (VP increased
+					     (NP 35 %))))))
+			,
+			(S (NP the 
+			       (ADJP total) 
+			       maintenance cost)
+			   (VP increased
+			       (NP only
+				   11 %
+				   )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S ``
+     (PP In
+	 (NP order
+	     (S (NP *)
+		(AUX to)
+		(ADVP further)
+		(VP refine
+		    (NP the management
+			(PP of
+			    (NP passenger vehicles)))))))
+     ,
+     (S (PP on
+	    (NP July 1 , 1958))
+	,
+	(S (NP the
+	       (ADJP actual)
+	       title
+	       (PP to
+		   (NP every vehicle)))
+	   (AUX was)
+	   (VP transferred
+	       ,
+	       (PP by
+		   (NP  Executive 
+		       Order))
+	       ,
+	       (PP to
+		   (NP the Division
+		       (PP of
+			   (NP (NP Methods)
+			       ,
+			       (NP Research)
+			       and
+			       (NP Office Services)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The objective
+       (PP behind
+	   (NP this action)))
+   (VP was
+       (S (NP *)
+	  (AUX to)
+	  (VP place
+	      (PP in
+		  (NP one agency))
+	      (NP the responsibility
+		  (PP for
+		      (NP the management
+			  ,
+			  assignment
+			  ,
+			  and
+			  replacement
+			  (PP of
+			      (NP all vehicles)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *) 
+     (VP Note
+	 :
+	 (SBAR 0
+	       (S (ADJP So
+			far
+			(PP as
+			    (S (NP State Police cars)
+			       (AUX are)
+			       (VP concerned
+				   ))))
+		  ,
+		  (S (NP only
+			 their replacement)
+		     (VP is
+			 (PP under
+			     (NP this division)))))))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP tied
+	(PRT in)
+	(ADVP closely)
+	(PP with
+	    (NP the 
+		(ADJP current) 
+		attempt
+		(S (NP *)
+		   (AUX to)
+		   (VP upgrade
+		       (NP (ADJP state-owned) 
+			   cars)
+		       (PP to
+			   (NP the extent
+			       (SBAR that
+				     (S (NP vehicles)
+					(AUX are)
+					(NEG not)
+					(VP retained
+					    (PP beyond
+						(NP (NP the point)
+						    (SBAR 
+						     (WHADVP where)
+						     (S (NP maintenance costs
+							    *LRB*
+							    (PP in
+								(NP light
+								    (PP of
+									(NP depreciation))))
+							    *RRB*)
+							(VP become
+							    (ADJP excessive)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADVP Moreover)
+	,
+	(S (NP it)
+	   (VP allows
+	       (NP the 
+		   (ADJP present 
+			 management))
+	       (S (NP *)
+		  (AUX to)
+		  (VP reassign
+		      (NP vehicles))
+		  (ADVP so
+			(SBAR that 
+			      (S (NP mileage)
+				 (AUX will)
+				 (VP be
+				     (VP (ADVP more uniformly)
+					 distributed
+					 (PP throughout
+					     (NP the fleet)))))))))))
+     ;
+     ;
+     (S (PP for
+	    (NP example))
+	,
+	(S (SBAR if
+		 (S (S (NP one driver)
+		       (VP puts
+			   (PRT on)
+			   (NP 22,000 miles
+			       (PP per
+				   (NP year)))))
+		    and
+		    (X (NP another
+			   driver)
+		       (NP 8,000
+			   miles
+			   (PP per
+			       (NP year))))))
+	   ,
+	   (S (NP their cars)
+	      (AUX will)
+	      (VP be
+		  (VP switched))
+	      (ADVP so
+		    (SBAR that
+			  (S (NP both
+				 cars)
+			     (AUX will)
+			     (VP have
+				 (NP 30,000 miles
+				     (PP after
+					 (NP two years)))
+				     ,
+				     (ADVP rather
+					   (PP than
+					       (NP (NP (NP 44,000 miles)
+						       *LRB*
+						       and
+						       (NP (ADJP related)
+							   (ADJP higher)
+							   maintenance costs)
+						       *RRB*)
+						   and
+						   (NP 16,000 miles)
+						   (ADVP respectively))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The motor pool)
+   (VP is
+       (NP a
+	   (ADJP (ADVP completely)
+		 centralized
+		 and
+		 mechanized)
+	   operation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP handles
+	   (NP all types
+	       (PP of
+		   (NP vehicle maintenance))))
+       ,
+       but
+       (VP concentrates
+	   (ADVP (ADVP more
+		       (PP on
+			   (NP ``
+			       service station activities
+			       '')))
+		 (ADVP than
+		       (PP on
+			   (NP (ADJP extensive)
+			       vehicle repairs)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP contracts
+       (PP with
+	   (NP outside repair garages))
+       (PP for
+	   (NP much
+	       (PP of
+		   (NP the latter work))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (SBAR 
+	 (WHADVP Where)
+	 (S (NP the pool)
+	    (VP excels))))
+    (VP is
+	(PP in
+	    (NP its compilation
+		(PP of
+		    (NP maintenance
+			and
+			cost-data studies and analyses))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pool records)
+   (VP reveal
+       (PP in
+	   (NP detail))
+       (X (NP (NP the cost
+		  (PP per
+		      (NP mile)))
+	      and
+	      (NP miles
+		  (PP per
+		      (NP gallon
+			  (PP of
+			      (NP each vehicle))))))
+	  ,
+	  (NP (NP the miles)
+	      (VP traveled
+		  (PP in
+		      (NP (NP one year)
+			  or
+			  (NP three years)))))
+	  ,
+	  (NP (NP the periods)
+	      (SBAR 
+	       (WHADVP when)
+	       (S (NP vehicle costs)
+		  (VP become
+		      (ADJP excessive)))))
+	  ,
+	  and
+	  (SBAR 
+	   (WHADVP when)
+	   (S (NP cars)
+	      (AUX should)
+	      (VP be
+		  (VP traded))
+	      (PP for
+		  (NP (ADJP sound) 
+		      economies)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP this))
+    ,
+    (S (NP motor pool personnel)
+       (VP develop
+	   (NP (ADJP other)
+	       (ADJP meaningful)
+	       and
+	       (ADJP related)
+	       data))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1959-60))
+    ,
+    (S (NP vehicles)
+       (VP averaged
+	   (NP an operating cost
+	       (PP of
+		   (NP $ .027
+		       (PP per
+			   (NP mile))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (X (VP Based
+	    (PP on
+		(NP this figure)))
+	and
+	(S (NP *)
+	   (VP considering
+	       (NP depreciation costs
+		   (PP of
+		       (NP vehicles))))))
+     ,
+     (S (NP pool personnel)
+	(AUX have)
+	(VP determined
+	    (SBAR that 
+		  (S (NP travel
+			 (PP in
+			     (NP excess
+				 (PP of
+				     (NP 10,000 miles
+					 (ADVP annually))))))
+		     (VP is
+			 (ADJP more
+			       economical
+			       (PP by
+				   (NP state car))
+			       (ADVP than
+				     (PP by
+					 (NP payment
+					     (PP of
+						 (NP allowances
+						     (PP for
+							 (NP use
+							     (PP of
+								 (NP (ADJP personally-owned)
+								     vehicles))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP estimate
+	(ADVP further)
+	(SBAR that
+	      (S (X (PP with
+			(NP (ADJP sufficient) 
+			    experience))
+		    and
+		    (SBAR (WHADVP when)
+			  (S (NP cost-data
+				 (PP of
+				     (NP (ADJP compact) 
+					 cars)))
+			     (AUX is)
+			     (VP compiled
+				 ))))
+		 ,
+		 (S (NP the break-even point)
+		    (AUX may)
+		    (VP be
+			(VP reduced
+			    (PP to
+				(NP 7,500 miles
+				    (PP of
+					(NP travel))
+				    (PP per
+					(NP year)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Table 2)
+   (VP shows
+       (NP operating cost data
+	   (PP of
+	       (NP (NP state vehicles)
+		   (VP selected
+		       (PP at
+			   (NP random))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One matter
+       (PP of
+	   (NP concern
+	       (PP to
+		   (NP the 
+		       (ADJP complete) 
+		       effectiveness
+		       (PP of
+			   (NP pool operations)))))))
+   (VP is
+       (NP the lack
+	   (PP of
+	       (NP 
+		(ADJP adequate)
+		(ADJP central)
+		garage facilities)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Present)
+	pool quarters
+	(PP at
+	    (NP two locations
+		(PP in
+		    (NP Providence)))))
+    (VP are
+	(X (ADJP crowded)
+	   ,
+	   (ADJP antiquated)
+	   and
+	   ,
+	   (PP in
+	       (NP (ADJP general)))
+	   ,
+	   (S (NP *)
+	      (VP make
+		  (PP for
+		      (NP (ADJP inefficient) 
+			  operation
+			  (PP in
+			      (NP terms
+				  (PP of
+				      (NP (NP dispersement
+					      (PP of
+						  (NP personnel)))
+					  and
+					  (NP duplication
+					      (PP of
+						  (NP (NP 
+						       (ADJP such)
+						       (ADJP operational)
+						       needs
+						       (PP as
+							   (NP  stock 
+								and 
+								repair equipment)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Good) 
+	facilities)
+    (AUX would)
+    (VP (VP be
+	    (NP a decided help
+		(PP to
+		    (NP pool operations))))
+	and
+	(ADVP probably)
+	(VP reduce
+	    (NP vehicle costs)
+	    (ADVP even
+		  (ADJP more)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Purchasing practices)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The purchase
+       (PP of
+	   (NP (ADJP state-owned) 
+	       vehicles)))
+   (AUX is)
+   (VP handled
+       (PP in
+	   (NP the
+	       (ADJP same) 
+	       manner
+	       (PP as
+		   (NP all 
+		       (ADJP other) 
+		       purchases
+		       (PP of
+			   (NP the state))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Requests)
+    (AUX are)
+    (VP made
+	(PP by
+	    (NP the motor pool)))
+    (ADVP along
+	  (PP with
+	      (NP any 
+		  (ADJP necessary)
+		  cooperation
+		  (PP from
+		      (NP (NP the agencies)
+			  (SBAR (WHPP to
+				      (WHNP which))
+				(S (NP assignments
+				       (PP of
+					   (NP cars)))
+				   (AUX will)
+				   (VP be
+				       (VP made
+					   (NP T) 
+					   ))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Bids)
+      (AUX are)
+      (VP evaluated
+	  (PP by
+	      (NP the Division
+		  (PP of
+		      (NP Purchases))))
+	  (PP with
+	      (NP the assistance
+		  (PP of
+		      (NP pool staff))))))
+     ,
+     and
+     (S (NP awards
+	    (PP for
+		(NP the purchase
+		    (PP of
+			(NP the automobiles)))))
+	(AUX are)
+	(VP made
+	    (PP to
+		(NP the
+		    (ADJP lowest)
+		    (ADJP responsible)
+		    bidders)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Unit prices
+       (PP for
+	   (NP state vehicles)))
+   (VP are
+       (ADJP (ADVP invariably)
+	     lower
+	     (PP than
+		 (NP (PP to
+			 (NP the 
+			     (ADJP general) 
+			     public)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The reasons)
+       (VP are
+	   (ADJP obvious)))
+    :
+    (S (S (NP *LRB*
+	      1
+	      *RRB*)
+	  (S (NP the state)
+	     (AUX is)
+	     (VP buying
+		 (PP in
+		     (NP quantity)))))
+       ,
+       and
+       (S (NP *LRB*
+	      2
+	      *RRB*)
+	  (S (NP it)
+	     (VP has
+		 (NP (NP no 
+			 (ADJP federal) 
+			 excise or state sales
+			 tax)
+		     (S (NP *)
+			(AUX to)
+			(VP pay))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Until
+	 (NP 1958))
+     (S (NP the state)
+	(AUX was)
+	(ADVP also)
+	(VP entitled
+	    (PP to
+		(NP a 
+		    (ADJP special) 
+		    type
+		    (PP of
+			(NP 
+			 (NP manufacturers)
+			 ' discount
+			 (PP through
+			     (NP the dealers)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (SBAR that
+		 (S (NP ownership
+			(PP of
+			    (NP all vehicles)))
+		    (VP rests
+			(PP with
+			    (NP the state motor pool)))))))
+    ,
+    (S (NP cars)
+       (AUX are)
+       (VP paid
+	   (PP for)
+	   (PP with
+	       (NP (NP funds)
+		   (VP (VP appropriated
+			   (PP to
+			       (NP the agencies)))
+		       but
+		       (VP transferred
+			   (PP to
+			       (NP (NP the rotary fund)
+				   (VP mentioned
+				       (ADVP earlier)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP a
+	       (ADJP normal)
+	       (ADJP governmental)
+	       procedure)
+	   (SBAR
+	    (WHNP which)
+	    (S (NP T)
+	       (VP reflects
+		   (ADVP more accurately)
+		   (NP cost-accounting principles)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The assignment and use
+       (PP of
+	   (NP vehicles))
+       (PP after
+	   (NP purchase)))
+   (VP is
+       (NP (NP another matter)
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP covered
+		      (PP in
+			  (NP detail))
+		      (ADVP later)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Vehicle purchase
+	,
+	assignment
+	,
+	and
+	use policies)
+    (S (ADVP Probably)
+       (S (NP the
+	      (ADJP most important)
+	      (PP of
+		  (NP all))
+	      matters
+	      (PP for
+		  (NP review)))
+	  (VP are
+	      (NP (NP the
+		      (ADJP broad)
+		      (ADJP administrative)
+		      policies)
+		  (VP governing
+		      (NP the purchase
+			  ,
+			  assignment
+			  ,
+			  use
+			  ,
+			  and
+			  management
+			  (PP of
+			      (NP state vehicles)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The legislature)
+    's role
+    (PP in
+	(NP policy determination
+	    (PP in
+		(NP this area)))))
+   (PP for
+       (NP years))
+   (AUX has)
+   (VP been
+       (VP confined
+	   (ADVP almost
+		 solely)
+	   (PP to
+	       (NP (NP the amount
+		       (PP of
+			   (NP (NP funds)
+			       (VP-4 *pseudo-attach*))))
+		   (VP-4 appropriated
+			 (ADVP annually)
+			 (PP for
+			     (NP the purchase and operation
+				 (PP of
+				     (NP vehicles))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP more
+	     meaningful)
+       policies)
+   (AUX have)
+   (VP been
+       (VP left
+	   (PP to
+	       (NP the judgment
+		   (PP of
+		       (NP (NP the
+			       (ADJP chief)
+			       (ADJP administrative)
+			       officer
+			       (PP of
+				   (NP the state)))
+			   --
+			   (NP the Director
+			       (PP of
+				   (NP Administration))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2112 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The set
+       (PP of
+	   (NP all decisions)))
+   (AUX is)
+   (VP called
+        
+       (NP (NP the operating policy)
+	   or
+	   ,
+	   (ADVP more simply)
+	   ,
+	   (NP the policy))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An optimal policy)
+   (VP is
+       (NP (NP one)
+	   (SBAR (WHNP which)
+		 (S (PP in
+			(NP some sense))
+		    (S (NP T)
+		       (VP gets
+			   (NP the
+			       (ADJP best))
+			   (PP out
+			       (PP of
+				   (NP the process
+				       (PP as
+					   (NP a whole)))))
+			   (PP by
+			       (S (NP *)  
+				  (VP maximizing
+				      (NP the value
+					  (PP of
+					      (NP the product)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP are
+	(ADVP thus)
+	(NP (NP three components
+		(PP to
+		    (NP an optimal design problem)))
+	    :
+	    (NP   *LRB*
+		 (NP 1)
+		 *RRB*
+		 (NP The specification
+		     (PP of
+			 (NP the state
+			     (PP of
+				 (NP the process stream))))))
+	    ;
+	    ;
+	    (NP   *LRB*
+		 (NP 2)
+		 *RRB*
+		 (NP The specification
+		     (PP of
+			 (NP (NP the operating variables)
+			     and
+			     (NP (NP the transformation)
+				 (SBAR 0
+				       (S (NP they)
+					  (VP effect
+					      (NP T)))))))))
+	    ;
+	    ;
+	    (NP   *LRB*
+		 (NP 3)
+		 *RRB*
+		 (NP The specification
+		     (PP of
+			 (NP (NP the objective function)
+			     (SBAR (WHPP of
+					 (WHNP which))
+				   (S
+				    (NP the optimization)
+				    (AUX is)
+				    (VP desired
+					)))))))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP a chemical process))
+     (S
+      (NP the
+	  (ADJP first)
+	  (PP of
+	      (NP these)))
+      (AUX might)
+      (VP involve
+	  (NP (NP the concentrations
+		  (PP of
+		      (NP the different chemical species)))
+	      ,
+	      and
+	      (NP the temperature or pressure
+		  (PP of
+		      (NP the stream)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP the
+             (ADJP second)))
+     (S
+      (NP we)
+      (AUX might)
+      (VP have
+	  (S (NP *)
+	     (AUX to)
+	     (VP choose
+		 (NP (NP (NP the volume
+			     (PP of
+				 (NP reactor)))
+			 or
+			 (NP amount
+			     (PP of
+				 (NP cooling))))
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP supplied
+				))))))))
+     ;
+     ;
+     (S (NP (NP the way)
+	    (SBAR (WHPP in
+			(WHNP which))
+		  (S (NP the transformation
+			 (PP of
+			     (NP state)))
+		     (VP depends
+			 (PP on
+			     (NP the operating variables
+				 (PP for
+				     (NP the main types
+					 (PP of
+					     (NP reactors))))))))))
+	(AUX is)
+	(VP discussed
+	     
+	    (PP in
+		(NP the next chapter)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The objective function)
+      (VP is
+	  (NP some measure
+	      (PP of
+		  (NP the increase
+		      (PP in
+			  (NP value
+			      (PP of
+				  (NP the stream))))
+		      (PP by
+			  (NP processing)))))))
+     ;
+     ;
+     (S (NP it)
+	(VP is
+	    (NP the subject
+		(PP of
+		    (NP Chapter 4))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The essential characteristic
+       (PP of
+	   (NP (NP an optimal policy)
+	       (SBAR 
+		(WHADVP when)
+		(S (NP the state
+		       (PP of
+			   (NP the stream)))
+		   (AUX is)
+		   (VP transformed
+			 
+		       (PP in
+			   (NP a sequence
+			       (PP of
+				   (NP stages))
+			       (PP with
+				   (NP no feedback))))))))))
+   (AUX was)
+   (ADVP first)
+   (VP isolated
+       (PP by
+	   (NP Bellman))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP recognized
+       (SBAR that
+	     (S (SBAR 
+		 (WHNP  whatever transformation)
+		 (S (NP T)
+		    (AUX may)
+		    (VP be
+			(VP effected
+			    (PP in
+				(NP the first stage
+				    (PP of
+					(NP an R-stage process))))))))
+		,
+		(S (NP the remaining stages)
+		   (AUX must)
+		   (VP use
+		       (NP an
+			   optimal Af-stage
+			   policy
+			   (PP with
+			       (NP respect
+				   (PP to
+				       (NP (NP the state)
+					   (VP resulting
+					       (PP from
+						   (NP the first stage)))))))))
+		   ,
+		   (SBAR if
+			 (S (NP there)
+			    (VP is
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (NP any chance
+					   (PP of
+					       (S (NP *)  
+						  (VP optimizing
+						      (NP the complete process)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (PP by
+	  (S (NP *)  
+	     (VP (VP  (ADVP systematically)
+		      varying
+		      (NP the operating conditions
+			  (PP in
+			      (NP the first stage))))
+		 and
+		 (ADVP always)
+		 (VP using
+		     (NP the
+			 optimal Af-stage
+			 policy)
+		     (PP for
+			 (NP the remaining stages))))))
+      ,
+      (S (NP we)
+	 (AUX shall)
+	 (ADVP eventually)
+	 (VP find
+	     (NP the optimal policy
+		 (PP for
+		     (NP all R stages))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Proceeding
+	   (PP in
+	       (NP this way))
+	   ,
+	   (PP (PP (PP from
+		       (NP one))
+		   (PP to
+		       (NP two)))
+	       and
+	       (PP (PP from
+		       (NP two))
+		   (PP to
+		       (NP three stages))))))
+    ,
+    (S (NP we)
+       (AUX may)
+       (VP  (ADVP gradually)
+	    build
+	    (PRT up)
+	    (NP the policy)
+	    (PP for
+		(NP any number)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP each step
+	     (PP of
+		 (NP the calculation))))
+     (S
+      (NP the operating variables
+	  (PP of
+	      (NP  only
+		  one stage)))
+      (AUX need)
+      (VP be
+	  (VP varied
+	      ))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP see
+	    (SBAR (ADJP  
+		   (WHADVP how)
+		   important)
+		  (S (NP this economy)
+		     (VP is)))))
+     ,
+     (S  (NP *) 
+	 (VP let
+	     (NP us)
+	     (VP suppose
+		 (SBAR that
+		       (S (NP there)
+			  (VP are
+			      (NP M
+				  operating
+				  variables)
+			      (PP at
+				  (NP each stage)))))
+		 and
+		 (SBAR that
+		       (S (NP the state)
+			  (AUX is)
+			  (VP specified
+			       
+			      (PP by
+				  (NP N variables))))))))
+     ;
+     ;
+     (ADVP then)
+     (S (NP the search
+	    (PP for
+		(NP the maximum
+		    (PP at
+			(NP any one stage)))))
+	(AUX will)
+	(VP require
+	    (NP a number
+		(PP of
+		    (NP operations
+			(PP of
+			    (NP (NP order A[fj])
+				*LRB*
+				(SBAR 
+				 (WHADVP where)
+				 (S (NP a)
+				    (VP is
+					(NP some number
+					    (ADJP (ADVP (NEG not)
+							unreasonably)
+						  large)))))
+				*RRB*))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP proceed
+	    (PP (PP from
+		    (NP one stage))
+		(PP to
+		    (NP the
+			(ADJP next))))))
+     (S (NP a sufficient number
+	    (PP of
+		(NP feed states)))
+	(AUX must)
+	(VP be
+	    (VP investigated
+		))
+	(S (NP *)
+	   (AUX to)
+	   (VP allow
+	       (PP for
+		   (NP interpolation)))))
+     ;
+     ;
+     (S (NP this number)
+	(AUX will)
+	(VP be
+	    (PP of
+		(NP the order
+		    (PP of
+			(NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+	    ,
+	    (S (ADVP however)
+	       ,
+	       (S (NP we)
+		  (AUX are)
+		  (VP seeking
+		      (NP the
+			  optimal R-stage
+			  policy
+			  (PP for
+			      (NP a given feed state)))))))
+      ,
+      (S (NP  only
+	      one search
+	      (PP for
+		  (NP a maximum)))
+	 (AUX is)
+	 (VP required
+	      
+	     (PP at
+		 (NP the final step)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP a number
+	     (PP of
+		 (NP operations
+		     (PP of
+			 (NP the order
+			     (PP of
+				 (NP A[fj])))))))
+	 (AUX are)
+	 (VP required
+	     )))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP all
+		  the operating variables)
+	      (AUX were)
+	      (VP varied
+		  (ADVP simultaneously))))
+     ,
+     (S (NP A[fj] operations)
+	(AUX would)
+	(VP be
+	    (VP required
+		))
+	(S (NP *)
+	   (AUX to)
+	   (VP do
+	       (NP the same job))))
+     ,
+     and
+     (SBAR as
+	   (S (NP R)
+	      (VP increases)))
+     (S (NP this)
+	(VP increases
+	    (ADVP  very
+		   much
+		   more rapidly
+		   (PP than
+		       (NP (NP the number
+			       (PP of
+				   (NP operations)))
+			   (VP required
+			       (PP by
+				   (NP the dynamic program)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  But
+	(ADJP  even
+	       more
+	       important
+	       (PP than
+		   (NP this)))
+	(VP is)
+	(NP the fact
+	    (SBAR that
+		  (S (NP the direct search
+			 (PP by
+			     (VP  (ADVP simultaneously)
+				  varying
+				  (NP all operating conditions))))
+		     (AUX has)
+		     (VP produced
+			 (NP (NP  only
+				  one optimal policy)
+			     ,
+			     (ADVP namely)
+			     ,
+			     (NP that
+				 (PP for
+				     (NP the given feed state and R stages)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP contrast))
+    ,
+    (S (NP the dynamic program)
+       (VP produces
+	   (NP (NP this policy)
+	       and
+	       (NP a whole family
+		   (PP of
+		       (NP policies))))
+	   (PP for
+	       (NP any
+		   (ADJP smaller)
+		   number
+		   (PP of
+		       (NP stages)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the problem)
+	    (AUX is)
+	    (VP enlarged
+		 
+		(S (NP *)
+		   (AUX to)
+		   (VP require
+		       (NP a complete coverage
+			   (PP of
+			       (NP feed states))))))))
+   ,
+   (S (NP A[fj] operations)
+      (AUX are)
+      (VP needed
+	   
+	  (PP by
+	      (NP the dynamic program))))
+   and
+   (X (NP A[fj]
+	  (PP by
+	      (NP the direct search)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP A[fj])
+	 (VP is
+	     (ADJP  vastly
+		   larger
+		   (PP than
+		       (NP R))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No optimism)
+   (VP is
+       (ADJP  more
+	      baseless
+	      (PP than
+		  (NP (NP that)
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (VP believes
+			      (SBAR that
+				    (S (NP the high speed
+					   (PP of
+					       (NP 
+						(ADJP modern digital)
+						computers)))
+				       (VP allows
+					   (PP for
+					       (NP use
+						   (PP of
+						       (NP the
+							   (ADJP crudest
+								 (PP of
+								     (NP methods)))))
+						   (PP in
+						       (S (NP *)  
+							  (VP searching
+							      (PRT out)
+							      (NP a result)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Suppose
+	(SBAR that
+	      (NP A[fj]))
+	,
+	and
+	(SBAR that
+	      (S (NP the average operation)
+		 (VP requires
+		     (NP only A[fj] sec.))))))
+ .
+)
+(   (S (ADVP Then)
+       (S (NP the dynamic program)
+	  (AUX would)
+	  (VP require
+	      (PP about
+		  (NP a minute)))
+	  (SBAR whereas
+		(S (NP the direct search)
+		   (AUX would)
+		   (VP take
+		       (NP (ADJP more
+				 (PP than
+				     (NP three)))
+			   millennia))))))
+    !
+    !)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The principle
+       (PP of
+	   (NP optimality)))
+   (ADVP thus)
+   (VP brings
+       (NP a vital organization)
+       (PP into
+	   (NP the search
+	       (PP for
+		   (NP the optimal policy
+		       (PP of
+			   (NP a multistage decision process))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Bellman)
+	(NP *LRB*
+	    1957
+	    *RRB*))
+    (AUX has)
+    (VP annunciated
+	(PP in
+	    (NP the following terms))
+	:
+	``
+	(S (NP An optimal policy)
+	   (VP has
+	       (NP the property
+		   (SBAR that
+			 (S (SBAR (WHNP whatever)
+				  (S (NP (NP the initial state)
+					 and
+					 (NP initial decision))
+				     (VP are
+					 (NP T))))
+			    ,
+			    (S (NP the remaining decisions)
+			       (AUX must)
+			       (VP constitute
+				   (NP an optimal policy
+				       (PP with
+					   (NP respect
+					       (PP to
+						   (NP (NP the state)
+						       (VP resulting
+							   (PP from
+							       (NP the first decision)))))))))))))))
+	'')) 
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP the principle)
+	   (SBAR (WHNP which)
+		 (S
+		  (NP we)
+		  (AUX will)
+		  (VP invoke
+		      (NP T)
+		      (PP in
+			  (NP every case))
+		      (S (NP *)
+			 (AUX to)
+			 (VP set
+			     (PRT up)
+			     (NP a functional equation)))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP appears
+       (PP in
+	   (NP (NP a form)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(AUX is)
+			(VP  (ADVP admirably)
+			     suited
+	        
+			     (PP to
+				 (NP the powers
+				     (PP of
+					 (NP the digital computer)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the same time))
+    ,
+    (S (NP (NP every device)
+	   (SBAR (WHNP that)
+		 (S (NP T)
+		    (AUX can)
+		    (VP be
+			(VP employed
+		       
+			    (S (NP *)
+			       (AUX to)
+			       (VP reduce
+				   (NP the number
+				       (PP of
+					   (NP variables))))))))))
+       (VP is
+	   (PP of
+	       (NP the
+		   (ADJP greatest)
+		   value))))
+    ,
+    and
+    (S (NP it)
+       (VP is
+	   (NP one
+	       (PP of
+		   (NP the attractive features
+		       (PP of
+			   (NP dynamic programming))))))
+       (SBAR that
+	     (S
+	      (NP  room)
+	      (AUX is)
+	      (VP left
+		  (PP for
+		      (NP ingenuity
+			  (PP in
+			      (S (NP *)  
+				 (VP using
+				     (NP the special features
+					 (PP of
+					     (NP the problem)))
+				     (PP to
+					 (NP this end))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 2.2)
+       (NP the
+	   (ADJP discrete deterministic)
+	   process)))
+(  
+ (S  (NP *) 
+     (VP Consider
+	 (NP (NP the process)
+	     (VP illustrated
+		 (PP in
+		     (NP Fig. 2.1)))
+	     ,
+	     (VP consisting
+		 (PP of
+		     (NP R distinct stages))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX will)
+   (VP be
+       (VP numbered
+	    
+	   (PP in
+	       (NP (NP the direction)
+		   (ADJP opposite
+			 (PP to
+			     (NP the flow
+				 (PP of
+				     (NP the process stream)))))))
+	   ,
+	   (SBAR  so
+		  that
+		  (S (NP stage R)
+		     (VP is
+			 (NP the T stage
+			     (PP from
+				 (NP the end)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Let
+	 (NP the state
+	     (PP of
+		 (NP (NP the stream)
+		     (VP leaving
+			 (NP stage R)))))
+	 (AUX be)
+	 (VP denoted
+	      
+	     (PP by
+		 (NP a vector A[fj])))
+	 and
+	 (NP the operating variables
+	     (PP of
+		 (NP stage R))
+	     (PP by
+		 (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP A[fj])
+	 (VP denotes
+	     (NP the state
+		 (PP of
+		     (NP the feed
+			 (PP to
+			     (NP the R-stage process)))))))
+      ,
+      and
+      (X (NP A[fj])
+	 (NP the state
+	     (PP of
+		 (NP the product
+		     (PP from
+			 (NP the last stage)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each stage)
+   (VP transforms
+       (NP the state A[fj]
+	   (PP of
+	       (NP its feed))
+	   (PP to
+	       (NP the state A[fj])))
+       (PP in
+	   (NP (NP a way)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP depends
+			    (PP on
+				(NP the operating variables
+				    A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP write
+       (NP this A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This transformation)
+      (AUX is)
+      (VP  (ADVP uniquely)
+	   determined
+	 
+	   (PP by
+	       (NP A[fj]))))
+     and
+     (S (NP we)
+	(ADVP therefore)
+	(VP speak
+	    (PP of
+		(NP the process
+		    (PP as
+			(ADJP deterministic)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP practical situations))
+     (S
+      (NP there)
+      (AUX will)
+      (VP be
+	  (NP restrictions
+	      (PP on
+		  (NP the
+		      (ADJP admissible)
+		      (VP operating)
+		      conditions)))))
+     ,
+     and
+     (S (NP we)
+	(VP regard
+	    (NP the vectors)
+	    (PP as
+		(S (NP *)  
+		   (VP belonging
+		       (PP to
+			   (NP a fixed and bounded set S))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The set
+	   (PP of
+	       (NP vectors
+		   A[fj])))
+       (VP constitutes
+	   (NP (NP the operating policy)
+	       or
+	       ,
+	       (ADVP  more
+		      briefly)
+	       ,
+	       (NP the policy))))
+    ,
+    and
+    (S (NP a policy)
+       (VP is
+	   (ADJP admissible))
+       (SBAR if
+	     (S (NP all
+		    the A[fj])
+		(VP belong
+		     
+		    (PP to
+			(NP S)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the policy)
+	(AUX has)
+	(VP been
+	    (VP chosen
+		))))
+    ,
+    (S (NP the state
+	   (PP of
+	       (NP the product)))
+       (AUX can)
+       (VP be
+	   (VP obtained
+	        
+	       (PP from
+		   (NP the state
+		       (PP of
+			   (NP the feed))))
+	       (PP by
+		   (NP (VP repeated)
+		       application
+		       (PP of
+			   (NP the transformation
+			       *LRB*
+			       1
+			       *RRB*))))))
+       ;
+       ;
+       thus
+       (X A[fj])))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The objective function)
+	,
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP is
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP maximized
+				))))))
+	,)
+    (VP is
+	(NP (NP some function)
+	    ,
+	    (ADJP  usually
+		   piecewise
+		   continuous)
+	    ,
+	    (PP of
+		(NP the product state)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Let
+	 (NP this)
+	 (AUX be)
+	 (VP denoted
+	      
+	     (PP by
+		 (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An optimal policy)
+   (VP is
+       (NP (NP an admissible policy A[fj])
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP maximizes
+			(NP the objective function P)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The policy)
+       (AUX may)
+       (NEG not)
+       (VP be
+	   (ADJP unique)))
+    but
+    (S (NP the maximum value
+	   (PP of
+	       (NP P)))
+       (ADVP certainly)
+       (VP is))
+    ,
+    and
+    (SBAR once
+	  (S (NP the policy)
+	     (AUX is)
+	     (VP specified
+		 )))
+    (S (NP this maximum)
+       (AUX can)
+       (VP be
+	   (VP calculated
+	        
+	       (PP by
+		   (NP (NP *LRB*
+			   2
+			   *RRB*)
+		       and
+		       (NP *LRB*
+			   3
+			   *RRB*)))
+	       (PP as
+		   (NP a function
+		       (PP of
+			   (NP the feed state A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Let
+	(NP A[fj]))
+    (SBAR 
+     (WHADVP where)
+     (S (NP the maximization)
+	(VP is
+	    (PP over
+		(NP all admissible policies
+		    A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP it)
+	 (VP is
+	     (ADJP necessary))
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(ADJP specific)))))
+     (S
+      (NP we)
+      (VP say
+	  (SBAR that
+		(S (NP the optimal policy)
+		   (VP is
+		       (NP an
+			   optimal R-stage
+			   policy
+			   (PP with
+			       (NP respect
+				   (PP to
+				       (NP the feed state A[fj])))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP any choice
+	    (PP of
+		(NP admissible policy A[fj]
+		    (PP in
+			(NP the first stage))))))
+    ,
+    (S (NP the state
+	   (PP of
+	       (NP (NP the stream)
+		   (VP leaving
+		       (NP this stage)))))
+       (AUX is)
+       (VP given
+	   (PP by
+	       (NP A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP the feed state
+	   (PP of
+	       (NP (NP the subsequent A[fj] stages)
+		   (SBAR (WHNP which)
+			 ,
+			 (S (VP according
+				(PP to
+				    (NP the principle
+					(PP of
+					    (NP optimality)))))
+			    ,
+			    (S  (NP T) 
+				(AUX must)
+				(VP use
+				    (NP an
+					optimal Af-stage
+					policy
+					(PP with
+					    (NP respect
+						(PP to
+						    (NP this state))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (AUX will)
+      (VP result
+	  (PP in
+	      (NP a value A[fj]
+		  (PP of
+		      (NP the objective function))))))
+     ,
+     and
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP A[fj])
+	    (AUX is)
+	    (VP chosen
+		(ADVP correctly))))
+	(S (NP this)
+	   (AUX will)
+	   (VP give
+	       (NP (NP A[fj])
+		   ,
+		   (NP the maximum
+		       (PP of
+			   (NP the objective function))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (NP (NP A[fj])
+	  (SBAR 
+	   (WHADVP where)
+	   (S (NP the maximization)
+	      (VP is
+		  (PP over
+		      (NP all admissible policies
+			  A[fj]))))))
+      ,
+      and
+      (S (NP A[fj])
+	 (AUX is)
+	 (VP related
+	    
+	     (PP to
+		 (NP A[fj]))
+	     (PP by
+		 (NP *LRB*
+		     5
+		     *RRB*)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (S (NP (NP The sequence
+		(PP of
+		    (NP equations)))
+	    (NP *LRB*
+		6
+		*RRB*))
+	(AUX can)
+	(VP be
+	    (VP solved
+	     
+		(PP for
+		    (NP A[fj]))))
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP A[fj])
+	    (AUX is)
+	    (VP known
+		)
+	    ,
+	    and
+	    (X (ADVP clearly)
+	       (NP A[fj])))))
+     ,
+     (S (NP the maximization)
+	(VP being
+	    (PP over
+		(NP all admissible A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The set
+	(PP of
+	    (NP (NP equations
+		    *LRB*
+		    5
+		    *RRB*
+		    ,
+		    *LRB*
+		    6
+		    *RRB*)
+		,
+		and
+		(NP the starting equation
+		    *LRB*
+		    7
+		    *RRB*))))
+    (VP is
+	(PP of
+	    (NP (NP a recursive type)
+		(ADJP  well
+		       suited
+		       (PP to
+			   (NP programming
+			       (PP on
+				   (NP the digital computer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S (NP *)  
+	   (VP finding
+	       (NP the
+		   optimal R-stage
+		   policy)
+	       (PP from
+		   (NP that
+		       (PP of
+			   (NP A[fj] stages)))))))
+    ,
+    (S (NP  only
+	    the function A[fj])
+       (AUX is)
+       (VP needed
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP A[fj])
+	 (AUX has)
+	 (VP been
+	     (VP found
+		 ))))
+     (S (NP it)
+	(AUX may)
+	(VP be
+	    (VP transferred
+		 
+		(PP into
+		    (NP the storage location
+			(PP of
+			    (NP A[fj])))))))
+     and
+     (S (NP the whole calculation)
+	(VP repeated)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP also)
+   (VP see
+       (SBAR 
+	(WHADVP how)
+	(S (NP the results)
+	   (AUX may)
+	   (VP be
+	       (VP presented
+		   )))))
+   ,
+   (SBAR although
+	 (S (SBAR if
+		  (S (NP (NP n)
+			 ,
+			 (NP the number
+			     (PP of
+				 (NP state variables)))
+			 ,)
+		     (VP is
+			 (ADJP large))))
+	    (S (NP any tabulation)
+	       (AUX will)
+	       (VP become
+		   (ADJP cumbersome))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A table)
+       or
+       (NP set
+	   (PP of
+	       (NP tables))))
+   (AUX may)
+   (VP be
+       (VP set
+	   (PRT out)
+	   (PP as
+	       (PP in
+		   (NP Table 2.1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP extract
+	    (NP the
+		optimal R-stage
+		policy
+		(PP with
+		    (NP respect
+			(PP to
+			    (NP the feed state A[fj])))))))
+     ,
+     (S (NP we)
+	(VP (VP enter
+		(NP section R
+		    (PP of
+			(NP this table)))
+		(PP at
+		    (NP the state A[fj])))
+	    and
+	    (VP find
+		(ADVP immediately)
+		(PP from
+		    (NP the last column))
+		(NP the maximum value
+		    (PP of
+			(NP the objective function)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SINV (PP In
+	      (NP the third column))
+	  (AUX is)
+	  (VP given)
+	  (NP the optimal policy
+	      (PP for
+		  (NP stage R))))
+    ,
+    and
+    (PP in
+	(NP the
+	    (ADJP fourth)))
+    ,
+    (X (NP the resulting state
+	   (PP of
+	       (NP the stream)))
+       (SBAR 
+	(WHADVP when)
+	(S (NP this policy)
+	   (AUX is)
+	   (VP used
+	       )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (PP by
+		 (NP the principle
+		     (PP of
+			 (NP optimality))))
+	     (S
+	      (NP the remaining stages)
+	      (VP use
+		  (NP an
+		      optimal Af-stage
+		      policy
+		      (PP with
+			  (NP respect
+			      (PP to
+				  (NP A[fj])))))))))
+    ,
+    (S (NP we)
+       (AUX may)
+       (VP (VP enter
+	       (NP section A[fj]
+		   (PP of
+		       (NP the table)))
+	       (PP at
+		   (NP this state A[fj])))
+	   and
+	   (VP read
+	       (PRT off)
+	       (NP (NP the optimal policy
+		       (PP for
+			   (NP stage A[fj])))
+		   and
+		   (NP the resulting state A[fj]))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Proceeding
+	   (PP in
+	       (NP this way))
+	   (PP up
+	       (NP the table))))
+    (S
+     (NP we)
+     (VP extract
+	 (NP the
+	     complete optimal
+	     policy)))
+    and
+    ,
+    (S (SBAR if
+	     (S (NP it)
+		(AUX is)
+		(VP desired
+		    )))
+       ,
+       (S (NP we)
+	  (AUX can)
+	  (VP check
+	      (PP on
+		  (NP A[fj]))
+	      (PP by
+		  (S (NP *)  
+		     (VP evaluating
+			 (NP A[fj]))
+		     (PP at
+			 (NP the last stage))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX may)
+   (VP be
+       (SBAR that
+	     (S (NP the objective function)
+		(VP depends
+		    (PP (CONJP  not
+				only)
+			(PP on
+			    (NP A[fj]))
+			(CONJP but
+			       also)
+			(PP on
+			    (NP A[fj]))))
+		,
+		(PP as
+		    (SBAR 
+		     (WHADVP when)
+		     (S (NP the cost
+			    (PP of
+				(NP the operating policy)))
+			(AUX is)
+			(VP considered
+			    ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP A moment)
+    's reflection)
+   (VP shows
+       (SBAR that
+	     (S (NP the above algorithm and presentation)
+		(VP work
+		    (ADVP equally
+			  well)
+		    (PP in
+			(NP this case)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A form
+	    (PP of
+		(NP objective function)))
+	(SBAR (WHNP that)
+	      (S (NP we)
+		 (AUX shall)
+		 (ADVP often)
+		 (VP have
+		     (NP occasion
+			 (S (NP *)
+			    (AUX to)
+			    (VP consider 
+				(NP T))))))))
+    (VP is
+	(NP A[fj])))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      (S (NP P)
+	 (VP represents
+	     (NP the value
+		 (PP of
+		     (NP the stream))
+		 (PP in
+		     (NP state P)))))
+      and
+      (X (NP Q)
+	 (NP the cost
+	     (PP of
+		 (S (NP *)  
+		    (VP operating
+			(NP the stage)
+			(PP with
+			    (NP conditions
+				Q))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Hence)
+      (S (NP P)
+	 (VP is
+	     (NP (NP (NP the increase
+			 (PP in
+			     (NP value
+				 (PP of
+				     (NP the stream)))))
+		     (PP minus
+			 (NP the cost
+			     (PP of
+				 (NP operation)))))
+		 ,
+		 (S (NP that)
+		    (VP is))
+		 ,
+		 (NP the net profit)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP A[fj])
+	     (VP denotes
+		 (NP the net profit
+		     (PP from
+			 (NP (NP stage R )
+			     and 
+			     (NP A[fj])))))))
+    ,
+    then
+    (S (NP the principle
+	   (PP of
+	       (NP optimality)))
+       (VP gives
+	   (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This sequence
+       (PP of
+	   (NP equations)))
+   (AUX may)
+   (VP be
+       (VP started
+	   (PP with
+	       (NP the remark
+		   (SBAR that
+			 (S (PP with
+				(NP no process A[fj]))
+			    (S (NP there)
+			       (VP is
+				   (NP (NP no profit)
+				       ,
+				       (X i.e.)
+				       ,
+				       (NP Af.)))))))))))
+  )
+( (NP (NP 2.3)
+      (NP the
+	  discrete stochastic
+	  process))
+  )
+(
+ (S (NP (NP The process)
+	(SBAR (WHPP in
+		    (WHNP which))
+	      (S (NP the outcome
+		     (PP of
+			 (NP any one stage)))
+		 (AUX is)
+		 (VP known
+		     (ADVP only
+			   statistically)))))
+    (VP is
+	(ADVP also)
+	(PP of
+	    (NP interest)))
+    ,
+    (SBAR although
+	  (S (PP for
+		 (NP chemical reactor design))
+	     (S
+	      (NP it)
+	      (VP is
+		  (NEG not)
+		  (ADJP  as
+			 important
+			 (PP as
+			     (NP the deterministic process))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP this case))
+     (S (NP (NP the stage R)
+	    (VP operating
+		(PP with
+		    (NP conditions
+			A[fj]))))
+	(VP transforms
+            (NP the state
+                (PP of
+                    (NP the stream))
+		(PP (PP from
+			(NP A[fj]))
+		    (PP to
+			(NP A[fj]))))))
+     ,
+     but
+     (S (NP  only
+	     the probability distribution
+	     (PP of
+		 (NP A[fj])))
+	(AUX is)
+	(VP known
+	    )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP specified
+        
+       (PP by
+	   (NP a distribution function A[fj]
+	       (SBAR  such
+		     that
+		     (S (NP the probability
+			    (SBAR that
+				  (S (NP A[fj])
+				     (VP lies
+					  
+					 (PP in
+					     (NP some region D
+						 (PP of
+						     (NP the stage space))))))))
+			(VP is
+			    (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX can)
+   (NEG not)
+   (ADVP now)
+   (VP speak
+       (PP of
+	   (S (NP *)  
+	      (VP maximizing
+		  (NP the value
+		      (PP of
+			  (NP the objective function)))))))
+   ,
+   (SBAR since
+	 (S (NP this function)
+	    (AUX is)
+	    (ADVP now)
+	    (VP known
+		 
+		(PP  only
+		     in
+		     (NP a probabilistic sense))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX can)
+   ,
+   (ADVP however)
+   ,
+   (VP maximize
+       (NP its expected value)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP a single stage))
+     (S
+      (NP we)
+      (AUX may)
+      (VP define
+	  (NP (NP A[fj])
+	      (SBAR 
+	       (WHADVP where)
+	       (S (NP the maximization)
+		  (VP is
+		      (PP by
+			  (NP choice
+			      (PP of
+				  (NP A[fj])))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP thus)
+   (VP have
+       (NP (NP an optimal policy)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP maximizes
+			(NP the expected value
+			    (PP of
+				(NP the objective function))
+			    (PP for
+				(NP a given A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP we)
+	     (VP consider
+		 (NP (NP a process)
+		     (SBAR (WHPP in
+				 (WHNP which))
+			   (S
+			    (NP the outcome
+				(PP of
+				    (NP one stage)))
+			    (AUX is)
+			    (VP known
+				)
+			    (PP before
+				(NP passage
+				    (PP to
+					(NP the
+					    (ADJP next)))))))))))
+    ,
+    then
+    (S (NP the principle
+	   (PP of
+	       (NP optimality)))
+       (VP shows
+	   (SBAR that
+		 (S (NP the policy
+			(PP in
+			    (NP subsequent stages)))
+		    (AUX should)
+		    (VP be
+			(ADJP optimal
+			      (PP with
+				  (NP respect
+				      (PP to
+					  (NP the outcome
+					      (PP of
+						  (NP the
+						      (ADJP first))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (NP A[fj])
+      ,
+      (S (NP the maximization)
+	 (VP being
+	     (PP over
+		 (NP all admissible A[fj]))))
+      and
+      (X (NP the integration)
+	 (PP over
+	     (NP the whole
+		 (PP of
+		     (NP stage space))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The type
+	    (PP of
+		(NP presentation
+		    (PP of
+			(NP results)))))
+	(VP used
+	    (PP in
+		(NP the deterministic process))))
+    (AUX may)
+    (VP be
+	(VP used
+	    (ADVP here)))
+    ,
+    (PP except
+	(SBAR that
+	      (S (ADVP now)
+		 (S (NP the fourth column)
+		    (VP is
+			(ADJP redundant)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The third column)
+      (VP gives
+	  (NP the optimal policy)))
+     ,
+     but
+     (S (NP we)
+	(AUX must)
+	(VP (VP wait
+		(S (NP *)
+		   (AUX to)
+		   (VP see
+		       (NP the outcome
+			   (PP of
+			       (NP stage R))))))
+	    and
+	    (VP enter
+		(NP the preceding section
+		    (PP of
+			(NP the table)))
+		(PP at
+		    (NP this state))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The discussion
+       (PP of
+	   (NP the optimal policy)))
+   (SBAR 
+    (WHADVP when)
+    (S (NP the outcome
+	   (PP of
+	       (NP one stage)))
+       (AUX is)
+       (NEG not)
+       (VP known)
+       (PP before
+	   (S (NP *)  
+	      (VP passing
+		  (PP to
+		      (NP the
+			  (ADJP next))))))))
+   (VP is
+       (NP a
+	   (ADJP  very
+		 much
+		 more
+		 difficult) matter)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 2.4)
+       (NP the
+	   continuous deterministic
+	   process)))
+( 
+ (S (PP In
+	(NP many cases))
+    (S
+     (NP it)
+     (VP is
+	 (NEG not)
+	 (ADJP possible))
+     (S (NP *)
+	(AUX to)
+	(VP divide
+	    (NP the process
+		(PP into
+		    (NP a finite number
+			(PP of
+			    (NP discrete stages)))))))
+     ,
+     (SBAR since
+	   (S (NP the state
+		  (PP of
+		      (NP the stream)))
+	      (AUX is)
+	      (VP transformed
+		   
+		  (PP in
+		      (NP a continuous manner))
+		  (PP through
+		      (NP the process)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP replace
+       (NP (NP r)
+	   ,
+	   (NP the number
+	       (PP of
+		   (NP the stage
+		       (PP from
+			   (NP the end
+			       (PP of
+				   (NP the process)))))))
+	   ,)
+       (PP by
+	   (NP (NP t)
+	       ,
+	       (NP (NP a continuous variable)
+		   (SBAR (WHNP which)
+			 (S (NP T)
+			    (VP measures
+				(NP (NP the
+					``
+					distance
+					''
+					(PP of
+					    (NP the point)))
+				    (VP considered
+					(PP from
+					    (NP the end
+						(PP of
+						    (NP the process))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The word distance)
+      (AUX is)
+      (VP used
+	  (ADVP here)
+	  (PP in
+	      (NP a
+		  (ADJP  rather
+			 general) sense))))
+     ;
+     ;
+     (S (NP it)
+	(AUX may)
+	(PP in
+	    (NP fact))
+	(VP be
+	    (NP (NP the time)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (AUX will)
+			 (VP elapse)
+			 (PP before
+			     (NP the end
+				 (PP of
+				     (NP the process))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP T)
+	      (VP is
+		  (NP the total
+		      ``
+		      length
+		      ''
+		      (PP of
+			  (NP the process))))))
+     ,
+     (S (NP its feed state)
+	(AUX may)
+	(VP be
+	    (VP denoted
+		 
+		(PP by
+		    (NP a vector p
+			*LRB*
+			T
+			*RRB*)))))
+     and
+     (X (NP the product state)
+	(PP by
+	    (NP p
+		*LRB*
+		Q
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP P)
+      (VP denotes
+	  (NP the state
+	      (PP at
+		  (NP any point T))))
+      and
+      (X (NP Q)
+	 (NP the vector
+	     (PP of
+		 (NP (VP operating)
+		     variables)))
+	 (ADVP there))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

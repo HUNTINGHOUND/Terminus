@@ -1,0 +1,2035 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the Midwest))
+    ,
+    (S (NP oxidation ponds)
+       (AUX are)
+       (VP used
+	   (ADVP extensively)
+	   (PP for
+	       (NP the treatment
+		   (PP of
+		       (NP domestic sewage
+			   (PP from
+			       (NP suburban areas)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The high cost
+	    (PP of
+		(NP land)))
+	and
+	(NP (NP a few operational problems)
+	    (VP resulting
+		(PP from
+		    (NP excessive loadings)))))
+    (AUX have)
+    (VP created
+	(NP the need
+	    (PP for
+		(NP a wastewater treatment system
+		    (PP (PP with
+			    (NP the operational characteristics
+				(PP of
+				    (NP the oxidation pond))))
+			but
+			(PP with
+			    (NP the ability)
+			    (S (NP *)
+			       (AUX to)
+			       (VP treat
+				   (NP 
+				    more organic
+				    matter
+				    (PP per
+					(NP unit volume))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Research
+	(PP at
+	    (NP (NP Fayette)
+		,
+		(NP Missouri)))
+	(PP on
+	    (NP oxidation ponds)))
+    (AUX has)
+    (VP shown
+	(SBAR that
+	      (S (NP the BOD
+		     (PP in
+			 (NP the treated effluent)))
+		 (VP varied
+		     (PP from
+			 (NP (NP 30
+				 (PP to
+				     (NP 53)))
+			      mg)))
+		 (PP with
+		     (NP loadings
+			 (PP from
+			     (NP (NP 8
+				     (PP to
+					 (NP 120)))
+				 lb))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP experience)
+	     (VP indicates
+		 (SBAR that
+		       (S (NP effluents
+			      (PP from
+				  (NP oxidation ponds)))
+			  (AUX do)
+			  (NEG not)
+			  (VP create
+			      (NP major problems))
+			  (PP at
+			      (NP these BOD concentrations)))))))
+    ,
+    (S (NP the goal
+	   (PP for
+	       (NP the effluent quality
+		   (PP of
+		       (NP the accelerated treatment system)))))
+       (VP was
+	   (NP the
+	       (ADJP same
+		     as
+		     (PP from
+			 (NP conventional oxidation ponds)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Recent studies
+	(PP by
+	    (NP (NP Weston)
+		and
+		(NP Stack))))
+    (AUX had)
+    (VP indicated
+	(SBAR that
+	      (S (NP a turbine aerator)
+		 (AUX could)
+		 (VP be
+		     (VP added
+			  
+			 (PP to
+			     (NP an oxidation pond))))
+		 (S (NP *)
+		    (AUX to)
+		    (VP increase
+			(NP the rate
+			    (PP of
+				(NP oxygen transfer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their study)
+   (VP showed
+       (SBAR that
+	     (S (NP it
+		    (S-1 *pseudo-attach*))
+		(VP was
+		    (ADJP possible))
+		(S-1 (NP *)
+		   (AUX to)
+		   (VP transfer
+		       (NP (NP 3
+			       (PP to
+				   (NP 4)))
+			   lb
+			   (PP of
+			       (NP oxygen)))
+		       (X (NP hr
+			      .)
+			  (NP hp))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP O'Connor)
+      and
+      (NP Eckenfelder))
+  (VP discussed
+      (NP the use
+	  (PP of
+	      (NP (VP aerated)
+		  lagoons))
+	  (PP for
+	      (S (NP *)  
+		 (VP treating
+		     (NP organic wastes)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP indicated
+       (SBAR that
+	     (S (NP a 4-day retention
+		    ,
+		    (VP aerated)
+			lagoon)
+		(AUX would)
+		(VP give
+		    (NP (NP (NP 60
+				(PP to
+				    (NP 76)))
+			    per
+			    cent)
+			BOD reduction))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Later)
+      ,
+      (S (NP Eckenfelder)
+	 (VP increased
+	     (NP the efficiency
+		 (PP of
+		     (NP treatment)))
+	     (PP to
+		 (PP between
+		     (NP (NP (NP 75)
+			     and
+			     (NP 85))
+			 per
+			 cent))))
+	 (PP in
+	     (NP the summer months))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP appeared
+       (PP from
+	   (NP (NP the limited information)
+	       (ADJP available)))
+       (SBAR that
+	     (S (NP the (VP aerated) lagoon)
+		(AUX might)
+		(VP offer
+		    (NP a satisfactory means
+			(PP of
+			    (S (NP *)  
+			       (VP (VP increasing
+				       (NP the capacity
+					   (PP of
+					       (NP (VP existing)
+						   oxidation ponds))))
+				   (ADVP as
+					 well
+					 (PP as
+					     (S (NP *)  
+						(VP providing
+						    (NP the same degree
+							(PP of
+							    (NP treatment)))
+						    (PP in
+							(NP a
+							    (ADJP smaller)
+							    volume)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ ((NP Red Bridge Subdivision))
+ (S (PP With
+	(NP the development
+	    (PP of
+		(NP the Red Bridge Subdivision))
+	    (ADVP south
+		  (PP of
+		      (NP (NP Kansas City)
+			  ,
+			  (NP Missouri))))))
+    ,
+    (S (NP the developer)
+       (AUX was)
+       (VP faced
+	        
+	   (PP with
+	       (NP the problem
+		   (PP of
+		       (S (NP *)  
+			  (VP providing
+			      (NP adequate sewage disposal)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The sewage system
+       (PP from
+	   (NP Kansas City)))
+   (AUX was)
+   (NEG not)
+   (VP expected
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP serve
+	      (NP the Red Bridge area))
+	  (PP for
+	      (NP several years)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP necessitated
+       (NP the construction
+	   (PP of
+	       (NP temporary sewage treatment facilities
+		   (PP with
+		       (NP an expected life
+			   (PP (PP from
+				   (NP 5))
+			       (PP to
+				   (NP 15 A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP the initial development))
+     (S
+      (NP an oxidation pond)
+      (AUX was)
+      (VP constructed
+	   
+	  (PP as
+	      (S (NP *)  
+		 (VP shown
+		     (PP in
+			 (NP Figure 1))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The oxidation pond)
+   (VP has
+       (NP (NP a surface area
+	       (PP of
+		   (NP 4.77 acres)))
+	   and
+	   (NP a depth
+	       (PP of
+		   (NP 4 A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The pond)
+   (AUX is)
+   (ADVP currently)
+   (VP serving
+       (NP (NP 1,230 persons)
+	   or
+	   (NP 260 persons
+	       (PP per
+		   (NP acre))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the summer
+	     (PP of
+		 (NP 1960))))
+     (S (NP the oxidation pond)
+	(VP (VP became
+		(ADJP  completely
+		       septic))
+	    and
+	    (VP emitted
+		(NP obnoxious odors)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(S-2 *pseudo-attach*))
+    (VP was
+	(ADJP possible))
+    (S-2 (NP *)
+       (AUX to)
+       (VP maintain
+	   (NP aerobic conditions)
+	   (PP in
+	       (NP the pond))
+	   (PP by
+	       (NP regular additions
+		   (PP of
+		       (NP sodium nitrate)))))
+       (PP until
+	   (S (S (NP the temperature)
+		 (VP decreased))
+	      and
+	      (S (NP the algae)
+		 (NP population)
+		 (VP changed
+		     (PP  from
+			  (NP (ADJP blue-green
+				    (PP to
+					(ADJP green)))
+			      algae))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anaerobic conditions
+       (PP in
+	   (NP the existing oxidation pond)))
+   (VP necessitated
+       (NP examination
+	   (PP of
+	       (NP other methods
+		   (PP for
+		       (S (NP *)  
+			  (VP supplying
+			      (NP additional oxygen))))
+		   (PP than
+		       (PP by
+			   (NP sodium nitrate))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the same time))
+    (S (NP further expansion
+	   (PP in
+	       (NP the Red Bridge Subdivision)))
+       (VP required
+	   (NP the construction
+	       (PP of
+		   (NP additional sewage treatment facilities))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The large land areas)
+   (VP required
+       (PP for
+	   (NP oxidation ponds)))
+   (VP made
+       (NP this type
+	   (PP of
+	       (NP treatment
+		   (ADJP  financially
+			 unattractive
+			 (PP to
+			     (NP the developer))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP proposed
+       (SBAR that
+	     (S (NP  (VP aerated)
+		     lagoons)
+		(AUX be)
+		(VP used
+		     
+		    (S (S (NP *)
+			  (AUX to)
+			  (VP eliminate
+			      (NP the problem
+				  (PP at
+				      (NP the existing oxidation ponds)))))
+		       and
+		       (S (NP *)
+			  (AUX to)
+			  (VP provide
+			      (NP the necessary treatment
+				  (PP for
+				      (NP the additional development)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Pilot lagoon)
+ )
+( (S
+   (NP The lack
+       (PP of
+	   (NP adequate data
+	       (PP on
+		   (NP the (VP aerated) lagoon system)))))
+   (VP prompted
+       (S (NP the developer)
+	  (AUX to)
+	  (VP construct
+	      (NP an (VP aerated) lagoon pilot plant)
+	      (S (NP *)
+		 (AUX to)
+		 (VP determine
+		     (NP its feasibility
+			 (PP for
+			     (S (NP *)  
+				(VP treating
+				    (NP domestic sewage)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The pilot plant)
+   (VP was
+       (NP (NP a circular lagoon)
+	   (PP (NP 81 ft)
+	       in
+	       (NP diam)
+	       (PP at
+		   (NP the surface)))
+	   and
+	   (PP (NP 65 ft)
+	       in
+	       (NP diam)
+	       (PP at
+		   (NP (NP the bottom)
+		       ,
+		       (PP  
+			(NP 4 ft)
+			below
+			(NP the surface))
+		       ,)))
+	   (PP with
+	       (NP a volume
+		   (PP of
+		       (NP 121,000 A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The side slopes)
+   (AUX were)
+   (VP coated
+        
+       (PP with
+	   (NP (NP fiberglas
+		   matting)
+	       (VP coated
+		   (PP with
+		       (NP asphalt))
+		   (S (NP *)
+		      (AUX to)
+		      (VP prevent
+			  (NP erosion))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The pilot lagoon)
+   (AUX was)
+   (VP located
+        
+       (PP as
+	   (S (NP *)  
+	      (VP shown
+		  (PP in
+		      (NP Figure 1)))))
+       (S (NP *)
+	  (AUX to)
+	  (VP serve
+	      (NP the area
+		  (ADVP  just
+			south
+			(PP of
+			    (NP the (VP existing) housing area))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The major contributor)
+    (VP was
+	(NP a shopping center))
+    (PP with
+	(S (NP houses)
+	   (VP being
+	       (VP added
+		   (PP to
+		       (NP the system))))
+	   (SBAR as
+		 (S (NP the subdivision)
+		    (VP developed))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The pilot lagoon)
+   (AUX was)
+   (VP designed
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP handle
+	      (NP the wastes
+		  (PP from
+		      (NP 314 persons)))
+	      (PP with
+		  (NP a 4-day aeration period))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Initially)
+      ,
+      (S (NP the wastewater)
+	 (AUX would)
+	 (VP be
+	     (PP (ADVP entirely)
+		 from
+		 (NP the shopping center)))
+	 (PP with
+	     (S (NP the domestic sewage
+		    (PP from
+			(NP the houses)))
+		(VP increasing
+		    (PP over
+			(NP an 18-month period)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This operation)
+   (AUX would)
+   (VP permit
+       (NP evaluation
+	   (PP of
+	       (NP the pilot plant
+		   ,
+		   (PP with
+		       (NP a
+			   (ADJP  slowly
+				  increasing)
+			   load))))
+	   ,
+	   (PP over
+	       (NP a reasonable period
+		   (PP of
+		       (NP time)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The pilot plant)
+    (AUX was)
+    (VP equipped
+	 
+	(PP with
+	    (NP a 3-hp. turbine aerator)))
+    *LRB*
+    (NP Figure 2)
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The aerator)
+   (VP had
+       (NP a variable-speed drive)
+       (S (NP *)
+	  (AUX to)
+	  (VP permit
+	      (NP operation
+		  (PP through
+		      (NP a range
+			  (PP of
+			      (NP speeds)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The sewage flow
+       (PP into
+	   (NP the treatment plant)))
+   (AUX was)
+   (VP (VP metered
+	   )
+       and
+       (VP  (ADVP continuously)
+	    recorded
+	    (PP on
+		(NP 24-hr. charts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The raw sewage)
+   (AUX was)
+   (VP introduced
+        
+       (PP  (ADVP directly)
+	    under
+	    (NP the turbine aerator))
+       (S (NP *)
+	  (AUX to)
+	  (VP insure
+	      (NP maximum mixing
+		  (PP of
+		      (NP the raw sewage))
+		  (PP with
+		      (NP the aeration tank contents)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The effluent)
+   (AUX was)
+   (VP (VP collected
+	     
+	   (PP through
+	       (NP two pipes)))
+       and
+       (VP discharged
+	   (PP to
+	       (NP the Blue River))
+	   (PP through
+	       (NP a surface drainage ditch)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Analyses))
+(  
+ (S (NP Composite samples)
+    (AUX were)
+    (VP collected
+	)
+    (PP at
+	(NP weekly intervals)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The long retention period)
+      and
+      (NP the complete mixing concept))
+  (VP prevented
+      (NP rapid changes
+	  (PP (PP in
+		  either
+		  (NP the mixed liquor))
+	      or
+	      (PP in
+		  (NP the effluent))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Weekly samples)
+   (AUX would)
+   (VP make
+       (NP any changes)
+       (ADJP  
+	(ADVP more readily)
+	discernible
+	(PP than
+	    (NP daily samples)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The composite samples)
+      (AUX were)
+      (ADVP normally)
+      (VP collected
+        
+	  (PP over
+	      (NP a 6-hr. period))))
+     ,
+     but
+     (S (NP an
+	    occasional 24-hr.
+	    composite)
+	(AUX was)
+	(VP made
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Examination
+       (PP of
+	   (NP the operations
+	       (PP of
+		   (NP the shopping center)))))
+   (VP permitted
+       (NP correlation
+	   (PP of
+	       (NP the
+		   6-hr. composite
+		   samples))
+	   (PP with
+	       (NP 24-hr. operations)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The data)
+   (VP indicated
+       (SBAR that
+	     (S (NP the organic load)
+		(PP during
+		    (NP the 6-hr. composites))
+		(VP was
+		    (ADVP essentially)
+		    (NP 50
+			per
+			cent
+			(PP of
+			    (NP the
+				24-hr. organic
+				load))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Grab samples)
+   (AUX were)
+   (VP collected
+        
+       (PP from
+	   (NP the existing oxidation pond))
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      (NP its (VP operating) conditions)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Efforts)
+   (AUX were)
+   (VP made
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP take
+	      (NP the grab samples))
+	  (PP at
+	      (NP random periods))
+	  (SBAR  so
+		 that
+		 (S (NP the mass
+			(PP of
+			    (NP data)))
+		    (AUX could)
+		    (VP be
+			(VP treated
+			     
+			    (PP as
+				(NP a
+				    6-hr. composite
+				    sample)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       single 24-hr.
+       composite sample)
+   (VP indicated
+       (SBAR that
+	     (S (NP the sewage flow pattern and characteristics)
+		(VP were
+		    (ADJP typical))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Pilot plant operations)
+ )
+( (S
+   (NP The BOD
+       (PP of
+	   (NP the influent
+	       (PP to
+		   (NP the pilot plant)))))
+   (VP varied
+       (PP between
+	   (NP 110
+	       and
+	       710 mg))
+       (PP with
+	   (NP an average
+	       (PP of
+		   (NP 350 A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADJP equivalent
+	     (PP to
+		 (NP 240 mg))
+	     (PP on
+		 (NP a 24-hr. basis)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The BOD
+       (PP of
+	   (NP the raw sewage)))
+   (VP was
+       (ADJP typical
+	     (PP of
+		 (NP domestic sewage
+		     (PP from
+			 (NP a subdivision)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The BOD
+       (PP in
+	   (NP the effluent)))
+   (VP averaged
+       (NP (NP 58 mg)
+	   ,
+	   (NP a 76-per-cent reduction
+	       (PP over
+		   (NP the 24-hr. period))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Examination
+	(PP of
+	    (NP the data
+		(PP in
+		    (NP Table 1)))))
+    ,
+    (VP shows
+	(SBAR that
+	      (S (NP a few samples)
+		 (VP contributed
+		     (PP to
+			 (S (NP *)  
+			    (VP raising
+				(NP the effluent A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The periods
+       (PP of
+	   (NP high effluent BOD)))
+   (VP occurred
+       (PP during
+	   (NP (NP cold periods)
+	       (SBAR 
+		(WHADVP when)
+		(S (NP operational problems
+		       (PP with
+			   (NP the aerator)))
+		   (VP resulted)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ice)
+   (VP caused
+       (S (NP the aerator)
+	  (AUX to)
+	  (VP overload
+	      ,
+	      (S (NP *)  
+		 (VP straining
+		     (NP the drive belts)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The slippage
+       (PP of
+	   (NP the drive belts)))
+   (VP caused
+       (S (NP the aerator)
+	  (AUX to)
+	  (VP (VP slow
+		  (PRT down))
+	      and
+	      (VP reduce
+		  (NP (NP oxygen transfer)
+		      (ADVP as
+			    well
+			    (PP as
+				(NP the mixing
+				    (PP of
+					(NP the raw sewage)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The organic loading
+       (PP on
+	   (NP the unit)))
+   (VP averaged
+       (NP (NP 32 lb
+	       (PP of
+		   (NP BOD)))
+	   or
+	   (NP  about
+		2 lb BOD1,000 cu ft aeration capacity))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Needless)
+    (S (NP *)
+       (AUX to)
+       (VP say))
+    ,
+    (S (NP the organic load)
+       (VP (VP was
+	       (ADJP  very
+		      low)
+	       (PP on
+		   (NP a volumetric basis)))
+	   ,
+	   but
+	   (VP was
+	       (NP 270 lb BOD)
+	       (PP on
+		   (NP a surface loading basis))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP seems
+       (SBAR that
+	     (S (NP the (VP aerated) lagoon)
+		(VP was
+		    (NP (NP a
+			    (VP (ADVP very
+				      heavily)
+				loaded)
+			    oxidation pond)
+			or
+			(NP a
+			    (VP  (ADVP lightly)
+				 loaded)
+			    (VP activated)
+			    sludge system)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The flow rate)
+   (VP remained
+       (ADJP  relatively
+	      constant))
+   (PP during
+       (NP the winter months))
+   (PP as
+       (S (NP *)  
+	  (VP shown
+	      (PP in
+		  (NP Table 1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the spring rains))
+    (S (NP the flow)
+       (VP rose
+	   (ADVP rapidly)
+	   (ADVP due
+		 (PP to
+		     (NP infiltration
+			 (PP in
+			     (NP open sewers))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP construction)
+	     (VP progresses)))
+    ,
+    (S (NP the volume
+	   (PP of
+	       (NP storm drainage)))
+       (AUX will)
+       (VP be
+	   (VP  (ADVP sharply)
+		reduced
+		))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The retention period
+       (PP in
+	   (NP the aerated lagoon)))
+   (VP ranged
+       (PP from
+	   (NP (NP 9.8
+		   (PP to
+		       (NP 2.6)))
+	       days))
+       ,
+       (S (NP *)  
+	  (VP averaging
+	      (NP 6.4 days)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The large amount
+       (PP of
+	   (NP vegetable grindings
+	       (PP from
+		   (NP the grocery store
+		       (PP in
+			   (NP the shopping center)))))))
+   (VP created
+       (NP a (VP suspended) solids
+	   problem)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The vegetables)
+   (X (X (AUX were)
+	 (NEG not)
+	 (VP  (ADVP readily)
+	      metabolized
+	 
+	      (PP by
+		  (NP the bacteria
+		      (PP in
+			  (NP the aeration unit))))))
+      and
+      (VP tended
+	  (S (NP *)
+	     (AUX to)
+	     (VP float
+		 (PP on
+		     (NP the surface)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A skimming device
+       (PP at
+	   (NP the effluent weir)))
+   (VP prevented
+       (NP loss
+	   (PP of
+	       (ADJP most
+		     (PP of
+			 (NP these light solids)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       average volatile
+       (VP suspended)
+       solids
+       (PP in
+	   (NP the effluent)))
+   (VP was
+       (NP 75 mg))
+   (SBAR while
+	 (S (NP MLSS)
+	    (VP averaged
+		(NP 170 mg
+		    volatile
+		    (VP suspended)
+		    solids)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The average sludge age)
+       (VP based
+	   (PP on
+	       (NP displacement
+		   (PP of
+		       (NP solids))))))
+   (AUX was)
+   (VP calculated
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (NP 14.5 days)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The oxygen uptake rate
+       (PP in
+	   (NP the mixed liquor)))
+   (VP averaged
+       (NP 0.8 mg))
+   (PP during
+       (NP the
+	   (ADJP first)
+	   four months
+	   (PP of
+	       (NP this study)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Variations
+	(PP in
+	    (NP aerator speeds)))
+    (PP during
+	(NP the
+	    latter two
+	    months
+	    (PP of
+		(NP this study))))
+    (VP caused
+	(NP (NP (VP increased)
+		mixing)
+	    and
+	    (NP (VP increased)
+		oxygen demand))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP (NP The increase
+	    (PP in
+		(NP oxygen uptake rates))
+	    (PP from
+		(NP (NP 1.2
+			(PP to
+			    (NP 2.6)))
+		    mg)))
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP followed
+		     (NP an increase
+			 (PP in
+			     (NP rotor speed)))))))
+    (AUX was)
+    (VP believed
+	 
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP related
+		    
+		   (PP to
+		       (NP resuspension
+			   (PP of
+			       (NP (NP solids)
+				   (SBAR (WHNP which)
+					 (S (NP T)
+					    (AUX had)
+					    (VP settled
+						(PP at
+						    (NP the
+							(ADJP lower)
+							rotor speeds))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP appeared
+	(SBAR that
+	      (S (NP most
+		     (PP of
+			 (NP the mixed liquor
+			     (VP suspended)
+			     solids)))
+		 (VP were
+		     (NP  active microbial
+			 solids))
+		 (PP with
+		     (S (NP the
+			    (ADJP heavier
+				  ,)
+			    (ADJP  less
+				   active)
+			    solids)
+			(VP settling
+			    (ADVP out))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The suspended solids)
+       (VP discharged
+	   (PP in
+	       (NP the effluent))))
+   (AUX were)
+   (VP found
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (NP the major source
+		  (PP of
+		      (NP the A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Removal
+	(PP of
+	    (NP the suspended solids))
+	(PP by
+	    (NP a membrane filter)))
+    (VP yielded
+	(NP (NP an average effluent)
+	    (VP containing
+		(NP  only
+		     20 mg A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The BOD
+	(PP in
+	    (NP (NP the drainage ditch)
+		(VP receiving
+		    (NP the pilot plant effluent)))))
+    (VP averaged
+	(NP 12 A[fj])))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This low BOD)
+   (VP was
+       (ADVP due
+	     (PP to
+		 (NP removal
+		     (PP of
+			 (NP the
+			     (ADJP excess)
+			     (VP suspended)
+			     solids))
+		     (PP by
+			 (NP sedimentation))))))
+   (SBAR since
+	 (S (NP the only dilution)
+	    (VP was
+		(NP (NP surface runoff)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP was
+				 (ADJP  very
+					low))
+			     (PP during
+				 (NP this study)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP Microscopic examination)
+  (S
+   (NP Routine microscopic examinations)
+   (AUX were)
+   (VP made
+       (PP of
+	   (NP the mixed liquor))
+       (PP as
+	   (S  (NP *)
+	       (VP indicated
+		   (PP by
+		       (NP (NP McKinney)
+			   and
+			   (NP Gram))))))
+       (PP for
+	   (NP the various types
+	       (PP of
+		   (NP protozoa))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP found
+       )
+   (SBAR that
+	 (S (NP the (VP aerated) lagoon)
+	    (VP was
+		(NP (NP an (VP activated) sludge system)
+		    (ADVP rather
+			  (PP than
+			      (NP an oxidation pond))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (PP At
+	   (NP no time))
+       (AUX were)
+       (NP algae)
+       (VP found
+	   (PP in
+	       (NP the mixed liquor))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The bacteria)
+   (VP formed
+       (NP (ADJP typical)
+	   (VP activated)
+	   sludge floc)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The floc particles)
+    (VP were  
+	(ADJP (ADVP all)
+	      small))
+    (SBAR as
+	  (S (NP the
+		 (ADJP heavier)
+		 floc)
+	     (VP settled
+		 (ADVP out)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Initially)
+      ,
+      (S (NP the flagellated protozoa)
+	 (VP predominated))
+      ,
+      but
+      (S (NP they)
+	 (ADVP soon)
+	 (VP gave
+	     (NP way)
+	     (PP to
+		 (NP the
+		     (ADJP free
+			   swimming)
+		     (ADJP ciliated)
+		     protozoa)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP the temperature)
+	     (VP decreased)))
+    ,
+    (S (NP the number
+	   (PP of
+	       (NP  
+		(ADJP free
+		      swimming)
+		(ADJP ciliated)
+		protozoa)))
+       (VP decreased)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (ADJP  Very
+	       little) protozoa
+	       activity)
+    (VP existed
+	 
+	(PP below
+	    (NP 40-degrees-F))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the temperature)
+	 (VP reached
+	     (NP 32-degrees-F))))
+     (S (NP all protozoan activity)
+	(VP ceased))
+     ;
+     ;
+     but
+     (S (SBAR as
+	      (S (NP the temperature)
+		 (VP rose)))
+	,
+	(S (NP the numbers
+	       (PP of
+		   (NP protozoa)))
+	   (VP increased
+	       (ADVP rapidly)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  (ADVP Only
+	      once)
+	(AUX were)
+	(NP stalked ciliates)
+	(VP found
+	    (PP in
+		(NP the mixed liquor))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The predomination
+	(PP of
+	    (NP (ADJP free
+		      swimming)
+		(ADJP ciliated)
+		protozoa)))
+    (VP is
+	(ADJP indicative
+	      (PP of
+		  (NP a
+		      high bacterial
+		      population)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Oxygen transfer)
+ ((S (NP One
+	(PP of
+	    (NP the important aspects
+		(PP of
+		    (NP this study)))))
+    (VP was
+	(S (NP *)
+	   (AUX to)
+	   (VP determine
+	       (NP the oxygen transfer relationships
+		   (PP of
+		       (NP the mechanical aerator))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Routine determinations)
+   (AUX were)
+   (VP made
+        
+       (PP for
+	   (NP (VP dissolved)
+	       oxygen
+	       (PP in
+		   (NP the mixed liquor))))
+       and
+       (PP for
+	   (NP oxygen uptake rates))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The data)
+	(VP given
+	    (PP in
+		(NP Table 2))))
+    ,
+    (VP show
+	(NP the routine operation
+	    (PP of
+		(NP the aerator)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP dissolved) oxygen
+       (PP in
+	   (NP the aeration unit)))
+   (VP was
+       (ADJP  consistently
+	     high))
+   (PP until
+       (NP January 29 ,
+	   1961)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An
+       extended cold
+       spell)
+   (VP (VP caused
+	   (S (NP ice)
+	      (AUX to)
+	      (VP build
+		  (ADVP up)
+		  (PP on
+		      (NP (NP the aerator)
+			  (SBAR (WHNP which)
+				(S (NP T)
+				   (AUX was)
+				   (VP mounted
+	       
+				       (PP on
+					   (NP a floating platform))))))))))
+       and
+       (VP caused
+	   (S (NP the entire platform)
+	      (AUX to)
+	      (VP sink
+		  (ADJP lower)
+		  (PP in
+		      (NP the water)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The added resistance
+       (PP to
+	   (NP the rotor)))
+   (VP (VP damaged
+	   (NP the drive belts))
+       and
+       (VP reduced
+	   (NP the oxygen transfer capacity))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP was
+	   (NP  approximately
+		one month))
+       (PP before
+	   (S (NP the belt problem)
+	      (AUX was)
+	      (VP (VP noticed
+		      )
+		  and
+		  (VP corrected)))))
+    ,
+    but
+    (PP at
+	(NP no time))
+    (SINV (VP was)
+	  (NP there)
+	  (NP a deficiency
+	      (PP of
+		  (NP (VP dissolved)
+		      oxygen)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A series
+       (PP of
+	   (NP eight special tests)))
+   (AUX were)
+   (VP conducted
+        
+       (PP at
+	   (NP different rotor speeds))
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      (NP the oxygen transfer rate)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Five
+       (PP of
+	   (NP the tests)))
+   (AUX were)
+   (VP conducted
+        
+       (PP with
+	   (NP a polyethylene cover))
+       (S (NP *)
+	  (AUX to)
+	  (VP simulate
+	      (NP an ice cover)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The rate
+	 (PP of
+	     (NP oxygen transfer))
+	 (PP at
+	     (NP (NP 1.0-mg
+		     .
+		     l.
+		     (VP dissolved)
+		     oxygen concentration)
+		 and
+		 (NP 10-degrees-C)))
+	 (PP for
+	     (NP various rotor speeds)))
+     (AUX is)
+     (VP given
+	     
+	 (PP in
+	     (NP Table 3))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The maximum rate
+        (PP of
+            (NP oxygen transfer))
+	(PP at
+	    (NP  1.0
+		 mg
+		 (VP dissolved)
+		 oxygen)))
+    (AUX was)
+    (VP calculated
+	 
+	(PP as
+	    (NP 220 lb
+		(PP at
+		    (NP a maximum rate
+			(PP of
+			    (NP 9.3 A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The actual power requirements)
+   (VP indicated
+       (NP 2 lb. oxygen transfer
+	   (NP (NP hr
+		   .)
+	       (NP hp.)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+( (S
+   (NP The polyethylene cover)
+   (VP reduced
+       (NP the oxygen transfer rate)
+       (PP by
+	   (NP 10
+	       per
+	       cent)))
+   ,
+   (S (NP *)  
+      (VP indicating
+	  (SBAR that
+		(S (NP the maximum oxygen transfer)
+		   (VP is
+		       (PP (PP at
+			       (NP the rotor))
+			   (ADVP rather
+				 (PP than
+				     (PP through
+					 (NP the surface)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Oxidation pond))
+   ((S (PP During
+	  (NP this study))
+      (S (NP septic conditions)
+	 (VP developed
+	     (PP in
+		 (NP the oxidation pond)))
+	 (PP in
+	     (NP the spring))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP the ice)
+	     (VP melted)))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP (ADVP Shortly)
+	  after
+	  (S (NP this study)
+	     (VP ended)))
+      (S (NP (NP septic conditions)
+	     (SBAR-3 *pseudo-attach*))
+	 (VP resulted)
+	 (SBAR-3
+	  (WHNP which)
+	  (S (NP T)
+	     (VP required
+		 (NP the addition
+		     (PP of
+			 (NP sodium nitrate))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The location
+       (PP of
+	   (NP the oxidation pond))
+       (PP in
+	   (NP a
+	       high-value residential
+	       area)))
+   (VP makes
+       (NP odor nuisances)
+       (NP a sensitive problem
+	   (PP for
+	       (NP the developer)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The organic concentration
+       (PP in
+	   (NP the
+	       influent raw
+	       sewage)))
+   (VP ranged
+       (PP from
+	   (NP (NP 160
+		   (PP to
+		       (NP 270)))
+	       mg
+	       (PP of
+		   (NP BOD))))
+       (PP with
+	   (NP an average
+	       (PP of
+		   (NP 230 A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The BOD data)
+   (AUX are)
+   (VP given
+        
+       (PP in
+	   (NP Table 4))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       single 24-hr.
+       composite sample)
+   (VP had
+       (NP a BOD
+	   (PP of
+	       (NP 260 mg))))
+   ,
+   (S (NP *)  
+      (VP indicating
+	  (NP a
+	      typical domestic
+	      sewage))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The daily sewage volume
+       (PP to
+	   (NP the oxidation pond)))
+   (VP averaged
+       (NP 147,000 gpd))
+   ,
+   (S (NP *)  
+      (VP giving
+	  (NP a retention period
+	      (PP of
+		  (NP 42 days))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The organic loading
+       (PP on
+	   (NP the pond)))
+   (VP was
+       (PP (ADVP slightly)
+	   under
+	   (NP (NP 60 lb
+		   .)
+	       (NP BOD
+		   day
+		   acre)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The effluent BOD)
+   (VP averaged
+       (NP (NP 34 mg)
+	   ,
+	   (ADJP (NP a
+		     little)
+		 lower
+		 (PP than
+		     (S (NP that
+			    (PP of
+				(NP the study
+				    (PP at
+					(NP Fayette)))))
+			(VP indicated
+			    (PP for
+				(NP a loading
+				    (PP of
+					(NP (NP 60 lb
+						.)
+					    (NP A[fj]))))))))))))
+  .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The BOD
+       (PP of
+	   (NP the effluent)))
+   (VP ranged
+       (PP (PP from
+	       (NP a minimum
+		   (PP of
+		       (NP 13
+			   (NP-6 *pseudo-attach*)))))
+	   (PP to
+	       (NP a maximum
+		   (PP of
+		       (NP 47
+			   (NP-6 mg
+			       .
+			       l.))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+( (S
+   (NP Microscopic examination
+       (PP of
+	   (NP the effluent)))
+   (VP showed
+       (SBAR that
+	     (S (NP  minimum BOD)
+		(VP occurred)
+		(SBAR 
+		 (WHADVP when)
+		 (S (NP the algae)
+		    (VP began
+			(S (NP *)
+			   (AUX to)
+			   (VP decrease
+			       (PP with
+				   (NP cold weather)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the algae)
+	 (VP began
+	     (S (NP *)
+		(AUX to)
+		(VP build
+		    (ADVP up))
+		(ADVP again)))))
+     ,
+     (S (NP the effluent BOD)
+	(VP rose)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP During
+       (NP (NP the two weeks)
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP the algae)
+	       (VP disappeared
+		   (PP from
+		       (NP the effluent)))))))
+   (S (NP BOD 's
+	  (PP in
+	      (NP the effluent)))
+      (VP were
+	  (NP 18
+	      and
+	      16 A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2140 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (NP Control
+        (PP of
+            (NP socioeconomic status)))
+    )
+( (S
+   (NP It
+       (PP-1 *pseudo-attach*))
+   (AUX would)
+   (VP have
+       (VP been
+           (ADJP desirable)))
+   (PP-1 for
+	 (S (NP the two communities)
+	    (AUX to)
+	    (VP have
+		(VP differed
+		    (PP  (ADVP only)
+			 in
+			 (NP respect
+			     (PP to
+				 (NP (NP (NP the variable)
+					 (VP being
+					     (VP investigated)))
+				     :
+				     (NP the degree
+					 (PP of
+					     (NP structure))
+					 (PP in
+					     (NP teaching method))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP structured) schools)
+   (VP were
+       (PP in
+           (NP (NP an industrial city)
+               ,
+               (PP (PP with
+                       (NP (NP (ADJP three-family) tenement houses)
+                           (ADJP typical
+                                 (PP of
+                                     (NP the residential areas)))))
+                   ,
+                   but
+                   (PP with
+                       (NP one
+                           (ADJP  rather
+                                  sizable) section
+                           (PP of
+                               (NP (ADJP middle-class) homes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP unstructured) schools)
+   (VP were
+       (PP in
+           (NP (NP a
+                   large suburban
+                   community)
+               ,
+               (X (ADJP   (ADVP predominantly)
+                          middle
+                          -
+                          to
+                          upper-middle
+                          class)
+                  ,
+                  but
+                  (VP fringed
+                      (PP by
+                          (NP an industrial area))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR (PP In
+             (NP order))
+         (S (NP *)
+            (AUX to)
+            (VP equate
+                (NP the samples)
+                (PP on
+                    (NP socioeconomic status)))))
+   ,
+   (S (NP we)
+      (VP chose
+          (NP schools
+              (PP in
+                  (NP both
+                      cities)))
+          (PP on
+              (NP the basis
+                  (PP of
+                      (NP socioeconomic status
+                          (PP of
+                              (NP the neighborhoods)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP School principals) and (NP guidance workers))
+      (VP made
+          (NP ratings
+              (PP of
+                  (NP the various neighborhoods)))))
+     and
+     (S (NP the research team)
+        (VP made
+            (NP independent observations
+                (PP of
+                    (NP (NP houses) and (NP dwelling areas)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP An objective scale)
+       (PP-1 *pseudo-attach*))
+   (AUX was)
+   (VP developed)
+   (PP-1 for
+	 (S (NP *) 
+	    (VP rating
+		(NP school neighborhoods)
+		(PP from
+		    (NP these data))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Equal proportions
+       (PP of
+           (NP children)))
+   (PP in
+       (NP each city))
+   (AUX were)
+   (VP drawn
+       (PP from
+           (NP (ADJP upper-lower and lower-middle class) neighborhoods))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Subjects))
+(   
+ (S  
+  (NP Individual differences
+      (PP in
+	  (NP (NP maturation)
+	      and
+	      (NP the development
+		  (PP of
+		      (NP readiness
+			  (PP for
+			      (S (NP *) 
+				 (VP learning
+				     (S (NP *)
+					(AUX to)
+					(VP read)))))))))))
+  (VP indicate
+      (SBAR that
+	    (SINV (PP (NEG not)
+		      until
+		      (NP the third grade))
+		  (AUX have)
+		  (NP 
+		   most
+		   children)
+		  (VP had
+		      (NP ample opportunity
+			  (S (NP *)
+			     (AUX to)
+			     (VP demonstrate
+				 (NP their capacity
+				     (PP for
+					 (NP school achievement)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP third-grade children)
+         (AUX were)
+         (VP chosen
+             (PP as
+                 (NP subjects
+                     (PP for
+                         (NP this study)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP (PP For
+          (NP purposes
+              (PP of
+                  (NP sample selection
+                      (ADVP only)))))
+      *LRB*
+      (S (NP individual tests)
+         (AUX were)
+         (VP given
+             )
+         (ADVP later))
+      *RRB*)
+  (S (NP we)
+     (VP obtained
+         (NP group test scores
+             (PP of
+                 (NP (NP reading achievement) and (NP intelligence))))
+         (PP from
+             (NP school records
+                 (PP of
+                     (NP the entire third-grade population
+                         (PP in
+                             (NP each school system)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The subjects
+       (PP for
+           (NP this study)))
+   (AUX were)
+   (ADVP randomly)
+   (VP selected
+             
+       (PP from
+           (NP (NP (VP stratified) areas
+                   (PP of
+                       (NP the distribution)))
+               ,
+               (NP (NP (NP one-third)
+                       (PP as
+                           (NP underachievers)))
+                   ,
+                   (NP (NP one-third)
+                       (ADJP medium))
+                   ,
+                   and
+                   (NP (NP one-third) 
+                       (NP over-achievers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Children)
+       (SBAR 
+        (WHNP whose reading scores)
+        (S (NP T)
+           (VP were
+               (PP (NP (PP at
+                           (ADJP least))
+                       one standard deviation)
+                   below
+                   (NP the regression line
+                       (PP of
+                           (NP each total third-grade school population))))))))
+   (AUX were)
+   (VP considered
+       (NP under-achievers))
+   (PP for
+       (NP the purposes
+           (PP of
+               (NP sample selection)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Over-achievers)
+   (VP were
+       (PP (NP (PP at
+                   (ADJP least))
+               one standard deviation)
+           above
+           (NP the regression line
+               (PP in
+                   (NP their school system))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The final sample)
+   (VP was
+       (NEG not)
+       (ADJP  significantly
+              different
+              (PP from
+                  (NP a normal distribution))))
+   (PP in
+       (NP regard
+           (PP to
+               (NP  reading achievement or intelligence test scores)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Twenty-four classrooms
+       (PP in
+           (NP twelve (ADJP unstructured) schools)))
+   (VP furnished
+       (NP (NP 156 cases)
+           ,
+           (NP (NP 87 boys)
+               and
+               (NP 69 girls)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Eight classrooms
+       (PP in
+           (NP three (ADJP structured) schools)))
+   (VP furnished
+       (NP (NP 72 cases)
+           ,
+           (NP (NP 36 boys
+                   and)
+               (NP 36 girls)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Administrative restrictions)
+   (VP necessitated
+       (NP the
+	   smaller
+           sample size
+           (PP in
+               (NP the (ADJP structured) schools)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (AUX was)
+   (VP assumed)
+   (SBAR-2 that
+	   (S (NP the sampling procedure)
+	      (VP was
+		  (ADJP  purely
+			 random))
+	      (PP with
+		  (NP respect
+		      (PP to
+			  (NP the personality variables
+			      (PP under
+				  (NP investigation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Rating scale
+      (PP of
+	  (NP compulsivity)))
+  )
+((S (S  
+     (NP (NP An interview schedule
+             (PP of
+                 (NP (ADJP open-ended) questions)))
+         and
+         (NP a multiple-choice questionnaire))
+     (AUX were)
+     (VP prepared
+         ))
+    ,
+    and
+    (S (NP one parent
+           (PP of
+               (NP each
+                   (PP of
+                       (NP the sample children)))))
+       (AUX was)
+       (VP seen
+                 
+           (PP in
+               (NP the home)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The parent)
+   (AUX was)
+   (VP asked
+             
+       (S (NP *)
+          (AUX to)
+          (VP describe
+              (NP 
+               (NP the child)
+               's typical behavior
+               (PP in
+                   (NP 
+                    (NP certain standard
+                        situations)
+                    (SBAR 
+                     (WHPP in
+                           (WHNP which))
+                     (S (NP there)
+                        (VP was
+                            (NP an opportunity
+                                (S (NP *)
+                                   (AUX to)
+                                   (VP observe
+                                       (NP tendencies
+                                           (PP toward
+                                               (NP (NP perfectionism
+                                                       (PP in
+                                                           (NP demands
+                                                               (PP upon
+                                                                   (NP (NP self) and (NP others))))))
+                                                   ,
+                                                   (NP irrational conformity
+                                                       (PP to
+                                                           (NP rules)))
+                                                   ,
+                                                   (NP orderliness)
+                                                   ,
+                                                   (NP punctuality)
+                                                   ,
+                                                   and
+                                                   (NP need
+                                                       (PP for
+                                                           (NP certainty)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The interviewers)
+    (AUX were)
+    (VP instructed
+                 
+        (S (S  (NP *)  
+               (NEG not)
+               (AUX to)
+               (VP suggest
+                   (NP answers)))
+           and
+           (S  ,
+               (ADVP as
+                     much
+                     (PP as
+                         (ADJP possible)))
+               ,
+               (S (NP *)
+                  (AUX to)
+                  (VP record
+                      (NP 
+                       (NP the parents)
+                       ' actual words))
+                  (SBAR  as
+                         (S (NP they)
+                            (VP described
+                                (NP 
+                                 (NP the child)
+                                 's behavior
+                                 (PP in
+                                     (NP home situations)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The rating scale
+       (PP of
+           (NP compulsivity)))
+   (AUX was)
+   (VP constructed
+             
+       (PP by
+           (S  (NP *)
+	       (VP (ADVP first)
+		   (VP perusing
+                       (NP the interview records))
+                   ,
+                   (VP categorizing
+                       (NP (NP all evidence)
+                           (VP related
+                               (PP to
+                                   (NP compulsivity)))))
+                   ,
+                   (ADVP then)
+                   (VP arranging
+                       (NP (NP a distribution
+                               (PP of
+                                   (NP such information)))
+                           (ADVP apart
+                                 (PP from
+                                     (NP the case records))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Final ratings)
+   (AUX were)
+   (VP made
+             
+       (PP on
+           (NP the basis
+               (PP of
+                   (NP (NP a point system)
+                       (SBAR 
+                        (WHNP which)
+                        (S (NP T)
+                           (AUX was)
+                           (VP developed
+                               )
+                           (PP after
+                               (S (NP *) 
+                                  (VP (VP studying
+                                          (NP (NP the distributions
+                                                  (PP of
+                                                      (NP actual behaviors)))
+                                              (VP recorded)))
+                                      and
+                                      (VP assigning
+                                          (NP weight values)
+                                          (PP to
+                                              (NP (NP each type
+                                                      (PP of
+                                                          (NP behavior)))
+                                                  (SBAR 
+                                                   (WHNP that)
+                                                   (S (NP T)
+                                                      (VP was
+                                                          (ADJP deviant
+                                                                (PP from
+                                                                    (NP the (VP discovered) norms))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Children)
+       (VP scoring
+           (ADVP high)
+           (PP in
+               (NP compulsivity))))
+   (VP were
+       (NP (NP those)
+           (SBAR (SBAR 
+                  (WHNP who)
+                  (S (NP T)
+                     (VP gave
+                         (NP evidence
+                             (PP of
+                                 (NP (NP tension) or (NP emotionality)))))
+                     (PP in
+                         (NP (NP situations)
+                             (SBAR 
+                              (WHADVP where)
+                              (S (NP there)
+                                 (VP was
+                                     (NP lack
+                                         (PP of
+                                             (NP (NP organization) 
+                                                 or 
+                                                 (NP conformity
+                                                     (PP to
+                                                         (NP (NP standards) and (NP expectations))))))))))))))
+                 ,
+                 or
+                 (SBAR 
+                  (WHNP who)
+                  (S (NP T)
+                     (VP made
+                         (NP 
+                          (ADJP exaggerated)
+                          efforts
+                          (S (NP *)
+                             (AUX to)
+                             (VP achieve
+                                 (NP these goals)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       low compulsive
+       child)
+   (VP was
+       (NP (NP one)
+           (SBAR 
+            (WHNP who)
+            (S (NP T)
+               (VP appeared
+                   (ADJP  (ADVP relatively)
+                          unconcerned
+                          (PP about
+                              (NP such matters)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP instance))
+   ,
+   (S (S (NP the (ADJP following) statement)
+         (AUX was)
+         (VP rated
+             (ADVP low
+                   (PP in
+                       (NP compulsivity)))))
+      ,
+      ``
+      (S (S (NP She)
+            (VP 's
+                (ADVP naturally)
+                (ADJP  quite
+                       neat
+                       (PP about
+                           (NP things)))))
+         ,
+         but
+         (S (NP it)
+            (AUX does)
+            (NEG n't)
+            (VP bother
+                (NP her)
+                (PP at
+                    (NP all)))
+            (SBAR if
+                  (S (NP her room)
+                     (VP gets
+                         (ADJP messy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP she)
+         (VP cleans
+             (NP it)
+             (PRT up)
+             (ADVP very
+                   well))
+         (SBAR 
+          (WHADVP when)
+          (S (NP I)
+             (VP remind
+                 (NP her))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Measurement
+     (PP of
+	 (NP anxiety))))
+(  
+ (S  
+  (NP Castaneda
+      ,
+      et al)
+  (VP revised
+      (NP the Taylor Anxiety Scale)
+      (PP for
+          (NP use
+              (PP with
+                  (NP children))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Taylor Scale)
+   (AUX was)
+   (VP adapted
+             
+       (PP from
+           (NP the Minnesota Multiphastic Personality Inventory)))
+   ,
+   (PP with
+       (S (NP item selection)
+	  (VP based
+	      (PP upon
+		  (NP clinical definitions
+		      (PP of
+			  (NP anxiety))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP (NP much research evidence)
+	   (S (NP *)
+	      (AUX to)
+	      (VP validate
+		  (NP the use
+		      (PP of
+			  (NP the instrument))
+		      (PP in
+			  (S (NP *) 
+			     (VP differentiating
+				 (NP (NP individuals)
+				     (SBAR 
+				      (WHNP who)
+				      (S (NP T)
+					 (VP are
+					     (ADJP likely
+						   (S (NP *)
+						      (AUX to)
+						      (VP manifest
+							  (NP anxiety)
+							  (PP in
+							      (NP (VP varying)
+								  degrees))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Reliability and validation work
+       (PP with
+           (NP 
+            (NP the Children)
+            's Anxiety Scale))
+       (PP by
+           (NP Castaneda
+               ,
+               et al)))
+   (VP demonstrated
+       (NP (NP results)
+           (ADJP  closely
+                  similar
+                  (PP to
+                      (NP the findings
+                          (PP with
+                              (NP the adult scale))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+           (S (NP the Taylor Scale)
+              (AUX was)
+              (VP designed
+                 
+                  (PP as
+                      (NP a group testing device)))))
+     ,
+     (S (PP in
+            (NP this study))
+        (S
+         (NP it)
+         (AUX was)
+         (VP  (ADVP individually)
+              administered
+              
+              (PP by
+                  (NP (NP  (VP (ADVP psychologically)
+                               trained) workers)
+                      (SBAR 
+                       (WHNP who)
+                       (S (NP T)
+                          (VP (VP established
+                                  (NP rapport))
+                              and
+                              (VP assisted
+                                  (NP the children)
+                                  (PP in
+                                      (S (NP *)  
+                                         (VP reading
+                                             (NP the items))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Relationship
+        (PP of
+            (NP Anxiety))
+        (PP to
+            (NP compulsivity)))
+  )
+( (S
+   (NP (NP The question)
+       (SBAR-1 *pseudo-attach*))
+   (AUX may)
+   (VP be
+       (VP raised
+           ))
+   (SBAR-1 whether
+	   or
+	   (NEG not)
+	   (S (NP we)
+	      (AUX are)
+	      (VP dealing
+		  (PP with
+		      (NP a common factor)))
+	      (PP in
+		  (NP (NP anxiety) and (NP compulsivity))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The two ratings)
+      (VP yield
+	  (NP (NP a correlation
+		  (X (PP of)))
+	      ,
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (VP is
+		      (NEG not)
+		      (ADJP  significantly
+			     different
+			     (PP from
+				 (NP zero)))))))))
+     ;
+     ;
+     (S (ADVP therefore)
+	,
+	(S (NP we)
+	   (AUX have)
+	   (VP measured
+	       (NP two different characteristics)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP theory))
+      ,
+      (S (NP compulsive behavior)
+	 (VP is
+	     (NP a way
+		 (PP of
+		     (S (NP *) 
+			(VP diminishing
+			    (NP anxiety))))))))
+     ,
+     and
+     (S (NP one)
+	(AUX might)
+	(VP expect
+	    (NP a negative association))
+	(PP except
+	    (PP for
+		(NP the possibility
+		    (SBAR that
+			  (S (PP for
+				 (NP many children))
+			     (S
+			      (NP the (ADJP obsessive-compulsive) defenses)
+			      (VP are
+				  (NEG not)
+				  (ADJP sufficient
+					(S (NP *)
+					   (AUX to)
+					   (VP quell
+					       (NP the amount
+						   (PP of
+						       (NP (NP anxiety)
+							   (SBAR 0
+								 (S
+								  (NP they)
+								  (VP suffer
+								      (NP T) ))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The issue
+       (PP of
+	   (NP interaction
+	       (PP between
+		   (NP (NP anxiety) and (NP compulsivity))))))
+   (AUX will)
+   (VP be
+       (VP taken
+	   (PRT up)))
+   (ADVP later))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Criterion measurement)
+ )
+( (S  
+   (PP In
+       (NP the primary grades))
+   ,
+   (S (S (NP reading)
+	 (VP permeates
+	     (NP  almost
+		  every aspect
+		  (PP of
+		      (NP school progress)))))
+      ,
+      and
+      (S (NP
+	  (NP the children)
+	  's early experiences
+	  (PP of
+	      (NP  (NP success) or  (NP failure)))
+	  (PP in
+	      (S (NP *) 
+		 (VP learning
+		     (S (NP *)
+			(AUX to)
+			(VP read))))))
+	 (ADVP often)
+	 (VP set
+	     (NP (NP a pattern
+		     (PP of
+			 (NP total achievement)))
+		 (SBAR 
+		  (WHNP that)
+		  (S (NP T)
+		     (VP  is
+			  (ADJP   (ADVP relatively)
+				  enduring)
+			  (PP throughout
+			      (NP the (ADJP following) years))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (S  (NP *) 
+	   (VP establishing
+	       (NP criterion measurements))))
+   ,
+   (S (NP it
+	  (S-3 *pseudo-attach*))
+      (AUX was)
+      (ADVP therefore)
+      (VP thought
+	  (ADJP best))
+      (S-3 (NP *)
+	   (AUX to)
+	   (VP broaden
+	       (NP the scope)
+	       (PP beyond
+		   (NP (NP the reading act)
+		       (NP itself)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP predicted) interaction effect)
+   (AUX should)
+   ,
+   (X if
+      (ADJP potent))
+   ,
+   (VP extend
+       (NP its influence)
+       (PP over
+	   (NP all academic achievement))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP The Stanford Achievement Test)
+	  ,
+	  (NP Form J)
+	  ,)
+      (VP-2 *pseudo-attach*))
+  (AUX was)
+  (VP administered
+	 
+      (PP by
+	  (NP classroom teachers)))
+  ,
+  (X (VP-2 consisting
+	   (PP of
+	       (NP (NP a battery
+		       (PP of
+			   (NP six sub-tests)))
+		   :
+		   (NP (NP Paragraph Meaning)
+		       ,
+		       (NP Word Meaning)
+		       ,
+		       (NP Spelling)
+		       ,
+		       (NP Language)
+		       ,
+		       (NP Arithmetic Computation)
+		       ,
+		       and
+		       (NP Arithmetic Reasoning)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All
+       (PP of
+	   (NP these sub-tests)))
+   (VP involve
+       (NP reading))
+   (PP except
+       (NP Arithmetic Computation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Scores)
+   (AUX are)
+   (VP stated
+	     
+       (PP in
+	   (NP grade-equivalents
+	       (PP on
+		   (NP a national norm))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The battery median grade-equivalent)
+   (AUX was)
+   (VP used)
+   (PP in
+       (NP data
+	   analysis
+	   (PP in
+	       (NP this study)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Wechsler Intelligence Scale
+       (PP For
+	   (NP Children)))
+   (AUX was)
+   (VP administered
+	     
+       (PP to
+	   (NP each sample third-grade child))
+       (PP by
+	   (NP a clinical worker))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The relationship
+	   (PP of
+	       (NP intelligence test scores))
+	   (PP to
+	       (NP school achievement)))
+       (VP is
+	   (NP (NP a (ADJP well-established) fact)
+	       *LRB*
+	       (NP (PP in
+		       (NP this case))
+		   ,
+		   (NP A[fj]))
+	       *RRB*)))
+    ;
+    ;
+    (S  (ADVP therefore)
+	,
+	(PP in
+	    (NP the investigation
+		(PP of
+		    (NP the present hypothesis))))
+	,
+	(S (NP it
+	       (S-4 *pseudo-attach*))
+	   (VP was
+	       (ADJP necessary))
+	   (S-4 (NP *)
+		(AUX to)
+		(VP control
+		    (NP this factor))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The criterion score)
+       (VP used
+	   (PP in
+	       (NP the statistical analysis))))
+   (VP is
+       (NP an index
+	   (PP of
+	       (NP  
+		over
+		-
+		or
+		under-achievement)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP the discrepancy
+	   (PP between
+	       (NP (NP the
+		       actual
+		       (VP attained)
+		       achievement test score)
+		   and
+		   (NP (NP the score)
+		       (SBAR  
+			(WHNP that)
+			(S (NP T)
+			   (AUX would)
+			   (VP be
+			       (VP predicted
+		      
+				   (PP by
+				       (NP the I.Q
+					   .))))))))))))
+  .)
+( (S  (PP For
+	  (NP example))
+      ,
+      (PP on
+	  (NP the basis
+	      (PP of
+		  (NP the regression equation))))
+      ,
+      (S (NP a child
+	     (PP with
+		 (NP an I.Q.
+		     (PP of
+			 (NP 120)))))
+	 (PP in
+	     (NP this sample))
+	 (AUX would)
+	 (VP be
+	     (VP expected
+		 
+		 (S (NP *)
+		    (AUX to)
+		    (VP earn
+			(NP an achievement test score
+			    (PP of
+				(NP (NP 4.8)
+				    *LRB*
+				    (NP grade
+					equivalent)
+				    *RRB*)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP a child
+		 (PP with
+		     (NP an I.Q.
+			 (PP of
+			     (NP 120)))))
+	     (VP scored
+		 (NP 5.5)
+		 (PP in
+		     (NP achievement)))))
+   ,
+   (S (NP his discrepancy score)
+      (AUX would)
+      (VP be)
+      ,
+      (S (NP *)
+	 (VP representing
+	     (PP of
+		 (NP one year
+		     (PP of
+			 (NP over-achievement))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A child
+       (PP with
+	   (NP an I.Q.
+	       (PP of
+		   (NP 98)))))
+   (AUX would)
+   (VP be
+       (VP expected
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP earn
+		  (NP an achievement test score
+		      (PP of
+			  (NP 3.5))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP  such
+		  a child)
+	     (VP scored
+		 (NP 3.0))))
+   ,
+   (S (NP his discrepancy score)
+      (AUX would)
+      (VP be
+	  (NP (NP  -
+		   .5)
+	      ,
+	      (S (NP *)
+		 (VP representing
+		     (PP of
+			 (NP one year
+			     (PP of
+				 (NP under-achievement))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP this manner))
+   ,
+   (S (NP (NP the factors)
+	  (VP measured
+	      (PP by
+		  (NP the intelligence test))))
+      (AUX were)
+      (VP controlled
+	  )
+      ,
+      (S  (NP *)  
+	  (VP allowing
+	      (NP (VP discovered) differences
+		  (PP in
+		      (NP achievement)))
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (VP interpreted
+			 
+			 (PP as
+			     (S (NP *) 
+				(VP resulting
+				    (PP from
+					(NP other variables))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP Results)
+     (NP  test
+	  (PP of
+	      (NP interaction
+		  (PP of
+		      (NP (NP compulsivity) and (NP teaching methods)))))))
+ )
+(
+ (S  
+  (NP Tables 1
+      and
+      2)
+  (VP present
+      (NP (NP the results
+	      (PP of
+		  (NP the statistical analysis
+		      (PP of
+			  (NP the data)))))
+	  (SBAR 
+	   (WHADVP when)
+	   (S (NP compulsivity)
+	      (AUX is)
+	      (VP used
+	   
+		  (PP as
+		      (NP the descriptive variable))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Figure 1)
+   (VP portrays
+       (NP the mean achievement scores
+	   (PP of
+	       (NP each sub-group)))
+       (ADVP graphically)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP  First
+	  (PP of
+	      (NP all)))
+   ,
+   (PP as
+       (S (NP we)
+	  (AUX had)
+	  (VP surmised)))
+   ,
+   (S (NP the
+	  (ADJP  highly
+		 compulsive) children
+	  (PP in
+	      (NP the (ADJP structured) setting)))
+      (VP score
+	  (ADVP (ADVP  significantly
+		       better)
+		*LRB*
+		(NP A[fj])
+		*RRB*
+		(PP on
+		    (NP achievement))
+		(PP than
+		    (SINV  
+		     (AUX do)
+		     (NP similar children
+			 (PP in
+			     (NP the (ADJP unstructured) schools)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-5 *pseudo-attach*))
+    (AUX can)
+    (VP be
+	(VP seen))
+    (ADVP too)
+    (SBAR-5 that
+	    (S (SBAR (WHADVP when)
+		     (S (NP we)
+			(VP contrast
+			    (NP levels
+				(PP of
+				    (NP compulsivity))
+				(PP within
+				    (NP the (ADJP structured) schools))))))
+	       ,
+	       (S (NP the
+		      high compulsive
+		      children)
+		  (VP do
+		      (ADVP (ADVP better)
+			    *LRB*
+			    (NP A[fj])
+			    *RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No significant difference
+       (PP-3 *pseudo-attach*)
+       (PP-4 *pseudo-attach*))
+   (AUX was)
+   (VP found
+       )
+   (PP-3 in
+	 (NP achievement))
+   (PP-4 between
+	 (NP 
+	  (ADJP high and low compulsive)
+	  children
+	  (PP within
+	      (NP the (ADJP unstructured) school)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The hypothesis
+       (PP of
+	   (S  (NP there)
+	       (VP being
+		   (NP an interaction
+		       (PP between
+			   (NP (NP compulsivity) and (NP teaching method))))))))
+   (AUX was)
+   (VP supported
+       ,
+       (PP in
+	   (NP this case))
+       ,
+       (PP at
+	   (NP the level))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  While
+	  (S (NP we)
+	     (AUX had)
+	     (VP expected
+		 (SBAR that
+		       (S (NP compulsive children
+			      (PP in
+				  (NP the (ADJP unstructured) school setting)))
+			  (AUX would)
+			  (VP have
+			      (NP difficulty))
+			  (SBAR (WHADVP when)
+				(S (NP *) 
+				   (VP compared
+				       (PP to
+					   (NP those
+					       (PP in
+						   (NP the
+						       (ADJP structured)))))))))))))
+   ,
+   (S (NP we)
+      (VP   were
+	    (ADJP surprised
+		  (S (NP *)
+		     (AUX to)
+		     (VP find
+			 (SBAR that
+			       (S (NP the achievement
+				      (PP of
+					  (NP the high compulsives))
+				      (PP within
+					  (NP (NP the schools)
+					      (SBAR 
+					       (WHADVP where)
+					       (S (NP the whole-word method)
+						  (AUX is)
+						  (VP used
+						       
+						      (PP in
+							  (NP beginning reading))))))))
+				  (VP compares
+				      (ADVP favorably)
+				      (PP with
+					  (NP that
+					      (PP of
+						  (NP the low compulsives)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      (S (NP their achievement scores)
+	 (VP were
+	     (ADJP  somewhat
+		    better
+		    (PP on
+			(NP an absolute basis))))
+	 (SBAR although
+	       (S (NP the difference)
+		  (VP was
+		      (NEG not)
+		      (ADJP significant))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP speculate
+	(SBAR (SBAR that
+		    (S (NP compulsives
+			   (PP in
+			       (NP the (ADJP unstructured) schools)))
+		       (VP are
+			   (PP under
+			       (NP 
+				greater
+				strain)))
+		       (ADVP because
+			     (PP of
+				 (NP the lack
+				     (PP of
+					 (NP systemization
+					     (PP in
+						 (NP their school setting)))))))))
+	      ,
+	      but
+	      (SBAR  that
+		     (S (NP their need
+			    (S (NP *)
+			       (AUX to)
+			       (VP organize)
+			       *LRB*
+			       (PP for
+				   (NP comfort))
+			       *RRB*))
+			(VP is
+			    (ADJP  so
+				   intense
+				   (SBAR that
+					 (S (NP they)
+					    (VP (VP struggle
+						    (S (NP *)
+						       (AUX to)
+						       (VP induce
+							   (NP the phonic
+							       rules))))
+						and
+						(VP achieve
+						    (PP in
+							(NP spite
+							    (PP of
+								(NP the lack
+								    (PP of
+									(NP direction
+									    (PP from
+										(NP the environment)))))))))))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(S-6 *pseudo-attach*))
+    (VP is
+	(ADJP interesting))
+    (S-6 (NP *)
+	 (AUX to)
+	 (VP note
+	     (SBAR that
+		   (S (NP medium compulsives
+			  (PP in
+			      (NP the (ADJP unstructured) schools)))
+		      (VP made
+			  (NP (NP the
+				  lowest
+				  achievement scores)
+			      *LRB*
+			      (X although
+				 (NEG not)
+				 (ADJP  significantly
+					lower))
+			      *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Possibly)
+      (S (NP their compulsivity)
+	 (VP was
+	     (NEG not)
+	     (ADJP strong
+		   enough
+		   (S (NP *)
+		      (AUX to)
+		      (VP cause
+			  (NP them)
+			  (S (NP *)
+			     (AUX to)
+			     (VP build
+				 (NP their own structure)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Our conjecture)
+    (VP is
+	,
+	(ADVP then)
+	,
+	(SBAR that
+	      (S (ADVP regardless
+		       (PP of
+			   (NP (NP the manner)
+			       (SBAR (WHPP in
+					   (WHNP which))
+				     (S (NP school lessons)
+					(AUX are)
+					(VP taught
+					    ))))))
+		 ,
+		 (S (NP the compulsive child)
+		    (VP accentuates
+			(NP (NP those elements
+				(PP of
+				    (NP each lesson)))
+			    (SBAR 
+			     (WHNP that)
+			     (S (NP T)
+				(VP aid
+				    (NP him)
+				    (PP in
+					(S (NP *) 
+					   (VP systematizing
+					       (NP his work))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (SBAR (WHADVP When)
+	 (S  (NP *)  
+	     (VP helped
+		 (PP by
+		     (NP a high degree
+			 (PP of
+			     (NP structure
+				 (PP in
+				     (NP lesson presentation)))))))))
+   ,
+   (SINV  (ADVP (ADVP then)
+		,
+		and
+		(ADVP only
+		      then)
+		,)
+	  (AUX does)
+	  (NP  such
+	       a child)
+	  (VP attain
+	      (NP unusual success))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Test
+        (PP of
+            (NP interaction
+                (PP of
+                    (NP (NP anxiety) and (NP teaching methods))))))
+    )
+((S  
+  (NP The statistical analyses
+      (PP of
+	  (NP (NP achievement
+		  (PP in
+		      (NP relation
+			  (PP to
+			      (NP (NP anxiety) and (NP teaching methods))))))
+	      and
+	      (NP the interactions
+		  (PP of
+		      (NP the two))))))
+  (AUX are)
+  (VP presented
+	 
+      (PP in
+	  (NP Tables 3
+	      and
+	      4))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Figure 2)
+   (VP is
+       (NP a graph
+	   (PP of
+	       (NP the mean achievement scores
+		   (PP of
+		       (NP each group)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S  (NP *)  
+	   (VP predicted)))
+   ,
+   (S (NP the
+	  (ADJP  highly
+		 anxious) children
+	  (PP in
+	      (NP the (ADJP unstructured) schools)))
+      (VP score
+	  (ADVP  (ADVP more poorly)
+		 *LRB*
+		 (NP A[fj])
+		 *RRB*
+		 (PP than
+		     (NP those
+			 (PP  in
+			      (NP the (ADJP structured) schools))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The interaction effect)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (VP is
+	      (ADJP significant)
+	      (PP at
+		  (NP the level)))))
+      ,)
+  (AUX can)
+  (VP be
+      (VP seen
+	  (ADVP best)
+	  (PP in
+	      (NP the contrast
+		  (PP of
+		      (NP mean scores)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  
+    (SBAR  While
+	   (S (NP high anxiety children)
+	      (VP achieve
+		  (ADVP (ADVP (ADVP significantly)
+			      less well)
+			*LRB*
+			(NP A[fj])
+			*RRB*
+			(PP in
+			    (NP the (ADJP unstructured) school))
+			(PP than
+			    (SINV  
+			     (AUX do)
+			     (NP low anxiety children)))))))
+    ,
+    (S (NP they)
+       (VP appear
+	   (S (NP *)
+	      (AUX to)
+	      (VP do
+		  (ADVP (PP at
+			    (ADJP least))
+			as
+			well
+			(PP as
+			    (NP the average
+				(PP in
+				    (NP the (ADJP structured) classroom))))))))))  
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The
+	   (ADJP  most striking)
+	   aspect
+	   (PP of
+	       (NP the interaction)))
+       (VP demonstrated))
+   (VP is
+       (NP (NP the (ADJP marked) decrement
+	       (PP in
+		   (NP performance)))
+	   (VP suffered
+	       (PP by
+		   (NP the
+		       (ADJP  highly
+			      anxious) children
+		       (PP in
+			   (NP (ADJP unstructured) schools))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (VP According
+       (PP to
+	   (NP (NP the theory)
+	       (VP proposed))))
+   ,
+   (S (NP this)
+      (VP is
+	  (NP a consequence
+	      (PP of
+		  (NP (NP the severe condition
+			  (PP of
+			      (NP (VP perceived) threat)))
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (VP persists
+			      (ADJP unabated))
+			  (PP for
+			      (NP the anxious child
+				  (PP in
+				      (NP an ambiguous sort
+					  (PP of
+					      (NP school environment))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The fact
+       (SBAR that
+	     (S (NP such threat)
+		(VP is
+		    (ADJP potent))
+		(PP in
+		    (NP the beginning reading lessons)))))
+   (AUX is)
+   (VP thought
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (NP a vital factor
+		  (PP in
+		      (NP (NP the (VP continued) pattern
+			      (PP of
+				  (NP (NP failure) or (NP under-achievement))))
+			  (SBAR 0
+				(S (NP these children)
+				   (VP exhibit
+				       (NP T) ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The child
+	  (PP with
+	      (NP high anxiety)))
+      (AUX may)
+      (ADVP first)
+      (VP direct
+	  (NP his (ADJP anxiety-released) energy)
+	  (PP toward
+	      (NP achievement))))
+     ,
+     but
+     (S (SBAR because
+	      (S (NP his distress)
+		 (VP  (ADVP severely)
+		      reduces
+		      (NP the abilities
+			  (PP of
+			      (NP discrimination and memorization
+				  (PP of
+				      (NP complex symbols))))))))
+	,
+	(S (NP the child)
+	   (AUX may)
+	   (VP fail
+	       (PP in
+		   (NP his initial attempts
+		       (S (NP *)
+			  (AUX to)
+			  (VP master
+			      (NP the problem)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Failure)
+      (VP confirms
+	  (NP the threat)))
+     ,
+     and
+     (S (NP the intensity
+	    (PP of
+		(NP anxiety)))
+	(AUX is)
+	(VP increased
+	    )
+	(SBAR  as
+	       (S (NP the (VP required) learning)
+		  (VP becomes
+		      (ADJP  more
+			     difficult))))
+	,
+	(SBAR  so
+	       that
+	       (S (PP by
+		      (NP (NP the time)
+			  (SBAR 0
+				(S
+				 (NP the child)
+				 (VP reaches
+				     (NP the third grade))))))
+		  (S
+		   (NP the decrement
+		       (PP in
+			   (NP performance)))
+		   (VP is
+		       (ADJP pronounced)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The individual
+	(PP with
+	    (NP high anxiety))
+	(PP in
+	    (NP the (ADJP structured) classroom)))
+    (AUX may)
+    (VP approach
+	(NP the learning task)
+	(PP with
+	    (NP the
+		same
+		increased
+		energy
+		and
+		lowered
+		powers
+		(PP of
+		    (NP discrimination))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (NP (NP the symbols)
+	  (SBAR 0
+		(S (NP he)
+		   (AUX is)
+		   (VP asked
+		        
+		       (S (NP *)
+			  (AUX to)
+			  (VP learn
+			      (NP T) ))))))
+      (VP are
+	  (ADJP simple)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S  (NP *)  
+	   (VP shown)
+	   (ADVP earlier)))
+   ,
+   (S (NP the
+	  (ADJP  highly
+		 anxious) individual)
+      (AUX may)
+      (VP be
+	  (ADJP superior
+		(PP in
+		    (NP his memorizing
+			(PP of
+			    (NP simple elements))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Success)
+      (VP reduces
+	  (NP the prospect
+	      (PP of
+		  (NP threat)))))
+     and
+     (S (NP his powers
+	    (PP of
+		(NP discrimination)))
+	(AUX are)
+	(VP improved
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP By
+	 (NP (NP the time)
+	     (SBAR 0
+		   (S
+		    (NP the child)
+		    (ADVP first)
+		    (VP attacks
+			(NP the actual problem
+			    (PP of
+				(NP reading))))))))
+     ,
+     (S (NP he)
+	(VP is
+	    (X (ADJP completely
+		     familiar
+		     (PP-7 *pseudo-attach*))
+	       and
+	       (PP at
+		   (NP ease
+		       (PP-7 *pseudo-attach*)))
+	       (PP-7 with
+		     (NP all
+			 (PP of
+			     (NP the elements
+				 (PP of
+				     (NP words))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Apparently)
+      (S (NP academic challenge)
+	 (PP in
+	     (NP the (ADJP structured) setting))
+	 (VP creates
+	     (NP an optimum
+		 (PP of
+		     (NP stress))))
+	 (SBAR  so
+		that
+		(S (NP the child
+		       (PP with
+			   (NP high anxiety)))
+		   (VP is
+		       (ADJP able
+			     (S (NP *)
+				(AUX to)
+				(VP achieve)
+				(SBAR because
+				      (S (NP he)
+					 (AUX is)
+					 (VP aroused
+								 
+					     (PP to
+						 (NP an energetic state))
+					     (PP without
+						 (S (NP *)  
+						    (VP becoming
+							(ADJP  (ADJP confused)
+							       or
+							       (ADJP panicked)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sarason et al)
+   (VP present
+       (NP evidence
+	   (SBAR (SBAR that
+		       (S (NP the anxious child)
+			  (AUX will)
+			  (VP suffer
+			      (PP in
+				  (NP the (ADJP test-like) situation)))
+			  (PP-8 *pseudo-attach*)))
+		 ,
+		 and
+		 (SBAR that
+		       (S (NP his performance)
+			  (AUX will)
+			  (VP be
+			      (VP impaired))
+			  (PP-8 *pseudo-attach*)))
+		 (PP-8 unless
+		       (S (NP he)
+			  (VP receives
+			      (NP (ADJP supporting and accepting) treatment)
+			      (PP from
+				  (NP the teacher)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP the present study)
+	      (VP was
+		  (NEG not)
+		  (NP a direct replication
+		      (PP of
+			  (NP their investigations))))))
+     ,
+     (S (NP the results)
+	(AUX do)
+	(NEG not)
+	(VP confirm
+	    (NP their conclusion))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Observers)
+   ,
+   (PP in
+       (NP (NP the two school systems)
+	   (VP studied
+	       (ADVP here))))
+   ,
+   (VP judged
+       (S (NP the teachers
+	      (PP in
+		  (NP the (ADJP structured) schools)))
+	  (AUX to)
+	  (VP be
+	      (ADJP  more
+		     impersonal and demanding))))
+   ,
+   (SBAR while
+	 (S (NP the atmosphere
+		(PP in
+		    (NP the (ADJP unstructured) schools)))
+	    (AUX was)
+	    (VP judged
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (ADJP  more
+			      supporting and accepting)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Yet)
+      (S (NP the
+	     (ADJP  highly
+		    anxious) child)
+	 (VP (VP suffered
+		 (NP a tremendous disadvantage)
+		 (PP  (ADVP only)
+		      in
+		      (NP the (ADJP unstructured) school)))
+	     ,
+	     and
+	     (VP performed
+		 (ADVP (ADVP as
+			     well)
+		       or
+		       (ADVP better
+			     (PP than
+				 (NP average))))
+		 (PP in
+		     (NP the (ADJP structured) setting))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2190 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S   (ADVP (NP Sixty miles)
+	     north
+	     (PP of
+		 (NP New York City)))
+       (SBAR 
+	(WHADVP where)
+	(S (NP the  wooded hills
+	       (PP of
+		   (NP Dutchess County)))
+	   (VP meet
+	       (NP the broad sweep
+		   (PP of
+		       (NP the Hudson River))))))
+       (S (NP there)
+	  (VP is
+	      (NP a new home development)
+	      (VP called
+		  (NP  ``
+		       Oakwood Heights
+		       '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP As
+	 (NP a matter
+	     (PP of
+		 (NP fact))))
+     (S
+      (NP you)
+      (AUX could)
+      (ADVP probably)
+      (VP find
+	  (NP a new home development
+	      (PP-1 *pseudo-attach*))
+	  (PP in
+	      (NP every populated county
+		  (PP in
+		      (NP the country))))
+	  (PP-1 with
+		(NP three-bedroom ranch style cottages
+		    (PP in
+			(NP the
+			    $ 14,000
+			    range)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Oakwood Heights)
+	 (VP is
+	     (ADJP unique)
+	     (PP in
+		 (NP one
+		     particular)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its oil
+       (PP for
+	   (NP heating)))
+   (AUX is)
+   (VP metered
+       (ADVP monthly)
+       (PP to
+	   (NP each home))
+       (PP from
+	   (NP (NP a line)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP starts
+			    (PP at
+				(NP a central storage point)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP a pilot operation)
+	   (VP sponsored
+	       (PP by
+		   (NP (NP (NP a new entity)
+			   (VP chartered
+			       (PP in
+				   (NP Delaware))
+			       (PP as
+				   (NP the Tri-State Pipeline Corporation))))
+		       ,
+		       (PP with
+			   (X (NP principal offices)
+			      (PP in
+				  (NP New York State))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Its president)
+    (VP is
+	(NP (NP Otis M. Waters)
+	    ,
+	    (NP partner
+		(PP in
+		    (NP (NP the law firm
+			    (PP of
+				(NP (NP Timen)
+				    &
+				    (NP Waters))))
+			,
+			(NP (NP 540-K
+				Chrysler Bldg.)
+			    ,
+			    (NP New York City))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Vice-president)
+      (VP is
+	  (NP Louis Berkman)))
+     and
+     (S (NP the secretary-treasurer)
+	(VP is
+	    (NP Mark Ritter))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ritter)
+   (VP is
+       (NP (NP the builder
+	       (PP of
+		   (NP Oakwood Heights)))
+	   and
+	   (NP president
+	       (PP of
+		   (NP (NP  Kahler-Craft Distributors
+			    ,
+			    Inc.)
+		       ,
+		       (NP (NP Newburgh)
+			   ,
+			   (NP N.Y
+			       .))))))))
+  .)
+( (S
+   (NP The idea
+       (PP of
+	   (NP a central tank
+	       (PP with
+		   (NP lines
+		       (PP to
+			   (NP each house)))))))
+   (VP is
+       (NEG not)
+       (PP in
+	   (NP itself))
+       (NP a novelty)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (S (NP  Not
+	       a year)
+	  (VP goes
+	      (ADVP by)))
+       (X but
+	  what)
+       (S (NP several local companies
+	      (PP in
+		  (NP (NP (NP the U.S.)
+			  and
+			  (NP Canada))
+		      ,
+		      (ADVP  even
+			     overseas)
+		      ,)))
+	  (VP write
+	      (PP to
+		  (NP Fueloil
+		      &
+		      Oil Heat))
+	      (S (NP *)
+		 (AUX to)
+		 (VP inquire
+		     (SBAR (SBAR if
+				 (S (NP it)
+				    (VP 's
+					(ADJP feasible))))
+			   and
+			   (SBAR 
+			    (WHADVP where)
+			    (S (NP it)
+			       (AUX is)
+			       (VP being
+				   (VP done
+				       ))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its editors)
+   (VP  (ADVP only)
+	knew
+	(PP of
+	    (NP (NP (NP one example)
+		    (S (NP *)
+		       (AUX to)
+		       (VP point
+			   (PP to
+			       (NP T) ))))
+		,
+		(NP  (NP a public housing development
+			 (PP of
+			     (NP 278 homes))
+			 (PP in
+			     (NP New Haven)))
+		     (VP described
+			 (PP by
+			     (NP John Schulz))
+			 (PP in
+			     (NP  the 
+				  (NP March
+				      ,
+				      1950)
+				  issue))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (AUX has)
+      (VP survived
+	  (NP the years)))
+     but
+     (S (NP there)
+	(AUX has)
+	(VP been
+	    (NP considerable concern
+		(PP among
+		    (NP the tenants))
+		(PP over
+		    (NP the fact
+			(SBAR that
+			      (S (NP the oil)
+				 (AUX was)
+				 (NEG not)
+				 (VP metered
+				     )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Rather)
+      (S (NP the
+	     monthly
+	     total
+	     consumption)
+	 (AUX was)
+	 (VP   divided
+	      and
+	      charged
+		  (PP on
+		      (NP the basis
+			  (PP of
+			      (NP (NP number
+				      (PP of
+					  (NP rooms)))
+				  and
+				  (NP persons
+				      (PP in
+					  (NP the family))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Common complaints)
+     (VP included
+	 (X   (S (NP  ``
+		      Mrs. Murphy
+		      '')
+		 (VP leaving
+		     (NP her windows)
+		     (ADJP open)
+		     (NP all
+			 the time)))
+	      ,
+	      (NP a fresh air fan)
+	      ,
+	      or
+	      (S (S (NP the family)
+		    (AUX was)
+		    (VP visiting
+			(NP  ``
+			     Aunt Minnie
+			     '')
+			(PP with
+			    (S  (NP the house)
+				(VP shut
+				    (PRT up))))))
+		 but
+		 (S (NP they)
+		    (ADVP still)
+		    (VP paid
+			(NP the same rate)
+			(PP for
+			    (NP oil))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a result
+	    (PP of
+		(NP that attitude))))
+    ,
+    (S (NP others)
+       (AUX have)
+       (VP been
+	   (VP discouraged
+		   
+	       (PP from
+		   (S  (NP *)
+		       (VP trying
+			   (NP central distribution))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       new
+       (NP low
+	   capacity) meter)
+   (VP is
+       (NP (NP the key)
+	   (SBAR (WHNP that)
+		 (S (NP T)
+		    (VP unlocks
+			(NP the situation
+			    (PP at
+				(NP Oakwood Heights)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)
+	 (VP Called
+	     (NP a
+		 ``
+		 Slo-Flo
+		 ''
+		 meter)))
+     (S
+      (NP it)
+      (AUX was)
+      (VP designed
+	   
+	  (PP for
+	      (NP this job))
+	  (PP by
+	      (NP Power Plus Industries
+		  (PP of
+		      (NP Los Angeles)))))
+      ,
+      (S (NP a key individual)
+	 (VP being
+	     (NP Don Nelson)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP Tri-State)
+        (AUX has)
+        (VP acquired
+            (NP its exclusive distribution)
+	    (PP for
+		(NP the
+		    northern
+		    ,
+		    principal
+		    heating states))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP 's
+	(NP an advantage)
+	(PP in
+	    (S  (NP *) 
+		(VP having
+		    (NP a firm
+			(PP like
+			    (NP Tri-State)))
+		    (VP headed
+			(PP by
+			    (NP a lawyer))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP The
+	 earlier
+	 New Haven development)
+     (VP was
+	 (NP public housing))
+     ,
+     (SBAR    so
+	      (S (NP it)
+		 (VP  easily
+		      leaped
+		      (PP over
+			  (NP (NP the problems)
+			      (VP met
+				  (PP in
+				      (NP a private venture)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP have
+       (S (NP *)
+	  (AUX to)
+	  (VP do
+	      (PP with
+		  (NP (NP property rights)
+		      ,
+		      (NP 
+		       municipal
+		       official
+		       attitudes)
+		      and
+		      (NP a host
+			  (PP of
+			      (NP others)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (S  (NP *) 
+	       (VP working
+		   (PRT out)
+		   (NP the
+		       practical
+		       legal
+		       conclusions))))
+       (S (NP President Waters)
+	  (AUX was)
+	  (NEG not)
+	  (VP thinking
+	      (PP (ADVP only)
+		  of
+		  (NP this pilot project)))))
+    ,
+    for
+    (S (NP it)
+       (AUX is)
+       (VP planned
+			 
+	   (S (NP *)
+	      (AUX to)
+	      (VP duplicate
+		  (NP this program or system)
+		  (PP in
+		      (NP other builder developments))
+		  (ADVP nationally))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADVP always)
+       (ADJP (ADJP difficult)
+	     ,
+	     or
+	     (PP at
+		 (NP least))
+	     (ADJP time-consuming)))
+   ,
+   (S-1 (NP *)
+      (AUX to)
+      (VP get
+	  (NP approval
+	      (PP of
+		  (NP (NP any kind
+			  (PP of
+			      (NP line
+				  (PP under
+				      (NP a public street)))))
+		      ,
+		      (PP as
+			  (NP one example))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP overcome
+	    (NP this)))
+     ,
+     (S (NP the builder)
+	(VP (VP   lays
+		  and
+		  completes
+		  (NP the street))
+	    (NP himself)
+	    ,
+	    (ADVP then)
+	    (VP deeds
+		(NP it)
+		(PP to
+		    (NP the community))
+		(SBAR   while
+			(S  (NP *)
+			    (VP retaining
+				(NP a perpetual easement
+				    (PP for
+					(NP the oil lines))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP a family)
+	 (VP buys
+	     (NP a home))))
+     (S
+      (NP the title)
+      (VP is
+	  (ADJP subject
+		(PP to
+		    (NP a perpetual easement
+			(PP to
+			    (NP Tri-State))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP the central storage))
+    ,
+    (S (NP Tri-State)
+       (VP (VP buys
+	       (NP one acre))
+	   ,
+	   (VP Buries
+	       (NP its tanks))
+	   and
+	   (ADVP simply)
+	   (VP holds
+	       (NP permanent title
+		   (PP to
+		       (NP that piece)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP other words))
+    ,
+    (S (NP the whole storage and pipeline system)
+       (AUX does)
+       (NEG not)
+       (VP belong
+	   (PP (PP to
+		   (NP the homeowners))
+	       nor
+	       (PP to
+		   (NP the town))
+	       (CONJP but
+		      rather)
+	       (PP to
+		   (NP Tri-State))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP How)
+  (SQ   (AUX does)
+	(NP Tri-State)
+	(VP get
+	    (NP its revenue)
+	    (PP from
+		(NP this plan)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP leases
+       (NP the whole facility)
+       (PP to
+	   (NP (NP a large oil company)
+	       ,
+	       (ADJP (PP at
+			 (ADJP least))
+		     large
+		     (ADVP enough)
+		     (S (NP *)
+			(AUX to)
+			(VP have
+			    (NP a strong credit position))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This first test)
+      (AUX is)
+      (VP being
+	  (VP leased
+		 
+	      (PP for
+		  (NP ten years)))))
+     but
+     (S (NP future projects)
+	(AUX will)
+	(VP require
+	    (NP (PP at
+		    (ADJP least))
+		15 years))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The amount)
+	(VP paid
+	    (PP by
+		(NP the oil company))
+	    (PP to
+		(NP Tri-State))
+	    (PP for
+		(NP (NP the use
+			(PP of
+			    (NP its oil distribution system)))
+		    and
+		    (NP the privilege
+			(PP of
+			    (S  (NP *)
+				(VP supplying
+				    (NP all
+					the homes)))))))))
+    ,
+    (X  (VP is
+	    (ADJP subject
+		  (PP to
+		      (NP negotiation))))
+	but
+	(X (ADVP naturally)
+	   (AUX must)
+	   (VP be
+	       (ADJP profitable)
+	       (PP to
+		   (NP  both
+			parties))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+	 (NP this first venture))
+     (S
+      (NP the central storage)
+      (VP is
+	  (NP (NP (NP 20,000 gallons)
+		  ,
+		  (PP in
+		      (NP two tanks))
+		   ,)
+	      or
+	      (NP (NP an average
+		      (PP of
+			  (NP 400 gallons)))
+		  (PP for
+		      (NP each
+			  (PP of
+			      (NP the 50 homes)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The supplier)
+   (VP delivers
+       (PP at
+	   (NP his convenience))
+       (PP in
+	   (NP transport loads))
+       ,
+       (SBAR   so
+	       as
+	       (S (NP *)
+		  (AUX to)
+		  (VP maintain
+		      (NP (NP two-to-three weeks)
+			  reserve supply)
+		      (PP against
+			  (NP weather contingencies)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP that)
+	 (VP is
+	     (NEG not)
+	     (NP all
+		 (SBAR 0
+		       (S (NP he)
+			  (VP has
+			      (S (NP *)
+				 (AUX to)
+				 (VP do
+				     (NP T) )))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX must)
+   (VP undertake
+       (NP complete servicing
+	   (PP of
+	       (NP the oilheating equipment))))
+   (S (NP *)
+      (AUX to)
+      (VP assure
+	  (NP fine heating))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the present project))
+     (S
+      (NP the heating)
+      (VP is
+	  (PP by
+	      (S  (NP *)
+		  (VP circulating
+		      (NP hot water)
+		      (PP from
+			  (NP Paragon boiler-burner units))
+		      (PP with            
+			  (NP  
+			   summer-winter
+			   domestic
+			   hot
+			   water hookups))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      ,
+      (S (NP the oil man)
+	 (AUX must)
+	 (VP read
+	     (NP the meters)
+	     (PP at
+		 (NP such intervals
+		     (PP as
+			 (S (NP he)
+			    (VP finds
+				(ADVP best)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP For
+	    (NP this first development))
+	(S (NP (NP the supplier)
+	       (VP signing
+		   (NP the lease)))
+	   (VP is
+	       (NP a major oil company))))
+     but
+     (S (PP in
+	    (NP turn))
+	(S
+	 (NP the deal)
+	 (AUX is)
+	 (VP being
+	     (VP transferred
+		 (PP for
+		     (NP operation))
+		 (PP to
+		     (NP its local fueloil distributor)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The major)
+      (VP gets
+	  (NP the assured gallonage)
+	  (PP for
+	      (NP the life
+		  (PP of
+		      (NP the lease))))))
+     and
+     (S (NP the distributor)
+	(ADVP apparently)
+	(AUX can)
+	(VP do
+	    (ADVP well))
+	(SBAR because
+	      (S (NP delivery cost)
+		 (VP is
+		     (ADJP low))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Initial considerations)
+ )
+( 
+ (S (NP The officers
+	(PP of
+	    (NP the new corporation)))
+    (AUX have)
+    (ADVP naturally)
+    (VP explored
+	(NP (NP (NP many angles)
+		(SBAR-2 *pseudo-attach*))
+	    ,
+	    (ADVP as
+		  well
+		  (PP as
+		      (NP (NP personalities)
+			  (SBAR-2 (WHNP that)
+				  (S (NP T)
+				     (AUX might)
+				     (VP be
+					 (VP affected
+					     ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP the officials
+	   (PP of
+	       (NP (NP  Poughkeepsie town
+			*LRB*
+			township
+			*RRB*)
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP the project)
+		       (AUX is)
+		       (VP located
+			   ))))))
+       (VP think
+	   highly
+	   (PP of
+	       (NP it)))
+       (SBAR because
+	     (S (NP it)
+		(VP simplifies
+		    (NP their snow clearing problem))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The central storage)
+   (VP is
+       (PP near
+	   (NP (NP a main artery)
+	       (ADJP  quite
+		      easy
+		      (S (NP *)
+			 (AUX to)
+			 (VP reach
+			     (PP with
+				 (NP large transports))
+			     (PP on
+				 (NP a short crescent swing))
+			     ,
+			     (PP with
+				 (X (NP  fewer
+					trucks)
+				    (PP in
+					(NP the residential streets)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Public Service Commission)
+   (AUX has)
+   (VP ruled
+       (SBAR that
+	     (S (NP this)
+		(VP is
+		    (NEG not)
+		    (NP (NP a public utility)
+			,
+			(ADJP  subject
+			       (PP to
+				   (NP their many regulations)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP 
+	 Several
+	 financial
+	 institutions)
+	,
+	(NP  both
+	     (NP banks)  and (NP insurance companies))
+	,)
+    (AUX have)
+    (VP been
+	(VP sounded
+	    (PRT out))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP They)
+    (X (VP like
+	   (NP it))
+       and
+       (X (AUX would)
+	  (VP supply
+	      (NP most
+		  (PP of
+		      (NP the capital))))
+	  (ADVP because
+		(PP of
+		    (NP the long term leases
+			(PP by
+			    (NP strong oil companies))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The Government housing agencies)
+        (VP consider
+            (NP it)
+	    (ADJP feasible))
+	(PP with
+	    (NP one special stipulation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP There)
+    (AUX must)
+    (VP be
+	(NP (NP a restriction)
+	    (PP in
+		(NP the deed))
+	    (S (NP *)
+	       (AUX to)
+	       (VP provide
+		   (SBAR that
+			 (S (NP the customer)
+			    (AUX may)
+			    (NEG not)
+			    (VP be
+				(VP charged
+				    (NP more
+					(PP than
+					    (NP the current market price)))
+				    (PP for
+					(NP the oil))))))))))
+    ,
+    (NP an obvious precaution)
+    ,
+    (SBAR since
+	  (S (NP the account)
+	     (AUX is)
+	     (VP (ADVP permanently)
+		 wedded)
+	     ,
+	     (PP  (ADVP just)
+		  like
+		  (PP with
+		      (NP (NP gas) or (NP electricity)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP a few details
+	     (PP of
+		 (NP the system))))
+     (S (S
+	 (NP the lines)
+	 (VP are
+	     (NP (NP (NP 1-14
+			 ''
+			 '')
+		     X-Tru-Coat)
+		 ,
+		 (NP a product
+		     (PP of
+			 (NP Republic Steel Corp.))))))
+	,
+	and
+	(S (NP all lines)
+	   (AUX are)
+	   (VP welded
+	       ))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX are)
+   (VP laid
+       (NP (NP a minimum
+	       (PP of
+		   (ADJP (NP   24 '' '')
+			 deep)))
+	   and
+	   (X (PP in
+		  (NP  some
+		       areas))
+	      (ADVP (NP   four
+			  feet)
+		    down)
+	      ,
+	      (ADVP particularly)
+	      (PP under
+		  (NP roads)))))
+   ,
+   (S (S (NP *)
+	 (AUX to)
+	 (VP stay
+	     (ADJP clear
+		   (PP of
+		       (NP (NP all other piping)
+			   (ADJP  such
+				  (PP as
+				      (NP water and sewers))))))))
+      and
+      (S (NP *)
+	 (AUX to)
+	 (VP minimize
+	     (NP shocks
+		 (PP from
+		     (NP heavy trucking)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The meter)
+        (AUX is)
+        (VP mounted
+	    (PP (ADVP high)
+		on
+		(NP the basement wall))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its figures)
+   (VP are
+       (ADJP  (ADJP (NP a half inch)
+		    high)
+	      and
+	      (ADJP  very
+		     easy
+		     (S (NP *)
+			(AUX to)
+			(VP read))
+		     ,
+		     (ADVP even)
+		     (PP into
+			 (NP tenth gallons))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX will)
+    (VP accommodate
+	(NP (NP  firing
+		 rates)
+	    (ADJP  as
+		  low
+		  (PP as
+		      (NP (NP a half gallon)
+			  (NP an hour)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Ritter)
+	,
+	(NP the builder)
+	,)
+    (AUX is)
+    (VP convinced
+	  
+	(SBAR that
+	      (S (NP the total cost
+		     (PP of
+			 (NP (NP all
+				 the heating systems)
+			     plus
+			     (NP the oil distribution system))))
+		 (VP is
+		     (ADJP  no
+			    greater
+			    (PP than
+				(SINV (AUX would)
+				      (VP be)
+				      (NP (NP gas heating systems
+					      (PP in
+						  (NP the houses)))
+					  plus
+					  (NP their lines and meters))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP believes
+       (SBAR that
+	     (S (NP this)
+		(VP is
+		    (NP a sound approach
+			(PP to
+			    (NP gas competition
+				(PP in
+				    (NP (NP builder developments)
+					(SBAR 
+					 (WHADVP where)
+					 (S (NP gas)
+					    (VP is
+						(ADJP available))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (S-3 *pseudo-attach*))
+      (AUX would)
+      (VP be
+	  (ADJP  pretty
+		 difficult))
+      (S-3 (NP *)
+	   (AUX to)
+	   (VP install
+	       (NP a Tri-State system)
+	       (PP in
+		   (NP old neighborhoods)))))
+     ,
+     and
+     (S (NP that)
+	(VP 's
+	    (NP an understatement))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The job
+	(PP of
+	    (S  (NP *)
+		(VP getting
+		    (NP  (NP property easements) 
+			 and 
+			 (NP street easements)
+			 and
+			 (NP the acre
+			     (PP for
+				 (NP the tanks))))))))
+    (AUX would)
+    (VP become
+	(ADJP  pretty
+	       discouraging)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (PP in
+	  (NP (NP a new development)
+	      (SBAR 
+	       (WHADVP where)
+	       (S (NP everything)
+		  (VP starts
+		      (PP from
+			  (NP scratch)))))))
+      (S (NP the solutions)
+	 (VP are
+	     (ADJP simple))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Future plans)
+ )
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  (AUX does)
+       (NP Tri-State)
+       (ADVP actually)
+       (VP want
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP do
+		  (NP T))))
+       ,
+       (SBAR (ADVP now)
+	     that
+	     (S (NP it)
+		(VP has
+		    (X  (X  (NP the meters)
+			    (PP under
+				(NP franchise)))
+			and
+			(X  (NP certain phases
+				(PP of
+				    (NP its piping system)))
+			    (PP in
+				(NP the
+				    ``
+				    (S  (NP patent)
+					(AUX *) 
+					(VP applied
+					    (PP for
+						(NP *) )))
+				    ''
+				    stage)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP wants
+       (S (NP *)
+	  (AUX to)
+	  (VP interest
+	      (NP (NP builders) and (NP oil companies))
+	      (PP in
+		  (NP the idea
+		      (PP of
+			  (S  (NP *) 
+			      (VP including
+				  (NP its facility)
+				  (PP in
+				      (NP their new home projects)))))))
+	      ,
+	      (PP by
+		  (S (S  (NP *)
+			 (VP  financing
+			      and
+			      installing
+			      (NP  the storage
+				   ,
+				   piping and  meters)))
+		     ,
+		     and
+		     (S (NP *)
+			(VP leasing
+			    (NP these)
+			    (PP for
+				(NP 15 years))
+			    ,
+			    (PP with
+				(NP renewal options))
+			    ,
+			    (PP to
+				(NP a strong oil company))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX may)
+   (ADVP also)
+   (VP work
+       (PP in
+	   (NP (NP one other way)
+	       --
+	       (PP by
+		   (S  (NP *) 
+		       (VP (VP licensing
+			       (NP its system patents))
+			   and
+			   (VP supplying
+			       (NP the meters)))
+		       ,
+		       (S (NP *)
+			  (VP letting
+			      (NP (NP the oil company)
+				  or
+				  (ADVP even)
+				  (NP the builder))
+			      (VP install
+				  (NP the facilities))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This whole development)
+       (VP is
+	   (ADJP certain
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(PP of
+			    (NP interest))
+			(PP to
+			    (NP the readers)))))))
+    ,
+    for
+    (S (NP the idea)
+       (AUX has)
+       (VP (ADVP  so
+		  often)
+	   been
+	   (VP mentioned
+	       ,
+	       (ADVP  somewhat
+		      wistfully)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP it)
+	 (VP 's
+	     (ADJP  too
+		    early
+		    (ADVP yet)
+		    (S (NP *)
+		       (AUX to)
+		       (VP go
+			   (VP visit
+			       (NP Oakwood Heights))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (ADVP Only)
+	   eight
+	   (PP of
+	       (NP the 50 houses)))
+       (AUX were)
+       (VP completed)
+       (PP at
+	   (NP the time
+	       (PP of
+		   (NP (NP the editor)
+		       's visit
+		       (PP on
+			   (NP June
+			       8th)))))))
+    ;
+    ;
+    (S (NP others)
+       (AUX were)
+       (VP building)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP The big tanks)
+    (VP were
+	(X (PP at
+	       (NP the site))
+	   but
+	   (ADVP still)
+	   (VP sunning
+	       (NP themselves)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A
+	  big
+	  mechanical
+	  ditcher)
+      (AUX was)
+      (VP running
+	  (NP the trenches)))
+     ,
+     and
+     (S (NP the town building inspector)
+	(AUX was)
+	(VP paying
+	    (NP a
+		(ADJP (ADJP friendly)
+		      ,
+		      (X if
+			 (ADJP curious))
+		      ,)
+		visit))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The oilheating industry)
+        (AUX is)
+        (VP looking
+	    (PRT up))
+	,
+	(S  (NP *)
+	    (VP led
+		(PP by
+		    (NP a revival
+			(PP of
+			    (NP  research and  development)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A primary ingredient
+	  (PP in
+	      (NP these fields)))
+      (VP is
+	  (NP imagination)))
+     ,
+     and
+     (S (NP Tri-State Pipeline Corporation)
+	(VP deserves
+	    (NP a
+		very
+		good mark))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Every year)
+    (PP about
+	(NP this time))
+    (S  (NP  National 
+	    (S  (NP *)
+		(VP Gargle
+		    (NP Your Cooling System)))
+	    week)
+	(VP rolls
+	    (ADVP around)
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(S-4 *pseudo-attach*))
+    (VP pays
+	(PP in
+	    (NP the
+		(ADJP  long
+		      *LRB*
+		      hot
+		      *RRB*)
+		run)))
+    (S-4 (NP *)
+       (AUX to)
+       (VP take
+	   (NP good care
+	       (PP of
+		   (NP the water works))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Do
+	     (NP it)
+	     (NP this way))
+	 (PP for
+	     (NP the summer gargle)))
+     :
+     (S (ADVP First)
+	,
+	(S  (NP *) 
+	    (VP drain
+		(NP that old coolant)
+		(PP down
+		    (NP the storm sewer))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *) 
+     (AUX Do)
+     (NEG n't)
+     (VP save
+	 (NP the anti-freeze))
+     ,
+     (SBAR (ADVP even)
+	   if
+	   (S (NP it)
+	      (VP *
+		  (NP the
+		      expensive
+		      ``
+			     permanent
+			     ''
+		      type)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The word)
+        (VP means
+            (SBAR 0
+		  (S (NP it)
+		     (AUX wo)
+		     (NEG n't)
+		     (VP boil
+			 (PRT away)
+			 (ADVP easily))))
+	    ,
+	    (NP nothing
+		(ADJP else))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The rust inhibitors
+	  (PP in
+	      (NP the fluid)))
+      (AUX are)
+      (VP used
+	  (PRT up))
+      (PP after
+	  (NP one year)))
+     ,
+     and
+     (S (NP you)
+	(AUX do)
+	(NEG n't)
+	(VP want
+	    (S (NP *)
+	       (AUX to)
+	       (VP risk
+		   (NP (NP the rust)
+		       (SBAR (WHNP that)
+			     (S (NP
+				 (NP two years)
+				 ' use)
+				(AUX could)
+				(VP mean
+				    (NP T))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Pitch
+	   (NP it)
+	   (PRT out)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP a lot
+		  (PP of
+		      (NP rust)))
+	      (VP shows
+		  (PP in
+		      (NP the drain)))))
+    ,
+    (S  (NP *)  
+	(VP use
+	    (NP a good flushing cleaner))))
+ .)
+(  END_OF_TEXT_UNIT
+   (  (S (ADVP Then)
+	 (S  (NP *) 
+	     (VP (VP fill
+		     (NP the system))
+		 and
+		 (VP add
+		     (NP a rust inhibitor))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Of
+	(NP course))
+    ,
+    (S (NP you)
+       (AUX 'll)
+       (VP want
+	   (S (NP *)
+	      (AUX to)
+	      (VP use
+		  (NP (NP the
+			  softest
+			  water)
+		      (SBAR  0
+			     (S
+			      (NP you)
+			      (AUX can)
+			      (VP *) )))
+		  (PP in
+		      (NP your radiators)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      ,
+      (S  (NP *) 
+	  (VP check
+	      (PP for
+		  (NP leaks
+		      (PP in
+			  (NP your hoses and hose connections))))
+	      ,
+	      (PP around
+		  (NP (NP the freeze-out plugs)
+		      ,
+		      (NP gaskets)
+		      ,
+		      (NP water pump seals)
+		      and
+		      (NP heater fittings))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (ADJP Next)
+       ,
+       (S  (NP *) 
+	   (VP (VP (VP run
+		       (NP the engine))
+		   and
+		   (VP let
+		       (S (NP it)
+			  (VP heat
+			      (PRT up)
+			      (SBAR  so
+				     (S (NP the thermostat)
+					(VP opens))))))))))
+    ,
+    and
+    (S (ADVP then)
+       (S  (NP *) 
+	   (VP look
+	       (PP for
+		   (NP leaks))
+	       (ADVP again)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Be
+	   (ADJP sure)
+	   (SBAR 0
+		 (S (NP the bugs and dirt)
+		    (AUX are)
+		    (VP blown
+			(PP out
+			    (PP of
+				(NP the radiator fins))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Use
+	   (NP the air hose)
+	   (PP for
+	       (NP this job))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP (VP Check
+	      (NP the temperature
+		  gage))
+	  and
+	  (VP   be
+		(ADJP sure)
+		(SBAR 0
+		      (S (NP it)
+			 (AUX is)
+			 (VP working))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S  (NP you)
+	       (VP use
+		   (NP (NP one
+			   (PP of
+			       (NP the
+				   new
+				   year-round
+				   cooling system fluids)))
+		       (ADJP  such
+			      (PP as
+				  (NP  ``
+				       Dowguard
+				       '')))))))
+    (S  (NP *)
+	(VP be
+	    (ADJP sure)
+	    (S (NP *)
+	       (AUX to)
+	       (VP check
+		   (NP it))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dow)
+   (VP says
+       (SBAR that
+	     (S (NP the fluid)
+		(AUX can)
+		(VP be
+		    (VP used
+			(ADVP now)
+			(PP for
+			    (NP two years))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Check
+	   (NP its inhibitor effectiveness))
+       (PP before
+	   (S  (NP *) 
+	       (VP leaving
+		   (NP it)
+		   (ADVP in))
+	       (PP during
+		   (NP the summer)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Take
+	   (NP precautions))
+       (ADVP now)
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP sure)
+	      (SBAR 0
+		    (S (NP you)
+		       (VP avoid
+			   (NP those unpleasant and costly heat breakdowns))
+		       (SBAR 
+			(WHADVP when)
+			(S (NP the temperature)
+			   (VP zooms
+			       (NP this summer)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *) 
+     (AUX Do)
+     (NEG n't)
+     (VP let
+	 (NP your mechanics)
+	    (VP pull
+		(NP the thermostats)
+		(PP out
+		    (PP of
+			(NP those fueloil delivery trucks or installation rigs
+			    (PP of
+				(NP yours))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP Spring) and (NP summer))
+      (AUX may)
+      (VP be
+	  (ADVP here)
+	  (ADVP officially)))
+     ,
+     but
+     (S (NP those thermos)
+	(VP stay
+	    (ADVP in))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The fact)
+    (VP is
+	(SBAR that
+	      (S (NP (S  (NP *) 
+			 (VP   removing
+			       and
+			       leaving
+			       (PRT out)
+			       (NP a thermostat)
+			       (PP from
+				   (NP any
+				       water cooled
+				       vehicle)))))
+		 ,
+		 (AUX will)
+		 (VP (VP  greatly
+			  increase
+			  (NP the fuel consumption))
+		     ,
+		     (VP reduce
+			 (NP power))
+		     and
+		     (VP contribute
+			 (PP to
+			     (NP (NP   spark
+				       plug fouling)
+				 (ADJP due
+				       (PP to
+					   (NP an accumulation
+					       (PP of
+						   (NP excessive carbon deposits))
+					       (PP on
+						   (NP the insulators)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP run
+		  (PP into
+		      (NP excess plug fouling))
+		  (PP on
+		      (NP one truck)))))
+    ,
+    (S  (NP *) 
+	(VP check
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (ADJP sure)
+		   (SBAR that
+			 (S (NP the rig)
+			    (VP has
+				(NP a thermostat)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The thermostat)
+        (VP is
+            (ADJP important))
+	(S (S (NP *)
+	      (AUX to)
+	      (VP get
+		  (NP your engine)
+		  (PP up
+		      (PP to
+			  (NP operating temperature)))
+		  (ADVP quickly)))
+	   ,
+	   and
+	   (S (NP *)
+	      (AUX to)
+	      (VP keep
+		  (NP it)
+		  (VP running
+		      (PP at
+			  (NP its
+			      most efficient
+			      temperature))
+		      (PP through
+			  (NP the proper circulation
+			      (PP of
+				  (NP the coolant)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP you)
+     (VP paying
+	 (NP too
+	     much)
+	 (PP for
+	     (NP your truck insurance))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP 's
+	(NP (NP a good chance)
+	    (SBAR 0
+		  (S
+		   (NP you)
+		   (AUX are)
+		   (VP (VP doubling
+			   (PP on
+			       (NP some coverage)))
+		       ,
+		       (NEG not)
+		       (VP taking
+			   (NP (NP discounts)
+			       (VP coming
+				   (PP to
+				       (NP you)))))
+		       and
+		       (NEG not)
+		       (VP cutting
+			   (NP (NP some corners)
+			       (SBAR (WHNP that)
+				     (S (NP T)
+					(AUX can)
+					(VP be
+					    (VP cut
+						))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Have
+	   (NP a talk)
+	   (PP with
+	       (NP your insurance agent))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)
+	 (VP Be
+	     (ADJP careful)
+	     (SBAR that
+		   (S (NP you)
+		      (VP keep
+			  (NP adequate coverage))))))
+     ,
+	but
+	(S  (NP *) 
+	    (VP look
+		(PP for
+		    (NP (NP places)
+			(S (NP *)
+			   (AUX to)
+			   (VP save
+			       (NP money))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP First)
+      (S  (NP *) 
+	  (VP go
+	      (PP over
+		  (NP (NP the type
+			  (PP of
+			      (NP coverage)))
+		      (SBAR 0
+			    (S
+			     (NP you)
+			     (ADVP now)
+			     (VP have
+				 (NP T) ))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+     (VP Look
+	 (PP for
+	     (NP (NP (NP these features)
+		     (SBAR (WHNP which)
+			   (S (NP T)
+			      (AUX may)
+			      (VP mean
+				  (SBAR 0
+					(S (NP you)
+					   (AUX can)
+					   (VP save)))))))))))
+ :)
+((NP Duplicate coverage)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Avoid
+	   (S  (NP *)
+	       (VP doubling
+		   (PRT up)
+		   (PP on
+		       (NP the same item))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S  (NP *) 
+	(AUX do)
+	(NEG n't)
+	(VP pay
+	    (PP in
+		(NP a truck policy))
+	    (PP for
+		(NP (NP medical coverage)
+		    (SBAR (WHNP that)
+			  (S (NP you)
+			     (AUX may)
+			     (VP be
+				 (VP paying
+				     (PP for
+					 (NP T))))
+			     (PP in
+				 (NP a health and accident policy)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ    
+  (AUX Does)
+  (NP your policy)
+  (VP have
+      (NP a lay-up clause)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP means
+	(SBAR that
+	      (S (SBAR if
+		       (S (NP your insured vehicle)
+			  (AUX is)
+			  (VP laid
+			      (PRT up)
+			      (PP for
+				  (NP 
+				   (ADJP more
+					 (PP than
+					     (NP 30)))
+				   days)))))
+		 ,
+		 (S (S (NP insurance)
+		       (AUX can)
+		       (VP be
+			   (VP suspended
+			       )))
+		    and
+		    (X  (NP a proportionate return
+			    (PP of
+				(NP your premium)))
+			(VP made
+			    (PP to
+				(NP you)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP applies
+       (PP to
+	   (NP  repair
+	       work
+	       (PP of
+		   (NP winter storage))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	figure 
+	(NP five))
+    (VP is
+	(ADJP important)
+	(PP in
+	    (NP insurance))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP many company policies))
+    (S (NP you)
+       (VP get
+	   (NP a fleet discount))
+       (SBAR if
+	     (S (NP you)
+		(VP insure
+		    (NP (NP five
+			    or
+			    more)
+			rigs))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP means
+       (NP  either
+	   (NP cars) or (NP trucks))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP Discounts)
+        (VP run
+	    (PP up
+		(PP to
+		    (NP 2 %
+			(PP of
+			    (NP cost)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(S (ADVP Usually)
+   (S (NP premium reductions)
+      (AUX can)
+      (VP be
+	  (VP obtained
+	       
+	      (PP by
+		  (S  (NP *) 
+		      (VP applying
+			  (NP deductibles)
+			  (PP to
+			      (NP your liability plan)))))))))
+.
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    :
+    (SBAR  If
+	   (S (NP your bodily injury claims)
+	      (VP start
+		  (NP payment))
+	      (PP after
+		  (NP the first $
+		      250))))
+    ,
+    (S (NP a 25 % premium saving)
+       (AUX is)
+       (ADVP often)
+       (VP made
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

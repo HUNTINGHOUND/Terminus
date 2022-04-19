@@ -1,0 +1,2453 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (SINV  But
+	    neither
+	    (VP was)
+	    (NP the statement)
+	    (ADJP empirical))
+     ,
+     (SBAR for
+	   (S (NP goodness)
+	      (VP was
+		  (NEG not)
+		  (NP (NP a quality
+			  (PP like
+			      (NP  (NP red)
+				   or 
+				   (NP squeaky))))
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (AUX could)
+			  (VP be
+			      (VP (VP seen)
+				  or
+				  (VP heard))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  
+   (VP were)
+   (NP they)
+   (S (NP *)
+      (AUX to)
+      (VP do
+	  (NP T)
+	  ,
+	  (ADVP then)
+	  ,
+	  (PP with
+	      (NP these awkward judgments
+		  (PP of
+		      (NP value))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP  
+	 (S (NP *)
+	    (AUX To)
+	    (VP find
+		(NP a place
+		    (PP for
+			(NP them))
+		    (PP in
+			(NP their theory
+			    (PP of
+				(NP knowledge))))))))
+	(AUX would)
+	(VP require
+	    (S (NP them)
+	       (AUX to)
+	       (VP revise
+		   (NP the theory)
+		   (ADVP radically)))))
+     ,
+     and
+     yet
+     (S (NP that theory)
+	(VP was
+	    (SBAR (WHNP what)
+		  (S
+		   (NP they)
+		   (VP regarded
+		       (NP T)
+		       (PP as
+			   (NP their
+			       (ADJP most important)
+			       discovery))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP appeared
+       (SBAR that
+	     (S (NP the theory)
+		(AUX could)
+		(VP be
+		    (VP saved
+			      
+			(PP in
+			    (NP one way)
+			    (ADVP only))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP it
+		 (SBAR-1 *pseudo-attach*))
+	     (AUX could)
+	     (VP be
+		 (VP shown
+		     ))
+	     (SBAR-1 (SBAR that
+			 (S (NP judgments
+				(PP of
+				    (NP (NP good) and (NP bad))))
+			    (VP were
+				(NEG not)
+				(NP judgments)
+				(PP at
+				    (NP all)))))
+		   ,
+		   (SBAR that
+			 (S (NP they)
+			    (VP (VP asserted
+				    (NP nothing)
+				    (ADJP true or false))
+				,
+				but
+				(VP (ADVP merely)
+				    expressed
+				    (NP emotions
+					(PP like
+					    (NP  ``
+						 (INTJ Hurrah)
+						 ''
+						 or
+						 ``
+						 (NP Fiddlesticks)
+						 '')
+					    )))))))))
+   ,
+   (ADVP then)
+   (S (S (NP these wayward judgments)
+	 (AUX would)
+	 (VP cease
+	     (PP from
+		 (S (NP *)
+		    (VP troubling)))))
+      and
+      (S (NP weary heads)
+	 (AUX could)
+	 (VP be
+	     (PP at
+		 (NP rest))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP the course)
+	   (SBAR 0
+		 (S
+		  (NP the positivists)
+		  (VP took
+		      (NP T) ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP explained
+       (NP value judgments)
+       (PP by
+	   (S (NP *) 
+	      (VP explaining
+		  (NP them)
+		  (PRT away))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S (NP I)
+	 (AUX do)
+	 (NEG not)
+	 (VP think
+	     (SBAR 0
+		   (S (NP their view)
+		      (AUX will)
+		      (VP do))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP before
+	  (S  (NP *)
+	      (VP discussing
+		  (NP it))))
+      ,
+      (S (NP I)
+	 (AUX should)
+	 (VP like
+	     (S (NP *)
+		(AUX to)
+		(VP record
+		    (NP one vote
+			(PP of
+			    (NP thanks))
+			(PP to
+			    (NP them))
+			(PP for
+			    (NP (NP the clarity)
+				(SBAR (WHPP with
+					    (WHNP which))
+				      (S
+				       (NP they)
+				       (AUX have)
+				       (VP stated
+					   (NP their case))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-2 *pseudo-attach*))
+    (AUX has)
+    (VP been
+	(VP said
+	    (PP of
+		(NP John Stuart Mill))))
+    (SBAR-2 that
+	  (S (NP he)
+	     (VP wrote
+		 (ADVP so
+		       clearly
+		       (SBAR that
+			     (S (NP he)
+				(AUX could)
+				(VP be
+				    (VP found
+					 
+					(PRT out)
+					)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP This theory)
+     (AUX has)
+     (VP been
+	 (VP put
+	     (ADVP so
+		   clearly and precisely
+		   (SBAR that
+			 (S (NP it)
+			    (VP deserves
+				(NP criticism
+				    (PP of
+					(NP the same kind))))))))))
+    ,
+    and
+    (S (NP this)
+       (S (NP I)
+	  (AUX will)
+	  (VP do
+	      (NP my
+		  (ADJP best))
+	      (S (NP *)
+		 (AUX to)
+		 (VP supply
+		     (NP *)
+		     ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The theory)
+   (VP claims
+       (S (NP *)
+	  (AUX to)
+	  (VP show
+	      (PP by
+		  (NP analysis))
+	      (SBAR that
+		    (S (SBAR 
+			(WHADVP when)
+			(S (NP we)
+			   (VP say
+			       ,
+			       ``
+			       (S (NP That)
+				  (VP is
+				      (ADJP good)))
+			       '')))
+		       ,
+		       (S (NP we)
+			  (AUX do)
+			  (NEG not)
+			  (VP mean
+			      (S (NP *)
+				 (AUX to)
+				 (VP  assert
+				     (NP a character
+					 (PP of
+					     (NP (NP the subject)
+						 (SBAR (WHPP of
+							     (WHNP which))
+						       (S
+							(NP we)
+							(AUX are)
+							(VP thinking))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX shall)
+   (VP argue
+       (SBAR that
+	     (S (NP we)
+		(AUX do)
+		(VP mean
+		    (S (NP *)
+		       (AUX to)
+		       (VP do
+			   (NP  (ADVP just)
+				that))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  (NP *)
+	(VP Let
+	    (NP us)
+	    (VP work
+		(PP through
+		    (NP (NP an example)
+			,
+			and
+			(X (X the
+			      simpler
+			      and
+			      commoner)
+			   (X the
+			      better)))))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP is
+	(ADVP perhaps)
+	(NP (NP no value statement)
+	    (SBAR (WHPP on 
+			(WHNP which ))
+		  (S (NP people)
+		     (AUX would)
+		     (VP (ADVP more universally)
+			 agree
+			 (PP than
+			     (NP the statement
+				 (SBAR that
+				       (S (NP intense pain)
+					  (VP is
+					      (ADJP bad))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP us)
+	 (VP take
+	     (NP (NP a set
+		     (PP of
+			 (NP circumstances)))
+		 (SBAR (SBAR (WHPP in
+				   (WHNP which))
+			     (S
+			      (NP I)
+			      (VP happen
+				  (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (ADJP interested)
+					 )))
+			      (PP on
+				  (NP the legislative side))))
+		       and
+		       (SBAR (WHPP in
+				   (WHNP which))
+			     (S
+			      (NP I)
+			      (VP think
+				  (SBAR 0
+					(S (NP every one
+					       (PP of
+						   (NP us)))
+					   (AUX might)
+					   (ADVP naturally)
+					   (VP make
+					       (NP such
+						   a statement))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP come
+       (PP upon
+	   (NP (NP a rabbit)
+	       (SBAR 
+		(WHNP that)
+		(S (NP T)
+		   (AUX has)
+		   (VP been
+		       (VP caught
+		     
+			   (PP in
+			       (NP one
+				   (PP of
+				       (NP the brutal traps
+					   (PP in
+					       (NP common use))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP signs
+	   (SBAR (SBAR that
+		       (S (NP it)
+			  (AUX has)
+			  (VP struggled
+			      (PP for
+				  (NP days))
+			      (S (NP *)
+				 (AUX to)
+				 (VP escape
+				     )))))
+		 and
+		 (SBAR that
+		       (S  
+			(PP in
+			    (NP a frenzy
+				(PP of
+				    (NP (NP hunger)
+					,
+					(NP pain)
+					,
+					and
+					(NP fear)))))
+			,
+			(S (NP it)
+			   (AUX has)
+			   (VP (ADVP   all
+				       but)
+			       eaten
+			       (PRT off)
+			       (NP its own leg)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The attempt)
+      (VP failed))
+     :
+     (S (NP the animal)
+	(VP is
+	    (ADVP now)
+	    (ADJP dead))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP we)
+	     (VP think
+		 (PP of
+		     (NP (NP the (ADJP long and excruciating) pain)
+			 (SBAR 0
+			       (S
+				(NP it)
+				(AUX must)
+				(VP have
+				    (VP suffered
+					(NP T) )))))))))
+   ,
+   (S (NP we)
+      (VP are
+	  (ADJP  very
+		 likely
+		 (S (NP *)
+		    (AUX to)
+		    (VP say
+			:
+			``
+			(S (NP It
+			       (SBAR-3 *pseudo-attach*))
+			   (VP was
+			       (NP a bad thing))
+			   (SBAR-3 that
+				 (S (NP the little animal)
+				    (AUX should)
+				    (VP suffer
+					(ADVP so)
+					))))
+			''))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The positivist)
+   (VP tells
+       (NP us)
+       (SBAR that
+	     (S (SBAR 
+		 (WHADVP when)
+		 (S (NP we)
+		    (VP say
+			(NP this))))
+		(S (NP we)
+		   (AUX are)
+		   (VP  (ADVP only)
+			expressing
+			(NP our present emotion)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP hold
+       ,
+       (PP on
+	   (NP the contrary))
+       ,
+       (SBAR that
+	     (S (NP we)
+		(VP mean
+		    (S (NP *)
+		       (AUX to)
+		       (VP assert
+			   (X (NP something
+				  (PP of
+				      (NP (NP the pain)
+					  (NP itself))))
+			      ,
+			      (ADVP namely)
+			      ,
+			      (SBAR that
+				    (S (NP it)
+				       (VP was
+					   (ADJP (ADJP bad)
+						 --
+						 (ADJP bad
+						       (SBAR (WHADVP when)
+							     and
+							     as
+							     (S (NP it)
+								(VP occurred))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Consider
+	 (SBAR
+	  (WHNP what)
+	  (S (NP T)
+	     (VP follows
+		 (PP from
+		     (NP the positivist view)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP that view))
+   ,
+   (S (NP (NP nothing)
+	  (ADJP good or bad))
+      (VP happened
+	  (PP in
+	      (NP the case)))
+      (PP until
+	  (S (NP I)
+	     (VP (VP came
+		     (PP on
+			 (NP the scene)))
+		 and
+		 (VP made
+		     (NP my remark)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (S (NP (SBAR (WHNP what)
+		   (S (NP I)
+		      (VP express
+			  (NP T)
+			  (PP in
+			      (NP my remark))))))
+	 (VP is
+	     (NP (NP something)
+		 (X (VP going
+			(PRT on)
+			(PP in
+			    (NP me))
+			(PP at
+			    (NP the time)))
+		    ,
+		    and
+		    (SBAR (WHNP that)
+			  (S  (PP of
+				  (NP course))
+			      (S  (NP T) 
+				  (AUX did)
+				  (NEG not)
+				  (VP exist)
+				  (PP until
+				      (S (NP I)
+					 (AUX did)
+					 (VP come
+					     (PP on
+						 (NP the scene)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The pain
+	  (PP of
+	      (NP the rabbit)))
+      (VP was
+	  (NEG not)
+	  (NP itself)
+	  (ADJP bad)))
+     ;
+     ;
+     (S (NP (NP nothing)
+	    (ADJP evil))
+	(AUX was)
+	(VP happening)
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP that pain)
+	    (AUX was)
+	    (VP being
+		(VP endured)))))
+     ;
+     ;
+     (S  
+      (NP badness)
+      ,
+      (PP in
+	  (NP (NP the only sense)
+	      (SBAR (WHPP in
+			  (WHNP which))
+		    (S (NP it)
+		       (AUX is)
+		       (VP involved
+		   
+			   (PP at
+			       (NP all)))))))
+      ,
+      (VP waited
+	  (PP for
+	      (NP its appearance))
+	  (PP till
+	      (S (NP I)
+		 (VP (VP came)
+		     and
+		     (VP (VP looked)
+			 and
+			 (VP felt))))))))
+  .)
+
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S (NP (SBAR that
+		   (S (NP this)
+		      (VP is
+			  (PP at
+			      (NP odds))
+			  (PP with
+			      (NP our meaning))))))
+	 (AUX may)
+	 (VP be
+	     (VP shown
+		  
+		 (SBAR  as
+			(S  (NP *) 
+			    (VP follows)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Let
+	 (NP us)
+	 (VP put
+	     (PP to
+		 (NP ourselves))
+	     (NP the hypothesis
+		 (SBAR (SBAR that
+			     (S (NP we)
+				(AUX had)
+				(NEG not)
+				(VP come
+				    (PP on
+					(NP the scene)))))
+		       and
+		       (SBAR that
+			     (S (NP the rabbit)
+				(ADVP never)
+				(AUX was)
+				(VP discovered
+				    ))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ  
+   (VP Are)
+   (NP we)
+   (ADJP prepared
+	 (S (NP *)
+	    (AUX to)
+	    (VP say
+		(SBAR that
+		      (S (PP in
+			     (NP that case))
+			 (S
+			  (NP (NP nothing)
+			      (ADJP bad))
+			  (VP occurred
+			      (PP in
+				  (NP (NP the sense)
+				      (SBAR (WHPP in
+						  (WHNP which))
+					    (S (NP we)
+					       (VP said
+						   (SBAR 0
+							 (S (NP it)
+							    (VP did))))))))))))))))
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (ADVP Clearly
+	  (NEG not))
+    .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP we)
+	 (AUX should)
+	 (VP say
+	     ,
+	     (PP on
+		 (NP the contrary))
+	     ,
+	     (SBAR (SBAR that
+			 (S (NP the accident
+				(PP of
+				    (NP our later discovery)))
+			    (VP made
+				(NP no difference
+				    (ADVP whatever))
+				(PP to
+				    (NP the badness
+					(PP of
+					    (NP 
+					     (NP the animal)
+					     's pain)))))))
+		   ,
+		   (SBAR that
+			 (S (NP it)
+			    (AUX would)
+			    (VP have
+				(VP been
+				    (ADJP (NP every whit)
+					  as
+					  bad)))
+			    (SBAR whether
+				  (S (NP a chance passer-by)
+				     (VP (VP happened
+					     (ADVP later)
+					     (S (NP *)
+						(AUX to)
+						(VP discover
+						    (NP the body))))
+					 and
+					 (VP feel
+					     (NP repugnance))))
+				  or
+				  (NEG not))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (SBAR If
+	    (ADVP so))
+      ,
+      (ADVP then)
+      (S (NP it
+	     (SBAR-4 *pseudo-attach*))
+	 (VP is
+	     (ADJP clear))
+	 (SBAR-4 that
+	       (S (PP in
+		      (NP (S (NP *) 
+			     (VP saying
+				 (SBAR 0
+				       (S (NP the suffering)
+					  (VP was
+					      (ADJP bad))))))))
+		  (S (NP we)
+		     (AUX are)
+		     (NEG not)
+		     (VP expressing
+			 (NP our feelings
+			     (ADVP only))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX are)
+    (VP saying
+	(SBAR that
+	      (S (NP the pain)
+		 (VP was
+		     (ADJP bad))
+		 (X (SBAR (WHADVP when)
+			  and
+			  as
+			  (S (NP it)
+			     (VP occurred)))
+		    and
+		    (PP before
+			(S (NP anyone)
+			   (VP took
+			       (NP an attitude
+				   (PP toward
+				       (NP it)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The first argument)
+   (VP is
+       (ADVP thus)
+       (NP (NP an ideal experiment)
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S
+		  (NP we)
+		  (VP use
+		      (NP the method
+			  (PP of
+			      (NP difference)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP removes
+	   (NP our present expression))
+       and
+       (VP shows
+	   (SBAR that
+		 (S (NP (NP the badness)
+			(SBAR 0
+			      (S (NP we)
+				 (VP meant
+				     (NP T) ))))
+		    (AUX would)
+		    (NEG not)
+		    (VP be
+			(VP affected
+			     
+			    (PP by
+				(NP this))))
+		    ,
+		    (SBAR whereas
+			  (S  
+			   (PP on
+			       (NP positivist grounds))
+			   (S
+			    (NP it)
+			    (AUX should)
+			    (VP be)))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The second argument)
+   (VP applies
+       (NP the method)
+       (PP in
+	   (NP the reverse way))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP (ADVP ideally)
+	   removes
+	   (NP the past event))
+       ,
+       and
+       (VP shows
+	   (SBAR that
+		 (S (NP this)
+		    (AUX would)
+		    (VP render
+			(ADJP false)
+			(SBAR (WHNP what)
+			      (S
+			       (NP we)
+			       (VP mean
+				   (S (NP *)
+				      (AUX to)
+				      (VP say
+					  (NP T) ))))))
+		    ,
+		    (SBAR whereas
+			  (S  
+			   (PP on
+			       (NP positivist grounds))
+			   (S
+			    (NP it)
+			    (AUX should)
+			    (NEG not)
+			    (VP *)))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *) 
+    (VP Let
+	(NP us)
+	(VP suppose
+	    (SBAR (SBAR that
+			(S (NP the animal)
+			   (X (X (AUX did)
+				 (NEG not)
+				 (PP in
+				     (NP fact))
+				 (VP fall
+				     (PP into
+					 (NP the trap))))
+			      and
+			      (X  
+			       (AUX did)
+			       (NEG not)
+			       (VP suffer
+				   (PP at
+				       (NP all)))))))
+		  ,
+		  but
+		  (SBAR that
+			(S (NP we)
+			   (VP (VP (ADVP mistakenly)
+				   (VP believe
+				       (SBAR 0
+					     (S (NP it)
+						(VP did)))))
+			       ,
+			       and
+			       (VP say
+				   (PP   as
+					 (ADVP before))
+				   (SBAR that
+					 (S (NP its suffering)
+					    (VP was
+						(NP an evil thing))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the positivist theory))
+   ,
+   (S (NP (NP everything)
+	  (SBAR 0
+		(S
+		 (NP I)
+		 (VP sought
+		     (S (NP *)
+			(AUX to)
+			(VP express
+			    (NP T)))
+		     (PP by
+			 (NP (S (NP *) 
+				(VP calling
+				    (NP it)
+				    (ADJP evil))
+				(PP in
+				    (NP the first case)))))))))
+      (VP is
+	  (ADVP still)
+	  (ADJP present)
+	  (PP in
+	      (NP the second)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP the only sense)
+	   (SBAR  
+	    (WHPP in 
+		  (WHNP which ))
+	    (S (NP badness)
+	       (AUX is)
+	       (VP involved
+		    
+		   (PP at
+		       (NP all)))))))
+   ,
+   (S (NP (SBAR 
+	   (WHNP whatever)
+	   (S (NP T)
+	      (VP was
+		  (ADJP bad))
+	      (PP in
+		  (NP the first case)))))
+      (VP is
+	  (ADVP still)
+	  (ADJP present)
+	  (PP in
+	      (NP its entirety)))
+      ,
+      (SBAR since
+	    (S (S (NP  all
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(AUX is)
+				(VP expressed
+				    )
+				(PP in
+				    (NP either case)))))
+		  (VP is
+		      (NP a state
+			  (PP of
+			      (NP feeling)))))
+	       ,
+	       and
+	       (S (NP that feeling)
+		  (VP is
+		      (ADVP still)
+		      (ADVP there)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP our question)
+	 (VP is
+	     ,
+	     (SQ  
+	      (VP is)
+	      (NP  such
+		   an implication)
+	      (ADJP consistent
+		    (PP  with
+			 (SBAR (WHNP what)
+			       (S (NP we)
+				  (VP meant
+				      (NP T) ))))))
+	     ?
+	     ?)
+	 ))
+  )
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Clearly)
+      (S (NP it)
+	 (VP is)
+	 (NEG not)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP anyone)
+	     (VP asked
+		 (NP us)
+		 ,
+		 (PP after
+		     (S (NP we)
+			(VP made
+			    (NP the remark
+				(SBAR that
+				      (S (NP the suffering)
+					 (VP was
+					     (NP a bad thing))))))))
+		 ,
+		 (SBAR whether
+		       (S (NP we)
+			  (AUX should)
+			  (VP think
+			      (NP it
+				  (S-5 *pseudo-attach*))
+			      (ADJP relevant
+				    (PP  to
+					 (SBAR (WHNP what)
+					       (S
+						(NP we)
+						(VP said
+						    (NP T) )))))
+			      (S-5 (NP *)
+				   (AUX to)
+				   (VP learn
+				       (SBAR that
+					     (S (S (NP the incident)
+						   (AUX had)
+						   (ADVP never)
+						   (VP occurred))
+						and
+						(S (NP no pain)
+						   (AUX had)
+						   (VP been
+						       (VP suffered
+	        
+							   (PP at
+							       (NP all)))))))))))))))
+   ,
+   (S (NP we)
+      (AUX should)
+      (VP say
+	  (SBAR (SBAR that
+		      (S (NP it)
+			 (VP made
+			     (NP all
+				 the difference
+				 (PP in
+				     (NP the world))))))
+		,
+		(SBAR that
+		      (S (NP  (WHNP what)
+			      (S (NP we)
+				 (AUX were)
+				 (VP asserting
+				     (S (NP T)
+					(AUX to)
+					(VP be
+					    (ADJP bad))))))
+			 (VP was
+			     (NP (ADVP precisely)
+				 (NP the suffering)
+				 (SBAR 0
+				       (S (NP we)
+					  (VP thought
+					      (SBAR 0
+						    (S  (NP T) 
+							(AUX had)
+							(VP occurred)
+							(ADVP back
+							      there))))))))))
+		,
+		(SBAR that
+		      (S (SBAR if
+			       (S (NP this)
+				  (AUX had)
+				  (NEG not)
+				  (VP occurred)))
+			 ,
+			 (S (NP there)
+			    (VP was
+				(NP (NP nothing)
+				    (ADJP left))
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (ADJP bad)))))))
+		,
+		and
+		(SBAR  that
+		       (S (NP our assertion)
+			  (VP was
+			      (PP in
+				  (NP that case))
+			      (ADJP mistaken))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The suggestion
+	(SBAR that
+	      (S (PP in
+		     (S (NP *) 
+			(VP saying
+			    (SBAR 0
+				  (S (NP (NP something)
+					 (ADJP evil))
+				     (AUX had)
+				     (VP occurred))))))
+		 (S (NP we)
+		    (AUX were)
+		    (PP after
+			(NP all))
+		    (VP making
+			(NP no mistake))
+		    ,
+		    (SBAR because
+			  (S (NP we)
+			     (AUX had)
+			     (ADVP never)
+			     (VP meant
+				 (ADVP anyhow)
+				 (S (NP *)
+				    (AUX to)
+				    (VP say
+					(NP anything)
+					(PP about
+					    (NP the past
+						suffering)))))))))))
+    ,
+    (VP seems
+	(PP to
+	    (NP me))
+	(ADJP  (ADVP merely)
+	       frivolous)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SBARQ  
+    (SBAR  If
+	   (S (NP we)
+	      (AUX did)
+	      (NEG not)
+	      (VP mean
+		  (S (NP *)
+		     (AUX to)
+		     (VP say
+			 (NP this))))))
+    ,
+    (SBARQ (WHADVP why)
+	   (SQ  
+	    (AUX should)
+	    (NP we)
+	    (VP be
+		(VP  (ADVP so)
+		     relieved
+		     ))
+	    (PP on
+		(S (NP *) 
+		   (VP finding
+		       (SBAR that
+			     (S (NP the suffering)
+				(AUX had)
+				(NEG not)
+				(VP occurred)))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the theory
+	   (PP before
+	       (NP us))))
+   ,
+   (S (S (NP such relief)
+	 (AUX would)
+	 (VP be
+	     (ADJP groundless)))
+      ,
+      (S (SBAR for
+	       (S (PP in
+		      (NP (NP that suffering)
+			  (NP itself)))
+		  (S
+		   (NP there)
+		   (VP was
+		       (NP (NP nothing)
+			   (ADJP bad))
+		       (PP at
+			   (NP all))))))
+	 ,
+	 and
+	 (ADVP hence)
+	 (S (PP in
+		(NP its nonoccurrence))
+	    (S
+	     (NP there)
+	     (AUX would)
+	     (VP be
+		 (NP (NP nothing)
+		     (S   (NP T)  
+			  (AUX to)
+			  (VP be
+			      (ADJP relieved
+				    (PP about
+					(NP *) )))))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The positivist theory)
+   (AUX would)
+   (ADVP here)
+   (VP distort
+       (NP our meaning)
+       (PP beyond
+	   (NP recognition))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S   (ADVP So
+	    far
+	    (PP as
+		(S (NP I)
+		   (AUX can)
+		   (VP see))))
+      ,
+      (S (NP there)
+	 (VP is
+	     (NP  (ADVP only)
+		  one way
+		  (ADVP out))
+	     (PP for
+		 (NP the positivist)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP holds
+       (SBAR that
+	     (S (NP (NP goodness) and (NP badness))
+		(VP lie
+		    (PP in
+			(NP feelings
+			    (PP of
+				(NP (NP approval) or (NP disapproval))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP there)
+	 (VP is
+	     (NP (NP a way)
+		 (SBAR (WHPP in
+			     (WHNP which))
+		       (S
+			(NP he)
+			(AUX might)
+			(VP hold
+			    (SBAR that
+				  (S (NP  badness)
+				     (AUX did)
+				     (PP in
+					 (NP this case))
+				     (VP precede
+					 (NP our own feeling
+					     (PP of
+						 (NP disapproval))))
+				     (PP without
+					 (S (NP *) 
+					    (VP belonging
+						(PP to
+						    (NP (NP the pain)
+							(NP itself)))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The pain)
+      (PP in
+	  (NP itself))
+      (VP was
+	  (ADJP neutral)))
+   ;
+   ;
+   but
+   (S (S  (ADVP unfortunately)
+	  (S  
+	   (NP the rabbit)
+	   ,
+	   (PP on
+	       (NP no grounds
+		   (PP at
+		       (NP all))))
+	   ,
+	   (VP took
+	       (PRT up)
+	       (PP toward
+		   (NP this neutral object))
+	       (NP an attitude
+		   (PP of
+		       (NP disapproval))))))
+      and
+      (S (NP that)
+	 (VP made
+	     (NP it)
+	     (PP (PP for
+		     (NP the first time))
+		 ,
+		 and
+		 (PP in
+		     (NP the
+			 only intelligible
+			 sense))
+		 ,)
+	     (ADJP bad)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This way
+	  (PP of
+	      (NP escape)))
+      (VP is
+	  (ADVP theoretically)
+	  (ADJP possible)))
+     ,
+     but
+     (S  
+      (SBAR since
+	    (S (NP it)
+	       (X  (VP has
+		       (NP grave difficulties
+			   (PP of
+			       (NP its
+				   own))))
+		   and
+		   (X  (AUX has)
+		       (NEG not)
+		       ,
+		       (ADVP so
+			     far
+			     (PP as
+				 (S (NP I)
+				    (VP know))))
+		       ,
+		       (VP been
+			   (VP urged
+		  
+			       (PP by
+				   (NP positivists))))))))
+      ,
+      (S (NP it
+	     (S-6 *pseudo-attach*))
+	 (VP is
+	     (ADVP perhaps)
+	     (ADJP best))
+	 (S-6  (NP *)
+	     (NEG not)
+	     (AUX to)
+	     (VP spend
+		 (NP time)
+		 (PP over
+		     (NP it)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP come
+       (ADVP now)
+       (PP to
+	   (NP (NP a third argument)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S   (NP T)
+		     (ADVP again)
+		     (VP is
+			 (ADJP  very
+				simple))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (SBAR
+	 (WHADVP When)
+	 (S (NP we)
+	    (VP (VP come
+		    (PP upon
+			(NP the rabbit)))
+		and
+		(VP make
+		    (NP our remark
+			(PP about
+			    (NP (S (NP its suffering)
+				   (VP being
+				       (NP a bad thing))))))))))
+	,
+	(S (NP we)
+	   (ADVP presumably)
+	   (VP make
+	       (NP it)
+	       (PP with
+		   (NP some feeling)))))
+     ;
+     ;
+     (S (NP the positivists)
+	(VP are
+	    (ADVP plainly)
+	    (ADJP right)
+	    (PP in
+		(S (NP *) 
+		   (VP saying
+		       (SBAR that
+			     (S (NP such remarks)
+				(AUX do)
+				(ADVP usually)
+				(VP express
+				    (NP feeling))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S  (NP *) 
+	  (VP suppose
+	      (SBAR that
+		    (S (ADVP (NP a week)
+			     later)
+		       (S (NP we)
+			  (VP (VP revert
+			       
+				  (PP to
+				      (NP the incident))
+				  (PP in
+				      (NP thought)))
+			      and
+				 (VP make
+				     (NP our statement)
+				     (ADVP again)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S  (NP *) 
+	  (VP suppose
+	      (SBAR that
+		    (S (NP the circumstances)
+		       (AUX have)
+		       (ADVP now)
+		       (VP  (ADVP so)
+			    changed
+			    (SBAR that
+				  (S (NP (NP the feeling)
+					 (SBAR (WHPP with
+						     (WHNP which))
+					       (S (NP we)
+						  (VP made
+						      (NP the remark))
+						  (PP in
+						      (NP the first place)))))
+				     (AUX has)
+				     (VP faded)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The pathetic evidence)
+      (VP is
+	  (ADJP  no
+		 longer)
+	  (PP before
+	      (NP us))))
+     ;
+     ;
+     and
+     (S (NP we)
+	(VP are
+	    (ADVP now)
+	    (ADJP   so
+		    fatigued
+		     
+		    (PP in
+			(NP (NP body) and (NP mind)))
+		    (SBAR that
+			  (S (NP  feeling)
+			     (VP is
+				 ,
+				 (SBAR  as
+					(S (NP we)
+					   (VP say)))
+				 ,
+				 (ADJP  quite
+					dead))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP these circumstances))
+   ,
+   (SBAR since
+	 (S  
+	  (NP (SBAR 
+	       (WHNP what)
+	       (S (NP T)
+		  (AUX was)
+		  (VP expressed
+		     
+		      (PP by
+			  (NP the remark)))
+		  (SBAR (WHADVP when)
+			(S  (NP *)  
+			    (ADVP first)
+			    (VP made))))))
+	  (VP is
+	      ,
+	      (PP on
+		  (NP (NP the theory)
+		      (PP before
+			  (NP us))))
+	      ,
+	      (ADJP (ADVP simply)
+		    absent))))
+   ,
+   (S (NP the remark)
+      (ADVP now)
+      (VP expresses
+	  (NP nothing))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP is
+	(ADJP  as
+	       empty
+	       (PP as
+		   (S (NP the word
+			  (NP  ``
+			       (INTJ Hurrah)
+			       ''))
+		      (AUX would)
+		      (VP be)
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP there)
+			  (VP was
+			      (NP no enthusiasm)
+			      (PP behind
+				  (NP it))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP this)
+	 (VP seems
+	     (PP to
+		 (NP me))
+	     (ADJP untrue))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (SBAR
+	 (WHADVP When)
+	 (S (NP we)
+	    (VP repeat
+		(NP the remark
+		    (SBAR that
+			  (S (NP such suffering)
+			     (VP was
+				 (NP a bad thing))))))))
+	,
+	(S  
+	 (NP (NP the feeling)
+	     (SBAR (WHPP with
+			 (WHNP which))
+		   (S
+		    (NP we)
+		    (VP made
+			(NP it))
+		    (NP  last week))))
+	 (AUX may)
+	 (VP be
+	     (PP at or near
+		 (NP the vanishing point)))))
+     ,
+     but
+     (S (SBAR if
+	      (S (NP we)
+		 (AUX were)
+		 (VP asked
+		     
+		     (SBAR whether
+			   (S (NP we)
+			      (VP meant
+				  
+				  (S (NP *)
+				     (AUX to)
+				     (VP say
+					 (SBAR (WHNP what)
+					       (S
+						(NP we)
+						(VP did
+						    (NP T))
+						(ADVP before)))))))))))
+	,
+	(S (NP we)
+	   (AUX should)
+	   (ADVP certainly)
+	   (VP answer
+	       (NP Yes)))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX should)
+   (VP say
+       (SBAR (SBAR that
+		   (S (S (NP we)
+			 (VP made
+			     (NP our point)
+			     (PP with
+				 (NP  feeling)))
+			 (NP the first time))
+		      and
+		      (X  (NP little
+			      or
+			      no
+			      feeling)
+			  (NP the second time))))
+	     ,
+	     but
+	     (SBAR that
+		   (S (NP it)
+		      (VP was
+			  (NP (NP the same point)
+			      (SBAR 0
+				    (S
+				     (NP we)
+				     (AUX were)
+				     (VP making
+					 (NP T) ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (SBAR if
+	    (S (NP we)
+	       (AUX can)
+	       (VP see
+		   (SBAR that
+			 (S (NP (SBAR (WHNP what)
+				      (S (NP we)
+					 (VP meant
+					     (S (NP *)
+						(AUX to)
+						(VP say
+						    (NP T) ))))))
+			    (VP remains
+				(ADJP  the         
+				       same))
+			    ,
+			    (SBAR while
+				  (S (NP the feeling)
+				     (VP varies
+					 (PP (PP from
+						 (NP intensity))
+					     (PP to
+						 (PP near
+						     (NP zero))))))))))))
+      ,
+      (S (NP it
+	     (SBAR-7 *pseudo-attach*))
+	 (VP is
+	     (NEG not)
+	     (NP the feeling))
+	 (SBAR-7 (WHNP that)
+		 (S (NP we)
+		    (ADVP primarily)
+		    (VP meant
+		      
+			(S (NP *)
+			   (AUX to)
+			   (VP express
+			       (NP T) )))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP come
+       (ADVP now)
+       (PP to
+	   (NP a fourth consideration))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (S
+      (NP  (NP We)
+	   (NP all))
+      (VP believe
+	  (SBAR that
+		(S (PP toward
+		       (NP acts or effects
+			   (PP of
+			       (NP a certain kind))))
+		   (S (S (NP one attitude)
+			 (VP  is
+			      (ADJP fitting)))
+		      and
+		      (X (NP another)
+			 (NEG not)))))))
+     ;
+     ;
+     but
+     (S (PP on
+	    (NP (NP the theory)
+		(PP before
+		    (NP us))))
+	(S (NP  such
+		a belief)
+	   (AUX would)
+	   (NEG not)
+	   (VP make
+	       (NP sense)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Broad)
+	 and
+	 (NP Ross))
+     (AUX have)
+     (ADVP lately)
+     (VP contended
+	 (SBAR that
+	       (S (NP this fitness)
+		  (VP is
+		      (NP one
+			  (PP of
+			      (NP the main facts
+				  (PP of
+				      (NP ethics))))))))))
+    ,
+    and
+    (S (NP I)
+       (VP suspect
+	   (SBAR 0
+		 (S (NP they)
+		    (VP are
+			(ADJP right)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP that)
+	 (VP is
+	     (NEG not)
+	     (ADVP exactly)
+	     (NP my point))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP My point)
+   (VP is
+       (NP (NP this)
+	   :
+	   (S (S (SBAR whether
+		       (S (NP there)
+			  (VP is
+			      (NP such fitness)))
+		       or
+		       (NEG not))
+		 ,
+		 (S (NP (NP we)
+			(NP all))
+		    (VP assume
+			(SBAR that
+			      (S (NP there)
+				 (VP is))))))
+	      ,
+	      and
+	      (S (SBAR if
+		       (S (NP we)
+			  (VP do)
+			   ))
+		 ,
+		 (S (NP we)
+		    (VP express
+			(PP in
+			    (NP moral judgments))
+			(NP more
+			    (PP than
+				(S (NP the subjectivists)
+				   (VP say
+				       (SBAR 0
+					     (S (NP we)
+						(AUX do)
+						(VP *))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP me)
+	 (VP illustrate)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP (NP his novel)
+	     (NP The House Of The Dead)))
+     ,
+     (S (NP Dostoevsky)
+	(VP tells
+	    (PP of
+		(NP his experiences
+		    (PP in
+			(NP a Siberian prison camp)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR (WHNP Whatever)
+	    (S
+	     (NP the unhappy inmates
+		 (PP of
+		     (NP such camps)))
+	     (VP are
+		 (PP like
+		     (NP T) ))
+	     (NP today)))
+      ,
+      (S (NP
+	  (NP Dostoevsky)
+	  's companions)
+	 (VP were
+	     (NP (ADJP  (ADVP about)
+			as
+			grim)
+		 a lot
+		 (PP as
+		     (S  (NP *) 
+			 (AUX can)
+			 (VP be
+			     (VP imagined
+				 ))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   ``
+    (S (NP I)
+       (AUX have)
+       (VP heard
+	   (NP (NP stories)
+	       ''
+	       ,
+	       (S (NP he)
+		  (VP writes))
+	       ,
+	       ``
+	       (PP (PP of
+		       (NP the
+			   (ADJP most terrible)
+			   ,
+			   the
+			   (ADJP most unnatural)
+			   actions))
+		   ,
+		   (PP of
+		       (NP the
+			   (ADJP  most monstrous)
+			   murders)))
+	       ,
+	       (VP told
+		   (PP with
+		       (NP the
+			   (ADJP  most spontaneous)
+			   ,
+			   (ADJP  (ADVP childishly)
+				  merry) 
+			   laughter))))))
+    ''
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  Most
+       (PP of
+	   (NP us)))
+  (AUX would)
+  (VP say
+      (SBAR that
+	    (S (PP in
+		   (NP this delight
+		       (PP at
+			   (NP (NP the killing
+				   (PP of
+				       (NP others)))
+			       or
+			       (NP the causing
+				   (PP of
+				       (NP  suffering)))))))
+	       (S (NP there)
+		  (VP is
+		      (NP (NP something)
+			  (ADJP  very
+				 unfitting))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (SBAR  If
+	   (S (NP we)
+	      (AUX were)
+	      (VP asked
+		  
+		  (SBAR 
+		   (WHADVP why)
+		   (S (NP we)
+		      (VP thought
+			  (ADVP so)))))))
+    ,
+    (S (NP we)
+       (AUX should)
+       (VP say
+	   (SBAR (SBAR that
+		       (S (NP these things)
+			  (VP (VP involve
+				  (NP great evil))
+			      and
+			      (VP are
+				  (ADJP wrong)))))
+		 ,
+		 and
+		 (SBAR that
+		       (S (NP (S (NP *)
+				 (AUX to)
+				 (VP take
+				     (NP delight)
+				     (PP  in
+					  (SBAR (WHNP what)
+						(S (NP T)  
+						   (VP is
+						       (ADJP evil or wrong))))))))
+			  (VP is
+			      (ADVP plainly)
+			      (ADJP unfitting))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (PP on
+	  (NP the subjectivist view))
+      ,
+      (S (NP this answer)
+	 (AUX is)
+	 (VP ruled
+		 
+	     (PRT out))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  For
+  (PP before
+      (S (NP someone)
+	 (VP takes
+	     (PRT up)
+	     (NP an attitude
+		 (PP toward
+		     (NP (NP death)
+			 ,
+			 (NP suffering)
+			 ,
+			 or
+			 (NP their infliction)))))))
+  ,
+  (S (NP they)
+     (VP have
+	 (NP no moral quality)
+	 (PP at
+	     (NP all)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (ADVP therefore)
+       (NP (NP nothing
+	       (PP about
+		   (NP them)))
+	   (SBAR (WHPP to
+		       (WHNP which))
+		 (S
+		  (NP an attitude
+		      (PP of
+			  (NP (NP approval) or (NP condemnation))))
+		  (AUX could)
+		  (VP be
+		      (ADJP fitting)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP are
+	  (PP in
+	      (NP themselves))
+	  (ADJP neutral)))
+     ,
+     and
+     (S  ,
+	 (ADVP so
+	       far
+	       (PP as
+		   (S (NP they)
+		      (VP get
+			  (NP a moral quality)))))
+	 ,
+	 (S (NP they)
+	    (VP get
+		(NP it)
+		(PP  (ADVP only)
+		     through
+		     (NP (S (NP *)
+			    (VP being
+				(VP invested
+				    (PP with
+					(NP it))
+				    (PP by
+					(NP the attitude
+					    (PP of
+						(NP the onlooker)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ   But
+	   (SBAR if
+		 (S (NP that)
+		    (VP is
+			(ADJP true))))
+	   ,
+	   (SBARQ (WHADVP why)
+		  (SQ  
+		   (VP is)
+		   (NP any attitude)
+		   (ADJP  more
+			  fitting
+			  (PP than
+			      (NP any
+				  other))))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+	(SQ  (AUX Would)
+	     (NP applause)
+	     ,
+	     (PP for
+		 (NP example))
+	     ,
+	     (VP be
+		 (ADJP fitting))
+	     (SBAR if
+		   (S ,
+		      (ADVP apart
+			    (PP from
+				(NP the applause)))
+		      ,
+		      (S (NP there)
+			 (VP were
+			     (NP (NP nothing)
+				 (ADJP good)
+				 (S (NP *)
+				    (AUX to)
+				    (VP applaud
+					(NP T)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Would)
+      (NP condemnation)
+      (VP be
+	  (ADJP fitting))
+      (SBAR if
+	    (S  ,
+		(ADVP independently
+		      (PP of
+			  (NP the condemnation)))
+		,
+		(S (NP there)
+		   (VP were
+		       (NP (NP nothing)
+			   (ADJP bad)
+			   (S (NP *)
+			      (AUX to)
+			      (VP condemn
+				  (NP T) ))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP such
+	   a case))
+   ,
+   (S (S (NP any attitude)
+	 (AUX would)
+	 (VP be
+	     (ADJP  as
+		    fitting or unfitting
+		    (PP as
+			(NP any
+			    other)))))
+      ,
+      (SBAR 
+       (WHNP which)
+       (S (NP T)
+	  (VP means
+	      (SBAR that
+		    (S (NP the notion
+			   (PP of
+			       (NP fitness)))
+		       (AUX has)
+		       (VP lost
+			   (NP all point)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP we)
+	 (AUX are)
+	 (VP forced
+	      
+	     (S (NP *)
+		(AUX to)
+		(VP go
+		    (ADVP much
+			  farther))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP (NP goodness) and (NP badness))
+	     (X (VP lie
+		    (PP in
+			(NP attitudes)
+			(ADVP only)))
+		and 
+		(X  (ADVP hence)
+		    (AUX are)
+		    (VP brought
+			   
+			(PP into
+			    (NP  being))
+			(PP by
+			    (NP them)))))))
+   ,
+   (S  
+    (NP (NP those men)
+	(SBAR  
+	 (WHNP who)
+	 (S (NP T)
+	    (VP greeted
+		(NP (NP death) and (NP misery))
+		(PP with
+		    (NP  (ADJP (ADVP childishly)
+			       merry) laughter))))))
+    (AUX are)
+    (VP taking
+	(NP the
+	    only sensible
+	    line))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ  (SBAR (SBAR  If
+		      (S (NP there)
+			 (VP is
+			     (NP (NP nothing)
+				 (ADJP evil))
+			     (PP in
+				 (NP these things)))))
+	       ,
+	       (SBAR if
+		     (S (NP they)
+			(VP get
+			    (NP their moral complexion)
+			    (PP  (ADVP only)
+				 from
+				 (NP our feeling
+				     (PP about
+					 (NP them))))))))
+	 ,
+	 (SBARQ (WHADVP why)
+		(SQ (AUX should)
+		    (NEG n't)
+		    (NP they)
+		    (VP be
+			(VP greeted
+		  
+			    (PP with
+				(NP a cheer)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (S (NP *) 
+	    (AUX To)
+	    (VP greet
+		(NP them)
+		(PP with
+		    (NP repulsion)))))
+     (AUX would)
+     (VP turn
+	 (SBAR (WHNP what)
+	       (S   (NP T) 
+		    (ADVP before)
+		    (VP was
+			(ADJP neutral))))
+	 (PP into
+	     (NP (NP something)
+		 (ADJP bad)))))
+    ;
+    ;
+    (S (NP it)
+       (AUX would)
+       (ADVP needlessly)
+       (VP bring
+	   (NP badness)
+	   (PP into
+	       (NP the world))))
+    ;
+    ;
+    and
+    (S (PP  (ADVP even)
+	    on
+	    (NP subjectivist assumptions))
+       (S  (NP that)
+	   (AUX does)
+	   (NEG not)
+	   (VP seem
+	       (ADJP  very
+		      bright)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP On
+	  (NP the other hand))
+      ,
+      (S (NP (S (NP *)
+		(AUX to)
+		(VP greet
+		    (NP them)
+		    (PP with
+			(NP delight)))))
+	 (AUX would)
+	 (VP convert
+	     (SBAR (WHNP what)
+		   (S (NP T) 
+		      (ADVP before)
+		      (VP was
+			  (ADJP neutral))))
+	     (PP into
+		 (NP (NP something)
+		     (ADJP good))))))
+     ;
+     ;
+     (S (NP it)
+	(AUX would)
+	(VP bring
+	    (NP goodness)
+	    (PP into
+		(NP the world)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

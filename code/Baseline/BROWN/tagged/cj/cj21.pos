@@ -1,0 +1,1695 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Introduction/NN ]
+./. 
+==================================
+In/IN 
+[ 1/CD ]
+
+[ we/PRP ]
+investigate/VBP 
+[ a/DT new/JJ series/NN ]
+of/IN 
+[ line/NN involutions/NNS ]
+in/IN 
+[ a/DT projective/JJ space/NN ]
+of/IN 
+[ three/CD dimensions/NNS ]
+over/IN 
+[ the/DT field/NN ]
+of/IN 
+[ complex/JJ numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+are/VBP defined/VBN by/IN 
+[ a/DT simple/JJ involutorial/JJ transformation/NN ]
+of/IN 
+[ the/DT points/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT general/JJ line/NN ]
+meets/VBZ 
+[ a/DT nonsingular/JJ quadric/JJ surface/NN ]
+bearing/VBG 
+[ a/DT curve/NN ]
+of/IN 
+[ symbol/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB in/IN 
+[ 2/CD ]
+
+[ we/PRP ]
+show/VBP that/IN 
+[ any/DT line/NN involution/NN ]
+with/IN 
+[ the/DT properties/NNS ]
+that/IN (/( 
+[ A/NNP ]
+)/) 
+[ It/PRP ]
+has/VBZ 
+[ no/DT complex/JJ ]
+of/IN 
+[ invariant/JJ lines/NNS ]
+,/, and/CC (/( 
+[ B/NNP ]
+)/) 
+[ Its/PRP$ singular/JJ lines/NNS ]
+form/VBP 
+[ a/DT complex/NN ]
+consisting/VBG exclusively/RB of/IN 
+[ the/DT lines/NNS ]
+
+[ which/WDT ]
+meet/VBP 
+[ a/DT twisted/JJ curve/NN ]
+,/, is/VBZ necessarily/RB of/IN 
+[ the/DT type/NN ]
+discussed/VBN in/IN 
+[ 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT generalization/NN ]
+of/IN 
+[ these/DT results/NNS ]
+to/TO 
+[ spaces/NNS ]
+of/IN more/JJR than/IN 
+[ three/CD dimensions/NNS ]
+has/VBZ so/RB far/RB been/VBN found/VBN 
+[ possible/JJ ]
+./. 
+==================================
+
+[ 1/CD ]
+./. 
+==================================
+Let/VB 
+[ Q/NNP ]
+be/VB 
+[ a/DT nonsingular/JJ quadric/JJ surface/NN ]
+bearing/VBG 
+[ reguli/NNS A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+,/, and/CC let/VB 
+[ \*\*/SYM zg/NN ]
+be/VB 
+[ a/DT A[fj]/SYM curve/NN ]
+of/IN 
+[ order/NN K/NNP ]
+on/IN 
+[ Q/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT general/JJ line/NN L/NN ]
+meets/VBZ 
+[ Q/NNP ]
+in/IN 
+[ two/CD points/NNS ]
+,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+,/, through/IN 
+[ each/DT ]
+of/IN 
+[ which/WDT ]
+passes/VBZ 
+[ a/DT unique/JJ generator/NN ]
+of/IN 
+[ the/DT regulus/NN ]
+,/, 
+[ A[fj]/SYM ]
+,/, 
+[ whose/WP$ lines/NNS ]
+are/VBP 
+[ simple/JJ secants/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+On/IN 
+[ these/DT generators/NNS ]
+let/VB 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+be/VB ,/, respectively/RB ,/, 
+[ the/DT harmonic/JJ conjugates/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT two/CD points/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT corresponding/JJ generator/NN ]
+meets/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT line/NN A[fj]/SYM ]
+is/VBZ 
+[ the/DT image/NN ]
+of/IN 
+[ L./NNP Clearly/RB ]
+,/, 
+[ the/DT transformation/NN ]
+is/VBZ involutorial/JJ ./. 
+==================================
+
+[ We/PRP ]
+observe/VBP first/RB that/IN 
+[ no/DT line/NN ]
+,/, 
+[ l/NN ]
+,/, can/MD meet/VB 
+[ its/PRP$ image/NN ]
+except/IN at/IN 
+[ one/CD ]
+of/IN 
+[ its/PRP$ intersections/NNS ]
+with/IN 
+[ Q/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN if/IN 
+[ it/PRP ]
+did/VBD ,/, 
+[ the/DT plane/NN ]
+of/IN 
+[ L/NN ]
+and/CC 
+[ l/NN ]
+'/'' would/MD contain/VB 
+[ two/CD generators/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+,/, 
+[ which/WDT ]
+is/VBZ impossible/JJ ./. 
+==================================
+Moreover/RB ,/, from/IN 
+[ the/DT definitive/JJ transformation/NN ]
+of/IN 
+[ intercepts/NNS ]
+on/IN 
+[ the/DT generators/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+,/, 
+[ it/PRP ]
+is/VBZ clear/JJ that/IN 
+[ the/DT only/JJ points/NNS ]
+of/IN 
+[ Q/NNP ]
+at/IN 
+[ which/WDT ]
+
+[ a/DT line/NN ]
+can/MD meet/VB 
+[ its/PRP$ image/NN ]
+are/VBP 
+[ the/DT points/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ the/DT totality/NN ]
+of/IN 
+[ singular/JJ lines/NNS ]
+is/VBZ 
+[ the/DT T/NNP order/NN complex/NN ]
+of/IN 
+[ lines/NNS ]
+
+[ which/WDT ]
+meet/VBP 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT invariant/NN lines/NNS ]
+are/VBP 
+[ the/DT lines/NNS ]
+of/IN 
+[ the/DT congruence/NN ]
+of/IN 
+[ secants/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+,/, since/IN 
+[ each/DT ]
+of/IN 
+[ these/DT ]
+meets/VBZ 
+[ Q/NNP ]
+in/IN 
+[ two/CD points/NNS ]
+
+[ which/WDT ]
+are/VBP invariant/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT order/NN ]
+of/IN 
+[ this/DT congruence/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+,/, since/IN 
+[ A[fj]/SYM secants/NNS ]
+of/IN 
+[ a/DT curve/NN ]
+of/IN 
+[ symbol/NN ]
+(/( 
+[ B/NNP ]
+)/) on/IN 
+[ a/DT quadric/JJ surface/NN pass/NN ]
+through/IN 
+[ an/DT arbitrary/JJ point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT class/NN ]
+of/IN 
+[ the/DT congruence/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+,/, since/IN 
+[ an/DT arbitrary/JJ plane/NN ]
+meets/VBZ 
+[ \*\*/SYM zg/NN ]
+in/IN 
+[ K/NNP points/NNS ]
+./. 
+==================================
+Since/IN 
+[ the/DT complex/NN ]
+of/IN 
+[ singular/JJ lines/NNS ]
+is/VBZ of/IN 
+[ order/NN K/NNP ]
+and/CC since/IN 
+[ there/EX ]
+is/VBZ 
+[ no/DT complex/NN ]
+of/IN 
+[ invariant/NN lines/NNS ]
+,/, 
+[ it/PRP ]
+follows/VBZ from/IN 
+[ the/DT formula/NN A[fj]/SYM ]
+that/IN 
+[ the/DT order/NN ]
+of/IN 
+[ the/DT involution/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ There/EX ]
+are/VBP 
+[ various/JJ sets/NNS ]
+of/IN 
+[ exceptional/JJ lines/NNS ]
+,/, or/CC 
+[ lines/NNS whose/WP$ images/NNS ]
+are/VBP not/RB unique/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT most/RBS obvious/JJ ]
+of/IN 
+[ these/DT ]
+is/VBZ 
+[ the/DT quadratic/JJ complex/NN ]
+of/IN 
+[ tangents/NNS ]
+to/TO 
+[ Q/NNP ]
+,/, 
+[ each/DT line/NN ]
+of/IN 
+[ which/WDT ]
+is/VBZ transformed/VBN into/IN 
+[ the/DT entire/JJ pencil/NN ]
+of/IN 
+[ lines/NNS ]
+tangent/JJ to/TO 
+[ Q/NNP ]
+at/IN 
+[ the/DT image/NN ]
+of/IN 
+[ the/DT point/NN ]
+of/IN 
+[ tangency/NN ]
+of/IN 
+[ the/DT given/VBN line/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ pencils/NNS ]
+of/IN 
+[ tangents/NNS ]
+to/TO 
+[ Q/NNP ]
+are/VBP transformed/VBN into/IN 
+[ pencils/NNS ]
+of/IN 
+[ tangents/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ interesting/JJ that/IN 
+[ a/DT 1/CD ]
+:/: 
+[ 1/CD correspondence/NN ]
+can/MD be/VB established/VBN between/IN 
+[ the/DT lines/NNS ]
+of/IN 
+[ two/CD such/JJ pencils/NNS ]
+,/, so/IN that/IN in/IN 
+[ a/DT sense/NN ]
+
+[ a/DT unique/JJ image/NN ]
+can/MD actually/RB be/VB assigned/VBN to/TO 
+[ each/DT tangent/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT lines/NNS ]
+of/IN 
+[ any/DT plane/NN ]
+,/, 
+[ \*\*/SYM yp/NN ]
+,/, meeting/VBG 
+[ Q/NNP ]
+in/IN 
+[ a/DT conic/JJ C/NNP ]
+,/, are/VBP transformed/VBN into/IN 
+[ the/DT congruence/NN ]
+of/IN 
+[ secants/NNS ]
+of/IN 
+[ the/DT curve/NN C/NNP ]
+'/'' into/IN 
+[ which/WDT ]
+
+[ C/NNP ]
+is/VBZ transformed/VBN in/IN 
+[ the/DT point/NN involution/NN ]
+on/IN 
+[ Q/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ particular/JJ ]
+,/, 
+[ tangents/NNS ]
+to/TO 
+[ C/NNP ]
+are/VBP transformed/VBN into/IN 
+[ tangents/NNS ]
+to/TO 
+[ C/NNP ]
+'/'' ./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, if/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+are/VBP 
+[ two/CD planes/NNS ]
+intersecting/VBG in/IN 
+[ a/DT line/NN l/NN ]
+,/, tangent/JJ to/TO 
+[ Q/NNP ]
+at/IN 
+[ a/DT point/NN P/NNP ]
+,/, 
+[ the/DT two/CD free/JJ intersections/NNS ]
+of/IN 
+[ the/DT image/NN curves/NNS A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+must/MD coincide/VB at/IN 
+[ P/NNP ]
+'/'' ,/, 
+[ the/DT image/NN ]
+of/IN 
+[ P/NNP ]
+,/, and/CC at/IN 
+[ this/DT point/NN A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+must/MD have/VB 
+[ a/DT common/JJ tangent/JJ l/NN ]
+'/'' ./. 
+==================================
+
+==================================
+==================================
+Hence/RB ,/, thought/VBN of/IN as/IN 
+[ a/DT line/NN ]
+in/IN 
+[ a/DT particular/JJ plane/NN \*\*/SYM yp/NN ]
+,/, 
+[ any/DT tangent/NN ]
+to/TO 
+[ Q/NNP ]
+has/VBZ 
+[ a/DT unique/JJ image/NN ]
+and/CC moreover/RB 
+[ this/DT image/NN ]
+is/VBZ 
+[ the/DT same/JJ ]
+for/IN 
+[ all/DT planes/NNS ]
+through/IN 
+[ L/NNP ]
+./. 
+==================================
+
+[ Each/DT generator/NN ]
+,/, 
+[ \*\*/SYM yl/NN ]
+,/, of/IN 
+[ A[fj]/SYM ]
+is/VBZ also/RB 
+[ exceptional/JJ ]
+,/, for/IN 
+[ each/DT ]
+is/VBZ transformed/VBN into/IN 
+[ the/DT entire/JJ congruence/NN ]
+of/IN 
+[ secants/NNS ]
+of/IN 
+[ the/DT curve/NN ]
+into/IN 
+[ which/WDT ]
+
+[ that/DT generator/NN ]
+is/VBZ transformed/VBN by/IN 
+[ the/DT point/NN involution/NN ]
+on/IN 
+[ Q/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT curve/NN ]
+is/VBZ of/IN 
+[ symbol/NN A[fj]/SYM ]
+since/IN 
+[ it/PRP ]
+meets/VBZ 
+[ \*\*/SYM yl/NN ]
+,/, and/CC hence/RB 
+[ every/DT line/NN ]
+of/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ the/DT A[fj]/SYM invariant/JJ points/NNS ]
+on/IN 
+[ \*\*/SYM yl/NN ]
+and/CC since/IN 
+[ it/PRP ]
+obviously/RB meets/VBZ 
+[ every/DT line/NN ]
+of/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ a/DT single/JJ point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT congruence/NN ]
+of/IN 
+[ its/PRP$ secants/NNS ]
+is/VBZ therefore/RB of/IN 
+[ order/NN A[fj]/SYM ]
+and/CC 
+[ class/NN A[fj]/SYM ]
+./. 
+==================================
+
+[ A/DT final/JJ class/NN ]
+of/IN 
+[ exceptional/JJ lines/NNS ]
+is/VBZ identifiable/JJ from/IN 
+[ the/DT following/VBG considerations/NNS ]
+:/: Since/IN 
+[ no/DT two/CD generators/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+can/MD intersect/VB ,/, 
+[ it/PRP ]
+follows/VBZ that/IN 
+[ their/PRP$ image/NN curves/NNS ]
+can/MD have/VB 
+[ no/DT free/JJ intersections/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ other/JJ words/NNS ]
+,/, 
+[ these/DT curves/NNS ]
+have/VBP only/RB fixed/VBN 
+[ intersections/NNS ]
+common/JJ to/TO 
+[ them/PRP ]
+
+[ all/DT ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ the/DT only/JJ way/NN ]
+in/IN 
+[ which/WDT all/DT curves/NNS ]
+of/IN 
+[ the/DT image/NN family/NN ]
+of/IN 
+[ A[fj]/SYM ]
+can/MD pass/VB through/IN 
+[ a/DT fixed/JJ point/NN ]
+is/VBZ to/TO have/VB 
+[ a/DT generator/NN ]
+of/IN 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+is/VBZ not/RB 
+[ a/DT secant/NN ]
+but/CC 
+[ a/DT tangent/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+,/, for/IN then/RB 
+[ any/DT point/NN ]
+on/IN 
+[ such/JJ a/DT generator/NN ]
+will/MD be/VB transformed/VBN into/IN 
+[ the/DT point/NN ]
+of/IN 
+[ tangency/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ two/CD curves/NNS ]
+of/IN 
+[ symbol/NN A[fj]/SYM ]
+on/IN 
+[ Q/NNP ]
+intersect/VBP in/IN 
+[ A[fj]/SYM points/NNS ]
+,/, 
+[ it/PRP ]
+follows/VBZ that/IN 
+[ there/EX ]
+are/VBP 
+[ A[fj]/SYM lines/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+are/VBP tangent/JJ to/TO 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Clearly/RB ]
+,/, 
+[ any/DT line/NN ]
+,/, 
+[ l/NN ]
+,/, of/IN 
+[ any/DT bundle/NN ]
+having/VBG 
+[ one/CD ]
+of/IN 
+[ these/DT points/NNS ]
+of/IN 
+[ tangency/NN ]
+,/, 
+[ T/NNP ]
+,/, as/IN 
+[ vertex/NN ]
+will/MD be/VB transformed/VBN into/IN 
+[ the/DT entire/JJ pencil/NN ]
+having/VBG 
+[ the/DT image/NN ]
+of/IN 
+[ the/DT second/JJ intersection/NN ]
+of/IN 
+[ L/NNP ]
+and/CC 
+[ Q/NNP ]
+as/IN 
+[ vertex/NN ]
+and/CC lying/VBG in/IN 
+[ the/DT plane/NN ]
+determined/VBN by/IN 
+[ the/DT image/NN point/NN ]
+and/CC 
+[ the/DT generator/NN ]
+of/IN 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+is/VBZ tangent/JJ to/TO
+[ \*\*/SYM zg/NN ]
+at/IN 
+[ T/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT line/NN ]
+through/IN 
+[ two/CD ]
+of/IN 
+[ these/DT points/NNS ]
+,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+,/, will/MD be/VB transformed/VBN into/IN 
+[ the/DT entire/JJ bilinear/JJ congruence/NN ]
+having/VBG 
+[ the/DT tangents/NNS ]
+to/TO
+[ \*\*/SYM zg/NN ]
+at/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+as/IN 
+[ directrices/NNS ]
+./. 
+==================================
+
+[ A/DT conic/NN ]
+,/, 
+[ C/NNP ]
+,/, being/VBG 
+[ a/DT ]
+(/( 
+[ 1/CD ]
+,/, 
+[ 1/CD ]
+)/) 
+[ curve/NN ]
+on/IN 
+[ Q/NNP ]
+,/, meets/VBZ 
+[ the/DT image/NN ]
+of/IN 
+[ any/DT line/NN ]
+of/IN 
+[ A[fj]/SYM ]
+,/, 
+[ which/WDT ]
+
+[ we/PRP ]
+have/VBP already/RB found/VBN to/TO be/VB 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ Q/NNP ]
+,/, in/IN 
+[ A[fj]/SYM points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ its/PRP$ image/NN ]
+,/, 
+[ C/NNP ]
+'/'' ,/, meets/VBZ 
+[ any/DT line/NN ]
+of/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ A[fj]/SYM points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, 
+[ C/NNP ]
+'/'' obviously/RB meets/VBZ 
+[ any/DT line/NN A[fj]/SYM ]
+in/IN 
+[ a/DT single/JJ point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ C/NNP ]
+'/'' is/VBZ 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ Q/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Therefore/RB ,/, 
+[ the/DT congruence/NN ]
+of/IN 
+[ its/PRP$ secants/NNS ]
+,/, 
+[ that/DT ]
+is/VBZ 
+[ the/DT image/NN ]
+of/IN 
+[ a/DT general/JJ plane/NN field/NN ]
+of/IN 
+[ lines/NNS ]
+,/, is/VBZ of/IN 
+[ order/NN A[fj]/SYM ]
+and/CC 
+[ class/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Finally/RB ,/, 
+[ the/DT image/NN ]
+of/IN 
+[ a/DT general/JJ bundle/NN ]
+of/IN 
+[ lines/NNS ]
+is/VBZ 
+[ a/DT congruence/NN ]
+
+[ whose/WP$ order/NN ]
+is/VBZ 
+[ the/DT order/NN ]
+of/IN 
+[ the/DT congruence/NN ]
+of/IN 
+[ invariant/JJ lines/NNS ]
+,/, namely/RB 
+[ A[fj]/SYM ]
+and/CC 
+[ whose/WP$ class/NN ]
+is/VBZ 
+[ the/DT order/NN ]
+of/IN 
+[ the/DT image/NN congruence/NN ]
+of/IN 
+[ a/DT general/JJ plane/NN field/NN ]
+of/IN 
+[ lines/NNS ]
+,/, namely/RB 
+[ Af./NNP 2/CD ]
+./. 
+==================================
+
+[ The/DT preceding/VBG observations/NNS ]
+make/VBP 
+[ it/PRP ]
+clear/JJ that/IN 
+[ there/EX ]
+exist/VBP 
+[ line/NN involutions/NNS ]
+of/IN 
+[ all/DT orders/NNS ]
+greater/JJR than/IN 
+[ 1/CD ]
+with/IN 
+[ no/DT complex/NN ]
+of/IN 
+[ invariant/JJ lines/NNS ]
+and/CC with/IN 
+[ a/DT complex/NN ]
+of/IN 
+[ singular/JJ lines/NNS ]
+consisting/VBG exclusively/RB of/IN 
+[ the/DT lines/NNS ]
+
+[ which/WDT ]
+meet/VBP 
+[ a/DT twisted/JJ curve/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+now/RB shall/MD show/VB that/IN 
+[ any/DT involution/NN ]
+with/IN 
+[ these/DT characteristics/NNS ]
+is/VBZ necessarily/RB of/IN 
+[ the/DT type/NN ]
+
+[ we/PRP ]
+have/VBP just/RB described/VBN ./. 
+==================================
+To/TO do/VB 
+[ this/DT we/PRP ]
+must/MD first/RB show/VB that/IN 
+[ every/DT line/NN ]
+
+[ which/WDT ]
+meets/VBZ 
+[ \*\*/SYM zg/NN ]
+in/IN 
+[ a/DT point/NN P/NNP ]
+meets/VBZ 
+[ its/PRP$ image/NN ]
+at/IN 
+[ P/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO see/VB 
+[ this/DT ]
+,/, consider/VB 
+[ a/DT general/JJ pencil/NN ]
+of/IN 
+[ lines/NNS ]
+containing/VBG 
+[ a/DT general/JJ secant/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+By/IN (/( 
+[ 1/CD ]
+)/) ,/, 
+[ the/DT image/NN ]
+of/IN 
+[ this/DT pencil/NN ]
+is/VBZ 
+[ a/DT ruled/VBN surface/NN ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+
+[ which/WDT ]
+is/VBZ met/VBN by/IN 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+in/IN 
+[ a/DT curve/NN ]
+,/, 
+[ C/NNP ]
+,/, of/IN 
+[ order/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ C/NNP there/EX ]
+is/VBZ 
+[ a/DT A[fj]/SYM correspondence/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT A[fj]/SYM points/NNS ]
+cut/VBN from/IN 
+[ C/NNP ]
+by/IN 
+[ a/DT general/JJ line/NN ]
+,/, 
+[ l/NN ]
+,/, of/IN 
+[ the/DT pencil/NN ]
+correspond/VBP to/TO 
+[ the/DT point/NN ]
+of/IN 
+[ intersection/NN ]
+of/IN 
+[ the/DT image/NN ]
+of/IN 
+[ L/NN ]
+and/CC 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ C/NNP ]
+is/VBZ rational/JJ ,/, 
+[ this/DT correspondence/NN ]
+has/VBZ 
+[ K/NNP coincidences/NNS ]
+,/, 
+[ each/DT ]
+of/IN 
+[ which/WDT ]
+implies/VBZ 
+[ a/DT line/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+
+[ which/WDT ]
+meets/VBZ 
+[ its/PRP$ image/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, since/IN 
+[ the/DT pencil/NN ]
+contains/VBZ 
+[ a/DT secant/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+
+[ it/PRP ]
+actually/RB contains/VBZ 
+[ only/JJ A[fj]/SYM singular/JJ lines/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO avoid/VB 
+[ this/DT contradiction/NN ]
+
+[ it/PRP ]
+is/VBZ necessary/JJ that/IN 
+[ C/NNP ]
+be/VB composite/JJ ,/, with/IN 
+[ the/DT secant/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ a/DT curve/NN ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+as/IN 
+[ components/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ it/PRP ]
+follows/VBZ that/IN 
+[ the/DT secants/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+are/VBP 
+[ all/DT invariant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC if/IN 
+[ this/DT ]
+is/VBZ 
+[ the/DT case/NN ]
+,/, then/RB 
+[ an/DT arbitrary/JJ pencil/NN ]
+of/IN 
+[ lines/NNS ]
+having/VBG 
+[ a/DT point/NN ]
+,/, 
+[ P/NNP ]
+,/, of/IN 
+[ \*\*/SYM zg/NN ]
+as/IN 
+[ vertex/NN ]
+is/VBZ transformed/VBN into/IN 
+[ a/DT ruled/VBN surface/NN ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+having/VBG 
+[ A[fj]/SYM generators/NNS ]
+concurrent/JJ at/IN 
+[ P/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ a/DT ruled/VBN surface/NN ]
+of/IN 
+[ order/NN N/NNP ]
+with/IN 
+[ N/NNP concurrent/JJ generators/NNS ]
+is/VBZ necessarily/RB 
+[ a/DT cone/NN ]
+,/, 
+[ it/PRP ]
+follows/VBZ finally/RB that/IN 
+[ every/DT line/NN ]
+through/IN 
+[ a/DT point/NN ]
+,/, 
+[ P/NNP ]
+,/, of/IN 
+[ \*\*/SYM zg/NN ]
+meets/VBZ 
+[ its/PRP$ image/NN ]
+at/IN 
+[ P/NNP ]
+,/, as/IN asserted/VBN ./. 
+==================================
+Now/RB consider/VB 
+[ the/DT transformation/NN ]
+of/IN 
+[ the/DT lines/NNS ]
+of/IN 
+[ a/DT bundle/NN ]
+with/IN 
+[ vertex/NN ]
+,/, 
+[ P/NNP ]
+,/, on/IN 
+[ \*\*/SYM zg/NN ]
+
+[ which/WDT ]
+is/VBZ effected/VBN by/IN 
+[ the/DT involution/NN ]
+as/IN 
+[ a/DT whole/NN ]
+./. 
+==================================
+From/IN 
+[ the/DT preceding/VBG remarks/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ clear/JJ that/IN 
+[ such/JJ a/DT bundle/NN ]
+is/VBZ transformed/VBN into/IN 
+[ itself/PRP ]
+in/IN 
+[ an/DT involutorial/JJ fashion/NN ]
+./. 
+==================================
+Moreover/RB ,/, in/IN 
+[ this/DT involution/NN ]
+
+[ there/EX ]
+is/VBZ 
+[ a/DT cone/NN ]
+of/IN 
+[ invariant/JJ lines/NNS ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+,/, namely/RB 
+[ the/DT cone/NN ]
+of/IN 
+[ secants/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+
+[ which/WDT ]
+pass/VB through/IN 
+[ P/NNP ]
+./. 
+==================================
+Hence/RB 
+[ it/PRP ]
+follows/VBZ that/IN 
+[ the/DT involution/NN ]
+within/IN 
+[ the/DT bundle/NN ]
+must/MD be/VB 
+[ a/DT perspective/JJ De/NNP Jonquieres/NNP involution/NN ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+and/CC 
+[ the/DT invariant/JJ locus/NN ]
+must/MD have/VB 
+[ a/DT multiple/JJ line/NN ]
+of/IN 
+[ multiplicity/NN ]
+either/CC 
+[ A[fj]/SYM ]
+or/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT first/JJ possibility/NN ]
+requires/VBZ that/IN 
+[ there/EX ]
+be/VB 
+[ a/DT line/NN ]
+through/IN 
+[ P/NNP ]
+
+[ which/WDT ]
+meets/VBZ 
+[ \*\*/SYM zg/NN ]
+in/IN 
+[ A[fj]/SYM points/NNS ]
+;/: ;/: 
+[ the/DT second/NN ]
+requires/VBZ that/IN 
+[ there/EX ]
+be/VB 
+[ a/DT line/NN ]
+through/IN 
+[ P/NNP ]
+
+[ which/WDT ]
+meets/VBZ 
+[ \*\*/SYM zg/NN ]
+in/IN 
+[ A[fj]/SYM points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ each/DT case/NN ]
+,/, 
+[ lines/NNS ]
+of/IN 
+[ the/DT bundles/NNS ]
+are/VBP transformed/VBN by/IN 
+[ involutions/NNS ]
+within/IN 
+[ the/DT pencils/NNS they/PRP ]
+determine/VBP with/IN 
+[ the/DT multiple/JJ secant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT first/JJ case/NN ]
+
+[ the/DT fixed/JJ elements/NNS ]
+within/IN 
+[ each/DT pencil/NN ]
+are/VBP 
+[ the/DT multiple/JJ secant/NN ]
+and/CC 
+[ the/DT line/NN ]
+joining/VBG 
+[ the/DT vertex/NN ]
+,/, 
+[ P/NNP ]
+,/, to/TO 
+[ the/DT intersection/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+
+[ which/WDT ]
+does/VBZ not/RB lie/VB on/IN 
+[ the/DT multiple/JJ secant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT second/JJ ]
+,/, 
+[ the/DT fixed/JJ elements/NNS ]
+are/VBP 
+[ the/DT lines/NNS ]
+
+[ which/WDT ]
+join/VBP 
+[ the/DT vertex/NN ]
+,/, 
+[ P/NNP ]
+,/, to/TO 
+[ the/DT two/CD intersections/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+
+[ which/WDT ]
+do/VBP not/RB lie/VB on/IN 
+[ the/DT multiple/JJ secant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT multiple/JJ secants/NNS ]
+,/, of/IN 
+[ course/NN ]
+,/, are/VBP exceptional/JJ and/CC in/IN 
+[ each/DT case/NN ]
+are/VBP transformed/VBN into/IN 
+[ cones/NNS ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+./. 
+==================================
+
+[ Observations/NNS ]
+similar/JJ to/TO 
+[ these/DT ]
+can/MD be/VB made/VBN at/IN 
+[ each/DT point/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ \*\*/SYM zg/NN ]
+must/MD have/VB 
+[ either/DT ]
+
+[ a/DT regulus/NN ]
+of/IN 
+[ Af-fold/JJ secants/NNS ]
+or/CC 
+[ a/DT regulus/NN ]
+of/IN 
+[ Af-fold/JJ secants/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, if/IN 
+[ A[fj]/SYM ]
+,/, 
+[ no/DT two/CD ]
+of/IN 
+[ the/DT multiple/JJ secants/NNS ]
+can/MD intersect/VB ./. 
+==================================
+
+==================================
+==================================
+For/IN if/IN 
+[ such/JJ ]
+were/VBD 
+[ the/DT case/NN ]
+,/, either/CC 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT two/CD lines/NNS ]
+would/MD meet/VB 
+[ \*\*/SYM zg/NN ]
+in/IN 
+[ more/JJR ]
+than/IN 
+[ K/NNP points/NNS ]
+or/CC ,/, alternatively/RB ,/, 
+[ the/DT order/NN ]
+of/IN 
+[ the/DT image/NN regulus/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+determined/VBN by/IN 
+[ the/DT two/CD lines/NNS ]
+would/MD be/VB too/RB high/JJ ./. 
+==================================
+
+==================================
+==================================
+But/CC if/IN 
+[ no/DT two/CD lines/NNS ]
+of/IN 
+[ the/DT regulus/NN ]
+of/IN 
+[ multiple/JJ secants/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+can/MD intersect/VB ,/, then/RB 
+[ the/DT regulus/NN ]
+must/MD be/VB quadratic/JJ ,/, or/CC in/IN 
+[ other/JJ words/NNS ]
+,/, 
+[ \*\*/SYM zg/NN ]
+must/MD be/VB 
+[ either/DT ]
+
+[ a/DT A[fj]/SYM ]
+or/CC 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ a/DT nonsingular/JJ quadric/NN surface/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+now/RB observe/VBP that/IN 
+[ the/DT case/NN ]
+in/IN 
+[ which/WDT ]
+
+[ \*\*/SYM zg/NN ]
+is/VBZ 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ a/DT quadric/NN ]
+is/VBZ impossible/JJ if/IN 
+[ the/DT complex/NN ]
+of/IN 
+[ singular/JJ lines/NNS ]
+consists/VBZ exclusively/RB of/IN 
+[ the/DT lines/NNS ]
+
+[ which/WDT ]
+meet/VBP 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ any/DT pencil/NN ]
+in/IN 
+[ a/DT plane/NN ]
+containing/VBG 
+[ a/DT Af-fold/JJ secant/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+has/VBZ 
+[ an/DT image/NN regulus/NN ]
+
+[ which/WDT ]
+meets/VBZ 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT pencil/NN ]
+in/IN 
+[ A[fj]/SYM lines/NNS ]
+,/, namely/RB 
+[ the/DT images/NNS ]
+of/IN 
+[ the/DT lines/NNS ]
+of/IN 
+[ the/DT pencil/NN ]
+
+[ which/WDT ]
+pass/VBP through/IN 
+[ the/DT intersection/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ the/DT multiple/JJ secant/NN ]
+,/, plus/CC 
+[ an/DT additional/JJ component/NN ]
+to/TO account/VB for/IN 
+[ the/DT intersections/NNS ]
+of/IN 
+[ the/DT images/NNS ]
+of/IN 
+[ the/DT general/JJ lines/NNS ]
+of/IN 
+[ the/DT pencil/NN ]
+./. 
+==================================
+However/RB ,/, if/IN 
+[ there/EX ]
+is/VBZ 
+[ no/DT additional/JJ complex/NN ]
+of/IN 
+[ singular/JJ lines/NNS ]
+,/, 
+[ the/DT order/NN ]
+of/IN 
+[ the/DT image/NN regulus/NN ]
+of/IN 
+[ a/DT pencil/NN ]
+is/VBZ precisely/RB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+contradicts/VBZ 
+[ the/DT preceding/VBG observations/NNS ]
+,/, and/CC so/RB ,/, under/IN 
+[ the/DT assumption/NN ]
+of/IN 
+[ this/DT paper/NN ]
+,/, 
+[ we/PRP ]
+must/MD reject/VB 
+[ the/DT possibility/NN ]
+that/IN 
+[ \*\*/SYM zg/NN ]
+is/VBZ 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ a/DT quadric/NN surface/NN ]
+./. 
+==================================
+Continuing/VBG with/IN 
+[ the/DT case/NN ]
+in/IN 
+[ which/WDT ]
+
+[ \*\*/SYM zg/NN ]
+is/VBZ 
+[ a/DT A[fj]/SYM curve/NN ]
+on/IN 
+[ a/DT quadric/NN Q/NNP ]
+,/, 
+[ we/PRP ]
+first/RB observe/VBP that/IN 
+[ the/DT second/JJ regulus/NN ]
+of/IN 
+[ Q/NNP ]
+consists/VBZ precisely/RB of/IN 
+[ the/DT lines/NNS ]
+
+[ which/WDT ]
+join/VBP 
+[ the/DT two/CD free/JJ intersections/NNS ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ the/DT planes/NNS ]
+through/IN 
+[ any/DT one/CD ]
+of/IN 
+[ the/DT multiple/JJ secants/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ each/DT ]
+of/IN 
+[ these/DT lines/NNS ]
+meets/VBZ 
+[ Q/NNP ]
+in/IN 
+[ three/CD points/NNS ]
+,/, namely/RB 
+[ two/CD points/NNS ]
+on/IN 
+[ \*\*/SYM zg/NN ]
+and/CC 
+[ one/CD point/NN ]
+on/IN 
+[ one/CD ]
+of/IN 
+[ the/DT multiple/JJ secants/NNS ]
+./. 
+==================================
+Now/RB consider/VB 
+[ an/DT arbitrary/JJ line/NN ]
+,/, 
+[ l/NN ]
+,/, meeting/VBG 
+[ Q/NNP ]
+in/IN 
+[ two/CD points/NNS ]
+,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ \*\*/SYM ya/NN ]
+is/VBZ 
+[ the/DT multiple/JJ secant/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+
+[ which/WDT ]
+passes/VBZ through/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ \*\*/SYM yb/NN ]
+is/VBZ 
+[ the/DT simple/JJ secant/NN ]
+of/IN 
+[ \*\*/SYM zg/NN ]
+
+[ which/WDT ]
+passes/VBZ through/IN 
+[ A[fj]/SYM ]
+,/, and/CC if/IN 
+[ A[fj]/SYM ]
+are/VBP 
+[ the/DT points/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ \*\*/SYM ya/NN ]
+meets/VBZ 
+[ \*\*/SYM zg/NN ]
+,/, and/CC if/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT image/NN ]
+of/IN 
+[ A[fj]/SYM ]
+on/IN 
+[ the/DT generator/NN \*\*/SYM yb/NN ]
+,/, 
+[ it/PRP ]
+follows/VBZ that/IN 
+[ the/DT image/NN ]
+of/IN 
+[ the/DT line/NN A[fj]/SYM ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+==================================
+==================================

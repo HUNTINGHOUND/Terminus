@@ -1,0 +1,1779 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+Consider/VB 
+[ a/DT simple/JJ ]
+,/, closed/VBN ,/, 
+[ plane/NN curve/NN C/NN ]
+
+[ which/WDT ]
+is/VBZ 
+[ a/DT real-analytic/JJ image/NN ]
+of/IN 
+[ the/DT unit/NN circle/NN ]
+,/, and/CC 
+[ which/WDT ]
+is/VBZ given/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+are/VBP 
+[ real/RB analytic/JJ periodic/JJ functions/NNS ]
+with/IN 
+[ period/NN T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT following/VBG paper/NN ]
+
+[ it/PRP ]
+is/VBZ shown/VBN that/IN in/IN 
+[ a/DT certain/JJ definite/JJ sense/NN ]
+,/, exactly/RB 
+[ an/DT odd/JJ number/NN ]
+of/IN 
+[ squares/NNS ]
+can/MD be/VB inscribed/VBN in/IN 
+[ every/DT such/JJ curve/NN ]
+
+[ which/WDT ]
+does/VBZ not/RB contain/VB 
+[ an/DT infinite/JJ number/NN ]
+of/IN 
+[ inscribed/JJ squares/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT theorem/NN ]
+is/VBZ similar/JJ to/TO 
+[ the/DT theorem/NN ]
+of/IN 
+[ Kakutani/NNP ]
+
+[ that/WP ]
+there/RB exists/VBZ 
+[ a/DT circumscribing/VBG cube/NN ]
+around/IN 
+[ any/DT ]
+closed/VBN ,/, bounded/VBN 
+[ convex/JJ set/NN ]
+in/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT latter/JJ theorem/NN ]
+has/VBZ been/VBN generalized/VBN by/IN 
+[ Yamabe/NNP ]
+and/CC 
+[ Yujobo/NNP ]
+,/, and/CC 
+[ Cairns/NNP ]
+to/TO show/VB that/IN in/IN 
+[ A[fj]/SYM there/EX ]
+are/VBP 
+[ families/NNS ]
+of/IN 
+[ such/JJ cubes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Here/RB ,/, for/IN 
+[ the/DT case/NN ]
+of/IN 
+[ squares/NNS ]
+inscribed/VBN in/IN 
+[ plane/NN curves/NNS ]
+,/, 
+[ we/PRP ]
+remove/VBP 
+[ the/DT restriction/NN ]
+to/TO 
+[ convexity/NN ]
+and/CC give/VBP 
+[ certain/JJ other/JJ results/NNS ]
+./. 
+==================================
+
+[ A/DT square/NN ]
+inscribed/VBN in/IN 
+[ a/DT curve/NN C/NN ]
+means/VBZ 
+[ a/DT square/NN ]
+with/IN 
+[ its/PRP$ four/CD corner/NN points/NNS ]
+on/IN 
+[ the/DT curve/NN ]
+,/, though/IN 
+[ it/PRP ]
+may/MD not/RB lie/VB entirely/RB in/IN 
+[ the/DT interior/NN ]
+of/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Indeed/RB ,/, 
+[ the/DT spiral/NN A[fj]/SYM ]
+,/, with/IN 
+[ the/DT two/CD endpoints/NNS ]
+connected/VBN by/IN 
+[ a/DT straight/JJ line/NN ]
+possesses/VBZ only/RB 
+[ one/CD inscribed/VBN square/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT square/NN ]
+has/VBZ 
+[ one/CD corner/NN point/NN ]
+on/IN 
+[ the/DT straight/JJ line/NN segment/NN ]
+,/, and/CC does/VBZ not/RB lie/VB entirely/RB in/IN 
+[ the/DT interior/NN ]
+./. 
+==================================
+On/IN 
+[ C/NN ]
+,/, from/IN 
+[ the/DT point/NN P/NN ]
+at/IN 
+[ A[fj]/SYM ]
+to/TO 
+[ the/DT point/NN Q/NN ]
+at/IN 
+[ A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+construct/VBP 
+[ the/DT chord/NN ]
+,/, and/CC upon/IN 
+[ the/DT chord/NN ]
+as/IN 
+[ a/DT side/NN ]
+erect/VBP 
+[ a/DT square/NN ]
+in/IN 
+[ such/JJ a/DT way/NN ]
+that/IN as/IN 
+[ S/NN ]
+approaches/VBZ 
+[ zero/CD ]
+
+[ the/DT square/NN ]
+is/VBZ inside/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ S/NN ]
+increases/VBZ 
+[ we/PRP ]
+consider/VBP 
+[ the/DT two/CD free/JJ corner/NN points/NNS ]
+of/IN 
+[ the/DT square/NN ]
+,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+,/, adjacent/JJ to/TO 
+[ P/NN ]
+and/CC 
+[ Q/NN ]
+respectively/RB ./. 
+==================================
+As/IN 
+[ S/NN ]
+approaches/VBZ 
+[ T/NN ]
+
+[ the/DT square/NN ]
+will/MD be/VB outside/IN 
+[ C/NN ]
+and/CC therefore/RB 
+[ both/DT A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+must/MD cross/VB 
+[ C/NN ]
+
+[ an/DT odd/JJ number/NN ]
+of/IN 
+[ times/NNS ]
+as/IN 
+[ S/NN ]
+varies/VBZ from/IN 
+[ zero/CD ]
+to/TO 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT points/NNS ]
+may/MD also/RB touch/VB 
+[ C/NN ]
+without/IN crossing/VBG ./. 
+==================================
+Suppose/VB 
+[ A[fj]/SYM ]
+crosses/VBZ 
+[ C/NN ]
+when/WRB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+now/RB have/VBP 
+[ certain/JJ squares/NNS ]
+with/IN 
+[ three/CD corners/NNS ]
+on/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ any/DT such/JJ square/NN ]
+
+[ the/DT middle/JJ corner/NN ]
+of/IN 
+[ these/DT ]
+will/MD be/VB called/VBN 
+[ the/DT vertex/NN ]
+of/IN 
+[ the/DT square/NN ]
+and/CC 
+[ the/DT corner/NN ]
+not/RB on/IN 
+[ the/DT curve/NN ]
+will/MD be/VB called/VBN 
+[ the/DT diagonal/JJ point/NN ]
+of/IN 
+[ the/DT square/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT point/NN ]
+on/IN 
+[ C/NN ]
+,/, as/IN 
+[ a/DT vertex/NN ]
+,/, may/MD possess/VB 
+[ a/DT finite/JJ number/NN ]
+of/IN 
+[ corresponding/JJ diagonal/JJ points/NNS ]
+by/IN 
+[ the/DT above/JJ construction/NN ]
+./. 
+==================================
+To/TO 
+[ each/DT paired/JJ vertex/NN ]
+and/CC 
+[ diagonal/JJ point/NN ]
+there/RB corresponds/VBZ 
+[ a/DT unique/JJ forward/JJ corner/NN point/NN ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ the/DT corner/NN ]
+on/IN 
+[ C/NN ]
+reached/VBN 
+[ first/RB ]
+by/IN 
+[ proceeding/NN ]
+along/IN 
+[ C/NN ]
+from/IN 
+[ the/DT vertex/NN ]
+in/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ increasing/VBG T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT vertex/NN ]
+is/VBZ at/IN 
+[ A[fj]/SYM ]
+,/, and/CC if/IN 
+[ the/DT interior/NN ]
+of/IN 
+[ C/NN ]
+is/VBZ on/IN 
+[ the/DT left/JJ ]
+as/IN 
+[ one/CD moves/VBZ ]
+in/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ increasing/VBG t/NN ]
+,/, then/RB 
+[ every/DT such/JJ corner/NN ]
+can/MD be/VB found/VBN from/IN 
+[ the/DT curve/NN ]
+obtained/VBN by/IN rotating/VBG 
+[ C/NN ]
+clockwise/RB through/IN 
+[ 90-degrees/CD|NNS ]
+about/IN 
+[ the/DT vertex/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT set/NN ]
+of/IN 
+[ intersections/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT rotated/VBN curve/NN ]
+,/, with/IN 
+[ the/DT original/JJ curve/NN C/NN ]
+consists/VBZ of/IN just/RB 
+[ the/DT set/NN ]
+of/IN 
+[ forward/JJ corner/NN points/NNS ]
+on/IN 
+[ C/NN ]
+corresponding/VBG to/TO 
+[ the/DT vertex/NN ]
+at/IN 
+[ A[fj]/SYM ]
+,/, plus/CC 
+[ the/DT vertex/NN ]
+
+[ itself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+note/VBP that/IN 
+[ two/CD such/JJ curves/NNS C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+,/, can/MD not/RB coincide/VB at/IN more/RBR than/IN 
+[ a/DT finite/JJ number/NN ]
+of/IN 
+[ points/NNS ]
+;/: ;/: otherwise/RB ,/, being/VBG 
+[ analytic/NN ]
+,/, 
+[ they/PRP ]
+would/MD coincide/VB at/IN 
+[ all/DT points/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ impossible/JJ since/IN 
+[ they/PRP ]
+do/VBP not/RB coincide/VB near/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+With/IN 
+[ each/DT vertex/NN ]
+
+[ we/PRP ]
+associate/VBP 
+[ certain/JJ numerical/JJ values/NNS ]
+,/, namely/RB 
+[ the/DT set/NN ]
+of/IN 
+[ positive/JJ differences/NNS ]
+in/IN 
+[ the/DT parameter/NN T/NN ]
+between/IN 
+[ the/DT vertex/NN ]
+and/CC 
+[ its/PRP$ corresponding/JJ forward/JJ corner/NN points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT vertex/NN ]
+at/IN 
+[ A[fj]/SYM ]
+,/, 
+[ these/DT values/NNS ]
+will/MD be/VB denoted/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT function/NN f/NN ]
+{/( 
+[ t/NN ]
+}/) defined/VBN in/IN 
+[ this/DT way/NN ]
+is/VBZ 
+[ multi-valued/JJ ]
+./. 
+==================================
+
+[ We/PRP ]
+consider/VBP now/RB 
+[ the/DT graph/NN ]
+of/IN 
+[ the/DT function/NN f/NN ]
+{/( 
+[ t/NN ]
+}/) on/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+will/MD refer/VB to/TO 
+[ the/DT plane/NN ]
+of/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+as/IN 
+[ the/DT C-plane/NN ]
+and/CC to/TO 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT graph/NN ]
+as/IN 
+[ the/DT A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT graph/NN ]
+,/, as/IN 
+[ a/DT set/NN ]
+,/, may/MD have/VB 
+[ a/DT finite/JJ number/NN ]
+of/IN 
+[ components/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+will/MD denote/VB 
+[ the/DT values/NNS ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) on/IN 
+[ different/JJ components/NNS ]
+by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT point/NN ]
+with/IN 
+[ abscissa/NN T/NN ]
+on/IN 
+[ the/DT graph/NN ]
+represents/VBZ 
+[ an/DT intersection/NN ]
+between/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+are/VBP 
+[ two/CD types/NNS ]
+of/IN 
+[ such/JJ intersections/NNS ]
+,/, depending/VBG essentially/RB on/IN whether/IN 
+[ the/DT curves/NNS ]
+cross/VBP at/IN 
+[ the/DT point/NN ]
+of/IN 
+[ intersection/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT ordinary/JJ point/NN ]
+will/MD be/VB 
+[ any/DT point/NN ]
+of/IN 
+[ intersection/NN ]
+
+[ A/NN such/JJ ]
+that/IN in/IN 
+[ every/DT neighborhood/NN ]
+of/IN 
+[ A/NN ]
+in/IN 
+[ the/DT C-plane/NN ]
+,/, 
+[ A[fj]/SYM ]
+meets/VBZ 
+[ both/DT ]
+
+[ the/DT interior/NN ]
+and/CC 
+[ the/DT exterior/NN ]
+of/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Any/DT other/JJ point/NN ]
+of/IN 
+[ intersection/NN ]
+between/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+will/MD be/VB called/VBN 
+[ a/DT tangent/NN point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT terminology/NN ]
+will/MD also/RB be/VB applied/VBN to/TO 
+[ the/DT corresponding/JJ points/NNS ]
+in/IN 
+[ the/DT A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+can/MD now/RB prove/VB 
+[ several/JJ lemmas/NNS ]
+./. 
+==================================
+
+[ Lemma/NN 1/CD ]
+./. 
+==================================
+In/IN 
+[ some/DT neighborhood/NN ]
+in/IN 
+[ the/DT f-plane/NN ]
+of/IN 
+[ any/DT ordinary/JJ point/NN ]
+of/IN 
+[ the/DT graph/NN ]
+,/, 
+[ the/DT function/NN f/NN ]
+is/VBZ 
+[ a/DT single-valued/JJ ]
+,/, 
+[ continuous/JJ function/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+first/RB show/VBP that/IN 
+[ the/DT function/NN ]
+is/VBZ single-valued/JJ in/IN 
+[ some/DT neighborhood/NN ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ the/DT vertex/NN ]
+at/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ the/DT C-plane/NN we/PRP ]
+assume/VBP that/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT parametric/JJ location/NN ]
+on/IN 
+[ C/NN ]
+of/IN 
+[ an/DT ordinary/JJ intersection/NN Q/NN ]
+between/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT f-plane/NN ]
+
+[ the/DT coordinates/NNS ]
+of/IN 
+[ the/DT corresponding/JJ point/NN ]
+are/VBP 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ We/PRP ]
+know/VBP that/IN in/IN 
+[ the/DT C-plane/NN ]
+
+[ both/DT C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+are/VBP analytic/JJ ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT C-plane/NN we/PRP ]
+construct/VBP 
+[ a/DT set/NN ]
+of/IN 
+[ rectangular/JJ Cartesian/JJ coordinates/NNS u/NN ]
+,/, 
+[ V/NN ]
+with/IN 
+[ the/DT origin/NN ]
+at/IN 
+[ Q/NN ]
+and/CC such/JJ that/IN 
+[ both/DT C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+have/VBP 
+[ finite/JJ slope/NN ]
+at/IN 
+[ Q/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Near/IN 
+[ Q/NN ]
+,/, 
+[ both/DT ]
+
+[ curves/NNS ]
+can/MD be/VB represented/VBN by/IN 
+[ analytic/JJ functions/NNS ]
+of/IN 
+[ U/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ a/DT neighborhood/NN ]
+of/IN 
+[ Q/NN ]
+
+[ the/DT difference/NN ]
+between/IN 
+[ these/DT functions/NNS ]
+is/VBZ also/RB 
+[ a/DT single-valued/JJ ]
+,/, 
+[ analytic/JJ function/NN ]
+of/IN 
+[ U/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Furthermore/RB ,/, 
+[ one/NN ]
+can/MD find/VB 
+[ a/DT neighborhood/NN ]
+of/IN 
+[ Q/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT difference/NN function/NN ]
+is/VBZ monotone/JJ ,/, for/IN since/IN 
+[ it/PRP ]
+is/VBZ analytic/JJ 
+[ it/PRP ]
+can/MD have/VB only/RB 
+[ a/DT finite/JJ number/NN ]
+of/IN 
+[ extrema/NNS ]
+in/IN 
+[ any/DT interval/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB ,/, to/TO find/VB 
+[ A[fj]/SYM ]
+,/, 
+[ one/CD needs/VBZ ]
+
+[ the/DT intersection/NN ]
+of/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+near/IN 
+[ Q/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ A[fj]/SYM ]
+is/VBZ just/RB 
+[ the/DT curve/NN A[fj]/SYM ]
+translated/VBN without/IN 
+[ rotation/NN ]
+through/IN 
+[ a/DT small/JJ arc/NN ]
+,/, for/IN 
+[ A[fj]/SYM ]
+is/VBZ always/RB obtained/VBN by/IN rotating/VBG 
+[ C/NN ]
+through/IN exactly/RB 
+[ 90-degrees/CD|NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT arc/NN ]
+is/VBZ 
+[ itself/PRP ]
+
+[ a/DT segment/NN ]
+of/IN 
+[ an/DT analytic/JJ curve/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB if/IN 
+[ E/NN ]
+is/VBZ sufficiently/RB 
+[ small/JJ ]
+,/, 
+[ there/EX ]
+can/MD be/VB only/RB 
+[ one/CD intersection/NN ]
+of/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+near/IN 
+[ Q/NN ]
+,/, for/IN if/IN 
+[ there/EX ]
+were/VBD more/JJR than/IN 
+[ one/CD intersection/NN ]
+for/IN 
+[ every/DT E/NN ]
+then/RB 
+[ the/DT difference/NN ]
+between/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+near/IN 
+[ Q/NN ]
+would/MD not/RB be/VB 
+[ a/DT monotone/JJ function/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Therefore/RB ,/, 
+[ A[fj]/SYM ]
+is/VBZ single-valued/JJ near/IN 
+[ Q/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ also/RB seen/VBN that/IN 
+[ A[fj]/SYM ]
+,/, since/IN 
+[ the/DT change/NN ]
+from/IN 
+[ A[fj]/SYM ]
+to/TO 
+[ A[fj]/SYM ]
+is/VBZ accomplished/VBN by/IN 
+[ a/DT continuous/JJ translation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ A[fj]/SYM ]
+is/VBZ also/RB continuous/JJ at/IN 
+[ A[fj]/SYM ]
+,/, and/CC in/IN 
+[ a/DT neighborhood/NN ]
+of/IN 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+does/VBZ not/RB contain/VB 
+[ a/DT tangent/JJ point/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+turn/VBP now/RB to/TO 
+[ the/DT set/NN ]
+of/IN 
+[ tangent/JJ points/NNS ]
+on/IN 
+[ the/DT graph/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT set/NN ]
+must/MD consist/VB of/IN 
+[ isolated/VBN points/NNS ]
+and/CC closed/VBN 
+[ intervals/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT fact/NN ]
+that/IN 
+[ there/EX ]
+can/MD not/RB be/VB 
+[ any/DT limit/NN points/NNS ]
+of/IN 
+[ the/DT set/NN ]
+except/IN in/IN 
+[ closed/VBN intervals/NNS ]
+follows/VBZ from/IN 
+[ the/DT argument/NN ]
+used/VBN in/IN 
+[ Lemma/NN 1/CD ]
+,/, namely/RB ,/, that/IN near/IN 
+[ any/DT tangent/JJ point/NN ]
+in/IN 
+[ the/DT C-plane/NN ]
+
+[ the/DT curves/NNS C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+are/VBP analytic/JJ ,/, and/CC therefore/RB 
+[ the/DT difference/NN ]
+between/IN 
+[ them/PRP ]
+must/MD be/VB 
+[ a/DT monotone/JJ function/NN ]
+in/IN 
+[ some/DT neighborhood/NN ]
+on/IN 
+[ either/DT side/NN ]
+of/IN 
+[ the/DT tangent/JJ point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+prevents/VBZ 
+[ the/DT occurrence/NN ]
+of/IN 
+[ an/DT infinite/JJ sequence/NN ]
+of/IN 
+[ isolated/VBN tangent/JJ points/NNS ]
+./. 
+==================================
+
+[ Lemma/NN 2/CD ]
+./. 
+==================================
+In/IN 
+[ some/DT neighborhood/NN ]
+of/IN 
+[ an/DT isolated/VBN tangent/JJ point/NN ]
+in/IN 
+[ the/DT f-plane/NN ]
+,/, say/VB 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT function/NN A[fj]/SYM ]
+is/VBZ either/RB double-valued/JJ or/CC has/VBZ 
+[ no/DT values/NNS ]
+defined/VBN ,/, except/IN at/IN 
+[ the/DT tangent/JJ point/NN ]
+
+[ itself/PRP ]
+,/, where/WRB 
+[ it/PRP ]
+is/VBZ single-valued/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ A/DT tangent/JJ point/NN Q/NN ]
+in/IN 
+[ the/DT C-plane/NN ]
+occurs/VBZ when/WRB 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+are/VBP tangent/JJ to/TO 
+[ one/CD another/DT ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT continuous/JJ change/NN ]
+in/IN 
+[ T/NN ]
+through/IN 
+[ an/DT amount/NN E/NN results/VBZ ]
+in/IN 
+[ a/DT translation/NN ]
+along/IN 
+[ an/DT analytic/JJ arc/NN ]
+of/IN 
+[ the/DT curve/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+are/VBP 
+[ three/CD possibilities/NNS ]
+:/: (/( 
+[ A/NN ]
+)/) 
+[ A[fj]/SYM ]
+remains/VBZ tangent/JJ to/TO 
+[ C/NN ]
+as/IN 
+[ it/PRP ]
+is/VBZ translated/VBN ;/: ;/: (/( 
+[ B/NN ]
+)/) 
+[ A[fj]/SYM ]
+moves/VBZ away/RB from/IN 
+[ C/NN ]
+and/CC does/VBZ not/RB intersect/VB 
+[ it/PRP ]
+at/IN 
+[ all/DT ]
+for/IN 
+[ A[fj]/SYM ]
+;/: ;/: (/( 
+[ C/NN ]
+)/) 
+[ A[fj]/SYM ]
+cuts/VBZ across/IN 
+[ C/NN ]
+and/CC 
+[ there/EX ]
+are/VBP 
+[ two/CD ordinary/JJ intersections/NNS ]
+for/IN 
+[ every/DT T/NN ]
+in/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT first/JJ possibility/NN results/VBZ ]
+in/IN 
+[ a/DT closed/VBN interval/NN ]
+of/IN 
+[ tangent/JJ points/NNS ]
+in/IN 
+[ the/DT f-plane/NN ]
+,/, 
+[ the/DT end/NN points/NNS ]
+of/IN 
+[ which/WDT fall/NN ]
+into/IN 
+[ category/NN ]
+(/( 
+[ B/NN ]
+)/) or/CC (/( 
+[ C/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT second/JJ category/NN ]
+
+[ the/DT function/NN A[fj]/SYM ]
+has/VBZ 
+[ no/DT values/NNS ]
+defined/VBN in/IN 
+[ a/DT neighborhood/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT third/JJ category/NN ]
+
+[ the/DT function/NN ]
+is/VBZ double-valued/JJ in/IN 
+[ this/DT interval/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT same/JJ remarks/NNS ]
+apply/VBP to/TO 
+[ an/DT interval/NN ]
+on/IN 
+[ the/DT other/JJ side/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Again/RB ,/, 
+[ the/DT analyticity/NN ]
+of/IN 
+[ the/DT two/CD curves/NNS ]
+guarantees/VBZ that/IN 
+[ such/JJ intervals/NNS ]
+exist/VBP ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT neighborhood/NN ]
+of/IN 
+[ an/DT end/NN point/NN ]
+of/IN 
+[ an/DT interval/NN ]
+of/IN 
+[ tangent/JJ points/NNS ]
+in/IN 
+[ the/DT f-plane/NN ]
+
+[ the/DT function/NN ]
+is/VBZ two-valued/JJ or/CC 
+[ no-valued/JJ ]
+on/IN 
+[ one/CD side/NN ]
+,/, and/CC is/VBZ 
+[ a/DT single-valued/JJ function/NN ]
+consisting/VBG entirely/RB of/IN 
+[ tangent/JJ points/NNS ]
+on/IN 
+[ the/DT other/JJ side/NN ]
+./. 
+==================================
+With/IN 
+[ the/DT above/JJ results/NNS we/PRP ]
+can/MD make/VB 
+[ the/DT following/VBG remarks/NNS ]
+about/IN 
+[ the/DT graph/NN ]
+of/IN 
+[ F/NN ]
+./. 
+==================================
+
+==================================
+==================================
+First/RB ,/, for/IN 
+[ any/DT value/NN ]
+of/IN 
+[ T/NN ]
+for/IN 
+[ which/WDT all/DT values/NNS ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) are/VBP 
+[ ordinary/JJ points/NNS ]
+
+[ the/DT number/NN ]
+of/IN 
+[ values/NNS ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) must/MD be/VB odd/JJ ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ it/PRP ]
+is/VBZ clear/JJ that/IN 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ ordinary/JJ intersections/NNS ]
+of/IN 
+[ C/NN ]
+and/CC 
+[ A[fj]/SYM ]
+must/MD be/VB even/RB (/( otherwise/RB ,/, starting/VBG in/IN 
+[ the/DT interior/NN ]
+of/IN 
+[ C/NN ]
+,/, 
+[ A[fj]/SYM ]
+could/MD not/RB finally/RB return/VB to/TO 
+[ the/DT interior/NN ]
+)/) ,/, and/CC 
+[ the/DT center/NN ]
+of/IN 
+[ rotation/NN ]
+at/IN 
+[ T/NN ]
+is/VBZ 
+[ the/DT argument/NN ]
+of/IN 
+[ the/DT function/NN ]
+,/, not/RB 
+[ a/DT value/NN ]
+./. 
+==================================
+Therefore/RB ,/, for/IN 
+[ any/DT value/NN ]
+of/IN 
+[ T/NN ]
+
+[ the/DT number/NN ]
+of/IN 
+[ values/NNS ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) is/VBZ equal/JJ to/TO 
+[ the/DT ]
+(/( finite/JJ )/) 
+[ number/NN ]
+of/IN 
+[ tangent/JJ points/NNS ]
+corresponding/VBG to/TO 
+[ the/DT argument/NN T/NN ]
+plus/IN 
+[ an/DT odd/JJ number/NN ]
+./. 
+==================================
+
+[ Definition/NN ]
+./. 
+==================================
+
+[ The/DT number/NN ]
+of/IN 
+[ ordinary/JJ values/NNS ]
+of/IN 
+[ the/DT function/NN f/NN ]
+{/( 
+[ t/NN ]
+}/) at/IN 
+[ T/NN ]
+will/MD be/VB called/VBN 
+[ its/PRP$ multiplicity/NN ]
+at/IN 
+[ T./NN Lemma/NN 3/CD ]
+./. 
+==================================
+
+[ The/DT graph/NN ]
+of/IN 
+[ f/NN ]
+has/VBZ at/IN 
+[ least/JJS one/CD component/NN ]
+
+[ whose/WP$ support/NN ]
+is/VBZ 
+[ the/DT entire/JJ interval/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+suppose/VBP not/RB ./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ every/DT component/NN ]
+of/IN 
+[ the/DT graph/NN ]
+of/IN 
+[ F/NN ]
+must/MD be/VB defined/VBN over/IN 
+[ a/DT bounded/JJ sub-interval/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Suppose/VB 
+[ A[fj]/SYM ]
+is/VBZ defined/VBN in/IN 
+[ the/DT sub-interval/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+must/MD 
+[ both/DT ]
+be/VB 
+[ tangent/JJ points/NNS ]
+on/IN 
+[ the/DT T/NN component/NN ]
+in/IN 
+[ the/DT f-plane/NN ]
+;/: ;/: otherwise/RB by/IN 
+[ Lemma/NN 1/CD ]
+
+[ the/DT component/NN ]
+would/MD extend/VB beyond/IN 
+[ these/DT points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Further/RB ,/, 
+[ we/PRP ]
+see/VBP by/IN 
+[ Lemma/NN 2/CD ]
+that/IN 
+[ the/DT multiplicity/NN ]
+of/IN 
+[ F/NN ]
+can/MD only/RB change/VB at/IN 
+[ a/DT tangent/JJ point/NN ]
+,/, and/CC at/IN 
+[ such/JJ a/DT point/NN ]
+can/MD only/RB change/VB by/IN 
+[ an/DT even/JJ integer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ the/DT multiplicity/NN ]
+of/IN 
+[ A[fj]/SYM ]
+for/IN 
+[ a/DT given/VBN T/NN ]
+must/MD be/VB 
+[ an/DT even/JJ number/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ true/JJ of/IN 
+[ all/DT components/NNS ]
+
+[ which/WDT ]
+have/VBP 
+[ such/JJ a/DT bounded/VBN support/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT contradiction/NN ]
+,/, for/IN 
+[ we/PRP ]
+know/VBP that/IN 
+[ the/DT multiplicity/NN ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) is/VBZ odd/JJ for/IN 
+[ every/DT T/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+have/VBP shown/VBN that/IN 
+[ the/DT graph/NN ]
+of/IN 
+[ F/NN ]
+contains/VBZ at/IN 
+[ least/JJS one/CD component/NN ]
+
+[ whose/WP$ inverse/NN ]
+is/VBZ 
+[ the/DT entire/JJ interval/NN ]
+{/( 
+[ 0,T/CD ]
+}/) ,/, and/CC 
+[ whose/WP$ multiplicity/NN ]
+is/VBZ odd/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+must/MD be/VB 
+[ an/DT odd/JJ number/NN ]
+of/IN 
+[ such/JJ components/NNS ]
+,/, 
+[ which/WDT ]
+will/MD be/VB called/VBN 
+[ complete/JJ components/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ]
+remaining/VBG (/( incomplete/JJ )/) 
+[ components/NNS all/DT ]
+have/VBP 
+[ an/DT even/JJ number/NN ]
+of/IN 
+[ ordinary/JJ points/NNS ]
+at/IN 
+[ any/DT argument/NN ]
+,/, and/CC are/VBP defined/VBN only/RB on/IN 
+[ a/DT proper/JJ sub-interval/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ We/PRP ]
+must/MD now/RB show/VB that/IN on/IN 
+[ some/DT component/NN ]
+of/IN 
+[ the/DT graph/NN ]
+there/EX exist/VBP 
+[ two/CD points/NNS ]
+for/IN 
+[ which/WDT ]
+
+[ the/DT corresponding/JJ diagonal/JJ points/NNS ]
+in/IN 
+[ the/DT C-plane/NN ]
+are/VBP on/IN 
+[ opposite/JJ sides/NNS ]
+of/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+again/RB consider/VBP 
+[ a/DT fixed/VBN point/NN P/NN ]
+at/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ a/DT variable/JJ point/NN Q/NN ]
+at/IN 
+[ A[fj]/SYM ]
+on/IN 
+[ C/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+erect/VBP 
+[ a/DT square/NN ]
+with/IN 
+[ PQ/NN ]
+as/IN 
+[ a/DT side/NN ]
+and/CC with/IN 
+[ free/JJ corners/NNS A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM adjacent/JJ ]
+to/TO 
+[ P/NN ]
+and/CC 
+[ Q/NN ]
+respectively/RB ./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ S/NN ]
+varies/VBZ from/IN 
+[ zero/CD ]
+to/TO 
+[ T/NN ]
+,/, 
+[ the/DT values/NNS ]
+of/IN 
+[ S/NN ]
+for/IN 
+[ which/WDT ]
+
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+cross/VBP 
+[ C/NN ]
+will/MD be/VB denoted/VBN by/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+respectively/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+have/VBP 
+[ A[fj]/SYM ]
+,/, plus/CC 
+[ tangent/JJ points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT s-values/NNS ]
+are/VBP just/RB 
+[ the/DT ordinary/JJ values/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Lemma/NN 4/CD ]
+./. 
+==================================
+
+[ The/DT values/NNS A[fj]/SYM ]
+are/VBP 
+[ the/DT ordinary/JJ values/NNS ]
+at/IN 
+[ A[fj]/SYM ]
+of/IN 
+[ a/DT multi-valued/NNS function/NN g/NN ]
+{/( 
+[ t/NN ]
+}/) 
+[ which/WDT ]
+has/VBZ 
+[ components/NNS ]
+corresponding/VBG to/TO 
+[ those/DT ]
+of/IN 
+[ f/NN ]
+{/( 
+[ t/NN ]
+}/) ./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+first/RB define/VBP 
+[ a/DT function/NN b/NN ]
+{/( 
+[ t/NN ]
+}/) as/IN follows/VBZ :/: given/VBN 
+[ the/DT set/NN ]
+of/IN 
+[ squares/NNS ]
+such/JJ that/IN 
+[ each/DT ]
+has/VBZ 
+[ three/CD corners/NNS ]
+on/IN 
+[ C/NN ]
+and/CC 
+[ vertex/NN ]
+at/IN 
+[ t/NN ]
+,/, 
+[ b/NN ]
+{/( 
+[ t/NN ]
+}/) is/VBZ 
+[ the/DT corresponding/JJ set/NN ]
+of/IN 
+[ positive/JJ parametric/JJ differences/NNS ]
+between/IN 
+[ T/NN ]
+and/CC 
+[ the/DT backward/JJ corner/NN points/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT functions/NNS F/NN ]
+and/CC 
+[ B/NN ]
+have/VBP exactly/RB 
+[ the/DT same/JJ multiplicity/NN ]
+at/IN 
+[ every/DT argument/NN T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB with/IN 
+[ P/NN ] 
+fixed/VBN at/IN 
+[ A[fj]/SYM ]
+,/, 
+[ Af-values/NNS ]
+occur/VBP when/WRB 
+[ the/DT corner/NN A[fj]/SYM ]
+crosses/VBZ 
+[ C/NN ]
+,/, and/CC are/VBP among/IN 
+[ the/DT values/NNS ]
+of/IN 
+[ S/NN such/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT roots/NNS ]
+of/IN 
+[ this/DT equation/NN ]
+are/VBP just/RB 
+[ the/DT ordinates/NNS ]
+of/IN 
+[ the/DT intersections/NNS ]
+of/IN 
+[ the/DT graph/NN ]
+of/IN 
+[ B/NN ]
+with/IN 
+[ a/DT straight/JJ line/NN ]
+of/IN 
+[ unit/NN slope/NN ]
+through/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ the/DT b-plane/NN ]
+(/( 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT graph/NN ]
+of/IN 
+[ b/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+define/VBP 
+[ these/DT values/NNS ]
+as/IN 
+[ A[fj]/SYM ]
+,/, and/CC define/VBP 
+[ g/NN ]
+{/( 
+[ t/NN ]
+}/) in/IN 
+[ the/DT same/JJ way/NN ]
+for/IN 
+[ each/DT T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ we/PRP ]
+obtain/VBP 
+[ g/NN ]
+{/( 
+[ t/NN ]
+}/) by/IN introducing/VBG 
+[ an/DT oblique/JJ g/NN ]
+{/( 
+[ t/NN ]
+}/) 
+[ -axis/NN ]
+in/IN 
+[ the/DT A[fj]/SYM ]
+./. 
+==================================
+==================================
+==================================

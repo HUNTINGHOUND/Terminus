@@ -1,0 +1,2215 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+
+((S (NP (NP The
+            (ADJP late)
+            R.G. Collingwood)
+        ,
+        (NP (NP a philosopher)
+            (SBAR 
+             (WHNP whose work)
+             (S (NP T)
+                (AUX has)
+                (VP proved
+                    (ADJP helpful
+                          (PP to
+                              (NP many students
+                                  (PP of
+                                      (NP literature)))))))))
+        ,)
+    (ADVP once)
+    (VP wrote
+        ``
+        :
+        :
+        (S (NP (NP We)
+               (NP-1 *pseudo-attach*))
+           (VP are
+               (NP-1 all)
+               ,
+               (SBAR though
+                     (S (NP many
+                            (PP of
+                                (NP us)))
+                        (VP are
+                            (ADJP snobbish
+                                  (ADVP enough)
+                                  (S (NP *)
+                                     (AUX to)
+                                     (VP wish
+                                         (S (NP *)
+                                            (AUX to)
+                                            (VP deny
+                                                (NP it)))))))))
+               ,
+               (PP in
+                   (NP 
+                    (ADJP  (ADVP far)
+                           closer)
+                    sympathy
+                    (PP with
+                        (NP the art
+                            (PP of
+                                (NP the music-hall and picture-palace))))
+                    (PP than
+                        (PP with
+                            (NP (NP (NP Chaucer)
+                                    and
+                                    (NP Cimabue))
+                                ,
+                                or
+                                (NP  (ADVP even)
+                                     (NP Shakespeare)
+                                     and
+                                     (NP Titian)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP By
+            (NP an effort
+                (PP of
+                    (NP historical sympathy))))
+        (S
+         (NP we)
+         (AUX can)
+         (VP (VP cast
+                 (NP our minds)
+                 (PRT back)
+                 (PP into
+                     (NP the art
+                         (PP of
+                             (NP (NP a remote past)
+                                 or
+                                 (NP an alien present))))))
+             ,
+             and
+             (VP enjoy
+                 (NP (NP the carvings
+                         (PP of
+                             (NP cavemen)))
+                     and
+                     (NP Japanese colour-prints))))))
+     ;
+     ;
+     but
+     (S (S (NP the possibility
+               (PP of
+                   (NP this effort)))
+           (AUX is)
+           (VP bound
+                 
+               (PRT up)
+               (PP with
+                   (NP (NP that development
+                           (PP of
+                               (NP historical thought)))
+                       (SBAR (WHNP which)
+                             (S (NP T)
+                                (VP is
+                                    (NP the
+                                        (ADJP greatest)
+                                        achievement
+                                        (PP of
+                                            (NP our civilization))
+                                        (PP in
+                                            (NP the
+                                                (ADJP last)
+                                                two centuries))))))))))
+        ,
+        and
+        (S (NP it)
+           (VP is
+               (ADJP  (ADVP utterly)
+                      impossible
+                      (PP to
+                          (NP (NP people)
+                              (SBAR (WHPP in
+                                          (WHNP whom))
+                                    (S
+                                     (NP this development)
+                                     (AUX has)
+                                     (NEG not)
+                                     (VP taken
+                                         (NP place)))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP natural and primary aesthetic)
+       attitude)
+   (VP is
+       (S (S (NP *)
+             (AUX to)
+             (VP enjoy
+                 (NP contemporary art)))
+          ,
+          (S (NP *)
+             (AUX to)
+             (VP despise and dislike
+                 (NP the art
+                     (PP of
+                         (NP the recent past)))))
+          ,
+          and
+          (S (NP *)
+             (ADVP wholly)
+             (AUX to)
+             (VP ignore
+                 (NP everything
+                     else))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX might)
+   (VP argue
+       (SBAR that
+             (S (NP the ultimate purpose
+                    (PP of
+                        (NP literary scholarship)))
+                (VP is
+                    (S (NP *)
+                       (AUX to)
+                       (VP correct
+                           (NP (NP this spontaneous provincialism)
+                               (SBAR (WHNP that)
+                                     (S (NP T)
+                                        (VP is
+                                            (ADJP likely
+                                                  (S (NP *)
+                                                     (AUX to)
+                                                     (VP obscure
+                                                         (NP the horizons
+                                                             (PP (PP of
+                                                                     (NP the general public))
+                                                                 ,
+                                                                 (PP of
+                                                                     (NP the newspaper critic))
+                                                                 ,
+                                                                 and
+                                                                 (PP of
+                                                                     (NP (NP the creative artist)
+                                                                         (NP himself)))))))))))))))))))
+  .)
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP results
+       (NP a study
+           (PP of
+               (NP (NP literature)
+                   (VP freed
+                         (PP from
+                             (NP the tyranny
+                                 (PP of
+                                     (NP the contemporary))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such study)
+   (AUX may)
+   (VP take
+       (NP many forms)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The study
+       (PP of
+           (NP ideas
+               (PP in
+                   (NP literature)))))
+   (VP is
+       (NP one
+           (PP of
+               (NP these)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Of
+        (NP course))
+    ,
+    (S (NP it
+	   (SBAR-1 *pseudo-attach*))
+       (VP goes
+           (PP without
+               (S  (NP *)
+                   (VP saying))))
+       (SBAR-1 that
+             (S (NP no student
+                    (PP of
+                        (NP ideas)))
+                (AUX can)
+                (ADVP justifiably)
+                (VP ignore
+                    (NP the contemporary scene))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX will)
+   (ADVP frequently)
+   (VP return
+       (PP to
+           (NP it))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP The continuities
+               ,
+               contrasts
+               ,
+               and
+               similarities)
+           (ADJP discernible
+                 (SBAR 
+                  (WHADVP when)
+                  (S (NP past and present)
+                     (AUX are)
+                     (VP surveyed
+                         (ADVP together))))))
+       (VP are
+           (ADJP inexhaustible)))
+    and
+    (S (NP the one)
+       (AUX is)
+       (ADVP often)
+       (VP understood
+           )
+       (PP through
+           (NP the
+               (ADJP other)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP we)
+        (VP assert
+            (NP the value
+                (PP of
+                    (NP such study))))))
+    ,
+    (S (NP we)
+       (VP find
+           (NP ourselves)
+           (S (NP *)
+	      (VP committed
+		  (PP to
+		      (NP an important assumption)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+
+((S (NP 
+     (ADJP Most)
+     students
+     (PP of
+         (NP literature)))
+    ,
+    (SBAR whether
+          (S (NP they)
+             (VP call
+                 (NP themselves)
+                 (NP scholars or critics))))
+    ,
+    (VP are
+        (ADJP ready
+              (S (NP *)
+                 (AUX to)
+                 (VP argue
+                     (SBAR that
+                           (S (NP it)
+                              (VP is
+                                  (ADJP possible
+                                        (S (NP *)
+                                           (AUX to)
+                                           (VP (VP understand
+						   (NP literary works))
+					       (ADVP as
+						     well
+						     (PP as
+							 (S (NP *)
+							    (AUX to)
+							    (VP enjoy
+								(NP them))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADJP Many))
+    (AUX will)
+    (VP add
+        (SBAR that
+              (S (NP we)
+                 (AUX may)
+                 (VP find
+                     (NP (NP our enjoyment)
+                         (VP heightened
+                             (PP by
+                                 (NP our understanding)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP This understanding)
+       ,
+       (PP of
+           (NP course))
+       ,
+       (AUX may)
+       (PP in
+           (NP its turn))
+       (VP take
+           (NP many forms)))
+    and
+    (S (NP (NP some
+               (PP of
+                   (NP these)))
+           --
+           (NP (NP  (ADVP especially)
+                    those)
+               (ADJP  most interesting
+                      (PP to
+                          (NP the student
+                              (PP of
+                                  (NP comparative literature))))))
+           --)
+       (VP are
+           (ADVP essentially)
+           (ADJP historical))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the historian
+             (PP of
+                 (NP literature)))
+         (AUX need)
+         (NEG not)
+         (VP confine
+             (NP his attention)
+             (PP (PP to
+                     (NP biography))
+                 or
+                 (PP to
+                     (NP stylistic questions
+                         (PP of
+                             (NP (NP form)
+                                 ,
+                                 (NP  ``
+                                      texture
+                                      '')
+                                 ,
+                                 or
+                                 (NP technique)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX may)
+   (ADVP also)
+   (VP consider
+       (NP ideas)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (ADJP true))
+   (SBAR-2 that
+	 (S (NP this distinction
+		(PP between
+		    (NP style and idea)))
+	    (ADVP often)
+	    (VP approaches
+		(NP the
+		    (ADJP arbitrary)))
+	    (SBAR since
+		  (S (PP in
+			 (NP the end))
+		     (S
+		      (NP we)
+		      (AUX must)
+		      (VP admit
+			  (SBAR that
+				(S (NP  style and content)
+				   (VP (VP (ADVP frequently)
+					   influence
+					   or
+					   interpenetrate
+					   (NP one
+					       another))
+				       and
+				       (VP  (ADVP sometimes)
+					    appear
+					    (PP as
+						(NP expressions
+						    (PP of
+							(NP the same insight)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      ,
+      (PP in
+          (ADJP general))
+      ,
+      (S (NP we)
+         (AUX may)
+         (VP argue
+             (SBAR that
+                   (S (NP the student)
+                      (AUX can)
+                      (VP direct
+                          (NP the primary emphasis
+                              (PP of
+                                  (NP his attention)))
+                          (PP toward
+                              (NP (NP one)
+                                  or
+                                  (NP the
+                                      (ADJP other))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+         (NP this point))
+     (S (NP a working definition
+            (PP of
+                (NP idea)))
+        (VP is
+            (PP in
+                (NP order)))
+        ,
+        (SBAR although
+              (S (NP our first definition)
+                 (AUX will)
+                 (VP have
+                     (S (NP *)
+                        (AUX to)
+                        (VP be
+                            (VP qualified
+                                (ADVP somewhat)))))
+                 (PP as
+                     (S (NP we)
+                        (VP proceed)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The term idea)
+   (VP refers
+       (PP to
+           (NP our
+               (ADJP more
+                     reflective or thoughtful) consciousness))
+       (PP as
+           (S (NP *)
+	      (VP opposed
+		  (PP to
+		      (NP the immediacies
+			  (PP of
+			      (NP sensuous or emotional experience)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (PP through
+           (NP such reflection)))
+   (SBAR that
+         (S
+          (NP  literature)
+          (VP approaches
+              (NP philosophy)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP An idea)
+    ,
+    (S  (NP *) 
+        (VP let
+            (NP us)
+            (VP say)))
+    ,
+    (AUX may)
+    (VP be
+        (VP  (ADVP roughly)
+             defined
+               
+             (PP as
+                 (NP (NP a theme or topic)
+                     (SBAR (WHPP with
+                                 (WHNP which))
+                           (S
+                            (NP our reflection)
+                            (AUX may)
+                            (VP be
+                                (VP concerned
+                                    )))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP this essay))
+    ,
+    (S (NP we)
+       (AUX are)
+       ,
+       (PP along
+           (PP with
+               (NP 
+                (ADJP most)
+                historians)))
+       ,
+       (VP interested
+           (PP in
+               (NP (NP the
+                       (ADJP  (ADVP more)
+                              general)
+                       or
+                       (ADJP (ADVP more)
+                             inclusive) ideas)
+                   ,
+                   (SBAR 
+                    (WHNP that)
+                    (S (NP T)
+                       (AUX are)
+                       (S (NP *)
+                          (ADVP so)
+                          (AUX to)
+                          (VP speak))
+                       (VP  ``
+                            writ
+                            (ADJP large)
+                            ''
+                            (PP in
+                                (NP (NP history
+                                        (PP of
+                                            (NP literature)))
+                                    (SBAR 
+                                     (WHADVP where)
+                                     (S (NP they)
+                                        (VP recur)
+                                        (ADVP continually)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (ADJP Outstanding
+	     (PP among
+		 (NP these)))
+       (VP is)
+       (NP (NP (NP the idea
+                   (PP of
+                       (NP (NP human nature)
+                           (NP itself))))
+               ,
+               (VP including
+                   (NP (NP the many definitions)
+                       (SBAR (WHNP that)
+                             (S (NP T)
+                                (AUX have)
+                                (VP been
+                                    (VP advanced
+                                        ))
+                                (PP over
+                                    (NP the centuries)))))))
+           ;
+           ;
+           (ADVP also)
+           (NP (NP secondary notions)
+               (NP such
+                   (PP as
+                       (NP (NP the perfectibility
+                               (PP of
+                                   (NP man)))
+                           ,
+                           (NP the depravity
+                               (PP of
+                                   (NP man)))
+                           ,
+                           and
+                           (NP the dignity
+                               (PP of
+                                   (NP man)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX might)
+   ,
+   (ADVP indeed)
+   ,
+   (VP argue
+       (SBAR (SBAR that
+		   (S (NP the history
+			  (PP of
+			      (NP ideas)))
+		      ,
+		      (ADVP  in
+			     so
+			     far
+			     (PP as
+				 (S (NP it)
+				    (VP includes
+					(NP the literatures)))))
+		      ,
+		      (AUX must)
+		      (VP center
+			  (PP on
+			      (NP characterizations
+				  (PP of
+				      (NP human nature)))))))
+	     and
+	     (SBAR that
+		   (S (NP the great periods
+			  (PP of
+			      (NP literary achievement)))
+		      (AUX may)
+		      (VP be
+			  (VP distinguished
+                                       
+			      (PP from
+				  (NP one
+				      another))
+			      (PP by
+				  (NP reference
+				      (PP to
+					  (NP (NP the images
+						  (PP of
+						      (NP human nature)))
+					      (SBAR that
+						    (S (NP they)
+						       (VP succeed
+							   (PP in
+							       (S  (NP *)
+								   (VP fashioning
+								       (NP T) )))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX need)
+    (NEG not)
+    ,
+    (S (NP *)
+       (AUX to)
+       (VP be
+	   (ADJP sure)))
+    ,
+    (VP expect
+	(S (NP *)
+	   (AUX to)
+	   (VP find
+	       (NP such ideas))
+	   (PP in
+	       (NP every piece
+		   (PP of
+		       (NP literature)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP An idea
+	    ,
+	    (PP of
+		(NP (NP the sort)
+		    (SBAR that
+			  (S (NP we)
+			     (VP have
+				 (NP T)
+				 (PP in
+				     (NP mind)))))))
+	    ,)
+	(ADJP  (ADVP although
+		     (PP of
+			 (NP necessity)))
+	       (ADVP readily)
+	       available
+	       (PP to
+		   (NP imagination)))
+	,)
+    (VP is
+	(ADJP  (ADVP more)
+	       general
+	       (PP in
+		   (NP connotation))
+	       (PP than
+		   (NP (NP 
+			most (ADVP poetic)
+			or
+			literary images)
+		       ,
+		       (NP (NP  (ADVP especially)
+				those)
+			   (VP appearing
+			       (PP in
+				   (NP (NP lyric poems)
+				       (SBAR (WHNP that)
+					     (S (NP T)
+						(VP seek
+						    (S (NP *)
+						       (AUX to)
+						       (VP capture
+							   (NP a moment
+							       (PP of
+								   (NP personal experience)))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP (NP 
+	      (NP Burns)
+	      's
+	      (S  ``
+		  (NP My love)
+		  (VP is
+		      (PP like
+			  (NP a
+			      (ADJP red)
+			      ,
+			      (ADJP red)
+			      rose)))
+		  ''))
+	     and
+	     (NP 
+	      (NP Hopkins)
+	      '
+	      (NP  ``
+		   (NP The thunder-purple sea-beach)
+		   ,
+		   (VP plumed
+		       (NP  purple
+			    (PP of
+				(NP Thunder))))
+		   '')))
+	 (ADVP although
+	       (ADJP  (ADVP clearly)
+		      intelligible
+		      (PP in
+			  (NP content))))
+	 ,
+	 (ADVP hardly)
+	 (VP present
+	     (NP ideas
+		 (PP of
+		     (NP (NP the sort)
+			 (SBAR (WHPP with
+				     (WHNP which))
+			       (S
+				(NP we)
+				(AUX are)
+				(ADVP here)
+				(VP concerned
+				    )))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the other hand))
+    ,
+    (S (NP (NP 
+	    (NP Arnold)
+	    's
+	    (NP  ``
+		 The
+		 (ADJP unplumbed)
+		 ,
+		 (ADJP salt)
+		 ,
+		 (VP estranging) sea
+		 ''))
+	   ,
+	   (VP taken
+	       (PP in
+		   (NP its context)))
+	   ,)
+       (ADVP certainly)
+       (VP does
+	   (ADVP so))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (S (NP *)
+	   (VP Understanding
+	       (NP a work
+		   (PP of
+		       (NP art))))))
+    (VP involves
+	(NP recognition
+	    (PP of
+		(NP (NP the ideas)
+		    (SBAR that
+			  (S (NP it)
+			     (VP reflects
+				 or
+				 embodies
+				 (NP T) ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP the student
+	     (PP of
+		 (NP literature)))
+	 (AUX may)
+	 (ADVP sometimes)
+	 (VP find
+	     (NP it
+		 (ADJP helpful
+		       (S (NP *)
+			  (AUX to)
+			  (VP classify
+			      (NP (NP a poem)
+				  or
+				  (NP an essay))
+			      (PP as
+				  (S  (NP *)
+				      (VP being
+					  (PP (PP in
+						  (NP idea))
+					      or
+					      (PP in
+						  (NP ideal content or subject matter)))
+					  (ADJP typical or atypical
+						(PP of
+						    (NP its period)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      ,
+      (S (NP he)
+	 (AUX may)
+	 (VP discover
+	     (S (NP *)
+		(VP embodied
+		    (PP within
+			(NP its texture))))
+	     (NP (NP a theme or idea)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (AUX has)
+			  (VP been
+			      (VP presented
+				  (X (ADVP elsewhere)
+				     and
+				     (PP (PP at
+					     (NP other times))
+					 (PP in
+					     (NP various ways))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our understanding)
+   (AUX will)
+   (VP  (ADVP very
+	      probably)
+	require
+	(NP  both
+	     these commentaries)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Very
+	    likely)
+      (S (NP it)
+	 (AUX will)
+	 (ADVP also)
+	 (VP include
+	     (NP a recognition
+		 (SBAR that
+		       (S (NP (NP the work)
+			      (SBAR 0
+				    (S (NP we)
+				       (AUX are)
+				       (VP reading
+					   (NP T) ))))
+			  (VP (VP reflects
+				  (NP-3 *pseudo-attach*))
+			      or
+			      (VP  ``
+				   belongs
+				   (PP to
+				       (NP-3 *pseudo-attach*))
+				   '')
+			      (NP-3  some way
+				   (PP of
+				       (NP thought))
+				   (VP labelled
+				       (PP as
+					   (NP (NP (NP a
+						       ``
+						       school
+						       '')
+						   or
+						   (NP an
+						       ``
+						       -
+						       ism
+						       ''))
+					       ,
+					       (NP i.e.
+						   (NP (NP a complex or
+							   ``
+							   syndrome
+							   ''
+							   (PP of
+							       (NP ideas)))
+						       (VP occurring
+							   (ADVP together
+								 (PP with
+								     (NP sufficient prominence
+									 (S (NP *)
+									    (AUX to)
+									    (VP warrant
+										(NP identification))))))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP ideas
+	     (PP like
+		 (NP (NP  ``
+			  grace
+			  '')
+		     ,
+		     (NP  ``
+			  salvation
+			  '')
+		     ,
+		     and
+		     (NP  ``
+			  providence
+			  ''))))
+	 (VP cluster
+	     (ADVP together)
+	     (PP in
+		 (NP traditional Christianity)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Usually)
+      (S (NP (NP the work)
+	     (VP studied))
+	 (VP offers
+	     (NP us)
+	     (NP a
+		 (ADJP special)
+		 or
+		 (ADVP even)
+		 an individualized rendering or treatment
+		 (PP of
+		     (NP the ideas
+			 (PP in
+			     (NP question))))))
+	 ,
+	 (SBAR  so
+		that
+		(S (NP the student)
+		   (VP finds
+		       (NP it
+			   (ADJP necessary
+				 (S (NP *)
+				    (AUX to)
+				    (VP distinguish
+					(ADVP carefully)
+					(PP between
+					    (NP the several expressions
+						(PP of
+						    (NP an
+							``
+							-
+							ism
+							''
+							or mode
+							(PP of
+							    (NP thought)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Accordingly)
+      (S (S (NP we)
+	    (AUX may)
+	    (VP speak
+		(PP of
+		    (NP (NP (NP the Platonism)
+			    (ADJP peculiar
+				  (PP to
+				      (NP 
+				       (NP Shelley)
+				       's poems))))
+			or
+			(NP the type
+			    (PP of
+				(NP (NP Stoicism)
+				    (ADJP present
+					  (PP in
+					      (NP 
+					       (NP Henley)
+					       's
+					       (NP  ``
+						    Invictus
+						    '')))))))))))
+	 ,
+	 and
+	 (S (NP we)
+	    (AUX may)
+	    (VP find
+		(SBAR that
+		      (S (NP (S (S  (NP *)
+				    (VP describing
+					(NP (NP such Platonism)
+					    or
+					    (NP such Stoicism))))
+				and
+				(S  (NP *) 
+				    (VP contrasting
+					(NP each)
+					(PP with
+					    (NP other expressions
+						(PP of
+						    (NP the same attitude or mode
+							(PP of
+							    (NP thought))))))))))
+			 (VP is
+			     (NP a difficult and challenging enterprise))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP all))
+    ,
+    (S (S (NP Shelley)
+	  (VP is
+	      (NP no
+		  ``
+		  orthodox
+		  ''
+		  or
+		  Hellenic Platonist)))
+       ,
+       and
+       (S (NP  (ADVP even)
+	       his
+	       ``
+	       romantic
+	       ''
+	       Platonism)
+	  (AUX can)
+	  (VP be
+	      (VP distinguished
+		     
+		  (PP from
+		      (NP that
+			  (PP of
+			      (NP his contemporaries)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      ,
+      (S (NP (NP 
+	      (NP Henley)
+	      's attitude
+	      (PP of
+		  (NP defiance)))
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (VP colors
+			  (NP his ideal
+			      (PP of
+				  (NP self-mastery)))))))
+	 (VP is
+	     (ADJP (ADVP far
+			 (PP from))
+		   characteristic
+		   (PP of
+		       (NP a Stoic thinker
+			   (PP like
+			       (NP (NP Marcus Aurelius)
+				   ,
+				   (SBAR
+				    (WHNP whose gentle acquiescence)
+				    (S (NP T)
+				       (VP is
+					   (ADJP (ADJP (ADVP
+							almost)
+						       Christian)
+						 ,
+						 (ADJP comparable
+						       (PP to
+							   (NP (NP the patience)
+							       (VP expressed
+								   (PP in
+								       (NP 
+									(NP Milton)
+									's sonnet
+									(PP on
+									    (NP his own blindness))))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP recent years))
+    ,
+    (S (NP we)
+       (AUX have)
+       (VP come
+	   (ADVP increasingly)
+	   (S (NP *)
+	      (AUX to)
+	      (VP recognize
+		  (SBAR (SBAR that
+			      (S (NP ideas)
+				 (VP have
+				     (NP a history))))
+			and
+			(SBAR that
+			      (S (NP  not
+				      the
+				      least important
+				      chapters
+				      (PP of
+					  (NP this history)))
+				 (VP have
+				     (S (NP *)
+					(AUX to)
+					(VP do
+					    (PP with
+						(NP thematic or conceptual aspects
+						    (PP of
+							(NP (NP literature)
+							    and
+							    (NP the arts))))))))
+				 ,
+				 (SBAR although
+				       (S (NP these aspects)
+					  (AUX should)
+					  (VP be
+					      (VP studied
+				     
+						  (PP in
+						      (NP conjunction
+							  (PP with
+							      (NP the history
+								  (PP (PP of
+									  (NP philosophy))
+								      ,
+								      (PP of
+									  (NP religion))
+								      ,
+								      and
+								      (PP of
+									  (NP the sciences)))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP these fields)
+	(AUX are)
+	(VP surveyed
+	    (ADVP together))))
+    ,
+    (S (NP important patterns
+	   (PP of
+	       (NP relationship)))
+       (VP emerge)
+       (S (NP *)
+	  (VP indicating
+	      (NP (NP a vast community
+		      (PP of
+			  (NP reciprocal influence)))
+		  ,
+		  (NP (NP a continuity
+			  (PP of
+			      (NP thought and expression)))
+		      (VP (VP including
+			      (NP (NP many traditions)
+				  ,
+				  (ADJP  (ADVP primarily)
+					 (ADJP literary)
+					 ,
+					 (ADJP religious)
+					 ,
+					 and
+					 (ADJP philosophical))))
+			  ,
+			  but
+			  (VP  (ADVP frequently)
+			       including
+			       (NP contact
+				   (PP (PP with
+					   (NP the fine arts))
+				       and
+				       (ADVP even)
+				       ,
+				       (PP to
+					   (NP some extent))
+				       ,
+				       (PP with
+					   (NP science))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      (S (NP we)
+	 (AUX may)
+	 (VP observe
+	     (SBAR that
+		   (S (NP (PP at
+			      (ADJP least))
+			  one modern philosophy
+			  (PP of
+			      (NP history)))
+		      (AUX is)
+		      (VP built
+			     
+			  (PP on
+			      (NP the assumption
+				  (SBAR that
+					(S (NP ideas)
+					   (VP are
+					       (NP the primary objectives
+						   (PP of
+						       (NP 
+							(NP the historian)
+							's research))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+    (VP Let
+	(NP us)
+	(VP quote
+	    (ADJP  (ADVP once)
+		   more)
+	    (PP from
+		(NP R.G. Collingwood))))
+    :
+    (S ``
+       (S (NP History)
+	  (AUX is)
+	  (ADVP properly)
+	  (VP concerned
+	    
+	      (PP with
+		  (NP the actions
+		      (PP of
+			  (NP human beings))))))))) 
+						    
+((S  (NP *)
+     (VP Regarded
+	 (PP from
+	     (NP the outside)))
+     ,
+     (S (NP an action)
+	(VP is
+	    (NP (NP an event or series
+		    (PP of
+			(NP events)))
+		(VP occurring
+		    (PP in
+			(NP the physical world))))))
+    ;
+    ;
+     (S  (NP *)
+	 (VP regarded
+	     (PP from
+		 (NP the inside)))
+	 ,
+	 (S (NP it)
+	    (VP is
+		(NP the carrying
+		    (PP into
+			(NP action
+			    (PP of
+				(NP a certain thought))))))))))
+( (S
+   (NP 
+    (NP The historian)
+    's business)
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP (VP penetrate
+		  (PP to
+		      (NP the inside
+			  (PP of
+			      (NP (NP the actions)
+				  (SBAR (WHPP with
+					      (WHNP which))
+					(S
+					 (NP he)
+					 (AUX is)
+					 (VP dealing))))))))
+	      and
+	      (VP reconstruct
+		  or
+		  (ADVP rather)
+		  rethink
+		  (NP (NP the thoughts)
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (VP constituted
+				   (NP them))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-4 *pseudo-attach*))
+   (VP is
+       (NP a characteristic
+	   (PP of
+	       (NP thoughts))))
+   (SBAR-4 that
+	 (S (PP in
+		(S  (NP *)
+		    (VP re-thinking
+			(NP them))))
+	    (S
+	     (NP we)
+	     (VP come
+		 ,
+		 (NP ipso facto)
+		 ,
+		 (S (NP *)
+		    (AUX to)
+		    (VP understand
+			(SBAR 
+			 (WHADVP why)
+			 (S (NP they)
+			    (AUX were)
+			    (VP thought
+				))))))))))
+  ''
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Such
+	an understanding)
+    ,
+    (SBAR although
+	  (S (NP it)
+	     (AUX must)
+	     (VP seek
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(ADJP sympathetic))))))
+    ,
+    (VP is
+	(NEG not)
+	(NP a matter
+	    (PP of
+		(NP intuition)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP History)
+      (VP has
+	  (NP this)
+	  (PP in
+	      (NP common
+		  (PP with
+		      (NP every other science)))))
+      :
+      (SBAR that
+	    (S (NP the historian)
+	       (AUX is)
+	       (NEG not)
+	       (VP allowed
+		     
+		   (S (NP *)
+		      (AUX to)
+		      (VP claim
+			  (NP any single piece
+			      (PP of
+				  (NP knowledge))))))
+	       ,
+	       (SBAR  except
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP he)
+			  (AUX can)
+			  (VP justify
+			      (NP his claim)
+			      (PP by
+				  (S  (NP *)
+				      (VP exhibiting
+					  (PP  (PP to
+						   (NP himself)
+						   (PP in
+						       (NP the first place)))
+					       ,
+					       and
+					       (ADVP secondly)
+					       (PP to
+						   (NP (NP any
+							   one
+							   else)
+						       (SBAR 
+							(WHNP who)
+							(S (NP T)
+							   (VP is
+							       (ADJP  both
+								      able and willing
+								      (S (NP *)
+									 (AUX to)
+									 (VP follow
+									     (NP his demonstration)))))))))
+					       ,)
+					  (NP (NP the grounds)
+					      (SBAR (WHPP upon
+							  (WHNP which))
+						    (S
+						     (NP it)
+						     (AUX is)
+						     (VP based
+							 ))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (SBAR
+	(WHNP what)
+	(S (NP T)
+	   (AUX was)
+	   (VP meant
+	       ,
+	       (ADJP above)
+	       ,
+	       (PP by
+		   (S  (NP *)
+		       (VP describing
+			   (NP history)
+			   (PP as
+			       (ADJP inferential))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The knowledge)
+	(SBAR (PP in
+		  (NP virtue
+		      (WHPP of
+			    (WHNP which))))
+	      (S
+	       (NP a man)
+	       (VP is
+		   (NP an historian)))))
+    (VP is
+	(NP a knowledge
+	    (WHPP of
+		  (SBAR (WHNP what)
+			(S
+			 (NP the evidence
+			     (PP at
+				 (NP his disposal)))
+			 (VP proves
+			     (PP about
+				 (NP certain events)))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-5 *pseudo-attach*))
+   (VP is
+       (ADJP obvious))
+   (SBAR-5 that
+	 (S (NP (NP the historian)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP seeks
+			     (S (NP *)
+				(AUX to)
+				(VP recapture
+				    (NP (NP the ideas)
+					(SBAR (WHNP that)
+					      (S (NP T)
+						 (AUX have)
+						 (VP motivated
+						     (NP human behavior)
+						     (PP throughout
+							 (NP a given period))))))))))))
+	    (AUX will)
+	    (VP find
+		(NP the art and literature
+		    (PP of
+			(NP that age)))
+		(NP (NP one
+			(PP of
+			    (NP his central and major concerns)))
+		    ,
+		    (NP (PP by
+			    (NP no means))
+			a mere supplement or adjunct
+			(PP of
+			    (NP 
+			     (ADJP significant)
+			     (ADJP  historical)
+			     research))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The student
+	(PP of
+	    (NP (NP ideas)
+		and
+		(NP their place
+		    (PP in
+			(NP history))))))
+    (AUX will)
+    (ADVP always)
+    (VP be
+	(VP concerned
+	      
+	    (PP with
+		(NP (NP the patterns
+			(PP of
+			    (NP transition)))
+		    ,
+		    (SBAR 
+		     (WHNP which)
+		     (S (NP T)
+			(VP are
+			    (PP at
+				(NP the same time))
+			    (NP (NP patterns
+				    (PP of
+					(NP transformation)))
+				,
+				(SBAR 
+				 (WHADVP whereby)
+				 (S (NP ideas)
+				    (VP pass
+					(PP from
+					    (NP one area
+						(PP of
+						    (NP activity))))
+					(PP to
+					    (NP another))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Let
+	  (NP us)
+	  (VP survey
+	      (PP for
+		  (NP a moment))
+	      (NP the development
+		  (PP of
+		      (NP modern thought)))))
+      --
+      (S (S  (NP *) 
+	     (VP turning
+		 (NP our attention)
+		 (PP from
+		     (NP the Reformation))
+		 (PP toward
+		     (NP (NP the revolutionary and romantic movements)
+			 (SBAR (WHNP that)
+			       (S (NP T)
+				  (VP follow)))))))
+	 and
+	 (S  (NP *)
+	     (VP dwelling
+		 (ADVP finally)
+		 (PP on
+		     (NP 
+		      (ADJP more recent)
+		      decades))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX may)
+   (ADVP thus)
+   (VP trace
+       (NP the notion
+	   (PP of
+	       (NP individual autonomy)))
+       (PP from
+	   (NP its manifestation
+	       (PP in
+		   (NP (NP religious practice)
+		       and
+		       (NP theological reflection)))))
+       (PP through
+	   (NP (NP practical politics)
+	       and
+	       (NP political theory)))
+       (PP into
+	   (NP (NP literature)
+	       and
+	       (NP the arts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Finally)
+      (S (NP we)
+	 (AUX may)
+	 (VP note
+	     (SBAR that
+		   (S (NP the idea)
+		      (VP appears
+			  (PP in
+			      (NP educational theory)))
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP its influence)
+			  (VP is
+			      (PP at
+				  (NP present))
+			      (ADJP widespread)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No one)
+   (AUX will)
+   (VP deny
+       (SBAR that
+	     (S (S (NP such broad developments and transitions)
+		   (VP are
+		       (PP of
+			   (NP 
+			    (ADJP great)
+			    (ADJP  intrinsic)
+			    interest))))
+		and
+		(S (NP the study
+		       (PP of
+			   (NP ideas
+			       (PP in
+				   (NP literature)))))
+		   (AUX would)
+		   (VP be
+		       (ADJP  (ADVP woefully)
+			      incomplete))
+		   (PP without
+		       (NP frequent reference
+			   (PP to
+			       (NP them)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Still)
+      ,
+      (S (NP we)
+	 (AUX must)
+	 (VP remember
+	     (SBAR that
+		   (S (NP we)
+		      (AUX can)
+		      (NEG not)
+		      (VP construct and justify
+			  (NP generalizations
+			      (PP of
+				  (NP this sort))))
+		      (SBAR unless
+			    (S (NP we)
+			       (VP are
+				   (ADJP ready
+					 (S (NP *)
+					    (AUX to)
+					    (VP consider
+						(NP many special instances
+						    (PP of
+							(NP (NP influence)
+							    (VP moving
+								(PP between
+								    (NP such areas
+									(PP as
+									    (NP (NP theology)
+										,
+										(NP philosophy)
+										,
+										(NP political thought)
+										,
+										and
+										(NP literature))))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The actual moments
+       (PP of
+	   (NP contact)))
+   (VP are
+       (ADJP  (ADVP vitally)
+	      important)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These moments)
+   (VP are
+       (NP (NP historical events
+	       (PP in
+		   (NP the lives
+		       (PP of
+			   (NP individual authors)))))
+	   (SBAR (WHPP with
+		       (WHNP which))
+		 (S
+		  (NP the student
+		      (PP of
+			  (NP comparative literature)))
+		  (AUX must)
+		  (VP be
+		      (VP (ADVP frequently)
+			  concerned
+			  )))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Perhaps)
+	 the
+	 (ADJP  most powerful)
+	 and
+	 (ADJP  (ADVP  most frequently)
+		recurring)
+	 literary influence
+	 (PP on
+	     (NP the Western world)))
+    (AUX has)
+    (VP been
+	(NP that
+	    (PP of
+		(NP the Old
+		    and
+		    New Testament)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADVP Certainly)
+    (S (NP one
+	   (PP of
+	       (NP (NP the
+		       (ADJP  most important)
+		       comments)
+		   (SBAR (WHNP that)
+			 (S (NP T)
+			    (AUX can)
+			    (VP be)
+			    (VP made
+			      
+				(PP upon
+				    (NP the spiritual and cultural life
+					(PP of
+					    (NP any period
+						(PP of
+						    (NP Western civilization))
+						(PP during
+						    (NP the
+							past sixteen
+							or
+							seventeen
+							centuries))))))))))))
+       (VP has
+	   (S (NP *)
+	      (AUX to)
+	      (VP do
+		  (PP with
+		      (NP (NP the way)
+			  (SBAR (WHPP in
+				      (WHNP which))
+				(S (NP its leaders)
+				   (AUX have)
+				   (VP read
+				       and
+				       interpreted
+				       (NP the Bible)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP This reading)
+	and
+	(NP (NP the comments)
+	    (SBAR that
+		  (S (NP it)
+		     (VP evoked
+			 (NP T) )))))
+    (VP constitute
+	(NP the influence)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+
+((S (NP A contrast
+	(PP of
+	    (NP the scripture
+		reading
+		(PP of
+		    ,
+		    (S  (NP *) 
+			(VP let
+			    (NP us)
+			    (VP say)))
+		    ,
+		    (NP (NP (NP St. Augustine)
+			    ,
+			    (NP John Bunyan)
+			    ,
+			    and
+			    (NP Thomas Jefferson))
+			,
+			(SBAR (WHNP  all three
+				     (WHPP of
+					   (WHNP whom)))
+			      (S (NP T)
+				 (VP found
+				     (PP in
+					 (NP such study))
+				     (NP a real source
+					 (PP of
+					     (NP enlightenment))))))
+			,)))))
+    (AUX can)
+    (VP tell
+	(NP us)
+	(NP a great deal)
+	(PP about
+	    (NP (NP these three men)
+		and
+		(NP (NP the age)
+		    (SBAR that
+			  (S (NP each)
+			     (VP (VP represented
+				     (NP T))
+				 and
+				 (VP helped
+				     (VP bring
+					 (NP T) 
+					 (PP to
+					     (NP conscious expression))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP  much
+	     the same way))
+    ,
+    (S (NP we)
+       (VP recognize
+	   (NP (NP the importance
+		   (PP (PP of
+			   (NP 
+			    (NP Shakespeare)
+			    's familarity
+			    (PP with
+				(NP (NP Plutarch)
+				    and
+				    (NP Montaigne)))))
+		       ,
+		       (PP of
+			   (NP 
+			    (NP Shelley)
+			    's study
+			    (PP of
+				(NP 
+				 (NP Plato)
+				 's dialogues))))
+		       ,
+		       and
+		       (PP of
+			   (NP 
+			    (NP Coleridge)
+			    's enthusiastic plundering
+			    (PP of
+				(NP the writings
+				    (PP of
+					(NP many philosophers and theologians
+					    (PP (PP from
+						    (NP Plato))
+						(PP to
+						    (NP (NP Schelling)
+							and
+							(NP William Godwin))))))))))))
+	       ,
+	       (SBAR (WHPP through
+			   (WHNP which))
+		     (S (NP  (ADJP so
+				   many) abstract ideas)
+			(AUX were)
+			(VP brought
+		   
+			    (PP to
+				(NP the attention
+				    (PP of
+					(NP English men
+					    (PP of
+						(NP letters)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX may)
+   (ADVP also)
+   (VP recognize
+       (NP (NP cases)
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S
+		  (NP the poets)
+		  (AUX have)
+		  (VP influenced
+		      (NP (NP the philosophers)
+			  and
+			  (ADVP even)
+			  (ADVP indirectly)
+			  (NP the scientists))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP (NP English philosopher)
+	    (NP Samuel Alexander))
+	's debt
+	(PP to
+	    (NP (NP Wordsworth)
+		and
+		(NP Meredith))))
+    (VP is
+	(NP a
+	    (ADJP recent)
+	    (ADJP  interesting)
+	    example))
+    ,
+    (PP as
+	(ADVP also)
+	(NP 
+	 (NP A.N. Whitehead)
+	 's understanding
+	 (PP of
+	     (NP (NP the English romantics)
+		 ,
+		 (NP  (ADVP chiefly)
+		      (NP Shelley)
+		      and
+		      (NP Wordsworth)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Hegel)
+    's profound admiration
+    (PP for
+	(NP the insights
+	    (PP of
+		(NP the Greek tragedians)))))
+   (VP indicates
+       (NP a broad channel
+	   (PP of
+	       (NP classical influence
+		   (PP upon
+		       (NP nineteenth-century philosophy)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      (S (NP the student
+	     (PP of
+		 (NP evolutionary biology)))
+	 (AUX will)
+	 (VP find
+	     (NP a
+		 (ADJP fascinating
+		       ,
+		       (X (PP if
+			      (PP to
+				  (NP our minds))
+			      (ADJP grotesque)))
+		       ,)
+		 anticipation
+		 (PP of
+		     (NP (NP the theory
+			     (PP of
+				 (NP chance variations)))
+			 and
+			 (NP the natural elimination
+			     (PP of
+				 (NP the unfit)))
+			 (PP in
+			     (NP (NP Lucretius)
+				 ,
+				 (SBAR 
+				  (WHNP who)
+				  (S (PP in
+					 (NP turn))
+				     (S (NP T)
+					(VP seems
+					    (S (NP *)
+					       (AUX to)
+					       (VP have
+						   (VP borrowed
+						       (NP the concept)
+						       (PP from
+							   (NP (NP the philosopher)
+							       (NP Empedocles))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      (S (NP an important caveat)
+	 (VP is
+	     (PP in
+		 (NP order)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX must)
+   (VP avoid
+       (NP (NP (NP the notion)
+	       ,
+	       (VP suggested
+		   (PP to
+		       (NP some people))
+		   (PP by
+		       (NP (NP examples)
+			   (NP such
+			       (PP as
+				   (NP (NP those)
+				       (VP  (ADVP just)
+					    mentioned)))))))
+	       ,)
+	   (SBAR that
+		 (S (NP ideas)
+		    (VP are
+			(NP  ``
+			     units
+			     '')
+			(ADJP (PP in
+				  (NP some way))
+			      comparable
+			      (PP to
+				  (NP (NP coins or counters)
+				      (SBAR (WHNP that)
+					    (S (NP T)
+					       (AUX can)
+					       (VP be
+						   (VP passed
+						       (ADJP intact)
+						       (PP (PP (PP from
+								   (NP one group
+								       (PP of
+									   (NP people))))
+							       (PP to
+								   (NP another)))
+							   (CONJP or
+								  even)
+							   ,
+							   (PP for
+							       (NP that matter))
+							   ,
+							   (PP (PP from
+								   (NP one individual))
+							       (PP to
+								   (NP another)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

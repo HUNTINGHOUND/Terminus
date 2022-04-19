@@ -1,0 +1,2055 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Buffeted
+	      (PP by
+		  (NP (VP swirling)
+		      winds))))
+      ,
+      (S (NP the little green biplane)
+	 (VP struggled
+	     (ADVP northward)
+	     (PP between
+		 (NP the mountains
+		     (PP beyond
+			 (NP Northfield Gulf)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Wires)
+       (VP whined)
+       (SBAR  as
+	      (S (NP a
+		     cold
+		     November blast)
+		 (VP rocked
+		     (NP the silver wings)))))
+    ,
+    but
+    (S (NP the engine roar)
+       (VP was
+	   (ADJP reassuring))
+       (PP to
+	   (NP (NP the pilot)
+	       (VP bundled
+		   (PP in
+		       (NP the open cockpit)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP (VP peered
+	     (ADVP ahead))
+	 and
+	 (VP grinned
+	     (SBAR  as
+		    (S (NP the railroad tracks)
+		       (VP came
+			   (PP into
+			       (NP view))
+			   (ADVP again)
+			   (ADVP below)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (NP  Good old
+	   iron compass)
+      ''
+      !
+      !
+      (S (NP He)
+	 (VP thought)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP A plume
+	    (PP of
+		(NP smoke)))
+	(VP rose
+	    (PP from
+		(NP (NP a Central Vermont locomotive)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP idled)
+			     (PP behind
+				 (NP a string
+				     (PP of
+					 (NP gravel cars))))))))))
+     ,
+     and
+     (S (NP (NP little figures)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP were
+			 (NP workmen)))))
+	(VP labored)
+	(S (NP *)
+	   (AUX to)
+	   (VP set
+	       (NP the ruptured roadbed)
+	       (PP to
+		   (NP rights))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The girders
+	(PP of
+	    (NP a
+		shattered
+		Dog River bridge)))
+    (VP lay
+	(S (NP *)
+	   (VP strewn
+	       (PP for
+		   (NP half
+		       a mile))
+	       (ADVP downstream)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Vermont)
+	 's main railroad line)
+     (VP was
+	 (ADJP prostrate)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP in
+	  (NP the dark days
+	      (PP after
+		  (NP (NP the
+			  Great
+			  Flood
+			  (PP of
+			      (NP 1927)))
+		      --
+		      (NP the
+			  worst
+			  natural disaster
+			  (PP in
+			      (NP (NP the state)
+				  's history)))
+		      --))))
+      (S (NP the little plane)
+	 (VP was
+	     (NP its sole replacement)
+	     (PP in
+		 (S (NP *)  
+		    (VP carrying
+			(NP the United States mails)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Rain
+	    (PP of
+		(NP near cloudburst proportions)))
+	(AUX had)
+	(VP fallen)
+	(PP for
+	    (NP three full days)))
+     and
+     (S (NP it)
+	(AUX was)
+	(ADVP still)
+	(VP raining)
+	(PP on
+	    (NP the morning
+		(PP of
+		    (NP (NP Friday)
+			,
+			(NP November 4 , 1927)))))
+	,
+	(SBAR (WHADVP when)
+	      (S (NP officials
+		     (PP of
+			 (NP (NP the Post Office Department)
+			     's Railway Mail Service)))
+		 (VP realized
+		     (SBAR  that
+			    (S (NP their distribution system
+				   (PP for
+				       (NP Vermont)))
+			       (AUX had)
+			       (VP been
+				   (VP (ADVP almost
+					     totally)
+				       destroyed))
+			       (ADVP overnight))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Clerks) 
+	 and 
+	 (NP postmasters))
+     (VP (VP shoveled
+	     (NP muck)
+	     (PP out
+		 (PP of
+		     (NP their offices)))
+	     --
+	     (NP (NP those)
+		 (SBAR (WHNP who)
+		       (S (NP T)  
+			  (ADVP still)
+			  (VP had
+			      (NP offices)))))
+	     --)
+	 and
+	 (VP wondered
+	     (SBAR (WHADVP how)
+		   (S (NP *)
+		      (AUX to)
+		      (VP move
+			  (NP the mail)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP The state)
+	    's railroad system)
+	(VP counted
+	    (NP miles
+		(PP of
+		    (NP (NP  broken
+			     bridges)
+			and
+			(NP (VP missing)
+			    rights-of-way))))))
+     :
+     (S (NP it)
+	(AUX would)
+	(ADVP obviously)
+	(VP remain
+	    (PP out
+		(PP of
+		    (NP commission))))
+	(PP for
+	    (NP weeks))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR once
+	    (S (NP (NP medicine)
+		   ,
+		   (NP food)
+		   ,
+		   (NP clothing) 
+		   and 
+		   (NP shelter))
+	       (AUX had)
+	       (VP been
+		   (VP provided
+		       (PP for
+			   (NP (NP the flood)
+			       's victims))))))
+      ,
+      (S (NP (NP communications)
+	     and
+	     (NP the mail))
+	 (VP were
+	     (NP the next top problems))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP Burlington))
+    ,
+    (S (NP (VP outgoing) mail)
+       (AUX could)
+       (VP be
+	   (VP ferried
+	       (PP across
+		   (NP Lake Champlain))
+	       (PP to
+		   (NP the railroad
+		       (PP at
+			   (NP (NP Port Kent)
+			       ,
+			       (NP N. Y .)))))))))
+ .) 
+( (S But
+     (S (NP (SBAR (WHNP what)
+		  (S (NP T)
+		     (VP came
+			 (ADVP in)))))
+	(AUX was)
+	(VP piling
+	    (PRT up))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	nearest undisrupted
+	end
+	(PP of
+	    (NP track
+		(PP from
+		    (NP Boston)))))
+    (VP was
+	(PP at
+	    (NP (NP Concord)
+		,
+		(NP N. H .)))))
+ .) 
+( (S (SBAR When
+	   (S (NP Governor Al Smith)
+	      (VP offered
+		  (NP (NP New York National Guard planes)
+		      (S  (NP T) 
+			  (AUX to)
+			  (VP fly
+			      (NP the mail
+				  (PP (PP in
+					  (NP-1 *pseudo-attach*))
+				      and 
+				      (PP out
+					  (PP of
+					      (NP-1 *pseudo-attach*)))
+				      (NP-1 the state)))))))))
+     ,
+     (S (NP it)
+	(VP seemed
+	    (NP a
+		likely temporary
+		solution))
+	,
+	(S  (NP *) 
+	    (VP easing
+		(NP (NP (NP Burlington)
+			's bottleneck)
+		    and
+		    (NP that
+			(PP at
+			    (NP Montpelier)))
+		    (ADVP too))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The question)
+    (VP was
+	``
+	(SBARQ (WHADVP Where)
+	       (S (NP *)
+		  (AUX to)
+		  (VP land)))
+	''))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP was
+	 (NP no such thing
+	     (PP as
+		 (NP an airport))))
+     (PP in
+	 (NP Vermont)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP Burlington aviator)
+	   (NP John J. Burns))
+       (VP suggested
+	   (NP (NP the parade ground)
+	       (ADVP southwest
+		     (PP of
+			 (NP Fort Ethan Allen))))))
+    ,
+    and
+    (S (ADVP soon)
+       (S (NP a dozen (VP hastily-summoned) National Guard pilots)
+	  (AUX were)
+	  (VP bringing
+	      (NP their
+		  (ADJP wide-winged)
+		  ``
+		  Jenny
+		  ''
+		  and
+		  DeHaviland
+		  two-seaters)
+	      (S (NP *)
+		 (AUX to)
+		 (VP rest
+		     (PP on
+			 (NP the frozen sod
+			     (PP of
+				 (NP the military base))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The
+	    only available
+	    field)
+	(SBAR (WHNP that)
+	      (S (NP T)
+		 (AUX could)
+		 (VP be
+		     (VP used
+			 (PP near
+			     (NP (ADJP flood-ravaged)
+				 Montpelier)))))))
+    (VP was
+	(PP on
+	    (NP (NP the Towne farm
+		    (PP off
+			(NP  upper
+			     Main Street)))
+		,
+		(NP (NP a narrow hillside)
+		    (SBAR (WHADVP where)
+			  (S (NP (NP takeoffs)
+				 and 
+				 (NP landings))
+			     (AUX could)
+			     (VP be
+				 (ADVP safely)
+				 (VP made
+				     (ADVP only)
+				     (PP under
+					 (NP light wind conditions)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Over
+	(PP in
+	    (NP Barre)))
+    (S (S (NP the streets)
+	  (AUX had)
+	  (VP been
+	      (ADJP deep
+		    (PP in
+			(NP  (VP swirling)
+			     water)))))
+       ,
+       and
+       (S (NP bridges)
+	  (AUX were)
+	  (VP (VP crumpled)
+	      and
+	      (VP gone)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Anticipating
+	      (NP delivery
+		  (PP of
+		      (NP (NP medicines) 
+			  and 
+			  (NP yeast)))
+		  (PP by
+		      (NP plane)))))
+      ,
+      (S (NP Granite City citizens)
+	 (VP (VP formed
+		 (NP an airfield committee))
+	     and
+	     (PP with
+		 (NP the aid
+		     (PP of
+			 (NP (NP quarrymen)
+			     and
+			     (NP (NP the
+				     172nd
+				     Infantry)
+				 ,
+				 (NP Vermont National Guard)
+				 ,)))))
+	     (VP laid
+		 (PRT out)
+		 (NP runways)
+		 (PP on
+		     (NP (NP Wilson
+			     flat)
+			 ,
+			 (ADJP high
+			       (PP on
+				   (NP Millstone Hill)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The
+	 ``
+	 Barre Aviation Field
+	 '')
+     (AUX was)
+     (VP set
+	 (S (NP *)
+	    (AUX to)
+	    (VP receive
+		(NP its first aircraft))))
+     (NP the Sunday
+	 (VP following
+	     (NP the flood))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  Though
+	    (S (NP the makeshift airports)
+	       (VP were
+		   (ADJP ready))))
+     ,
+     (S (NP the York State Guard flyers)
+	(VP proved
+	    (ADJP unable
+		  (S (NP *)
+		     (AUX to)
+		     (VP keep
+			 (NP any kind
+			     (PP of
+				 (NP mail schedule)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP They)
+	(VP had
+	    (NP courage)))
+     but
+     (S (NP their meager training)
+	(VP consisted
+	    (PP of
+		(NP weekend hops
+		    (PP (PP in
+			    (NP good weather))
+			,
+			(PP (PP in
+				(NP-2 *pseudo-attach*))
+			    and 
+			    (PP out
+				(PP of
+				    (NP-2 *pseudo-attach*)))
+			    (NP-2 (VP established)
+				  airports)))))))
+     ,
+     And
+     (S (NP the
+	    (ADJP  increasingly
+		   cold) weather)
+	(ADVP soon)
+	(VP raised
+	    (NP hob)
+	    (PP with
+		(NP the 
+		    (ADJP water
+			  cooled)
+		    engines
+		    (PP of
+			(NP their World War 1
+			    ,
+			    planes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP seemed
+	 (PP like
+	     (NP (NP a good time)
+		 (SBAR  for
+			(S (NP officials)
+			   (AUX to)
+			   (VP use
+			       (NP (NP a recently-passed law)
+				   (VP empowering
+				       (NP the post office department)
+				       (S (NP *)
+					  (AUX to)
+					  (VP contract
+					      (PP for
+						  (NP the transport
+						      (PP of
+							  (NP first class mail))
+						      (PP by
+							  (NP air)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP They)
+       (VP had
+	   (S (NP *)
+	      (AUX to)
+	      (VP act
+		  (ADVP fast)))))
+    ,
+    for
+    (S (NP letters)
+       (AUX were)
+       (VP clogging
+	   (NP the terminals))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SINV  (PP Down
+	       (PP in
+		   (NP (NP Concord)
+		       ,
+		       (NP New Hampshire))))
+	   ,
+	   (VP was)
+	   (NP a flier
+	       (PP (PP in
+		       (NP the right place))
+		   (PP at
+		       (NP the right time)))))
+    :
+    (S (NP (NP Robert S. Fogg)
+	   ,
+	   (NP a
+	       native
+	       New Englander)
+	   ,)
+       (AUX had)
+       (VP been
+	   (NP (NP a World War 1
+		   ,
+		   flying
+		   instructor)
+	       ,
+	       (NP barnstormer)
+	       ,
+	       and
+	       (NP one
+		   (PP of
+		       (NP the original planners
+			   (PP of
+			       (NP the Concord Airport)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Tall
+	  ,
+	  wiry
+	  ,
+	  dark-haired)
+    (S (NP Bob Fogg)
+       (AUX had)
+       (ADVP already)
+       (VP racked
+	   (PRT up)
+	   (NP one historical
+	       first
+	       (PP in
+		   (NP air mail history))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Piloting
+	      (NP a Curtiss Navy MF
+		  flying
+		  boat)
+	      (PP off
+		  (NP Lake Winnipesaukee)))
+	  (PP in
+	      (NP 1925)))
+      ,
+      (S (NP he)
+	 (AUX had)
+	 (VP inaugurated
+	     (NP the
+		 original
+		 Rural Delivery air service))
+	 (PP in
+	     (NP America))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the excitement
+	    (VP following
+		(NP (NP Lindbergh)
+		    's flight
+		    (PP to
+			(NP Paris))
+		    (PP (ADVP earlier)
+			in
+			(NP 1927))))))
+    ,
+    (S (NP dare devil aviators)
+       (ADVP overnight)
+       (VP became
+	   (NP legendary heroes))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP Concord))
+    ,
+    (S (NP Bob Fogg)
+       (VP was
+	   (NP the
+	       (ADJP most prominent)
+	       New Hampshire boy
+	       (PP with
+		   (NP wings))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Public-spirited) backers)
+     (VP staked
+	 (NP him)
+	 (PP to
+	     (NP a brand-new airplane)))
+     ,
+     (S  (NP *) 
+	 (VP aimed
+	     (PP at
+		 (S (NP *)
+		    (VP putting
+			(NP their city and state)
+			(PP on
+			    (NP the flying map))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The ship)
+     (VP was
+	 (NP (NP a Waco biplane)
+	     ,
+	     (NP one
+		 (PP of
+		     (NP (NP the
+			     first
+			     two
+			     (PP of
+				 (NP its type)))
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(VP fitted
+				    (PP with
+					(NP (NP the air
+						cooled
+						,
+						225
+						Wright radial engine)
+					    (VP known
+						(PP as
+						    (NP the Whirlwind))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A trim (ADJP green
+			 and
+			 (ADJP silver-painted)) 
+	    craft)
+	(ADJP (NP  (ADVP only)
+		   22-12 feet)
+	      long))
+    ,
+    (S (NP the Waco)
+       (AUX was)
+       (VP entered
+	   (S (NP *)
+	      (AUX to)
+	      (VP compete
+		  (PP in
+		      (NP the
+			  ``
+			  On-to-Spokane
+			  ''
+			  Air Derby
+			  (PP of
+			      (NP 1927)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a matter
+	    (PP of
+		(NP fact))))
+    ,
+    (S (NP (NP Fogg)
+	   and
+	   (NP his plane))
+       (AUX did)
+       (NEG n't)
+       (VP get
+	   (PP beyond
+	       (NP Pennsylvania)))
+       (PP in
+	   (NP the race)))
+    --
+    (S (NP an engine oil leak)
+       (VP forced
+	   (NP him)
+	   (ADVP down)))
+    --
+    but
+    (S (NP (NP the flying service and school)
+	   (SBAR 0
+		 (S (NP he)
+		    (VP started
+			(NP T) 
+			(ADVP subsequently)))))
+       (VP were
+	   (NP first steps)
+	   (PP in
+	       (S (NP *) 
+		  (VP paying
+		      (PRT off)
+		      (NP his (ADJP wry-faced) backers)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So)
+      (PP with
+	  (NP all
+	      this experience))
+      ,
+      (S (NP Bob Fogg)
+	 (VP was
+	     (NP (NP a natural choice)
+		 (S (NP *)
+		    (AUX to)
+		    (VP receive
+			(NP the
+			    first
+			    Emergency Air Mail Star Route contract)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP His work)
+     (VP began
+	 (PP (NP  (ADVP just)
+		  six days)
+	     after
+	     (NP the flood))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP airline))
+    (S (NP (PP (PP from
+		   (NP Concord))
+	       (PP to
+		   (NP Burlington))))
+       (VP is
+	   (NP a distance
+	       (PP of
+		   (NP (ADVP  about)
+		       150 miles))))
+       ,
+       (S  (NP *) 
+	   (VP counting
+	       (NP a slight deviation)
+	       (PP for
+		   (NP the stop
+		       (PP at
+			   (NP either 
+			       (NP Barre)
+			       or
+			       (NP Montpelier)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	first
+	few days)
+    (S (NP Bob Fogg)
+       (VP (VP set
+	       (NP his plane)
+	       (PRT down)
+	       (PP on
+		   (NP Towne field
+		       (PP back
+			   (PP of
+			       (NP the State House)))))
+	       (SBAR (WHADVP when)
+		     (S (NP the wind)
+			(VP was
+			    (ADJP right)))))
+	   ,
+	   and
+	   (VP used
+	       (NP Wilson
+		   flat
+		   (PP above
+		       (NP Barre)))
+	       (SBAR (WHADVP when)
+		     (S (NP it)
+			(VP was
+			    (NEG n't))))))))
+ 
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Between
+	(NP (NP the
+		unsafe
+		Towne field)
+	    and
+	    (NP (NP the
+		    long roundabout
+		    back road haul)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (VP was
+			     (ADJP necessary))
+			 (S (NP *)
+			    (AUX to)
+			    (VP gain
+				(NP access
+				    (PP to
+					(NP Wilson flat))))))))))
+    ,
+    (S (NP arrangements
+	   (PP at
+	       (NP the state capital)))
+       (VP were
+	   (ADVP far
+		 (PP from
+		     (ADJP satisfactory))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Each time
+	(ADVP in))
+    ,
+    (S (NP (NP the unhappy pilot)
+	   ,
+	   (VP pushing
+	       (NP his luck))
+	   ,)
+       (VP begged
+	   (NP (NP the postal officials)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP met
+			    (NP him)))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP find
+		  (NP a
+		      safer
+		      landing place
+		      ,
+		      (PP  (ADVP preferably)
+			   on
+			   (NP the flat-topped hills
+			       (PP across
+				   (NP the Winooski River))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S But
+      (NP Fogg)
+      ''
+      ,
+      (S (NP they)
+	 (VP countered))
+      ,
+      ``
+      (S (NP we)
+	 (AUX ca)
+	 (NEG n't)
+	 (VP get
+	     (PP over
+		 (ADVP there)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (ADVP besides)
+      (S (NP you)
+	 (VP seem
+	     (S (NP *)
+		(AUX to)
+		(VP make
+		    (NP it)
+		    (ADVP all
+			  right)
+		    (ADVP here))))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (S-3 *pseudo-attach*))
+     (VP took
+	 (NP a tragedy))
+     (S-3 (NP *)
+	(AUX to)
+	(VP bring
+	    (NP things)
+	    (PP to
+		(NP a head)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP (NP a week
+		(PP of
+		    (NP precarious uphill
+		     landings)))
+	    and
+	    (NP downwind takeoffs)))
+    ,
+    (S (NP Fogg)
+       (NP one day)
+       (VP looked
+	   (ADVP down)
+	   (PP at
+	       (NP (NP the
+		       shattered yellow
+		       wreckage
+		       (PP of
+			   (NP an Army plane)))
+		   (VP strewn
+		       (PP across
+			   (NP (ADJP snow-covered)
+			       Towne field))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Sent
+	      (PP to
+		  (NP Montpelier))
+	      (PP by
+		  (NP Secretary Herbert Hoover))))
+      ,
+      (S (S (NP Red Cross Aide (NP Reuben Sleight))
+	    (AUX had)
+	    (VP been
+		(VP killed)))
+	 ,
+	 and
+	 (X  (NP (NP his pilot)
+		 ,
+		 (NP Lt. Franklin Wolfe)
+		 ,)
+	     (VP  (ADVP badly)
+		  injured))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP With
+	 (X (NP the field)
+	    (NP a blur
+		(PP of
+		    (NP white)))))
+     (S (NP the unfortunate pilot)
+        (AUX had)
+	(ADVP simply)
+        (VP flown
+	    (PP into
+		(NP the hillside)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP *)  
+	 (VP Faced
+	     (PP with
+		 (NP this situation))))
+      ,
+      (S (NP Postmaster Charles F. McKenna
+	     (PP of
+		 (NP Montpelier)))
+	 (VP went
+	     (PP with
+		 (NP Fogg))
+	     (PP on
+		 (NP a Burlington trip))))
+      ,
+      and
+      (S (ADVP together)
+	 (S (NP they)
+	    (VP scouted
+		(NP the terrain
+		    (PP on
+			(NP the heights
+			    (PP of
+				(NP Berlin)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP A long flat)
+	    (VP known
+		(PP as
+		    (NP the St. John field))))
+	(VP seemed
+	    (S (NP *)
+	       (AUX to)
+	       (VP answer
+		   (NP their purpose)))))
+     ,
+     and
+     (S (SBAR since
+	      (S (NP the Winooski bridges)
+		 (VP were
+		     (PP at
+			 (NP last))
+		     (ADJP  passable))))
+	,
+	(S (NP they)
+	   (VP decided
+	       (S (NP *)
+		  (AUX to)
+		  (VP use
+		      (NP it)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP a wary eye
+	    (PP on
+		(NP (NP the farmer)
+		    's bull))))
+    ,
+    (S (NP (NP Fred Somers
+	       (PP of
+		   (NP Montpelier)))
+	   and
+	   (NP Mr. St. John))
+       (VP marked
+	   (NP the field)
+	   (PP with
+	       (NP a red table cloth)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a wind direction indicator))
+    ,
+    (S (NP they)
+       (VP tied
+	   (NP a cotton rag)
+	   (PP to
+	       (NP a sapling)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(X  (NP these aids)
+	    ,
+	    and
+	    (S (NP a pair
+		   (PP of
+		       (NP skiis)))
+	       (VP substituting
+		   (PP for
+		       (NP wheels))
+		   (PP on
+		       (NP the Waco))))))
+    ,
+    (S (NP Bob Fogg)
+       (VP made
+	   (NP the first landing
+	       (PP on
+		   (SBAR (WHNP what)
+			 (S  (NP T) 
+			     (VP is
+				 (ADVP now)
+				 (NP part
+				     (PP of
+					 (NP the Barre-Montpelier
+					     Airport)))))))))
+       (PP on
+	   (NP November 21 , 1927))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Each trip)
+     (VP saw
+	 (NP the front cockpit)
+	 (VP filled
+	     (ADJP higher)
+	     (PP with
+		 (NP mail pouches)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the second week
+	    (PP of
+		(NP operations))))
+    ,
+    (S (NP Fogg)
+       (VP received
+	   (NP (NP a telegram
+		   (PP from
+		       (NP the Post Office Department)))
+	       ,
+	       (VP asking
+		   (NP him)
+		   (S (NP *)
+		      (AUX to)
+		      ``
+		      (VP (VP put
+			      (PRT on)
+			      (NP two airplanes))
+			  and
+			  (VP make
+			      (NP (NP two flights)
+				  (ADVP daily)
+				  ,
+				  (PP plus
+				      (NP one Sunday trip)))))
+		      ''))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR   Since
+	    (S (NP (NP Fogg)
+		   's)
+	       (VP was
+		   (NP a
+		       one-man
+		       ,
+		       one-plane
+		       flying
+		       service))))
+    ,
+    (S (NP this)
+       (VP meant
+	   (SBAR that
+		 (S (NP he)
+		    (AUX would)
+		    (VP have
+			(S (NP *)
+			   (AUX to)
+			   (VP do
+			       (NP both
+				   trips))))
+		    ,
+		    (S  (NP *)
+			(VP flying
+			    (ADVP alone)
+			    (NP (NP 600 miles)
+				(NP a day))
+			    ,
+			    (PP under
+				(NP (ADJP sub-freezing) temperature conditions)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Over
+	(NP the weeks))
+    ,
+    (S (NP (NP America)
+	   's first Star Route Air Mail)
+       (VP settled
+	   (PP into
+	       (NP a routine pattern)))
+       (PP despite
+	   (NP  (NP the vagaries
+		    (PP of
+			(NP weather)))
+		and
+		(NP the lack
+		    (PP of
+			(NP (NP ground facilities) 
+			    and 
+			    (NP aids
+				(PP to
+				    (NP navigation))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Each morning
+	(PP at
+	    (NP five)))
+    (S (NP Fogg)
+       (VP crawled
+	   (PP out
+	       (PP of
+		   (NP bed))))
+       (S (NP *)
+	  (AUX to)
+	  (VP bundle
+	      (PP into
+		  (NP  flying
+		       togs))
+	      (PP over
+		  (NP the furnace register
+		      (PP of
+			  (NP his home))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (ADVP Always)
+	 (VP troubled
+	     (PP by
+		 (NP poor circulation
+		     (PP in
+			 (NP his feet))))))
+     ,
+     (S (NP he)
+        (VP experimented
+	    (PP with
+		(NP various combinations
+		    (PP of
+			(NP (NP socks) 
+			    and 
+			    (NP shoes))))))
+	(PP before
+	    (S  (NP *)
+		(ADVP finally)
+		(VP adopting
+		    (NP (ADJP old-style)
+			felt
+			(NP farmer)
+			's boots
+			(PP with
+			    (S (NP his sheepskin
+				   flying
+				   boots)
+			       (VP pulled
+				   (PP over
+				       (NP them)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP A (ADJP sheep-lined) leather
+	flying
+	suit
+	,
+	(PP plus
+	    (NP (NP helmet)
+		,
+		(NP goggles) 
+		and 
+		(NP mittens))))
+    (VP completed
+	(NP his attire
+	    (PP for
+		(NP the rigors
+		    (PP of
+			(NP the open cockpit)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The airman)
+	's stock answer
+	(PP to
+	    ``
+	    (SQ (VP Were
+		    (NEG n't))
+		(NP you)
+		(ADJP cold))
+	    ''
+	    ?
+	    ?))
+    (VP Became
+	``
+	(S (S (X Yes)
+	      ,
+	      (S (NP the
+		     first
+		     half hour)
+		 (VP is
+		     (ADJP tough))))
+	   ,
+	   but
+	   (S (PP by
+		  (NP then))
+	      (S (NP I)
+		 (VP 'm
+		     (ADJP  so
+			    numb
+			    (SBAR 0
+				  (S (NP I)
+				     (AUX do)
+				     (NEG n't)
+				     (VP notice
+					 (NP it)))))))))
+	''
+	!)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP daylight)
+	      (VP began
+		  (S (NP *)
+		     (AUX to)
+		     (VP show
+			 (PP through
+			     (NP the frosty windows)))))))
+    ,
+    (S (NP Fogg)
+       (AUX would)
+       (VP place
+	   (NP a call
+	       (PP to
+		   (NP William A. Shaw
+		       (PP at
+			   (NP the U.S. Weather Station
+			       (PP at
+				   (NP (NP Northfield)
+				       ,
+				       (NP Vermont)))))))))
+       ,
+       (PP for
+	   (NP temperature and wind-velocity readings))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Shaw)
+     (AUX could)
+     (ADVP also)
+     (VP give
+	 (NP the flyer)
+	 (NP a
+	     (ADJP pretty
+		   good) idea
+	     (PP of
+		 (NP area visibility))))
+     (PP by
+	 (NP a visual check
+	     (PP of
+		 (NP (NP the mountains)
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP seen
+				(PP from
+				    (NP his station))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+     (NP Ceilings)
+     ''
+     (AUX were)
+     (VP judged
+	 (PP by
+	     (NP comparison
+		 (PP with
+		     (NP  (VP known)
+			  mountain heights and cloud positions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Later
+	    on
+	    (PP in
+		(NP the day)))
+      (S (NP Fogg)
+	 (AUX could)
+	 (VP get
+	     (NP a
+		 better
+		 weather picture)
+	     (PP from
+		 (NP (NP the Burlington Weather Bureau)
+		     (VP supervised
+			 (PP by
+			     (NP Frank E. Hartwell))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Out
+	(PP at
+	    (NP the airport)))
+    (NP each morning)
+    ,
+    (S (NP (NP (NP Fogg)
+	       's skilled mechanic)
+	   (NP Caleb Marston))
+       (AUX would)
+       (VP have
+	   (NP the Waco)
+	   (VP (VP warmed
+		   (PRT up))
+	       and
+	       (VP running)))
+       (PP in
+	   (NP the drafty hangar))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP He)
+      (AUX 'd)
+      (VP get
+	  (NP the engine oil)
+	  (VP flowing)
+	  (PP with
+	      (NP an electric heater
+		  (PP under
+		      (NP a big canvas cover))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Wishing
+	     (S (NP *)
+		(AUX to)
+		(VP show
+		    (SBAR that
+			  (S (NP  aviation)
+			     (VP was
+				 (ADJP (ADJP dependable)
+				       and
+				       (ADJP here
+					     (S (NP *)
+						(AUX to)
+						(VP stay)))))))))))
+     ,
+     (S (NP Bob Fogg)
+	(ADVP always)
+	(VP made
+	    (NP a point
+		(PP of
+		    (S (NP *)
+		       (VP taking
+			   (ADVP off)
+			   (NP each morning)
+			   (PP on
+			       (NP the dot
+				   (PP of
+				       (NP seven)))))))))
+	,
+	(S  (NP *) 
+	    (VP disregarding
+		(NP (NP rain)
+		    ,
+		    (NP snow) 
+		    and 
+		    (NP sleet))
+		(PP in
+		    (NP 
+		     true postal
+		     tradition))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Concord)
+     (VP learned
+	 (S (NP *)
+	    (AUX to)
+	    (VP set
+		(NP its clocks)
+		(PP by
+		    (NP the rackety bark
+			(PP of
+			    (NP (NP the Whirlwind)
+				's exhaust 
+				(ADVP overhead)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Sometimes)
+	 (S (NP the pilot)
+	    (VP had
+		(S (NP *)
+		   (AUX to)
+		   (VP turn
+		       (ADVP back))))
+	    (X  if
+		(ADVP fully)
+		(VP blocked
+		    (PP by
+			(NP fog))))))
+      ,
+      but
+      (S (NP 85 %
+	     (PP of
+		 (NP his trips)))
+	 (AUX were)
+	 (VP completed)))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Plane radios)
+	(VP were
+	    (NEG not)
+	    (ADVP yet)
+	    (ADJP available)))
+     ,
+     and
+     (S (X  once
+	    (PP in
+		(NP the air)))
+	,
+	(S (NP Fogg)
+	   (VP flew
+	       (NP his ship)
+	       (PP by
+		   (NP (NP compass)
+		       ,
+		       (NP a good memory
+			   (PP for
+			       (NP landmarks
+				   (PP as
+				       (S  (NP *) 
+					   (VP seen
+					       (PP from
+						   (NP above))))))))
+		       ,
+		       and
+		       (NP a capacity
+			   (PP for
+			       (NP (NP dead reckoning)
+				   and
+				   (NP quick computation))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Often)
+      ,
+      (S  (NP *) 
+	  (VP threading
+	      (PP through
+		  (NP the overcast))))
+      ,
+      (S (NP he)
+	 (AUX was)
+	 (VP forced
+	     (S (NP *)
+		(AUX to)
+		(VP fly
+		    (ADVP  close
+			   (PP to
+			       (NP the ground)))
+		    (PP by
+			(NP a low ceiling))
+		    ,
+		    (S (NP *)  
+		       (VP skimming
+			   (PP above
+			       (NP (NP the Winooski)
+				   or
+				   (NP the White River)))
+			   (PP along
+			       (NP the line
+				   (PP of
+				       (NP the broken railroad)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP (NP driving rain) 
+		  or 
+		  (NP mist))
+	      (VP socked
+		  (PP in
+		      (NP one valley)))))
+     ,
+     (S (NP Fogg)
+	(AUX would)
+	(VP chandelle
+	    (ADVP  up and over))
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP reverse
+		   (NP course))
+	       and
+	       (VP try
+		   (NP (NP another one)
+		       ,
+		       (VP ranging
+			   (PP (PP from
+				   (NP the Ottauquechee))
+			       (PP up
+				   (PP to
+				       (NP Danville))))))
+		   (PP in
+		       (NP search
+			   (PP of
+			       (NP safe passage
+				   (PP through
+				       (NP the mountain passes)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The
+	 dependable
+	 Wright engine)
+     (AUX was)
+     (ADVP never)
+     (VP stopped)
+     (PP on
+	 (NP these trips)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP ticked
+	 (ADVP over)
+	 (ADVP smoothly)
+	 ,
+	 (S  (NP *) 
+	     (VP idling)))
+     (SBAR while
+	   (S (NP Fogg)
+	      (VP exchanged
+		  (NP mails)
+		  (PP with
+		      (NP (NP the armed messenger
+			      (PP from
+				  (NP Burlington))
+			      (PP at
+				  (NP Fort Ethan Allen)))
+			  ,
+			  and
+			  (NP one
+			      (PP from
+				  (NP (NP Montpelier)
+				      and
+				      (NP Barre)))
+			      (PP at
+				  (NP the St. John field)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      ,
+      (PP on
+	  (NP a return trip))
+      ,
+      (S (NP the aviator)
+	 (AUX would)
+	 ``
+	 (VP go
+	     (ADVP upstairs)
+	     ''
+	     (ADJP high
+		   (PP over
+		       (NP the clouds))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP There)
+      (S (NP he)
+	 (AUX 'd)
+	 (VP (VP take
+		 (NP a compass reading))
+	     ,
+	     (VP figure
+		 (NP his air speed))
+	     ,
+	     and
+	     (VP deduce
+		 (SBAR that
+		       (S (PP in
+			      (NP a certain number
+				  (PP of
+				      (NP minutes))))
+			  (S (NP he)
+			     (AUX 'd)
+			     (VP be
+				 (PP over
+				     (NP (NP the broad meadows
+					     (PP of
+						 (NP the Merrimack Valley)))
+					 (SBAR (WHADVP where)
+					       (S (NP it
+						      (S-4 *pseudo-attach*))
+						  (AUX would)
+						  (VP be
+						      (ADJP safe))
+						  (S-4 (NP *)
+						       (AUX to)
+						       (VP (VP let
+							       (ADVP down)
+							       (PP through
+								   (NP the overcast)))
+							   and
+							   (VP see
+							       (NP the ground)
+							       (PP before
+								   (S (NP it)
+								      (VP hit
+									  (NP him)))))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Bob Fogg)
+     (AUX did)
+     (NEG n't)
+     (VP have
+	 (NP  (NP today)
+	      's
+	      advantages
+	      (PP of
+		  (NP Instrument Flight
+		      and
+		      Ground Control Approach systems)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP the end
+	     (PP of
+		 (NP the (VP calculated) time))))
+     (S (NP he)
+	(AUX 'd)
+	(VP (VP nose
+		(NP the Waco)
+		(PP down
+		    (PP through
+			(NP the cloud bank))))
+	    and
+	    (VP hope
+		(S (NP *)
+		   (AUX to)
+		   (VP break
+		       (ADVP through)
+		       (SBAR (WHADVP where)
+			     (S (NP some feature
+				    (PP of
+					(NP the winter landscape)))
+				(AUX would)
+				(VP be
+				    (ADJP recognizable))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (ADJP  (ADVP Usually)
+	    back
+	    (PP in
+		(NP Concord))
+	    (PP by
+		(NP noon)))
+     ,
+     (S (NP there)
+	(VP was
+	    (NP (NP  (ADVP just)
+		     time)
+		(S (NP *)
+		   (AUX to)
+		   (VP (VP get
+			   (S (NP *)
+			      (VP  (ADVP partially)
+				   thawed
+				   (PRT out))))
+		       ,
+		       (VP refuel)
+		       ,
+		       and
+		       (VP grab
+			   (NP a bit
+			       (PP of
+				   (NP (NP Mrs. Fogg)
+				       's hot broth)))))
+		   (PP before
+		       (S (NP *) 
+			  (VP starting
+			      (NP the second trip)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Day
+	(PP after
+	    (NP day)))
+    (S (NP Fogg)
+       (VP shuttled
+	   (ADVP back
+		 and
+		 forth)
+	   (PP on
+	       (NP his one-man air mail route)))
+       ,
+       (PP until
+	   (S (NP (NP the farmers
+		      (PP in
+			  (NP their snowy barnyards)))
+		  and
+		  (NP the road repairmen))
+	      (VP came
+		  (S (NP *)
+		     (AUX to)
+		     (VP recognize
+			 (NP the stubby plane)
+			 (PP as
+			     (NP their link
+				 (PP with
+				     (NP the rest
+					 (PP of
+					     (NP the country)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The flyer)
+     (VP had
+	 (NP his share
+	     (PP of
+		 (NP near-misses)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP Fort Ethan Allen))
+     (S (NP the (ADJP ever-present) wind
+	    (PP off
+		(NP Lake Champlain)))
+	(AUX could)
+	(ADVP readily)
+	(VP flip
+	    (NP a
+		puny (ADJP man-made)
+		thing
+		(PP like
+		    (NP an airplane))))
+	(SBAR if
+	      (S (NP the pilot)
+		 (VP miscalculated)))) )
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S   (ADVP Once)
+      (S (NP the soldiers
+	     (PP from
+		 (NP the barracks)))
+	 (VP had
+	     (S (NP *)
+		(AUX to)
+		(VP hold
+		    (NP the ship)
+		    (PP from
+			(S  (NP *) 
+			    (VP blowing
+				(ADVP away))))
+		    (SBAR while
+			  (S (NP Fogg)
+			     (VP (VP revved
+				     (NP the engine))
+				 and
+				 (VP got
+				     (NP the tail)
+				     (PRT up))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP a nod
+	     (PP of
+		 (NP his head))))
+     (S (NP they)
+	(VP let
+	    (VP go))
+	,
+	(S  (NP *) 
+	    (VP turning
+		(S (NP *)
+		   (AUX to)
+		   (VP cup
+		       (NP their ears)
+		       (PP against
+			   (NP the icy slipstream))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Tracks
+	 (PP in
+	     (NP the snow)))
+     (VP showed
+	 (SBAR 0
+	       (S (NP the plane)
+		  (VP was
+		      (ADJP airborne))
+		  (PP in
+		      (ADJP less
+			    (PP than
+				(NP a hundred feet))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One afternoon)
+    (PP during
+	(NP a
+	    cold
+	    ,
+	    powdery
+	    snowstorm))
+    ,
+    (S (NP Fogg)
+       (VP took
+	   (ADVP off)
+	   (PP for
+	       (NP Concord))
+	   (PP from
+	       (NP the St. John field)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

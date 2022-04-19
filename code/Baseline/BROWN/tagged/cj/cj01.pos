@@ -1,0 +1,1442 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Introduction/NNP ]
+
+[ It/PRP ]
+has/VBZ recently/RB become/VBN practical/JJ to/TO use/VB 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+and/CC 
+[ planets/NNS ]
+as/IN 
+[ a/DT new/JJ source/NN ]
+of/IN 
+[ information/NN ]
+about/IN 
+[ these/DT bodies/NNS ]
+and/CC 
+[ their/PRP$ atmospheres/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT results/NNS ]
+of/IN 
+[ present/JJ observations/NNS ]
+of/IN 
+[ the/DT thermal/JJ radio/NN emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+are/VBP consistent/JJ with/IN 
+[ the/DT very/RB low/JJ thermal/JJ conductivity/NN ]
+of/IN 
+[ the/DT surface/NN layer/NN ]
+
+[ which/WDT ]
+was/VBD derived/VBN from/IN 
+[ the/DT variation/NN ]
+in/IN 
+[ the/DT infrared/JJ emission/NN ]
+during/IN 
+[ eclipses/NNS ]
+(/( 
+[ e.g./NN ]
+,/, 
+[ Garstung/NNP ]
+,/, 
+[ 1958/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+When/WRB sufficiently/RB accurate/JJ and/CC 
+[ complete/JJ measurements/NNS ]
+are/VBP available/JJ ,/, 
+[ it/PRP ]
+will/MD be/VB possible/JJ to/TO set/VB 
+[ limits/NNS ]
+on/IN 
+[ the/DT thermal/JJ ]
+and/CC 
+[ electrical/JJ characteristics/NNS ]
+of/IN 
+[ the/DT surface/NN ]
+and/CC 
+[ subsurface/JJ materials/NNS ]
+of/IN 
+[ the/DT moon/NN ]
+./. 
+==================================
+
+[ Observations/NNS ]
+of/IN 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ a/DT planet/NN ]
+
+[ which/WDT ]
+has/VBZ 
+[ an/DT extensive/JJ atmosphere/NN ]
+will/MD probe/VB 
+[ the/DT atmosphere/NN ]
+to/TO 
+[ a/DT greater/JJR extent/NN ]
+than/IN 
+[ those/DT ]
+using/VBG 
+[ shorter/JJR wave/NN lengths/NNS ]
+and/CC should/MD in/IN 
+[ some/DT cases/NNS ]
+give/VB otherwise/RB 
+[ unobtainable/JJ information/NN ]
+about/IN 
+[ the/DT characteristics/NNS ]
+of/IN 
+[ the/DT solid/JJ surface/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Radio/NN observations/NNS ]
+of/IN 
+[ Venus/NNP ]
+and/CC 
+[ Jupiter/NNP ]
+have/VBP already/RB supplied/VBN 
+[ unexpected/JJ experimental/JJ data/NNS ]
+on/IN 
+[ the/DT physical/NN conditions/NNS ]
+of/IN 
+[ these/DT planets/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT observed/VBN intensity/NN ]
+of/IN 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ Venus/NNP ]
+is/VBZ much/RB higher/JJR than/IN 
+[ the/DT expected/VBN thermal/JJ intensity/NN ]
+,/, although/IN 
+[ the/DT spectrum/NN ]
+indicated/VBN by/IN 
+[ measurements/NNS ]
+at/IN 
+[ wave/NN lengths/NNS ]
+near/IN 
+[ 3/CD cm/NN ]
+and/CC 
+[ 10/CD cm/NN ]
+is/VBZ like/IN that/IN of/IN 
+[ a/DT black/JJ body/NN ]
+at/IN about/IN 
+[ 600-degrees/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT result/NN ]
+suggests/VBZ 
+[ a/DT very/RB high/JJ temperature/NN ]
+at/IN 
+[ the/DT solid/JJ surface/NN ]
+of/IN 
+[ the/DT planet/NN ]
+,/, although/IN 
+[ there/EX ]
+is/VBZ 
+[ the/DT possibility/NN ]
+that/IN 
+[ the/DT observed/VBN radiation/NN ]
+may/MD be/VB 
+[ a/DT combination/NN ]
+of/IN 
+[ both/DT thermal/JJ ]
+and/CC 
+[ non-thermal/JJ components/NNS ]
+and/CC that/IN 
+[ the/DT observed/VBN spectrum/NN ]
+is/VBZ 
+[ that/DT ]
+of/IN 
+[ a/DT black/JJ body/NN ]
+merely/RB by/IN 
+[ coincidence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT case/NN ]
+of/IN 
+[ Jupiter/NNP ]
+,/, 
+[ the/DT radio/NN emission/NN spectrum/NN ]
+is/VBZ definitely/RB not/RB like/IN 
+[ the/DT spectrum/NN ]
+of/IN 
+[ a/DT black-body/JJ radiator/NN ]
+,/, and/CC 
+[ it/PRP ]
+seems/VBZ very/RB likely/JJ that/IN 
+[ the/DT radiation/NN ]
+reaching/VBG 
+[ the/DT earth/NN ]
+is/VBZ 
+[ a/DT combination/NN ]
+of/IN 
+[ thermal/JJ radiation/NN ]
+from/IN 
+[ the/DT atmosphere/NN ]
+and/CC 
+[ non-thermal/JJ components/NNS ]
+./. 
+==================================
+Of/IN 
+[ the/DT remaining/VBG planets/NNS ]
+,/, only/RB 
+[ Mars/NNP ]
+and/CC 
+[ Saturn/NNP ]
+have/VB been/VBN observed/VBN as/IN 
+[ radio/NN sources/NNS ]
+,/, and/CC not/RB 
+[ very/RB much/JJ information/NN ]
+is/VBZ available/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Mars/NNP ]
+has/VBZ been/VBN observed/VBN twice/RB at/IN about/IN 
+[ 3-cm/CD wave/NN length/NN ]
+,/, and/CC 
+[ the/DT intensity/NN ]
+of/IN 
+[ the/DT observed/VBN radiation/NN ]
+is/VBZ in/IN 
+[ reasonable/JJ agreement/NN ]
+with/IN 
+[ the/DT thermal/JJ radiation/NN ]
+
+[ which/WDT ]
+might/MD be/VB predicted/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ the/DT known/VBN temperature/NN ]
+of/IN 
+[ Mars/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT low/JJ intensity/NN ]
+of/IN 
+[ the/DT radiation/NN ]
+from/IN 
+[ Saturn/NNP ]
+has/VBZ limited/VBN 
+[ observations/NNS ]
+,/, but/CC again/RB 
+[ the/DT measured/VBN radiation/NN ]
+seems/VBZ to/TO be/VB consistent/JJ with/IN 
+[ a/DT thermal/JJ origin/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT attempts/NNS ]
+to/TO measure/VB 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ the/DT remaining/VBG planets/NNS ]
+have/VBP been/VBN reported/VBN ,/, and/CC ,/, because/IN of/IN 
+[ their/PRP$ distances/NNS ]
+,/, 
+[ small/JJ diameters/NNS ]
+,/, or/CC 
+[ low/JJ temperatures/NNS ]
+,/, 
+[ the/DT thermal/JJ radiation/NN ]
+at/IN 
+[ radio/NN wave/NN lengths/NNS ]
+reaching/VBG 
+[ the/DT earth/NN ]
+from/IN 
+[ these/DT sources/NNS ]
+is/VBZ expected/VBN to/TO be/VB of/IN 
+[ very/RB low/JJ intensity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ spite/NN ]
+of/IN 
+[ this/DT ]
+,/, 
+[ the/DT very/RB large/JJ radio/NN reflectors/NNS ]
+and/CC improved/VBN 
+[ amplifying/VBG techniques/NNS ]
+
+[ which/WDT ]
+are/VBP now/RB becoming/VBG 
+[ available/JJ ]
+should/MD make/VB 
+[ it/PRP ]
+possible/JJ to/TO observe/VB 
+[ the/DT radio/NN emission/NN ]
+of/IN most/JJS of/IN 
+[ the/DT planets/NNS ]
+in/IN 
+[ a/DT few/JJ years/NNS ]
+./. 
+==================================
+
+[ The/DT study/NN ]
+of/IN 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+and/CC 
+[ planets/NNS ]
+began/VBD with/IN 
+[ the/DT detection/NN ]
+of/IN 
+[ the/DT thermal/JJ radiation/NN ]
+of/IN 
+[ the/DT moon/NN ]
+at/IN 
+[ 1.25-cm/CD wave/NN length/NN ]
+by/IN 
+[ Dicke/NNP ]
+and/CC 
+[ Beringer/NNP ]
+(/( 
+[ 1946/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+was/VBD followed/VBN by/IN 
+[ a/DT comprehensive/JJ series/NN ]
+of/IN 
+[ observations/NNS ]
+of/IN 
+[ the/DT 1.25-cm/CD emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+over/IN 
+[ three/CD lunar/JJ cycles/NNS ]
+by/IN 
+[ Piddington/NNP ]
+and/CC 
+[ Minnett/NNP ]
+(/( 
+[ 1949/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+deduced/VBD from/IN 
+[ their/PRP$ measurements/NNS ]
+that/IN 
+[ the/DT radio/NN emission/NN ]
+from/IN 
+[ the/DT whole/JJ disk/NN ]
+of/IN 
+[ the/DT moon/NN ]
+varied/VBD during/IN 
+[ a/DT lunation/NN ]
+in/IN 
+[ a/DT ]
+roughly/RB 
+[ sinusoidal/JJ fashion/NN ]
+;/: ;/: that/IN 
+[ the/DT amplitude/NN ]
+of/IN 
+[ the/DT variation/NN ]
+was/VBD considerably/RB less/JJR than/IN 
+[ the/DT amplitude/NN ]
+of/IN 
+[ the/DT variation/NN ]
+in/IN 
+[ the/DT infrared/JJ emission/NN ]
+as/IN measured/VBD  by/IN 
+[ Pettit/NNP ]
+and/CC 
+[ Nicholson/NNP ]
+(/( 
+[ 1930/CD ]
+)/) and/CC 
+[ Pettit/NNP ]
+(/( 
+[ 1935/CD ]
+)/) ;/: ;/: and/CC that/IN 
+[ the/DT maximum/NN ]
+of/IN 
+[ the/DT radio/NN emission/NN ]
+came/VBD about/IN 
+[ 3-12/CD days/NNS ]
+after/IN 
+[ Full/NNP Moon/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ again/RB in/IN 
+[ contrast/NN ]
+to/TO 
+[ the/DT infrared/JJ emission/NN ]
+,/, 
+[ which/WDT ]
+reaches/VBZ 
+[ its/PRP$ maximum/NN ]
+at/IN 
+[ Full/NNP Moon/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Piddington/NNP ]
+and/CC 
+[ Minnett/NNP ]
+explained/VBD 
+[ their/PRP$ observations/NNS ]
+by/IN pointing/VBG out/IN that/IN 
+[ rocklike/JJ materials/NNS ]
+
+[ which/WDT ]
+are/VBP likely/JJ to/TO make/VB up/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT moon/NN ]
+would/MD be/VB partially/RB transparent/JJ to/TO 
+[ radio/NN waves/NNS ]
+,/, although/IN opaque/JJ to/TO 
+[ infrared/JJ radiation/NN ]
+./. 
+==================================
+
+[ The/DT infrared/JJ emission/NN ]
+could/MD then/RB be/VB assumed/VBN to/TO originate/VB at/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT moon/NN ]
+,/, while/IN 
+[ the/DT radio/NN emission/NN ]
+originates/VBZ at/IN 
+[ some/DT depth/NN ]
+beneath/IN 
+[ the/DT surface/NN ]
+,/, where/WRB 
+[ the/DT temperature/NN variation/NN ]
+due/JJ to/TO 
+[ solar/JJ radiation/NN ]
+is/VBZ reduced/VBN in/IN 
+[ amplitude/NN ]
+and/CC shifted/VBN in/IN 
+[ phase/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ the/DT absorption/NN ]
+of/IN 
+[ radio/NN waves/NNS ]
+in/IN 
+[ rocklike/JJ material/NN ]
+varies/VBZ with/IN 
+[ wave/NN length/NN ]
+,/, 
+[ it/PRP ]
+should/MD be/VB possible/JJ to/TO sample/VB 
+[ the/DT temperature/NN variation/NN ]
+at/IN 
+[ different/JJ depths/NNS ]
+beneath/IN 
+[ the/DT surface/NN ]
+and/CC possibly/RB detect/VB 
+[ changes/NNS ]
+in/IN 
+[ the/DT structure/NN ]
+or/CC 
+[ composition/NN ]
+of/IN 
+[ the/DT lunar/JJ surface/NN material/NN ]
+./. 
+==================================
+
+[ The/DT radio/NN emission/NN ]
+of/IN 
+[ a/DT planet/NN ]
+was/VBD first/RB detected/VBN in/IN 
+[ 1955/CD ]
+,/, when/WRB 
+[ Burke/NNP ]
+and/CC 
+[ Franklin/NNP ]
+(/( 
+[ 1955/CD ]
+)/) identified/VBD 
+[ the/DT origin/NN ]
+of/IN 
+[ interference-like/JJ radio/NN noise/NN ]
+on/IN 
+[ their/PRP$ records/NNS ]
+at/IN about/IN 
+[ 15/CD meters/NNS wave/NN length/NN ]
+as/IN 
+[ emission/NN ]
+from/IN 
+[ Jupiter/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT sporadic/JJ type/NN ]
+of/IN 
+[ planetary/JJ radiation/NN ]
+is/VBZ discussed/VBN by/IN 
+[ Burke/NNP ]
+(/( 
+[ chap./NN 13/CD ]
+)/) and/CC 
+[ Gallet/NN ]
+(/( 
+[ chap./NN 14/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ Steady/JJ radiation/NN ]
+
+[ which/WDT ]
+was/VBD presumably/RB of/IN 
+[ thermal/JJ origin/NN ]
+was/VBD observed/VBN from/IN 
+[ Venus/NNP ]
+at/IN 
+[ 3.15/CD ]
+and/CC 
+[ 9.4/CD cm/NN ]
+,/, and/CC from/IN 
+[ Mars/NNP ]
+and/CC 
+[ Jupiter/NNP ]
+at/IN 
+[ 3.15/CD cm/NN ]
+in/IN 
+[ 1956/CD ]
+(/( 
+[ Mayer/NNP ]
+,/, 
+[ McCullough/NNP ]
+,/, and/CC 
+[ Sloanaker/NNP ]
+,/, 
+[ 1958/CD ]
+,/, 
+[ A/NNP ] 
+,/, 
+[ B/NNP ]
+,/, 
+[ C/NNP ]
+)/) ,/, and/CC from/IN 
+[ Saturn/NNP ]
+at/IN 
+[ 3.75/CD cm/NN ]
+in/IN 
+[ 1957/CD ]
+(/( 
+[ Drake/NNP ]
+and/CC 
+[ Ewen/NNP ]
+,/, 
+[ 1958/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT ]
+relatively/RB 
+[ short/JJ time/NN ]
+since/IN 
+[ these/DT early/JJ observations/NNS ]
+,/, 
+[ Venus/NNP ]
+has/VBZ been/VBN observed/VBN at/IN 
+[ additional/JJ wave/NN lengths/NNS ]
+in/IN 
+[ the/DT range/NN ]
+from/IN 
+[ 0.8/CD ]
+to/TO 
+[ 10.2/CD cm/NN ]
+,/, and/CC 
+[ Jupiter/NNP ]
+has/VBZ been/VBN observed/VBN over/IN 
+[ the/DT wave-length/NN range/NN ]
+from/IN 
+[ 3.03/CD ]
+to/TO 
+[ 68/CD A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT observable/JJ characteristics/NNS ]
+of/IN 
+[ planetary/JJ radio/NN radiation/NN ]
+are/VBP 
+[ the/DT intensity/NN ]
+,/, 
+[ the/DT polarization/NN ]
+,/, and/CC 
+[ the/DT direction/NN ]
+of/IN 
+[ arrival/NN ]
+of/IN 
+[ the/DT waves/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT maximum/JJ angular/JJ diameter/NN ]
+of/IN 
+[ any/DT planetary/JJ disk/NN ]
+as/IN observed/VBN from/IN 
+[ the/DT earth/NN ]
+is/VBZ about/IN 
+[ 1/CD minute/NN ]
+of/IN 
+[ arc/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ much/RB smaller/JJR than/IN 
+[ the/DT highest/JJS resolution/NN ]
+of/IN even/RB 
+[ the/DT very/RB large/JJ reflectors/NNS ]
+now/RB under/IN 
+[ construction/NN ]
+,/, and/CC consequently/RB 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ different/JJ regions/NNS ]
+of/IN 
+[ the/DT disk/NN ]
+cannot/MD be/VB resolved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+should/MD be/VB possible/JJ ,/, however/RB ,/, to/TO put/VB 
+[ useful/JJ limits/NNS ]
+on/IN 
+[ the/DT diameters/NNS ]
+of/IN 
+[ the/DT radio/NN sources/NNS ]
+by/IN observing/VBG with/IN 
+[ large/JJ reflectors/NNS ]
+or/CC with/IN 
+[ interferometers/NNS ]
+./. 
+==================================
+
+[ Measurements/NNS ]
+of/IN 
+[ polarization/NN ]
+are/VBP presently/RB limited/VBN by/IN 
+[ apparatus/NN sensitivity/NN ]
+and/CC will/MD remain/VB 
+[ difficult/JJ ]
+because/RB of/IN 
+[ the/DT low/JJ intensity/NN ]
+of/IN 
+[ the/DT planetary/JJ radiation/NN ]
+at/IN 
+[ the/DT earth/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+have/VB been/VBN 
+[ few/JJ measurements/NNS ]
+specifically/RB for/IN 
+[ the/DT determination/NN ]
+of/IN 
+[ the/DT polarization/NN ]
+of/IN 
+[ planetary/JJ radiation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT measurements/NNS ]
+made/VBN with/IN 
+[ the/DT NRL/NNP 50-foot/CD reflector/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ altitude-azimuth-mounted/JJ ]
+,/, would/MD have/VB shown/VBN 
+[ a/DT systematic/JJ change/NN ]
+with/IN 
+[ local/JJ hour/NN angle/NN ]
+in/IN 
+[ the/DT measured/VBN intensities/NNS ]
+of/IN 
+[ Venus/NNP ]
+and/CC 
+[ Jupiter/NNP ]
+if/IN 
+[ a/DT substantial/JJ part/NN ]
+of/IN 
+[ the/DT radiation/NN ]
+had/VBD been/VBN linearly/RB polarized/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Recent/JJ interferometer/NN measurements/NNS ]
+(/( 
+[ Radhakrishnan/NNP ]
+and/CC 
+[ Roberts/NNP ]
+,/, 
+[ 1960/CD ]
+)/) have/VB shown/VBN 
+[ the/DT 960-mc/CD emission/NN ]
+of/IN 
+[ Jupiter/NNP ]
+to/TO be/VB partially/RB polarized/VBN and/CC to/TO originate/VB in/IN 
+[ a/DT region/NN ]
+of/IN 
+[ larger/JJR diameter/NN ]
+than/IN 
+[ the/DT visible/JJ disk/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Other/JJ ]
+than/IN 
+[ this/DT very/RB significant/JJ result/NN ]
+,/, most/JJS of/IN 
+[ the/DT information/NN ]
+now/RB available/JJ about/IN 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ the/DT planets/NNS ]
+is/VBZ restricted/VBN to/TO 
+[ the/DT intensity/NN ]
+of/IN 
+[ the/DT radiation/NN ]
+./. 
+==================================
+
+[ The/DT concept/NN ]
+of/IN 
+[ apparent/JJ black-body/NN  temperature/NN ]
+is/VBZ used/VBN to/TO describe/VB 
+[ the/DT radiation/NN ]
+received/VBN from/IN 
+[ the/DT moon/NN ]
+and/CC 
+[ the/DT planets/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT received/JJ radiation/NN ]
+is/VBZ compared/VBN with/IN 
+[ the/DT radiation/NN ]
+from/IN 
+[ a/DT hypothetical/JJ black/JJ body/NN ]
+
+[ which/WDT ]
+subtends/VBZ 
+[ the/DT same/JJ solid/JJ angle/NN ]
+as/IN 
+[ the/DT visible/JJ disk/NN ]
+of/IN 
+[ the/DT planet/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT apparent/JJ black-body/JJ disk/NN temperature/NN ]
+is/VBZ 
+[ the/DT temperature/NN ]
+
+[ which/WDT ]
+must/MD be/VB assumed/VBN for/IN 
+[ the/DT black/JJ body/NN ]
+in/IN 
+[ order/NN ]
+that/IN 
+[ the/DT intensity/NN ]
+of/IN 
+[ its/PRP$ radiation/NN ]
+should/MD equal/VB that/IN of/IN 
+[ the/DT observed/JJ  radiation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT use/NN ]
+of/IN 
+[ this/DT concept/NN ]
+does/VBZ not/RB specify/VB 
+[ the/DT origin/NN ]
+of/IN 
+[ the/DT radiation/NN ]
+,/, and/CC only/RB if/IN 
+[ the/DT planet/NN ]
+really/RB radiates/VBZ as/IN 
+[ a/DT black/JJ body/NN ]
+,/, will/MD 
+[ the/DT apparent/JJ black-body/JJ temperature/NN ]
+correspond/VB to/TO 
+[ the/DT physical/NN temperature/NN ]
+of/IN 
+[ the/DT emitting/VBG material/NN ]
+./. 
+==================================
+
+[ The/DT radio/NN radiation/NN ]
+of/IN 
+[ the/DT sun/NN ]
+
+[ which/WDT ]
+is/VBZ reflected/VBN from/IN 
+[ the/DT moon/NN ]
+and/CC 
+[ planets/NNS ]
+should/MD be/VB negligible/JJ compared/VBD with/IN 
+[ their/PRP$ thermal/JJ emission/NN ]
+at/IN 
+[ centimeter/NN wave/NN lengths/NNS ]
+,/, except/IN possibly/RB at/IN 
+[ times/NNS ]
+of/IN 
+[ exceptional/JJ outbursts/NNS ]
+of/IN 
+[ solar/JJ radio/NN noise/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT quiescent/JJ level/NN ]
+of/IN 
+[ centimeter/NN wave-length/NN solar/JJ radiation/NN ]
+would/MD increase/VB 
+[ the/DT average/JJ disk/NN brightness/NN temperature/NN ]
+by/IN less/RBR than/IN 
+[ 1-degree/CD ]
+./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ meter/NN wave/NN lengths/NNS ]
+
+[ an/DT increase/NN ]
+of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ 10-degrees/CD ]
+in/IN 
+[ the/DT average/JJ disk/NN temperatures/NNS ]
+of/IN 
+[ the/DT nearer/JJR planets/NNS ]
+would/MD be/VB expected/VBN ./. 
+==================================
+
+==================================
+==================================
+Therefore/RB ,/, neglecting/VBG 
+[ the/DT extreme/JJ outbursts/NNS ]
+,/, reflected/VBN 
+[ solar/JJ radiation/NN ]
+is/VBZ not/RB expected/VBN to/TO cause/VB 
+[ sizable/JJ errors/NNS ]
+in/IN 
+[ the/DT measurements/NNS ]
+of/IN 
+[ planetary/JJ radiation/NN ]
+in/IN 
+[ the/DT centimeter/NN ]
+-/: and/CC 
+[ decimeter-wave-length/NN range/NN ]
+./. 
+==================================
+
+[ 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT moon/NN 2.1/CD observations/NNS Radio/NN observations/NNS ]
+of/IN 
+[ the/DT moon/NN ]
+have/VB been/VBN made/VBN over/IN 
+[ the/DT range/NN ]
+of/IN 
+[ wave/NN lengths/NNS ]
+from/IN 
+[ 4.3/CD mm/NN ]
+to/TO 
+[ 75/CD cm/NN ]
+,/, and/CC 
+[ the/DT results/NNS ]
+are/VBP summarized/VBN in/IN 
+[ Table/NN 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Observations/NNS ]
+have/VBP also/RB been/VBN made/VBN at/IN 
+[ 1.5/CD mm/NN ]
+using/VBG 
+[ optical/JJ techniques/NNS ]
+(/( 
+[ Sinton/NN ]
+,/, 
+[ 1955/CD ]
+,/, 
+[ 1956/CD ]
+,/, ;/: ;/: see/VB also/RB 
+[ chap./NN 11/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+Not/RB 
+[ all/DT the/DT observers/NNS ]
+have/VBP used/VBN 
+[ the/DT same/JJ procedures/NNS ]
+or/CC made/VBD 
+[ the/DT same/JJ assumptions/NNS ]
+about/IN 
+[ the/DT lunar/JJ brightness/NN distribution/NN ]
+when/WRB reducing/VBG 
+[ the/DT data/NN ]
+,/, and/CC 
+[ this/DT ]
+,/, together/RB with/IN 
+[ differences/NNS ]
+in/IN 
+[ the/DT methods/NNS ]
+of/IN calibrating/VBG 
+[ the/DT antennae/NNS ]
+and/CC 
+[ receivers/NNS ]
+,/, must/MD account/VB for/IN much/RB of/IN 
+[ the/DT disagreement/NN ]
+in/IN 
+[ the/DT measured/VBN radio/NN brightness/NN temperatures/NNS ]
+./. 
+==================================
+In/IN 
+[ the/DT observations/NNS ]
+at/IN 
+[ 4.3/CD mm/NN ]
+(/( 
+[ Coates/NNP ]
+,/, 
+[ 1959/CD ]
+)/) ,/, 
+[ the/DT diameter/NN ]
+of/IN 
+[ the/DT antenna/NN beam/NN ]
+,/, 
+[ 6'.7/CD 6'.7/CD ]
+,/, was/VBD small/JJ enough/RB to/TO allow/VB 
+[ resolution/NN ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT larger/JJR features/NNS ]
+of/IN 
+[ the/DT lunar/JJ surface/NN ]
+,/, and/CC 
+[ contour/NN diagrams/NNS ]
+have/VBP been/VBN made/VBN of/IN 
+[ the/DT lunar/JJ brightness/NN distribution/NN ]
+at/IN 
+[ three/CD lunar/JJ phases/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT observations/NNS ]
+indicate/VBP that/IN 
+[ the/DT lunar/JJ maria/NNS  heat/VBP ]
+up/RB more/RBR rapidly/RB and/CC also/RB cool/JJ off/IN more/RBR rapidly/RB than/IN do/VB 
+[ the/DT mountainous/JJ regions/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mare/NNP Imbrium/NNP ]
+seems/VBZ to/TO be/VB 
+[ an/DT exception/NN ]
+and/CC remains/VBZ cooler/JJR than/IN 
+[ the/DT regions/NNS ]
+
+[ which/WDT ]
+surround/VBP 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT contour/NN diagrams/NNS ]
+also/RB suggest/VBP 
+[ a/DT ]
+rather/RB 
+[ rapid/JJ falloff/NN ]
+in/IN 
+[ the/DT radio/NN brightness/NN ]
+with/IN 
+[ latitude/NN ]
+./. 
+==================================
+Very/RB recently/RB ,/, 
+[ observations/NNS ]
+have/VBP been/VBN made/VBN at/IN 
+[ 8-mm/CD wave/NN length/NN ]
+with/IN 
+[ a/DT reflector/NN 22/CD meters/NNS ]
+in/IN 
+[ diameter/NN ]
+with/IN 
+[ a/DT resultant/JJ beam/NN width/NN ]
+of/IN only/RB about/IN 
+[ 2/CD ]
+'/'' (/( 
+[ Amenitskii/NNP ]
+,/, 
+[ Noskova/NNP ]
+,/, and/CC 
+[ Salomonovich/NNP ]
+,/, 
+[ 1960/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT constant-temperature/NN contours/NNS ]
+are/VBP much/RB smoother/JJ than/IN 
+[ those/DT ]
+observed/VBN at/IN 
+[ 4.3/CD mm/NN ]
+by/IN 
+[ Coates/NNP ]
+(/( 
+[ 1959/CD ]
+)/) and/CC apparently/RB 
+[ the/DT emission/NN ]
+at/IN 
+[ 8/CD mm/NN ]
+is/VBZ not/RB nearly/RB so/RB sensitive/JJ to/TO 
+[ differences/NNS ]
+in/IN 
+[ surface/NN features/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Such/JJ high-resolution/JJ observations/NNS ]
+as/IN 
+[ these/DT ]
+are/VBP needed/VBN at/IN 
+[ several/JJ wave/NN lengths/NNS ]
+in/IN 
+[ order/NN ]
+that/IN 
+[ the/DT radio/NN emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+can/MD be/VB properly/RB interpreted/VBN ./. 
+==================================
+
+[ The/DT observations/NNS ]
+of/IN 
+[ Mayer/NNP ]
+,/, 
+[ McCullough/NNP ]
+,/, and/CC 
+[ Sloanaker/NNP ]
+at/IN 
+[ 3.15/CD cm/NN ]
+and/CC of/IN 
+[ Sloanaker/NNP ]
+at/IN 
+[ 10.3/CD cm/NN ]
+have/VBP not/RB previously/RB been/VBN published/VBN and/CC will/MD be/VB 
+[ briefly/NN ]
+described/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Measurements/NNS ]
+at/IN 
+[ 3.15/CD cm/NN ]
+were/VBD obtained/VBN on/IN 
+[ 11/CD days/NNS ]
+spread/VBN over/IN 
+[ the/DT interval/NN ]
+May/MD 
+[ 3/CD ]
+to/TO 
+[ June/NNP 19/CD ]
+,/, 
+[ 1956/CD ]
+,/, using/VBG 
+[ the/DT 50-foot/CD reflector/NN ]
+at/IN 
+[ the/DT U.S./NNP Naval/NNP Research/NNP Laboratory/NNP ]
+in/IN 
+[ Washington/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT half-intensity/JJ diameter/NN ]
+of/IN 
+[ the/DT antenna/NN beam/NN ]
+was/VBD about/IN 
+[ 9/CD ]
+'/'' ,/, and/CC 
+[ the/DT angle/NN ]
+subtended/JJ by/IN 
+[ the/DT moon/NN ]
+included/VBD 
+[ the/DT entire/NN main/JJ beam/NN ]
+and/CC 
+[ part/NN ]
+of/IN 
+[ the/DT first/JJ side/NN lobes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT antenna/NN patterns/NNS ]
+and/CC 
+[ the/DT power/NN gain/NN ]
+at/IN 
+[ the/DT peak/NN ]
+of/IN 
+[ the/DT beam/NN ]
+were/VBD 
+[ both/DT ]
+measured/VBN (/( 
+[ Mayer/NNP ]
+,/, 
+[ McCullough/NNP ]
+,/, and/CC 
+[ Sloanaker/NNP ]
+,/, 
+[ 1958/CD ]
+)/) ,/, so/RB that/IN 
+[ the/DT absolute/JJ power/NN sensitivity/NN ]
+of/IN 
+[ the/DT antenna/NN beam/NN ]
+over/IN 
+[ the/DT solid/JJ angle/NN ]
+of/IN 
+[ the/DT moon/NN ]
+was/VBD known/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ratio/NN ]
+of/IN 
+[ the/DT measured/VBN antenna/NN temperature/NN change/NN ]
+during/IN 
+[ a/DT drift/NN scan/NN ]
+across/IN 
+[ the/DT moon/NN ]
+to/TO 
+[ the/DT average/NN brightness/NN temperature/NN ]
+of/IN 
+[ the/DT moon/NN ]
+over/IN 
+[ the/DT antenna/NN beam/NN ]
+(/( assuming/VBG that/IN 
+[ the/DT brightness/NN temperature/NN ]
+of/IN 
+[ the/DT sky/NN ]
+is/VBZ negligible/JJ )/) was/VBD found/VBN ,/, by/IN 
+[ graphical/JJ integration/NN ]
+of/IN 
+[ the/DT antenna/NN directivity/NN diagram/NN ]
+,/, to/TO be/VB 
+[ 0.85/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT measured/VBN brightness/NN temperature/NN ]
+is/VBZ 
+[ a/DT good/JJ approximation/NN ]
+to/TO 
+[ the/DT brightness/NN temperature/NN ]
+at/IN 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT lunar/JJ disk/NN ]
+because/IN of/IN 
+[ the/DT narrow/JJ antenna/NN beam/NN ]
+and/CC because/IN 
+[ the/DT temperature/NN distribution/NN ]
+over/IN 
+[ the/DT central/JJ portion/NN ]
+of/IN 
+[ the/DT moon/NN 's/POS disk/NN ]
+is/VBZ nearly/RB uniform/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT result/NN ]
+of/IN 
+[ the/DT observations/NNS ]
+is/VBZ A[fj]/SYM  where/WRB 
+[ the/DT phase/NN angle/NN ]
+,/, 
+[ Q/NNP ]
+,/, is/VBZ measured/VBN in/IN 
+[ degrees/NNS ]
+from/IN 
+[ new/JJ moon/NN ]
+and/CC 
+[ the/DT probable/JJ errors/NNS ]
+include/VBP absolute/JJ as/IN well/RB as/IN 
+[ relative/JJ errors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT result/NN ]
+is/VBZ plotted/VBN along/IN with/IN 
+[ the/DT 8.6-mm/CD observations/NNS ]
+of/IN 
+[ Gibson/NN ]
+(/( 
+[ 1958/CD ]
+)/) in/IN 
+[ figure/NN 1/CD ]
+,/, 
+[ A/DT ] 
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT variation/NN ]
+in/IN 
+[ the/DT 3-cm/CD emission/NN ]
+of/IN 
+[ the/DT moon/NN ]
+during/IN 
+[ a/DT lunation/NN ]
+is/VBZ very/RB much/RB less/RBR than/IN 
+[ the/DT variation/NN ]
+in/IN 
+[ the/DT 8.6-mm/CD emission/NN ]
+,/, as/IN would/MD be/VB expected/VBN from/IN 
+[ the/DT explanation/NN ]
+of/IN 
+[ Piddington/NNP ]
+and/CC 
+[ Minnett/NNP ]
+(/( 
+[ 1949/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT discussion/NN ]
+
+[ which/WDT ]
+follows/VBZ ,/, 
+[ the/DT time/NN average/NN ]
+of/IN 
+[ the/DT radio/NN emission/NN ]
+will/MD be/VB referred/VBN to/TO as/IN 
+[ the/DT constant/JJ component/NN ]
+,/, and/CC 
+[ the/DT superimposed/JJ periodic/JJ variation/NN ]
+will/MD be/VB called/VBN 
+[ the/DT variable/JJ component/NN ]
+./. 
+==================================
+
+[ The/DT 10.3-cm/CD observation/NN ]
+of/IN 
+[ Sloanaker/NNP ]
+was/VBD made/VBN on/IN 
+[ May/NNP 20/CD ]
+,/, 
+[ 1958/CD ]
+,/, using/VBG 
+[ the/DT 84-foot/CD reflector/NN ]
+at/IN 
+[ the/DT Maryland/NNP Point/NNP Observatory/NNP ]
+of/IN 
+[ the/DT U.S./NNP Naval/NNP Research/NNP Laboratory/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT age/NN ]
+of/IN 
+[ the/DT moon/NN ]
+was/VBD about/IN 
+[ 2/CD days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT half-intensity/JJ diameter/NN ]
+of/IN 
+[ the/DT main/JJ lobe/NN ]
+of/IN 
+[ the/DT antenna/NN ]
+was/VBD about/IN 
+[ 18'.5/CD 18'.5/CD ]
+,/, and/CC 
+[ the/DT brightness/NN temperature/NN ]
+was/VBD reduced/VBN by/IN assuming/VBG 
+[ a/DT Gaussian/JJ shape/NN ]
+for/IN 
+[ the/DT antenna/NN beam/NN ]
+and/CC 
+[ a/DT ]
+uniformly/RB 
+[ bright/JJ disk/NN ]
+for/IN 
+[ the/DT moon/NN ]
+./. 
+==================================
+==================================
+==================================

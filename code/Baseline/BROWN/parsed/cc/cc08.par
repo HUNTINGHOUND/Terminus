@@ -1,0 +1,2273 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Had
+	 (NP a funny experience))
+     (PP at
+	 (NP Newport))
+     (NP  yesterday
+	  afternoon))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Sat
+	   (ADVP there)))
+    and
+    (S (SBAR as
+	     (S (NP a woman)
+		(VP sang)))
+       ,
+       (S (NP she)
+	  (VP kept)
+	  (VP getting
+	      (ADJP (ADJP thinner)
+		    and
+		    (ADJP thinner))
+	      ,
+	      (PP (ADVP right)
+		  before
+		  (NP (NP my eyes)
+		      ,
+		      and
+		      (NP the eyes
+			  (PP of
+			      (NP some 5,500 other people)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP make
+       (NP this observation
+	   (PP about
+	       (NP (NP the lady)
+		   ,
+		   (NP Miss Judy Garland)
+		   ,)))
+       (SBAR because
+	     (S (NP (NP she)
+		    (NP-1 *pseudo-attach*))
+		(VP brought
+		    (PRT up)
+		    (NP the subject))
+		(NP-1 herself)
+		(PP in
+		    (S  (NP *)
+			(VP telling
+			    (NP a story
+				(PP about
+				    (NP (NP a British female reporter)
+					(SBAR (WHNP who)
+					      (S (NP T)
+						 (VP (VP flattered
+							 (NP her)
+							 (ADVP terribly)
+							 (PP in
+							     (NP London))
+							 (ADVP recently))
+						     and 
+						     then
+						     (VP wrote
+							 (PP in
+							     (NP the paper))
+							 (NP the next day)
+							 :
+							 ``
+							 (S (NP Judy Garland)
+							    (AUX has)
+							    (VP arrived
+								(PP in
+								    (NP London))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP 's)
+     (NEG not
+	  (ADJP chubby)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP 's)
+     (NEG not
+	  (ADJP plump)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP 's
+	 (ADJP fat)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(   (SQ But
+	(SBARQ (WHNP who)
+	       (S (NP T)
+		  (VP cares)))
+	,
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP the lady)
+	    (VP sings))))
+    ?
+    ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (ADVP Certainly)
+       (NEG not)
+       (NP (NP the
+	       (ADJP largest)
+	       afternoon audience)
+	   (SBAR 0
+		 (S (NP Newport)
+		    (AUX has)
+		    (ADVP ever)
+		    (VP had
+			(NP T)
+			(PP at
+			    (NP a jazz concert)))))
+	   and
+	   (NP the
+	       (ADJP most attentive
+		     and
+		     quiet))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP applauded
+       (NP every number)
+       ,
+       (PP (CONJP (NEG not)
+		  only)
+	   (PP at
+	       (NP its conclusion))
+	   (CONJP but
+		  also)
+	   (PP at
+	       (NP the first statement
+		   (PP of
+		       (NP the theme)))))
+       --
+       (ADVP sometimes)
+       (PP at
+	   (NP the first chord))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP Judy)
+	 (VP sang
+	     (NP (NP the
+		     lovely old familiar
+		     things)
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (VP seemed
+			      ,
+			      (PP at
+				  (NP times))
+			      ,
+			      (NP a blessed relief
+				  (PP from
+				      (NP the way-out compositions
+					  (PP of
+					      (NP (NP the progressive jazzmen)
+						  (SBAR (WHNP who)
+							(S (NP T)
+							   (AUX have)
+							   (VP dominated
+							       (NP these proceedings))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Things
+	 (PP like
+	     (NP (NP ``
+		     (SBAR 
+		      (WHADVP When)
+		      (S (NP You)
+			 (VP 're)
+			 (VP Smiling)))
+		     '')
+		 ,
+		 (NP ``
+		     (PP (ADVP Almost)
+			 Like
+			 (S (NP *)  
+			    (VP Being
+				(PP In
+				    (NP Love)))))
+		     '')
+		 ,
+		 (NP ``
+		     (S (NP *)  
+			(VP Do
+			    (NP It)
+			    (ADVP Again)))
+		     '')
+		 ,
+		 (NP ``
+		     (S (NP *)  
+			(VP Born
+			    (S (NP To)
+			       (VP Wander))))
+		     '')
+		 ,
+		 (NP ``
+		     (ADVP Alone Together)
+		     '')
+		 ,
+		 (NP ``
+		     (SBAR 
+		      (WHNP Who)
+		      (S (NP T)
+			 (VP Cares))
+		      ?
+		      ?)
+		     '')
+		 ,
+		 (NP ``
+		     (S (NP *)  
+			(VP Puttin
+			    '
+			    (PP On
+				(NP The Ritz))))
+		     '')
+		 ,
+		 (NP ``
+		     (SBARQ (WHADVP How)
+			    (ADVP Long)
+			    (SQ (AUX Has)
+				(NP This)
+				(VP Been
+				    (VP Going
+					(ADVP On))))
+			    ?
+			    ?)
+		     ''))))
+     And
+     (NP her
+	 own personal
+	 songs
+	 (PP like
+	     (NP (NP ``
+		     (NP (NP The Man)
+			 (SBAR 
+			  (WHNP That)
+			  (S (NP T)
+			     (VP Got
+				 (ADVP Away)))))
+		     '')
+		 ,
+		 and
+		 (NP the
+		     (ADJP inevitable)
+		     ``
+		     (PP Over
+			 (NP  The Rainbow))
+		     '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Miss Garland)
+      (VP is
+	  (NEG not)
+	  (ADVP only)
+	  (NP one
+	      (PP of
+		  (NP the great singers
+		      (PP of
+			  (NP our time)))))))
+     but
+     (S (NP she)
+	(VP is
+	    (NP one
+		(PP of
+		    (NP the superb showmen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP the start
+	     (PP of
+		 (NP her program))))
+     (S
+      (NP there)
+      (VP were
+	  (NP evidences
+	      (PP of
+		  (NP pique))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (X (X (AUX had)
+	 (VP held
+	     (PP to
+		 (NP the letter
+		     (PP of
+			 (NP her contract))))))
+      and
+      (X (AUX did)
+	 (NEG n't)
+	 (VP come
+	     (PP onto
+		 (NP the stage)))
+	 (PP until
+	     (PP  (ADVP well)
+		  after
+		  (NP (NP 4 p.m.)
+		      ,
+		      (NP the appointed hour))))))
+   ,
+   (SBAR although
+	 (S (NP the Music
+		at
+		Newport people)
+	    (AUX had)
+	    (VP tried
+		(S (NP *)
+		   (AUX to)
+		   (VP get
+		       (NP the program)
+		       (ADVP underway)
+		       (PP at
+			   (NP 3))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  Then
+      (S (NP there)
+	 (VP was
+	     (NP a bad delay
+		 (PP in
+		     (S (NP *)  
+			(VP getting
+			    (NP 
+			     (NP Mort Lindsey)
+			     's 30-piece orchestra)
+			    (VP wedged
+				(PP into
+				    (NP its chairs))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP Along
+	(NP (ADVP about)
+	    4:30))
+    ,
+    (ADVP just)
+    (SBAR 
+     (WHADVP when)
+     (S (NP it)
+	(AUX was)
+	(VP getting
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (NP  (ADVP about)
+			time
+			(S (NP *)
+			   (AUX to)
+			   (VP (VP turn
+				   (NP the audience)
+				   (PRT over))
+			       and
+			       (VP toast
+				   (NP them)
+				   (PP on
+				       (NP the other side)))))))))))
+    ,
+    (S (NP Judy)
+       (VP came
+	   (ADVP on)
+	   (S (NP *)  
+	      (VP singing))
+	   ,
+	   (PP in
+	       (NP a
+		   (ADJP short-skirted blue)
+		   dress))
+	   (PP with
+	       (NP (NP a blue and white jacket)
+		   (SBAR (WHNP that)
+			 (S  (NP T) 
+			     (VP flapped
+				 (PP in
+				     (NP the wind))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her bouffant coiffure)
+   (AUX was)
+   (ADVP fortunately)
+   (VP combed
+        
+       (PP on
+	   (NP (NP the left)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP happened
+			    (S (NP *)
+			       (AUX to)
+			       (VP be
+				   (NP (NP the direction)
+				       (SBAR (WHPP from
+						   (WHNP which))
+					     (S
+					      (NP a brisk breeze)
+					      (AUX was)
+					      (VP blowing)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP her first song))
+     (S (NP she)
+	(VP waved
+	    (ADVP away)
+	    (NP (NP one
+		    (VP encroaching)
+		    photographer)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP dared
+			     (VP approach
+				 (NP the throne
+				     (ADJP unbidden)))))))))
+     and
+     (ADVP thereafter)
+     (S (NP the boys
+	    (PP with
+		(NP the cameras)))
+	(VP had
+	    (S (NP *)
+	       (AUX to)
+	       (VP (VP unsheathe
+		       (NP their 300 mm. lenses))
+		   and
+		   (VP shoot
+		       (PP at
+			   (NP extreme range))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (ADVP also)
+      (VP came
+	  (NP a brief contretemps
+	      (PP with
+		  (NP (NP the sound mixers)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP made
+				   (NP the mistake
+				       (PP of
+					   (S (NP *)  
+					      (VP being
+						  (VP overheard))))))
+			       (PP during
+				   (NP a quiet moment
+				       (PP near
+					   (NP the conclusion
+					       (PP of
+						   (NP ``
+						       (S (NP *)  
+							  (VP Do
+							      (NP It)
+							      (ADVP Again)))
+						       '')))))))))))))
+     ,
+     and
+     (S (NP she)
+	(VP made
+	    (NP the tart observation
+		(SBAR that
+		      ``
+		      (S (NP I)
+			 (ADVP never)
+			 (VP saw
+			     (VP (ADVP so
+				       much)
+				 moving
+				 (ADVP about))
+			     (PP in
+				 (NP an audience))))
+		      '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it)
+	 (AUX did)
+	 (NEG n't)
+	 (VP take
+	     (NP (NP Judy Garland)
+		 ,
+		 (NP showman)
+		 ,)
+	     (ADJP long))
+	 (S (NP *)
+	    (AUX to)
+	    (VP realize
+		(SBAR (SBAR that
+			    (S (NP this sort
+				   (PP of
+				       (NP thing)))
+			       (VP was
+				   (ADJP par
+					 (PP for
+					     (NP the course))))
+			       (PP at
+				   (NP Newport))))
+		      and
+		      (SBAR that
+			    (S (NP you)
+			       (VP have
+				   (S (NP *)
+				      (AUX to)
+				      (VP learn
+					  (S (NP *)
+					     (AUX to)
+					     (VP live
+						 (PP with
+						     (NP it))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP Before
+       (S (NP her chore)
+	  (AUX was)
+	  (VP finished
+	      )))
+   (S (NP she)
+      (AUX was)
+      (VP (VP rescuing
+	      (NP wind-blown sheets
+		  (PP of
+		      (NP music))))
+	  ,
+	  (VP trundling
+	      (NP microphones)
+	      (PP about
+		  (NP the stage)))
+	  ,
+	  (VP helping
+	      (S (NP *)
+		 (AUX to)
+		 (VP move
+		     (NP the piano))))
+	  and
+	  (ADVP otherwise)
+	  (VP joining
+	      (PP in
+		  (NP the informal atmosphere))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (NP time
+	  (PP after
+	      (NP time)))
+      (S
+       (NP she)
+       (VP (ADVP really)
+	   belted
+	   (PP out
+	       (NP her songs)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Sometimes)
+      (S (NP they)
+	 (VP struck
+	     (NP me)
+	     (PP as
+		 (ADJP  (ADVP horribly)
+			over-arranged)))
+	 --
+	 (SBAR 
+	  (WHNP which)
+	  (S (NP T)
+	     (VP was
+		 (NP (NP the way)
+		     (SBAR 0
+			   (S
+			    (NP I)
+			    (VP felt
+				(PP about
+				    (NP her
+					``
+					Come
+					Rain
+					or
+					Come
+					Shine
+					'')))))))))
+	 --)
+      and
+      (ADVP sometimes)
+      (S (NP they)
+	 (VP were
+	     (ADVP just
+		   plain)
+	     (ADJP magnificent
+		   ,
+		   (PP like
+		       (NP her
+			   (ADJP  (ADVP shatteringly)
+				  beautiful)
+			   ``
+			   Beautiful Weather
+			   ''))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP her partisan audience))
+    ,
+    (S (NP
+	(ADJP such picayune)
+	haggling)
+       (AUX would)
+       (VP have
+	   (VP seemed
+	       (NP nothing
+		   (ADJP more)
+		   (PP than
+		       (S (NP a critic)
+			  (VP striving
+			      (S (NP *)
+				 (AUX to)
+				 (VP hold
+				     (NP his franchise))))))))))
+    ;
+    ;
+    (S (NP they)
+       (VP (VP  (ADVP just)
+		sat
+		(PP back
+		    (PP on
+			(NP their haunches))))
+	   and
+	   (VP cried
+	       (PP for
+		   (NP more))
+	       ,
+	       (PP as
+		   (PP though
+		       (S (NP they)
+			  (AUX could)
+			  (ADVP never)
+			  (VP get
+			      (ADVP enough)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX were)
+   (VP rewarded
+        
+       (PP with
+	   (NP 
+	    (ADJP splendid)
+	    ,
+	    (ADJP exciting)
+	    ,
+	    singing))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Her
+	   ``
+	   Rockabye Your Baby
+	   '')
+       (VP was
+	   (ADJP  as
+		  good
+		  (PP as
+		      (S (NP it)
+			 (AUX can)
+			 (VP be
+			     (VP done
+				 )))))))
+    ,
+    and
+    (S (NP her
+	   (ADJP (ADVP really)
+		 personal) songs
+		 ,
+		 (PP like
+		     ``
+		     (NP (NP The Man)
+			 (SBAR (WHNP That)
+			       (S  (NP T) 
+				   (VP Got
+				       (ADVP Away)))))
+		     ''))
+       (AUX were)
+       (VP  (ADVP deeply)
+	    moving)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The audience)
+    (AUX would)
+    (NEG n't)
+    (VP let
+	(NP her)
+	(VP leave))
+    (PP until
+	(S (NP it)
+	   (AUX had)
+	   (VP heard
+	       (NP ``
+		   (PP Over
+		       (NP  The Rainbow))
+		   ''))))
+    --
+    (SBAR although
+	  (S (NP (NP the fellow)
+		 (SBAR (WHNP that)
+		       (S  (NP T) 
+			   (VP kept)
+			   (VP crying
+			       (PP for
+				   (NP ``
+				       (S (NP *)  
+					  (VP Get
+					      (ADJP Happy)))
+				       ''))))))
+	     (VP had
+		 (S (NP *)
+		    (AUX to)
+		    (VP go
+			(NP home
+			    (ADJP unhappy
+				  ,
+				  (PP about
+				      (NP that item)
+				      (ADVP anyway))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (VP was
+	  (ADJP generous
+		(PP with
+		    (NP her encores)))))
+     and
+     (S (NP the audience)
+	(VP was
+	    (ADVP equally
+		  so)
+	    (PP with
+		(NP its cheers and applause and flowers)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All)
+   (VP went
+       (NP home
+	   (ADJP happy)))
+   (PP except
+       (NP (NP the Newport police)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP feared
+		   (SBAR that
+			 (S (NP (NP the throng)
+				(VP departing
+				    (PP at
+					(NP 6:35))))
+			    (AUX might)
+			    (VP meet
+				(ADVP head-on)
+				(NP (NP (NP the night crowd)
+					(VP drawing
+					    (ADVP nigh)))
+				    ,
+				    and
+				    (NP (NP those)
+					(VP deprived
+					    (PP of
+						(NP their happy hour
+						    (PP at
+							(NP the cocktail bar))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP Newport last night))
+     (S
+      (NP there)
+      (VP were
+	  (NP flashes
+	      (PP of
+		  (NP distant lightning
+		      (PP in
+			  (NP the northern skies))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADVP perhaps)
+       (ADJP symbolic
+	     (PP of
+		 (NP (NP the jazz
+			 (PP of
+			     (NP the evening)))
+		     --
+		     (NP flashes
+			 (PP in
+			     (NP the distance)))
+		     ,
+		     but
+		     (NP no storm))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Several times)
+    (S
+     (NP it)
+     (VP came
+	 (PP near
+	     (S (NP *)  
+		(VP breaking)))))
+    ,
+    and
+    (S (NP there)
+       (VP were
+	   (PP in
+	       (NP fact))
+	   (NP some lovely peals
+	       (PP of
+		   (NP thunder))
+	       (PP from
+		   (NP (NP 
+			(NP Jerry Mulligan)
+			's big band)
+		       ,
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP is
+				    (NP (ADJP  (ADVP about)
+					       as
+					       fine)
+					an aggregation
+					(PP as
+					    (S  (NP *)   
+						(AUX has)
+						(VP come
+						    (PP along
+							(PP in
+							    (NP the jazz business))
+							(PP since
+							    (S (NP John Hammond)
+							       (VP found
+								   (NP (NP
+									Count Basie)
+								       (VP working
+									   (PP in
+									       (NP a Kansas City trap)))))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP Mulligan)
+       's band)
+      (AUX has)
+      (VP been
+	  (VP infected
+	    
+	      (PP with
+		  (NP his solid sense
+		      (PP of
+			  (NP swing)))))))
+     ,
+     and
+     (S  
+      (NP (SBAR (WHNP what)
+		(S (NP it)
+		   (VP does
+		       (NP T)))))
+      (VP seems
+	  (ADJP  (ADVP far
+		       more)
+		 meaningful
+		 (PP than
+		     (ADJP most
+			   (PP of
+			       (NP (NP the noise)
+				   (VP generated
+				       (PP by
+					   (NP the big concert aggregations)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP (SBAR (WHNP what)
+		   (S (NP T)
+		      (VP is
+			  (ADJP  (ADVP equally)
+				 impressive)))))
+	 (VP is
+	     (NP (NP the delicacy)
+		 and
+		 (NP 
+		  wonderful lyric
+		  quality
+		  (PP of
+		      (NP both
+			  (NP the band)
+			  and
+			  (NP 
+			   (NP Mulligan)
+			   's baritone sax))))
+		 (PP in
+		     (NP a fragile ballad
+			 (PP like
+			     (NP 
+			      (NP Bob Brookmeyer)
+			      's arrangement
+			      (PP of
+				  ``
+				  (NP 
+				   (NP Django)
+				   's
+				   Castle)
+				  '')))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP  subtle
+	    swinging
+	    rhythms))
+    ,
+    (S (NP I)
+       (AUX could)
+       (VP admire
+	   (ADVP intensely)
+	   (NP 
+	    (NP Mulligan)
+	    's version
+	    (PP of
+		(NP  ``
+		    Weep
+		    '')))))
+    ,
+    and
+    (S (NP the fireworks)
+       (VP went
+	   (PP on
+	       (NP display)))
+       (PP in
+	   (NP  ``
+		(NP 18 Carrots 
+		    (PP For
+			(NP Robert)))
+		''
+		,
+		(NP a sax tribute
+		    (PP to
+			(NP Johnny Hodges)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP considerable contrast
+	   (PP between
+	       (NP (NP this Mulligan performance)
+		   and
+		   (NP that
+		       (PP of
+			   (NP (NP (NP Art Blakey)
+				   and
+				   (NP The Jazz Messengers))
+			       ,
+			       (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (VP are
+				       (ADJP able
+					     (S (NP *)
+						(AUX to)
+						(VP generate
+						    (NP a tremendous sound
+							(PP for
+							    (NP  
+							     such
+							     a small group)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Unfortunately)
+      ,
+      (S (NP Blakey)
+	 (AUX does)
+	 (NEG n't)
+	 (VP choose
+	     (S (NP *)
+		(AUX to)
+		(VP work
+		    (PP  (ADVP much)
+			 of
+			 (NP the time))
+		    (PP in
+			(NP this vein)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP prefers
+	  (S (NP *)
+	     (AUX to)
+	     (VP have
+		 (NP his soloist)
+		 (VP performing)))))
+     and
+     thus
+     (S (NP we)
+	(VP get
+	    (NP  only brief
+		 glimpses
+		 (PP of
+		     (SBAR (WHNP what)
+			   (S
+			    (NP his ensemble work)
+			    (VP is
+				(PP like
+				    (NP T)))))))))) 
+  .) 
+(  END_OF_TEXT_UNIT)   
+((S (NP (SBAR (WHNP What)
+	      (S (NP we)
+		 (AUX did)
+		 (VP get
+		     (NP T)))))
+    ,
+    (ADVP however)
+    ,
+    (VP was
+	(ADJP impressive)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A few drops
+	   (PP of
+	       (NP rain)))
+       (PP  (ADVP just)
+	    before
+	    (NP midnight)
+	    ,
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP Sarah Vaughan)
+		(VP was
+		    (PP in
+			(NP the midst
+			    (PP of
+				(NP her first number)))))))
+	    ,)
+       (VP scattered
+	   (NP the
+	       (ADJP (ADVP more)
+		     timid) members
+	       (PP of
+		   (NP the audience)))
+	   (ADVP briefly)))
+    ,
+    but
+    (S (PP at
+	   (NP this hour))
+       and
+       (PP with
+	   (NP Sarah
+	       (PP on
+		   (NP the stand))))
+       ,
+       (S (ADJP most
+		(PP of
+		    (NP the listeners)))
+	  (VP did)
+	  (NEG n't)
+	  (VP care
+	      (SBAR whether
+		    (S (NP they)
+		       (VP got
+			   (ADJP wet))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Miss Vaughan)
+   (VP was
+       (ADVP back
+	     (PP in
+		 (NP top form)))
+       ,
+       (ADVP somehow)
+       (VP (VP mellowed
+	       (PP-1 *pseudo-attach*)
+	       (PP-2 *pseudo-attach*))
+	   and
+	   (VP improved
+	       (PP-1 with
+		     (NP the passage
+			 (PP of
+			     (NP time))))
+	       --
+	       (PP-2 like
+		     (NP a fine wine))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP (NP the spate
+		(PP of
+		    (NP female vocalists)))
+	    (SBAR 0
+		  (S (NP we)
+		     (AUX have)
+		     (VP been
+			 (VP having
+			     (NP T))))))) 
+    ,
+    (S (NP all
+	   (PP of
+	       (WHNP whom)))
+       (VP (VP took
+	       (NP Sarah)
+	       (PP as
+		   (NP a point
+		       (PP of
+			   (NP departure)))))
+	   and
+	   then
+	   (VP tried
+	       (S (NP *)
+		  (AUX to)
+		  (VP see
+		      (SBAR (WHNP what)
+			    (S (NP they)
+			       (AUX could)
+			       (VP do 
+				   (NP (NP T)
+				       (SBAR that
+					     (S  (NP T) 
+						 (AUX might)
+						 (VP make
+						     (NP her)
+						     (VP seem
+							 (NP old hat))))))))))))))
+    ,
+    (S (NP it)
+       (VP seemed
+	   (SBAR that
+		 (S  (NP (NP all)
+			 (SBAR that
+			       (S (NP T)  
+				  (AUX has)
+				  (VP happened))))
+		     (VP is
+			 (S (NP *)
+			    (AUX to)
+			    (VP make
+				(NP the real thing)
+				(VP seem
+				    (ADJP better)
+				    (PP than
+					(ADVP ever)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Jazz Three open program))
+((S
+  (NP The evening program)
+  (AUX was)
+  (VP opened
+	   
+      (PP by
+	  (NP (NP the Jazz Three)
+	      ,
+	      (NP (NP a Newport group)
+		  (VP consisting
+		      (PP of
+			  (NP (NP Steve Budieshein
+				  (PP on
+				      (NP bass)))
+			      ,
+			      (NP (NP Jack Warner)
+				  ,
+				  (NP drums))
+			      ,
+			      and
+			      (NP (NP Don Cook)
+				  ,
+				  (NP piano))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (NP a continuation
+	   (PP of
+	       (NP (NP a good idea)
+		   (SBAR (WHNP which)
+			 (S (NP T)
+			    (AUX was)
+			    (ADVP first)
+			    (VP tried
+				 
+				(PRT out)
+				(NP (NP Saturday night)
+				    (SBAR 
+				     (WHADVP when)
+				     (S (NP (NP the Eddie Stack group)
+					    ,
+					    (ADVP also)
+					    (NP local talent)
+					    ,)
+					(VP went
+					    (PP on)
+					    (ADVP first)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (S (NP *)  
+	      (VP Putting
+		  (PP on
+		      (NP local musicians))
+		  (PP at
+		      (NP this place
+			  (PP in
+			      (NP the program)))))))
+       (VP serves
+	   (NP a triple purpose)))
+    :
+    (S (NP it)
+       (VP saves
+	   (NP the top flight jazz men
+	       (PP from
+		   (S (NP *)  
+		      (VP being
+			  (VP wasted
+			      (PP in
+				  (NP (NP this unenviable spot)
+				      ,
+				      (SBAR 
+				       (WHADVP when)
+				       (S (NP the audience)
+					  (VP is
+					      (ADJP (ADJP cold)
+						    ,
+						    (ADJP restless)
+						    ,)
+					      and
+					      (PP in
+						  (NP flux))))))))))))))
+    ;
+    ;
+    (S (NP it)
+       (VP prevents
+	   (NP late-comers)
+	   (PP from
+	       (S (NP *)  
+		  (VP missing
+		      (NP some
+			  (PP of
+			      (NP (NP the people)
+				  (SBAR 0
+					(S (NP they)
+					   (AUX have)
+					   (VP come
+					       (NP a long way)
+					       (S (NP *)
+						  (AUX to)
+						  (VP hear
+						      )))))))))))))
+    ,
+    and
+    (S (NP it)
+       (VP gives
+	   (NP the resident musicians)
+	   (NP a chance
+	       (S (NP *)
+		  (AUX to)
+		  (VP perform
+		      (PP before
+			  (NP the
+			      (ADJP famous)
+			      Newport audience))))))))
+ .
+ ) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Jazz Three)
+   (VP displayed
+       (NP their sound musicianship)
+       ,
+       (PP (CONJP (NEG not)
+		  only)
+	   (PP in
+	       (NP their
+		   own
+		   (VP chosen)
+		   set))
+	   ,
+	   but
+	   (PP as
+	       (NP the emergency accompanists
+		   (PP for
+		       (NP (NP (NP Al Minns)
+			       &
+			       (NP Leon James))
+			   ,
+			   (NP (NP the superb jazz dancers)
+			       (SBAR (WHNP who)
+				     (S (NP T)
+					(AUX have)
+					(ADVP now)
+					(VP been
+					    (NP (NP Newport performers
+						    (PP for
+							(NP three successive years)))
+						,
+						(VP (ADVP gradually)
+						    moving
+						    (PP up
+							(PP (PP from
+								(NP a morning seminar
+								    (PP on
+									(NP the evolution
+									    (PP of
+										(NP the blues))))))
+							    (PP to
+								(NP a spot
+								    (PP on
+									(NP the evening program)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Julie Wilson)
+   (VP sings)))
+(  
+ (S (NP (NP Julie Wilson)
+	   ,
+	   (NP a vigorous vocalist
+	       (PP without
+		   (NP many wild twists)))
+	   ,)
+    (VP sang
+	(NP (NP a set)
+	    ,
+	    (SBAR (WHNP a large part
+			(WHPP of
+			      (WHNP which)))
+		  (S (NP T)  
+		     (VP consisted
+			 (PP of
+			     (NP  such
+				  (VP  (ADVP seldom)
+				       heard)
+				  old oldies
+				  (PP as
+				      (NP ``
+					  (NP (NP Hard-Hearted Hannah)
+					      ,
+					      (NP The Vamp Of Savannah))
+					  ''
+					  ,
+					  and
+					  (NP the
+					      (ADJP delightful)
+					      ``
+					      Sunday
+					      '')))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP frosted
+       (NP the cake)
+       (PP with
+	   (NP the
+	       (ADJP (ADVP always)
+		     reliable)
+	       ``
+	       Bill Bailey
+	       ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP this taste
+	    (PP of
+		(NP the 1920s))))
+    ,
+    (S (NP we)
+       (VP leaped
+	   (NP way
+	       (PP out))
+	   (PP to
+	       (NP (NP 
+		    (NP Stan Getz)
+		    's private brand
+		    (PP of
+			(NP progressive jazz)))
+		   ,
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (VP did
+			   (NP 
+			    (ADJP lovely)
+			    ,
+			    (ADJP subtle)
+			    things
+			    (PP for
+				(NP ``
+				    (NP (NP Baubles)
+					,
+					(NP Bangles)
+					And
+					(NP Beads))
+				    ''
+				    ,
+				    and
+				    (NP a couple
+					(PP of
+					    (NP ballards))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Getz)
+   (VP is
+       (NP a difficult musician
+	   (S (NP *)
+	      (AUX to)
+	      (VP categorize)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP plays
+	  (NP his sax)
+	  (ADVP principally)
+	  (PP (PP for
+		  (NP beauty
+		      (PP of
+			  (NP tone))))
+	      ,
+	      (ADVP rather
+		    (PP than
+			(PP for
+			    (NP scintillating flights
+				(PP of
+				    (NP meaningless improvisations)))))))))
+     ,
+     and
+     (S (NP he)
+	(VP has
+	    (NP a quiet way
+		(PP of
+		    (S (NP *)  
+		       (VP (VP getting
+			       (ADVP back))
+			   and
+			   (VP restating
+			       (NP the melody)))
+		       (PP after
+			   (S (NP the improvising)
+			      (VP is
+				  (PP over))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP this))
+     (S
+      (NP he)
+      (AUX is)
+      (VP sticking
+	  (PP with
+	      (NP tradition))))
+     ,
+     (S (VP (ADVP however
+		  far)
+	    removed
+	    (PP from
+		(NP it)))
+	(S
+	 (NP he)
+	 (AUX may)
+	 (VP seem
+	     (S (NP *)
+		(AUX to)
+		(VP be))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Shearing)
+   (VP takes
+       (PP over))))
+(  
+ (S (NP George Shearing)
+    (VP took
+	(PP over)
+	(PP with
+	    (NP (NP his
+		    (ADJP  (ADVP well)
+			   disciplined)
+		    group)
+		,
+		(NP (NP a sextet)
+		    (VP consisting
+			(PP of
+			    (NP (NP vibes)
+				,
+				(NP guitar)
+				,
+				(NP bass)
+				,
+				(NP drums)
+				,
+				(NP 
+				 (NP Shearing)
+				 's piano)
+				and
+				(NP a bongo drummer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP met
+       (PP with
+	   (NP enthusiastic audience approval)))
+   ,
+   (ADVP especially)
+   (SBAR 
+    (WHADVP when)
+    (S (NP he)
+       (VP swung
+	   (PP (PP from
+		   (NP jazz))
+	       (PP to
+		   (NP Latin American things
+		       (PP like
+			   (NP the Mambo)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Shearing)
+      ,
+      (NP himself)
+      ,)
+  (VP seemed
+      (PP to
+	  (NP me))
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (VP playing
+		 (NP 
+		  (ADJP better)
+		  piano
+		  (PP than
+		      (PP in
+			  (NP his
+			      (ADJP recent)
+			      Newport appearances)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A
+	    very
+	    casual
+	    ,
+	    pleasant
+	    program)
+	--
+	(NP one
+	    (PP of
+		(NP (NP those easy-going things)
+		    (SBAR (WHNP that)
+			  (S (NP T)  
+			     (VP make
+				 (NP 
+				  (NP Newport)
+				  's afternoon programs)
+				 (NP (ADJP such)
+				     a relaxing delight)))))))
+	--)
+    (AUX was)
+    (VP held
+	(ADVP again)
+	(PP under
+	    (NP (NP sunny skies)
+		,
+		(NP hot sun)
+		,
+		and
+		(NP a fresh breeze)))
+	(PP for
+	    (NP (NP an audience
+		    (PP of
+			(NP (PP at
+				(ADJP least))
+			    a couple
+			    (PP of
+				(NP thousands)))))
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP came
+			     (PP to
+				 (NP Newport))
+			     (S (S (NP *)
+				   (AUX to)
+				   (VP hear
+				       (NP music)))
+				(ADVP rather
+				      (PP than
+					  (S  (NP *)
+					      (VP go
+						  (PP to
+						      (NP the beach))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Divided
+	   (ADVP almost
+		 equally)
+	   (PP into
+	       (NP two parts))))
+    ,
+    (S (NP it)
+       (VP consisted
+	   (PP of
+	       (NP (NP  ``
+			(NP The Evolution 
+			    (PP Of
+				(NP The Blues)))
+			''
+			,
+			(VP narrated
+			    (PP by
+				(NP (NP Jon Hendricks)
+				    ,
+				    (SBAR 
+				     (WHNP who)
+				     (S (NP T)
+					(AUX had)
+					(VP presented
+					    (NP it)
+					    (NP last year
+						(PP at
+						    (NP  the (NP 
+							      Monterey
+							      ,
+								 Calif.)
+							 ,
+							 Jazz Festival))))))))
+			    ,))
+		   and
+		   (NP an hour-long session
+		       (PP of
+			   (NP (NP (NP Maynard Ferguson)
+				   and
+				   (NP his orchestra))
+			       ,
+			       (NP a
+				   blasting big
+				   band)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP Hendricks)
+       ' story)
+      (AUX was)
+      (VP designed
+        
+	  (PP for
+	      (NP children))))
+     and
+     (S (NP he)
+	(VP had
+	    (NP a small audience
+		(PP of
+		    (NP small children)))
+	    (ADVP right)
+	    (PP on
+		(NP stage))
+	    (PP with
+		(NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Tracing
+	   (NP the blues)
+	   (PP from
+	       (NP its African roots
+		   (PP among
+		       (NP (NP the slaves)
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (AUX were)
+				    (VP brought
+				      
+					(PP to
+					    (NP (NP this country)
+						and
+						(NP the West Indies))))))))))))
+    ,
+    (S (NP he)
+       (VP stressed
+	   (NP the close relationship
+	       (PP between
+		   (NP (NP the early jazz forms)
+		       and
+		       (NP the music
+			   (PP of
+			       (NP the Negro churches)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Surprise addition))
+( 
+ (S (S  (NP *) 
+	(AUX To)
+	(VP help
+	    (NP him)
+	    (PP on
+		(NP this religious aspect
+		    (PP of
+			(NP primitive jazz))))))
+    (S (NP he)
+       (VP had
+	   (NP (NP (NP  ``
+			Big
+			''
+			Miller)
+		   ,
+		   (PP as
+		       (NP a preacher-singer)))
+	       and
+	       (NP (NP Hannah Dean)
+		   ,
+		   (NP Gospel-singer))
+	       ,))
+       (SBAR while
+	     (S  
+	      (NP (NP Oscar Brown Jr.)
+		  ,
+		  (NP an
+		      (ADJP (ADVP extremely)
+			    talented) young
+		      man)
+		  ,)
+	      (VP did
+		  (NP (NP 
+		       (NP a slave auctioneer)
+		       's call)
+		      ,
+		      (NP 
+		       (NP a field-hands)
+		       ' work song)
+		      ,
+		      and
+		      (NP (NP a
+			      (VP  (ADVP beautifully)
+				   sung)
+			      Negro lullaby)
+			  ,
+			  (NP (NP  ``
+				   Brown Baby
+				   '')
+			      ,
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (VP was
+				      (NP one
+					  (PP of
+					      (NP the
+						  (ADVP truly)
+						  moving moments
+						  (PP of
+						      (NP the
+							  festival))))))))))))))))
+ .
+  ) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP One
+      (PP of
+	  (NP (NP those delightful surprise additions)
+	      ,
+	      (SBAR (WHNP which)
+		    (S  (NP T)  
+			(ADVP so
+			      frequently)
+			(VP occur
+			    (PP in
+				(NP jazz programs)))))
+	      ,)))
+  (VP was
+      (NP an excellent stint
+	  (PP at
+	      (NP the drums))
+	  (PP by
+	      (NP (NP the
+		      (ADJP great)
+		      Joe Jones)
+		  ,
+		  (VP drumming
+		      (PP to
+			  (NP (NP  ``
+				   Old Man
+				   River
+				   '')
+			      ,
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (VP seems
+				      (S (NP *)
+					 (AUX to)
+					 (VP have
+					     (VP been
+						 (VP elected
+					    
+						     (NP the favorite solo
+							 (PP for
+							     (NP the boys
+								 (PP on
+								     (NP the batterie))))
+							 (PP at
+							     (NP 
+							      (NP this year)
+							      's concerts))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Demonstrating
+	   (NP the
+	       (ADJP primitive)
+	       African rhythmic backgrounds
+	       (PP of
+		   (NP the Blues)))))
+    (SINV (VP was)
+	  (NP (NP Michael Babatunde Olatunji)
+	      ,
+	      (SBAR 
+	       (WHNP who)
+	       (S (NP T)
+		  (VP (VP plays
+			  (NP 
+			   such native
+			   drums
+			   (PP as
+			       (NP the konga))))
+		      and
+		      even
+		      (VP does
+			  (NP a resounding job)
+			  (S (NP *)  
+			     (VP slapping
+				 (NP his own chest))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (X (AUX has)
+	 (VP been
+	     (PP on
+		 (NP 
+		  (ADJP previous)
+		  Newport programs))))
+      and
+      (VP was
+	  (NP one
+	      (PP of
+		  (NP the sensations
+		      (PP of
+			  (NP 
+			   (NP last year)
+			   's afternoon concerts))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Hendricks)
+    (VP had
+	(NP (NP (NP Billy Mitchell)
+		,
+		(NP tenor sax))
+	    ;
+	    ;
+	    (NP (NP Pony Poindexter)
+		,
+		(NP alto sax))
+	    ;
+	    ;
+	    (NP (NP Jimmy Witherspoon)
+		,
+		(NP (NP Blues singer)
+		    *LRB*
+		    and
+		    (NP a
+			(ADJP good)
+			one)
+		    *RRB*))
+	    ,
+	    and
+	    (NP (NP the Ike Isaacs Trio)
+		,
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (AUX has)
+			 (VP done
+			     (NP 
+			      (ADJP such wonderful)
+			      work))
+			 (PP for
+			     (NP two afternoons))
+			 (ADVP now)))
+		,))
+	(S  (NP *) 
+	    (VP helping
+		(NP him)
+		(PP with
+		    (NP the musical examples))))))
+ .)
+(  END_OF_TEXT_UNIT)   
+( (S (NP (NP It)
+	 (NP all))
+     (VP went
+	 (ADVP very
+	       well)))
+  .)
+(  END_OF_TEXT_UNIT)   
+( 
+ (S (NP (NP Pianists)
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP are
+		     (ADJP serious
+			   (PP about
+			       (NP their work)))))))
+    (VP are
+	(ADJP likely
+	      (S (NP *)
+		 (AUX to)
+		 (VP know
+		     (NP (NP the interesting material)
+			 (VP contained
+			     (PP in
+				 (NP Schubert 's Sonatas)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+
+((S (NP (NP Music lovers)
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP are)
+		 (NEG not
+		      (ADJP familiar
+			    (PP with
+				(NP this literature)))))))
+    (AUX may)
+    (VP hear
+	(NP (NP an excellent example)
+	    ,
+	    (VP played
+		(PP for
+		    (NP RCA))
+		(PP by
+		    (NP Emil Gilels))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX has)
+   (VP chosen
+       (NP Sonata Op. 53
+	   (PP in
+	       (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The playing)
+   (VP takes
+       (NP both
+	   sides
+	   (PP of
+	       (NP the disc)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Perhaps)
+      (S (NP one
+	     (PP of
+		 (NP (NP the reasons)
+		     (SBAR 0
+			   (S (NP these Sonatas)
+			      (AUX are)
+			      (NEG not)
+			      (VP programmed
+		  
+				  (ADVP more often)))))))
+	 (VP is
+	     (NP their great length))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Rhythmic interest)
+      ,
+      (NP melodic beauty)
+      and
+      (NP the expansiveness
+	  (PP of
+	      (NP the writing))))
+  (VP are
+      (NP (NP all)
+	  (NP (NP qualities)
+	      (SBAR (WHNP which)
+		    (S (NP T)
+		       (VP hold
+			   (NP (NP one)
+			       's
+			       attention)
+			   (PP with
+			       (NP the Gilels playing)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His technique)
+      (VP is
+	  (ADJP ample)))
+     and
+     (S (NP his musical ideas)
+	(AUX are)
+	(VP projected
+	    (ADVP beautifully))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The male chorus
+       (PP of
+	   (NP the Robert Shaw Chorale)))
+   (VP sings
+       (NP Sea Shanties)
+       (PP in
+	   (NP fine style))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The group)
+   (AUX is)
+   (VP  (ADVP superbly)
+	trained
+	))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (NP  What
+	 a discussion)
+     (AUX can)
+     (VP ensue)
+     (SBAR 
+      (WHADVP when)
+      (S (NP the title
+	     (PP of
+		 (NP this type
+		     (PP of
+			 (NP song)))))
+	 (VP is
+	     (PP in
+		 (NP question))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SQ (VP Do)
+	 (NP you)
+	 (VP say
+	     (NP chantey)
+	     ,
+	     (PP as
+		 (SBAR if
+		       (S (NP the word)
+			  (AUX were)
+			  (VP derived
+			  
+			      (PP from
+				  (NP (NP the French word chanter)
+				      ,
+				      (S (NP *)
+					 (AUX to)
+					 (VP sing))))))))
+	     ,))
+     or
+     (SQ (VP do)
+	 (NP you)
+	 (VP (VP say
+		 (NP shanty))
+	     and
+	     (VP think
+		 (PP of
+		     (NP (NP a
+			     (ADJP  (ADVP roughly)
+				    built)
+			     cabin)
+			 ,
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (VP derives
+				 (NP its name)
+				 (PP from
+				     (NP the French-Canadian use
+					 (PP of
+					     (NP (NP the word)
+						 (NP chantier)
+						 ,
+						 (PP with
+						     (NP (NP one
+							     (PP of
+								 (NP its
+								     meanings)))
+							 (VP given
+							     (PP as
+								 (NP a boat-yard))))))))))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP say
+       (NP chantey)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Either way)
+    ,
+    (S (NP the Robert Shaw chorus)
+       (VP sings
+	   (NP them)
+	   (PP in
+	       (NP fine style))
+	   (PP with
+	       (NP (NP (NP every colorful word)
+		       and
+		       (NP its musical frame))
+		   (S (NP *)  
+		      (VP spelled
+			  (PRT out)
+			  (PP in
+			      (NP terms
+				  (PP of
+				      (NP agreeable listening)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP your favorite song)
+	      (VP is)
+	      (NEG not
+		   (ADVP here))))
+     (S (NP it)
+	(AUX must)
+	(VP be
+	    (NP an
+		(ADJP unfamiliar)
+		one))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The London label)
+   (VP offers
+       (NP an operatic recital
+	   (PP by
+	       (NP (NP Ettore Bastianini)
+		   ,
+		   (NP (NP a baritone)
+		       (SBAR (WHNP whose fame)
+			     (S (NP T)
+				(VP is
+				    (ADJP international))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

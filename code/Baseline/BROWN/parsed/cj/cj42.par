@@ -1,0 +1,2282 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP the century
+	  (PP (PP from
+		  (NP 1815))
+	      (PP to
+		  (NP 1914)))))
+  (S
+   (NP the law
+       (PP of
+	   (NP nations)))
+   (VP became
+       (NP international law))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Several factors)
+   (VP contributed
+       (PP to
+	   (NP this change))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Congress
+	(PP of
+	    (NP Vienna)))
+    (VP is
+	(NP a
+	    convenient
+	    starting
+	    point))
+    (SBAR because
+	  (S (NP it)
+	     (VP  both
+		  epitomized
+		  and
+		  symbolized
+		  (SBAR
+		   (WHNP what)
+		   (S (NP T)
+		      (VP was
+			  (S (NP *)
+			     (AUX to)
+			     (VP follow)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      (PP in
+	  (NP 1815))
+      (S
+       (NP the great nations)
+       (VP assembled
+	   (S (NP *)
+	      (AUX to)
+	      (VP legislate
+		  (PP (CONJP (NEG not)
+			     merely)
+		      (PP for
+			  (NP Europe))
+		      ,
+		      but
+		      (PP for
+			  (NP the world))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP the Congress)
+	 (VP marks
+	     (NP a formal recognition
+		 (PP of
+		     (NP (NP the political system)
+			 (SBAR 
+			  (WHNP that)
+			  (S (NP T)
+			     (VP was
+				 (ADJP central
+				       (PP to
+					   (NP world politics))))
+			     (PP for
+				 (NP a century))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP International law)
+      (VP had
+	  (S (NP *)
+	     (AUX to)
+	     (VP fit
+		 (NP the conditions
+		     (PP of
+			 (NP Europe)))))))
+     ,
+     and
+     (S  
+      (NP (NP nothing)
+	  (SBAR  
+	   (WHNP that)
+	   (S (NP T)
+	      (AUX could)
+	      (NEG not)
+	      (VP fit
+		  (NP (NP this system)
+		      ,
+		      or
+		      (NP the interests
+			  (PP of
+			      (NP the
+				  (ADJP great)
+				  European nations))
+			  (ADVP collectively))
+		      ,)))))
+      (AUX could)
+      (ADVP possibly)
+      (VP emerge
+	  (PP as
+	      (NP law))
+	  (PP in
+	      (NP any meaningful sense)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Essentially)
+      (S (NP this)
+	 (VP imposed
+	     (NP (NP two conditions)
+		 :
+		 (S (S (ADVP First)
+		       ,
+		       (S (NP (ADJP international)
+			      law)
+			  (VP had
+			      (S (NP *)
+				 (AUX to)
+				 (VP (VP recognize
+					 (NP-1 *pseudo-attach*)) 
+				     and 
+				     (VP be
+					 (ADJP compatible
+					       (PP with
+						   (NP-1 (NP an
+							     international political
+							     system)
+							 (SBAR (WHPP in
+								     (WHNP which))
+							       (S
+								(NP a number
+								    (PP of
+									(NP states)))
+								(VP were
+								    (ADJP competitive
+									  ,
+									  suspicious
+									  ,
+									  and
+									  opportunistic)
+								    (PP in
+									(NP their political alignments
+									    (PP with
+										(NP one
+										    another))))))))))))))))
+		    ;
+		    ;
+		    (S (ADVP second)
+		       ,
+		       (S  (NP it)
+			   (VP had
+			       (S (NP *)
+				  (AUX to)
+				  (VP be
+				      (ADJP compatible
+					    (PP with
+						(NP (NP the value system)
+						    (SBAR (WHNP that)
+							  (S (NP they)
+							     (VP shared
+								 (NP T)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP both
+	     respects))
+     ,
+     (S (NP international law)
+	(AUX was)
+	(VP Europeanized
+	    )))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NEG not)
+       (ADVP always)
+       (ADJP easy))
+   (S (NP *)
+      (AUX to)
+      (VP develop
+	  (NP (NP (NP theory) and (NP doctrine))
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (AUX would)
+		  (VP square
+		      (NP the two conditions))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the one hand))
+   ,
+   (S (NP the
+	  (ADJP major)
+	  European nations)
+      (VP had
+	  (S (NP *)
+	     (AUX to)
+	     (VP maintain
+		 (PP  vis-a-vis
+		      (NP each other))
+		 (NP an emphasis
+		     (PP upon
+			 (NP (NP sovereignty)
+			     ,
+			     (NP independence)
+			     ,
+			     (NP formal equality)))))))
+      --
+      (S  (NP *) 
+	  (ADVP thus)
+	  (VP insuring
+	      (PP for
+		  (NP themselves))
+	      (ADVP individually)
+	      (NP an optimal freedom
+		  (PP of
+		      (NP action)))
+	      (S (S (NP *)
+		    (AUX to)
+		    (VP maintain
+			(NP (NP the
+				``
+				flexibility
+				(PP of
+				    (NP alignment))
+				'')
+			    (SBAR (WHNP that)
+				  (S (NP the system)
+				     (VP required
+					 (NP T)))))))
+		 and
+		 (S (NP *)
+		    (AUX to)
+		    (VP avoid
+			(NP (NP anything)
+			    (VP approaching
+				(NP a repetition
+				    (PP of
+					(NP the
+					    disastrous Napoleonic
+					    experience))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP there)
+	 (VP was
+	     (NP no (ADJP pressing) need
+		 (S (NP *)
+		    (AUX to)
+		    (VP maintain
+			(NP these same standards))
+		    (PP with
+			(NP regard
+			    (PP to
+				(NP most
+				    (PP of
+					(NP the rest
+					    (PP of
+						(NP the world)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP (NP (NP theory) and (NP doctrine))
+	     (ADJP applicable
+		   (PP among
+		       (NP (NP the great nations)
+			   and
+			   (NP the
+			       (ADJP smaller)
+			       European states)))))
+	 (AUX did)
+	 (NEG not)
+	 (ADVP really)
+	 (VP  (ADVP comfortably)
+	      fit
+	      (NP (NP (ADJP   (ADJP less
+				    developed)
+			      and
+			      (ADJP  less
+				     powerful))
+		      societies)
+		  (ADVP elsewhere)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Political interference
+      (PP (PP in
+	      (NP (NP Africa)
+		  and
+		  (NP Asia)))
+	  and
+	  (PP  (ADVP even)
+	       in
+	       (NP Latin America))))
+  *LRB*
+  (SBAR though
+	(S   (NP *) 
+	     (VP limited
+		 (PP in
+		     (NP Latin America))
+		 (PP by
+		     (NP (NP the special interest
+			     (PP of
+				 (NP the United States)))
+			 (PP as
+			     (S  (NP *)  
+				 (VP expressed
+				     (PP in
+					 (NP (NP the Monroe Doctrine)
+					     ,
+					     (NP itself)
+						(ADJP (ADJP   
+						       (PP from
+							   (NP the outset))
+						       related
+						       (PP to
+							   (NP European politics)))
+						      and
+						      (ADJP  (ADVP long)
+							     dependent
+							     (PP upon
+								 (NP the
+								     (NP ``
+									 balance
+									 (PP of
+									     (NP power))
+									 '')
+								     system
+								     (PP in
+									 (NP Europe))))))))))))))))
+  *RRB*
+  (VP was
+      (ADJP necessary))
+  (SBAR  in
+	 order
+	(S (NP *)
+	   (AUX to)
+	   (VP preserve
+	       (NP both
+		   (NP common economic
+		       values)
+		   and
+		   (NP (NP the European
+			   ``
+			   balance
+			   '')
+		       (NP itself)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP A nation)
+	   (ADJP such
+		 (PP as
+		     (NP Switzerland))))
+       (X (X (AUX could)
+	     (VP be
+		 (VP neutralized
+	     
+		     (PP by
+			 (NP agreement)))))
+	  and
+	  (X  
+	   (AUX could)
+	   (VP be
+	       (VP relied
+	      
+		   (PP upon
+		       (NP *) )
+		   (S (NP *)
+		      (AUX to)
+		      (VP protect
+			  (NP its neutrality))))))))
+    ;
+    ;
+    (SINV  
+     (ADJP  (ADJP more
+		  doubtful)
+	    ,
+	    but
+	    (ADJP (ADJP possible)
+		  ,
+		  *LRB*
+		  (PP with
+		      (NP an assist
+			  (PP from
+			      (NP the North))))
+		  *RRB*))
+     (VP was)
+     (NP the neutralization
+	 (PP of
+	     (NP the Latin American countries))))
+    ;
+    ;
+    (SINV (PP out
+	      (PP of
+		  (NP the question)))
+	  (VP was)
+	  (NP the neutralization
+	      (PP of
+		  (NP (NP Asia)
+		      and
+		      (NP Africa))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This Europeanization
+       (PP of
+	   (NP the law)))
+   (AUX was)
+   (VP made
+       (ADJP explicit)
+       (PP by
+	   (NP a number
+	       (PP of
+		   (NP 19th century scholars))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (ADJP More)
+       emphasis)
+      (AUX was)
+      (VP put
+	     
+	  (PP upon
+	      (NP the fact
+		  (SBAR that
+			(S (NP international law)
+			   (VP was
+			       (NP the law
+				   (PP of
+				       (NP  ``
+					    (ADJP civilized) nations
+					    ''))))))))))
+     ;
+     ;
+     (S (NP (NP (NP Kent)
+		and
+		(NP Story))
+	    ,
+	    (NP the
+		great early
+		American scholars)
+	    ,)
+	(ADVP repeatedly)
+	(VP made
+	    (NP use)
+	    (PP (PP of
+		    (NP this phrase))
+		,
+		or
+		(PP of
+		    (NP (NP  ``
+			     Christian nations
+			     '')
+			,
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (VP is
+				(NP a substantial equivalent))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Wheaton)
+   (VP stated
+       (SBAR that
+	     (S (NP the public law)
+		(AUX was)
+		(ADVP essentially)
+		(VP  ``
+		     limited
+			  
+		     (PP (PP to
+			     (NP the
+				 (ADJP civilized
+				       and
+				       Christian) peoples
+				 (PP of
+				     (NP Europe))))
+			 or
+			 (PP to
+			     (NP those
+				 (PP of
+				     (NP European origin)))))
+		     '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP Of
+	    (NP course))
+	(S
+	 (NP it)
+	 (AUX had)
+	 (ADVP always)
+	 (VP been
+	     (PP of
+		 (NP European origin)))
+	 (PP in
+	     (NP fact))))
+     ,
+     but
+     (S (NP it)
+	(AUX had)
+	(VP maintained
+	    (NP a universal outlook)
+	    (PP under
+		(NP the natural law theory)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      ,
+      (PP with
+	  (NP  (ADVP virtually)
+	       every writer))
+      ,
+      (S  (CONJP (NEG not)
+		 only)
+	  (SINV  
+	   (AUX  was)
+	   (NP the European origin
+	       (PP of
+		   (NP public law)))
+	   (VP acknowledged
+	       (PP as
+		   (NP a historical phenomenon))))
+	  ,
+	  but
+	  (S (NP (NP the rules)
+		 (VP  (ADVP thus)
+		      established
+		      (PP by
+			  (NP the (ADJP advanced) civilizations
+			      (PP of
+				  (NP Europe))))))
+	     (VP were
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(VP imposed
+		  
+			    (PP on
+				(NP others)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The European customs)
+      (SBAR (WHPP on
+		  (WHNP which))
+	    (S (NP international law)
+	       (AUX was)
+	       (VP based
+		   ))))
+  (VP were
+      (S (NP *)
+	 (AUX to)
+	 (VP become
+	     ,
+	     (PP by
+		 (NP (NP force) and (NP fiat)))
+	     ,
+	     (NP (NP the customs)
+		 (SBAR (WHNP that)
+		       (S (NP others)
+			  (VP were
+			      (S (NP *)
+				 (AUX to)
+				 (VP accept
+				     (NP T)
+				     (PP as
+					 (NP law)))))
+			  (SBAR if
+				(S (NP they)
+				   (VP were
+				       (S (NP *)
+					  (AUX to)
+					  (VP join
+					      (NP this community))
+					  (PP as
+					      (NP sovereign states)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP Hall)
+  ,
+  (PP for
+      (NP example))
+  ,
+  (VP was
+      (ADJP  quite
+	     explicit
+	     (PP on
+		 (NP this point))))
+  (SBAR 
+   (WHADVP when)
+   (S (NP he)
+      (VP said
+	  (SBAR 0
+		(S (NP states
+		       (PP outside
+			   (NP European civilization)))
+		   (AUX must)
+		   (VP  (ADVP formally)
+			enter
+			(PP into
+			    (NP the circle
+				(PP of
+				    (NP law-governed countries)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (AUX must)
+      (VP do
+	  (NP something)
+	  (PP with
+	      (NP the acquiescence
+		  (PP of
+		      (NP (NP the latter)
+			  ,
+			  or
+			  (NP some
+			      (PP of
+				  (NP them)))))))))
+     ,
+     (SBAR 
+      (WHNP which)
+      (S (NP T)
+	 (VP amounts
+	     (PP to
+		 (NP an acceptance
+		     (PP of
+			 (NP the law))
+		     (PP in
+			 (NP its entirety)))))
+	 (PP beyond
+	     (NP all possibility
+		 (PP of
+		     (NP misconstruction)))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the nineteenth century))
+   (S (NP these views)
+      (AUX were)
+      (VP protested
+	  (PP by
+	      (NP  (ADVP virtually)
+		   all
+		   the Latin American writers))
+	  ,
+	  (ADVP   though
+		ineffectively))
+      ,
+      (PP  (ADVP just)
+	   as
+	   (S (NP the new nations
+		  (PP of
+		      (NP (NP Africa)
+			  and
+			  (NP Asia))))
+	      (VP protest
+		  (NP them)
+		  ,
+		  (PP with
+		      (NP 
+		       (ADJP more)
+		       effect)))
+	      ,
+	      (NP today)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A number
+       (PP of
+	   (NP 
+	    other nineteenth-century
+	    developments)))
+   (VP contributed
+       (PP to
+	   (NP (NP the transmutation
+		   (PP of
+		       (NP the law
+			   (PP of
+			       (NP nations))))
+		   (PP into
+		       (NP international law)))
+	        ;
+	       ;
+	       (S (NP that)
+		  (VP is))
+	       ,
+	       (PP from
+		   (NP aspects
+		       (PP of
+			   (NP a universal system
+			       (PP of
+				   (NP Justice))))
+		       (PP into
+			   (NP (NP particular rules)
+			       (VP governing
+				   (NP the relations
+				       (PP of
+					   (NP sovereign states))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The difference)
+      (VP is
+	  (ADJP important)))
+     ,
+     for
+     (S  (SBAR although
+	       (S (NP the
+		      (ADJP older)
+		      law
+		      (PP of
+			  (NP nations)))
+		  (AUX did)
+		  (VP cover
+		      (NP relationships
+			  (PP among
+			      (NP sovereigns)))))
+	       ,
+	       (S (NP this)
+		  (VP was
+		      (PP by
+			  (NP no means))
+		      (NP its exclusive domain))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The law
+       (PP of
+	   (NP nature)))
+   (VP governed
+       (NP sovereigns)
+       (PP in
+	   (NP their relationship
+	       (PP (PP to
+		       (NP their own citizens))
+		   ,
+		   (PP to
+		       (NP foreigners))
+		   ,
+		   and
+		   (PP to
+		       (NP each
+			   other)))))
+       (PP in
+	   (NP a
+	       (ADJP  (ADVP conceptually)
+		      unified)
+	       system))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The theory
+	  (PP of
+	      (NP international law)))
+      ,
+      (SBAR  
+       (WHNP which)
+       (S  
+	(PP in
+	    (NP the nineteenth century))
+	(S (NP T)
+	   (VP became
+	       (ADJP common)
+	       (PP to
+		   (NP  virtually
+			all writers
+			(PP in
+			    (NP (NP Europe)
+				and
+				(NP America)))))))))
+      ,)
+  (VP broke
+      (NP (NP this unity)
+	  and
+	  (NP this universality))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP lost
+	   (NP sight
+	       (PP of
+		   (NP the individual)))
+	   (ADVP (ADVP almost)
+		 entirely))
+       and
+       (VP confined
+	   (NP itself)
+	   (PP to
+	       (NP (NP rules)
+		   (VP limiting
+		       (NP the exercise
+			   (PP of
+			       (NP state power))))))))
+   (PP for
+       (NP (NP reasons)
+	   (ADJP  (ADVP essentially)
+		  unconnected
+		  (PP with
+		      (NP (NP justice) or (NP morality)))
+		  (PP save
+		      (PP as
+			  (S (NP these values)
+			     (AUX might)
+			     (VP affect
+				 (NP international relations)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S
+  (SINV (ADVP No
+	      longer)
+	(AUX did)
+	(NP the
+	    sovereign)
+	(VP look
+	    (PP to
+		(NP the law
+		    (PP of
+			(NP nations)))))
+	(S (NP *)
+	   (AUX to)
+	   (VP determine
+	       (SBAR (WHNP what)
+		     (S
+		      (NP he)
+		      (VP  ought
+			   (S  (NP *) 
+			       (AUX to)
+			       (VP do
+				   (NP T) ))))))))
+  ;
+  ;
+  (S (NP his search)
+     (VP was
+	 (ADVP merely)
+	 (PP for
+	     (NP (NP rules)
+		 (SBAR 
+		  (WHNP that)
+		  (S (NP T)
+		     (AUX might)
+		     (VP limit
+			 (NP his freedom
+			     (PP of
+				 (NP action)))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP appreciate
+	    (NP this development)))
+     ,
+     (S (NP we)
+	(AUX must)
+	(VP relate
+	    (NP it)
+	    (PP to
+		(NP other aspects
+		    (PP of
+			(NP nineteenth-century philosophy)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (ADJP (ADJP First)
+	 ,
+	 and
+	 (ADJP  most obvious)
+	 ,)
+   (VP was)
+   (NP (NP the (VP growing) nationalism)
+       and
+       (NP the tendency
+	   (S (NP *)
+	      (AUX to)
+	      (VP regard
+		  (NP (NP the state)
+		      ,
+		      and
+		      (NP 
+		       (NP the individual)
+		       's identification
+		       (PP with
+			   (NP the state)))
+		      ,)
+		  (PP as
+		      (S  (NP *)
+			  (VP transcending
+			      (NP other ties
+				  (PP of
+				      (NP social solidarity)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP National identification)
+      (VP was
+	  (NEG not)
+	  (ADJP new)))
+     ,
+     but
+     (S (NP it)
+	(AUX was)
+	(VP accelerating
+	    (PP in
+		(NP (NP intensity) and (NP scope))))
+	(PP throughout
+	    (NP Europe))
+	(SBAR  as
+	       (S (NP new unifications)
+		  (VP occurred)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP reached
+       (NP its
+	   ultimate philosophical
+	   statement)
+       (PP in
+	   (NP (NP notions
+		   (PP of
+		       (NP  ``
+			    state will
+			    '')))
+	       (VP put
+		   (ADVP forward)
+		   (PP (PP by
+			   (NP the Germans))
+		       ,
+		       (PP (ADVP especially)
+			   by
+			   (NP Hegel))
+		       ,)))))
+   (SBAR although
+	 (S (NP political philosophers)
+	    (AUX will)
+	    (VP recognize
+		(NP its origins)
+		(PP in
+		    (NP the (VP rejected) doctrines
+			(PP of
+			    (NP Hobbes))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP National identification)
+   (AUX was)
+   (VP reflected
+       (ADVP jurisprudentially)
+       (PP in
+	   (NP (NP law theories)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP (VP incorporated
+			   (NP this Hegelian abstraction))
+		       and
+		       (VP saw
+			   (NP (NP law)
+			       ,
+			       (ADJP domestic and international)
+			       ,)
+			   (ADVP simply)
+			   (PP as
+			       (NP its formal reflection))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the international community))
+     (S (NP this)
+	(VP reduced 
+	    (NP law)
+	    (PP to
+		(NP 
+		 (NP Jellinek)
+		 's auto-limitation)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A state)
+      ,
+      (NP the
+	  (ADJP highest)
+	  form
+	  (PP of
+	      (NP human organization))
+	  (PP in
+	      (NP (NP fact) and (NP theory))))
+      ,)
+  (AUX could)
+  (VP be
+      (VP subjected
+	     
+	  (PP to
+	      (NP Law))
+	  (PP  (ADVP only)
+	       by
+	       (NP a manifestation
+		   (PP of
+		       (NP (NP self-will)
+			   ,
+			   or
+			   (NP consent))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (VP According
+       (PP to
+	   (NP the new theories)))
+   ,
+   (S (NP the nineteenth century corporate sovereign)
+      (VP was
+	  (ADJP  ``
+		 sovereign
+		 '')
+	  (PP in
+	      (NP a
+		  (ADJP  (ADVP quite)
+			 new and different) sense
+		  (PP from
+		      (NP his historical predecessors)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S
+	 (NP He)
+	 (ADVP no
+	       longer)
+	 (VP sought
+	     (S (NP *)
+		(AUX to)
+		(VP find
+		    (NP the law)))))
+	;
+	;
+	(S (NP he)
+	   (VP made
+	       (NP it))))
+     ;
+     ;
+     (S (NP he)
+	(AUX could)
+	(VP be
+	    (VP subjected
+		 
+		(PP to
+		    (NP law))))
+	(SBAR (ADVP only)
+	      because
+	      (S (NP he)
+		 (VP agreed
+		 
+		     (S (NP *)
+			(AUX to)
+			(VP be)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP no law)
+	   ,
+	   (ADJP domestic or international)
+	   ,)
+       (PP except
+	   (NP (NP that)
+	       (VP (VP  willed
+			(PP by
+			    (NP-1 *pseudo-attach*)))
+		   ,
+		   (VP acknowledged
+		       (PP by
+			   (NP-1 *pseudo-attach*)))
+		   ,
+		   or
+		   (VP consented
+		       (PP to
+			   (NP *) )
+		       (PP by
+			   (NP-1 states))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (ADJP  Hidden
+	  (PP behind
+	      (NP Hegelian abstractions)))
+   (VP were)
+   (NP  (ADJP more
+	      practical) reasons
+	      (PP for
+		  (NP a (VP changing) jurisprudence))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  
+  (ADJP (ADJP Related
+	      (PP to
+		  (NP-2 *pseudo-attach*)))
+	,
+	but
+	(ADJP distinguishable
+	      (PP from
+		  ,
+		  (NP-2 nationalism))))
+  (VP was)
+  (NP the growth
+      (PP of
+	  (NP democracy)))
+  (PP in
+      (NP (NP one form)
+	  or
+	  (NP another))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (VP Increased)
+	  participation
+	  (PP in
+	      (NP politics)))
+      and
+      (NP the demands
+	  (PP of
+	      (NP various groups))
+	  (PP for
+	      (NP (NP status) and (NP recognition)))))
+  (VP had
+      (NP dramatic effects)
+      (PP upon
+	  (NP law institutions))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The efforts
+       (PP of
+	   (NP various interest groups))
+       (S (NP *)
+	  (AUX to)
+	  (VP control or influence
+	      (NP governmental decisions))))
+   ,
+   (SBAR (ADVP particularly)
+	 (WHADVP when)
+	 (S   (NP *) 
+	      (VP taken
+		  (PP in
+		      (NP conjunction
+			  (PP with
+			      (NP the impact
+				  (PP of
+				      (NP industralization)))))))))  
+   ,
+   (VP led
+       (PP to
+	   (NP a concentration
+	       (PP of
+		   (NP attention))
+	       (PP on
+		   (NP (NP (NP the legislative power)
+			   and
+			   (NP the means))
+		       (SBAR 
+			(WHADVP whereby)
+			(S (NP policy)
+			   (AUX could)
+			   (VP be
+			       (VP formulated
+				   and
+				   enforced
+				   (PP as
+				       (NP law))
+				   (PP through
+				       (NP bureaucratic institutions))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Law)
+   (VP became
+       (NP (NP a conscious process)
+	   ,
+	   (NP (NP something)
+	       (ADJP more
+		     (PP than
+			 (S  (NP *)
+			     (ADVP simply)
+			     (VP (VP doing
+				     (NP justice))
+				 and
+				 (VP looking
+				     (PP to
+					 (NP (NP local customs)
+					     and
+					     (NP a common morality)))
+				     (PP for
+					 (NP applicable norms)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Particularly)
+	 (VP was)
+	 (NP this)
+	 (ADJP true)
+	 (SBAR (SBAR 
+		(WHADVP when)
+		(S (NP (NP the norms)
+		       (VP  (ADVP previously)
+			    applied))
+		   (VP were
+		       (ADVP no
+			     longer)
+		       (ADJP satisfactory)
+		       (PP to
+			   (NP many)))))
+	       ,
+	       (SBAR 
+		(WHADVP when)
+		(S (NP customs)
+		   (AUX were)
+		   (VP  (ADVP rapidly)
+			changing)
+		   (SBAR  as
+			  (S (NP the forces
+				 (PP of
+				     (NP the new productivity)))
+			     (AUX were)
+			     (VP harnessed
+				 )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The old way
+	  (PP of
+	      (S (NP *) 
+		 (VP doing
+		     (NP things)))))
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (VP depended
+	      (PP on
+		  (NP a
+		      (ADJP  (ADVP relatively)
+			     stable) community
+		      (PP with
+			  (NP (NP stable ideas)
+			      (VP dealing
+				  (PP with
+				      (NP familiar situations))))))))))
+      ,)
+  (VP was
+      (ADVP  no
+	     longer)
+      (ADJP adequate
+	    (PP to
+		(NP the task)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  
+  (ADJP First)
+  (VP was)
+  (NP the period
+      (PP of
+	  (NP (NP codification
+		  (PP of
+		      (NP (VP existing)
+			  law)))
+	      :
+	      (NP (NP the Code Napoleon
+		      (PP in
+			  (NP France)))
+		  and
+		  (NP (NP the peculiar codification)
+		      (SBAR (WHNP that)
+			    (S  ,
+				(PP in
+				    (NP fact))
+				,
+				(S  (NP T) 
+				    (VP resulted
+					(PP from
+					    (NP 
+					     (NP Austin)
+					     's restatement and ordering
+					     (PP of
+						 (NP the Common Law))
+					     (PP in
+						 (NP England))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Codification)
+   (AUX was)
+   (VP followed
+	     
+       (PP in
+	   (NP all countries))
+       (PP by
+	   (NP (NP a (VP growing) amount
+		   (PP of
+		       (NP legislation)))
+	       ,
+	       (S (S (NP some)
+		     (VP changing
+			 and
+			 adjusting
+			 (NP the
+			     (ADJP older)
+			     law)))
+		  ,
+		  (S (NP much)
+		     (VP dealing
+			 (PP with
+			     (NP (ADJP (ADVP entirely)
+				       new) situations)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The legislative mills)
+      (AUX have)
+      (VP been
+	  (VP grinding))
+      (ADVP ever
+	    since))
+     ,
+     and
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP its cumbersome processes)
+	    (VP were
+		(ADVP no
+		      longer)
+		(ADJP adequate
+		      (PP to
+			  (NP the task))))))
+	,
+	(S (NP a
+	       (ADJP limited) legislative
+	       authority)
+	   (AUX was)
+	   (VP delegated
+	     
+	       (PP in
+		   (NP (NP one form)
+		       or
+		       (NP another)))
+	       ,
+	       (PP to
+		   (NP the executive))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Whereas
+	  (S (NP the eighteenth century)
+	     (AUX had)
+	     (VP been
+		 (NP (NP a time)
+		     (SBAR (WHPP in (WHNP which ))
+			   (S (NP man)
+			      (VP sought
+				  (NP justice))))))))
+   ,
+   (S (NP the
+	  (ADJP nineteenth and twentieth))
+      (AUX have)
+      (VP been
+	  (NP (NP centuries)
+	      (SBAR (WHPP in (WHNP which ))
+		    (S (NP men)
+		       (VP  are
+			    (ADJP satisfied
+				  (PP with
+				      (NP law))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Indeed)
+     ,
+     (PP with
+	 (NP (VP developed)
+	     positivism))
+     ,
+     (S  
+      (NP the separation
+	  (PP of
+	      (NP law))
+	  (PP (PP from
+		  (NP justice))
+	      ,
+	      or
+	      (PP from
+		  (NP morality)
+		  (ADVP generally))
+	      ,))
+      (VP became
+	  (ADJP  quite
+		 specific))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP municipal systems))
+   (S (NP we)
+      (VP tend
+	  (S (NP *)
+	     (AUX to)
+	     (VP view
+		 (SBAR
+		  (WHNP what)
+		  (S (NP T)
+		     (AUX is)
+		     (VP called
+			 (NP positivism))))
+		 (PP as
+		     (NP  (ADVP fundamentally)
+			  a movement
+			  (S (NP *)
+			     (AUX to)
+			     (VP democratize
+				 (NP policy)
+				 (PP by
+				     (S (NP *)  
+					(VP increasing
+					    (NP the power
+						(PP of
+						    (NP (NP parliament)
+							--
+							(NP the (VP elected) representatives)
+							--)))
+					    (PP at
+						(NP the expense
+						    (PP of
+							(NP the
+							    (ADJP  more
+								   conservative) judiciary))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (SBAR
+	    (WHADVP When)
+	    (S (NP the power
+		   (PP of
+		       (NP the latter)))
+	       (AUX was)
+	       (VP made
+		   (ADJP  both
+			  (ADJP limited) 
+			  and 
+			  (ADJP explicit)))))
+	   --
+	   (SBAR 
+	    (WHADVP when)
+	    (S (S (NP norms)
+		  (AUX were)
+		  (VP (VP clarified)
+		      and
+		      (VP made
+			  (ADJP  more
+				 precise))))
+	       and
+	       (S (NP the creation
+		      (PP of
+			  (NP new norms)))
+		  (AUX was)
+		  (VP placed
+		      (ADVP exclusively)
+		      (PP in
+			  (NP parliamentary hands))))))
+	   --)
+     (S (NP two purposes)
+	(AUX were)
+	(VP served
+	    )
+	:
+	(S (S (NP Government)
+	      (AUX was)
+	      (VP made
+		  (ADJP subservient
+			(PP to
+			    (NP an
+				institutionalized popular
+				will)))))
+	   ,
+	   and
+	   (S (NP law)
+	      (VP became
+		  (NP a rational system
+		      (PP (PP for
+			      (S  (NP *)
+				  (VP implementing
+				      (NP that will))))
+			  ,
+			  (PP for
+			      (S (NP *)
+				 (VP serving
+				     (NP conscious goals))))
+			  ,
+			  (PP for
+			      (S (NP *) 
+				 (VP embodying
+				     (NP the
+					 ``
+					 public policy
+					 '')))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (SBAR-1 *pseudo-attach*))
+      (VP is
+	  (ADJP true))
+      (SBAR-1 that
+	    (S  ,
+		(ADVP initially)
+		,
+		(S (NP the task)
+		   (VP was
+		       (S (NP *)
+			  (AUX to)
+			  (VP remove
+			      (NP (NP restrictions)
+				  (SBAR (WHNP that)
+					(S  ,
+					    (S (NP it)
+					       (AUX was)
+					       (VP thought
+						   ))
+					    ,
+					    (S  (NP T) 
+						(VP inhibited
+						    (NP the free flow
+							(PP of
+							    (NP (NP money)
+								,
+								(NP goods)
+								,
+								and
+								(NP labor))))))))))))))))
+     ;
+     ;
+     but
+     (S (NP  (ADVP even)
+	     laissez-faire)
+	(VP was
+	    (NP a conscious policy))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Law)
+   (AUX was)
+   (VP seen
+	     
+       (PP as
+	   (NP an emanation
+	       (PP of
+		   (NP the
+		       ``
+		       sovereign will
+		       ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP the sovereign)
+	 (VP was
+	     (NEG not)
+	     (NP (NP 
+		  (NP Hobbes)
+		  ' absolute monarch)
+		 but
+		 (ADVP rather)
+		 (NP the parliamentary sovereign
+		     (PP of
+			 (NP Austin)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP was
+	  ,
+	  (ADVP too)
+	  ,
+	  (NP an optimistic philosophy)))
+     ,
+     and
+     (S  ,
+	 (SBAR though
+	       (S (NP it)
+		  (VP separated
+		      (NP law)
+		      (PP from
+			  (NP morality)))))
+	 ,
+	 (S (NP it)
+	    (VP was
+		(PP by
+		    (NP no means))
+		(NP an
+		    (ADJP immoral or amoral)
+		    one)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Man)
+  ,
+  (PP through
+      (NP (NP democratic institutions
+	      (PP of
+		  (NP government)))
+	  and
+	  (NP economic freedom)))
+  ,
+  (VP was
+      (NP master
+	  (PP of
+	      (NP his destiny)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The theory)
+   (AUX did)
+   (NEG not)
+   (VP require
+       ,
+       (SBAR though
+	     (S (NP it)
+		(ADVP unfortunately)
+		(AUX might)
+		(VP acquire
+		    (NP-3 *pseudo-attach*))))
+       ,
+       (NP-3 a Hegelian mystique)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (ADVP merely)
+       (NP a rationalization and ordering
+	   (PP of
+	       (NP new institutions
+		   (PP of
+		       (NP popular government)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (AUX was)
+      (NEG not)
+      (VP opposed
+	     
+	  (PP to
+	      (NP either (NP justice) or (NP morality)))))
+     ;
+     ;
+     (S (NP it)
+	(VP (ADVP merely)
+	    wished
+	    (S (NP *)
+	       (AUX to)
+	       (VP minimize
+		   (NP subjective views
+		       (PP of
+			   (NP (NP officials)
+			       (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (VP wielded
+				       (NP public authority))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Particularly)
+	 (VP was)
+	 (NP this)
+	 (ADJP true)
+	 (SBAR  as
+		(S (NP laissez-faire capitalism)
+		   (VP became
+		       (NP the dominant credo
+			   (PP of
+			       (NP Western society)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (S (NP *)
+	     (AUX To)
+	     (VP free
+		 (NP the factors
+		     (PP of
+			 (NP production))))))
+      (VP was
+	  (NP a major objective
+	      (PP of
+		  (NP the (VP rising) bourgeoisie)))))
+     ,
+     and
+     (S (NP this objective)
+	(VP required
+	    (SBAR (SBAR that
+			(S (NP  (NP governmental authority)
+				--
+				(NP (NP administrative officials) 
+				    and 
+				    (NP judges))
+				--)
+			   (AUX be)
+			   (VP limited
+			       (ADVP  as
+				      precisely and explicitly
+				      (PP  as
+					   (ADJP possible))))))
+		  ;
+		  ;
+		  (SBAR that
+			(S (NP (NP old customs)
+			       (SBAR 
+				(WHNP which)
+				(S (NP T)
+				   (VP inhibited
+				       (NP trade)))))
+			   (AUX be)
+			   (VP abrogated
+			       )))
+		   ;
+		   ;
+		  (SBAR that
+			(S (NP business)
+			   (VP be
+			       (ADJP free
+				     (PP from
+					 (NP (NP (NP governmental supervision) 
+						 and 
+						 (NP notions
+						     (PP of
+							 (NP morality))))
+					     (SBAR 
+					      (WHNP which)
+					      (S (NP T)
+						 (AUX might)
+						 (VP clog
+						     (NP the automatic adjustments
+							 (PP of
+							     (NP the free market))))))))))))
+		  ;
+		  ;
+		  (SBAR that
+			(S (NP (NP obligations
+				   (PP of
+				       (NP status)))
+			       (SBAR 
+				(WHNP that)
+				(S (NP T)
+				   (VP were
+				       (ADJP inconsistent
+					     (PP with
+						 (NP (NP the new politics)
+						     and
+						     (NP the new economics))))))))
+			   (AUX be)
+			   (VP done
+			       (PRT away)
+			       (PP with
+				   (NP *) ))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Contract)
+       --
+       (VP conceived
+	   (PP as
+	       (NP the free bargain
+		   (PP of
+		       (NP formal equals)))))
+       --)
+   (VP replaced
+       (NP the (VP implied) obligations
+	   (PP of
+	       (NP a
+		   (ADJP  more
+			  static and status-conscious) society)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP contract)
+	 (VP was
+	     (NP (NP the
+		     dominant legal
+		     theme
+		     (PP of
+			 (NP the century)))
+		 ,
+		 (NP the touchstone
+		     (PP of
+			 (NP the free society)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Government)
+	 (NP itself))
+     (AUX was)
+     (VP based
+	    
+	 (PP upon
+	     (NP contract))))
+    ;
+    ;
+    (S (NP (NP business organization)
+	   --
+	   (NP the corporation)
+	   --)
+       (AUX was)
+       (VP analyzed
+	        
+	   (PP in
+	       (NP contractual terms))))
+    ;
+    ;
+    (S (S (NP trade)
+	  (AUX was)
+	  (VP based
+	      (PP on
+		  (NP freedom
+		      (PP of
+			  (NP contract))))))
+       ,
+       and
+       (S (NP money)
+	  (AUX was)
+	  (VP lent
+	      and
+	      borrowed
+	      (PP on
+		  (NP contractual terms)))))
+    ;
+    ;
+    (S  
+     (NP  (ADVP even)
+	  marriage
+	  and
+	  the family)
+     (AUX was)
+     (VP seen
+	  
+	 (PP as
+	     (NP a contractual arrangement)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (NEG not)
+       (ADJP surprising))
+   (SBAR-2 that
+	 (S (NP the international obligations
+		(PP of
+		    (NP states)))
+	    (AUX were)
+	    (ADVP also)
+	    (VP viewed
+		      
+		(PP in
+		    (NP terms
+			(PP of
+			    (NP contract))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP fact))
+   ,
+   (S  
+    (NP (NP some)
+	--
+	(S (NP Anzilotti)
+	   (VP is
+	       (NP the principle example)))
+	--)
+    (VP went
+	(ADVP so
+	      far
+	      (PP as
+		  (S (NP *)
+		     (AUX to)
+		     (VP say
+			 (SBAR that
+			       (S (NP all international law)
+				  (AUX could)
+				  (VP be
+				      (VP traced
+					 
+					  (PP to
+					      (NP (NP the
+						      single legal
+						      norm)
+						  ,
+						  (NP Pacta sunt Servanda))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The displacement
+      *LRB*
+      (PP (PP at
+	      (ADJP least))
+	  to
+	  (NP a considerable extent))
+      *RRB*
+      (PP of
+	  (NP the ethical jurisprudence
+	      (PP of
+		  (NP the (ADJP seventeenth and eighteenth) centuries))))
+      (PP by
+	  (NP positivism)))
+  (VP reshaped
+      (NP both international law theory and doctrine)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the first place))
+     (S
+      (NP the new doctrine)
+      (VP brought
+	  (NP a formal separation
+	      (PP of
+		  (ADJP international))
+	      (PP from
+		  (NP municipal law))))
+      ,
+      (S  (NP *) 
+	  (VP rejecting
+	      (NP the
+		  (ADJP earlier)
+		  view
+		  (SBAR that
+			(S (NP both)
+			   (VP were
+			       (NP parts
+				   (PP of
+				       (NP a
+					   universal legal
+					   system)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One result)
+   (VP was
+       (S (NP *)
+	  (AUX to)
+	  (VP nationalize
+	      (NP (NP much)
+		  (SBAR 
+		   (WHNP that)
+		   (S (NP T)
+		      (AUX had)
+		      (VP been
+			  (VP regarded
+			      (PP as
+				  (NP the law
+				      (PP of
+					  (NP nations)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Admiralty law)
+      ,
+      (NP the law merchant)
+      ,
+      and
+      (NP (NP the host
+	      (PP of
+		  (NP problems)))
+	  (SBAR  
+	   (WHNP which)
+	   (S (NP T)
+	      (VP arise
+		  (PP in
+		      (NP private litigation)))
+	      (ADVP because
+		    (PP of
+			(NP some contact
+			    (PP with
+				(NP a foreign country)))))))))
+  (AUX were)
+  (ADVP all)
+  (VP (VP  severed
+	   (PP from
+	       (NP the
+		   (ADJP older)
+		   Law
+		   (PP of
+		       (NP Nations)))))
+      and
+      (VP made
+	  (ADJP dependent
+		(PP on
+		    (NP the several national laws))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP  
+	 Private international
+	 law)
+	*LRB*
+	(SBAR (WHNP which)
+	      (S (NP Americans)
+		 (VP call
+		     (NP the
+			 ``
+			 conflict
+			 (PP of
+			     (NP laws))
+			 ''))))
+	*RRB*)
+    (AUX was)
+    (ADVP thus)
+    (VP segregated
+	 
+	(PP from
+	    (NP (NP international law
+		    (ADJP proper))
+		,
+		or
+		,
+		(PP as
+		    (S (NP it)
+		       (AUX is)
+		       (ADVP often)
+		       (VP called
+			   )))
+		,
+		(NP public international law)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP States)
+    (VP were
+	(ADJP free
+	      (S (S (NP *)
+		    (AUX to)
+		    (VP enact
+			,
+			(PP within
+			    (NP  
+			     (ADJP (ADJP broad)
+				   ,
+				   (ADVP though
+					 *LRB*
+					 (ADVP perhaps)
+					 *RRB*
+					 (ADJP determinate)))
+			     limits))
+			,
+			(NP their own rules)
+			(PP as
+			    (PP to
+				(NP the application
+				    (PP of
+					(NP foreign law))
+				    (PP by
+					(NP their courts)))))))
+		 ,
+		 (S (NP *)
+		    (AUX to)
+		    (VP vary
+			(NP the law merchant)))
+		 ,
+		 and
+		 (S (NP *)
+		    (AUX to)
+		    (VP enact
+			(NP legislation)
+			(PP with
+			    (NP regard
+				(PP to
+				    (NP (NP many claims)
+					(VP arising
+					    (PP on
+						(NP the high seas)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The change)
+    (VP was
+	(NEG not)
+	(ADJP  quite
+	       so
+	       dramatic
+	       (PP as
+		   (S (NP it)
+		      (VP sounds)))))
+    (SBAR because
+	  (S (PP in (NP fact ))
+	     (S (NP common norms)
+		(X (VP continued
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (VP invoked
+			   
+				  (PP by
+				      (NP municipal courts))))))
+		   and
+		   (X  
+		    (AUX were)
+		    (VP (VP (ADVP (ADVP only)
+				  gradually)
+			    changed
+			    (PP by
+				(NP legislation)))
+			,
+			and
+			(X (ADVP then)
+			   (PP  (ADVP largely)
+				in
+				(NP marginal situations))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

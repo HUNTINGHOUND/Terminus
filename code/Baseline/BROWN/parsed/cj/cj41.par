@@ -1,0 +1,2094 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Wage-price policies
+	  (PP of
+	      (NP industry)))
+      (VP are
+	  (NP the result
+	      (PP of
+		  (NP a complex
+		      (PP of
+			  (NP forces)))))))
+     --
+     (S (NP (NP no single explanation)
+	    (SBAR-1 *pseudo-attach*))
+	(AUX has)
+	(VP been
+	    (VP found
+		))
+	(SBAR-1 
+	 (WHNP which)
+	 (S (NP T)
+	    (VP applies
+		(PP to
+		    (NP all cases)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The purpose
+       (PP of
+	   (NP this paper)))
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP analyze
+	      (NP (NP one possible force)
+		  (SBAR (SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (AUX has)
+			    (NEG not)
+			    (VP been
+				(VP treated
+		     
+				    (PP in
+					(NP the literature))))))
+			,
+			but
+			(SBAR (WHNP which)
+			      (S (NP we)
+				 (VP believe
+				     (SBAR 0
+					   (S  (NP T) 
+					       (VP makes
+						   (NP a significant contribution)
+						   (PP to
+						       (S (NP *) 
+							  (VP explaining
+							      (NP the wage-price behavior
+								  (PP of
+								      (NP a few very important industries))))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+	  (S (NP there)
+	     (AUX may)
+	     (VP be
+		 (NP (NP several such industries)
+		     (SBAR (WHPP to
+				 (WHNP which))
+			   (S
+			    (NP the model
+				(PP of
+				    (NP this paper)))
+			    (VP is
+				(ADJP applicable))))))))
+   ,
+   (S (NP the authors)
+      (VP make
+	  (NP particular claim
+	      (PP of
+		  (NP relevance)))
+	  (PP to
+	      (NP the explanation
+		  (PP of
+		      (NP the course
+			  (PP of
+			      (NP (NP wages) and (NP prices)))
+			  (PP in
+			      (NP the steel industry
+				  (PP of
+				      (NP the United States))))
+			  (PP  since
+			       (NP World War 2)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP the apparent stiffening
+	     (PP of
+		 (NP 
+		  (NP the industry)
+		  's attitude))
+	     (PP in
+		 (NP the recent steel strike)))
+	 (VP has
+	     (NP a direct explanation)
+	     (PP in
+		 (NP terms
+		     (PP of
+			 (NP (NP the model)
+			     (VP  (ADVP here)
+				  presented))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The model
+       (PP of
+	   (NP this paper)))
+   (VP considers
+       (NP (NP an industry)
+	   (SBAR (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX is)
+		     (NEG not)
+		     (VP characterized
+			 
+			 (PP by
+			     (NP vigorous price competition)))))
+		 ,
+		 but
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (VP is
+			 (ADJP  so
+				basic
+				(SBAR that
+				      (S (NP its wage-price policies)
+					 (AUX are)
+					 (VP held
+				 
+					     (PP in
+						 (NP check))
+					     (PP by
+						 (NP 
+						  continuous critical
+						  public scrutiny)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP Where)
+      (S (NP
+	  (NP the industry)
+	  's product price)
+	 (AUX has)
+	 (VP been
+	     (VP kept
+		  
+		 (PP below
+		     (NP the
+			 (ADJP ``
+			       profit-maximizing
+			       ''
+			       and
+			       ``
+			       entry-limiting
+			       '')
+			 prices))))
+	 (ADVP  due
+		(PP to
+		    (NP fears
+			(PP of
+			    (NP public reaction)))))))
+     ,
+     (S (NP  the  (ADJP profit
+			seeking)
+	     producers)
+	(VP have
+	    (NP an interest
+		(PP in
+		    (S (NP *)
+		       (VP offering
+			   (NP little real resistance)
+			   (PP to
+			       (NP wage demands)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The contribution
+       (PP of
+	   (NP this paper)))
+   (VP is
+       (NP (NP a demonstration
+	       (PP of
+		   (NP this proposition)))
+	   ,
+	   and
+	   (NP an exploration
+	       (PP of
+		   (NP some
+		       (PP of
+			   (NP its implications))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  In
+	  order
+	 (S (NP *)
+	    (AUX to)
+	    (VP focus
+		(ADVP clearly)
+		(PP upon
+		    (NP the operation
+			(PP of
+			    (NP (NP this one force)
+				,
+				(SBAR (WHNP which)
+				      (S
+				       (NP we)
+				       (AUX may)
+				       (VP  call
+					    (NP T) 
+					    (NP the effect
+						(PP of
+						    (NP  ``
+							 public-limit pricing
+							 ''))
+						(PP on
+						    (NP  (ADJP ``
+							       key
+							       '')
+							 wage bargains))))))
+				,)))))))
+   (S (NP we)
+      (ADVP deliberately)
+      (VP simplify
+	  (NP the model)
+	  (PP by
+	      (S (NP *)
+		 (VP abstracting
+		     (PP from
+			 (NP (NP other forces)
+			     ,
+			     (ADJP such
+				   (PP as
+				       (NP union power)))
+			     ,
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (AUX may)
+				 (VP be
+				     (ADJP relevant)
+				     (PP in
+					 (NP an actual situation)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP expository purposes))
+   ,
+   (S (NP this)
+      (AUX is)
+      (VP  (ADVP best)
+	   treated
+	       
+	   (PP as
+	       (NP (NP a model)
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (VP spells
+			   (PRT out)
+			   (NP (NP the conditions)
+			       (SBAR (WHPP under
+					   (WHNP which))
+				     (S
+				      (NP (NP an important industry)
+					  (VP affected
+					      (PP with
+						  (NP the public interest))))
+				      (AUX would)
+				      (VP find
+					  (NP it)
+					  (ADJP profitable)
+					  (S (NP *)
+					     (AUX to)
+					     (VP raise
+						 (NP wages))))
+				      (PP  (ADVP even)
+					   in
+					   (NP the absence
+					       (PP of
+						   (NP union pressures
+						       (PP for
+							   (NP 
+							    (ADJP higher)
+							    wages)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  Part 1)
+   ,
+  (ADVP below)
+  (VP describes
+      (NP this abstract model)
+      (PP by
+	  (S (NP *) 
+	     (VP spelling
+		 (PRT out)
+		 (NP its assumptions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Part 2)
+  ,
+  (VP (VP discusses
+	  (NP the operation
+	      (PP of
+		  (NP the model))))
+      and
+      (VP derives
+	  (NP some significant conclusions))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Part 3)
+  ,
+  (VP discusses
+      (NP the empirical relevance and policy implications
+	  (PP of
+	      (NP the conclusions)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Part 4)
+  ,
+  (VP is
+      (NP a brief summary)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Mathematical Appendix)
+   (X (VP presents
+	  (NP the rigorous argument))
+      ,
+      but
+      (X  
+       (AUX is)
+       (VP  (ADVP best)
+	    read
+	   
+	    (PP after
+		(NP Part 1)))
+       ,
+       (SBAR  in
+	      order
+	      that
+	      (S (NP (NP the assumptions)
+		     (VP underlying
+			 (NP the equations)))
+		 (AUX may)
+		 (VP be
+		     (ADJP  explicit )))))))
+  .
+  )
+(   
+ (NP (NP 1)
+     ,
+     (NP the assumptions
+	 (PP of
+	     (NP the model
+		 A))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The industry)
+    )
+((S (NP (NP The industry)
+	(SBAR (WHPP with
+		    (WHNP which))
+	      (S (NP this model)
+		 (AUX is)
+		 (VP concerned
+		     ))))
+    (VP is
+	(NP a basic industry)
+	,
+	(S  (NP *)  
+	    (VP producing
+		(NP a substantial share
+		    (PP of
+			(NP 
+			 gross national
+			 product)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Price competition)
+   (VP is
+       (ADJP lacking)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP the purposes
+	   (PP of
+	       (S (NP *) 
+		  (VP setting
+		      (NP the product price))))))
+   ,
+   (S (NP the industry)
+      (VP behaves
+	  (PP as
+	      (NP a single entity)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP wage negotiations))
+   ,
+   (S (NP the industry)
+      (VP bargains
+	  (PP as
+	      (NP a unit))
+	  (PP with
+	      (NP a single union)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP B)
+       .
+       (NP The demand
+	   (PP for
+	       (NP 
+		(NP the industry)
+		's product)))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX are)
+   (VP concerned
+	     
+       (PP with
+	   (NP aggregate demand
+	       (PP for
+		   (NP 
+		    (NP the industry)
+		    's product))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The manner)
+      (SBAR (WHPP in
+		  (WHNP which))
+	    (S (NP this)
+	       (AUX is)
+	       (VP shared
+	        
+		   (PP among
+		       (NP firms))))))
+  (AUX is)
+  (VP taken
+       
+      (PP as
+	  (S  (NP *)
+	      (VP given)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP any (ADJP given) time period))
+  ,
+  (S (NP the aggregate demand
+	 (PP for
+	     (NP 
+	      (NP the industry)
+	      's product)))
+     (AUX is)
+     (VP determined
+	     
+	 (PP by
+	     (NP (NP two things)
+		 :
+		 (NP (NP (NP the price)
+			 (VP charged
+			     (PP by
+				 (NP the industry))))
+		     ,
+		     and
+		     (NP the level
+			 (PP of
+			     (NP A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP For
+      (NP the purposes
+	  (PP of
+	      (NP this discussion))))
+  ,
+  (S (NP the problem
+	 (PP of
+	     (NP relative prices)))
+     (AUX is)
+     (VP encompassed
+	    
+	 (PP in
+	     (NP these two variables)))
+     ,
+     (SBAR since
+	   (S (NP GNP)
+	      (VP includes
+		  (NP other prices))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP We)
+      (VP (VP abstract
+	      (ADVP here)
+	      (PP from
+		  (NP technological progress)))
+	  and
+	  (VP assume
+	      (SBAR that
+		    (S (NP prices
+			   (PP of
+			       (NP all other products)))
+		       (VP change
+			   (ADVP proportionately)))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The form
+	(PP of
+	    (NP the industry demand function)))
+    (VP is
+	(NP (NP one)
+	    (SBAR  
+	     (WHNP which)
+	     (S (NP T)
+		(VP makes
+		    (NP (NP quantity)
+			(VP demanded))
+		    (VP (VP vary
+			    (ADVP inversely)
+			    (PP with
+				(NP the product price)))
+			,
+			and
+			(VP vary
+			    (ADVP directly)
+			    (PP with
+				(NP the level
+				    (PP of
+					(NP A[fj]))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP C)
+     .
+     (NP Industry product price policy)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+
+( (S
+   (NP The industry
+       (PP of
+	   (NP this model)))
+   (VP is
+       (ADJP  so
+	      important
+	      (SBAR that
+		    (S (NP its wage and price policies)
+		       (AUX are)
+		       (VP affected
+			   (PP with
+			       (NP a public interest))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (X  (ADVP  Because
+	      (PP of
+		  (NP its importance)))
+       ,
+       and
+       (SBAR because
+	     (S (NP the lack
+		    (PP of
+			(NP price competition)))
+		(VP  is
+		     (ADJP well
+			   recognized)
+		     ))))
+   ,
+   (S (NP the industry)
+      (VP is
+	  (PP under
+	      (NP considerable public pressure
+		  (S (NP *)
+		     (NEG not)
+		     (AUX to)
+		     (VP raise
+			 (NP its price)
+			 (NP any
+			     more
+			     (PP than
+				 (S (NP *)  
+				    (AUX could)
+				    (VP be
+					(VP justified
+					    (PP by
+						(NP cost increases))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  (NP The threat
+	   (PP of
+	       (NP (NP 
+		    effective anti-trust
+		    action)
+		   ,
+		   (VP provoked
+		       (PP by
+			   (S  ``
+			      (NP *) 
+			      (VP gouging
+				  (NP the public)
+				  ''
+				  (PP through
+				      (NP (NP price increases)
+					  (VP (NEG not)
+					      justified
+					      (PP by
+						  (NP cost increases)))))))))
+		   ,)))
+      and
+      (NP fears
+	  (PP of
+	      (S (NP *)  
+		 (VP endangering
+		     (NP relations
+			 (PP with
+			     (NP (NP customers)
+				 ,
+				 (NP Congress)
+				 ,
+				 (NP the general public)
+				 and
+				 (NP the press))))))))
+      ,)
+  all
+  (VP operate
+      (S (NP *)
+	 (AUX to)
+	 (VP keep
+	     (NP price increases)
+	     (PP in
+		 (NP some relation
+		     (PP to
+			 (NP cost increases))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP the industry
+	   (PP of
+	       (NP this model))))
+   ,
+   (S (NP the effect
+	  (PP of
+	      (NP such public pressures))
+	  (PP in
+	      (NP the past)))
+      (AUX has)
+      (VP been
+	  (S (NP *)
+	     (AUX to)
+	     (VP hold
+		 (NP the price)
+		 (PP (PP (PP  (ADVP well)
+			      below
+			      (NP the
+				  short-run profit-maximizing
+				  price))
+			 *LRB*
+			 (VP given
+			     (NP (NP the wage rate)
+				 and
+				 (NP the level
+				     (PP of
+					 (NP GNP)))))
+			 *RRB*)
+		     ,
+		     and
+		     (PP  (ADVP even)
+			  below
+			  (NP the entry-limited price))
+		     *LRB*
+		     but
+		     (NEG not)
+		     (PP below
+			 (NP average cost))
+		     *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP such
+	   an industry))
+   ,
+   (S (NP it
+	  (S-1 *pseudo-attach*))
+      (VP is
+	  (ADVP only)
+	  (ADJP  ``
+		 safe
+		 ''))
+      (S-1 (NP *)
+	 (AUX to)
+	 (VP raise
+	     (NP its price)))
+      (SBAR if
+	    (S (NP such
+		   an increase)
+	       (AUX is)
+	       (VP  (ADVP manifestly)
+		    ``
+		    justified
+		    ''
+		 
+		    (PP by
+		     
+			(NP (NP (VP rising)
+				costs)
+			    *LRB*
+			    (ADVP  due
+				   (PP to
+				       (NP (NP (VP rising)
+					       wages)
+					   ,
+					   etc
+					   .)))
+			    *RRB*)))))))
+  .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (ADVP Thus)
+       ,
+       (SBAR if
+	     (S (NP public pressure)
+		(VP sets
+		    (NP the effective limit
+			(PP to
+			    (NP (NP the price)
+				(SBAR (WHNP that)
+				      (S (NP the industry)
+					 (AUX may)
+					 (VP charge
+					     (NP T))))))))))
+       ,
+       (S (NP (NP this pressure)
+	      (NP-2 *pseudo-attach*))
+	  (VP is
+	      (NP-2 itself)
+	      (NP a function
+		  (PP of
+		      (NP the wage rate))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP this model))
+   ,
+   (S (NP we)
+      (VP abstract
+	  (PP from
+	      (NP all non-wage sources
+		  (PP of
+		      (NP cost changes)))))
+      ,
+      (SBAR  so
+	     that
+	     (S (NP the
+		    ``
+		    public-limit price
+		    '')
+		(ADVP only)
+		(VP rises)
+		(SBAR  as
+		       (S (NP the wage rate)
+			  (VP rises)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP such circumstances))
+   ,
+   (S (NP it)
+      (AUX may)
+      (ADVP well)
+      (VP be
+	  (PP to
+	      (NP the advantage
+		  (PP of
+		      (NP the industry)))))
+      (S (NP *)
+	 (AUX to)
+	 (VP allow
+	     (NP an increase
+		 (PP in
+		     (NP the basic wage rate)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP marginal costs)
+	     (VP rise)
+	     (SBAR 
+	      (WHADVP when)
+	      (S (NP the wage rate)
+		 (VP rises)))))
+   ,
+   (S (NP the profit-maximizing price)
+      (VP  (VP (ADVP also)
+	       rises
+	       (SBAR 
+		(WHADVP when)
+		(S (NP the public-limit price)
+		   (AUX is)
+		   (VP elevated
+		       ))))
+	   ,
+	   and
+	   (VP is
+	       (ADJP likely
+		     (S (NP *)
+			(AUX to)
+			(VP remain
+			    (PP  (ADVP well)
+				 above
+				 (NP the latter)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The entry-limiting price)
+      (AUX will)
+      (ADVP also)
+      (VP be
+	  (VP raised
+))
+      (PP for
+	  (NP 
+	   potential domestic
+	   competition)))
+     ,
+     but
+     (S (SBAR unless
+	      (S (NP general inflation)
+		 (VP permits
+		     (S (NP profit margins)
+			(AUX to)
+			(VP increase
+			    (ADVP proportionately)
+			    (PP throughout
+				(NP the economy)))))))
+	,
+	(S (NP we)
+	   (AUX might)
+	   (VP expect
+	       (S (NP the public-limit price)
+		  (AUX to)
+		  (VP approach
+		      (NP the entry-limit price)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The foreign-entry-limit price)
+   (AUX would)
+   (VP be
+       (VP approached
+		 
+	   (ADVP more rapidly)))
+   ,
+   (SBAR since
+	 (S (NP domestic wage-rates)
+	    (AUX do)
+	    (NEG not)
+	    (VP enter
+		(NP foreign costs)
+		(ADVP directly)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP Where)
+    (S (NP this approach)
+       (VP becomes
+	   (ADJP critical))))
+   ,
+   (S (NP the industry)
+      (AUX can)
+      (VP be
+	  (VP expected
+		 
+	      (S (NP *)
+		 (AUX to)
+		 (VP put
+		     (NP much emphasis
+			 (PP on
+			     (NP this))
+			 (PP as
+			     (NP evidence
+				 (PP of
+				     (NP its sincerity
+					 (PP in
+					     (S  ``
+						 (NP *)  
+						 (VP resisting
+						     ''
+						     (NP the wage pressures
+							 (PP of
+							     (NP a powerful union))))))))))
+			 ,
+			 (S  (NP *)
+			     (VP requesting
+				 (NP tariff relief))
+			     (PP after
+				 (S (NP it)
+				    (AUX has)
+				    (VP (ADVP ``
+					      reluctantly
+					      '')
+					acceded
+					(PP to
+					    (NP the union pressure)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (SBAR  Whether
+	      or
+	      not
+	      (S (NP it)
+		 (VP is
+		     (PP in
+			 (NP 
+			  (NP the industry)
+			  's interest)))
+		 (S (NP *)
+		    (AUX to)
+		    (VP allow
+			(S (NP the basic wage rate)
+			   (AUX to)
+			   (VP rise)))))))
+   (ADVP obviously)
+   (VP depends
+       (PP upon
+	   (NP (NP (NP the extent)
+		   (SBAR (WHPP to
+			       (WHNP which))
+			 (S
+			  (NP the public-limit price)
+			  (VP rises)
+			  (PP in
+			      (NP response
+				  (PP to
+				      (NP a basic wage increase)))))))
+	       ,
+	       and
+	       (NP the relation
+		   (PP of
+		       (NP this response))
+		   (PP to
+		       (NP (NP the increase
+			       (PP in
+				   (NP costs)))
+			   (VP accompanying
+			       (NP the wage increase)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The extent)
+      (SBAR (WHPP to
+		  (WHNP which))
+	    (S (NP the public-limit price)
+	       (AUX is)
+	       (VP raised
+	        
+		   (PP by
+		       (NP a (ADJP given) increase
+			   (PP in
+			       (NP the basic wage rate))))))))
+  (VP is
+      (NP itself)
+      (NP a function
+	  (PP of
+	      (NP (NP three things)
+		  :
+		  (NP (NP the passage
+			  (PP of
+			      (NP time)))
+		      ,
+		      (NP the level
+			  (PP of
+			      (NP GNP)))
+		      ,
+		      and
+		      (NP the size
+			  (PP of
+			      (NP the wage increase)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (AUX are)
+      (VP abstracting
+	  (PP from
+	      (NP the fact
+		  (PP of
+		      (NP strikes)))))
+      (ADVP here))
+     ,
+     but
+     (S (NP it
+	    (SBAR-2 *pseudo-attach*))
+	(AUX should)
+	(VP be
+	    (ADJP obvious))
+	(SBAR-2 that
+	      (S (NP (NP the extent)
+		     (SBAR (WHPP to
+				 (WHNP which))
+			   (S (NP the public-limit price)
+			      (AUX is)
+			      (VP raised
+				   
+				  (PP by
+				      (NP a (ADJP given) increase
+					  (PP in
+					      (NP the basic wage rate))))))))
+		 (VP is
+		     (ADVP also)
+		     (NP a function
+			 (PP of
+			     (NP (NP the show
+				     (PP of
+					 (NP resistance)))
+				 (VP put
+				     (PRT up)
+				     (PP by
+					 (NP the industry)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The industry)
+   (AUX may)  
+   (VP (ADVP deliberately)
+       take
+       (NP a strike))
+   ,
+   (X   
+    (NEG not)
+    (S (NP *)
+       (AUX to)
+       (VP put
+	   (NP pressure)
+	   (PP on
+	       (NP the union))))
+    ,
+    but
+    (SBAR  in
+	   order
+	   (S (NP *)
+	      (AUX to)
+	      (VP  ``
+		   educate
+		   ''
+		   (NP (NP the government)
+		       and
+		       (NP the customers
+			   (PP of
+			       (NP the industry)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP a strike)
+	     (VP continues)))
+   ,
+   (S (NP these parties)
+      (VP increase
+	  (NP their pressure
+	      (PP on
+		  (NP the industry))
+	      (S (NP *)
+		 (AUX to)
+		 (VP reach
+		     (NP an agreement)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP become
+       (ADJP  (ADVP increasingly)
+	      willing
+	      (S (NP *)
+		 (AUX to)
+		 (VP accept
+		     (NP (NP the price increase)
+			 (SBAR (WHNP that)
+			       (S (NP the industry)
+				  (VP claims
+				      (SBAR 0
+					    (S (NP the wage bargain)
+					       (AUX would)
+					       (VP entail
+						   (NP T)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Public indignation and resistance
+       (PP to
+	   (NP wage-price increases)))
+   (VP is
+       (ADVP obviously)
+       (ADJP  much
+	      less
+	      (SBAR
+	       (WHADVP when)
+	       (S (NP the increases)
+		  (VP are
+		      (PP on
+			  (NP the order
+			      (PP of
+				  (NP 3 %
+				     
+				      (PP per
+					  (NP annum)))))))))
+	      (PP than
+		  (SBAR 
+		   (WHADVP when)
+		   (S (NP the increases)
+		      (VP are
+			  (PP on
+			      (NP the order
+				  (PP of
+				      (NP 3 %
+				     
+					  (PP per
+					      (NP month)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The simple passage
+       (PP of
+	   (NP 
+	    (NP an
+		(ADJP additional)
+		eleven months)
+	    ' time)))
+   (VP makes
+       (NP the
+	   (ADJP second)
+	   3 %
+	   boost)
+       (ADJP  more
+	      acceptable)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP the public-limit price)
+	 (AUX is)
+	 (VP raised
+	     (ADVP further)
+	     (PP by
+		 (NP a (ADJP given) wage increase))))
+      (SBAR (X (ADJP  the
+		      longer))
+	    (S
+	     (NP it)
+	     (AUX has)
+	     (VP been)
+	     (PP  since
+		  (NP the previous price increase)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Notice
+	  ,
+	  (ADVP however)
+	  ,
+	  (SBAR that
+		(S (NP the passage
+		       (PP of
+			   (NP time)))
+		   (AUX does)
+		   (NEG not)
+		   (VP permit
+		       (NP the raising
+			   (PP of
+			       (NP prices))
+			   (PP per
+			       (NP se)))
+		       ,
+		       (PP without
+			   (NP an (VP accompanying) wage increase)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Similarly)
+      ,
+      (S (S (NP
+	     (ADJP higher)
+	     levels
+	     (PP of
+		 (NP GNP)))
+	    (AUX do)
+	    (NEG not)
+	    ,
+	    (PP in
+		(NP themselves))
+	    ,
+	    (VP provide
+		(NP grounds
+		    (PP for
+			(S (NP *)
+			   (VP raising
+			       (NP prices)))))))
+	 ,
+	 but
+	 (S (NP they)
+	    (AUX do)
+	    (VP relax
+		(NP some
+		    (PP of
+			(NP the pressure
+			    (PP on
+				(NP the industry))))))
+	    (SBAR  so
+		   that
+		   (S (NP it)
+		      (AUX can)
+		      (VP raise
+			  (NP prices)
+			  (ADJP higher))
+		      (PP for
+			  (NP a (ADJP given) wage increase)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (AUX is)
+      (NEG not)
+      (VP extended
+	     
+	  (PP to
+	      (NP (VP anticipated)
+		  levels
+		  (PP of
+		      (NP GNP)))))
+      ,
+      (ADVP however))
+     --
+     (S (NP  (ADVP only)
+	     the current level
+	     (PP of
+		 (NP GNP)))
+	(VP affects
+	    (NP the public pressure
+		(PP against
+		    (NP wage-price increases))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Finally)
+	 ,
+	 (SBAR since
+	       (S (NP the public)
+		  (VP requires
+		      (NP some restraint)
+		      (PP on
+			  (NP the part
+			      (PP of
+				  (NP the companies)))))))
+	 ,
+	 (S (NP
+	     (ADJP larger)
+	     wage increases)
+	    (VP call
+		(PP for
+		    (NP (ADJP less
+			      (PP than
+				  (ADJP  (ADVP proportionately)
+					 larger)))
+			price increases)))))
+     *LRB*
+     e.g.
+     ,
+     (S (SBAR if
+	      (S (NP a wage increase
+		     (PP of
+			 (NP 5 %
+			     )))
+		 (VP allows
+		     (NP a price increase
+			 (PP of
+			     (NP 7 %
+				 ))))))
+	,
+	(S (NP a wage increase
+	       (PP of
+		   (NP 10 %
+		       )))
+	   (VP allows
+	       (NP a price increase
+		   (PP of
+		       (NP (NP something)
+			   (ADJP less
+				 (PP than
+				     (NP 14 %
+					 )))))))))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP D
+	   .)
+       (NP Industry costs)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP We)
+    (VP assume
+	(SBAR that
+	      (S (NP  average total unit cost
+		      (PP in
+			  (NP the relevant region
+			      (PP of
+				  (NP operation)))))
+		 (VP (VP (VP is
+			     (ADJP constant)
+			     (PP with
+				 (NP respect
+				     (PP to
+					 (NP (NP quantity)
+					     (VP produced))))))
+			 *LRB*
+			 (S (NP the average cost curve)
+			    (VP (VP is
+				    (ADJP horizontal))
+				,
+				and
+				(ADVP therefore)
+				(VP is
+				    (ADJP identical
+					  (PP with
+					      (NP the marginal cost curve))))))
+			 *RRB*)
+		     ,
+		     and
+		     (VP is
+			 (NP the
+			     (ADJP same))
+			 (PP (PP for
+				 (NP every firm))
+			     *LRB*
+			     and
+			     (ADVP therefore)
+			     (PP for
+				 (NP the industry))
+			     *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The level
+       (PP of
+	   (NP this average cost)))
+   (AUX is)
+   (VP determined
+	     
+       (PP by
+	   (NP (NP factor prices)
+	       ,
+	       (NP technology)
+	       ,
+	       and
+	       (ADVP so
+		     forth)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S (NP we)
+	  (AUX have)
+	  (VP noted)))
+   ,
+   (ADVP however)
+   ,
+   (S (NP we)
+      (AUX are)
+      (VP abstracting
+	  (PP from
+	      (NP changes
+		  (PP in
+		      (NP (NP all determinants
+			      (PP of
+				  (NP this level)))
+			  (PP except
+			      (PP for
+				  (NP changes
+				      (PP in
+					  (NP the wage rate))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The level
+	  (PP of
+	      (NP average cost)))
+      *LRB*
+      (ADJP equal
+	    (PP to
+		(NP marginal cost)))
+      *RRB*)
+  (VP is
+      (ADVP thus)
+      (NP  (ADVP strictly)
+	   a function
+	   (PP of
+	       (NP the wage rate)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP E. Union policies)
+     and
+     (NP collective bargaining issues))
+ )
+( (S (S (NP (NP The single union)
+	    (SBAR  (WHNP which)
+		   (S (NP T)
+		      (VP faces
+			  (NP the industry)))))
+	(AUX does)
+	(NEG not)
+	(VP restrict
+	    (NP its membership)))
+     ,
+     and
+     (S (NP there)
+	(VP is
+	    (NP an adequate supply
+		(PP of
+		    (NP labor)))
+	    (ADJP available
+		  (PP to
+		      (NP the firms
+			  (PP of
+			      (NP the industry))))
+		  (PP at
+		      (NP the going wage rate))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The union)
+      (AUX does)
+      (NEG not)
+      (VP regard
+	  (NP unemployment
+	      (PP of
+		  (NP its own members)))
+	  (PP as
+	      (NP a matter
+		  (PP of
+		      (NP concern)))))
+      (SBAR (WHADVP when)
+	    (S   (NP *) 
+		 (VP setting
+		     (NP its own wage policy)))))
+     --
+     (S (NP its concern
+	    (PP with
+		(NP employment)))
+	(VP makes
+	    (NP itself)
+	    (VP felt)
+	    (PP in
+		(NP pressure
+		    (PP upon
+			(NP the government))
+		    (S (NP *)
+		       (AUX to)
+		       (VP maintain
+			   (NP full employment))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The union)
+      (VP  (ADVP vigorously)
+	   demands
+	   (NP (NP wage increases
+		   (PP from
+		       (NP productivity increases)))
+	       ,
+	       and
+	       (NP (NP wage increases)
+		   (S (NP *)
+		      (AUX to)
+		      (VP offset
+			  (NP cost-of-living increases)))))))
+     ,
+     but
+     (S (NP we)
+	(VP abstract
+	    (PP from
+		(NP these forces)))
+	(ADVP here)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  
+    (PP For
+	(NP our present purposes))
+    (S (S (NP we)
+	  (VP assume
+	      (SBAR that
+		    (S (NP the sole subject
+			   (PP of
+			       (NP bargaining)))
+		       (VP is
+			   (NP (NP the basic wage rate)
+			       *LRB*
+			       (VP (NEG not)
+				   including
+				   (NP (NP productivity improvement factors)
+				       or
+				       (NP cost-of-living adjustments)))
+			       *RRB*))))))
+       ,
+       and
+       (S (NP it)
+	  (VP is
+	      (NP this basic wage rate))
+	  (SBAR
+	   (WHNP which)
+	   (S (NP T)
+	      (VP determines
+		  (NP the level
+		      (PP of
+			  (NP costs)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Productivity)
+      (VP is
+	  (NP something
+	      (PP of
+		  (NP an amorphous concept)))))
+     and
+     (S (NP the amount
+	    (PP of
+		(NP productivity increase))
+	    (PP in
+		(NP a (ADJP given) time period)))
+	(VP  is
+	     (ADJP  (X  (NEG not)
+			even)
+		    well
+		    known
+		    (PP to
+			(NP the industry))
+		    ,
+		    (ADVP   much
+			    less
+			    (PP (PP to
+				    (NP the union))
+				or
+				(PP to
+				    (NP the public)))))
+)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Disagreement
+       (PP on
+	   (NP the amount
+	       (PP of
+		   (NP productivity increase)))))
+   (VP exacerbates
+       (NP the problem
+	   (PP of
+	       (S (NP *)
+		  (VP agreeing
+		      (SBAR 
+		       (WHADVP how)
+		       (S (NP (NP an increase
+				  (PP in
+				      (NP profit margins)))
+			      (ADJP  related
+				     (PP to
+					 (NP a productivity increase))))
+			  (AUX should)
+			  (VP be
+			      (VP shared
+				  ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The existence
+       (PP (PP of
+	       (NP conflict))
+	   and
+	   (PP of
+	       (NP vigorous union demand
+		   (PP for
+		       (NP an increase
+			   (PP in
+			       (NP money wages))))))))
+   (AUX does)
+   (NEG not)
+   (VP contradict
+       (NP the assumption
+	   (SBAR that
+		 (S (NP the union)
+		    (VP is
+			(ADJP willing
+			      (S (NP *)
+				 (AUX to)
+				 (VP settle
+				     (PP for
+					 (NP cost-of-living and productivity-share increases))
+				     (PP as
+					 (ADJP distinct
+					       (PP from
+						   (NP a cost-raising increase
+						       (PP in
+							   (NP the basic wage rate)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP assume
+       (ADVP further)
+       (SBAR that
+	     (S (S (NP the union)
+		   (VP recognizes
+		       (NP the possibility
+			   (SBAR that
+				 (S (NP price-level increases)
+				    (AUX may)
+				    (VP offset
+					(NP wage-rate increases)))))))
+		,
+		and
+		(S (NP it)
+		   (AUX does)
+		   (NEG not)
+		   (VP (ADVP entirely)
+		       disregard
+		       (NP the effect
+			   (PP of
+			       (NP (NP price increases)
+				   (VP arising
+	     
+				       (PP from
+					   (NP its own wage increases)))))
+			   (PP upon
+			       (NP the
+				   (ADJP ``
+					 real
+					 '')
+				   wage rate)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP 
+	internal political
+	reasons))
+   ,
+   (S (S (NP the union)
+	 (X (VP (VP asks
+		    (PP for
+			(NP-1 *pseudo-attach*)))
+		*LRB*
+		and
+		(VP accepts
+		    (NP-1 *pseudo-attach*))
+		*RRB*
+		(NP-1 increases
+		      (PP in
+			  (NP the basic wage rate))))
+	    ,
+	    and
+	    (X  
+	     (AUX would)
+	     (VP  (ADVP vigorously)
+		  oppose
+		  (NP a reduction
+		      (PP in
+			  (NP this rate)))))))
+      ,
+      but
+      (S (NP the adjustment
+	     (PP of
+		 (NP the basic wage rate))
+	     (ADVP upwards))
+	 (VP is
+	     (ADVP essentially)
+	     (PP up)
+		    (PP to
+			(NP the discretion
+			    (PP of
+				(NP the companies
+				    (PP of
+					(NP the industry))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Changes
+	  (PP in
+	      (NP the basic wage rate)))
+      (VP are
+	  (ADJP cost-raising)))
+     ,
+     and
+     (S (NP they)
+	(VP constitute
+	    (NP an argument
+		(PP for
+		    (S (NP *) 
+		       (VP raising
+			   (NP prices))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP it)
+	 (VP  is
+	      (NEG not)
+	      (ADJP known
+		    (PP to
+			(NP  either
+			     (NP the union)
+			     or
+			     (NP the public))))
+	      )
+	 (SBAR (WHNP  (ADVP precisely)
+		      (WHADVP how)
+		      much
+		      (PP of
+			  (NP a cost increase)))
+	       (S  (NP T)
+		   (AUX is)
+		   (VP caused
+	     
+		       (PP by
+			   (NP a (ADJP given) change
+			       (PP in
+				   (NP the basic wage rate)))))))
+	 ,
+	 (SBAR although
+	       (S (NP the companies)
+		  (AUX are)
+		  (VP presumed
+		  
+		      (S (NP *)
+			 (AUX to)
+			 (VP have
+			     (NP reliable estimates
+				 (PP of
+				     (NP this magnitude))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP this model))
+   ,
+   (ADVP then)
+   ,
+   (S (S (NP the industry)
+	 (AUX is)
+	 (VP presumed
+	      
+	     (S (NP *)
+		(AUX to)
+		(VP realize
+		    (SBAR that
+			  (S (NP they)
+			     (AUX could)
+			     (VP  (ADVP successfully)
+				  resist
+				  (NP a change
+				      (PP in
+					  (NP the basic wage rate))))))))))
+      ,
+      but
+      (S (SBAR since
+	       (S (NP  such
+		       a change)
+		  (VP is
+		      (NP the
+			  (ADJP only) effective
+			  means
+			  (PP to
+			      (S (NP *) 
+				 (VP raising
+				     (NP prices))))))))
+	 (S (NP they)
+	    (AUX may)
+	    ,
+	    (PP in
+		(NP (NP circumstances)
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP spelled
+			     
+			       (PRT out)
+			       (PP in
+				   (NP Part 2))
+			       ,
+			       (ADVP below)
+			       ,)))))
+	    (VP find
+		(NP it)
+		(PP to
+		    (NP their advantage))
+		(S (NP *)
+		   (AUX to)
+		   (VP allow
+		       (NP the wage rise))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Thus)
+     ,
+     (PP for
+	 (NP non-negative changes
+	     (PP in
+		 (NP the basic wage rate))))
+     ,
+     (S (NP the industry)
+	(VP becomes
+	    (NP the active wage-setter))
+	,
+	(SBAR since
+	      (S (NP any increase
+		     (PP in
+			 (NP the basic wage rate)))
+		 (AUX can)
+		 (VP occur
+		     (ADVP only)
+		     (PP by
+			 (NP reason
+			     (PP of
+				 (NP industry acquiescence)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The presumption
+       (PP in
+	   (NP the literature)))
+   (AUX would)
+   (VP appear
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (SBAR that
+		    (S (NP the basic wage rate)
+		       (AUX would)
+		       (VP be
+			   (ADJP unchanged))
+		       (PP in
+			   (NP this case)))))
+	  ,
+	  (PP on
+	      (NP the grounds
+		  (SBAR that
+			(S (NP it)
+			   (VP is
+			       (ADVP  ``
+				      clearly
+				      '')
+			       (NEG not)
+			       (PP in
+				   (NP the interest
+				       (PP of
+					   (NP the industry)))))
+			   (S (NP *)
+			      (AUX to)
+			      (VP raise
+				  (NP wages)
+				  (ADVP gratuitously))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP From
+	 (NP this presumption))
+     (S
+      (NP it)
+      (VP is
+	  (NP an easy step)
+	  (PP to
+	      (NP the conclusion
+		  (SBAR that
+			(S (NP any (VP observed) increases
+			       (PP in
+				   (NP the basic wage rate)))
+			   (AUX must)
+			   (VP be
+			       (ADVP  due
+				      (PP to
+					  (NP (NP union behavior)
+					      (ADJP different
+						    and
+						    more
+						    aggressive
+						    (PP than
+							(S (NP *)  
+							   (VP assumed
+							       (PP in
+								   (NP our model)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP is
+	  (NP (NP this conclusion)
+	      (SBAR
+	       (WHNP that)
+	       (S (NP we)
+		  (VP challenge
+		      (NP T)))))))
+     ;
+     ;
+     (S (NP we)
+	(VP do
+	    (ADVP so)
+	    (PP by
+		(S (NP *) 
+		   (VP disproving
+		       (NP (NP the presumption)
+			   (SBAR (WHPP on
+				       (WHNP which))
+				 (S
+				  (NP it)
+				  (AUX is)
+				  (VP based  
+				      ))))))))))
+  .
+  )
+((NP (NP 2)
+     ,
+     (NP the operation
+	 (PP of
+	     (NP the model))))
+ )
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (VP is
+       (ADJP convenient))
+   (S-3 (NP *)
+      (AUX to)
+      (VP assume
+	  (SBAR that
+		(S (NP the union-industry contract)
+		   (VP is
+		       (PP of
+			   (NP 
+			    (NP one year)
+			    's duration))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

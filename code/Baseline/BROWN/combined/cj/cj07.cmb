@@ -1,0 +1,2594 @@
+
+ 
+ 
+
+ 
+
+((S
+    (NP (NP (NP (DT The) (NNP Poynting-Robertson) (NN effect))
+            (-LRB- -LRB-)
+            (NP (NP (NP (NNP Robertson))
+                    (, ,)
+                    (NP (CD 1937)))
+                (: ;)
+                (: ;)
+                (NP (NP (NP (NNP Wyatt))
+                        (CC and)
+                        (NP (NNP Whipple)))
+                    (, ,)
+                    (NP (CD 1950))))
+            (-RRB- -RRB-))
+        (, ,)
+        (SBAR
+              (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (VP (VBZ is)
+                     (NP (DT a) (NN retardation)
+                         (PP (IN of)
+                             (NP (DT the) (NN orbital) (NN motion)
+                                 (PP (IN of)
+                                     (NP (NNS particles)))))
+                         (PP (IN by)
+                             (NP (DT the) (JJ relativistic) (NN aberration)
+                                 (PP (IN of)
+                                     (NP (DT the) (JJ repulsive) (NN force)
+                                         (PP (IN of)
+                                             (NP (DT the) (VP (VBG impinging)) (JJ solar) (NN radiation)))))))))))
+        (, ,))
+    (VP (VBZ causes)
+        (NP (DT the) (NN dust))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB spiral)
+               (PP (IN into)
+                   (NP (DT the) (NN sun))))
+           (PP (IN in)
+               (NP (NP (NNS times))
+                   (ADJP (RB much)
+                         (JJR shorter)
+                         (PP (IN than)
+                             (NP (DT the) (NN age)
+                                 (PP (IN of)
+                                     (NP (DT the) (NNP Earth)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ radial) (NN velocity))
+       (VP (VBZ varies)
+           (ADVP (RB inversely))
+           (PP (IN as)
+               (NP (DT the) (NN particle) (NN size)))))
+    (: --)
+    (S (NP (NP (DT a) (CD|NN 1000-m-diameter) (NN particle))
+           (PP (IN near)
+               (NP (DT the) (NN orbit)
+                   (PP (IN of)
+                       (NP (NNP Mars))))))
+       (AUX (MD would))
+       (VP (VB reach)
+           (NP (DT the) (NN sun)))
+       (PP (IN in)
+           (NP (ADVP (IN about))
+               (CD 60) (CD million) (NNS years)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (NNP Whipple))
+        (-LRB- -LRB-)
+        (NP (CD 1955))
+        (-RRB- -RRB-))
+    (VP (VBZ extends)
+        (NP (DT the) (NNS effects))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB include)
+               (NP (NP (DT the) (ADJP (NN solar-corpuscular-radiation)) (NN pressure))
+                   (, ,)
+                   (SBAR
+                         (WHNP (WDT which))
+                         (S (NP (-NONE- T))
+                            (VP (VBZ increases)
+                                (NP (PDT both)
+                                    (NP (DT the) (JJ minimum) (NN particle) (NN size))
+                                    (CC and)
+                                    (NP (DT the) (NN drag)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Further))
+    (, ,)
+    (S
+       (NP (NP (DT the) (JJ corpuscular) (NN radiation))
+           (, ,)
+           (NN i.e.)
+           (, ,)
+           (NP (DT the) (NN solar-wind) (NNS protons))
+           (, ,))
+       (AUX (MD must))
+       (VP (VP (VB sputter)
+               (ADVP (RB away))
+               (NP (DT the) (NN surface) (NNS atoms)
+                   (PP (IN of)
+                       (NP (DT the) (NN dust)))))
+           (CC and)
+           (VP (VB cause)
+               (NP (DT a) (JJ slow) (NN diminution)
+                   (PP (IN in)
+                       (NP (NN size))))))
+       (, ,)
+       (PP (IN with)
+           (NP (DT a) (JJ resultant) (NN increase)
+               (PP (IN in)
+                   (NP (PDT both)
+                       (NP (DT the) (NNP Poynting-Robertson) (NN effect))
+                       (CC and)
+                       (NP (DT the) (NN ratio)
+                           (PP (IN of)
+                               (NP (DT the) (JJ repulsive) (NN force)))
+                           (PP (TO to)
+                               (NP (DT the) (JJ gravitational) (NN force))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNP Poynting-Robertson) (NN effect))
+    (VP (VBZ causes)
+        (NP (DT the) (ADJP (JJ semi-major)) (NN axis)
+            (PP (IN of)
+                (NP (NNS orbits))))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB diminish)
+               (ADVP (RBR more) (RB rapidly)
+                     (PP (IN than)
+                         (NP (DT the) (ADJP (JJ semi-minor)) (NN axis))))))
+        (, ,)
+        (PP (IN with)
+            (NP (DT a) (JJ consequent) (NN tendency)
+                (PP (IN toward)
+                    (NP (JJ circular) (NNS orbits)))
+                (SBAR (IN as)
+                      (S (NP (DT the) (NNS particles))
+                         (VP (VBP move)
+                             (PP (IN toward)
+                                 (NP (DT the) (NN sun))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Also))
+    (, ,)
+    (S (NP
+           (JJ planetary) (JJ gravitational)
+           (NN attraction))
+       (VP (VBZ increases)
+           (NP (DT the) (NN dust) (NN concentration)
+               (PP (IN near)
+                   (NP (DT the) (NN plane)
+                       (PP (IN of)
+                           (NP (DT the) (NN ecliptic)))))))
+       (SBAR (IN as)
+             (S (NP (DT the) (NN sun))
+                (AUX (VBZ is))
+                (VP (VBN approached)
+                    )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN At)
+        (NP (NP (CD one) (JJ astronomical) (NN unit)
+                (PP (IN from)
+                    (NP (DT the) (NN sun))))
+            (-LRB- -LRB-)
+            (NP
+                (NP (DT the) (NNP Earth))
+                (POS 's) (NN distance))
+            (-RRB- -RRB-)))
+    (S (NP (DT the) (NN dust) (NNS orbits))
+       (VP (VBP are)
+           (ADVP (RB probably))
+           (ADJP (RB nearly)
+                 (JJ circular)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (JJ such))
+             (VP (VBZ is)
+                 (NP (DT the) (NN case)))))
+    (, ,)
+    (S (S (NP (DT the) (NNS particles)
+              (PP (IN within)
+                  (NP (DT a) (NN distance)
+                      (PP (IN of)
+                          (NP (ADVP (IN about))
+                              (-NONE- A[fj])
+                              (PP (IN of)
+                                  (NP (DT the) (NNP Earth))))))))
+          (AUX (MD will))
+          (VP (VB have)
+              (, ,)
+              (ADJP (JJ relative)
+                    (PP (TO to)
+                        (NP (DT the) (NNP Earth))))
+              (, ,)
+              (NP (NP (DT a) (JJ kinetic) (NN energy))
+                  (ADJP (JJR less)
+                        (PP (IN than)
+                            (NP (PRP$ their) (JJ potential) (NN energy)))))))
+       (CC and)
+       (S (NP (PRP they))
+          (AUX (MD will))
+          (VP (VB be)
+              (VP (VBN captured)
+                  
+                  (PP (IN into)
+                      (NP (NNS orbits)
+                          (PP (IN about)
+                              (NP (DT the) (NNP Earth))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (NNP De) (NNP Jager))
+        (-LRB- -LRB-)
+        (NP (CD 1955))
+        (-RRB- -RRB-))
+    (AUX (VBZ has))
+    (VP (VBN calculated)
+        (NP (NP (DT the) (NNS times))
+            (VP (VBN required)
+                (PP (IN for)
+                    (S (NP (DT these) (NNS particles))
+                       (AUX (TO to))
+                       (VP (VB reach)
+                           (NP (DT the) (NN atmosphere)))
+                       (PP (IN under)
+                           (NP (DT the) (NN influence)
+                               (PP (IN of)
+                                   (NP (NP (DT the) (NNP Poynting-Robertson) (NN effect))
+                                       (, ,)
+                                       (SBAR
+                                             (WHNP (WDT which))
+                                             (S
+                                                (PP (IN in)
+                                                    (NP (DT this) (NN case)))
+                                                (S (NP (-NONE- T))
+                                                   (VP (VBZ causes)
+                                                       (NP (DT the) (NNS orbits))
+                                                       (S (NP (-NONE- *))
+                                                          (AUX (TO to))
+                                                          (VP (VB become)
+                                                              (ADJP (ADVP (RBR more)
+                                                                          (CC and)
+                                                                          (RBR more))
+                                                                    (JJ eccentric)))))
+                                                   (PP (IN without)
+                                                       (S (NP (-NONE- *))
+                                                          (VP (VBG changing)
+                                                              (NP (DT the) (JJ semi-major) (NN axis))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN effect))
+    (AUX (MD can))
+    (VP (VB give)
+        (NP (VB rise))
+        (PP (TO to)
+            (NP (DT a) (NN blanket)
+                (PP (IN of)
+                    (NP (NNS micrometeorites)))
+                (PP (IN around)
+                    (NP (DT the) (NNP Earth)))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (SBAR (IN Since)
+             (S (NP (EX there))
+                (VP (VBZ is)
+                    (NP (DT a) (JJ continual) (NN loss)
+                        (PP (IN of)
+                            (NP (JJ micrometeoritic) (NN material))))
+                    (PP (IN in)
+                        (NP (NN space))))
+                (ADVP (IN because)
+                      (PP (IN of)
+                          (NP (DT the) (NN radiation) (NNS effects))))))
+       (, ,)
+       (S (NP (EX there))
+          (AUX (MD must))
+          (VP (VB be)
+              (NP (DT a) (JJ continual) (NN replenishment)))))
+    (: :)
+    (S (ADVP (RB otherwise))
+       (, ,)
+       (S (NP (NNS micrometeorites))
+          (AUX (MD would))
+          (VP (VB have)
+              (VP (VBN disappeared)
+                  (PP (IN from)
+                      (NP (JJ interplanetary) (NN space))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBP are)
+        (NP (JJ several) (JJ possible) (NNS sources))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (VP (VBG According)
+        (PP (TO to)
+            (NP (NP (NNP Whipple))
+                (-LRB- -LRB-)
+                (NP (CD 1955))
+                (-RRB- -RRB-))))
+    (, ,)
+    (S (NP (JJ cometary) (NN debris))
+       (VP (VBZ is)
+           (ADJP (JJ sufficient)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB replenish)
+                        (NP (NP (DT the) (NN material))
+                            (VP (VBG spiraling)
+                                (PP (IN into)
+                                    (NP (DT the) (NN sun)))))
+                        (, ,)
+                        (S (NP (-NONE- *))
+                           (VP (VBG maintaining)
+                               (NP (DT a)
+                                   (ADJP (RB fairly)
+                                         (JJ steady)) (NN state))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Asteroidal) (NNS collisions))
+    (AUX (VBP are))
+    (ADVP (RB also))
+    (VP (VBN thought)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB contribute)
+               (NP (NN material))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (JJ possible)))
+    (SBAR-1 (IN that)
+            (S (NP (DT some)
+                   (PP (IN of)
+                       (NP (DT the) (NN dust)
+                           (PP (IN in)
+                               (NP (DT the) (NN vicinity)
+                                   (PP (IN of)
+                                       (NP (DT the) (NNP Earth))))))))
+               (VP (VBD originated)
+                   (PP (IN from)
+                       (NP (JJ meteoritic) (NNS impacts)
+                           (PP (IN upon)
+                               (NP (DT the) (NN moon)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (CD 5.3))
+     (NP (JJ direct) (NNS measurements)
+         (PP (IN of)
+             (NP (NN micrometeorite) (NN flux))))))
+ 
+
+((S (NP (CD One))
+    (AUX (MD can))
+    (NEG (RB not))
+    (VP (VB make)
+        (NP (DT a)
+            (ADJP (RB very)
+                  (JJ satisfactory)) (NN guess)
+            (PP (IN about)
+                (NP (DT the) (NN micrometeorite) (NN flux)
+                    (PP (IN in)
+                        (NP (NN space))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (ADVP (RB Even))
+        (IN in)
+        (NP (DT the) (NN neighborhood)
+            (PP (IN of)
+                (NP (NP (DT the) (NNP Earth))
+                    (, ,)
+                    (SBAR
+                          (WHADVP (WRB where))
+                          (S (NP (NN information))
+                             (AUX (VBZ has))
+                             (VP (VBN been)
+                                 (VP (VBN obtained)
+                                     
+                                     (ADVP (DT both)
+                                           (ADVP (RB directly)) (CC and) (ADVP (RB indirectly)))))))
+                    (, ,)))))
+    (S (NP (DT the) (VP (VBN derived)) (NN flux) (NNS values))
+       (VP (VBP vary)
+           (PP (IN by)
+               (NP (PP (IN at)
+                       (ADJP (JJS least)))
+                   (CD four) (NNS orders)
+                   (PP (IN of)
+                       (NP (NN magnitude))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (JJ large) (NN discrepancy))
+    (VP (VBZ demonstrates)
+        (NP (NP (DT the) (NNS inadequacies)
+                (PP (IN of)
+                    (NP (DT the) (JJ experimental) (NNS methods))))
+            (CC and)
+            (NP (DT the) (NN lack)
+                (PP (IN of)
+                    (NP (NN understanding)
+                        (PP (IN of)
+                            (NP (NP (DT the) (JJ various) (NNS phenomena))
+                                (VP (VBN involved))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (PP (IN Beyond)
+            (NP (DT a) (JJ few) (CD million) (NNS kilometers)
+                (PP (IN from)
+                    (NP (DT the) (NNP Earth)))))
+        (, ,)
+        (CC but)
+        (ADVP (RB still))
+        (PP (IN in)
+            (NP (DT the) (NN region)
+                (PP (IN of)
+                    (NP
+                        (NP (DT the) (NNP Earth))
+                        (POS 's) (NN orbit)))))
+        (, ,))
+    (S (NP (DT a) (NN prediction)
+           (PP (IN of)
+               (NP (DT the) (NN flux)
+                   (PP (IN of)
+                       (NP (NN dust))))))
+       (VP (VBZ is)
+           (ADJP (RB even)
+                 (RBR more)
+                 (JJ unreliable)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN At)
+        (NP
+            (JJR greater)
+            (NNS distances)
+            (PP (IN from)
+                (NP (DT the) (NN sun)))))
+    (, ,)
+    (S (NP (DT the) (NN situation))
+       (VP (VBZ is)
+           (ADVP (RB still))
+           (ADJP (RBR less)
+                 (JJ certain)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBP are)
+        (NP (JJ several) (NNS sources)
+            (PP (IN of)
+                (NP (NN evidence)
+                    (PP (IN on)
+                        (NP (DT the) (NN micrometeorite) (NN environment))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Direct) (NN information))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN obtained)
+            
+            (PP (IN from)
+                (NP (NP (NP (NNS rockets)) (CC and) (NP (NNS satellites)))
+                    (VP (VBN equipped)
+                        (PP (IN with)
+                            (NP (NN impact) (NNS sensors)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN addition)))
+    (, ,)
+    (S (NP (NP (DT the) (NN size) (NN distribution))
+           (VP (VBN obtained)
+               (PP (IN from)
+                   (NP (ADJP (JJ visual)
+                             (CC and)
+                             (NN radar)) (NNS observations)
+                       (PP (IN of)
+                           (NP (NNS meteors)))))))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN extrapolated)
+               
+               (PP (TO to)
+                   (NP (DT the) (NN micrometeorite) (NN domain)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN From)
+        (NP (NP (DT the) (NN brightness)
+                (PP (IN of)
+                    (NP (DT the) (NN F) (NN component)
+                        (PP (IN of)
+                            (NP (DT the) (JJ solar) (NN corona))))))
+            (CC and)
+            (NP (DT the) (NN brightness)
+                (PP (IN of)
+                    (NP (DT the) (JJ zodiacal) (NN light))))))
+    (, ,)
+    (S (NP (DT an) (NN estimate)
+           (PP (IN of)
+               (NP (DT the) (NN particle) (NNS sizes)
+                   (, ,)
+                   (NNS concentrations)
+                   (, ,)
+                   (CC and)
+                   (JJ spatial) (NN distribution))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN derived)
+               
+               (PP (IN for)
+                   (NP (NP (NNS regions)
+                           (PP (IN of)
+                               (NP (NN space))))
+                       (PP (IN near)
+                           (NP (DT the) (JJ ecliptic) (NN plane)))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NP (DT Another) (JJ important) (NN source)
+            (PP (IN of)
+                (NP (NN evidence))))
+        (VP (RB only)
+            (ADVP (RB recently))
+            (VBG receiving)
+            (NP (JJ much) (NN attention))))
+    (VP (VBZ is)
+        (NP (DT the) (NN analysis)
+            (PP (IN of)
+                (NP (JJ atmospheric) (NN dust)))
+            (PP (IN for)
+                (NP (DT a) (JJ meteoritic) (NN component))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS cores)
+        (IN of)
+        (JJ deep-sea) (NNS sediments)
+        (CC and)
+        (NN content)
+        (IN of)
+        (NNS collectors)
+        (PP (IN in)
+            (NP (JJ remote) (NNS regions))))
+    (VP (VBP are)
+        (ADJP (JJ valuable)))
+    (PP (IN in)
+        (NP (DT this) (NN category))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS data))
+    (VP (VBP provide)
+        (NP (DT a) (NN measure)
+            (PP (IN of)
+                (NP (DT the) (JJ total) (NN mass)
+                    (PP (IN of)
+                        (NP (JJ cosmic) (NN material) (NN incident)
+                            (PP (IN upon)
+                                (NP (DT the) (NNP Earth))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (JJ direct) (NN evidence)
+           (PP (IN on)
+               (NP (DT the) (NN micrometeorite) (NN environment)
+                   (PP (IN near)
+                       (NP (DT the) (NNP Earth))))))
+       (AUX (VBZ is))
+       (VP (VBN obtained)
+           
+           (PP (PP (IN from)
+                   (NP (NP (JJ piezoelectric) (NNS sensors))
+                       (-LRB- -LRB-)
+                       (NP (ADVP (RB essentially))
+                           (NNS microphones))
+                       (-RRB- -RRB-)))
+               (CC and)
+               (PP (IN from)
+                   (NP (NN wire) (NNS gages))))))
+    (: ;)
+    (: ;)
+    (S (NP (DT these) (NNS instruments))
+       (AUX (VBP are))
+       (VP (VBN installed)
+           
+           (PP (IN on)
+               (NP (NP (NNS rockets))
+                   (, ,)
+                   (NP (NNS satellites))
+                   (, ,)
+                   (CC and)
+                   (NP (NN space) (NNS probes)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Statistically))
+    (, ,)
+    (S (NP (DT the)
+           (ADJP (RBS most) (JJ significant))
+           (NNS data))
+       (AUX (VBP have))
+       (VP (VBN been)
+           (VP (VBN collected)
+               (PP (IN from)
+                   (NP (DT the) (NNS sensors)
+                       (PP (IN on)
+                           (NP (NP (NP (CD 1958)
+                                       (NNP Alpha))
+                                   (-LRB- -LRB-)
+                                   (NP (NNP Explorer) (NNP 1))
+                                   (-RRB- -RRB-))
+                               (, ,)
+                               (NP (NP (CD 1958)
+                                       (NNP Delta) (NNP 2))
+                                   (-LRB- -LRB-)
+                                   (NP (NNP Sputnik) (NNP 3))
+                                   (-RRB- -RRB-))
+                               (, ,)
+                               (CC and)
+                               (NP (NP (CD 1959)
+                                       (NNP Eta))
+                                   (-LRB- -LRB-)
+                                   (NP (NNP Vanguard) (NNP 3))
+                                   (-RRB- -RRB-))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT These) (NNS vehicles))
+        (, ,)
+        (PP (IN with)
+            (NP
+                (JJ large) (JJ sensitive)
+                (NNS areas)))
+        (, ,))
+    (AUX (VBP have))
+    (VP (VBN collected)
+        (NP (NNS data))
+        (PP (IN for)
+            (NP
+                (ADJP (JJ long) (JJ enough))
+                (NNS times)
+                (S (NP (-NONE- *))
+                   (AUX (TO to))
+                   (VP (VB give)
+                       (NP (JJ reliable) (NN impact) (NNS rates)
+                           (PP (IN for)
+                               (NP (DT the) (NNS periods)
+                                   (PP (IN of)
+                                       (NP (NN exposure))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (JJ Many) (JJ other)
+        (NNS vehicles)
+        (PP (IN with)
+            (NP
+                (JJR smaller)
+                (NN sensitive-area) (NN exposure-time) (NNS products))))
+    (VP (VBP contribute)
+        (NP (DT some) (NN information))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (S
+          (NP (DT The) (NN impact) (NN rate)
+              (PP (IN on)
+                  (NP (CD 1958)
+                      (NNP Alpha)))
+              (PP (IN for)
+                  (NP (CD 153) (NNS events))))
+          (VP (VBD was)
+              (NP (-NONE- A[fj])
+                  (PP (IN for)
+                      (NP (NNS particles)
+                          (PP (IN of)
+                              (NP (NP (NN mass))
+                                  (ADJP (JJR greater)
+                                        (PP (IN than)
+                                            (NP (-NONE- A[fj])))))))))))
+       (-LRB- -LRB-)
+       (NP (NP (NNP Dubin))
+           (, ,)
+           (NP (CD 1960)))
+       (-RRB- -RRB-))
+    (: ;)
+    (: ;)
+    (S (NP (DT this) (NN mass) (NN threshold))
+       (AUX (VBD was))
+       (VP (VBN derived)
+           
+           (PP (IN from)
+               (NP (NP (DT the) (NN detector) (NN calibration))
+                   (CC and)
+                   (NP (DT an) (VP (VBN assumed)) (NN impact) (NN velocity)
+                       (PP (IN of)
+                           (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS data))
+    (VP (VBP show)
+        (NP (ADJP (JJ daily) (CC and) (JJ diurnal)) (NNS variations))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S
+       (NP (CD Ninety)
+           (PP (IN per)
+               (NP (NN cent)
+                   (PP (IN of)
+                       (NP (DT the) (CD 153)
+                           (VP (VBN recorded))
+                           (NNS impacts))))))
+       (VP (VBN occurred)
+           (PP (IN between)
+               (NP (NP (NN midnight)) (CC and) (NP (NN noon))))))
+    (, ,)
+    (CC and)
+    (S (PP (PP (IN from)
+               (NP (NN day)))
+           (PP (TO to)
+               (NP (NN day))))
+       (S
+          (NP (DT the) (NN variation)
+              (PP (IN of)
+                  (NP (DT the) (NN rate))))
+          (VP (VBD was)
+              (ADJP (RB as)
+                    (JJ much)
+                    (PP (IN as)
+                        (NP (DT an) (NN order)
+                            (PP (IN of)
+                                (NP (NN magnitude))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NN One))
+    (AUX (MD may))
+    (VP (VB conclude)
+        (SBAR (IN that)
+              (S
+                 (NP (JJS most)
+                     (PP (IN of)
+                         (NP (DT the)
+                             (VP (VBN detected)) (JJ micrometeoritic)
+                             (NN material))))
+                 (AUX (VBZ is))
+                 (VP (VBN concentrated)
+                     
+                     (PP (IN in)
+                         (NP (NP (JJ orbital) (NNS streams))
+                             (SBAR
+                                   (WHNP (WDT which))
+                                   (S (NP (-NONE- T))
+                                      (VP (VBP intersect)
+                                          (NP
+                                              (NP (DT the) (NNP Earth))
+                                              (POS 's) (NN orbit))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (EX There))
+       (AUX (VBP have))
+       (VP (VBN been)
+           (NP (JJ contradictory) (NNS reports))
+           (PP (IN from)
+               (NP (CD 1958)
+                   (NNP Delta) (NNP 2)))))
+    (, ,)
+    (CC and)
+    (S (NP (NP (DT the) (NN data))
+           (VP (VBN quoted)
+               (ADVP (RB here))))
+       (AUX (VBP are))
+       (VP (VBN believed)
+           
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (NP (DT the)
+                      (ADJP (RBR more)
+                            (JJ reliable))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (S
+          (PP (IN On)
+              (NP (NNP May) (CD 15)))
+          (, ,)
+          (S (NP (DT a)
+                 (ADJP (RB very)
+                       (JJ large)) (NN increase))
+             (VP (VBD occurred))
+             (PP (IN with)
+                 (NP (-NONE- A[fj])
+                     (PP (IN of)
+                         (NP (NN mass)
+                             (PP (IN between)
+                                 (NP (NP (-NONE- A[fj])) (CC and) (NP (-NONE- A[fj]))))))))))
+       (: ;)
+       (: ;)
+       (S (PP (IN for)
+              (NP (DT the)
+                  (JJ next)
+                  (CD two) (NNS days)))
+          (, ,)
+          (S (NP (DT the) (NN impact) (NN rate))
+             (VP (VBD was)
+                 (NP (-NONE- A[fj])))))
+       (: ;)
+       (: ;)
+       (CC and)
+       (S (PP (IN for)
+              (NP (DT the)
+                  (JJ next)
+                  (CD nine) (NNS days)))
+          (, ,)
+          (S (NP (DT the) (NN impact) (NN rate))
+             (VP (VBD was)
+                 (ADJP (JJR less)
+                       (PP (IN than)
+                           (NP (-NONE- A[fj]))))))))
+    (-LRB- -LRB-)
+    (NP (NP (NNP Nazarova))
+        (NP (, ,)
+            (CD 1960)))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS data)
+        (PP (IN for)
+            (NP (DT the) (JJ first) (NN day))))
+    (VP (VP (VBP indicate)
+            (NP (DT a) (NN meteor) (NN stream)
+                (PP (IN with)
+                    (NP (DT a)
+                        (ADJP (RB very)
+                              (JJ high)) (NN concentration)
+                        (PP (IN of)
+                            (NP (NNS particles)))))))
+        (CC and)
+        (X
+           (AUX (MD may))
+           (VP (VB have)
+               (VP (VBN led)
+                   (PP (TO to)
+                       (NP (DT the) (JJ high) (NNS estimates)
+                           (PP (IN of)
+                               (NP (NN micrometeorite) (NN flux))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S
+       (NP (JJ Preliminary) (NNS data)
+           (PP (IN from)
+               (NP (CD 1959)
+                   (NNP Eta))))
+       (VP (VBP give)
+           (NP (DT an) (JJ average) (NN impact) (NN rate)
+               (PP (IN of)
+                   (NP (-NONE- A[fj])))
+               (PP (IN for)
+                   (NP (NP (NNS masses))
+                       (ADJP (JJR larger)
+                             (PP (IN than)
+                                 (NP (-NONE- A[fj])))))))
+           (PP (IN for)
+               (NP (ADVP (IN about))
+                   (CD 1000) (NNS events)
+                   (PP (IN in)
+                       (NP (DT a) (ADJP (CD|NN 22-day)) (NN period)))))))
+    (-LRB- -LRB-)
+    (NP
+        (NP (NP (NNP LaGow))
+            (CC and)
+            (NP (NNP Alexander)))
+        (, ,)
+        (NP (CD 1960))
+        (-RRB- -RRB-)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (ADJP (JJ day-to-day)) (NN rate))
+    (VP (VBN varied)
+        (PP (IN by)
+            (NP (JJR less)
+                (PP (IN than)
+                    (NP (DT a) (NN factor)
+                        (PP (IN of)
+                            (NP (CD 4.5)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS data))
+    (AUX (VBP have))
+    (ADVP (NEG (RB not))
+          (RB yet))
+    (VP (VBN been)
+        (VP (VBN analyzed)
+            
+            (PP (IN for)
+                (NP (JJ diurnal) (NNS variations))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Note)
+        (SBAR (SBAR (IN that)
+                    (S (NP (DT the) (NN mass) (NN threshold))
+                       (VP (VBZ is)
+                           (NP (NP (CD four) (NNS times))
+                               (IN that)
+                               (PP (IN of)
+                                   (NP (CD 1958)
+                                       (NNP Alpha)))))))
+              (CC and)
+              (SBAR (IN that)
+                    (S (NP (DT the) (NN flux))
+                       (VP (VBZ is)
+                           (ADJP (NP (CD one)
+                                     (JJ fifth))
+                                 (RB as)
+                                 (JJ large))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (NN one))
+             (VP (VBZ assumes)
+                 (SBAR (IN that)
+                       (S (NP (DT the) (JJ average) (NN flux))
+                          (AUX (VBD did))
+                          (NEG (RB not))
+                          (VP (NN change))
+                          (PP (IN between)
+                              (NP (NNS measurements))))))))
+    (, ,)
+    (S (NP (NP (DT a) (NN mass-distribution) (NN curve))
+           (SBAR-1 (-NONE- *pseudo-attach*)))
+       (AUX (VBZ is))
+       (VP (VBN obtained))
+       (SBAR-1
+               (WHNP (WDT which))
+               (S (NP (-NONE- T))
+                  (VP (VBZ relates)
+                      (NP (DT the) (NN flux)
+                          (PP (IN of)
+                              (NP (NP (NNS particles))
+                                  (ADJP (JJR larger)
+                                        (PP (IN than)
+                                            (NP (DT a) (VBN given) (NN radius)))))))
+                      (PP (TO to)
+                          (NP (DT the)
+                              (JJ inverse)
+                              (CD 72) (NN power)
+                              (PP (IN of)
+                                  (NP (DT the) (NN radius))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Space) (NNS probes))
+    (AUX (VBP have))
+    (VP (VBN yielded)
+        (NP (JJ little) (NN information))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNP Pioneer) (NNP 1))
+    (, ,)
+    (VP (VBD recorded)
+        (NP (DT a) (NN decrease)
+            (PP (IN in)
+                (NP (NN flux)))
+            (PP (IN with)
+                (NP (NN distance)
+                    (PP (IN from)
+                        (NP (DT the) (NNP Earth))))))
+        (PP (IN on)
+            (NP (DT the) (NN basis)
+                (PP (IN of)
+                    (NP (CD 11) (NNS counts)
+                        (PP (IN in)
+                            (NP (CD 9) (NNS hours)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN With)
+        (NP (NP (NNS detectors))
+            (X (ADJP (JJ sensitive)
+                     (PP (TO to)
+                         (NP (CD three) (NN mass) (NNS intervals))))
+               (CC and)
+               (VP (VBN based)
+                   (PP (IN on)
+                       (NP (DT a) (JJ few) (NNS counts)))))))
+    (, ,)
+    (S (NP (DT the)
+           (ADJP (JJ second) (CC and) (JJ third))
+           (NNP Russian) (NN space) (NNS probes))
+       (VP (VBP indicate)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN flux)
+                        (PP (IN of)
+                            (NP (NP (DT the)
+                                    (JJS smallest)
+                                    (NNS particles))
+                                (VP (VBN detected)))))
+                    (VP (VBZ is)
+                        (ADJP (JJR less)
+                              (PP (IN than)
+                                  (NP (IN that)
+                                      (PP (IN of)
+                                          (NP
+                                              (JJR larger)
+                                              (NNS ones))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (VBG Being))
+       (VP (VBN based)
+           (PP (IN on)
+               (NP (ADJP (RB so)
+                         (JJ few)) (NNS events)))))
+    (, ,)
+    (S (NP (DT these) (NNS results))
+       (VP (VBP are)
+           (PP (IN of)
+               (NP (JJ dubious) (NN validity))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN calibration)
+        (PP (IN of)
+            (NP (JJ piezoelectric) (NNS sensors)))
+        (PP (IN in)
+            (NP (NNS terms)
+                (PP (IN of)
+                    (NP (DT the) (NN particle) (NNS parameters))))))
+    (VP (VBZ is)
+        (ADJP (RB very)
+              (JJ uncertain))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Many) (NNS workers))
+    (VP (VBP believe)
+        (SBAR (IN that)
+              (S (S (NP (DT the) (NN response))
+                    (VP (VBZ is)
+                        (ADJP (JJ proportional)
+                              (PP (TO to)
+                                  (NP (DT the) (JJ incident) (NN momentum)
+                                      (PP (IN of)
+                                          (NP (DT the) (NNS particles))))))))
+                 (, ,)
+                 (NP (NP (DT a) (NN relation))
+                     (VP (VBN deduced)
+                         (PP (IN from)
+                             (NP (NP (NN laboratory) (NNS results))
+                                 (VP (ADVP (RB linearly))
+                                     (VBN extrapolated)
+                                     (PP (TO to)
+                                         (NP (JJ meteoritic) (NNS velocities))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (NN one))
+       (AUX (MD must))
+       (VP (VB expect)
+           (SBAR (DT that)
+                 (S (NP (NN vaporization) (CC and) (NN ejection)
+                        (PP (IN of)
+                            (NP (NN material)))
+                        (PP (IN by)
+                            (NP (NN hypervelocity) (NNS impacts))))
+                    (AUX (MD would))
+                    (VP (VB cause)
+                        (NP (DT a) (NN deviation)
+                            (PP (IN from)
+                                (NP (DT a) (JJ linear) (NN relationship))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (DT the) (NNP United) (NNP States)))
+    (, ,)
+    (S (NP (RBS most)
+           (PP (IN of)
+               (NP (DT the) (NNS sensors))))
+       (AUX (VBP are))
+       (VP (VBN calibrated)
+           
+           (PP (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VBG dropping)
+                      (NP (JJ small) (NNS spheres))
+                      (PP (IN on)
+                          (NP (PRP$ their) (JJ sensitive) (NNS surfaces)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NNP Russian) (NNS experimenters))
+    (VP (VBP claim)
+        (SBAR (IN that)
+              (S (NP (RB only)
+                     (DT a) (JJ small) (NN fraction)
+                     (PP (IN of)
+                         (NP (DT the) (NN impulse)
+                             (PP (IN from)
+                                 (NP (DT the) (NNS sensors))))))
+                 (AUX (VBZ is))
+                 (VP (VBN caused)
+                     
+                     (PP (IN by)
+                         (NP (DT the) (JJ incident) (NN momentum))))
+                 (PP (IN with)
+                     (S (NP (DT the) (NN remainder))
+                        (VP (VBG being)
+                            (NP (NN momentum)
+                                (PP (IN of)
+                                    (NP (VP (VBN ejected))
+                                        (NN material)
+                                        (PP (IN from)
+                                            (NP (DT the) (NN sensor)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This)
+        (`` ``)
+        (NN ejection)
+        ('' '')
+        (NN momentum))
+    (AUX (VBZ is))
+    (VP (ADVP (RB linearly))
+        (VBN related)
+        
+        (PP (TO to)
+            (NP (DT the) (NN particle) (NN energy)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP They))
+    (VP (VBP quote)
+        (NP (NP (ADVP (IN about))
+                (DT the) (JJ same) (NN mass) (NN threshold)
+                (PP (IN as)
+                    (NP (DT that)
+                        (PP (IN of)
+                            (NP (DT the) (NNP U.S.) (NN apparatus))))))
+            (, ,)
+            (CC but)
+            (NP (NP (DT a) (NN momentum) (NN threshold))
+                (ADJP (NP (ADVP (IN about))
+                          (CD 40) (NNS times))
+                      (JJR greater))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBZ is)
+        (NP (DT a) (NN difference)
+            (PP (IN in)
+                (NP (DT the) (JJ experimental) (NN arrangement)))))
+    (, ,)
+    (SBAR (IN in)
+          (IN that)
+          (S (NP (DT the) (NNP U.S.) (NNS microphones))
+             (AUX (VBP are))
+             (VP (VBN attached)
+                 (ADVP (RB directly))
+                 (PP (TO to)
+                     (NP (DT the) (NN vehicle) (NN skin))))
+             (SBAR (IN while)
+                   (S (NP (DT the) (NNP Russian) (NNS instruments))
+                      (AUX (VBP are))
+                      (VP (VBN isolated)
+                          
+                          (PP (IN from)
+                              (NP (DT the) (NN skin)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN threshold) (NN mass))
+    (AUX (VBZ is))
+    (VP (VBN derived)
+        
+        (PP (IN from)
+            (NP (DT the) (NN momentum) (NN threshold)))
+        (PP (IN with)
+            (NP (DT the) (NN assumption)
+                (PP (IN of)
+                    (NP (DT a) (NN mean) (NN impact) (NN velocity)
+                        (PP (IN of)
+                            (NP (NP (NP (-NONE- A[fj]))
+                                    (PP (IN in)
+                                        (NP (DT the) (NNP U.S.) (NN work))))
+                                (CC and)
+                                (NP (NP (-NONE- A[fj]))
+                                    (PP (IN in)
+                                        (NP (DT the) (NNP U.S.S.R.) (NN work))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN threshold) (NN mass)
+        (PP (IN of)
+            (NP (ADVP (IN about))
+                (-NONE- A[fj]))))
+    (VP (VBZ corresponds)
+        (PP (TO to)
+            (NP (DT a) (CD|NN 10-M-diameter) (NN sphere)
+                (PP (IN of)
+                    (NP (NN density) (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (DT the) (NN conversion)
+           (PP (IN from)
+               (NP (NN mass)))
+           (PP (TO to)
+               (NP (NN size))))
+       (VP (VBZ is)
+           (ADJP (JJ unreliable)))
+       (, ,)
+       (SBAR (IN since)
+             (S (NP (JJ many) (JJ photographic) (NNS meteors))
+                (VP (VBP give)
+                    (NP (NN evidence)
+                        (PP (IN of)
+                            (NP (DT a)
+                                (ADJP (JJ fluffy))
+                                (, ,)
+                                (VP (RB loosely)
+                                    (VBN bound))
+                                (NN meteorite) (NN structure)
+                                (PP (IN with)
+                                    (NP (NP (NNS densities))
+                                        (ADJP (RB as)
+                                              (RB low)
+                                              (PP (IN as)
+                                                  (NP (-NONE- A[fj]))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (SBAR (WHPP (TO To)
+                    (WHNP (WP what)
+                          (NN extent)))
+              (S (NP (JJ such) (JJ low) (NN density))
+                 (VP (VBZ applies)
+                     
+                     (PP (TO to)
+                         (NP (NNS micrometeorites)))))))
+    (VP (VBZ is)
+        (ADJP (JJ unknown))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NP (DT The) (NN velocity) (NN value))
+           (VP (VBN used)))
+       (VP (VBZ is)
+           (ADVP (RB also))
+           (ADJP (JJ open)
+                 (PP (TO to)
+                     (NP (DT some) (NN question))))))
+    (: ;)
+    (: ;)
+    (S (SBAR (IN if)
+             (S (NP (DT a) (JJ substantial) (NN fraction)
+                    (PP (IN of)
+                        (NP (DT the) (NN dust))))
+                (AUX (VBZ is))
+                (VP (VBG orbiting)
+                    (PP (IN about)
+                        (NP (DT the) (NNP Earth))))))
+       (, ,)
+       (S
+          (NP (ADVP (RB only))
+              (ADVP (IN about)
+                    (CD one)
+                    (JJ third))
+              (DT the)
+              (ADJP (JJ above-mentioned)) (JJ average)
+              (NN velocity))
+          (AUX (MD should))
+          (VP (VB be)
+              (VP (VBN used)
+                  
+                  (PP (IN in)
+                      (S (NP (-NONE- *))
+                         (VP (VBG deriving)
+                             (NP (DT the) (NN mass))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (JJ Zodiacal) (NN light))
+        (CC and)
+        (NP (DT the) (NN gegenschein)))
+    (VP (VBP give)
+        (NP (DT some) (NN evidence)
+            (PP (IN for)
+                (NP (NP (JJ such)
+                        (DT a) (NN dust) (NN blanket))
+                    (, ,)
+                    (NP (DT a) (NN phenomenon)
+                        (S (NP (-NONE- *))
+                           (ADVP (RB also))
+                           (AUX (TO to))
+                           (VP (VB be)
+                               (VP (VBN expected)))
+                           (SBAR (IN if)
+                                 (S (NP (DT the) (NN dust)
+                                        (PP (IN before)
+                                            (NP (NN capture))))
+                                    (VP (VBZ is)
+                                        (PP (IN in)
+                                            (NP (JJ circular) (NNS orbits)
+                                                (PP (IN about)
+                                                    (NP (DT the) (NN sun))))))
+                                    (, ,)
+                                    (PP (IN as)
+                                        (S (NP (-NONE- *))
+                                           (VP (VBN indicated)
+                                               (PP (IN by)
+                                                   (NP (DT the) (NN trend)
+                                                       (PP (IN of)
+                                                           (NP (DT the)
+                                                               (JJR smaller) (JJ visible)
+                                                               (NNS meteors)))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ diurnal) (NN variation)
+        (PP (IN in)
+            (NP (DT the) (VP (VBN observed)) (NN flux))))
+    (AUX (MD may))
+    (VP (VB be)
+        (ADVP (RB partly)
+              (JJ due)
+              (PP (TO to)
+                  (NP (DT the) (NN dependence)
+                      (PP (IN of)
+                          (NP (DT the) (NN detector) (NN sensitivity)))
+                      (PP (IN on)
+                          (NP (DT the) (JJ incident) (NN velocity))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN flux)
+        (PP (IN of)
+            (NP (NNS micrometeorites)
+                (PP (IN in)
+                    (NP (DT the) (NN neighborhood)
+                        (PP (IN of)
+                            (NP (DT the) (NNP Earth))))))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN estimated)
+            
+            (PP (IN by)
+                (NP (NN extrapolation)
+                    (PP (IN from)
+                        (NP (NN radar)
+                            (CC and)
+                            (JJ visual) (NN meteor) (NNS data))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN summary)
+            (PP (IN of)
+                (NP (NN meteorite) (NNS data))))
+        (, ,)
+        (VP (VBN prepared)
+            (PP (IN by)
+                (NP (NP (NNP Whipple))
+                    (-LRB- -LRB-)
+                    (CD 1958)
+                    (-RRB- -RRB-)))
+            (PP (IN on)
+                (NP (DT the) (NN basis)
+                    (PP (IN of)
+                        (NP (ADJP (JJ photographic)
+                                  (, ,)
+                                  (JJ visual)
+                                  (, ,)
+                                  (CC and)
+                                  (NN radar)) (NN evidence))))))
+        (, ,))
+    (AUX (VBZ is))
+    (VP (VBN given)
+        
+        (PP (IN in)
+            (NP (NN Table) (CD 5-1)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN From)
+        (NP (DT an) (VP (VBN estimated)) (NN mass)
+            (PP (IN of)
+                (NP (CD 25) (NN g)))
+            (PP (IN for)
+                (NP (DT a) (NN zero-magnitude) (NN meteorite)))))
+    (, ,)
+    (S (NP (DT the) (JJ other) (NNS masses))
+       (AUX (VBP are))
+       (VP (VBN derived)
+           (PP (IN with)
+               (NP (DT the) (NN assumption)
+                   (PP (IN of)
+                       (NP (DT a) (NN mass) (NN decrease)
+                           (PP (IN by)
+                               (NP (DT a) (NN factor)
+                                   (PP (IN of)
+                                       (NP (CD 2.512)))))
+                           (PP (IN for)
+                               (NP (DT each) (NN unit) (NN increase)
+                                   (PP (IN in)
+                                       (NP (NN magnitude))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN radius))
+    (AUX (VBZ is))
+    (VP (VBN calculated)
+        
+        (PP (IN from)
+            (NP (DT the) (NN mass)))
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG assuming)
+                   (NP (NNS spheres)
+                       (PP (IN of)
+                           (NP (NN density) (-NONE- A[fj])))))
+               (PP (IN except)
+                   (PP (IN for)
+                       (NP (NP (DT the)
+                               (JJS smallest)
+                               (NNS particles))
+                           (, ,)
+                           (SBAR
+                                 (WHNP (WDT which))
+                                 (S (NP (-NONE- T))
+                                    (AUX (MD must))
+                                    (VP (VB have)
+                                        (NP (DT a)
+                                            (JJR higher)
+                                            (NN mass) (NN density)))
+                                    (S (NP (-NONE- *))
+                                       (AUX (TO to))
+                                       (VP (VB remain)
+                                           (PP (IN in)
+                                               (NP (DT the) (JJ solar) (NN system)))
+                                           (PP (IN in)
+                                               (NP (DT the) (NN presence)
+                                                   (PP (IN of)
+                                                       (NP (NN solar-radiation) (NN pressure))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN flux) (NNS values))
+    (VP (VP (VBP are)
+            (PP (IN for)
+                (NP (DT all) (NNS particles)
+                    (PP (IN with)
+                        (NP (NP (NNS masses))
+                            (ADJP (JJR greater)
+                                  (PP (IN than)
+                                      (NP (DT the) (ADJP (VBN given)) (NN mass)))))))))
+        (CC and)
+        (X
+           (AUX (VBP are))
+           (VP (VBN based)
+               
+               (PP (IN on)
+                   (NP (DT an) (NN estimate)
+                       (PP (IN of)
+                           (NP (DT the) (NNS numbers)
+                               (PP (IN of)
+                                   (NP (JJ visual) (NNS meteors)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-2 (-NONE- *pseudo-attach*)))
+    (AUX (VBZ is))
+    (VP (VBN assumed))
+    (SBAR-2 (IN that)
+            (S (NP (DT the) (NN flux) (NNS values))
+               (VP (VBP increase)
+                   
+                   (PP (IN by)
+                       (NP (DT a) (NN factor)
+                           (PP (IN of)
+                               (NP (CD 2.512)))))
+                   (PP (IN per)
+                       (NP (NN magnitude))))
+               (, ,)
+               (PP (IN in)
+                   (NP (NN accordance)
+                       (PP (IN with)
+                           (NP (DT the) (NN opinion)
+                               (SBAR (IN that)
+                                     (S (NP (DT the) (JJ total) (NN mass) (NN flux)
+                                            (PP (IN in)
+                                                (NP (DT each) (NN unit) (NN range)))
+                                            (PP (IN in)
+                                                (NP (NN magnitude))))
+                                        (VP (VBZ is)
+                                            (ADJP (JJ constant))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS values))
+    (VP (VBP agree)
+        (PP (IN with)
+            (NP (DT the) (NNS data)
+                (PP (IN from)
+                    (NP (NP (CD 1958)
+                            (NNP Alpha))
+                        (CC and)
+                        (NP (CD 1959)
+                            (NNP Eta))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS figures)
+        (PP (IN in)
+            (NP (DT the) (ADJP (JJ next-to-last)) (NN column))))
+    (AUX (VBP are))
+    (VP (VBN derived)
+        
+        (PP (IN with)
+            (NP (DT the) (NN assumption)
+                (PP (IN of)
+                    (NP (NP (CD 50)
+                            (PP (IN per)
+                                (NP (NN cent))))
+                        (NN shielding)
+                        (PP (IN by)
+                            (NP (DT the) (NNP Earth))))))))
+    (: ;)
+    (: ;)
+    (S (ADVP (RB hence))
+       (, ,)
+       (S (NP (DT these) (NNS figures))
+          (VP (VBP apply)
+              (PP (ADVP (RB immediately))
+                  (IN above)
+                  (NP
+                      (NP (DT the) (NNP Earth))
+                      (POS 's) (NN atmosphere)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (ADJP (VBN unshielded)) (NN flux))
+       (AUX (VBZ is))
+       (VP (VBN given)
+           
+           (PP (IN in)
+               (NP (DT the) (JJ last) (NN column)))))
+    (: ;)
+    (: ;)
+    (S (NP (DT these) (NNS figures))
+       (VP (VBP constitute)
+           (NP (DT the)
+               (JJS best)
+               (NN estimate)
+               (PP (IN for)
+                   (NP (DT the) (NN flux)
+                       (PP (IN in)
+                           (NP (JJ interplanetary) (NN space)
+                               (PP (IN near)
+                                   (NP (DT the) (NNP Earth)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN Of)
+        (NP (NN course)))
+    (, ,)
+    (SBAR (IN if)
+          (S (NP (EX there))
+             (VP (VBZ is)
+                 (NP (DT a) (NN dust) (NN blanket)
+                     (PP (IN around)
+                         (NP (DT the) (NNP Earth)))))))
+    (, ,)
+    (S (NP (DT the) (NNS fluxes)
+           (PP (IN in)
+               (NP (JJ interplanetary) (NN space))))
+       (AUX (MD should))
+       (VP (VB be)
+           (ADJP (JJR less)
+                 (PP (IN than)
+                     (NP (NP (DT the) (NNS figures))
+                         (VP (VBN given)
+                             (ADVP (RB here)))))))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (VB Note)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN mass) (NN scale))
+                    (VP (VBZ is)
+                        (ADJP (NP (NP (CD one)
+                                      (PP (TO to)
+                                          (NP (CD two))))
+                                  (NNS orders)
+                                  (PP (IN of)
+                                      (NP (NN magnitude))))
+                              (JJR greater)
+                              (PP (IN than)
+                                  (NP (NP (DT some))
+                                      (VP (ADVP (RB previously))
+                                          (VBN used))))))))))
+    (: ;)
+    (: ;)
+    (S (PP (IN for)
+           (NP (NN example)))
+       (, ,)
+       (S (NP (NP (NNP Jacchia))
+              (-LRB- -LRB-)
+              (NP (CD 1948))
+              (-RRB- -RRB-))
+          (VP (VBD derived)
+              (NP (DT a) (NN scale)
+                  (PP (IN of)
+                      (NP (CD 0.15) (NN g))))
+              (PP (IN for)
+                  (NP (DT a) (-NONE- A[fj])
+                      (, ,)
+                      (NN zero-magnitude) (NN meteorite)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (JJR older)
+        (NNS scales))
+    (AUX (VBD were))
+    (VP (VBN based)
+        
+        (PP (IN on)
+            (NP (JJ theoretical) (NNS estimates)
+                (PP (IN of)
+                    (NP (DT the) (NN conversion) (NN efficiency)
+                        (PP (IN of)
+                            (NP (JJ kinetic) (NN energy)))
+                        (PP (IN into)
+                            (NP (NN light)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN mass) (NN scale))
+        (VP (VBN used)
+            (PP (IN in)
+                (NP (NN Table) (CD 5-1)))))
+    (AUX (VBD was))
+    (VP (VBN derived)
+        
+        (PP (IN on)
+            (NP (DT the) (NN assumption)
+                (SBAR (IN that)
+                      (S (S (NP (DT the) (NN motion)
+                                (PP (IN of)
+                                    (NP (DT the) (VBG glowing) (NN trail))))
+                            (AUX (VBZ is))
+                            (VP (VBN related)
+                                
+                                (PP (TO to)
+                                    (NP (DT the) (NN momentum) (NN transfer)
+                                        (PP (TO to)
+                                            (NP (DT the) (NN trail)))
+                                        (PP (IN by)
+                                            (NP (DT the) (NN meteorite))))))
+                            (, ,)
+                            (S (NP (-NONE- *))
+                               (VP (VBG permitting)
+                                   (NP (DT the) (NN calculation)
+                                       (PP (IN of)
+                                           (NP (DT the) (NN mass))))
+                                   (SBAR (IN if)
+                                         (S (NP (DT the) (NN velocity))
+                                            (AUX (VBZ is))
+                                            (VP (VBN known)
+                                                ))))))
+                         (-LRB- -LRB-)
+                         (NP (NP (NP (NNP Cook))
+                                 (CC and)
+                                 (NP (NNP Whipple)))
+                             (, ,)
+                             (NP (CD 1958)))
+                         (-RRB- -RRB-)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (DT A) (NN concentration) (NN distribution))
+       (AUX (VBZ has))
+       (VP (VBN been)
+           (VP (VBN derived)
+               
+               (PP (IN from)
+                   (NP (NP (NN radar) (NNS observations))
+                       (ADJP (JJ sensitive)
+                             (PP (TO to)
+                                 (NP (DT the) (JJ fifteenth) (NN magnitude)))))))))
+    (-LRB- -LRB-)
+    (NP (NP (NP (NNP Manning))
+            (CC and)
+            (NP (NNP Eshleman)))
+        (, ,)
+        (NP (CD 1959)))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Extrapolation)
+        (PP (IN of)
+            (NP (DT this) (NN relationship)))
+        (PP (IN through)
+            (NP (DT the) (JJ thirtieth) (NN magnitude))))
+    (VP (VBZ covers)
+        (NP (DT the) (NN range)
+            (PP (IN of)
+                (NP (NNS micrometeorites))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ approximate) (NN equation))
+    (VP (VBZ is)
+        (NP (NP (-NONE- A[fj]))
+            (, ,)
+            (SBAR
+                  (WHADVP (WRB where))
+                  (S (S (NP (NNP N))
+                        (VP (VBZ is)
+                            (NP (DT the) (NN number)
+                                (PP (IN of)
+                                    (NP (-NONE- A[fj])))))
+                        (PP (IN with)
+                            (NP (NP (NN electron) (NN line-density))
+                                (ADJP (ADJP (JJR greater)
+                                            (PP (IN than)
+                                                (NP-3 (-NONE- *pseudo-attach*))))
+                                      (CC or)
+                                      (ADJP (JJ equal)
+                                            (PP (TO to)
+                                                (NP-3 (-NONE- *pseudo-attach*))))
+                                      (NP-3 (-NONE- A[fj]))))))
+                     (, ,)
+                     (CC and)
+                     (S (NP (NNP Q))
+                        (VP (VBZ is)
+                            (ADJP (JJ proportional)
+                                  (PP (TO to)
+                                      (NP (DT the) (NN mass)
+                                          (PP (IN of)
+                                              (NP (DT the) (NN meteorite)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Therefore))
+    (, ,)
+    (S (NP (NNP N))
+       (VP (VBZ is)
+           (X (ADJP (RB inversely)
+                    (JJ proportional)
+                    (PP (TO to)
+                        (NP (NP (DT the) (NN radius))
+                            (VP (VBN cubed)))))
+              (CC and)
+              (PP (IN in)
+                  (NP (JJ fair) (NN agreement)
+                      (PP (IN with)
+                          (NP (NP (DT the)
+                                  (ADJP (JJ inverse))
+                                  (CD 72) (NN power))
+                              (VP (VBN derived)
+                                  (PP (IN from)
+                                      (NP (CD 1958)
+                                          (NNP Alpha)
+                                          (CC and)
+                                          (CD 1959) (NNP Eta) (NNS data))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((X
+    (X (PP (IN At)
+           (NP (DT the) (JJ fifteenth) (NN magnitude)))
+       (, ,)
+       (NP (-NONE- A[fj])))
+    (, ,)
+    (CC and)
+    (X (PP (IN at)
+           (NP (DT the) (JJ twenty-fifth) (NN magnitude)))
+       (, ,)
+       (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (VP (VBN extrapolated)) (NNS fluxes))
+    (VP (VBP are)
+        (ADJP (NP (ADVP (IN about))
+                  (DT an) (NN order)
+                  (PP (IN of)
+                      (NP (NN magnitude))))
+              (JJR less)
+              (PP (IN than)
+                  (NP (NP (DT the) (NNS values)
+                          (PP (IN from)
+                              (NP (DT the) (NN satellite) (NNS data))))
+                      (CC and)
+                      (NP (DT the) (NNS figures)
+                          (PP (IN in)
+                              (NP
+                                  (NP (NNP Whipple))
+                                  (POS 's) (NN table)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN extrapolation))
+    (AUX (MD may))
+    (VP (VB be)
+        (PP (IN in)
+            (NP (NN error))))
+    (PP (IN for)
+        (NP (JJ several) (NNS reasons))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT The) (JJ observational) (NNS data))
+        (VP (VBG determining)
+            (NP (DT the) (NN concentration) (NN distribution))))
+    (VP (VBP have)
+        (NP (NP (DT a) (NN range)
+                (PP (IN of)
+                    (NP (NN error))))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (AUX (VBZ is))
+                     (VP (VBN magnified)
+                         
+                         (PP (IN in)
+                             (NP (DT the) (NN extension)
+                                 (PP (IN into)
+                                     (NP (DT the) (NN micrometeorite) (NN region)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S
+    (NP (NP (DT The) (NN solar-electromagnetic))
+        (: -)
+        (CC and)
+        (NP (NN corpuscular-radiation) (NN pressure))
+        (CC and)
+        (NP (DT the)
+            (ADJP (VBN associated))
+            (NNP Poynting-Robertson) (NN effect)))
+    (VP (VP (VBP increase)
+            (PP (IN in)
+                (NP (NN effectiveness)))
+            (SBAR (IN as)
+                  (S (NP (DT the) (NN particle) (NN size))
+                     (VP (VBP decreases)))))
+        (CC and)
+        (VP (VP (VBP modify)
+                (NP (DT the) (NN distribution)))
+            (CC and)
+            (VP (VBP limit)
+                (NP (NNS sizes))
+                (PP (TO to)
+                    (NP (JJR larger)
+                        (PP (IN than)
+                            (NP (DT a) (JJ few) (NNS microns)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Also))
+    (, ,)
+    (S (NP (PRP it)
+           (SBAR-4 (-NONE- *pseudo-attach*)))
+       (AUX (VBZ has))
+       (VP (VBN been)
+           (VP (VBN suggested)))
+       (SBAR-4 (IN that)
+               (S (S (S (NP (DT the) (NN source)
+                            (PP (IN of)
+                                (NP (DT all)
+                                    (CC or)
+                                    (NN part)
+                                    (PP (IN of)
+                                        (NP (DT the) (NN dust))))))
+                        (AUX (MD may))
+                        (NEG (RB not))
+                        (VP (VB be)
+                            (NP (DT the)
+                                (JJ same)
+                                (PP (IN as)
+                                    (NP (IN that)
+                                        (PP (IN for)
+                                            (NP (ADJP (JJ visual)
+                                                      (CC or)
+                                                      (NN radar))) (NNS meteorites)))))))
+                     (-LRB- -LRB-)
+                     (NP (NP (NNP Best))
+                         (, ,)
+                         (CD 1960))
+                     (-RRB- -RRB-))
+                  (, ,)
+                  (CC and)
+                  (S (NP (DT the) (JJ same) (NN distribution))
+                     (AUX (MD would))
+                     (NEG (RB not))
+                     (VP (VB be)
+                         (VP (VBN expected))))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 5.4))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (JJ Indirect) (NNS indications)
+     (PP (IN of)
+         (NP (NN micrometeorite) (NN flux))))
+ )
+ 
+
+(
+ (S (NP (DT A) (NN measure)
+        (PP (IN of)
+            (NP (DT the) (JJ total) (NN mass) (NN accretion)
+                (PP (IN of)
+                    (NP (JJ meteoritic) (NN material)))
+                (PP (IN by)
+                    (NP (DT the) (NNP Earth))))))
+    (AUX (VBZ is))
+    (VP (VBN obtained)
+        
+        (PP (IN from)
+            (NP (NP
+                    (VBZ analyses)
+                    (PP (IN of)
+                        (NP (NP (JJ deep-sea) (NNS sediments) (CC and) (NN dust))
+                            (VP (VBN collected)
+                                (PP (IN in)
+                                    (NP (JJ remote) (NNS regions)))))))
+                (-LRB- -LRB-)
+                (NP (NP (NNP Pettersson))
+                    (, ,)
+                    (NP (CD 1960)))
+                (-RRB- -RRB-)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (RBS Most) (JJ meteoritic)
+        (NN material))
+    (, ,)
+    (PP (IN by)
+        (NP (NP (DT the) (NN time))
+            (SBAR (-NONE- 0)
+                  (S (NP (PRP it))
+                     (VP (VBZ reaches)
+                         (NP
+                             (NP (DT the) (NNP Earth))
+                             (POS 's) (NN surface)))))))
+    (, ,)
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN reduced)
+            
+            (PP (PP (TO to)
+                    (NP (NN dust)))
+                (CC or)
+                (PP (TO to)
+                    (NP (NNS spherules)
+                        (PP (IN of)
+                            (NP (VP (VBN ablated))
+                                (NN material))))))))
+    (PP (IN in)
+        (NP (PRP$ its) (NN passage)
+            (PP (IN through)
+                (NP (DT the) (NN atmosphere))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (DT all) (NNS meteorites)))
+    (, ,)
+    (S (NP (DT the) (JJ average) (NN nickel) (NN content))
+       (VP (VBZ is)
+           (NP (ADVP (IN about))
+               (CD 2.5)
+               (PP (IN per)
+                   (NP (NN cent)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VP (VBZ is)
+            (ADJP (RB much)
+                  (JJR higher)
+                  (PP (IN than)
+                      (NP (DT the) (NN nickel) (NN content)
+                          (PP (IN of)
+                              (NP (JJ terrestrial) (NNS dusts) (CC and) (NNS sediments)))))))
+        (CC and)
+        (VP (VBZ provides)
+            (NP (DT a) (NN basis)
+                (PP (IN for)
+                    (NP (DT the) (NN determination)
+                        (PP (IN of)
+                            (NP (DT the) (JJ meteoritic) (NN mass) (NN influx)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Present) (NNS data))
+    (VP (VBP indicate)
+        (NP (DT an) (NN accretion)
+            (PP (IN of)
+                (NP (NP (ADVP (IN about))
+                        (-NONE- A[fj]) (NNS tons)
+                        (PP (IN per)
+                            (NP (NN year)))
+                        (PP (IN over)
+                            (NP (DT the) (JJ entire) (NN globe))))
+                    (, ,)
+                    (CC or)
+                    (NP (ADVP (IN about))
+                        (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

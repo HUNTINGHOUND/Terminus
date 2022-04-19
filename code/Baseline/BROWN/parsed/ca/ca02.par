@@ -1,0 +1,2126 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP (NP Austin)
+     ,
+     (NP Texas))
+ --)
+(  
+ (S (NP Committee approval
+	(PP of
+	    (NP 
+	     (NP Gov. Price Daniel)
+	     's
+	     ``
+	     abandoned property
+	     ''
+	     act)))
+    (VP seemed
+	(ADJP certain))
+    (NP Thursday)
+    (PP despite
+	(NP the adamant protests
+	    (PP of
+		(NP Texas bankers)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Daniel)
+   (VP  (ADVP personally)
+	led
+	(NP the fight
+	    (PP for
+		(NP (NP the measure)
+		    ,
+		    (SBAR (WHNP which)
+			  (S
+			   (NP he)
+			   (AUX had)
+			   (VP watered
+			       (NP T)
+			       (PRT down)
+			       (ADVP considerably))
+			   (PP  since
+				(NP its rejection
+				    (PP by
+					(NP two previous Legislatures))))))
+		    ,))))
+   (PP in
+       (NP a public hearing
+	   (PP before
+	       (NP the House Committee
+		   (PP on
+		       (NP (NP Revenue)
+			   and
+			   (NP Taxation))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Under
+       (NP committee rules))
+   ,
+   (S (NP it)
+      (VP went
+	  (ADVP automatically)
+	  (PP to
+	      (NP a subcommittee))
+	  (PP for
+	      (NP one week)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP (NP questions)
+	     (SBAR  
+	      (WHPP with
+		    (WHNP which))
+	      (S (NP committee members)
+		 (VP taunted
+		     (NP (NP bankers)
+			 (VP appearing
+			     (PP as
+				 (NP witnesses))))))))
+	 (VP left
+	     (NP little doubt
+		 (SBAR that
+		       (S (NP they)
+			  (AUX will)
+			  (VP recommend
+			      (NP passage
+				  (PP of
+				      (NP it))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Daniel)
+   (VP termed
+       (ADJP  ``
+	      (ADVP extremely)
+	      conservative
+	      '')
+       (NP his estimate
+	   (SBAR that
+		 (S (NP it)
+		    (AUX would)
+		    (VP produce
+			(NP 17 million dollars))
+		    (S (NP *)
+		       (AUX to)
+		       (VP help
+			   (VP erase
+			       (NP an (VP anticipated) deficit
+				   (PP of
+				       (NP 63 million dollars))
+				   (PP at
+				       (NP the end
+					   (PP of
+					       (NP the current fiscal year))
+					   (PP next
+					       (NP Aug. 31)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP told
+       (NP the committee)
+       (SBAR 0
+	     (S
+	      (NP the measure)
+	      (AUX would)
+	      (VP (ADVP merely)
+		  provide
+		  (NP means
+		      (PP of
+			  (S (NP *) 
+			     (VP enforcing
+				 (NP (NP the escheat law)
+				     (SBAR 
+				      (WHNP which)
+				      (S (NP T)
+					 (AUX has)
+					 (VP been
+					     (PP on
+						 (NP the books)))
+					 (PP  ``
+					      since
+					      (S (NP Texas)
+						 (VP was
+						     (NP a republic)))
+					      '')))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP permits
+       (NP the state)
+       (S (NP *)
+	  (AUX to)
+	  (VP take
+	      (PRT over)
+	      (NP  bank accounts
+		   ,
+		   stocks
+		   and
+		   other personal
+		   property
+		   (PP of
+		       (NP (NP persons)
+			   (VP missing
+			       (PP for
+				   (NP (NP seven years)
+				       or
+				       (ADJP more)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The bill)
+      ,
+      (SBAR (WHNP which)
+	    (S (NP Daniel)
+	       (VP said
+		   (SBAR 0
+			 (S (NP he)
+			    (VP drafted
+				(NP T)
+				(ADVP personally)))))))
+      ,)
+  (AUX would)
+  (VP force
+      (NP (NP banks)
+	  ,
+	  (NP insurance firms)
+	  ,
+	  (NP pipeline companies)
+	  and
+	  (NP other corporations))
+      (S (NP *)
+	 (AUX to)
+	 (VP report
+	     (NP such property)
+	     (PP to
+		 (NP the state treasurer))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The escheat law)
+      (AUX can)
+      (NEG not)
+      (VP be
+	  (VP enforced
+	      ))
+      (ADVP now)
+      (SBAR because
+	    (S (NP it)
+	       (VP is
+		   (ADJP  (ADVP almost)
+			  impossible))
+	       (S (NP *)
+		  (AUX to)
+		  (VP locate
+		      (NP such property))))))
+     ,
+     (S (NP Daniel)
+	(VP declared
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Dewey Lawrence)
+      ,
+      (NP (NP a Tyler lawyer)
+	  (VP representing
+	      (NP the Texas Bankers Association)))
+      ,)
+  (VP sounded
+      (NP the opposition keynote)
+      (SBAR 
+       (WHADVP when)
+       (S (NP he)
+	  (VP said
+	      (SBAR 0
+		    (S (NP it)
+		       (AUX would)
+		       (VP (VP force
+			       (NP banks)
+			       (S (NP *)
+				  (AUX to)
+				  (VP violate
+				      (NP their contractual obligations
+					  (PP with
+					      (NP depositors))))))
+			   and
+			   (VP undermine
+			       (NP the confidence
+				   (PP of
+				       (NP bank customers))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S  
+       (SBAR  If
+	      (S (NP you)
+		 (VP destroy
+		     (NP confidence
+			 (PP in
+			     (NP banks))))))
+       ,
+       (S (NP you)
+	  (VP do
+	      (NP something)
+	      (PP to
+		  (NP the economy)))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (VP take
+	  (PP out
+	      (PP of
+		  (NP circulation)))
+	  (NP many millions
+	      (PP of
+		  (NP dollars)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Rep. Charles E. Hughes
+	  (PP of
+	      (NP Sherman)))
+      ,
+      (NP sponsor
+	  (PP of
+	      (NP the bill)))
+      ,)
+  (VP said
+      (SBAR 0
+	    (S (NP a failure
+		   (S (NP *)
+		      (AUX to)
+		      (VP enact
+			  (NP it))))
+	       (AUX would)
+	       (VP amount
+		   (PP  ``
+			to
+			(S (NP *) 
+			   (VP making
+			       (NP a gift)
+			       (PP out
+				   (PP of
+				       (NP 
+					(NP the taxpayers)
+					' pockets)))
+			       (PP to
+				   (NP banks
+				       ,
+				       insurance and pipeline companies))))
+			''))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His contention)
+   (AUX was)
+   (VP denied
+	     
+       (PP by
+	   (NP (NP several bankers)
+	       ,
+	       (VP including
+		   (NP (NP Scott Hudson
+			   (PP of
+			       (NP Sherman)))
+		       ,
+		       (NP Gaynor B. Jones
+			   (PP of
+			       (NP Houston)))
+		       ,
+		       (NP J.B. Brady
+			   (PP of
+			       (NP Harlingen)))
+		       and
+		       (NP Howard Cox
+			   (PP of
+			       (NP Austin)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Cox)
+   (VP argued
+       (SBAR that
+	     (S (NP the bill)
+		(VP is
+		    ``
+		    (ADVP probably)
+		    (ADJP unconstitutional)
+		    '')
+		(SBAR since
+		      (S  ,
+			  (S (NP he)
+			     (VP said))
+			  ,
+			  (S (NP it)
+			     (AUX would)
+			     (VP impair
+				 (NP contracts)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (ADVP also)
+    (VP complained
+	(SBAR that
+	      (S   
+	       (NP (ADJP  (NEG not)
+			  enough)
+		   notice)
+	       (AUX was)
+	       (VP given
+			        
+		   (PP on
+		       (NP the hearing)))
+	       ,
+	       (SBAR since
+		     (S (NP the bill)
+			(AUX was)
+			(VP introduced)
+			(NP  (ADVP only)
+			     last
+			     Monday)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (NP Austin)
+     ,
+     (NP Texas))
+ --)
+((S (NP Senators)
+    (VP  (ADVP unanimously)
+	 approved
+	 (NP Thursday)
+	 (NP (NP the bill
+		 (PP of
+		     (NP Sen. George Parkhouse
+			 (PP of
+			     (NP Dallas)))))
+	     (VP authorizing
+		 (NP establishment
+		     (PP of
+			 (NP day schools
+			     (PP for
+				 (NP the
+				     (ADJP deaf)))))
+		     (PP in
+			 (NP (NP Dallas)
+			     and
+			     (NP the four other largest counties))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The bill)
+   (AUX is)
+   (VP designed
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP provide
+	      (NP special schooling
+		  (PP for
+		      (NP more deaf
+			  students
+			  (PP in
+			      (NP the scholastic age)))))
+	      (PP at
+		  (NP a reduced cost
+		      (PP to
+			  (NP the state))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP was
+	(NP no debate))
+    (SBAR  as
+	   (S (NP the Senate)
+	      (VP passed
+		  (NP the bill)
+		  (ADVP on)
+		  (PP to
+		      (NP the House))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX would)
+    (VP authorize
+	(NP the Texas Education Agency)
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP establish
+		   (NP (ADJP county-wide) day schools
+		       (PP for
+			   (NP the
+			       (ADJP deaf))))
+		   (PP in
+		       (NP counties
+			   (PP of
+			       (NP (NP  (NP 300,000)
+					or
+					(ADJP more))
+				   population)))))
+	       ,
+	       (VP require
+		   (S (NP deaf children
+			  (PP between
+			      (NP (NP (NP 6)
+				      and
+				      (NP 13))
+				  years
+				  (PP of
+				      (NP age)))))
+		      (AUX to)
+		      (VP attend
+			  (NP the day schools)))))))
+    ,
+    (S  (NP *) 
+	(VP permitting
+	    (NP older
+		ones)
+	    (S (NP *)
+	       (AUX to)
+	       (VP attend
+		   (NP the
+		       residential
+		       Texas School
+		       (PP for
+			   (NP the Deaf))
+		       (ADVP here)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(
+ (S (S (NP  Operating
+	    budget
+	    (PP for
+		(NP the day schools
+		    (PP in
+			(NP the five counties
+			    (PP of
+				(NP (NP Dallas)
+				    ,
+				    (NP Harris)
+				    ,
+				    (NP Bexar)
+				    ,
+				    (NP Tarrant)
+				    and
+				    (NP El Paso))))))))
+       (AUX would)
+       (VP be
+	   (NP (NP $ 451,500)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX would)
+		   (VP be
+		       (NP a savings
+			   (PP of
+			       (NP $ 157,460
+				   (ADVP yearly)))))
+		   (PP after
+		       (S (NP 
+			   (NP the first year)
+			   's capital outlay
+			   (PP of
+			       (NP $ 88,000)))
+			  (AUX was)
+			  (VP absorbed
+			      ))))))))
+    ,
+    (S (NP Parkhouse)
+       (VP told
+	   (NP the Senate))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The TEA)
+   (VP estimated
+       (SBAR 0
+	     (S (NP there)
+		(AUX would)
+		(VP be
+		    (NP (NP 182 scholastics)
+			(S (NP *)
+			   (AUX to)
+			   (VP attend
+			       (NP the day school
+				   (PP in
+				       (NP Dallas County)))))))
+		,
+		(S (NP *) 
+		   (VP saving
+		       (NP them)
+		       (PP from
+			   (S (NP *) 
+			      (VP coming
+				  (PP to
+				      (NP Austin))
+				  (S (NP *)
+				     (AUX to)
+				     (VP live
+					 (PP in
+					     (NP the state deaf school)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Dallas)
+    (AUX may)
+    (VP get
+	(S (NP *)
+	   (AUX to)
+	   (VP hear
+	       (NP a debate
+		   (PP on
+		       (NP horse race parimutuels))
+		   (ADVP soon)
+		   (PP between
+		       (NP (NP Reps. V.E.
+			       *LRB*
+			       Red
+			       *RRB*
+			       Berry)
+			   and
+			   (NP Joe Ratcliff))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+	  (S (NP details)
+	     (VP are
+		 (ADVP still)
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(VP worked
+			    (PRT out)))))))
+   ,
+   (S (NP Ratcliff)
+      (VP said
+	  (SBAR 0
+		(S (NP he)
+		   (VP expects
+		       (S (NP *)
+			  (AUX to)
+			  (VP tell
+			      (NP home folks
+				  (PP in
+				      (NP Dallas)))
+			      (SBAR 
+			       (WHADVP why)
+			       (S (NP he)
+				  (VP thinks
+				      (SBAR 0
+					    (S (NP
+						(NP Berry)
+						's
+						(VP proposed) constitutional
+						amendment)
+					       (AUX should)
+					       (VP be
+						   (VP rejected
+						       )))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (AUX 're)
+	 (VP getting
+	     (NP   more
+		   (ADJP  '
+			  pro
+			  ')
+		   letters
+		   (PP than
+		       (ADJP  '
+			      con
+			      '))
+		   (PP on
+		       (NP horse race
+			   betting)))))
+      ''
+      ,
+      (SINV (VP said)
+	    (NP Ratcliff)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      But
+      (S (NP I)
+	 (VP believe
+	     (SBAR 0
+		   (S (SBAR if
+			    (S (NP people)
+			       (VP were
+				   (ADJP (ADVP better)
+					 informed
+					 (PP on
+					     (NP this question))))))
+		      ,
+		      (S (NP   most
+			       (PP of
+				   (NP them)))
+			 (AUX would)
+			 (VP oppose
+			     (NP it))
+			 (ADVP also)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP 'm
+       (ADJP willing
+	     (S (NP *)
+		(AUX to)
+		(VP stake
+		    (NP my political career)
+		    (PP on
+			(NP it)))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Rep. Berry)
+      ,
+      (NP an ex-gambler
+	  (PP from
+	      (NP San Antonio)))
+      ,)
+  (AUX got)
+  (VP elected
+	 
+      (PP on
+	  (NP his advocacy
+	      (PP of
+		  (S (NP *) 
+		     (VP betting
+			 (PP on
+			     (NP the ponies)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A House committee)
+	(SBAR 
+	 (WHNP which)
+	 (S (NP T)
+	    (VP heard
+		(NP his local option proposal)))))
+    (AUX is)
+    (VP expected
+	 
+	(S (NP *)
+	   (AUX to)
+	   (VP give
+	       (NP it)
+	       (NP a favorable report))))
+    ,
+    (SBAR although
+	  (S (NP the resolution)
+	     (VP faces
+		 (NP hard sledding)
+		 (ADVP later)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The house)
+   (VP (VP passed
+	   (ADVP finally)
+	   (NP-1 *pseudo-attach*))
+       ,
+       and
+       (VP sent
+	   (PP to
+	       (NP the Senate))
+	   (NP-1 *pseudo-attach*))
+       ,)
+   (NP-1 (NP a bill)
+	 (VP extending
+	     (NP 
+	      (NP the State Health Department)
+	      's authority
+	      (S (NP *)
+		 (AUX to)
+		 (VP give
+		     (NP planning assistance)
+		     (PP to
+			 (NP cities))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The senate)
+   (VP  (ADVP quickly)
+	whipped
+	(PP through
+	    (NP its meager fare
+		(PP of
+		    (NP (NP House bills)
+			(VP approved
+			    (PP by
+				(NP committees))))))))
+   ,
+   (S (NP *) 
+      (VP passing
+	  (NP the three
+	      (PP on
+		  (NP the calendar))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP One)
+     (VP validated
+	 (NP acts
+	     (PP of
+		 (NP school districts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Another)
+     (VP enlarged
+	 (NP authority
+	     (PP of
+		 (NP the Beaumont Navigation District)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       third)
+   (VP amended
+       (NP the enabling act
+	   (PP for
+	       (NP creation
+		   (PP of
+		       (NP (NP the Lamar county
+			       Hospital District)
+			   ,
+			   (SBAR (WHPP for
+				       (WHNP which))
+				 (S
+				  (NP a
+				      special constitutional
+				      amendment)
+				  (ADVP previously)
+				  (AUX was)
+				  (VP adopted
+				      ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Without
+       (NP dissent))
+   ,
+   (S (NP senators)
+      (VP passed
+	  (NP (NP a bill
+		  (PP by
+		      (NP Sen. A.R. Schwartz
+			  (PP of
+			      (NP Galveston)))))
+	      (VP authorizing
+		  (NP establishment
+		      (PP in
+			  (NP the future))
+		      (PP of
+			  (NP a school
+			      (PP for
+				  (NP the mentally retarded))))
+		      (PP in
+			  (NP the Gulf Coast district))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Money
+	  (PP for
+	      (NP its construction)))
+      (AUX will)
+      (VP be
+	  (VP sought
+	      ))
+      (ADVP later
+	    on))
+     but
+     (S (PP in
+	    (NP the meantime))
+	(S
+	 (NP the State Hospital board)
+	 (AUX can)
+	 (VP accept
+	     (NP (NP gifts)
+		 and
+		 (NP donations
+		     (PP of
+			 (NP a site))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two tax revision bills)
+   (AUX were)
+   (VP passed
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP One)
+      ,
+      (PP by
+	  (NP Sen. Louis Crump
+	      (PP of
+		  (NP San Saba))))
+      ,)
+  (AUX would)
+  (VP aid
+      (NP (NP   (ADJP more
+		      (PP than
+			  (NP 17,000)))
+		retailers)
+	  (SBAR 
+	   (WHNP who)
+	   (S (NP T)
+	      (VP pay
+		  (NP a group
+		      (PP of
+			  (NP 
+			   miscellaneous excise
+			   taxes)))))))
+      (PP by
+	  (S (NP *)  
+	     (VP eliminating
+		 (NP the requirement
+		     (SBAR that
+			   (S (NP each return)
+			      (AUX be)
+			      (VP notarized
+				  )))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Instead)
+      ,
+      (S (NP retailers)
+	 (AUX would)
+	 (VP sign
+	     (NP (NP a certificate
+		     (PP of
+			 (NP correctness)))
+		 ,
+		 (SBAR (WHNP violation
+			     (WHPP of
+				   (WHNP which)))
+		       (S  (NP T) 
+			   (AUX would)
+			   (VP carry
+			       (NP (NP a penalty
+				       (PP of
+					   (NP (NP one
+						   (PP to
+						       (NP five)))
+					       years
+					       (PP in
+						   (NP prison)))))
+				   ,
+				   plus
+				   (NP a
+				       $ 1,000
+				       fine)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP one
+	   (PP of
+	       (NP a series
+		   (PP of
+		       (NP recommendations
+			   (PP by
+			       (NP the Texas Research League)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The other bill)
+      ,
+      (PP by
+	  (NP Sen. A.M. Aikin Jr.
+	      (PP of
+		  (NP Paris))))
+      ,)
+  (AUX would)
+  (VP relieve
+      (NP (NP real estate brokers)
+	  ,
+	  (SBAR 
+	   (WHNP who)
+	   (S (NP T)
+	      (VP pay
+		  (NP their
+		      own annual
+		      licensing fee))))
+	  ,)
+      (PP from
+	  (NP the
+	      $ 12
+	      annual occupation license
+	      (PP on
+		  (NP brokers
+		      (PP in
+			  (NP such
+			      (PP as
+				  (NP (NP stocks) and (NP bonds)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Natural gas public utility companies)
+   (AUX would)
+   (VP be
+       (VP given
+	   (NP the right
+	       (PP of
+		   (NP eminent domain))
+	       (S-1 *pseudo-attach*))))
+   ,
+   (PP under
+       (NP a bill
+	   (PP by
+	       (NP Sen. Frank Owen 3
+		   ,
+		   (PP of
+		       (NP El Paso))
+		   ,))))
+   (S-1 (NP *)
+	(AUX to)
+	(VP acquire
+	    (NP sites
+		(PP for
+		    (NP underground storage reservoirs
+			(PP for
+			    (NP gas))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Marshall Formby
+	    (PP of
+		(NP Plainview)))
+	,
+	(NP former chairman
+	    (PP of
+		(NP the Texas Highway Commission)))
+	,)
+    (VP suggested
+	(NP a plan
+	    (S (NP *)
+	       (AUX to)
+	       (VP fill
+		   (PP by
+		       (NP appointment))
+		   (NP future vacancies
+		       (PP in
+			   (NP (NP the Legislature)
+			       and
+			       (NP Congress)))))
+	       ,
+	       (S (NP *) 
+		  (VP eliminating
+		      (NP the need
+			  (PP for
+			      (NP 
+			       costly special
+			       elections)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Under
+       (NP 
+	(NP Formby)
+	's plan))
+   ,
+   (S (NP an appointee)
+      (AUX would)
+      (VP be
+	  (VP selected
+	      
+	      (PP by
+		  (NP (NP a board)
+		      (VP composed
+			  (PP of
+			      (NP (NP the governor)
+				  ,
+				  (NP lieutenant governor)
+				  ,
+				  (NP speaker
+				      (PP of
+					  (NP the House)))
+				  ,
+				  (NP attorney general)
+				  and
+				  (NP chief justice
+				      (PP of
+					  (NP the Texas Supreme Court))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Austin)
+     ,
+     (NP Texas))
+ --)
+(   
+ (S (NP State representatives)
+    (VP decided
+	(NP Thursday)
+	(PP against
+	    (S (NP *) 
+	       (VP taking
+		   (NP a poll
+		       (PP on
+			   (SBAR (WHNP what kind
+				       (PP of
+					   (NP taxes)))
+				 (S (NP Texans)
+				    (AUX would)
+				    (VP prefer
+					(S (NP *)
+					   (AUX to)
+					   (VP pay
+					       (NP T) ))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An adverse vote
+       (PP of
+	   (NP 81
+	       (PP to
+		   (NP 65)))))
+   (VP kept
+       (PP in
+	   (NP the State Affairs Committee))
+       (NP (NP a bill)
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (AUX would)
+	       (VP order
+		   (NP the referendum)
+		   (PP on
+		       (NP (NP the April 4 ballot)
+			   ,
+			   (SBAR 
+			    (WHADVP when)
+			    (S (NP Texas)
+			       (VP votes
+				   (PP on
+				       (NP a U.S. senator)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Rep. Wesley Roberts
+	  (PP of
+	      (NP Seminole)))
+      ,
+      (NP sponsor
+	  (PP of
+	      (NP the poll idea)))
+      ,)
+  (VP said
+      (SBAR that
+	    (S (NP  further delay
+		    (PP in
+			(NP the committee)))
+	       (AUX can)
+	       (VP kill
+		   (NP the bill))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The West Texan)
+   (VP reported
+       (SBAR that
+	     (S (NP he)
+		(AUX had)
+		(ADVP finally)
+		(VP gotten
+		    (NP Chairman Bill Hollowell
+			(PP of
+			    (NP the committee)))
+		    (S (NP *)
+		       (AUX to)
+		       (VP set
+			   (NP it)
+			   (PP for
+			       (NP public hearing
+				   (PP on
+				       (NP Feb. 22)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The proposal)
+      (AUX would)
+      (VP have
+	  (S (NP *)
+	     (AUX to)
+	     (VP receive
+		 (NP 
+		  (NP final legislative
+		      approval)
+		  ,
+		  (PP by
+		      (NP two-thirds majorities))
+		  ,))
+	     (PP before
+		 (NP March 1))))
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (VP printed
+	       
+		 (PP on
+		     (NP the April 4 ballot))))))
+     ,
+     (S (NP Roberts)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Opponents)
+   (VP  (ADVP generally)
+	argued
+	(SBAR that
+	      (S (NP the ballot)
+		 (AUX could)
+		 (NEG n't)
+		 (VP give
+		     (NP enough information
+			 (PP about
+			     (NP tax proposals))
+			 (PP for
+			     (S (NP the voters)
+				(AUX to)
+				(VP make
+				    (NP an intelligent choice))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All Dallas members)
+   (VP voted
+       (PP with
+	   (NP Roberts)))
+   ,
+   (PP except
+       (NP Rep. Bill Jones
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP was
+		   (ADJP absent)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Austin)
+     ,
+     (NP Texas))
+ --)
+(  
+ (S (NP Paradise)
+    (VP lost
+	(PP to
+	    (NP the alleged water needs
+		(PP of
+		    (NP 
+		     (NP Texas)
+		     ' big cities)))))
+    (NP Thursday))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Rep. James Cotten
+       (PP of
+	   (NP Weatherford)))
+   (VP insisted
+       (SBAR that
+	     (S (NP (NP a water development bill)
+		    (VP passed
+			(PP by
+			    (NP the Texas House
+				(PP of
+				    (NP Representatives))))))
+		(VP was
+		    (NP an effort
+			(PP by
+			    (NP big cities
+				(PP like
+				    (NP (NP Dallas)
+					and
+					(NP Fort Worth)))))
+			(S (NP *)
+			   (AUX to)
+			   (VP cover
+			       (PRT up)
+			       (NP places
+				   (PP like
+				       (NP (NP Paradise)
+					   ,
+					   (NP a Wise County hamlet
+					       (PP of
+						   (NP 250 people))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the shouting)
+	 (VP ended)))
+     ,
+     (S (NP the bill)
+	(VP passed
+	    ,
+	    (NP 114
+		(PP to
+		    (NP 4))))
+	,
+	(S (NP *) 
+	   (VP sending
+	       (NP it)
+	       (PP to
+		   (NP (NP the Senate)
+		       ,
+		       (SBAR 
+			(WHADVP where)
+			(S (NP a similar proposal)
+			   (AUX is)
+			   (VP being
+			       (VP sponsored
+		  
+				   (PP by
+				       (NP Sen. George Parkhouse
+					   (PP of
+					       (NP Dallas))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP   Most
+	   (PP of
+	       (NP the fire)))
+     (AUX was)
+     (VP directed
+	 
+	 (PP by
+	     (NP Cotten))
+	 (PP against
+	     (NP (NP Dallas)
+		 and
+		 (NP Sen. Parkhouse)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The bill)
+   (AUX would)
+   (VP increase
+       (PP from
+	   (NP $ 5,000,000))
+       (PP to
+	   (NP $ 15,000,000))
+       (NP (NP the maximum loan)
+	   (SBAR 0
+		 (S
+		  (NP the state)
+		  (AUX could)
+		  (VP make
+		      (NP T)
+		      (PP to
+			  (NP a local water project))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Cotten)
+   (VP construed
+       (NP this)
+       (PP as
+	   (NP a (ADJP veiled) effort
+	       (PP by
+		   (NP Parkhouse))
+	       (S (NP *)
+		  (AUX to)
+		  (VP help
+		      (NP (NP Dallas)
+			  and
+			  (NP
+			   other large
+			   cities))
+		      (VP get
+			  (NP (NP money)
+			      (SBAR (WHNP which)
+				    (S (NP Cotten)
+				       (VP felt
+					   (SBAR 0
+						 (S (NP T)  
+						    (AUX could)
+						    (VP  (ADVP better)
+							 be
+							 (VP spent
+							     (S (NP *) 
+								(VP providing
+								    (NP water)
+								    (PP for
+									(NP rural
+									    Texas)))))))))))))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Statements
+	(PP by
+	    (NP other legislators))
+	(SBAR (SBAR that
+		    (S (NP Dallas)
+		       (AUX is)
+		       (VP paying
+		    
+			   (PP for
+			       (NP all
+				   its water program))
+			   (PP by
+			       (NP local bonds)))))
+	      ,
+	      and
+	      (SBAR that
+		    (S (NP (ADJP less
+				 populous)
+			   places)
+		       (AUX would)
+		       (VP benefit
+			   (ADVP most)
+			   (PP by
+			       (NP the pending bill)))))
+	      ,))
+    (AUX did)
+    (NEG not)
+    (VP sway
+	(NP 
+	 (NP Cotten)
+	 's attack)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (NP The bill)
+     's defenders)
+    (VP were
+	(ADVP mostly)
+	(NP  small-town legislators
+	     (PP like
+		 (NP (NP J.W. Buchanan
+			 (PP of
+			     (NP Dumas)))
+		     ,
+		     (NP Eligio
+			 *LRB*
+			 Kika
+			 *RRB*
+			 De La Garza
+			 (PP of
+			     (NP Mission)))
+		     ,
+		     (NP Sam F. Collins
+			 (PP of
+			     (NP Newton)))
+		     and
+		     (NP Joe Chapman
+			 (PP of
+			     (NP Sulphur Springs))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP This)
+	 (VP is
+	     (NP 
+	      (NP a poor boy)
+	      's bill)))
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP Chapman)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  
+    (NP (NP Dallas)
+	and
+	(NP Fort Worth))
+    (AUX can)
+    (VP vote
+	(NP bonds)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX would)
+   (VP help
+       (NP the little peanut districts)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Austin)
+     ,
+     (NP Texas))
+ --)
+(  
+ (S  
+  (NP (NP A Houston teacher)
+      ,
+      (VP  (ADVP now)
+	   serving
+	   (PP in
+	       (NP the Legislature)))
+      ,)
+  (VP proposed
+      (NP Thursday)
+      (NP (NP a law)
+	  (VP reducing
+	      (NP (NP the time)
+		  (VP spent
+		      (S (NP *) 
+			 (VP learning
+			     (NP  ``
+				  educational methods
+				  '')))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Rep. Henry C. Grover)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP teaches
+	      (NP history)
+	      (PP in
+		  (NP the Houston public schools)))))
+      ,)
+  (AUX would)
+  (VP reduce
+      (PP from
+	  (NP 24))
+      (PP to
+	  (NP 12 semester hours))
+      (NP (NP the (ADJP so-called)
+	      ``
+	      teaching methods
+	      ''
+	      courses)
+	  (VP required
+	      (S (NP *)
+		 (AUX to)
+		 (VP obtain
+		     (NP a junior or senior high school teaching certificate)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP A normal year)
+    's work
+    (PP in
+	(NP college)))
+   (VP is
+       (NP 30 semester hours)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Grover)
+   (ADVP also)
+   (AUX would)
+   (VP require
+       (S (NP 
+	   junior-senior high
+	   teachers)
+	  (AUX to)
+	  (VP have
+	      (NP (PP at
+		      (ADJP least))
+		  24 semester hours
+		  credit
+		  (PP in
+		      (NP (NP the subject)
+			  (SBAR 0
+				(S
+				 (NP they)
+				 (AUX are)
+				 (VP teaching
+				     (NP T) ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The remainder
+       (PP of
+	   (NP the (ADJP 4-year) college requirement)))
+   (AUX would)
+   (VP be
+       (PP in
+	   (NP general subjects))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S  
+       (NP (NP A person)
+	   (X (PP with
+		  (NP 
+		   (NP a master)
+		   's degree
+		   (PP in
+		       (NP (NP physics)
+			   ,
+			   (NP chemistry)
+			   ,
+			   (NP math)
+			   or
+			   (NP English)))))
+	      ,
+	      yet
+	      (SBAR 
+	       (WHNP who)
+	       (S (NP T)
+		  (AUX has)
+		  (NEG not)
+		  (VP taken
+		      (NP Education courses))))
+	      ,))
+       (AUX is)
+       (NEG not)
+       (VP permitted
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP teach
+		  (PP in
+		      (NP the public schools))))))
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP Grover)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP College teachers
+       (PP in
+	   (NP Texas)))
+   (AUX are)
+   (NEG not)
+   (VP required
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP have
+	      (NP the Education courses)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Fifty-three
+      (PP of
+	  (NP the 150 representatives)))
+  (ADVP immediately)
+  (VP joined
+      (NP Grover)
+      (PP as
+	  (NP co-signers
+	      (PP of
+		  (NP the proposal))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Paris)
+     ,
+     (NP Texas)
+     *LRB*
+     (NP sp
+	 .)
+     *RRB*)
+ --)
+((S (NP The board
+	(PP of
+	    (NP regents
+		(PP of
+		    (NP Paris Junior College)))))
+    (AUX has)
+    (VP named
+	(NP Dr. Clarence Charles Clark
+	    (PP of
+		(NP (NP Hays)
+		    ,
+		    (NP Kan.))))
+	(PP as
+	    (NP 
+	     (NP the school)
+	     's new president))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dr. Clark)
+   (AUX will)
+   (VP succeed
+       (NP (NP Dr. J.R. McLemore)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX will)
+	       (VP retire)
+	       (PP at
+		   (NP the close
+		       (PP of
+			   (NP the present school term)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dr. Clark)
+   (VP holds
+       (NP an
+	   (VP earned)
+	   Doctor
+	   of
+	   Education
+	   degree
+	   (PP from
+	       (NP the University
+		   (PP of
+		       (NP Oklahoma)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP  (ADVP also)
+	received
+	(X (NP (NP a Master
+		   of
+		   Science degree))
+	   (PP from
+	       (NP Texas
+		   A
+		   &
+		   I
+		   College))
+	   and 
+	   (NP a Bachelor
+	       of
+	       Science degree)
+	   (PP from
+	       (NP (NP Southwestern State College)
+		   ,
+		   (NP (NP Weatherford)
+		       ,
+		       (NP Okla
+			   .)))))))
+  .)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP Dr. Clark)
+       (AUX has)
+       (VP studied
+	   (PP at
+	       (NP (NP Rhode Island State College)
+		   and
+		   (NP Massachusetts Institute
+		       (PP of
+			   (NP Technology))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP his college career))
+   ,
+   (S (NP Dr. Clark)
+      (VP (VP was
+	      (NP captain
+		  (PP of
+		      (NP his basketball team))))
+	  and
+	  (VP was
+	      (NP a football letterman)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dr. Clark)
+   (AUX has)
+   (VP served
+       (PP  (PP as
+		(NP (NP teacher) and (NP principal)))
+	    (PP in
+		(NP Oklahoma high schools))
+	    ,
+	    (PP as
+		(NP (NP teacher)
+		    and
+		    (NP athletic director)))
+	    (PP at
+		(NP  (NP Raymondville
+			 ,
+			 Texas
+			 ,)
+		     High School))
+	    ,
+	    (PP as
+		(NP an instructor))
+	    (PP at
+		(NP the University
+		    (PP of
+			(NP Oklahoma))))
+	    ,
+	    and
+	    (PP as
+		(NP an associate professor
+		    (PP of
+			(NP education))))
+	    (PP at
+		(NP (NP Fort Hays
+			,
+			Kan.
+			,)
+		    State College)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (X (AUX has)
+	 (VP served
+	     (PP as
+		 (NP a border patrolman))))
+      and
+      (VP was
+	  (PP in
+	      (NP the Signal Corps
+		  (PP of
+		      (NP the U.S. Army)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)  
+(  END_OF_TEXT_UNIT)
+((NP (NP Denton)
+     ,
+     (NP Texas)
+     *LRB*
+     (NP sp
+	 .)
+     *RRB*)
+ --)
+(   
+ (S (NP Principals
+	 (PP of
+	     (NP the 13 schools
+		 (PP in
+		     (NP the Denton Independent School District)))))
+     (AUX have)
+     (VP been
+	 (VP re-elected
+	     
+	     (PP for
+		 (NP the 1961-62 session))))
+     (PP upon
+	 (NP the recommendation
+	     (PP of
+		 (NP Supt. Chester O. Strickland)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP   State
+	  and
+	  federal legislation
+	  (PP against
+	      (NP racial discrimination
+		  (PP in
+		      (NP employment)))))
+    (AUX was)
+    (VP called
+	(PP for
+	    (NP *)))
+    (NP yesterday)
+    (PP in
+	(NP a report
+	    (PP of
+		(NP a
+		    ``
+		    blue ribbon
+		    ''
+		    citizens
+		    committee))
+	    (PP on
+		(NP the aid
+		    to
+		    dependent children
+		    program)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The report)
+      ,
+      (VP culminating
+	  (NP a
+	      (ADJP year long)
+	      study
+	      (PP of
+		  (NP the ADC program
+		      (PP in
+			  (NP Cook county))))
+	      (PP by
+		  (NP a (NP New York City) welfare
+		      consulting
+		      firm))))
+      ,)
+  (VP listed
+      (NP (NP 10 long range recommendations)
+	  (VP designed
+	      (S (NP *)
+		 (AUX to)
+		 (VP reduce
+		     (NP the (VP soaring) ADC case load)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The report)
+   (VP called
+       (NP racial discrimination
+	   (PP in
+	       (NP employment)))
+       (NP  ``
+	    one
+	    (PP of
+		(NP the
+		    (ADJP most serious)
+		    causes
+		    (PP of
+			(NP (NP family breakdown)
+			    ,
+			    (NP desertion)
+			    ,
+			    and
+			    (NP ADC dependency)))))
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  (NP *) 
+       (AUX Must)
+       (VP solve
+	   (NP problem)))
+   '')
+((S (S (NP The monthly cost
+	   (PP of
+	       (NP ADC
+		   (PP to
+		       (NP (ADJP more
+				 (PP than
+				     (NP 100,000)))
+			   recipients
+			   (PP in
+			       (NP the county)))))))
+       (VP is
+	   (NP 4.4 million dollars)))
+    ,
+    (SINV  (VP said)
+	   (NP (NP C. Virgil Martin)
+	       ,
+	       (NP president
+		   (PP of
+		       (NP Carson Pirie Scott
+			   &
+			   Co.)))
+	       ,
+	       (NP committee chairman))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (AUX must)
+	 (VP solve
+	     (NP (NP the problems)
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX have)
+		     (VP forced
+			 (NP these people)
+			 (S (NP *)
+			    (AUX to)
+			    (VP depend
+				(PP upon
+				    (NP ADC))
+				(PP for
+				    (NP subsistence))))))))))
+      ''
+      ,
+      (S (NP Martin)
+	 (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The volume
+       (PP of
+	   (NP ADC cases)))
+   (AUX will)
+   (VP decrease)
+   ,
+   (S (NP Martin)
+      (VP reported))
+   ,
+   (SBAR 
+    (WHADVP when)
+    (S (NP the community)
+       (VP is
+	   (ADJP able
+		 (S (NP *)
+		    (AUX to)
+		    (VP deal
+			(ADVP effectively)
+			(PP with
+			    (NP (NP two problems)
+				:
+				(NP (NP (ADJP (ADVP Relatively)
+					      limited)
+					skills)
+				    and
+				    (NP discrimination
+					(PP in
+					    (NP employment))
+					(ADVP because
+					      (PP of
+						  (NP color))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP These)
+    ,
+    (S (NP he)
+       (VP said))
+    ,
+    (VP are
+	(NP  ``
+	     two
+	     (PP of
+		 (NP the
+		     principal
+		     underlying
+		     causes
+		     (PP for
+			 (NP (NP family breakups)
+			     (VP leading
+				 (PP to
+				     (NP ADC)))))))
+	     '')))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Calls
+	 (PP for
+	     (NP extension)))))
+((S  (NP (NP Other recommendations)
+	 (VP made
+	     (PP by
+		 (NP the committee))))
+     (VP are
+	 :
+	 (NP Extension
+	     (PP of
+		 (NP the ADC program))
+	     (PP to
+		 (NP (NP all children
+			 (PP in
+			     (NP need)))
+		     (VP living
+			 (PP with
+			     (NP (NP any relatives)
+				 ,
+				 (VP including
+				     (NP both
+					 parents)))))))
+	     ,
+	     (PP as
+		 (NP a means
+		     (PP of
+			 (S (NP *) 
+			    (VP preserving
+				(NP family unity)))))))))
+ .)
+(
+ (NP Research projects
+     (ADVP  as
+	    soon
+	    (PP as
+		(ADJP possible)))
+     (PP on
+	 (NP the causes and prevention
+	     (PP of
+		 (NP (NP dependency) and (NP illegitimacy))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

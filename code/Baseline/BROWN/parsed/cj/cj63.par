@@ -1,0 +1,2350 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Sane Society)
+   (VP is
+       (NP an ambitious work)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Its scope)
+    (VP is
+	(ADJP  as
+	       broad
+	       (PP as
+		   (NP (NP the question)
+		       :
+		       (SBARQ (WHNP What)
+			      (SQ 
+				  (AUX does)
+				  (NP it)
+				  (VP mean)
+				  (S (NP *)
+				     (AUX to)
+				     (VP live
+					 (PP in
+					     (NP modern society)))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A work)
+       (ADJP  so
+	      broad)
+       ,
+       (SBAR  even
+	      (WHADVP when)
+	      (S (NP it)
+		 (AUX is)
+		 (VP (VP directed
+			 
+			 (PP by
+			     (NP a leading idea)))
+		     and
+		     (VP informed
+			 (PP by
+			     (NP a moral vision)))))))
+   ,
+   (AUX must)
+   (ADVP necessarily)
+   (VP  ``
+	fail
+	''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Even
+	 a hasty reader)
+    (AUX will)
+    (VP (ADVP easily)
+	find
+	(PP in
+	    (NP it))
+	(NP (NP numerous blind
+		spots)
+	    ,
+	    (NP errors
+		(PP of
+		    (NP (NP fact) 
+			and 
+			(NP argument))))
+	    ,
+	    (NP important exclusions)
+	    ,
+	    (NP areas
+		(PP of
+		    (NP (NP ignorance) 
+			and 
+			(NP prejudice))))
+	    ,
+	    (NP undue emphases
+		(PP on
+		    (NP trivia)))
+	    ,
+	    (NP examples
+		(PP of
+		    (NP (NP broad positions)
+			(VP supported
+			    by
+				(NP flimsy evidence)))))
+	    ,
+	    and
+	    (NP the
+		(ADJP like)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such books)
+   (VP are
+       (NP easy prey
+	   (PP for
+	       (NP critics)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV Nor
+	 (AUX need)
+	 (NP the critic)
+	 (VP be
+	     (ADJP captious)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A careful and orderly man)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP values
+		     (NP (NP precision)
+			 and
+			 (NP a kind
+			     (PP of
+				 (NP 
+				  tough intellectual
+				  responsibility)))))))
+	,)
+    (AUX might)
+    (ADVP easily)
+    (VP be
+	(VP put
+	    (PRT off)
+	    (PP by
+		(NP such
+		    a book)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP a simple matter
+	   ,
+	   (PP for
+	       (NP (NP one)
+		   (VP  so
+			disposed)))
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP take
+		      (NP a work
+			  (PP like
+			      (NP The Sane Society))))
+		  and
+		  (VP shred
+		      (NP it)
+		      (PP into
+			  (NP odds and ends))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The thing)
+   (AUX can)
+   (VP be
+       (VP made
+        
+	   (S (NP *)
+	      (AUX to)
+	      (VP look
+		  (PP like
+		      (NP (NP the cluttered attic
+			      (PP of
+				  (NP a large and vigorous family)))
+			  --
+			  (NP a motley jumble
+			      (PP of
+				  (NP (NP (VP discarded)
+					  objects)
+				      ,
+				      (NP some
+					  (ADJP outworn))
+				      and
+				      (NP (NP some)
+					  (SBAR (WHNP that)
+						(S (NP T)
+						   (VP were
+						       (ADVP never)
+						       (ADJP useful)))))
+				      ,
+				      (NP (NP some)
+					  (ADJP  once
+						 (ADJP whole and bright)
+						 but
+						 now
+						 (ADJP chipped
+						       and
+						       tarnished)))
+				      ,
+				      (NP (NP some odd pieces)
+					  (SBAR (WHNP whose history)
+						(S
+						 (NP no one)
+						 (VP remembers
+						     (NP T)))))
+				      ,
+				      (ADVP here
+					    and
+					    there)
+				      (NP a gem)
+				      ,
+				      (NP (NP everything)
+					  (ADJP fascinating
+						(SBAR because
+						      (S (NP it)
+							 (VP suggests
+							     (NP some part
+								 (PP of
+								     (NP the human condition)))))))))))
+			  --
+			  (NP (NP the
+				  (ADJP whole))
+			      (VP adding
+				  (PP up
+				      (PP to
+					  (NP nothing
+					      (ADJP more
+						    (PP than
+							(NP a glimpse
+							    (PP into
+								(NP the disorderly history
+								    (PP of
+									(NP the makers and users)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP That)
+      (AUX could)
+      (VP be
+	  (VP (ADVP easily)
+	      done
+	      )))
+     ,
+     but
+     (S (NP there)
+	(VP is
+	    (NP little reason)
+	    (PP in
+		(NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (AUX would)
+      (VP come
+	  (PP down
+	      (PP to
+		  (S (NP *)  
+		     (VP saying
+			 (SBAR that
+			       (S (NP Fromm)
+				  (VP paints
+				      (PP with
+					  (NP a broad brush)))))))))))
+     ,
+     and
+     (S (NP that)
+	,
+	(PP after
+	    (NP all))
+	,
+	(VP is
+	    (NEG not)
+	    (NP (NP a conclusion)
+		(SBAR 0
+		      (S
+		       (NP one)
+		       (AUX must)
+		       (VP work
+			   (PP toward)))))
+	    but
+	    (NP (NP an impression)
+		(SBAR 0
+		      (S
+		       (NP he)
+		       (VP has
+			   (NP T)) 
+		       (PP from
+			   (NP the outset))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP mention
+       (NP these features
+	   (PP of
+	       (NP the book))))
+   (SBAR because
+	 (S (NP they)
+	    (X (VP are
+		   (ADJP inherent
+			 (PP in
+			     (NP 
+			      (NP the book)
+			      's character))))
+	       and
+	       therefore
+	       (X (AUX must)
+		  (VP be
+		      (VP mentioned
+			  )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (AUX would)
+   (VP be
+       (ADJP superfluous))
+   (S-1 (NP *)
+      (AUX to)
+      (VP build
+	  (NP a critique)
+	  (PP around
+	      (NP them)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP (ADJP  more
+		      substantial) criticisms)
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP made
+		      (PP of
+			  (NP 
+			   (NP Fromm)
+			   's account
+			   (PP of
+			       (NP capitalist civilization))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-2 *pseudo-attach*))
+   (VP is
+       (ADJP worthwhile))
+   (S-2 (NP *)
+      (AUX to)
+      (VP recall
+	  (SBAR that
+		(S (NP
+		    (NP Fromm)
+		    's treatment)
+		   (VP has
+		       (NP both descriptive and normative aspects)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP I)
+	     (AUX have)
+	     (ADVP already)
+	     (VP discussed
+		 (NP his moral position))))
+    ,
+    (S (NP that discussion)
+       (AUX is)
+       (VP incorporated
+		 
+	   (PP by
+	       (NP reference))
+	   (PP into
+	       (NP (NP the following pages)
+		   ,
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (AUX will)
+		       (VP focus
+			   (PP on
+			       (NP the (ADJP empirical and analytic) side
+				   (PP of
+				       (NP 
+					(NP Fromm)
+					's treatment))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX shall)
+    (ADVP first)
+    (VP (VP indicate
+	    (NP a couple
+		(PP of
+		    (NP weaknesses
+			(PP in
+			    (NP 
+			     (NP Fromm)
+			     's analysis))))))
+	,
+	then
+	(VP argue
+	    (SBAR that
+		  ,
+		  (S (VP granted
+			 (NP these weaknesses))
+		     ,
+		     (S (NP he)
+			(ADVP still)
+			(AUX has)
+			(NP (NP much)
+			    (SBAR-1 *pseudo-attach*))
+			(VP left
+			    (SBAR-1 (WHNP that)
+				    (S (NP T)  
+				       (VP is
+					   (ADJP valuable)))))))))
+	,
+	and
+	,
+	finally
+	,
+	(VP raise
+	    (NP the general question
+		(PP of
+		    (NP a
+			(ADJP philosophical)
+			versus
+			a sociological approach
+			(PP to
+			    (NP the question
+				(PP of
+				    (NP alienation))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (ADVP Almost)
+	no empirical work)
+      (AUX has)
+      (VP been
+	  (VP done
+	       
+	      (PP on
+		  (NP the problem
+		      (PP of
+			  (NP alienation)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Despite
+	(NP its
+	    (ADJP  rather
+		   long) intellectual
+	    history))
+    ,
+    (S (NP alienation)
+       (VP is
+	   (ADVP still)
+	   (NP (NP a promising hypothesis)
+	       and
+	       (NEG not)
+	       (NP a verified theory)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The idea)
+   (AUX has)
+   (VP received
+       (NP much attention
+	   (PP (PP in
+		   (NP philosophy))
+	       ,
+	       (PP in
+		   (NP literature))
+	       ,
+	       and
+	       (PP in
+		   (NP a few works
+		       (PP of
+			   (NP 
+			    general social
+			    criticism))
+		       ,
+		       (PP (ADJP such)
+			   as
+			   (NP The Sane Society))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR (WHNP What)
+	      (S (NP T)
+		 (AUX is)
+		 (VP missing))))
+    (VP is
+	(NP (NP work)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (AUX would)
+		     (VP answer
+			 ,
+			 (PP (ADVP presumably)
+			     by
+			     (NP the use
+				 (PP of
+				     (NP (NP survey methods)
+					 and
+					 (NP Guttman-type attitude scales)))))
+			 ,
+			 (NP such questions
+			     (PP as
+				 (NP (NP these)
+				     :
+				     (SBARQ (WHNP What)
+					    (SQ (NP T)
+						(VP are)
+						(NP the components
+						    (PP of
+							(NP (NP the feeling-state)
+							    (VP described
+								(PP as
+								    (NP alienation)))))))))))))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (ADJP (WHADVP How)
+	      widespread)
+	(SQ (VP is)
+	    (NP alienation)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ (NP T)
+      (VP is
+	  (NP its incidence
+	      (PP among
+		  (NP the various classes and subgroups
+		      (PP of
+			  (NP the population))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Taking
+	   (NP alienation
+	       (PP as
+		   (NP a dependent variable)))))
+    ,
+    (SBARQ (WHPP with
+		 (WHNP what
+		       (NP socio-structural factors)))
+	   (SQ (NP T)  
+	       (VP is)
+	       (NP it)
+	       (ADJP (ADVP most highly)
+		     associated))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP Considered
+	(PP as
+	    (NP an independent variable)))
+    ,
+    (SBARQ 
+     (WHADVP how)
+     (SQ  (AUX does)
+	  (NP it)
+	  (VP affect
+	      (NP behavior
+		  (PP in
+		      (NP various sectors
+			  (PP of
+			      (NP life)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Until
+	(S (NP such work)
+	   (AUX is)
+	   (VP done
+	       )))
+    ,
+    (S  (NP there)
+	(AUX must)
+	(VP remain
+	    (NP the nagging suspicion
+		(SBAR that
+		      (S (NP  alienation)
+			 (AUX may)
+			 (VP be
+			     (ADJP  little
+				   more
+				   (PP than
+				       (NP an expression
+					   (PP of
+					       (NP the malaise
+						   (PP of
+						       (NP (NP (NP the intellectual)
+							       (VP-2 *pseudo-attach*))
+							   ,
+							   (SBAR (WHNP who)
+								 (S (NP (NP T)
+									,
+									(VP-2 (VP rejected
+										  (PP by
+										      (NP-1 *pseudo-attach*)))
+									      and
+									      (PP in
+										  (NP turn))
+									      (VP rejecting
+										  (NP-1 *pseudo-attach*))
+									      (NP-1 the
+										    (ADJP larger)
+										    society)))   
+								    ,
+								    (VP projects
+									(NP his own fear and despair)
+									(PP onto
+									    (NP the
+										broader social
+										screen)))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX am)
+   (NEG not)
+   (VP suggesting
+       (SBAR that
+	     (S (NP Fromm)
+		(VP ought
+		    (S (NP *)  
+		       (AUX to)
+		       (VP do
+			   (NP this kind
+			       (PP of
+				   (NP work))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((SINV  Nor
+       (AUX do)
+       (NP I)
+       (VP think
+	   (SBAR 0
+		 (S (NP that alienation)
+		    (VP is
+			(NP nothing
+			    (ADJP more
+				  (PP than
+				      (NP a projection
+					  (PP of
+					      (NP the malaise
+						  (PP of
+						      (NP the intellectual)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX am)
+   (VP saying
+       (ADVP only)
+       (SBAR that
+	     (S (PP until
+		    (S (NP a
+			   (ADJP fuller
+				 and
+				 different)
+			   kind
+			   (PP of
+			       (NP evidence)))
+		       (VP comes
+			   (PP in
+			       (NP *))
+			   )))
+		,
+		(S (NP any discussion
+		       (PP of
+			   (NP alienation)))
+		   (AUX must)
+		   (VP be
+		       (VP understood
+			    
+			   (S (NP *)
+			      (AUX to)
+			      (VP have
+				  (NP 
+				   certain important
+				   limitations))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Until
+	(S (NP such evidence)
+	   (VP appears)))
+    ,
+    (S (NP we)
+       (AUX must)
+       (VP make
+	   (VP do
+	       (PP with
+		   (NP (NP the evidence)
+		       (SBAR 0
+			     (S
+			      (NP we)
+			      (VP have
+				  (NP T)))))))))) 
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      ,
+      (ADVP perhaps)
+      ,
+      (S (NP Fromm)
+	 (VP is
+	     (ADJP vulnerable))
+	 ,
+	 (SBAR for
+	       (S (S (NP he)
+		     (AUX does)
+		     (NEG not)
+		     (ADVP always)
+		     (VP use
+			 (NP (NP the
+				 (ADJP best)
+				 and
+				 (ADJP most recent)
+				 evidence)
+			     (ADJP available))))
+		  ,
+		  and
+		  (S (NP he)
+		     (ADVP sometimes)
+		     (VP  selects
+			  and
+			  interprets
+			  (NP the evidence)
+			  (PP in
+			      (NP (ADJP  rather
+					 special) ways))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Three examples)
+   (VP follow))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (NP Fromm)
+     's analysis
+     (PP of
+	 (NP alienation
+	     (PP in
+		 (NP the sphere
+		     (PP of
+			 (NP production)))))))
+    (VP centers
+	(PP around
+	    (NP the concepts
+		(PP of
+		    (NP (NP the bureaucratization
+			    (PP of
+				(NP the corporation)))
+			,
+			(NP the separation
+			    (PP of
+				(NP ownership))
+			    (PP from
+				(NP control)))
+			,
+			and
+			(NP the
+			    (ADJP broad
+				  *LRB*
+				  and
+				  thus
+				  (PP from
+				      (NP the point
+					  (PP of
+					      (NP view
+						  (PP of
+						      (NP corporate control))))))
+				  ,
+				  ineffective
+				  *RRB*)
+			    dispersion
+			    (PP of
+				(NP stock ownership)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP all
+	     these points))
+     (S
+      (NP he)
+      (VP relies
+	  (PP (ADVP exclusively)
+	      on
+	      (NP (NP 
+		   (NP  Berle
+			and
+			Means)
+		   's study
+		   (PP of
+		       (NP 1932)))
+		  ,
+		  (NP The Modern Corporation And Private Property))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The broad conclusions
+	  (PP of
+	      (NP that pioneering work)))
+      (VP remain
+	  (ADJP undisturbed)))
+     ,
+     but
+     (S (NP subsequent research)
+	(X (X (AUX has)
+	      (VP  expanded
+		   and
+		   (ADVP somewhat)
+		   altered
+		   (NP their empirical support)))
+	   ,
+	   (X (AUX has)
+	      (VP suggested
+		  (NP important revisions
+		      (PP in
+			  (NP the
+			      (ADJP general analytic)
+			      frame
+			      (PP of
+				  (NP reference)))))))
+	   ,
+	   and
+	   (X (AUX has)
+	      (VP sharpened
+		  (NP the meaning
+		      (PP of
+			  (NP 
+			   particular analytic
+			   concepts
+			   (PP in
+			       (NP this area))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Fromm)
+   (VP seems
+       (ADJP unaware
+	     (PP of
+		 (NP these developments)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Another example)
+      (VP is
+	  (NP his
+	      (ADJP  very
+		     infrequent) use
+	      (PP of
+		  (NP the large amount
+		      (PP of
+			  (NP data
+			      (PP from
+				  (NP (NP surveys)
+				      (VP designed
+					  (S (NP *)
+					     (AUX to)
+					     (VP discover
+						 (SBAR (WHNP what)
+						       and
+						       (WHADVP how)
+						       (S (NP people)
+							  (ADVP actually)
+							  (AUX do)
+							  (VP  feel 
+							       and 
+							       think
+							       (PP on
+								   (NP a broad range
+								       (PP of
+									   (NP topics)))))))))))))))))))
+     :
+     (S (NP he)
+	(VP cites
+	    (NP 
+	     such survey-type
+	     findings)
+	    (NP  just
+		 three times))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP (NP the conclusions)
+	     (SBAR 0
+		   (S (NP he)
+		      (VP draws
+			  (NP T)
+			  (PP from
+			      (NP the findings))))))
+	 (VP are
+	     (NEG not)
+	     (ADVP always)
+	     (NP (NP the only ones)
+		 (ADJP possible)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP he)
+       (VP cites
+	   (NP the following data
+	       (PP from
+		   (NP two studies
+		       (PP on
+			   (NP job satisfaction)))))))
+    :
+    (S (PP in
+	   (NP the first study))
+       ,
+       (S  
+	(NP (NP 85
+		per
+		cent
+		(PP of
+		    (NP (NP professionals) 
+			and 
+			(NP executives))))
+	    ,
+	    (NP 64
+		per
+		cent
+		(PP of
+		    (NP white collar people)))
+	    ,
+	    and
+	    (NP 41
+		per
+		cent
+		(PP of
+		    (NP factory workers))))
+	(VP expressed
+	    (NP satisfaction
+		(PP with
+		    (NP their jobs))))))
+    ;
+    ;
+    (S (PP in
+	   (NP the second study))
+       ,
+       (S (NP the percentages)
+	  (VP were
+	      (NP (NP 86
+		      (PP for
+			  (NP professionals)))
+		  ,
+		  (NP 74
+		      (PP for
+			  (NP managerial persons)))
+		  ,
+		  (NP 42
+		      (PP for
+			  (NP commercial employees)))
+		  ,
+		  (NP 56
+		      (PP for
+			  (NP skilled workers)))
+		  ,
+		  and
+		  (NP 48
+		      (PP for
+			  (NP semi-skilled workers))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP concludes
+       (SBAR that
+	     (S (NP these data)
+		(VP show
+		    (NP a
+			(ADJP  ``
+			      remarkably
+			      high
+			      '')
+			percentage
+			(PP of
+			    (NP (ADJP  consciously
+				      dissatisfied and unhappy) persons))
+			(PP among
+			    (NP factory
+				and
+				clerical workers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Starting
+	   (PP from
+	       (NP other value premises
+		   (PP than
+		       (NP 
+			(NP Fromm)
+			's))))))
+    ,
+    (S (NP some analysts)
+       (AUX might)
+       (VP conclude
+	   (SBAR that
+		 (S (NP the percentages)
+		    (ADVP really)
+		    (VP tell
+			(NP us
+			    very
+			    little
+			    (PP at
+				(NP all)))))))
+       ,
+       (SBAR while
+	     (S (NP others)
+		(AUX might)
+		(ADVP even)
+		(VP conclude
+		    (SBAR that
+			  (S (NP the figures)
+			     (VP are
+				 (ADJP  remarkably
+				       low)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Eric Hoffer)
+    ,
+    (PP for
+	(NP example))
+    ,
+    (ADVP once)
+    (VP said
+	(SBAR that
+	      (S (NP America)
+		 (VP was
+		     (NP (NP a paradise)
+			 --
+			 (NP the
+			     only
+			     one
+			     (PP in
+				 (NP the history
+				     (PP of
+					 (NP the world)))))
+			 --
+			 (PP for
+			     (NP (NP workingmen)
+				 and
+				 (NP small children)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR (WHNP What)
+	      (S (NP T)
+		 (VP matters))))
+    (VP is
+	(SBAR that
+	      (S (SBAR while
+		       (S (NP
+			   (NP Fromm)
+			   's reading
+			   (PP of
+			       (NP the data)))
+			  (VP is
+			      (NEG not)
+			      (NP (NP the
+				      (ADJP only)
+				      one)
+				  (ADJP possible)))))
+		 ,
+		 (S (NP it)
+		    (VP is
+			(ADVP precisely)
+			(NP (NP the one)
+			    (SBAR 0
+				  (S
+				   (NP we)
+				   (AUX would)
+				   (VP expect
+				       (NP T)
+				       (PP from
+					   (NP (NP a writer)
+					       (SBAR (WHNP who)
+						     (S  (NP T) 
+							 (VP (ADVP
+							      earnestly)
+							     believes
+							     (SBAR that
+								   (S (NP every man)
+								      (X  (AUX can)
+									  and
+									  (VP ought
+									      (S (NP *)  
+										 (AUX to)
+										 (VP be
+										     (ADJP happy
+											   and
+											   satisfied)))))))))))))))))))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Fromm)
+   (ADVP also)
+   (VP cites
+       (NP (NP a poll
+	       (PP on
+		   (NP attitudes
+		       (PP toward
+			   (NP work restriction)))))
+	   (VP conducted
+	       (PP by
+		   (NP the Opinion Research Corporation))
+	       (PP in
+		   (NP 1945)))
+	   ,
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S (NP 49
+			per
+			cent
+			(PP of
+			    (NP manual workers)))
+		    (VP said
+			(SBAR 0
+			      (S (NP a man)
+				 (VP ought
+				     (S (NP *)  
+					(AUX to)
+					(VP turn
+					    (PRT out)
+					    (ADJP as
+						  much
+						  (PP as
+						      (S (NP he)
+							 (AUX could))))
+					    (PP in
+						(NP 
+						 (NP a day)
+						 's work))))))))
+		    ,
+		    (SBAR while
+			  (S (NP 41
+				 per
+				 cent)
+			     (VP said
+				 (SBAR 0
+				       (S (NP he)
+					  (X (X (AUX should)
+						(NEG not)
+						(VP do
+						    (NP his
+							(ADJP best))))
+					     but
+					     (X (AUX should)
+						(VP turn
+						    (PRT out)
+						    (NP  only
+							 the average amount))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Fromm)
+   (VP says
+       (SBAR 0
+	     (S (NP these data)
+		(VP show
+		    (SBAR that
+			  (S (NP job dissatisfaction and resentment)
+			     (VP are
+				 (ADJP widespread)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP That)
+      (VP is
+	  (NP (NP one way)
+	      (S (NP *)
+		 (AUX to)
+		 (VP read
+		     (NP the findings))))))
+     ,
+     but
+     (ADVP again)
+     (S (NP there)
+	(VP are
+	    (NP other ways))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX might)
+   (VP use
+       (NP such findings)
+       (S (NP *)
+	  (AUX to)
+	  (VP indicate
+	      (NP the strength
+		  (PP of
+		      (NP 
+		       informal primary
+		       associations
+		       (PP in
+			   (NP the factory))))))))
+   ,
+   (NP (NP an interpretation)
+       (SBAR (WHNP which)
+	     (S (NP T)
+		(AUX would)
+		(VP run
+		    (ADVP counter
+			  (PP to
+			      (NP 
+			       (NP Fromm)
+			       's theory
+			       (PP of
+				   (NP alienation))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S Or
+      ,
+      (S (NP he)
+	 (AUX might)
+	 (VP remind
+	     (NP Fromm)
+	     (SBAR that
+		   (S (NP the 41
+			  per
+			  cent figure)
+		      (VP is
+			  (ADVP really)
+			  (ADJP  astonishingly
+				 low))))))
+      :
+      (PP after
+	  (NP all))
+      ,
+      (S (NP the medieval guild system)
+	 (AUX was)
+	 (VP dedicated
+	    
+	     (PP to
+		 (NP the proposition
+		     (SBAR that
+			   (S (NP 100
+				  per
+				  cent
+				  (PP of
+				      (NP the workers)))
+			      (VP ought
+				  (S (NP *)  
+				     (AUX to)
+				     (VP turn
+					 (PRT out)
+					 (NP  only
+					      the average amount))))))))))
+      ;
+      ;
+      and
+      (S (NP (NP today)
+	     's
+	     trade unions)
+	 (VP announce
+	     (NP  pretty
+		 much
+		 the same view))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP view
+	    (PP of
+		(NP these shortcomings
+		    (PP in
+			(NP both
+			    the amount
+			    and
+			    the interpretation
+			    (PP of
+				(NP survey-type findings
+				    (PP on
+					(NP public opinion))))))))))
+    ,
+    and
+    (VP considering
+	(NP (NP the criticisms)
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (AUX can)
+		     (VP be
+			 (VP brought
+			      
+			     (PP against
+				 (NP 
+				  (NP Fromm)
+				  's philosophical anthropology))))))))
+    ,
+    (S (NP  such
+	    a passage
+	    (PP as
+		(NP the following)))
+       (AUX can)
+       (NEG not)
+       (VP be
+	   (VP taken
+	       (ADVP seriously)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (SQ (VP Are)
+	   (NP people)
+	   (ADJP happy))
+       ,
+       (SQ (VP are)
+	   (NP they)
+	   (ADJP  as
+		  satisfied
+		  ,
+		  (ADVP unconsciously)
+		  ,
+		  (PP as
+		      (S (NP they)
+			 (VP believe
+			     (NP themselves)
+			     (S (NP *)
+				(AUX to)
+				(VP be))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (VP Considering
+	 (NP (NP the nature
+		 (PP of
+		     (NP man)))
+	     ,
+	     and
+	     (NP the conditions
+		 (PP for
+		     (NP happiness)))))
+    ,
+    (S (NP this)
+       (AUX can)
+       (ADVP hardly)
+       (VP be
+	   (ADVP so))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The ambiguities)
+       (VP suggested
+	   (ADVP above)))
+   (VP stem
+       (PP from
+	   (NP a
+	       (ADJP more basic)
+	       difficulty
+	       (PP in
+		   (NP 
+		    (NP Fromm)
+		    's style
+		    (PP of
+			(NP thought))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP seems
+       (S (NP *)
+	  (AUX to)
+	  (VP use
+	      (NP the term alienation)
+	      (PP in
+		  (NP two different ways))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      (S (NP he)
+	 (VP uses
+	     (NP it)
+	     (PP as
+		 (NP a
+		     subjective
+		     ,
+		     descriptive
+		     term))))
+      ,
+      and
+      (ADVP sometimes)
+      (X (PP as
+	     (NP an
+		 objective
+		 ,
+		 diagnostic
+		 one))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP That)
+      (VP is))
+     ,
+     (ADVP sometimes)
+     (S (NP it)
+	(AUX is)
+	(VP used
+		 
+	    (S (NP *)
+	       (AUX to)
+	       (VP describe
+		   (NP 
+		    (ADJP felt)
+		    human misery)))))
+     ,
+     and
+     (NP other times)
+     (S
+      (NP it)
+      (AUX is)
+      (VP postulated
+	     
+	  (S (NP *)
+	     (AUX to)
+	     (VP explain
+		 (NP unfelt anxiety and discontent))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The failure
+	(S (NP *)
+	   (AUX to)
+	   (VP keep
+	       (NP these two usages)
+	       (ADJP distinct))))
+    (VP presents
+	(NP hazards)
+	(PP to
+	    (NP the reader))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP also)
+   (VP permits
+       (NP Fromm)
+       (S (NP *)
+	  (AUX to)
+	  (VP do
+	      (NP some dubious things)
+	      (PP with
+		  (NP empirical findings))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP alienation)
+	 (AUX is)
+	 (VP used
+		 
+	     (PP as
+		 (NP an (ADJP objective and diagnostic) category)))))
+     ,
+     (PP for
+	 (NP example))
+     ,
+     (S (NP it)
+	(VP becomes
+	    (ADJP clear)
+	    (SBAR that
+		  (S (NP Fromm)
+		     (AUX would)
+		     (VP have
+			 (S (NP *)
+			    (AUX to)
+			    (VP say
+				(SBAR that
+				      (S (NP  awareness
+					      (PP of
+						  (NP alienation)))
+					 (VP goes
+					     (ADVP far)
+					     (PP toward
+						 (S (NP *)  
+						    (VP conquering
+							(NP it)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  
+    (NP He)
+    ,
+    (PP in
+	(NP effect))
+    ,
+    (AUX does)
+    (VP say
+	(NP this)
+	(PP in
+	    (NP his discussion
+		(PP of
+		    (NP the pseudo-happiness
+			(PP of
+			    (NP the automaton conformist))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *)  
+	(VP (VP Starting
+		(PP from
+		    (NP this)))
+	    ,
+	    and
+	    (VP accepting
+		(NP his estimate
+		    (PP of
+			(NP the iniquities
+			    (PP of
+				(NP modern society))))))))
+     ,
+     (S (NP it)
+	(AUX would)
+	(VP follow
+	    (SBAR that
+		  (S (NP the
+			 (ADJP  really
+			       disturbing) evidence
+			 (PP of
+			     (NP alienation)))
+		     (AUX would)
+		     (VP be
+			 (NP that
+			     (PP of
+				 (NP (NP a work-satisfaction survey)
+				     (SBAR (WHNP which)
+					   (S (NP T)
+					      (VP reported
+						  (NP (NP (ADJP widespread)
+							  ,
+							  (VP stated)
+							  worker satisfaction)
+						      ,
+						      (ADVP rather
+							    (PP than
+								(NP  
+								 (ADJP widespread)
+								 ,
+								 (VP stated)
+								 worker dissatisfaction))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The point)
+   (VP is
+       (SBAR that
+	     (S (PP in
+		    (NP (NP a system
+			    (PP (ADJP such)
+				as
+				(NP 
+				 (NP Fromm)
+				 's)))
+			(SBAR (WHNP which)
+			      (S (NP T)
+				 (VP recognizes
+				     (NP unconscious motivations))))
+			,
+			and
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (VP rests
+				(PP on
+				    (NP 
+				     certain ethical
+				     absolutes)))))))
+		,
+		(S (NP empirical data)
+		   (AUX can)
+		   (VP be
+		       (VP used
+	      
+			   (S (NP *)
+			      (AUX to)
+			      (VP support
+				  (SBAR (WHNP whatever proposition)
+					(S
+					 (NP the writer)
+					 (AUX is)
+					 (VP urging
+					     (NP T)
+					     (PP at
+						 (NP the moment))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (PP in
+	  (NP (NP the example)
+	      (VP cited
+		  (ADVP above))))
+      (S (NP Fromm)
+	 (VP (VP rests
+		 (NP his whole case)
+		 (PP on
+		     (NP the premise
+			 (SBAR that
+			       (S (NP the workers)
+				  (AUX are)
+				  (VP being
+				      (VP deprived
+					  (ADVP unconsciously
+						,
+						unknowingly
+						,)
+					  (PP of
+					      (NP fulfillment)))))))))
+	     ,
+	     and
+	     then
+	     (VP supports
+		 (NP this)
+		 (PP with
+		     (NP (NP survey data)
+			 (VP reporting
+			     (NP (ADJP conscious)
+				 ,
+				 (VP experienced)
+				 frustrations))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP (VP has
+	      (NP his cake))
+	  and
+	  (VP eats
+	      (NP it)
+	      (ADVP too))))
+     :
+     (S (SBAR if
+	      (S (NP the workers)
+		 (VP say
+		     (SBAR 0
+			   (S (NP they)
+			      (AUX are)
+			      (VP dissatisfied
+				  ))))))
+	,
+	(S (NP this)
+	   (VP shows
+	       (NP conscious alienation))))
+     ;
+     ;
+     (S (SBAR if
+	      (S (NP they)
+		 (VP say
+		     (SBAR 0
+			   (S (NP they)
+			      (AUX are)
+			      (VP satisfied
+				  ))))))
+	,
+	(S (NP this)
+	   (VP shows
+	       (NP unconscious alienation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This sort
+       (PP of
+	   (NP manipulation)))
+   (VP is
+       (ADJP  especially
+	      troublesome
+	      (PP in
+		  (NP 
+		   (NP Fromm)
+		   's work))))
+   (SBAR because
+	 ,
+	 (S (SBAR although
+		  (S (NP his system)
+		     (AUX is)
+		     (VP derived
+			 (PP (ADVP largely)
+			     from
+			     (NP 
+			      certain philosophic
+			      convictions)))))
+	    ,
+	    (S (NP he)
+	       (VP asserts
+		   (SBAR that
+			 (S (NP it)
+			    (AUX is)
+			    (VP based
+			        
+				(PP on
+				    (NP (NP empirical findings)
+					(VP drawn
+					    (PP both
+						(PP from
+						    (NP social science))
+						and
+						(PP from
+						    (NP his
+							own
+							consulting
+							room))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR While
+	    (S (NP (NP the
+		       ``
+		       empirical psychoanalytic
+		       ''
+		       label)
+		   (SBAR (WHNP which)
+			 (S (NP Fromm)
+			    (VP claims
+				(NP T)))))
+	       (VP sheds
+		   (NP no light)
+		   (PP on
+		       (NP the validity
+			   (PP of
+			       (NP his underlying philosophy)))))))
+      ,
+      (S (NP it)
+	 (AUX does)
+	 (VP increase
+	     (NP the marketability
+		 (PP of
+		     (NP his product)))))) 
+   .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The final example
+	(PP of
+	    (NP the failure
+		(S (NP *)
+		   (AUX to)
+		   (VP use
+		       (NP (NP available evidence)
+			   ,
+			   (SBAR though
+				 (S (NP evidence
+					(PP of
+					    (NP a different kind
+						(PP from
+						    (NP (NP that)
+							(SBAR 
+							 (WHNP which)
+							 (S (NP T)
+							    (AUX has)
+							    (ADVP so
+								  far)
+							    (VP been
+								(VP considered
+								    )))))))))))
+			   ,))))))
+    (VP comes
+	(PP from
+	    (NP 
+	     (NP Fromm)
+	     's treatment
+	     (PP of
+		 (NP (NP some other writers)
+		     (SBAR (WHNP who)
+			   (S (NP T)
+			      (AUX have)
+			      (VP dealt
+				  (PP with
+				      (NP the same themes)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP a brief chapter)
+	    (VP dealing
+		(PP with
+		    (NP  ``
+			 Various Other Diagnoses
+			 '')))))
+    ,
+    (S (NP he)
+       (VP (VP quotes
+	       (NP 
+		(ADJP isolated)
+		passages
+		(PP from
+		    (NP (NP some writers)
+			(SBAR 
+			 (WHNP whose views)
+			 (S (NP T)
+			    (VP seem
+				(S (NP *)
+				   (AUX to)
+				   (VP corroborate
+				       (NP his
+					   (ADJP own)))))))))))
+	   ,
+	   and
+	   (VP finds
+	       (NP it)
+	       ``
+	       (ADJP most remarkable)
+	       (SBAR that
+		     (S (NP a critical view
+			    (PP of
+				(NP twentieth-century society)))
+			(AUX was)
+			(ADVP already)
+			(VP held
+		    
+			    (PP by
+				(NP a number
+				    (PP of
+					(NP (NP thinkers)
+					    (VP living
+				        
+						(PP in
+						    (NP the
+							(ADJP nineteenth)))))))))))
+	       .
+	       '')))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP He)
+    (VP finds
+	(NP it)
+	(ADJP  equally
+	       ``
+	       remarkable)
+	(SBAR that
+	      (S (NP their critical diagnosis and prognosis)
+		 (AUX should)
+		 (VP have
+		     (NP so
+			 much)
+		     (PP in
+			 (ADJP common
+			       (PP (PP among
+				       (NP themselves))
+				   and
+				   (PP with
+				       (NP the critics
+					   (PP of
+					       (NP the twentieth century))))))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP (NP nothing)
+	   (ADJP remarkable
+		 (PP about
+		     (NP this))
+		 (PP at
+		     (NP all))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP  largely
+	   a matter
+	   (PP of
+	       (S (NP *)  
+		  (VP finding
+		      (NP (NP passages)
+			  (SBAR (WHNP that)
+				(S (NP T)
+				   (VP suit
+				       (NP (NP one)
+					   's
+					   purposes)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP is
+	  (NP a difference
+	      (PP between
+		  (NP (NP evidence) 
+		      and 
+		      (NP illustration))))))
+     ,
+     and
+     (S (NP
+	 (NP Fromm)
+	 's citation
+	 (PP of
+	     (NP the other diagnosticians)))
+	(VP fits
+	    (NP the latter category))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Glance
+	(PP at
+	    (NP (NP the list)
+		:
+		(NP (NP Burckhardt)
+		    ,
+		    (NP Tolstoy)
+		    ,
+		    (NP Proudhon)
+		    ,
+		    (NP Thoreau)
+		    ,
+		    (NP London)
+		    ,
+		    (NP Marx)
+		    ,
+		    (NP Tawney)
+		    ,
+		    (NP Mayo)
+		    ,
+		    (NP Durkheim)
+		    ,
+		    (NP Tannenbaum)
+		    ,
+		    (NP Mumford)
+		    ,
+		    (NP A.R. Heron)
+		    ,
+		    (NP Huxley)
+		    ,
+		    (NP Schweitzer)
+		    ,
+		    and
+		    (NP Einstein))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP a
+	   (ADJP  delightfully
+		 motley) collection)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX can)
+   (VP make
+       (NP them)
+       (VP say
+	   (NP the same thing))
+       (PP  only
+	    by
+	    (S (NP *)  
+	       (VP (NEG not)
+		   (VP listening
+		       (PP to
+			   (NP them))
+		       (ADVP very
+			     carefully))
+		   and
+		   (VP hearing
+		       (SBAR  only
+			     (WHNP what)
+			     (S
+			      (NP one)
+			      (VP wants
+				  (S (NP *)
+				     (AUX to)
+				     (VP hear
+					 (NP T)))))))))))) 
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The method
+	   (PP of
+	       (NP selection)))
+       (SBAR 0
+	     (S (NP Fromm)
+		(VP uses
+		    (NP T))))) 
+   (VP achieves
+       (NP  exactly
+	   that)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP the list)
+	 (VP is
+	     (ADJP interesting
+		   (PP for
+		       (NP its omissions))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP omits
+       ,
+       (PP for
+	   (NP example))
+       ,
+       (NP (NP  practically
+		the whole line
+		(PP of
+		    (NP 
+		     great nineteenth
+		     century
+		     English social critics)))
+	   ,
+	   (NP (NP  nearly
+		    all
+		    the great writers)
+	       (SBAR 
+		(WHNP whose basic position)
+		(S (NP T)
+		   (VP is
+		       (ADJP religious)))))
+	   ,
+	   and
+	   (NP (NP all
+		   those)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(AUX are)
+			(PP with
+			    (NP 
+			     (ADJP (ADJP more)
+				   or
+				   less)
+			     accuracy))
+			(VP called
+			    (NP Existentialists))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Of
+	(NP course))
+    ,
+    (S (NP the list)
+       (ADVP also)
+       (VP excludes
+	   (NP (NP all writers)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP are
+			    (ADJP  fairly
+				  ``
+				  optimistic
+				  ''
+				  (PP about
+				      (NP the modern situation)))))))))
+    ;
+    ;
+    (S (NP these)
+       ,
+       (PP (ADVP almost)
+	   by
+	   (NP definition))
+       ,
+       (VP are
+	   (NP spokesmen
+	       (PP for
+		   (NP an alienated ideology))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (VP is
+       (NEG not)
+       (ADJP hard))
+   (S-3 (NP *)
+      (AUX to)
+      (VP find
+	  (NP (NP that concurrence
+		  (PP of
+		      (NP opinion)))
+	      (SBAR (WHNP which)
+		    (S
+		     (NP Fromm)
+		     (VP finds
+			 (NP T)
+			 (ADJP  so
+				remarkable)))))))
+   (SBAR 
+    (WHADVP when)
+    (S (NP you)
+       (VP ignore
+	   (NP (NP all)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP hold
+			    (NP a different opinion))))))))) 
+  .)   
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+	(VP Turning
+	    (PP from
+		(NP these problems
+		    (PP of
+			(NP the use
+			    (PP of
+				(NP evidence))))))))
+    ,
+    (S (NP one)
+       (VP meets
+	   (NP (NP another type
+		   (PP of
+		       (NP difficulty
+			   (PP in
+			       (NP 
+				(NP Fromm)
+				's analysis))))
+		   ,)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP is
+		       (NP his (ADJP loose and ambiguous) use
+			   (PP of
+			       (NP 
+				certain important
+				terms))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP One such instance)
+       (NP-1 *pseudo-attach*))
+   (AUX has)
+   (ADVP already)
+   (VP been
+       (VP presented
+	   ))
+   :
+   (NP-1 his use
+       (PP of
+	   (NP alienation))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+  (S (NP (NP The
+	     only
+	     other
+	     one)
+	 (SBAR 0
+	       (S (NP I)
+		  (AUX shall)
+		  (VP mention
+		      (NP T)
+		      (ADVP here)))))
+     (VP is
+	 (NP his use
+	     (PP of
+		 (NP the term capitalism)))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP Fromm))
+    ,
+    (S (NP capitalism)
+       (VP is
+	   (NP (NP the enemy)
+	       ,
+	       (NP the root
+		   (PP of
+		       (NP all evil)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (PP of
+	   (NP course))
+       (ADJP useful))
+   (S (NP *)
+      (AUX to)
+      (VP have
+	  (NP a sovereign cause)
+	  (PP on
+	      (NP (NP one)
+		  's
+		  social criticism))))
+   ,
+   for
+   (S (NP it)
+      (VP makes
+	  (NP (NP diagnosis) 
+	      and 
+	      (NP prescription))
+	  (ADVP much
+		easier
+		(PP than
+		    (S (NP they)
+		       (AUX might)
+		       (ADVP otherwise)
+		       (VP be)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2180 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP The food)
+	 (VP is
+	     (ADJP wonderful)))
+      and
+      (S (NP it
+	     (S-1 *pseudo-attach*))
+	 (VP is
+	     (NP a lot
+		 (PP of
+		     (NP fun))))
+	 (S-1 (NP *)
+	      (AUX to)
+	      (VP be
+		  (ADVP here)))))
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+((SINV   (ADVP So)
+	 (VP wrote
+	     (PP-1 *pseudo-attach*))
+	 (NP a ten year old student)
+	 (PP-1 in
+	       (NP a letter
+		   (PP to
+		       (NP his parents))
+		   (PP from
+		       (NP (NP North Country School)
+			   ,
+			   (NP (NP Lake Placid)
+			       ,
+			       (NP New York)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this one sentence))
+    ,
+    (S (NP he)
+       (VP (ADVP unwittingly)
+	   revealed
+	   (NP the basic philosophy
+	       (PP of
+		   (NP  the nutrition
+			and
+			psychological programs
+			(PP in
+			    (NP operation))
+			(PP at
+			    (NP the school))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Because
+	   (S (NP the food)
+	      (AUX is)
+	      (VP (VP selected
+		      (PP with
+			  (NP (NP thought
+				  (PP for
+				      (NP its nutritional value)))
+			      ,
+			      (NP care
+				  (PP for
+				      (NP its origin))))))
+		  ,
+		  and
+		  (VP prepared
+		      (PP in
+			  (NP (NP a manner)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP retains
+					   (NP the
+					       most
+					       nutrients))))))))))
+     ,
+     (S (NP the food)
+	(AUX does)
+	(VP taste
+	    (ADJP good))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP *)
+	     (VP served
+		 (PP in
+		     (NP (NP a psychological atmosphere)
+			 (SBAR (WHNP that)
+			       (S (NP T)
+				  (VP allows
+				      (NP young bodies)
+				      (S (NP *)
+					 (AUX to)
+					 (VP assimilate
+					     (NP the
+						 greatest
+						 good)
+					     (PP  from
+						  (SBAR (WHNP what)
+							(S (NP they)
+							   (VP eat
+							       (NP T))))))))
+				  (SBAR because
+					(S (NP they)
+					   (VP are
+					       (ADJP free
+						     (PP from
+							 (NP tension)))))))))))))
+    ,
+    (S (NP a foundation
+	   (PP-2 *pseudo-attach*))
+       (AUX is)
+       (VP laid)
+       (PP-2 for
+	     (NP (NP a high level
+		     (PP of
+			 (NP health)))
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP releases
+			      (NP the children)
+			      (PP from
+				  (NP physical handicaps)))
+			  (S (NP *)
+			     (AUX to)
+			     (VP participate
+				 (PP with
+				     (NP enjoyment))
+				 (PP in
+				     (NP (NP the work assignments)
+					 ,
+					 (NP the athletic programs)
+					 and
+					 (NP (NP the
+						 (ADJP  most important)
+						 phase)
+					     ,
+					     (NP the educational opportunities))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Situated
+	      (PP in
+		  (NP a region
+		      (PP of
+			  (NP some
+			      (PP of
+				  (NP the
+				      loveliest
+				      mountain scenery
+				      (PP in
+					  (NP the country))))))))))
+      ,
+      (S (NP the school buildings)
+	 (AUX are)
+	 (VP located
+	     (PP amid
+		 (NP (NP open fields) 
+		     and 
+		     (NP farm lands))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP These contemporary structures)
+	,
+	(VP  (ADVP beautifully)
+	     adapted
+	     (PP to
+		 (NP a school
+		     (PP in
+			 (NP the country)))))
+	,)
+    (VP are
+	(NP home)
+	(PP to
+	    (NP (NP 60 children)
+		,
+		(NP (NP ages) 
+		    (NP eight
+			(PP to
+			    (NP fourteen))))
+		,
+		(NP (NP grades) 
+		    (NP four
+			(PP through
+			    (NP eight))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP (NP fourteen states)
+	    and
+	    (NP three foreign countries)))
+    (S (NP they)
+       (VP come
+	   (S (NP *)
+	      (AUX to)
+	      (VP spend
+		  (NP the months
+		      (PP (PP from
+			      (NP mid-September))
+			  (PP to
+			      (NP June)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The Director)
+	,
+	(NP Walter E. Clark)
+	,)
+    (VP believes
+	(SBAR that
+	      (S (NP a school
+		     (PP with
+			 (S (NP children)
+			    (VP living
+				(ADVP full time)
+				(PP in
+				    (NP its care))))))
+		 (AUX must)
+		 (VP take
+		     (NP full responsibility
+			 (PP for
+			     (NP their welfare))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP him))
+    (S (NP this)
+       (VP means
+	   (S (S (NP *) 
+		 (VP caring
+		     (PP for
+			 (NP the whole child))))
+	      ,
+	      (S  (NP *) 
+		  (VP providing
+		      (NP (NP basic nutrition)
+			  ,
+			  and
+			  (NP (NP a spiritual attitude)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP lends
+					   (NP freedom
+					       (PP for
+						   (NP the development
+						       (PP of
+							   (NP the mind))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (VP Improved)
+    farming
+    methods))
+( (S (NP The concept
+	 (PP of
+	     (NP good nutrition)))
+     (ADVP really)
+     (VP began
+	 (PP with
+	     (NP the garden))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The school)
+     (AUX has)
+     (ADVP always)
+     (VP maintained
+	 (NP (NP a farm)
+	     (S  (NP T) 
+		 (AUX to)
+		 (VP supply
+		     (NP the needs
+			 (PP of
+			     (NP the school))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP a climate)
+	    (ADJP hostile
+		  (PP to
+		      (NP agriculture)))))
+    ,
+    (S (NP Mr. Clark)
+       (AUX has)
+       (VP had
+	   (S (NP *)
+	      (AUX to)
+	      (VP keep
+		  (ADJP alert
+			(PP to
+			    (NP the
+				(ADJP most productive)
+				farm techniques))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (SBAR (WHADVP Where)
+		 (S (NP a growing season)
+		    (AUX may)
+		    ,
+		    (PP with
+			(NP luck))
+		    ,
+		    (VP allow
+			(NP 60 days
+			    (PP without
+				(NP frost))))))
+	   ,
+	   and
+	   (SBAR (WHADVP where)
+		 (S (NP the soil)
+		    (VP is
+			(ADJP poor
+			      ,
+			      sandy
+			      ,
+			      quick-drying 
+			      and 
+			      (ADJP subject
+				    (PP to
+					(NP erosion))))))))
+     ,
+     (S (NP many farmers)
+	(VP fail)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Throughout
+	  (NP the Adirondack region))
+      (S (NP (NP (VP abandoned)
+		 farm homes)
+	     and
+	     (NP wild orchards))
+	 (VP bear
+	     (NP ghostly testimony
+		 (SBAR that
+		       (S (NP their owners)
+			  (VP met
+			      (NP defeat))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mr. Clark)
+     (VP found
+	 (SBAR that
+	       (S  (NP (NP orthodox procedures
+			   (PP of
+			       (NP deep
+				   plowing)))
+		       ,
+		       (NP use
+			   (PP of
+			       (NP (NP chemical fertilizers) 
+				   and 
+				   (NP insecticides))))
+		       ,
+		       (PP plus
+			   (NP the application
+			       (PP of
+				   (NP conservation principles
+				       (PP of
+					   (NP (NP rotation)
+					       and
+					       (S (NP *)
+						  (VP contouring))))))))
+		       ,)
+		   (AUX did)
+		   (NEG not)
+		   (VP prevent
+		       (NP (NP sheet erosion
+			       (PP in
+				   (NP the potato fields)))
+			   and
+			   (NP depreciation
+			       (PP of
+				   (NP the soil)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP (S  (NP *) 
+		 (AUX To)
+		 (VP give
+		     (PRT up)
+		     (NP these notions))))
+	 (VP required
+	     (NP a revolution
+		 (PP in
+		     (NP thought)))))
+      ''
+      ,
+      (S (NP Mr. Clark)
+	 (VP said
+	     (PP in
+		 (S (NP *) 
+		    (VP reminiscing
+			(PP about
+			    (NP (NP the abrupt changes
+				    (PP in
+					(NP ideas)))
+				(SBAR 0
+				      (S (NP he)
+					 (VP experienced
+					     (NP T))
+					 (SBAR (WHADVP when)
+					       (S (NP he)
+						  (VP began
+						      (S (NP *)
+							 (VP reading
+							     (NP ``
+								 (NP Organic Gardening)
+								 ''
+								 And
+								 ``
+								 (NP Modern Nutrition)
+								 '')
+							     (PP in
+								 (NP a search
+								     (PP for
+									 (NP help
+									     (PP with
+										 (NP his problems))))))))))))) ))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP (NP Louis Bromfield)
+	  's writings)
+      (VP excited
+	  (NP me
+	      (PP as
+		  (NP a conservationist)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP 1952))
+    (S (NP he)
+       (AUX was)
+       (VP convinced
+	   (SBAR 0
+		 (S (NP he)
+		    (AUX would)
+		    (ADVP no
+			  longer)
+		    (VP spray))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP locked
+	 (NP his equipment)
+	 (PP in
+	     (NP (NP a cabinet)
+		 (SBAR (WHADVP where)
+		       (S (NP it)
+			  (ADVP still)
+			  (VP remains)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP After
+	  (S  (NP *)
+	      (VP reading
+		  (NP  ``
+		       (NP (NP Plowman)
+			   's Folly)
+		       ''
+		       (PP by
+			   (NP Edward H. Faulkner))))))
+      ,
+      (S (NP he)
+	 (VP stopped
+	     (S (NP *)
+		(VP plowing)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The basis
+	(PP for
+	    (NP compost materials)))
+    (ADVP already)
+    (VP existed
+	(PP on
+	    (NP the school farm)))
+    (PP with
+	(NP (NP a stable
+		(PP of
+		    (NP animals
+			(PP for
+			    (NP the riding program)))))
+	    ,
+	    (NP poultry
+		(PP for
+		    (NP eggs)))
+	    ,
+	    (NP (NP pigs)
+		(S  (NP T) 
+		    (AUX to)
+		    (VP eat
+			(NP garbage))))
+	    ,
+	    (NP a beef herd)
+	    and
+	    (NP wastes
+		(PP of
+		    (NP all kinds))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Separate pails)
+     (AUX were)
+     (VP kept
+	 (PP in
+	     (NP the kitchen))
+	 (PP for
+	     (NP (NP coffee grounds) 
+		 and 
+		 (NP egg shells)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  All
+	     these materials
+	     and
+	     supplementary manure)
+	and
+	(NP other fertilizers
+	    (PP from  
+		(NP (VP neighboring)
+		    dairy and poultry farms))))
+    (VP made
+	(NP (NP  (PP over
+		     (NP 40))
+		 tons
+		 (PP of
+		     (NP  finished
+			  compost)))
+	    (NP a year))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (AUX was)
+     (VP applied
+	 (PP with
+	     (NP (NP a compost shredder)
+		 (VP made
+		     (PP from
+			 (NP a (VP converted) manure spreader)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Years
+	(PP of
+	    (NP patient application
+		(PP of
+		    (NP (NP compost) 
+			and 
+			(NP leaf
+			    mulching))))))
+    (AUX has)
+    (VP changed
+	(NP (NP the structure
+		(PP of
+		    (NP the soil)))
+	    and
+	    (NP its (ADJP water-holding) capacity))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP  (ADVP Soon)
+	 after
+	 (S (NP the method)
+	    (VP changed)))
+    ,
+    (S (NP visitors)
+       (VP began
+	   (S (NP *)
+	      (VP asking
+		  (SBAR (WHADVP how)
+			(S (NP he)
+			   (VP managed
+			       (S (S (NP *)
+				     (AUX to)
+				     (VP irrigate
+					 (NP his soil)))
+				  (S (NP *)
+				     (AUX to)
+				     (VP keep
+					 (NP it)
+					 (S (NP *)
+					    (VP looking
+						(ADJP moist))))))))))))
+       ,
+       (SBAR (WHADVP when)
+	     (S (PP in
+		    (NP reality))
+		,
+		(S (NP it
+		       (SBAR-2 *pseudo-attach*))
+		   (VP was
+		       (NP the soil treatment
+			   (ADVP alone)))
+		   (SBAR-2  (WHNP that)
+			    (S (NP T)  
+			       (VP accomplished
+				   (NP this)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP demonstrate
+	    (NP the soil
+		(PP of
+		    (NP his vegetable gardens))
+		(PP as
+		    (S (NP it)
+		       (VP is)
+		       (NP today))))))
+     ,
+     (S (NP Mr. Clark)
+	(VP stooped)
+	(S (NP *)
+	   (AUX to)
+	   (VP scoop
+	       (PRT up)
+	       (NP a handful
+		   (PP of
+		       (NP rich dark
+			   earth)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (S  (NP *) 
+	     (VP Sniffing
+		 (NP its sweet smell)))
+	 and
+	 (S (NP *)  
+	    (VP letting
+		(NP it)
+		(VP fall))
+	    (S (NP *)
+	       (AUX to)
+	       (VP show
+		   (NP its
+		       good crumbly
+		       consistency)))))
+      ,
+      (S (NP he)
+	 (VP (VP pointed
+		 (PP to
+		     (NP the nearby driveway)))
+	     and
+	     (VP said
+		 ,
+		 ``
+		 (S (NP This soil)
+		    (VP used
+			(S (NP *)
+			   (AUX to)
+			   (VP be
+			       (PP like
+				   (NP that
+				       (VP   hard
+					     packed)
+				       road
+				       (PP over
+					   (ADVP there))))))))
+		 ''))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP (NP People) 
+	     and 
+	     (NP soils))
+	 (VP respond
+	     (ADVP slowly)))
+      ''
+      ,
+      (SINV  
+       (VP says)
+       (NP Walter Clark))
+      ,
+      ``
+      but
+      (S (NP (NP the time)
+	     (SBAR-3 *pseudo-attach*))
+	 (AUX has)
+	 (ADVP now)
+	 (VP come)
+	 (SBAR-3 (WHADVP when)
+		 (S (NP the gardens)
+		    (VP produce
+			(NP delicious (ADJP long-keeping)
+			    vegetables))
+		    (ADJP due
+			  (PP to
+			      (NP this enrichment program)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP No chemical fertilizers
+	and
+	poisonous insecticides and fungicides)
+    (AUX are)
+    (VP used))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The garden)
+     (VP supplies
+	 (NP enough carrots
+	     ,
+	     turnips
+	     ,
+	     rutabagas
+	     ,
+	     potatoes
+	     ,
+	     beets
+	     ,
+	     cabbage 
+	     and 
+	     squash
+	     (S (NP *)
+		(AUX to)
+		(VP store
+		    (PP for
+			(NP winter meals))
+		    (PP in
+			(NP the root cellar)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The carrots)
+	(ADVP sometimes)
+	(AUX do)
+	(NEG n't)
+	(VP make
+	    (NP it)
+	    (PP through
+		(NP the winter))))
+     ;
+     ;
+     (S (NP the cabbage
+	    and
+	    squash)
+	(VP keep
+	    (PP until
+		(NP (NP March)
+		    or
+		    (NP April))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (ADVP never)
+	 (NP enough corn
+	     ,
+	     peas 
+	     or
+	     strawberries)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Mr. Clark)
+	(ADVP still)
+	(VP has
+	    (S (NP *)
+	       (AUX to)
+	       (VP use
+		   (NP rotenone)
+		   (PP with
+		       (NP (NP potatoes)
+			   (VP grown
+			       (PP on
+				   (NP the
+				       (ADJP least fertile)
+				       fields)))))))))
+     ,
+     but
+     (S (NP he)
+	(X (X (AUX has)
+	      (VP watched
+		  (NP the insect damage)
+		  (VP decrease
+		      (ADVP steadily))))
+	   and
+	   (VP hopes
+	       (SBAR that
+		     (S (NP (VP continued) use
+			    (PP of
+				(NP (NP compost) and 
+				    (NP leaf mulch))))
+			(AUX will)
+			(VP allow
+			    (NP him)
+			    (S  (NP *)
+				(AUX to)
+				(VP do
+				    (PP without
+					(NP it)))
+				(PP in
+				    (NP the future))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP A new project)
+	 (VP planned))
+     (VP is
+	 (NP the use
+	     (PP of
+		 (NP Bio-Dynamic Starter)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP New ideas
+	 (PP for
+	     (S (NP *)
+		(VP improving
+		    (NP nutrition)))))
+     (VP came
+	 (PP with
+	     (NP the study
+		 (PP of
+		     (NP soil treatment))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (X (PP After
+	     (NP the soil))
+	 ,
+	 (NP the kitchen))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP Mr. Clark)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The
+	 first major
+	 change)
+     (VP was
+	 (NP that
+	     (PP of
+		 (S (NP *) 
+		    (VP providing
+			(NP wholewheat bread)
+			(ADVP instead
+			      (PP of
+				  (NP white bread)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP Adults)
+	 (VP take
+	     (NP a long time)
+	     (S (NP *)
+		(AUX to)
+		(VP convince))))
+      and
+      (S (NP you)
+	 (AUX are)
+	 (VP thwarted)
+	 (SBAR if
+	       (S (NP you)
+		  (VP try
+		      (S (NP *)
+			 (AUX to)
+			 (VP push)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP first))
+    (S (NP the kitchen help)
+       (VP (VP was
+	       (ADJP tolerant))
+	   ,
+	   but
+	   (VP ordered
+	       (NP their own supply
+		   (PP of
+		       (NP white bread)))
+	       (PP for
+		   (NP themselves))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+	 (S (NP You)
+	    (AUX ca)
+	    (NEG n't)
+	    (VP make
+		(NP French toast)
+		(PP with
+		    (NP whole-wheat bread))))
+	 '')
+    ,
+    (VP was
+	(NP an early complaint)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Of
+	 (NP course))
+     (S (NP they)
+	(VP learned
+	    (PP in
+		(NP time))
+	    (SBAR that
+		  (S (S (NP they)
+			(CONJP (NEG not)
+			       only)
+			(AUX could)
+			(VP use
+			    (NP whole-wheat bread)))
+		     ,
+		     but
+		     (S (NP the children)
+			(VP liked
+			    (NP it)
+			    (ADVP better))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+  (X (NP Homemade bread)))
+( 
+ (S (NP Mrs. Clark)
+    ,
+    (PP as
+	(NP house manager))
+    ,
+    (VP (VP planned
+	    (NP the menus))
+	and
+	(VP cared
+	    (PP for
+		(NP the ordering)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP Miss Lillian Colman)
+	 (VP came
+	     (PP from
+		 (NP Vermont)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(NP kitchen manager)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Today)
+      (S (NP whole grains)
+	 (AUX are)
+	 (ADVP freshly)
+	 (VP (VP ground
+		 (NP every day))
+	     and
+	     (VP baked
+		 (PP into
+		     (NP bread))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Mr. Clark)
+	's studies)
+    (VP taught
+	(NP him)
+	(SBAR that
+	      (S (NP (NP the only way)
+		     (S (NP *)
+			(AUX to)
+			(VP conserve
+			    (NP the vitamins
+				(PP in
+				    (NP the whole grain))))))
+		 (VP was
+		     (NP prompt use
+			 (PP of
+			     (NP the flour))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  Once
+	    (S (NP the grains)
+	       (AUX are)
+	       (VP ground)))
+     ,
+     (S (S (NP vitamin E)
+	   (VP begins
+	       (S (NP *)
+		  (AUX to)
+		  (VP deteriorate)
+		  (ADVP immediately))))
+	and
+	(S (NP half
+	       (PP of
+		   (NP it)))
+	   (AUX is)
+	   (VP lost
+	       (PP by
+		   (NP (NP oxidation) 
+		       and 
+		       (NP exposure
+			   (PP to
+			       (NP the air))))))
+	   (PP within
+	       (NP one week)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP A mill)
+     (VP stands
+	 (PP in
+	     (NP a room
+		 (PP off
+		     (NP the kitchen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (VP Surrounding
+	    (NP it))
+	(AUX  are)
+	(NP metal cans
+	    (PP of
+		(NP (NP grains)
+		    (VP ordered
+			(PP from
+			    (NP organic farms
+				(PP in
+				    (NP the state)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Miss Colman)
+     (VP (VP pours
+	     (NP measures
+		 (PP of
+		     (NP (NP whole wheat)
+			 ,
+			 (NP oats)
+			 ,
+			 and
+			 (NP soy beans)))))
+	 and
+	 (VP turns
+	     (PRT on)
+	     (NP the motor))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (VP goes
+	     (ADVP on)
+	     (PP about
+		 (NP her work)))
+	 and
+	 (VP listens
+	     (PP for
+		 (NP the completion
+		     (PP of
+			 (NP the grinding)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The bread)
+	 (VP baked
+	     (PP from
+		 (NP this mixture))))
+     (VP is
+	 (ADJP (ADJP light
+		     (PP in
+			 (NP color)))
+	       and
+	       (ADJP fragrant
+		     (PP in
+			 (NP aroma))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (AUX is)
+     (ADVP well)
+     (VP liked
+	 (PP by
+	     (NP the children and faculty))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (NP one problem)
+	 (PP with
+	     (NP the bread))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (NP (NP Lillian)
+		's bread)
+	    (VP is
+		(ADJP  so
+		       good
+		       (SBAR-4 *pseudo-attach*))))
+	 and
+	 (S (NP everything)
+	    (VP tastes
+		(ADJP  so
+		       much
+		       better
+		       (ADVP here)
+		       (SBAR-4 that
+			       (S (NP it)
+				  (VP is
+				      (ADJP hard))
+				  (S (NP *) 
+				     (NEG not)
+				     (AUX to)
+				     (VP eat
+					 (NP  too
+					      much)))))))))
+      ''
+      ,
+      (SINV (VP said
+		(ADVP-5 *pseudo-attach*))
+	    (NP the secretary)
+	    (ADVP-5 ruefully)
+	    (S (NP *)
+	       (VP eyeing
+		   (NP her extra pounds)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP  Hot
+      ,
+      freshly-ground
+      cereal))
+( (S (NP The school)
+     (AUX has)
+     (NEG not)
+     (VP used
+	 (NP cold
+	     prepared
+	     cereals))
+     (PP for
+	 (NP years))
+     ,
+     (SBAR though
+	   (S (PP at
+		  (NP one time))
+	      (S (NP that)
+		 (VP was
+		     (NP  all
+			 (SBAR 0
+			       (S (NP they)
+				  (ADVP ever)
+				  (VP served))) ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP the chance)
+	      (VP came)))
+     ,
+     (S (NP they)
+	(ADVP first)
+	(VP (VP eliminated
+		(NP cold cereal)
+		(NP (ADVP once)
+		    a week))
+	    ,
+	    (ADVP then)
+	    (VP  (ADVP gradually)
+		 converted
+		 (PP to
+		     (NP hot (ADJP fresh-ground)
+			 cereal))
+		 (NP every day)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (VP serve
+	 (NP (NP cracked
+		 wheat)
+	     ,
+	     (NP oats) 
+	     or 
+	     (NP cornmeal))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Occasionally)
+      ,
+      (S (NP the children)
+	 (VP find
+	     (NP (NP (VP steamed)
+		     ,
+		     whole-wheat grains
+		     (PP for
+			 (NP cereal)))
+		 (SBAR (WHNP which)
+		       (S (NP they)
+			  (VP call
+			      (NP T) 
+			      ``
+			      (NP buckshot)
+			      '')))))))
+   .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP At
+	  (NP the beginning
+	      (PP of
+		  (NP the school year))))
+      ,
+      (S (S (NP the new students)
+	    (AUX do)
+	    (NEG n't)
+	    (VP eat
+		(NP the cereal)
+		(ADVP right
+		      away)))
+	 ,
+	 but
+	 (S (PP within
+		(NP a short time))
+	    (S (NP they)
+	       (AUX are)
+	       (VP eating
+		   (NP it)
+		   (ADVP voraciously))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP they)
+	      (VP leave
+		  (PP for
+		      (NP vacations)))))
+     (S (NP they)
+	(VP miss
+	    (NP the hot cereal))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The school)
+    (AUX has)
+    (VP received
+	(NP (NP letters
+		(PP from
+		    (NP parents)))
+	    (VP asking
+		,
+		``
+		(SBAR (WHNP What)
+		      (S (NP T)
+			 (VP happened
+			     (PP to
+				 (NP Johnny)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP He)
+	(ADVP never)
+	(VP used
+	    (S (NP *)
+	       (AUX to)
+	       (VP like
+		   (NP any hot cereal)))))
+     ,
+     (S (ADVP now)
+	(S (NP that)
+	   (VP 's
+	       (NP (NP the only kind)
+		   (SBAR 0
+			 (S (NP he)
+			    (VP wants))) )))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ (WHADVP Where)
+	 (SQ  (AUX can)
+	      (NP we)
+	      (VP get
+		  (NP (NP this cereal)
+		      (SBAR 0
+			    (S (NP he)
+			       (VP likes
+				   (NP T) 
+				   (ADVP   so
+					   much))))))))
+  ''
+  ?)
+(  END_OF_TEXT_UNIT)
+((NP Body-building foods))
+( 
+ (S (NP Salads)
+    (AUX are)
+    (VP served)
+    (ADVP (PP at
+	      (ADJP least))
+	  once
+	  (NP a day)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Vegetables)
+     (AUX are)
+     (VP served
+	 (ADVP liberally)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP Most)
+     (VP come
+	 (PP (PP from
+		 (NP the root cellar))
+	     or
+	     (PP from
+		 (NP the freezer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Home-made) sauerkraut)
+     (AUX is)
+     (VP served)
+     (ADVP once
+	   (NP a week)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP Sprouted)
+	grains and seeds)
+    (AUX are)
+    (VP used
+	(PP in
+	    (NP (NP salads and dishes)
+		(ADJP such
+		      (PP as
+			  (NP chop suey)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      (S (NP (VP sprouted)
+	     wheat)
+	 (X (X (AUX is)
+	       (VP added
+		   (PP to
+		       (NP bread))))
+	    and
+	    (VP causes
+		(S (NP the children)
+		   (AUX to)
+		   (VP remark
+		       ,
+		       ``
+		       (SQ  (NP Lillian)
+			    ,
+			    (SQ (AUX did)
+				(NP you)
+				(VP put
+				    (NP nuts)
+				    (PP in
+					(NP the bread)))
+				(NP today)))
+		       ''))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP Milk)
+     (VP appears)
+     (ADVP twice
+	   (NP a day)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The school)
+     (VP raises
+	 (NP  enough
+	      poultry
+	      ,
+	      pigs
+	      ,
+	      and
+	      beef cattle
+	      (PP for
+		  (NP most
+		      (PP of
+			  (NP their needs)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Lots
+	     (PP of
+		 (NP cheese)))
+	 (VP made
+	     (PP from
+		 (NP June grass milk))))
+     (AUX is)
+     (VP served))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Hens)
+       (AUX are)
+       (VP kept
+	   (PP on
+	       (NP the range)))) 
+    and
+    (S (NP roosters)
+       (AUX are)
+       (VP kept
+	   (PP with
+	       (NP them)))
+       (PP for
+	   (NP their fertility))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Organ meats)
+	(ADJP such
+	      (PP as
+		  (NP beef and chicken liver
+		      ,
+		      tongue and heart))))
+    (AUX are)
+    (VP planned)
+    (ADVP once
+	  (NP a week)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S (NP salt water fish)
+	 (VP is
+	     (PP on
+		 (NP the table)))
+	 (ADVP once
+	       (NP a week)) ))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP deserts))
+    ,
+    (S (NP (NP puddings) 
+	   and 
+	   (NP pies))
+       (AUX are)
+       (NP each)
+       (VP served)
+       (ADVP once
+	     (NP a week))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Most other
+	 desserts)
+     (VP are
+	 (NP fruit
+	     (PP in
+		 (NP some form))))
+     ,
+     (X (NP fresh fruits)
+	(ADVP once
+	      (ADVP daily)
+	      (PP at
+		  (ADJP least)))
+	,
+	(ADVP sometimes)
+	(PP at
+	    (NP snack time))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP Dried)
+	fruits)
+    (AUX are)
+    (VP purchased
+	(PP from
+	    (NP (NP sources)
+		(SBAR (WHADVP where)
+		      (S (NP they)
+			 (AUX are)
+			 (VP  neither
+			      (VP sulphured)
+			      nor
+			      (VP sprayed))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Apples)
+     (VP come
+	 (PP from
+	     (NP (NP a farm
+		     (PP in
+			 (NP Vermont)))
+		 (SBAR (WHADVP where)
+		       (S (NP they)
+			  (AUX are)
+			  (NEG not)
+			  (VP sprayed)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Oranges) 
+	 and 
+	 (NP grapefruit))
+     (AUX are)
+     (VP shipped
+	 (PP from
+	     (NP Florida))
+	 (ADVP weekly)
+	 (PP from
+	     (NP an organic farm))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP (S  (NP *) 
+	     (VP Finding
+		 (NP sources
+		     (PP for
+			 (NP these high quality foods))))))
+     (VP is
+	 (NP a problem)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      (S (NP the solution)
+	 (VP comes
+	     (PP in
+		 (NP unexpected ways)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP Following
+	(NP a talk
+	    (PP by
+		(NP Mr. Clark))
+	    (PP at
+		(NP the New York State Natural Food Associates Convention))))
+    ,
+    (S (NP a man
+	   (PP from
+	       (NP the audience)))
+       (VP offered
+	   (S (NP *)
+	      (AUX to)
+	      (VP ship
+		  (NP his unsprayed apples)
+		  (PP to
+		      (NP the school))
+		  (PP from
+		      (NP Vermont)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Wheat-germ)
+	,
+	(NP (NP brewer)
+	    's yeast)
+	and
+	(NP  ground
+	     kelp))
+    (AUX are)
+    (VP used
+	(PP (PP in
+		(NP bread))
+	    and
+	    (PP in
+		(NP (NP dishes)
+		    (ADJP such
+			  (PP as
+			      (NP (NP spaghetti
+				      sauce)
+				  ,
+				  (NP meat loaves)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Miss Colman)
+    (VP hopes
+	(S (NP *)
+	   (AUX to)
+	   (VP find
+	       (NP suitable shakers))))
+    (SBAR so that
+	  (S (NP kelp)
+	     (AUX can)
+	     (VP be
+		 (ADJP available))
+	     (PP at
+		 (NP the tables)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Raw wheat-germ)
+     (VP is
+	 (ADJP available
+	       (PP on
+		   (NP the breakfast table))
+	       (PP for
+		   (NP the children)
+		   (S (NP *)
+		      (AUX to)
+		      (VP help
+			  (NP themselves)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  (ADJP Very
+		  few) fried foods)
+       (AUX are)
+       (VP used))
+    and
+    (S (NP the use
+	   (PP of
+	       (NP (NP salt) 
+		   and 
+		   (NP pepper))))
+       (AUX is)
+       (VP discouraged)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  (NP (S  (NP *) 
+		(VP Drinking
+		    (PP with
+			(NP meals)))))
+	(AUX is)
+	(ADVP also)
+	(VP discouraged))
+    ;
+    ;
+    (S (NP pitchers
+	   (PP of
+	       (NP water)))
+       (ADVP merely)
+       (VP appear
+	   (PP on
+	       (NP the tables)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Nothing)
+     (AUX is)
+     (VP peeled))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The source)
+    (AUX is)
+    (VP known)
+    (SBAR  so
+	   (S (NP there)
+	      (VP is
+		  (NP no necessity
+		      (S (NP *)
+			 (AUX to)
+			 (VP remove
+			     (NP insecticide residues))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The cooking)
+     (VP conserves
+	 (NP a maximum
+	     (PP of
+		 (NP the vitamin C content
+		     (PP of
+			 (NP vegetables)))))
+	 (PP by
+	     (NP (NP methods)
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (VP (VP use
+				  (NP  (ADJP very
+					     little) water))
+			      and
+			      (VP cook
+				  (PP in
+				      (NP (NP the
+					      shortest
+					      time)
+					  (ADJP possible)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((NP  (NP Wholesome snacks)
+      ,
+      (NP no candy)))
+(  
+ (S (SBAR  Since
+	   (S (NP Mr. Clark)
+	      (VP believes
+		  (ADVP firmly)
+		  (SBAR that
+			(S (NP the chewing
+			       (PP of
+				   (NP hard foods)))
+			   (VP helps
+			       (VP develop
+				   (NP healthy gums and teeth))))))))
+    ,
+    (S (NP (NP raw vegetables)
+	   and
+	   (NP  raw (ADJP whole-wheat)
+		grains))
+       (AUX are)
+       (VP handed
+	   (PRT out)
+	   (PP with
+	       (NP (NP fresh fruit)
+		   and
+		   (NP (ADJP whole-wheat) cookies))))
+       (PP at
+	   (NP snack time))
+       (PP in
+	   (NP the afternoons))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP solve
+            (NP the problem
+                (PP of
+		    (NP (S (NP the wheat grains)
+			   (VP (VP spilling
+				   (PP on
+				       (NP the floor)))
+			       and
+			       (VP getting
+				   (ADVP underfoot)))))))))
+     ,
+     (S  (NP a ball
+	     (PP of
+		 (NP (NP maple syrup)
+		     (VP boiled
+			 (PP to
+			     (NP candy consistency))))))
+	 (AUX was)
+	 (VP invented
+	     (S (NP *)
+		(AUX to)
+		(VP hold
+		    (NP the grains))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP their frequent hikes
+	    (PP into
+		(NP the nearby mountains))))
+    ,
+    (S (NP the children)
+       (VP carry
+	   (NP (NP whole grains)
+	       (S (NP *)
+		  (AUX to)
+		  (VP munch
+		      (NP T) )
+		  (PP along
+		      (NP the trail)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (VP learn
+	 (S (NP *)
+	    (AUX to)
+	    (VP like
+		(NP these)
+		(ADVP  so
+		       well
+		       (SBAR that
+			     (S (NP it
+				    (S-3 *pseudo-attach*))
+				(VP is
+				    (NEG n't)
+				    (ADJP surprising))
+				(S-3 (NP *)
+				     (AUX to)
+				     (VP hear
+					 (SBAR that
+					       (S (NP one boy)
+						  (VP tried
+						      (NP (NP the oats)
+							  (SBAR 0
+								(S (NP he)
+								   (AUX was)
+								   (VP feeding
+								       (NP T) 
+								       (NP his horse))
+								   (PP at
+								       (NP chore time)))) )))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP They)
+       (VP tasted
+	   (ADJP good)
+	   (PP to
+	       (NP him))))
+    ,
+    (ADVP so)
+    (S (NP he)
+       (VP brought
+	   (NP some)
+	   (PP to
+	       (NP breakfast)))
+       (S (NP *)
+	  (AUX to)
+	  (VP eat
+	      (PP in
+		  (NP his cereal bowl))
+	      (PP with
+		  (NP (NP milk) 
+		      and 
+		      (NP honey)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Maple syrup)
+     (AUX is)
+     (VP made
+	 (PP by
+	     (NP the children))
+	 (PP in
+	     (NP the woods
+		 (PP on
+		     (NP the school grounds))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP This)
+	   and
+	   (NP raw sugar))
+       (VP replace
+	   (NP ordinary 
+	       (VP refined)
+	       sugar)
+	   (PP on
+	       (NP the tables))))
+    and
+    (S (NP  (ADJP very
+		  little) sugar)
+       (AUX is)
+       (VP used
+	   (PP in
+	       (NP  (S (NP *)
+		       (VP cooking)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Candy)
+     (AUX is)
+     (NEG not)
+     (VP allowed))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Parents)
+     (AUX are)
+     (VP asked
+	 (PP in
+	     (NP the bulletin))
+	 (S (NP *)
+	    (AUX to)
+	    (VP send
+		(NP (NP packages
+			(PP of
+			    (NP treats)))
+		    (VP consisting
+			(PP of
+			    (NP (NP (NP fruit) 
+				    and 
+				    (NP nuts))
+				,
+				but
+				(NP no candy)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Nourishing meals))
+(  
+ (S (NP Mr. Clark)
+    (VP believes
+	(PP in
+	    (NP a
+		good full
+		breakfast
+		(PP of
+		    (NP (NP fruit)
+			,
+			(NP hot cereal)
+			,
+			(NP milk)
+			,
+			(NP honey)
+			,
+			(NP whole-wheat toast
+			    (PP with
+				(NP real butter)))
+			and 
+			(NP eggs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The heavy meal)
+     (VP comes
+	 (PP in
+	     (NP the middle
+		 (PP of
+		     (NP the day))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Soup)
+     (VP is
+	 (ADVP often)
+	 (NP the important dish))
+     (PP at
+	 (NP supper)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Homemade
+	  (PP of
+	      (NP (NP meat)
+		  ,
+		  (NP bones) 
+		  and 
+		  (NP vegetables))))
+    ,
+    (S (NP it)
+       (VP is
+	   (ADJP rich
+		 (PP in
+		     (NP (VP dissolved)
+			 minerals and vitamins))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The school)
+     (VP finds
+	 (SBAR that
+	       (S (NP the children)
+		  (AUX are)
+		  (VP satisfied
+		      (PP with
+			  (NP smaller
+			      amounts
+			      (PP of
+				  (NP food)))))
+		  (SBAR since
+			(S (NP all
+			       (PP of
+				   (NP it)))
+			   (VP is
+			       (ADJP high
+				     (PP in
+					 (NP quality))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The cost)
+	(S (NP *)
+	   (AUX to)
+	   (VP feed
+	       (NP one person))))
+    (VP is
+	(PP  (ADVP just)
+	     under
+	     (NP (NP one dollar)
+		 (NP a day)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((NP Outdoor exercises))
+((S (PP  (ADVP Even)
+	 before
+	 (S  (NP he)
+	     (VP saw
+		 (NP the necessity
+		     (PP of
+			 (S (S  (NP *)
+				(VP growing
+				    (NP better
+					food)))
+			    and
+			    (S  (NP *) 
+				(VP planning
+				    (NP good nutrition)))))))))
+    ,
+    (S (NP Mr. Clark)
+       (VP felt
+	   (SBAR 0
+		 (S (NP the school)
+		    (VP had
+			(NP a good health program)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Rugged outdoor
+	exercise
+	(PP for
+	    (NP (NP an hour
+		    and
+		    a
+		    half)
+		(NP every day)))
+	(PP in
+	    (NP all kinds
+		(PP of
+		    (NP weather)))))
+    (VP was
+	(NP the rule)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP A vigorous program)
+     (VP existed
+	 (PP in
+	     (NP (NP skiing)
+		 ,
+		 (NP (VP skating)
+		     sports)
+		 and
+		 (NP overnight hiking)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Healthier
+     children))
+(  
+ (S (PP Since
+	(NP the change
+	    (PP to
+		(NP better
+		    nutrition))))
+    ,
+    (S (NP he)
+       (VP feels
+	   (SBAR 0
+		 (S (NP he)
+		    (AUX can)
+		    (VP report
+			(PP on
+			    (NP improvements
+				(PP in
+				    (NP health))))))))
+       ,
+       (SBAR though
+	     (S (NP he)
+		(VP considers
+		    (NP the following statements)
+		    (NP (NP observations)
+			and
+			(NEG not)
+			(NP scientific proof)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Visitors
+	 (PP to
+	     (NP the school)))
+     (VP ask
+	 (SBAR (WHNP what
+		     shampoo)
+	       (S (NP they)
+		  (VP use
+		      (NP T)
+		      (PP on
+			  (NP (NP the children)
+			      's hair)))
+		  (S (NP *)
+		     (AUX to)
+		     (VP bring
+			 (PRT out)
+			 (NP the sheen)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The ruddy complexion
+	 (PP of
+	     (NP the faces)))
+     (ADVP also)
+     (VP brings
+	 (NP comment)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

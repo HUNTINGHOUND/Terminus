@@ -1,0 +1,2268 @@
+
+ 
+ 
+
+ 
+
+((NP (CD 1))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NNP Introduction)))
+ 
+
+((S
+    (NP (PRP It)
+        (S-1 (-NONE- *pseudo-attach*)))
+    (AUX (VBZ has))
+    (ADVP (RB recently))
+    (VP (VBN become)
+        (ADJP (JJ practical)))
+    (S-1 (NP (-NONE- *))
+         (AUX (TO to))
+         (VP (VB use)
+             (NP (DT the) (NN radio) (NN emission)
+                 (PP (IN of)
+                     (NP (NP (DT the) (NN moon)) (CC and) (NP (NNS planets)))))
+             (PP (IN as)
+                 (NP (DT a) (JJ new) (NN source)
+                     (PP (IN of)
+                         (NP (NN information)
+                             (PP (IN about)
+                                 (NP (NP (DT these) (NNS bodies))
+                                     (CC and)
+                                     (NP (PRP$ their) (NNS atmospheres)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS results)
+        (PP (IN of)
+            (NP (JJ present) (NNS observations)
+                (PP (IN of)
+                    (NP (DT the) (JJ thermal) (NN radio) (NN emission)
+                        (PP (IN of)
+                            (NP (DT the) (NN moon))))))))
+    (VP (VBP are)
+        (ADJP (JJ consistent)
+              (PP (IN with)
+                  (NP (NP (DT the)
+                          (ADJP (RB very)
+                                (JJ low)) (JJ thermal)
+                          (NN conductivity)
+                          (PP (IN of)
+                              (NP (DT the) (NN surface) (NN layer))))
+                      (SBAR
+                            (WHNP (WDT which))
+                            (S (NP (-NONE- T))
+                               (AUX (VBD was))
+                               (VP (VBN derived)
+                                   
+                                   (PP (IN from)
+                                       (NP (DT the) (NN variation)
+                                           (PP (IN in)
+                                               (NP (DT the) (JJ infrared) (NN emission)
+                                                   (PP (IN during)
+                                                       (NP (NP (NNS eclipses))
+                                                           (-LRB- -LRB-)
+                                                           (NP (NN e.g.)
+                                                               (, ,)
+                                                               (NP (NP (NNP Garstung))
+                                                                   (, ,)
+                                                                   (NP (CD 1958))))
+                                                           (-RRB- -RRB-)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (ADJP (RB sufficiently)
+                       (JJ accurate) (CC and) (JJ complete)) (NNS measurements))
+             (VP (VBP are)
+                 (ADJP (JJ available)))))
+    (, ,)
+    (S (NP (PRP it)
+           (S-2 (-NONE- *pseudo-attach*)))
+       (AUX (MD will))
+       (VP (VB be)
+           (ADJP (JJ possible)))
+       (S-2 (NP (-NONE- *))
+            (AUX (TO to))
+            (VP (VB set)
+                (NP (NNS limits))
+                (PP (IN on)
+                    (NP (DT the) (ADJP (JJ thermal) (CC and) (JJ electrical)) (NNS characteristics)
+                        (PP (IN of)
+                            (NP (DT the) (NN surface)
+                                (CC and)
+                                (JJ subsurface) (NNS materials)
+                                (PP (IN of)
+                                    (NP (DT the) (NN moon)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (NNS Observations)
+        (PP (IN of)
+            (NP (DT the) (NN radio) (NN emission)
+                (PP (IN of)
+                    (NP (NP (DT a) (NN planet))
+                        (SBAR
+                              (WHNP (WDT which))
+                              (S (NP (-NONE- T))
+                                 (VP (VBZ has)
+                                     (NP (DT an) (JJ extensive) (NN atmosphere))))))))))
+    (X (X (AUX (MD will))
+          (VP (VB probe)
+              (NP (DT the) (NN atmosphere))
+              (PP (TO to)
+                  (NP (DT a)
+                      (JJR greater)
+                      (NN extent)
+                      (PP (IN than)
+                          (NP (NP (DT those))
+                              (VP (VBG using)
+                                  (NP (JJR shorter) (NN wave) (NNS lengths)))))))))
+       (CC and)
+       (X
+          (AUX (MD should))
+          (PP (IN in)
+              (NP (DT some) (NNS cases)))
+          (VP (VB give)
+              (NP (ADJP (RB otherwise)
+                        (JJ unobtainable)) (NN information)
+                  (PP (IN about)
+                      (NP (DT the) (NNS characteristics)
+                          (PP (IN of)
+                              (NP (DT the) (JJ solid) (NN surface))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Radio) (NNS observations)
+        (PP (IN of)
+            (NP (NP (NNP Venus))
+                (CC and)
+                (NP (NNP Jupiter)))))
+    (AUX (VBP have))
+    (ADVP (RB already))
+    (VP (VBN supplied)
+        (NP
+            (ADJP (JJ unexpected)) (JJ experimental)
+            (NNS data)
+            (PP (IN on)
+                (NP (DT the) (NN physical) (NNS conditions)
+                    (PP (IN of)
+                        (NP (DT these) (NNS planets))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (VP (VBN observed)) (NN intensity)
+        (PP (IN of)
+            (NP (DT the) (NN radio) (NN emission)
+                (PP (IN of)
+                    (NP (NNP Venus))))))
+    (VP (VBZ is)
+        (ADJP (RB much)
+              (JJR higher)
+              (PP (IN than)
+                  (NP (DT the)
+                      (VP (VBN expected)) (JJ thermal)
+                      (NN intensity)))))
+    (, ,)
+    (SBAR (IN although)
+          (S (NP (NP (DT the) (NN spectrum))
+                 (VP (VBN indicated)
+                     (PP (IN by)
+                         (NP (NNS measurements)
+                             (PP (IN at)
+                                 (NP (NN wave) (NNS lengths)
+                                     (PP (IN near)
+                                         (NP (NP (CD 3) (NN cm))
+                                             (CC and)
+                                             (NP (CD 10) (NN cm))))))))))
+             (VP (VBZ is)
+                 (PP (IN like)
+                     (NP (IN that)
+                         (PP (IN of)
+                             (NP (DT a) (JJ black) (NN body)))
+                         (PP (IN at)
+                             (NP (ADVP (IN about))
+                                 (CD 600-degrees)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN result))
+    (VP (VBZ suggests)
+        (NP (DT a)
+            (ADJP (RB very)
+                  (JJ high)) (NN temperature)
+            (PP (IN at)
+                (NP (DT the) (JJ solid) (NN surface)
+                    (PP (IN of)
+                        (NP (DT the) (NN planet)))))))
+    (, ,)
+    (SBAR (IN although)
+          (S (NP (EX there))
+             (VP (VBZ is)
+                 (NP (DT the) (NN possibility)
+                     (SBAR (SBAR (IN that)
+                                 (S (NP (DT the) (VP (VBN observed)) (NN radiation))
+                                    (AUX (MD may))
+                                    (VP (VB be)
+                                        (NP (DT a) (NN combination)
+                                            (PP (IN of)
+                                                (NP (DT both) (ADJP (JJ thermal) (CC and) (JJ non-thermal))
+                                                    (NNS components)))))))
+                           (CC and)
+                           (SBAR (IN that)
+                                 (S (NP (DT the) (VP (VBN observed)) (NN spectrum))
+                                    (VP (VBZ is)
+                                        (NP (DT that)
+                                            (PP (IN of)
+                                                (NP (DT a) (JJ black) (NN body))))
+                                        (PP (ADVP (RB merely))
+                                            (IN by)
+                                            (NP (NN coincidence))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (PP (IN For)
+           (NP (DT the) (NN case)
+               (PP (IN of)
+                   (NP (NNP Jupiter)))))
+       (, ,)
+       (S (NP (DT the) (NN radio) (NN emission) (NN spectrum))
+          (VP (VBZ is)
+              (ADVP (RB definitely))
+              (NEG (RB not))
+              (PP (IN like)
+                  (NP (DT the) (NN spectrum)
+                      (PP (IN of)
+                          (NP (DT a) (JJ black-body) (NN radiator))))))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP it)
+           (SBAR-3 (-NONE- *pseudo-attach*)))
+       (VP (VBZ seems)
+           (ADJP (RB very)
+                 (JJ likely)))
+       (SBAR-3 (IN that)
+               (S (NP (NP (DT the) (NN radiation))
+                      (VP (VBG reaching)
+                          (NP (DT the) (NN earth))))
+                  (VP (VBZ is)
+                      (NP (DT a) (NN combination)
+                          (PP (IN of)
+                              (NP (NP (JJ thermal) (NN radiation)
+                                      (PP (IN from)
+                                          (NP (DT the) (NN atmosphere))))
+                                  (CC and)
+                                  (NP (JJ non-thermal) (NNS components))))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (PP (IN Of)
+           (NP (DT the) (VBG remaining) (NNS planets)))
+       (, ,)
+       (S
+          (NP (ADVP (RB only))
+              (NNP Mars)
+              (CC and)
+              (NNP Saturn))
+          (AUX (VB have))
+          (VP (VBN been)
+              (VP (VBN observed)
+                  
+                  (PP (IN as)
+                      (NP (NN radio) (NNS sources)))))))
+    (, ,)
+    (CC and)
+    (S (NP (ADJP (NEG (RB not))
+                 (RB very)
+                 (JJ much)) (NN information))
+       (VP (VBZ is)
+           (ADJP (JJ available)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NNP Mars))
+       (AUX (VBZ has))
+       (VP (VBN been)
+           (VP (VBN observed)
+               (ADVP (RB twice))
+               (PP (IN at)
+                   (NP (ADVP (IN about))
+                       (CD 3-cm) (NN wave) (NN length))))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN intensity)
+           (PP (IN of)
+               (NP (DT the) (VP (VBN observed)) (NN radiation))))
+       (VP (VBZ is)
+           (PP (IN in)
+               (NP (JJ reasonable) (NN agreement)
+                   (PP (IN with)
+                       (NP (NP (DT the) (JJ thermal) (NN radiation))
+                           (SBAR
+                                 (WHNP (WDT which))
+                                 (S (NP (-NONE- T))
+                                    (AUX (MD might))
+                                    (VP (VB be)
+                                        (VP (VBN predicted)
+                                            ))
+                                    (PP (IN on)
+                                        (NP (DT the) (NN basis)
+                                            (PP (IN of)
+                                                (NP (DT the)
+                                                    (ADJP (VBN known))
+                                                    (NN temperature)
+                                                    (PP (IN of)
+                                                        (NP (NNP Mars))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ low) (NN intensity)
+           (PP (IN of)
+               (NP (DT the) (NN radiation)
+                   (PP (IN from)
+                       (NP (NNP Saturn))))))
+       (AUX (VBZ has))
+       (VP (VBN limited)
+           (NP (NNS observations))))
+    (, ,)
+    (CC but)
+    (ADVP (RB again))
+    (S (NP (DT the) (VP (VBN measured)) (NN radiation))
+       (VP (VBZ seems)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (ADJP (JJ consistent)
+                        (PP (IN with)
+                            (NP (DT a) (JJ thermal) (NN origin)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT No) (NNS attempts)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB measure)
+                  (NP (DT the) (NN radio) (NN emission)
+                      (PP (IN of)
+                          (NP (DT the) (VP (VBG remaining)) (NNS planets)))))))
+       (AUX (VBP have))
+       (VP (VBN been)
+           (VP (VBN reported)
+               )))
+    (, ,)
+    (CC and)
+    (S (, ,)
+       (ADVP (IN because)
+             (PP (IN of)
+                 (NP (PRP$ their) (NNS distances)
+                     (, ,)
+                     (JJ small) (NNS diameters)
+                     (, ,)
+                     (CC or)
+                     (JJ low) (NNS temperatures))))
+       (, ,)
+       (S (NP (DT the) (JJ thermal) (NN radiation)
+              (PP (IN at)
+                  (NP (NP (NN radio) (NN wave) (NNS lengths))
+                      (VP (VBG reaching)
+                          (NP (DT the) (NN earth))
+                          (PP (IN from)
+                              (NP (DT these) (NNS sources)))))))
+          (AUX (VBZ is))
+          (VP (VBN expected)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB be)
+                     (PP (IN of)
+                         (NP (ADJP (RB very)
+                                   (JJ low)) (NN intensity)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN spite)
+            (PP (IN of)
+                (NP (DT this)))))
+    (, ,)
+    (S (NP (NP (NP (DT the)
+                   (ADJP (RB very)
+                         (JJ large)) (NN radio) (NNS reflectors))
+               (CC and)
+               (NP (ADJP (VBN improved))
+                   (VBG amplifying)
+                   (NNS techniques)))
+           (SBAR
+                 (WHNP (WDT which))
+                 (S (NP (-NONE- T))
+                    (AUX (VBP are))
+                    (ADVP (RB now))
+                    (VP (VBG becoming)
+                        (ADJP (JJ available))))))
+       (AUX (MD should))
+       (VP (VB make)
+           (NP (PRP it)
+               (S-4 (-NONE- *pseudo-attach*)))
+           (ADJP (JJ possible))
+           (S-4 (NP (-NONE- *))
+                (AUX (TO to))
+                (VP (VB observe)
+                    (NP (DT the) (NN radio) (NN emission)
+                        (PP (IN of)
+                            (NP (JJS most)
+                                (PP (IN of)
+                                    (NP (DT the) (NNS planets)))))))))
+       (PP (IN in)
+           (NP (DT a) (JJ few) (NNS years)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN study)
+        (PP (IN of)
+            (NP (DT the) (NN radio) (NN emission)
+                (PP (IN of)
+                    (NP (DT the) (NN moon) (CC and) (NNS planets))))))
+    (VP (VBD began)
+        (PP (IN with)
+            (NP (DT the) (NN detection)
+                (PP (IN of)
+                    (NP (DT the) (JJ thermal) (NN radiation)
+                        (PP (IN of)
+                            (NP (DT the) (NN moon)))))
+                (PP (IN at)
+                    (NP (CD 1.25-cm) (NN wave) (NN length)))
+                (PP (IN by)
+                    (NP (NP (NP (NNP Dicke))
+                            (CC and)
+                            (NP (NNP Beringer)))
+                        (-LRB- -LRB-)
+                        (NP (CD 1946))
+                        (-RRB- -RRB-)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This))
+    (AUX (VBD was))
+    (VP (VBN followed)
+        
+        (PP (IN by)
+            (NP (DT a) (JJ comprehensive) (NN series)
+                (PP (IN of)
+                    (NP (NNS observations)
+                        (PP (IN of)
+                            (NP (DT the) (CD 1.25-cm) (NN emission)
+                                (PP (IN of)
+                                    (NP (DT the) (NN moon)))))
+                        (PP (IN over)
+                            (NP (CD three) (JJ lunar) (NNS cycles)))
+                        (PP (IN by)
+                            (NP (NP (NP (NNP Piddington))
+                                    (CC and)
+                                    (NP (NNP Minnett)))
+                                (-LRB- -LRB-)
+                                (NP (CD 1949))
+                                (-RRB- -RRB-)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (PRP They))
+    (VP (VBD deduced)
+        (PP (IN from)
+            (NP (PRP$ their) (NNS measurements)))
+        (SBAR (SBAR (IN that)
+                    (S (NP (DT the) (NN radio) (NN emission)
+                           (PP (IN from)
+                               (NP (DT the) (JJ whole) (NN disk)
+                                   (PP (IN of)
+                                       (NP (DT the) (NN moon))))))
+                       (VP (VBD varied)
+                           
+                           (PP (IN during)
+                               (NP (DT a) (NN lunation)))
+                           (PP (IN in)
+                               (NP (DT a)
+                                   (ADJP (RB roughly)
+                                         (JJ sinusoidal)) (NN fashion))))))
+              (: ;)
+              (: ;)
+              (SBAR (IN that)
+                    (S (NP (DT the) (NN amplitude)
+                           (PP (IN of)
+                               (NP (DT the) (NN variation))))
+                       (VP (VBD was)
+                           (ADJP (RB considerably)
+                                 (JJR less)
+                                 (PP (IN than)
+                                     (NP (DT the) (NN amplitude)
+                                         (PP (IN of)
+                                             (NP (DT the) (NN variation)
+                                                 (PP (IN in)
+                                                     (NP (DT the) (JJ infrared) (NN emission)))))
+                                         (PP (IN as)
+                                             (S (NP (-NONE- *))
+                                                (VP (VBD measured)
+                                                    (PP (IN by)
+                                                        (NP (NP (NP (NP (NNP Pettit))
+                                                                    (CC and)
+                                                                    (NP
+                                                                        (NNP Nicholson)))
+                                                                (-LRB- -LRB-)
+                                                                (NP (CD 1930))
+                                                                (-RRB- -RRB-))
+                                                            (CC and)
+                                                            (NP (NP (NNP Pettit))
+                                                                (-LRB- -LRB-)
+                                                                (NP (CD 1935))
+                                                                (-RRB- -RRB-)))))))))))))
+              (: ;)
+              (: ;)
+              (CC and)
+              (SBAR (IN that)
+                    (S (S (NP (DT the) (NN maximum)
+                              (PP (IN of)
+                                  (NP (DT the) (NN radio) (NN emission))))
+                          (VP (VBD came)
+                              (PP (NP (ADVP (IN about))
+                                      (CD 3-12) (NNS days))
+                                  (IN after)
+                                  (NP (NNP Full) (NNP Moon)))))
+                       (, ,)
+                       (SBAR
+                             (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (VP (VBZ is)
+                                    (ADVP (RB again))
+                                    (PP (IN in)
+                                        (NP (NN contrast)
+                                            (PP (TO to)
+                                                (NP (NP (DT the) (JJ infrared) (NN emission))
+                                                    (, ,)
+                                                    (SBAR
+                                                          (WHNP (WDT which))
+                                                          (S (NP (-NONE- T))
+                                                             (VP (VBZ reaches)
+                                                                 (NP (PRP$ its) (NN maximum))
+                                                                 (PP (IN at)
+                                                                     (NP (NNP Full) (NNP Moon))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (NNP Piddington))
+        (CC and)
+        (NP (NNP Minnett)))
+    (VP (VBD explained)
+        (NP (PRP$ their) (NNS observations))
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG pointing)
+                   (PRT (IN out))
+                   (SBAR (IN that)
+                         (S (NP (NP (JJ rocklike) (NNS materials))
+                                (SBAR
+                                      (WHNP (WDT which))
+                                      (S (NP (-NONE- T))
+                                         (VP (VBP are)
+                                             (ADJP (JJ likely)
+                                                   (S (NP (-NONE- *))
+                                                      (AUX (TO to))
+                                                      (VP (VB make)
+                                                          (PRT (IN up))
+                                                          (NP (DT the) (NN surface)
+                                                              (PP (IN of)
+                                                                  (NP (DT the) (NN moon)))))))))))
+                            (AUX (MD would))
+                            (VP (VB be)
+                                (ADJP (ADJP (RB partially)
+                                            (JJ transparent)
+                                            (PP (TO to)
+                                                (NP (NN radio) (NNS waves))))
+                                      (, ,)
+                                      (X (IN although)
+                                         (ADJP (JJ opaque)
+                                               (PP (TO to)
+                                                   (NP (JJ infrared) (NN radiation))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ infrared) (NN emission))
+    (AUX (MD could))
+    (ADVP (RB then))
+    (VP (VB be)
+        (VP (VBN assumed)
+            
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB originate)
+                   (PP (IN at)
+                       (NP (DT the) (NN surface)
+                           (PP (IN of)
+                               (NP (DT the) (NN moon)))))))))
+    (, ,)
+    (SBAR (IN while)
+          (S (NP (DT the) (NN radio) (NN emission))
+             (VP (VBZ originates)
+                 (PP (IN at)
+                     (NP (NP (DT some) (NN depth)
+                             (PP (IN beneath)
+                                 (NP (DT the) (NN surface))))
+                         (, ,)
+                         (SBAR
+                               (WHADVP (WRB where))
+                               (S (NP (NP (DT the) (NN temperature) (NN variation))
+                                      (ADJP (JJ due)
+                                            (PP (TO to)
+                                                (NP (JJ solar) (NN radiation)))))
+                                  (AUX (VBZ is))
+                                  (VP (VP (VBN reduced)
+                                          
+                                          (PP (IN in)
+                                              (NP (NN amplitude))))
+                                      (CC and)
+                                      (VP (VBN shifted)
+                                          (PP (IN in)
+                                              (NP (NN phase)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN Since)
+          (S (NP (DT the) (NN absorption)
+                 (PP (IN of)
+                     (NP (NN radio) (NNS waves)))
+                 (PP (IN in)
+                     (NP (JJ rocklike) (NN material))))
+             (VP (VBZ varies)
+                 (PP (IN with)
+                     (NP (NN wave) (NN length))))))
+    (, ,)
+    (S (NP (PRP it)
+           (S-5 (-NONE- *pseudo-attach*)))
+       (AUX (MD should))
+       (VP (VB be)
+           (ADJP (JJ possible)))
+       (S-5 (NP (-NONE- *))
+            (AUX (TO to))
+            (VP (VP (VB sample)
+                    (NP (DT the) (NN temperature) (NN variation))
+                    (PP (IN at)
+                        (NP (JJ different) (NNS depths)
+                            (PP (IN beneath)
+                                (NP (DT the) (NN surface))))))
+                (CC and)
+                (VP (ADVP (RB possibly))
+                    (VB detect)
+                    (NP (NNS changes)
+                        (PP (IN in)
+                            (NP (DT the) (NN structure) (CC or) (NN composition)
+                                (PP (IN of)
+                                    (NP (DT the) (JJ lunar) (NN surface) (NN material)))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN radio) (NN emission)
+        (PP (IN of)
+            (NP (DT a) (NN planet))))
+    (AUX (VBD was))
+    (ADVP (RB first))
+    (VP (VBN detected)
+        )
+    (PP (IN in)
+        (NP (NP (CD 1955))
+            (, ,)
+            (SBAR
+                  (WHADVP (WRB when))
+                  (S (NP (NP (NP (NNP Burke))
+                             (CC and)
+                             (NP (NNP Franklin)))
+                         (-LRB- -LRB-)
+                         (NP (CD 1955))
+                         (-RRB- -RRB-))
+                     (VP (VBD identified)
+                         (NP (DT the) (NN origin)
+                             (PP (IN of)
+                                 (NP (ADJP (JJ interference-like)) (NN radio) (NN noise)
+                                     (PP (IN on)
+                                         (NP (PRP$ their) (NNS records)))
+                                     (PP (IN at)
+                                         (NP (ADVP (IN about))
+                                             (CD 15) (NNS meters)
+                                             (NN wave) (NN length))))))
+                         (PP (IN as)
+                             (NP (NN emission)
+                                 (PP (IN from)
+                                     (NP (NNP Jupiter)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (JJ sporadic) (NN type)
+        (PP (IN of)
+            (NP (JJ planetary) (NN radiation))))
+    (AUX (VBZ is))
+    (VP (VBN discussed)
+        
+        (PP (IN by)
+            (NP (NP (NP (NNP Burke))
+                    (-LRB- -LRB-)
+                    (NP (NN chap.) (CD 13))
+                    (-RRB- -RRB-))
+                (CC and)
+                (NP (NP (NN Gallet))
+                    (-LRB- -LRB-)
+                    (NP (NN chap.) (CD 14))
+                    (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (JJ Steady) (NN radiation))
+        (SBAR
+              (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (VP (VBD was)
+                     (ADVP (RB presumably))
+                     (PP (IN of)
+                         (NP (JJ thermal) (NN origin)))))))
+    (AUX (VBD was))
+    (VP (VP (VBN observed)
+            (PP (PP (PP (IN from)
+                        (NP (NNP Venus)))
+                    (PP (IN at)
+                        (NP (NP (CD 3.15))
+                            (CC and)
+                            (NP (CD 9.4) (NN cm)))))
+                (, ,)
+                (CC and)
+                (PP (PP (IN from)
+                        (NP (NP (NNP Mars))
+                            (CC and)
+                            (NP (NNP Jupiter))))
+                    (PP (IN at)
+                        (NP (CD 3.15) (NN cm)))))
+            (PP (IN in)
+                (NP (CD 1956)))
+            (-LRB- -LRB-)
+            (NP (NP (NP (NNP Mayer))
+                    (, ,)
+                    (NP (NNP McCullough))
+                    (, ,)
+                    (CC and)
+                    (NP (NNP Sloanaker)))
+                (, ,)
+                (NP (CD 1958))
+                (, ,)
+                (NP (NNP A)
+                    (, ,)
+                    (NNP B)
+                    (, ,)
+                    (NNP C)))
+            (-RRB- -RRB-))
+        (, ,)
+        (CC and)
+        (X (PP (IN from)
+               (NP (NNP Saturn)))
+           (PP (IN at)
+               (NP (CD 3.75) (NN cm)))
+           (PP (IN in)
+               (NP (CD 1957)))
+           (-LRB- -LRB-)
+           (NP (NP (NNP Drake))
+               (CC and)
+               (NP (NNP Ewen)))
+           (, ,)
+           (NP (CD 1958))
+           (-RRB- -RRB-))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NP (DT the)
+                (ADJP (RB relatively)
+                      (JJ short)) (NN time))
+            (PP (IN since)
+                (NP (DT these) (JJ early) (NNS observations)))))
+    (, ,)
+    (S (S (NP (NNP Venus))
+          (AUX (VBZ has))
+          (VP (VBN been)
+              (VP (VBN observed)
+                  
+                  (PP (IN at)
+                      (NP (JJ additional) (NN wave) (NNS lengths)
+                          (PP (IN in)
+                              (NP (DT the) (NN range)
+                                  (PP (PP (IN from)
+                                          (NP (CD 0.8)))
+                                      (PP (TO to)
+                                          (NP (CD 10.2) (NN cm)))))))))))
+       (, ,)
+       (CC and)
+       (S (NP (NNP Jupiter))
+          (AUX (VBZ has))
+          (VP (VBN been)
+              (VP (VBN observed)
+                  (PP (IN over)
+                      (NP (DT the) (NN wave-length) (NN range)
+                          (PP (PP (IN from)
+                                  (NP (CD 3.03)))
+                              (PP (TO to)
+                                  (NP (CD 68) (-NONE- A[fj])))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (ADJP (JJ observable)) (NNS characteristics)
+        (PP (IN of)
+            (NP (JJ planetary) (NN radio) (NN radiation))))
+    (VP (VBP are)
+        (NP (DT the) (NN intensity)
+            (, ,)
+            (DT the) (NN polarization)
+            (, ,)
+            (CC and)
+            (DT the) (NN direction)
+            (PP (IN of)
+                (NP (NN arrival)
+                    (PP (IN of)
+                        (NP (DT the) (NNS waves))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (JJ maximum) (JJ angular)
+        (NN diameter)
+        (PP (IN of)
+            (NP (DT any) (JJ planetary) (NN disk))))
+    (PP (IN as)
+        (S (NP (-NONE- *))
+           (VP (VBN observed)
+               (PP (IN from)
+                   (NP (DT the) (NN earth))))))
+    (VP (VBZ is)
+        (NP (ADVP (IN about))
+            (CD 1) (NN minute)
+            (PP (IN of)
+                (NP (NN arc))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT This))
+       (VP (VBZ is)
+           (ADJP (RB much)
+                 (JJR smaller)
+                 (PP (IN than)
+                     (NP (DT the)
+                         (JJS highest)
+                         (NN resolution)
+                         (PP (IN of)
+                             (NP (ADVP (RB even))
+                                 (DT the)
+                                 (ADJP (RB very)
+                                       (JJ large)) (NNS reflectors)
+                                 (PP (ADVP (RB now))
+                                     (IN under)
+                                     (NP (NN construction))))))))))
+    (, ,)
+    (CC and)
+    (S (ADVP (RB consequently))
+       (S (NP (DT the) (NN radio) (NN emission)
+              (PP (IN of)
+                  (NP (JJ different) (NNS regions)
+                      (PP (IN of)
+                          (NP (DT the) (NN disk))))))
+          (AUX (-NONE- can))
+          (NEG (-NONE- not))
+          (VP (VB be)
+              (VP (VBN resolved)
+                  )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (S-6 (-NONE- *pseudo-attach*)))
+    (AUX (MD should))
+    (VP (VB be)
+        (ADJP (JJ possible)))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (S-6 (NP (-NONE- *))
+         (AUX (TO to))
+         (VP (VB put)
+             (NP (JJ useful) (NNS limits))
+             (PP (IN on)
+                 (NP (DT the) (NNS diameters)
+                     (PP (IN of)
+                         (NP (DT the) (NN radio) (NNS sources)))))
+             (PP (IN by)
+                 (S (NP (-NONE- *))
+                    (VP (VBG observing)
+                        (PP (PP (IN with)
+                                (NP (JJ large) (NNS reflectors)))
+                            (CC or)
+                            (PP (IN with)
+                                (NP (NNS interferometers))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NNS Measurements)
+        (PP (IN of)
+            (NP (NN polarization))))
+    (AUX (VBP are))
+    (X (VP (ADVP (RB presently))
+           (VBN limited)
+           (PP (IN by)
+               (NP (NN apparatus) (NN sensitivity))))
+       (CC and)
+       (X
+          (AUX (MD will))
+          (VP (VB remain)
+              (ADJP (JJ difficult)))
+          (ADVP (RB because)
+                (PP (IN of)
+                    (NP (DT the) (JJ low) (NN intensity)
+                        (PP (IN of)
+                            (NP (DT the) (JJ planetary) (NN radiation)
+                                (PP (IN at)
+                                    (NP (DT the) (NN earth)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (AUX (VB have))
+    (VP (VBN been)
+        (NP (JJ few) (NNS measurements)
+            (PP (ADVP (RB specifically))
+                (IN for)
+                (NP (DT the) (NN determination)
+                    (PP (IN of)
+                        (NP (DT the) (NN polarization)
+                            (PP (IN of)
+                                (NP (JJ planetary) (NN radiation))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NNS measurements))
+        (VP (VBN made)
+            (PP (IN with)
+                (NP (NP (DT the) (NNP NRL) (ADJP (CD 50-foot)) (NN reflector))
+                    (, ,)
+                    (SBAR
+                          (WHNP (WDT which))
+                          (S (NP (-NONE- T))
+                             (VP (VBZ is)
+                                 (ADJP (JJ altitude-azimuth-mounted)))))
+                    (, ,)))))
+    (AUX (MD would))
+    (VP (VB have)
+        (VP (VBN shown)
+            (NP (DT a) (JJ systematic) (NN change))
+            (PP (IN with)
+                (NP (JJ local) (NN hour) (NN angle)))
+            (PP (IN in)
+                (NP (DT the) (VP (VBN measured)) (NNS intensities)
+                    (PP (IN of)
+                        (NP (NP (NNP Venus))
+                            (CC and)
+                            (NP (NNP Jupiter))))))))
+    (SBAR (IN if)
+          (S (NP (DT a) (JJ substantial) (NN part)
+                 (PP (IN of)
+                     (NP (DT the) (NN radiation))))
+             (AUX (VBD had))
+             (VP (VBN been)
+                 (VP (ADVP (RB linearly))
+                     (VBN polarized)
+                     )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (JJ Recent) (NN interferometer) (NNS measurements))
+        (-LRB- -LRB-)
+        (NP (NP (NP (NNP Radhakrishnan))
+                (CC and)
+                (NP (NNP Roberts)))
+            (, ,)
+            (NP (CD 1960)))
+        (-RRB- -RRB-))
+    (AUX (VB have))
+    (VP (VBN shown)
+        (S (S (NP (DT the) (ADJP (CD 960-mc)) (NN emission)
+                  (PP (IN of)
+                      (NP (NNP Jupiter))))
+              (AUX (TO to))
+              (VP (VB be)
+                  (ADJP (ADVP (RB partially))
+                        (VBN polarized)
+                        )))
+           (CC and)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB originate)
+                  (PP (IN in)
+                      (NP (DT a) (NN region)
+                          (PP (IN of)
+                              (NP
+                                  (JJR larger)
+                                  (NN diameter)
+                                  (PP (IN than)
+                                      (NP (DT the) (JJ visible) (NN disk))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (ADJP (JJ Other)
+          (PP (IN than)
+              (NP (DT this)
+                  (ADJP (RB very)
+                        (JJ significant)) (NN result))))
+    (, ,)
+    (S (NP (JJS most)
+           (PP (IN of)
+               (NP (NP (DT the) (NN information)
+                       (PP-7 (-NONE- *pseudo-attach*)))
+                   (ADJP (ADVP (RB now))
+                         (JJ available))
+                   (PP-7 (IN about)
+                         (NP (DT the) (NN radio) (NN emission)
+                             (PP (IN of)
+                                 (NP (DT the) (NNS planets))))))))
+       (AUX (VBZ is))
+       (VP (VBN restricted)
+           
+           (PP (TO to)
+               (NP (DT the) (NN intensity)
+                   (PP (IN of)
+                       (NP (DT the) (NN radiation))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN concept)
+        (PP (IN of)
+            (NP (JJ apparent) (NN black-body) (NN temperature))))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB describe)
+               (NP (NP (DT the) (NN radiation))
+                   (VP (VBN received)
+                       (PP (IN from)
+                           (NP (NP (DT the) (NN moon))
+                               (CC and)
+                               (NP (DT the) (NNS planets))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (VP (JJ received)) (NN radiation))
+    (AUX (VBZ is))
+    (VP (VBN compared)
+        
+        (PP (IN with)
+            (NP (DT the) (NN radiation)
+                (PP (IN from)
+                    (NP (NP (DT a)
+                            (JJ hypothetical) (JJ black)
+                            (NN body))
+                        (SBAR
+                              (WHNP (WDT which))
+                              (S (NP (-NONE- T))
+                                 (VP (VBZ subtends)
+                                     (NP (DT the)
+                                         (JJ same) (JJ solid)
+                                         (NN angle)
+                                         (PP (IN as)
+                                             (NP (DT the) (JJ visible) (NN disk)
+                                                 (PP (IN of)
+                                                     (NP (DT the) (NN planet)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (JJ apparent) (JJ black-body)
+        (NN disk) (NN temperature))
+    (VP (VBZ is)
+        (NP (NP (DT the) (NN temperature))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (AUX (MD must))
+                     (VP (VB be)
+                         (VP (VBN assumed)
+                             
+                             (PP (IN for)
+                                 (NP (DT the) (JJ black) (NN body)))))
+                     (SBAR (PP (IN in)
+                               (NP (NN order)))
+                           (IN that)
+                           (S (NP (DT the) (NN intensity)
+                                  (PP (IN of)
+                                      (NP (PRP$ its) (NN radiation))))
+                              (AUX (MD should))
+                              (VP (VB equal)
+                                  (NP (IN that)
+                                      (PP (IN of)
+                                          (NP (DT the) (VP (JJ observed)) (NN radiation))))
+                                  ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN use)
+           (PP (IN of)
+               (NP (DT this) (NN concept))))
+       (AUX (VBZ does))
+       (NEG (RB not))
+       (VP (VB specify)
+           (NP (DT the) (NN origin)
+               (PP (IN of)
+                   (NP (DT the) (NN radiation)))))
+       (, ,)
+       (CC and)
+       (SINV
+             (SBAR (ADVP (RB only))
+                   (IN if)
+                   (S (NP (DT the) (NN planet))
+                      (ADVP (RB really))
+                      (VP (VBZ radiates)
+                          (PP (IN as)
+                              (NP (DT a) (JJ black) (NN body))))))
+             (, ,)
+             (AUX (MD will))
+             (NP (DT the)
+                 (JJ apparent) (JJ black-body)
+                 (NN temperature))
+             (VP (VB correspond)
+                 (PP (TO to)
+                     (NP (DT the) (NN physical) (NN temperature)
+                         (PP (IN of)
+                             (NP (DT the) (VP (VBG emitting)) (NN material)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN radio) (NN radiation)
+            (PP (IN of)
+                (NP (DT the) (NN sun))))
+        (SBAR
+              (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (AUX (VBZ is))
+                 (VP (VBN reflected)
+                     
+                     (PP (IN from)
+                         (NP (DT the) (NN moon) (CC and) (NNS planets)))))))
+    (AUX (MD should))
+    (VP (VB be)
+        (ADJP (JJ negligible)))
+    (S (NP (-NONE- *))
+       (VP (VBD compared)
+           (PP (IN with)
+               (NP (PRP$ their) (JJ thermal) (NN emission)
+                   (PP (IN at)
+                       (NP (NN centimeter) (NN wave) (NNS lengths)))))))
+    (, ,)
+    (PP (IN except)
+        (ADVP (RB possibly))
+        (PP (IN at)
+            (NP (NNS times)
+                (PP (IN of)
+                    (NP (JJ exceptional) (NNS outbursts)
+                        (PP (IN of)
+                            (NP (JJ solar) (NN radio) (NN noise)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ quiescent) (NN level)
+        (PP (IN of)
+            (NP (NN centimeter) (NN wave-length) (JJ solar) (NN radiation))))
+    (AUX (MD would))
+    (VP (VB increase)
+        (NP (DT the) (JJ average) (NN disk) (NN brightness) (NN temperature))
+        (PP (IN by)
+            (NP (RBR less)
+                (PP (IN than)
+                    (NP (CD 1-degree)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN At)
+        (NP (NN meter) (NN wave) (NNS lengths)))
+    (S
+       (NP (DT an) (NN increase)
+           (PP (IN of)
+               (NP (DT the) (NN order)
+                   (PP (IN of)
+                       (NP (CD 10-degrees)))))
+           (PP (IN in)
+               (NP (DT the) (JJ average) (NN disk) (NNS temperatures)
+                   (PP (IN of)
+                       (NP (DT the)
+                           (JJR nearer)
+                           (NNS planets))))))
+       (AUX (MD would))
+       (VP (VB be)
+           (VP (VBN expected)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Therefore))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBG neglecting)
+           (NP (DT the) (JJ extreme) (NNS outbursts))))
+    (, ,)
+    (S (NP (VP (VBN reflected))
+           (JJ solar) (NN radiation))
+       (AUX (VBZ is))
+       (NEG (RB not))
+       (VP (VBN expected)
+           
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB cause)
+                  (NP (JJ sizable) (NNS errors)
+                      (PP (IN in)
+                          (NP (DT the) (NNS measurements)
+                              (PP (IN of)
+                                  (NP (JJ planetary) (NN radiation)
+                                      (PP (IN in)
+                                          (NP (DT the) (NN centimeter)
+                                              (: -)
+                                              (CC and)
+                                              (NN decimeter-wave-length) (NN range)))))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 2))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NP (DT The)
+         (NN moon))
+     (NP (CD 2.1))
+     (NP (NNS observations))))
+ 
+
+((S (S (NP (NN Radio) (NNS observations)
+           (PP (IN of)
+               (NP (DT the) (NN moon))))
+       (AUX (VB have))
+       (VP (VBN been)
+           (VP (VBN made)
+               
+               (PP (IN over)
+                   (NP (DT the) (NN range)
+                       (PP (IN of)
+                           (NP (NN wave) (NNS lengths)))
+                       (PP (PP (IN from)
+                               (NP (CD 4.3) (NN mm)))
+                           (PP (TO to)
+                               (NP (CD 75) (NN cm)))))))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NNS results))
+       (AUX (VBP are))
+       (VP (VBN summarized)
+           
+           (PP (IN in)
+               (NP (NN Table) (CD 1))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (NNS Observations))
+       (AUX (VBP have))
+       (ADVP (RB also))
+       (VP (VBN been)
+           (VP (VBN made)
+               
+               (PP (IN at)
+                   (NP (CD 1.5) (NN mm)))))
+       (S (NP (-NONE- *))
+          (VP (VBG using)
+              (NP (JJ optical) (NNS techniques)))))
+    (-LRB- -LRB-)
+    (NP (NP (NN Sinton))
+        (, ,)
+        (NP (NP (CD 1955))
+            (, ,)
+            (NP (CD 1956)))
+        (, ,))
+    (: ;)
+    (: ;)
+    (S (NP (-NONE- *))
+       (VP (VB see)
+           (ADVP (RB also))
+           (NP (NN chap.) (CD 11))))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (RB Not)
+           (DT all)
+           (DT the) (NNS observers))
+       (AUX (VBP have))
+       (VP (VP (VBN used)
+               (NP (DT the) (JJ same) (NNS procedures)))
+           (CC or)
+           (VP (VBD made)
+               (NP (DT the) (JJ same) (NNS assumptions)
+                   (PP (IN about)
+                       (NP (DT the) (JJ lunar) (NN brightness) (NN distribution))))
+               (SBAR (WHADVP (WRB when))
+                     (S (NP (-NONE- *))
+                        (VP (VBG reducing)
+                            (NP (DT the) (NN data))))))))
+    (, ,)
+    (CC and)
+    (S
+       (NP (DT this))
+       (, ,)
+       (ADVP (RB together)
+             (PP (IN with)
+                 (NP (NNS differences)
+                     (PP (IN in)
+                         (NP (DT the) (NNS methods)
+                             (PP (IN of)
+                                 
+                                 (S (NP (-NONE- *))
+                                    (VP (VBG calibrating)
+                                        (NP (DT the) (NNS antennae) (CC and)
+                                            (NNS receivers))))))))))
+       (, ,)
+       (AUX (MD must))
+       (VP (VB account)
+           (PP (IN for)
+               (NP (RB much)
+                   (PP (IN of)
+                       (NP (DT the) (NN disagreement)
+                           (PP (IN in)
+                               (NP (DT the) (VP (VBN measured)) (NN radio) (NN brightness) (NNS temperatures))))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (PP (IN In)
+           (NP (DT the) (NNS observations)
+               (PP (PP (IN at)
+                       (NP (CD 4.3) (NN mm)))
+                   (-LRB- -LRB-)
+                   (NP (NP (NNP Coates))
+                       (, ,)
+                       (NP (CD 1959)))
+                   (-RRB- -RRB-))))
+       (, ,)
+       (S (NP (NP (DT the) (NN diameter)
+                  (PP (IN of)
+                      (NP (DT the) (NN antenna) (NN beam))))
+              (, ,)
+              (NP (CD 6'.7))
+              (, ,))
+          (VP (VBD was)
+              (ADJP (JJ small)
+                    (RB enough)
+                    (S (NP (-NONE- *))
+                       (AUX (TO to))
+                       (VP (VB allow)
+                           (NP (NN resolution)
+                               (PP (IN of)
+                                   (NP (DT some)
+                                       (PP (IN of)
+                                           (NP (DT the)
+                                               (JJR larger)
+                                               (NNS features)
+                                               (PP (IN of)
+                                                   (NP (DT the) (JJ lunar) (NN surface))))))))))))))
+    (, ,)
+    (CC and)
+    (S (NP (NN contour) (NNS diagrams)
+           (PP-8 (-NONE- *pseudo-attach*)))
+       (AUX (VBP have))
+       (VP (VBN been)
+           (VP (VBN made)))
+       (PP-8 (IN of)
+             (NP (DT the) (JJ lunar) (NN brightness) (NN distribution)
+                 (PP (IN at)
+                     (NP (CD three) (JJ lunar) (NNS phases)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS observations))
+    (VP (VBP indicate)
+        (SBAR (IN that)
+              (S (NP (DT the) (JJ lunar) (NNS maria))
+                 (VP (VP (VBP heat)
+                         (PRT (RB up))
+                         (ADVP (RBR more) (RB rapidly)
+                               (PP-9 (-NONE- *pseudo-attach*))))
+                     (CC and)
+                     (ADVP (RB also))
+                     (VP (JJ cool)
+                         (PRT (IN off))
+                         (ADVP (RBR more) (RB rapidly)
+                               (PP-9 (-NONE- *pseudo-attach*))))
+                     (PP-9 (IN than)
+                           (SINV (AUX (VB do))
+                                 (NP (DT the) (JJ mountainous) (NNS regions)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNP Mare) (NNP Imbrium))
+    (VP (VP (VBZ seems)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB be)
+                   (NP (DT an) (NN exception)))))
+        (CC and)
+        (VP (VBZ remains)
+            (ADJP (JJR cooler)
+                  (PP (IN than)
+                      (NP (NP (DT the) (NNS regions))
+                          (SBAR
+                                (WHNP (WDT which))
+                                (S (NP (-NONE- T))
+                                   (VP (VBP surround)
+                                       (NP (PRP it)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NN contour) (NNS diagrams))
+    (ADVP (RB also))
+    (VP (VBP suggest)
+        (NP (DT a)
+            (ADJP (RB rather)
+                  (JJ rapid)) (NN falloff)
+            (PP (IN in)
+                (NP (DT the) (NN radio) (NN brightness)))
+            (PP (IN with)
+                (NP (NN latitude))))))
+ (. .))
+ 
+
+ 
+
+((S (S (ADVP (RB Very)
+             (RB recently))
+       (, ,)
+       (S (NP (NNS observations))
+          (AUX (VBP have))
+          (VP (VBN been)
+              (VP (VBN made)
+                  
+                  (PP (IN at)
+                      (NP (CD 8-mm) (NN wave) (NN length)))
+                  (PP (IN with)
+                      (NP (NP (DT a)
+                              (NN reflector))
+                          (PP (NP (CD 22)
+                                  (NNS meters))
+                              (IN in)
+                              (NP (NN diameter)))))
+                  (PP (IN with)
+                      (NP (DT a) (JJ resultant) (NN beam) (NN width)
+                          (PP (IN of)
+                              (NP (ADVP (RB only))
+                                  (ADVP (IN about))
+                                  (CD 2)
+                                  ('' ')))))))))
+    (-LRB- -LRB-)
+    (NP (NP (NP (NNP Amenitskii))
+            (, ,)
+            (NP (NNP Noskova))
+            (, ,)
+            (CC and)
+            (NP (NNP Salomonovich)))
+        (, ,)
+        (NP (CD 1960)))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (NN constant-temperature) (NNS contours))
+       (VP (VBP are)
+           (ADJP (RB much)
+                 (JJ smoother)
+                 (PP (IN than)
+                     (NP (NP (DT those))
+                         (ADJP (VBN observed)
+                               (PP (IN at)
+                                   (NP (CD 4.3) (NN mm)))
+                               (PP (IN by)
+                                   (NP (NP (NNP Coates))
+                                       (-LRB- -LRB-)
+                                       (NP (CD 1959))
+                                       (-RRB- -RRB-)))))))))
+    (CC and)
+    (S (ADVP (RB apparently))
+       (S (NP (DT the) (NN emission)
+              (PP (IN at)
+                  (NP (CD 8) (NN mm))))
+          (VP (VBZ is)
+              (NEG (RB not))
+              (ADJP (ADVP (RB nearly))
+                    (RB so)
+                    (JJ sensitive)
+                    (PP (TO to)
+                        (NP (NNS differences)
+                            (PP (IN in)
+                                (NP (NN surface) (NNS features))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (JJ Such) (JJ high-resolution)
+        (NNS observations)
+        (PP (IN as)
+            (NP (DT these))))
+    (AUX (VBP are))
+    (VP (VBN needed)
+        
+        (PP (IN at)
+            (NP (JJ several) (NN wave) (NNS lengths))))
+    (SBAR (PP (IN in)
+              (NP (NN order)))
+          (IN that)
+          (S (NP (DT the) (NN radio) (NN emission)
+                 (PP (IN of)
+                     (NP (DT the) (NN moon))))
+             (AUX (MD can))
+             (VP (VB be)
+                 (VP (ADVP (RB properly))
+                     (VBN interpreted)
+                     )))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NNS observations)
+            (PP (IN of)
+                (NP (NP (NNP Mayer))
+                    (, ,)
+                    (NP (NNP McCullough))
+                    (, ,)
+                    (CC and)
+                    (NP (NNP Sloanaker))))
+            (PP (IN at)
+                (NP (CD 3.15) (NN cm))))
+        (CC and)
+        (X
+           (PP (IN of)
+               (NP (NNP Sloanaker)))
+           (PP (IN at)
+               (NP (CD 10.3) (NN cm)))))
+    (X (X (AUX (VBP have))
+          (NEG (RB not))
+          (ADVP (RB previously))
+          (VP (VBN been)
+              (VP (VBN published)
+                  )))
+       (CC and)
+       (X
+          (AUX (MD will))
+          (VP (VB be)
+              (VP (NP (NN briefly))
+                  (VBN described))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NNS Measurements)
+        (PP (IN at)
+            (NP (CD 3.15) (NN cm))))
+    (AUX (VBD were))
+    (VP (VBN obtained)
+        )
+    (PP (IN on)
+        (NP (NP (CD 11) (NNS days))
+            (VP (VBN spread)
+                (PP (IN over)
+                    (NP (NP (DT the) (NN interval))
+                        (NP (NP (MD May)
+                                (CD 3)
+                                (PP (TO to)
+                                    (NP (NNP June) (CD 19))))
+                            (, ,)
+                            (NP (CD 1956))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBG using)
+           (NP (DT the) (ADJP (CD 50-foot)) (NN reflector)
+               (PP (IN at)
+                   (NP (DT the) (NNP U.S.) (NNP Naval) (NNP Research) (NNP Laboratory)
+                       (PP (IN in)
+                           (NP (NNP Washington)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ half-intensity) (NN diameter)
+           (PP (IN of)
+               (NP (DT the) (NN antenna) (NN beam))))
+       (VP (VBD was)
+           (NP (ADVP (IN about))
+               (CD 9)
+               ('' '))))
+    (, ,)
+    (CC and)
+    (S (NP (NP (DT the) (NN angle))
+           (VP (JJ subtended)
+               (PP (IN by)
+                   (NP (DT the) (NN moon)))))
+       (VP (VBD included)
+           (NP (NP (DT the) (NN entire) (JJ main) (NN beam))
+               (CC and)
+               (NP (NN part)
+                   (PP (IN of)
+                       (NP (DT the) (JJ first) (NN side) (NNS lobes))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S
+    (NP (NP (DT The) (NN antenna) (NNS patterns))
+        (CC and)
+        (NP (DT the) (NN power) (NN gain)
+            (PP (IN at)
+                (NP (DT the) (NN peak)
+                    (PP (IN of)
+                        (NP (DT the) (NN beam)))))))
+    (AUX (VBD were))
+    (NP (DT both))
+    (VP (VBN measured)
+        (-LRB- -LRB-)
+        (NP (NP (NP (NNP Mayer))
+                (, ,)
+                (NP (NNP McCullough))
+                (, ,)
+                (CC and)
+                (NP (NNP Sloanaker)))
+            (, ,)
+            (NP (CD 1958)))
+        (-RRB- -RRB-))
+    (, ,)
+    (SBAR (RB so)
+          (IN that)
+          (S (NP (DT the) (JJ absolute) (NN power) (NN sensitivity)
+                 (PP (IN of)
+                     (NP (DT the) (NN antenna) (NN beam)))
+                 (PP (IN over)
+                     (NP (DT the) (JJ solid) (NN angle)
+                         (PP (IN of)
+                             (NP (DT the) (NN moon))))))
+             (AUX (VBD was))
+             (VP (VBN known)
+                 ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN ratio)
+        (PP (IN of)
+            (NP (DT the) (VP (VBN measured)) (NN antenna) (NN temperature) (NN change)
+                (PP (IN during)
+                    (NP (DT a) (NN drift) (NN scan)
+                        (PP (IN across)
+                            (NP (DT the) (NN moon)))))))
+        (PP (TO to)
+            (NP (DT the) (NN average) (NN brightness) (NN temperature)
+                (PP (IN of)
+                    (NP (DT the) (NN moon)))
+                (PP (IN over)
+                    (NP (DT the) (NN antenna) (NN beam))))))
+    (-LRB- -LRB-)
+    (VP (VBG assuming)
+        (SBAR (IN that)
+              (S (NP (DT the) (NN brightness) (NN temperature)
+                     (PP (IN of)
+                         (NP (DT the) (NN sky))))
+                 (VP (VBZ is)
+                     (ADJP (JJ negligible))))))
+    (-RRB- -RRB-)
+    (AUX (VBD was))
+    (VP (VBN found)
+        (, ,)
+        (PP (IN by)
+            (NP (JJ graphical) (NN integration)
+                (PP (IN of)
+                    (NP (DT the) (NN antenna) (NN directivity) (NN diagram)))))
+        (, ,)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB be)
+               (NP (CD 0.85))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (VP (VBN measured)) (NN brightness) (NN temperature))
+    (VP (VBZ is)
+        (NP (DT a) (JJ good) (NN approximation)
+            (PP (TO to)
+                (NP (DT the) (NN brightness) (NN temperature)
+                    (PP (IN at)
+                        (NP (DT the) (NN center)
+                            (PP (IN of)
+                                (NP (DT the) (JJ lunar) (NN disk)))))))))
+    (X (ADVP (IN because)
+             (PP (IN of)
+                 (NP (DT the) (JJ narrow) (NN antenna) (NN beam))))
+       (CC and)
+       (SBAR (IN because)
+             (S (NP (DT the) (NN temperature) (NN distribution)
+                    (PP (IN over)
+                        (NP (DT the) (JJ central) (NN portion)
+                            (PP (IN of)
+                                (NP
+                                    (NP (DT the) (NN moon))
+                                    (POS 's) (NN disk))))))
+                (VP (VBZ is)
+                    (ADJP (ADVP (RB nearly))
+                          (JJ uniform)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN result)
+           (PP (IN of)
+               (NP (DT the) (NNS observations))))
+       (VP (VBZ is)
+           (NP (-NONE- A[fj])))
+       (SBAR
+             (WHADVP (WRB where))
+             (S (NP (NP (DT the) (NN phase) (NN angle))
+                    (, ,)
+                    (NP (NNP Q))
+                    (, ,))
+                (AUX (VBZ is))
+                (VP (VBN measured)
+                    (PP (IN in)
+                        (NP (NNS degrees)))
+                    (PP (IN from)
+                        (NP (JJ new) (NN moon)))))))
+    (CC and)
+    (S (NP (DT the) (JJ probable) (NNS errors))
+       (VP (VBP include)
+           (NP (ADJP (ADJP (JJ absolute))
+                     (ADVP (IN as)
+                           (RB well)
+                           (PP (IN as)
+                               (ADJP (JJ relative)))))
+               (NNS errors)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN result))
+    (AUX (VBZ is))
+    (VP (VBN plotted)
+        
+        (PP (IN along)
+            (PP (IN with)
+                (NP (DT the) (CD 8.6-mm) (NNS observations)
+                    (PP (IN of)
+                        (NP (NP (NN Gibson))
+                            (-LRB- -LRB-)
+                            (NP (CD 1958))
+                            (-RRB- -RRB-)))
+                    (PP (IN in)
+                        (NP (NP (NN figure) (CD 1))
+                            (, ,)
+                            (NP (DT A)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN variation)
+        (PP (IN in)
+            (NP (DT the) (ADJP (CD 3-cm)) (NN emission)
+                (PP (IN of)
+                    (NP (DT the) (NN moon)))
+                (PP (IN during)
+                    (NP (DT a) (NN lunation))))))
+    (VP (VBZ is)
+        (ADJP (ADVP (RB very)
+                    (RB much))
+              (RBR less)
+              (PP (IN than)
+                  (NP (DT the) (NN variation)
+                      (PP (IN in)
+                          (NP (DT the) (ADJP (CD 8.6-mm)) (NN emission)))))))
+    (, ,)
+    (PP (IN as)
+        (S (NP (-NONE- *))
+           (AUX (MD would))
+           (VP (VB be)
+               (VP (VBN expected)
+                   
+                   (PP (IN from)
+                       (NP (DT the) (NN explanation)
+                           (PP (IN of)
+                               (NP (NP (NP (NNP Piddington))
+                                       (CC and)
+                                       (NP (NNP Minnett)))
+                                   (-LRB- -LRB-)
+                                   (NP (CD 1949))
+                                   (-RRB- -RRB-))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (NP (DT the) (NN discussion))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ follows))))))
+    (, ,)
+    (S (S (NP (DT the) (NN time) (NN average)
+              (PP (IN of)
+                  (NP (DT the) (NN radio) (NN emission))))
+          (AUX (MD will))
+          (VP (VB be)
+              (VP (VBN referred)
+                  
+                  (PP (TO to)
+                      (NP (-NONE- *)))
+                  (PP (IN as)
+                      (NP (DT the) (JJ constant) (NN component))))))
+       (, ,)
+       (CC and)
+       (S (NP (DT the)
+              (VP (JJ superimposed)) (JJ periodic)
+              (NN variation))
+          (AUX (MD will))
+          (VP (VB be)
+              (VP (VBN called)
+                  
+                  (NP (DT the) (JJ variable) (NN component)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (ADJP (CD 10.3-cm)) (NN observation)
+        (PP (IN of)
+            (NP (NNP Sloanaker))))
+    (AUX (VBD was))
+    (VP (VBN made)
+        
+        (PP (IN on)
+            (NP (NP (NNP May) (CD 20)) (, ,)
+                (NP (CD 1958)))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBG using)
+           (NP (DT the) (ADJP (CD 84-foot)) (NN reflector)
+               (PP (IN at)
+                   (NP (DT the) (NNP Maryland) (NNP Point) (NNP Observatory)
+                       (PP (IN of)
+                           (NP (DT the) (NNP U.S.) (NNP Naval) (NNP Research) (NNP Laboratory)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN age)
+        (PP (IN of)
+            (NP (DT the) (NN moon))))
+    (VP (VBD was)
+        (NP (ADVP (IN about))
+            (CD 2) (NNS days))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ half-intensity) (NN diameter)
+           (PP (IN of)
+               (NP (DT the) (JJ main) (NN lobe)
+                   (PP (IN of)
+                       (NP (DT the) (NN antenna))))))
+       (VP (VBD was)
+           (NP (ADVP (IN about))
+               (CD 18'.5))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN brightness) (NN temperature))
+       (AUX (VBD was))
+       (VP (VBN reduced)
+           
+           (PP (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VP (VBG assuming)
+                          (NP (DT a) (JJ Gaussian) (NN shape))
+                          (PP (IN for)
+                              (NP (DT the) (NN antenna) (NN beam))))
+                      (CC and)
+                      (X (NP (DT a)
+                             (ADJP (RB uniformly)
+                                   (JJ bright)) (NN disk))
+                         (PP (IN for)
+                             (NP (DT the) (NN moon))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

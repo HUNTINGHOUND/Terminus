@@ -1,0 +1,2271 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Romantic news)
+   (VP concerns
+       (NP (NP (NP Mrs. Joan Monroe Armour)
+	       and
+	       (NP F. Lee H. Wendell))
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP are
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (VP married
+			      ))))
+	       (PP at
+		   (NP 4:30 p.m.))
+	       (NP tomorrow)
+	       (PP in
+		   (NP the Lake Forest home
+		       (PP of
+			   (NP (NP (NP her brother)
+				   ,
+				   (NP J. Hampton Monroe))
+			       ,
+			       and
+			       (NP Mrs. Monroe))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  (ADVP Only)
+       (NP (NP the families)
+	   and
+	   (NP a dozen close friends)))
+  (AUX will)
+  (VP be
+      (ADJP present)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP 
+       (NP The bride)
+       's brother)
+      ,
+      (NP Walter D. Monroe Jr.)
+      ,)
+  (AUX will)
+  (VP give
+      (NP her)
+      (PP in
+	  (NP marriage))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV 
+   (PP In
+       (NP the small group))
+   (AUX will)
+   (VP be)
+   (NP (NP the
+	   (ADJP junior and senior)
+	   Mrs. Walter Monroe)
+	   ;
+	   ;
+	   (NP (NP 
+		(NP the bridegroom)
+		's parents)
+	       ,
+	       (NP (NP the Barrett Wendells)
+		   ,
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (AUX are)
+		       (VP returning
+			   (PP from
+			       (NP a winter holiday
+				   (PP in
+				       (NP (NP Sarasota)
+					   ,
+					   (NP Fla.))))))
+		       ,
+		       (PP for
+			   (NP the occasion))))))
+	   ;
+	   ;
+	   and
+	   (NP (NP (NP (NP his brother)
+		       ,
+		       (NP Mr. Wendell Jr.))
+		   ,
+		   and
+		   (NP his wife))
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (AUX will)
+		   (VP arrive
+		       (PP from
+			   (NP Boston))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mr. Wendell Jr.)
+   (AUX will)
+   (VP be
+       (NP  best
+	    man)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Also)
+	 (ADJP present)
+	 (AUX will)
+	 (VP be)
+	 (NP (NP 
+	      (NP the bride)
+	      's children)
+	     ,
+	     (NP (NP (NP Joan)
+		     ,
+		     (NP 13))
+		 ,
+		 and
+		 (NP (NP Kirkland)
+		     ,
+		     (NP 11)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their father)
+   (VP is
+       (NP Charles B. Armour)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The bridegroom)
+    's children)
+   (X (VP were
+	  (ADVP here)
+	  (PP for
+	      (NP the Christmas holidays)))
+      and
+      (X  
+       (AUX ca)
+       (NEG n't)
+       (VP return))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (NP Young Peter Wendell)
+	 ,
+	 (NP a student
+	     (PP at
+		 (NP the Westminster school)))
+	 ,)
+     (VP has
+	 (NP measles)))
+    ,
+    and
+    (S (NP (NP (NP (NP his sister)
+		   ,
+		   (NP Mrs. Andrew Thomas)
+		   ,)
+	       and
+	       (NP her husband))
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP live
+		   (PP in
+		       (NP (NP Missoula)
+			   ,
+			   (NP Mont.))))))
+	   ,)
+       (VP have
+	   (NP a new baby))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their mother)
+   (VP is
+       (NP Mrs. Camilla Alsop Wendell)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mr. Wendell)
+      and
+      (NP his bride))
+  (AUX will)
+  (VP live
+      (PP in
+	  (NP his Lake Forest house))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX will)
+   (VP take
+       (NP a wedding trip))
+   (ADVP later))
+  .)
+(  END_OF_TEXT_UNIT)
+((X  '
+    (ADVP back)
+    (PP with
+	(NP the Met))))
+((S  ``
+      (S (NP We)
+	 (VP are
+	     (ADVP  back)
+	     (PP with
+		 (NP the
+		     '
+		     Met
+		     '))
+	     (ADVP again))
+	 (ADVP now
+	       (SBAR that
+		     (S (NP the
+			    '
+			    Met
+			    ')
+			(VP is
+			    (ADVP  back)
+			    (PP in
+				(NP Chicago)))))))
+      ''
+      ,
+      (SINV  
+       (VP bulletins)
+       (NP (NP Mrs. Frank S. Sims)
+	   ,
+	   (NP president
+	       (PP of
+		   (NP 
+		    (NP the women)
+		    's board
+		    (PP of
+			(NP the  (NP University
+				     (PP of
+					 (NP Chicago)))
+			    Cancer Research Foundation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The New York Metropolitan Opera Company)
+      (AUX will)
+      (VP be
+	  (ADVP here)
+	  (PP in
+	      (NP May))))
+     ,
+     and
+     (S (NP the board)
+	(AUX will)
+	(VP sponsor
+	    (NP  the
+		 (NP (NP  Saturday night)
+		     ,
+		     (NP  May
+			  13)
+		     ,)
+		 performance
+		 (PP of
+		     (NP  ``
+			  Turandot
+			  '')))
+	    (PP as
+		(NP a benefit)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Birgit Nilsson)
+   (AUX will)
+   (VP be
+       (VP starred
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (NP *) 
+	    (VP Housed
+		(PP in
+		    (NP the
+			(ADJP new)
+			McCormick Place theater))))
+	 ,
+	 (S (NP this)
+	    (AUX should)
+	    (VP prove
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (NP an exciting evening))))))
+      ''
+      ,
+      (SINV  
+       (VP adds)
+       (NP Mrs. Sims)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP 
+     (NP The board)
+     's last 
+     (ADJP money
+	   raising)
+     event)
+    (VP was
+	(NP (NP a performance
+		(PP by
+		    (NP Harry Belafonte)))
+	    --
+	    (SINV   ``
+		    (ADJP  (ADVP quite)
+			   off-beat
+			   (PP for
+			       (NP this group)))
+		    ''
+		    ,
+		    (VP decided)
+		    (NP some
+			(PP of
+			    (NP the members)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mrs. Henry T. Sulcer
+	  (PP of
+	      (NP Winnetka)))
+      ,
+      (NP a new board member)
+      ,)
+  (AUX will)
+  (VP be
+      (NP chairman
+	  (PP of
+	      (NP publicity))
+	  (PP for
+	      (NP the benefit)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her husband)
+   (ADVP recently)
+   (AUX was)
+   (VP appointed
+       (NP vice president
+	   (PP of
+	       (NP the university)))
+       ,
+       (S (NP *) 
+	  (VP bringing
+	      (NP them)
+	      (ADVP back
+		    here
+		    (PP from
+			(NP the
+			    east)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Parichy-Hamm))
+(  
+ (S  (ADVP Because
+	   (PP of
+	       (NP the recent death
+		   (PP of
+		       (NP (NP 
+			    (NP the bride)
+			    's father)
+			   ,
+			   (NP Frederick B. Hamm)
+			   ,)))))
+     (S (NP the marriage
+	    (PP of
+		(NP Miss Terry Hamm))
+	    (PP to
+		(NP John Bruce Parichy)))
+	(AUX will)
+	(VP be
+	    (NP a
+		(ADJP small)
+		one)
+	    (PP at
+		(NP noon))
+	    (NP tomorrow)
+	    (PP in
+		(NP (NP 
+		     (NP St. Bernadine)
+		     's church)
+		    ,
+		    (NP Forest Park))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A small reception)
+   (AUX will)
+   (VP follow)
+   (PP in
+       (NP the Oak Park Arms hotel)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mrs. Hamm)
+   (AUX will)
+   (NEG not)
+   (VP come
+       (PP from
+	   (NP (NP Vero Beach)
+	       ,
+	       (NP Fla.)
+	       ,))
+       (PP for
+	   (NP the wedding))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP (NP Mr. Parichy)
+	     and
+	     (NP his bride))
+	 (X (X (AUX will)
+	       (VP go
+		   (PP to
+		       (NP Vero Beach)))
+	       (PP on
+		   (NP their wedding trip)))
+	    ,
+	    and
+	    (X  
+	     (AUX will)
+	     (VP stay
+		 (PP in
+		     (NP 
+		      (NP the John G. Beadles)
+		      ' beach house)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Beadles)
+   (ADVP formerly)
+   (VP lived
+       (PP in
+	   (NP Lake Forest))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Harvey B. Stevens
+       (PP of
+	   (NP Kenilworth)))
+   (AUX will)
+   (VP give
+       (NP his niece)
+       (PP in
+	   (NP marriage))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mr.
+	  and
+	  Mrs. Stevens)
+      and
+      (NP (NP 
+	   (NP the bride)
+	   's other uncles and aunts)
+	  ,
+	  (NP (NP the Rush C. Butlers)
+	      ,
+	      (NP the Homer E. Robertsons)
+	      ,
+	      and
+	      (NP the David Q. Porters))
+	  ,))
+  (AUX will)
+  (VP give
+      (NP the bridal dinner))
+  (NP tonight)
+  (PP in
+      (NP 
+       (NP the Stevenses)
+       ' home)))
+ .)
+(  END_OF_TEXT_UNIT)
+((ADVP Here and there))
+((S (NP The Chicago Press club)
+    (AUX will)
+    (VP fete
+	(NP (NP George E. Barnes)
+	    ,
+	    (NP president
+		(PP of
+		    (NP the United States Lawn Tennis association)))
+	    ,))
+    (PP at
+	(NP (NP a  cocktail party and buffet supper)
+	    (VP beginning
+		(PP at
+		    (NP 5:30 p.m.))
+		(NP tomorrow)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Later)
+      ,
+      (S (NP a bus)
+	 (AUX will)
+	 (VP carry
+	     (NP members)
+	     (PP to
+		 (NP the Chicago Stadium))
+	     (S (NP *)
+		(AUX to)
+		(VP see
+		    (NP 
+		     (NP Jack Kramer)
+		     's professional tennis matches))
+		(PP at
+		    (NP 8
+			p.m
+			.))))))
+  .
+  )
+( (S  (PP With
+	  (S (NP loud huzzahs
+		 (PP for
+		     (NP the artistic success
+			 (PP of
+			     (NP the  (NP Presbyterian-St
+					  .
+					  Luke)
+				 's Fashion show)))))
+	     (VP  (ADVP still)
+		  ringing
+		  (PP in
+		      (NP her ears)))))
+      ,
+      (S  
+       (NP (NP its director)
+	   ,
+	   (NP (NP Helen Tieken Geraghty)
+	       *LRB*
+	       (NP Mrs. Maurice P. Geraghty)
+	       *RRB*))
+       (AUX is)
+       (VP taking
+	   (PRT off)
+	   (NP tomorrow)
+	   (PP on
+	       (NP (NP a  56 day world trip)
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (AUX should)
+		       (VP earn
+			   (NP her)
+			   (NP (ADJP (ADVP even)
+				     greater)
+			       acclaim
+			       (PP as
+				   (NP director
+				       (PP of
+					   (NP entertainment))
+				       (PP for
+					   (NP 
+					    (NP next summer)
+					    's International Trade fair)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Armed
+	  (PP with
+	      (NP letters
+		  (PP from
+		      (NP embassies))
+		  (PP to
+		      (NP ministers
+			  (PP of
+			      (NP (NP countries)
+				  ,
+				  (NP  (ADVP especially)
+				       those
+				       (PP in
+					   (NP the
+					       (ADJP near and
+						     far)
+					       east)))))))))))
+   ,
+   (S (NP Mrs. Geraghty)
+      ``
+      (AUX will)
+      (VP beat
+	  (NP the bushes)
+	  (PP for
+	      (NP oriental talent)))
+      ''))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S  (NP (NP We)
+		 *LRB*
+		 (NP the Chicago Association
+		     (PP of
+			 (NP (NP Commerce)
+			     and
+			     (NP Industry))))
+		 *RRB*)
+	     (VP expect
+		 (S (NP *)
+		    (AUX to)
+		    (VP establish
+			(NP 
+			 (ADJP closer)
+			 relations
+			 (PP with
+			     (NP (NP nations)
+				 and
+				 (NP their cultural activities))))))))
+	 ,
+	 and
+	 (S (NP it
+		(S-1 *pseudo-attach*))
+	    (AUX will)
+	    (VP be
+		(ADJP easy))
+	    (PP as
+		(NP a member
+		    (PP of
+			(NP the fair staff))))
+	    (S-1 (NP *)
+	       (AUX to)
+	       (VP bring
+		   (PRT in)
+		   (NP acts)))))
+      ''
+      ,
+      (SINV  
+       (VP explains)
+       (NP Mrs. Geraghty)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  
+    (PP For
+	(NP instance))
+    ,
+    (S (NP (NP Djakarta)
+	   ,
+	   (NP Indonesia)
+	   ,)
+       (VP has
+	   (NP three groups
+	       (PP of
+		   (NP (NP dancers)
+		       (VP interested
+			   (PP in
+			       (S (NP *) 
+				  (VP coming
+				      (ADVP here)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX 'm)
+    (ADVP even)
+    (VP going
+	(S (NP *)
+	   (AUX to)
+	   (VP try
+	       (S (NP *)
+		  (AUX to)
+		  (VP get
+		      (NP the whirling dervishes
+			  (PP of
+			      (NP Damascus)))))))))
+ ''
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The last obstacle
+       (PP in
+	   (NP 
+	    (NP Mrs. Geraghty)
+	    's (ADJP globe-girdling) trip)))
+   (AUX was)
+   (VP smoothed
+	     
+       (PRT out))
+   (SBAR 
+    (WHADVP when)
+    (S (NP a representative
+	   (PP of
+	       (NP Syria)))
+       (VP called
+	   (PP upon
+	       (NP her))
+	   (S (NP *)
+	      (AUX to)
+	      (VP explain
+		  (SBAR  that
+			 (S (NP his brother)
+			    (AUX would)
+			    (VP meet
+				(NP her)
+				(PP at
+				    (NP the border
+					(PP of
+					    (NP (NP that country)
+						--
+						(VP  (ADVP  so
+							    newly)
+						     separated
+						     (PP from
+							 (NP (NP Egypt)
+							     and
+							     (NP the United Arab Republic)))
+						     (SBAR that
+							   (S (NP she)
+							      (AUX had)
+							      (NEG n't)
+							      (VP been
+								  (ADJP able
+									(S (NP *)
+									   (AUX to)
+									   (VP obtain
+                                                                               (NP a visa)))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP First)
+      ,
+      (S (NP Honolulu Honolulu)
+	 (AUX will)
+	 (VP be
+	     (NP 
+	      (NP Mrs. Geraghty)
+	      's first stop))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X   Then
+	(NP (NP Japan)
+	    ,
+	    (NP Hong Kong)
+	    ,
+	    (NP Manila)
+	    ,
+	    (NP India)
+	    ,
+	    (NP Pakistan)
+	    ,
+	    (NP Damascus)
+	    ,
+	    (NP Beirut))
+	,
+	and
+	(PP to
+	    (NP (NP Rome)
+		,
+		(NP London)
+		,
+		and
+		(NP Paris)))
+	(S  ``
+	    (NP *)
+	    (AUX to)
+	    (VP look
+		(PP over
+		    (NP wonderful talent)))
+	    ''))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Dec. 22)
+      (VP is
+	  (NP the deadline
+	      (PP for
+		  (NP 
+		   (NP Mrs. Geraghty)
+		   's return)))))
+   ;
+   ;
+   (S (NP (NP 
+	   (NP the Geraghtys)
+	   '
+	   (ADJP youngest)
+	   daughter)
+	  ,
+	  (NP Molly)
+	  ,)
+      (VP bows
+	  (PP in
+	      (NP the Passavant Debutante Cotillion)))
+      (NP the next night)))
+  
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (S (NP Molly)
+	 (ADVP already)
+	 (VP has
+	     (NP her cotillion gown)))
+      ,
+      and
+      (S (NP it)
+	 (AUX 's)
+	 (VP fitted)))
+     ,
+     (SINV  
+      (VP says)
+      (NP her mother)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      ,
+      (S (NP invitations
+	     (PP-1 *pseudo-attach*))
+	 (AUX have)
+	 (VP been
+	     (VP addressed
+		 ))
+	 (PP-1 to
+	       (NP 
+		(NP Molly)
+		's debut tea
+		(NP the afternoon
+		    (PP of
+			(NP Dec. 29)))
+		(PP in
+		    (NP the Arts
+			club))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP It)
+    (AUX wo)
+    (NEG n't)
+    (VP be
+	(NP (NP a
+		``
+		tea
+		'')
+	    ,
+	    (ADVP however)
+	    ,
+	    but
+	    (NP  more
+		 (PP of
+		     (NP (NP an international folk song festival)
+			 ,
+			 (PP with
+			     (S (NP singers
+				    (PP from
+					(NP 
+					 (NP Chicago)
+					 's foreign groups)))
+				(AUX to)
+				(VP sing
+				    (NP Christmas songs
+					(PP from
+					    (PP around
+						(NP the world)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The international theme)
+   (AUX will)
+   (VP be
+       (VP continued
+	   (PP with
+	       (S (NP the Balkan strings)
+		  (VP playing
+		      (PP for
+			  (NP (NP a dinner)
+			      (SBAR 0
+				    (S
+				     (NP the Byron Harveys)
+				     (AUX will)
+				     (VP give
+					 (NP T))
+				     (PP in
+					 (NP the Racquet club))
+				     (PP after
+					 (NP the tea))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Miss Abra Prentice)
+    's debut supper dance
+    (PP in
+	(NP the Casino)))
+   (AUX will)
+   (VP wind
+       (PRT up)
+       (NP the day)))
+  .)
+(  END_OF_TEXT_UNIT)
+(   (NP Burke-Rostagno))
+( (S
+   (NP 
+    (NP The Richard S. Burkes)
+    ' home
+    (PP in
+	(NP Wayne)))
+   (AUX may)
+   (VP be
+       (NP the setting
+	   (PP for
+	       (NP the wedding reception
+		   (PP for
+		       (NP (NP (NP their daughter)
+			       ,
+			       (NP Helen Lambert)
+			       ,)
+			   and
+			   (NP (NP the
+				   (ADJP young)
+				   Italian)
+			       (SBAR 0
+				     (S (NP she)
+					(VP met
+					    (NP last year))
+					(SBAR while
+					      (S  (NP *) 
+						  (VP studying
+						      (PP in
+							  (NP Florence)))
+						  (PP during
+						      (NP her junior year
+							  (PP at
+							      (NP Smith college))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP is
+       (NP (NP Aldo Rostagno)
+	   ,
+	   (NP son
+	       (PP of
+		   (NP (NP the Guglielmo Rostagnos
+			   (PP of
+			       (NP Florence)))
+		       (SBAR (WHNP whom)
+			     (S
+			      (NP the Burkes)
+			      (VP met
+				  (NP T))
+			      (NP last year)
+			      (PP in
+				  (NP Europe))))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The Burkes)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S   (NP T) 
+	    (ADVP now)
+	    (VP live
+		(PP in
+		    (NP Kankakee)))))
+      ,)
+  (AUX are)
+  (VP telling
+      (NP friends)
+      (PP of
+	  (NP the engagement))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Miss Burke)
+      ,
+      (NP a graduate
+	  (PP of
+	      (NP 
+	       (NP Miss Hall)
+	       's school)))
+      ,)
+  (VP stayed
+      (PRT on)
+      (PP in
+	  (NP Florence))
+      (PP as
+	  (NP a career girl))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Her fiance)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP is
+	      (PP with
+		  (NP a publishing firm)))))
+      ,)
+  (VP translates
+      (NP many books)
+      (PP from
+	  (NP English))
+      (PP into
+	  (NP Italian))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX will)
+   (VP be
+       (VP coming
+	   (ADVP here)
+	   (PP on
+	       (NP business))))
+   (PP in
+       (NP (NP December)
+	   ,
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP the wedding)
+	       (VP is
+		   (S (NP *)
+		      (AUX to)
+		      (VP take
+			  (NP place))
+		      (PP in
+			  (NP Wayne)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Miss Burke)
+   (AUX will)
+   (VP arrive)
+   (PP in
+       (NP December))
+   (ADVP also))
+  .)
+(  END_OF_TEXT_UNIT)
+((ADVP Here and there))
+((S  
+    (NP (NP A farewell supper)
+	(SBAR 0
+	      (S (NP (NP Mr.)
+		     and
+		     (NP Mrs. Charles H. Sethness Jr.))
+		 (VP planned
+		     (NP T) 
+		     (NP Sunday)
+		     (PP for
+			 (NP (NP  Italian
+				  Consul General)
+			     and
+			     (NP Mrs. Giacomo Profili)))))))
+    (AUX has)
+    (VP been
+	(VP canceled
+	    ))
+    (SBAR because
+	  (S (NP Mr. Sethness)
+	     (VP is
+		 (PP in
+		     (NP Illinois Masonic hospital)
+		     (PP for
+			 (NP surgery)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mrs. William Odell)
+      ,
+      (NP Mrs. Clinton B. King)
+      ,
+      (NP John Holabird Jr.)
+      ,
+      (NP Norman Boothby)
+      ,
+      and
+      (NP Actress Maureen O'Sullivan))
+  (AUX will)
+  (VP judge
+      (NP the costumes)
+      (PP in
+	  (NP the grand march)))
+  (PP at
+      (NP the Affaire Old Towne Bal Masque
+	  (NP tomorrow)
+	  (PP in
+	      (NP the Germania club)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The party)
+   (VP is
+       (S (S (NP *)
+	     (AUX to)
+	     (VP raise
+		 (NP money)
+		 (PP for
+		     (NP the Old Town Art center))))
+	  and
+	  (S (NP *)
+	     (AUX to)
+	     (VP plant
+		 (NP 
+		  (ADJP more)
+		  crabapple trees)
+		 (PP along
+		     (NP the streets
+			 (PP of
+			     (NP Old Town)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((X  
+ (VP Lyon
+     (ADVP around))
+ :))
+((S (NP (NP Columnist Walter Winchell)
+	 ,
+	 (ADJP well and rat-a-tat-tatty
+	       (ADVP again))
+	 ,)
+     (VP wheeled
+	 (PP thru
+	     (NP town)))
+     (PP between
+	 (NP trains))
+     (NP yesterday)
+     (PP en
+	 (NP  route
+	      (PP to
+		  (NP his (NP (NP Phoenix)
+			      ,
+			      (NP Ariz.)
+			      ,)
+		      rancho))))
+     ,
+     (X (NP portable typewriter)
+	(PP in
+	    (NP hand))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR If
+	 (S (NP W. W.)
+	    (AUX 's)
+	    (VP retiring)
+	    (ADVP soon)
+	    ,
+	    (PP as
+		(S (NP *) 
+		   (VP hinted)))))
+   ,
+   (S (NP he)
+      (AUX ai)
+      (NEG n't)
+      (VP talking)
+      --
+      (ADVP yet)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Pretty Sunny Ainsworth)
+	,
+	(NP (NP the ex-Mrs
+		.
+		Tommy Manville)
+	    and
+	    (NP the ex-Mrs
+		.
+		Bud Arvey))
+	,)
+    (VP joined
+	(NP Playboy-Show-Biz Illustrated)
+	,
+	(PP as
+	    (NP a promotional copy writer))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP She)
+ (VP 's
+     (NP a whiz))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX can)
+   (VP get
+       (PP into
+	   (NP an argument
+	       (PP about
+		   (NP fallout shelters)))))
+   (PP at
+       (NP the drop
+	   (PP of
+	       (NP a beer stein))))
+   (PP in
+       (NP (NP clubs) and (NP pubs)))
+   (NP these nights))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Everybody)
+    (VP has
+	(NP a different idea
+	    (PP on
+		(NP the ethics and morals
+		    (PP of
+			(S  (NP *) 
+			    (VP driving
+				(ADVP away)
+				(NP neighbors))
+			    ,
+			    (X (WHADVP when)
+			       and
+			       (X if)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Comic Gary Morton)
+   (VP signed
+       (S (NP *)
+	  (AUX to)
+	  (VP play
+	      (NP the Living Room))
+	  (ADVP here)
+	  (NP Dec. 18)))
+   ,
+   (SBAR because
+	 (S (NP that)
+	    (VP 's
+		(NP (NP the only time)
+		    (SBAR 0
+			  (S (NP (NP his heart)
+				 ,
+				 (NP Lucille Ball)
+				 ,)
+			     (AUX can)
+			     (VP come
+				 (ADVP along)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S  (NP *) 
+	  (VP watch
+	      (PP for
+		  (NP a headline
+		      (PP from
+			  (NP this pair)))))
+	  (NP any time
+	      (ADVP now))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Living Room)
+      (VP has
+	  (NP another scoop)))
+     :
+     (S (NP Jane Russell)
+	(AUX will)
+	(VP make
+	    (NP one
+		(PP of
+		    (NP her rare night club
+			singing
+			appearances)))
+	    (ADVP there))
+	,
+	(VP opening
+	    (NP Jan. 22))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   (NP La Russell)
+   's run
+   (PP in
+       (NP (NP  ``
+		Skylark
+		'')
+	   ,
+	   (VP debuting
+	       (NP next week)
+	       (PP at
+		   (NP Drury Lane)))
+	   ,)))
+  (ADVP already)
+  (VP is
+      (NP a sellout)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Johnny Ray)
+      ,
+      (PP at
+	  (NP the
+	      (ADJP same)
+	      L.R.))
+      ,)
+  (VP has
+      (NP (NP something)
+	  (S (NP *)
+	     (AUX to)
+	     (VP cry
+		 (PP about
+		     (NP T) ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX 's)
+      (VP  been
+	   (VP warbling
+	       (PP in
+		   (NP severe pain)))))
+     ;
+     ;
+     (S (S (NP
+	    (NP a medico)
+	    's injection)
+	   (VP inflamed
+	       (NP a nerve)))
+	,
+	and
+	(S (NP Johnny)
+	   (AUX can)
+	   (ADVP barely)
+	   (VP walk))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Charley Simonelli)
+      ,
+      (NP 
+       (ADJP top)
+       Universal-International film studio exec)
+      ,)
+  (VP makes
+      (NP an honest man)
+      (PP out
+	  (PP of
+	      (NP this column)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S (NP we)
+	  (VP bulletin
+	      'd)
+	  (ADVP way
+		back)))
+   ,
+   (S (NP he)
+      (AUX 'll)
+      (VP wed
+	  (NP (NP (ADJP pretty)
+		  Rosemary Strafaci)
+	      ,
+	      (PP of
+		  (NP the Golf Mag staff))
+	      ,))
+      (PP in
+	  (NP N))
+      (NP today)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Handsome bachelor
+	 (NP Charley))
+    (VP was
+	(NP a favorite date
+	    (PP of
+		(NP many
+		    (PP of
+			    
+			(NP 
+			 (NP Hollywood)
+			 's glamor gals))))))
+    (PP for
+	(NP years)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP George Simon)
+      ,
+      (NP exec director
+	  (PP of
+	      (NP Danny Thomas A.L
+		  *LRB*
+		  Aiding Leukemia Stricken American Children
+		  *RRB*
+		  fund
+		  raising
+		  group)))
+      ,)
+  (VP filled
+      (NP me)
+      (PRT in)
+      (PP on
+	  (NP (NP the (ADJP low-down) phonies)
+	      (SBAR 
+	       (WHNP who)
+	       (S (NP T)
+		  (AUX are)
+		  (VP using
+		      (NP phones)
+		      (S (NP *)
+			 (AUX to)
+			 (VP solicit
+			     (NP funds
+				 (PP for
+				     (NP 
+				      (NP Danny)
+				      's St. Jude hospital
+				      (PP in
+					  (NP Memphis))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP no such thing
+	   (PP as
+	       (NP an
+		   ``
+		   emergency telephone building fund drive
+		   '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The
+	    only current
+	    event)
+	(SBAR 0
+	      (S (NP they)
+		 (AUX 're)
+		 (VP staging
+		     (NP T) ))))
+    (VP is
+	(NP the big show
+	    (PP at
+		(NP the Stadium))
+	    (NP (NP Nov. 25)
+		,
+		(SBAR 
+		 (WHADVP when)
+		 (S (NP Danny)
+		    (AUX will)
+		    (VP entertain
+			(NP thousands
+			    (PP of
+				(NP (ADJP underprivileged) kids))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX can)
+   (VP mail
+       (NP contribs)
+       (PP to
+	   (NP (NP Danny Thomas)
+	       ,
+	       (NP (NP Post Office Box 7599)
+		   ,
+		   (NP Chicago))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP So)
+      ,
+      (SBAR if
+	    (S (NP anybody)
+	       (VP solicits
+		   (PP by
+		       (NP phone)))))
+      ,
+      (S (NP *)  
+	 (VP make
+	     (ADJP sure
+		   (SBAR 0
+			 (S (NP you)
+			    (VP mail
+				(NP the dough)
+				(PP to
+				    (NP the
+					(ADJP above))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Olivia De Havilland)
+   (VP signed
+       (S (NP *)
+	  (AUX to)
+	  (VP do
+	      (NP (NP a Broadway play)
+		  (NP-1 *pseudo-attach*))
+	      (PP for
+		  (NP Garson Kanin)))
+	  (NP this season)
+	  ,
+	  (NP-1  ``
+		 A Gift
+		 (PP of
+		     (NP Time))
+		 ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (AUX 'll)
+   (VP move
+       (PP to
+	   (VP Gotham)))
+   (PP after
+       (NP years
+	   (PP in
+	       (NP Paris)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP (ADJP Gorgeous) Doris Day)
+       and
+       (NP (NP her
+	       producer-hubby)
+	   ,
+	   (NP Marty Melcher)
+	   ,))
+   (VP  drive
+	(ADVP in)
+	(NP today)
+	(PP from
+	    (NP a motor tour
+		(PP thru
+		    (NP New England))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP D.D.)
+   (AUX will)
+   (VP pop
+       (PRT up)
+       (PP with
+	   (NP U-I Chief (NP Milt Rackmil))))
+   (PP at
+       (NP the Carnegie theater))
+   (NP tomorrow)
+   (S (NP *)
+      (AUX to)
+      (VP toast
+	  (NP 300 movie exhibitors))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX 'll)
+   (VP be
+       (NP an
+	   all day affair
+	   (PP with
+	       (NP screenings
+		   (PP of
+		       (NP (NP (NP 
+				(NP Doris)
+				'
+				(ADJP new)
+				one)
+			       ,
+			       (NP  ``
+				    Lover Come Back
+				    ''))
+			   ,
+			   and
+			   (NP  ``
+				Flower Drum Song
+				''))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (NP (NP Whee)
+	(NP the People))
+    :)
+((S (NP Lovely (NP Thrush Annamorena))
+    (VP gave
+	(PRT up)
+	(NP a (ADJP promising) show biz career))
+    (S (NP *)
+       (AUX to)
+       (VP apply
+	   (NP glamor touches)
+	   (PP to
+	       (NP 
+		(NP  (NP her hubby)
+		     ,
+		     (NP Ray Lenobel))
+		's fur firm
+		(ADVP here))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Typical touch)
+  :)
+(  
+ (S (NP She)
+    (VP sold
+	(NP a
+	    $ 10,000
+	    morning light mink)
+	(PP to
+	    (NP Sportsman Freddie Wacker))
+	(PP for
+	    (NP (NP (NP his frau)
+		    ,
+		    (NP Jana Mason)
+		    ,)
+		(ADVP also)
+		(NP an ex-singer)
+		(X .))))
+    (PP In
+        (NP honor
+            (PP of
+                (NP 
+		 (NP the Wackers)
+		 ' new baby)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X  (PP Fur
+	  (NP goodness sake)))
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Emcee Jack Herbert)
+    (VP insists
+	(SBAR 0
+	      (S (NP 
+		  (NP Dick Nixon)
+		  's campaign slogan
+		  (PP for
+		      (NP governor
+			  (PP of
+			      (NP California)))))
+		 (VP is
+		     ,
+		     ``
+		     (S (NP Knight)
+			(AUX Must)
+			(NP Fall))
+		     '')))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Give
+	  (ADVP generously))
+      (SBAR 
+       (WHADVP when)
+       (S (NP you)
+	  (VP buy
+	      (NP candy)
+	      (NP today)
+	      (PP for
+		  (NP the Brain Research Foundation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP It)
+      (VP 's
+	  (NP one
+	      (PP of
+		  (NP 
+		   (NP our town)
+		   's
+		   (ADJP worthiest)
+		   charities)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP Best
+	 Bet
+	 (PP for
+	     (NP Tonight)))
+     :
+     (NP (NP (NP That darlin
+		 '
+		 dazzler
+		 (PP from
+		     (NP Paree)))
+	     ,
+	     (NP Genevieve)
+	     ,)
+	 (VP opening
+	     (PP in
+		 (NP the Empire room)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Dave Trager)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP is
+	      (NP (NP  (ADVP quite) a showman )
+		  and
+		  (NP boss
+		      (PP of
+			  (NP 
+			   (NP Chicago)
+			   's
+			   new pro
+			   basketball
+			   Packers)))))))
+      ,)
+  (AUX is)
+  (VP debuting
+      (NP  a
+	   new International
+	   club
+	   ,
+	   (PP for
+	       (NP the exclusive use
+		   (PP of
+		       (NP season ticket holders))))
+	   ,
+	   (PP in
+	       (NP the Stock Yards Inn)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Jump
+      off)
+  (VP is
+      (NP (NP tomorrow night)
+	  (SBAR 
+	   (WHADVP when)
+	   (S (NP the Packs)
+	      (VP meet
+		  (NP St. Louis))
+	      (PP in
+		  (NP their season home opener)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (S (NP Nobody)
+	(AUX 's)
+	(VP mentioned
+	    (NP it)))
+     ,
+     but
+     (S (SBAR (WHADVP when)
+	      (S (NP   ol
+		       '
+		       Casey Stengel)
+		 (VP takes
+		     (PRT over)
+		     (PP as
+			 (NP boss
+			     (PP of
+				 (NP the New York Mets)))))))
+	,
+	(S (NP he)
+	   (AUX 'll)
+	   (VP be
+	       (NP (NP the only baseballight)
+		   (S  (NP *) 
+		       (ADVP ever)
+		       (AUX to)
+		       (VP wear
+			   (NP the uniform
+			       (PP of
+				   (NP (NP (NP all New York area clubs)
+					   ,
+					   (ADJP  past
+						  and
+						  present))
+				       :
+				       (NP (NP Yankees)
+					   ,
+					   (NP Dodgers)
+					   ,
+					   (NP Giants)
+					   ,
+					   and
+					   (ADVP now)
+					   (NP the Mets))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP Bernie Kriss)
+	 (VP calls
+	     (NP the bayonet clashes
+		 (PP at
+		     (NP 
+		      (NP Berlin)
+		      's
+		      Brandenburg Gate)))
+	     ,
+	     (NP  ``
+		  The Battle
+		  (PP of
+		      (NP the Sentry))
+		  ''))))
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The
+     (ADJP jotted)
+     Lyon)
+ :)
+((S  
+  (NP This mad world dept.)
+  :
+  (S (NP (NP (NP Khrush)
+	     and
+	     (NP the Kremlin crowd)))
+     (VP are
+	 (ADJP confident)
+	 (ADVP all
+	       right))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP They)
+      (AUX 're)
+      (VP contaminating
+	  (NP (NP 
+	       (NP the earth)
+	       's atmosphere)
+	      (VP including
+		  (NP their
+		      (ADJP own))))
+	  (PP via
+	      (NP mighty megaton bombs))))
+   but
+   (S (NP their own peasants)
+      (ADVP still)
+      (AUX do)
+      (NEG n't)
+      (VP know
+	  (PP about
+	      (NP it)))))
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X (ADVP More)
+      :
+      (PP On
+	  (NP the free world side)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Albert John Luthuli)
+      ,
+      (VP awarded
+	  (NP a Nobel prize
+	      (PP for
+		  (NP his South African integration struggles))))
+      ,)
+  (VP has
+      (S (NP *)
+	 (AUX to)
+	 (VP get
+	     (NP permission
+		 (S (NP *)
+		    (AUX to)
+		    (VP fly)
+		    (S (NP *)
+		       (AUX to)
+		       (VP collect
+			   (NP his honor)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((INTJ Hmpf))
+(  
+ (S  But
+     (PP on
+	 (PP to
+	     (NP the
+		 (ADJP frothier)
+		 side)))
+     (S (NP (NP Johnny Weissmuller)
+	    ,
+	    (NP the
+		(ADVP only)
+		(ADJP real)
+		Tarzan)
+	    ,)
+	(VP (VP telephoned
+		(NP (NP Maureen O'Sullivan)
+		    ,
+		    (NP his
+			(ADJP first)
+			``
+			Jane
+			'')
+		    *LRB*
+		    (ADVP now)
+		    (PP at
+			(NP Drury Lane))
+		    *RRB*))
+	    and
+	    (VP muttered
+		,
+		``
+		(X  (X (NP Me)
+		       (NP Tarzan))
+		    ,
+		    (X (NP this)
+		       (NP Jane)))
+		''))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (VP Snapped)
+	(NP Maureen)
+	,
+	``
+	(X (NP Me)
+	   (NP Jane))
+	'')
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Actually)
+     (S (NP Johnny)
+	(VP is
+	    (NP a
+		glib
+		,
+		garrulous
+		guy
+		,
+		(PP with
+		    (NP a rare sense
+			(PP of
+			    (NP humor))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Everywhere
+	    (SBAR 0
+		  (S (NP he)
+		     (VP went
+			 (PP in
+			     (NP town))))))
+      ,
+      (S (NP people)
+	 (VP (VP sidled
+		 (PRT up))
+	     ,
+	     (VP gave
+		 (NP him)
+		 (NP the guttural bit))
+	     or
+	     (VP broke
+		 (PP into
+		     (NP a
+			 (ADJP frightening)
+			 Tarzan yodel))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP kids
+       (NP his Tarzan roles)
+       (ADVP  more
+	      (PP than
+		  (NP anyone)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP  ``
+	   La Dolce Vita
+	   '')
+      ,
+      (NP the dynamite Italian flicker)
+      ,)
+  (VP opens
+      (PP at
+	  (NP popular prices)))
+  (PP at
+      (NP the Loop theater))
+  (NP Nov. 2))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP My idea
+      (PP of
+	  (NP masterful movie
+	      making)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP Bill Veeck)
+       's health)
+      (VP is
+	  (ADVP  back
+		 (PP to
+		     (NP the dynamo stage)))))
+     ,
+     but
+     (S (NP his medics)
+	(VP insist
+	    (SBAR 0
+		  (S (NP he)
+		     (VP rest
+			 (PP for
+			     (NP several more months)))
+		     (PP before
+			 (S (NP *) 
+			    (VP getting
+				(ADVP back)
+				(PP into
+				    (NP the baseball swim))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP William)
+      (VP keeps
+	  (PRT up)
+	  (PP with
+	      (NP 
+	       (NP our town)
+	       's doings))
+	  (ADVP daily))
+      ,
+      (PP via
+	  (NP the Tribune)))
+     ,
+     and
+     (S (NP he)
+	(VP tells
+	    (NP me)
+	    (SBAR 0
+		  (S
+		   (NP he)
+		   (ADVP never)
+		   (VP misses
+		       (NP the Ticker)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP That)
+    (VP 's
+	(NP (NP our boy)
+	    (NP Bill))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   (NP Jean Fardulli)
+   's
+   Blue Angel)
+  (VP is
+      (NP the first top local club
+	  (S (NP *)
+	     (AUX to)
+	     (VP import
+		      
+		 (NP  (NP that
+			  crazy new
+			  dance)
+		      ,
+		      (NP the Twist)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX 'll)
+   (VP start
+       (NP lessons)
+       ,
+       (ADVP too))
+   ,
+   (ADVP pronto))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP A cheer
+     (ADVP here)
+     (PP for
+	 (NP (NP (NP Francis Lorenz)
+		 ,
+		 (NP state treasurer)
+		 ,)
+	     (SBAR  
+	      (WHNP who)
+	      (S (NP T)
+		 (AUX will)
+		 (VP meet
+		     (PP with
+			 (NP the probate advisory board
+			     (PP of
+				 (NP the Chicago Bar association))))
+		     ,
+		     (PP for
+			 (NP suggestions
+			     (PP on
+				 (SBAR (WHADVP how)
+				       (S (NP *)
+					  (AUX to)
+					  (VP handle
+					      (NP the opening
+						  (PP of
+						      (NP safety deposit boxes))
+						  (PP after
+						      (S (NP somebody)
+							 (VP dies))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

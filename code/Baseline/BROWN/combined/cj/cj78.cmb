@@ -1,0 +1,2536 @@
+
+ 
+ 
+
+ 
+
+((S
+    (NP
+        (JJ High-gain)
+        (, ,)
+        (JJ photoelectronic)
+        (NN image) (NN intensification))
+    (AUX (VBZ is))
+    (VP (VBN applied)
+        (PP (IN under)
+            (NP (NNS conditions)
+                (PP (IN of)
+                    (NP
+                        (JJ low) (JJ incident)
+                        (NN light) (NNS levels)))))
+        (SBAR
+              (WHADVP (WRB whenever))
+              (S (NP (NP (DT the) (NN integration) (NN time))
+                     (VP (VBN required)
+                         (PP (IN by)
+                             (NP (DT a) (NN sensor)
+                                 (CC or)
+                                 (VBG|NN recording) (NN instrument)))))
+                 (VP (VBZ exceeds)
+                     (NP (DT the) (NNS limits)
+                         (PP (IN of)
+                             (NP (NN practicability)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NNS Examples)
+        (PP (IN of)
+            (NP (JJ such) (NNS situations))))
+    (VP (VBP are)
+        (NP (NP (-LRB- -LRB-)
+                (JJ aerial)
+                (-RRB- -RRB-)
+                (NN night) (NN reconnaissance))
+            (, ,)
+            (NP (DT the) (NN recording)
+                (PP (IN of)
+                    (NP (JJ radioactive) (NNS tracers)
+                        (PP (IN in)
+                            (NP (JJ live) (NN body) (NNS tissues))))))
+            (, ,)
+            (NP (JJ special) (NN radiography)
+                (PP (IN in)
+                    (NP (JJ medical) (CC or) (JJ industrial) (NNS applications))))
+            (, ,)
+            (NP (NN track) (NN recording)
+                (PP (IN of)
+                    (NP (JJ high) (NN energy) (NNS particles))))
+            (, ,)
+            (NP (X (FW etc.))))))
+ (. .))
+ 
+
+(
+ (S (S (NP
+           (JJ High-gain) (JJ photoelectronic)
+           (NN image) (NN intensification))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN achieved)
+               (PP (IN by)
+                   (NP (JJ several) (NNS methods))))
+           ))
+    (: ;)
+    (: ;)
+    (S (NP (DT some)
+           (PP (IN of)
+               (NP (DT these))))
+       (AUX (VBP are))
+       (VP (VBN listed)
+           (ADVP (IN below))
+           (: :)
+           (NP (NP (-LRB- -LRB-)
+                   (LS A)
+                   (-RRB- -RRB-)
+                   (NP (S (NP (-NONE- *))
+                          (VP (VBG Cascading)
+                              (NP (JJ single) (NNS stages))
+                              (PP (IN by)
+                                  (S (NP (-NONE- *))
+                                     (VP (VBG coupling)
+                                         (NP (NN lens) (NNS systems)))))))))
+               (, ,)
+               (NP (NP (-LRB- -LRB-)
+                       (LS B)
+                       (-RRB- -RRB-))
+                   (NP (NN Channel-type)
+                       (, ,)
+                       (JJ secondary) (NN emission) (NN image) (NN intensifier)))
+               (, ,)
+               (NP (NP (-LRB- -LRB-)
+                       (LS C)
+                       (-RRB- -RRB-))
+                   (NP (NP (NN Image) (NN intensifier))
+                       (VP (VBN based)
+                           (PP (IN upon)
+                               (NP (DT the)
+                                   (`` ``)
+                                   (NN multipactor)
+                                   ('' '')
+                                   (NN principle))))))
+               (, ,)
+               (NP (NP (-LRB- -LRB-)
+                       (LS D)
+                       (-RRB- -RRB-))
+                   (NP (NP (NN Transmission) (JJ secondary) (NN electron) (NN multiplication) (NN image) (NNS intensifiers))
+                       (-LRB- -LRB-)
+                       (NP (NN TSEM) (NNS tubes))
+                       (-RRB- -RRB-)))
+               (, ,)
+               (NP (NP (-LRB- -LRB-)
+                       (LS E)
+                       (-RRB- -RRB-))
+                   (NP (S (NP (-NONE- *))
+                          (VP (NN Cascading)
+                              (PP (IN of)
+                                  (NP (NP (JJ single) (NNS stages))
+                                      (, ,)
+                                      (VP (VBN enclosed)
+                                          (PP (IN in)
+                                              (NP (CD one) (JJ common) (NN envelope))))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (S (NP (-NONE- *))
+           (VP (VBG Cascading)
+               (NP (JJ single) (NNS stages))
+               (PP (IN by)
+                   (S (NP (-NONE- *))
+                      (VP (VBG coupling)
+                          (NP (NN lens) (NNS systems))))))))
+    (VP (VBZ is)
+        (ADJP (RB rather)
+              (JJ inefficient)))
+    (SBAR (IN as)
+          (S (NP (DT the) (NN lens) (NNS systems))
+             (VP (VBP limit)
+                 (NP (DT the) (JJ obtainable) (NN gain))
+                 (ADVP (RB quite)
+                       (RB severely))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NN Channel-type) (NN image) (NNS intensifiers))
+       (VP (VBP are)
+           (ADJP (JJ capable)
+                 (PP (IN of)
+                     (S (NP (-NONE- *))
+                        (VP (VBG achieving)
+                            (NP (JJ high-gain) (NNS values))))))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP they))
+       (VP (VBP suffer)
+           (, ,)
+           (ADVP (RB however))
+           (, ,)
+           (PP (IN from)
+               (NP (DT an)
+                   (ADVP (RB inherently))
+                   (JJ low) (NN resolution))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (NN Image) (NNS intensifiers))
+        (VP (VBN based)
+            (PP (IN upon)
+                (NP (DT the) (NN multipactor) (NN principle)))))
+    (VP (VBP appear)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB hold)
+               (NP (NN promise))))
+        (ADVP (RB as)
+              (RB far)
+              (PP (IN as)
+                  (S (NP (JJ obtainable) (NN resolution))
+                     (AUX (VBZ is))
+                     (VP (VBN concerned)
+                         ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (DT the)
+           (JJ unavoidable) (JJ low-duty)
+           (NN cycle))
+       (VP (VBZ restricts)
+           (NP (DT the) (JJ effective) (NN gain)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (NN TSEM) (NNS tubes))
+        (VP-1 (-NONE- *pseudo-attach*)))
+    (AUX (VBP have))
+    (VP (VBN been)
+        (VP (VBN constructed)
+            ))
+    (VP-1 (VBG showing)
+          (NP (JJ high) (NN gain) (CC and) (NN resolution))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (NP (JJ electrostatic) (NN focus))
+           (, ,)
+           (ADJP (JJ important)
+                 (PP (IN for)
+                     (NP (JJ many) (NNS applications))))
+           (, ,))
+       (AUX (VBZ has))
+       (NEG (RB not))
+       (VP (VBN been)
+           (VP (VBN realized)
+               (PP (IN for)
+                   (NP (DT these) (NNS devices)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Resolution) (NNS limitations)
+        (PP (IN with)
+            (NP (JJ electrostatic) (NN focus))))
+    (AUX (MD might))
+    (VP (VB be)
+        (VP (VBN anticipated)
+            ))
+    (ADVP (RB due)
+          (PP (TO to)
+              (NP (JJ chromatic) (NNS aberrations)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Furthermore))
+    (, ,)
+    (S (NP (DT the) (JJ thin) (NN film) (NNS dynodes))
+       (VP (VBP appear)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB have)
+                  (NP (DT a) (JJ natural) (NN diameter) (NN limitation))
+                  (SBAR
+                        (WHADVP (WRB wherever))
+                        (S (NP (DT a) (NN mesh) (NN support))
+                           (AUX (MD can))
+                           (NEG (RB not))
+                           (VP (VB be)
+                               (VP (VBN tolerated)
+                                   )))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (VP (VBN Cascaded))
+            (JJ single) (NNS stages))
+        (VP (VBN enclosed)
+            (PP (IN by)
+                (NP (DT a) (JJ common) (NN envelope)))))
+    (AUX (VBP have))
+    (VP (VBN been)
+        (VP (VBN constructed)
+            (PP (IN with)
+                (NP (NP (JJ high) (NN gain))
+                    (CC and)
+                    (NP (JJ high) (NN resolution)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS tubes))
+    (AUX (MD may))
+    (VP (VB differ)
+        (PP (DT both)
+            (PP (IN in)
+                (NP (DT the) (NN choice)
+                    (PP (IN of)
+                        (NP (DT the) (NN electron) (JJ optical) (NN system)))))
+            (CC and)
+            (PP (IN in)
+                (NP (DT the) (NN design)
+                    (PP (IN of)
+                        (NP (DT the) (NN coupling) (NNS members))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN electron) (JJ optical) (NN system))
+    (AUX (MD may))
+    (VP (VB be)
+        (NP (RB either)
+            (DT a)
+            (JJ magnetic) (CC or) (JJ electrostatic)
+            (CD one))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN magnification))
+    (AUX (MD may))
+    (VP (VB be)
+        (ADJP (JJR smaller)
+              (, ,)
+              (JJ equal)
+              (, ,)
+              (CC or)
+              (JJR larger)
+              (PP (IN than)
+                  (NP (NN unity))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT An) (JJ electrostatic) (NN system))
+    (VP (VBZ suffers)
+        (ADVP (RB generally))
+        (PP (IN from)
+            (NP (NP (NN image) (NN plane) (NN curvature))
+                (VP (VBG leading)
+                    (PP (TO to)
+                        (NP (VBG defocusing)
+                            (PP (IN in)
+                                (NP (DT the) (JJ peripheral) (NN image) (NN region)))))
+                    (SBAR (IN if)
+                          (S (NP (NP (DT a)
+                                     (ADJP (JJ flat))
+                                     (VBG viewing)
+                                     (NP (NN screen)))
+                                 (-LRB- -LRB-)
+                                 (CC or)
+                                 (NP (NN interstage) (NN coupler))
+                                 (-RRB- -RRB-))
+                             (AUX (VBZ is))
+                             (VP (VBN utilized)
+                                 )))))))
+    (, ,)
+    (SBAR (IN while)
+          (S (NP (DT a) (JJ magnetic) (NN system))
+             (VP (VBZ requires)
+                 (NP (JJ accurate) (NN adjustment)
+                     (PP (IN of)
+                         (NP (NP (DT the) (NN solenoid))
+                             (, ,)
+                             (SBAR
+                                   (WHNP (WDT which))
+                                   (S (NP (-NONE- T))
+                                      (VP (VBZ is)
+                                          (ADJP (JJ heavy) (CC and) (JJ bulky))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN As)
+        (S (NP (PRP it))
+           (AUX (MD will))
+           (VP (VB be)
+               (VP (VBN discussed)
+                   ))
+           (ADVP (RB later))))
+    (, ,)
+    (S (NP
+           (ADJP (JJ peripheral))
+           (VBG defocusing))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN improved)
+               (PP (IN on))
+               (PP (IN by)
+                   (S (NP (-NONE- *))
+                      (VP (VBG utilizing)
+                          (NP (JJ curved) (NN fiber) (NNS couplers)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD should))
+    (VP (VB be)
+        (VP (VBN noted)
+            (, ,)
+            (ADVP (RB however))
+            (, ,)
+            (SBAR (IN that)
+                  (S (NP (DT the) (JJ paraxial) (NN resolution))
+                     (VP (VBZ is)
+                         (ADJP (RB quite)
+                               (JJ similar)
+                               (PP (IN for)
+                                   (NP (DT both) (NN electron) (JJ optical) (NNS systems))))))))
+        ))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (PRP It))
+    (AUX (VBZ is))
+    (VP (VBN felt))
+    (SBAR (IN that)
+          (S (NP (JJ fiber-coupled) (NN double)
+                 (: -)
+                 (-LRB- -LRB-)
+                 (CC and)
+                 (NNS multi)
+                 (: -)
+                 (-RRB- -RRB-)
+                 (NN stage) (NN image) (NNS intensifiers))
+             (AUX (MD will))
+             (VP (VB gain)
+                 (NP (JJ considerable) (NN importance)))
+             (PP (IN in)
+                 (NP (DT the) (NN future))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Therefore))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD shall))
+       (VP (VB consider)
+           (PP (IN in)
+               (NP (DT this) (NN paper)))
+           (NP (DT the) (JJ theoretical) (NN gain) (CC and) (NN resolution) (NNS capabilities)
+               (PP (IN of)
+                   (NP (JJ such) (NNS tubes)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ luminous) (NN efficiency) (CC and) (NN resolution)
+        (PP (PP (IN of)
+                (NP (NP (JJ single) (NNS stages))
+                    (, ,)
+                    (NP (NN fiber) (NNS couplers))))
+            (, ,)
+            (CC and)
+            (ADVP (RB finally))
+            (PP (IN of)
+                (NP (DT the) (JJ composite) (NN tube)))))
+    (AUX (MD will))
+    (VP (VB be)
+        (VP (VBN computed)
+            )))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD will))
+    (VP (VB be)
+        (VP (VBN shown)
+            (ADVP (RB theoretically))
+            (SBAR (IN that)
+                  (S (NP (NP (DT the) (JJ high) (NN image) (NN intensification))
+                         (ADJP (JJ obtainable)
+                               (PP (IN with)
+                                   (NP (NP (PDT such)
+                                           (DT a) (NN tube))
+                                       (CC and)
+                                       (NP (NN contact) (NN photography))))))
+                     (VP (VBZ permits)
+                         (NP (DT the) (NN utilization)
+                             (PP (IN of)
+                                 (NP (ADJP (RB extremely)
+                                           (JJ low)) (NN incident) (NN light) (NNS levels))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN effect)
+            (PP (IN of)
+                (NP (NN device) (CC and) (NN quantum) (NN noise))))
+        (, ,)
+        (VP (VBN associated)
+            (PP (IN with)
+                (NP
+                    (JJ such) (JJ low)
+                    (NN input) (NNS levels))))
+        (, ,))
+    (AUX (MD will))
+    (VP (VB be)
+        (VP (VBN described)
+            )))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN After)
+        (NP (DT these) (JJ theoretical) (NNS considerations)))
+    (, ,)
+    (S (NP (JJ constructional) (NNS details)
+           (PP (IN of)
+               (NP (DT a)
+                   (JJ fiber-coupled)
+                   (, ,)
+                   (JJ double-stage)
+                   (NN X-ray) (NN image) (NN intensifier))))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN discussed)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (VP (VBN Measured))
+        (NN performance) (NNS characteristics)
+        (PP (IN for)
+            (NP (DT this) (JJ experimental) (NN tube))))
+    (AUX (MD will))
+    (VP (VB be)
+        (VP (VBN listed)
+            )))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN conclusion))
+        (SBAR-2 (-NONE- *pseudo-attach*)))
+    (AUX (MD shall))
+    (VP (VB be)
+        (VP (VBN reached)
+            ))
+    (SBAR-2 (DT that)
+            (S (NP (JJ fiber-coupled)
+                   (, ,)
+                   (JJ double-stage)
+                   (NNS tubes))
+               (VP (VBP represent)
+                   (NP (DT a) (ADJP (NN sensible)
+                             (CC and)
+                             (JJ practical))
+                       (NN approach)
+                       (PP (TO to)
+                           (NP (JJ high-gain) (NN image) (NN intensification))))))))
+ (. .))
+ 
+
+ 
+
+((NP (JJ Basic) (NN design)
+     (PP (IN of)
+         (NP (DT a)
+             (JJ fiber-coupled)
+             (, ,)
+             (JJ double-stage)
+             (NN image) (NN intensifier))))
+ )
+ 
+
+((S (NP (NP (DT The) (NN tube) (NN design))
+        (SBAR (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (VP (VBZ forms)
+                     (NP (DT the) (NN basis)
+                         (PP (IN of)
+                             (NP (DT the) (JJ theoretical) (NN discussion))))))))
+    (AUX (MD shall))
+    (VP (VB be)
+        (VP (VBN described)
+            ))
+    (ADVP (RB now)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN electron) (JJ optical) (NN system))
+    (-LRB- -LRB-)
+    (S (NP (-NONE- *))
+       (VP (VB see)
+           (NP (NN fig.) (CD 14-1))))
+    (-RRB- -RRB-)
+    (AUX (VBZ is))
+    (VP (VBN based)
+        (PP (IN in)
+            (NP (NN principle)))
+        (PP (IN on)
+            (NP (DT the) (NN focusing) (NN action)
+                (PP (IN of)
+                    (NP
+                        (JJ concentric) (JJ spherical)
+                        (NN cathode) (CC and) (NN anode) (NNS surfaces)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The)
+        (ADJP (JJ inner))
+        (-LRB- -LRB-)
+        (NN anode)
+        (-RRB- -RRB-)
+        (NN sphere))
+    (AUX (VBZ is))
+    (VP (VP (VBN pierced))
+        (, ,)
+        (VP (VBN elongated)
+            (PP (IN into)
+                (NP (DT a) (NN cup))))
+        (, ,)
+        (CC and)
+        (VP (VBN terminated)
+            (PP (IN by)
+                (NP (DT the) (NN phosphor) (NN screen))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NNS photoelectrons))
+        (VP (VBN emitted)
+            (PP (IN from)
+                (NP (DT a) (JJ circular) (NN segment)
+                    (PP (IN of)
+                        (NP (DT the) (NN cathode) (NN sphere)))))))
+    (X (X (AUX (VBP are))
+          (VP (VBN focused)
+              (PP (IN by)
+                  (NP (DT the) (JJ positive) (NN lens) (NN action)
+                      (PP (IN of)
+                          (NP (DT the) (CD two) (JJ concentric) (NNS spheres)))))))
+       (, ,)
+       (VP (VBP pass)
+           (PP (IN through)
+               (NP (NP (DT the)
+                       (-LRB- -LRB-)
+                       (JJ negative)
+                       (-RRB- -RRB-)
+                       (NN lens))
+                   (VP (VBN formed)
+                       (PP (IN by)
+                           (NP (DT the) (NN anode) (NN aperture)))))))
+       (, ,)
+       (CC and)
+       (VP (VBP impinge)
+           (PP (IN upon)
+               (NP (DT the) (JJ cathodoluminescent) (NN viewing) (NN screen))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ cylindrical) (NN focusing) (NN electrode))
+    (VP (VBZ permits)
+        (NP (NN adjustment)
+            (PP (IN of)
+                (NP (DT the) (JJ positive) (NN lens) (NN part)))
+            (PP (IN by)
+                (S (NP (-NONE- *))
+                   (VP (VBG varying)
+                       (NP (DT the) (NN focusing) (NN potential))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN anode) (NN potential))
+    (VP (VBZ codetermines)
+        (NP (DT the) (NN gain)
+            (, ,)
+            (NN G)
+            (, ,)
+            (CC and)
+            (NN magnification)
+            (, ,)
+            (NN M)
+            (, ,)
+            (PP (IN of)
+                (NP (DT the) (NN stage))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (PDT Both)
+        (DT the) (NN photocathode)
+        (CC and)
+        (DT the) (NN image) (NN plane)
+        (PP (IN of)
+            (NP (PDT such)
+                (DT an) (NN electrode) (NN configuration))))
+    (AUX (VBP are))
+    (VP (VBN curved)
+        (ADJP (JJ concave))
+        (PP (IN as)
+            (S (NP (-NONE- *))
+               (VP (VBN seen)
+                   (PP (IN from)
+                       (NP (DT the) (NN anode) (NN aperture))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ field-flattening) (NN property)
+        (PP (IN of)
+            (NP (DT the) (JJ biconcave) (NN fiber) (NN coupler))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN utilized)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB alleviate)
+                   (NP (NP (DT the) (JJ peripheral) (NN resolution) (NNS losses))
+                       (VP (VBG resulting)
+                           (PP (IN with)
+                               (NP (DT a) (JJ flat) (NN phosphor-screen)
+                                   (CC or)
+                                   (VP (VBG coupling))
+                                   (NN member))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (DT the) (JJ same) (NN reason)))
+    (, ,)
+    (S (NP (DT the) (NN output) (NN fiber) (NN plate))
+       (VP (VBZ is)
+           (ADJP (JJ planoconcave)))
+       (, ,)
+       (S (NP (PRP$ its)
+              (VBN exposed) (JJ flat)
+              (NN side))
+          (VP (VBG permitting)
+              (NP (NN contact) (NN photography))
+              (SBAR (IN if)
+                    (S (NP (DT a) (JJ permanent) (NN record))
+                       (AUX (VBZ is))
+                       (VP (VBN desired)
+                           )))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN As)
+        (S (NP (PRP it))
+           (AUX (MD will))
+           (VP (VB be)
+               (VP (VBN shown)
+                   ))
+           (ADVP (RB later))))
+    (, ,)
+    (S (NP (DT the) (JJ field-flattening) (NNS properties)
+           (PP (IN of)
+               (NP (DT the) (NN interstage) (CC and) (NN output) (NN fiber) (NN coupler))))
+       (VP (VBP comprise)
+           (ADVP (RB indeed))
+           (NP (DT the) (JJ main) (NN advantage)
+               (PP (IN of)
+                   (NP (PDT such)
+                       (DT a) (NN design)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ second) (NN photocathode))
+        (CC and)
+        (NP (DT both) (NN phosphor) (NNS surfaces)))
+    (AUX (VBP are))
+    (VP (VBN deposited)
+        
+        (PP (IN on)
+            (NP (DT the) (NN fiber) (NN plate) (NNS substrates)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN photocathode) (NNS sensitivities)
+        (NN S)
+        (, ,)
+        (NN phosphor) (NNS efficiencies)
+        (NN P)
+        (, ,)
+        (CC and)
+        (NN anode) (NNS potentials)
+        (NN V)
+        (PP (IN of)
+            (NP (DT the) (JJ individual) (NNS stages))))
+    (AUX (MD shall))
+    (VP (VB be)
+        (VP (VBN distinguished)
+            
+            (PP (IN by)
+                (NP (NNS means)
+                    (PP (IN of)
+                        (NP (NNS subscripts) (CD 1)
+                            (, ,)
+                            (CC and)
+                            (CD 2)))))
+            (, ,)
+            (PP (IN in)
+                (NP (DT the) (NN text)))
+            (, ,)
+            (SBAR (WHADVP (WRB where))
+                  (S (NP (-NONE- *))
+                     (VP (VBN required)
+                         ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT Both)
+        (NNS stages))
+    (AUX (VBP are))
+    (VP (VBN assumed)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB have)
+               (NP (NN unity) (NN magnification))))))
+ (. .))
+ 
+
+ 
+
+((NP (JJ Theoretical) (NN discussion)
+     (PP (IN of)
+         (NP (NN flux) (NN gain))))
+ (NP (NN flux) (NN gain)
+     (PP (IN of)
+         (NP (DT a) (JJ single) (NN stage))))
+ )
+ 
+
+(
+ (S (NP (DT The) (JJ luminous) (NN gain)
+        (PP (IN of)
+            (NP (DT a) (JJ single) (NN stage)
+                (PP (IN with)
+                    (NP (NP (-NONE- A[fj]))
+                        (-LRB- -LRB-)
+                        (NP (NN flux) (NN gain))
+                        (-RRB- -RRB-))))))
+    (AUX (VBZ is))
+    (, ,)
+    (PP (TO to)
+        (NP (DT a) (JJ first) (NN approximation)))
+    (, ,)
+    (VP (VBN given)
+        (PP (IN by)
+            (NP (DT the) (NN product)
+                (PP (IN of)
+                    (NP (NP (NP (DT the) (NN photocathode) (NN sensitivity) (NN S))
+                            (-LRB- -LRB-)
+                            (NP (NN amp) (NN lumen))
+                            (-RRB- -RRB-))
+                        (, ,)
+                        (NP (NP (DT the) (NN anode) (NN potential) (NN V))
+                            (-LRB- -LRB-)
+                            (NP (NNS volts))
+                            (-RRB- -RRB-))
+                        (, ,)
+                        (CC and)
+                        (NP (NP (DT the) (NN phosphor) (NN conversion) (NN efficiency) (NN P))
+                            (-LRB- -LRB-)
+                            (NP (NN lumen))
+                            (-RRB- -RRB-))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN general)))
+    (, ,)
+    (S (NP (NN P))
+       (VP (VBZ is)
+           (NP (DT a) (NN function)
+               (PP (IN of)
+                   (NP (NP (NN V))
+                       (CC and)
+                       (NP (DT the) (JJ current) (NN density)))))))
+    (, ,)
+    (CC but)
+    (S (NP (PRP it))
+       (AUX (MD shall))
+       (ADVP (RB here))
+       (VP (VB be)
+           (VP (VBN assumed)
+               
+               (PP (IN as)
+                   (NP (DT a) (NN constant)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ luminous) (NN efficiency) (-NONE- A[fj])
+        (PP (IN of)
+            (NP (DT a) (NN photocathode))))
+    (VP (VBZ depends)
+        (PP (IN on)
+            (NP (DT the)
+                (JJ maximum) (JJ radiant)
+                (NN sensitivity) (-NONE- A[fj])))
+        (CC and)
+        (PP (IN on)
+            (NP (DT the) (JJ spectral) (NN distribution)
+                (PP (IN of)
+                    (NP (DT the) (NN incident) (NN light) (-NONE- A[fj])))))
+        (PP (IN by)
+            (NP (NP (DT the) (NN relation))
+                (: :)
+                (NP (NP (-NONE- A[fj]))
+                    (SBAR
+                          (WHADVP (WRB where))
+                          (S (NP (-NONE- A[fj]))
+                             (AUX (VBZ is))
+                             (NP (VBN normalized)
+                                 (JJ radiant) (NN photocathode) (NN sensitivity)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (-NONE- A[fj]))
+    (VP (VBZ is)
+        (NP (JJ standard) (NN visibility) (NN function))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ luminous) (NN flux) (NN gain)
+        (PP (IN of)
+            (NP (DT a) (JJ single) (NN stage))))
+    (AUX (VBZ is))
+    (VP (VBN given)
+        (PP (IN by)
+            (: :)
+            (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBAR (IN If)
+       (S (NP (DT the) (NN input) (NN light) (NN distribution))
+          (VP (VBZ falls)
+              (PP (IN beyond)
+                  (NP (DT the) (JJ visible) (NN range))))))
+ (, ,)
+ (NP (-NONE- A[fj])
+     (PP (IN as)
+         (S (NP (-NONE- *))
+            (VP (VBN expected))))
+     (, ,)
+     (SBAR (IN since)
+           (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Such) (NNS cases))
+    (AUX (VBP are))
+    (NEG (RB not))
+    (VP (VBN considered)
+        (ADVP (RB here))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Efficiency)
+     (PP (IN of)
+         (NP (NN fiber) (NNS couplers))))
+ )
+ 
+
+(
+ (S (NP (DT The) (NN efficiency)
+        (PP (IN of)
+            (NP (NN fiber) (NNS optics)
+                (NNS plates))))
+    (VP (VBZ depends)
+        (PP (IN on)
+            (NP (NP (CD four) (NNS factors))
+                (: :)
+                (NP (NP (-LRB- -LRB-)
+                        (LS A)
+                        (-RRB- -RRB-))
+                    (NP (NP (JJ numerical) (NN aperture))
+                        (-LRB- -LRB-)
+                        (NP (NN N.A.))
+                        (-RRB- -RRB-)))
+                (: ;)
+                (: ;)
+                (NP (NP (-LRB- -LRB-)
+                        (LS B)
+                        (-RRB- -RRB-))
+                    (NP (NP (NN end)
+                            (-LRB- -LRB-)
+                            (NNP Fresnel) (NN reflection)
+                            (-RRB- -RRB-)
+                            (NNS losses))
+                        (NP (-LRB- -LRB-)
+                            (NN R)
+                            (-RRB- -RRB-))))
+                (: ;)
+                (: ;)
+                (NP (NP (-LRB- -LRB-)
+                        (NN C)
+                        (-RRB- -RRB-))
+                    (NP (NP (JJ internal) (NNS losses))
+                        (-LRB- -LRB-)
+                        (NP (NN I.L.))
+                        (-RRB- -RRB-)))
+                (: ;)
+                (: ;)
+                (NP (NP (-LRB- -LRB-)
+                        (NN D)
+                        (-RRB- -RRB-))
+                    (NP (NP (VP (VBG packing))
+                            (NN efficiency))
+                        (-LRB- -LRB-)
+                        (NP (NN F.R)
+                            (. .))
+                        (-RRB- -RRB-)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ numerical) (NN aperture)
+        (PP (IN of)
+            (NP (DT the) (NNS fibers))))
+    (AUX (VBZ is))
+    (VP (VBN given)
+        (PP (IN by)
+            (: :)
+            (NP (NP (-NONE- A[fj]))
+                (SBAR (WHADVP (WRB where))
+                      (S (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN angle) (-NONE- A[fj]))
+    (AUX (VBZ is))
+    (VP (VBN measured)
+        (PP (IN in)
+            (NP (DT the) (NN medium)
+                (PP (IN of)
+                    (NP (NN index) (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (VP (VBN Settled))
+           (NNS phosphors))
+       (, ,)
+       (PP (RB as)
+           (S (NP (-NONE- *))
+              (ADVP (RB generally))
+              (VP (VBN used)
+                  (PP (IN in)
+                      (NP (NN image) (NNS intensifiers))))))
+       (, ,)
+       (VP (VBP have)
+           (NP
+               (JJ low) (JJ optical)
+               (NN contact))
+           (PP (IN with)
+               (NP (DT the) (NN substrate) (NN surface)))))
+    (, ,)
+    (ADVP (RB hence))
+    (S (NP (-NONE- A[fj]))
+       (AUX (MD shall))
+       (VP (VB be)
+           (VP (VBN assumed)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ numerical) (NN aperture))
+    (AUX (MD should))
+    (VP (VB be)
+        (PP (IN in)
+            (NP (JJ general)))
+        (ADVP (NN close)
+              (PP (TO to)
+                  (NP (NN unity))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN condition))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN satisfied)
+            (, ,)
+            (X (FW e.g.))
+            (, ,)
+            (PP (IN with)
+                (NP (NP (-NONE- A[fj]) (CC and) (-NONE- A[fj]))
+                    (CC or)
+                    (NP (JJ equivalent) (NN glass) (NNS combinations)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT A)
+        (ADJP (RB sufficiently)
+              (JJ good)) (NN approximation)
+        (PP (IN for)
+            (S (NP (-NONE- *))
+               (VP (VBG determining)
+                   (NP (DT the) (NN end) (NN reflection) (NNS losses)
+                       (NN R))))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN obtained)
+            (PP (IN from)
+                (NP (NP (DT the) (NN angle) (JJ independent) (NNP Fresnel) (NN formula))
+                    (: :)
+                    (NP (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (NP (NP (NN phosphor)
+                    (PP (TO to)
+                        (NP (NN fiber))))
+                (CC and)
+                (NP (NN fiber)
+                    (PP (TO to)
+                        (NP (NN air)))))
+            (NNS surfaces)))
+    (, ,)
+    (CC and)
+    (S (NP (-NONE- *))
+       (VP (VBG assuming)
+           (NP (-NONE- A[fj]))))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP obtain)
+           (NP (-NONE- A[fj]) (NN percent)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN value))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN reduced)
+            (PP (TO to)
+                (NP (CD 4.6) (NN percent)))
+            (PP (IN by)
+                (NP (NNS means)
+                    (PP (IN of)
+                        (NP (DT a)
+                            (ADJP (-LRB- -LRB-)
+                                  (RB very)
+                                  (JJ thin)
+                                  (-RRB- -RRB-))
+                            (NN glass) (NN layer)
+                            (PP (IN of)
+                                (NP (NN index) (CD 1.5))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (S (NP (DT the) (-NONE- A[fj]) (NN factor)
+           (PP (IN for)
+               (NP (DT the) (NN output) (NN fiber) (NN coupler))))
+       (VP (VBZ is)
+           (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR (IN As)
+          (S (NP (DT the) (NN index)
+                 (PP (IN of)
+                     (NP (NN refraction)
+                         (PP (IN of)
+                             (NP (JJ photosensitive) (NNS surfaces)
+                                 (PP (IN of)
+                                     (NP (DT the)
+                                         (ADJP (JJ SbCs-type)))))))))
+             (VP (VBZ lies)
+                 (NP (IN around)
+                     (CD 2)))))
+    (, ,)
+    (S (NP (DT the) (NNP Fresnel) (NNS losses)
+           (PP (IN at)
+               (NP (DT the) (NN fiber-photocathode) (NN interface))))
+       (VP (VBP are)
+           (PP (IN about)
+               (NP (CD 0.5) (NN percent)))))
+    (CC and)
+    (S (NP (DT the) (-NONE- A[fj]) (NN factor)
+           (PP (IN for)
+               (NP (DT the) (NN interstage) (NN coupler))))
+       (VP (VBZ is)
+           (NP (CD 0.95)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (AUX (MD might))
+    (VP (VB be)
+        (VP (VBN anticipated)
+            ))
+    (SBAR-1 (IN that)
+            (S (NP (JJ multiple) (NNS coatings))
+               (AUX (MD will))
+               (VP (VB reduce)
+                   (NP (NN end) (NN reflection) (NNS losses))
+                   (ADVP (RB even)
+                         (RB further))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ internal) (NNS losses))
+    (VP (VBP are)
+        (ADVP (IN due)
+              (PP (TO to)
+                  (NP (NP (NN absorption))
+                      (CC and)
+                      (NP (NP (DT the) (JJ small) (CC but) (JJ finite) (NNS losses))
+                          (VP (VBN suffered)
+                              (PP (IN in)
+                                  (NP (DT the)
+                                      (JJ numerous) (JJ internal)
+                                      (NNS reflections)
+                                      (ADVP (IN due)
+                                            (PP (TO to)
+                                                (NP (NP (NNS deviations)
+                                                        (PP (IN from)
+                                                            (NP (DT the)
+                                                                (VBN prescribed)
+                                                                (, ,)
+                                                                (JJ cylindrical)
+                                                                (NN fiber)
+                                                                (NN cross-section))))
+                                                    (CC and)
+                                                    (NP (NN minute) (NNS imperfections)
+                                                        (PP (IN of)
+                                                            (NP (DT the) (JJ core-jacket) (NN interface))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS losses))
+    (VP (VBP depend)
+        (PP (PP (IN on)
+                (NP (NP (NN fiber) (NN diameter) (CC and) (NN length))
+                    (, ,)
+                    (NP (NN absorption) (NN coefficient))
+                    (, ,)
+                    (NP (DT the) (JJ mean) (NN value)
+                        (PP (IN of)
+                            (NP (DT the) (NN loss)
+                                (PP (IN per)
+                                    (NP (JJ internal) (NN reflection))))))))
+            (CC and)
+            (ADJP (JJ last)
+                  (, ,)
+                  (CC but)
+                  (NEG (RB not))
+                  (JJS least))
+            (, ,)
+            (PP (IN on)
+                (NP (DT the) (JJ angular) (NN distribution)
+                    (PP (IN of)
+                        (NP (DT the) (JJ incident) (NN light))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (JJ Explicit) (NNS expressions))
+        (NP (-LRB- -LRB-)
+            (NN integral) (NNS averages)
+            (-RRB- -RRB-)))
+    (AUX (VBP are))
+    (VP (VBN given)
+        
+        (PP (IN in)
+            (NP (DT the) (NN literature)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (VP (VBG Lacking)
+           (NP (JJ reliable) (NNS data)
+               (PP (IN for)
+                   (NP (DT some)
+                       (PP (IN of)
+                           (NP (DT the) (NNS variables))))))))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (VBP are))
+       (VP (VBG relying)
+           (PP (IN on)
+               (NP (JJ experimental) (NNS data)
+                   (PP (IN of)
+                       (NP (IN about)
+                           (CD 20) (NN percent) (JJ internal) (NNS losses)
+                           (PP (IN for)
+                               (ADJP (JJ 14-inch) (JJ long)
+                                     (, ,)
+                                     (JJ small)
+                                     (-LRB- -LRB-)
+                                     (CD 5) (: -) (CD 10) (NN M)
+                                     (-RRB- -RRB-)
+                                     (NN diameter) (NNS fibers))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This)
+        (ADJP (RB relatively)
+              (JJ high)) (NN value))
+    (VP (VBZ is)
+        (ADVP (RB probably))
+        (ADVP (IN due)
+              (PP (TO to)
+                  (S (NP (DT the) (JJ small) (NN fiber) (NNS diameters))
+                     (VP (VBG increasing)
+                         (NP (DT the) (NN number)
+                             (PP (IN of)
+                                 (NP (JJ internal) (NNS reflections))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN Since)
+          (S (NP (PRP we))
+             (AUX (VBP are))
+             (VP (VBG considering)
+                 (ADVP (RB here))
+                 (NP (ADJP (RB relatively)
+                           (JJ small)) (NN diameter)
+                     (-LRB- -LRB-)
+                     (CD 1) (: -) (CD 1.5) (NNS inches)
+                     (-RRB- -RRB-)
+                     (NN fiber) (NNS plates)))))
+    (, ,)
+    (S (NP (PRP$ their) (JJ average) (NN thickness))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN kept)
+               
+               (PP (IN below)
+                   (NP (CD 14) (NN inch))))))
+    (CC and)
+    (S (NP (PRP$ their) (JJ internal) (NNS losses))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN assumed)
+               
+               (PP (IN as)
+                   (NP (NP (CD 15) (NN percent))
+                       (-LRB- -LRB-)
+                       (PP (IN per)
+                           (NP (NN plate)))
+                       (-RRB- -RRB-)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN packing) (NN efficiency)
+        (, ,)
+        (NN F.R.)
+        (, ,)
+        (PP (IN of)
+            (NP (NN fiber) (NNS plates))))
+    (AUX (VBD did))
+    (NEG (RB not))
+    (VP (VB receive)
+        (NP (JJ much) (NN attention))
+        (PP (IN in)
+            (NP (DT the) (NN literature))))
+    (, ,)
+    (ADVP (RB probably))
+    (SBAR (IN as)
+          (S (NP (PRP it))
+             (VP (VBZ is)
+                 (ADJP (JJ high)
+                       (PP (IN for)
+                           (NP (NP (DT the)
+                                   (ADJP (JJR larger))
+                                   (NNS fibers))
+                               (VP (ADVP (RB generally))
+                                   (VBN used))))))))
+    (, ,)
+    (PP (IN until)
+        (ADVP (RB rather)
+              (RB recently))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (JJ circular) (NNS fibers)
+            (PP (IN in)
+                (NP (DT a)
+                    (VP (RB closely)
+                        (VBN packed))
+                    (JJ hexagonal) (NN array)))))
+    (, ,)
+    (S (NP (DT the) (VBG packing) (NN efficiency))
+       (AUX (VBZ is))
+       (VP (VBN given)
+           (PP (IN by)
+               (: :)
+               (NP (NP (-NONE- A[fj]))
+                   (SBAR
+                         (WHADVP (WRB where)
+                                 (S (S (NP (-NONE- A[fj])))
+                                    (, ,)
+                                    (CC and)
+                                    (S (NP (CD 0.906))
+                                       (VP (VBZ is)
+                                           (NP (DT the) (NN ratio)
+                                               (PP (IN of)
+                                                   (NP (DT the) (NN area)
+                                                       (PP (IN of)
+                                                           (NP (DT a) (NN circle)))
+                                                       (PP (TO to)
+                                                           (NP (DT that)
+                                                               (PP (IN of)
+                                                                   (NP (DT the) (JJ circumscribed) (NN hexagon))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((PP (IN For)
+     (NP (NP (DT the) (JJ small) (NN diameter) (NNS fibers))
+         (ADVP (RB now))
+         (ADJP (RB technically)
+               (JJ feasible))
+         (CC and)
+         (VP (VBN required)
+             (PP (IN for)
+                 (NP (IN about)
+                     (CD 100) (-NONE- A[fj]) (NN resolution)))))
+     (, ,)
+     (NP (-NONE- A[fj])))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN cladding) (NN thickness))
+    (VP (VBZ is)
+        (PP (IN about)
+            (NP (CD 0.5) (NN M))))
+    (, ,)
+    (ADVP (RB hence))
+    (, ,)
+    (NP (-NONE- A[fj]) (CC and) (-NONE- A[fj])))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (DT the) (NN efficiency) (-NONE- **) (NN yt) (NNS couplers))
+       (AUX (VBZ is))
+       (VP (VBN given)
+           (PP (IN by)
+               (: --)
+               (NP (NP (-NONE- A[fj]))
+                   (CC or)
+                   (NP (RB approximately)
+                       (CD 50) (NN percent)
+                       (DT each)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (PRP It))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN remembered)
+            (SBAR (IN that)
+                  (S (NP (DT the) (NN fiber) (NNS plates))
+                     (VP (VBP replace)
+                         (NP (NP (DT a) (NN glass) (NN window))
+                             (CC and)
+                             (NP (DT a)
+                                 (-LRB- -LRB-)
+                                 (NN mica)
+                                 (-RRB- -RRB-)
+                                 (NN membrane))
+                             (, ,)
+                             (PP (IN in)
+                                 (NP (NN addition)
+                                     (PP (TO to)
+                                         (NP (DT an) (JJ optical) (NN output) (NN lens) (NN system))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN efficiency) (-NONE- A[fj])
+        (PP (IN of)
+            (NP (DT an) (-NONE- A[fj]) (NN lens)))
+        (PP (IN at)
+            (NP (DT the) (NN magnification) (-NONE- A[fj]))))
+    (VP (VBZ is)
+        (: :)
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (VP (VBG Neglecting)
+           (NP (NN absorption))))
+    (, ,)
+    (S (NP (DT the) (NN end) (NNS losses)
+           (PP (IN of)
+               (NP (NP (DT the) (VBG coupling) (NN membrane))
+                   (CC and)
+                   (NP (DT the) (NN output) (NN window) (-NONE- A[fj])))))
+       (AUX (MD would))
+       (VP (VB be)
+           (NP (NP (CD 6) (NN percent))
+               (CC and)
+               (NP (CD 8) (NN percent))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (DT the) (VBN combined) (NN efficiency)
+           (PP (IN of)
+               (NP (NP (DT the) (NNS elements))
+                   (VP (VBN replaced)
+                       (PP (IN by)
+                           (NP (NP (DT the) (CD two) (NN fiber) (NNS plates))
+                               (-LRB- -LRB-)
+                               (PP (IN with)
+                                   (NP (DT a) (VBN combined) (NN efficiency)
+                                       (PP (IN of)
+                                           (NP (CD 0.25)))))
+                               (-RRB- -RRB-)))))))
+       (VP (VBZ is)
+           (NP (NP (CD 0.043))
+               (CC or)
+               (NP (IN about)
+                   (CD six) (NNS times)
+                   (ADJP (JJR less)
+                         (PP (IN than)
+                             (NP (IN that)
+                                 (PP (IN of)
+                                     (NP (DT the) (CD two) (NN fiber) (NNS plates)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Gain)
+     (PP (IN of)
+         (NP (NN fiber)
+             (VBD coupled)
+             (NN image) (NNS intensifiers))))
+ (S (S (NP (-NONE- *))
+       (VP (VBG Including)
+           (NP (DT the) (NN brightness) (NN gain) (-NONE- A[fj])
+               (ADVP (IN due)
+                     (PP (TO to)
+                         (NP (DT the) (-NONE- A[fj]) (NN area) (NN demagnification)))))))
+    (, ,)
+    (S (NP (DT the) (JJ overall) (NN gain)
+           (PP (IN of)
+               (NP (DT a) (NN fiber)
+                   (VBN coupled)
+                   (JJ double) (NN stage) (NN image) (NN intensifier))))
+       (VP (VBZ is)
+           (: :)
+           (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-2 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (ADJP (JJ obvious)))
+    (SBAR-2 (IN that)
+            (S (NP (NP (DT the) (JJ careful) (NN choice)
+                       (PP (IN of)
+                           (NP (NN photocathode))))
+                   (SBAR (WHNP (WDT which))
+                         (S (NP (-NONE- T))
+                            (VP (VBZ maximizes)
+                                (NP (-NONE- A[fj]))
+                                (PP (PP (IN for)
+                                        (NP (DT a) (VBN given) (NN input) (NN E)))
+                                    (-LRB- -LRB-)
+                                    (PP (IN in)
+                                        (NP (DT the) (NN case)
+                                            (PP (IN of)
+                                                (NP (DT the) (JJ second) (NN stage)))))
+                                    (, ,)
+                                    (PP (IN for)
+                                        (NP (DT the) (JJ first) (NN phosphor) (NN screen) (NN emission)))
+                                    (-RRB- -RRB-))))))
+               (VP (VBZ is)
+                   (ADJP (RB very)
+                         (JJ important))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ same) (NN consideration))
+    (AUX (MD should))
+    (VP (VB govern)
+        (NP (DT the) (NN choice)
+            (PP (IN of)
+                (NP (DT the) (JJ second-stage) (NN phosphor) (NN screen)
+                    (PP (IN for)
+                        (S (NP (-NONE- *))
+                           (VP (VBG matching)
+                               (PP (IN with)
+                                   (NP (DT the) (JJ spectral) (NN sensitivity)
+                                       (PP (IN of)
+                                           (NP (NP (DT the) (JJ ultimate) (NN sensor))
+                                               (-LRB- -LRB-)
+                                               (X (FW e.g.))
+                                               (, ,)
+                                               (NP (JJ photographic) (NN emulsion))
+                                               (-RRB- -RRB-)))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (PRP We))
+    (AUX (VBP have))
+    (VP (VBN evaluated)
+        (NP (DT the)
+            (`` ``)
+            (JJ matching) (NNS integrals)
+            ('' ''))
+        (PP (IN for)
+            (NP (NP (CD two) (NNS types)
+                    (PP (IN of)
+                        (NP (NNS photocathodes))))
+                (NP (-LRB- -LRB-)
+                    (NP (NN S-11))
+                    (CC and)
+                    (NP (NN S-20))
+                    (-RRB- -RRB-))
+                (CC and)
+                (NP (CD three) (NNS types)
+                    (PP (IN of)
+                        (NP (NN light) (NN input))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN input) (NN light) (NNS distributions))
+        (VP (VBN considered)))
+    (VP (VBP are)
+        (NP (NP (NN P-11) (CC and) (NN P-20) (NN phosphor) (NN emission))
+            (CC and)
+            (NP (DT the) (JJ so-called)
+                (`` ``)
+                (NN night) (NN light)
+                ('' '')
+                (-LRB- -LRB-)
+                (NN N.L.)
+                (-RRB- -RRB-)
+                (PP (IN as)
+                    (S (NP (-NONE- *))
+                       (VP (VBN given)
+                           (PP (IN by)
+                               (NP (NP (NNP H.W.) (NNP Babcock))
+                                   (CC and)
+                                   (NP (NNP J.J.) (NNP Johnson)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NNS integrals)
+        (PP (-LRB- -LRB-)
+            (IN in)
+            (NP (NNS units))
+            (-RRB- -RRB-)))
+    (AUX (VBP are))
+    (VP (VBN listed)
+        
+        (PP (IN in)
+            (NP (NN table) (CD 14-1)))
+        (, ,)
+        (ADVP (IN below))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (JJ Theoretical) (NN discussion)
+         (PP (IN of)
+             (NP (JJ paraxial) (NN device) (NN resolution))))
+     (NP (NN resolution) (NNS limitations)
+         (PP (IN in)
+             (NP (DT a) (JJ single) (NN stage)))))
+ )
+ 
+
+((S
+    (NP (DT The) (NN resolution) (NNS limitations)
+        (PP (IN for)
+            (NP (DT a) (JJ single) (NN stage))))
+    (AUX (VBP are))
+    (VP (VBN given)
+        
+        (PP (IN by)
+            (NP (NP (DT the) (JJ inherent) (NN resolution)
+                    (PP (IN of)
+                        (NP (DT the) (NN electron) (JJ optical) (NN system))))
+                (ADVP (RB as)
+                      (RB well)
+                      (PP (IN as)
+                          (NP (DT the) (NN resolution) (NNS capabilities)
+                              (PP (IN of)
+                                  (NP (DT the) (JJ cathodoluminescent) (NN viewing) (NN screen))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN resolution) (NNS capabilities)
+        (PP (IN of)
+            (NP (DT an) (JJ electrostatic) (NN system))))
+    (VP (VBP depend)
+        (PP (IN on)
+            (NP (PDT both)
+                (NP (DT the) (NN choice)
+                    (PP (IN of)
+                        (NP (NN magnification))))
+                (CC and)
+                (NP (JJ chromatic) (NNS aberrations))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-3 (-NONE- *pseudo-attach*)))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN stated)
+            (ADVP (RB previously))))
+    (SBAR-3 (IN that)
+            (S (NP (DT a) (VBG minifying) (JJ electrostatic) (NN system))
+               (VP (VBZ yields)
+                   (NP (DT a)
+                       (ADJP (JJR lower))
+                       (NN resolution)
+                       (PP (IN than)
+                           (NP (NP (DT a) (VBG magnifying) (NN system))
+                               (CC or)
+                               (NP (DT a) (NN system)
+                                   (PP (IN with)
+                                       (NP (NN unity) (NN magnification)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Furthermore))
+    (, ,)
+    (S (NP (DT the) (JJ chromatic) (NNS aberrations))
+       (VP (VBP depend)
+           (PP (IN on)
+               (NP (DT the)
+                   (VBN chosen) (JJ high)
+                   (NN voltage))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (ADJP (JJ general)))
+    (, ,)
+    (S (NP (DT a) (JJ high) (NN anode) (NN voltage))
+       (VP (VP (VBZ reduces)
+               (NP (JJ chromatic) (NNS aberrations)))
+           (CC and)
+           (RB thus)
+           (VP (VBZ increases)
+               (NP (DT the) (JJ obtainable) (NN resolution))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ luminous) (NN gain)
+        (PP (IN of)
+            (NP (DT the) (VBN discussed) (NN tube))))
+    (AUX (VBD was))
+    (VP (VBN calculated)
+        (PP (IN from)
+            (NP (NNP Eq.)
+                (-LRB- -LRB-)
+                (CD 6)
+                (-RRB- -RRB-)))
+        (PP (IN for)
+            (NP (DT the) (CD 16) (JJ possible) (NNS combinations)
+                (PP (IN of)
+                    (NP (NP (NN S-11) (CC and) (NN S-20) (NNS photocathodes))
+                        (CC and)
+                        (NP (NN P-11) (CC and) (NN P-20) (NN phosphor) (NNS screens))))))
+        (, ,)
+        (PP (IN for)
+            (NP (NN night) (NN light) (CC and) (NN P-20) (NN light) (NN input)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(-LRB-
+       (S (NP (DT The) (NN P-20) (NN input))
+          (VP (VBZ is)
+              (PP (IN of)
+                  (NP (NN interest))))
+          (SBAR (IN because)
+                (S (NP (PRP it))
+                   (VP (VBZ corresponds)
+                       (ADVP (RB roughly))
+                       (PP (TO to)
+                           (NP (DT the) (NN light) (NN emission)
+                               (PP (IN of)
+                                   (NP (JJ conventional) (NN X-ray) (JJ fluorescent) (NNS screens)))))))))
+       (-RRB- -RRB-)
+       (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (VBG following) (NNS efficiencies))
+        (VP (VBN obtained)
+            (PP (IN from)
+                (NP (NN JEDEC) (CC and) (NN RCA) (NNS specifications)))))
+    (AUX (VBD were))
+    (VP (VBN used)
+        (: :)
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (VBG following) (NN table)
+        (-LRB- -LRB-)
+        (CD 14-2)
+        (-RRB- -RRB-))
+    (VP (VBZ lists)
+        (NP (NP (DT the)
+                (-LRB- -LRB-)
+                (JJ luminous)
+                (-RRB- -RRB-)
+                (NN gain) (NNS values))
+            (VP (VBN computed)
+                (VP (VBG according)
+                    (PP (TO to)
+                        (NP (NN Eq.)
+                            (-LRB- -LRB-)
+                            (CD 6)
+                            (-RRB- -RRB-))))
+                (PP (IN with)
+                    (NP (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN possibility)
+        (PP (IN of)
+            (NP (DT a) (NN space) (NN charge) (NN blowup)
+                (PP (IN of)
+                    (NP (DT the) (NN screen) (NN crossover)
+                        (PP (IN of)
+                            (NP (DT the) (JJ elementary) (NN electron) (NNS bundles))))))))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN pointed)
+            
+            (PRT (IN out)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-4 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (ADJP (JJ obvious)))
+    (SBAR-4 (IN that)
+            (S (NP (PDT such)
+                   (DT an) (NN influence))
+               (AUX (MD can))
+               (ADVP (RB only))
+               (VP (VB be)
+                   (VP (VBN expected)
+                       (PP (IN in)
+                           (NP (DT the) (JJ final) (NN stage)
+                               (PP (IN of)
+                                   (NP (DT an) (NN image) (NN intensifier)
+                                       (PP (IN at)
+                                           (NP (ADJP (RB rather)
+                                                     (JJ high)) (NN output) (NNS levels))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NN Space) (NN charge) (NNS influences))
+    (AUX (MD will))
+    (ADVP (RB also))
+    (VP (VB decrease)
+        (PP (IN at)
+            (NP (VP (VBN increased))
+                (NNS voltages)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (JJ Electrostatic) (NNS systems)
+        (PP (IN of)
+            (NP (DT the) (JJ pseudo-symmetric) (NN type))))
+    (AUX (VBP have))
+    (VP (VBN been)
+        (VP (VBN tested)
+            (PP (IN for)
+                (NP (NN resolution) (NNS capabilities)))
+            (PP (IN by)
+                (S (NP (-NONE- *))
+                   (VP (VBG applying)
+                       (NP (NN electronography))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (NN resolution)
+        (PP (IN of)
+            (NP (CD 70) (: -)
+                (CD 80) (NN line-pairs)
+                (PP (IN per)
+                    (NP (NN millimeter))))))
+    (VP (VBZ appears)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB be)
+               (ADJP (JJ feasible))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ inherent) (NN resolution)
+        (PP (IN of)
+            (NP (DT a) (JJ cathodoluminescent) (NN phosphor) (NN screen))))
+    (X (VP (VBZ decreases)
+           (PP (IN with)
+               (NP (ADJP (RB increasingly)
+                         (JJ aggregate)) (NN thickness)))
+           (PP (-LRB- -LRB-)
+               (IN with)
+               (NP (VP (VBG increasing))
+                   (NN anode) (NN voltage))
+               (-RRB- -RRB-)))
+       (, ,)
+       (VP (VBZ decreases)
+           (PP (IN with)
+               (NP (NP (VP (VBG decreasing))
+                       (NN porosity))
+                   (-LRB- -LRB-)
+                   (ADVP (RB thus))
+                   (NP (DT the) (NN advantage)
+                       (PP (IN of)
+                           (NP (JJ cathodophoretic) (NN phosphor) (NN deposition))))
+                   (-RRB- -RRB-))))
+       (CC and)
+       (X (AUX (MD might))
+          (VP (VB be)
+              (VP (VBN impaired)
+                  (PP (IN by)
+                      (NP (DT the)
+                          (ADJP (RB normally)
+                                (VBN used))
+                          (NN aluminum) (NN mirror))))
+              ))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (PP (IN in)
+        (ADJP (JJ general)))
+    (, ,)
+    (S (NP (NP
+               (JJ elementary)
+               (NN light) (JJ optical) (NNS effects))
+           (, ,)
+           (NP (NN light) (NN scatter))
+           (, ,)
+           (CC and)
+           (NP (NN electron) (NN scatter)))
+       (VP (VBP determine)
+           (NP (DT the) (JJ obtainable) (NN resolution) (NN limit)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (PRP It))
+    (AUX (MD should))
+    (VP (VB be)
+        (VP (VBN noted)
+            
+            (SBAR (DT that)
+                  (S (NP (NN photoluminescence)
+                         (, ,)
+                         (ADVP (IN due)
+                               (PP (TO to)
+                                   (NP (NP (`` ``)
+                                           (NN Bremsstrahlung)
+                                           ('' ''))
+                                       (VP (VBN generated)
+                                           (PP (IN within)
+                                               (NP (DT the) (NN viewing) (NN screen)))
+                                           (PP (IN by)
+                                               (NP (NN electron) (NN impact)))))))
+                         (, ,))
+                     (VP (VBZ appears)
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB be)
+                                (ADJP (JJ important)
+                                      (SBAR (RB only)
+                                            (IN if)
+                                            (S (NP (NN anode) (NNS voltages)
+                                                   (PP (IN in)
+                                                       (NP (NN excess)
+                                                           (PP (IN of)
+                                                               (NP (CD 30) (NN KV))))))
+                                               (AUX (VBP are))
+                                               (VP (VBN utilized)
+                                                   ))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (PRP It))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN stated)
+            (SBAR (IN that)
+                  (S (NP (VP (VBN settled))
+                         (JJ cathodoluminescent) (NN phosphor) (NNS screens))
+                     (AUX (MD may))
+                     (VP (VB have)
+                         (NP (DT a) (VBG limiting) (NN resolution)
+                             (PP (IN of)
+                                 (NP (CD 60) (-NONE- A[fj]))))
+                         (PP (IN at)
+                             (NP (JJ high) (NN voltage) (NNS values)
+                                 (PP (IN of)
+                                     (NP (RB approximately)
+                                         (CD 20) (-NONE- A[fj])))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (DT the)
+            (ADJP (JJR further))
+            (NN discussion)))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD shall))
+       (ADVP (RB thus))
+       (VP (VB assume)
+           (NP (NP (DT an) (NN electron) (JJ optical) (NN resolution)
+                   (PP (IN of)
+                       (NP (CD 80) (-NONE- A[fj]))))
+               (CC and)
+               (NP (NN phosphor) (NN screen) (NN resolution)
+                   (PP (IN of)
+                       (NP (CD 60) (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

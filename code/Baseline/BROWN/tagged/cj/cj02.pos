@@ -1,0 +1,1593 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Abstract/NN Experiments/NNS ]
+were/VBD made/VBN on/IN 
+[ an/DT electric/JJ arc/NN ]
+applying/VBG 
+[ a/DT porous/JJ graphite/NN anode/NN ]
+cooled/VBN by/IN 
+[ a/DT transpiring/VBG gas/NN ]
+ (/( 
+[ Argon/NN ]
+ )/) ./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ the/DT energy/NN ]
+transferred/VBN from/IN 
+[ the/DT arc/NN ]
+to/TO 
+[ the/DT anode/NN ]
+was/VBD partly/RB fed/VBN back/RB into/IN 
+[ the/DT arc/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD shown/VBN that/IN by/IN 
+[ proper/JJ anode/NN design/NN ]
+
+[ the/DT net/JJ energy/NN loss/NN ]
+of/IN 
+[ the/DT arc/NN ]
+to/TO 
+[ the/DT anode/NN ]
+could/MD be/VB reduced/VBN to/TO approximately/RB 
+[ 15/CD %/NN ]
+of/IN 
+[ the/DT total/JJ arc/NN energy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT detailed/JJ energy/NN balance/NN ]
+of/IN 
+[ the/DT anode/NN ]
+was/VBD established/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN ablation/NN ]
+could/MD be/VB reduced/VBN to/TO 
+[ a/DT negligible/JJ amount/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT dependence/NN ]
+of/IN 
+[ the/DT arc/NN voltage/NN ]
+upon/IN 
+[ the/DT mass/NN flow/NN velocity/NN ]
+of/IN 
+[ the/DT transpirating/VBG gas/NN ]
+was/VBD investigated/VBN for/IN 
+[ various/JJ arc/NN lengths/NNS ]
+and/CC 
+[ currents/NNS ]
+between/IN 
+[ 100/CD Amp/NNP ]
+and/CC 
+[ 200/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Qualitative/JJ observations/NNS ]
+were/VBD made/VBN and/CC 
+[ high-speed/JJ motion/NN pictures/NNS ]
+were/VBD taken/VBN to/TO study/VB 
+[ flow/NN phenomena/NNS ]
+in/IN 
+[ the/DT arc/NN ]
+at/IN 
+[ various/JJ mass/NN flow/NN velocities/NNS ]
+./. 
+==================================
+
+[ Introduction/NN ]
+
+[ The/DT high/JJ heat/NN fluxes/NNS ]
+existing/VBG at/IN 
+[ the/DT electrode/NN surfaces/NNS ]
+of/IN 
+[ electric/JJ arcs/NNS ]
+necessitate/VBP 
+[ extensive/JJ cooling/NN ]
+to/TO prevent/VB 
+[ electrode/NN ablation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cooling/NN requirements/NNS ]
+are/VBP particularly/RB severe/JJ at/IN 
+[ the/DT anode/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ free-burning/JJ electric/JJ arcs/NNS ]
+,/, for/IN 
+[ instance/NN ]
+,/, approximately/RB 
+[ 90/CD %/NN ]
+of/IN 
+[ the/DT total/JJ arc/NN power/NN ]
+is/VBZ transferred/VBN to/TO 
+[ the/DT anode/NN giving/VBG rise/NN ]
+to/TO 
+[ local/JJ heat/NN fluxes/NNS ]
+in/IN 
+[ excess/NN ]
+of/IN 
+[ A[fj]/SYM ]
+as/IN measured/VBN by/IN 
+[ the/DT authors/NNS ]
+--/: 
+[ the/DT exact/JJ value/NN ]
+depending/VBG on/IN 
+[ the/DT arc/NN atmosphere/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ plasma/NN generators/NNS ]
+as/RB currently/RB commercially/RB available/JJ for/IN 
+[ industrial/JJ use/NN ]
+or/CC as/IN 
+[ high/JJ temperature/NN research/NN tools/NNS ]
+often/RB more/JJR than/IN 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT total/JJ energy/NN input/NN ]
+is/VBZ being/VBG transferred/VBN to/TO 
+[ the/DT cooling/NN medium/NN ]
+of/IN 
+[ the/DT anode/NN ]
+./. 
+==================================
+
+[ The/DT higher/JJR heat/NN transfer/NN rates/NNS ]
+at/IN 
+[ the/DT anode/NN ]
+compared/VBN with/IN 
+[ those/DT ]
+at/IN 
+[ the/DT cathode/NN ]
+can/MD be/VB explained/VBN by/IN 
+[ the/DT physical/JJ phenomena/NNS ]
+occurring/VBG in/IN 
+[ free/JJ|RB burning/VBG arcs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ plasma/NN generators/NNS ]
+
+[ the/DT superimposed/JJ forced/VBN convection/NN ]
+may/MD modify/VB 
+[ the/DT picture/NN ]
+somewhat/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT heat/NN transfer/NN ]
+to/TO 
+[ the/DT anode/NN ]
+is/VBZ due/JJ to/TO 
+[ the/DT following/VBG effects/NNS ]
+:/: 
+[ 1/LS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Heat/NN ]
+of/IN 
+[ condensation/NN ]
+ (/( 
+[ work/NN function/NN ]
+ )/) plus/CC 
+[ kinetic/JJ energy/NN ]
+of/IN 
+[ the/DT electrons/NNS ]
+impinging/VBG on/IN 
+[ the/DT anode/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT energy/NN transfer/NN ]
+depends/VBZ on/IN 
+[ the/DT current/NN ]
+,/, 
+[ the/DT temperature/NN ]
+in/IN 
+[ the/DT arc/NN column/NN ]
+,/, 
+[ the/DT anode/NN material/NN ]
+,/, and/CC 
+[ the/DT conditions/NNS ]
+in/IN 
+[ the/DT anode/NN sheath/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/LS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Heat/NN transfer/NN ]
+by/IN 
+[ molecular/JJ conduction/NN ]
+as/RB well/RB as/IN by/IN 
+[ radiation/NN ]
+from/IN 
+[ the/DT arc/NN column/NN ]
+./. 
+==================================
+
+[ The/DT heat/NN transfer/NN ]
+to/TO 
+[ the/DT anode/NN ]
+in/IN 
+[ free/RB burning/VBG arcs/NNS ]
+is/VBZ enhanced/VBN by/IN 
+[ a/DT hot/JJ gas/NN jet/NN ]
+flowing/VBG from/IN 
+[ the/DT cathode/NN ]
+towards/IN 
+[ the/DT anode/NN ]
+with/IN 
+[ velocities/NNS ]
+up/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT phenomenon/NN ]
+has/VBZ been/VBN experimentally/RB investigated/VBN in/IN 
+[ detail/NN ]
+by/IN 
+[ Maecker/NNP ]
+ (/( 
+[ Ref./NN 1/CD ]
+ )/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT pressure/NN gradient/NN ]
+producing/VBG 
+[ the/DT jet/NN ]
+is/VBZ due/JJ to/TO 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT magnetic/JJ field/NN ]
+in/IN 
+[ the/DT arc/NN ]
+ (/( 
+[ rapid/JJ decrease/NN ]
+of/IN 
+[ current/NN density/NN ]
+from/IN 
+[ cathode/NN ]
+to/TO 
+[ the/DT anode/NN ]
+ )/) ./. 
+==================================
+
+==================================
+==================================
+Hence/RB ,/, 
+[ the/DT flow/NN conditions/NNS ]
+at/IN 
+[ the/DT anode/NN ]
+of/IN 
+[ free/RB burning/VBG arcs/NNS ]
+resemble/VBP 
+[ those/DT ]
+near/IN 
+[ a/DT stagnation/NN point/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ apparent/JJ from/IN 
+[ the/DT above/JJ ]
+and/CC from/IN 
+[ experimental/JJ evidence/NN ]
+that/IN 
+[ the/DT cooling/NN requirements/NNS ]
+for/IN 
+[ the/DT anode/NN ]
+of/IN 
+[ free/RB burning/VBG arcs/NNS ]
+are/VBP large/JJ compared/VBN with/IN 
+[ those/DT ]
+for/IN 
+[ the/DT cathode/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT gas/NN flow/NN ]
+through/IN 
+[ a/DT plasma/NN generator/NN ]
+will/MD modify/VB 
+[ these/DT conditions/NNS ]
+;/: ;/: however/RB ,/, 
+[ the/DT anode/NN ]
+is/VBZ still/RB 
+[ the/DT part/NN ]
+receiving/VBG 
+[ the/DT largest/JJS heat/NN flux/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT attempt/NN ]
+to/TO improve/VB 
+[ the/DT life/NN ]
+of/IN 
+[ the/DT anodes/NNS ]
+or/CC 
+[ the/DT efficiency/NN ]
+of/IN 
+[ the/DT plasma/NN generators/NNS ]
+must/MD ,/, therefore/RB ,/, 
+[ aim/VB ]
+at/IN 
+[ a/DT reduction/NN ]
+of/IN 
+[ the/DT anode/NN loss/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT following/VBG possibilities/NNS ]
+exist/VBP for/IN achieving/VBG 
+[ this/DT ]
+:/: 
+[ 1/LS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT use/NN ]
+of/IN 
+[ high/JJ voltages/NNS ]
+and/CC 
+[ low/JJ currents/NNS ]
+by/IN 
+[ proper/JJ design/NN ]
+to/TO reduce/VB 
+[ electron/NN heat/NN transfer/NN ]
+to/TO 
+[ the/DT anode/NN ]
+for/IN 
+[ a/DT given/VBN power/NN output/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/LS ]
+./. 
+==================================
+
+[ Continuous/JJ motion/NN ]
+of/IN 
+[ the/DT arc/NN contact/NN area/NN ]
+at/IN 
+[ the/DT anode/NN ]
+by/IN 
+[ flow/NN ]
+or/CC 
+[ magnetic/JJ forces/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 3/LS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Feedback/NN ]
+of/IN 
+[ the/DT energy/NN ]
+transferred/VBN to/TO 
+[ the/DT anode/NN ]
+by/IN 
+[ applying/VBG gas/NN transpiration/NN ]
+through/IN 
+[ the/DT anode/NN ]
+./. 
+==================================
+
+[ The/DT third/JJ method/NN ]
+was/VBD ,/, to/TO 
+[ our/PRP$ knowledge/NN ]
+,/, successfully/RB applied/VBN for/IN 
+[ the/DT first/JJ time/NN ]
+by/IN 
+[ C./NNP Sheer/NNP ]
+and/CC 
+[ co-workers/NNS ]
+ (/( 
+[ Ref./NN 2/CD ]
+ )/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT purpose/NN ]
+of/IN 
+[ the/DT present/JJ study/NN ]
+is/VBZ to/TO study/VB 
+[ the/DT thermal/JJ conditions/NNS ]
+and/CC to/TO establish/VB 
+[ an/DT energy/NN balance/NN ]
+for/IN 
+[ a/DT transpiration/NN ]
+cooled/VBN 
+[ anode/NN ]
+as/RB well/RB as/IN 
+[ the/DT effect/NN ]
+of/IN blowing/VBG|NN on/IN 
+[ the/DT arc/NN voltage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Gas/NN injection/NN ]
+through/IN 
+[ a/DT porous/JJ anode/NN ]
+ (/( 
+[ transpiration/NN ]
+cooling/NN )/) not/RB only/RB feeds/VBZ back/RB 
+[ the/DT energy/NN ]
+transferred/VBN to/TO 
+[ the/DT anode/NN ]
+by/IN 
+[ the/DT above/JJ mentioned/VBN processes/NNS ]
+,/, but/CC also/RB modifies/VBZ 
+[ the/DT conditions/NNS ]
+in/IN 
+[ the/DT arc/NN ]
+
+[ itself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT detailed/JJ study/NN ]
+of/IN 
+[ this/DT latter/JJ phenomenon/NN ]
+was/VBD not/RB attempted/VBN in/IN 
+[ this/DT paper/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Argon/NN ]
+was/VBD used/VBN as/IN 
+[ a/DT blowing/NN gas/NN ]
+to/TO exclude/VB 
+[ any/DT effects/NNS ]
+of/IN 
+[ dissociation/NN ]
+or/CC 
+[ chemical/JJ reaction/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN material/NN ]
+was/VBD 
+[ porous/JJ graphite/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Sintered/VBN 
+[ porous/JJ metals/NNS ]
+should/MD be/VB usable/JJ in/IN 
+[ principle/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ technical/JJ difficulties/NNS ]
+arise/VBP by/IN melting/VBG at/IN 
+[ local/JJ hot/JJ spots/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT experimental/JJ arrangement/NN ]
+as/IN described/VBN below/RB is/VBZ based/VBN on/IN 
+[ the/DT geometry/NN ]
+of/IN 
+[ free/RB burning/VBG arcs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ direct/JJ comparisons/NNS ]
+can/MD be/VB drawn/VBN with/IN 
+[ free/RB burning/VBG arcs/NNS ]
+
+[ which/WDT ]
+have/VB been/VBN studied/VBN in/IN 
+[ detail/NN ]
+during/IN 
+[ the/DT past/JJ years/NNS ]
+and/CC 
+[ decades/NNS ]
+by/IN 
+[ numerous/JJ investigators/NNS ]
+ (/( 
+[ Ref./NN 3/CD ]
+ )/) ./. 
+==================================
+
+[ Experimental/JJ apparatus/NN Figures/NNS 1/CD ]
+to/TO 
+[ 3/CD show/VBP ]
+photographic/JJ and/CC 
+[ schematic/JJ views/NNS ]
+of/IN 
+[ the/DT test/NN stand/NN ]
+and/CC of/IN 
+[ two/CD different/JJ models/NNS ]
+of/IN 
+[ the/DT anode/NN holder/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cathode/NN ]
+consisted/VBD of/IN 
+[ a/DT 14/CD ]
+''/NN
+[ diameter/NN ]
+thoriated/VBN 
+[ tungsten/NN rod/NN ]
+attached/VBN to/TO 
+[ a/DT water/NN ]
+cooled/VBN 
+[ copper/NN tube/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT tube/NN ]
+could/MD be/VB adjusted/VBN in/IN 
+[ its/PRP$ axial/JJ direction/NN ]
+by/IN 
+[ an/DT electric/JJ drive/NN ]
+to/TO establish/VB 
+[ the/DT required/VBN electrode/NN spacing/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN ]
+in/IN 
+[ figure/NN 2/CD ]
+was/VBD mounted/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ the/DT anode/NN holder/NN ]
+
+[ which/WDT ]
+was/VBD attached/VBN to/TO 
+[ a/DT steel/NN plug/NN ]
+and/CC 
+[ disk/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT transpiring/VBG gas/NN ]
+ejected/VBN from/IN 
+[ the/DT anode/NN ]
+formed/VBD 
+[ a/DT jet/NN ]
+directed/VBD axially/RB towards/IN 
+[ the/DT cathode/NN ]
+below/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ Inflow/NN ]
+of/IN 
+[ air/NN ]
+from/IN 
+[ the/DT surrounding/VBG atmosphere/NN ]
+was/VBD prevented/VBN by/IN 
+[ the/DT two/CD disks/NNS ]
+shown/VBN in/IN 
+[ figure/NN 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Argon/NN ]
+was/VBD also/RB blown/VBN at/IN 
+[ low/JJ velocities/NNS ]
+ (/( 
+[ mass/JJ flow/NN rate/NN A[fj]/SYM ]
+ )/) through/IN 
+[ a/DT tube/NN ]
+coaxial/JJ with/IN 
+[ the/DT cathode/NN ]
+as/IN 
+[ an/DT additional/JJ precaution/NN ]
+against/IN 
+[ contamination/NN ]
+of/IN 
+[ the/DT arc/NN ]
+by/IN 
+[ air/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN ]
+consisted/VBD of/IN 
+[ a/DT 12/CD inch/NN diameter/NN porous/JJ graphite/NN plug/NN ]
+,/, 
+[ 14/CD inch/NN ]
+long/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT graphite/NN ]
+was/VBD 
+[ National/NNP Carbon/NNP NC/NNP 60/CD ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ a/DT porosity/NN ]
+of/IN 
+[ 50/CD %/NN ]
+and/CC 
+[ an/DT average/JJ pore/NN size/NN ]
+of/IN 
+[ 30/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT small/JJ pore/NN size/NN ]
+was/VBD required/VBN to/TO ensure/VB 
+[ uniformity/NN ]
+of/IN 
+[ the/DT flow/NN ]
+leaving/VBG 
+[ the/DT anode/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN plug/NN ]
+ (/( 
+[ Figure/NN 2/CD ]
+ )/) was/VBD inserted/VBN into/IN 
+[ a/DT carbon/NN anode/NN holder/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT shielded/VBN thermocouple/NN ]
+was/VBD used/VBN to/TO measure/VB 
+[ the/DT upstream/JJ temperature/NN ]
+of/IN 
+[ the/DT transpiring/VBG gas/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD exposed/VBN to/TO 
+[ a/DT high/JJ velocity/NN gas/NN jet/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT plug/NN ]
+and/CC 
+[ a/DT tube/NN ]
+with/IN 
+[ holes/NNS ]
+in/IN 
+[ its/PRP$ cylindrical/JJ walls/NNS ]
+divided/VBD 
+[ the/DT chamber/NN ]
+above/IN 
+[ the/DT porous/JJ plug/NN ]
+into/IN 
+[ two/CD parts/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT arrangement/NN ]
+had/VBD 
+[ the/DT purpose/NN ]
+to/TO prevent/VB heated/VBN 
+[ gas/NN ]
+to/TO reach/VB 
+[ the/DT thermocouple/NN ]
+by/IN 
+[ natural/NN convection/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Two/CD pyrometers/NNS ]
+shown/VBN in/IN 
+[ figure/NN 1/CD ]
+and/CC 
+[ 2/CD ]
+ (/( 
+[ Pyrometer/NNP Instrument/NNP Co/NNP ]
+./. 
+==================================
+
+[ Model/NN 95/CD ]
+ )/) served/VBD for/IN 
+[ simultaneous/JJ measurement/NN ]
+of/IN 
+[ the/DT anode/NN surface/NN temperature/NN ]
+and/CC 
+[ the/DT temperature/NN distribution/NN ]
+along/IN 
+[ the/DT anode/NN holder/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Three/CD thermocouples/NNS ]
+were/VBD placed/VBN at/IN 
+[ different/JJ locations/NNS ]
+in/IN 
+[ the/DT aluminum/NN disk/NN ]
+surrounding/VBG 
+[ the/DT anode/NN holder/NN ]
+to/TO determine/VB 
+[ its/PRP$ temperature/NN ]
+./. 
+==================================
+
+[ Another/DT anode/NN holder/NN ]
+used/VBN in/IN 
+[ the/DT experiments/NNS ]
+is/VBZ shown/VBN in/IN 
+[ figure/NN 3/CD ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ this/DT design/NN ]
+
+[ the/DT anode/NN holder/NN ]
+is/VBZ 
+[ water/NN ]
+cooled/VBN and/CC 
+[ the/DT heat/NN losses/NNS ]
+by/IN 
+[ conduction/NN ]
+from/IN 
+[ the/DT anode/NN ]
+were/VBD determined/VBN by/IN measuring/VBG 
+[ the/DT temperature/NN rise/NN ]
+of/IN 
+[ the/DT coolant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO reduce/VB 
+[ heat/NN transfer/NN ]
+from/IN 
+[ the/DT hot/JJ gas/NN ]
+to/TO 
+[ this/DT anode/NN holder/NN ]
+outside/IN 
+[ the/DT regime/NN ]
+of/IN 
+[ the/DT arc/NN ]
+,/, 
+[ a/DT carbon/NN shield/NN ]
+was/VBD attached/VBN to/TO 
+[ the/DT surface/NN ]
+providing/VBG 
+[ an/DT air/NN gap/NN ]
+of/IN 
+[ 116/CD inch/NN ]
+between/IN 
+[ the/DT plate/NN ]
+and/CC 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT anode/NN holder/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT inner/JJ surface/NN ]
+of/IN 
+[ the/DT carbon/NN shield/NN ]
+was/VBD covered/VBN with/IN 
+[ aluminum/NN foil/NN ]
+to/TO reduce/VB 
+[ radiation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Temperatures/NNS ]
+of/IN 
+[ the/DT shield/NN ]
+and/CC of/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT water-cooled/JJ anode/NN holder/NN ]
+were/VBD measured/VBN by/IN 
+[ thermocouples/NNS ]
+to/TO account/VB for/IN 
+[ heat/NN ]
+received/VBN by/IN 
+[ the/DT coolant/NN ]
+but/CC not/RB originating/VBG from/IN 
+[ the/DT anode/NN plug/NN ]
+./. 
+==================================
+
+[ The/DT argon/NN flow/NN ]
+from/IN 
+[ commercial/JJ bottles/NNS ]
+was/VBD regulated/VBN by/IN 
+[ a/DT pressure/NN regulator/NN ]
+and/CC measured/VBN with/IN 
+[ a/DT gas/NN flow/NN rator/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT power/NN source/NN ]
+was/VBD 
+[ a/DT commercial/JJ D.C./NN rectifier/NN ]
+./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ 100/CD Amp/NNP ]
+
+[ the/DT 360/CD cycle/NN ripple/NN ]
+was/VBD less/JJR than/IN 
+[ 0.5/CD V/NN ]
+ (/( 
+[ peak/NN ]
+to/TO 
+[ peak/NN ]
+ )/) with/IN 
+[ a/DT resistive/JJ load/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT current/NN ]
+was/VBD regulated/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT variable/JJ resistor/NN ]
+and/CC measured/VBN with/IN 
+[ a/DT 50/CD mV/NN shunt/NN ]
+and/CC 
+[ millivoltmeter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT arc/NN voltage/NN ]
+was/VBD measured/VBN with/IN 
+[ a/DT voltmeter/NN ]
+
+[ whose/WP$ terminals/NNS ]
+were/VBD connected/VBN to/TO 
+[ the/DT anode/NN ]
+and/CC 
+[ cathode/NN holders/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Because/IN of/IN 
+[ the/DT falling/VBG characteristic/NN ]
+of/IN 
+[ the/DT rectifier/NN ]
+,/, 
+[ no/DT ballast/NN resistor/NN ]
+was/VBD required/VBN for/IN 
+[ stability/NN ]
+of/IN 
+[ operation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT high/JJ frequency/NN starter/NN ]
+was/VBD used/VBN to/TO start/RP 
+[ the/DT arc/NN ]
+./. 
+==================================
+
+[ Experimental/JJ procedure/NN ]
+and/CC 
+[ error/NN analysis/NN 1/LS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Transpiration/NN ]
+cooled/VBN 
+[ anode/NN ]
+with/IN 
+[ carbon/NN anode/NN holder/NN ]
+
+[ The/DT anode/NN holder/NN ]
+shown/VBN in/IN 
+[ figure/NN 2/CD ]
+was/VBD designed/VBN with/IN 
+[ two/CD goals/NNS ]
+in/IN 
+[ mind/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT heat/NN losses/NNS ]
+of/IN 
+[ the/DT holder/NN ]
+were/VBD to/TO be/VB reduced/VBN as/RB far/RB as/IN 
+[ possible/JJ ]
+and/CC 
+[ they/PRP ]
+should/MD be/VB such/JJ that/IN 
+[ an/DT accurate/JJ heat/NN balance/NN ]
+can/MD be/VB made/VBN ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ order/NN ]
+to/TO reduce/VB 
+[ the/DT number/NN ]
+of/IN 
+[ variable/JJ parameters/NNS ]
+,/, 
+[ all/DT experiments/NNS ]
+were/VBD made/VBN with/IN 
+[ a/DT constant/JJ arc/NN length/NN ]
+of/IN 
+[ 0.5/CD ]
+''/NN and/CC 
+[ a/DT current/NN ]
+of/IN 
+[ 100/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT argon/NN flow/NN ]
+through/IN 
+[ the/DT porous/JJ anode/NN ]
+was/VBD varied/VBN systematically/RB between/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT lower/JJ limit/NN ]
+was/VBD determined/VBN by/IN 
+[ the/DT fact/NN ]
+that/IN for/IN 
+[ smaller/JJR flow/NN ]
+rates/NNS 
+[ the/DT arc/NN ]
+started/VBD to/TO strike/VB to/TO 
+[ the/DT anode/NN holder/NN ]
+instead/RB of/IN to/TO 
+[ the/DT porous/JJ graphite/NN plug/NN ]
+and/CC that/IN 
+[ it/PRP ]
+became/VBD highly/RB unstable/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT upper/JJ limit/NN ]
+was/VBD determined/VBN by/IN 
+[ the/DT difficulty/NN ]
+of/IN measuring/VBG 
+[ the/DT characteristic/JJ anode/NN surface/NN temperature/NN ]
+ (/( see/VB below/RB )/) since/IN only/RB 
+[ a/DT small/JJ region/NN ]
+of/IN 
+[ the/DT anode/NN ]
+was/VBD struck/VBN by/IN 
+[ the/DT arc/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT region/NN ]
+
+[ which/WDT ]
+had/VBD 
+[ a/DT higher/JJR temperature/NN ]
+than/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT anode/NN surface/NN ]
+changed/VBD 
+[ size/NN ]
+and/CC 
+[ location/NN ]
+continuously/RB ./. 
+==================================
+For/IN 
+[ each/DT mass/NN flow/NN rate/NN ]
+
+[ the/DT arc/NN voltage/NN ]
+was/VBD measured/VBN ./. 
+==================================
+
+==================================
+==================================
+To/TO measure/VB 
+[ the/DT surface/NN temperature/NN ]
+of/IN 
+[ the/DT anode/NN plug/NN ]
+,/, 
+[ the/DT surface/NN ]
+was/VBD scanned/VBN with/IN 
+[ a/DT pyrometer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ it/PRP ]
+turned/VBD out/RP ,/, 
+[ a/DT very/RB hot/JJ region/NN ]
+occurred/VBD on/IN 
+[ the/DT plug/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Its/PRP$ temperature/NN ]
+was/VBD denoted/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT size/NN ]
+of/IN 
+[ this/DT hot/JJ region/NN ]
+was/VBD estimated/VBN by/IN 
+[ eye/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT rest/NN ]
+of/IN 
+[ the/DT surface/NN ]
+had/VBD 
+[ a/DT temperature/NN ]
+
+[ which/WDT ]
+decreased/VBD towards/IN 
+[ the/DT outer/JJ diameter/NN ]
+of/IN 
+[ the/DT plug/NN ]
+./. 
+==================================
+
+[ The/DT mean/JJ temperature/NN ]
+of/IN 
+[ this/DT region/NN ]
+was/VBD approximated/VBN by/IN 
+[ the/DT temperature/NN ]
+measured/VBN halfways/RB between/IN 
+[ the/DT edge/NN ]
+of/IN 
+[ the/DT hot/JJ spot/NN ]
+and/CC 
+[ the/DT rim/NN ]
+of/IN 
+[ the/DT plug/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD denoted/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT mean/JJ temperature/NN ]
+of/IN 
+[ the/DT surface/NN ]
+was/VBD then/RB computed/VBN according/VBG to/TO 
+[ the/DT following/VBG relation/NN ]
+:/: 
+[ A[fj]/SYM ]
+where/WRB 
+[ x/NN ]
+is/VBZ 
+[ the/DT fraction/NN ]
+of/IN 
+[ the/DT plug/NN area/NN ]
+covered/VBN by/IN 
+[ the/DT hot/JJ spot/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Assuming/VBG 
+[ thermal/JJ equilibrium/NN ]
+between/IN 
+[ the/DT anode/NN surface/NN ]
+and/CC 
+[ the/DT transpiring/VBG argon/NN ]
+,/, 
+[ the/DT gas/NN enthalpy/NN rise/NN ]
+through/IN 
+[ the/DT anode/NN ]
+was/VBD calculated/VBN according/VBG to/TO 
+[ the/DT relation/NN A[fj]/SYM ]
+whereby/WRB 
+[ the/DT specific/NN heat/NN ]
+of/IN 
+[ argon/NN ]
+was/VBD taken/VBN as/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT calculation/NN ]
+results/VBZ in/IN 
+[ an/DT enthalpy/NN rise/NN ]
+
+[ which/WDT ]
+is/VBZ somewhat/RB high/JJ because/IN 
+[ it/PRP ]
+assumes/VBZ 
+[ a/DT mass/NN flow/NN ]
+equally/RB distributed/VBN over/IN 
+[ the/DT plug/NN cross/NN section/NN ]
+whereas/IN in/IN 
+[ reality/NN ]
+
+[ the/DT mass/NN velocity/NN ]
+is/VBZ expected/VBN to/TO be/VB smaller/JJR in/IN 
+[ the/DT regions/NNS ]
+of/IN 
+[ higher/JJR temperatures/NNS ]
+./. 
+==================================
+
+[ The/DT upstream/JJ gas/NN temperature/NN ]
+measured/VBN with/IN 
+[ the/DT thermocouple/NN ]
+shown/VBN in/IN 
+[ figure/NN 2/CD ]
+was/VBD 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT A[fj]/SYM values/NNS ]
+are/VBP listed/VBN in/IN 
+[ Table/NN 1/CD ]
+together/RB with/IN 
+[ the/DT measured/VBN surface/NN temperatures/NNS ]
+and/CC 
+[ arc/NN voltages/NNS ]
+./. 
+==================================
+Simultaneously/RB with/IN 
+[ the/DT anode/NN surface/NN temperature/NN ]
+and/CC 
+[ voltage/NN measurements/NNS pyrometer/NN readings/NNS ]
+were/VBD taken/VBN along/IN 
+[ the/DT cylindrical/JJ surface/NN ]
+of/IN 
+[ the/DT carbon/NN anode/NN holder/NN ]
+as/IN indicated/VBN on/IN 
+[ figure/NN 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT ]
+of/IN 
+[ these/DT temperatures/NNS ]
+are/VBP plotted/VBN in/IN 
+[ figure/NN 4/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+showed/VBD 
+[ no/DT marked/VBN dependence/NN ]
+on/IN 
+[ the/DT flow/NN rate/NN ]
+within/IN 
+[ the/DT accuracy/NN ]
+of/IN 
+[ these/DT measurements/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ the/DT dotted/JJ line/NN ]
+shown/VBN in/IN 
+[ figure/NN 4/CD ]
+was/VBD taken/VBN as/IN typical/JJ for/IN 
+[ the/DT temperature/NN distribution/NN ]
+for/IN 
+[ all/DT blowing/NN rates/NNS ]
+./. 
+==================================
+
+[ The/DT thermocouples/NNS ]
+in/IN 
+[ the/DT aluminum/NN disk/NN ]
+shown/VBN in/IN 
+[ figure/NN 2/CD ]
+indicated/VBD 
+[ an/DT equilibrium/NN temperature/NN ]
+of/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ This/DT temperature/NN ]
+was/VBD taken/VBN as/IN 
+[ environmental/JJ temperature/NN ]
+to/TO 
+[ which/WDT ]
+
+[ the/DT anode/NN holder/NN ]
+was/VBD exposed/VBN as/RB far/RB as/IN 
+[ radiation/NN ]
+is/VBZ concerned/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ sufficiently/RB 
+[ small/JJ ]
+compared/VBN with/IN 
+[ the/DT surface/NN temperature/NN ]
+of/IN 
+[ the/DT anode/NN holder/NN ]
+,/, to/TO make/VB 
+[ the/DT energy/NN flux/NN ]
+radiated/VBN from/IN 
+[ the/DT environment/NN ]
+toward/IN 
+[ the/DT anode/NN holder/NN ]
+negligible/JJ within/IN 
+[ the/DT accuracy/NN ]
+of/IN 
+[ the/DT present/JJ measurements/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT reflection/NN ]
+of/IN 
+[ radiation/NN ]
+originating/VBG from/IN 
+[ the/DT anode/NN holder/NN ]
+and/CC reflected/VBN back/RB to/TO 
+[ it/PRP ]
+by/IN 
+[ the/DT surrounding/VBG metal/NN surfaces/NNS ]
+should/MD also/RB be/VB small/JJ because/RB of/IN 
+[ the/DT peculiar/JJ characteristic/NN ]
+of/IN 
+[ the/DT metal/NN surfaces/NNS ]
+and/CC of/IN 
+[ the/DT specific/NN geometry/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT total/JJ heat/NN loss/NN ]
+through/IN 
+[ the/DT anode/NN holder/NN ]
+included/VBD also/RB 
+[ the/DT heat/NN ]
+conducted/VBN through/IN 
+[ the/DT base/NN ]
+of/IN 
+[ the/DT cylindrical/JJ piece/NN ]
+into/IN 
+[ the/DT adjacent/JJ metal/NN parts/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD calculated/VBN from/IN 
+[ the/DT temperature/NN gradient/NN A[fj]/SYM ]
+at/IN 
+[ A[fj]/SYM inch/NN ]
+as/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT total/JJ heat/NN flux/NN ]
+from/IN 
+[ the/DT porous/JJ plug/NN ]
+into/IN 
+[ the/DT plug/NN holder/NN ]
+is/VBZ thereby/RB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT temperature/NN distribution/NN ]
+of/IN 
+[ figure/NN 4/CD ]
+gives/VBZ 
+[ A[fj]/SYM ]
+for/IN 
+[ all/DT blowing/NN rates/NNS ]
+,/, assuming/VBG 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT temperature/NN dependent/JJ value/NN ]
+of/IN 
+[ \*\*/SYM ]
+[ ye/SYM ]
+was/VBD taken/VBN from/IN 
+[ Ref./NN 7/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT radiation/NN loss/NN ]
+from/IN 
+[ the/DT anode/NN surface/NN ]
+was/VBD computed/VBN according/VBG to/TO 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT mean/NN ]
+of/IN 
+[ the/DT fourth/JJ powers/NNS ]
+of/IN 
+[ the/DT temperatures/NNS A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+calculated/VBN analogously/RB to/TO 
+[ equation/NN ]
+ (/( 
+[ 1/CD ]
+ )/) ./. 
+==================================
+==================================
+==================================

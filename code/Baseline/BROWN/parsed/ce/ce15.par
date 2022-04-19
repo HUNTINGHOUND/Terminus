@@ -1,0 +1,2722 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP Note)
+ :)
+(   
+ (S (NP Directions)
+    (AUX are)
+    (VP written)
+    (PP for
+	(NP those
+	    (SBAR 
+	     (WHNP who)
+	     (S (NP T)
+		(AUX have)
+		(VP had
+		    (NP  previous experience
+			 (PP in
+			     (S  (NP *)  
+				 (VP making
+				     (NP pottery)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP Instructions
+	(PP for
+	    (S  (NP *)
+		(VP (VP preparing
+			(NP clay))
+		    ,
+		    (VP drying)
+		    ,
+		    (VP glazing)
+		    and
+		    (VP firing)))))
+    (AUX are)
+    (NEG not)
+    (VP given))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP  (NP Equipment)
+      :
+      (NP  Basic pottery studio equipment))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP  Wooden butter molds and cookie presses)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP  (NP Materials)
+      :
+      (NP (NP 
+	   Ceramic
+	   modeling
+	   clay)
+	  :
+	  (ADJP red
+		,
+		white or buff)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Stoneware clay
+       (PP for
+	   (NP tiles)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (NP  (NP (NP (NP Glazes)
+	      ,
+	      (NP one-stroke
+		  ceramic
+		  colors)
+	      ,
+	      (NP stains)
+	      ,
+	      (NP cones)))
+      (PP as
+	  (S (NP *)
+	     (VP indicated
+		 (PP in
+		     (NP the  individual instructions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP  General directions)
+ :)
+((S  (NP *) 
+     (VP Use
+	 (NP (NP  well-wedged clay)
+	     ,
+	     (ADJP (ADJP free
+			 (PP of
+			     (NP air bubbles)))
+		   and
+		   (ADJP pliable
+			 (ADVP enough)
+			 (S (NP *)
+			    (AUX to)
+			    (VP bend
+				(PP without
+				    (S  (NP *)
+					(VP cracking))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Clean
+	      (NP  wooden molds and presses)
+	      (ADVP thoroughly)))
+      ;
+      ;
+      (S (NP they)
+	 (AUX must)
+	 (VP be
+	     (ADJP free
+		   (PP of
+		       (NP (NP oil)
+			   ,
+			   (NP wax) 
+			   and 
+			   (NP dust)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP   Pressing
+       designs)
+ :)
+(    
+ (S (NP The size
+	(PP of
+	    (NP  wooden mold)))
+    (AUX will)
+    (VP determine
+	(NP (NP the amount
+		(PP of
+		    (NP clay)))
+	    (VP needed))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Roll
+	   (NP clay)
+	   (PP to
+	       (NP (NP thickness)
+		   (VP indicated
+		       (PP in
+			   (NP  individual instructions)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X (WHADVP Whenever)
+       (ADJP possible))
+    ,
+    (S  (NP *) 
+	(VP use
+	    (NP the  wooden mold)
+	    (PP as
+		(NP a pattern
+		    (PP for
+			(S  (NP *)
+			    (VP cutting
+				(NP clay)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP mold)
+	(VP has
+	    (NP (ADJP more
+		      (PP than
+			  (NP one)))
+		design cavity))))
+    ,
+    (S  (NP *) 
+	(VP make
+	    (NP  individual paper patterns))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP (VP Place
+		  (NP (NP mold) or (NP paper pattern))
+		  (PP on
+		      (NP  rolled clay)))
+	      and
+	      (VP cut
+		  (NP clay)
+		  (PP by
+		      (S (NP *)
+			 (VP holding
+			     (NP  knife)
+			     (PP in
+				 (NP  vertical position))))))))
+      *LRB*
+      (S (NP *)
+	 (VP cut
+	     (NP 
+	      more
+	      pieces
+	      (PP than
+		  (S (NP *) 
+		     (VP required
+			 (PP for
+			     (NP project)))))))
+	 (S (NP *)
+	    (AUX to)
+	    (VP make
+		(NP allowance)
+		(PP for
+		    (NP defects)))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP experiment
+	      (PP with
+		  (NP defects))
+	      (PP for
+		  (NP decoration techniques
+		      of
+		      (NP (NP glazes) and (NP colors))))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Place
+	   (NP the  cut clay piece)
+	   (ADVP loosely)
+	   (PP over
+	       (NP the  carved cavity design side
+		   (PP of
+		       (NP  wooden mold))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP obtain
+	    (NP  clear impression
+		 (PP of
+		     (NP mold)))))
+    ,
+    (S  (NP *) 
+        (VP press
+            (NP clay)
+	    (ADVP (ADVP gently) but (ADVP firmly))
+	    (PP into
+		(NP mold cavity))
+	    ,
+	    (S (S  (NP *) 
+		   (VP starting
+		       (PP at
+			   (NP center))))
+	       and
+	       (S  (NP *) 
+		   (VP working
+		       (PP to
+			   (NP  outer edges))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Trim
+	   (NP  excess clay)
+	   (ADVP away
+		 (PP from
+		     (NP  outer edges)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (S (NP *)
+	 (VP Check
+	     (NP thickness
+		 (PP of
+		     (NP clay)))))
+      and
+      (S  (NP *)
+	  (VP build
+	      (PRT up)
+	      (NP  thin areas)
+	      (PP by
+		  (S (S  (NP *) 
+			 (VP moistening
+			     (NP surface)
+			     (PP with
+				 (NP a  little water))))
+		     and
+		     (S (NP *)  
+			(VP adding
+			    (NP  small pieces
+				 (PP of
+				     (NP clay))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Be
+	   (ADJP sure)
+	   (S (NP *)
+	      (AUX to)
+	      (VP press
+		  (NP the  additional clay)
+		  (ADVP firmly)
+		  (PP into
+		      (NP place))
+		  (PP without
+		      (S  (NP *) 
+			  (VP locking
+			      (PRT in)
+			      (NP air bubbles))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Allow
+	      (NP project)
+	      (S (NP *)
+		 (AUX to)
+		 (VP stand
+		     (PP for
+			 (NP  (ADVP about)
+			      five minutes))))))
+      *LRB*
+      (S (SBAR if
+	       (S (NP  wooden press mold)
+		  (VP is
+		      (NP a  good antique))))
+	 ,
+	 (S  (NP *) 
+	     (AUX do)
+	     (NEG not)
+	     (VP leave
+		 (NP clay)
+		 (ADVP in)
+		 (ADJP   too
+			 long))
+	     (SBAR  as
+		    (S (NP the dampness)
+		       (AUX may)
+		       (VP cause
+			   (S (NP mold)
+			      (AUX to)
+			      (VP crack)))))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP release
+	    (NP clay)
+	    (PP from
+		(NP mold))))
+    ,
+    (S (S  (NP *) 
+	   (VP place
+	       (NP hands)
+	       (PP in
+		   (NP a  cupped position))
+	       (PP around
+		   (NP project))))
+       ;
+       ;
+       (S  (NP *)
+	   (VP (ADVP gently)
+	       lift
+	       (NP the edge
+		   (PP on
+		       (NP  far side)))))
+       ,
+       (S (ADVP then)
+	  (S  (NP *)
+	      (VP continue
+		  (S (NP *)
+		     (AUX to)
+		     (VP release
+			 (NP edge)
+			 (PP (ADVP completely)
+			     around
+			     (NP mold)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S   (NP  Slight tapping
+	      (PP on
+		  (NP the underside
+		      (PP of
+			  (NP mold)))))
+	 (AUX will)
+	 (VP help
+	     (VP release
+		 (NP the clay))))
+    ,
+    but
+    (S (NP    too
+	      much
+	      agitation)
+       (X  (X (AUX will)
+	      (VP cause
+		  (NP the clay)
+		  (S (NP *)
+		     (AUX to)
+		     (VP become
+			 (ADJP soft)))))
+	   and
+	   (X (AUX will)
+	      (VP interfere
+		  (PP with
+		      (NP removal
+			  (PP of
+			      (NP clay))
+			  (PP from
+			      (NP mold)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Place
+	      (NP a piece
+		  (PP of
+		      (NP (NP plaster wall board) or (NP plaster bat))))
+	      (PP on
+		  (NP clay))))
+       and
+       (S  (NP *) 
+	   (VP reverse
+	       (NP (NP bat)
+		   ,
+		   (NP clay)
+		   and
+		   (NP mold))
+	       (PP in
+		   (NP one action)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (AUX will)
+    (VP prevent
+	(NP the clay)
+	(PP from
+	    (S  (NP *) 
+		(VP (VP twisting)
+		    or
+		    (VP bending))
+		,
+		(S  (NP *) 
+		    (VP causing
+			(NP warping))
+		    (X (WHADVP when)
+		       (VP fired)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Place
+	      (NP project)
+	      (PP on
+		  (NP table))))
+      and
+      (S (NP *) 
+	 (VP  (ADVP carefully)
+	      lift
+	      (NP the mold)
+	      (ADVP off))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Study
+	 (NP surface
+	     (PP of
+		 (NP clay)))
+	 (PP for
+	     (NP (NP defects)
+		 or
+		 (NP   desired
+		       corrections)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP clay)
+	      (VP is
+		  (PP (ADVP slightly)
+		      out
+		      (PP of
+			  (NP shape))))))
+    ,
+    (S (S  (NP *) 
+	   (VP square
+	       (NP  straight sides)
+	       (PP with
+		   (S (NP (NP guide sticks) or (NP rulers))
+		      (VP pressed
+			  (PP against
+			      (NP  opposite sides)))))))
+       ,
+       or
+       (S (NP *) 
+	  (VP smooth
+	      (NP  round pieces)
+	      (PP with
+		  (NP  damp fingers))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (S (NP the background
+		    (PP of
+			(NP design)))
+		(VP is
+		    (ADJP   too
+			    smooth)))
+	     ,
+	     or
+	     (S (NP you)
+		(VP wish
+		    (S (NP *)
+		       (AUX to)
+		       (VP create
+			   (NP a  wood-grained effect)))))))
+   ,
+   (S (NP it)
+      (AUX may)
+      (VP be
+	  (VP added
+	      (PP at
+		  (NP this time))
+	      (PP with
+		  (NP (NP a  dull tool)
+		      (ADJP  such
+			     (PP as
+				 (NP the handle
+				     (PP of
+					 (NP a  fine paintbrush)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Make
+	      (NP (NP slight
+		      ,
+		      smooth
+		      grooves)
+		  (ADVP rather
+			(PP than
+			    (NP cuts))))
+	      (PP for
+		  (NP the texture))))
+      *LRB*
+      (S (NP cuts)
+	 (AUX could)
+	 (VP cause
+	     (NP air pockets)
+	     (PP under
+		 (NP the glaze))
+	     (S  (NP *) 
+		 (VP creating
+		     (NP (NP pinholes) or (NP craters))
+		     (PP in
+			 (NP the glaze)))
+		 (PP during
+		     (NP firing)))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Leave
+	   (NP the clay)
+	   (PP on
+	       (NP plaster board))
+	   (S (NP *)
+	      (AUX to)
+	      (VP dry
+		  (ADVP slowly)))
+	   ,
+	   (VP covered
+	       (ADVP lightly)
+	       (PP with
+		   (NP a  loose piece
+		       (PP of
+			   (NP (NP plastic) or (NP cloth)))))
+	       (S (NP *)
+		  (AUX to)
+		  (VP prevent
+		      (VP warping))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP (NP  Rectangular tiles)
+     *LRB*
+     (NP (NP  opposite page)
+	 ,
+	 (NP right top))
+     *RRB*)
+ :)
+((S (NP Stoneware clay)
+    (AUX was)
+    (VP used
+	))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Clay)
+   (AUX was)
+   (VP rolled
+       (PP to
+	   (NP 14 ''
+	       ''
+	       thickness))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S   (NP Back
+	    (PP of
+		(NP clay)))
+	(VP  scored
+	     or
+	     roughened
+	     (PP for
+		 (NP  proper
+		      gripping
+		      surface))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP No bisque firing)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (X (S  (NP *) 
+	   (VP Glazed
+	       (PP with
+		   (NP two coats
+		       (PP of
+			   (NP 
+			    Creek-Turn
+			    white
+			    stoneware glaze))))))
+       *LRB*
+       (NP no glaze
+	   (PP on
+	       (NP (NP sides) or (NP bottom))))
+       *RRB*)
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Decorated
+	      (PP on
+		  (NP   unfired
+			glaze))
+	      (PP with
+		  (NP one coat
+		      (PP of
+			  (NP 
+			   one-stroke
+			   ceramic
+			   colors))))))
+      ;
+      ;
+      (S (NP  raised
+	      details
+	      (PP of
+		  (NP designs)))
+	 (AUX were)
+	 (VP colored
+	     (PP in
+		 (NP shades
+		     (PP of
+			 (ADJP yellow-green
+			       ,
+			       blue-green
+			       ,
+			       brown and pink)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Tiles)
+   (AUX were)
+   (VP fired
+       (ADVP once)
+       (PP to
+	   (NP cone 05))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP (NP  Round plaque)
+	  *LRB*
+	  (NP (NP  opposite page)
+	      ,
+	      (NP bottom))
+	  *RRB*)
+      :
+      (S (NP (NP  White clay)
+	     (VP-1 *pseudo-attach*))
+	 (AUX was)
+	 (VP used)
+	 ,
+	 (VP-1 rolled
+	       (PP to
+		   (NP 14 ''
+		       ''
+		       thickness)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S   (NP Bisque)
+	(VP fired
+	    (PP to
+		(NP cone 05))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S    (NP *)
+	  (VP Stained
+	      (PP with
+		  (NP 
+		   (NP Jacquelyn)
+		   's
+		   ceramic
+		   unfired
+		   stain))))
+    ,
+    (S  (NP *) 
+	(VP polished
+	    ,
+	    (X (VP following
+		   (NP 
+		    (NP manufacturer)
+		    's directions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  Opaque cantaloupe)
+	and
+	(NP  transparent wood brown))
+    (AUX were)
+    (VP used
+	))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP No  further firing)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP  (NP Paperweight)
+	  *LRB*
+	  (NP (NP  opposite page)
+	      ,
+	      (NP top
+		  left))
+	  *RRB*)
+     :
+     (S (NP (NP  Red clay)
+	    (VP-2 *pseudo-attach*))
+	(AUX was)
+	(VP used)
+	,
+	(VP-2 rolled
+	      (ADJP (NP 12 ''
+			'')
+		    thick))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Mold)
+      (AUX was)
+      (VP used
+	  (PP as
+	      (NP pattern)))
+      and
+      (X  (NP clay)
+	  (VP cut
+	      (PP by
+		  (S  (NP *)  
+		      (VP holding
+			  (NP knife)
+			  (PP at
+			      (NP (ADVP about)
+				  45-degree
+				  angle)))
+		      ,
+		      (S (NP *)
+			 (AUX to)
+			 (VP form
+			     (NP an undercut)
+			     ,
+			     (S  (NP *) 
+				 (VP making
+				     (NP base)
+				     (ADJP smaller
+					   (PP than
+					       (NP the pattern top)))))))))))
+      ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  While
+	   (S (NP clay)
+	      (AUX is)
+	      (ADVP still)
+	      (VP pressed
+		  (PP in
+		      (NP mold)))))
+    ,
+    (S  (NP *) 
+	(VP press
+	    (NP (NP  three
+		     equally
+		     spaced
+		     holes)
+		(ADJP  (NP 14 ''
+			   '')
+		       deep))
+	    ,
+	    (S  (NP *) 
+		(VP using
+		    (NP pencil eraser)))
+	    ,
+	    (PP in
+		(NP bottom
+		    (PP of
+			(NP clay)))))
+	(S (NP *)
+	   (AUX to)
+	   (VP allow
+	       (PP for
+		   (NP  proper
+			drying
+			and
+			firing))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP Paperweight)
+        (AUX may)
+	(VP be
+	    (VP personalized
+		 
+		(PP on
+		    (NP back))
+		(SBAR while
+		      (S (NP clay)
+			 (VP is
+			     (ADJP   leather
+				     hard)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (ADJP  Bisque
+	  fired
+	  (PP to
+	      (NP cone 05)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (ADJP Unglazed)
+   .)
+(  END_OF_TEXT_UNIT)
+((NP  (NP Jars
+	  (PP with
+	      (NP lids)))
+      *LRB*
+      (NP (NP  opposite page)
+	  ,
+	  (NP top
+	      left))
+      *RRB*)
+ :)
+(  
+ (S  (NP *) 
+     (VP Remove
+	 (NP  wooden design head)
+	 (PP from
+	     (NP bowl
+		 (PP of
+		     (NP butter mold))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Fill
+	(NP  small hole
+	     (PP in
+		 (NP bowl)))
+	(PP with
+	    (NP clay))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Make
+	      (NP paper patterns)
+	      (PP for
+		  (NP sections
+		      (PP of
+			  (NP  jar and  lid))))))
+      *LRB*
+      (S (NP *) 
+	 (VP see
+	     (NP (NP Fig. 1)
+		 ,
+		 (NP  opposite page))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Measurements
+	  (PP for
+	      (NP  rectangular pattern piece
+		   A)))
+      (AUX are)
+      (VP obtained
+	   
+	  (PP by
+	      (S  (NP *)
+		  (VP measuring
+		      (NP (NP   inside
+				circumference)
+			  and
+			  (NP depth
+			      (PP of
+				  (NP butter mold bowl)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Pattern
+	(PP for
+	    (NP  circular base piece
+		B)))
+    (VP is
+	(NP diameter
+	    (PP of
+		(NP (X A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Use
+	      (NP  wooden design head
+		   (PP of
+		       (NP mold)))
+	      (PP for
+		  (NP pattern
+		      C))))
+      ;
+      ;
+      (S (NP (NP pattern
+		 D)
+	     (PP for
+		 (NP lid)))
+	 (VP fits
+		  
+	     (PP over
+		 (NP top diameter
+		     (PP of
+			 (NP (X A[fj]))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S 
+    (NP Pattern
+	(PP for
+	    (NP  inner lid piece
+		E)))
+    (VP fits
+	(PP inside
+	    (NP (X A[fj])))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jars)
+   (AUX are)
+   (VP assembled
+	     
+       (PP in
+	   (NP bowl
+	       (PP of
+		   (NP butter mold))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Use
+	   (NP (NP (ADJP white or buff) clay)
+	       ,
+	       (VP rolled
+		   (PP to
+		       (NP 316 ''
+			   ''
+			   thickness))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Place
+	      (NP patterns)
+	      (PP on
+		  (NP  rolled clay))))
+      and
+      (S (NP *)
+	 (VP cut
+	     (PP around
+		 (NP them))
+	     (PP with
+		 (X  (NP knife)
+		     (PP in
+			 (NP  vertical position)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Place
+	   (NP clay pieces)
+	   (PP on
+	       (NP wall board))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (AUX To)
+       (VP assemble
+	   (NP jar)))
+    ,
+    (S  (NP *) 
+	(VP put
+	    (NP (NP paper pattern
+		    B)
+		(PP for
+		    (NP base)))
+	    (PP in
+		(NP bottom
+		    (PP of
+			(NP (NP mold and clay disk
+				B)
+			    (PP on
+				(NP top)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Line
+	   (NP sides
+	       (PP of
+		   (NP mold)))
+	   (PP with
+	       (NP paper pattern (X A[fj]))))) 
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP   Bevel 
+	    and 
+	    score
+	    (NP ends
+		(PP of
+		    (NP clay piece
+			A)))
+	    (SBAR  so
+		   that
+		   (S (NP they)
+		      (VP (VP overlap
+			      (PP about
+				  (NP 12 ''
+				      '')))
+			  and
+			  (VP make
+			      (NP  even thickness)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)
+	 (VP Place
+	     (NP clay piece
+		 A)
+	     (ADVP inside)))
+     ;
+     ;
+     (S  (NP *) 
+	 (VP use
+	     (NP slip)
+	     (S (NP *)
+		(AUX to)
+		(VP join
+		    (NP 
+		     overlapped
+		     ends)
+		    (ADVP together))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Join
+	   (NP B)
+	   (PP to
+	       (NP bottom
+		   (PP of
+		       (NP A))))
+	   ,
+	   (S  (NP *) 
+	       (VP (VP scoring)
+		   and
+		   (VP reinforcing
+		       (PP with
+			   (NP clay coil)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Trim
+	      (NP  excess clay)
+	      (PP from
+		  (PP around
+		      (NP lip
+			  of
+			  (NP mold))))))
+      and
+      (S (NP *)
+	 (VP set
+	     (ADVP aside))
+	 (SBAR  while
+		(S  (NP *) 
+		    (VP assembling
+			(NP lid))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (AUX To)
+	  (VP assemble
+	      (NP lid)))
+      ,
+      (S  (NP *) 
+	  (VP press
+	      (NP clay piece
+		  C)
+	      (PP in
+		  (NP cavity
+		      (PP of
+			  (NP  wooden design head)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Press
+	   (NP clay)
+	   (PP into
+	       (NP mold))
+	   (PP as
+	       (S (NP *)
+		  (VP instructed)
+		  (PP in
+		      (NP  General Directions))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Score
+	      (NP  plain side
+		  (PP of
+		      (NP C)))))
+      and
+      (S  (NP *)
+	  (VP leave
+	      (PP in
+		  (NP mold)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP (VP Score
+		  (NP one side
+		      (PP of
+			  (NP disk
+			      D))))
+	      ,
+	      (VP join
+		  (PP to
+		      (NP C)))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP (VP score
+		  (NP (NP other side
+			  (PP of
+			      (NP D)))
+		      and
+		      (NP one side
+			  (PP of
+			      (NP disk
+				  E)))))
+	      and
+	      (VP join
+		  (PP as
+		      (ADVP before))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S   
+    (SBAR While
+	  (S (NP   assembled
+		   lid)
+	     (VP is
+		 (ADVP still)
+		 (PP on
+		     (NP design head)))))
+    ,
+    (S (NP *)
+       (VP (ADVP gently
+		 but
+		 firmly)
+	   press
+	   (NP it)
+	   (PP on
+	       (NP plaster board)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  
+       (SBAR If
+	     (S (NP design head)
+		(VP has
+		    (NP a  deep cavity))))
+       ,
+       (S (NP clay lid)
+	  (AUX will)
+	  (VP be
+	      (ADJP   quite
+		     thick)
+	      (PP at
+		  (NP this point)))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP press
+	      (NP eraser
+		  (PP of
+		      (NP pencil)))
+	      (ADVP gently)
+	      (ADJP (NP 14 ''
+			'')
+		    deep)
+	      (PP into
+		  (NP  deep clay)))
+	  (S (NP *)
+	     (AUX to)
+	     (VP allow
+		 (NP vent
+		     (PP for
+			 (NP  
+			  proper
+			  drying
+			  and
+			  firing)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Check
+	      (NP fit
+		  (PP of
+		      (NP lid))
+		  (PP on
+		      (NP jar)))))
+      ;
+      ;
+      (S (SBAR if
+	       (S (NP  inner lid)
+		  (VP is
+		      (ADJP   too
+			     big))))
+	 ,
+	 (S  (NP *) 
+	     (VP trim
+		 (S (NP *)
+		    (AUX to)
+		    (VP fit))
+		 ,
+		 (S  (NP *) 
+		     (VP allowing
+			 (NP room
+			     (PP for
+				 (NP thickness
+				     (PP of
+					 (NP glaze)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Remove
+	   (NP lid)
+	   (PP from
+	       (NP head
+		   (PP of
+		       (NP mold))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Remove
+	   (NP jar)
+	   (PP from
+	       (NP mold))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Place
+	   (NP  jar)
+	   (PP on
+	       (NP plaster board))
+	   (PP with
+	       (X  (NP lid)
+		   (PP in
+		       (NP place))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP dry
+		  (ADVP slowly)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Bisque fire
+	 (PP to
+	     (NP  cone
+		  08))
+	 (PP with
+	     (X  (NP lid)
+		 (PP on
+		     (NP jar))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP an antique effect
+	    (PP on
+		(NP jars))))
+    ,
+    (S (S  (NP *) 
+	   (VP brush
+	       (NP 
+		Creek-Turn
+		brown
+		toner)
+	       (PP on
+		   (NP bisque ware))))
+       and
+       (S  (NP *)
+	   (VP sponge
+	       (NP it)
+	       (PRT off)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Glaze
+	   (PP with
+	       (NP two coats
+		   (PP of
+		       (NP (ADJP clear or transparent) matt glaze))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  large jar)
+   (AUX was)
+   (VP (VP brushed
+	     
+	   (PP with
+	       (NP 
+		Creek-Turn
+		green
+		toner)))
+       and
+       (VP sponged
+	   (PRT off))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Glaze
+	   (PP with
+	       (NP two coats
+		   (PP of
+		       (NP matt glazes
+			   (PP in
+			       (NP turquoise))))))
+	   (PP with
+	       (X  (NP touches
+		       (PP of
+			   (NP blossom pink)))
+		   (PP on
+		       (NP lid))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (X  
+      (WHADVP When)
+      (ADJP dry))
+     (S (NP they)
+	(AUX were)
+	(VP fired
+	     
+	    (PP to
+		(NP cone 06-05)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP  (NP  Little folks
+	   set)
+      :
+      *LRB*
+      (VP Made
+	  (PP from
+	      (NP 
+	       modern
+	       wooden
+	       molds)))
+      (X A[fj])
+      *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *) 
+    (VP Roll
+	(NP  white clay)
+	(PP to
+	    (NP 316 ''
+		''
+		thickness))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Salt) and (NP pepper))
+ :)
+((S  (NP *)  
+     (VP Use
+	 (NP  mold)
+	 (S (NP *)
+	    (AUX to)
+	    (VP cut
+		(NP four side pieces)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP (NP top and bottom) pieces))
+    ,
+    (S  (NP *) 
+        (VP use
+            (NP  short end
+                (PP of
+                    (NP mold)))
+	    (PP as
+		(NP measurement guide)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Press
+	  (NP the side pieces
+	      (PP of
+		  (NP clay)))
+	  (PP into
+	      (NP cavity
+		  (PP of
+		      (NP mold))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Trim
+	   (NP  excess clay)
+	   (PP from
+	       (NP rim
+		   (PP of
+		       (NP mold))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Cut
+	   (NP 
+	    beveled
+	    edge)
+	   (PP on
+	       (NP the  long sides
+		   (PP of
+		       (NP clay))))
+	   (PP at
+	       (NP a  45-degree angle)))
+       (S (NP *)
+	  (AUX to)
+	  (VP miter
+	      (NP corners))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP (VP Score
+		  (NP 
+		   beveled
+		   edges))
+	      and
+	      (VP remove
+		  (NP pieces)
+		  (PP from
+		      (NP mold)))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP place
+	      (ADVP  design-side
+		     up)
+	      (PP on
+		  (NP plaster board)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Make
+	 (NP all four sides)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Cut
+	      (NP (NP clay top) and (NP base pieces))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP place
+	      (PP on
+		  (NP plaster board)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Allow
+	   (NP all pieces)
+	   (S (NP *)
+	      (AUX to)
+	      (VP become
+		  (ADJP  leather hard))))
+       (PP before
+	   (S  (NP *)  
+	       (VP constructing
+		   (NP shaker)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S 
+    (S  (NP *)  
+	(AUX To)
+	(VP assemble))
+    :
+    (S  (NP *) 
+	(VP Construct
+	    (NP  sides
+		 ,
+		 bottom and top)
+	    (PP as
+		(PP for
+		    (NP box)))
+	    ,
+	    (S  (NP *) 
+		(VP using
+		    (NP slip)
+		    (PP on
+			(NP  (NP scored edges)
+			     and 
+			     (NP coils
+				 (PP of
+				     (NP clay)))))
+		    (S (NP *)
+		       (AUX to)
+		       (VP reinforce
+			   (NP seams))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Join
+	      (NP the four sides)
+	      (ADVP together))
+	  (ADVP first))
+      ,
+      (S  (ADVP then)
+	  (S  (NP *) 
+	      (VP add
+		  (NP the base))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP add
+	      (NP top))
+	  (ADVP last)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Use
+	   (NP water)
+	   (PP on
+	       (NP finger))
+	   (S (NP *)
+	      (AUX to)
+	      (VP smooth
+		  (NP (NP seams) and (NP edges))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Turn
+	 (NP shaker)
+	 (ADVP upside
+	       down)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Recess
+	   (NP base)
+	   (ADVP slightly))
+       (S (NP *)
+	  (AUX to)
+	  (VP allow
+	      (NP room
+		  (PP for
+		      (NP stopper))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Cut
+	   (NP hole
+	       (PP-1 *pseudo-attach*))
+	   (PP in
+	       (NP base))
+	   (PP-1 for
+	       (NP cork stopper))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Add
+	   (NP holes)
+	   (PP in
+	       (NP top))
+	   ,
+	   (S  (NP *)
+	       (VP forming
+		   (NP (NP  ``
+			    S
+			    ''
+			    (PP for
+				(NP salt)))
+		       and
+		       (NP  ``
+			    P
+			    ''
+			    (PP for
+				(NP pepper))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Set
+	   (ADVP aside)
+	   (S (NP *)
+	      (AUX to)
+	      (VP dry
+		  (ADVP thoroughly)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP  (NP Sugar) and (NP creamer))
+ :)
+(  
+ (S  (NP *) 
+     (VP Cut
+	 (NP (NP a strip
+		 (PP of
+		     (NP clay))
+		 (PP for
+		     (NP sides)))
+	     (ADJP   long
+		     (ADVP enough)
+		     and
+		     wide
+		     (ADVP enough)
+		     (PP for
+			 (NP three impressions
+			     (PP of
+				 (NP mold design))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Press
+	      (NP clay)
+	      (PP into
+		  (NP cavity
+		      (PP of
+			  (NP one mold))))
+	      (NP three times)))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP bevel
+	      (NP  overlapping
+		   ends)
+	      (PP for
+		  (NP splice joint))))
+      ,
+      (S (NP *)
+	 (VP score
+	     (NP 
+	      beveled
+	      edges))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Form
+	      (NP clay strip)
+	      (PP into
+		  (NP a cylinder))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP use
+	      (NP slip)
+	      (S (NP *)
+		 (AUX to)
+		 (VP join
+		     (NP  scored ends))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Place
+	   (NP cylinder)
+	   (PP on
+	       (NP a disk
+		   (PP of
+		       (NP (NP clay)
+			   (ADJP (ADVP slightly)
+				 larger
+				 (PP than
+				     (NP cylinder)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Score
+	      (NP bottom edge
+		  (PP of
+		      (NP cylinder)))))
+      and
+      (S (NP *)
+	 (VP join
+	     (PP to
+		 (NP disk))
+	     (PP with
+		 (NP slip)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Trim
+	      (ADVP away)
+	      (NP excess clay)))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP reinforce
+	      (NP seam)
+	      (PP with
+		  (NP a coil
+		      (PP of
+			  (NP clay)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP This)
+        (AUX will)
+        (VP form
+            (NP the sugar bowl)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Make
+	  (NP creamer)
+	  (NP the
+	      (ADJP same))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S   
+    (NP Handle
+	(PP for
+	    (NP creamer)))
+    (VP is
+	(NP (NP a strip
+		(PP of
+		    (NP clay)))
+	    (ADJP (ADJP (NP 12
+			    ''
+			    '')
+			wide)
+		  and
+		  (ADJP (NP 3-12 ''
+			    '')
+			long)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (AUX To)
+       (VP add
+	   (NP handle)))
+    ,
+    (S  (NP *) 
+	(VP place
+	    (NP a  wooden dowel)
+	    (PP against
+		(NP the  inside wall
+		    (PP of
+			(NP creamer)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Score
+	   (NP outside
+	       (PP of
+		   (NP container))))
+       (SBAR 
+	(WHADVP where)
+	(S (NP handle ends)
+	   (AUX will)
+	   (VP be
+	       (VP joined
+		   )))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Bend
+	      (NP handle)))
+      ;
+      ;
+      (S (NP *)  
+	 (VP press
+	     (NP  scored handle ends)
+	     (ADVP firmly)
+	     (PP in
+		 (NP place))
+	     (S (NP *)
+		(VP using
+		    (NP dowel)
+		    (S (NP *)
+		       (AUX to)
+		       (VP reinforce
+			   (NP container))))
+		(SBAR   while
+			(S  (NP *) 
+			    (VP pressing))))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP use
+	      (NP slip)
+	      (S (NP *)
+		 (AUX to)
+		 (VP join)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP form
+	    (NP spout)
+	    ,
+	    (PP between
+		(NP two designs))
+	    ,))
+    (S (S  (NP *) 
+	   (VP dampen
+	       (NP area)
+	       (ADVP slightly)))
+       and
+       (S (NP *)
+	  (VP (ADVP gently)
+	      push
+	      (NP clay)
+	      (ADVP outward)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Make
+	   (NP lid
+	       (PP for
+		   (NP sugar bowl)))
+	   (NP the
+	       same
+	       (PP as
+		   (NP jar lids)))
+	   ,
+	   (S  (NP *) 
+	       (VP omitting
+		   (NP design disk)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Cut
+	   (NP a notch
+	       (PP in
+		   (NP lid))
+	       (PP for
+		   (NP spoon handle))))
+       (SBAR  if
+	      (S (NP *) 
+		 (VP desired))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Set
+	   (ADVP aside)
+	   (S (NP *)
+	      (AUX to)
+	      (VP dry))
+	   (PP with
+	       (X (NP lid)
+		  (PP on
+		      (NP sugar bowl))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Vases)
+ :)
+(  
+ (S  (NP *) 
+     (VP Make
+	 (ADJP same
+	       (PP as
+		   (NP salt and pepper shakers)))
+	 ,
+	 (S (NP *)
+	    (VP leaving
+		(ADVP off)
+		(NP top pieces)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Vases)
+   (AUX may)
+   (VP be
+       (VP made
+	   (PP into
+	       (NP candles))
+	   (PP by
+	       (S  (NP *)
+		   (VP filling
+		       (PP with
+			   (NP (NP  melted wax)
+			       and
+			       (NP a wick)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Napkin holder)
+ :)
+(  
+ (S  (NP *) 
+     (VP Cut
+	 (NP (NP (NP (NP a piece
+			 (PP of
+			     (NP clay)))
+		     (PP for
+			 (NP base)))
+		 and
+		 (NP (NP two)
+		     (PP for
+			 (NP sides))))
+	     (NP (NP each)
+		 (NP  (NP (ADVP about)
+			  (X A[fj]))
+		      *LRB*
+		      (ADJP long
+			    (ADVP enough)
+			    (PP for
+				(NP three impressions
+				    (PP of
+					(NP mold)))))
+		      *RRB*)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Press
+	 (NP the two sides)
+	 (PP into
+	     (NP cavity
+		 (PP of
+		     (NP one mold))))
+	 (NP three times)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Put
+	   (NP 
+	    cut
+	    pieces)
+	   (PP on
+	       (NP plaster board))
+	   (S (NP *)
+	      (AUX to)
+	      (VP dry
+		  (PP to
+		      (NP 
+		       firm
+		       leather-hard
+		       state))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Score
+	      (NP side edges
+		  (PP of
+		      (NP base)))))
+      ;
+      ;
+      (S  (NP *) 
+	  (VP join
+	      (NP (NP sides) and (NP base))
+	      (PP with
+		  (NP slip))))
+      and
+      (S (NP *)
+	 (VP reinforce
+	     (PP with
+		 (NP coil)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A cardboard pattern)
+	(VP cut
+	    (S (NP *)
+	       (AUX to)
+	       (VP fit
+		   (PP inside
+		       (NP  holder))))))
+    (AUX will)
+    (VP help
+	(S (NP *)
+	   (AUX to)
+	   (VP prevent
+	       (NP warping)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Place
+	      (NP pattern)
+	      (PP inside
+		  (NP holder))))
+      ;
+      ;
+      (S (S  (NP *) 
+	     (VP use
+		 (NP three strips
+		     (PP of
+			 (NP clay)))
+		 (S (NP *)
+		    (AUX to)
+		    (VP hold
+			(PP in
+			    (NP place))))))
+	 *LRB*
+	 (S (NP *) 
+	    (VP see
+		(NP (NP Fig. 2)
+		    ,
+		    (NP page 71))))
+	 *RRB*))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (AUX Do)
+       (NEG not)
+       (VP use
+	   (NP wood))
+       (SBAR  as
+	      (S (NP it)
+		 (X (X (AUX will)
+		       (NEG not)
+		       (VP shrink
+			   (PP with
+			       (NP the clay))))
+		    and
+		    (X (AUX would)
+		       (VP cause
+			   (NP breakage)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Let
+	 (NP all projects)
+	 (VP dry
+	     (ADVP slowly)
+	     (PP for
+		 (NP several days)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Clean
+	  (NP greenware)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S   (NP *)
+	(VP Bisque fire
+	    (PP to
+		(NP cone 08))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Inside
+       (PP of
+	   (NP pieces)))
+   (AUX was)
+   (VP glazed
+       (PP with
+	   (NP three coats
+	       (PP of
+		   (NP Creek-Turn bottle  green antique glaze))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Outside)
+   (AUX was)
+   (VP finished
+       (PP with
+	   (NP (NP 
+		Creek-Turn
+		brown
+		toner)
+	       (VP (VP (VP brushed
+			   (PRT on))
+		       and
+		       (VP sponged
+			   (PRT off)))
+		   (S (NP *)
+		      (AUX to)
+		      (VP give
+			  (NP antique finish))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Fired
+	   (PP to
+	       (NP cone 06-05))))
+   .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Changing  
+	(NP colors))
+    (S (NP *)
+       (AUX to)
+       (VP change
+	   (PP from
+	       (NP one color yarn))
+	   (PP to
+	       (NP another)))))
+ :)
+( 
+ (S (SBAR  (WHADVP When)
+	   (S  (NP *) 
+	       (VP changing
+		   (PP from
+		       (NP one color))
+		   (PP to
+		       (NP another)))))
+    ,
+    (SBAR  whether
+	   (S  (NP *) 
+	       (VP working
+		   (PP on
+		       (NP (ADJP right or wrong) side)))))
+    ,
+    (S (NP *)
+       (VP pick
+	   (PRT up)
+	   (NP the  new strand)
+	   (PP from
+	       (PP underneath
+		   (NP   dropped
+			 strand))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Photograph)
+   (VP shows
+       (NP the  wrong side
+	   (PP of
+	       (NP work)))
+       (PP with
+	   (S (NP  light strand)
+	      (VP being
+		  (VP picked
+		      (PRT up)
+		      (PP under
+			  (NP  dark strand))
+		      (PP in
+			  (NP position
+			      (S (NP *)
+				 (AUX to)
+				 (VP be
+				     (VP purled)
+				     ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S   (NP *)
+	 (AUX To)
+	 (VP measure
+	     (NP work)))
+    :
+    (S  (NP *) 
+	(VP Spread
+	    (NP article)
+	    (PP on
+		(NP  flat surface))
+	    (PP to
+		(NP   required
+		      width)))
+	(PP before
+	    (S (NP *)
+	       (VP measuring
+		   (NP length
+		       (PP at
+			   (NP center))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Measuring
+	(NP armhole))))
+((S (S (NP *)
+       (AUX to)
+       (VP measure
+	   (NP armhole)))
+    :
+    (S (NP *) 
+       (VP Mark
+	   (NP (NP row)
+	       (SBAR (WHPP on
+			   (WHNP which))
+		     (S
+		      (NP  first stitches)
+		      (AUX have)
+		      (VP been
+			  (VP bound
+			      (PRT off)
+			      (PP for
+				  (NP armhole)))))))
+	   (PP by
+	       (S   (NP *)
+		    (VP drawing
+			(NP  a  contrasting
+			     colored
+			     thread)
+			(PP through
+			    (NP it))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP (VP Place
+	       (NP work)
+	       (PP on
+		   (NP a  flat surface)))
+	   and
+	   (VP smooth
+	       (PRT out))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Measure
+	   (PP (ADVP straight)
+	       up
+	       (PP from
+		   (NP   marked
+			row)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP See
+	 (NP illustration)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)  
+	(AUX To)
+	(VP insert
+	    (NP markers)))
+    :
+    (S (SBAR 
+	(WHADVP When)
+	(S (NP directions)
+	   (VP read
+	       ``
+	       (S (NP *) 
+		  (VP (X sl
+			 (NP a marker)
+			 (PP on
+			     (NP needle)))))
+	        '')))
+       ,
+       (S  (NP *) 
+	   (VP put
+	       (NP (NP a  small safety pin)
+		   ,
+		   (NP paper clip)
+		   ,
+		   or
+		   (NP  commercial ring marker))
+	       (PP on
+		   (NP needle))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S  (NP *) 
+	    (VP working)))
+    ,
+    (S  (NP *)
+	(ADVP always)
+	(VP slip
+	    (NP marker)
+	    (PP from
+		(NP one needle))
+	    (PP to
+		(NP another)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S   (NP *) 
+	 (AUX To)
+	 (VP mark
+	     (NP a row or stitch)))
+    ,
+    (S  (NP *) 
+        (VP tie
+            (NP  contrasting thread)
+	    (PP around
+		(NP end
+		    (PP of
+			(NP  row or stitch
+			    (S (NP *)
+			       (AUX to)
+			       (VP be
+				   (VP marked
+				       ))))))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+((S  (NP *)
+     (VP Backstitching
+	 (NP seam))))
+((S (S (NP *)
+       (AUX to)
+       (VP sew
+	   (NP seams)
+	   (PP with
+	       (NP backstitch))))
+    :
+    (S (NP
+	Most
+	seams)
+       (AUX are)
+       (VP sewn
+	   (PP with
+	       (NP backstitch))
+	   ,
+	   (ADVP especially)
+	   (PP on
+	       (NP 
+		(ADJP curved
+		      ,
+		      slanted or loose)
+		edges)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Pin
+	   (NP  right sides
+		(PP of
+		    (NP pieces)))
+	   (ADVP together))
+       ,
+       (S  (NP *) 
+	   (VP (VP keeping
+		   (NP edges)
+		   (ADJP even))
+	       and
+	       (VP matching
+		   (NP (NP rows) or (NP patterns))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Thread
+	   (NP  matching yarn)
+	   (PP in
+	       (NP tapestry needle))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(VP Run
+	    (NP end
+		(PP of
+		    (NP yarn)))
+	    (PP through
+		(NP several stitches))
+	    (PP along
+		(NP edge)))
+	(S (NP *)
+	   (AUX to)
+	   (VP secure)))
+     ;
+     ;
+     (S (NP *) 
+	(VP backstitch
+	    (NP pieces)
+	    (ADVP together)
+	    (ADJP close
+		  (PP to
+		      (NP edge))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Do)
+       (NEG not)
+       (VP draw
+	   (NP yarn)
+	   (ADVP too
+		 tight)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP See
+	 (NP illustration)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP sew
+	    (PRT in)
+	    (NP sleeves)))
+    :
+    (S  (NP *) 
+	(VP Place
+	    (NP sleeve seam)
+	    (PP at
+		(NP (NP center underarm) 
+		    and 
+		    (NP center
+			(PP of
+			    (NP sleeve cap)))))
+	    (PP at
+		(NP shoulder seam)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Ease
+	   (PP in
+	       (NP any  extra fullness))
+	   (ADVP  evenly
+		 around)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Backstitch
+	  (NP seam)))
+   .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Weaving
+	(NP seam))))
+((S (S (NP *)
+	(AUX to)
+	(VP weave
+	    (NP seams)
+	    (ADVP together)))
+     :
+     (S (NP (NP 
+	     Straight
+	     vertical
+	     edges)
+	    ,
+	    (ADJP  such
+		      (PP as
+			  (NP (NP those)
+			      (PP at
+				  (NP the back seam
+				      (PP of
+					  (NP a sock)))))))
+	    ,)
+	(AUX can)
+	(VP be
+	    (VP woven
+		(ADVP together)
+		(ADVP invisibly)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Thread
+	   (NP   matching
+		yarn)
+	   (PP in
+	       (NP tapestry needle))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Hold
+	   (NP edges)
+	   (ADVP together)
+	   ,
+	   (X (NP right side)
+	      (ADVP up))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

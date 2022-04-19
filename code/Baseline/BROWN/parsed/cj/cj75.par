@@ -1,0 +1,2052 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP it)
+	 (AUX has)
+	 (VP made
+	     (NP an exact assessment
+		 (PP of
+		     (NP the removal mechanisms)))
+	     (ADJP possible))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The instrument)
+   (X (X (AUX is)
+	 (VP shown
+        
+	     (PP in
+		 (NP Fig. 1))))
+      and
+      (VP consists
+	  (ADVP essentially)
+	  (PP of
+	      (NP (NP a
+		      hard
+		      ,
+		      sharp
+		      ,
+		      tungsten carbide knife)
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (AUX is)
+			   (VP pushed
+	       
+			       (PP along
+				   (NP the substrate))
+			       (S (NP *)
+				  (AUX to)
+				  (VP remove
+				      (NP the coating)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP The force)
+	 (VP required
+	     (S (NP *)
+		(AUX to)
+		(VP accomplish
+		    (NP removal)))))
+     (AUX is)
+     (VP plotted
+	 ,
+	 (PP by
+	     (NP means
+		 (PP of
+		     (NP an electronic recorder))))
+	 ,
+	 (PP against
+	     (NP distance
+		 (PP of
+		     (NP removal))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR Since
+	   (S (NP the removal force)
+	      (VP is
+		  (NP a function
+		      (PP of
+			  (NP coating thickness))))))
+     ,
+     (S (NP a differential transformer pickup)
+	(AUX has)
+	(VP been
+	    (VP incorporated
+		 
+		(PP into
+		    (NP the instrument))))
+	(S (NP *)  
+	   (AUX to)
+	   (ADVP accurately)
+	   (VP measure
+	       (NP film thickness)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    ,
+    (ADVP too)
+    ,
+    (AUX is)
+    (VP recorded
+		 
+	(PP against
+	    (NP distance))
+	(PP by
+	    (NP a repeat
+		run
+		(PP over
+		    (NP (NP the same track)
+			(ADVP previously)
+			(VP cut)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A number
+       (PP of
+	   (NP adjustment features)))
+   (AUX are)
+   (VP included
+        
+       (PP in
+	   (NP the Hesiometer))
+       (S (NP *)
+	  (AUX to)
+	  (VP (VP facilitate
+		  (NP measurement))
+	      and
+	      (VP permit
+		  (NP ready removal
+		      (PP of
+			  (NP (NP coatings)
+			      (VP deposited
+				  (PP on
+				      (NP such substrates
+					  (PP as
+					      (NP (NP (NP iron)
+						      and
+						      (NP other metals))
+						  ,
+						  (NP glass)
+						  ,
+						  (NP wood)
+						  ,
+						  and
+						  (NP plastic surfaces))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The measurement
+       (PP of
+	   (NP topcoats
+	       (PP on
+		   (NP primers)))))
+   (AUX can)
+   (ADVP also)
+   (ADVP readily)
+   (VP be
+       (VP carried
+	    
+	   (PRT out))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hesiometer results)
+   (AUX have)
+   (VP been
+       (VP found
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP compare
+		  (ADVP excellently)
+		  (PP with
+		      (NP manual knife scratching tests)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The instrumental method)
+    ,
+    (ADVP however)
+    ,
+    (VP (VP is
+	    (ADJP (NP  about
+		       100 times)
+		  more
+		  sensitive))
+	and
+	(VP yields
+	    (NP (NP numerical results)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (AUX can)
+			 (VP be
+			     (ADVP accurately)
+			     (VP repeated
+		   
+				 (PP at
+				     (NP will))
+				 (PP over
+				     (NP a period
+					 (PP of
+					     (NP time))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+	    (S (NP a wedge-shaped coating
+		   (PP of
+		       (NP (VP increasing)
+			   thickness)))
+	       (AUX is)
+	       (VP removed
+		 
+		   (PP from
+		       (NP a substrate))
+		   (PP by
+		       (NP an instrument
+			   (PP like
+			       (NP the Hesiometer))
+			   (PP with
+			       (NP a knife
+				   (PP of
+				       (NP constant rake angle)))))))))
+      ,
+      (S (NP (NP a number
+		 (PP of
+		     (NP removal mechanisms)))
+	     (SBAR-1 *pseudo-attach*))
+	 (AUX are)
+	 (ADVP often)
+	 (VP observed)
+	 (SBAR-1 
+	  (WHNP which)
+	  (S (NP T)
+	     (VP depend
+		 (PP upon
+		     (NP the thickness
+			 (PP of
+			     (NP the coating)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP low thicknesses))
+     (S (NP a (VP cutting
+		  *LRB*
+		  or
+		  (VP shearing)
+		  *RRB*))
+	(NP phenomenon)
+	(AUX is)
+	(ADVP often)
+	(VP encountered
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP the coating)
+	     (VP becomes
+		 (ADJP thicker))))
+    ,
+    (S (NP the cutting)
+       (AUX may)
+       (ADVP abruptly)
+       (VP change
+	   (PP to
+	       (NP a cracking type
+		   (PP of
+		       (NP failure)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the coating)
+	     (VP becomes
+		 (ADJP  still
+			thicker))))
+    ,
+    (S (NP a peeling type failure)
+       (ADVP finally)
+       (AUX can)
+       (VP occur)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The typical appearance
+       (PP of
+	   (NP these various mechanisms)))
+   (AUX is)
+   (VP illustrated
+        
+       (PP in
+	   (NP (NP Figs. 2
+		   ,
+		   3
+		   ,
+		   and
+		   4)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP are
+		       (NP single frame enlargements
+			   (PP of
+			       (NP (NP high speed movies)
+				   (VP taken
+				       (PP during
+					   (NP the course
+					       (PP of
+						   (NP the knife removal process)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (VP be
+       (VP seen
+	    
+	   (PP from
+	       (NP Fig. 2))
+	   (SBAR that
+		 (S (NP the cutting removal
+			(PP of
+			    (NP a coating))
+			(PP from
+			    (NP its substrate)))
+		    (VP involves
+			 
+			(NP 
+			 pure cohesive
+			 failure
+			 (PP of
+			     (NP the coating)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP The molecular forces)
+	   (VP holding
+	       (NP the coating)
+	       (PP to
+		   (NP the substrate))))
+       (VP are
+	   (ADVP obviously)
+	   (ADJP greater
+		 (PP than
+		     (NP the cohesive strength
+			 (PP of
+			     (NP the coating)))))))
+    and
+    (S (NP failure)
+       (VP occurs
+	   (PP by
+	       (NP shear
+		   (PP along
+		       (NP (NP a plane)
+			   (VP (VP starting
+				   (PP at
+				       (NP the tip
+					   (PP of
+					       (NP the knife)))))
+			       and
+			       (VP extending
+				   (PP to
+				       (NP the coating surface)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The pictures
+	(PP of
+	    (NP Figs. 3
+		and
+		4)))
+    (VP show
+	(NP (NP the (VP cracking and peeling) types
+		(PP of
+		    (NP removal)))
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP the coating)
+		(AUX is)
+		(VP detached
+		     
+		    (PP by
+			(NP failure
+			    (PP in
+				(NP a region
+				    (PP at
+					,
+					or
+					(ADVP close
+					      (PP to
+						  (NP-1 *pseudo-attach*)))
+					,
+					(NP-1 the interface
+					    (PP between
+						(NP (NP coating) 
+						    and 
+						    (NP substrate)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP (NP the force)
+		 (VP required
+		     (S (NP *)
+			(AUX to)
+			(VP remove
+			    (NP the coatings)))))
+	     (AUX is)
+	     (VP plotted
+		 
+		 (PP against
+		     (NP film thickness)))))
+    ,
+    (S (NP a graph
+	   (PP as
+	       (S (NP *)  
+		  (VP illustrated
+		      (ADVP schematically)
+		      (PP in
+			  (NP Fig. 5))))))
+       (AUX may)
+       (ADVP characteristically)
+       (VP result)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      ,
+      (S (NP H)
+	 (VP is
+	     (NP (NP the coatings
+		     removal force)
+		 (VP measured
+		     (ADVP parallel
+			   (PP to
+			       (NP the surface
+				   (PP of
+				       (NP the substrate)))))))))
+      and
+      (S
+       (NP T)
+       (VP is
+	   (NP the film thickness))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (VP be
+       (VP seen
+		 
+	   (SBAR that
+		 (S (NP the force)
+		    (VP (VP is
+			    (ADJP characteristic
+				  (PP of
+				      (NP the removal process))))
+			and
+			(VP changes
+			    (ADVP abruptly)
+			    (NP (PP (PP from
+					(VP cutting))
+				    (PP to
+					(VP cracking))
+				    (PP to
+					(VP peeling)))
+				removal))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S (NP it)
+	 (AUX can)
+	 (VP be
+	     (ADVP readily)
+	     (VP seen
+		  
+		 (SBAR that
+		       (S (NP the cutting and peeling types
+			      (PP of
+				  (NP failure)))
+			  (VP show
+			      (NP a steady state response))
+			  ,
+			  (SBAR while
+				(S (NP the cracking mechanism)
+				   (VP is
+				       (PP of
+					   (NP a dynamic nature)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX should)
+   (VP be
+       (VP recalled
+	    
+	   (SBAR that
+		 (S (NP these three mechanisms)
+		    (AUX can)
+		    (VP occur
+			(PP on
+			    (NP (NP the same coating)
+				(VP deposited
+				     
+				    (PP upon
+					(NP the same substrate)))))
+			(ADVP merely)
+			(PP as
+			    (NP a function
+				(PP of
+				    (NP changes
+					(PP in
+					    (NP coatings
+						thickness))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Presumably)
+      (S (NP the interfacial bond strength
+	     and
+	     gross cohesive
+	     properties)
+	 (VP are
+	     (ADJP identical)
+	     (PP in
+		 (NP each case)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ (NP T)  
+	    (ADVP then)
+	    ,
+	    (VP are)
+	    (NP (NP the factors)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (VP contribute
+			     (PP to
+				 (NP these phenomena))))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP Why)
+  (SQ  (AUX should)
+       (NP the
+	   ``
+	   practical adhesion
+	   ''
+	   (PP of
+	       (NP a coating))
+	   (PP as
+	       (S (NP *)  
+		  (VP assessed
+		      (PP by
+			  (NP a knife method))))))
+       (VP change
+	   ,
+	   (S (NP *)  
+	      (VP (ADVP initially)
+		  (VP increasing
+		      (ADVP rather
+			    rapidly))
+		  and
+		  then
+		  (VP decreasing
+		      (ADVP stepwise)
+		      (PP to
+			  (NP (ADJP  very
+				     low) values))
+		      (SBAR as
+			    (S (NP the knife)
+			       (AUX is)
+			       (VP forced
+			   
+				   (PP through
+				       (NP a coating
+					   (PP of
+					       (NP (VP increasing)
+						   thickness)))))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (NP Cutting mechanism
+        (PP of
+            (NP cohesive failure)))
+    )
+(  
+ (S (NP The (VP cutting
+		*LRB*
+		or
+		shearing
+		*RRB*)
+	removal process)
+    (AUX has)
+    (VP been
+	(ADVP previously)
+	(VP described
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP found
+        
+       (SBAR that
+	     (S (NP the coating)
+		(AUX is)
+		(VP separated
+		     
+		    (PP from
+			(NP its substrate))
+		    (PP (ADVP entirely)
+			by
+			(NP cohesive failure)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The details
+       (PP of
+	   (NP the removal process)))
+   (AUX are)
+   (VP shown
+       (ADVP schematically)
+       (PP in
+	   (NP Fig. 6))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The various forces)
+   (VP result
+       (PP from
+	   (NP the reaction
+	       (PP of
+		   (NP the removed paint chip))
+	       (PP (PP against
+		       (NP the face
+			   (PP of
+			       (NP the knife))))
+		   and
+		   (PP along
+		       (NP (NP the shear plane)
+			   ,
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP makes
+				   (NP an angle ** yf)
+				   (PP with
+				       (NP the substrate))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The action and reaction forces)
+   (VP (VP are
+	   (NP (NP R) 
+	       and 
+	       (NP A[fj]))
+	   ,
+	   (ADVP respectively))
+       ,
+       and
+       (VP are
+	   (ADJP equal and opposite
+		 (PP in
+		     (NP direction))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All
+       the other force vectors)
+   (AUX are)
+   (VP derived
+        
+       (PP from
+	   (NP these))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A[fj])
+   (VP is
+       (NP (NP the force)
+	   (VP required
+	       (S (NP *)
+		  (AUX to)
+		  (VP cut
+		      (NP a coating
+			  (PP of
+			      (NP thickness T)))
+		      (PP from
+			  (NP the substrate))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A[fj])
+       (VP is
+	   (NP the shear force
+	       (PP along
+		   (NP the shear plane)))))
+    ;
+    ;
+    (S (NP A[fj] and A[fj])
+       (VP are
+	   (NP (NP the thrust forces)
+	       (VP acting
+		   (PP against
+		       (NP (NP coating) 
+			   and 
+			   (NP knife)
+			   ,
+			   (ADVP respectively)))))))
+    ;
+    ;
+    (S (NP A[fj])
+       (VP is
+	   (NP (NP the
+		   normal compressive
+		   force)
+	       (VP acting
+		   (PP on
+		       (NP the shear plane))))))
+    ;
+    ;
+    (S (NP A[fj])
+       (VP is
+	   (NP the friction force
+	       (PP between
+		   (NP chip and knife surfaces)))))
+    ,
+    and
+    (S (NP P)
+       (VP is
+	   (NP (NP the normal force)
+	       (VP acting
+		   (PP on
+		       (NP the face
+			   (PP of
+			       (NP the knife)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP ** yc)
+      (VP is
+	  (NP the rake angle
+	      (PP of
+		  (NP the knife)))))
+     ;
+     ;
+     (S (NP ** yf)
+	(VP is
+	    (NP (NP the angle)
+		(SBAR 0
+		      (S
+		       (NP the shear plane)
+		       (VP makes
+			   (NP T)
+			   (PP with
+			       (NP the substrate))))))))
+     ;
+     ;
+     (S (NP ** yt)
+	(VP is
+	    (NP the friction angle)))
+     ;
+     ;
+     and
+     (S (NP ** yb)
+	(VP is
+	    (NP (NP the angle)
+		(SBAR 0
+		      (S
+		       (NP the resultants)
+		       (VP make
+			   (NP T)
+			   (PP with
+			       (NP the plane
+				   (PP of
+				       (NP the substrate))))))))))) 
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An analysis
+       (PP of
+	   (NP the vector relationships)))
+   (VP shows
+       (SBAR that
+	     (S (NP (NP the rake angle ** yc)
+		    and
+		    (NP the friction angle ** yt))
+		(VP determine
+		       (NP the vector direction A[fj]
+			   (PP of
+			       (NP the force resultants
+				   R and A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Consequently)
+      ,
+      (S (NP both
+	     (NP the rake angle
+		 (PP of
+		     (NP the knife)))
+	     (ADVP as
+		   well
+		   (PP as
+		       (NP (NP the friction)
+			   (VP occurring
+			       (PP between
+				   (NP (NP the back
+					   (PP of
+					       (NP the removed coating)))
+				       and
+				       (NP the front
+					   (PP of
+					       (NP the knife))))))))))
+	 (AUX will)
+	 (VP determine
+	     (PP in
+		 (NP large part))
+	     (NP the detailed mechanism
+		 (PP of
+		     (NP the cutting removal process))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-2 *pseudo-attach*))
+   (VP is
+       (ADJP difficult))
+   (S-2 (NP *)
+      (AUX to)
+      (VP measure
+	  (NP the direction and magnitude
+	      (PP of
+		  (NP R)))
+	  (ADVP directly))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP actual practice))
+    ,
+    (S (NP (NP the values)
+	   (ADJP (ADVP most readily)
+		 amenable
+		 (PP to
+		     (NP measurement))))
+       (VP are
+	   (NP (NP the cutting force A[fj])
+	       and
+	       (NP the shear angle A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP These two values)
+      and
+      (NP the rake angle ** yc))
+    (VP are
+	(ADJP sufficient)
+	(S (NP *)
+	   (AUX to)
+	   (VP determine
+	       (NP the other parameters
+		   (PP of
+		       (NP these relationships)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP ** yc)
+      (AUX is)
+      (VP defined
+        
+	  (PP by
+	      (NP the geometry
+		  (PP of
+		      (NP the knife))))))
+     ;
+     ;
+     (S (NP ** yf)
+	(AUX can)
+	(ADVP readily)
+	(VP be
+	    (VP determined
+		 
+		(PP by
+		    (S  (NP *)
+			(VP measuring
+			    (NP the thickness
+				(PP of
+				    (NP the coating)))
+			    (PP before 
+				and 
+				after
+				(S (NP *)  
+				   (VP cutting
+				       (PP from
+					   (NP the substrate)))))))))))
+     ;
+     ;
+     (S (NP A[fj])
+	(AUX is)
+	(ADVP instrumentally)
+	(VP determined
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP From
+	 (NP Fig. 6))
+     (S
+      (NP the relationship
+	  (PP between
+	      (NP these parameters)))
+      (AUX can)
+      (ADVP readily)
+      (VP be
+	  (VP derived
+	      )))
+     and
+     (S (NP the cutting force)
+	(VP is
+	    (NP A[fj]))
+	(SBAR 
+	 (WHADVP where)
+	 (S (S (NP ** yl)
+	       (VP (VP is
+		       (NP the shear strength
+			   (PP of
+			       (NP the coating))))
+		   and
+		   (VP is
+		       (NP a parameter
+			   (PP of
+			       (NP the coatings
+				   material))))))
+	    ,
+	    (S (NP W)
+	       (VP is
+		   (NP the width
+		       (PP of
+			   (NP the removed coating)))))
+	    and
+	    (S (NP T)
+	       (VP is
+		   (NP its thickness)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP (NP the cutting force)
+		 ,
+		 (NP A[fj])
+		 ,)
+	     (AUX is)
+	     (VP plotted
+		 
+		 (PP against
+		     (NP film thickness)))))
+    ,
+    (S (NP (NP a straight line)
+	   (VP-1 *pseudo-attach*))
+       (AUX should)
+       (VP result)
+       (VP-1 (VP passing
+	       (PP through
+		   (NP the origin)))
+	   and
+	   (VP having
+	       (NP slope A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (PP in
+	  (NP the actual assessment
+	      (PP of
+		  (NP the cutting force))
+	      (PP by
+		  (NP instrumental methods))
+	      (PP for
+		  (NP any thickness
+		      (PP of
+			  (NP coating))))))
+      (S (NP (NP a number
+		 (PP of
+		     (NP spurious effects)))
+	     (SBAR-2 *pseudo-attach*))
+	 (VP occur)
+	 (SBAR-2 (SBAR
+		(WHNP which)
+		(S (NP T)
+		   (AUX must)
+		   (VP be
+		       (VP taken
+		      
+			   (PP into
+			       (NP account))))))
+	       and
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP make
+		       (NP the measured value)
+		       (ADJP larger
+			     (PP than
+				 (NP (NP the true cutting force)
+				     (VP indicated
+					 (PP by
+					     (NP eqn.
+						 *LRB*
+						 1
+						 *RRB*))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP Blunt knife))
+( 
+ (S (NP One
+	(PP of
+	    (NP these)))
+    (VP is
+	(NP the fact
+	    (SBAR that
+		  (S (NP (NP the knife)
+			 (VP employed))
+		     ,
+		     (NP no matter)
+		     (ADJP (WHADVP how)
+			   well
+			   sharpened)
+		     ,
+		     (AUX will)
+		     (VP have
+			 (NP a
+			     (VP (ADVP slightly)
+				 rounded)
+			     cutting
+			     edge)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP signifies
+       (SBAR that
+	     (S (NP (NP ** yc)
+		    ,
+		    (NP the rake angle)
+		    ,)
+		(VP is
+		    (ADJP  no
+			  longer)
+		    (NP a constant
+			(PP to
+			    (NP zero film thickness))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The curvature
+       (PP of
+	   (NP this bluntness)))
+   (X (X (AUX is)
+	 ,
+	 (PP in
+	     (NP the case
+		 (PP of
+		     (NP (NP the Carboloy knife)
+			 (VP employed
+			     (PP in
+				 (NP the Hesiometer)))))))
+	 ,
+	 (VP determined
+	     (PP by
+		 (NP the grain sizes
+		     (PP of
+			 (NP (NP  the polished grit
+				  and
+				  the tungsten carbide crystals)
+			     (VP cemented
+				 (ADVP together)
+				 (PP in
+				     (NP the knife body))))))))
+	 and)
+      (VP is
+	  (PP in
+	      (NP the order
+		  (PP of
+		      (NP (NP 0.1
+			      (PP to
+				  (NP 0.2)))
+			  mil.)))))))
+  .)
+( (S
+   (NP The force vector concept
+       (PP of
+	   (NP Fig. 6)))
+   (AUX can)
+   (ADVP readily)
+   (VP be
+       (VP applied
+	    
+	   (PP to
+	       (NP this condition))))
+   (ADVP also))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Because
+	  (S (NP the rake angle A[fj]
+		 (PP at
+		     (NP the tip
+			 (PP of
+			     (NP the knife)))))
+	     (VP is
+		 (ADJP (ADJP  very
+			      much
+			      smaller)
+		       *LRB*
+		       or
+		       (ADJP  even
+			      negative)
+		       *RRB*))
+	     (SBAR (WHADVP when)
+		   (S (NP *)  
+		      (VP compared
+			  (PP to
+			      (NP the value
+				  (PP of
+				      (NP ** yc))
+				  (PP for
+				      (NP the major portion
+					  (PP of
+					      (NP the knife)))))))))))
+    ,
+    (S (NP a
+	   (ADJP  very
+		  rapid) increase
+		  (PP in
+		      (NP (VP cutting)
+			  force
+			  (PP with
+			      (NP thickness)))))
+       (AUX will)
+       (VP result)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP reduces
+	(PP to
+	    (NP (NP the relationship)
+		:
+		(NP A[fj])
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (S (NP A[fj])
+		       (VP is
+			   (NP (NP the intercept
+				   (PP at
+				       (NP zero thickness
+					   (PP of
+					       (NP the extrapolation
+						   (PP of
+						       (NP the slope)))))))
+			       (VP indicated
+				   (PP in
+				       (NP eqn.
+					   *LRB*
+					   1
+					   *RRB*))))))
+		    ,
+		    (S (NP A[fj])
+		       (VP is
+			   (NP the thickness
+			       (PP of
+				   (NP the coating
+				       (ADJP equivalent
+					     (PP to
+						 (NP the rounding
+						     (PP off
+							 (PP of
+							     (NP the knife tip)))))))))))
+		    ,
+		    (S (NP A[fj])
+		       (VP is
+			   (NP a straight line first approximation
+			       (PP of
+				   (NP this roundness)))))
+		    ,
+		    and
+		    (S (NP the other symbols)
+		       (VP are
+			   (ADJP equivalent
+				 (PP to
+				     (NP those
+					 (PP of
+					     (NP eqn.
+						 *LRB*
+						 1
+						 *RRB*)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (VP be
+       (VP seen
+	    
+	   (SBAR that
+		 (S (NP A[fj])
+		    (X (VP is
+			   (NP a
+			       constant))
+		       ,
+		       and
+		       (X (AUX is)
+			  (VP determined
+			    
+			      (PP for
+				  (NP the
+				      (ADJP most)
+				      part))
+			      (PP by
+				  (NP the geometry
+				      (PP of
+					  (NP the knife))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (NP The blunter)
+	   (NP the knife))
+     ,
+     (S  (X the
+	    (ADJP higher))
+	 (VP is
+	     (NP the value
+		 (PP of
+		     (NP A[fj]))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The importance
+       (PP of
+	   (NP a
+	       (ADJP hard)
+	       ,
+	       (ADJP abrasion-resistant) knife material
+	       (PP like
+		   (NP (NP the Carboloy)
+		       (VP employed
+			   (PP in
+			       (NP the Hesiometer))))))))
+   (ADVP immediately)
+   (VP becomes
+       (ADJP apparent)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (ADJP Softer)
+    knives)
+   (AUX would)
+   (VP blunt
+       (ADVP  very
+	      rapidly))
+   ,
+   (S (NP *)  
+      (VP making
+	  (NP the value
+	      (PP of
+		  (NP A[fj])))
+	  (ADJP inexact))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP extreme cases
+	     (PP of
+		 (NP (ADJP  very
+			    soft) knives))))
+     (S
+      (NP this value)
+      (AUX may)
+      (ADVP even)
+      (VP change)
+      (PP during
+	  (NP the course
+	      (PP of
+		  (NP a measurement))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Knife friction)
+ )
+((S (NP (NP A second factor)
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP enters
+		     (PP into
+			 (NP the practical measurement
+			     (PP of
+				 (NP the
+				     (VP  (ADVP instrumentally)
+					  determined)
+				     cutting
+				     force))))))))
+    (VP is
+	(NP (NP the frictional resistance)
+	    (VP caused
+		(PP by
+		    (NP the bottom
+			(PP of
+			    (NP the knife))
+			(PP against
+			    (NP the substrate))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP (VP is)
+       (NEG not
+	    (NP a constant value
+		(PP like
+		    (NP A[fj]))))
+       ,
+       but
+       (VP varies
+	   (PP with
+	       (NP (NP the thickness
+		       (PP of
+			   (NP the coating)))
+		   and
+		   (NP the direction and magnitude
+		       (PP of
+			   (NP the resultants
+			       R and A[fj]
+			       (PP of
+				   (NP Fig. 6))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Under
+	 (NP equilibrium conditions
+	     (PP of
+		 (NP (VP cutting)))))
+     (S (NP the chip)
+	(VP exerts
+	    (NP (NP a thrust A[fj])
+		(PP against
+		    (NP the knife))
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP tends
+			     (S (NP *)
+				(AUX to)
+				(VP (VP push
+					(NP it)
+					(PP into
+					    (NP the substrate)))
+				    or
+				    (VP lift
+					(NP it)
+					(ADVP away
+					      (PP from
+						  (NP the substrate)))))))
+			 (S (NP *)  
+			    (VP depending
+				(PP on
+				    (NP the vector direction
+					(PP of
+					    (NP A[fj]))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The resultant friction force)
+	,
+	(NP A[fj]))
+    (VP is
+	(ADVP thus)
+	(ADJP  directly
+	       proportional
+	       (PP (PP to
+		       (NP A[fj]))
+		   and
+		   (ADVP consequently)
+		   (ADVP also)
+		   (PP to
+		       (NP film thickness))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The value
+       (PP of
+	   (NP A[fj])))
+   (AUX can)
+   (ADVP readily)
+   (VP be
+       (VP assessed
+	    
+	   (PP by
+	       (S (NP *)  
+		  (VP determining
+		      (NP (NP the frictional force)
+			  (VP exerted
+			      (PP on
+				  (NP the knife)))))
+		  (SBAR while
+			(S (NP *)  
+			   (VP running
+			       (PP over
+				   (NP the
+				       (ADJP  previously
+					      stripped)
+				       coating track))
+			       (PP under
+				   (NP 
+				    various external
+				    loadings))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A straight line relationship)
+       (VP-1 *pseudo-attach*))
+   (AUX is)
+   (ADVP usually)
+   (VP observed
+        
+       (PP in
+	   (NP a plot
+	       (PP of
+		   (NP A[fj]
+		       (PP against
+			   (NP load L)))))))
+   ,
+   (VP-1 having
+       (NP (NP slope k)
+	   ,
+	   and
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP the load L)
+	     ,
+	     (PP under
+		 (NP (ADJP actual)
+		     (VP cutting)
+		     conditions))
+	     (AUX is)
+	     (VP caused
+		 
+		 (PP by
+		     (NP A[fj])))))
+    ,
+    (S (NP it)
+       (AUX can)
+       (VP be
+	   (VP seen
+	        
+	       (SBAR that
+		     (NP A[fj]))))))>
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The measured force)
+	,
+	(NP H)
+	,
+	(PP in
+	    (NP (VP cutting)
+		removal
+		(PP of
+		    (NP coatings))
+		(PP from
+		    (NP their substrates)))))
+    (ADVP consequently)
+    (AUX can)
+    (VP be
+	(VP seen
+	     
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (NP the sum
+		       (PP of
+			   (NP (NP (NP that force)
+				   (VP required
+				       (S (NP *)
+					  (AUX to)
+					  (VP cut
+					      (NP the coating))))
+				   ,
+				   (NP A[fj]))
+			       ,
+			       (NP (NP that
+				       (ADVP due
+					     (PP to
+						 (NP the bluntness
+						     (PP of
+							 (NP the knife))))))
+				   ,
+				   (NP A[fj]))
+			       ,
+			       and
+			       (NP (NP that
+				       (ADVP due
+					     (PP to
+						 (NP the friction
+						     (PP between
+							 (NP (NP the bottom
+								 (PP of
+								     (NP the knife)))
+							     and
+							     (NP the substrate)))))))
+				   ,
+				   (NP A[fj])
+				   ,
+				   or
+				   (NP A[fj]))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP first)
+       two forces)
+   (X (X (AUX are)
+	 (VP  (ADVP directly)
+	      interrelated
+	      ))
+      and
+      (VP depend
+	  (PP upon
+	      (NP film thickness))))
+   ,
+   (SBAR whereas
+	 (S (NP A[fj])
+	    (VP (VP is
+		    (ADJP independent
+			  (PP of
+			      (NP these two))))
+		and
+		(VP is
+		    (NP a constant)
+		    (PP for
+			(NP a given knife combination)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP These theoretical relationships)
+       (AUX are)
+       (VP (ADVP more clearly)
+	   illustrated
+	   (PP in
+	       (NP Fig. 7))))
+    and
+    (S (NP their sum)
+       (AUX can)
+       (VP be
+	   (VP seen
+	        
+	       (S (NP *)
+		  (AUX to)
+		  (VP correlate
+		      (PP in
+			  (NP form))
+		      (PP with
+			  (NP (NP practical measurements)
+			      (VP made
+				  (PP with
+				      (NP the Hesiometer)))))
+		      (PP as
+			  (S (NP *)  
+			     (VP illustrated
+				 (PP in
+				     (NP the first portion
+					 (PP of
+					     (NP Fig. 5))))
+				 (PP for
+				     (NP the cutting mechanism)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (VP Chipping)
+    mechanism
+    (PP of
+	(NP cohesive failure))))
+( 
+ (S (SBAR Although
+	  (S (NP a large number
+		 (PP of
+		     (NP coatings
+			 systems)))
+	     ,
+	     (ADVP particularly)
+	     (PP at
+		 (NP low thicknesses))
+	     (VP fail
+		 (ADVP cohesively)
+	        
+		 (PP by
+		     (NP the cutting mechanism)))))
+    ,
+    (ADVP frequently)
+    (S (NP a second type
+	   (PP of
+	       (NP cohesive failure)))
+       (AUX may)
+       (ADVP also)
+       (VP take
+	   (NP place))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP a (VP chipping)
+	       ,
+	       dynamic type failure)
+	   (VP encountered
+	       (PP with
+		   (NP (NP (ADJP  very
+				  brittle) coatings)
+		       (NP resins)
+		       or
+		       (NP (VP (ADVP  very
+				      highly)
+			       pigmented)
+			   films)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP shown
+        
+       (PP in
+	   (NP the photomicrograph
+	       (PP of
+		   (NP Fig. 8))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The basic difference
+       (PP between
+	   (NP (NP the
+		   (ADJP continuous)
+		   (VP cutting)
+		   mechanism)
+	       and
+	       (NP that
+		   (PP of
+		       (NP the chipping mechanism))))))
+   (VP is
+       (SBAR that
+	     (S (ADVP instead
+		      (PP of
+			  (S (NP shear)
+			     (VP occurring
+				 (PP in
+				     (NP the coating
+					 (ADVP ahead)
+					 (PP of
+					     (NP the knife))))
+				 (ADVP continuously)
+				 (PP without
+				     (NP fracture))))))
+		,
+		(S (NP rupture)
+		   (ADVP intermittently)
+		   (VP occurs
+		       (PP along
+			   (NP the shear plane))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The detailed mechanisms
+	  (PP of
+	      (NP this type
+		  (PP of
+		      (NP failure)))))
+      (AUX have)
+      (VP been
+	  (VP studied
+	      (ADVP extensively)
+	      (PP by
+		  (NP Merchant))
+	      (PP for
+		  (NP metal cutting)))))
+     ,
+     and
+     (S (NP (NP the principles)
+	    (VP found))
+	(AUX can)
+	(VP be
+	    (VP  (ADVP directly)
+		 applied
+		  
+		 (PP to
+		     (NP coatings))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (NP *)  
+	   (VP studying
+	       (NP (NP high speed movies)
+		   (VP made
+		       (PP of
+			   (NP this type
+			       (PP of
+				   (NP failure)))))))))
+    ,
+    (S (NP the sequence
+	   (PP of
+	       (NP relationships)))
+       (PP as
+	   (S (NP *)  
+	      (VP  (ADVP schematically)
+		   illustrated
+		   (PP in
+		       (NP Fig. 9)))))
+       (AUX could 
+	    (VP be
+		(VP observed
+		    )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the first picture)
+	    (NP *LRB*
+		(NP 9a)
+		*RRB*)))
+    (S (NP the knife)
+       (AUX is)
+       (VP  just
+	   beginning
+	   (S (NP *)
+	      (AUX to)
+	      (VP advance
+		  (PP into
+		      (NP (NP the inclined surface)
+			  (SBAR (WHNP which)
+				(S (NP T)
+				   (AUX was)
+				   (VP left
+				        
+				       (PP from
+					   (NP the previous chip formation))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the
+	    (ADJP next)))
+    ,
+    (S (NP the shear plane angle)
+       (VP (VP is
+	       (ADJP high))
+	   ,
+	   and
+	   (VP extends
+	       (PP to
+		   (NP the inclined work surface))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (VP increasing)
+	    advance
+	    (PP of
+		(NP the knife))
+	    (PP into
+		(NP the coating))))
+    (S
+     (NP the shear plane)
+     (VP extends
+	 (PP to
+	     (NP the coatings
+		 surface))))
+    and
+    (S (NP the shear angle)
+       (VP  (ADVP rapidly)
+	    decreases)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Eventually)
+      ,
+      (S (NP rupture)
+	 (VP occurs
+	     (PP along
+		 (NP the shear plane)))
+	 (NP *LRB*
+	     (NP 9e)
+	     *RRB*))
+      ,
+      and
+      (S (NP the cycle)
+	 (VP repeats
+	     (NP itself))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Merchant)
+   (AUX has)
+   (VP found
+       (SBAR that
+	     (S (NP (NP the
+			same basic
+			relationships)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP describe
+				 (NP the geometry and force systems)
+				 (PP in
+				     (NP the case
+					 (PP of
+					     (NP the cutting mechanism))))))))
+		(AUX can)
+		(ADVP also)
+		(VP be
+		    (VP applied
+			  
+			(PP to
+			    (NP the discontinuous chip formation))))
+		(VP provided
+		    (SBAR 0
+			  (S (NP the proper values
+				 (PP of
+				     (NP (NP instantaneous shear angle)
+					 and
+					 (NP instantaneous chip thickness
+					     or
+					     cross-sectional area))))
+			     (AUX are)
+			     (VP used
+				 ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Consequently)
+      ,
+      (SBAR if
+	    (S (NP the shear angle ** yf)
+	       (AUX is)
+	       (VP replaced
+		    
+		   (PP by
+		       (NP the rupture angle A[fj])))))
+      ,
+      (S (NP the relationships
+	     (PP as
+		 (S (NP *)  
+		    (VP described
+			(PP in
+			    (NP eqns.
+				*LRB*
+				1
+				*RRB*
+				,
+				*LRB*
+				2
+				*RRB*
+				,
+				*LRB*
+				4
+				*RRB*
+				,
+				and
+				*LRB*
+				6
+				*RRB*))))))
+	 (AUX will)
+	 (VP (ADVP directly)
+	     apply)))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP The cracking mechanism))
+( 
+ (S (PP Under
+	(NP equilibrium
+	    (VP cutting)
+	    conditions))
+    ,
+    (S (NP the chip)
+       (VP exerts
+	   (NP (NP a force A[fj])
+	       (PP against
+		   (NP the coating))
+	       and
+	       (NP an
+		   equal opposite
+		   force A[fj])
+	       (PP against
+		   (NP the knife)))
+	   (PP in
+	       (NP the plane
+		   (PP of
+		       (NP the substrate))))
+	   (PP as
+	       (S (NP *)  
+		  (VP shown
+		      (PP in
+			  (NP Fig. 6))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (S (NP the rake angle ** yc
+		   (PP of
+		       (NP the knife)))
+	       (VP is
+		   (ADJP high
+			 enough
+			 (S-3 *pseudo-attach*))))
+	    and
+	    (S (NP the friction angle ** yt
+		   (PP between
+		       (NP (NP the front
+			       (PP of
+				   (NP the knife)))
+			   and
+			   (NP the back
+			       (PP of
+				   (NP the chip))))))
+	       (VP is
+		   (ADJP low
+			 enough
+			 (S-3 *pseudo-attach*))))
+	    (S-3 (NP *)
+	       (AUX to)
+	       (VP give
+		   (NP a positive value
+		       (PP for
+			   (NP A[fj])))))))
+   ,
+   (S (NP the resultant vector R)
+      (AUX will)
+      (VP lie
+	  (PP above
+	      (NP the plane
+		  (PP of
+		      (NP the substrate)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

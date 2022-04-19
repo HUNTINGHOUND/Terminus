@@ -1,0 +1,2229 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Once
+	    again)
+      ,
+      (PP as
+	  (PP in
+	      (NP the days
+		  (PP of
+		      (NP the Founding Fathers)))))
+      ,
+      (S (NP America)
+	 (VP faces
+	     (NP a stern test))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP That test)
+    ,
+    (PP as
+	(S (NP President Kennedy)
+	   (ADVP forthrightly)
+	   (VP depicted
+	       (NP it)
+	       (PP in
+		   (NP his State
+		       (PP of
+			   (NP the Union message)))))))
+    ,
+    (AUX will)
+    (VP determine
+	(SBAR  ``
+	       whether
+	       (S (NP (NP a nation)
+		      (VP (VP organized)
+			  and
+			  (VP governed)
+			  (ADJP such
+				(PP as
+				    (NP ours)))))
+		  (AUX can)
+		  (VP endure))
+	       '')))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (ADVP well)
+       (ADVP then))
+   (SBAR-1 that
+	 (S (PP in
+		(NP this hour
+		    (PP  both
+			 (PP of
+			     (NP  ``
+				  national peril
+				  ''))
+			 and
+			 (PP of
+			     (NP  ``
+				  national opportunity
+				  '')))))
+	    (S (NP we)
+	       (AUX can)
+	       (VP take
+		   (NP counsel)
+		   (PP with
+		       (NP (NP the men)
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (VP made
+					(NP the nation)))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (ADJP Incapable
+	     (PP of
+		 (NP self-delusion)))
+       ,
+       (S (NP the Founding Fathers)
+	  (VP found
+	      (NP the crisis
+		  (PP of
+		      (NP their time)))
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (ADJP  equally
+			    grave))))))
+    ,
+    and
+    (S (ADVP yet)
+       (S (NP they)
+	  (VP had
+	      (NP confidence
+		  (SBAR (SBAR that
+			      (S (NP America)
+				 (AUX would)
+				 (VP surmount
+				     (NP it))))
+			and
+			(SBAR that
+			      (S (NP a republic
+				     (PP of
+					 (NP free peoples)))
+				 (AUX would)
+				 (VP (VP prosper)
+				     and
+				     (VP  serve
+					  (PP as
+					      (NP an example
+						  (PP to
+						      (NP (NP a world)
+							  (VP aching
+							      (PP for
+								  (NP liberty)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Seven
+	    Founders)
+	--
+	(NP (NP George Washington)
+	    ,
+	    (NP Benjamin Franklin)
+	    ,
+	    (NP John Adams)
+	    ,
+	    (NP Thomas Jefferson)
+	    ,
+	    (NP Alexander Hamilton)
+	    ,
+	    (NP James Madison)
+	    and
+	    (NP John Jay))
+	--)
+    (VP determined
+        (NP the destinies
+            (PP of
+                (NP the new nation)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP certain respects))
+       ,
+       (S (NP their task)
+	  (VP was
+	      (ADJP  incomparably
+		     greater
+		     (PP than
+			 (NP ours)
+			 (ADVP today))))))
+    ,
+    for
+    (S (NP there)
+       (VP was
+	   (NP nobody
+	       (S-1 *pseudo-attach*)))
+       (PP before
+	   (NP them))
+       (S-1 (NP *)
+	    (AUX to)
+	    (VP show
+		(NP them)
+		(NP the way)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP Madison)
+	      (VP commented
+		  (PP to
+		      (NP Jefferson))
+		  (PP in
+		      (NP 1789)))))
+    ,
+    (S  ``
+	(NP We)
+	(VP are
+	    (PP in
+		(NP a wilderness))
+	    (PP without
+		(NP a single footstep
+		    (S (NP *)
+		       (AUX to)
+		       (VP guide
+			   (NP us))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our successors)
+   (AUX will)
+   (VP have
+       (NP an
+	   (ADJP easier)
+	   task)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP thought
+       (PP of
+	   (NP themselves))
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP use
+	      (NP 
+	       (NP Jefferson)
+	       's words)))
+       ,
+       (PP as
+	   (NP (NP  ``
+		    the Argonauts
+		    '')
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (AUX had)
+		   (VP lived
+		       (PP in
+			   (NP  ``
+				the Heroic Age
+				'')))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Accordingly)
+      ,
+      (S (NP they)
+	 (VP took
+	     (NP special pains
+		 (S (NP *)
+		    (AUX to)
+		    (VP preserve
+			(NP their papers)
+			(PP as
+			    (NP essential sources
+				(PP for
+				    (NP posterity))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their writings)
+   (VP assume
+       (NP (ADJP more
+		 (PP than
+		     (NP dramatic or patriotic)))
+	   interest))
+   (PP because
+       of
+       (NP (NP their conviction)
+	   (SBAR (SBAR that
+		       (S (NP (NP the struggle)
+			      (SBAR (WHPP in
+					  (WHNP which))
+				    (S (NP they)
+				       (AUX were)
+				       (VP involved
+					   ))))
+			  (VP was
+			      (ADJP  neither
+				     selfish nor parochial))))
+		 (CONJP but
+			,
+			rather
+			,)
+		 (S (PP as
+			(S (NP Washington)
+			   (PP in
+			       (NP his last wartime circular))
+			   (VP reminded
+			       (NP his fellow countrymen)))))
+		 ,
+		 (SBAR that
+		       (SINV  ``
+			      (PP with
+				  (NP our fate))
+			      (AUX will)
+			      (NP the destiny
+				  (PP of
+				      (NP unborn millions)))
+			      (VP be
+				  (VP involved
+				      ))
+			      ''))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Strong men
+	(PP with
+	    (NP strong opinions)))
+    ,
+    (ADJP frank
+	  (PP to
+	      (NP the point
+		  (PP of
+		      (S  (NP *)
+			  (VP being
+			      (ADJP  refreshingly
+				     indiscreet)))))))
+    ,
+    (S (S (NP the Founding Seven)
+	  (VP were
+	      (ADVP essentially)
+	      (NP congenial minds)))
+       ,
+       and
+       (S (NP their agreements
+	      (PP with
+		  (NP each
+		      (ADJP other))))
+	  (VP were
+	      (ADJP  more
+		     consequential
+		     (PP than
+			 (NP their differences)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR Even
+	    though
+	    (S (PP in
+		   (NP 
+		    (ADJP most)
+		    cases))
+	       (S
+		(NP the completion
+		    (PP of
+			(NP the definitive editions
+			    (PP of
+				(NP their writings)))))
+		(VP is
+		    (ADVP still)
+		    (ADVP (NP years)
+			  off)))))
+      ,
+      (S (NP  enough
+	      documentation)
+	 (AUX has)
+	 (ADVP already)
+	 (VP been
+	     (VP assembled
+		 ))
+	 (S (NP *)
+	    (AUX to)
+	    (VP warrant
+		(S (NP *)
+		   (VP drawing
+		       (NP a
+			   (ADJP new)
+			   (ADJP  composite)
+			   profile
+			   (PP of
+			       (NP (NP the leadership)
+				   (SBAR (WHNP which)
+					 (S (NP T)
+					    (VP performed
+						(NP the
+						    (ADJP heroic)
+						    (ADJP  dual)
+						    feats
+						    (PP of
+							(S (S  (NP *)
+							       (VP winning
+								   (NP American independence)))
+							   and
+							   (S (NP *)
+							      (VP founding
+								  (NP a new nation))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Before
+	(S  (NP *)
+	    (VP merging
+		(NP them)
+		(PP into
+		    (NP a common profile)))))
+    (S
+     (NP it
+	 (S-2 *pseudo-attach*))
+     (VP is
+	 (ADJP well))
+     (S-2 (NP *)
+	(AUX to)
+	(VP remember
+	    (SBAR that
+		  (S (NP their separate careers)
+		     (VP were
+			 (ADJP extraordinary))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Certainly)
+      (S (NP no
+	     (ADJP other)
+	     seven American statesmen
+	     (PP from
+		 (NP any later period)))
+	 (VP achieved
+	     (ADJP so
+		   much)
+	     (PP in
+		 (NP (ADJP  so
+			    concentrated)
+		     a span
+		     (PP of
+			 (NP years)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADJP Eldest
+	      (PP of
+		  (NP the seven)))
+	,
+	(NP (NP Benjamin Franklin)
+	    ,
+	    (NP (NP a New Englander)
+		(VP transplanted
+		    (PP to
+			(NP Philadelphia))))
+	    ,))
+    (VP wrote
+	(NP the
+	    (ADJP  (ADVP most)
+		   dazzling)
+	    success story
+	    (PP in
+		(NP our history)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The young printer)
+    's apprentice)
+   (VP achieved
+       (NP greatness)
+       (PP in
+	   (NP a half-dozen different fields))
+       ,
+       (PP as
+	   (NP (NP editor and publisher)
+	       ,
+	       (NP scientist)
+	       ,
+	       (NP inventor)
+	       ,
+	       (NP philanthropist)
+	       and
+	       (NP  statesman)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Author
+	(PP of
+	    (NP (NP the Albany Plan
+		    (PP Of
+			(NP Union)))
+		,
+		(SBAR (WHNP which)
+		      ,
+		      (S 
+		       (SBAR  had
+			      (S (NP it)
+				 (AUX been)
+				 (VP adopted
+				     )))
+		       ,
+		       (S  (NP T) 
+			   (AUX might)
+			   (VP have
+			       (VP avoided
+				   (NP the Revolution)))))))))
+    ,
+    (S (NP he)
+       (VP (VP fought
+	       (NP 
+		(NP the colonists)
+		' front-line battles)
+	       (PP in
+		   (NP London)))
+	   ,
+	   (VP negotiated
+	       (NP (NP the treaty
+		       (PP of
+			   (NP alliance
+			       (PP with
+				   (NP France)))))
+		   and
+		   (NP (NP the peace)
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(VP ended
+				    (NP the war)))))))
+	   ,
+	   (VP headed
+	       (NP the state government
+		   (PP of
+		       (NP Pennsylvania))))
+	   ,
+	   and
+	   (VP exercised
+	       (NP an
+		   (ADJP important)
+		   moderating
+		   influence)
+	       (PP at
+		   (NP the Federal Convention))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP a military mission
+	    (PP for
+		(NP his
+		    (ADJP native)
+		    Virginia))))
+    (S (NP the
+	   (ADJP youthful)
+	   George Washington)
+       (VP (VP touched
+	       (PRT off)
+	       (NP the French
+		   and
+		   Indian War))
+	   ,
+	   (VP  (ADVP then)
+		guarded
+		(NP 
+		 (NP his colony)
+		 's frontier)
+		(PP as
+		    (NP head
+			(PP of
+			    (NP its militia))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Commanding
+	      (NP the Continental Army)
+	      (PP for
+		  (NP six long years
+		      (PP of
+			  (NP the Revolution))))))
+      ,
+      (S (NP he)
+	 (VP was
+	     (NP the indispensable factor
+		 (PP in
+		     (NP the ultimate victory))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Retiring
+	      (PP to
+		  (NP his
+		      (ADJP beloved)
+		      Mount Vernon))))
+      ,
+      (S (NP he)
+	 (VP (VP returned
+		 (S (NP *)
+		    (AUX to)
+		    (VP preside
+			(PP over
+			    (NP the Federal Convention)))))
+	     ,
+	     and
+	     (VP was
+		 (NP the only man
+		     (PP in
+			 (NP history))
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP (ADVP unanimously)
+				elected
+				(NP President)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP his two terms))
+     (S (S (NP the Constitution)
+	   (AUX was)
+	   (VP (VP tested
+		   )
+	       and
+	       (VP found
+		   (ADJP workable))))
+	,
+	(S (NP  strong national
+		policies)
+	   (AUX were)
+	   (VP inaugurated
+	       ))
+	,
+	and
+	(X (NP the traditions and powers
+	       (PP of
+		   (NP the Presidential office)))
+	   (VP  firmly
+		fixed))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP John Adams)
+    (VP (VP fashioned
+	    (NP much
+		(PP of
+		    (NP 
+		     pre-Revolutionary radical
+		     ideology))))
+	,
+	(VP wrote
+	    (NP the constitution
+		(PP of
+		    (NP his home state
+			(PP of
+			    (NP Massachusetts))))))
+	,
+	(VP negotiated
+	    ,
+	    (PP with
+		(NP (NP Franklin)
+		    and
+		    (NP Jay)))
+	    ,
+	    (NP the peace
+		(PP with
+		    (NP Britain))))
+	and
+	(VP served
+	    (PP as
+		(NP (NP our
+			(ADJP first)
+			Vice President)
+		    and
+		    (NP our
+			(ADJP second)
+			President))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP His political opponent and lifetime friend)
+	   ,
+	   (NP Thomas Jefferson)
+	   ,)
+       (VP achieved
+	   (NP immortality))
+       (PP through
+	   (NP his authorship
+	       (PP of
+		   (NP the Declaration
+		       (PP of
+			   (NP Independence)))))))
+    ,
+    but
+    (SINV (ADJP  equally
+		 notable)
+	  (VP were)
+	  (NP (NP (NP the legal and constitutional reforms)
+		  (SBAR 0
+			(S
+			 (NP he)
+			 (VP instituted
+			     (NP T)
+			     (PP in
+				 (NP his
+				     (ADJP native)
+				     Virginia))))))
+	      ,
+	      (NP his role
+		  (PP as
+		      (NP father
+			  (PP of
+			      (NP our territorial system)))))
+	      ,
+	      and
+	      (NP his acquisition
+		  (PP of
+		      (NP the Louisiana Territory))
+		  (PP during
+		      (NP his first term
+			  (PP as
+			      (NP President))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the
+             (ADJP greater)
+	     part
+	     (PP of
+		 (NP 
+		  (NP Jefferson)
+		  's career))))
+     (S
+      (NP he)
+      (VP enjoyed
+	  (NP the close collaboration
+	      (PP of
+		  (NP (NP a fellow
+			  Virginian)
+		      ,
+		      (NP (NP James Madison)
+			  ,
+			  (NP (NP eight years)
+			      his junior))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The active sponsor
+	(PP of
+	    (NP 
+	     (NP Jefferson)
+	     's measure
+	     (PP for
+		 (NP religious liberty
+		     (PP in
+			 (NP Virginia)))))))
+    ,
+    (S (NP Madison)
+       (VP (VP played
+	       (NP the
+		   (ADJP  most influential)
+		   single role)
+	       (PP (PP in
+		       (NP the drafting
+			   (PP of
+			       (NP the Constitution))))
+		   and
+		   (PP in
+		       (S  (NP *)
+			   (VP securing
+			       (NP its ratification)
+			       (PP in
+				   (NP Virginia)))))))
+	   ,
+	   (VP founded
+	       (NP the
+		   first political
+		   party
+		   (PP in
+		       (NP American history))))
+	   ,
+	   and
+	   ,
+	   (VP (PP as
+		   (NP (NP 
+			(NP Jefferson)
+			's
+			(NP Secretary
+			    (PP of
+				(NP State))))
+		       and
+		       (NP his successor
+			   (PP in
+			       (NP the Presidency)))))
+	       ,
+	       guided
+	       (NP the nation)
+	       (PP through
+		   (NP the troubled years
+		       (PP of
+			   (NP our second war
+			       (PP with
+				   (NP Britain))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	(S (NP Franklin)
+	   (VP was
+	       (NP an authentic genius))))
+    ,
+    (S (ADVP then)
+       (S (NP Alexander Hamilton)
+	  ,
+	  (PP with
+	      (NP his exceptional precocity
+		  ,
+		  consuming
+		  energy
+		  ,
+		  and
+		  high ambition))
+	  ,
+	  (VP was
+	      (NP a political prodigy)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP His revolutionary pamphlets)
+	,
+	(VP published
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP he)
+		(VP was
+		    (NP  only
+			 19)))))
+	,)
+    (ADVP quickly)
+    (VP brought
+	(NP him)
+	(PP to
+	    (NP the attention
+		(PP of
+		    (NP the patriot leaders))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Principal author
+	(PP of
+	    (NP  ``
+		 The Federalist
+		 '')))
+    ,
+    (S (NP he)
+       (VP swung
+	   (NP New York)
+	   (PRT over)
+	   (PP from
+	       (NP opposition
+		   (PP to
+		       (NP the Constitution))))
+	   (PP to
+	       (NP ratification)))
+       (ADVP almost
+	     single-handedly)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP His collaboration
+	    (PP with
+		(NP Washington)))
+	,
+	(VP begun
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP he)
+		(VP was
+		    (NP 
+		     (NP the general)
+		     's aide))
+		(PP during
+		    (NP the Revolution)))))
+	,)
+    (AUX was)
+    (VP resumed
+	  
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP he)
+	    (VP entered
+		(NP the
+		    (ADJP first)
+		    Cabinet)
+		(PP as
+		    (NP Secretary
+			(PP of
+			    (NP the Treasury)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP His
+	    (ADJP bold)
+	    (ADJP  fiscal)
+	    program)
+	and
+	(NP his broad interpretation
+	    (PP of
+		(NP the Constitution))))
+    (VP stand
+	(PP as
+	    (NP durable contributions))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP  Less
+	   dazzling
+	   (PP than
+	       (NP Hamilton)))
+    ,
+    (ADJP  less
+	   eloquent
+	   (PP than
+	       (NP Jefferson)))
+    ,
+    (S (NP John Jay)
+       (VP commands
+	   (NP an
+	       (ADJP equally
+		     high) rank))
+       (PP among
+	   (NP the Founding Fathers))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP served
+       (PP as
+	   (NP president
+	       (PP of
+		   (NP the Continental Congress))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP played
+	   (NP the leading role
+	       (PP in
+		   (S  (NP *)
+		       (VP negotiating
+			   (NP (NP the treaty
+				   (PP with
+				       (NP  Great
+					    Britain)))
+			       (SBAR (WHNP that)
+				     (S (NP T)
+					(VP ended
+					    (NP the Revolution))))))))))
+       ,
+       and
+       (VP directed
+	   (NP 
+	    (NP America)
+	    's foreign affairs)
+	   (PP throughout
+	       (NP the Confederation period)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP (ADJP first)
+	    Chief Justice))
+    ,
+    (S (NP his
+	   (ADJP strong)
+	   (ADJP  nationalist)
+	   opinions)
+       (VP anticipated
+	   (NP John Marshall))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP ended
+       (NP his public career)
+       (PP as
+	   (NP a two-term governor
+	       (PP of
+		   (NP New York))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  These Seven
+	 Founders)
+    (VP constituted
+	(NP (NP an intellectual and social elite)
+	    ,
+	    (NP (NP the
+		    (ADJP  most respectable
+			   and
+			   disinterested)
+		    leadership)
+		(SBAR 0
+		      (S
+		       (NP any revolution)
+		       (ADVP ever)
+		       (VP confessed
+			   (NP T) )))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their social status)
+   (AUX was)
+   (VP achieved
+       (PP (PP in
+	       (NP some cases))
+	   (PP by
+	       (NP birth)
+	       ,
+	       (PP as
+		   (PP with
+		       (NP (NP Washington)
+			   ,
+			   (NP Jefferson)
+			   and
+			   (NP Jay)))))
+	   ;
+	   ;
+	   (PP in
+	       (NP others))
+	   (PP by
+	       (NP business
+		   and
+		   professional acumen))
+	   ,
+	   (PP as
+	       (PP with
+		   (NP (NP Franklin)
+		       and
+		       (NP Adams))))
+	   ,
+	   or
+	   ,
+	   (PP in
+	       (NP 
+		(NP Hamilton)
+		's case))
+	   ,
+	   (PP by
+	       (NP an influential marriage)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Unlike
+	(NP  so
+	     many
+	     (PP of
+		 (NP the power-starved intellectuals
+		     (PP in
+			 (NP underdeveloped nations))
+		     (PP of
+			 (NP our own day))))))
+    ,
+    (S (NP they)
+       (VP commanded
+	   (NP both prestige and influence))
+       (PP before
+	   (S (NP the Revolution)
+	      (VP started)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP  As
+	   different
+	   (ADVP physically)
+	   (PP as
+	       (S (NP the
+		      (ADJP tall
+			    ,
+			    angular)
+		      Jefferson)
+		  (VP was
+		      (PP from
+			  (NP the
+			      (ADJP chubby
+				    ,
+				    rotund)
+			      Adams))))))
+    ,
+    (S (NP the seven)
+       (VP were
+	   (NP striking individualists))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Ardent)
+    ,
+    (ADJP opinionated)
+    ,
+    (ADJP  even
+	   obstinate)
+    ,
+    (S (NP they)
+       (VP (VP were
+	       (ADJP  amazingly
+		      articulate))
+	   ,
+	   (VP wrote
+	       (NP their own copy))
+	   ,
+	   and
+	   (VP were
+	       (NP masters
+		   (PP of
+		       (NP phrasemaking)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Capable
+	  (PP of
+	      (NP  enduring
+		   friendships)))
+    ,
+    (S (NP they)
+       (VP were
+	   (ADVP also)
+	   (NP (NP stout controversialists)
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (AUX could)
+		   (VP write
+		       (PP with
+			   (NP a drop
+			       (PP of
+				   (NP vitriol))
+			       (PP on
+				   (NP their pens)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP John Adams)
+   (VP dismissed
+       (NP (NP John Dickinson)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP voted
+		   (PP against
+		       (NP the Declaration
+			   (PP of
+			       (NP Independence)))))))
+	   ,)
+       (PP as
+	   (NP  ``
+		a
+		(ADJP certain)
+		(ADJP  great)
+		fortune
+		and
+		piddling genius
+		''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Washington)
+   (VP castigated
+       (NP (NP his critic)
+	   ,
+	   (NP General Conway)
+	   ,)
+       (PP as
+	   (S  (NP *)
+	       (VP being
+		   (ADJP capable
+			 (PP of
+			     (NP  ``
+				  all
+				  the meanness
+				  (PP of
+				      (NP intrigue))
+				  (S (NP *)
+				     (AUX to)
+				     (VP gratify
+					 (NP the absurd resentment
+					     (PP of
+						 (NP disappointed vanity)))))
+				  ''))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP Hamilton)
+	     ,
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP felt
+			  (NP it)
+			  (NP  ``
+			       a religious duty
+			       ''))
+		      (S (NP *)
+			 (AUX to)
+			 (VP oppose
+			     (NP 
+			      (NP Aaron Burr)
+			      's political ambitions)))))
+	     ,)
+	 (AUX would)
+	 (VP have
+	     (VP been
+		 (NP a
+		     (ADJP better)
+		     (ADJP  actuarial)
+		     risk)))
+	 (SBAR  had
+		(S (NP he)
+		   (VP shown
+		       (NP 
+			more literary
+			restraint))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  The Seven
+	 Founders)
+    (AUX were)
+    (VP  (ADVP completely)
+	 dedicated
+	    
+	 (PP to
+	     (NP the public service))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Madison)
+   (ADVP once)
+   (VP remarked
+       :
+       (NP (S  ``
+	       (NP My life)
+	       (AUX has)
+	       (VP been
+		   (NP  so
+			much
+			a public one))
+	       '')
+	   ,
+	   (NP (NP a comment)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP fits
+			    (NP the careers
+				(PP of
+				    (NP the
+					(ADJP other)
+					six))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Franklin)
+    (VP (VP retired
+	    (PP from
+		(NP editing and publishing))
+	    (PP at
+		(NP the age
+		    (PP of
+			(NP 42)))))
+	,
+	and
+	(PP for
+	    (NP the
+		(ADJP next)
+		forty-two years))
+	(VP devoted
+	    (NP himself)
+	    (PP to
+		(NP  public
+		     ,
+		     scientific
+		     ,
+		     and
+		     philanthropic interests)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Washington)
+   (ADVP never)
+   (VP had
+       (NP a chance
+	   (S (NP *)
+	      (AUX to)
+	      (VP work
+		  (PP for
+		      (NP an extended stretch))
+		  (PP at
+		      (NP (NP (NP the occupation)
+			      (SBAR 0
+				    (S
+				     (NP he)
+				     (VP loved
+					 (NP T) 
+					 (ADJP best)))))
+			  ,
+			  (NP plantation management))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP served
+       (PP as
+	   (NP Commander
+	       (PP in
+		   (NP Chief)))))
+   (PP during
+       (NP the Revolution))
+   (PP without
+       (NP compensation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP John Adams)
+    (VP took
+	(PP to
+	    (NP heart))
+	(NP (NP the advice)
+	    (VP given
+		(NP him)
+		(PP by
+		    (NP (NP his legal mentor)
+			,
+			(NP Jeremiah Gridley)
+			,)))
+	    (S (NP *)
+	       (AUX to)
+	       (VP  ``
+		    pursue
+		    (NP the study
+			(PP of
+			    (NP the law)))
+		    ,
+		    (ADVP rather
+			  (PP than
+			      (NP the gain
+				  (PP of
+				      (NP it)))))
+		    '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S  (NP *)
+	    (VP taking
+		(NP account
+		    (PP of
+			(NP seventeen years
+			    (PP of
+				(NP law practice))))))))
+    ,
+    (S (NP Adams)
+       (VP concluded
+	   (SBAR that
+		 (S  ``
+		     (NP no lawyer
+			 (PP in
+			     (NP America)))
+		     (ADVP ever)
+		     (VP did
+			 (X (NP  so
+				 much business
+				 (PP as
+				     (S (NP I)
+					(VP did))))
+			    ''
+			    and
+			    (PP  ``
+				 for
+				 (NP  so
+				      little profit)
+				 ''))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the Revolution)
+	(VP broke
+	    (PRT out))))
+    ,
+    (S (NP he)
+       ,
+       (PP along
+	   (PP with
+	       (NP (NP Jefferson)
+		   and
+		   (NP Jay))))
+       ,
+       (VP abandoned
+	   (NP his career
+	       (PP at
+		   (NP the bar)))
+	   ,
+	   (PP with
+	       (NP 
+		(ADJP considerable)
+		(ADJP  financial)
+		sacrifice)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Hamilton)
+	,
+	(ADJP poorest
+	      (PP of
+		  (NP the seven)))
+	,)
+    (VP gave
+	(PRT up)
+	(NP a brilliant law practice)
+	(S (NP *)
+	   (AUX to)
+	   (VP enter
+	       (NP 
+		(NP Washington)
+		's
+		Cabinet)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  While
+	    (S (NP he)
+	       (AUX was)
+	       (VP handling
+		   (NP the multi-million-dollar funding operations
+		       (PP of
+			   (NP the Government))))))
+     (S
+      (NP he)
+      (VP had
+	  (S (NP *)
+	     (AUX to)
+	     (VP resort
+		 (PP to
+		     (S  (NP *)
+			 (VP borrowing
+			     (NP small sums)
+			     (PP from
+				 (NP friends))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP  ``
+	 If
+	 (S (NP you)
+	    (AUX can)
+	    (ADVP conveniently)
+	    (VP let
+		(NP me)
+		(VP have
+		    (NP twenty dollars))))
+	 '')
+    ,
+    (S (NP he)
+       (VP wrote
+	   (NP one friend))
+       (PP in
+	   (NP 1791))
+       (SBAR 
+	(WHADVP when)
+	(S (NP he)
+	   (VP was
+	       (NP Secretary
+		   (PP of
+		       (NP the Treasury))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP support
+	    (NP his large family)))
+     (S (NP Hamilton)
+	(VP went
+	    (ADVP back
+		  (PP to
+		      (NP the law))))
+	(PP after
+	    (NP each spell
+		(PP of
+		    (NP public service))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Talleyrand)
+   (VP passed
+       (NP his New York law office)
+       (NP one night)
+       (PP on
+	   (NP the way
+	       (PP to
+		   (NP a party))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hamilton)
+   (AUX was)
+   (VP (VP bent
+	     
+	   (PP over
+	       (NP his desk)))
+       ,
+       (VP drafting
+	   (NP a legal paper)
+	   (PP by
+	       (NP the light
+		   (PP of
+		       (NP a candle)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Frenchman)
+   (AUX was)
+   (VP astonished
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP I)
+	(AUX have)
+	(ADVP just)
+	(VP come
+	    (PP from
+		(S  (NP *)
+		    (VP viewing
+			(NP (NP a man)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (X (X (AUX had)
+					   (VP made
+					       (NP the fortune
+						   (PP of
+						       (NP his country)))))
+					,
+					but
+					(X  (ADVP now)
+					    (AUX is)
+					    (VP working
+						(NP all night)
+						(PP in
+						    (NP order
+							(S (NP *)
+							   (AUX to)
+							   (VP support
+							       (NP his family)))))))))))))))
+	'')
+    ,
+    (S (NP he)
+       (VP reflected)))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All seven)
+   (VP combined
+       (NP ardent devotion
+	   (PP to
+	       (NP the cause
+		   (PP of
+		       (NP revolution)))))
+       (PP with
+	   (NP a profound respect
+	       (PP for
+		   (NP legality))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP John Adams)
+      (VP asserted
+	  (PP in
+	      (NP 
+	       (NP the Continental Congress)
+	       ' Declaration
+	       (PP of
+		   (NP Rights))))
+	  (SBAR that
+		(S (NP the demands
+		       (PP of
+			   (NP the colonies)))
+		   (VP were
+		       (PP in
+			   (NP accordance
+			       (PP with
+				   (NP (NP their charters)
+				       ,
+				       (NP the British Constitution)
+				       and
+				       (NP the common law))))))))))
+     ,
+     and
+     (S (NP Jefferson)
+	(VP appealed
+	    (PP in
+		(NP the Declaration
+		    (PP of
+			(NP Independence))))
+	    (PP  ``
+		 to
+		 (NP the tribunal
+		     (PP of
+			 (NP the world)))
+		 '')
+	    (PP for
+		(NP support
+		    (PP of
+			(NP (NP a revolution)
+			    (VP justified
+				(PP by
+				    (NP  ``
+					 the laws
+					 (PP (PP of
+						 (NP nature))
+					     and
+					     (PP of
+						 (NP 
+						  (NP nature)
+						  's
+						  God)))
+					 ''))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP fought
+	  (ADVP hard)))
+     ,
+     but
+     (S (NP they)
+	(X (X (AUX were)
+	      (VP forgiving
+		  (PP to
+		      (NP former foes))))
+	   ,
+	   and
+	   (VP sought
+	       (S (NP *)
+		  (AUX to)
+		  (VP prevent
+		      (NP vindictive legislatures)
+		      (PP from
+			  (S  (NP *)
+			      (VP confiscating
+				  (NP Tory property)
+				  (PP in
+				      (NP violation
+					  (PP of
+					      (NP the Treaty
+						  (PP of
+						      (NP 1783)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This sense
+       (PP of
+	   (NP moderation and fairness)))
+   (AUX is)
+   (VP  (ADVP superbly)
+	exemplified
+	     
+	(PP in
+	    (NP an exchange
+		(PP of
+		    (NP letters))
+		(PP between
+		    (NP (NP John Jay)
+			and
+			(NP (NP a Tory refugee)
+			    ,
+			    (NP Peter Van Schaack))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jay)
+   (AUX had)
+   (VP participated
+       (PP in
+	   (NP (NP the decision)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP exiled
+			    (NP (NP his old friend)
+				(NP Van Schaack)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (SBAR (WHADVP when)
+	    ,
+	    (S (PP at
+		   (NP 
+		    (NP war)
+		    's end))
+	       ,
+	       (S (NP the ex-Tory)
+		  (VP made
+		      (NP the first move
+			  (S (NP *)
+			     (AUX to)
+			     (VP resume
+				 (NP correspondence)))))))
+	    ,)
+      (S (NP Jay)
+	 (VP wrote
+	     (NP him)
+	     (PP from
+		 (NP (NP Paris)
+		     ,
+		     (SBAR 
+		      (WHADVP where)
+		      (S (NP he)
+			 (AUX was)
+			 (VP negotiating
+			     (NP the peace settlement))))))
+	     :
+	     (S  ``
+		 (S (PP As
+			(NP an
+			    (ADJP independent)
+			    American))
+		    (S (NP I)
+		       (VP considered
+			   (NP (NP (NP all)
+				   (SBAR (WHNP who)
+					 (S (NP T)
+					    (VP were
+						(NEG not)
+						(PP for
+						    (NP us)))))
+				   ,
+				   and
+				   (NP you
+				       (PP amongst
+					   (NP the rest))))
+			       ,
+			       (PP as
+				   (PP against
+				       (NP us)))))))
+		 ,
+		 yet
+		 (S  (NP *) 
+		     (VP be
+			 (VP assured
+			     (SBAR that
+				   (S (NP John Jay)
+				      (ADVP never)
+				      (VP ceased
+					  (S (NP *)
+					     (AUX to)
+					     (VP be
+						 (NP the friend
+						     (PP of
+							 (NP Peter Van Schaack)))))))))))
+		 ''))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP latter))
+   (PP in
+       (NP turn))
+   (VP assured
+       (NP him)
+       (SBAR that
+	     (S  ``
+		 (SBAR  were
+			(S (S (NP I)
+			      (VP arraigned)
+			      (PP at
+				  (NP the bar)))
+			   ,
+			   and
+			   (X (NP you)
+			      (NP my
+				  judge))))
+		 ,
+		 (S (NP I)
+		    (AUX should)
+		    (VP expect
+			(S (NP *)
+			   (AUX to)
+			   (VP stand or fall
+			       (PP  (ADVP only)
+				    by
+				    (NP the merits
+					(PP of
+					    (NP my cause))))))))
+		 ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All seven)
+   (VP recognized
+       (SBAR that
+	     (S (NP  independence)
+		(VP was
+		    (NP  but
+			 the first step
+			 (PP toward
+			     (S  (NP *)
+				 (VP building
+				     (NP a nation))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP We)
+	(VP have
+	    (ADVP now)
+	    (NP a national character
+		(S (NP *)
+		   (AUX to)
+		   (VP establish))))
+	'')
+    ,
+    (S (NP Washington)
+       (VP wrote)
+       (PP in
+	   (NP 1783))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP *) 
+	(VP Think
+	    (ADVP continentally))
+	'')
+    ,
+    (S (NP Hamilton)
+       (VP counseled
+	   (NP the young nation))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+
+((S (NP (NP (NP This new force)
+	    ,
+	    (NP love
+		(PP of
+		    (NP country))))
+	,
+	(VP (VP super-imposed
+		(PP upon
+		    (NP-2 *pseudo-attach*)))
+	    --
+	    (X if  
+	       (NEG not)
+	       (VP displacing)
+	       (NP-2 *pseudo-attach*))
+	    --
+	    (NP-2 affectionate ties
+		  (PP to
+		      (NP (NP one)
+			  's
+			  own state))))
+	,)
+    (AUX was)
+    (VP epitomized
+	 
+	(PP by
+	    (NP Washington))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His first inaugural address)
+   (VP speaks
+       (PP of
+	   (NP  ``
+		(NP my country)
+		(SBAR (WHNP whose voice)
+		      (S
+		       (NP I)
+		       (AUX can)
+		       (ADVP never)
+		       (VP hear
+			   (NP T)
+			   (PP but
+			       (PP with
+				   (NP veneration and love))))))
+		''))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All)
+   (VP sought
+       (NP the fruition
+	   (PP of
+	       (NP that nationalism)))
+       (PP in
+	   (NP a Federal Government
+	       (PP with
+		   (NP substantial powers))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Save
+	(NP Jefferson))
+    ,
+    (S (NP all)
+       (VP participated
+	   (PP in
+	       (NP the framing or ratification
+		   (PP of
+		       (NP the Federal Constitution)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP supported
+       (NP it))
+   ,
+   (PP (NEG not)
+       (PP as
+	   (NP a perfect instrument))
+       ,
+       but
+       (PP as
+	   (NP the
+	       (ADJP  best obtainable)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Historians)
+   (AUX have)
+   (ADVP traditionally)
+   (VP regarded
+       (NP the great debates
+	   (PP of
+	       (NP the Seventeen
+		   Nineties)))
+       (PP as
+	   (S  (NP *)
+	       (VP polarizing
+		   (NP the issues
+		       (PP of
+			   (NP centralized vs. limited government))))
+	       ,
+	       (PP with
+		   (S (S (NP (NP Hamilton)
+			     and
+			     (NP the nationalists))
+			 (VP supporting
+			     (NP the
+				 (ADJP former))))
+		      and
+		      (S (NP (NP Jefferson)
+			     and
+			     (NP Madison))
+			 (VP upholding
+			     (NP the latter position)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP 
+	(NP The state)
+	's rights
+	position)
+       (AUX was)
+       (VP formulated
+	  
+	   (PP by
+	       (NP (NP Jefferson)
+		   and
+		   (NP Madison)))
+	   (PP in
+	       (NP the Kentucky
+		   and
+		   Virginia Resolves))))
+    ,
+    but
+    (S (PP in
+	   (NP their later careers
+	       (PP as
+		   (NP heads
+		       (PP of
+			   (NP state))))))
+       (S
+	(NP the two)
+	(VP proved
+	    (NP themselves)
+	    (NP (ADJP better)
+		Hamiltonians
+		(PP than
+		    (NP Jeffersonians)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (S  (NP *)
+	       (VP purchasing
+		   (NP Louisiana))))
+       ,
+       (S (NP Jefferson)
+	  (VP had
+	      (S (NP *)
+		 (AUX to)
+		 (VP adopt
+		     (NP 
+		      (NP Hamilton)
+		      's broad construction
+		      (PP of
+			  (NP the Constitution))))))))
+    ,
+    and
+    (SINV (ADVP so)
+	  (VP did)
+	  (NP Madison)
+	  (PP (PP in
+		  (S  (NP *)
+		      (VP advocating
+			  (NP (NP the rechartering
+				  (PP of
+				      (NP 
+				       (NP Hamilton)
+				       's bank)))
+			      ,
+			      (SBAR (WHNP which)
+				    (S
+				     (NP he)
+				     (AUX had)
+				     (VP  (ADVP so
+						strenuously)
+					  opposed
+					  (NP T) 
+					  (PP at
+					      (NP its inception)))))))))
+	      ,
+	      and
+	      (PP in
+		  (S  (NP *)
+		      (VP adopting
+			  (NP a
+			      (ADJP Hamiltonian)
+			      (ADJP  protective)
+			      tariff)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Indeed)
+      ,
+      (S (NP  the
+	      (ADJP old)
+	      Jeffersonians)
+	 (VP were
+	     (ADJP  (ADVP far
+			  more)
+		    atune
+		    (PP to
+			(NP the
+			    (ADJP Hamilton-oriented)
+			    Whigs))
+		    (PP than
+			(S (NP they)
+			   (VP were
+			       (PP to
+				   (NP the Jacksonian Democrats)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S  ,
+	      (PP in
+		  (NP 1832))
+	      ,
+	      (S (NP the South Carolina nullifiers)
+		 (VP adopted
+		     (NP (NP the principle
+			     (PP of
+				 (NP state interposition)))
+			 (SBAR (WHNP which)
+			       (S
+				(NP Madison)
+				(AUX had)
+				(VP advanced
+				    (NP T)
+				    (PP in
+					(NP his
+					    (ADJP old)
+					    Virginia Resolve))))))))))
+    ,
+    (S (NP they)
+       (VP elicited
+	   (NP no encouragement)
+	   (PP from
+	       (NP that senior statesman)))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP (NP his political testament)
+		,
+		(NP  ``
+		     Advice 
+		     (PP To
+			 (NP My Country))
+		     '')
+		,)
+	    (VP penned
+		(PP  (ADVP just)
+		     before
+		     (NP his death)))
+	    ,))
+    (S (NP Madison)
+       (VP expressed
+	   (NP the wish
+	       (SBAR  ``
+		      that
+		      (S (NP the Union
+			     (PP of
+				 (NP the States)))
+			 (AUX be)
+			 (VP cherished
+			     and
+			     perpetuated
+			     )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP (VP Let
+	       (NP the open enemy
+		   (PP to
+		       (NP it)))
+	       (S 
+		(AUX be)
+		(VP regarded
+	        
+		    (PP as
+			(NP a Pandora
+			    (PP with
+				(NP (NP her box)
+				    (VP opened)))))))))
+       ;
+       ;
+       and
+       (X (NP the disguised one)
+	  ,
+	  (PP as
+	      (NP (NP the serpent)
+		  (VP creeping
+		      (PP with
+			  (NP his deadly wiles))
+		      (PP into
+			  (NP Paradise)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

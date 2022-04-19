@@ -1,0 +1,2310 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Livery stable)
+     --
+     (NP (NP J. Vernon)
+	 ,
+	 (NP  prop
+		.))
+     '')
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Coaching)
+      (AUX had)
+      (VP declined
+	  (ADVP considerably))
+      (PP by
+	  (NP 1905)))
+     ,
+     but
+     (S (NP the sign)
+	(VP was
+	    (ADVP still)
+	    (X   (ADVP there)
+		 ,
+		 (PP near
+		     (NP the
+			 old
+			 Wells Fargo building))
+		 (PP in
+		     (NP San Francisco))))
+	,
+	(S  (NP *)
+	    (VP creaking
+		(PP in
+		    (NP the fog))
+		(PP as
+		    (S (NP it)
+		       (AUX had)
+		       (PP for
+			   (NP thirty years))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP John Vernon)
+     (AUX had)
+     (VP had
+	 (NP  (NP all
+		  the patronage)
+	      (SBAR 0
+		    (S
+		     (NP he)
+		     (VP cared
+			 (PP for
+			     (NP T) )))))))
+    --
+    (S (S (NP he)
+	  (AUX had)
+	  (VP prospered))
+       ,
+       but
+       (S (NP he)
+	  (AUX could)
+	  (NEG not)
+	  (VP retire
+	      (PP from
+		  (NP horsedom))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Coaching)
+   (VP was
+       (PP in
+	   (NP his blood))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP had
+       (NP (NP two interests)
+	   (NP-1 *pseudo-attach*)))
+   (PP in
+       (NP life))
+   :
+   (NP-1 (NP the pleasures
+	   (PP of
+	       (NP the table)))
+       and
+       (NP driving)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S  (X (ADVP Twice)
+	(NP a week))
+     (S (NP he)
+	(VP drove
+	    (NP his tallyho)
+	    (PP over
+		(NP the  Santa Cruz road))
+	    ,
+	    (X  (ADVP upland)
+		and
+		(PP through
+		    (NP the redwood forest))))
+	,
+	(PP with
+	    (X  (X (NP orchards)
+		   (PP below
+		       (NP him))
+		   (PP at
+		       (NP one hand)))
+		,
+		and
+		(X  (NP glimpses
+			(PP of
+			    (NP the Pacific)))
+		    (PP at
+			(NP the
+			    (ADJP other))))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The journey
+	(ADVP back))
+    (S (NP he)
+       (VP made
+	   (NP T) 
+	        
+	   (PP along
+	       (NP the coast road))
+	   ,
+	   (S (NP *)
+	      (VP traveling
+		  (ADVP hell-for-leather))
+	      ,
+	      (X  (NP every lantern
+		      (PP of
+			  (NP the tallyho)))
+		  (ADJP ablaze))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADVP southward) route)
+   (VP was
+       (NP (NP the  classic run)
+	   (PP in
+	       (NP California))
+	   ,
+	   and
+	   (NP the
+	       most
+	       fashionable))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His patronage
+       (PP on
+	   (NP this stretch)))
+   (AUX was)
+   (VP made
+       (PRT up)
+       (ADVP largely)
+       (PP of
+	   (NP (NP San Franciscans)
+	       --
+	       (NP (NP (NP regulars)
+		       ,
+		       (ADJP most
+			     (PP of
+				 (NP them)))
+		       ,)
+		   and
+		   (NP trenchermen
+		       (PP like
+			   (NP himself))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (AUX did)
+    (NEG not)
+    (VP complain
+	(PP (PP at
+		(NP (NP the  inhuman hour
+			(PP of
+			    (NP starting)))
+		    *LRB*
+		    (NP seven
+			(PP in
+			    (NP the morning)))
+		    *RRB*))
+	    ,
+	    nor
+	    (PP of
+		(NP (NP the tariff)
+		    ,
+		    (SBAR  
+		     (WHNP which)
+		     (S (NP T)
+			(VP was
+			    (ADJP reasonable))
+			(SBAR since
+			      (S (NP it)
+				 (VP covered
+				     (NP everything
+					 (PP but
+					     (NP the tobacco)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Breakfast)
+      (VP was
+	  (PP at
+	      (NP the Palace Hotel))))
+     ,
+     (S (NP luncheon)
+	(VP was
+	    (NP somewhere
+		(PP in
+		    (NP the mountain forest)))))
+     ,
+     and
+     (S (NP dinner)
+	(VP was
+	    (PP (ADVP either)
+		(PP at
+		    (NP Boulder Creek))
+		or
+		(PP at
+		    (NP Santa Cruz))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Gazing
+	 (ADVP too
+	       long)
+	 (PP at
+	     (NP the scenery)))
+     (AUX could)
+     (VP be
+	 (VP tiring))
+     ,
+     (SBAR  so
+	    (S (NP halts
+		   (PP-2 *pseudo-attach*))
+	       (AUX were)
+	       (VP contrived)
+	       (PP-2 between
+		     (NP meals)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP (NP the Chinese hostler)
+	     ,
+	     (SBAR  
+	      (WHNP who)
+	      (S (NP T)
+		 (VP rode
+		     (PP with
+			 (NP Vernon))
+		     (PP on
+			 (NP the box)))))
+	     ,)
+	 (AUX would)
+	 (VP (VP break
+		 (ADVP open)
+		 (NP a hamper))
+	     and
+	     (VP produce
+		 (NP (NP filets
+			 (PP of
+			     (NP  smoked bass or sturgeon)))
+		     ,
+		     (NP sandwiches)
+		     ,
+		     (NP  pickled eggs)
+		     ,
+		     and
+		     (NP (NP a rum sangaree)
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(VP heated
+				    (PP over
+					(NP a spirit lamp)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP In
+	    (NP spring))
+	and
+	(PP in
+	    (NP autumn)))
+    (S
+     (NP the run)
+     (AUX was)
+     (VP made
+	 (PP for
+	     (NP (NP a group
+		     (PP of
+			 (NP botanists)))
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (VP included
+			 (NP an  old friend
+			     (PP of
+				 (NP mine)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP gathered
+       (NP (NP roots)
+	   ,
+	   (NP bulbs)
+	   ,
+	   (NP  odd ferns)
+	   ,
+	   (NP leaves)
+	   ,
+	   and
+	   (NP bits
+	       (PP of
+		   (NP resin))
+	       (PP from
+		   (NP (NP the
+			   rare
+			   Santa Lucia fir)
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP exists
+			       (ADVP only)
+			       (PP on
+				   (NP a  forty-five mile strip
+				       (PP on
+					   (NP the  westerly side
+					       (PP of
+						   (NP these mountains)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the Spanish days))
+    (S (NP  Franciscan monks)
+       (VP roamed
+	   (ADVP here))
+       (S (NP *)
+	  (AUX to)
+	  (VP collect
+	      (NP the resin)
+	      (PP for
+		  (NP incense))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP yields
+       (NP (NP a fragrance)
+	   (ADJP  as
+		  Orphic
+		  (PP as
+		      (NP that
+			  (PP of
+			      (NP the pastilles
+				  (PP of
+				      (NP Malabar))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Vernon)
+      (VP was
+	  (ADJP serviceable)
+	  (PP on
+	      (NP the  botanical field trips))))
+     ,
+     but
+     (S (S (NP he)
+	   (AUX could)
+	   (VP arrange
+	       (NP no schedule)
+	       (PP with
+		   (NP the cooks))))
+	,
+	and
+	(S (NP he)
+	   (VP was
+	       (ADJP glad))
+	   (SBAR 
+	    (WHADVP when)
+	    (S (S (NP the trips)
+		  (VP dropped
+		      (PRT off)))
+	       ,
+	       and
+	       (S (NP the botanists)
+		  (VP began
+		      (S (NP *)
+			 (AUX to)
+			 (VP motor
+			     (ADVP out)
+			     (PP by
+				 (NP themselves)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP My friend)
+   (ADVP often)
+   (VP breakfasted
+       (PP with
+	   (NP Vernon))
+       (PP on
+	   (NP the morning
+	       (PP of
+		   (NP the  regular tallyho run))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (NP an honor)
+       ,
+       (PP like
+	   (S  (NP *)
+	       (VP dining
+		   (PP with
+		       (NP a captain))
+		   (PP at
+		       (NP his  private table)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP Vernon)
+       's office)
+      (VP adjoined
+	  (NP the stable)))
+     ,
+     and
+     (S (NP the walls)
+	(AUX were)
+	(VP adorned
+	        
+	    (PP with
+		(NP (NP    brightly
+			   colored 
+			   lithographs)
+		    ,
+		    (NP the folk art
+			(PP of
+			    (NP the period))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP advertised
+       (NP (NP harness polish)
+	   ,
+	   (NP liniments)
+	   ,
+	   (NP 
+	    (NP Ball)
+	    's Rubber Boots)
+	   ,
+	   (NP   Green River
+		 Whiskey)
+	   ,
+	   (NP 
+	    (NP Hood)
+	    's Sarsaparilla)
+	   ,
+	   (NP patent medicines)
+	   ,
+	   (NP shoe blacking)
+	   ,
+	   and
+	   (NP  chewing tobacco))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The hostler)
+      (AUX would)
+      (VP have
+	  (X (X  (NP the table)
+		 (ADJP ready))
+	     and
+	     (X  (NP a pot
+		     (PP of
+			 (NP coffee)))
+		 (VP hissing
+		     (PP on
+			 (NP the stove)))))))
+     ;
+     ;
+     (S (ADVP then)
+	(S (NP a porter
+	       (PP from
+		   (NP 
+		    (NP Manning)
+		    's
+		    Fish House)))
+	   (AUX would)
+	   (VP trot
+	       (ADVP in)
+	       (PP with
+		   (NP a tray
+		       (PP on
+			   (NP his head))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP draped
+       (PP with
+	   (NP  (NP snowy napkins)
+		(SBAR that
+		      (S  (NP T) 
+			  (VP kept
+			      (ADJP hot)
+			      (NP (NP a platter
+				      (PP of
+					  (NP oyster salt roast)))
+				  and
+				  (NP a mound
+				      (PP of
+					  (NP corn fritters)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Vernon)
+      (VP was
+	  (ADJP    consummately
+		   fond
+		   (PP of
+		       (NP oysters)))))
+     ,
+     and
+     (S (NP
+	 Manning
+	 's)
+	(AUX had)
+	(VP been
+	    (ADJP famous
+		  (PP for
+		      (NP them))))
+	(PP since
+	    (NP the Civil War))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Oyster salt roast)
+	--
+	(NP (NP oysters
+		(PP on
+		    (NP the half shell)))
+	    ,
+	    (VP cooked
+		(PP on
+		    (NP a bed
+			(PP of
+			    (NP  (NP coarse salt)
+				 (SBAR (WHNP that)
+				       (S  (NP T) 
+					   (VP kept
+					       (NP them)
+					       (ADJP hot))
+					   (SBAR (WHADVP when)
+						 (S   (NP *) 
+						      (VP served)))))))))))
+	--)
+    (VP was
+	(NP a standby)
+	(PP at
+	    (NP 
+	     Manning
+	     's))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its  early morning patrons)
+   (VP were
+       (NP (NP coachmen)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP fortified
+		   (NP themselves)
+		   (PP for
+		       (NP the day))
+		   (PP with
+		       (NP that delicacy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the 1890 's))
+    (S (NP the Palace Hotel)
+       (VP began
+	   (S (NP *) 
+	      (VP serving
+		  (NP (NP an oyster dish)
+		      (VP named
+			  (PP after
+			      (NP (NP its manager)
+				  ,
+				  (NP John C. Kirkpatrick))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This dish)
+   (VP    (ADVP much)
+	  resembles
+	  (NP (NP the oysters)
+	      (SBAR 0
+		    (S (NP Rockefeller)
+		       (VP made
+			   (NP T) 
+			   (ADJP famous)
+			   (PP by
+			       (NP 
+				(NP Antoine)
+				's
+				(PP in
+				    (NP New Orleans)))))))))
+   ,
+   (SBAR though
+	 (S (NP the Palace chef)
+	    (VP announced
+		(NP it)
+		(PP as
+		    (NP a variant
+			(PP of
+			    (NP 
+			     (NP Manning)
+			     's  roast oysters))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *LRB*
+      (NP Gastronomes)
+      (AUX have)
+      (VP  (ADVP long)
+	   argued
+	   (PP about
+	       (SBAR (WHNP which)
+		     (S  (NP T) 
+			 (VP came
+			     (ADJP first)))
+		     ,
+		     (NP (NP the Palace
+			     's)
+			 or
+			 (NP Antoine
+			     's))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Antoine 's)
+   (VP held
+       (PP as
+	   (ADJP mandatory))
+       (NP a splash
+	   (PP of
+	       (NP (NP absinthe) or (NP Pernod)))
+	   (PP on
+	       (NP (NP the parsley or spinach)
+		   (SBAR (WHNP which)
+			 (S (NP T)
+			    (AUX was)
+			    (VP used
+				(PP for
+				    (NP the underbedding))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Kirkpatrick version)
+   (VP holds
+       (NP liqueur)
+       (PP as
+	   (ADJP optional))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *RRB*
+      (NP Vernon)
+      ,
+      (ADVP however)
+      ,
+      (VP held
+	  (PRT out)
+	  (PP for
+	      (NP  (NP  plain oyster roast)
+		   ,
+		   and
+		   (NP plenty
+		       (PP of
+			   (NP it)))
+		   ,
+		   (ADJP unadorned
+			 (PP by
+			     (NP (NP herbs)
+				 or
+				 (NP any seasoning
+				     (PP but
+					 (NP salt)))))))))
+      ,
+      (SBAR though
+	    (S (NP he)
+	       (AUX did)
+	       (VP fancy
+		   (NP a bit
+		       (PP of
+			   (NP lemon)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP After
+	  (NP the meal))
+      ,
+      (S (NP (NP he)
+	     and
+	     (NP his guests))
+	 (VP went
+	     (ADVP out))
+	 (S (NP *)
+	    (AUX to)
+	    (VP inspect
+		(NP the rig)))))
+     ;
+     ;
+     (S (NP this)
+	(VP was
+	    (ADVP merely)
+	    (NP a ritual)
+	    ,
+	    (S (NP *)
+	       (AUX to)
+	       (VP please
+		   (NP (NP all hands)
+		       (VP concerned)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tallyho)
+   (AUX had)
+   (VP cost
+       (NP Vernon)
+       (NP  $
+	    2,300)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A replica
+	(PP of
+	    (NP (NP two coaches)
+		(X (VP made
+		       (PP in
+			   (NP England))
+		       (PP for
+			   (NP the Belmont Club
+			       (PP in
+				   (NP the East)))))
+		   ,
+		   and
+		   (X (ADJP matchless)
+		      (NP west
+			  (PP of
+			      (NP the Rockies))))))))
+    ,
+    (S (NP it)
+       (VP was
+	   (NP the despair
+	       (PP of
+		   (NP whips))))
+       (PP on
+	   (NP the Santa Cruz run))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP One)
+      (AUX could)
+      (VP shave
+	  (PP in
+	      (NP the reflection
+		  (PP of
+		      (NP its  French-polished panels))))))
+     ,
+     and
+     (S (NP its axles)
+	(AUX were)
+	(VP greased
+	    (PP like
+		(NP those
+		    (PP of
+			(NP roulette wheels)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The horses)
+       (AUX were)
+       (VP groomed
+	   (PP to
+	       (NP a  high gloss))))
+    ;
+    ;
+    (S (S (NP *) 
+	  (VP departing))
+       ,
+       (S  (S (NP they)
+	      (VP stepped
+		  (ADVP solemnly)
+		  (PP with
+		      (S  (NP knees)
+			  (VP lifted
+			      (PP to
+				  (NP the jaw)))))))
+	   ,
+	   for
+	   (S (NP they)
+	      (AUX had)
+	      (VP been
+		  (VP trained
+		      (S (NP *)
+			 (AUX to)
+			 (VP drag
+			     (PP at
+				 (NP  important funerals))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S   But
+	(PP for
+	    (NP the start
+		(PP of
+		    (NP the Santa Cruz run))))
+	,
+	(S (NP the whip)
+	   (VP fell)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The clients)
+   (VP boarded
+       (NP the tallyho)
+       (PP at
+	   (NP the Palace)))
+   (PP (ADVP promptly)
+       at
+       (NP seven)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (AUX had)
+    (VP been
+	(VP fed
+	    (NP (NP a hunting breakfast)
+		,
+		(VP (ADVP so)
+		    called
+		    (SBAR because
+			  (S (NP (NP a kedgeree)
+				 ,
+				 (NP (NP the dish)
+				     (VP identified
+					 (PP with
+					     (NP fox hunting))))
+				 ,)
+			     (VP was
+				 (PP on
+				     (NP the bill))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP many ways
+	       (PP of
+		   (S  (NP *) 
+		       (VP making
+			   (NP a kedgeree)))))
+	   ,
+	   (S (NP every one
+		  (PP of
+		      (WHNP which)))
+	      (VP is
+		  (ADJP right))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (SINV (ADVP Here)
+	  (VP is)
+	  (NP (NP an  original kedgeree recipe
+		  (PP from
+		      (NP 
+		       (NP the Family Club)
+		       's kitchen)))
+	      :
+	      (X (NP (NP Club Kedgeree Flake)
+		     *LRB*
+		     (PP for
+			 (NP three))
+		     *RRB*)
+		 (NP a
+		     (NP cupful
+			 (PP of
+			     (NP  cold
+				  boiled
+				  haddock))))
+		 ,
+		 (S  (NP *)
+		     (VP mix
+			 (PP with
+			     (NP (NP a
+				     (NP cupful
+					 (PP of
+					     (NP   cooked
+						   rice))))
+				 ,
+				 (NP  two
+				      minced
+				      hard-boiled eggs)
+				 ,
+				 (NP (NP some
+					 buttery
+					 white
+					 sauce)
+				     (VP done
+					 (PP with
+					     (NP (NP cream)
+						 ,
+						 (NP cayenne)
+						 ,
+						 (NP pepper)
+						 ,
+						 (NP salt)
+						 ,
+						 (NP a pinch
+						     (PP of
+							 (NP curry)))
+						 ,
+						 (NP a tablespoonful
+						     (PP of
+							 (NP (NP   minced
+								   onion)
+							     (VP fried))))
+						 ,
+						 and
+						 (NP a bit
+						     (PP of
+							 (NP anchovy))))))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Heat)
+	 and
+	 (VP serve
+	     (ADJP hot)
+	     (PP on
+		 (NP toast)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S 
+    (NP (NP The omelet)
+	(VP named
+	    (PP for
+		(NP (NP Ernest Arbogast)
+		    ,
+		    (NP 
+		     (NP the Palace)
+		     's chef)))))
+    ,
+    (VP was
+	(PP (ADVP  even
+		   more)
+	    in
+	    (NP demand))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP decades))
+     (S (S
+	 (NP it)
+	 (VP was
+	     (NP (NP the
+		     most popular
+		     dish)
+		 (VP served
+		     (PP in
+			 (NP 
+			  (NP the Ladies)
+			  ' Grill))
+		     (PP at
+			 (NP breakfast))))))
+	,
+	and
+	(S (NP it)
+	   (VP is
+	       (NP one
+		   (PP of
+		       (NP (NP the  few  old Palace dishes)
+			   (SBAR that
+				 (S (NP T)  
+				    (ADVP still)
+				    (VP survive))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP 
+	 Native
+	 California oysters)
+	,
+	(ADJP   (ADJP  salty and  piquant)
+		,
+		(ADJP   as
+			coppery
+			(PP as
+			    (NP Delawares)))
+		and
+		(ADJP (NEG not)
+		      much
+		      larger
+		      (PP than
+			  (NP a  five-cent piece))))
+	,)
+    (VP went
+	(PP into
+	    (NP it))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  original formula)
+   (VP goes
+       (ADVP thus)
+       :
+       (X   (NP omelet
+		Arbogast)
+	    (S (NP *)
+	       (VP (VP Fry
+		       (PP in
+			   (NP butter))
+		       (NP a
+			   small
+			   minced
+			   onion))
+		   ,
+		   (VP rub
+		       (PP with
+			   (NP a
+			       (NP tablespoonful
+				   (PP of
+				       (NP flour))))))
+		   ,
+		   (VP add
+		       (NP (NP (NP half)
+			       (NP a cup
+				   (PP of
+				       (NP cream))))
+			   ,
+			   (NP six
+			       beaten
+			       eggs)
+			   ,
+			   (NP pepper)
+			   ,
+			   (NP celery salt)
+			   ,
+			   (NP a
+			       teaspoonful
+			       (PP of
+				   (NP   minced
+					 chives)))
+			   ,
+			   (NP a dash
+			       (PP of
+				   (NP cayenne)))
+			   ,
+			   and
+			   (NP a pinch
+			       (PP of
+				   (NP nutmeg))))))))))
+  
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A jigger
+	   (PP of
+	       (NP  dry Sherry)))
+       (VP follows))
+    ,
+    and
+    (SINV   (SBAR as
+		  (S (NP the mixture)
+		     (VP stiffens)))
+	    ,
+	    (SINV  (ADVP in)
+		   (VP go)
+		   (NP a hundred
+		       (PP of
+			   (NP the  little oysters))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(
+ (S (S
+     (NP Louis Sherry)
+     (ADVP once)
+     (VP stayed
+	 (NP a fortnight)
+	 (PP at
+	     (NP the Palace))))
+    ,
+    and
+    (S (NP he)
+       (VP was
+	   (ADJP   so
+		   pleased
+		   (PP with
+		       (NP  omelet
+			    Arbogast))
+		   (SBAR that
+			 (S (NP he)
+			    (VP introduced
+				(NP it)
+				(PP at
+				    (NP his restaurant
+					(PP in
+					    (NP New York) 
+					    ))))))))))
+ .)
+((S (NP J. Pierpont Morgan)
+     (AUX had)
+     (VP (VP come
+	     (PP in
+		 (NP his  private train))
+	     (PP to
+		 (NP San Francisco))
+	     ,
+	     (S (NP *)
+		(AUX to)
+		(VP attend
+		    (NP an Episcopal convention)))
+	     ,)
+	 and
+	 (VP brought
+	     (NP the restaurateur)
+	     (PP with
+		 (NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S   (PP As
+	  (S (NP things)
+	     (VP happened)))
+      ,
+      (S (NP Morgan)
+	 (AUX was)
+	 (VP installed
+	     (PP in
+		 (NP the Nob Hill residence
+		     (PP of
+			 (NP (NP a magnate friend)
+			     ,
+			     (SBAR (WHNP whose kitchen)
+				   (S (NP T)
+				      (VP swarmed
+					  (PP with
+					      (NP cooks
+						  (PP of
+						      (NP  approved talent))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Sherry)
+    (VP remained
+	(PP in
+	    (NP (NP his hotel suite)
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (NP he)
+		    (VP amused
+			(NP himself)
+			(ADJP  as
+			       best
+			       (S (NP he)
+				  (VP could))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (ADVP Twice)
+     (S (NP he)
+	(VP (VP left
+		(NP everything)
+		(PP to
+		    (NP his entourage)))
+	    ,
+	    and
+	    (VP fled
+		(S (NP *)
+		   (AUX to)
+		   (VP make
+		       (NP the Santa Cruz tour)
+		       (PP under
+			   (NP 
+			    (NP Vernon)
+			    's guidance))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the  grand court
+		(PP of
+		    (NP the Palace)))
+	    ,
+	    (ADJP notable
+		  (PP for
+		      (NP its tiers
+			  (PP of
+			      (NP   (NP Moorish galleries)
+				    (SBAR (WHNP that)
+					  (S  (NP T) 
+					      (VP looked
+						  (ADVP down)
+						  (PP on
+						      (NP the maelstrom
+							  (PP of
+							      (NP vehicles))
+							  (ADVP below)))))))))))
+	    ,))
+    (S (NP
+	(NP Vernon)
+	's station)
+       (VP was
+	   (PP at
+	       (NP the entrance)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP was
+	   (NP (NP a post
+		   (PP of
+		       (NP honor)))
+	       ,
+	       (VP held
+		   (ADJP inviolate)
+		   (PP for
+		       (NP him))))))
+    ;
+    ;
+    (S (NP he)
+       (VP had
+	   (NP the primacy)
+	   (PP among
+	       (NP the coachmen)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (PP Of
+	 (NP  majestic build))
+     ,
+     (ADJP  rubicund and  slash-mouthed)
+     ,
+     (S (NP he)
+	(VP resembled
+	    (NP (NP the
+		    late
+		    General Winfield Scott)
+		,
+		(SBAR 
+		 (WHNP who)
+		 (S (NP T)
+		    (AUX was)
+		    (VP said
+			(S (NP *)
+			   (AUX to)
+			   (VP be
+			       (NP the
+				   most imposing
+				   general
+				   (PP (PP of
+					   (NP his century))
+				       ,
+				       (X   if
+					    (NEG not)
+					    (PP of
+						(NP all centuries))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Vernon)
+   (VP wore
+       (NP (NP a
+	       gray
+	       tall
+	       hat)
+	   ,
+	   (NP a gardenia)
+	   ,
+	   and
+	   (NP 
+	    (NP maroon
+		Wellington boots)
+	    (SBAR (WHNP that)
+		  (S  (NP T) 
+		      (VP glistened
+			  (PP like
+			      (NP currant jelly)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (PP (ADVP Promptly)
+	  at
+	  (NP seven))
+      (S (NP he)
+	 (AUX would)
+	 (VP clatter
+	     (PP out
+		 (PP of
+		     (NP the court)))
+	     (PP with
+		 (X (NP twelve)
+		    (PP in
+			(NP the tallyho)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP had
+	   (NP style)))
+    :
+    (S (S (NP he)
+	  (VP held
+	      (NP his reins)
+	      (PP in
+		  (NP a  loose bunch))
+	      (PP at
+		  (NP the third button
+		      (PP of
+			  (NP his
+			      checked
+			      Epsom surtout))))))
+       ,
+       and
+       (S (SBAR 
+	   (WHADVP when)
+	   (S (NP the horses)
+	      (VP leaned
+		  (PP at
+		      (NP a curve))
+		  ,
+		  (SBAR  as
+			 if
+			 (S (NP *)
+			    (VP bent
+				(PP by
+				    (NP the force
+					(PP of
+					    (NP a gale))))))))))
+	  ,
+	  (S (NP he)
+	     (VP leaned
+		 (PP with
+		     (NP them)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP cantered
+	(PP down
+	    (NP the peninsula))
+	,
+	(S (NP *) 
+	   (NEG not)
+	   (VP slackening
+	       (PP until
+		   (S (NP the coach)
+		      (VP reached
+			  (NP (NP Woodside)
+			      (SBAR 
+			       (WHADVP where)
+			       (S (NP the Santa Cruz uplands)
+				  (VP begin)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The road maps
+	   (PP of
+	       (NP the region)))
+       (AUX have)
+       (VP changed)
+       (PP since
+	   (NP 1905)))
+    ;
+    ;
+    (S (NP inns)
+       (AUX have)
+       (VP (VP burned
+	       (PRT down))
+	   ,
+	   (VP moved
+	       (ADVP elsewhere))
+	   ,
+	   or
+	   (VP taken
+	       (NP other names)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (X (ADVP Once)
+	 (PP on
+	     (NP the road)))
+      *LRB*
+      and
+      (SBAR (ADVP especially)
+	    if
+	    (S  (NP the passengers)
+		(VP were
+		    (X all)
+		    (X     (NP regulars)
+			   and
+			   (ADJP masculine)))))
+      *RRB*
+      ,
+      (S (NP the schedule)
+	 (VP meant
+	     (NP nothing))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An  agreeable ease)
+    (VP suffused
+	(NP (NP Vernon)
+	    and
+	    (NP the passengers
+		(PP of
+		    (NP (NP the tallyho)
+			,
+			(SBAR (WHPP from
+				    (WHNP which))
+			      (SINV    (ADVP there)
+				       (VP issued)
+				       (NP clouds
+					   (PP of
+					       (NP smoke)))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Vernon)
+    (AUX would)
+    (VP tilt
+	(NP his hat)
+	(PP over
+	    (NP one ear)))
+    (SBAR  as
+	   (S (NP he)
+	      (VP lounged
+		  (PP with
+		      (X  (NP his feet)
+			  (PP on
+			      (NP the dashboard)))))
+	      ,
+	      (S  (NP *)
+		  (VP indulging
+		      (PP in
+			  (NP a  huge cigar)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The horses)
+       (VP moved
+	   (PP at
+	       (NP a clump))))
+    ;
+    ;
+    (S (NP they)
+       (VP were
+	   (PP   (ADVP no
+		       more)
+		 on
+		 (NP parade)
+		 (PP than
+		     (SINV  
+		      (VP was)
+		      (NP their driver))))))
+    ;
+    ;
+    (S (NP one fork
+	   (PP of
+	       (NP the road)))
+       (VP was
+	   (ADJP  as
+		  good
+		  (PP as
+		      (NP another))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Santa Cruz mountains)
+      (VP sprawl
+	  (PP over
+	      (NP three counties))))
+     ,
+     and
+     (S (NP the roads)
+	(VP twist
+	    (PP through
+		(NP (NP  sky-tapping redwoods)
+		    (SBAR (WHPP down
+				(WHNP whose furrowed columns))
+			  (SINV  
+			   (VP ripple)
+			   (NP streams
+			       (PP of
+				   (NP rain)))
+			   ,
+			   (SBAR (ADVP even)
+				 (WHADVP when)
+				 (S (NP heat)
+				    (VP bakes
+					(NP (NP  the Santa Clara valley)
+					    (PP below)
+					    (PP at
+						(NP the left)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The water)
+   (VP splashes
+       (PP into
+	   (NP  shoulder-high tracts
+		(PP of
+		    (NP fernery))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (VP (VP arrive
+	   (ADVP there)
+	   (PP in
+	       (NP seersucker)))
+       ,
+       and
+       (VP feel
+	   (SBAR 0
+		 (S (NP you)
+		    (VP were
+			(ADJP half-witted)
+			(NEG not)
+			(S (NP *)
+			   (AUX to)
+			   (VP bring
+			       (NP a mackintosh)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Vernon)
+   (VP kept
+       (NP an account book
+	   (PP with
+	       (NP a list
+		   (PP of
+		       (NP (NP all
+			       the establishments)
+			   (SBAR that
+				 (S (NP he)
+				    (VP thought
+					(NP T)
+					(ADJP worthy
+					      (PP of
+						  (NP patronage)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A number
+	  (PP of
+	      (NP them)))
+      (AUX must)
+      (VP have
+	  (VP fallen
+	      (PP into
+		  (NP disfavor)))))
+     ;
+     ;
+     (S (NP they)
+	(AUX were)
+	(VP struck
+	    (PRT out)
+	    (PP with
+		(NP (NP remarks
+			(PP in
+			    (NP red ink)))
+		    ,
+		    (VP denouncing
+			(NP  both
+			     (NP the cooks)
+			     and
+			     (NP the management))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (ADJP copious)
+       (PP in
+	   (NP his praise
+	       (PP of
+		   (NP those
+		       (SBAR that
+			     (S  (NP T) 
+				 (VP served
+				     (NP (NP food)
+					 (SBAR that
+					       (S  (NP T) 
+						   (VP was
+						       (ADJP good)
+						       (S (NP *)
+							  (AUX to)
+							  (VP eat)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The horses)
+      (VP seemed
+	  (S (NP *)
+	     (AUX to)
+	     (VP know
+		 (NP these)
+		 (PP by
+		     (NP instinct))))))
+     ,
+     (S (NP he)
+	(VP used
+	    (S (NP *)
+	       (AUX to)
+	       (VP say
+		   :
+		   (S (NP such places)
+		      (ADVP invariably)
+		      (VP had
+			  (NP stables
+			      (PP with
+				  (NP  superior feed bins))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP 
+	    Wright
+	    's)
+	   ,
+	   (PP for
+	       (NP one))
+	   ,
+	   (VP lost
+	       (PP amongst
+		   (NP trees))))
+       ,
+       (X  (NP its  wide verandas)
+	   (VP strewn
+	       (PP with
+		   (NP rockers))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP Many
+	 (PP of
+	     (NP its sojourners)))
+     (X (X (AUX were)
+	   (VP devoted
+	       (PP to
+		   (NP (NP seclusion)
+		       and
+		       (NP quiet)))))
+	,
+	and
+	(VP lived
+	    (ADVP there)
+	    (PP to
+		(NP the end
+		    (PP of
+			(NP their days)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP the haunt
+	   (PP of
+	       (NP (NP  writer
+		        (NP Ambrose Bierce))
+		   ,
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (VP admired
+			   (NP its redwoods)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Acorns
+	(PP from
+	    (NP the  great oaks)))
+    (VP fed
+	(NP  (NP the
+		 small
+		 black
+		 pigs)
+	     *LRB*
+	     (ADJP akin
+		   (PP to
+		       (NP Berkshires)))
+	     *RRB*
+	     ,
+	     (SBAR (WHNP whose
+			 ``
+			 carcass sweepstakes
+			 '')
+		   (S (NP T)
+		      (AUX were)
+		      (VP renowned
+			  ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP (NP Their ham butts)
+	 ,
+	 (VP cured
+	     (PP in
+		 (NP  oak-log smoke))))
+     ,
+     (AUX were)
+     (ADVP also)
+     (VP esteemed)
+     (SBAR (WHADVP when)
+	   (S  (NP *)
+	       (VP (VP (VP roasted)
+		       or
+		       (VP boiled))
+		   ,
+		   and
+		   (VP served
+		       (PP with
+			   (NP (NP this  original sauce)
+			       :
+			       (NP 
+				(NP Wright)
+				's devil sauce)
+			       ;
+			       ;
+			       (S  (NP *)
+				   (VP put
+				       (PP into
+					   (NP a saucepan))
+				       (NP (NP a
+					       cupful
+					       (PP (PP of
+						       (NP the  baked ham gravy))
+						   ,
+						   or
+						   (PP of
+						       (NP the
+							   boiled ham liquor))))
+					   ,
+					   (PP with
+					       (NP (NP a half stick
+						       (PP of
+							   (NP butter)))
+						   ,
+						   (NP three teaspoonfuls
+						       (PP of
+							   (NP   made
+								 mustard)))
+						   ,
+						   and
+						   (NP two
+						       mashed
+						       garlic cloves)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Contribute
+	(ADVP also)
+	(NP (NP an onion)
+	    ,
+	    (NP a  peeled tomato)
+	    and
+	    (NP two  pickled gherkins)
+	    ,
+	    and
+	    (NP a  mashed lime))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP this)
+	   (AUX has)
+	   (VP simmered
+	       (NP an hour))))
+    ,
+    (S  (NP *) 
+	(VP add
+	    (NP  two tablespoons
+		 (X each)
+		 (PP of
+		     (NP 
+		      (NP Worcestershire)
+		      ,
+		      (NP catsup)
+		      ,
+		      and
+		      (NP chutney)
+		      ,
+		      (NP two  pickled walnuts)
+		      ,
+		      and
+		      (NP a pint
+			  (PP of
+			      (NP Sherry)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S  (NP *) 
+	  (VP simmer
+	      (ADVP (NP fifteen minutes)
+		    longer))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Every winter)
+     (S (NP a
+	    kegful
+	    (PP of
+		(NP this sauce))))
+     (AUX was)
+     (VP  (VP made)
+	  and
+	  (VP placed
+	      (PP at
+		  (NP the end
+		      (PP of
+			  (NP a row
+			      (PP of
+				  (NP four other kegs))
+			      (PP in
+				  (NP the cellar))))))))
+     ,
+     (SBAR  so
+	    that
+	    (SBAR (WHADVP when)
+		  (S (NP its turn)
+		     (VP came)))
+	    ,
+	    (S (NP it)
+	       (AUX was)
+	       (VP  properly
+		    mellowed
+		    ))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP Vineyards) and (NP orchards))
+      (ADVP also)
+      (VP grew
+	  (PP around
+	      (NP Wright
+		  's))))
+     ,
+     and
+     (S (S (NP deer)
+	   (VP were
+	       (NP  rather
+		    a nuisance)))
+	;
+	;
+	(S (NP they)
+	   (VP leaped
+	       (NP  six-foot fences)
+	       (PP with
+		   (NP the agility
+		       (PP of
+			   (NP panthers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP no one)
+	 (VP complained)
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP they)
+	     (VP wound
+		 (PRT up)
+		 ,
+		 (VP regardless
+		     (PP of
+			 (NP season)))
+		 ,
+		 (PP in
+		     (NP venison pies)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP No one)
+      (VP complained
+	  (PP of
+	      (NP the  white wine))
+	  (ADVP either)))
+     :
+     (S (PP at
+	    (NP this altitude
+		(PP of
+		    (NP two thousand feet))))
+	,
+	(S (NP grapes)
+	   (VP acquire
+	       (NP (NP a dryness)
+		   and
+		   (NP the tang
+		       (PP of
+			   (NP gunflint))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  *LRB*
+     (NP The Almaden vineyards)
+     (AUX have)
+     (ADVP now)
+     (VP climbed
+	 (PP to
+	     (NP this height)))
+     *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Apple trees)
+    (VP grew
+	(ADVP there))
+    (ADVP also))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  Though
+	   (S (S (NP creeks
+		     (PP in
+			 (NP the Santa Cruz mountains)))
+		 (VP flow
+		     (ADJP brimful)
+		     (NP the year
+			 (X round))))
+	      and
+	      (S (NP it)
+		 (VP is
+		     (ADVP forever)
+		     (NP spring)))))
+    ,
+    (S (NP (NP the apples)
+	   (SBAR that
+		 (S  (NP T) 
+		     (VP grow
+			 (ADVP there)))))
+       (VP have
+	   (NP a  wintry crackle))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Dwellers)
+    (ADVP thereabouts)
+    (VP preferred
+	(S (NP *)
+	   (AUX to)
+	   (VP get
+	       (NP their apple pies)
+	       (PP at
+		   (NP (NP the  local bakery)
+		       ,
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP had
+				    (NP (NP a brick oven)
+					(VP fired
+					    (PP with
+						(NP redwood billets)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The merit
+	(PP of
+	    (NP the pie)))
+    ,
+    (S (NP Vernon)
+       (VP believed))
+    ,
+    (VP was
+	(VP due
+	    (PP (ADVP more)
+		to
+		(NP its making)
+		(PP than
+		    (PP to
+			(NP the  waning heat
+			    (PP of
+				(NP the oven)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The recipe)
+	,
+	(SBAR  (WHNP which)
+	       (S (NP he)
+		  (VP (VP got
+			  (NP T) 
+			  (PP from
+			      (NP the baker)))
+		      ,
+		      and
+		      (VP wrote
+			  (PRT down)
+			  (NP T)
+			  (PP in
+			      (NP his ledger)))))))
+    ,
+    (VP is
+	(ADVP basically)
+	(NP (NP this)
+	    :
+	    (NP 
+	     (NP Wright)
+	     's apple pie)
+	    ;
+	    ;
+	    (S  (NP *) 
+		(VP (VP   peel
+			  ,
+			  core
+			  ,
+			  and
+			  slice
+			  (ADVP across)
+			  (NP enough apples
+			      (S (NP *)
+				 (AUX to)
+				 (VP make
+				     (NP a dome)
+				     (PP in
+					 (NP the pie tin))))))
+		    ,
+		    and
+		    (VP set
+			(PP aside)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP a saucepan))
+    (S  (NP *) 
+	(VP put
+	    (NP (NP  sufficient water
+		     (S (NP *)
+			(AUX to)
+			(VP cover
+			    (NP them))))
+		,
+		(NP an  equal amount
+		    (PP of
+			(NP sugar)))
+		,
+		(NP a  sliced lemon)
+		,
+		(NP a tablespoonful
+		    (PP of
+			(NP  apricot preserve or  jam)))
+		,
+		(NP   a pinch
+		      (X each)
+		      (PP of
+			  (NP (NP clove) and (NP nutmeg))))
+		,
+		and
+		(NP a  large bay leaf)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Let
+	   (NP this)
+	   (VP boil
+	       (ADVP gently)
+	       (PP for
+		   (NP twenty minutes)))))
+    ,
+    (S  (ADVP then)
+	(S  (NP *)
+	    (VP strain))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Poach
+	     (NP the apples)
+	     (PP in
+		 (NP this syrup))
+	     (PP for
+		 (NP twelve minutes)))
+	 ,
+	 (VP drain
+	     (NP them))
+	 ,
+	 and
+	 (VP cool)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP (VP Set
+		  (NP the apples)
+		  (PP in
+		      (NP the  pastry-lined tin)))
+	      ,
+	      (VP spread
+		  (PP over
+		      (NP them))
+		  (NP (NP three tablespoonfuls
+			  (PP of
+			      (NP  softened
+				   butter)))
+		      ,
+		      (PP with
+			  (NP  (ADJP as
+				     much)
+			       brown sugar))
+		      ,
+		      (NP a sprinkling
+			  (PP of
+			      (NP nutmeg)))
+		      ,
+		      and
+		      (NP a  fresh bay leaf)))))
+      ,
+      (S (ADVP then)
+	 (S  (NP *) 
+	     (VP (VP lay
+		     (ADVP on)
+		     (NP a cover
+			 (PP of
+			     (NP pastry))))
+		 ,
+		 and
+		 (VP gild
+		     (NP it)
+		     (PP with
+			 (NP  beaten yolk
+			      (PP of
+				  (NP egg)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

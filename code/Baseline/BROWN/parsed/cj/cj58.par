@@ -1,0 +1,2163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the Dorr trial))
+     (S
+      (NP the Democratic press)
+      (VP (VP condemned
+	      (NP the proceedings))
+	  and
+	  (VP heralded
+	      (NP Dorr)
+	      (PP as
+		  (NP a martyr
+		      (PP to
+			  (NP the principles
+			      (PP of
+				  (NP the Declaration
+				      (PP of
+					  (NP Independence))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the Brown trial))
+   ,
+   (ADVP however)
+   ,
+   (S (NP (NP 
+	   (NP the state)
+	   's
+	   (ADJP  most powerful)
+	   Democratic newspaper)
+	  ,
+	  (NP the Providence Daily Post)
+	  ,)
+      (VP stated
+	  (SBAR (SBAR that
+		      (S (NP Brown)
+			 (VP was
+			     (NP (NP a murderer)
+				 ,
+				 (NP a man
+				     (PP of
+					 (NP blood)))
+				 ,))))
+		and
+		(SBAR that
+		      (S (NP (NP he)
+			     and
+			     (NP his associates))
+			 ,
+			 (PP with
+			     (NP the assistance
+				 (PP of
+				     (NP (NP Republicans) and (NP Abolitionists)))))
+			 ,
+			 (AUX had)
+			 (VP plotted
+			     (NP (CONJP  
+				  (NEG not)
+				  only)
+				 (NP the liberation
+				     (PP of
+					 (NP the slaves)))
+				 (CONJP but
+					also)
+				 (NP the overthrow
+				     (PP of
+					 (NP state
+					     and
+					     federal governments)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Providence Daily Journal)
+   (VP answered
+       (NP the Daily Post)
+       (PP by
+	   (S  (NP *) 
+	       (VP stating
+		   (SBAR (SBAR that
+			       (S (NP the raid
+				      (PP of
+					  (NP John Brown)))
+				  (VP was
+				      (ADJP characteristic
+					    (PP of
+						(NP Democratic acts
+						    (PP of
+							(NP violence))))))))
+			 and
+			 (SBAR that
+			       ``
+			       (S (NP He)
+				  (AUX was)
+				  (VP acting
+				      (PP in
+					  (NP direct opposition
+					      (PP to
+						  (NP (NP the Republican Party)
+						      ,
+						      (SBAR 
+						       (WHNP who)
+						       (S (NP T)
+							  (VP proclaim
+							      (PP as
+								  (NP one
+								      (PP of
+									  (NP their cardinal principles))))
+							      (SBAR that
+								    (S (NP they)
+								       (AUX do)
+								       (NEG not)
+								       (VP interfere
+				  
+									   (PP with
+									       (NP slavery))
+									   (PP in
+									       (NP the states))))))))))))))
+			       '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The two major newspapers
+       (PP in
+	   (NP Providence)))
+   (VP continued
+       ,
+       (PP throughout
+	   (NP the crisis))
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP accuse
+	      (NP each
+		  other)
+	      (PP of
+		  (S (S  (NP *) 
+			 (VP misrepresenting
+			     (NP the facts)))
+		     and
+		     (S  (NP *)  
+			 (VP attempting
+			     (S (NP *)
+				(AUX to)
+				(VP falsify
+				    (NP history)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  While
+	  (S (S (NP the Daily Post)
+		(VP continued
+		    (S (NP *)
+		       (AUX to)
+		       (VP accuse
+			   (NP Republicans)))))
+	     and
+	     (S (NP the Daily Journal)
+		(VP continued
+		    (S (NP *)
+		       (AUX to)
+		       (VP accuse
+			   (NP Democrats)))))))
+   ,
+   (S (NP the Woonsocket Patriot)
+      (VP complained
+	  (SBAR that
+		(S (NP the Virginia authorities)
+		   (VP showed
+		       (NP (ADJP indecent and cowardly) haste)
+		       (S (NP *)
+			  (AUX to)
+			  (VP condemn
+			      (NP (NP Brown)
+				  and
+				  (NP his men))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Editor Foss)
+   (VP stated
+       ,
+       ``
+       (S (S (PP Of
+		 (NP their guilt))
+	     (S
+	      (NP there)
+	      (AUX can)
+	      (VP be
+		  (NP no doubt))))
+	  but
+	  (S (NP they)
+	     (AUX are)
+	     (VP entitled
+		 
+		 (PP to
+		     (NP (NP sufficient time
+			     (S (NP *)
+				(AUX to)
+				(VP prepare
+				    (PP for
+					(NP trial)))))
+			 ,
+			 and
+			 (NP a fair trial))))))
+       ''))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Providence Daily Post)
+   (VP thought
+       (SBAR (SBAR that
+		   (S (NP there)
+		      (VP were
+			  (ADVP probably)
+			  (NP good reasons
+			      (PP for
+				  (NP (NP the haste)
+				      (SBAR (WHPP in
+						  (WHNP which))
+					    (S
+					     (NP the trial)
+					     (AUX was)
+					     (VP being
+						 (VP conducted
+						     ))))))))))
+	     and
+	     (SBAR that
+		   (S (NP (NP the only thing)
+			  (VP gained
+			      (PP by
+				  (NP a delay))))
+		      (AUX would)
+		      (VP be
+			  (NP  calmer
+			       feelings)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Providence Daily Journal)
+   (VP stated
+       (SBAR that
+	     (S  (SBAR although
+		       (S (NP the guilt
+			      (PP of
+				  (NP Brown)))
+			  (VP was
+			      (ADJP evident))))
+		 ,
+		 (S (NP the South)
+		    (AUX must)
+		    (VP guarantee
+			(NP him)
+			(NP a fair trial))
+		    (S (NP *)
+		       (AUX to)
+		       (VP preserve
+			   (NP domestic peace))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP October 31)
+	   ,
+	   (NP 1859)))
+   ,
+   (S (NP John Brown)
+      (AUX was)
+      (VP found
+	  (ADJP guilty
+		(PP of
+		    (NP (NP treason
+			    (PP against
+				(NP the state
+				    (PP of
+					(NP Virginia)))))
+			,
+			(NP (S  (NP *) 
+				(VP inciting
+				    (NP slave rebellion))))
+			,
+			and
+			(NP murder)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP For
+        (NP these crimes))
+    (S
+     (NP he)
+     (AUX was)
+     (VP sentenced
+	  
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(VP hanged
+		    ))
+	    (PP in
+		(ADJP public))
+	    (PP on
+		(NP (NP Friday)
+		    ,
+		    (NP December 2)
+		    , 
+		    (NP 1859)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Upon
+       (NP (S (NP *)  
+	      (VP receiving
+		  (NP the news)))))
+   ,
+   (S  
+    (NP Northern writers
+	,
+	editors
+	,
+	and
+	clergymen)
+    (VP heaped
+	(NP accusations
+	    (PP of
+		(NP murder)))
+	(PP on
+	    (NP (NP the Southern states)
+		,
+		(NP  (ADVP particularly)
+		     Virginia))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP Rhode Islanders)
+	      (AUX were)
+	      (VP preparing
+		  (PP for
+		      (NP the state elections)))))
+     ,
+     (S (NP they)
+	(VP watched
+	    (NP 
+	     (NP John Brown)
+	     's trial)
+	    (PP with
+		(NP extreme interest)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP Wednesday morning)
+	   ,
+	   (NP November 2) 
+	   , 
+	   (NP 1859)))
+   ,
+   (S (NP the Providence Daily Journal)
+      (VP stated
+	  (SBAR  that
+		 (S  (SBAR although
+			   (S (NP Brown)
+			      (VP  (ADVP justly)
+				   deserved
+				   (NP the extreme penalty))))
+		     ,
+		     (S (NP (NP no man)
+			    ,
+			    (ADJP   (WHADVP however)
+				    criminal)
+			    ,)
+			(VP ought
+			    (S  (NP *)
+				(AUX to)
+				(VP suffer
+				    (NP the penalty))
+				(PP without
+				    (NP a fair trial))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The editor)
+    's main criticism
+    (PP of
+	(NP the trial)))
+   (VP was
+       (NP (NP the haste)
+	   (SBAR (WHPP with
+		       (WHNP which))
+		 (S
+		  (NP it)
+		  (AUX was)
+		  (VP conducted
+		      ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The readers
+      (PP of
+	  (NP the Providence Daily Post)))
+  ,
+  (ADVP however)
+  ,
+  (VP learned
+      (SBAR that
+	    (S (NP it
+		   (SBAR-1 *pseudo-attach*))
+	       (AUX was)
+	       (VP  (ADVP generally)
+		    conceded
+		    )
+	       (SBAR-1 that
+		       (S  ``
+			   (NP Old Brown)
+			   ''
+			   (VP had
+			       (NP a fair trial))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (VP Concerning
+	  (NP the sentence))
+      (S
+       (NP the editor)
+       (VP asked
+	   ,
+	   ``
+	   (SBAR 
+	    (WHNP What
+		  else)
+	    (SQ  
+	     (AUX can)
+	     (NP Virginia)
+	     (VP do
+		 (NP T
+		     (PP than
+			 (S (NP *)
+			    (AUX to)
+			    (VP hang
+				(NP (NP the men)
+				    (SBAR  
+				     (WHNP who)
+				     (S (NP T)
+					(AUX have)
+					(VP (VP defied
+						(NP her laws))
+					    ,
+					    (VP organized
+						(NP treason))
+					    ,
+					    and
+					    (VP butchered
+						(NP her citizens)))))))))) )))
+	   '')))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the eastern section
+	     (PP of
+		 (NP the state))))
+     (S
+      (NP 
+       (NP the newspapers)
+       ' reaction
+       (PP to
+	   (NP 
+	    (NP Brown)
+	    's trial and sentence)))
+      (VP were
+	  (ADVP basically)
+	  (ADJP identical))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP J. Wheaton Smith)
+	,
+	(NP editor
+	    (PP of
+		(NP the Warren Telegraph))))
+    (VP stated
+	(SBAR that
+	      ``
+	      (S (S (NP the ends
+			(PP of
+			    (NP justice)))
+		    (AUX must)
+		    (VP be
+			(VP satisfied
+			    )))
+		 ,
+		 (S (NP a solitary example)
+		    (AUX must)
+		    (VP be
+			(VP set
+			    )))
+		 ,
+		 (SBAR  in
+			order
+		       that
+		       (S (NP (NP all
+				  those  (VP misnamed) philantropists)
+			      ,
+			      (SBAR (WHNP who)
+				    (S  (NP T) 
+					,
+					(S (NP *) 
+					   (VP actuated
+					 
+					       (PP by
+						   (NP a blind zeal))))
+					,
+					(VP dare
+					    (S (NP *)
+					       (AUX to)
+					       (VP instigate
+						   (NP (NP riot)
+						       ,
+						       (NP treason)
+						       ,
+						       and
+						       (NP murder)))))))
+			      ,)
+			  (AUX may)
+			  (VP (VP heed
+				  (NP it))
+			      and
+			      (VP shape
+				  (NP their future course)
+				  (ADVP accordingly))))))
+	      '')))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The editor
+       (PP of
+	   (NP the Newport Advertiser)))
+   (AUX could)
+   (VP discover
+       (NP (NP no evidence
+	       (PP of
+		   (NP (VP extenuating)
+		       circumstances))
+	       (PP in
+		   (NP the Brown trial)))
+	   (SBAR  
+	    (WHNP which)
+	    (S (NP T)
+	       (AUX would)
+	       (VP warrant
+		   (S  (NP *)
+		       (VP making
+			   (NP an exception
+			       (PP to
+				   (NP the infliction
+				       (PP of
+					   (NP capital punishment)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP direct contrast
+	   (PP to
+	       (NP the
+		   other
+		   Rhode Island editors))))
+   ,
+   (S (NP Samuel S. Foss
+	  (PP of
+	      (NP the Woonsocket Patriot)))
+      (VP  (ADVP outwardly)
+	   condemned
+	   (NP the trial)
+	   (PP as
+	       (S (NP *) 
+		  (VP being
+		      (ADJP  (ADVP completely)
+			     unfair)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (VP Concerning
+	 (NP the sentence))
+     ,
+     (S (NP Foss)
+	(VP wrote
+	    ,
+	    ``
+	    (S (SBAR  If
+		      (S (NP it
+			     (SBAR-2 *pseudo-attach*))
+			 (VP be
+			     (ADJP possible))
+			 (SBAR-2 (SBAR that
+				       (S (NP mercy)
+					  (AUX shall)
+					  (VP override
+					      (NP vengeance))))
+				 and
+				 (SBAR that
+				       (S (NP
+					   (NP John Brown)
+					   's sentence)
+					  (AUX shall)
+					  (VP be
+					      (VP commuted
+		      
+						  (PP to
+						      (NP imprisonment)))))))))
+	       ,
+	       (S (NP it)
+		  (AUX would)
+		  (VP be
+		      (ADJP (ADJP well)
+			    --
+			    (ADJP well
+				  (PP (PP for
+					  (NP the country))
+				      and
+				      (PP for
+					  (NP Virginia))))))))
+	    '')))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Despite
+       (NP (NP the excitement) 
+	   (VP being
+	       (VP caused
+		   (PP by
+		       (NP the trial and sentence
+			   (PP of
+			       (NP John Brown))))))))
+   ,
+   (S (NP Rhode Islanders)
+      (VP turned
+	  (NP their attention)
+	  (PP to
+	      (NP the state elections)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The state)
+   (AUX had)
+   (VP elected
+       (NP Republican candidates))
+   (PP in
+       (NP the
+	   past
+	   two years)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP no doubt)
+       (PP as
+	   (PP to
+	       (NP (NP the control)
+		   (SBAR 0
+			 (S
+			  (NP the Republican party)
+			  (VP exercised
+			      (NP T)
+			      (PP throughout
+				  (NP the state))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP it)
+	     (VP failed
+		 (PP on
+		     (NP occasion))
+		 (S (NP *)
+		    (AUX to)
+		    (VP elect
+			(NP its candidates)
+			(PP for
+			    (NP general state offices))
+			(PP by
+			    (NP majorities)))))))
+   ,
+   (S (NP the failure)
+      (VP was
+	  (ADVP  due
+		 (PP to
+		     (NP a (VP lingering) remnant
+			 (PP of
+			     (NP (NP the Know-Nothing party)
+				 ,
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (VP called
+					 (NP itself)
+					 (NP the American Republican party))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP (NP The American Republicans)
+	   and
+	   (NP the Republicans))
+       (NP both))
+   (VP nominated
+       (NP Lieutenant-Governor Turner)
+       (PP for
+	   (NP governor))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Elisha R. Potter)
+   (VP was
+       (NP the Democratic candidate)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The results
+	 (PP of
+	     (NP the election
+		 (PP of
+		     (NP 1859)))))
+     (VP found
+	 (NP Republican candidates)
+	 (VP (CONJP (NEG not)
+		    only)
+	     (VP winning
+		 (NP the offices
+		     (PP of
+			 (NP (NP governor) and (NP lieutenant-governor)))))
+	     (CONJP but
+		    also)
+	     (VP obtaining
+		 (NP the two Congressional offices)
+		 (PP from
+		     (NP the (ADJP eastern and western) sections
+			 (PP of
+			     (NP the state))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the month
+	   (PP of
+	       (NP November))))
+   (S (NP (NP (ADVP hardly)
+	      a day)
+	  (SBAR-3 *pseudo-attach*))
+      (VP passed)
+      (SBAR-3 
+       (WHADVP when)
+       (S (NP there)
+	  (VP was
+	      (NEG not)
+	      (NP some mention
+		  (PP of
+		      (NP John Brown)))
+	      (PP in
+		  (NP the Rhode Island newspapers)))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP November 7) , (NP 1859)))
+   ,
+   (S (NP the Providence Daily Journal)
+      (VP reprinted
+	  (NP (NP a letter)
+	      (VP sent
+		  (PP to
+		      (NP John Brown))
+		  (PP from
+		      (NP (NP  ``
+			       E. B ''.)
+			  ,
+			  (NP a Quaker lady
+			      (PP in
+				  (NP Newport))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP reference
+	   (PP to
+	       (NP 
+		(NP Brown)
+		's raid))))
+   (S
+    (NP she)
+    (VP wrote
+	,
+	``
+	(S (SBAR though
+		 (S (NP we)
+		    (VP (VP are
+			    (NP non-resistants))
+			and
+			(VP  (ADVP religiously)
+			     believe
+			     (NP it
+				 (S-4 *pseudo-attach*))
+			     (ADJP better)
+			     (S-4 (NP *)
+				  (AUX to)
+				  (VP reform
+				      (PP (PP by
+					      (ADJP moral))
+					  and
+					  (NEG not)
+					  (PP by
+					      (NP carnal weapons)))))))))
+	   ,
+	   (S (NP we)
+	      (VP know
+		  (SBAR 0
+			(S (NP thee)
+			   (AUX was)
+			   (VP anemated
+			 
+			       (PP by
+				   (NP the
+				       (ADJP most generous
+					     and
+					     philanthropic) motives))))))))
+	'')))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+	 E. B ''.)
+    (VP compared
+	(NP John Brown)
+	(PP to
+	    (NP Moses)))
+    (PP in
+	(SBAR that
+	      (S (NP they)
+		 (AUX were)
+		 (NP both)
+		 (VP acting
+		     (S (NP *)
+			(AUX to)
+			(VP deliver
+			    (NP millions)
+			    (PP from
+				(NP oppression)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP contrast
+	   (PP to
+	       (NP  ``
+		    E. B ''.))))
+   ,
+   (S (NP  most
+	   Rhode Islanders)
+      (VP  (ADVP hardly)
+	   thought
+	   (PP of
+	       (NP John Brown))
+	   (PP as
+	       (S (NP *) 
+		  (VP being
+		      (NP another Moses)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP 
+   Most
+   attempts
+   (S (NP *)
+      (AUX to)
+      (VP develop
+	  (NP any sympathy
+	      (PP for
+		  (NP (NP Brown)
+		      and
+		      (NP his actions)))))))
+  (VP found
+      (NP an unresponsive audience)
+      (PP in
+	  (NP Rhode Island))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP Wednesday evening)
+	   ,
+	   (NP November 23)
+	   ,
+	   (NP 1859)))
+   ,
+   (PP in
+       (NP Warren))
+   ,
+   (S  
+    (NP Rev. Mark Trafton
+	(PP of
+	    (NP New Bedford)))
+    ,
+    (VP gave
+	(NP (NP a
+		(NP ``
+		    Mission
+		    (PP of
+			(NP Sympathy))
+		    '')
+		lecture)
+	    (SBAR (WHPP in
+			(WHNP which))
+		  (S
+		   (NP he)
+		   (VP  (ADVP favorably)
+			viewed
+			(NP 
+			 the (NP Harper
+				 's Ferry) insurrection))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Warren Telegraph)
+   (VP stated
+       (SBAR that
+	     (S (NP many
+		    (PP of
+			(NP 
+			 (NP Rev. Trafton)
+			 's remarks)))
+		(VP (VP were
+			(ADJP inappropriate))
+		    and
+		    (VP savored
+			(ADVP strongly)
+			(PP of
+			    (NP (NP radicalism) and (NP fanaticism)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP its account
+	   (PP of
+	       (NP the Trafton lecture))))
+   ,
+   (S (NP the Providence Daily Post)
+      (VP said
+	  (SBAR that
+		(S (NP the remarks
+		       (PP of
+			   (NP Rev. Trafton)))
+		   (VP made
+		       (NP the people)
+		       (ADJP indignant)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP No sympathy or admiration
+	  (PP for
+	      (NP Brown)))
+      (AUX could)
+      (VP be
+	  (VP found
+		    
+	      (PP in
+		  (NP the Providence Daily Post)))))
+   ,
+   for
+   (S (NP the editor)
+      (VP claimed
+	  (SBAR that
+		(S (NP there)
+		   (VP were
+		       (NP (NP a score
+			       (PP of
+				   (NP men)))
+			   (SBAR-5 *pseudo-attach*))
+		       (PP in
+			   (NP the state prison))
+		       (SBAR-5 
+			(WHNP who)
+			(S (NP T)
+			   (VP were
+			       (ADJP (NP a thousand times)
+				     more
+				     deserving
+				     (PP of
+					 (NP sympathy))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The Providence Daily Journal)
+  ,
+  (ADVP however)
+  ,
+  (VP stated
+      (SBAR that
+	    (S (S (NP 
+		   (NP Brown)
+		   's courage
+		   ,
+		   bravery
+		   ,
+		   and
+		   heroism)
+		  ``
+		  (PP in
+		      (NP a good cause))
+		  (AUX would)
+		  (VP make
+		      (NP a man)
+		      (NP a martyr)))
+	       ;
+	       ;
+	       (S (NP it)
+		  (VP gives
+		      (NP something
+			  (PP of
+			      (NP dignity)))
+		      (PP  (ADVP even)
+			   to
+			   (NP a
+			       (ADJP bad)
+			       one))))
+	       ''))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Woonsocket Patriot)
+      (VP admitted
+	  (SBAR that
+		(S (NP John Brown)
+		   (AUX might)
+		   (VP deserve
+		       (NP (NP punishment) or (NP imprisonment)))))))
+     ``
+     but
+     (S (NP he)
+	(AUX should)
+	(VP  (ADVP no
+		   more)
+	     be
+	     (VP hung
+		 )
+	     (PP than
+		 (NP (NP Henry A.
+			 Wise)
+		     or
+		     (NP James Buchanan))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Newport Mercury)
+   (VP exhibited
+       (NP 
+	more
+	concern
+	(PP over
+	    (NP the possibility
+		(PP of
+		    (S (NP the abolitionists)
+		       (VP making
+			   (NP a martyr
+			       (PP of
+				   (NP Brown))))))))
+	(PP than
+	    (S (NP it)
+	       (VP did
+		   (PP over
+		       (NP the development
+			   (PP of
+			       (NP sympathy
+				   (PP for
+				       (NP him))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP her letter
+	   (PP to
+	       (NP John Brown))))
+   ,
+   (S (NP (NP  ``
+	       E. B ''.)
+	  ,
+	  (NP the Quakeress
+	      (PP from
+		  (NP Newport)))
+	  ,)
+      (AUX had)
+      (VP suggested
+	  (SBAR that
+		(S (NP the American people)
+		   (VP owed
+		       (NP 
+			(ADJP more)
+			honor
+			(PP-6 *pseudo-attach*))
+		       (PP to
+			   (NP John Brown))
+		       (PP for
+			   (S  (NP *)
+			       (VP seeking
+				   (S (NP *)
+				      (AUX to)
+				      (VP free
+					  (NP the slaves))))))
+		       (PP-6 than
+			     (S (NP they)
+				(VP did
+				    (PP to
+					(NP George Washington)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the latter days
+	   (PP of
+	       (NP November))
+	   (PP to
+	       (NP the day
+		   (PP of
+		       (NP 
+			(NP Brown)
+			's execution))))))
+   ,
+   (S (NP it)
+      (VP seems
+	  (SBAR that
+		(S (NP  most
+			Rhode Islanders)
+		   (AUX did)
+		   (NEG not)
+		   (VP concur
+		       (PP in
+			   (NP 
+			    ``
+			    (NP E. B.)
+			    's
+			    ''
+			    suggestion))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP November 22) ,
+	   (NP 1859)))
+   ,
+   (S (NP the Providence Daily Journal)
+      (VP stated
+	  (SBAR that
+		(S (SBAR although
+			 (S (NP
+			     (NP Brown)
+			     's
+			     ``
+			     pluck
+			     ''
+			     and
+			     honest fanaticism)
+			    (AUX must)
+			    (VP be
+				(VP admired
+				    ))))
+		   ,
+		   (S (NP (NP any honor)
+			  (VP paid
+			      (PP to
+				  (NP Brown))))
+		      (AUX would)
+		      (VP (ADVP only)
+			  induce
+			  (NP other fanatics)
+			  (S (NP *)
+			     (AUX to)
+			     (VP imitate
+				 (NP his actions))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (ADVP (NP A week)
+	 later)
+   (S (NP the Daily Journal)
+      (AUX had)
+      (VP discovered
+	  (NP the initial plans
+	      (PP of
+		  (NP some Providence citizens))
+	      (S (NP *)
+		 (AUX to)
+		 (VP hold
+		     (NP (NP a meeting)
+			 (VP honoring
+			     (NP John Brown)))
+		     (PP on
+			 (NP the day
+			     (PP of
+				 (NP his execution))))))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The editor
+       (PP of
+	   (NP the Daily Journal)))
+   (VP warned
+       ,
+       ``
+       (SBAR that
+	     (S (SBAR if  
+		      (S (NP  such
+			      a demonstration)
+			 (AUX be)
+			 (VP made
+			     )))
+		,
+		(S (NP it)
+		   (AUX will)
+		   (NEG not)
+		   (VP find
+		       (NP (NP support) or (NP countenance))
+		       (PP from
+			   (NP any
+			       (PP of
+				   (NP (NP the men)
+				       (SBAR 
+					(WHNP whose names)
+					(S (NP T)
+					   (AUX are)
+					   (VP recognized
+				 
+					       (PP as
+						   (S (NP *)  
+						      (VP having
+							  (NP a right
+							      (S (NP *)
+								 (AUX to)
+								 (VP speak
+								     (PP for
+									 (NP Providence)))))))))))))))))))
+        ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The Providence Daily Post)
+    's editor)
+   (VP wrote
+       (SBAR that
+	     (S (NP he)
+		(AUX could)
+		(NEG not)
+		(VP believe
+		    (SBAR that
+			  (S (NP (NP a meeting)
+				 (VP honoring
+				     (NP Brown)))
+			     (VP was
+				 (S (NP *)
+				    (AUX to)
+				    (VP be
+					(VP held
+						  
+					    (PP in
+						(NP Providence)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (ADVP further)
+   (VP called
+       (PP upon
+	   (NP the people
+	       (PP of
+		   (NP Providence))))
+       (S (NP *)
+	  (AUX to)
+	  (VP (VP rebuke
+		  (NP the meeting))
+	      and
+	      (VP avoid
+		  (NP disgrace))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP (NP December 2) , (NP 1859)))
+   ,
+   (S (NP John Brown)
+      (AUX was)
+      (VP hanged
+	  )
+      (PP at
+	  (NP (NP Charles Town)
+	      ,
+	      (NP Virginia)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Extraordinary precautions)
+   (AUX were)
+   (VP taken
+       )
+   (SBAR  so
+	  that
+	  (S (S (NP no stranger)
+		(AUX be)
+		(VP allowed
+		      
+		    (PP in
+			(NP the city))))
+	     and
+	     (S (NP no citizen)
+		(PP within
+		    (NP (NP the enclosure)
+			(VP surrounding
+			    (NP the scaffold))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP In
+       (NP many Northern towns and cities ))
+   (S (S (NP meetings)
+	 (AUX were)
+	 (VP held
+	     ))
+      and
+      (S (NP church bells)
+	 (AUX were)
+	 (VP tolled
+	     ))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (ADJP Such)
+       (VP was
+	   (NEG not))
+       (NP the case)
+       (PP in
+	   (NP Rhode Island)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The only public demonstration
+       (PP in
+	   (NP honor
+	       (PP of
+		   (NP John Brown)))))
+   (AUX was)
+   (VP held
+	     
+       (PP at
+	   (NP 
+	    (NP Pratt)
+	    's
+	    Hall
+	    (PP in
+		(NP Providence))))
+       ,
+       (PP on
+	   (NP the day
+	       (PP of
+		   (NP his execution))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Despite
+       (NP the opposition
+	   (PP of
+	       (NP the city newspapers))))
+   ,
+   (S (NP the Pratt Hall meeting)
+      ``
+      (VP brought
+	  (PRT together)
+	  (NP (NP a
+		  (ADJP  very
+			 respectable) audience)
+	      ,
+	      (VP composed
+		  (PP in
+		      (NP part))
+		  (PP (PP of
+			  (NP (NP those)
+			      (SBAR 
+			       (WHNP who)
+			       (S (NP T)
+				  (AUX had)
+				  (VP been
+				      (VP distinguished
+			    
+					  (PP for
+					      (NP years))
+					  (PP for
+					      (NP their radical views
+						  (PP upon
+						      (NP the subject
+							  (PP of
+							      (NP slavery))))))))))))
+		      ,
+		      (PP of
+			  (NP many
+			      (PP of
+				  (NP our (ADJP colored) citizens))))
+		      ,
+		      and
+		      (PP of
+			  (NP (NP those)
+			      (SBAR 
+			       (WHNP who)
+			       (S (NP T)
+				  (AUX were)
+				  (VP attracted
+				  
+				      (PP to
+					  (NP the place))
+				      (PP by
+					  (NP the novelty
+					      (PP of
+						  (NP such
+						      a gathering)))))))))))))))
+  ''
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (VP Seated
+       (PP on
+	   (NP the platform)))
+   (AUX were)
+   (NP (NP (NP Amos C. Barstow)
+	   ,
+	   (NP (NP ex-mayor
+		   (PP of
+		       (NP Providence)))
+	       and
+	       (NP a wealthy Republican stove manufacturer)))
+       ;
+       ;
+       (NP (NP Thomas Davis)
+	   ,
+	   (NP an (ADJP uncompromising) Garrisonian))
+       ;
+       ;
+       (NP (NP the Reverend Augustus Woodbury)
+	   ,
+	   (NP a Unitarian minister))
+       ;
+       ;
+       (NP (NP the Reverend George T. Day)
+	   ,
+	   (NP a Free-Will Baptist))
+       ;
+       ;
+       (NP Daniel W. Vaughan)
+       ,
+       and
+       (NP William H.H. Clements)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  The
+	 latter two)
+    (AUX were)
+    (VP appointed
+	(NP secretaries)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The first speaker)
+   (VP was
+       (NP (NP Amos C. Barstow)
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX had)
+	       (VP been
+		   (VP  (ADVP unanimously)
+			chosen
+			(NP president
+			    (PP of
+				(NP the meeting))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP spoke
+	  (PP of
+	      (NP his desire
+		  (S (NP *)
+		     (AUX to)
+		     (VP promote
+			 (NP the abolition
+			     (PP of
+				 (NP slavery)))
+			 (PP by
+			     (NP peaceable means))))))))
+     and
+     (S (NP he)
+	(VP compared
+	    (NP John Brown
+		(PP of
+		    (NP Harper)
+		    's
+		    Ferry))
+	    (PP to
+		(NP the John Brown
+		    (PP of
+			(NP 
+			 (NP Rhode Island)
+			 's colonial period)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Barstow)
+    (VP concluded
+	(SBAR that
+	      (S (PP as
+		     (S (NP 
+			 (NP Rhode Island)
+			 's
+			 John Brown)
+			(VP became
+			    (NP (NP a (ADJP canonized) hero)
+				,
+				(X if
+				   (NEG not)
+				   (NP a saint)))))))
+		     ,
+		     (SINV (ADVP so)
+			   (AUX would)
+			   (NP it)
+			   (VP be
+			       (PP with
+				   (NP John Brown
+				       (PP of
+					   (NP 
+					    (NP Harper)
+					    's
+					    Ferry)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The next speaker)
+   (VP was
+       (NP George T. Day)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (SBAR Although
+	    (S  (NP *)  
+		(VP admitting
+		    (NP 
+		     (NP Brown)
+		     's guilt
+		     (PP on
+			 (NP legal grounds))))))
+      ,
+      (S (NP Day)
+	 (VP said
+	     (SBAR that
+		   ,
+		   ``
+		   (S (S (NP Brown)
+			 (VP is
+			     (NP no common criminal)))
+		      ;
+		      ;
+		      (S (NP his deed)
+			 (VP was
+			     (PP (NEG not)
+				 below
+				 ,
+				 but
+				 above
+				 (NP the law)))))
+		   ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (VP Following
+	    (NP Day))
+	(VP was)
+	(NP (NP Woodbury)
+	    (SBAR 
+	     (WHNP who)
+	     (S (NP T)
+		(VP spoke
+		    (PP of
+			(NP (NP his disapproval
+				(PP of
+				    (NP 
+				     (NP Brown)
+				     's attempt
+				     (PP at
+					 (ADJP servile insurrection)))))
+			    ,
+			    (NP his admiration
+				(PP of
+				    (NP 
+				     (NP Brown)
+				     's character)))
+			    ,
+			    and
+			    (NP his opposition
+				(PP to
+				    (NP slavery))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP Woodbury)
+       's remarks)
+      (AUX were)
+      (VP applauded
+	     
+	  (PP by
+	      (NP a portion
+		  (PP of
+		      (NP the audience)))))
+      (NP several times))
+     and
+     (S  (ADVP once)
+	 (S (NP there)
+	    (VP was
+		(NP hissing)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP fourth and last) speaker)
+   (VP was
+       (NP Thomas Davis)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP this time))
+   (S (NP large numbers
+	  (PP of
+	      (NP the audience)))
+      (AUX had)
+      (VP left
+	  (NP the hall))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Davis)
+   (VP commenced
+       (NP his remarks)
+       (PP by
+	   (NP an allusion
+	       (PP to
+		   (NP (NP the general feeling
+			   (PP of
+			       (NP opposition)))
+		       (SBAR (WHNP which)
+			     (S
+			      (NP the meeting)
+			      (AUX had)
+			      (VP encountered
+				  (NP T)
+				  (PP from
+				      (NP (NP many
+					      (PP of
+						  (NP the citizens
+						      (PP-7 *pseudo-attach*))))
+					  and
+					  (NP all
+					      the newspapers
+					      (PP-7 of
+						    (NP the city))))))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       (SBAR that
+	     (S (NP the propriety or impropriety
+		    (PP of
+			(NP such
+			    a gathering)))
+		(VP was
+		    (NP (NP a question)
+			(SBAR 
+			 (WHNP that)
+			 (S (NP T)
+			    (VP was
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (VP settled
+			    
+					   (PP by
+					       (NP every man))
+					   (PP in
+					       (NP accordance
+						   (PP with
+						       (NP the convictions
+							   (PP of
+							       (NP private judgments))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP the remainder
+	  (PP of
+	      (NP his speech))))
+  (S (NP Davis)
+     (VP (VP spoke
+	     (PP of
+		 (NP his admiration
+		     (PP for
+			 (NP Brown)))))
+	 and
+	 (VP warned
+	     (NP (NP those)
+		 (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (VP took
+			 (NP part)
+			 (PP in
+			     (NP the meeting))))))
+	     (SBAR that
+		   (S (NP they)
+		      ``
+		      (VP are
+			  (ADJP liable
+				(PP to
+				    (NP the charge
+					(SBAR that
+					      (S (NP they)
+						 (AUX are)
+						 (VP (VP supporting
+							 (NP traitors))
+						     and
+						     (VP upholding
+							 (NP (NP men)  
+							     (SBAR (WHNP whom)
+								   (S
+								    (NP the laws)
+								    (AUX have)
+								    (VP condemned
+									(NP T) ))))))))))))
+		      ''))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP recalled
+       (SBAR that
+	     (S (PP in
+		    (NP Rhode Island))
+		(S  
+		 (NP (NP a party)
+		     (VP opposed
+			 (PP to
+			     (NP 
+			      (NP the state)
+			      's condemnation
+			      (PP of
+				  (NP (NP a man)
+				      *LRB*
+				      (NP Thomas W. Dorr)
+				      *RRB*))))))
+		 (VP proclaimed
+		     (NP 
+		      (NP the state)
+		      's action)
+		     (PP as
+			 (NP a violation
+			     (PP of
+				 (NP (NP the law
+					 (PP of
+					     (NP the land)))
+				     and
+				     (NP the principles
+					 (PP of
+					     (NP human liberty)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP the close
+	     (PP of
+		 (NP 
+		  (NP Davis)
+		  ' speech))))
+     (S (NP (NP the (ADJP following) preamble and resolutions)
+	    (S-9 *pseudo-attach*))
+	(X (X (AUX were)
+	      (VP read
+	     
+		  (PP by
+		      (NP the president))))
+	   ,
+	   and
+	   (PP on
+	       (NP the question
+		   (PP of
+		       (NP their adoption))))
+	    (VP passed
+		(ADVP unanimously)))
+	:
+	(S-9 (SBAR  Whereas
+		    ,
+		    (S (NP John Brown)
+		       (X (X (AUX has)
+			     (VP  (ADVP cheerfully)
+				  risked
+				  (NP his life)
+				  (PP in
+				      (S (NP *) 
+					 (VP endeavoring
+					     (S (NP *)
+						(AUX to)
+						(VP deliver
+						    (NP (NP those)
+							(SBAR 
+							 (WHNP who)
+							 (S (NP T)
+							    (AUX are)
+							    (VP denied
+					    
+								(NP all rights))))))))))))
+			  and
+			  (X (AUX is)
+			     (VP (NP this day)
+				 doomed
+				 (S (NP *)
+				    (AUX to)
+				    (VP suffer
+					(NP death)))
+				 (PP for
+				     (NP his efforts
+					 (PP in
+					     (NP behalf
+						 (PP of
+						     (NP (NP those)
+							 (SBAR 
+							  (WHNP who)
+							  (S (NP T)
+							     (VP have
+								 (NP no helper)))))))))))))))
+	     :
+	     (ADVP Therefore)
+	     ,
+	     (S  (NP *)
+		 (VP Resolved
+		     (SBAR that
+			   (S  ,
+			       (SBAR while
+				     (S (NP we)
+					(VP (ADVP   most
+						    decidedly)
+					    disapprove
+					    (NP (NP the methods)
+						(SBAR 0
+						      (S
+						       (NP he)
+						       (VP adopted
+							   (NP T)
+							   (S (NP *)
+							      (AUX to)
+							      (VP accomplish
+								  (NP his objects))))))))))
+			       ,
+			       (ADVP yet)
+			       (PP in
+				   (NP his willingness
+				       (S (NP *)
+					  (AUX to)
+					  (VP die
+					      (PP in
+						  (NP aid
+						      (PP of
+							  (NP the great cause
+							      (PP of
+								  (NP human freedom))))))))))
+			       ,
+			       (S (NP we)
+				  (ADVP still)
+				  (VP recognize
+				      (NP (NP the qualities
+					      (PP of
+						  (NP a noble nature)))
+					  and
+					  (NP the exercise
+					      (PP of
+						  (NP (NP a spirit)
+						      (SBAR (SBAR (WHNP which)
+								  (S
+								   (NP true men)
+								   (AUX have)
+								   (ADVP always)
+								   (VP admired
+								       (NP T) )))
+							    and
+							    (SBAR  (SBAR
+								    (WHNP which )
+								    (S (NP history)
+								       (ADVP never)
+								       (VP fails
+									   (S (NP *)
+									      (AUX to)
+									      (VP honor
+										  (NP T)))))))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Resolved
+	 (SBAR that
+	       (S (NP (NP his wrongs and bereavements
+			  (PP in
+			      (NP Kansas)))
+		      ,
+		      (VP occasioned
+			  (PP by
+			      (NP the violence and brutality
+				  (PP of
+				      (NP (NP those)
+					  (SBAR  
+					   (WHNP who)
+					   (S (NP T)
+					      (VP were
+						  (ADJP intent
+							(PP on
+							    (NP the propagation
+								(PP of
+								    (NP slavery))
+								(PP in
+								    (NP that territory)))))))))))))
+		      ,)
+		  (VP (VP call
+			  (PP for
+			      (NP a charitable judgment
+				  (PP upon
+				      (NP his recent efforts
+					  (PP in
+					      (NP Virginia))
+					  (S (NP *)
+					     (AUX to)
+					     (VP undermine
+						 (NP (NP the despotism)
+						     (SBAR (WHPP from
+								 (WHNP which))
+							   (S
+							    (NP he)
+							    (AUX had)
+							    (VP suffered)))))))))))
+		      ,
+		      and
+		      (VP commend
+			  (NP his family)
+			  (PP to
+			      (NP the special sympathy and aid
+				  (PP of
+				      (NP (NP all)
+					  (SBAR 
+					   (WHNP who)
+					   (S (NP T)
+					      (VP (VP pity
+						      (NP suffering))
+						  and
+						  (VP reverence 
+						      (NP justice)))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Resolved
+	  (SBAR that
+		(S (NP the anti-slavery sentiment)
+		   (AUX is)
+		   (VP becoming
+		       (ADJP ripe
+			     (PP for
+				 (NP resolute action))))))))  
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)   
+      (VP Resolved
+	  ,
+	  (SBAR that
+		(S (NP we)
+		   (VP find
+		       (PP in
+			   (NP this fearful tragedy
+			       (PP at
+				   (NP 
+				    (NP Harper)
+				    's
+				    Ferry))))
+		       (NP a reason
+			   (PP for
+			       (NP 
+				(ADJP more earnest)
+				effort
+				(S (NP *)
+				   (AUX to)
+				   (VP remove
+				       (NP the evil
+					   (PP of
+					       (NP slavery)))
+				       (PP from
+					   (NP the whole land))
+				       (ADVP as
+					     speedily
+					     (PP as
+						 (ADJP possible)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the morning
+	   (VP following
+	       (NP the Pratt Hall meeting))))
+   (S (NP the editor
+	  (PP of
+	      (NP the Providence Daily Journal)))
+      (VP wrote
+	  (SBAR that
+		(S (SBAR although
+			 (S (NP the meeting)
+			    (VP was
+				(ADJP  milder
+				       and
+				       less
+				       extreme
+				       (PP than
+					   (NP (NP those)
+					       (VP  held
+						    (PP in
+							(NP other areas))
+						    (PP for
+							(NP similar
+							    purposes)))))))))
+		   ,
+		   (S (NP it)
+		      (AUX could)
+		      (VP have 
+			  (VP been
+			      (VP avoided
+				  (ADVP completely))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

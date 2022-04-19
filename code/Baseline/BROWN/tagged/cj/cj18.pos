@@ -1,0 +1,1836 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ 6.4/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT primary/JJ decomposition/NN theorem/NN ]
+
+[ We/PRP ]
+are/VBP trying/VBG to/TO study/VB 
+[ a/DT linear/JJ operator/NN T/NNP ]
+on/IN 
+[ the/DT finite-dimensional/JJ space/NN V/NNP ]
+,/, by/IN decomposing/VBG 
+[ T/NNP ]
+into/IN 
+[ a/DT direct/JJ sum/NN ]
+of/IN 
+[ operators/NNS ]
+
+[ which/WDT ]
+are/VBP in/IN 
+[ some/DT sense/NN ]
+elementary/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+can/MD do/VB 
+[ this/DT ]
+through/IN 
+[ the/DT characteristic/JJ values/NNS ]
+and/CC 
+[ vectors/NNS ]
+of/IN 
+[ T/NNP ]
+in/IN 
+[ certain/JJ special/JJ cases/NNS ]
+,/, 
+[ i.e./NN ]
+,/, when/WRB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NNP factors/NNS ]
+over/IN 
+[ the/DT scalar/JJ field/NN F/NNP ]
+into/IN 
+[ a/DT product/NN ]
+of/IN 
+[ distinct/JJ monic/JJ polynomials/NNS ]
+of/IN 
+[ degree/NN 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ What/WP ]
+can/MD 
+[ we/PRP ]
+do/VB with/IN 
+[ the/DT general/JJ T/NNP ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ we/PRP ]
+try/VBP to/TO study/VB 
+[ T/NNP ]
+using/VBG 
+[ characteristic/JJ values/NNS ]
+,/, 
+[ we/PRP ]
+are/VBP confronted/VBN with/IN 
+[ two/CD problems/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+First/RB ,/, 
+[ T/NNP ]
+may/MD not/RB have/VB 
+[ a/DT single/JJ characteristic/JJ value/NN ]
+;/: ;/: 
+[ this/DT ]
+is/VBZ really/RB 
+[ a/DT deficiency/NN ]
+in/IN 
+[ the/DT scalar/JJ field/NN ]
+,/, namely/RB ,/, that/IN 
+[ it/PRP ]
+is/VBZ not/RB algebraically/RB closed/VBN ./. 
+==================================
+
+==================================
+==================================
+Second/RB ,/, even/RB if/IN 
+[ the/DT characteristic/JJ polynomial/NN factors/VBZ ]
+completely/RB over/IN 
+[ F/NNP ]
+into/IN 
+[ a/DT product/NN ]
+of/IN 
+[ polynomials/NNS ]
+of/IN 
+[ degree/NN 1/CD ]
+,/, 
+[ there/EX ]
+may/MD not/RB be/VB enough/RB 
+[ characteristic/JJ vectors/NNS ]
+for/IN 
+[ T/NNP ]
+to/TO span/VB 
+[ the/DT space/NN V/NNP ]
+./. 
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ clearly/RB 
+[ a/DT deficiency/NN ]
+in/IN 
+[ T/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT second/JJ situation/NN ]
+is/VBZ illustrated/VBN by/IN 
+[ the/DT operator/NN T/NNP ]
+on/IN 
+[ A[fj]/SYM ]
+(/( 
+[ F/NNP ]
+
+[ any/DT field/NN ]
+)/) represented/VBN in/IN 
+[ the/DT standard/JJ basis/NN ]
+by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT characteristic/JJ polynomial/NN ]
+for/IN 
+[ A/DT ]
+is/VBZ 
+[ A[fj]/SYM ]
+and/CC 
+[ this/DT ]
+is/VBZ plainly/RB also/RB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ A/NN ]
+(/( or/CC for/IN 
+[ T/NNP ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ T/NN ]
+is/VBZ not/RB diagonalizable/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ One/NN ]
+sees/VBZ that/IN 
+[ this/DT ]
+happens/VBZ because/IN 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+has/VBZ 
+[ dimension/NN 1/CD ]
+only/RB ./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+together/RB span/VBP 
+[ V/NN ]
+,/, 
+[ the/DT former/JJ ]
+being/VBG 
+[ the/DT subspace/NN ]
+spanned/VBN by/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ the/DT latter/JJ ]
+
+[ the/DT subspace/NN ]
+spanned/VBN by/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ This/DT ]
+will/MD be/VB more/RBR or/CC 
+[ less/RBR our/PRP$ general/JJ method/NN ]
+for/IN 
+[ the/DT second/JJ problem/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN (/( remember/VB 
+[ this/DT ]
+is/VBZ 
+[ an/DT assumption/NN ]
+)/) 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NN ]
+decomposes/VBZ 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+are/VBP 
+[ distinct/JJ elements/NNS ]
+of/IN 
+[ F/NN ]
+,/, then/RB 
+[ we/PRP ]
+shall/MD show/VB that/IN 
+[ the/DT space/NN V/NN ]
+is/VBZ 
+[ the/DT direct/JJ sum/NN ]
+of/IN 
+[ the/DT null/JJ spaces/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT diagonalizable/JJ operator/NN ]
+is/VBZ 
+[ the/DT special/JJ case/NN ]
+of/IN 
+[ this/DT ]
+in/IN 
+[ which/WDT ]
+
+[ A[fj]/SYM ]
+for/IN 
+[ each/DT i/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT theorem/NN ]
+
+[ which/WDT ]
+
+[ we/PRP ]
+prove/VBP is/VBZ more/RBR general/JJ than/IN 
+[ what/WP ]
+
+[ we/PRP ]
+have/VBP described/VBN ,/, since/IN 
+[ it/PRP ]
+works/VBZ with/IN 
+[ the/DT primary/JJ decomposition/NN ]
+of/IN 
+[ the/DT minimal/JJ polynomial/NN ]
+,/, whether/IN or/CC not/RB 
+[ the/DT primes/NNS ]
+
+[ which/WDT ]
+enter/VBP are/VBP 
+[ all/DT ]
+of/IN 
+[ first/JJ degree/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT reader/NN ]
+will/MD find/VB 
+[ it/PRP ]
+helpful/JJ to/TO think/VB of/IN 
+[ the/DT special/JJ case/NN ]
+when/WRB 
+[ the/DT primes/NNS ]
+are/VBP of/IN 
+[ degree/NN 1/CD ]
+,/, and/CC even/RB more/RBR particularly/RB ,/, to/TO think/VB of/IN 
+[ the/DT proof/NN ]
+of/IN 
+[ Theorem/NN 10/CD ]
+,/, 
+[ a/DT special/JJ case/NN ]
+of/IN 
+[ this/DT theorem/NN ]
+./. 
+==================================
+
+[ Theorem/NN 12/CD ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ primary/JJ decomposition/NN theorem/NN ]
+)/) ./. 
+==================================
+Let/VB 
+[ T/NN ]
+be/VB 
+[ a/DT linear/JJ operator/NN ]
+on/IN 
+[ the/DT finite-dimensional/JJ vector/NN space/NN V/NN ]
+over/IN 
+[ the/DT field/NN F/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ p/NN ]
+be/VB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NN ]
+,/, 
+[ A[fj]/SYM ]
+,/, where/WRB 
+[ the/DT A[fj]/SYM ]
+,/, are/VBP 
+[ distinct/JJ irreducible/JJ monic/JJ polynomials/NNS ]
+over/IN 
+[ F/NN ]
+and/CC 
+[ the/DT A[fj]/SYM ]
+are/VBP 
+[ positive/JJ integers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ A[fj]/SYM ]
+be/VB 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB (/( 
+[ A/NN ]
+)/) 
+[ A[fj]/SYM ]
+;/: ;/: (/( 
+[ B/NN ]
+)/) 
+[ each/DT A[fj]/SYM ]
+is/VBZ 
+[ invariant/NN ]
+under/IN 
+[ T/NN ]
+;/: ;/: (/( 
+[ C/NN ]
+)/) if/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT operator/NN ]
+induced/VBN on/IN 
+[ A[fj]/SYM ]
+by/IN 
+[ T/NN ]
+,/, then/RB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ The/DT idea/NN ]
+of/IN 
+[ the/DT proof/NN ]
+is/VBZ 
+[ this/DT ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT direct-sum/NN decomposition/NN ]
+(/( 
+[ A/NN ]
+)/) is/VBZ valid/JJ ,/, how/WRB can/MD 
+[ we/PRP ]
+get/VB hold/VB of/IN 
+[ the/DT projections/NNS A[fj]/SYM ]
+associated/VBD with/IN 
+[ the/DT decomposition/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ The/DT projection/NN A[fj]/SYM ]
+will/MD be/VB 
+[ the/DT identity/NN ]
+on/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ zero/CD ]
+on/IN 
+[ the/DT other/JJ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+shall/MD find/VB 
+[ a/DT polynomial/JJ A[fj]/SYM such/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT identity/NN ]
+on/IN 
+[ A[fj]/SYM ]
+and/CC is/VBZ 
+[ zero/CD ]
+on/IN 
+[ the/DT other/JJ A[fj]/SYM ]
+,/, and/CC so/RB that/IN 
+[ A[fj]/SYM ]
+,/, 
+[ etc/NN ]
+./. 
+==================================
+./. 
+==================================
+For/IN 
+[ each/DT i/NN ]
+,/, let/VBD 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ A[fj]/SYM ]
+are/VBP 
+[ distinct/JJ prime/JJ polynomials/NNS ]
+,/, 
+[ the/DT polynomials/NNS A[fj]/SYM ]
+are/VBP relatively/RB 
+[ prime/JJ ]
+(/( 
+[ Theorem/NN 8/CD ]
+,/, 
+[ Chapter/NN 4/CD ]
+)/) ./. 
+==================================
+Thus/RB 
+[ there/EX ]
+are/VBP 
+[ polynomials/NNS A[fj]/SYM such/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Note/VB ]
+also/RB that/IN if/IN 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ A[fj]/SYM ]
+is/VBZ divisible/JJ by/IN 
+[ the/DT polynomial/NN p/NN ]
+,/, because/IN 
+[ A[fj]/SYM ]
+contains/VBZ 
+[ each/DT A[fj]/SYM ]
+as/IN 
+[ a/DT factor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+shall/MD show/VB that/IN 
+[ the/DT polynomials/NNS A[fj]/SYM ]
+behave/VBP in/IN 
+[ the/DT manner/NN ]
+described/VBN in/IN 
+[ the/DT first/JJ paragraph/NN ]
+of/IN 
+[ the/DT proof/NN ]
+./. 
+==================================
+Let/VB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ P/NN ]
+divides/VBZ 
+[ A[fj]/SYM ]
+for/IN 
+[ A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+have/VBP 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ the/DT A[fj]/SYM ]
+are/VBP 
+[ projections/NNS ]
+
+[ which/WDT ]
+correspond/VBP to/TO 
+[ some/DT direct-sum/NN decomposition/NN ]
+of/IN 
+[ the/DT space/NN V/NN ]
+./. 
+==================================
+==================================
+
+[ We/PRP ]
+wish/VBP to/TO show/VB that/IN 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+is/VBZ exactly/RB 
+[ the/DT subspace/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ clear/JJ that/IN 
+[ each/DT vector/NN ]
+in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+is/VBZ in/IN 
+[ A[fj]/SYM ]
+for/IN if/IN 
+[ \*\*/SYM ya/NN ]
+is/VBZ in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ A[fj]/SYM ]
+and/CC so/RB 
+[ A[fj]/SYM ]
+because/IN 
+[ A[fj]/SYM ]
+is/VBZ divisible/JJ by/IN 
+[ the/DT minimal/JJ polynomial/NN P/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Conversely/NNP ]
+,/, suppose/VB 
+[ that/DT \*\*/SYM ya/NN ]
+is/VBZ in/IN 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ A[fj]/SYM ]
+is/VBZ divisible/JJ by/IN 
+[ A[fj]/SYM ]
+and/CC so/RB 
+[ A[fj]/SYM ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC then/RB 
+[ it/PRP ]
+is/VBZ immediate/JJ that/IN 
+[ A[fj]/SYM ]
+,/, 
+[ i.e./NN ]
+,/, that/IN 
+[ \*\*/SYM ya/NN ]
+is/VBZ in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+completes/VBZ 
+[ the/DT proof/NN ]
+of/IN 
+[ statement/NN ]
+(/( 
+[ A/NN ]
+)/) ./. 
+==================================
+
+[ It/PRP ]
+is/VBZ certainly/RB clear/JJ that/IN 
+[ the/DT subspaces/NNS A[fj]/SYM ]
+are/VBP invariant/JJ under/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT operator/NN ]
+induced/VBN on/IN 
+[ A[fj]/SYM ]
+by/IN 
+[ T/NN ]
+,/, then/RB evidently/RB 
+[ A[fj]/SYM ]
+,/, because/IN by/IN 
+[ definition/NN A[fj]/SYM ]
+is/VBZ 
+[ 0/CD ]
+on/IN 
+[ the/DT subspace/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+shows/VBZ that/IN 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ A[fj]/SYM ]
+divides/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Conversely/NNP ]
+,/, let/VBD 
+[ G/NN ]
+be/VB 
+[ any/DT polynomial/NN ]
+such/JJ that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ A[fj]/SYM ]
+is/VBZ divisible/JJ by/IN 
+[ the/DT minimal/JJ polynomial/NN P/NN ]
+of/IN 
+[ T/NN ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ A[fj]/SYM ]
+divides/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ easily/RB seen/VBN that/IN 
+[ A[fj]/SYM ]
+divides/VBZ 
+[ G/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Corollary/NN ]
+./. 
+==================================
+If/IN 
+[ A[fj]/SYM ]
+are/VBP 
+[ the/DT projections/NNS ]
+associated/VBN with/IN 
+[ the/DT primary/JJ decomposition/NN ]
+of/IN 
+[ T/NN ]
+,/, then/RB 
+[ each/DT A[fj]/SYM ]
+is/VBZ 
+[ a/DT polynomial/NN ]
+in/IN 
+[ T/NN ]
+,/, and/CC accordingly/RB if/IN 
+[ a/DT linear/JJ operator/NN U/NN ]
+commutes/VBZ with/IN 
+[ T/NN ]
+then/RB 
+[ U/NN ]
+commutes/VBZ with/IN 
+[ each/DT ]
+of/IN 
+[ the/DT A[fj]/SYM ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ each/DT subspace/NN A[fj]/SYM ]
+is/VBZ 
+[ invariant/NN ]
+under/IN 
+[ U/NN ]
+./. 
+==================================
+In/IN 
+[ the/DT notation/NN ]
+of/IN 
+[ the/DT proof/NN ]
+of/IN 
+[ Theorem/NN 12/CD ]
+,/, let/VB 
+[ us/PRP ]
+take/VB 
+[ a/DT look/NN ]
+at/IN 
+[ the/DT special/JJ case/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NN ]
+is/VBZ 
+[ a/DT product/NN ]
+of/IN 
+[ first-degree/NN polynomials/NNS ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ the/DT case/NN ]
+in/IN 
+[ which/WDT ]
+
+[ each/DT A[fj]/SYM ]
+is/VBZ of/IN 
+[ the/DT form/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT null/JJ space/NN A[fj]/SYM ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ us/PRP ]
+put/VB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+By/IN 
+[ Theorem/NN 10/CD ]
+,/, 
+[ D/NN ]
+is/VBZ 
+[ a/DT diagonalizable/JJ operator/NN ]
+
+[ which/WDT ]
+
+[ we/PRP ]
+shall/MD call/VB 
+[ the/DT diagonalizable/JJ part/NN ]
+of/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ us/PRP ]
+look/VB at/IN 
+[ the/DT operator/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ A[fj]/SYM A[fj]/SYM ]
+so/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT reader/NN ]
+should/MD be/VB familiar/JJ enough/RB with/IN 
+[ projections/NNS ]
+by/IN now/RB so/RB that/IN 
+[ he/PRP ]
+sees/VBZ that/IN 
+[ A[fj]/SYM ]
+and/CC in/IN 
+[ general/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ A[fj]/SYM ]
+for/IN 
+[ each/DT i/NN ]
+,/, 
+[ we/PRP ]
+shall/MD have/VB 
+[ A[fj]/SYM ]
+,/, because/IN 
+[ the/DT operator/NN A[fj]/SYM ]
+will/MD then/RB be/VB 
+[ 0/CD ]
+on/IN 
+[ the/DT range/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Definition/NN ]
+./. 
+==================================
+Let/VB 
+[ N/NN ]
+be/VB 
+[ a/DT linear/JJ operator/NN ]
+on/IN 
+[ the/DT vector/NN space/NN V/NN ]
+./. 
+==================================
+==================================
+
+[ We/PRP ]
+say/VBP that/IN 
+[ N/NN ]
+is/VBZ nilpotent/JJ if/IN 
+[ there/EX ]
+is/VBZ 
+[ some/DT positive/JJ integer/NN R/NN such/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Theorem/NN 13/CD ]
+./. 
+==================================
+Let/VB 
+[ T/NN ]
+be/VB 
+[ a/DT linear/JJ operator/NN ]
+on/IN 
+[ the/DT finite-dimensional/JJ vector/NN space/NN V/NN ]
+over/IN 
+[ the/DT field/NN F/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Suppose/VB that/IN 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NN ]
+decomposes/VBZ over/IN 
+[ F/NN ]
+into/IN 
+[ a/DT product/NN ]
+of/IN 
+[ linear/JJ polynomials/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ there/EX ]
+is/VBZ 
+[ a/DT diagonalizable/JJ operator/NN D/NN ]
+on/IN 
+[ V/NN ]
+and/CC 
+[ a/DT nilpotent/JJ operator/NN N/NN ]
+in/IN 
+[ V/NN such/JJ ]
+that/IN (/( 
+[ A/NN ]
+)/) 
+[ A[fj]/SYM ]
+,/, (/( 
+[ b/NN ]
+)/) 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT diagonalizable/JJ operator/NN D/NN ]
+and/CC 
+[ the/DT nilpotent/JJ operator/NN N/NN ]
+are/VBP uniquely/RB determined/VBN by/IN (/( 
+[ A/NN ]
+)/) and/CC (/( 
+[ B/NN ]
+)/) and/CC 
+[ each/DT ]
+of/IN 
+[ them/PRP ]
+is/VBZ 
+[ a/DT polynomial/NN ]
+in/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Proof/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+have/VBP just/RB observed/VBN that/IN 
+[ we/PRP ]
+can/MD write/VB 
+[ A[fj]/SYM ]
+where/WRB 
+[ D/NN ]
+is/VBZ diagonalizable/JJ and/CC 
+[ N/NN ]
+is/VBZ nilpotent/JJ ,/, and/CC where/WRB 
+[ D/NN ]
+and/CC 
+[ N/NN ]
+not/RB only/RB commute/VBP but/CC are/VBP 
+[ polynomials/NNS ]
+in/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB suppose/VB that/IN 
+[ we/PRP ]
+also/RB have/VBP 
+[ A[fj]/SYM ]
+where/WRB 
+[ D/NN ]
+'/'' is/VBZ diagonalizable/JJ ,/, 
+[ N/NN ]
+'/'' is/VBZ nilpotent/JJ ,/, and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+shall/MD prove/VB that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+Since/IN 
+[ D/NN ]
+'/'' and/CC 
+[ N/NN ]
+'/'' commute/VBP with/IN 
+[ one/CD another/DT ]
+and/CC 
+[ A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+see/VBP 
+[ that/DT D/NN ]
+'/'' and/CC 
+[ N/NN ]
+'/'' commute/VBP with/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ D/NN ]
+'/'' and/CC 
+[ N/NN ]
+'/'' commute/VBP with/IN 
+[ any/DT polynomial/NN ]
+in/IN 
+[ T/NN ]
+;/: ;/: hence/RB 
+[ they/PRP ]
+commute/VBP with/IN 
+[ D/NN ]
+and/CC with/IN 
+[ N/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ we/PRP ]
+have/VBP 
+[ A[fj]/SYM ]
+or/CC 
+[ A[fj]/SYM ]
+and/CC 
+[ all/DT four/CD ]
+of/IN 
+[ these/DT operators/NNS ]
+commute/VBP with/IN 
+[ one/NN another/DT ]
+./. 
+==================================
+Since/IN 
+[ D/NN ]
+and/CC 
+[ D/NN ]
+'/'' are/VBP 
+[ both/DT diagonalizable/JJ ]
+and/CC 
+[ they/PRP ]
+commute/VBP ,/, 
+[ they/PRP ]
+are/VBP simultaneously/RB 
+[ diagonalizable/JJ ]
+,/, and/CC 
+[ A[fj]/SYM ]
+is/VBZ diagonalizable/JJ ./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ N/NN ]
+and/CC 
+[ N/NN ]
+'/'' are/VBP 
+[ both/DT nilpotent/JJ ]
+and/CC 
+[ they/PRP ]
+commute/VBP ,/, 
+[ the/DT operator/NN A[fj]/SYM ]
+is/VBZ nilpotent/JJ ;/: ;/: for/IN ,/, using/VBG 
+[ the/DT fact/NN ]
+that/IN 
+[ N/NN ]
+and/CC 
+[ N/NN ]
+'/'' commute/VBP 
+[ A[fj]/SYM ]
+and/CC so/RB when/WRB 
+[ R/NN ]
+is/VBZ sufficiently/RB large/JJ 
+[ every/DT term/NN ]
+in/IN 
+[ this/DT expression/NN ]
+for/IN 
+[ A[fj]/SYM ]
+will/MD be/VB 
+[ 0/CD ]
+./. 
+==================================
+
+==================================
+==================================
+(/( Actually/RB ,/, 
+[ a/DT nilpotent/JJ operator/NN ]
+on/IN 
+[ an/DT n-dimensional/JJ space/NN ]
+must/MD have/VB 
+[ its/PRP$ T/NN power/NN 0/CD ]
+;/: ;/: if/IN 
+[ we/PRP ]
+take/VBP 
+[ A[fj]/SYM ]
+above/IN ,/, 
+[ that/DT ]
+will/MD be/VB large/JJ enough/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+then/RB follows/VBZ that/IN 
+[ A[fj]/SYM ]
+is/VBZ large/JJ enough/RB ,/, but/CC 
+[ this/DT ]
+is/VBZ not/RB obvious/JJ from/IN 
+[ the/DT above/JJ expression/NN ]
+./. 
+==================================
+
+==================================
+==================================
+)/) Now/RB 
+[ A[fj]/SYM ]
+is/VBZ 
+[ a/DT diagonalizable/JJ operator/NN ]
+
+[ which/WDT ]
+is/VBZ also/RB nilpotent/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Such/JJ an/DT operator/NN ]
+is/VBZ obviously/RB 
+[ the/DT zero/CD operator/NN ]
+;/: ;/: for/IN since/IN 
+[ it/PRP ]
+is/VBZ nilpotent/JJ ,/, 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ this/DT operator/NN ]
+is/VBZ of/IN 
+[ the/DT form/NN A[fj]/SYM ]
+for/IN 
+[ some/DT A[fj]/SYM ]
+;/: ;/: but/CC then/RB since/IN 
+[ the/DT operator/NN ]
+is/VBZ diagonalizable/JJ ,/, 
+[ the/DT minimal/JJ polynomial/NN ]
+can/MD not/RB have/VB 
+[ a/DT repeated/VBN root/NN ]
+;/: ;/: hence/RB 
+[ A[fj]/SYM ]
+and/CC 
+[ the/DT minimal/JJ polynomial/NN ]
+is/VBZ simply/RB 
+[ x/NN ]
+,/, 
+[ which/WDT ]
+says/VBZ 
+[ the/DT operator/NN ]
+is/VBZ 
+[ 0/CD ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ we/PRP ]
+see/VBP that/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Corollary/NN ]
+./. 
+==================================
+Let/VB 
+[ V/NN ]
+be/VB 
+[ a/DT finite-dimensional/JJ vector/NN space/NN ]
+over/IN 
+[ an/DT ]
+algebraically/RB closed/VBN 
+[ field/NN F/NN ]
+,/, 
+[ e.g./NN ]
+,/, 
+[ the/DT field/NN ]
+of/IN 
+[ complex/JJ numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ every/DT linear/JJ operator/NN T/NN ]
+in/IN 
+[ V/NN ]
+can/MD be/VB written/VBN as/IN 
+[ the/DT sum/NN ]
+of/IN 
+[ a/DT diagonalizable/JJ operator/NN D/NN ]
+and/CC 
+[ a/DT nilpotent/JJ operator/NN N/NN ]
+
+[ which/WDT ]
+commute/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT operators/NNS D/NN ]
+and/CC 
+[ N/NN ]
+are/VBP unique/JJ and/CC 
+[ each/DT ]
+is/VBZ 
+[ a/DT polynomial/NN ]
+in/IN 
+[ T/NN ]
+./. 
+==================================
+From/IN 
+[ these/DT results/NNS ]
+,/, 
+[ one/NN ]
+sees/VBZ that/IN 
+[ the/DT study/NN ]
+of/IN 
+[ linear/JJ operators/NNS ]
+on/IN 
+[ vector/NN spaces/NNS ]
+over/IN 
+[ an/DT ]
+algebraically/RB closed/VBN 
+[ field/NN ]
+is/VBZ essentially/RB reduced/VBN to/TO 
+[ the/DT study/NN ]
+of/IN 
+[ nilpotent/JJ operators/NNS ]
+./. 
+==================================
+For/IN 
+[ vector/NN spaces/NNS ]
+over/IN 
+[ non-algebraically/JJ closed/VBN fields/NNS ]
+,/, 
+[ we/PRP ]
+still/RB need/VB to/TO find/VB 
+[ some/DT substitute/NN ]
+for/IN 
+[ characteristic/JJ values/NNS ]
+and/CC 
+[ vectors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT very/RB interesting/JJ fact/NN ]
+that/IN 
+[ these/DT two/CD problems/NNS ]
+can/MD be/VB handled/VBN simultaneously/RB and/CC 
+[ this/DT ]
+is/VBZ 
+[ what/WP ]
+
+[ we/PRP ]
+shall/MD do/VB in/IN 
+[ the/DT next/JJ chapter/NN ]
+./. 
+==================================
+In/IN concluding/VBG 
+[ this/DT section/NN ]
+,/, 
+[ we/PRP ]
+should/MD like/VB to/TO give/VB 
+[ an/DT example/NN ]
+
+[ which/WDT ]
+illustrates/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT ideas/NNS ]
+of/IN 
+[ the/DT primary/JJ decomposition/NN theorem/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+have/VBP chosen/VBN to/TO give/VB 
+[ it/PRP ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT section/NN ]
+since/IN 
+[ it/PRP ]
+deals/VBZ with/IN 
+[ differential/JJ equations/NNS ]
+and/CC thus/RB is/VBZ not/RB purely/RB 
+[ linear/JJ algebra/NN ]
+./. 
+==================================
+
+[ Example/NN 11/CD ]
+./. 
+==================================
+In/IN 
+[ the/DT primary/JJ decomposition/NN theorem/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ not/RB necessary/JJ that/IN 
+[ the/DT vector/NN space/NN V/NN ]
+be/VB 
+[ finite/JJ dimensional/JJ ]
+,/, nor/CC is/VBZ it/PRP necessary/JJ for/IN 
+[ parts/NNS ]
+(/( 
+[ A/NN ]
+)/) and/CC (/( 
+[ B/NN ]
+)/) that/IN 
+[ P/NN ]
+be/VB 
+[ the/DT minimal/JJ polynomial/NN ]
+for/IN 
+[ T/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ T/NN ]
+is/VBZ 
+[ a/DT linear/JJ operator/NN ]
+on/IN 
+[ an/DT arbitrary/JJ vector/NN space/NN ]
+and/CC if/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT monic/JJ polynomial/NN P/NN ]
+such/JJ that/IN 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ parts/NNS ]
+(/( 
+[ A/NN ]
+)/) and/CC (/( 
+[ B/NN ]
+)/) of/IN 
+[ Theorem/NN 12/CD ]
+are/VBP valid/JJ for/IN 
+[ T/NN ]
+with/IN 
+[ the/DT proof/NN ]
+
+[ which/WDT ]
+
+[ we/PRP ]
+gave/VBD ./. 
+==================================
+Let/VB 
+[ N/NN ]
+be/VB 
+[ a/DT positive/JJ integer/NN ]
+and/CC let/VBD 
+[ V/NN ]
+be/VB 
+[ the/DT space/NN ]
+of/IN 
+[ all/DT N/NN times/CC ]
+continuously/RB 
+[ differentiable/JJ functions/NNS F/NN ]
+on/IN 
+[ the/DT real/JJ line/NN ]
+
+[ which/WDT ]
+satisfy/VBP 
+[ the/DT differential/JJ equation/NN A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+are/VBP 
+[ some/DT fixed/VBN constants/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+denotes/VBZ 
+[ the/DT space/NN ]
+of/IN 
+[ N/NN times/NNS ]
+continuously/RB 
+[ differentiable/JJ functions/NNS ]
+,/, then/RB 
+[ the/DT space/NN V/NN ]
+of/IN 
+[ solutions/NNS ]
+of/IN 
+[ this/DT differential/JJ equation/NN ]
+is/VBZ 
+[ a/DT subspace/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ D/NN ]
+denotes/VBZ 
+[ the/DT differentiation/NN operator/NN ]
+and/CC 
+[ P/NN ]
+is/VBZ 
+[ the/DT polynomial/NN A[fj]/SYM ]
+then/RB 
+[ V/NN ]
+is/VBZ 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ the/DT operator/NN p/NN ]
+(/( ,/, )/) ,/, because/IN 
+[ A[fj]/SYM ]
+simply/RB says/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ us/PRP ]
+now/RB regard/VB 
+[ D/NN ]
+as/IN 
+[ a/DT linear/JJ operator/NN ]
+on/IN 
+[ the/DT subspace/NN V/NN ]
+./. 
+==================================
+==================================
+Then/RB 
+[ A[fj]/SYM ]
+./. 
+==================================
+If/IN 
+[ we/PRP ]
+are/VBP discussing/VBG 
+[ differentiable/JJ complex-valued/JJ functions/NNS ]
+,/, then/RB 
+[ A[fj]/SYM ]
+and/CC 
+[ V/NN ]
+are/VBP 
+[ complex/JJ vector/NN spaces/NNS ]
+,/, and/CC 
+[ A[fj]/SYM ]
+may/MD be/VB 
+[ any/DT complex/JJ numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+now/RB write/VBP 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+are/VBP 
+[ distinct/JJ complex/JJ numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT null/JJ space/NN ]
+of/IN 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ Theorem/NN 12/CD ]
+says/VBZ that/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ other/JJ words/NNS ]
+,/, if/IN 
+[ F/NN satisfies/VBZ ]
+
+[ the/DT differential/JJ equation/NN A[fj]/SYM ]
+,/, then/RB 
+[ F/NN ]
+is/VBZ uniquely/RB expressible/JJ in/IN 
+[ the/DT form/NN A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM satisfies/VBZ ]
+
+[ the/DT differential/JJ equation/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ the/DT study/NN ]
+of/IN 
+[ the/DT solutions/NNS ]
+to/TO 
+[ the/DT equation/NN A[fj]/SYM ]
+is/VBZ reduced/VBN to/TO 
+[ the/DT study/NN ]
+of/IN 
+[ the/DT space/NN ]
+of/IN 
+[ solutions/NNS ]
+of/IN 
+[ a/DT differential/JJ equation/NN ]
+of/IN 
+[ the/DT form/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT reduction/NN ]
+has/VBZ been/VBN accomplished/VBN by/IN 
+[ the/DT general/JJ methods/NNS ]
+of/IN 
+[ linear/JJ algebra/NN ]
+,/, 
+[ i.e./NN ]
+,/, by/IN 
+[ the/DT primary/JJ decomposition/NN theorem/NN ]
+./. 
+==================================
+To/TO describe/VB 
+[ the/DT space/NN ]
+of/IN 
+[ solutions/NNS ]
+to/TO 
+[ A[fj]/SYM ]
+,/, 
+[ one/NN ]
+must/MD know/VB 
+[ something/NN ]
+about/IN 
+[ differential/JJ equations/NNS ]
+;/: ;/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ one/NN ]
+must/MD know/VB 
+[ something/NN ]
+about/IN 
+[ D/NN other/JJ ]
+than/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT linear/JJ operator/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ one/NN ]
+does/VBZ not/RB need/VB to/TO know/VB very/RB much/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ very/RB easy/JJ to/TO establish/VB by/IN 
+[ induction/NN ]
+on/IN 
+[ R/NN ]
+that/IN if/IN 
+[ F/NN ]
+is/VBZ in/IN 
+[ A[fj]/SYM ]
+then/RB 
+[ A[fj]/SYM ]
+;/: ;/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ A[fj]/SYM ]
+,/, 
+[ etc./NN ]
+./. Thus/RB 
+[ A[fj]/SYM ]
+if/IN and/CC only/RB if/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT function/NN G/NN such/JJ ]
+that/IN 
+[ A[fj]/SYM ]
+,/, 
+[ i.e./NN ]
+,/, 
+[ A[fj]/SYM ]
+,/, must/MD be/VB 
+[ a/DT polynomial/NN function/NN ]
+of/IN 
+[ degree/NN A[fj]/SYM ]
+or/CC 
+[ less/JJR ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ F/NN satisfies/VBZ A[fj]/SYM  ]
+if/IN and/CC only/RB if/IN 
+[ F/NN ]
+has/VBZ 
+[ the/DT form/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Accordingly/RB ,/, 
+[ the/DT ]
+'/'' 
+[ functions/NNS '/POS A[fj]/SYM span/NN ]
+
+[ the/DT space/NN ]
+of/IN 
+[ solutions/NNS ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ A[fj]/SYM ]
+are/VBP linearly/RB 
+[ independent/JJ functions/NNS ]
+and/CC 
+[ the/DT exponential/JJ function/NN ]
+has/VBZ 
+[ no/DT zeros/NNS ]
+,/, 
+[ these/DT R/NN functions/NNS A[fj]/SYM ]
+,/, form/VBP 
+[ a/DT basis/NN ]
+for/IN 
+[ the/DT space/NN ]
+of/IN 
+[ solutions/NNS ]
+./. 
+==================================
+==================================
+==================================

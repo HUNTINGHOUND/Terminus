@@ -1,0 +1,2426 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (PP With
+	 (NP each song))
+     (S
+      (NP he)
+      (VP gave
+	  (NP verbal footnotes))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The songs)
+	(SBAR 0
+	      (S (NP Sandburg)
+		 (VP sang
+		     (NP T) ))))
+    (ADVP often)
+    (VP reminded
+	(NP 
+	 listeners)
+	(PP of
+	    (NP (NP songs
+		    (PP of
+			(NP a kindred character)))
+		(SBAR 0
+		      (S
+		       (NP they)
+		       (VP knew
+			   (NP T)
+			   (X (ADVP entirely)
+			      or
+			      (PP in
+				  (NP fragments))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Often)
+      (S (NP these listeners)
+	 (AUX would)
+	 (VP refer
+	     (NP Sandburg)
+	     (PP to
+		 (NP (NP persons)
+		     (SBAR (WHNP who)
+			   (S (NP T)
+			      (VP had
+				  (NP similar ballads or ditties)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP due time))
+    (S (NP Sandburg)
+       (VP was
+	   (NP a walking thesaurus
+	       (PP of
+		   (NP American folk music))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP he)
+	   (AUX had)
+	   (VP finished
+	       (NP the
+		   (ADJP first)
+		   two volumes
+		   (PP of
+		       (NP his Lincoln))))))
+    ,
+    (S (NP Sandburg)
+       (VP went
+	   (S (NP *)
+	      (AUX to)
+	      (VP work)
+	      (S (NP *)
+		 (VP assembling
+		     (NP a book
+			 (PP of
+			     (NP (NP songs)
+				 (X (ADVP out
+					  (PP of
+					      (NP hobo and childhood days)))
+				    and
+				    (PP from
+					(NP the memory
+					    (PP of
+						(NP (NP songs)
+						    (SBAR 0
+							  (S (NP others)
+							     (AUX had)
+							     (VP taught
+								 (NP him)
+								 (NP T) )))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP rummaged)
+	,
+	(VP found
+	    (NP composers and arrangers))
+	,
+	(VP collaborated
+	    (PP on
+		(NP the main design and outline
+		    (PP of
+			(NP harmonization))))
+	    (PP with
+		(NP (NP musicians)
+		    ,
+		    (NP ballad singers)
+		    ,
+		    and
+		    (NP musicologists))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The result)
+    (VP was
+	(NP (NP (NP (NP a collection
+			(PP of
+			    (NP 280 songs
+				,
+				ballads
+				,
+				ditties)))
+		    ,
+		    (VP brought
+			(ADVP together)
+			(PP from
+			    (NP all regions
+				(PP of
+				    (NP America))))))
+		,
+		(NP (ADJP more
+			  (PP than
+			      (NP one hundred)))
+		    (VP  (ADVP never
+			       before)
+			 published)))
+	    :
+	    (NP The American Songbag))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each song or ditty)
+   (AUX was)
+   (VP prefaced
+	     
+       (PP by
+	   (NP (NP 
+		(NP an author)
+		's note)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP indicated
+			    (NP the origin and meaning
+				(PP of
+				    (NP the song)))
+			    (ADVP as
+				  well
+				  (PP as
+				      (NP (NP (NP special interest)
+					      (SBAR 0
+						    (S
+						     (NP the song)
+						     (VP had
+							 (NP T) ))))
+					  ,
+					  (NP musical arrangement)
+					  ,
+					  and
+					  (ADJP most)
+					  (PP of
+					      (NP the chorus and verses))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The book)
+	,
+	(VP published
+	    (PP in
+		(NP 1927)))
+	,)
+    (AUX has)
+    (VP been
+	(VP selling
+	    (ADVP steadily)
+	    (ADVP  ever
+		   since))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP Sandburg)
+	      (VP said))
+	   (PP at
+	       (NP the time)))
+    :
+    (S  ``
+	(S (NP It)
+	   (VP is
+	       (ADJP  as
+		      ancient
+		      (PP as
+			  (NP (NP the
+				  medieval European
+				  ballads)
+			      (VP brought
+				  (PP to
+				      (NP the Appalachian Mountains))))))))
+	,
+	(S (NP it)
+	   (VP is
+	       (ADJP  as
+		      modern
+		      (PP as
+			  (NP (NP skyscrapers)
+			      ,
+			      (NP the Volstead Act)
+			      ,
+			      and
+			      (NP the
+				  (ADJP latest)
+				  oil well gusher))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Schopenhauer)
+   (ADVP never)
+   (VP learned
+       (SBAR 0
+	     (S (NP Sandburg)
+		(VP is
+		    (PP in
+			(NP constant demand
+			    (PP as
+				(NP an entertainer)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two things)
+   (VP contribute
+       (PP to
+	   (NP his popularity))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP First)
+      ,
+      (S (NP Carl)
+	 (VP (VP respects
+		 (NP his audience))
+	     and
+	     (VP prepares
+		 (NP his speeches)
+		 (ADVP carefully)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR 
+     (WHADVP  Even
+	      when)
+     (S (NP he)
+	(AUX is)
+	(VP called
+		 
+	    (PRT upon)
+	    (PP for
+		(NP impromptu remarks)))))
+    ,
+    (S (NP he)
+       (VP has
+	   (NP (NP notes)
+	       (VP written
+		   (PP on
+		       (NP the back
+			   (PP of
+			       (NP handy envelopes)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP has
+	   (NP (NP his own system
+		   (PP of
+		       (NP shorthand)))
+	       ,
+	       (VP devised
+		   (PP by
+		       (NP abbreviations))))))
+    :
+    (S (S (NP  ``
+	       humility
+	       '')
+	  (AUX will)
+	  (VP be
+	      (NP  ``
+		   humly
+		   '')))
+       ,
+       (S (PP  ``
+	       with
+	       '')
+	  (AUX will)
+	  (VP be
+	      (NP  ``
+		   w
+		   '')))
+       ,
+       and
+       (S (NP  ``
+	       that
+	       '')
+	  (AUX will)
+	  (VP be
+	      (NP  ``
+		   tt
+		   '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The second reason
+       (PP for
+	   (NP his popularity)))
+   (VP is
+       (NP his complete spontaneity
+	   (PP with
+	       (NP the guitar)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (NP a mistake))
+   ,
+   (ADVP however)
+   ,
+   (S-1 (NP *)
+      (AUX to)
+      (VP imagine
+	  (SBAR that
+		(S (NP Sandburg)
+		   (VP uses
+		       (NP the guitar)
+		       (PP as
+			   (NP a prop))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP is
+       (NP (NP no dextrous-fingered college boy)
+	   (CONJP but
+		  rather)
+	   (NP a
+	       dedicated
+	       ,
+	       humble
+	       ,
+	       and
+	       bashful apostle
+	       (PP of
+		   (NP this instrument))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP age seventy-four))
+    ,
+    (S (NP he)
+       (VP became
+	   (SBAR (WHNP what)
+		 (S
+		  (NP he)
+		  (ADVP shyly)
+		  (VP terms
+		      (NP T) 
+		      (NP a
+			  ``
+			  pupil
+			  ''
+			  (PP of
+			      (NP (NP Andres Segovia)
+				  ,
+				  (NP the great guitarist
+				      (PP of
+					  (NP the Western world))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-2 *pseudo-attach*))
+   (VP is
+       (NEG not)
+       (ADJP easy))
+   (S-2 (NP *)
+      (AUX to)
+      (VP become
+	  (NP 
+	   (NP Segovia)
+	   's pupil))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (VP needs
+       (NP high talent)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Segovia)
+      (AUX has)
+      (VP written
+	  (PP about
+	      (NP Carl))))
+     :
+     (S  ``
+	 (S (NP His fingers)
+	    (VP labor
+		(ADVP heavily)
+		(PP on
+		    (NP the strings))))
+	 and
+	 (S (NP he)
+	    (VP asked
+		(PP for
+		    (NP my help
+			(PP in
+			    (S  (NP *)  
+				(VP disciplining
+				    (NP them))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP found
+       (SBAR that
+	     (S (NP this
+		    (ADJP precocious
+			  ,
+			  grown-up)
+		    boy
+		    (PP of
+			(NP 74)))
+		(VP deserved
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP taught
+			       ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX has)
+      (ADVP long)
+      (VP existed
+	  (NP a brotherly affection)
+	  (PP between
+	      (NP us))))
+     ,
+     (S (ADVP thus)
+	(S (NP I)
+	   (VP accepted
+	       (NP him)
+	       (PP as
+		   (NP my pupil))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Just
+	    (PP as
+		(PP in
+		    (NP the case
+			(PP of
+			    (NP every prodigy child))))))
+      ,
+      (S (NP we)
+	 (AUX must)
+	 (VP watch
+	     (PP for
+		 (S (NP the efficacy
+			(PP of
+			    (NP my teaching)))
+		    (AUX to)
+		    (VP show
+			(ADVP up)
+			(PP in
+			    (NP the future))))))
+	 --
+	 (SBAR if
+	       (S (NP he)
+		  (AUX should)
+		  (VP master
+		      (NP (NP all
+			      the strenuous exercises)
+			  (SBAR 0
+				(S (NP I)
+				   (VP inflicted
+				       (NP T) 
+				       (PP on
+					   (NP him)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (S  (NP *)
+	    (AUX To)
+	    (VP play
+		(NP the guitar))
+	    (PP as
+		(S (NP he)
+		   (VP aspires)))))
+    (AUX will)
+    (VP devour
+	(NP his three-fold energy
+	    (PP as
+		(NP (NP a historian)
+		    ,
+		    (NP a poet)
+		    and
+		    (NP a singer))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One cause
+       (PP of
+	   (NP 
+	    (NP Schopenhauer)
+	    's pessimism)))
+   (VP was
+       (NP the fact
+	   (SBAR that
+		 (S (NP he)
+		    (VP failed
+			(S (NP *)
+			   (AUX to)
+			   (VP learn
+			       (NP the guitar)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP am
+       (ADJP certain
+	     (SBAR that
+		   (S (NP Carl Sandburg)
+		      (AUX will)
+		      (NEG not)
+		      (VP fall
+			  (PP into
+			      (NP the
+				  (ADJP same)
+				  (ADJP  sad)
+				  philosophy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The heart
+       (PP of
+	   (NP this great poet)))
+   (ADVP constantly)
+   (VP bubbles
+       (ADVP forth)
+       (NP a generous joy
+	   (PP of
+	       (NP life))))
+   --
+   (PP with or without
+       (NP the guitar)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP 
+     (NP The public)
+     's identification
+     (PP of
+	 (NP (NP Carl Sandburg)
+	     and
+	     (NP the guitar))))
+    (VP is
+	(NP no happenstance)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV Nor
+	 (AUX does)
+	 (NP Carl)
+	 (VP reject
+	     (NP this identity)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP is
+	    (ADJP proud
+		  (PP of
+		      (S   (NP *)
+			   (VP having
+			       (NP Segovia)
+			       (PP for
+				   (NP a friend)))))))
+	and
+	(VP dedicated
+	    (NP (NP a poem)
+		(VP-1 *pseudo-attach*))
+	    (PP to
+		(NP him))
+	    (VP-1 titled
+		  (NP  ``
+		       The Guitar
+		       '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Carl)
+   (VP says
+       (SBAR 0
+	     (S (NP it)
+		(VP is
+		    (NP the
+			(ADJP greatest)
+			poem)
+		    (VP  (ADVP ever)
+			 written
+			 (PP to
+			     (NP the guitar))))
+		(SBAR because
+		      (S (NP he)
+			 (AUX has)
+			 (ADVP never)
+			 (VP heard
+			     (PP of
+				 (NP any other poem
+				     (PP to
+					 (NP that subtle instrument)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP (NP (NP (NP A portable companion)
+	       (ADJP  (ADVP always)
+		      ready
+		      (S (NP *)
+			 (AUX to)
+			 (VP go
+			     (SBAR 
+			      (WHADVP where)
+			      (S (NP you)
+				 (VP go)))))))
+	   --
+	   (NP (NP a small friend)
+	       (VP weighing
+		   (ADJP less
+			 (PP than
+			     (NP a freshborn infant))))
+	       --
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP shared
+		 
+			  (PP with
+			      (NP few or many)))))
+	       --))
+       (NP  (ADVP just)
+	    two
+	    (PP of
+		(NP you))
+	    (PP in
+		(NP sweet meditation))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP 
+	 (NP The New York Herald Tribune)
+	 's photographer)
+	,
+	(NP Ira Rosenberg)
+	,)
+    (VP tells
+	(NP an anecdote
+	    (PP about
+		(NP the time
+		    (SBAR 0
+			  (S
+			   (NP he)
+			   (VP wanted
+			       (S (NP *)
+				  (AUX to)
+				  (VP take
+				      (NP a picture
+					  (PP of
+					      (S (NP Carl)
+						 (VP playing
+						     (NP a guitar)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Carl)
+   (AUX had)
+   (NEG n't)
+   (VP brought
+       (NP his)
+       (PRT along)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mr. Rosenberg)
+   (VP suggested
+       (SBAR that
+	     (S (NP they)
+		(VP (VP go
+			(ADVP out))
+		    and
+		    (VP find
+			(NP one)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (X (ADVP  ``
+	    Preferably
+	    '')
+     ,
+     (SINV (VP said)
+	   (NP Carl))
+     ,
+     (NP  ``
+	  (NP (NP one)
+	      (VP (VP battered)
+		  and
+		  (VP worn)))
+	  ,
+	  (ADJP such
+		(PP as
+		    (S  (NP T) 
+			(AUX might)
+			(VP be
+			    (VP found
+	     
+				(PP in
+				    (NP a pawnshop)))))))
+	  ''))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP went
+       (PP to
+	   (NP the pawnshop
+	       (PP of
+		   (NP Joseph Miller
+		       (PP of
+			   (NP 1162
+			       Sixth Avenue))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Mr. Miller)
+      (VP (VP was
+	      (PP in
+		  (NP the shop)))
+	  ''
+	  ,
+	  (S (NP the Herald Tribune story)
+	     (VP related))
+	  ,
+	  ``
+	  but
+	  (VP was
+	      (ADJP reluctant
+		    (S (NP *)
+		       (AUX to)
+		       (VP have
+			   (NP (NP anybody)
+			       's
+			       picture)
+			   (VP taken
+			       (ADVP inside)))))
+	      ,
+	      (SBAR because
+		    (S (NP his business)
+		       (VP was
+			   (ADJP  (ADVP too)
+				  '
+				  confidential
+				  '
+				  (PP for
+				      (NP pictures)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S But
+      (PP after
+	  (NP introductions))
+      (S (NP he)
+	 (VP asked
+	     :
+	     (NP  '
+		  Carl Sandburg
+		  ?))))
+   )
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Well)
+      (S (NP you)
+	 (AUX can)
+	 (VP pose
+	     (ADVP inside))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP He)
+	 (VP wanted
+	     (S (NP Mr. Sandburg)
+		(AUX to)
+		(VP pose
+		    (PP with
+			(NP one
+			    (PP of
+				(NP (NP the guitars)
+				    (SBAR 0
+					  (S
+					   (NP he)
+					   (AUX had)
+					   (VP displayed
+					       (NP T)
+					       (PP behind
+						   (NP glass))
+					       (PP in
+						   (NP the center
+						       (PP of
+							   (NP his shop)))))))))))))))
+      ,
+      but
+      (S (NP the poet)
+	 (VP eyed
+	     (NP this)
+	     (ADVP somewhat
+		   distastefully))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (X (NP (NP  '
+	     Kalamazoo guitars
+	     ')
+	(VP-3 *pseudo-attach*))
+    ,
+    (S (NP he)
+       (VP said))
+    ,
+    (VP-3  '
+	   used
+	   (PP by
+	       (NP radio hillbilly singers))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP He)
+      (VP chose
+	  (NP (NP one)
+	      (NP-2 *pseudo-attach*))
+	  (PP from
+	      (NP 
+	       (NP Mr. Miller)
+	       's window))
+	  ,
+	  (NP-2 a plain guitar
+		(PP with
+		    (NP no fancy polish)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  While
+	   (S (NP the picture)
+	      (AUX was)
+	      (VP taken
+		  )))
+    ,
+    (S (NP 
+	(NP Mr. Miller)
+	's disposition
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (ADJP generous
+		     (PP to
+			 (NP Mr. Sandburg))))))
+       (VP increased
+	   (PP to
+	       (NP the point
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP he)
+		       (VP advised
+			   ,
+			   (S  '
+			       (NP I)
+			       (AUX wo)
+			       (NEG n't)
+			       (ADVP even)
+			       (VP charge
+				   (NP you)
+				   (NP the one dollar rental fee))
+			       ')))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+((NP A knowledgeable celebrity))
+((S (S (SBAR 
+	  (WHADVP When)
+	  (S (NP someone
+		 (PP in
+		     (NP the audience)))
+	     (VP (VP rose)
+		 and
+		 (VP asked
+		     (SBARQ (WHADVP how)
+			    (SQ (AUX does)
+				(NP it)
+				(VP feel)
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (NP a celebrity)))))))))
+	 ,
+	 (S (NP Carl)
+	    (VP said
+		,
+		(S  ``
+		    (NP A celebrity)
+		    (VP is
+			(NP (NP a fellow)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP eats
+					 (NP celery)
+					 (PP with
+					     (NP celerity)))))))
+		    '')))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX has)
+   (ADVP always)
+   (VP been
+       (NP 
+	(NP Carl)
+	's attitude)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lloyd Lewis)
+   (VP wrote
+       (SBAR that
+	     (S (SBAR 
+		 (WHADVP when)
+		 (S (NP he)
+		    (ADVP first)
+		    (VP knew
+			(NP Carl))
+		    (PP in
+			(NP 1916))))
+		,
+		(S (NP Sandburg)
+		   (AUX was)
+		   (VP making
+		       (NP (NP $ 27.50)
+			   (NP a week)))
+		   (S (S  (NP *) 
+			  (VP writing
+			      (NP features)
+			      (PP for
+				  (NP the Day Book))))
+		      and
+		      (S  (NP *) 
+			  (VP eating
+			      (NP sparse luncheons)
+			      (PP in
+				  (NP one-arm restaurants))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP walked
+       (NP home)
+       (PP at
+	   (NP night))
+       (PP for
+	   (NP two miles
+	       (PP beyond
+		   (NP the end
+		       (PP of
+			   (NP a suburban trolley))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP fame)
+	 (VP came)))
+     (S (NP it)
+	(VP changed
+	    (NP Sandburg))
+	(ADVP only
+	      slightly)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Lewis)
+    (VP remembered
+	(S (NP another newspaperman)
+	   (VP asking
+	       ,
+	       (SQ  ``
+		    (NP Carl)
+		    ,
+		    (SQ  (AUX have)
+			 (NP your ideas)
+			 (VP changed
+			     (NP any))
+			 (SBAR since
+			       (S (NP you)
+				  (VP got
+				      (NP all
+					  these comforts)
+				      ))))
+		    ''
+		    ?)))))
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Carl)
+   (VP (VP thought
+	   (NP the question)
+	   (PRT over)
+	   (ADVP slowly))
+       and
+       (VP answered
+	   :
+	   (S  ``
+	       (S (NP I)
+		  (VP know
+		      (SBAR 0
+			    (S (NP (NP a starving man)
+				   (SBAR (WHNP who)
+					 (S (NP T)
+					    (AUX is)
+					    (VP fed
+						))))
+			       (ADVP never)
+			       (VP remembers
+				   (NP all
+				       the pangs
+				       (PP of
+					   (NP his starvation))))))))
+	       ,
+	       (S (NP I)
+		  (VP know
+		      (NP that)))
+	       ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP That)
+      (VP was
+	  (NP (NP all)
+	      (SBAR 0
+		    (S (NP he)
+		       (VP said
+			   (NP T) ))))))
+     ,
+     (S (NP Lewis)
+	(VP reports)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP That)
+   (VP was
+       (NP (NP all)
+	   (SBAR 0
+		 (S (NP he)
+		    (VP had
+			(S (NP *)
+			   (AUX to)
+			   (VP say
+			       (NP T) ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP answer
+	    (PP to
+		(NP (NP a New York Times query
+			(PP on
+			    (SBARQ (WHNP what)
+				   (SQ   (NP T)
+					 (VP is)
+					 (NP fame)
+					 ))))
+		    *LRB*
+		    (NP (NP  ``
+			     Thoughts
+			     (PP On
+				 (NP Fame))
+			     '')
+			,
+			(NP October 23 ,
+			    1960))
+		    *RRB*))))
+    ,
+    (S (NP Carl)
+       (VP said
+	   :
+	   (S  ``
+	       (NP Fame)
+	       (VP is
+		   (NP a figment
+		       (PP of
+			   (NP a pigment))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP comes
+       and
+       goes))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP changes
+       (PP with
+	   (NP every generation))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (ADVP never)
+   (VP were
+       (NP (NP two fames)
+	   (ADJP alike))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP One fame)
+      (VP is
+	  (ADJP precious and luminous)))
+     ;
+     ;
+     (S (NP another)
+	(VP is
+	    (NP a bubble
+		(PP of
+		    (NP a bauble))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SQ  ``
+      (INTJ Ah)
+      ,
+      (SQ  (AUX did)
+	   (NP you)
+	   (ADVP once)
+	   (VP see
+	       (NP (NP Shelley)
+		   (ADJP plain))))
+      '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP The impression)
+	   (SBAR 0
+		 (S (NP you)
+		    (VP get
+			(NP T) 
+			(PP from
+			    (NP 
+			     (NP Carl Sandburg)
+			     's home))))))
+       (VP is
+	   (NP one
+	       (PP of
+		   (NP laughter and happiness)))))
+    ;
+    ;
+    and
+    (S (NP (NP the laughter)
+	   and
+	   (NP the happiness))
+       (VP are
+	   (VP  (ADVP even
+		      more)
+		pronounced))
+       (SBAR 
+	(WHADVP when)
+	(S (NP no company)
+	   (VP is
+	       (ADJP present))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Carl)
+      (AUX has)
+      (VP been
+	  (VP married
+		 
+	      (PP to
+		  (NP Paula))))
+      (PP for
+	  (NP fifty-three years)))
+     ,
+     and
+     (S (NP he)
+	(AUX has)
+	(NEG not)
+	(VP made
+	    (NP a
+		(ADJP single)
+		(ADJP  major)
+		decision))
+	(PP without
+	    (NP (NP careful consideration)
+		and
+		(NP thorough discussion)
+		(PP with
+		    (NP his wife))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Through
+	(NP all
+	    these years))
+    ,
+    (S (NP Mrs. Sandburg)
+       (AUX has)
+       (ADVP pointedly)
+       (VP avoided
+	   (NP the limelight))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (AUX has)
+      (VP shared
+	  (NP 
+	   (NP her husband)
+	   's greatness)
+	  ,
+	  but
+	  (PP  (ADVP only)
+	       within
+	       (NP the confines
+		   (PP of
+		       (NP their home))))))
+     ;
+     ;
+     (S (NP it)
+	(VP is
+	    (NP (NP a dedication)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP began)
+			 (NP the moment
+			     (SBAR 0
+				   (S
+				    (NP she)
+				    (VP met
+					(NP Carl)))))))))))
+  .)
+
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Mrs. Sandburg)
+      (VP received
+	  (NP a Phi Beta Kappa key)
+	  (PP from
+	      (NP the University
+		  (PP of
+		      (NP Chicago))))))
+     and
+     (S (NP she)
+	(VP was
+	    (ADJP busy)
+	    (S (S  (NP *)
+		   (VP writing))
+	       and
+	       (S  (NP *) 
+		   (VP teaching))))
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP she)
+	    (VP met
+		(NP Sandburg))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (S  ``
+	   (NP You)
+	   (VP are
+	       (NP
+		(NP the
+		    '
+		    Peoples)
+		' Poet
+		'))
+	   '')
+       (VP was
+	   (NP her appraisal))
+       (PP in
+	   (NP 1908)))
+    ,
+    and
+    (S (NP she)
+       (VP stopped
+	   (S (S (NP *)
+		 (VP teaching))
+	      and
+	      (S  (NP *) 
+		  (VP writing))))
+       (S (NP *)
+	  (AUX to)
+	  (VP devote
+	      (NP herself)
+	      (PP to
+		  (NP the fulfillment
+		      (PP of
+			  (NP 
+			   (NP her husband)
+			   's career))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (AUX has)
+      (ADVP rarely)
+      (VP been
+	  (VP photographed
+		 
+	      (PP with
+		  (NP him))))
+      and
+      ,)
+     (ADVP  except
+	    (PP for
+		(NP 
+		 (NP Carl)
+		 's seventy-fifth anniversary celebration
+		 (PP in
+		     (NP Chicago))
+		 (PP in
+		     (NP 1953)))))
+     ,
+     (S (S (NP she)
+	   (AUX has)
+	   (NEG not)
+	   (VP attended
+	       (NP the dozens
+		   (PP of
+		       (NP (NP (NP banquets)
+			       ,
+			       (NP functions)
+			       ,
+			       (NP public appearances)
+			       ,
+			       and
+			       (NP dinners))
+			   (VP honoring
+			       (NP him)))))))
+	--
+	(NP all
+	    (PP of
+		(NP this))
+	    (PP upon
+		(NP her insistence)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Even
+	    now)
+      (S (NP I)
+	 (AUX will)
+	 (NEG not)
+	 (VP intrude
+	     (PP upon
+		 (NP her)))
+	 (PP except
+	     (S (NP *)
+		(AUX to)
+		(VP state
+		    (NP a few bare facts))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The only way
+	(S (NP *)
+	   (AUX to)
+	   (VP describe
+	       (NP Paula Sandburg))))
+    (VP is
+	(S (NP *)
+	   (AUX to)
+	   (VP say
+	       (SBAR 0
+		     (S (NP she)
+			(VP is
+			    (ADJP beautiful))
+			(PP in
+			    (NP a Grecian sense))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Her clothes)
+	,
+	(NP her hair)
+	,
+	(NP everything
+	    (PP about
+		(NP her))))
+    (VP is
+	(NP both
+	    (ADJP graceful and simple))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP has
+       (NP (NP 
+	    (ADJP small
+		  ,
+		  broad
+		  ,
+		  capable)
+	    hands)
+	   and
+	   (NP an enormous energy))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP is
+       (NP (CONJP (NEG not)
+		  only)
+	   (NP a trained mathematician and Classicist)
+	   ,
+	   but
+	   (NP a good architect))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP (VP designed)
+       and
+       (VP supervised
+	   (NP the building
+	       (PP of
+		   (NP (NP the Harbert
+			   ,
+			   Michigan
+			   ,
+			   house)
+		       ,
+		       (SBAR (WHNP (ADJP most
+					 (WHPP of
+					       (WHNP which))))
+			     (S (NP T)  
+				(AUX was)
+				(VP constructed
+				        
+				    (PP by
+					(NP (NP one local carpenter)
+					    (SBAR (WHNP who)
+						  (S (NP T)
+						     (VP carried
+							 (NP the
+							     (ADJP heavy)
+							     beams)
+							 (ADVP singly)
+							 (PP upon
+							     (NP his shoulder))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP the Sandburg goat herd)
+	      (VP increased)))
+    ,
+    (S (NP she)
+       (ADVP also)
+       (VP designed
+	   (NP the barn alterations)
+	   (S (NP *)
+	      (AUX to)
+	      (VP accommodate
+		  (NP them))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP erosion)
+	 (VP threatened
+	     (NP the foundation
+		 (PP of
+		     (NP their home
+			 (PP in
+			     (NP Harbert))))))))
+     ,
+     (S (NP Paula Sandburg)
+	(VP (VP planted
+		(NP grapevines))
+	    and
+	    (VP arranged
+		(NP (NP the snow fences)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP helped
+				 (VP hold
+				     (NP the sands)
+				     (PRT away))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (AUX was)
+      (VP born
+	     
+	  (NP Lilian Steichen)))
+     ,
+     (X  (NP her parents)
+	 (NP immigrants
+	     (PP from
+		 (NP Luxemburg)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her mother)
+   (VP called
+       (NP her)
+       (NP (NP Paus'l)
+	   ,
+	   (NP (NP a Luxemburg endearment)
+	       (VP meaning
+		   (NP  ``
+			pussycat
+			''))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some
+       (PP of
+	   (NP the children
+	       (PP of
+		   (NP the family)))))
+   (X (X (AUX could)
+	 (NEG not)
+	 (VP pronounce
+	     (NP this name)))
+      and
+      (VP called
+	  (NP her)
+	  (NP (NP Paula)
+	      ,
+	      (NP (NP a soubriquet)
+		  (SBAR 0
+			(S (NP Carl)
+			   (VP liked
+			       (ADVP so
+				     much))
+			   (SBAR 0
+				 (S (NP she)
+				    (AUX has)
+				    (VP been
+					(NP Paula))
+				    (ADVP  ever
+					   since))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (SINV But
+	 neither
+	 (VP was)
+	 (NP Lilian)
+	 (NP her baptismal name))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Her parents)
+	,
+	(NP (ADJP pious)
+	    Roman Catholics)
+	,)
+    (VP christened
+	(NP her)
+	(NP  Mary Anne Elizabeth Magdalene Steichen)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP My mother)
+	 (VP read
+	     (NP a book))
+	 (PP  (ADVP right)
+	      after
+	      (S (NP I)
+		 (AUX was)
+		 (VP born
+		     ))))
+      and
+      (S (NP there)
+	 (VP was
+	     (NP a Lilian))
+	 (PP in
+	     (NP (NP the book)
+		 (SBAR 0
+		       (S
+			(NP she)
+			(VP loved
+			    (NP T) ))))))
+      and
+      (S (NP I)
+	 (VP became
+	     (NP Lilian)))
+      --
+      and
+      (S (ADVP eventually)
+	 (S (NP I)
+	    (VP became
+		(NP Paula)))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lilian Steichen)
+   (VP was
+       (NP an exceptional student)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This family
+	(PP of
+	    (NP Luxemburg immigrants)))
+    ,
+    (PP in
+	(NP fact))
+    ,
+    (VP produced
+	(NP two exceptional children)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Paula)
+    's
+    (ADJP older)
+    brother)
+   (VP is
+       (NP (NP Edward Steichen)
+	   ,
+	   (NP (NP a talented artist)
+	       and
+	       ,
+	       (PP for
+		   (NP the
+		       (ADJP past half-century)))
+	       ,
+	       (NP one
+		   (PP of
+		       (NP 
+			(NP the world)
+			's eminent photographers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (ADVP (NP Two years)
+	    ago)
+      (S (ADV the photography editor
+	      (PP of
+		  (NP Vogue Magazine)))
+	 (VP titled
+	     (NP his article
+		 (PP about
+		     (NP Steichen)))
+	     ,
+	     (NP  ``
+		  (NP The World)
+		  's Greatest Photographer
+		  ''))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP By
+	(NP the time
+	    (SBAR 0
+		  (S (NP Lilian)
+		     (AUX had)
+		     (VP been
+			 (VP graduated
+				  
+			     (PP from
+				 (NP public school))))))))
+    ,
+    (S (NP her parents)
+       (AUX were)
+       (VP doing
+	   (ADVP quite
+		 well))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her mother)
+   (VP (VP was
+	   (NP a good manager))
+       and
+       (VP established
+	   (NP a millinery business)
+	   (PP in
+	       (NP Milwaukee)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP her father)
+	 (VP was
+	     (NEG not)
+	     (ADJP enthusiastic
+		   (PP about
+		       (S  (NP *)
+			   (VP sending
+			       (NP (ADJP young)
+				   Paula)
+			       (PP to
+				   (NP high school)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP This)
+	(VP is
+	    (NP no place
+		(PP for
+		    (NP a young girl))))
+	'')
+    ,
+    (S (NP he)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The parents)
+      (VP compromised
+	  ,
+	  (ADVP however)
+	  ,
+	  (PP on
+	      (NP a convent school))))
+     and
+     (S (NP Paula)
+	(VP went
+	    (PP to
+		(NP Ursuline Academy
+		    (PP in
+			(NP (NP London)
+			    ,
+			    (NP Ontario))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP was
+	(ADJP pious))
+    ,
+    (ADVP too)
+    ,
+    (S  (NP *)
+	(ADVP once)
+	(VP kneeling
+	    (PP through
+		(NP the night)))
+	(PP (PP from
+		(NP Holy Thursday))
+	    (PP to
+		(NP Good Friday)))
+	,
+	(PP despite
+	    (NP the protest
+		(PP of
+		    (NP the nuns))
+		(SBAR that
+		      (S (NP this)
+			 (VP was
+			     (NP  too
+				  much
+				  (PP for
+				      (NP a young girl))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP knelt
+	(ADVP out
+	      (PP of
+		  (NP reverence))))
+    (PP for
+	(S  (NP *)
+	    (VP having
+		(VP read
+		    (NP the Meditations
+			(PP of
+			    (NP St. Augustine))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP read
+	(NP (NP everything
+		else)
+	    (SBAR 0
+		  (S (NP she)
+		     (AUX could)
+		     (VP get
+			 (NP her hands))
+		     (PP on
+			 (NP T) )))))
+    ,
+    (S  (NP *) 
+	(VP including
+	    (NP (NP an article)
+		*LRB*
+		(S (NP she)
+		   (VP thinks
+		       (SBAR 0
+			     (S (NP it)
+				(VP was
+				    (PP in
+					(NP the Atlantic Monthly)))))))
+		*RRB*
+		(PP by
+		    (NP Mark Twain))
+		(PP on
+		    (NP  ``
+			 White Slavery
+			 ''))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Paula)
+    (X (X (AUX was)
+	  (VP saddened
+		   
+	      (WHPP about
+		    (SBAR (WHNP what)
+			  (S  (NP T) 
+			      (AUX was)
+			      (VP happening
+				  (PP to
+				      (NP little girls))))))))
+       and
+       (VP vowed
+	   (S (NP *)
+	      (AUX to)
+	      (VP kneel
+		  (NP no
+		      (ADJP more))
+		  (PP in
+		      (NP Chapel)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (AUX had)
+   (VP come
+       (PP to
+	   (NP a decision))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP there)
+	     (VP was
+		 (ADVP ever)
+		 (NP a thought
+		     (PP in
+			 (NP her mind))
+		     (SBAR 0
+			   (S
+			    (NP she)
+			    (AUX might)
+			    (VP devote
+				(NP her life)
+				(PP to
+				    (NP religion)))))))))
+   ,
+   (S (NP it)
+      (AUX was)
+      (ADVP now)
+      (VP dispelled
+	  )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP felt
+	  (SBAR that
+		(S (NP I)
+		   (AUX must)
+		   (VP devote
+		       (NP myself)
+		       (PP to
+			   (NP the
+			       '
+			       outside
+			       '
+			       world)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP (VP passed
+	    (NP the entrance examinations
+		(PP to
+		    (NP the University
+			(PP of
+			    (NP Illinois))))))
+	,
+	but
+	(VP (PP during
+		(NP the year
+		    (PP at
+			(NP Urbana))))
+	    felt
+	    (SBAR 0
+		  (S (NP  (ADJP more
+				important) events)
+		     (VP transpired
+			 (PP at
+			     (NP the University
+				 (PP of
+				     (NP Chicago))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S And
+      (ADVP besides)
+      ,
+      (S (NP Thorstein Veblen)
+	 (VP was
+	     (NP one
+		 (PP of
+		     (NP the Chicago professors))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP the University
+	     (PP of
+		 (NP Chicago))))
+     (S
+      (NP she)
+      (VP (VP studied
+	      (NP (NP Whitman)
+		  and
+		  (NP Shelley)))
+	  ,
+	  and
+	  (VP became
+	      (NP a Socialist)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Socialist leaders
+       (PP in
+	   (NP Milwaukee)))
+   (VP recognized
+       (NP her
+	   worth))
+   ,
+   (PP (CONJP (NEG not)
+	      only)
+       (PP because
+	   (PP of
+	       (NP her dedication)))
+       but
+       (PP because
+	   (PP of
+	       (NP her fluency
+		   (PP in
+		       (NP (NP German)
+			   ,
+			   (NP French)
+			   ,
+			   and
+			   (NP Luxemburg))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (ADVP once)
+   (VP gave
+       (NP a German recitation)
+       (PP before
+	   (NP a convention
+	       (PP of
+		   (NP German-language teachers))
+	       (PP in
+		   (NP Milwaukee))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Carl)
+	and
+	(NP Paula))
+    (VP met
+	(PP in
+	    (NP Milwaukee))
+	(PP in
+	    (NP 1907))
+	(PP during
+	    (NP 
+	     (NP Paula)
+	     's Christmas holiday visit
+	     (PP to
+		 (NP her parents))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Carl)
+   (VP was
+       (ADVP still)
+       (NP Charles A.
+	   Sandburg)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP  ``
+	    legitimized
+	    ''
+	    (NP Paula)
+	    (PP for
+		(NP Lilian Steichen))))
+    ,
+    and
+    (S (NP it)
+       (VP was
+	   (NP Paula))
+       (SBAR
+	(WHNP who)
+	(S (NP T)
+	   (VP insisted
+	       (PP on
+		   (NP Carl
+		       (PP for
+			   (NP Charles)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Victor Berger)
+	,
+	(NP (NP the panjandrum
+		(PP of
+		    (NP Wisconsin Socialism)))
+	    and
+	    (NP member
+		(PP of
+		    (NP Congress))))
+	,)
+    (AUX had)
+    (VP asked
+	(NP Paula Steichen)
+	(S (NP *)
+	   (AUX to)
+	   (VP translate
+	       (NP some
+		   (PP of
+		       (NP his German editorials)))
+	       (PP into
+		   (NP English))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Carl)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX was)
+		 (VP stationed
+		     
+		     (PP in
+			 (NP (NP Appleton)
+			     ,
+			     (NP Wisconsin))))
+		 ,
+		 (S  (NP *) 
+		     (VP organizing
+			 (PP for
+			     (NP the Social Democrats))))))
+	,)
+    (VP (VP was
+	    (PP in
+		(NP 
+		 (NP Berger)
+		 's office)))
+	and
+	(VP made
+	    (NP it)
+	    (NP his business
+		(S (NP *)
+		   (AUX to)
+		   (VP escort
+		       (NP Paula)
+		       (PP to
+			   (NP the streetcar))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP left
+       (NP the next day)
+       (PP for
+	   (NP her teaching job
+	       (PP at
+		   (NP (NP Princeton)
+		       ,
+		       (NP Illinois)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (PP After
+	  (NP graduation
+	      (PP from
+		  (NP the University
+		      (PP of
+			  (NP Chicago))))))
+      ,
+      (S (NP Paula)
+	 (VP (VP taught
+		 (PP for
+		     (NP two years))
+		 (PP in
+		     (NP the normal school
+			 (PP at
+			     (NP (NP Valley City)
+				 ,
+				 (NP North Dakota)
+				 ,)))))
+	     (X (ADVP then)
+		(NP two years)
+		(PP at
+		    (NP Princeton
+			*LRB*
+			Illinois
+			*RRB*
+			Township High School))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP By
+        (NP the time
+	    (SBAR 0
+		  (S
+		   (NP the streetcar)
+		   (VP pulled
+		       (ADVP away))))))
+    ,
+    (S (NP he)
+       (AUX had)
+       (VP fallen
+	   (PP in
+	       (NP love))
+	   (PP with
+	       (NP Paula)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A letter)
+   (VP awaited
+       (NP her))
+   (PP at
+       (NP Princeton)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Paula)
+   (VP says
+       (SBAR that
+	     (S (SBAR  even
+		       though
+		       (S (NP
+			   (NP Carl)
+			   's letters)
+			  (ADVP usually)
+			  (VP began
+			      ,
+			      (NP  ``
+				   Dear Miss Steichen
+				   ''))))
+		,
+		(S (NP there)
+		   (VP was
+		       (NP an understanding
+			   (SBAR-4 *pseudo-attach*))
+		       (PP from
+			   (NP the beginning))
+		       (SBAR-4 that
+			       (S (NP they)
+				  (AUX would)
+				  (VP become
+				      (NP husband and wife))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Paula)
+   (ADVP generously)
+   (VP lent
+       (NP me)
+       (NP (NP (NP one
+		   (PP of
+		       (NP 
+			(NP Carl)
+			's love letters)))
+	       ,
+	       (VP dated
+		   (NP (NP February 21 ,
+			   1908)
+		       ,
+		       (NP (NP Hotel Athearn)
+			   ,)
+		       (NP (NP Oshkosh)
+			   ,
+			   (NP Wisconsin)))))
+	   :
+	   (S  ``
+	       (NP Dear Miss Steichen)
+	       :
+	       (S (NP It)
+		  (VP (VP is
+			  (NP (NP a
+				  (ADJP very
+					good) letter)
+			      (SBAR 0
+				    (S (NP you)
+				       (VP send
+					   (NP me)
+					   (NP T) )))))
+		      --
+		      (VP softens
+			  (NP the intensity
+			      (PP of
+				  (NP (NP this guerilla warfare)
+				      (SBAR 0
+					    (S
+					     (NP I)
+					     (AUX am)
+					     (VP carrying
+						 (NP T) 
+						 (PRT on)
+						 (ADVP  up
+							here))))))))))))))
+  .) 
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV (ADVP Never)
+	 (PP until
+	     (PP in
+		 (NP this work
+		     (PP of
+			 (NP S-D organization)))))
+	 (AUX have)
+	 (NP I)
+	 (VP (VP realized)
+	     and
+	     (VP felt
+		 (NP the attitude and experience
+		     (PP of
+			 (NP a Teacher))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

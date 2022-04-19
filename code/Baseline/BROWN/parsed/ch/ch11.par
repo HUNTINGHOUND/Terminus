@@ -1,0 +1,2215 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another 
+       (ADJP recent) 
+       achievement)
+   (VP was
+       (NP the 
+	   (ADJP successful)
+	   development
+	   (PP of
+	       (NP a method
+		   (PP for
+		       (NP (NP the 
+			       (ADJP complete) 
+			       combustion
+			       (PP in
+				   (NP a bomb calorimeter
+				       (PP of
+					   (NP a metal
+					       (PP in
+						   (NP fluorine)))))))
+			   (SBAR 
+			    (WHADVP when)
+			    (S (NP the product)
+			       (VP is
+				   (ADJP (ADVP relatively)
+					 non-volatile)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This work)
+   (VP (VP gave
+	   (NP (NP a heat
+		   (PP of
+		       (NP formation
+			   (PP of
+			       (NP aluminum fluoride)))))
+	       (SBAR
+		(WHNP which
+		      (S (NP T)
+			 (ADVP closely)
+			 (VP substantiates
+			     (NP (NP a value)
+				 (SBAR
+				  (WHNP which)
+				  (S (NP T)
+				     (AUX had)
+				     (VP been
+					 (VP determined
+					     (PP by
+						 (NP a
+						     (ADJP less
+							   direct)
+						     method)))))))))))))
+       ,
+       and
+       (VP raises
+	   (NP this property)
+	   (PP to
+	       (NP 15 percent
+		   (PP above
+		       (NP (NP that)
+			   (ADJP accepted
+				 (ADVP (NP a few years)
+				       ago)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Similar) 
+       measurements)
+   (AUX are)
+   (VP being
+       (VP initiated))
+   (S (NP *)
+      (AUX to)
+      (VP resolve
+	  (NP a 
+	      (ADJP large) 
+	      discrepancy
+	      (PP in
+		  (NP the heat
+		      (PP of
+			  (NP formation
+			      (PP of
+				  (NP (NP another
+					  (ADJP important) 
+					  combustion product)
+				      ,
+				      (NP beryllium fluoride)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The development and testing
+	(PP of
+	    (NP (NP (ADJP new)
+		    apparatus)
+		(S (NP *)
+		   (AUX to)
+		   (VP measure
+		       (NP (ADJP other) 
+			   properties))))))
+    (AUX is)
+    (VP nearing
+	(NP completion)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP one
+		(PP of
+		    (NP these)))
+	    ,
+	    (NP (NP an exploding-wire device)
+		(S (NP *) 
+		   (AUX to)
+		   (VP study 
+		       (NP (NP systems)
+			   (X (ADVP (ADVP thermodynamically)
+				    up
+				    (PP to
+					(NP 6,000 A[fj])))
+			      and
+			      (NP (NP 100 atmospheres)
+				  (NP pressure)))))))))
+    ,
+    (S (NP a 
+	   (ADJP major) 
+	   goal)
+       (AUX was)
+       (VP achieved
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The accuracy
+       (PP of
+	   (S (NP *)
+	      (VP measuring
+		  (NP (NP the 
+			  (ADJP total) 
+			  (ADJP electrical) 
+			  energy)
+		      (VP entering
+			  (NP an exploding wire)
+			  (PP during
+			      (NP a few microseconds))))))))
+   (AUX was)
+   (VP verified)
+   (SBAR 
+    (WHADVP when)
+    (S (NP two 
+	   (ADJP independent)
+	   types
+	   (PP of
+	       (NP comparison
+		   (PP with
+		       (NP (NP the heat energy)
+			   (VP produced))))))
+       (VP had
+	   (NP an uncertainty
+	       (PP of
+		   (NP (ADJP less)
+		       (PP than
+			   (NP 2 percent)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This agreement)
+   (AUX is)
+   (VP considered
+       (ADJP very
+	     good
+	     (PP for
+		 (NP 
+		  (ADJP such)
+		  (ADJP short)
+		  time intervals)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The method
+       (PP of
+	   (NP calibration)))
+   (VP employs
+       (NP a fixed resistance element)
+       (PP as
+	   (NP a calorimeter))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The element)
+      (AUX is)
+      (VP inserted
+	  (PP in
+	      (NP the discharge circuit))
+	  (PP in
+	      (NP place
+		  (PP of
+		      (NP the exploding wire))))))
+     ,
+     and
+     (S (NP the 
+	    (ADJP calorimetric) 
+	    heating
+	    (PP of
+		(NP the element)))
+	(AUX is)
+	(VP measured
+	    (PP with
+		(NP (ADJP high)
+		    accuracy)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP used
+       (PP as
+	   (NP a reference
+	       (PP for
+		   (S (NP *)
+		      (VP comparing
+			  (NP (NP (NP the 
+				      (ADJP ohmic) 
+				      heating)
+				  and
+				  (NP (NP (NP the 
+					      (ADJP electrical) 
+					      energy)
+					  (VP obtained
+					      (PP from
+						  (NP the 
+						      (ADJP measured) 
+						      current))
+					      (PP through
+						  (NP the element))))
+				      (CONJ-2 *pseudo-attach*)
+				      (NP-3 *pseudo-attach*)))
+			      (CONJ-2 and)
+			      (NP-3 the
+				    (ADJP measured) 
+				    voltage
+				    (PP across
+					(NP the element)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A 
+       (ADJP high-speed) 
+       shutter)
+   (AUX has)
+   (VP been
+       (VP developed))
+   (PP in
+       (NP (NP order)
+	   (S (NP *)
+	      (AUX to)
+	      (VP permit
+		  (NP (ADJP photographic) 
+		      observation
+		      (PP of
+			  (NP any portion
+			      (PP of
+				  (NP the 
+				      (ADJP electrical) 
+				      wire explosion))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The shutter)
+   (VP consists
+       (PP of
+	   (NP (NP two parts)
+	       :
+	       (NP (NP a 
+		       fast-opening 
+		       part)
+		   and
+		   (NP  a 
+			fast-closing
+			part))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP *)
+	 (VP Using
+	     (NP 
+	      (NP Edgerton)
+	      's method)))
+      ,
+      (S (NP the 
+	     fast-closing 
+	     action)
+	 (AUX is)
+	 (VP obtained
+	     (PP from
+		 (NP the blackening
+		     (PP of
+			 (NP a window))
+		     (PP by
+			 (S (NP *)
+			    (VP exploding
+				(NP a series
+				    (PP of
+					(NP (ADJP parallel)
+					    lead wires)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The fast-opening
+	(PP of
+	    (NP the shutter)))
+    (VP consists
+	(PP of
+	    (NP (NP (NP a piece
+			(PP of
+			    (NP aluminum foil)))
+		    (NP *LRB*
+			(ADVP approximately)
+			A[fj]
+			*RRB*))
+		(VP placed
+		    (ADVP directly)
+		    (PP in
+			(NP front
+			    (PP of
+				(NP the camera lens))))
+		    (SBAR  so
+			  that
+			  (S (NP no light)
+			     (AUX may)
+			     (VP pass
+				 (PP into
+				     (NP the camera))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The opening action)
+    (AUX is)
+    (VP obtained)
+    (SBAR 
+     (WHADVP when)
+     (S (NP (NP a capacitor)
+	    ,
+	    (VP charged
+		(PP to
+		    (NP (ADJP high) 
+			voltage)))
+	    ,)
+	(AUX is)
+	(ADVP suddenly)
+	(VP discharged
+	    (PP through
+		(NP the foil))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the discharge))
+     (S (NP (NP the
+		(ADJP magnetic) 
+		forces)
+	    (VP set
+		(PRT up)
+		(PP by
+		    (NP the passage
+			(PP of
+			    (NP current))))))
+	(VP cause
+	    (NP the edges
+		(PP of
+		    (NP the foil)))
+	    (S (NP *)
+	       (AUX to)
+	       (VP roll
+		   (ADVP inward)
+		   (PP toward
+		       (NP its center line)))))
+	,
+	(S (ADVP thus)
+	   (NP *)
+	   (VP allowing
+	       (NP light)
+	       (S (NP *)
+		  (AUX to)
+		  (VP pass
+		      (PP into
+			  (NP the camera))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Experiments)
+   (AUX have)
+   (VP shown
+       (SBAR that
+	     (S (NP the shutter)
+		(VP is
+		    (NP 75 percent
+			(ADJP open)))
+		(PP in
+		    (NP about
+			60-80 microseconds))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The shutter aperture)
+   (AUX may)
+   (VP be
+       (VP made
+	   (ADJP (ADJP larger)
+		 or
+		 (ADJP smaller))))
+   (PP by
+       (S (NP *)
+	  (VP (VP changing
+		  (NP the foil area))
+	      and
+	      (VP adjusting
+		  (NP the 
+		      (ADJP electrical)
+		      energy input
+		      (PP to
+			  (NP the foil))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Laboratory measurements
+    (PP of
+	(NP (ADJP interstellar) 
+	    radio spectra))).)
+(
+ (S (PP Besides
+	(NP the 
+	    (ADJP well-known) 
+	    hydrogen line
+	    (PP at
+		(NP 21 cm wavelength))))
+    ,
+    (S (NP the spectra
+	   (PP of
+	       (NP (ADJP extraterrestrial)
+		   radio sources)))
+       (AUX may)
+       (VP contain
+	   (NP (NP (ADJP sharp) 
+		   lines)
+	       (ADJP characteristic
+		     (PP of
+			 (NP (ADJP other)
+			     atoms
+			     ,
+			     ions
+			     ,
+			     and
+			     (ADJP small) 
+			     molecules)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The detection and study
+       (PP of
+	   (NP (ADJP such) 
+	       line spectra)))
+   (AUX would)
+   (VP add
+       (ADVP considerably)
+       (PP to
+	   (NP (ADJP present)
+	       information
+	       (PP on
+		   (NP (NP (ADJP interstellar)
+			   gas clouds)
+		       and
+		       ,
+		       (ADVP perhaps)
+		       ,
+		       (NP (ADJP planetary)
+			   atmospheres)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SINV
+      (PP Among
+	  (NP the
+	      (ADJP most likely)
+	      producers
+	      (PP of
+		  (NP (ADJP detectable) 
+		      radio line spectra))))
+      (VP are)
+      (NP (NP the
+	      (ADJP light)
+	      (ADJP diatomic)
+	      hydrides)
+	  (NP (NP OH) 
+	      and
+	      (NP CH))))
+     ;
+     ;
+     (S (NP (ADJP somewhat
+		  less
+		  likely)
+	    sources)
+	(VP are
+	    (NP (NP the
+		    (ADJP heavier)
+		    hydrides)
+		(NP (NP SH)
+		    ,
+		    (NP SiH)
+		    ,
+		    and
+		    (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (ADJP Very
+		  small)
+	    concentrations
+	    (PP of
+		(NP these hydrides)))
+	(AUX should)
+	(VP be
+	    (ADJP detectable)))
+     ;
+     ;
+     (S (PP in
+	    (NP (ADJP interstellar)
+		gas))
+	,
+	(S (NP (NP concentrations)
+	       (ADJP as
+		     low
+		     (PP as
+			 (NP A[fj] molecules
+			     (PP per
+				 (NP A[fj])))))
+	       (PP-4 *pseudo-attach*))
+	   (AUX may)
+	   (VP be
+	       (ADJP sufficient))
+	   ,
+	   (PP-4 as
+		 (S (NP *)
+		    (VP compared
+			(PP to
+			    (NP (NP 
+				 (NP the A[fj] hydrogen atom)
+				 's A[fj])
+				(VP required
+				    (PP for
+					(NP detection
+					    (PP of
+						(NP the 21-cm line)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (ADJP High) 
+	   sensitivity
+	   (PP in
+	       (NP radio telescopes)))
+       (AUX is)
+       (VP achieved
+	   (PP by
+	       (S (NP *)
+		  (VP reducing
+		      (NP the bandwidth
+			  (PP of
+			      (NP the receiver))))))))
+    ;
+    ;
+    (S  (ADVP therefore)
+	,
+	(SINV (ADVP only)
+	      (PP with
+		  (NP (ADJP precise) 
+		      foreknowledge
+		      (PP of
+			  (NP the line frequencies))))
+	      (VP is)
+	      (NP an
+		  (ADJP astronomical)
+		  search
+		  (PP for
+		      (NP the radio spectra
+			  (PP of
+			      (NP these molecules)))))
+	      (ADJP feasible))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+        (AUX To)
+        (VP secure
+            (NP (ADJP precise) 
+		measurements
+                (PP of
+                    (NP these frequencies)))))
+     ,
+     (S (NP a research program
+	    (PP in
+		(NP 
+		 (ADJP free)
+		 (ADJP radical)
+		 microwave spectroscopy)))
+	(AUX has)
+	(VP been)
+	(VP started
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR Since
+	 (S (NP (ADJP conventional)
+		methods)
+	    (VP are
+		(ADJP insensitive
+		      (PP at
+			  (NP the 
+			      (ADJP low) 
+			      frequencies
+			      (PP of
+				  (NP these 
+				      (ADJP molecular) 
+				      transitions))))))))
+   ,
+   (S (NP the 
+	  (ADJP paramagnetic) 
+	  resonance method)
+      (AUX is)
+      (VP being
+	  (VP used
+	      (ADVP instead)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP involves
+       (NP the application
+	   (PP of
+	       (NP (NP a
+		       (ADJP strong)
+		       (ADJP magnetic)
+		       field)
+		   (SBAR-5 *pseudo-attach*)))
+	   (PP to
+	       (NP (NP the
+		       (ADJP radical)
+		       vapor)
+		   ,
+		   (SBAR-5 
+		    (WHNP which)
+		    (S (NP T)
+		       (VP shifts
+			   (NP the 
+			       (ADJP low-frequency) 
+			       spectra)
+			   (PP to
+			       (NP (NP a
+				       (ADJP (ADVP conveniently)
+					     high)
+				       microwave range)
+				   ,
+				   (SBAR 
+				    (WHADVP where)
+				    (S (NP they)
+				       (AUX may)
+				       (VP be
+					   (VP measured
+					       (PP with
+						   (NP (ADJP optimum) 
+						       sensitivity))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The
+	   (ADJP first)
+	   (ADJP diatomic)
+	   hydride)
+       (VP investigated
+	   (PP by
+	       (NP the 
+		   (ADJP paramagnetic) 
+		   resonance method))))
+   (VP was
+       (NP the OH
+	   radical)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Results
+	  (PP of
+	      (NP this experiment)))
+      (VP include
+	  (NP (NP the frequencies
+		  (PP of
+		      (NP (NP the two 
+			      (ADJP strong) 
+			      (ADJP spectral) 
+			      lines)
+			  (SBAR-6 *pseudo-attach*))))
+	      (SBAR-6 (WHPP by
+			    (WHNP which))
+		      (S (NP OH)
+			 (AUX may)
+			 (VP be
+			     (VP identified))
+			 (PP in
+			     (NP (ADJP interstellar) 
+				 gas)))))))
+     ;
+     ;
+     (S (NP the frequencies)
+	(VP are
+	    (NP  1665.32
+		and
+		1667.36 A[fj]
+		,
+		(PP with
+		    (NP an uncertainty
+			(PP of
+			    (NP 0.10 A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S
+       (NP Success
+	   (PP in
+	       (S (NP *)
+		  (VP observing
+		      (NP these 
+			  (ADJP spectral) 
+			  lines)))))
+       (AUX has)
+       (ADVP so
+	     far)
+       ,
+       (ADVP apparently)
+       ,
+       (VP been
+	   (VP confined 
+	       (PP to
+		   (NP the laboratory)))))
+      ;
+      ;
+      (S (NP (ADJP extraterrestrial) 
+	     observations)
+	 (VP have
+	     (ADVP yet)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP reported
+			))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Preparations
+       (PP-7 *pseudo-attach*))
+   (AUX are)
+   (VP being
+       (VP made))
+   (PP-7 for
+       (NP (ADJP similar) 
+	   experiments
+	   (PP on
+	       (NP CH and SH radicals)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Low) 
+    temperature thermometry)
+.)
+( 
+ (S
+  (NP The Bureau)
+  (AUX is)
+  (VP pursuing
+      (NP (NP an 
+	      (ADJP active)
+	      program)
+	  (S (NP *)
+	     (AUX to)
+	     (VP provide
+		 (NP a temperature scale) 
+		 and 
+		 thermometer calibration services
+		 (PP in
+		     (NP (NP the
+			     range)
+			 (NP 1.5
+			     (PP to
+				 (NP 20 A[fj]))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The efforts and accomplishments)
+    (VP fall
+	(PP into
+	    (NP (NP three 
+		    (ADJP main)
+		    categories)
+		:
+		(NP (NP (NP (ADJP absolute) 
+			    thermometry)
+			(VP based
+			    (PP upon
+				(NP the velocity
+				    (PP of
+					(NP sound))
+				    (PP in
+					(NP helium gas))))))
+		    ,
+		    (NP (NP (ADJP secondary) 
+			    thermometry)
+			(VP involving
+			    (ADVP principally)
+			    (NP studies
+				(PP of
+				    (NP the behavior
+					(PP of
+					    (NP germanium resistors)))))))
+		    ,
+		    and
+		    (NP (NP helium-4 vapor-pressure measurements)
+			(S *LRB*
+			   (NP *) 
+			   (VP see
+			       (NP p. 144))
+			   *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Acoustical) 
+    interferometer)
+.)
+( 
+ (S (NP An 
+	(ADJP acoustical) 
+	interferometer)
+    (AUX has)
+    (VP been
+	(VP  constructed
+	     and
+	     used
+	     ,
+	     (PP with
+		 (NP helium gas
+		     (PP as
+			 (NP the 
+			     (ADJP thermometric) 
+			     fluid))))
+	     ,
+	     (S (NP *)
+		(AUX to)
+		(VP measure
+		    (NP temperatures
+			(PP near
+			    (NP  4.2
+				 and
+				 2.1 A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Such)
+	an interferometer)
+    (X (VP provides
+	    (NP a means
+		(PP of
+		    (NP (ADJP absolute) 
+			temperature measurement))))
+	,
+	and
+	(X (AUX may)
+	   (VP be
+	       (VP used
+		   (PP as
+		       (NP an alternative
+			   (PP to
+			       (NP the gas thermometer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP values
+		 (PP of
+		     (NP temperature)))
+	     (VP derived
+		 (PP with
+		     (NP this instrument))))
+	 (AUX were)
+	 (VP compared
+	     (PP with
+		 (NP (NP the
+			 (ADJP accepted)
+			 values)
+		     (VP associated
+			 (PP with
+			     (NP (ADJP liquid) 
+				 helium-4
+				 vapor pressures))))))))
+     ,
+     (S (NP differences
+	    (PP of
+		(NP about
+		    10
+		    and
+		    7 millidegrees
+		    (ADVP respectively))))
+	(AUX were)
+	(VP found
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This result)
+      (VP is
+	  (ADJP preliminary)))
+     ,
+     and
+     (S (NP work)
+	(AUX is)
+	(VP continuing)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Resistance thermometers)
+.)
+( 
+ (S (NP (NP Carbon resistors)
+	and
+	(NP (ADJP impurity-doped) 
+	    germanium resistors))
+    (AUX have)
+    (VP been
+	(VP investigated
+	    (PP for
+		(NP use
+		    (PP as
+			(NP 
+			 precision 
+			 (ADJP secondary)
+			 thermometers
+			 (PP in
+			     (NP the 
+				 (ADJP liquid) 
+				 helium temperature region)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Several germanium resistors)
+      (AUX have)
+      (VP been
+	  (ADVP thermally)
+	  (VP cycled
+	      (PP (PP from
+		      (NP 300))
+		  (PP to
+		      (NP 4.2 A[fj])))))
+      and)
+     (S (NP their resistances)
+	(AUX have)
+	(VP been
+	    (VP found
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (ADJP reproducible
+			     (PP within
+				 (NP 13 millidegree)))))))
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP temperatures)
+	    (AUX were)
+	    (VP derived
+		(PP from
+		    (NP (NP a vapor pressure thermometer)
+			(SBAR
+			 (WHNP whose tubing)
+			 (S (NP T)
+			    (AUX is)
+			    (VP jacketed
+				(PP through
+				    (NP most
+					(PP of
+					    (NP the 
+						(ADJP liquid) 
+						helium))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Preliminary) 
+       calibrations
+       (PP of
+	   (NP the resistors)))
+   (AUX have)
+   (VP been
+       (VP made
+	   (PP (PP from
+		   (NP 4.21))
+	       (PP to
+		   (NP 2.16 A[fj])))
+	   (PP at
+	       (NP every 0.1 A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  (ADJP estimated)
+	  (ADJP standard)
+	  deviations
+	  (PP of
+	      (NP the data
+		  (PP for
+		      (NP two
+			  (PP of
+			      (NP the resistors)))))))
+      (VP were
+	  (NP 1 millidegree)))
+     ;
+     ;
+     and
+     (X (PP for
+	    (NP the 
+		(ADJP third) 
+		resistor))
+	,
+	(NP 3.3 millidegrees)))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Vapor pressure method)
+.)
+( 
+ (S (NP The reproducibilities
+	(PP of
+	    (NP helium vapor-pressure thermometers)))
+    (AUX have)
+    (VP been
+	(VP investigated
+	    (PP in
+		(NP conjunction
+		    (PP with
+			(NP a
+			    ``
+			    (ADJP constant) 
+			    temperature
+			    ''
+			    (ADJP liquid) 
+			    helium bath
+			    (PP (PP from
+				    (NP 4.2))
+				(PP to
+				    (NP 1.8 A[fj]))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Surface temperature gradients)
+   (AUX have)
+   (VP been
+       (VP found
+	   (S (NP *)
+	      (AUX to)
+	      (VP exist
+		  (PP in
+		      (NP (NP (ADJP liquid) 
+			      helium baths)
+			  (VP contained
+			      (PP in
+				  (NP 15
+				      -
+				      and
+				      25-liter 
+				      (ADJP metallic)
+				      storage dewars))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gradient)
+   (VP (VP was
+	   (NP about
+	       one
+	       half
+	       (PP of
+		   (NP a millidegree))
+	       (PP at
+		   (NP 4.2 A[fj]))))
+       but
+       (VP increased
+	   (PP to
+	       (NP several millidegrees))
+	   (PP for
+	       (NP (NP bath temperatures)
+		   (ADJP (ADVP slightly)
+			 greater
+			 (PP than
+			     (NP the ** yl point))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A 
+       (ADJP hydrostatic) 
+       head correction)
+   (AUX has)
+   (VP been
+       (ADJP neither
+	     (ADJP necessary)
+	     nor
+	     (ADJP applicable)
+	     (PP in
+		 (NP the determination
+		     (PP of
+			 (NP  vapor pressures
+			     or
+			     temperatures
+			     (PP for
+				 (NP the bulk 
+				     (ADJP liquid) 
+				     helium)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP the surface temperature gradient)
+	 (AUX can)
+	 (VP produce
+	     (NP (ADJP erroneous) 
+		 vapor-pressure measurements
+		 (PP for
+		     (NP the 
+			 (ADJP bulk) 
+			 (ADJP liquid)
+			 helium))))
+	 (SBAR unless
+	       (S (NP precautions
+		      (S-1 *pseudo-attach*))
+		  (AUX are)
+		  (VP taken)
+		  (S-1 (NP *)
+		       (AUX to)
+		       (VP isolate
+			   (NP (NP the tube)
+			       (SBAR *LRB*
+				     (WHNP which)
+				     (S (NP T)
+					(VP passes
+					    (PP through
+						(NP the surface))
+					    (PP to
+						(NP the vapor pressure bulb))))
+				     *RRB*))
+			   (PP from
+			       (NP the
+				   (ADJP liquid) 
+				   helium surface))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX has)
+   (ADVP also)
+   (VP been
+       (VP observed))
+   ,
+   (PP in
+       (NP helium 2))
+   ,
+   (SBAR-1 that
+	 (S (NP (ADJP large) 
+		discrepancies)
+	    (AUX can)
+	    (VP exist)
+	    (PP between
+		(NP (NP surface vapor pressures)
+		    and
+		    (NP (NP those pressures)
+			(VP measured
+			    (PP by
+				(NP a vapor pressure thermometer)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX has)
+   (VP been
+       (VP attributed
+	   (PP to
+	       (NP helium film flow
+		   (PP in
+		       (NP the vapor pressure thermometer)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this case))
+    (ADVP also)
+    (S (NP the design
+	   (PP of
+	       (NP the thermometer)))
+       (AUX can)
+       (VP be
+	   (VP modified))
+       (S (NP *)
+	  (AUX to)
+	  (VP reduce
+	      (NP the helium film flow)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Pressure transducer
+      (PP for
+	  (NP pvt measurements)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Precise) 
+       pressure-volume-temperature measurements
+       (PP on
+	   (NP (ADJP corrosive)
+	       gases)))
+   (VP are
+       (ADJP dependent
+	     (PP on
+		 (NP  a 
+		      (ADJP sensitive yet rugged) 
+		      pressure transducer)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP A prototype)
+	 (SBAR 
+	  (WHNP which)
+	  (S (NP T)
+	     (VP fulfills
+		 (NP the requirements)))))
+     (AUX was)
+     (VP (VP developed)
+	 and
+	 (VP (ADVP thoroughly)
+	     tested)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The transducer)
+   (VP (VP is
+	   (NP a 
+	       (ADJP null-type) 
+	       instrument))
+       and
+       (VP employs
+	   (NP (NP a 
+		   (ADJP stretched) 
+		   diaphragm)
+	       ,
+	       (X (ADJP (NP 0.001 in.)
+			thick)
+		  and
+		  (NP 1 in.
+		      (PP in
+			  (NP diameter))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A
+	(ADJP small) 
+	pressure unbalance)
+    (VP (VP displaces
+	    (NP the diaphragm))
+	and
+	(VP changes
+	    (NP the capacitance
+		(PP between
+		    (NP (NP (NP the diaphragm)
+			    and
+			    (NP an
+				(ADJP (ADVP electrically)
+				      insulated)
+				plate))
+			(VP spaced
+			    (ADJP (NP 0.001 in.)
+				  apart)
+			    (PP *LRB*
+				for
+				(NP A[fj])
+				*RRB*))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (ADJP Spherical)
+    (ADJP concave)
+    backing surfaces)
+   (VP (VP support
+	   (NP the diaphragm))
+       (SBAR 
+	(WHADVP when)
+	(S (NP (ADJP excessive) 
+	       pressures)
+	   (AUX are)
+	   (VP applied
+	       )))
+       and
+       (VP prevent
+	   (NP the stresses
+	       (PP within
+		   (NP the diaphragm)))
+	   (PP from
+	       (S (NP *)
+		  (VP exceeding
+		      (NP the 
+			  (ADJP elastic) 
+			  limit)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP Over
+	    (NP a temperature range
+		(PP (PP from
+			(NP 25))
+		    (PP to
+			(NP 200 A[fj])))))
+	and
+	(PP at
+	    (NP (NP pressures)
+		(ADVP up
+		      (PP to
+			  (NP 250 atm))))))
+    ,
+    (S (NP (NP an overload
+	       (PP of
+		   (NP 300 psi)))
+	   ,
+	   (VP applied
+	       (PP for
+		   (NP a period
+		       (PP of
+			   (NP one day)))))
+	   ,)
+       (VP results
+	   (PP in
+	       (NP an uncertainty
+		   (PP in
+		       (NP the pressure))
+		   (PP of
+		       ,
+		       (NP (PP at
+			       (NP (ADJP most)))
+			   ,
+			   one millimeter
+			   (PP of
+			       (NP mercury)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Transport properties
+      (PP of
+	  (NP air)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP A 6-year study
+	 (PP of
+	     (NP the transport properties
+		 (PP of
+		     (NP air
+			 (PP at
+			     (NP (ADJP elevated)
+				 temperatures)))))))
+     (AUX has)
+     (VP been
+	 (VP completed
+	     )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This project)
+   (X (X (AUX was)
+	 (VP carried
+	     (PRT out)
+	     (PP under
+		 (NP sponsorship
+		     (PP of
+			 (NP (NP the Ballistic Missile Division
+				 (PP of
+				     (NP the Air Research
+					 and
+					 Development Command)))
+			     ,
+			     (NP U.S. Air Force)
+			     ,))))))
+      and
+      (VP had
+	  (PP as
+	      (NP its goal))
+	  (NP the investigation
+	      (PP of
+		  (NP the transport
+		      (PP by
+			  (NP diffusion
+			      (PP-2 *pseudo-attach*)))
+		      (PP-2 of
+			  (NP the heat energy
+			      (PP-3 of
+				  (NP chemical binding))))
+		      (PP-3 *pseudo-attach*)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A 
+	   (ADJP significant)
+	   effect)
+       (VP discovered
+	   (PP during
+	       (NP the study))))
+   (VP is
+       (NP the existence
+	   (PP of
+	       (NP (NP Prandtl numbers)
+		   (VP reaching
+		       (NP values
+			   (PP of
+			       (NP (ADJP more)
+				   (PP than
+				       (NP unity))))))))
+	   (PP in
+	       (NP the nitrogen dissociation region)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Another effect)
+       (VP discovered))
+   (VP is
+       (NP the 
+	   (ADJP large) 
+	   coefficient
+	   (PP of
+	       (NP (NP (ADJP thermal) 
+		       diffusion)
+		   (VP tending
+		       (S (NP *)
+			  (AUX to)
+			  (VP separate 
+			      (NP nitrogen)
+			      (PP from
+				  (NP the oxygen)))
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP (NP temperature differences)
+				  (VP straddling
+				      (NP the nitrogen dissociation region)))
+			      (VP are
+				  (ADJP present)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The results
+	    (PP of
+		(NP the study)))
+	,
+	(VP based
+	    (PP on
+		(NP (NP collision integrals)
+		    (VP computed
+			(PP from
+			    (NP the
+				(ADJP latest)
+				(ADJP (ADVP critically)
+				      evaluated)
+				data
+				(PP on
+				    (NP intermolecular
+					(ADJP forces
+					      (PP in
+						  (NP air)))))))))))
+	,)
+    (AUX will)
+    (VP be
+	(VP reported
+	    (PP in
+		(NP the form
+		    (PP of
+			(NP a table
+			    (PP of
+				(NP (NP viscosity)
+				    ,
+				    (NP (ADJP thermal) 
+					conductivity)
+				    ,
+				    (NP (ADJP thermal)
+					diffusion)
+				    ,
+				    and
+				    (NP diffusion coefficients)))
+			    (PP (PP at
+				    (NP temperatures
+					(PP of
+					    (NP 1,000
+						(PP to
+						    (NP 10,000 A[fj]))))))
+				and
+				(PP of
+				    (NP logarithm
+					(PP of
+					    (NP pressure
+						(PP in
+						    (NP (NP atmospheres
+							    (PP (PP from
+								    (NP A[fj]))
+								(PP to
+								    (NP A[fj]))))
+							(NP (NP times)
+							    (NP (ADJP normal) 
+								density))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (ADJP International)
+     (ADJP cooperative)
+     activities)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP March)
+	    ,
+	    (NP 1961)
+	    ,))
+    (S (NP representatives
+	   (PP of
+	       (NP the 
+		   (ADJP national) 
+		   laboratories
+		   (PP of
+		       (NP (NP Australia)
+			   ,
+			   (NP Canada)
+			   ,
+			   (NP The Netherlands)
+			   ,
+			   (NP United Kingdom)
+			   ,
+			   (NP U.S.S.R.)
+			   ,
+			   (NP United States)
+			   ,
+			   and
+			   (NP West Germany)
+			   ,)))))
+       (VP met
+	   (PP at
+	       (NP the NBS)))
+       (S (NP *)
+	  (AUX to)
+	  (VP devise
+	      (NP means
+		  (PP for
+		      (S (NP *)
+			 (VP reaching
+			     (NP (ADJP international) 
+				 agreement
+				 (PP on
+				     (NP a temperature scale
+					 (PP between
+					     (NP 10
+						 and
+						 90 A[fj])))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a 
+	    (ADJP first) 
+	    step
+	    (PP toward
+		(NP this goal))))
+    ,
+    (S (NP arrangements)
+       (AUX were)
+       (VP worked
+	   (ADVP out)
+	   (PP for
+	       (S (NP *)
+		  (VP comparing
+		      (NP (NP the scales)
+			  (ADVP now)
+			  (PP in
+			      (NP use)))
+		      (PP through
+			  (NP circulation
+			      (PP of
+				  (NP a group
+				      (PP of
+					  (NP (ADJP standard) 
+					      platinum resistance thermometers))))
+			      (PP for
+				  (NP calibration
+				      (PP by
+					  (NP each
+					      (ADJP national) 
+					      laboratory))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Such)
+	a group
+	(PP of
+	    (NP thermometers)))
+    (AUX was)
+    (VP obtained
+	and
+	calibrated
+	(PP at
+	    (NP the A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These thermometers)
+   (AUX have)
+   (ADVP now)
+   (VP been
+       (VP sent
+	   (PP to
+	       (NP the United Kingdom))
+	   (PP for
+	       (NP calibration
+		   (PP at
+		       (NP the 
+			   (ADJP National) 
+			   (ADJP Physical) 
+			   Laboratory)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Temperature symposium)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the 
+	    (ADJP last) 
+	    week
+	    (PP of
+		(NP march 1961))))
+    ,
+    (S (NP (NP Columbus)
+	   ,
+	   (NP Ohio))
+       (VP was
+	   (NP the site
+	       (PP of
+		   (NP the Fourth Symposium 
+		       (PP on
+			   (NP (NP Temperature)
+			       ,
+			       (NP Its Measurement And Control 
+				   (PP In
+				       (NP (NP Science)
+					   And
+					   (NP Industry))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The Symposium)
+	,
+	(SBAR 
+	 (WHNP which)
+	 (S (NP T)
+	    (AUX was)
+	    (ADVP jointly)
+	    (VP sponsored
+		(PP by
+		    (NP (NP the American Institute
+			    (PP of
+				(NP Physics)))
+			,
+			(NP the Instrument Society
+			    (PP of
+				(NP America)))
+			,
+			and
+			(NP the National Bureau
+			    (PP of
+				(NP Standards))))))))
+	,)
+    (VP attracted
+	(NP (NP (ADVP nearly)
+		one thousand registrants)
+	    ,
+	    (VP including
+		(NP many
+		    (PP from
+			(NP (ADVP abroad))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Bureau)
+   (VP contributed
+       (PP to
+	   (NP the planning and success
+	       (PP of
+		   (NP the Symposium)))))
+   (PP through
+       (NP the efforts
+	   (PP of
+	       (NP (NP (NP Mr. W
+			   Wildhack)
+		       ,
+		       (NP (ADJP General) 
+			   Chairman))
+		   ,
+		   and
+		   (NP (NP Dr. C.M. Herzfeld)
+		       ,
+		       (NP Program Chairman)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Dr. A.V. Astin)
+	,
+	(NP NBS Director)
+	,)
+    (VP opened
+	(NP the 5-day session)
+	(PP with
+	    (NP (NP (ADJP introductory) 
+		    remarks)
+		,
+		(SBAR (WHADVP following
+			      (WHNP which))
+		      (S (NP a total
+			     (PP of
+				 (NP twenty-six papers)))
+			 (AUX were)
+			 (VP given
+			     (PP throughout
+				 (NP the week))
+			     (PP by
+				 (NP NBS scientists
+				     ,
+				     (PP from
+					 (NP both
+					     the 
+					     (NP Washington)
+					     and
+					     (NP Boulder)
+					     Laboratories)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP 2.1.6)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Atomic) 
+    physics))
+(  
+ (S (PP In
+	   (NP addition
+	       (PP to
+		   (NP (NP the 
+			   (ADJP basic)
+			   programs
+			   (PP in
+			       (NP (NP wavelength standards)
+				   ,
+				   (NP spectroscopy)
+				   ,
+				   (NP (ADJP solid) 
+				       state physics)
+				   ,
+				   (NP interactions
+				       (PP of
+					   (NP the 
+					       (ADJP free) 
+					       electron)))
+				   and
+				   (NP (ADJP atomic)
+				       constants))))
+		       (SBAR
+			(WHNP which)
+			(S (NP T)
+			   (VP are
+			       (ADJP necessary))
+			   (S (NP *)
+			      (AUX to)
+			      (VP provide
+				  (NP the foundation
+				      (PP for
+					  (NP (ADJP technological) 
+					      progress)))))))))))
+       ,
+       (S (NP the Bureau)
+	  (AUX has)
+	  (VP strengthened
+	      (NP its activities
+		  (PP in
+		      (NP laboratory astrophysics))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The programs
+       (PP in
+	   (NP infrared spectroscopy)))
+   (AUX are)
+   (VP undergoing
+       (NP reorientation
+	   (PP toward
+	       (NP (NP wavelength standards
+		       (PP in
+			   (NP the
+			       (NP (ADJP far)
+				   infrared))))
+		   ,
+		   (NP the application
+		       (PP of
+			   (NP infrared techniques))
+		       (PP to
+			   (NP (ADJP solid)
+			       state studies)))
+		   ,
+		   and
+		   (NP (ADJP increased)
+		       emphasis
+		       (PP on
+			   (NP (ADJP high) 
+			       resolution instrumentation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Two data
+	centers)
+    (AUX have)
+    (VP been
+	(VP established))
+    (PP for
+	(NP the collection
+	    ,
+	    indexing
+	    ,
+	    (ADJP critical) 
+	    evaluation
+	    ,
+	    and
+	    dissemination
+	    (PP of
+		(NP  bibliographies
+		    and
+		    (ADJP critical) 
+			values
+		    (PP in
+			(NP the fields
+			    (PP of
+				(NP (NP transition probabilities)
+				    and 
+				    (NP collision cross sections))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Laboratory astrophysics)
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Transition probabilities)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Under
+	(NP the sponsorship
+	    (PP of
+		(NP (NP the Office
+			(PP of
+			    (NP Naval Research)))
+		    and
+		    (NP the Advanced Research Projects Agency)))))
+    ,
+    (S (NP a data
+	   center)
+       (AUX was)
+       (VP established)
+       (S (NP *)
+	  (AUX to)
+	  (VP gather and index
+	      (NP all
+		  (ADJP published) 
+		  information
+		  (PP on
+		      (NP atomic transition probabilities)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP An 
+	  (ADJP exhaustive) 
+	  survey
+	  (PP-1 *pseudo-attach*))
+      (AUX was)
+      (VP made
+	  (PP-1 of
+		(NP the literature))))
+     ,
+     and
+     (S (NP a 
+	    (ADJP primary) 
+	    reference file
+	    (PP of
+		(NP approximately
+		    600 references)))
+	(AUX was)
+	(VP catalogued
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Selected)
+	 bibliographies and tables
+	 (PP of
+	     (NP (ADJP available)
+		 data)))
+     (VP are
+	 (ADVP now)
+	 (PP in
+	     (NP preparation))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP wall-stabilized)
+       (ADJP high-current)
+       arc source)
+   (AUX was)
+   (VP  constructed
+       and
+       used
+       (S (NP *)
+	  (AUX to)
+	  (VP study
+	      (NP transition probabilities
+		  (PP of
+		      (NP (ADJP atomic) 
+			  hydrogen and oxygen)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This apparatus)
+   (AUX will)
+   (ADVP also)
+   (VP be
+       (VP used))
+   (S (NP *)
+      (AUX to)
+      (VP measure
+	  (NP transition probabilities
+	      (PP of
+		  (NP a 
+		      (ADJP large) 
+		      number
+		      (PP of
+			  (NP (ADJP other) 
+			      elements))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A study
+       (PP of
+	   (NP the hydrogen line profiles)))
+   (VP indicates
+       (SBAR that
+	     (S (NP a measurement
+		    (PP of
+			(NP these profiles)))
+		(AUX can)
+		(VP be
+		    (VP used))
+		(S (NP *)
+		   (AUX to)
+		   (VP calculate
+		       (NP (NP a temperature
+			       (PP for
+				   (NP the arc plasma)))
+			   (SBAR that
+				 (S (NP T)
+				    (VP is
+					(ADJP reliable
+					      (PP to
+						  (NP about
+						      A[fj] percent)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A set
+	(PP of
+	    (NP (NP tables)
+		(VP containing
+		    (NP (ADJP spectral) 
+			intensities
+			(PP for
+			    (NP 39,000 lines
+				(PP of
+				    (NP 70 elements))))
+			,
+			(PP as
+			    (S (NP *)
+			       (VP observed
+				   (PP in
+				       (NP a copper matrix
+					   (PP in
+					       (NP a d-c arc))))))))))))
+    ,
+    (AUX was)
+    (VP (VP completed)
+	and
+	(VP published)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Studies
+       (PP of
+	   (NP the intensity data)))
+   (VP indicate
+       (SBAR that
+	     (S (NP they)
+		(AUX may)
+		(VP be
+		    (VP converted
+			(PP to
+			    (NP (ADJP approximate)
+				transition probabilities))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP These data)
+      (VP are
+	  (NEG not)
+	  (PP of
+	      (NP (NP the precision)
+		  (ADJP obtainable
+			(PP by
+			    (NP (NP the methods)
+				(ADVP previously)
+				(VP mentioned))))))))
+     ,
+     but
+     (S (NP (NP the 
+		(ADJP vast) 
+		number
+		(PP of
+		    (NP (ADJP approximate) 
+			values)))
+	    (ADJP available))
+	(AUX will)
+	(VP be
+	    (ADJP useful
+		  (PP in
+		      (NP many areas))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (ADJP Atomic) 
+     energy levels)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Research)
+   (VP continues
+       (PP on
+	   (NP the
+	       (ADJP (ADVP very)
+		     complex) 
+	       spectra
+	       (PP of
+		   (NP the 
+		       (ADJP rare) 
+		       earth elements))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP New) 
+       computer and automation techniques)
+   (AUX were)
+   (VP applied
+       (PP to
+	   (NP these spectra))
+       (PP with
+	   (NP (ADJP considerable) 
+	       success))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

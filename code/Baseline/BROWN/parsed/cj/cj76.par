@@ -1,0 +1,2228 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Within
+	(NP  only
+	     a few years))
+    ,
+    (S (NP  (VP foamed) plastics
+	    materials)
+       (AUX have)
+       (VP managed
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP grow
+		  (PP into
+		      (NP an (ADJP  integral
+				    ,
+				    and
+				    important
+				    ,)
+			  phase
+			  (PP of
+			      (NP the plastics
+				  industry))))))))
+    --
+    and
+    (S (NP the end)
+       (VP is
+	   (ADVP still)
+	   (ADVP (NEG not)
+		 yet)
+	   (PP in
+	       (NP sight)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Urethane foam
+	,
+	(PP as
+	    (NP  only
+		 one example))
+	,)
+    (AUX was)
+    (ADVP only)
+    (VP introduced
+	 (ADVP commercially)
+	 (PP in
+	     (NP this country))
+	 (PP in
+	     (NP 1955))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP
+	  (NP last year)
+	  's volume)
+	 (ADVP probably)
+	 (VP topped
+	     (NP 100 million lb.)))
+      and
+      (S (NP expectations)
+	 (VP are
+	     (PP for
+		 (NP a market
+		     (PP of
+			 (NP 275 million lb.))
+		     (PP by
+			 (NP 1964)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Many
+	(PP of
+	    (NP (NP the
+		    other (VP foamed)
+		    plastics)
+		,
+		(ADVP particularly)
+		(NP the styrenes)
+		,)))
+    (VP show
+	(NP similar growth potential)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP there)
+	 (VP are
+	     (NP (NP   even
+		       newer (VP foamed)
+		       plastics)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP are
+			      (ADVP yet)
+			      (S (NP *)
+				 (AUX to)
+				 (VP be
+				     (VP evaluated
+					 ))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP this issue)
+	     (VP goes
+		 (S (NP *)
+		    (AUX to)
+		    (VP press)))))
+    ,
+    (PP for
+	(NP example))
+    ,
+    (S (NP one manufacturer)
+       (AUX has)
+       (VP announced
+	   (NP an epoxy foam
+	       (PP with
+		   (NP (ADJP outstanding) buoyancy and impact strength)))))
+    ;
+    ;
+    (S (NP another)
+       (VP reports
+	   (SBAR that
+		 (S (NP a cellular polypropylene
+			,
+			(PP (ADVP primarily)
+			    for
+			    (NP use
+				(PP in
+				    (NP wire coating applications))))
+			,)
+		    (AUX is)
+		    (VP being
+			(VP investigated)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the following pages))
+    ,
+    (S (NP each
+	   (PP of
+	       (NP the
+		   major commercial  foamed
+		   plastics)))
+       (AUX is)
+       (VP described
+	    
+	   (PP in
+	       (NP detail))
+	   ,
+	   (PP as
+	       (PP to
+		   (NP (NP properties)
+		       ,
+		       (NP applications)
+		       ,
+		       and
+		       (NP methods
+			   (PP of
+			       (NP processing)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (AUX might)
+   (VP be
+       (ADVP well))
+   (S-1 (NP *)
+      (AUX to)
+      (VP point
+	  (PRT out)
+	  ,
+	  (ADVP however)
+	  ,
+	  (NP (NP some
+		  (PP of
+		      (NP (NP the
+			      (ADJP newer)
+			      developments)
+			  (SBAR (WHNP that)
+				(S (NP T)
+				   (AUX have)
+				   (VP taken
+				       (NP place))
+				   (PP within
+				       (NP the
+					   (ADJP past)
+					   few months)))))))
+	      (SBAR (WHNP which)
+		    (S (NP T)
+		       (AUX might)
+		       (VP have
+			   (NP a bearing
+			       (PP on
+				   (NP the future
+				       (PP of
+					   (NP (NP the
+						   various (VP foamed)
+						   plastics)
+					       (VP involved)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP urethane foams))
+    ,
+    (PP for
+	(NP example))
+    ,
+    (S (NP there)
+       (AUX has)
+       (VP been
+	   (NP a definite trend
+	       (PP toward
+		   (NP (NP the polyether-type materials)
+		       *LRB*
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP are
+				    (ADVP now)
+				    (ADJP available
+					  (PP in
+					      (NP 
+					       two-component rigid
+					       foam systems))))))
+		       *RRB*)))))
+    and
+    (S (NP the emphasis)
+       (VP is
+	   (PP (ADVP definitely)
+	       on
+	       (NP one-shot molding)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (ADJP Most)
+    manufacturers)
+   (ADVP also)
+   (VP seem
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP concentrating
+		  (PP on
+		      (S (NP *)  
+			 (VP formulating
+			     (NP (NP (ADJP fire-resistant or self-extinguishing) grades
+				     (PP of
+					 (NP urethane foam)))
+				 (SBAR (WHNP that)
+				       (S (NP T)
+					  (AUX are)
+					  (VP aimed
+					       
+					      (PP  (ADVP specifically)
+						   at
+						   (NP the burgeoning building markets))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Urethane foam
+       (PP as
+	   (NP an insulator)))
+   (AUX is)
+   (ADVP also)
+   (VP coming
+       (PP in
+	   (PP for
+	       (NP a good deal
+		   (PP of
+		       (NP attention)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP one outstanding example))
+    ,
+    (S (NP Whirlpool Corp.)
+       (VP found
+	   (SBAR that
+		 (S (PP by
+			(S (NP *)  
+			   (VP switching
+			       (PP to
+				   (NP urethane foam insulation)))))
+		    ,
+		    (S (NP they)
+		       (AUX could)
+		       (VP increase
+			   (NP the storage capacity
+			       (PP of
+				   (NP gas refrigerators)))
+			   (S (NP *)
+			      (AUX to)
+			      (VP make
+				  (NP them
+				      (ADJP competitive
+					    (PP with
+						(NP electric models)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Much interest
+	   (PP-1 *pseudo-attach*))
+       (AUX has)
+       (ADVP also)
+       (VP been
+	   (VP expressed
+	       ))
+       (PP-1 in
+	     (NP (NP new techniques
+		     (PP for
+			 (S  (NP *) 
+			     (VP processing
+				 (NP the urethane foams)))))
+		 ,
+		 (VP including
+		     (NP (NP spraying)
+			 ,
+			 (NP frothing)
+			 ,
+			 and
+			 (NP molding))))))
+    *LRB*
+    (S (NP *)  
+       (VP see
+	   (NP article
+	       ,
+	       (NP p. 391)
+	       (PP for
+		   (NP details)))))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP in
+	  (S (NP *)  
+	     (VP meeting
+		 (NP the demands
+		     (PP for
+			 (NP urethane foam
+			     (PP as
+				 (NP a garment interlining))))))))
+      ,
+      (S  
+       (NP (NP new adhesives)
+	   and
+	   (NP new methods
+	       (PP of
+		   (S (NP *)  
+		      (VP laminating
+			  (NP foam)
+			  (PP to
+			      (NP a substrate)))))))
+       (AUX have)
+       (VP been
+	   (VP developed
+	       ))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP New techniques
+	(PP for
+	    (NP automatic molding
+		(PP of
+		    (NP expandable styrene beads)))))
+    (AUX have)
+    (VP helped
+	(VP boost
+	    (NP that particular material)
+	    (PP into
+		(NP a number
+		    (PP of
+			(NP (NP new consumer applications)
+			    ,
+			    (VP including
+				(NP (NP picnic chests)
+				    ,
+				    (NP beverage coolers)
+				    ,
+				    (NP flower pots)
+				    ,
+				    and
+				    (NP flotation-type swimming toys))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ 
+ (S (NP (NP Two other end-use areas)
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP contributed
+		     (PP to
+			 (NP 
+			  (NP expandable styrene)
+			  's growth)))
+		 (PP during
+		     (NP the year)))))
+    (VP were
+	(NP (NP (NP packaging)
+		*LRB*
+		(NP (NP (VP molded)
+			inserts)
+		    (VP replacing
+			(NP 
+			 (ADJP complicated)
+			 cardboard units)))
+		*RRB*)
+	    and
+	    (NP foamed-core building panels))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (VP Extruded)
+	    expandable styrene film or sheet)
+	--
+	(VP claimed
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (ADJP competitive price-wise
+			 (PP with
+			     (NP paper))))))
+	--)
+    (ADVP also)
+    (VP showed
+	(NP much
+	    potential
+	    ,
+	    (PP  (ADVP particularly)
+		 for
+		 (NP packaging)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Sandwich panels
+	     (PP for
+		 (S (NP *)  
+		    (VP building
+			(NP utility shelters)))))
+	 (SBAR (WHNP that)
+	       (S (NP T)
+		  (VP consist
+		      (PP of
+			  (NP (NP kraft paper skins)
+			      and
+			      (NP rigid styrene foam cores)))))))
+     (ADVP also)
+     (VP aroused
+	 (NP interest)
+	 (PP in
+	     (NP the construction field))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP vinyl foam))
+    ,
+    (S (NP the big news)
+       (VP was
+	   (NP the development
+	       (PP of
+		   (NP techniques
+		       (PP for
+			   (S (NP *)  
+			      (VP coating
+				  (NP  fabrics)
+				  (PP with
+				      (NP the material))))))))))
+    *LRB*
+    (PP for
+	(NP details))
+    ,
+    (S (NP *)  
+       (VP see
+	   (NP P. 395)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP 
+       (ADJP Better)
+       ``
+       hand
+       '')
+      ,
+      (NP a
+	  (ADJP  more
+		 luxurious) feel)
+      ,
+      and
+      (NP  better
+	   insulating properties))
+  (AUX were)
+  (VP claimed
+	 
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (NP the result)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Several companies)
+   (ADVP also)
+   (VP saw
+       (NP possibilities)
+       (PP in
+	   (S (NP *)  
+	      (VP using
+		  (NP (NP the technique
+			  (PP for
+			      (S  (NP *) 
+				  (VP  extruding
+				       or
+				       molding
+				       (NP vinyl products
+					   (PP with
+					       (NP a
+						   slight cellular
+						   core)))))))
+		      (SBAR (WHNP that)
+			    (S (NP T)
+			       (X (X (AUX would)
+				     (VP reduce
+					 (NP costs)))
+				  (ADVP yet)
+				  (X (AUX would)
+				     (NEG not)
+				     (VP affect
+					 (NP physical properties
+					     (PP of
+						 (NP the end product)))
+					 (PP to
+					     (NP any great extent)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Readers)
+       (VP interested
+	   (PP in
+	       (NP additional information
+		   (PP on
+		       (NP foams))))))
+   (AUX are)
+   (VP referred
+        
+       (PP (PP to
+	       (NP (NP the Foamed Plastics Chart)
+		   (VP appearing
+		       (PP in
+			   (NP the Technical Data
+			       section)))))
+	   and
+	   (PP to
+	       (NP (NP the list
+		       (PP of
+			   (NP references)))
+		   (SBAR (WHNP which)
+			 (S (NP T)
+			    (VP appears
+				(PP below)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Urethane foams))
+(  
+ (S (PP Since
+	(NP the
+	    (ADJP mid)
+	    1950s))
+    ,
+    (SBAR 
+     (WHADVP when)
+     (S (NP urethane foam)
+	(ADVP first)
+	(VP made
+	    (NP its appearance
+		(PP in
+		    (NP the American market))))))
+    ,
+    (S (NP growth)
+       (AUX has)
+       (VP been
+	   (ADJP  little
+		 short
+		 (PP of
+		     (ADJP fantastic))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Present estimates)
+       (VP are
+	   (SBAR that
+		 (S (NP production)
+		    (VP topped
+			(NP the 100-million-lb. mark))
+		    (PP in
+			(NP 1960))
+		    *LRB*
+		    (NP (NP  (NP 85
+				 (PP to
+				     (NP 90)))
+			     million lb.
+			     (PP for
+				 (ADJP flexible)))
+			,
+			(NP 10
+			    or
+			    11 million lb.
+			    (PP for
+				(ADJP rigid))))
+		    *RRB*))))
+    ;
+    ;
+    (PP by
+	(NP 1965))
+    ,
+    (S (NP production)
+       (AUX may)
+       (VP range
+	   (NP (PP from
+		   (NP 200
+		       (PP to
+			   (NP 350))))
+	       million lb.
+	       (PP for
+		   (ADJP flexible)))
+	      and
+	      (NP (PP from
+		      (NP 115
+			  (PP to
+			      (NP 150))))
+		   million lb.
+		  (PP for
+		      (ADJP rigid))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+  (S (NP (NP The markets)
+	 (SBAR (WHNP that)
+	       (S (NP T)
+		  (AUX have)
+		  (VP started
+		      (S (NP *)
+			 (AUX to)
+			 (VP open
+			     (PRT up)
+			     (PP for
+				 (NP the foam)))))
+		  (PP in
+		      (NP the past year
+			  or
+			  so)))))
+     (VP seem
+	 (S (NP *)
+	    (AUX to)
+	    (VP justify
+		(NP the expectations)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Furniture upholstery
+	   ,
+	   (PP as
+	       (NP  just
+		    one example))
+	   ,)
+       (AUX can)
+       (VP (ADVP easily)
+	   take
+	   (NP millions
+	       (PP of
+		   (NP pounds)))))
+    ;
+    ;
+    (S (NP (VP foamed)
+	   refrigerator insulation)
+       (VP is
+	   (PP under
+	       (NP intensive evaluation
+		   (PP by
+		       (NP every major manufacturer))))))
+    ;
+    ;
+    and
+    (S (NP use
+	   (PP of
+	       (NP the foam))
+	   (PP for
+	       (NP garment interlining)))
+       (AUX is)
+       (ADVP only
+	     now)
+       (VP getting
+	   (PP off
+	       (NP the ground)))
+       ,
+       (PP with
+	   (NP volume potential
+	       (PP in
+		   (NP the offing))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Basic chemistry ))
+(
+   (S (NP Urethane foams)
+      (VP are
+	  ,
+	  (ADVP basically)
+	  ,
+	  (NP reaction products
+	      (PP of
+		  (NP (NP hydroxyl-rich materials) 
+		      and 
+		      (NP (NP polyisocyanates)
+			  *LRB*
+			  (ADVP usually)
+			  (NP tolylene diisocyanate)
+			  *RRB*))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Blowing)
+   (AUX can)
+   (VP be
+       (NP  either
+	   one
+	   (PP of
+	       (NP (NP two types)
+		   --
+		   (NP (NP carbon dioxide gas)
+		       (VP generated
+			   (PP by
+			       (NP the reaction
+				   (PP of
+				       (NP water
+					   (PP on
+					       (NP the polyisocyanate))))))))
+		   or
+		   (NP mechanical blowing
+		       (PP through
+			   (NP the use
+			       (PP of
+				   (NP a low-boiling liquid
+				       (PP (ADJP such)
+					   as
+					   (NP a fluorinated hydrocarbon))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(
+  (S (NP The
+	 (ADJP most important)
+	 factor
+	 (PP in
+	     (S (NP *)  
+		(VP determining
+		    (SBAR (WHNP what properties)
+			  (S (NP the end-product)
+			     (AUX will)
+			     (VP have
+				 (NP T))))))))
+     (VP is
+	 (ADVP  quite
+		naturally)
+	 (NP (NP the type
+		 (PP of
+		     (NP hydroxyl-rich compound)))
+	     (SBAR (WHNP that)
+		   (S (NP T)
+		      (AUX is)
+		      (VP used
+			   
+			  (PP in
+			      (NP its production))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Originally)
+      ,
+      (S (NP (NP the main types)
+	     (VP used))
+	 (VP were
+	     (NP various compositions
+		 (PP of
+		     (NP polyesters))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These)
+    (VP are
+	(ADVP still)
+	(PP in
+	    (NP wide use
+		(NP today)
+		,
+		(PP (ADVP particularly)
+		    in
+		    (NP semi-rigid formulations))
+		,
+		(PP for
+		    (NP such applications
+			(PP as
+			    (NP (NP cores
+				    (PP for
+					(NP 
+					 sandwich-type structural
+					 panels)))
+				,
+				(NP foamed-in-place insulation)
+				,
+				(NP automotive safety padding)
+				,
+				(NP arm rests)
+				,
+				(NP etc.)))))))))
+ .)
+(   
+ (S (ADVP More recently)
+    ,
+    (S (NP polyethers
+	   --
+	   (ADVP again)
+	   (PP in
+	       (NP  varied
+		    compositions
+		    ,
+		    molecular weights
+		    ,
+		    and
+		    branching))
+	   --)
+       (AUX have)
+       (VP come
+	   (PP into
+	       (NP use
+		   (PP (PP at
+			   (ADJP first))
+		       (PP for
+			   (NP the flexible foams))
+		       ,
+		       (ADVP  just
+			      lately)
+		       (PP for
+			   (NP the rigids))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The polyether glycols)
+   (AUX are)
+   (VP claimed
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP give
+	      (NP flexible urethanes)
+	      (NP (NP a spring-back action)
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (AUX is)
+			   (VP  much
+			       desired
+			        
+			       (PP in
+				   (NP cushioning))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP the first polyether foams
+		  (PP on
+		      (NP the market)))
+	      (VP had
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (VP produced
+			      
+			     (PP by
+				 (NP the two-step prepolymer method))))))))
+     ,
+     (NP today)
+     ,
+     (NP thanks
+	 (PP to
+	     (NP new catalysts)))
+     ,
+     (S (NP they)
+	(AUX can)
+	(VP be
+	    (VP produced
+		 
+		(PP by
+		    (NP a one-shot technique))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (ADJP possible))
+   (SBAR-2 that
+	 (S (NP the polyether foams)
+	    (AUX may)
+	    (ADVP soon)
+	    (VP be
+		(VP molded
+		     
+		    (PP on
+			(NP a production basis))
+		    (PP in
+			(NP low-cost molds))
+		    (PP (PP with
+			    (NP 
+			     (ADJP more intricate)
+			     contours))
+			and
+			(PP with
+			    (NP superior properties
+				(PP to
+				    (NP latex foam))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The polyester urethane foam)
+      (AUX is)
+      (ADVP generally)
+      (VP produced
+        
+	  (PP with
+	      (NP 
+	       (ADJP adipic acid)
+	       polyesters))))
+     ;
+     ;
+     (S (NP the polyether group)
+	(ADVP generally)
+	(VP consists
+	    (PP of
+		(NP (NP foams)
+		    (VP produced
+			(PP with
+			    (NP (NP polypropylene glycol) 
+				or 
+				(NP (NP polypropylene glycol)
+				    (VP modified
+					(PP with
+					    (NP a triol))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP One shot vs. prepolymer))
+(  
+ (S (PP In
+	(NP the prepolymer system))
+    ,
+    (S (NP the isocyanate and resin)
+       (AUX are)
+       (VP mixed
+	   (ADVP anhydrously)))
+    and
+    (S (NP no foaming)
+       (VP occurs)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The foaming)
+   (AUX can)
+   (VP be
+       (VP accomplished
+	   (PP at
+	       (NP some future time))
+	   (PP at
+	       (NP a different location))
+	   (PP by
+	       (NP the addition
+		   (PP of
+		       (NP the correct proportion
+			   (PP of
+			       (NP catalyst
+				   (PP in
+				       (NP solution)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 
+	 (ADJP one-shot)))
+    ,
+    (S (NP (NP the isocyanate)
+	   ,
+	   (NP (NP polyester) 
+	       or 
+	       (NP polyether resin))
+	   ,
+	   (NP catalyst)
+	   ,
+	   and
+	   (NP other additives))
+       (AUX are)
+       (VP mixed
+	   (ADVP directly)))
+    and
+    (S (NP a foam)
+       (AUX is)
+       (VP produced
+	   (ADVP immediately))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Basically)
+      ,
+      (S (NP this)
+	 (VP means
+	     (SBAR that
+		   (S (NP (NP 
+			   (ADJP simpler)
+			   processing equipment)
+			  *LRB*
+			  (S (NP the mixture)
+			     (VP has
+				 (NP (ADJP good)
+				     flowing
+				     characteristics)))
+			  *RRB*
+			  and
+			  (NP  less
+			       external heat)
+			  *LRB*
+			  (S (NP the foaming reaction)
+			     (VP (VP is
+				     (ADJP exothermic))
+				 and
+				 (VP develops
+				     (NP internal heat))))
+			  *RRB*)
+		      (AUX are)
+		      (VP required
+	 
+			  (PP in
+			      (NP one-shot foaming)))
+		      ,
+		      (SBAR although
+			    ,
+			    (S (PP at
+				   (NP the same time))
+			       ,
+			       (S (NP the problems
+				      (PP of
+					  (S (NP *)  
+					     (VP controlling
+						 (NP the conditions
+						     (PP of
+							 (NP one-shot foaming)))))))
+				  (VP are
+				      (NP critical ones))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Properties))
+( (S
+   (NP 
+    (ADJP Most commercial)
+    uses
+    (PP of
+	(NP urethane foams)))
+   (VP require
+       (NP densities
+	   (PP (PP between
+		   (NP 2
+		       and
+		       30 lb
+		       .
+		       (NP cu. ft.)
+		       (PP for
+			   (NP rigid foams))))
+	       ,
+	       (PP between
+		   (NP 1
+		       and
+		       3 lb
+		       .
+		       (NP cu. ft.)
+		       (PP for
+			   (NP flexible foams))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This latter figure)
+   (VP compares
+       (PP with
+	   (NP latex foam rubber
+	       (PP at
+		   (NP an average
+		       (PP of
+			   (NP 5.5 lb. cu. ft.))
+		       (PP in
+			   (NP commercial grades))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Compression strength
+    :))
+(  
+ (S (NP Graph
+	(PP in
+	    (NP Fig. 1
+		,
+		(NP p. 392)
+		,)))
+    (VP indicates
+	(SBAR 
+	 (WHADVP how)
+	 (S (NP the ratio
+		(PP of
+		    (NP compressive strength))
+		(PP to
+		    (NP density)))
+	    (VP varies
+		(PP as
+		    (S (NP the latter)
+		       (AUX is)
+		       (VP  (VP increased)
+			    or
+			    (VP decreased)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The single curve line)
+   (VP represents
+       (NP a specific formulation
+	   (PP in
+	       (NP a test example)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (NP *)  
+	   (VP varying
+	       (NP the formula))))
+    ,
+    (S (NP this curve)
+       (AUX may)
+       (VP be
+	   (VP moved
+	       (ADVP forward or backward)
+	       (PP along
+		   (NP the coordinates))
+	       (S (NP *)
+		  (AUX to)
+		  (VP produce
+		      (NP any desired compression strength density ratio)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Thermal conductivity )
+    and 
+    (NP temperature resistance)
+    :))
+(  
+ (S (PP In
+	(NP flexible urethane foams))
+    ,
+    (S (NP we)
+       (AUX are)
+       (VP referring
+	   (PP to
+	       (NP the range
+		   (PP between
+		       (NP (NP the
+			       (ADJP highest
+				     and
+				     lowest)
+			       temperatures)
+			   (SBAR (WHPP under
+				       (WHNP which))
+				 (S
+				  (NP 
+				   (NP the materials)
+				   ' primary performance)
+				  (VP remains
+				      (ADJP  (ADVP functionally)
+					     useful)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP temperature resistance))
+    ,
+    (S (NP this quality)
+       (AUX is)
+       (ADVP usually)
+       (VP related
+	    
+	   (PP to
+	       (NP (NP specific properties)
+		   ,
+		   (X e.g.)
+		   ,
+		   (NP 
+		    flexural
+		    ,
+		    tensile
+		    strengths)
+		   ,
+		   (NP (X etc.)))))))
+ .)
+( (S
+   (NP Thermal conductivity)
+   (VP is
+       (ADJP  directly
+	      traceable
+	      (PP to
+		  (NP (NP 
+		       (NP the material)
+		       's
+		       porous
+		       ,
+		       air-cell
+		       construction)
+		      (SBAR (WHNP which)
+			    (S (NP *)  
+			       (VP  effectively
+				    traps
+				    (NP (NP air)
+					or
+					(NP a gas))
+				    (PP in
+					(NP the maze
+					    (PP of
+						(NP (NP minute bubbles)
+						    (SBAR (WHNP which)
+							  (S (NP T)
+							     (VP form
+								 (NP its composition))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These air or gas bubbles)
+   (VP make
+       (NP 
+	(ADJP  highly
+	      functional thermal)
+	barriers)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The K factor)
+	,
+	(NP (NP a term)
+	    (VP used
+		(S (NP *)
+		   (AUX to)
+		   (VP denote
+		       (NP (NP the rate
+			       (PP of
+				   (NP heat transmission
+				       (PP through
+					   (NP a material)))))
+			   *LRB*
+			   (NP B.t.u. ft.
+			       (PP of
+				   (NP material0F.
+				       (PP of
+					   (NP thickness)))))
+			   *RRB*))))))
+    (VP ranges
+	(PP (PP from
+		(NP 0.24))
+	    (PP to
+		(NP 0.28)))
+	(PP for
+	    (NP flexible urethane foams))
+	and
+	(PP (PP from
+		(NP 0.12))
+	    (PP to
+		(NP 0.16)))
+	(PP for
+	    (NP rigid urethane foams)))
+    ,
+    (S  (NP *) 
+	(VP depending
+	    (PP upon
+		(NP the formulation
+		    ,
+		    density
+		    ,
+		    cell size
+		    ,
+		    and
+		    nature
+		    (PP of
+			(NP (NP (VP blowing)
+				agents)
+			    (VP used))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Table 1)
+	,
+	,
+	(NP p. 394)
+	,)
+    (VP shows
+	(NP a comparison
+	    (PP of
+		(NP K factor ratings
+		    (PP of
+			(NP (NP a number
+				(PP of
+				    (NP (ADJP commercial)
+					(VP insulating)
+					materials
+					(PP in
+					    (NP common use)))))
+			    ,
+			    (VP including
+				(NP two different types
+				    (PP of
+					(NP rigid urethane foam)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Flexural strength
+    :))
+(  
+ (S (NP This term)
+    (X (VP (VP refers
+	       (PP to
+		   (NP the ability
+		       (PP of
+			   (NP a material))
+		       (S (NP *)
+			  (AUX to)
+			  (VP resist
+			      (NP  bending
+				   stress)))))))
+       and
+       (X (AUX is)
+	  (VP determined
+		 
+	      (PP by
+		  (S (NP *)  
+		     (VP measuring
+			 (NP (NP the load)
+			     (VP required
+				 (S (NP *)
+				    (AUX to)
+				    (VP cause
+					(NP failure
+					    (PP by
+						(S (NP *)  
+						   (VP bending)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The higher-density urethane semi-rigid foams)
+      (ADVP usually)
+      (VP have
+	  (NP 
+	   (ADJP stronger)
+	   flex fatigue resistance)))
+     ,
+     (X i.e.)
+     ,
+     (S (NP the 12 lb
+	    .
+	    cu. ft. foam)
+	(VP has
+	    (NP  (X 8 times)
+		 the flexural strength
+		 (PP of
+		     (NP the 3 lb
+			 .
+			 cu. ft. density))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *)  
+	(VP Note
+	    (SBAR that
+		  (S (NP  flexural strength)
+		     (AUX is)
+		     (NEG not)
+		     (ADVP always)
+		     (VP improved
+		    
+			 (PP by
+			     (S (NP *)  
+				(VP (ADVP simply)
+				    increasing
+				    (NP the density)))))))))
+     ,
+     nor
+     (SINV (VP is)
+	   (NP the change)
+	   (ADVP always)
+	   (ADJP proportional)
+	   (PP (PP from
+		   (NP one formulation))
+	       (PP to
+		   (NP another)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP Where)
+     (S (NP flexural strength)
+	(VP is
+	    (NP an important factor))))
+    ,
+    (S (NP *)  
+       (VP be
+	   (ADJP sure
+		 (SBAR that
+		       (S (NP your urethane foam processor)
+			  (VP is
+			      (ADJP aware
+				    (PP of
+					(NP it))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Tensile strength
+     :)
+ )
+( (S (NP This property)
+     (VP refers
+	 (PP to
+	     (NP (NP the
+		     greatest longitudinal
+		     stress or tension)
+		 (SBAR 0
+		       (S
+			(NP a material)
+			(AUX can)
+			(VP endure
+			    (NP T)
+			    (PP without
+				(S (NP *)  
+				   (VP tearing
+				       (ADVP apart)))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+  (S (PP like
+	 (NP compression strength
+	     (PP of
+		 (NP urethane foams))))
+     ,
+     (S (NP it)
+	(VP has
+	    (NP a direct relationship)
+	    (PP to
+		(NP formulation)))))
+  .
+  *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP
+     Exceptional tensile
+     strength)
+    (VP is
+	(NP another
+	    (PP of
+		(NP 
+		 (NP urethane foam)
+		 's strong features)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Figure 2)
+    ,
+    (ADJP above)
+    ,
+    (VP shows
+	(NP the aging properties
+	    (PP of
+		(NP urethane foams))
+	    (PP as
+		(S (NP *)  
+		   (VP determined
+		       (PP by
+			   (NP the percent
+			       (PP of
+				   (NP change
+				       (PP in
+					   (NP tensile strength))
+				       (PP during
+					   (NP exposure
+					       (PP to
+						   (NP ultra-violet light))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Processing
+	 (NP urethanes)))
+  )
+( (S
+   (NP There)
+   (VP are
+       (NP many ways
+	   (PP of
+	       (S (NP *)  
+		  (VP producing
+		      (NP a (VP foamed) urethane product)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The foam)
+      (AUX can)
+      (VP be
+	  (VP (VP made
+	    
+		  (PP into
+		      (NP slab stock)))
+	      and
+	      (VP cut
+		  (S (NP *)
+		     (AUX to)
+		     (VP shape))))))
+     ,
+     (S (NP it)
+	(AUX can)
+	(VP be
+	    (VP molded
+		)))
+     ,
+     (S (NP it)
+	(AUX can)
+	(VP be
+	    (VP poured-in-place
+		)))
+     ,
+     (S (NP it)
+	(AUX can)
+	(VP be
+	    (VP applied
+	     
+		(PP by
+		    (NP spray guns)))))
+     ,
+     (X etc.))
+  .)
+( (S
+   (NP Slab stock)
+   (VP is
+       (ADVP still)
+       (NP one
+	   (PP of
+	       (NP the
+		   (ADJP most important)
+		   forms
+		   (PP of
+		       (NP urethane end-product))
+		   (PP in
+		       (NP use))
+		   (NP today))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Basically)
+      ,
+      (S (NP (NP the foam machines)
+	     (SBAR (WHNP that)
+		   (S (NP T)
+		      (VP produce
+			  (NP such stock)))))
+	 (VP consist
+	     (PP of
+		 (NP (NP two
+			 or
+			 (ADJP more)
+			 (VP pumping)
+			 units)
+		     ,
+		     (NP a variable mixer)
+		     ,
+		     (NP a nozzle carriage assembly)
+		     ,
+		     and
+		     ,
+		     (PP in
+			 (NP many cases))
+		     ,
+		     (NP (NP a conveyor belt)
+			 (S (NP *)
+			    (AUX to)
+			    (VP transport and contain
+				(NP the liquid))
+			    (PP during
+				(NP the reaction process))
+			    and
+			    (PP until
+				(S (NP it)
+				   (VP solidifies
+				       (PP into
+					   (NP foam))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ingredients)
+   (AUX are)
+   (VP fed
+        
+       (PP (PP from
+	       (NP tanks))
+	   (PP through
+	       (NP a hose))
+	   and
+	   (PP into
+	       (NP the mixer)))
+       (PP at
+	   (NP a predetermined rate))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The mixing head)
+   (VP moves
+       (ADVP back
+	     and
+	     forth)
+       (ADVP slowly)
+       (PP across
+	   (NP the width
+	       (PP of
+		   (NP the receptacle))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (ADVP only)
+       (VP takes
+	   (NP a few minutes))
+       (PP for
+	   (S (NP the foaming action)
+	      (AUX to)
+	      (VP be
+		  (VP completed
+		      )))))
+    and
+    (PP after
+	(NP a short cure))
+    ,
+    (S (NP the material)
+       (AUX can)
+       (VP be
+	   (VP cut
+	        
+	       (PP into
+		   (NP lengths))
+	       (PP as
+		   (S (NP *)  
+		      (VP desired)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Much)
+    (AUX has)
+    (VP been
+	(VP done
+	     
+	    (PP in
+		(NP the way
+		    (PP of
+			(NP (NP ingenious slitters)
+			    (S (NP *)
+			       (AUX to)
+			       (VP fabricate
+				   (NP the slab stock)
+				   (PP into
+				       (NP (VP finished)
+					   products)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP  Profile
+	     (VP cutting)
+	     machines)
+	(SBAR-1 *pseudo-attach*))
+    (VP are
+	(ADJP available))
+    (SBAR-1 
+     (WHNP which)
+     (S (NP T)
+	(AUX can)
+	(VP (VP split
+		(NP foam)
+		(PP to
+		    (NP any desired thickness)))
+	    and
+	    (VP produce
+		(NP  sine
+		     ,
+		     triangle
+		     ,
+		     trapezoid
+		     ,
+		     and
+		     other profiles)
+		(PP in
+		    (NP variable heights
+			,
+			dimensions
+			,
+			etc.)))))))
+ .)
+( (S
+   (NP The convoluted sheets)
+   (AUX can)
+   (VP be
+       (VP combined
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP attain
+		  (NP  
+		   (ADJP certain)
+		   cushioning
+		   effects)
+		  (ADVP (ADVP mechanically
+			      (ADVP rather
+				    (PP than
+					(ADVP chemically))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV (ADVP Also)
+       (ADJP available)
+       (VP is)
+       (NP (NP a slitter)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (X (VP  ``
+			    peels
+			    ''
+			    (NP the inside
+				(PP of
+				    (NP a folded block
+					(PP of
+					    (NP foam))))))
+		       and
+		       (X (AUX can)
+			  (VP be
+			      (VP used
+			        
+				  (S (NP *)
+				     (AUX to)
+				     (VP slit
+					 (NP continuous sheets
+					     (PP up
+						 (PP to
+						     (NP 300 yd.
+							 (PP in
+							     (NP length)))))
+					     ,
+					     (PP down
+						 (PP to
+						     (ADJP (NP 116 in.)
+							   thick))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ 
+ (S (NP (NP The low cost) 
+	and 
+	(NP ease
+	    (PP of
+		(NP fabrication
+		    (PP of
+			(NP the dies
+			    (PP for
+				(NP three-dimensional foam
+				    cutting)))))))
+	(PP plus
+	    (NP (NP the wide variety
+		    (PP of
+			(NP (NP shapes)
+			    ,
+			    (NP dimensions)
+			    ,
+			    and
+			    (NP contours))))
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (AUX can)
+			 (VP be
+			     (ADJP tailor-made
+				   (PP to
+				       (NP customer requirements)))))))))
+    (AUX has)
+    (VP made
+	(NP the technique)
+	(ADJP useful
+	      (PP for
+		  (S (NP *)  
+		     (VP producing
+			 (NP (NP case liners)
+			     ,
+			     (NP  materials
+				  handling
+				  containers)
+			     ,
+			     (NP (VP packaging)
+				 and
+				 (VP cushioning
+				     (NP devices)))
+			     ,
+			     and
+			     (NP such novelties
+				 (PP as
+				     (NP (NP soap dishes)
+					 ,
+					 (NP toys)
+					 ,
+					 (NP head rests)
+					 ,
+					 (NP arch
+					     supports)
+					 ,
+					 and
+					 (NP gas pedal covers)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Molding))
+((S (SBAR Although
+	   (S (NP slab stock)
+	      (VP appeared
+		  (ADVP first)
+		  )))
+     ,
+     (S (NP it
+	    (SBAR-3 *pseudo-attach*))
+	(ADVP soon)
+	(VP became
+	    (ADJP apparent)
+	    (SBAR-3 that
+		  (S  (SBAR for
+			    (S (NP the production
+				   (PP of
+				       (NP cushions
+					   (PP with
+					       (NP (NP irregular shapes)
+						   ,
+						   (NP 
+						    (ADJP crowned)
+						    contours)
+						   ,
+						   or
+						   (NP (VP rounded)
+						       edges))))))))
+		      ,
+		     (S (NP the cutting
+			    (PP of
+				(NP slab stock)))
+			(VP is
+			    (NP a (ADJP wasteful and uneconomical) process))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  (ADVP Only)
+	(PP by
+	    (S (NP *)  
+	       (VP resorting
+		   (PP to
+		       (NP molding techniques)))))
+	(AUX can)
+	(NP the cushion manufacturer)
+	(VP hope
+	    (S (NP *)
+	       (AUX to)
+	       (VP compete
+		   (ADVP satisfactorily)
+		   (PP in
+		       (NP the established cushion market))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The closed molding
+	   (PP of
+	       (NP flexible urethane foams)))
+       (AUX has)
+       (VP been
+	   (NP a problem))
+       (SBAR  ever
+	      since
+	      (S (NP the introduction
+		     (PP of
+			 (NP the material))))))
+    *LRB*
+    (S (NP molding
+	   (PP in
+	       (NP open molds)))
+       (VP was
+	   (ADJP  more
+		  feasible)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Satisfactory methods
+	(PP for
+	    (NP (NP polyester foams)
+		and
+		(NP  even
+		     prepolymer polyether foams))))
+    (AUX were)
+    (ADVP never)
+    (VP  (ADVP fully)
+	 achieved
+	 ))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (VP Closed)
+	molding)
+    (ADVP generally)
+    (VP resulted
+	(PP in
+	    (NP (NP parts)
+		(VP weighing
+		    (ADJP more)
+		    *LRB*
+		    (ADVP because
+			  (PP of
+			      (NP 
+			       (ADJP higher)
+			       density)))
+		    *RRB*
+		    (PP than
+			(NP (NP parts)
+			    (VP fabricated
+				(PP from
+				    (NP free-blown foams))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP counteracted
+       (NP the gain
+	   (PP from
+	       (S (NP *)  
+		  (VP having
+		      (NP no scrap loss)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP there)
+       (VP were
+	   (NP (NP difficulties
+		   (PP with
+		       (NP the flow
+			   and
+			   spreading
+			   (PP of
+			       (NP the foam mixture))
+			   (PP over
+			       (NP the mold surface)))))
+	       ,
+	       (NP trouble
+		   (PP with
+		       (NP lack
+			   (PP of
+			       (NP gel strength))
+			   (PP in
+			       (NP the rising foam)))))
+	       ,
+	       and
+	       (NP problems
+		   (PP of
+		       (NP splits)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The introduction
+	    (PP of
+		(NP one-shot polyether foam systems)))
+	,
+	(VP aided
+	    (PP by
+		(NP the development
+		    (PP of
+			(NP new catalysts)))))
+	,)
+    (VP helped
+	(S (NP *)
+	   (AUX to)
+	   (VP alleviate
+	       (NP some
+		   (PP of
+		       (NP the problems
+			   (PP of
+			       (NP (VP closed)
+				   molding)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR While
+	 (S (NP there)
+	    (VP are
+		(ADVP still)
+		(NP (NP many bugs)
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP ironed
+			       (PRT out))))))))
+   ,
+   (S (NP the technique)
+      (AUX is)
+      (ADVP fast)
+      (VP developing)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Other techniques))
+(  
+ (S (NP (NP Simple systems)
+	(SBAR-2 *pseudo-attach*))
+    (VP are
+	(ADJP available))
+    (SBAR-2 
+     (WHNP that)
+     (S (NP T)
+	(VP make
+	    (NP it)
+	    (ADJP possible
+		  (PP for
+		      (S (NP urethane foam components)
+			 (AUX to)
+			 (VP be
+			     (VP   poured
+				   ,
+				   pumped
+				   ,
+				   etc.
+				   ,
+				   (PP into
+				       (NP (NP a void)
+					   (SBAR 
+					    (WHADVP where)
+					    (S (NP they)
+					       (VP foam
+						   (PP up
+						       (S (NP *)
+							  (AUX to)
+							  (VP fill
+							      (NP the void))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP a typical application)
+	    --
+	    (NP the making
+		(PP of
+		    (NP rigid urethane foam sandwich panels)))
+	    --))
+    (S (NP (NP an amount
+	       (PP of
+		   (NP foam mixture)))
+	   (VP calculated
+	       (S (NP *)
+		  (AUX to)
+		  (VP expand
+		      (NP (NP 10
+			      to
+			      20 %)
+			  (ADJP more
+				(PP than
+				    (NP the volume
+					(PP of
+					    (NP the panel))))))))))
+       (AUX is)
+       (VP poured
+	    
+	   (PP into
+	       (NP the panel void))))
+    and
+    (S (NP the top
+	   (PP of
+	       (NP the panel)))
+       (AUX is)
+       (VP locked
+	    
+	   (PP in
+	       (NP place))
+	   (PP by
+	       (NP a jig)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2371 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP are
+	  (NP (ADJP more)
+	      stems
+	      (PP per
+		  (NP item)))
+	  (PP in
+	      (NP Athabascan))))
+     ,
+     (SBAR 
+      (WHNP which)
+      (S (NP T)
+	 (VP expresses
+	     (NP the fact
+		 (SBAR that
+		       (S (NP the Athabascan languages)
+			  (AUX have)
+			  (VP undergone
+			      (NP 
+			       (ADJP  (ADVP somewhat)
+				      more)
+			       change
+			       (PP in
+				   (S (NP *)  
+				      (VP diverging
+					  (PP from
+					      (NP proto-Athabascan)))))
+			       (PP than
+				   (X (NP the Yokuts languages)
+				      (PP from
+					  (NP proto-Yokuts)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX may)
+   (VP be
+       (X  (SBAR because
+		 (S (NP the Athabascan divergence)
+		    (VP began
+			(ADVP earlier))))
+	   ;
+	   ;
+	   or
+	   (ADVP again)
+	   (SBAR because
+		 (S (NP the Athabascan languages)
+		    (VP spread
+			(PP over
+			    (NP (NP a
+				    (ADJP   very
+					    much
+					    larger)
+				    territory)
+				*LRB*
+				(VP including
+				    (NP three
+					(ADJP  (ADVP wholly)
+					       separated)
+					areas))
+				*RRB*)))))
+	   ;
+	   ;
+	   or
+	   (NP both))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The differentiation)
+  ,
+  (ADVP however)
+  ,
+  (VP is
+      (NEG not)
+      (ADJP   very
+	      much
+	      greater))
+  ,
+  (PP as
+      (S   (NP *) 
+	   (VP shown
+	       (PP by
+		   (NP the fact
+		       (SBAR that
+			     (S (NP Athabascan)
+				(VP shows
+				    (NP (NP 3.46 stems
+					    (PP per
+						(NP meaning slot)))
+					(PP as
+					    (PP against
+						(NP 2.75
+						    (PP for
+							(NP Yokuts))))))))))))
+	   ,
+	   (PP with
+	       (S (NP (NP a
+			  (ADJP  (ADVP slightly)
+				 greater)
+			  number
+			  (PP of
+			      (NP languages)))
+		      (NP-1 *pseudo-attach*))
+		  (VP represented
+		      (PP in
+			  (NP our sample)))
+		  :
+		  (NP-1 24
+			(PP as
+			    (PP against
+				(NP 21)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  
+    (PP On
+	(NP deduction
+	    (PP of
+		(NP one-eighth
+		    (PP from
+			(NP 3.46))))))
+    ,
+    (S (NP the stem item rate)
+       (VP becomes
+	   (NP 3.03
+	       (PP against
+		   (NP 2.75)))
+	   (PP in
+	       (NP equivalent number
+		   (PP of
+		       (NP languages)))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP These general facts)
+    (AUX are)
+    (VP mentioned
+	)
+    (S (NP *)
+       (AUX to)
+       (VP make
+	   (ADJP clear)
+	   (SBAR that
+		 (S (NP the total situation
+			(PP in
+			    (NP the two families)))
+		    (VP is
+			(ADJP similar
+			      enough
+			      (S (NP *)
+				 (AUX to)
+				 (VP warrant
+				     (NP comparison))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       greatest
+       difference
+       (PP in
+	   (NP the two sets
+	       (PP of
+		   (NP figures)))))
+   (VP is
+       (ADVP  due
+	      (PP to
+		  (NP differences
+		      (PP in
+			  (NP (NP the two sets
+				  (PP of
+				      (NP lists)))
+			      (VP used))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These differences)
+   (PP in
+       (NP turn))
+   (VP result
+       (PP from
+	   (NP the fact
+	       (SBAR (SBAR that
+			   (S (NP my Yokuts vocabularies)
+			      (AUX were)
+			      (VP built
+				  
+				  (PRT up)
+				  (PP of
+				      (NP (NP terms)
+					  (VP selected
+					      (ADVP mainly)
+					      
+					      (S (NP *)
+						 (AUX to)
+						 (VP insure
+						     (NP unambiguity
+							 (PP of
+							     (NP English meaning)))
+						     (PP between
+							 (NP (NP illiterate informants)
+							     and
+							     (NP myself))))))))
+				  ,
+				  (PP within
+				      (NP a
+					  (ADJP compact and uniform) territorial
+					  area)))))
+		     ,
+		     but
+		     (SBAR that
+			   (S (NP
+			       (NP Hoijer)
+			       's vocabulary)
+			      (AUX is)
+			      (VP based
+				  (PP on
+				      (NP (NP 
+					   (NP Swadesh)
+					   's
+					   second glottochronological
+					   list)
+					  (SBAR 
+					   (WHNP which)
+					   (S (NP T)
+					      (VP aims
+						  (PP at
+						      (S (NP *)  
+							 (VP eliminating
+							     (NP (NP all items)
+								 (SBAR  
+								  (WHNP which)
+								  (S (NP T)
+								     (AUX might)
+								     (VP be
+									 (VP (ADVP (ADVP culturally)
+										   or
+										   (ADVP geographically))
+									     determined)))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Swadesh)
+      (PP in
+	  (ADJP short))
+      (AUX was)
+      (VP trying
+	  (S (NP *)
+	     (AUX to)
+	     (VP develop
+		 (NP (NP a basic list)
+		     (SBAR 
+		      (WHNP that)
+		      (S (NP T)
+			 (VP was
+			     (ADJP universal)))))))))
+     ;
+     ;
+     (X  (NP I)
+	 ,
+	 (NP (NP one)
+	     (SBAR 
+	      (WHNP that)
+	      (S (NP T)
+		 (AUX was)
+		 (VP  (ADVP specifically)
+		      adapted
+		   
+		      (PP to
+			  (NP the San Joaquin Valley))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The result)
+      (VP is
+	  (SBAR that
+		(S (S (NP I)
+		      (VP included
+			  (NP 70 animal names)))
+		   ,
+		   but
+		   (X (NP Swadesh)
+		      (NP  (ADVP only)
+			   4))))))
+     ;
+     ;
+     and
+     (X (ADVP  (ADVP somewhat)
+	       similarly
+	       (PP for
+		   (NP plants)))
+	,
+	(NP 16
+	    (PP as
+		(PP against
+		    (NP 4))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (ADVP Swadesh)
+	 ,
+	 and
+	 (ADVP therefore)
+	 (NP Hoijer)
+	 ,)
+     (VP felt
+	 (ADJP compelled
+	       (S (NP *)
+		  (AUX to)
+		  (VP omit
+		      (NP (NP all terms)
+			  (VP denoting
+			      (NP (NP (NP species)
+				      or
+				      (NP (ADVP even)
+					  genera))
+				  *LRB*
+				  (NP (NP ox)
+				      ,
+				      (NP vulture)
+				      ,
+				      (NP salmon)
+				      ,
+				      (NP yellow pine)
+				      ,
+				      (NP manzanita))
+				  *RRB*))))))))
+    ;
+    ;
+    (S (NP their classes
+	   (PP of
+	       (NP animal and plant terms)))
+       (AUX are)
+       (VP restricted
+	   (PP to
+	       (NP (NP (NP generalizations)
+		       or
+		       (NP recurrent parts))
+		   *LRB*
+		   (NP (NP fish)
+		       ,
+		       (NP bird)
+		       ,
+		       (NP tree)
+		       ,
+		       (NP grass)
+		       ,
+		       (NP horn)
+		       ,
+		       (NP tail)
+		       ,
+		       (NP bark)
+		       ,
+		       (NP root))
+		   *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The groups)
+   (VP are
+       (ADVP therefore)
+       (ADVP really)
+       (ADJP non-comparable)
+       (PP (PP in
+	       (NP content))
+	   (ADVP as
+		 well
+		 (PP as
+		     (PP in
+			 (NP size)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Other classes)
+    (AUX are)
+    (VP included
+	(PP (PP (PP (ADVP only)
+		    by
+		    (NP myself))
+		*LRB*
+		(NP (ADVP interrogatives)
+		    ,
+		    (ADVP adverbs))
+		*RRB*)
+	    or
+	    (PP (PP  (ADVP only)
+		     by
+		     (NP (NP Swadesh)
+			 and
+			 (NP Hoijer)))
+		*LRB*
+		(NP (NP pronouns)
+		    ,
+		    (NP demonstratives))
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)  
+( 
+ (S (NP (SBAR (WHNP What)
+	      (S (NP we)
+		 (VP  have
+		      (NP T)
+		      (ADJP left)
+		      (PP as
+			  (ADJP  (ADVP reasonably)
+				 comparable))))))
+    (VP are
+	(NP (NP four classes)
+	    :
+	    (NP (NP  *LRB*
+		     (NP 1)
+		     *RRB*
+		     (NP (NP body parts and products)
+			 ,
+			 (SBAR (WHNP which)
+			       (S (PP with
+				      (NP (NP a
+					      (ADJP  (ADVP proportionally)
+						     (ADVP nearly)
+						     even)
+					      representation)
+					  *LRB*
+					  (NP (NP 51 terms
+						  (PP out
+						      (PP of
+							  (NP 253))))
+					      ,
+					      (NP 25
+						  (PP out
+						      (PP of
+							  (NP 100)))))
+					  *RRB*))
+				  (S  (NP T) 
+				      (VP come
+					  (PRT out)
+					  (PP with
+					      (NP (NP   (ADJP (ADVP nearly)
+							      even)
+							ratios)
+						  ;
+						  ;
+						  (NP (NP 2.6)
+						      and
+						      (NP 2.7))))))))))
+		;
+		;
+		(NP *LRB*
+		    (NP 2)
+		    *RRB*
+		    (NP (NP Nature)
+			*LRB*
+			(NP 29 terms
+			    (PP against
+				(NP 17)))
+			*RRB*
+			,
+			(NP (NP ratios) 
+			    (NP 3.3 
+				(PP versus
+				    (NP 4.1)) ))))
+		;
+		;
+		(NP  *LRB*
+		     (NP 3)
+		     *RRB*
+		     (NP (NP adjectives)
+			 *LRB*
+			 (NP 16 
+			     ,
+			     15 terms)
+			 *RRB*
+			 ,
+			 (NP (NP ratios) 
+			     (NP 3.9
+				 (PP versus
+				     (NP  4.7))))))
+		;
+		;
+		(NP *LRB*
+		    (NP 4)
+		    *RRB*
+		    (NP (NP verbs)
+			*LRB*
+			(NP 9 , 22 terms)
+			*RRB*
+			,
+			(NP (NP ratios) 
+			    (NP 4.0
+				(PP versus
+				    (NP  3.4))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP It
+	(SBAR-1 *pseudo-attach*))
+    (AUX will)
+    (VP be
+	(VP seen))
+    (SBAR-1 that
+	    (S (SBAR 
+		(WHADVP where)
+		(S (NP the scope)
+		   (VP is
+		       (ADJP similar))))
+	       ,
+	       (S (NP the Athabascan ratios)
+		  (VP come
+		      (PRT out)
+		      (ADJP  (ADVP somewhat)
+			     higher))
+		  *LRB*
+		  (PP as
+		      (S  (ADVP indeed)
+			  (S (NP they)
+			     (VP  ought
+				  (S (NP *) 
+				     (AUX to)))
+			     (PP with
+				 (NP a total ratio
+				     (PP of
+					 (NP (NP 2.8
+						 (PP as
+						     (PP against
+							 (NP 3.5))))
+					     or
+					     (NP 4 : 5))))))))
+		  *RRB*
+		  (PP except
+		      (PP for
+			  (NP (NP verbs)
+			      ,
+			      (SBAR 
+			       (WHADVP where
+				       (ADVP alone))
+			       (S (NP the Athabascan ratio)
+				  (VP is
+				      (ADJP lower)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This exception)
+   (AUX may)
+   (VP be
+       (VP connected
+	     
+	   (PP with
+	       (NP 
+		(NP Hoijer)
+		's use
+		(PP of
+		    (NP (NP a (ADJP much higher) percentage
+			    (PP of
+				(NP verbs)))
+			:
+			(NP 22 %
+			    (PP of
+				(NP his total list))
+			    (PP as
+				(PP against
+				    (NP 3.5 %
+					(PP in
+					    (NP mine)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  Or
+      (S (NP the exception)
+	 (AUX may)
+	 (VP be
+	     (ADVP  due
+		    (PP to
+			(NP (NP a particular durability)
+			    (ADJP peculiar
+				  (PP to
+				      (NP the Athabascan verb)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP
+	 More
+	 word class ratios)
+	(VP determined
+	    (PP in
+		(NP 
+		 more
+		 languages))))
+    (AUX will)
+    (ADVP no
+	  doubt)
+    (ADVP ultimately)
+    (VP answer
+	(NP the question)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP 5)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP word classes)
+	     (VP differ
+		 (PP in
+		     (NP their resistance or liability
+			 (PP  to
+			      (NP  stem
+				   replacement
+				   (PP within
+				       (NP meaning slot)))))))))
+   ,
+   (S (NP it)
+      (VP is
+	  (ADJP conceivable))
+      (SBAR that
+	    (S (NP individual meanings)
+	       (ADVP also)
+	       (VP differ
+		   (PP with
+		       (NP fair consistence))
+		   (ADVP trans-lingually))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP (NP 
+	    (NP Hoijer)
+	    's
+	    Athabascan))
+       and
+       (NP my Yokuts))
+   (VP share
+       (NP 71 identical meanings)
+       *LRB*
+       (PP with
+	   (NP allowance
+	       (PP for
+		   (NP several near-synonyms
+		       (PP like
+			   (NP (NP stomach-belly)
+			       ,
+			       (NP big-large)
+			       ,
+			       (NP long-far)
+			       ,
+			       (NP many-much)
+			       ,
+			       (NP die-dead)
+			       ,
+			       (NP say-speak)))))))
+       *RRB*))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP Yokuts))
+   ,
+   (S (NP I)
+      (VP tabulated
+	  (NP these 71 items)
+	  (PP in
+	      (NP five columns))
+	  ,
+	  (VP according
+	      (PP as
+		  (S (NP they)
+		     (AUX were)
+		     (VP expressed
+	       
+			 (PP by
+			     (NP (NP (NP 1) 
+				     , 
+				     (NP 2) 
+				     , 
+				     (NP 3)
+				     , 
+				     (NP 4)
+				     ,
+				     and
+				     (NP more
+					 (PP than
+					     (NP 4))))
+				 stems)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The totals
+	   (PP for
+	       (NP these five categories)))
+       (NP-1 *pseudo-attach*))
+   (VP are
+       (NEG not)
+       (ADJP  too
+	      uneven))
+   ,
+   (NP-1 (ADVP namely)
+	 (NP (NP 20) ,
+	     (NP 15) ,
+	     (NP 11) ,
+	     (NP 16) ,
+	     (NP 9))
+	 (ADVP respectively)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP Athabascan))
+   ,
+   (PP with
+       (NP a
+	   greater
+	   range
+	   (PP of
+	       (NP stems))))
+   ,
+   (S (S (NP the
+	     first
+	     two
+	     (PP of
+		 (NP five (ADJP corresponding) columns)))
+	 (VP were
+	     (ADJP (ADJP identical)
+		   ,
+		   (NP 1
+		       and
+		       2 stems))))
+      ;
+      ;
+      (S (NP the three others)
+	 (X (VP had
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (VP spread
+			   (ADVP somewhat)))))
+	    ,
+	    and
+	    (X  
+	     (AUX are)
+	     (VP headed
+		 (ADVP respectively)
+		 (NP (NP A[fj])
+		     ;
+		     ;
+		     (NP A[fj])
+		     ;
+		     ;
+		     and
+		     (NP A[fj] stems))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR While
+	 (S (NP the particular limits
+		(PP of
+		    (NP these groupings)))
+	    (AUX may)
+	    (VP seem
+		(ADJP  (ADVP artificially)
+		       arbitrary))))
+   ,
+   (S (S (NP they)
+	 (AUX do)
+	 (VP  (ADVP fairly)
+	      express
+	      (NP a (ADJP corresponding) grouping
+		  (PP of
+		      (NP  (ADJP more
+				 variable) material)))))
+      ,
+      and
+      (S (NP they)
+	 (VP eventuate
+	     (ADVP also)
+	     (PP in
+		 (NP (NP five classes)
+		     ,
+		     (PP along
+			 (NP a similar scale))
+		     ,
+		     (VP containing
+			 (NP (NP  (ADJP (ADVP approximately)
+					equal)
+				  numbers
+				  (PP of
+				      (NP cases)))
+			     ,
+			     (ADVP namely)
+			     (NP (NP (NP 19) ,
+				     (NP 14) ,
+				     (NP 15) ,
+				     (NP 11) ,
+				     (NP 12))
+				 (PP in
+				     (NP Athabascan)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S  (ADVP now)
+	  (S (NP we)
+	     (VP count
+		 (NP the frequency
+		     (PP of
+			 (S (NP the 71 items
+				(PP in
+				    (NP the two language families)))
+			    (VP appearing
+				(PP in
+				    (NP (NP  the same column or grade)
+					,
+					or
+					(NP (NP one column or grade)
+					    (ADJP apart))
+					,
+					or
+					(X (NP (NP two)
+					       or
+					       (NP three)
+					       or
+					       (NP four)))))))))))))
+     ,
+     (S (NP we)
+	(VP find
+	    (NP these differences))
+	:
+	(NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This distribution)
+    (AUX can)
+    (VP be
+	(VP summarized
+		     
+	    (PP by
+		(S  (NP *) 
+		    (VP averaging
+			(NP (NP the distance
+				(PP in
+				    (NP (NP grades)
+					(ADJP apart))))
+			    :
+			    (NP A[fj])
+			    ;
+			    ;
+			    (SBAR (WHNP which)
+				  ,
+				  (S (S  (NP *)  
+					 (VP divided
+					     (PP by
+						 (NP A[fj]))))
+				     (S  (NP T) 
+					 (VP gives
+					     (NP a mean
+						 (PP of
+						     (NP (NP 1.07 grades)
+							 (ADJP apart)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP the distribution
+		 (PP of
+		     (NP the 71 items)))
+	     (VP were  
+		 (ADJP (ADVP wholly)
+		       concordant
+		       (PP in
+			   (NP the two families))))))
+   ,
+   (S (NP the distance)
+      (AUX would)
+      (PP of
+	  (NP course))
+      (VP be
+	  (NP 0))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP it)
+	     (VP were
+		 (ADJP  wholly
+			random and unrelated))))
+   ,
+   (S (NP it)
+      (AUX would)
+      (VP be
+	  (NP 2.0))
+      ,
+      (VP assuming
+	  (SBAR 0
+		(S (NP the five classes)
+		   (VP were
+		       (ADJP (ADJP equal
+				   (PP in
+				       (NP n)))
+			     ,
+			     (SBAR 
+			      (WHNP which)
+			      (S  (ADVP approximately)
+				  (S (NP they)
+				     (VP are
+					 )))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The actual mean
+	  (PP of
+	      (NP 1.07)))
+      (VP being
+	  (PP (ADVP  (ADVP about)
+		     halfway)
+	      between
+	      (NP (NP 0
+		      (PP of
+			  (NP complete correlation)))
+		  and
+		  (NP 2.0
+		      (PP of
+			  (NP no correlation)))))))
+   ,
+   (S (NP it
+	  (SBAR-2 *pseudo-attach*))
+      (VP is
+	  (ADJP evident))
+      (SBAR-2 that
+	      (S (NP there)
+		 (VP is
+		     (NP a
+			 (ADJP  (ADVP pretty)
+				fair)
+			 degree
+			 (PP of
+			     (NP similarity)))
+		     (PP in
+			 (NP the behavior
+			     (PP  (ADVP even)
+				  of
+				  (NP particular individual
+				      items
+				      (PP of
+					  (NP meaning)))))))
+		 (PP as
+		     (S (NP *)
+			(VP regards
+			    (NP long-term stem displacement))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 6)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 1960))
+   ,
+   (S (NP David D. Thomas)
+      (VP published
+	  (NP (NP (NP Basic Vocabulary
+		      (PP In
+			  (NP some Mon-Khmer Languages)))
+		  *LRB*
+		  (NP (NP AL 2)
+		      ,
+		      (NP No. 3)
+		      ,
+		      (NP pp. 7
+			  -
+			  11))
+		  *RRB*)
+	      ,
+	      (SBAR  
+	       (WHNP which)
+	       (S (NP T)
+		  (VP compares
+		      (NP 8 Mon-Khmer languages)
+		      (PP with
+			  (NP (NP the I-E language data)
+			      (SBAR (WHPP on
+					  (WHNP which))
+				    (S (NP Swadesh)
+				       (VP based
+					   (NP (NP (NP the  (ADJP revised) retention rate)
+						   *LRB*
+						   (NP A[fj])
+						   *RRB*
+						   (PP in
+						       (NP place
+							   (PP of
+							       (NP (ADJP original)
+								   *LRB*
+								   A[fj]
+								   *RRB*)))))
+					       ,
+					       and
+					       (NP his
+						   (ADJP revised)
+						   100 word basic glottochronological list
+						   (PP in
+						       (NP (NP (PP Towards 
+								   (NP Greater Accuracy)))
+							   *LRB*
+							   (NP (NP IJAL 21)
+							       :
+							       :
+							       (NP 121 -
+								   137))
+							   *RRB*))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (NP Thomas)
+     ' findings)
+    (VP are
+	(SBAR  ,
+	       (ADVP first)
+	       ,
+	       ``
+	       (SBAR that
+		     (S (NP the individual items)
+			(VP vary
+			    (ADVP greatly
+				  and
+				  unpredictably)
+			    (PP in
+				(NP their persistence)))))
+	       ''
+	       ;
+	       ;
+	       but
+	       (SBAR ,
+		     (ADVP second)
+		     ,
+		     ``
+		     (SBAR that
+			   (S (NP the semantic groups)
+			      (VP  are
+				   (ADJP  (ADVP surprisingly)
+					  unvarying
+					  (PP in
+					      (NP their average persistence))))))
+		     ''
+		     *LRB*
+		     (PP as
+			 (PP between
+			     (NP (NP M-K)
+				 and
+				 (NP I-E))))
+		     *RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP His first conclusion)
+      ,
+      (PP on
+	  (NP behavior
+	      (PP of
+		  (NP individual items))))
+      ,)
+  (VP is
+      (ADJP negative))
+  ,
+  (SBAR whereas
+	(S (NP (NP mine)
+	       *LRB*
+	       (PP on
+		   (NP (NP Ath.)
+		       and
+		       (NP Yok.)))
+	       *RRB*)
+	   (VP was
+	       (ADJP  (ADVP partially)
+		      positive)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP His second conclusion)
+      ,
+      (PP on
+	  (NP semantic word classes))
+      ,)
+  (VP agrees
+      (PP with
+	  (NP mine))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP This second conclusion)
+      ,
+      (VP (ADVP independently)
+	  arrived
+	  (PP at
+	      (NP *) )
+	  (PP by
+	      (NP independent study
+		  (PP of
+		      (NP material
+			  (PP from
+			      (NP (NP two pairs
+				      (PP of
+					  (NP language families)))
+				  (ADJP  as
+					 different and remote
+					 (PP from
+					     (NP one
+						 another))
+					 (PP as
+					     (S (NP these four)
+						(VP are)))))))))))
+      ,)
+  (AUX can)
+  (NEG not)
+  (VP be
+      (VP ignored
+	  )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Thomas)
+    (ADVP also)
+    (VP presents
+	(NP a simple equation
+	    (PP for
+		(S  (NP *) 
+		    (VP deriving
+			(NP (NP an index
+				(PP of
+				    (NP persistence)))
+			    ,
+			    (SBAR 
+			     (WHNP which)
+			     (S (NP T)
+				(VP weights
+				    (NP (CONJP (NEG not)
+					       only)
+					(NP the number
+					    (PP of
+						(NP (NP stems)
+						    *LRB*
+						    (NP  '
+							 roots
+							 ')
+						    *RRB*
+						    (PP per
+							(NP meaning)))))
+					,
+					but
+					(NP their relative frequency))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP his persistence values
+	     (PP for
+		 (NP some stem frequencies
+		     (PP per
+			 (NP meaning)))))
+	 (VP are
+	     :
+	     (NP (NP (NP  (NP stem)
+			  (ADJP identical
+				(PP in
+				    (NP 8 languages))))
+		     ,
+		     (NP 100 %))
+		 ;
+		 ;
+		 (NP (NP stem frequencies
+			 (NP (NP 7)
+			     and
+			     (NP 1)))
+		     ,
+		     (NP  86 %))
+		 ;
+		 ;
+		 (NP (NP stem frequencies
+			 (NP (NP 4)
+			     and
+			     (NP 4)))
+		     ,
+		     (NP  64 %))
+		 ;
+		 ;
+		 (NP (NP stem frequencies
+			 (NP (NP 4) 
+			     , 
+			     (NP 3)
+			     ,
+			     and
+			     (NP 1)))
+		     ,
+		     (NP  57 %))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP His formula)
+       (X (X (AUX will)
+	     (VP have
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(VP weighed)))))
+	  ,
+	  (X  
+	   (AUX may)
+	   (VP be
+	       (VP (VP altered)
+		   or
+		   (VP improved))))))
+    ,
+    and
+    (S (NP it)
+       (AUX should)
+       (VP be
+	   (VP tested
+	       (PP on
+		   (NP additional bodies
+		       (PP of
+			   (NP material))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  But
+	(S (NP consideration
+	       (PP of
+		   (NP the frequency
+		       (PP of
+			   (NP stems))
+		       (PP per
+			   (NP constant meaning)))))
+	   (VP seems
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP established
+		        
+			  (PP as
+			      (S (NP *)
+				 (VP having
+				     (NP significance)
+				     (PP in
+					 (NP comparative situations
+					     (PP with
+						 (NP (ADJP diachronic and classificatory) relevance)))))))))))))
+    ;
+    ;
+    and
+    (S (NP Gleason)
+       (ADVP presumably)
+       (VP is
+	   (PP on
+	       (NP the way))
+	   (PP with
+	       (NP a
+		   further
+		   contribution
+		   (PP in
+		       (NP this area)))))))
+ .)
+(  END_OF_TEXT_UNIT
+   (S  
+    (PP As
+	(PP to
+	    (NP (NP relative frequencies
+		    (PP of
+			(NP  competing
+			     roots)))
+		*LRB*
+		(NP (NP 7 - 1
+			(PP vs.
+			    (NP 4 - 4)))
+		    ,
+		    etc.)
+		*RRB*)))
+    ,
+    (S (NP Thomas)
+       (PP with
+	   (NP his
+	       '
+	       weighting
+	       '))
+       (VP seems
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (NP (NP the
+			  first)
+		      (S (NP *)
+			 (AUX to)
+			 (VP have
+			     (VP considered
+				 (NP (NP the significance)
+				     (SBAR 0
+					   (S
+					    (NP this)
+					    (AUX might)
+					    (VP have
+						(NP T) )))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The problem)
+   (VP needs
+       (NP further
+	   exploration)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP was
+       (PP at
+	   (ADJP least))
+       (ADJP conscious
+	     (PP of
+		 (NP the distinction))))
+   (PP in
+       (NP (NP (NP my
+		   full
+		   Yokuts presentation)
+	       (SBAR 
+		(WHNP that)
+		(S (NP T)
+		   (VP awaits
+		       (NP publication)))))
+	   ,
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S (S  ,
+			(PP in
+			    (S (NP *)  
+			       (VP listing
+				   '
+				   (NP Two-Stem Meanings)
+				   ')))
+			,
+			(S (NP I)
+			   (VP set
+			       (PRT off)
+			       (PP by
+				   (NP asterisks))
+			       (NP (NP those forms)
+				   (SBAR (WHPP in
+					       (WHNP which))
+					 (S (NP N
+						(PP of
+						    (NP stem
+							B)))
+					    (VP was
+						(NP A[fj]
+						    (PP of
+							(NP stem A3))))
+					    ,
+					    (S (NP the (ADJP unasterisked) ones)
+					       (VP standing
+						   (PP for
+						       (NP A[fj]))))))))))
+		    ;
+		    ;
+		    or  
+		    (S  
+		     (PP under
+			 (NP  '
+			      Four Stems
+			      '))
+		     ,
+		     (S (NP I)
+			(VP set
+			    (PRT off)
+			    (PP by
+				(NP asterisks))
+			    (NP (NP cases)
+				(SBAR 
+				 (WHADVP where)
+				 (S (NP the
+					(VP combined)
+					N
+					(PP of
+					    (NP stems
+						A[fj])))
+				    (VP was
+					(NP Af. 7)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP These findings)
+      ,
+      and
+      (NP (NP others)
+	  (SBAR  
+	   (WHNP which)
+	   (S (NP T)
+	      (AUX will)
+	      (PP in
+		  (NP time))
+	      (VP be
+		  (VP developed
+		      )))))
+      ,)
+  (AUX will)
+  (VP affect
+      (NP the method
+	  (PP of
+	      (NP glottochronological inquiry)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ  (SBAR  If
+		(S (NP adjectival meanings)
+		   (VP show
+		       (NP (ADJP  (ADVP relatively)
+				  low) retentiveness
+				  (PP of
+				      (NP stems))))
+		   ,
+		   (PP as
+		       (S (NP I)
+			  (VP am
+			      (ADJP confident
+				    (SBAR 0
+					  (S  (NP *) 
+					      (AUX will)
+					      (VP prove
+						  (S (NP *)
+						     (AUX to)
+						     (VP be
+							 (NP the case))
+						     (PP in
+							 (NP 
+							  most
+							  languages
+							  (PP of
+							      (NP the world))))))))))))))
+	 ,
+	 (SBARQ (WHADVP why)
+		(SQ  
+		 (AUX should)
+		 (NP our basic lists)
+		 (VP include
+		     (NP (NP 15
+			     per
+			     cent
+			     (PP of
+				 (NP these unstable forms)))
+			 ,
+			 but
+			 (NP  (ADVP only)
+			      8
+			      per
+			      cent
+			      (PP of
+				  (NP (NP (NP animals) and (NP plants))
+				      (SBAR  
+				       (WHNP which)
+				       (S (NP T)
+					  (VP replace
+					      (ADVP  (ADVP much
+							   more) slowly))))))))))))
+ ?  
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR (SINV  
+	  (AUX Had)
+	  (NP Hoijer)
+	  (VP substituted
+	      (PP for
+		  (NP his 15 adjectival slots))
+	      (NP 15 good animal and plant items))))
+   ,
+   (S (S (NP his rate
+	     (PP of
+		 (NP stem replacement)))
+	 (AUX would)
+	 (VP have
+	     (VP been
+		 (ADJP lower))))
+      and
+      (X  (NP the age
+	      (PP of
+		  (NP Athabascan language separation)))
+	  (ADJP smaller))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (ADVP  irrespective
+	     (PP of
+		 (NP the outcome
+		     (PP in
+			 (NP (NP centuries)
+			     (VP elapsed
+				 (PP  since
+				      (NP splitting))))))))
+      ,
+      (S (NP calculations)
+	 (ADVP obviously)
+	 (VP carry
+	     (NP  (ADJP more
+			concordant and comparable) 
+		  meaning
+		  (SBAR-1 if
+			(S (NP they)
+			   (VP deal
+			       (PP with
+				   (NP the
+				       (ADJP most stable)
+				       units)))))
+		  (PP than
+		      (PP with
+			  (NP  (ADJP (ADVP variously)
+				     unstable) ones)))))
+	 (SBAR-1 *pseudo-attach*)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (VP is
+       (ADJP evident))
+   (SBAR-3 that
+	   (S (NP Swadesh)
+	      (X (X (AUX has)
+		    (CONJP (NEG not)
+			   only)
+		    (VP had
+			(NP much experience
+			    (PP with
+				(NP basic vocabulary))
+			    (PP in
+				(NP many languages)))))
+		 but
+		 (X  
+		  (AUX has)
+		  (VP acquired
+		      (NP great tact and feeling
+			  (PP for
+			      (NP the expectable behavior
+				  (PP of
+				      (NP lexical items)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (X  
+  (WHADVP Why)
+  (ADVP then)
+  (NP this urge
+      (S (NP *)
+	 (AUX to)
+	 (VP include
+	     (NP unstable items)
+	     (PP in
+		 (NP his basic list))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP the urge
+	   (S (NP *)
+	      (AUX to)
+	      (VP obtain
+		  (NP (NP a list)
+		      (ADJP  as
+			     free
+			     (PP of
+				 (NP (ADJP geographical and cultural) conditioning))
+			     (PP as
+				 (ADJP possible)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X  And
+       (WHADVP why)
+       (NP that insistence))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP the hope
+	   (PP of
+	       (S  (NP *)
+		   (VP attaining
+		       (NP a list
+			   (PP of
+			       (NP items
+				   (PP of
+				       (NP universal occurrence)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it
+	     (SBAR-4 *pseudo-attach*))
+	 (AUX is)
+	 (VP becoming
+	     (ADJP  (ADVP increasingly)
+		    evident))
+	 (SBAR-4 that
+		 (S (NP  such
+			 a hope)
+		    (VP is
+			(NP a snare))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (X  (NEG Not)
+	  (SBAR that
+		(S (NP  such
+			a list)
+		   (AUX can)
+		   (NEG not)
+		   (VP be
+		       (VP constructed
+			   )))))
+      ;
+      ;
+      but
+      (S   (SBAR (X  (ADVP the
+			   nearer))
+		 (S
+		  (NP it)
+		  (VP comes
+		      (PP to
+			  (S (NP *)
+			     (VP attaining
+				 (NP universality)))))))
+	   ,
+	   (SINV  (X (ADJP  the
+			    less
+			    significant))
+		  (SINV (AUX will)
+			(NP it)
+			(VP be
+			    (ADVP linguistically))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Its terms)
+      (AUX will)
+      (VP tend
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (ADJP labile or vague)))))
+     ,
+     and
+     (S (NP they)
+	(AUX will)
+	(VP fit
+	    (NP actual languages)
+	    (ADVP  (ADVP more
+			 and
+			 more) badly))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       practical operational
+       problem
+       (PP of
+	   (NP lexicostatistics)))
+   (VP is
+       (NP the establishment
+	   (PP of
+	       (NP (NP a basic list
+		       (PP of
+			   (NP items
+			       (PP of
+				   (NP meaning)))))
+		   (SBAR (WHPP against
+			       (WHNP which))
+			 (S
+			  (NP the particular forms or terms
+			      (PP of
+				  (NP languages)))
+			  (AUX can)
+			  (VP be
+			      (VP matched
+		     
+				  (PP as
+				      (NP the medium
+					  (PP of
+					      (NP comparison)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP  most important)
+       quality
+       (PP of
+	   (NP the meanings)))
+   (VP is
+       (SBAR that
+	     (S (NP they)
+		(AUX should)
+		(VP be
+		    (ADJP  as
+			   definable
+			   (PP as
+			       (ADJP possible))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP proportion
+	   (PP as
+	       (S (NP meanings)
+		  (VP are
+		      (ADJP concrete))))))
+   ,
+   (S (NP we)
+      (AUX can)
+      (VP  (ADVP better)
+	   rely
+	   (PP on
+	       (S (NP their)
+		  (VP being
+		      (ADJP insulated
+			    and
+			    distinctive)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP An elephant)
+      or
+      (NP a fox)
+      or
+      (NP a swan)
+      or
+      (NP a cocopalm)
+      or
+      (NP a banana))
+  (VP possess
+      (PP in
+	  (NP  (ADJP (ADVP unusually)
+		     high) degree))
+      (NP this quality
+	  (PP of
+	      (NP 
+	       (ADJP obvious
+		     ,
+		     common-sense
+		     ,
+		     indubitable)
+	       identity))))
+  ,
+  (PP as
+      (SINV  
+       (VP do)
+       (NP an eye or tooth or nail))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP isolate
+	  (PRT out)
+	  (ADVP (ADVP easily)
+		,
+		(ADVP naturally)
+		,
+		and
+		(ADVP unambiguously))
+	  (PP from
+	      (NP the continuum
+		  (PP of
+		      (NP (NP nature) and (NP existence)))))))
+     ;
+     ;
+     and
+     (S (NP they)
+	(AUX should)
+	(VP be
+	    (VP given
+		(NP priority
+		    (PP in
+			(NP the basic list)))
+		(ADVP as
+		      long
+		      (PP as
+			  (S (NP they)
+			     (VP continue
+				 (S (NP *)
+				    (AUX to)
+				    (VP show
+					(NP these qualities)))))))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (X (NP the universal list)
+	  (PP as
+	      (NP his weapon))))
+   ,
+   (S (NP Swadesh)
+      (AUX has)
+      (VP extended
+	  (NP his march
+	      (PP of
+		  (NP conquest)))
+	  (PP (ADVP farther and farther)
+	      into
+	      (NP the past))
+	  ,
+	  (ADVP (NP eight ,
+		    ten ,
+		    twelve millennia)
+		back))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP he)
+	 (AUX has)
+	 (VP proclaimed
+	     (NP (ADJP greater
+		       or
+		       less)
+		 affiliation
+		 (PP between
+		     (NP all Western hemisphere languages))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Some
+	  (PP of
+	      (NP this)))
+      (AUX may)
+      (VP prove
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (ADJP true)))
+	  (X-2 *pseudo-attach*)))
+     ,
+     or
+     (X (NP   (ADVP even)
+	      considerable
+	      (PP of
+		  (NP it)))
+	,
+	(X-2 whether
+	     (PP (PP by
+		     (NP genetic ramification))
+		 or
+		 (PP by
+		     (NP (NP diffusion) and (NP coalescence)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR (X (ADVP  the
+		      farther
+		      out))
+	    (S
+	     (NP he)
+	     (VP moves)))
+      ,
+      (SINV (SINV   (X (ADJP the thinner))
+		    (SINV  (AUX will)
+			   (VP be)
+			   (NP his hold
+			       (PP on
+				   (NP conclusive evidence)))))
+	    ,
+	    and
+	    (X (ADJP  the
+		      larger)
+	       (NP the speculative component
+		   (PP in
+		       (NP his inferences))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S 
+     (NP He)
+     (AUX has)
+     (VP traversed
+	 (NP (NP provinces) and (NP kingdoms))))
+    ,
+    but
+    (S (S (NP he)
+	  (AUX has)
+	  (NEG not)
+	  (VP consolidated
+	      (NP them)
+	      (PP behind
+		  (NP him))))
+       ,
+       nor
+       (SINV  
+	(AUX does)
+	(NP he)
+	(VP control
+	    (NP them)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (X (X (AUX has)
+	    (VP announced
+		(NP results
+		    (PP on
+			(NP (NP Hokan)
+			    ,
+			    (NP Penutian)
+			    ,
+			    (NP Uto-Aztecan)
+			    ,
+			    and
+			    (NP  almost
+				 all
+				 other
+				 American families and phyla))))))
+	 ,
+	 and
+	 (X  
+	  (AUX has)
+	  (VP diagrammed
+	      (NP their degree
+		  (PP of
+		      (NP interrelation)))))))
+     ;
+     ;
+     but
+     (S (NP he)
+	(AUX has)
+	(NEG not)
+	(VP worked
+	    (PRT out)
+	    (PP by
+		(NP lexicostatistics ))
+	    (NP one
+		(ADJP (ADVP comprehensively)
+		      complete)
+		classification
+		(PP of
+		    (NP (NP  (ADVP even)
+			     a single family)
+			(ADJP other
+			      (PP than
+				  (NP Salish)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP That)
+   (VP is
+       (NP his privilege)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP remote
+	     ,
+	     cloudy
+	     ,
+	     possible))
+   (VP has
+       (NP (NP values
+	       (PP of
+		   (NP its
+		       own)))
+	   --
+	   (VP values
+	       (PP of
+		   (NP (NP scope)
+		       ,
+		       (NP stimulus)
+		       ,
+		       (NP potential)
+		       ,
+		       and
+		       (NP imagination)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP there)
+	 (VP is
+	     (ADVP also)
+	     (NP (NP a firm aspect
+		     (PP to
+			 (NP lexicostatistics)))
+		 :
+		 (NP the aspect
+		     (PP (PP of
+			     (S (NP *)  
+				(VP learning
+				    (NP (NP the internal organization
+					    (PP of
+						(NP 
+						 obvious natural genetic
+						 groups
+						 (PP of
+						     (NP languages)))))
+					(ADVP as
+					      well
+					      (PP as
+						  (NP their
+						      (ADJP  more
+							     remote and elusive)
+						      external
+						      links)))))))
+			 ;
+			 ;
+			 (PP of
+			     (NP (NP (NP classification)
+				     (ADJP first))
+				 ,
+				 (PP with
+				     (X (NP (VP elapsed)
+					    age)
+					(NP  (ADVP merely)
+					     a by-product)))))
+			 ;
+			 ;
+			 (PP of
+			     (S (S  (NP *)
+				    (VP acquiring
+					(NP evidential knowledge
+					    (PP  of
+						 (SBAR (WHNP what)
+						       (S (NP T)  
+							  (VP happened
+							      (PP (PP in
+								      (NP Athabascan))
+								  ,
+								  (PP in
+								      (NP Yokuts))
+								  ,
+								  (PP in
+								      (NP Uto-Aztecan))))
+							  (PP in
+							      (NP the
+								  last
+								  few thousand years))))))))
+				(ADVP as
+				      well
+				      (PP as
+					  (S (NP *) 
+					     (VP forecasting
+						 (SBAR (WHNP what)
+						       (S  (NP T) 
+							   (ADVP more anciently)
+							   (AUX may)
+							   (VP have
+							       (VP happened
+								   (PP between
+								       (NP them))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP This)
+      (VP involves
+	  (NP (ADJP step-by-step) progress)))
+   ,
+   and
+   (S   
+    (NP  such)
+    (AUX will)
+    (VP have
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (NP the day-by-day work
+		   (PP of
+		       (NP lexicostatistics
+			   (PP as
+			       (NP a (VP growing) body
+				   (PP of
+				       (NP scientific inquiry))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S  
+	   (PP of
+	       (NP the founders
+		   (PP of
+		       (NP glottochronology))))
+	   (S (S (NP Swadesh)
+		 (AUX has)
+		 (VP escaped
+		     (NP our steady plodding)))
+	      ,
+	      and
+	      (S (NP Lees)
+		 (AUX has)
+		 (VP repudiated
+		     (NP his own share
+			 (PP in
+			     (NP the founding))))))))
+   ,
+   (S (NP that)
+      (VP is
+	  (NP no reason
+	      (SBAR 
+	       (WHADVP why)
+	       (S (NP we)
+		  (AUX should)
+		  (VP swerve)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 8)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP no apparent reason
+	   (SBAR 
+	    (WHADVP why)
+	    (S (NP we)
+	       (AUX should)
+	       (VP feel
+		   (ADJP  bound
+			  (PP by
+			      (NP 
+			       (NP Swadesh)
+			       's rules and procedure))))))))
+   (SBAR since
+	 (S (NP his predilections and aims)
+	    (AUX have)
+	    (VP grown
+		(ADJP  so
+		       vast)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP seems
+       (NP time
+	   (S (NP *)
+	      (AUX to)
+	      (VP consider
+		  (NP a revision
+		      (PP of
+			  (NP operational procedures
+			      (PP for
+				  (NP lexicostatistic studies)))))
+		  (PP on
+		      (NP a
+			  (ADJP  more
+				 humble
+				 ,
+				 solid
+				 ,
+				 and
+				 limited)
+			  basis)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX would)
+    (VP propose
+	,
+	(ADVP first)
+	,
+	(NP an abandonment
+	    (PP of
+		(NP attempts
+		    (PP at
+			(NP a
+			    universal lexical
+			    list))))
+	    ,
+	    (PP as
+		(ADJP (ADJP  (ADVP intrinsically)
+			     unachievable)
+		      ,
+		      and
+		      (ADJP  (ADVP operationally)
+			     inadequate)
+		      (PP in
+			  (NP proportion
+			      (PP as
+				  (S (NP it)
+				     (AUX is)
+				     (VP achieved
+					 ))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX would)
+   (VP propose
+       ,
+       (ADVP next)
+       ,
+       (PP as
+	   (NP the prime requirement
+	       (PP for
+		   (NP constitution
+		       (PP of
+			   (NP 
+			    new basic
+			    lists))))))
+       ,
+       (NP (NP items)
+	   (SBAR 
+	    (WHNP whose forms)
+	    (S (NP T)
+	       (VP show
+		   (NP (ADJP  as
+			      high)
+		       an empirical retention rate
+		       (PP as
+			   (ADJP possible)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX would)
+   (VP be
+       (NP no conceivable sense)
+       (PP in
+	   (S (NP *) 
+	      (VP going
+		  (PP to
+		      (NP the opposite extreme
+			  (PP of
+			      (S  (NP *)
+				  (VP selecting
+				      (NP (NP items)
+					  (SBAR 
+					   (WHNP whose forms)
+					   (S (NP T)
+					      (VP are
+						  (ADJP  the
+							 most unstable)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An
+       (VP attempted) middle
+       course)
+   (AUX might)
+   (VP lead
+       (PP to
+	   (NP devices
+	       (PP like
+		   (NP (NP a
+			   5000-word
+			   (ADJP alphabetized)
+			   dictionary)
+		       (SBAR (WHPP from
+				   (WHNP which))
+			     (S
+			      (NP every fiftieth word)
+			      (AUX was)
+			      (VP selected
+				  )))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

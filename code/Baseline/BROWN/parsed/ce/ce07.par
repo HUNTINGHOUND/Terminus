@@ -1,0 +1,2418 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S (S (NP The design
+           (PP of
+               (NP a
+                   mechanical
+                   (VP interlocking)
+                   frame)))
+       (VP is
+           (PP  (ADVP much)
+                like
+                (NP a  mechanical puzzle))))
+    ,
+    but
+    (S  (X  once
+            (ADJP understood))
+        ,
+        (S (NP the principles)
+           (AUX can)
+           (VP be
+               (VP applied
+                    
+                   (PP to
+                       (NP any track and signal arrangement)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (PP In
+           (NP the frame))
+       (VP are)
+       (NP (NP two sets
+               (PP of
+                   (NP bars)))
+           (SBAR 
+            (WHNP which)
+            (S (NP T)
+               (VP interact
+                   (PP with
+                       (NP each
+                           other))
+                   (S (NP *)
+                      (AUX to)
+                      (VP prevent
+                          (NP the operator)
+                          (PP from
+                              (S  (NP *) 
+                                  (VP making
+                                      (NP  dangerous moves)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The  main set
+         (PP of
+             (NP bars)))
+     (VP are
+         (NP the
+             ``
+             tappets
+             '')))
+    and
+    (S (NP one tappet)
+       (AUX is)
+       (VP connected
+               
+           (PP to
+               (NP each lever)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+          (S (NP the lever)
+             (AUX is)
+             (VP pulled
+                  
+                 (S (NP *)
+                    (AUX to)
+                    (VP (VP clear
+                            (NP a signal))
+                        or
+                        (VP move
+                            (NP a switch)))))))
+   ,
+   (S (NP the tappet)
+      (VP moves
+          (ADVP (NP a  short distance)
+                lengthwise)
+          (PP at
+              (NP the  same time)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV (PP (ADVP Close)
+            behind
+            (NP the plane
+                (PP of
+                    (NP the tappets))))
+        (VP are)
+        (NP the  (VP locking) bars))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX can)
+   (ADVP also)
+   (VP (VP move
+           (NP a  short distance))
+       but
+       (X (PP at
+              (NP  right angles
+                   (PP to
+                       (NP the tappets)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The number
+           (PP of
+               (NP  (VP locking) bars)))
+       (VP required))
+   (VP depends
+       (PP on
+           (SBAR (NP   (WHADVP how
+                               many)
+                       false moves)
+                 (S  (NP T)
+                     (AUX must)
+                     (VP be
+                         (VP prevented
+                             )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SINV  (PP In
+               (NP the sides
+                   (PP of
+                       (NP the tappets))))
+           (VP are)
+           (NP notches
+               (PP with
+                   (NP   (VP sloping)
+                         sides))))
+    ,
+    and
+    (S (NP connection
+           (PP between
+               (NP (NP the tappets)
+                   and
+                   (NP  (VP locking) bars))))
+       (VP consist
+           (PP of
+               (NP (NP cams)
+                   (VP called
+                       (NP  ``
+                            dogs
+                            '')))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP   Two
+        or
+        more
+        dogs)
+  (AUX are)
+  (VP mounted
+            
+      (PP on
+          (NP each  (VP locking) bar))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These)
+    (VP slide
+        (PP (PP into
+                (NP-1 *pseudo-attach*)) 
+            and 
+            (PP out
+                (PP of
+                    (NP-1 the notches
+                          (PP in
+                              (NP the tappets)))))))
+    (SBAR  as
+           (S (NP the tappets)
+              (AUX are)
+              (VP moved
+                  )))
+    ,
+    (S  (NP *)
+        (VP   locking
+              and
+              unlocking
+              (NP them))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S  (NP Here)
+        (VP 's
+            (SBAR (WHADVP how)
+                  (S (NP the scheme)
+                     (VP works)))))
+    :
+    (S  (NP *)
+        (VP Suppose
+            (SBAR 0
+                  (S (NP the operator)
+                     (VP pulls
+			 (NP the lever))
+		     (S (NP *)
+			(AUX to)
+			(VP clear
+			    (NP a  particular signal))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (ADVP also)
+    (VP (VP pulls
+            (NP (NP the tappet)
+                (VP connected
+                    (PP to
+                        (NP the  particular lever)))))
+        and
+        (VP forces
+            (NP (NP any dogs)
+                (VP seated
+                    (PP in
+                        (NP the notches))))
+            (PP to
+                (NP the side))))
+    ,
+    (S (NP *)
+       (ADVP thus)
+       (VP moving
+           (NP  one
+                or
+                more 
+                (VP locking)
+                bars))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dogs
+       (PP on
+           (NP the other ends
+               (PP of
+                   (NP these  (VP locking) bars)))))
+   (AUX are)
+   (ADVP thus)
+   (VP forced
+        
+       (PP into
+           (NP notches
+               (PP in
+                   (NP other tappets))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP By
+      (NP this scheme))
+  ,
+  (S (NP (S (NP *) 
+            (VP pulling
+                (NP one signal)
+                (PP to
+                    (NP clear)))))
+     (VP locks
+         (NP all
+             the other switch and signal levers)
+         (PP in
+             (NP  safe positions))
+         (PP until
+             (S (NP the  first signal)
+                (AUX is)
+                (VP (ADVP again)
+                    restored
+                    (PP to
+                             
+                        (ADJP normal))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP   (VP Interlocking)
+	     signals)
+       (VP are
+           (ADVP normally)
+           (PP at
+               (NP  stop
+                    or
+                    ``
+                    red
+                    ''
+                    position))))
+    ,
+    and
+    (S (NP a lever)
+       (AUX must)
+       (VP be
+           (VP pulled))
+       (S (NP *)
+          (AUX to)
+          (VP  ``
+               clear
+               ''
+               (NP the signal)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NEG not)
+       (ADVP necessarily)
+       (PP to
+           (NP green))  )
+   ,
+   (ADVP however)
+   ,
+   (SBAR  for
+          (PP in
+              (NP some situations))
+          (S (NP (ADVP only)
+		 a  yellow indication)
+              (AUX is)
+              (VP given
+                     
+                  (PP to
+                      (NP a train)))
+              (S (NP *)
+                 (AUX to)
+                 (VP let
+                     (NP it)
+                     (PP into
+                         (NP the
+                             ``
+                             plant
+                             '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP   other  basic
+            rules)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A turnout)
+   (AUX may)
+   (VP have
+       (NP (NP two levers)
+           ,
+           (NP (NP (NP one)
+                   (S   (NP *) 
+                        (AUX to)
+                        (VP (ADVP actually)
+                            move
+                            (NP the switch points))))
+               ,
+               (NP (NP the
+                       other)
+                   (S (NP *)
+                      (AUX to)
+                      (VP lock
+                          (NP the points))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A signal)
+    (AUX can)
+    (NEG not)
+    (VP be
+        (VP cleared
+	    ))
+    (PP until
+        (S (NP  all
+                the (ADJP related) turnouts)
+           (AUX are)
+           (VP (ADVP properly)
+               (VP   thrown
+		     and
+		     locked)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such locks)
+   (AUX are)
+   (ADVP  nearly
+          always)
+   (VP used
+       (SBAR 
+        (WHADVP where)
+        (S (NP the switch points)
+           (VP  ``
+                face
+                ''
+                (NP  (VP oncoming) traffic))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The lock)
+   (VP insures
+       (SBAR that
+             (S (NP the points)
+                (AUX are)
+		(VP thrown
+		    (NP all
+			the way))
+		(PP with
+		    (NP (NP no chance)
+			(SBAR that
+			      (S (NP a wheel flange)
+				 (AUX will)
+				 (VP snag
+                                               
+				     (PP on
+					 (NP a
+					     (VP    partly
+						    thrown)
+					     point)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP the points)
+	     (AUX are)
+	     (NEG n't)
+	     (VP thrown
+                    
+		 (NP all
+		     the way))))
+   ,
+   (S (S (NP the Turnout)
+         (AUX can)
+         (NEG not)
+         (VP be
+             (VP locked
+                 )))
+      ,
+      and
+      (S (PP in
+             (NP turn))
+         ,
+         (S (NP the signal)
+            (AUX can)
+            (NEG not)
+            (VP be
+                (VP cleared
+                    ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Generally)
+     ,
+     (S (NP these locks
+            (PP on
+                (NP turnouts)))
+        (AUX are)
+        (VP called
+            (NP  ``
+                 facing point locks
+                 ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Figs. 1-6)
+   (VP show
+       (NP  typical arrangements
+           (PP of
+               (NP (NP track) and (NP signals))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each diagram)
+   (AUX is)
+   (VP accompanied
+             
+       (PP by
+           (NP (NP a
+                   ``
+                   dog chart
+                   '')
+               ,
+               (NP a list
+                   (PP of
+                       (NP (NP the levers)
+                           (SBAR (WHNP that)
+                                 (S  (NP T) 
+                                     (VP show
+                                         (SBAR (WHNP which
+                                                     other levers)
+                                               (S (NP any  particular lever)
+                                                  (AUX will)
+                                                  (VP lock
+                                                      (NP T))
+                                                  (SBAR  if
+                                                         (S (NP *) 
+                                                            (VP pulled)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The lines)
+        (VP connecting
+            (NP the  wedge-shaped dogs)))
+    (VP represent
+	(NP the  (VP locking) bars)
+	(PP at
+	    (NP  right angles
+		 (PP to
+		     (NP the tappet bars))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+        (S  (NP *)
+            (VP studying
+                (NP the  track-signal diagrams))))
+    (S (NP you)
+       (AUX 'll)
+       (VP note
+           (NP several other details))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Derails)
+        --
+        (NP  (NP mechanical track devices)
+	     (SBAR (WHNP that)
+		   (S  (NP T)  
+		       (VP (ADVP actually)
+			   guide
+			   (NP the wheels)
+			   (PP off
+			       (NP the rails)))
+		       (SBAR if
+			     (S (NP a train)
+				(VP passes
+				    (NP a
+					``
+					stop
+					''
+					signal)))))))
+        --)
+    (AUX are)
+    (VP used
+        (PP in
+            (NP many instances))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+         Home
+         ''
+         signals)
+    (VP have
+        (NP two blades)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  blacked-in blades)
+   (VP indicate
+       (NP (NP a  fixed aspect)
+           --
+           (S (NP the blade)
+              (AUX does)
+              (NEG not)
+              (VP move)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP an engineer)
+	      (VP approaches
+		  (NP the plant))))
+    (S (NP the position
+	   (PP of
+	       (NP the home signal)))
+       (AUX is)
+       (VP seen
+	   (PP in
+	       (NP advance)))
+       (SBAR (WHADVP when)
+	     (S (NP he)
+		(VP passes
+		    (NP (NP the
+			    ``
+			    distant
+			    ''
+			    signal)
+			(VP located
+			    (PP beyond
+				(NP the limits
+				    (PP of
+					(NP the  (VP interlocking) plant)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP some  low-speed situations))
+    ,
+    (S (NP the distant signal)
+       (AUX is)
+       (VP fixed
+               
+           (PP at
+               (NP caution)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP (NP other instances)
+            (SBAR 
+             (WHADVP where)
+             (S (NP there)
+                (VP is
+                    (NP no  automatic block signaling))))))
+    ,
+    (S (NP the
+	   distant)
+       (VP has
+	   (NP (ADVP only)
+	       (ADJP green and yellow) aspects))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (X (NP So
+         much)
+     (PP for
+         (NP the prototype)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The  (VP interlocking) frame)
+	 (SBAR 0
+	       (S
+		(NP we)
+		(VP (VP built
+			(NP T) 
+			(PP at
+			    (NP the model railroader workshop)))
+		    and
+		    (ADVP then)
+		    (VP installed
+			(NP T) 
+			(PP on
+			    (NP 
+			     (NP Paul Larson)
+			     's railroad)))))))
+     (X (VP follows
+            (NP the
+                Fig. 1
+                scheme))
+        and
+        (X (AUX is)
+	   (VP shown
+	       (X (VP beginning
+		      (PP in
+			  (NP (NP Fig. 7)
+			      ,
+			      (NP page 65))))
+		  ,
+		  and
+		  (PP in
+		      (NP the photos)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Here)
+      (VP 's
+          (SBAR 
+           (WHADVP how)
+           (S (NP it)
+              (AUX can)
+              (VP be
+                  (VP built
+                      ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (X (NP Frame)))
+( (S
+   (NP (NP The sizes
+           (PP of
+               (NP pieces)))
+       (VP needed
+           (PP for
+               (NP the  (VP interlocking) frame))))
+   (AUX are)
+   (VP shown
+       (PP in
+           (NP the notes
+               (PP within
+                   (NP Fig. 7)))))
+   ,
+   (S (NP  most
+	   (PP of
+	       (NP the bars)))
+      (VP being
+	  (NP 18 ''
+	      ''
+	      brass
+	      (PP in
+		  (NP  (NP 14 ''
+			   ''
+			   and
+			   12 ''
+			   '')
+		       widths))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX may)
+   (VP change
+       (NP the dimensions)
+       (S (NP *)
+          (AUX to)
+          (VP suit
+              (NP a frame
+                  (PP for
+                      (NP  (ADJP more
+                                 or
+                                 fewer)
+                           levers and locks)))))
+       (PP as
+	   (S (NP you)
+	      (VP wish)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our instructions)
+   (VP assume
+       (SBAR 0
+             (S (NP you)
+                (AUX are)
+                (VP building
+                    (NP (NP this  particular frame)
+                        ,
+                        (SBAR 
+                         (WHNP which)
+                         (S (NP T)
+                            (VP is
+                                (PP for
+                                    (NP a junction)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+          (S (NP *) 
+             (VP cutting
+                 (NP the pieces))))
+    ,
+    (S  (NP *) 
+        (VP (VP dress
+                (NP the ends)
+                (ADJP smooth))
+            ,
+            and
+            (VP  square
+                 (PP with
+                     (NP a  smooth file or (VP sanding) disk))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Start
+        (PP with
+	    (NP the  right-hand piece
+		``
+		(NP B)
+		''
+		,
+		(X  A[fj]))))
+    ,
+    (S (NP *) 
+       (VP soldering
+	   (NP it)
+	   (PP to
+	       (NP the
+		   lower
+		   piece
+		   (NP  ``
+			A
+			'')
+		   (X (PP of
+			  (NP the  same material))
+		      but
+		      (ADVP (NP 12 ''
+				'')
+			    long)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP (VP Let
+            (NP (ADVP exactly)
+                1 ''
+                ''
+                (PP of
+                    (NP  ``
+                         A
+                         '')))
+            (VP extend
+                (PP beyond
+                    (NP  ``
+                         B
+                         ''))))
+        and
+        (VP use
+            (NP a square)
+	    (S (NP *)
+	       (AUX to)
+	       (VP check
+		   (NP your angle)
+		   (PP to
+		       (NP (ADVP exactly)
+			   90 degrees)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Now)
+     (S (NP *)  
+        (VP lay
+            (NP (NP 12 pieces
+                    (PP of
+                        (NP (X A[fj]))))
+                (VP cut
+		    (ADVP (NP 5-34 ''
+			      '')
+			  long)))
+            (X (NP side
+                   (PP by
+                       (NP side)))
+               but
+               (S (NP *)
+                  (VP separated
+                      (PP by
+                          (NP 12 pieces
+                              (PP of
+				  (NP (NP the  same material)
+				      (ADJP  (NP 12 ''
+						 '')
+					     sq.)))))))))))
+ .)
+( (S
+   (NP This)
+   (VP gives
+       (NP you)
+       (NP the spacing
+           (PP for
+               (S  (NP *) 
+                   (VP locating
+		       (NP the  left-hand piece
+			   (NP ``
+			       B 
+			       ''))
+		       ))))))
+  .)
+(S (NP *)
+   (VP Compress
+       (NP the assembly))
+   (SBAR 
+    (WHADVP when)
+    (S (NP you)
+       (VP make
+	   (NP the mark))))
+   (S (NP *)
+      (AUX to)
+      (VP show
+	  (NP the location
+	      (PP for
+		  (NP  ``
+		       B
+		       '')))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Solder
+         (NP this
+	     second
+             ``
+             B
+             '')
+         (PP to
+             (NP  ``
+                  A
+                  ''))
+         (PP at
+             (NP  right angles))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX should)
+      (VP be
+          (NP 10 ''
+              '')
+          (PP between
+              (NP the two  parallel members))))
+     and
+     (S (NP each)
+        (AUX should)
+        (VP be
+	    (PP (NP 1 ''
+		    '')
+		from
+                (NP an end
+                    (PP of
+                        (NP the  long piece)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Cap
+	  (NP this assembly)
+	  *LRB*
+	  (PP with
+	      (X   (NP  spacing bars)
+		   (PP in
+		       (NP place))))
+	  *RRB*
+          (PP with
+              (NP a (X A[fj]) bar))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Tack-solder
+        (NP all
+	    the (ADJP (NP 12 ''
+			  '')
+		      sq.)
+	    pieces)
+        (PP to
+            (NP the (NP 10 ''
+			''
+			and
+			12 ''
+			'')
+		members))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP These)
+    (AUX will)
+    (VP be
+	(VP  (VP drilled)
+	     and
+	     (VP tapped)))
+    (ADVP later
+	  on))
+ .)
+( END_OF_TEXT_UNIT)
+( (S (ADVP Now)
+     (S  (NP *) 
+         (VP cut
+             (NP (NP five  (X A[fj]) locking bar spacers)
+                 *LRB*
+		 (SBAR  (WHNP which)
+			(S (NP T)
+			   (VP run
+			       (ADVP horizontally))))
+                 *RRB*))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Position
+             (NP these)
+             (S (NP *)   
+                (VP using
+                    (NP  six
+			 intermediate
+			 temporary
+                         (X A[fj]) spacers))))
+         and
+         (VP locate
+             (NP the
+                 (ADJP upper)
+                 12 ''
+                 ''
+                 bar
+                 (NP ``
+		     A
+		     '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Solder
+        (NP (NP it)
+            and
+            (NP the five locking bar spacers))
+        (PP to
+            (NP the frame))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Now)
+     (S  (NP *) 
+         (VP (VP place
+                 (NP (NP 12 pieces)
+                     (ADJP 12 ''
+                           ''
+                           sq.))
+                 (PP on
+                     (NP this edge))
+                 (PP as
+                     (S (NP we)
+                        (VP did
+                            (ADVP before)))))
+             and
+             (VP space
+                 (NP them)
+                 (PP with
+                     (NP (NP the (ADVP (NP 5-34 ''
+					   '')
+				       long)
+                             ``
+                             tappets
+                             '')
+                         ,
+                         (PP as
+                             (S (NP they)
+                                (AUX are)
+                                (VP called
+                                    )))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Cap
+             (PP with
+                 (NP a (X A[fj]) bar)))
+         and
+         (VP tack-solder
+             (PP in
+                 (NP place)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Cap
+         (NP the (VP locking) bar spacers)
+         (PP with
+             (NP two (X A[fj])))
+         (PP (ADVP directly)
+             under
+             (NP the
+                 first
+                 two
+                 ``
+                 B
+                 ''
+                 pieces))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Remove
+        (NP all
+	    the
+	    (ADJP loose) spacing
+	    bars)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Mark and  center-punch
+	 (NP (NP all
+		 the holes)
+	     (VP required
+		 (PP for
+		     (NP screws))
+		 (S (NP *)
+		    (AUX to)
+		    (VP hold
+			(NP this assembly)
+			(ADVP together)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *) 
+    (VP See
+        (NP Fig. 7)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Placement
+          (PP of
+              (NP these holes)))
+      (VP is
+	  (NEG not)
+	  (ADJP critical)))
+     ,
+     but
+     (S (NP they)
+        (AUX should)
+        (VP be
+            (VP located
+                    
+		(SBAR  so
+		       that
+		       (S (NP the centers)
+			  (VP are
+			      (PP about
+				  (PP (NP 18 ''
+					  '')
+				      from
+				      (NP any edge))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Drill
+	     (NP  all)
+	     (NP No. 50))
+         and
+         (VP counter-drill
+             (NP all
+                 (PP except
+                     (NP the
+                         ``
+                         A
+                         ''
+                         pieces)))
+	     (NP size 43))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Tap
+        (NP the
+            ``
+            A
+            ''
+            pieces)
+        (NP 2-56)))
+ . )
+(  END_OF_TEXT_UNIT)
+(
+ (S (ADVP Now)
+    (S (NP *)
+       (VP  unsolder and  disassemble
+            (NP the frame
+		(PP except
+		    (PP for
+			(NP   (NP the two 12 ''
+				  ''
+				  and
+				  the
+				  first
+				  two 3-34 ''
+				  ''
+				  bars)
+			      *LRB*
+			      (NP ``
+				  A
+				  ''
+				  and
+				  ``
+				  B
+				  ''
+				  pieces)
+			      *RRB*
+			      ,
+			      (SBAR  
+			       (WHNP which)
+			       (S (NP T)
+				  (AUX are)
+				  (VP soldered
+				      (ADVP together)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  Either
+     (S (NP *) 
+	(VP (VP lay
+		(NP the components)
+		(ADVP aside)
+		(PP in
+		    (NP  proper order)))
+	    or
+	    (VP code
+		(NP them)
+		(PP with
+		    (NP (NP numbers) and (NP letters)))
+		(SBAR  so
+		       (S (NP they)
+			  (AUX may)
+			  (VP be
+			      (VP replaced
+				  (PP in
+				      (NP their  proper positions))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Dress
+        (NP all surfaces)
+        (PP with
+            (NP a file))
+        ,
+        (S (NP *)
+           (VP cleaning
+               (PRT off)
+               (NP all solder and drilling burrs)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Drill
+         (NP 20 No.
+             47 holes)
+         (PP in
+             (NP  the  upper piece
+		  (NP ``
+                      A
+                      '')))
+         (PP as
+             (S (NP *)
+                (VP shown
+                    (PP in
+                        (NP Fig. 7)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+ (  
+ (S  (NP *)
+     (VP Tap
+         (NP these)
+	 (NP 3-48))
+     (PP for
+	 (S  (NP *)
+	     (VP mounting
+		 (NP the  electrical contact)
+		 (ADVP later
+		       on)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Note
+	,
+	(SBAR 0
+	      (S (NP 6
+		     and
+		     8 lock levers)
+		 (AUX do)
+		 (NEG n't)
+		 (VP require
+		     (NP holes
+			 (PP for
+			     (NP contacts))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Now)
+     (S  (NP *) 
+         (VP reassemble
+             (NP the frame)
+             ,
+             (S (NP *)
+                (VP using
+                    (NP (X A[fj]) roundhead steel screws and nuts))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)  
+      (VP Put
+          (NP (NP the 12 tappets)
+              and
+              (NP some (X A[fj]) locking bar spacers))
+          (PP in
+              (NP the frame)))
+      (S (NP *)
+	 (AUX to)
+	 (VP help
+	     (VP align
+		 (NP all
+		     the components))))
+      (PP before
+	  (S (NP you)
+	     (VP tighten
+		 (NP the screws)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Be
+           (ADJP sure
+                 (SBAR 0
+                       (S (NP the tappets)
+                          (AUX are)
+                          (NEG not)
+                          (VP pinched
+                               
+                              (PP by
+                                  (NP a
+                                      (ADJP twisted)
+                                      (ADJP (NP 12 ''
+						'')
+					    sq.)
+				      spacer))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+        (NP an anchor
+            (PP for
+                (NP the spring lock))))
+    ,
+    (S  (NP *) 
+        (VP insert
+            (NP a (X A[fj]) bar)
+            (PP in
+                (NP the
+		    lower
+		    left
+                    corner
+                    (PP of
+                        (NP the frame))))
+            (PP as
+                (S (NP *) 
+                   (VP shown
+                       (PP in
+                           (NP Fig. 7))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Drill
+             (NP a
+                 No. 43
+                 hole)
+             (PP through
+                 (NP the pieces)))
+         and
+         (VP secure
+             (PP with
+                 (NP a 2-56 nut and screw)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)  
+     (VP (VP Drill
+             (NP (NP two
+                     No. 50
+                     holes)
+                 ,
+                 (NP (NP one
+                         (PP in
+                             (NP the insert)))
+                     and
+                     (NP one
+                         (PP in
+			     (NP (NP the locking bar spacer)
+				 (PP (ADVP directly)
+				     above
+				     (NP it))))))))
+         ,
+         and
+         (VP tap
+             (NP 2-56))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (NP *)
+     (VP Number
+         (NP all
+	     the tappet bars))
+     (PP before
+	 (S  (NP *)
+	     (VP removing
+		 (NP them))))
+     (SBAR  so
+	    (S (NP they)
+	       (AUX can)
+	       (VP be
+		   (VP replaced
+                         
+		       (PP in
+			   (NP the  same slots)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Remove
+             (NP all
+		 other
+		 loose
+                 pieces))
+         and
+         (VP file
+             (NP the edges
+                 (PP of
+                     (NP the  basic frame)))
+             (ADJP smooth))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Cut
+        (NP five pieces
+            (PP of
+		(NP (X A[fj]) brass bar stock)))
+	(ADVP   (NP 3-34 ''
+		    '')
+		long)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX are)
+   (NP  (VP  supporting)
+        members
+        (PP for
+            (NP the
+		short
+		(VP locking)
+                bars))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP (VP Locate
+            (NP their positions)
+            (PP in
+                (NP Fig. 7)))
+        and
+        (VP drill
+            (NP No. 43)
+            (S (NP *)
+               (AUX to)
+               (VP match
+                   (NP the  (VP corresponding) holes
+                       (PP in
+                           (NP the frame))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP (VP Cut
+            (PRT off)
+            (NP  excess screw lengths))
+        and
+        (VP file
+            (ADJP flush
+                  (PP with
+		      (NP  either
+			   (NP frame) or (NP nut)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Drill
+        (NP (NP four No.
+                19)
+            and
+            (NP four No.
+                28 holes))
+        (PP in
+            (NP the (ADJP (NP 12 ''
+			      '')
+			  long)
+                ``
+                A
+                ''
+                pieces))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Locate
+           (NP the position)
+           (PP from
+               (NP Fig. 7))))
+   .)
+(  END_OF_TEXT_UNIT)
+(X  (NP (NP Tappets)
+	and
+	(NP (VP locking) bars))
+    )
+(  
+ (S (NP *)
+    (VP (VP Draw-file
+	    (NP  No.
+		 1 tappet)
+	    (PP to
+		(NP a  smooth fit
+		    (PP in
+			(NP its  respective slot)))))
+	and
+	(VP  square
+	    (NP the ends))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Break
+        (NP the  end corners)
+        (PP with
+            (NP a
+		slight
+                45 degree chamfer))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Drill
+	     (NP a
+		 No. 50
+		 hole)
+	     (PP (NP 1-14
+		     ''
+		     '')
+		 from
+		 (NP one end)))
+	 and
+	 (VP tap
+	     (NP 2-56))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  *LRB*
+     (NP *) 
+     (VP See
+         (NP Fig. 7))
+     *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP *) 
+     (VP (VP Put
+             (NP a 2-56 roundhead screw)
+             (PP into
+                 (NP the hole)))
+         ,
+         (VP cut
+             (PRT off)
+             (NP the excess threads))
+         and
+         (VP file
+             (ADJP flush
+		   (PP with
+		       (NP the underside
+			   (PP of
+			       (NP the bar))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+        (AUX To)
+        (VP find
+            (NP the other stop screw position)))
+    ,
+    (S  (NP *) 
+        (VP (VP insert
+                (NP the tappet)
+                (PP into
+                    (NP the frame)))
+            and
+            (VP hold
+                (NP the screw head)
+		(PP (ADVP tight)
+		    against
+                    (NP the frame edge))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *) 
+     (VP Scribe
+         (NP a line)
+         (PP across
+             (NP the bar
+                 (PP on
+                     (NP the other end
+                         (PP of
+                             (NP the tappet))))))
+         ,
+	 (ADVP (NP (NP 14 ''
+		       '')
+		   plus
+		   (NP (NP (NP half)
+			   (NP the diameter
+			       (PP of
+				   (NP the 2-56 screw head))))
+		       *LRB*
+		       (NP  about
+			    564 ''
+			    '')
+		       *RRB*))
+	       away
+               (PP from
+                   (NP the frame edge)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Total distance)
+   (VP is
+       (NP  about
+	   2164 ''
+	   '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP Tend
+        (S (NP *)
+           (AUX to)
+           (VP make
+               (NP this dimension)
+               (ADJP   slightly
+		       undersize))))
+    (SBAR  so
+	   (S (NP you)
+	      (AUX can)
+	      (VP file
+		  (NP the screw head)
+		  (S (NP *)
+		     (AUX to)
+		     (VP get
+			 (NP  exactly
+			      14 ''
+			      ''
+			      tappet movement)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP (VP Drill
+	    (NP a
+		No. 50
+		hole))
+	,
+	(VP tap
+	    (NP 2-56))
+	and
+	(VP insert
+	    (NP a
+		roundhead 2-56
+		screw)))
+    (PP as
+	(S (NP you)
+	   (VP did
+	       (PP on
+		   (NP the first end))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Drill
+        (NP a
+            No. 47
+            hole)
+        (ADVP crosswise)
+        (PP through
+            (NP the tappet))
+        (PP at
+            (NP (NP the position)
+                (VP shown
+                    (PP in
+                        (NP  Figs. 7
+                             and
+                             8)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP Repeat
+        (NP these drill and tap operations)
+        (PP for
+            (NP each
+                (PP of
+                    (NP the tappet bars))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (PP To
+         (NP each tappet
+             (PP except
+                 (NP 6
+                     and
+                     8))))
+     ,
+     (S  (NP *) 
+         (VP (VP solder
+                 (NP a (X A[fj]) piece
+                     (PP of
+                         (NP brass))))
+             and
+             (VP file
+                 (PP to
+                     (NP (NP the (ADJP tapered) shape)
+                         (VP shown
+                             (PP in
+                                 (NP Figs. 6
+                                     and
+                                     8)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX will)
+   (VP serve
+       (PP as
+           (NP lifting pads))
+       (PP for
+           (NP the  electrical contacts))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (S (S  (NP *) 
+		(VP (VP Fitting
+			(NP the  locking bars))))
+	    and
+	    (S (NP *)
+	       (VP making
+		   (NP the  locking pieces)))))
+     (VP is
+         (NP a  
+             (ADJP  rather
+                   tedious) job))
+     (SBAR since
+           (S (NP (NP stop screws)
+                  ,
+                  (NP tappets)
+                  and
+                  (NP (VP locking) bars))
+              (AUX must)
+              (VP be
+		  (VP  (VP removed)
+		       and
+		       (VP replaced))
+		  (NP many times)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END _OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP the work)
+	      (VP progresses)))
+    (S (NP (NP the frame)
+           and
+           (NP   (VP moving)
+		 parts))
+       (VP become
+           (NP a sort
+               (PP of
+                   (NP (NP  Chinese puzzle)
+                       (SBAR 
+                        (WHADVP where)
+                        (S (NP several pieces)
+                           (AUX must)
+                           (VP be
+                               (VP removed)
+                               )
+                           (PP before
+                               (S (NP (NP the part)
+                                      (SBAR 0
+                                            (S (NP you)
+                                               (AUX are)
+                                               (VP working
+						   (PP on
+						       (NP T) )))))
+                                  (VP is
+                                      (ADJP accessible))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A  little  extra work)
+   (ADVP here)
+   (AUX will)
+   (VP pay
+       (PRT off)
+       (PP with
+           (NP a
+               (ADJP smooth
+                     ,
+                     snug-fitting)
+               machine)))
+   (SBAR 
+    (WHADVP when)
+    (S (NP you)
+       (AUX are)
+       (VP finished
+	   ))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Each
+	(VP completed)
+	(VP locking)
+        bar)
+    (AUX should)
+    (VP remain
+        (PP in
+            (NP place))
+        (SBAR  as
+	       (S (NP the work)
+		  (VP progresses))))
+    (S (NP *)
+       (AUX to)
+       (VP insure
+	   (NP  snug fitting))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The order
+       (PP of
+           (NP fitting)))
+   (VP is
+       (NEG not)
+       (ADJP   too
+	      important)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP we)
+         (VP (VP started
+                 (PP with
+                     (NP the first row
+                         (PP of
+                             (NP bars)))))
+             and
+             (VP worked
+                 (NP our way)
+		 (ADVP back)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  Since
+           (S (NP the  same method
+                  (PP of
+                      (S  (NP *)
+                          (VP  shaping
+			       and
+			       fitting
+			       (NP the dogs and notches)))))
+              (AUX is)
+              (VP used
+                  (ADVP throughout))))
+    ,
+    (S (NP we)
+       (AUX will)
+       (ADVP only)
+       (VP describe
+           (NP the construction
+               (PP of
+                   (NP one locking bar))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP Figs. 7
+         and
+         8)
+     (VP give
+         (NP all  pertinent dimensions)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All
+       the bars)
+   (AUX are)
+   (VP cut
+             
+       (PP from
+           (NP (X A[fj]) brass))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The lengths
+       (PP of
+           (NP each piece)))
+   (AUX are)
+   (VP listed
+             
+       (PP at
+           (NP the bottom
+               (PP of
+                   (NP Fig. 7))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT
+   END_OF_TEXT_UNIT)
+(
+ (S (NP Bar
+        ``
+        C
+        '')
+    (VP is
+	(ADJP (NP 2-34 ''
+		  '')
+	      long)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP (VP Draw-file
+             (NP the edges))
+         ,
+         (VP square
+             (PRT up)
+             (NP the ends))
+         and
+         (VP put
+             (NP a  slight chamfer)
+             (PP on
+                 (NP the edges))
+             (PP so
+                 (S (NP they)
+                    (AUX will)
+                    (NEG not)
+                    (VP snag
+                        (PP in
+                            (NP the frame))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Fig. 8)
+   (VP gives
+       (NP the dimensions
+           (PP for
+               (S  (NP *)
+                   (VP locating
+                       (NP the  dog-pin holes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP   Center-punch 
+	   and 
+	   drill
+	   (NP the
+	       No. 31
+	       hole)
+	   (PP (NP 716
+		   ''
+		   '')
+	       from
+	       (NP one end
+		   (PP of
+		       (NP the bar))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+         (VP Chuck
+             (NP a length
+                 (PP of
+                     (NP 18 ''
+                         ''
+                         dia. drill rod)))
+             (PP into
+                 (NP (NP a drill press)
+                     or
+                     (NP some
+			 similar
+			 (VP turning)
+                         device)))))
+     and
+     (S (SBAR while
+              (S (NP it)
+                 (AUX is)
+                 (VP rotating)))
+        (S  (NP *) 
+            (VP (VP file
+                    (NP the end square))
+                and
+                (ADVP then)
+                (VP file
+                    (NP (NP a  slight taper)
+                        (ADJP (NP 18 ''
+				  '')
+                              long)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP (VP Cut
+            (NP the piece)
+            (ADVP  (NP  about
+			932 ''
+			''
+			or
+			516 ''
+			'')
+		   long))
+        and
+        (VP drive
+            (NP it)
+            (PP into
+                (NP (NP the
+                        No. 31
+                        hole)
+                    (VP drilled
+                        (PP in
+                            (NP the  (VP locking) bar))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP File
+        (NP the bottom edge)
+        (ADJP flush
+              (PP with
+                  (NP (NP the bar)
+                      and
+		      (NP the
+			  top 18
+			  ''
+			  ''
+			  (PP above
+			      (NP the bar))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This dog)
+   (AUX will)
+   (VP engage
+       (NP (NP a notch)
+           (S (NP *)
+              (AUX to)
+              (VP be
+                  (VP cut
+                            
+                      (PP in
+                          (NP tappet 3))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)
+    (VP (VP Place
+            (NP the (VP locking) bar)
+            (PP in
+                (NP  proper position)))
+        and
+        (VP insert
+            (NP tappet 3))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Scribe
+           (NP a line)
+           (PP (PP through
+                   (NP the center
+                       (PP of
+                           (NP the pin))))
+               and
+               (PP across
+                   (NP the face
+                       (PP of
+                           (NP tappet 3)))))
+           ,
+           (ADJP parallel
+                 (PP to
+		     (NP piece
+			 (NP  ``
+			      A
+			      ''))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *) 
+    (VP See
+        (NP the drawings))
+    (PP for
+	(NP the shape
+	    (PP of
+		(NP the notch)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP (VP Scribe
+               (NP  V-shaped lines)
+               (PP on
+                   (NP the bar)))
+           and
+           (VP rough
+               (PRT out)
+               (PP with
+                   (NP  either
+                       (NP a hack saw)
+                       or
+                       (NP a cutting disk
+                           (PP in
+                               (NP a hand power tool))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP used
+        (NP (NP the latter)
+	    (VP equipped
+		(PP with
+		    (NP (NP (NP a  carborundum disk)
+			    (X   about
+				 (ADJP (X '')
+				       thick)
+				 and
+				 (NP  1 ''
+				      ''
+				      dia.)))
+			(VP fitted
+			    (PP on
+				(NP a (NP 18 ''
+					  ''
+					  dia.) mandrel)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such disks)
+   (VP are
+       (ADJP   very
+	       handy)
+       (PP for
+	   (S  (NP *) 
+	       (VP   cutting
+		     and
+		     shaping
+		     (NP  small parts))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP File
+           (PP to
+               (NP a  smooth finish))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       Barrette Swiss
+       pattern file)
+   (VP is
+       (ADJP handy))
+   (SBAR since
+         (S (NP its  triangular shape
+                (PP with
+                    (NP  
+                     (ADVP only)
+                     one
+                     (VP cutting)
+                     face)))
+            (AUX will)
+            (VP allow
+                (NP you)
+                (S (NP *)
+                   (AUX to)
+                   (VP work
+                       (NP a surface)
+                       (PP without
+                           (S  (NP *)
+                               (VP marring
+                                   (NP an  (VP adjoining) one))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Endeavor
+           (S (NP *)
+              (AUX to)
+              (VP get
+                  (NP the notches)
+		  (ADJP (ADJP  as
+			       much)
+			alike
+			(PP as
+			    (ADJP possible)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The notch)
+   (AUX should)
+   (VP have
+       (NP a  smooth finish))
+   (SBAR  so
+	  that
+	  (S (NP the steel dog)
+	     (AUX will)
+	     (VP slide
+		 (ADVP easily)
+		 (PP over
+		     (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP (VP Assemble
+               (NP the parts)
+               (PP in
+                   (NP the frame)))
+           and
+           (VP test
+               (NP the  (VP sliding) action
+                   (PP of
+                       (NP the  (VP mating) pieces))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All  (VP matching) surfaces)
+   (AUX should)
+   (VP be
+       (VP  (VP checked
+                (ADVP frequently))
+            and
+            (VP mated
+                (PP on
+                    (NP a (VP cut and fit) basis))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Chuck
+        (NP a 2 ''
+            ''
+            or
+            3 ''
+            ''
+            piece
+            (PP of
+                (NP (NP 18 ''
+			''
+			dia.) drill rod)))
+        (PP in
+            (NP (NP a drill press)
+                or
+                (NP  electric hand tool)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)  
+      (VP Fashion
+          (NP (NP a  sharp  (VP scribing) point)
+	      (ADJP (NP   about
+			  364 ''
+			  '')
+		    long)
+	      (PP on
+		  (NP one end)))
+          ,
+          (S (NP *) 
+             (VP using
+                 (NP Swiss pattern files)))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This tool)
+   (AUX can)
+   (ADVP also)
+   (VP be
+       (VP made
+           (PP with
+               (NP a lathe)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

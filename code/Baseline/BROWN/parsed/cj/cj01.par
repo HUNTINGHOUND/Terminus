@@ -1,0 +1,1978 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (NP 1)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Introduction))
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (AUX has)
+   (ADVP recently)
+   (VP become
+       (ADJP practical))
+   (S-1 (NP *)
+	(AUX to)
+	(VP use
+	    (NP the radio emission
+		(PP of
+		    (NP (NP the moon) and (NP planets))))
+	    (PP as
+		(NP a new source
+		    (PP of
+			(NP information
+			    (PP about
+				(NP (NP these bodies)
+				    and
+				    (NP their atmospheres))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The results
+       (PP of
+	   (NP present observations
+	       (PP of
+		   (NP the thermal radio emission
+		       (PP of
+			   (NP the moon)))))))
+   (VP are
+       (ADJP consistent
+	     (PP with
+		 (NP (NP  the
+			  (ADJP very
+				low) thermal
+			  conductivity
+			  (PP of
+			      (NP the surface layer)))
+		     (SBAR  
+		      (WHNP which)
+		      (S (NP T)
+			 (AUX was)
+			 (VP derived
+		  
+			     (PP from
+				 (NP the variation
+				     (PP in
+					 (NP the infrared emission
+					     (PP during
+						 (NP (NP eclipses)
+						     *LRB*
+						     (NP e.g.
+							 ,
+							 (NP (NP Garstung)
+							     ,
+							     (NP 1958)))
+						     *RRB*))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (ADJP  sufficiently
+		    accurate and complete) measurements)
+	 (VP are
+	     (ADJP available))))
+     ,
+     (S (NP it
+	    (S-2 *pseudo-attach*))
+	(AUX will)
+	(VP be
+	    (ADJP possible))
+	(S-2 (NP *)
+	     (AUX to)
+	     (VP set
+		 (NP limits)
+		 (PP on
+		     (NP the (ADJP thermal and electrical) characteristics
+			 (PP of
+			     (NP the surface
+				 and
+				 subsurface materials
+				 (PP of
+				     (NP the moon))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Observations
+        (PP of
+            (NP the radio emission
+                (PP of
+                    (NP (NP a planet)
+			(SBAR  
+			 (WHNP which)
+			 (S (NP T)
+			    (VP has
+				(NP an extensive atmosphere)))))))))
+    (X (X (AUX will)
+	  (VP probe
+	      (NP the atmosphere)
+	      (PP to
+		  (NP a
+		      greater
+		      extent
+		      (PP than
+			  (NP (NP those)
+			      (VP using
+				  (NP shorter wave lengths))))))))
+       and
+       (X  
+	(AUX should)
+	(PP in
+	    (NP some cases))
+	(VP give
+	    (NP  (ADJP otherwise
+		       unobtainable) information
+		       (PP about
+			   (NP the characteristics
+			       (PP of
+				   (NP the solid surface)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Radio observations
+      (PP of
+	  (NP (NP Venus)
+	      and
+	      (NP Jupiter))))
+  (AUX have)
+  (ADVP already)
+  (VP supplied
+      (NP 
+       (ADJP unexpected) experimental
+       data
+       (PP on
+	   (NP the physical conditions
+	       (PP of
+		   (NP these planets)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP observed) intensity
+       (PP of
+	   (NP the radio emission
+	       (PP of
+		   (NP Venus)))))
+   (VP is
+       (ADJP  much
+	      higher
+	      (PP than
+		  (NP the
+		      (VP expected) thermal
+		      intensity))))
+   ,
+   (SBAR although
+	 (S (NP (NP the spectrum)
+		(VP indicated
+		    (PP by
+			(NP measurements
+			    (PP at
+				(NP wave lengths
+				    (PP near
+					(NP (NP 3 cm)
+					    and
+					    (NP 10 cm)))))))))
+	    (VP is
+		(PP like
+		    (NP that
+			(PP of
+			    (NP a black body))
+			(PP at
+			    (NP (ADVP about)
+				600-degrees))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This result)
+   (VP suggests
+       (NP a
+	   (ADJP  very
+		  high) temperature
+	   (PP at
+	       (NP the solid surface
+		   (PP of
+		       (NP the planet))))))
+   ,
+   (SBAR although
+	 (S (NP there)
+	    (VP is
+		(NP the possibility
+		    (SBAR (SBAR that
+				(S (NP the (VP observed) radiation)
+				   (AUX may)
+				   (VP be
+				       (NP a combination
+					   (PP of
+					       (NP both (ADJP thermal and non-thermal)
+						   components))))))
+			  and
+			  (SBAR that
+				(S (NP the (VP observed) spectrum)
+				   (VP is
+				       (NP that
+					   (PP of
+					       (NP a black body)))
+				       (PP  (ADVP merely)
+					    by
+					    (NP coincidence)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (NP the case
+	      (PP of
+		  (NP Jupiter))))
+      ,
+      (S (NP the radio emission spectrum)
+	 (VP is
+	     (ADVP definitely)
+	     (NEG not)
+	     (PP like
+		 (NP the spectrum
+		     (PP of
+			 (NP a black-body radiator)))))))
+     ,
+     and
+     (S (NP it
+	    (SBAR-3 *pseudo-attach*))
+	(VP seems
+	    (ADJP  very
+		   likely))
+	(SBAR-3 that
+		(S (NP (NP the radiation)
+		       (VP reaching
+			   (NP the earth)))
+		   (VP is
+		       (NP a combination
+			   (PP of
+			       (NP (NP thermal radiation
+				       (PP from
+					   (NP the atmosphere)))
+				   and
+				   (NP non-thermal components)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP Of
+	  (NP the remaining planets))
+      ,
+      (S  
+       (NP  (ADVP only)
+	    Mars
+	    and
+	    Saturn)
+       (AUX have)
+       (VP been
+	   (VP observed
+	        
+	       (PP as
+		   (NP radio sources))))))
+     ,
+     and
+     (S (NP (ADJP (NEG not)
+		  very
+		  much) information)
+	(VP is
+	    (ADJP available))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Mars)
+      (AUX has)
+      (VP been
+	  (VP observed
+	      (ADVP twice)
+	      (PP at
+		  (NP (ADVP about)
+		      3-cm wave length)))))
+     ,
+     and
+     (S (NP the intensity
+	    (PP of
+		(NP the (VP observed) radiation)))
+	(VP is
+	    (PP in
+		(NP reasonable agreement
+		    (PP with
+			(NP (NP the thermal radiation)
+			    (SBAR 
+			     (WHNP which)
+			     (S (NP T)
+				(AUX might)
+				(VP be
+				    (VP predicted
+					))
+				(PP on
+				    (NP the basis
+					(PP of
+					    (NP the  
+						(ADJP known)
+						temperature
+						(PP of
+						    (NP Mars)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The low intensity
+	  (PP of
+	      (NP the radiation
+		  (PP from
+		      (NP Saturn)))))
+      (AUX has)
+      (VP limited
+	  (NP observations)))
+     ,
+     but
+     (ADVP again)
+     (S (NP the (VP measured) radiation)
+	(VP seems
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (ADJP consistent
+			 (PP with
+			     (NP a thermal origin))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP No attempts
+	 (S (NP *)
+	    (AUX to)
+	    (VP measure
+		(NP the radio emission
+		    (PP of
+			(NP the (VP remaining) planets))))))
+     (AUX have)
+     (VP been
+	 (VP reported
+	     )))
+    ,
+    and
+    (S ,
+       (ADVP because
+	     (PP of
+		 (NP their distances
+		     ,
+		     small diameters
+		     ,
+		     or
+		     low temperatures)))
+       ,
+       (S  (NP the thermal radiation
+	       (PP at
+		   (NP (NP radio wave lengths)
+		       (VP reaching
+			   (NP the earth)
+			   (PP from
+			       (NP these sources))))))
+	   (AUX is)
+	   (VP expected
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (PP of
+			  (NP  (ADJP very
+				     low) intensity))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP spite
+	   (PP of
+	       (NP this))))
+   ,
+   (S (NP (NP (NP the
+		  (ADJP  very
+			 large) radio reflectors)
+	      and
+	      (NP  (ADJP improved)
+		   amplifying
+		   techniques))
+	  (SBAR  
+	   (WHNP which)
+	   (S (NP T)
+	      (AUX are)
+	      (ADVP now)
+	      (VP becoming
+		  (ADJP available)))))
+      (AUX should)
+      (VP make
+	  (NP it
+	      (S-4 *pseudo-attach*))
+	  (ADJP possible)
+	  (S-4 (NP *)
+	       (AUX to)
+	       (VP observe
+		   (NP the radio emission
+		       (PP of
+			   (NP  most
+				(PP of
+				    (NP the planets))))))))
+      (PP in
+	  (NP a few years))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The study
+	(PP of
+	    (NP the radio emission
+		(PP of
+		    (NP  the moon and planets)))))
+    (VP began
+	(PP with
+	    (NP the detection
+		(PP of
+		    (NP the thermal radiation
+			(PP of
+			    (NP the moon))))
+		(PP at
+		    (NP 1.25-cm wave length))
+		(PP by
+		    (NP (NP (NP Dicke)
+			    and
+			    (NP Beringer))
+			*LRB*
+			(NP 1946)
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (AUX was)
+    (VP followed
+		 
+	(PP by
+	    (NP a comprehensive series
+		(PP of
+		    (NP observations
+			(PP of
+			    (NP the 1.25-cm emission
+				(PP of
+				    (NP the moon))))
+			(PP over
+			    (NP three lunar cycles))
+			(PP by
+			    (NP (NP (NP Piddington)
+				    and
+				    (NP Minnett))
+				*LRB*
+				(NP 1949)
+				*RRB*))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP deduced
+	(PP from
+	    (NP their measurements))
+	(SBAR (SBAR that
+		    (S (NP the radio emission
+			   (PP from
+			       (NP the whole disk
+				   (PP of
+				       (NP the moon)))))
+		       (VP varied
+		      
+			   (PP during
+			       (NP a lunation))
+			   (PP in
+			       (NP a
+				   (ADJP  roughly
+					  sinusoidal) fashion)))))
+	      ;
+	      ;
+	      (SBAR that
+		    (S (NP the amplitude
+			   (PP of
+			       (NP the variation)))
+		       (VP was
+			   (ADJP  considerably
+				  less
+				  (PP than
+				      (NP the amplitude
+					  (PP of
+					      (NP the variation
+						  (PP in
+						      (NP the infrared emission))))
+					  (PP as
+					      (S (NP *)  
+						 (VP measured
+						     (PP by
+							 (NP (NP (NP (NP Pettit)
+								     and
+								     (NP
+								      Nicholson))
+								 *LRB*
+								 (NP 1930)
+								 *RRB*)
+							     and
+							     (NP  (NP Pettit)
+								  *LRB*
+								  (NP 1935)
+								  *RRB*))))))))))))
+	      ;
+	      ;
+	      and
+	      (SBAR that
+		    (S (S (NP the maximum
+			      (PP of
+				  (NP the radio emission)))
+			  (VP came
+			      (PP (NP (ADVP about)
+				      3-12 days)
+				  after
+				  (NP Full Moon))))
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP is
+			       (ADVP again)
+			       (PP in
+				   (NP contrast
+				       (PP to
+					   (NP (NP the infrared emission)
+					       ,
+					       (SBAR  
+						(WHNP which)
+						(S (NP T)
+						   (VP reaches
+						       (NP its maximum)
+						       (PP at
+							   (NP Full Moon)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Piddington)
+      and
+      (NP Minnett))
+  (VP explained
+      (NP their observations)
+      (PP by
+	  (S (NP *) 
+	     (VP pointing
+		 (PRT out)
+		 (SBAR that
+		       (S (NP (NP rocklike materials)
+			      (SBAR  
+			       (WHNP which)
+			       (S (NP T)
+				  (VP are
+				      (ADJP likely
+					    (S (NP *)
+					       (AUX to)
+					       (VP make
+						   (PRT up)
+						   (NP the surface
+						       (PP of
+							   (NP the moon))))))))))
+			  (AUX would)
+			  (VP be
+			      (ADJP (ADJP  partially
+					   transparent
+					   (PP to
+					       (NP radio waves)))
+				    ,
+				    (X although
+				       (ADJP opaque
+					     (PP to
+						 (NP infrared radiation)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The infrared emission)
+   (AUX could)
+   (ADVP then)
+   (VP be
+       (VP assumed
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP originate
+		  (PP at
+		      (NP the surface
+			  (PP of
+			      (NP the moon))))))))
+   ,
+   (SBAR while
+	 (S (NP the radio emission)
+	    (VP originates
+		(PP at
+		    (NP (NP some depth
+			    (PP beneath
+				(NP the surface)))
+			,
+			(SBAR 
+			 (WHADVP where)
+			 (S (NP (NP the temperature variation)
+				(ADJP due
+				      (PP to
+					  (NP solar radiation))))
+			    (AUX is)
+			    (VP (VP reduced
+	      
+				    (PP in
+					(NP amplitude)))
+				and
+				(VP shifted
+				    (PP in
+					(NP phase))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP the absorption
+		 (PP of
+		     (NP radio waves))
+		 (PP in
+		     (NP rocklike material)))
+	     (VP varies
+		 (PP with
+		     (NP wave length)))))
+   ,
+   (S (NP it
+	  (S-5 *pseudo-attach*))
+      (AUX should)
+      (VP be
+	  (ADJP possible))
+      (S-5 (NP *)
+	   (AUX to)
+	   (VP (VP sample
+		   (NP the temperature variation)
+		   (PP at
+		       (NP different depths
+			   (PP beneath
+			       (NP the surface)))))
+	       and
+	       (VP  (ADVP possibly)
+		    detect
+		    (NP changes
+			(PP in
+			    (NP the structure or composition
+				(PP of
+				    (NP the lunar surface material))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The radio emission
+	(PP of
+	    (NP a planet)))
+    (AUX was)
+    (ADVP first)
+    (VP detected
+	)
+    (PP in
+	(NP (NP 1955)
+	    ,
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP (NP (NP Burke)
+			and
+			(NP Franklin))
+		    *LRB*
+		    (NP 1955)
+		    *RRB*)
+		(VP identified
+		    (NP the origin
+			(PP of
+			    (NP (ADJP interference-like) radio noise
+				(PP on
+				    (NP their records))
+				(PP at
+				    (NP (ADVP about)
+					15 meters
+					wave length)))))
+		    (PP as
+			(NP emission
+			    (PP from
+				(NP Jupiter))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This sporadic type
+	(PP of
+	    (NP planetary radiation)))
+    (AUX is)
+    (VP discussed
+		 
+	(PP by
+	    (NP (NP (NP Burke)
+		    *LRB*
+		    (NP chap. 13)
+		    *RRB*)
+		and
+		(NP (NP Gallet)
+		    *LRB*
+		    (NP chap. 14)
+		    *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Steady radiation)
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (VP was
+		(ADVP presumably)
+		(PP of
+		    (NP thermal origin))))))
+    (AUX was)
+    (VP  (VP observed
+	     (PP (PP (PP from
+			 (NP Venus))
+		     (PP at
+			 (NP (NP 3.15)
+			     and
+			     (NP 9.4 cm))))
+		 ,
+		 and
+		 (PP  (PP from
+			  (NP (NP Mars)
+			      and
+			      (NP Jupiter)))
+		      (PP at
+			  (NP 3.15 cm))))
+	     (PP in
+		 (NP 1956))
+	     *LRB*
+	     (NP (NP (NP Mayer)
+		     ,
+		     (NP McCullough)
+		     ,
+		     and
+		     (NP Sloanaker))
+		 ,
+		 (NP 1958)
+		 ,
+		 (NP A
+		     ,
+		     B
+		     ,
+		     C))
+	     *RRB*)
+	 ,
+	 and
+	 (X (PP from
+		(NP Saturn))
+	    (PP at
+		(NP 3.75 cm))
+	    (PP in
+		(NP 1957))
+	    *LRB*
+	    (NP (NP Drake)
+		and
+		(NP Ewen))
+	    ,
+	    (NP 1958)
+	    *RRB*)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP the
+	       (ADJP  relatively
+		      short) time)
+	   (PP  since
+		(NP these early observations))))
+   ,
+   (S (S (NP Venus)
+	 (AUX has)
+	 (VP been
+	     (VP observed
+		 
+		 (PP at
+		     (NP additional wave lengths
+			 (PP in
+			     (NP the range
+				 (PP (PP from
+					 (NP 0.8))
+				     (PP to
+					 (NP 10.2 cm))))))))))
+      ,
+      and
+      (S (NP Jupiter)
+	 (AUX has)
+	 (VP been
+	     (VP observed
+		 (PP over
+		     (NP the wave-length range
+			 (PP (PP from
+				 (NP 3.03))
+			     (PP to
+				 (NP 68 A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP observable) characteristics
+       (PP of
+	   (NP planetary radio radiation)))
+   (VP are
+       (NP the intensity
+	   ,
+	   the polarization
+	   ,
+	   and
+	   the direction
+	   (PP of
+	       (NP arrival
+		   (PP of
+		       (NP the waves)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       maximum angular
+       diameter
+       (PP of
+	   (NP any planetary disk)))
+   (PP as
+       (S (NP *) 
+	  (VP observed
+	      (PP from
+		  (NP the earth)))))
+   (VP is
+       (NP (ADVP about)
+	   1 minute
+	   (PP of
+	       (NP arc)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP is
+	  (ADJP  much
+		 smaller
+		 (PP than
+		     (NP the
+			 highest
+			 resolution
+			 (PP of
+			     (NP  (ADVP even)
+				  the
+				  (ADJP  very
+					 large) reflectors
+				  (PP  (ADVP now)
+				       under
+				       (NP construction)))))))))
+     ,
+     and
+     (S  (ADVP consequently)
+	 (S (NP the radio emission
+		(PP of
+		    (NP different regions
+			(PP of
+			    (NP the disk)))))
+	    (AUX can)
+	    (NEG not)
+	    (VP be
+		(VP resolved
+		    )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-6 *pseudo-attach*))
+   (AUX should)
+   (VP be
+       (ADJP possible))
+   ,
+   (ADVP however)
+   ,
+   (S-6 (NP *)
+	(AUX to)
+	(VP put
+	    (NP useful limits)
+	    (PP on
+		(NP the diameters
+		    (PP of
+			(NP the radio sources))))
+	    (PP by
+		(S  (NP *) 
+		    (VP observing
+			(PP (PP with
+				(NP large reflectors))
+			    or
+			    (PP with
+				(NP interferometers)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Measurements
+       (PP of
+	   (NP polarization)))
+   (AUX are)
+   (X (VP (ADVP presently)
+	  limited
+	  (PP by
+	      (NP apparatus sensitivity)))
+      and
+      (X  
+       (AUX will)
+       (VP remain
+	   (ADJP difficult))
+       (ADVP because
+	     (PP of
+		 (NP the low intensity
+		     (PP of
+			 (NP the planetary radiation
+			     (PP at
+				 (NP the earth))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX have)
+   (VP been
+       (NP few measurements
+	   (PP  (ADVP specifically)
+		for
+		(NP the determination
+		    (PP of
+			(NP the polarization
+			    (PP of
+				(NP planetary radiation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The measurements)
+      (VP made
+	  (PP with
+	      (NP (NP the NRL (ADJP 50-foot) reflector)
+		  ,
+		  (SBAR  
+		   (WHNP which)
+		   (S (NP T)
+		      (VP is
+			  (ADJP altitude-azimuth-mounted))))
+		  ,))))
+  (AUX would)
+  (VP have
+      (VP shown
+	  (NP a systematic change)
+	  (PP with
+	      (NP local hour angle))
+	  (PP in
+	      (NP the (VP measured) intensities
+		  (PP of
+		      (NP (NP Venus)
+			  and
+			  (NP Jupiter)))))))
+  (SBAR if
+	(S (NP a substantial part
+	       (PP of
+		   (NP the radiation)))
+	   (AUX had)
+	   (VP been
+	       (VP  (ADVP linearly)
+		    polarized
+		    )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP Recent interferometer measurements)
+	 *LRB*
+	 (NP (NP (NP Radhakrishnan)
+		 and
+		 (NP Roberts))
+	     ,
+	     (NP 1960))
+	 *RRB*)
+     (AUX have)
+     (VP shown
+	 (S (S (NP the (ADJP 960-mc) emission
+		   (PP of
+		       (NP Jupiter)))
+	       (AUX to)
+	       (VP be
+		   (ADJP   (ADVP partially)
+			   polarized
+			   )))
+	    and
+	    (S (NP *)
+	       (AUX to)
+	       (VP originate
+		   (PP in
+		       (NP a region
+			   (PP of
+			       (NP 
+				larger
+				diameter
+				(PP than
+				    (NP the visible disk)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADJP Other
+	 (PP than
+	     (NP this
+		 (ADJP  very
+			significant) result)))
+   ,
+   (S (NP most
+	  (PP of
+	      (NP (NP the information
+		      (PP-7 *pseudo-attach*))
+		  (ADJP  (ADVP now)
+			 available)
+		  (PP-7 about
+			(NP the radio emission
+			    (PP of
+				(NP the planets)))))))
+      (AUX is)
+      (VP restricted
+	   
+	  (PP to
+	      (NP the intensity
+		  (PP of
+		      (NP the radiation)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The concept
+	(PP of
+	    (NP apparent black-body temperature)))
+    (AUX is)
+    (VP used
+	 
+	(S (NP *)
+	   (AUX to)
+	   (VP describe
+	       (NP (NP the radiation)
+		   (VP received
+		       (PP from
+			   (NP (NP the moon)
+			       and
+			       (NP the planets)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP received) radiation)
+   (AUX is)
+   (VP compared
+	     
+       (PP with
+	   (NP the radiation
+	       (PP from
+		   (NP (NP a
+			   hypothetical black
+			   body)
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP subtends
+			       (NP the
+				   same solid
+				   angle
+				   (PP as
+				       (NP the visible disk
+					   (PP of
+					       (NP the planet))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       apparent black-body
+       disk temperature)
+   (VP is
+       (NP (NP the temperature)
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (AUX must)
+	       (VP be
+		   (VP assumed
+		     
+		       (PP for
+			   (NP the black body))))
+	       (SBAR (PP in
+			 (NP order))
+		     that
+		     (S (NP the intensity
+			    (PP of
+				(NP its radiation)))
+			(AUX should)
+			(VP equal
+			    (NP that
+				(PP of
+				    (NP the (VP observed) radiation)))
+			    ))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The use
+	  (PP of
+	      (NP this concept)))
+      (AUX does)
+      (NEG not)
+      (VP specify
+	  (NP the origin
+	      (PP of
+		  (NP the radiation))))
+      ,
+      and
+      (SINV
+       (SBAR  (ADVP only)
+	      if
+	      (S (NP the planet)
+		 (ADVP really)
+		 (VP radiates
+		     (PP as
+			 (NP a black body)))))
+       ,
+       (AUX will)
+       (NP the
+	   apparent black-body
+	   temperature)
+       (VP correspond
+	   (PP to
+	       (NP the physical temperature
+		   (PP of
+		       (NP the (VP emitting) material))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The radio radiation
+	    (PP of
+		(NP the sun)))
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (AUX is)
+	    (VP reflected
+		  
+		(PP from
+		    (NP the moon and planets))))))
+    (AUX should)
+    (VP be
+	(ADJP negligible))
+    (S (NP *)
+       (VP compared
+	   (PP with
+	       (NP their thermal emission
+		   (PP at
+		       (NP centimeter wave lengths))))))
+    ,
+    (PP except
+	(ADVP possibly)
+	(PP at
+	    (NP times
+		(PP of
+		    (NP exceptional outbursts
+			(PP of
+			    (NP solar radio noise))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The quiescent level
+       (PP of
+	   (NP centimeter wave-length solar radiation)))
+   (AUX would)
+   (VP increase
+       (NP the average disk brightness temperature)
+       (PP by
+	   (NP less
+	       (PP than
+		   (NP 1-degree))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP meter wave lengths))
+     (S
+      (NP an increase
+	  (PP of
+	      (NP the order
+		  (PP of
+		      (NP 10-degrees))))
+	  (PP in
+	      (NP the average disk temperatures
+		  (PP of
+		      (NP the
+			  nearer
+			  planets)))))
+      (AUX would)
+      (VP be
+	  (VP expected))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP *) 
+	 (VP neglecting
+	     (NP the extreme outbursts)))
+      ,
+      (S (NP (VP reflected)
+	     solar radiation)
+	 (AUX is)
+	 (NEG not)
+	 (VP expected
+	  
+	     (S (NP *)
+		(AUX to)
+		(VP cause
+		    (NP sizable errors
+			(PP in
+			    (NP the measurements
+				(PP of
+				    (NP planetary radiation
+					(PP in
+					    (NP the centimeter
+						-
+						and
+						decimeter-wave-length range))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 2)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP The
+	 moon)
+     (NP 2.1)
+     (NP observations)))
+((S (S (NP Radio observations
+	    (PP of
+		(NP the moon)))
+	(AUX have)
+	(VP been
+	    (VP made
+	      
+		(PP over
+		    (NP the range
+			(PP of
+			    (NP wave lengths))
+			(PP (PP from
+				(NP 4.3 mm))
+			    (PP to
+				(NP 75 cm))))))))
+     ,
+     and
+     (S (NP the results)
+	(AUX are)
+	(VP summarized
+	     
+	    (PP in
+		(NP Table 1)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Observations)
+       (AUX have)
+       (ADVP also)
+       (VP been
+	   (VP made
+		     
+	       (PP at
+		   (NP 1.5 mm))))
+       (S  (NP *) 
+	   (VP using
+	       (NP optical techniques))))
+    *LRB*
+    (NP (NP Sinton)
+	,
+	(NP (NP 1955)
+	    ,
+	    (NP 1956))
+	,)
+    ;
+    ;
+    (S (NP *)  
+       (VP see
+	   (ADVP also)
+	   (NP chap. 11)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (S (NP  Not
+	    all
+	    the observers)
+       (AUX have)
+       (VP (VP used
+	       (NP the same procedures))
+	   or
+	   (VP made
+	       (NP the same assumptions
+		   (PP about
+		       (NP the lunar brightness distribution)))
+	       (SBAR (WHADVP when)
+		     (S (NP *) 
+			(VP reducing
+			    (NP the data)))))))
+    ,
+    and
+    (S  
+     (NP this)
+     ,
+     (ADVP together
+	   (PP with
+	       (NP differences
+		   (PP in
+		       (NP the methods
+			   (PP of
+				    
+			       (S  (NP *) 
+				   (VP calibrating
+				       (NP the antennae and
+					   receivers)))))))))
+     ,
+     (AUX must)
+     (VP account
+	 (PP for
+	     (NP much
+		 (PP of
+		     (NP the disagreement
+			 (PP in
+			     (NP the (VP measured) radio brightness temperatures)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP the observations
+	      (PP (PP at
+		      (NP 4.3 mm))
+		  *LRB*
+		  (NP (NP Coates)
+		      ,
+		      (NP 1959))
+		  *RRB*)))
+      ,
+      (S (NP (NP the diameter
+		 (PP of
+		     (NP the antenna beam)))
+	     ,
+	     (NP 6'.7)
+	     ,)
+	 (VP was
+	     (ADJP small
+		   enough
+		   (S (NP *)
+		      (AUX to)
+		      (VP allow
+			  (NP resolution
+			      (PP of
+				  (NP some
+				      (PP of
+					  (NP the
+					      larger
+					      features
+					      (PP of
+						  (NP the lunar surface)))))))))))))
+     ,
+     and
+     (S (NP contour diagrams
+	    (PP-8 *pseudo-attach*))
+	(AUX have)
+	(VP been
+	    (VP made))
+	(PP-8 of
+	      (NP the lunar brightness distribution
+		  (PP at
+		      (NP three lunar phases))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These observations)
+   (VP indicate
+       (SBAR that
+	     (S (NP the lunar maria)
+		(VP (VP heat
+			(PRT up)
+			(ADVP more rapidly
+			      (PP-9 *pseudo-attach*)))
+		    and 
+		    (ADVP also)
+		    (VP  cool
+			 (PRT off)
+			 (ADVP more rapidly
+			       (PP-9 *pseudo-attach*)))
+		    (PP-9 than
+			  (SINV  (AUX do)
+				 (NP the mountainous regions))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mare Imbrium)
+   (VP (VP seems
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (NP an exception))))
+       and
+       (VP remains
+	   (ADJP cooler
+		 (PP than
+		     (NP (NP the regions)
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (VP surround
+				 (NP it))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These contour diagrams)
+   (ADVP also)
+   (VP suggest
+       (NP a
+	   (ADJP  rather
+		  rapid) falloff
+	   (PP in
+	       (NP the radio brightness))
+	   (PP with
+	       (NP latitude)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S   (ADVP Very
+	       recently)
+	 ,
+	 (S (NP observations)
+	    (AUX have)
+	    (VP been
+		(VP made
+		     
+		    (PP at
+			(NP 8-mm wave length))
+		    (PP with
+			(NP (NP a
+				reflector)
+			    (PP (NP  22
+				     meters)
+				in
+				(NP diameter))))
+		    (PP with
+			(NP a resultant beam width
+			    (PP of
+				(NP   (ADVP only)
+				      (ADVP about)
+				      2
+				      '))))))))
+    *LRB*
+    (NP (NP (NP Amenitskii)
+	    ,
+	    (NP Noskova)
+	    ,
+	    and
+	    (NP Salomonovich))
+	,
+	(NP 1960))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The constant-temperature contours)
+       (VP are
+	   (ADJP  much
+		  smoother
+		  (PP than
+		      (NP (NP those)
+			  (ADJP observed
+				(PP at
+				    (NP 4.3 mm))
+				(PP by
+				    (NP (NP Coates)
+					*LRB*
+					(NP 1959)
+					*RRB*))))))))
+    and
+    (S  (ADVP apparently)
+	(S (NP the emission
+	       (PP at
+		   (NP 8 mm)))
+	   (VP is
+	       (NEG not)
+	       (ADJP   (ADVP nearly)
+		       so
+		       sensitive
+		       (PP to
+			   (NP differences
+			       (PP in
+				   (NP surface features)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Such high-resolution
+    observations
+    (PP as
+	(NP these)))
+   (AUX are)
+   (VP needed
+	     
+       (PP at
+	   (NP several wave lengths)))
+   (SBAR (PP in
+	     (NP order))
+	 that
+	 (S (NP the radio emission
+		(PP of
+		    (NP the moon)))
+	    (AUX can)
+	    (VP be
+		(VP  (ADVP properly)
+		     interpreted
+		     )))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The observations
+	  (PP of
+	      (NP (NP Mayer)
+		  ,
+		  (NP McCullough)
+		  ,
+		  and
+		  (NP Sloanaker)))
+	  (PP at
+	      (NP 3.15 cm)))
+      and
+      (X  
+       (PP of
+	   (NP Sloanaker))
+       (PP at
+	   (NP 10.3 cm))))
+  (X (X (AUX have)
+	(NEG not)
+	(ADVP previously)
+	(VP been
+	    (VP published
+		)))
+     and
+     (X  
+      (AUX will)
+      (VP be
+	  (VP (NP briefly)
+	      described)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Measurements
+	(PP at
+	    (NP 3.15 cm)))
+    (AUX were)
+    (VP obtained
+	)
+    (PP on
+	(NP (NP 11 days)
+	    (VP spread
+		(PP over
+		    (NP (NP the interval)
+			(NP (NP  May
+				 3
+				 (PP to
+				     (NP June 19)))
+			    ,
+			    (NP 1956)))))))
+    ,
+    (S (NP *) 
+       (VP using
+	   (NP the (ADJP 50-foot) reflector
+	       (PP at
+		   (NP the U.S. Naval Research Laboratory
+		       (PP in
+			   (NP Washington))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The half-intensity diameter
+	  (PP of
+	      (NP the antenna beam)))
+      (VP was
+	  (NP (ADVP about)
+	      9
+	      ')))
+     ,
+     and
+     (S (NP (NP the angle)
+	    (VP  subtended
+		 (PP by
+		     (NP the moon))))
+	(VP included
+	    (NP (NP the entire main beam) 
+		and 
+		(NP part
+		    (PP of
+			(NP the first side lobes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The antenna patterns)
+      and
+      (NP the power gain
+	  (PP at
+	      (NP the peak
+		  (PP of
+		      (NP the beam))))))
+  (AUX were)
+  (NP both)
+  (VP measured
+      *LRB*
+      (NP (NP (NP Mayer)
+	      ,
+	      (NP McCullough)
+	      ,
+	      and
+	      (NP Sloanaker))
+	  ,
+	  (NP 1958))
+      *RRB*)
+  ,
+  (SBAR  so
+	 that
+	 (S (NP the absolute power sensitivity
+		(PP of
+		    (NP the antenna beam))
+		(PP over
+		    (NP the solid angle
+			(PP of
+			    (NP the moon)))))
+	    (AUX was)
+	    (VP known
+		))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The ratio
+      (PP of
+	  (NP the (VP measured) antenna temperature change
+	      (PP during
+		  (NP a drift scan
+		      (PP across
+			  (NP the moon))))))
+      (PP to
+	  (NP the average brightness temperature
+	      (PP of
+		  (NP the moon))
+	      (PP over
+		  (NP the antenna beam)))))
+  *LRB*
+  (VP assuming
+      (SBAR that
+	    (S (NP the brightness temperature
+		   (PP of
+		       (NP the sky)))
+	       (VP is
+		   (ADJP negligible)))))
+  *RRB*
+  (AUX was)
+  (VP found
+      ,
+      (PP by
+	  (NP graphical integration
+	      (PP of
+		  (NP the antenna directivity diagram))))
+      ,
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (NP 0.85)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP measured) brightness temperature)
+   (VP is
+       (NP a good approximation
+	   (PP to
+	       (NP the brightness temperature
+		   (PP at
+		       (NP the center
+			   (PP of
+			       (NP the lunar disk))))))))
+   (X (ADVP  because
+	     (PP of
+		 (NP the narrow antenna beam)))
+      and
+      (SBAR because
+	    (S (NP the temperature distribution
+		   (PP over
+		       (NP the central portion
+			   (PP of
+			       (NP 
+				(NP the moon)
+				's disk)))))
+	       (VP is
+		   (ADJP  (ADVP nearly)
+			  uniform))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The result
+	  (PP of
+	      (NP the observations)))
+      (VP is
+	  (NP A[fj]))
+      (SBAR 
+       (WHADVP where)
+       (S (NP (NP the phase angle)
+	      ,
+	      (NP Q)
+	      ,)
+	  (AUX is)
+	  (VP measured
+	      (PP in
+		  (NP degrees))
+	      (PP from
+		  (NP new moon))))))
+     and
+     (S (NP the probable errors)
+	(VP include
+	    (NP (ADJP (ADJP absolute)
+		      (ADVP as
+			    well
+			    (PP as
+				(ADJP relative))))
+		errors))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This result)
+    (AUX is)
+    (VP plotted
+	   
+	(PP along
+	    (PP with
+		(NP the 8.6-mm observations
+		    (PP of
+			(NP (NP Gibson)
+			    *LRB*
+			    (NP 1958)
+			    *RRB*))
+		    (PP in
+			(NP (NP figure 1)
+			    ,
+			    (NP A))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The variation
+	(PP in
+	    (NP the (ADJP 3-cm) emission
+		(PP of
+		    (NP the moon))
+		(PP during
+		    (NP a lunation)))))
+    (VP is
+	(ADJP    (ADVP very
+		       much)
+		 less
+		 (PP than
+		     (NP the variation
+			 (PP in
+			     (NP the (ADJP 8.6-mm) emission))))))
+    ,
+    (PP as
+	(S  (NP *) 
+	    (AUX would)
+	    (VP be
+		(VP expected
+		      
+		    (PP from
+			(NP the explanation
+			    (PP of
+				(NP (NP (NP Piddington)
+					and
+					(NP Minnett))
+				    *LRB*
+				    (NP 1949)
+				    *RRB*)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP (NP the discussion)
+	     (SBAR 
+	      (WHNP which)
+	      (S (NP T)
+		 (VP follows)))))
+     ,
+     (S (S (NP the time average
+	       (PP of
+		   (NP the radio emission)))
+	   (AUX will)
+	   (VP be
+	       (VP referred
+	        
+		   (PP to
+		       (NP *) )
+		   (PP as
+		       (NP the constant component)))))
+	,
+	and
+	(S (NP the
+	       (VP superimposed) periodic
+	       variation)
+	   (AUX will)
+	   (VP be
+	       (VP called
+	        
+		   (NP the variable component))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP 10.3-cm) observation
+       (PP of
+	   (NP Sloanaker)))
+   (AUX was)
+   (VP made
+	     
+       (PP on
+	   (NP (NP May 20) ,
+	       (NP 1958))))
+   ,
+   (S (NP *) 
+      (VP using
+	  (NP the (ADJP 84-foot) reflector
+	      (PP at
+		  (NP the Maryland Point Observatory
+		      (PP of
+			  (NP the U.S. Naval Research Laboratory))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The age
+       (PP of
+	   (NP the moon)))
+   (VP was
+       (NP (ADVP about)
+	   2 days)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The half-intensity diameter
+	  (PP of
+	      (NP the main lobe
+		  (PP of
+		      (NP the antenna)))))
+      (VP was
+	  (NP (ADVP about)
+	      18'.5)))
+     ,
+     and
+     (S (NP the brightness temperature)
+	(AUX was)
+	(VP reduced
+	     
+	    (PP by
+		(S (NP *) 
+		   (VP (VP assuming
+			   (NP a Gaussian shape)
+			   (PP for
+			       (NP the antenna beam)))
+		       and
+		       (X (NP a
+			      (ADJP  uniformly
+				     bright) disk)
+			  (PP for
+			      (NP the moon)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

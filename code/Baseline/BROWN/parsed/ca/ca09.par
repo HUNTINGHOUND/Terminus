@@ -1,0 +1,2062 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP City Controller Alexander Hemphill)
+   (VP charged
+       (NP Tuesday)
+       (SBAR that
+	     (S (NP the bids
+		    (PP on
+			(NP the Frankford Elevated repair project)))
+		(AUX were)
+		(VP rigged
+		     
+		    (PP to
+			(NP the advantage
+			    (PP of
+				(NP (NP a private contracting company)
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(VP had
+					    (NP  ``
+						 an inside track
+						 '')
+					    (PP with
+						(NP the city))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Estimates
+      (PP of
+	  (NP 
+	   (NP the city)
+	   's loss
+	   (PP in
+	       (NP the
+		   $ 344,000
+		   job)))))
+  (AUX have)
+  (VP ranged
+      (ADJP  as
+	     high
+	     (PP as
+		 (NP $ 200,000)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(   
+ (X (NP Shortcuts)
+    (ADJP unnoticed)))
+((S (NP Hemphill)
+    (VP said
+	(SBAR that
+	      (S (NP the Hughes Steel Erection Co.)
+		 (VP contracted
+		     (S (NP *)
+			(AUX to)
+			(VP do
+			    (NP the work)
+			    (PP at
+				(NP an
+				    (ADJP (ADVP impossibly)
+					  low) cost)))))
+		 (PP with
+		     (NP (NP a bid)
+			 (SBAR (WHNP that)
+			       (S  (NP T) 
+				   (VP was
+				       (ADJP  (ADVP far)
+					      less
+					      (PP than
+						  (NP the
+						      ``
+						      legitimate
+						      ''
+						      bids
+						      (PP of
+							  (NP  (VP competing)
+							       contractors))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Hughes concern)
+      (ADVP then)
+      (X (VP took
+	     (NP  ``
+		  shortcuts
+		  '')
+	     (PP on
+		 (NP the project)))
+	 but
+	 (X (AUX got)
+	    (VP paid
+		(ADVP anyway)))))
+     ,
+     (S (NP Hemphill)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP The Controller)
+       's charge
+       (PP of
+	   (NP rigging)))
+      (VP was
+	  (NP the
+	      latest
+	      development
+	      (PP in
+		  (NP (NP an investigation)
+		      (SBAR 
+		       (WHNP which)
+		       (S   (NP T) 
+			    (ADVP also)
+			    (VP brought
+				(NP these disclosures))
+			    (NP Tuesday))))))))
+     :
+     (S (NP The city)
+	(AUX has)
+	(VP sued
+	    (PP for
+		(NP the full amount
+		    (PP of
+			(NP (NP the
+				$ 172,400
+				performance bond)
+			    (VP covering
+				(NP the contract)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Philadelphia Transportation Co.)
+   (AUX is)
+   (VP investigating
+       (NP (NP the part)
+	   (SBAR 0
+		 (S (NP its organization)
+		    (VP played
+			(NP T)
+			(PP in
+			    (S (NP *) 
+			       (VP reviewing
+				   (NP the project))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The signature
+      (PP of
+	  (NP (NP Harold V. Varani)
+	      ,
+	      (NP former director
+		  (PP of
+		      (NP (NP architecture) and (NP engineering)))
+		  (PP in
+		      (NP the Department
+			  (PP of
+			      (NP Public Property)))))
+	      ,)))
+  (VP appeared
+      (PP on
+	  (NP payment vouchers))
+      (S (NP *) 
+	 (VP certifying
+	     (NP work
+		 (PP on
+		     (NP the project)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Varani)
+   (AUX has)
+   (VP been
+       (VP fired
+		 
+	   (PP on
+	       (NP charges
+		   (PP of
+		       (S (NP *)  
+			  (VP accepting
+			      (NP gifts)
+			      (PP from
+				  (NP the contractor))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Managing Director (NP Donald C. Wagner))
+   (AUX has)
+   (VP agreed
+       (S (NP *)
+	  (AUX to)
+	  (VP cooperate
+	      (ADVP fully)
+	      (PP with
+		  (NP Hemphill)))))
+   (PP after
+       (NP a period
+	   (PP of
+	       (NP sharp disagreement
+		   (PP on
+		       (NP the matter)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The announcement
+       (SBAR that
+	     (S (NP the city)
+		(AUX would)
+		(VP sue
+			  
+		    (PP for
+			(NP recovery
+			    (PP on
+				(NP the performance bond))))))))
+   (AUX was)
+   (VP made
+	     
+       (PP by
+	   (NP City Solicitor (NP David Berger))))
+   (PP at
+       (NP a press conference
+	   (VP following
+	       (NP a meeting
+		   (PP in
+		       (NP the morning))
+		   (PP with
+		       (NP (NP Wagner)
+			   and
+			   (NP other officials
+			       (PP of
+				   (NP (NP the city)
+				       and
+				       (NP the PTC))))
+			   (PP as
+			       well
+			       as
+			       (NP representatives
+				   (PP of
+				       (NP (NP an engineering firm)
+					   (SBAR (WHNP that)
+						 (S  (NP T) 
+						     (AUX was)
+						     (VP pulled
+	      
+							 (PP off
+							     (NP the El project)))
+						     (PP before
+							 (NP its completion
+							     (PP in
+								 (NP 1959)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (X (NP Concern)
+     (ADJP bankrupt)))
+( 
+ (S   
+   (NP (NP (NP The Hughes company)
+	   and
+	   (NP the Consolidated Industries
+	       ,
+	       Inc.
+	       ,))
+       (NP both
+	   (PP of
+	       (NP 3646 N. 2d St.)))
+       ,)
+   (VP filed
+       (PP for
+	   (NP reorganization))
+       (PP under
+	   (NP the Federal bankruptcy law))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP Monday))
+   ,
+   (S (NP the Hughes concern)
+      (AUX was)
+      (VP  (ADVP formally)
+	   declared
+	   (ADJP bankrupt))
+      (PP after
+	  (S (NP its directors)
+	     (VP indicated
+		 (SBAR 0
+		       (S (NP they)
+			  (AUX could)
+			  (NEG not)
+			  (VP draw
+			      (PRT up)
+			      (NP a plan
+				  (PP for
+				      (NP reorganization)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Business relations
+       (PP between
+	   (NP the companies and city)))
+   (AUX have)
+   (VP been
+       (PP under
+	   (NP investigation
+	       (PP by
+		   (NP (NP Hemphill)
+		       and
+		       (NP District Attorney (NP James C. Crumlish
+						 ,
+						 Jr
+						 .))))))))
+  .)
+( 
+ (S (NP *)
+    (VP Intervenes
+	(PP in
+	    (NP case))))
+ )
+( (S
+   (NP The suit)
+   (AUX was)
+   (VP filed
+       (ADVP later
+	     (PP in
+		 (NP the day)))
+       (PP in
+	   (NP Common Pleas Court 7))
+       (PP against
+	   (NP (NP the Hughes company)
+	       and
+	       (NP (NP two
+		       bonding
+		       firms)
+		   .
+		   (NP (NP Travelers Indemnity Co.)
+		       and
+		       (NP the Continental Casualty Co
+			   .)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP At
+	(NP 
+	 (NP Berger)
+	 's direction))
+    ,
+    (S (NP the city)
+       (ADVP also)
+       (VP intervened
+	   (PP in
+	       (NP the Hughes bankruptcy case
+		   (PP in
+		       (NP U.S. District Court)))))
+       (PP in
+	   (NP (NP a move)
+	       (ADJP preliminary
+		     (PP to
+			 (S (NP *)  
+			    (VP filing
+				(NP a claim)
+				(ADVP there)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (AUX am)
+	 (VP taking
+	     (NP the position
+		 (SBAR that
+		       (S (NP the contract)
+			  (AUX was)
+			  (VP  (ADVP clearly)
+			       violated
+			       ))))))
+      ''
+      ,
+      (S (NP Berger)
+	 (VP said
+	     )))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The contract violations)
+   (VP  (ADVP mostly)
+	involve
+	(NP failure
+	    (S (NP *)
+	       (AUX to)
+	       (VP perform
+		   (NP rehabilitation work
+		       (PP on
+			   (NP expansion joints
+			       (PP along
+				   (NP the El track))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP The contract)
+       (VP called
+	   (PP for
+	       (NP  overhauling
+		    (PP of
+			(NP 102 joints))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The city)
+      (VP paid
+	  (PP for
+	      (NP work
+		  (PP on
+		      (NP (NP 75)
+			  ,
+			  (SBAR (WHPP of
+				      (WHNP which))
+				(S
+				 (NP no more
+				     (PP than
+					 (NP 21)))
+				 (AUX were)
+				 (VP repaired
+				     )))))))))
+     ,
+     (S (NP Hemphill)
+	(VP charged)))
+  .) 
+(  END_OF_TEXT_UNIT)
+((NP Wide range
+     (PP in
+	 (NP bids))))
+(   
+ (S (NP Hemphill)
+     (VP said
+	 (SBAR 0
+	       (S (NP the Hughes concern)
+		  (VP contracted
+		      (S (NP *)
+			 (AUX to)
+			 (VP do
+			     (NP the repairs)
+			     (PP at
+				 (NP a cost
+				     (PP of
+					 (NP $ 500
+					     (PP for
+						 (NP each joint)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The bid
+      (PP from
+	  (NP (NP  A. Belanger
+		   and
+		   Sons
+		   (PP of
+		       (NP (NP Cambridge)
+			   ,
+			   (NP Mass.))))
+	      ,
+	      (SBAR  
+	       (WHNP which)
+	       (S (NP T)
+		  (VP listed
+		      (NP the same officers
+			  (PP as
+			      (NP Hughes))))))
+	      ,)))
+  (VP was
+      (NP $ 600
+	  (PP per
+	      (NP joint)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      ,
+      (S (NP Hemphill)
+	 (VP added))
+      ,
+      (S (NP bids
+	     (PP from
+		 (NP other contractors)))
+	 (VP ranged
+	     (PP (PP from
+		     (NP $ 2400
+			 (PP-1 *pseudo-attach*)))
+		 (PP to
+		     (NP $ 3100
+			 (PP-1 per
+			       (NP joint))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   (NP Berger)
+   's decision
+   (S (NP *)
+      (AUX to)
+      (VP sue
+	  (PP for
+	      (NP the full amount
+		  (PP of
+		      (NP the performance bond)))))))
+  (AUX was)
+  (VP questioned
+      (PP by
+	  (NP Wagner)))
+  (PP in
+      (NP the morning press conference)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Wagner)
+   (VP said
+       (SBAR 0
+	     (S (NP the city)
+		(VP paid
+		    (NP  (ADVP only)
+			 $ 37,500)
+		    (PP to
+			(NP the Hughes company)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (AUX wo)
+	 (NEG n't)
+	 (VP know
+	     (NP the full amount))
+	 (PP until
+	     (S (NP we)
+		(VP get
+		    (NP a full report)))))
+      ''
+      ,
+      (S (NP Wagner)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (AUX can)
+	 (VP claim
+	     (PP on
+		 (NP the maximum amount
+		     (PP of
+			 (NP the bond))))))
+      ''
+      ,
+      (S (NP Berger)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Wagner)
+    (VP replied
+	,
+	``
+	(SQ  
+	 (AUX Ca)
+	 (NEG n't)
+	 (NP you)
+	 (VP  (ADVP just)
+	      see
+	      (NP the headline
+		  :
+		  '
+		  (S (NP City)
+		     (VP Hooked
+			 (PP for
+			     (NP $ 172,000))))
+		  ')))
+	''))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)   
+     '
+     (VP know
+	 (ADVP enough
+	       (S (NP *)
+		  (AUX to)
+		  (VP sue))))
+     '))
+((S (NP Berger)
+    (VP insisted
+	(SBAR that
+	      ``
+	      (S (NP we)
+		 (VP know
+		     (ADVP enough))
+		 (S (NP *)
+		    (AUX to)
+		    (VP sue
+			(PP for
+			    (NP the full amount)))))
+	      '')))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Douglas M. Pratt)
+	  ,
+	  (NP president
+	      (PP of
+		  (NP the PTC)))
+	  ,)
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP attended
+	      (NP the meeting)))))
+  ,
+  (VP said
+      (SBAR 0
+	    (S (NP the transit company)
+	       (AUX is)
+	       (VP reviewing
+		   (NP the work
+		       (PP on
+			   (NP the El))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (VP want
+	     (S (NP *)
+		(AUX to)
+		(VP find
+		    (PRT out)
+		    (SBAR (WHNP who)
+			  (S  (NP T) 
+			      (VP knew
+				  (PP about
+				      (NP it)))))))))
+      ''
+      ,
+      (S (NP Pratt)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Certain people)
+      (AUX must)
+      (VP have
+	  (VP known
+	      (PP about
+		  (NP it)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP The PTC)
+	 (AUX is)
+	 (VP investigating
+	     (NP the whole matter)))
+      ''
+      ,
+      (S (NP Pratt)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Samuel D. Goodis)
+      ,
+      (VP representing
+	  (NP the Philadelphia Hotel Association))
+      ,)
+  (VP objected
+      (PP on
+	  (NP Tuesday))
+      (PP to
+	  (NP a proposed boost
+	      (PP by
+		  (NP the city))
+	      (PP in
+		  (NP licensing fees)))))
+  ,
+  (S (NP *) 
+     (VP saying
+	 (SBAR that
+	       (S (NP occupancy rates
+		      (PP in
+			  (NP major hotels))
+		      (ADVP here))
+		  (VP ranged
+		      (PP (PP from
+			      (NP 48))
+			  (PP to
+			      (NP 74 percent))))
+		  (NP last year))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Goodis)
+   (VP voiced
+       (NP his objection)
+       (PP before
+	   (NP 
+	    (NP City Council)
+	    's
+	    Finance Committee))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (NP hotels
+	      (PP with
+		  (NP 1000 rooms))))
+      ,
+      (S (NP the increased license fee)
+	 (AUX would)
+	 (VP mean
+	     (NP an expense
+		 (PP of
+		     (NP (NP $ 5000)
+			 (NP a year)))))))
+     ,
+     (S (NP Goodis)
+	(VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (VP Testifies
+	 (PP at
+	     (NP hearing)))))
+((S (NP His testimony)
+    (VP came
+	(PP during
+	    (NP a hearing
+		(PP on
+		    (NP (NP a bill)
+			(VP raising
+			    (NP fees
+				(PP for
+				    (NP a wide variety
+					(PP of
+					    (NP (NP licenses)
+						,
+						(NP permits) 
+						and
+						(NP city services)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The new fees)
+   (AUX are)
+   (VP expected
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP raise
+	      (X (NP an additional $
+		     740,000)
+		 (PP in
+		     (NP the remainder
+			 (PP of
+			     (NP 1961))))
+		 and
+		 (NP (NP $ 2,330,000
+			 more)
+		     (NP a year))
+		 (PP after
+		     (NP that)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ordinance)
+   (AUX would)
+   (VP increase
+       (NP the fee
+	   (PP for
+	       (NP  (NP rooming
+			houses)
+		    ,
+		    (NP hotels)
+		    and
+		    (NP (ADJP multi-family) dwellings))))
+       (PP to
+	   (NP (NP $ 5)
+	       (NP a room)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cost
+       (PP of
+	   (NP a license)))
+   (ADVP now)
+   (VP is
+       (NP $ 2)
+       ,
+       (PP with
+	   (NP an annual renewal fee
+	       (PP of
+		   (NP $ 1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Goodis)
+   (VP said
+       (SBAR that
+	     (S (NP single rooms)
+		(VP account
+		    (PP for
+			(NP 95 percent
+			    (PP of
+				(NP the accomodations)))))
+		(PP in
+		    (NP some hotels))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S   
+  (NP Revenue)
+  (VP estimated)))
+
+((S (NP The city)
+    (VP expects
+	(S (NP the
+	       higher
+	       rooming
+	       house
+	       ,
+	       hotel and apartment house
+	       fees)
+	   (AUX to)
+	   (VP bring
+	       (PRT in)
+	       (NP (NP an additional $
+		       457,000)
+		   (NP a year))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The increase)
+   (ADVP also)
+   (AUX was)
+   (VP opposed
+        
+       (PP by
+	   (NP (NP Leonard Kaplan)
+	       ,
+	       (NP spokesman
+		   (PP for
+		       (NP the Home Builders Association
+			   (PP of
+			       (NP Philadelphia)))))
+	       ,))
+       (PP on
+	   (NP behalf
+	       (PP of
+		   (NP (NP association members)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP operate
+			       (NP apartment houses))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP A proposal
+       (S (NP *)
+	  (AUX to)
+	  (VP raise
+	      (NP dog license fees))))
+   (VP drew
+       (NP an objection)
+       (PP from
+	   (NP (NP Councilwoman (NP Virginia Knauer))
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S   (NP T) 
+		     (ADVP formerly)
+		     (VP raised
+			 (NP pedigreed
+			     dogs))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ordinance)
+   (AUX would)
+   (VP increase
+       (NP fees)
+       (PP from
+	   (NP (NP $ 1
+		   (PP for
+		       (NP males)))
+	       and
+	       (NP $ 2
+		   (PP for
+		       (NP females)))))
+       (PP to
+	   (NP (NP a flat $
+		   5)
+	       (NP a dog)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S
+  (NP Commissioner)
+  (VP replies)
+  ))
+((S (NP Mrs. Knauer)
+    (VP said
+	(SBAR 0
+	      (S (NP she)
+		 (AUX did)
+		 (NEG not)
+		 (VP think
+		     (SBAR 0
+			   (S (NP dog owners)
+			      (AUX should)
+			      (VP be
+				  (VP penalized
+				        
+				      (PP for
+					  (NP 
+					   (NP the city)
+					   's services
+					   (PP to
+					       (NP animal care)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP reply))
+   ,
+   (S (NP Deputy Police Commissioner Howard R. Leary)
+      (VP said
+	  (SBAR that
+		(S (NP the city)
+		   (VP (VP spends
+			   (NP more
+			       (PP than
+				   (NP $ 115,000)))
+			   (ADVP annually)
+			   (S (NP *)
+			      (AUX to)
+			      (VP license and regulate
+				  (NP dogs))))
+		       but
+		       (VP collects
+			   (NP  only
+				$ 43,000
+				(PP in
+				    (NP fees))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP reported
+	(SBAR that
+	      (S (NP
+		  (NP the city)
+		  's contributions
+		  (PP for
+		      (NP animal care)))
+		 (VP included
+		     (NP (NP $ 67,000
+			     (PP to
+				 (NP 
+				  (NP the Women)
+				  's S.P.C.A.)))
+			 ;
+			 ;
+			 (NP (NP $ 15,000)
+			     (S  (NP T) 
+				 (AUX to)
+				 (VP pay
+				     (NP (NP six policemen)
+					 (VP assigned
+					     (PP as
+						 (NP dog catchers)))))))
+			 and
+			 (NP  (NP $
+				  15,000)
+			      (S  (NP T) 
+				  (AUX to)
+				  (VP investigate
+				      (NP dog bites))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)   
+     (VP Backs
+	 (NP higher
+	     fees))))
+(  
+ (S (NP City Finance Director (NP Richard J. McConnell))
+    (VP indorsed
+	(NP (NP the
+		higher
+		fees)
+	    ,
+	    (SBAR (WHNP which)
+		  ,
+		  (S (S (NP he)
+			(VP said))
+		     ,
+		     (S  (NP T) 
+			 (AUX had)
+			 (VP been
+			     (PP under
+				 (NP study))
+			     (PP for
+				 (NP more
+				     (PP than
+					 (NP a year)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The city)
+   (AUX is)
+   (NEG not)
+   (VP  (ADVP adequately)
+	compensated
+	     
+	(PP for
+	    (NP (NP the services)
+		(VP covered
+		    (PP by
+			(NP the fees))))))
+   ,
+   (S (NP he)
+      (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The new fee schedule)
+   (ADVP also)
+   (AUX was)
+   (VP supported
+        
+       (PP by
+	   (NP (NP (NP Commissioner
+		       (PP of
+			   (NP (NP Licenses)
+			       and
+			       (NP Inspections))))
+		   (NP Barnet Lieberman))
+	       and
+	       (NP Health Commissioner (NP Eugene A. Gillis))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP (NP Petitions)
+	  (VP asking
+	      (PP for
+		  (NP a jail term
+		      (PP for
+			  (NP Norristown attorney
+			      (NP Julian W. Barnard)))))))
+      (AUX will)
+      (VP be
+	  (VP presented
+	      
+	      (PP to
+		  (NP the Montgomery County Court))))
+      (NP Friday))
+   ,
+   (S (NP it)
+      (AUX was)
+      (VP disclosed
+	     
+	  (NP Tuesday)
+	  (PP by
+	      (NP (NP Horace A. Davenport)
+		  ,
+		  (NP counsel
+		      (PP for
+			  (NP the widow
+			      (PP of
+				  (NP (NP the man)
+				      (VP killed
+					  (NP last Nov.
+					      1)
+					  (PP by
+					      (NP 
+					       (NP Barnard)
+					       's hit-run car)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The petitions)
+      (AUX will)
+      (VP be
+	  (VP presented
+		 
+	      (PP in
+		  (NP open court))
+	      (PP to
+		  (NP President Judge (NP William F. Dannehower))))))
+     ,
+     (S (NP Davenport)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Barnard)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP pleaded
+	      (NP no defense)
+	      (PP to
+		  (NP manslaughter and hit-run charges)))))
+      ,)
+  (AUX was)
+  (VP (VP fined
+       
+	  (NP $ 500)
+	  (PP by
+	      (NP Judge Warren K. Hess)))
+      ,
+      and
+      (VP placed
+	  (PP on
+	      (NP 
+	       (NP two years)
+	       ' probation))))
+  (VP providing
+      (S (NP he)
+	 (AUX does)
+	 (NEG not)
+	 (VP drive)
+	 (PP during
+	     (NP that time)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX was)
+    (VP (VP caught
+	    (S (NP *) 
+	       (VP driving))
+	    (NP  (NP the day)
+		 (PP after
+		     (S (NP the sentence)
+			(AUX was)
+			(VP pronounced
+			    )))))
+	and
+	(VP given
+	    (NP a warning))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Victim
+       (PP of
+	   (NP the accident)))
+   (VP was
+       (NP (NP Robert Lee Stansbery
+	       ,)
+	   (NP 39))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His widow)
+   (VP started
+       (NP the circulation
+	   (PP of
+	       (NP petitions))))
+   (PP after
+       (S (NP Barnard)
+	  (AUX was)
+	  (VP reprimanded
+			    
+	      (PP for
+		  (S (NP *) 
+		     (VP violating
+			 (NP the probation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The City Planning Commission)
+   (PP on
+       (NP Tuesday))
+   (VP approved
+       (NP agreements
+	   (PP between
+	       (NP (NP two redevelopers)
+		   and
+		   (NP the Redevelopment Authority)))
+	   (PP for
+	       (NP the purchase
+		   (PP of
+		       (NP land))
+		   (PP in
+		       (NP the
+			   $ 300,000,000
+			   Eastwick Redevelopment Area project)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The commission)
+   (ADVP also)
+   (VP approved
+       (NP (NP a novel plan)
+	   (SBAR  (WHNP that)
+		  (S (NP T)  
+		     (AUX would)
+		     (VP eliminate
+			 (NP traffic hazards
+			     (PP for
+				 (NP pedestrians))
+			     (PP in
+				 (NP the project)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One
+       (PP of
+	   (NP the agreements)))
+   (VP calls
+       (PP for
+	   (S (NP the New Eastwick Corp.)
+	      (AUX to)
+	      (VP purchase
+		  (NP a 1311 acre tract)
+		  (PP for
+		      (NP $ 12,192,865)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tract)
+   (AUX is)
+   (VP bounded
+	     
+       (PP by
+	   (NP (NP Island Ave.)
+	       ,
+	       (NP Dicks Ave.)
+	       ,
+	       (NP 61st
+		   St.)
+	       ,
+	       and
+	       (NP Eastwick Ave
+		   .)))))
+  .)
+((S (NP Four parks)
+    (VP planned)))
+((S (NP It)
+    (X (X (AUX is)
+	  (VP designated
+	  
+	      (PP as
+		  (NP Stage 1
+		      Residential))
+	      (PP on
+		  (NP 
+		   (NP the Redevelopment Authority)
+		   's master plan))))
+       and
+       (X  
+	(AUX will)
+	(VP feature
+	    (NP (NP row houses)
+		,
+		(NP garden apartments)
+		,
+		(NP four small parks)
+		,
+		(NP schools)
+		,
+		(NP churches)
+		,
+		(NP a shopping center)
+		and
+		(NP several small clusters
+		    (PP of
+			(NP stores))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The corporation)
+   (AUX was)
+   (VP formed
+	     
+       (PP by
+	   (NP (NP the Reynolds Metal Co.)
+	       and
+	       (NP (NP the Samuel A.
+		       and
+		       Henry A. Berger firm)
+		   ,
+		   (NP a Philadelphia builder)
+		   ,)))
+       (PP for
+	   (NP work
+	       (PP in
+		   (NP the project))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The second agreement)
+   (VP permits
+       (S  (NP the authority)
+	   (AUX to)
+	   (VP sell
+	       (NP (NP a 520-acre tract)
+		   (ADVP west
+			 (PP of
+			     (NP Stage 1
+				 Residential))))
+	       (PP to
+		   (NP (NP (NP Philadelphia Builders Eastwick Corp.)
+			   ,
+			   (NP (NP a firm)
+			       (VP composed
+				   (PP of
+				       (NP 10 Philadelphia area builders))))
+			   ,)
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP is
+			       (ADJP interested
+				     (PP in
+					 (S (NP *) 
+					    (VP developing
+						(NP part
+						    (PP of
+							(NP the project))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S   (NP *) 
+      (AUX Would)
+      (VP bar
+	  (NP vehicles))))
+((S (NP The plan
+	(PP for
+	    (S (NP *) 
+	       (VP eliminating
+		   (NP traffic hazards
+		       (PP for
+			   (NP pedestrians)))))))
+    (AUX was)
+    (VP developed
+	  
+	(PP by
+	    (NP (NP Dr. Constantinos A. Doxiadis)
+		,
+		(NP (NP  
+		     former
+		     Minister
+		     (PP of
+			 (NP Reconstruction))
+		     (PP in
+			 (NP Greece)))
+		    and
+		    (NP a consulting planner
+			(PP for
+			    (NP the New Eastwick Corp
+				.))))))))
+ .)
+( (S
+   (NP The plan)
+   (VP calls
+       (PP for
+	   (S (NP *) 
+	      (VP dividing
+		  (NP the project)
+		  (PP into
+		      (NP (NP 16 sectors)
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (AUX would)
+			      (VP be
+				  (VP barred
+		     
+				      (PP to
+					  (NP vehicular traffic)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP provides
+       (PP for
+	   (NP (NP a series
+		   (PP of
+		       (NP (VP landscaped)
+			   walkways)))
+	       and
+	       (NP (NP a central esplanade)
+		   (SBAR (WHNP that)
+			 (S  (NP T) 
+			     (AUX would)
+			     (ADVP eventually)
+			     (VP run
+				 (PP through
+				     (NP the center
+					 (PP of
+					     (NP the entire (ADJP two-and-a-half-mile) length
+						 (PP of
+						     (NP the project))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The esplanade)
+   (VP eliminates
+       (NP (NP Grovers Ave.)
+	   ,
+	   (SBAR 
+	    (WHNP which)
+	    (S  
+	     (PP on
+		 (NP original plans))
+	     (S (NP T)
+		(VP ran
+		    (PP through
+			(NP the center
+			    (PP of
+				(NP the development)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The esplanade)
+   (AUX would)
+   (VP feature
+       (NP pedestrian bridges
+	   (PP over
+	       (NP roads
+		   (PP in
+		       (NP the project)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP    
+  (NP (NP Kansas City)
+      ,
+      (NP Mo.)
+      ,)
+  (NP Feb. 9)
+  *LRB*
+  (NP UPI)
+  *RRB*)
+ --)
+((S (NP The president
+	(PP of
+	    (NP the Kansas City
+		local
+		(PP of
+		    (NP the International Association
+			(PP of
+			    (NP Fire Fighters)))))))
+    (AUX was)
+    (VP (ADVP severly)
+	injured)
+    (NP today)
+    (SBAR (WHADVP when)
+	  (S (NP a bomb)
+	     (VP tore
+		 (NP his car)
+		 (ADVP apart))
+	     (SBAR  as
+		    (S (NP he)
+		       (VP left
+			   (NP home)
+			   (PP for
+			       (NP work))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Battalion Chief (NP Stanton M. Gladden))
+      ,
+      (NP 42)
+      ,
+      (NP the central figure
+	  (PP in
+	      (NP a representation dispute
+		  (PP between
+		      (NP (NP the fire fighters
+			      association)
+			  and
+			  (NP the teamsters
+			      union))))))
+      ,)
+  (VP suffered
+      (NP multiple fractures
+	  (PP of
+	      (NP both
+		  ankles)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (PP in
+	   (NP Baptist Memorial hospital))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP Ignition)
+    (VP sets
+	(PRT off)
+	(NP blast)))
+   )
+( (S
+   (NP The battalion chief)
+   (VP said
+       (SBAR 0
+	     (S (NP he)
+		(AUX had)
+		(VP  (ADVP just)
+		     gotten
+		     (PP into
+			 (NP his 1958 model automobile)))
+		(S (NP *)
+		   (AUX to)
+		   (VP move
+		       (NP it)
+		       (PP from
+			   (NP the driveway
+			       (PP of
+				   (NP his home)))))
+		   (SBAR  so
+			  that
+			  (S (NP he)
+			     (AUX could)
+			     (VP take
+				 (NP his other car)
+				 (PP to
+				     (NP work))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (AUX 'd)
+	 (VP  (ADVP just)
+	      turned
+	      (PRT on)
+	      (NP the ignition))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (S (NP there)
+		(VP was
+		    (NP a big flash)))
+	     and
+	     (S (NP I)
+		(AUX was)
+		(VP lying
+		    (PP on
+			(NP the driveway)))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP 
+       (NP Gladden)
+       's wife)
+      and
+      (NP (NP two
+	      (PP of
+		  (NP his sons)))
+	  ,
+	  (NP (NP (NP John)
+		  ,
+		  (NP 17))
+	      ,
+	      and
+	      (NP (NP Jim)
+		  ,
+		  (NP 13)))
+	  ,))
+  (VP were
+      (PP inside
+	  (NP the house))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       younger
+       boy)
+   (VP said
+       (SBAR 0
+	     (S (NP the blast)
+		(VP knocked
+		    (NP him)
+		    (PP (PP out
+			    (PP of
+				(NP bed)))
+			and
+			(PP against
+			    (NP the wall))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Hood)
+      (VP flies
+	  (PP over
+	      (NP house))))
+   )
+( (S
+   (NP The explosion)
+   (VP sent
+       (NP the hood
+	   (PP of
+	       (NP the car)))
+       (VP flying
+	   (PP over
+	       (NP the roof
+		   (PP of
+		       (NP the house)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       left front
+       wheel)
+   (VP landed
+       (ADVP (NP 100 feet)
+	     away)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Police laboratory technicians)
+    (VP said
+	(SBAR 0
+	      (S (NP (NP the explosive device)
+		     ,
+		     (VP containing
+			 (NP either
+			     (NP TNT)
+			     or
+			     (NP nitroglycerine)))
+		     ,)
+		 (AUX was)
+		 (ADVP apparently)
+		 (VP placed
+        
+		     (PP under
+			 (NP the left front wheel)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (ADVP first)
+   (VP believed
+        
+       (SBAR 0
+	     (S (NP the bomb)
+		(AUX was)
+		(VP rigged
+		 
+		    (PP to
+			(NP 
+			 (NP the car)
+			 's starter)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gladden)
+   (AUX had)
+   (VP (VP been
+	   (NP the target
+	       (PP of
+		   (NP  (ADJP threatening)
+			telephone calls)))
+	   (PP in
+	       (NP recent months)))
+       and
+       (VP  (ADVP reportedly)
+	    received
+	    (NP one)
+	    (NP last night))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The fire department
+       (ADVP here))
+   (AUX has)
+   (VP been
+       (VP torn
+		 
+	   (PP for
+	       (NP months))
+	   (PP by
+	       (NP (NP (NP dissension)
+		       (VP involving
+			   (NP top personnel)))
+		   and
+		   (NP the fight
+		       (PP between
+			   (NP (NP the fire fighters
+				   association)
+			       and
+			       (NP the teamsters
+				   union)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (VP Led
+	 (NP fight
+	     (PP on
+		 (NP teamsters))))))
+((S (NP Gladden)
+     (X (X (AUX has)
+	   (VP been
+	       (NP an outspoken critic
+		   (PP of
+		       (NP the present city administration)))))
+	and
+	(VP led
+	    (NP 
+	     (NP his union)
+	     's battle
+	     (PP against
+		 (NP (NP the teamsters)
+		     ,
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP T)
+			 (VP began
+			     (S (NP *) 
+				(VP organizing
+				    (NP city firemen))
+				(PP in
+				    (NP 1959))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The fire fighters
+      association
+      (ADVP here))
+  (VP offered
+      (NP a
+	  $ 5,000
+	  reward)
+      (PP for
+	  (NP (NP information)
+	      (VP leading
+		  (PP to
+		      (NP the arrest
+			  (PP of
+			      (NP (NP the person or persons)
+				  (ADJP responsible
+					(PP for
+					    (NP the bombing))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP  A
+       $ 500
+       reward)
+  (AUX was)
+  (VP offered
+	 
+      (PP by
+	  (NP (NP the association)
+	      's local
+	      (PP in
+		  (NP (NP Kansas City)
+		      ,
+		      (NP Kas
+			  .)))))))
+ .)
+( (S
+   (NP The association)
+   (VP said
+       (SBAR 0
+	     (S (NP it)
+		(AUX would)
+		(VP post
+		    (NP 24 hour guards)
+		    (PP (PP at
+			    (NP 
+			     (NP Gladden)
+			     's home))
+			and
+			(PP at
+			    (NP those
+				(PP of
+				    (NP (NP James Mining)
+					and
+					(NP Eugene Shiflett)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Mining)
+      (VP is
+	  (NP secretary-treasurer
+	      (PP of
+		  (NP the local)))))
+     and
+     (S (NP Shiflett)
+	(VP is
+	    (NP a member
+		(PP of
+		    (NP its executive committee))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Both)
+   (AUX have)
+   (VP been
+       (ADJP active
+	     (PP in
+		 (NP the association)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP   
+  (NP (NP Ankara)
+      ,
+      (NP Turkey)
+      ,)
+  (NP Oct. 24)
+  *LRB*
+  (NP AP)
+  *RRB*)
+ --)
+((S (NP
+     Turkish political
+     leaders)
+    (VP (VP bowed
+	    (NP today)
+	    (PP to
+		(NP military pressure)))
+	and
+	(VP agreed
+	    (S (NP *)
+	       (AUX to)
+	       (VP form
+		   (NP an emergency national front government)
+		   (PP with
+		       (X (NP Gen. Cemal Gursel)
+			  (PP as
+			      (NP president)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP An agreement
+	(PP between
+	    (NP the leaders
+		(PP of
+		    (NP (NP four parties)
+			(SBAR  
+			 (WHNP which)
+			 (S (NP T)
+			    (VP contested
+				(NP indecisive elections
+				    (PP on
+					(NP Oct. 15)))))))))))
+    (AUX was)
+    (VP reached
+	)
+    (PP after
+	(NP  (ADVP almost)
+	     18 hours
+	     (PP of
+		 (NP political bargaining))
+	     (PP under
+		 (NP the threat
+		     (PP of
+			 (NP an army coup d'etat)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP *) 
+	 (VP By-passing
+	     (NP (NP the military junta)
+		 (SBAR  
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX has)
+		     (VP ruled
+			 (NP Turkey))
+		     (PP since
+			 (NP the overthrow
+			     (PP of
+				 (NP Premier Adnan Menderes))
+			     (ADVP (NP 17 months)
+				   ago))))))))
+      ,
+      (S  (NP (NP the army general staff)
+	      ,
+	      (VP led
+	     
+		  (PP by
+		      (NP Gen. Cedvet Sunay)))
+	      ,)
+	  (AUX had)
+	  (VP set
+	      (NP a deadline
+		  (PP for
+		      (S (NP the parties)
+			 (AUX to)
+			 (VP join
+			     (PP in
+				 (NP a national coalition government)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The army leaders)
+   (VP threatened
+       (S (NP *)
+	  (AUX to)
+	  (VP form
+	      (NP a
+		  new military
+		  government))))
+   (SBAR if
+	 (S (NP the parties)
+	    (VP failed
+		     
+		(S (NP *)
+		   (AUX to)
+		   (VP sign
+		       (NP (NP an eight point protocol)
+			   (VP agreeing
+			       (PP on
+				   (X (NP Gen. Gursel)
+				      (PP as
+					  (NP president))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gen. Gursel)
+   (AUX has)
+   (VP headed
+       (NP the military junta))
+   (NP the
+       last
+       17 months))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The military)
+   (ADVP also)
+   (AUX had)
+   (VP demanded
+       (NP pledges
+	   (SBAR (SBAR that
+		       (S (NP there)
+			  (AUX would)
+			  (VP be
+			      (NP no changes
+				  (PP in
+				      (NP (NP the laws)
+					  (VP passed
+		     
+					      (PP by
+						  (NP the junta)))))))))
+		 and
+		 (SBAR 0
+		       (S (NP  no leaders
+			       (PP of
+				   (NP the Menderes regime))
+			       (PP  (ADVP now)
+				    in
+				    (NP prison)))
+			  (AUX would)
+			  (VP be
+			      (VP pardoned
+				  ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Party leaders)
+   (VP (VP came
+	   (PP out
+	       (PP of
+		   (NP the final meeting)))
+	   (ADJP  (ADVP apparently)
+		  satisfied))
+       and
+       (VP stated
+	   (SBAR that
+		 (S (NP complete agreement
+			(PP-1 *pseudo-attach*))
+		    (AUX had)
+		    (VP been
+			(VP reached))
+		    (PP-1 on
+			(NP a solution
+			    (PP to
+				(NP (NP (NP the crisis)
+					(VP created
+					    (PP by
+						(NP the elections))))
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(VP left
+					    (NP no party)
+					    (PP with
+						(NP enough strength
+						    (S (NP *)
+						       (AUX to)
+						       (VP form
+							   (NP a government)
+							   (PP on
+							       (NP its
+								   own))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

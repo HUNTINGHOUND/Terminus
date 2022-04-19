@@ -1,0 +1,2368 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (ADJP General))
+(  
+ (SBARQ (WHADVP How
+		long)
+	(SQ   (AUX has)
+	      (NP it)
+	      (VP been)
+	      (SBAR since
+		    (S (NP you)
+		       (VP reviewed
+			   (NP the objectives
+			       (PP of
+				   (NP your benefit and service program))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  
+  (AUX Have)
+  (NP you)
+  (VP permitted
+      (NP it)
+      (S (NP *)
+	 (AUX to)
+	 (VP become
+	     (NP (NP a giveaway program)
+		 (ADVP  rather
+			   (PP than
+			       (NP (NP one)
+				   (SBAR (WHNP that)
+					 (S (NP T)
+					    (VP has
+						(NP the goal
+						    (PP of
+							(NP (NP   improved
+								 employee morale)
+							    and
+							    ,
+							    (ADVP consequently)
+							    ,
+							    (NP  increased
+								productivity)))))))))))))))
+ ?
+ ?)  
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What effort)
+	(SQ  (AUX do)
+	     (NP you)
+	     (VP make
+		 (NP T)
+		 (S (NP *)
+		    (AUX to)
+		    (VP assess
+			(NP results
+			    (PP of
+				(NP your program))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+      (NP you)
+      (VP measure
+	  (NP its relation
+	      (PP (PP to
+		      (NP (NP   reduced
+			       absenteeism)
+			  ,
+			  (NP turnover)
+			  ,
+			  (NP accidents)
+			  ,
+			  and
+			  (NP grievances)))
+		  ,
+		  and
+		  (PP to
+		      (NP   improved
+			   quality and output))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP set
+	  (NP  specific objectives)
+	  (PP for
+	      (NP your employee publication))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Is)
+     (NP it)
+     (VP reaching
+	 (NP these goals)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (VP Is)
+     (NP it)
+     (ADJP   larger
+	     or
+	     fancier
+	     (PP than
+		 (S (NP you)
+		    (VP  (ADVP really)
+			 need)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT
+   END_OF_TEXT_UNIT)
+((SQ  (AUX Are)
+      (NP you)
+      (VP using
+	  (NP  the
+	       (ADJP most economical)
+	       printing methods
+	       ,
+	       paper
+	       ,
+	       (X etc
+		  .))))
+ .)
+(  
+ (SQ (AUX Are)
+     (NP there)
+     (NP  (NP other
+	      ,
+	      cheaper
+	      communications
+	      techniques)
+	  (SBAR (WHNP that)
+		(S (NP T)
+		   (AUX could)
+		   (VP be
+		       (VP substituted
+			   ))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Has)
+     (NP your attitude
+	 (PP toward
+	     (NP employee benefits)))
+     (VP encouraged
+	 (NP an excess
+	     (PP of
+		 (NP  free
+		     ``
+		     government
+		     ''
+		     work)))
+	 (PP in
+	     (NP your plant))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Is)
+     (NP your purchasing agent)
+     (VP offering
+	 (NP   too
+	       much
+	       free-buying 
+	       service
+	       (PP for
+		   (NP employees)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (SBAR (WHADVP When)
+	    (S (NP (NP improvements)
+		   (ADJP-1 *pseudo-attach*))
+	       (AUX are)
+	       (VP recommended
+		   (PP in
+		       (NP working conditions)))
+	       --
+	       (ADJP-1 such
+		     (PP as
+			 (NP (NP lighting)
+			     ,
+			     (NP rest rooms)
+			     ,
+			     (NP eating facilities)
+			     ,
+			     (NP air-conditioning))))
+	       --))
+      (SQ  (AUX do)
+	  (NP you)
+	  (VP try
+	      (S (NP *)
+		 (AUX to)
+		 (VP set
+		     (NP a measure
+			 (PP of
+			     (NP their effectiveness
+				 (PP on
+				     (NP productivity))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SBAR (WHADVP When)
+	   (S  (NP *) 
+	       (VP negotiating
+		   (PP with
+		       (NP your union)))))
+     ,
+     (SQ  (AUX do)
+	 (NP you)
+	 (VP make
+	     (ADJP sure)
+	     (SBAR 0
+		   (S (NP  employees)
+		      (VP have
+			  (NP a choice)
+			  (PP between
+			      (NP (NP  new benefits)
+				  and
+				  (NP their  cents-per-hour cost
+				      (PP in
+					  (NP wages)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Can)
+      (NP you)
+      (VP consider
+	  (S  (NP *) 
+	      (VP restricting
+		  (NP any  additional employee benefits)
+		  (PP to
+		      (NP (NP those)
+			  (VP  paid
+			       (PP for
+				   (NP *) )
+			       (PP by
+				   (NP (NP  profit-sharing money)
+				       ,
+				       (ADJP such
+					     (PP as
+						 (S  (NP *) 
+						     (AUX was)
+						     (VP done
+							 (PP in
+							     (NP (NP the union contract)
+								 (VP
+								  (ADVP recently)
+								  signed
+								  (PP by
+								      (NP  American Motors Corporation))))))))))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP Insurance))
+( 
+ (SQ  (AUX Do)
+      (NP your employees)
+      (VP understand
+	  (NP (NP all
+		  the benefits)
+	      (SBAR (WHPP to
+			  (WHNP which))
+		    (S (NP your insurance)
+		       (VP entitles
+			   (NP them)))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP they)
+     (VP encouraged
+	 (S (NP *)
+	    (AUX to)
+	    (VP take
+		(NP   full 
+		      legal
+		     advantage
+		     (PP of
+			 (NP these benefits)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+     (NP you)
+     (VP publicized
+	 (NP the  cents-per-hour value
+	     (PP of
+		 (NP (NP the company)
+		     's share
+		     (PP of
+			 (NP insurance premiums)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP When)
+	(SQ  (AUX did)
+	     (NP you)
+	     (VP (ADVP last)
+		 compare
+		 (NP your  present premium costs)
+		 (PP with
+		     (NP the costs
+			 (PP of
+			     (NP insurance
+				 (PP from
+				     (NP  other sources)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Can)
+      (NP your insurance company)
+      (VP aid
+	  (NP you)
+	  (PP in
+	      (S  (NP *) 
+		  (VP reducing
+		      (NP  administrative costs))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ   (AUX Do)
+     (NP you)
+     (VP try
+	 (S (NP *)
+	    (AUX to)
+	    (VP maintain
+		(NP the principle
+		    (PP of
+			(NP  
+			 (ADJP (ADJP employee-contributed)
+			       *LRB*
+			       (PP as
+				   (VP opposed
+				       (PP to
+					   (ADJP  (ADVP fully)
+						  company-paid))))
+			       *RRB*)
+			 programs)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP (NP Holidays)
+     ,
+     (NP time
+	 (ADVP off))
+     ,
+     (NP overtime)))
+(  
+ (SQ  (AUX Do)
+     (NP you)
+     (VP protect
+	 (NP your holiday privileges)
+	 (PP with
+	     (NP (NP an attendance requirement)
+		 (PP   both
+		       before 
+		       and 
+		       after
+		       (NP the holiday))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+     (NP you)
+     (VP plan
+	 (S (NP *)
+	    (AUX to)
+	    (VP limit
+		(NP  additional holidays)
+		(PP to
+		    (NP area
+			and
+			industrial 
+			patterns))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP investigated
+	  (NP the possibility
+	      (PP of
+		  (S  (NP *) 
+		      (VP moving
+			  (NP midweek holidays)
+			  (X    (X (ADVP forward)
+				   (PP to
+				       (NP Monday)))
+				or
+				(X (ADVP back)
+				   (PP to
+				       (NP Friday)))))
+		      (SBAR  in
+			     order
+			     (S (NP *)
+				(AUX to)
+				(VP have
+				    (NP an  uninterrupted work week)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+      (NP you)
+      (VP (ADVP carefully)
+	  policing
+	  (NP (NP  wash-up time) 
+	      and 
+	      (NP rest periods)))
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (ADJP certain)
+	     (SBAR that
+		   (S (NP all  other time)
+		      (VP is
+			  (ADJP productive)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+      (NP you)
+      (VP watching
+	  (NP work schedules)
+	  (PP for
+	      (NP (NP boiler operators)
+		  ,
+		  (NP guards)
+		  ,
+		  and
+		  (NP  other
+		       24-hour-day
+		       ,
+		       7-day-week
+		       operations))))
+      (SBAR  in
+	     order
+	     (S (NP *)
+		(AUX to)
+		(VP minimize
+		    (NP overtime)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (VP Are)
+     (NP you)
+     (ADJP careful
+	   (S (NP *)
+	      (AUX to)
+	      (VP restrict
+		  (NP the number
+		      (PP of
+			  (NP (NP people)
+			      (PP on
+				  (NP leave))))
+		      (PP at
+			  (NP one time)))
+		  (SBAR  so
+			 that
+			 (S (NP your total employment obligation)
+			    (AUX is)
+			    (VP minimized
+				)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP  Plant
+     feeding
+     facilities))
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP considered
+	  (S  (NP *)
+	      (VP using
+		  (NP vending equipment)
+		  (S (NP *)
+		     (AUX to)
+		     (VP   replace 
+			   or 
+			   reduce
+			   (NP the number
+			       (PP of
+				   (NP cafeteria employees)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ  (NP T)
+	     (VP are
+		 (NP the possibilities
+		     (PP for
+			 (S (S  (NP *)  
+				(VP operating
+				    (NP your cafeteria)
+				    (PP for
+					(NP  a  single shift
+					     (ADVP only)))))
+			    and
+			    (S  (NP *)
+				(VP relying
+				    (PP upon
+					(NP (NP vending machines)
+					    or
+					    (NP   prepackaged
+						  sandwiches)))
+				    (PP for
+					(NP the
+					    second
+					    -
+					    and
+					    third-shift
+					    operations))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP checked
+	  (NP the cost
+	      (PP of
+		  (S  (NP *) 
+		      (VP subcontracting
+			  (NP your cafeteria operation))
+		      (SBAR  in
+			     order
+			     (S (NP *)
+				(AUX to)
+				(VP save
+				    (NP  administrative costs)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (VP Are)
+     (NP there)
+     (NP possibilities
+	 (PP of
+	     (S  (NP *) 
+		 (VP having
+		     (NP cafeteria help)
+		     (VP work
+			 (ADVP part-time)
+			 (PP on
+			     (NP (ADJP  custodial or  other) 
+				 jobs))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Can)
+      (NP  staggered lunch periods)
+      (VP relieve
+	  (NP the capacity strain
+	      (PP on
+		  (NP your feeding facilities)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Would)
+      (NP it
+	  (S-1 *pseudo-attach*))
+      (VP be
+	  (ADJP feasible))
+      (S-1 (NP *)
+	 (AUX to)
+	 (VP limit
+	     (NP the menu))
+	 (SBAR  in
+		order
+		(S (NP *)
+		   (AUX to)
+		   (VP reduce
+		       (NP feeding costs))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP considered
+	  (NP  gradual withdrawal
+	       (PP of
+		   (NP subsidies
+		       (PP to
+			   (NP your  in-plant feeding operation)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP you)
+     (VP utilizing
+	 (NP cafeteria space)
+	 (PP for
+	     (NP company meetings or discussions))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP Recreation facilities))
+( 
+ (SQ (VP Are)
+     (NP your expenses
+	 (PP in
+	     (NP this area)))
+     (ADJP commensurate
+	   (PP with
+	       (NP the number
+		   (PP of
+		       (NP  (NP employees)
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (VP benefit
+					(PP from
+					    (NP your program)))))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+     (NP you)
+     (VP audited
+	 (NP your program)
+	 (ADVP recently))
+     (S (NP *)
+	(AUX to)
+	(VP weed
+	    (PRT out)
+	    (NP (NP those phases)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (VP draw
+			     (NP  least
+				 participation))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+     (NP employees)
+     (VP contribute
+	 (NP their share
+	     (PP of
+		 (NP money)))
+	 (PP to
+	     (NP  recreational facilities))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Have)
+      (NP you)
+      (VP considered
+	  (S (S  (NP *) 
+		 (VP delegating
+		     (NP  operational responsibility)
+		     (PP to
+			 (NP your employee association))))
+	     and
+	     (S  (NP *)
+		 (VP (ADVP carefully)
+		     restricting
+		     (NP (NP your plant)
+			 's  financial contribution))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Could)
+      (NP (NP an employee)
+	  's
+	  garden club)
+      (VP take
+	  (PRT over)
+	  (NP  partial care
+	      (PP of
+		  (NP plant grounds)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Would)
+      (NP a camera club)
+      (VP be
+	  (ADJP useful)
+	  (PP in
+	      (S  (NP *) 
+		  (VP taking
+		      (NP (NP pictures)
+			  (ADJP pertinent
+				(PP to
+				    (NP plant safety)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP you)
+     (VP spending
+	 (NP   too
+	       much 
+	       money)
+	 (PP on
+	     (NP (NP team uniforms)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP benefit
+			      (NP (ADVP only)
+				  a  few employees))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP you)
+     (VP underwriting
+	 (NP expensive team trips)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+     (NP you)
+     (VP utilizing
+	 (NP vending machine
+	     proceeds)
+	 (S (NP *)
+	    (AUX to)
+	    (VP help
+		(VP pay
+		    (PP for
+			(NP your program)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP (NP Transportation) and (NP parking)))
+(  
+ (SQ  (AUX Do)
+      (NP you)
+      (VP know
+	  (NP the trend
+	      (PP in
+		  (NP your cost
+		      (PP of
+			  (S  (NP *)
+			      (VP maintaining
+				  (NP (NP access roads) and (NP parking lots))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SBAR  If
+	    (S (NP you)
+	       (VP use
+		   (NP parking attendants))))
+     ,
+     (SQ (AUX can)
+	 (NP they)
+	 (VP be
+	     (VP replaced
+		 (PP by
+		     (NP  automatic parking gates)))
+	     )))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Will)
+      (NP your  local bus company)
+      (VP   erect and  maintain
+	    (NP the bus
+		stops
+		(PP at
+		    (NP your plant)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SBAR  If
+	    (S (NP you)
+	       (VP provide
+		   (NP  inter-plant transportation))))
+     ,
+     (SQ (AUX can)
+	 (NP this)
+	 (VP be
+	     (VP replaced
+		 (PP by
+		     (NP  available 
+			  public 
+			 transportation)))
+	     )))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (SBAR If
+	    (S (NP you)
+	       (VP use
+		   (NP company transportation)
+		   (S (S (NP *)
+			 (AUX to)
+			 (VP meet
+			     (NP trains)))
+		      or
+		      (S (NP *)
+			 (AUX to)
+			 (VP haul
+			     (NP visitors)))))))
+      ,
+      (SQ (AUX would)
+	  (NP taxis)
+	  (VP be
+	      (ADJP cheaper))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (ADJP (WHADVP How)
+	      efficient and necessary)
+	(SQ (VP are)
+	    (NP your  intra-company vehicles)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Can)
+      (NP they)
+      (VP be
+	  (VP re-scheduled
+	      )))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Can)
+      (NP  part-time drivers)
+      (VP be
+	  (VP assigned
+	      (PP to
+		  (NP  other
+		       productive
+		      work)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP  Paid vacations))
+( 
+ (SBARQ (WHNP Which)
+	(S  (NP T)
+	    (VP is
+		(ADJP  more
+		       economical)
+		(PP for
+		    (NP your plant)))
+	    --
+	    (NP-1 (NP a vacation shutdown)
+		  or
+		  (NP  (NP spaced vacations)
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(VP require
+				    (NP  extra employees)
+				    (PP for
+					(NP vacation fill-ins)))))))))
+ ?) 
+(  END_OF_TEXT_UNIT)
+(   
+ (SQ  (AUX Can)
+      (NP vacations)
+      (VP be
+	  (VP spaced
+			    
+	      (PP throughout
+		  (NP the 12 months))
+	      (S (NP *)
+		 (AUX to)
+		 (VP minimize
+		     (NP the number
+			 (PP of
+			     (NP employee fill-ins))))))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+      (NP you)
+      (VP insist
+	  (SBAR that
+		(S (NP   unneeded salary employees)
+		   (VP take
+		       (NP their vacations))
+		   (PP during
+		       (NP plant shutdowns))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ  (AUX can)
+	     (NP your sales
+		 and
+		 purchasing
+		 departments)
+	     (VP do
+		 (NP T))
+	     (S (NP *)
+		(AUX to)
+		(VP curtail
+		    (NP (NP orders)
+			,
+			(NP shipments)
+			,
+			and
+			(NP receipts)))
+		(PP during
+		    (NP vacation shutdown periods)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP Retirement))
+(  
+ (S  (AUX Is)
+     (NP an  arbitrary retirement age
+	 (PP of
+	     (NP 65)))
+     (ADVP actually)
+     (VP costing
+	 (NP your plant)
+	 (NP money)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What sort
+	      (WHPP  of
+		     (WHNP effort)))
+	(SQ  (AUX do)
+	     (NP you)
+	     (VP make
+		 (NP T)
+		 (S (NP *)
+		    (AUX to)
+		    (VP assure
+			(SBAR that
+			      (S (NP (ADJP  older
+					   or
+					   disabled)
+				     workers)
+				 (VP are
+				     (ADJP   fully
+					    productive)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Would)
+      (NP  early retirement
+	   (PP of
+	       (NP 
+		non-productive
+		,
+		disabled
+		employees)))
+      (VP reduce
+	  (NP the number
+	      (PP of
+		  (NP  make-work jobs)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Will)
+      (NP your union)
+      (VP accept
+	  (NP seniority concessions)
+	  (PP in
+	      (S  (NP *)
+		  (VP assigning
+		      (NP work)
+		      (PP for
+			  (NP  
+			   (ADJP  older
+				 or
+				 disabled)
+			   employees)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((X (ADJP Medical)
+    and
+    (NP health)))
+(  
+ (SQ (AUX Can)
+     (NP you)
+     (VP share
+	 (NP (NP  medical facilities) 
+	     and 
+	     (NP staff))
+	 (PP with
+	     (NP (VP neighboring)
+		 plants))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SBAR  If
+	    (S (NP you)
+	       (VP have
+		   (NP a  full-time doctor))
+	       (ADVP now)))
+     ,
+     (SQ (AUX can)
+	 (NP he)
+	 (VP be
+	     (VP replaced
+		 (PP with
+		     (NP (NP a  part-time doctor)
+			 or
+			 (NP one
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (VP serves
+					  (PP on
+					      (NP a  fee-per-case basis
+						  (ADVP only)))))))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+( 
+ (SQ  (AUX Can)
+      (NP your plant nurse)
+      (VP be
+	  (VP replaced
+	      (PP by
+		  (NP (NP a  trained first-aid man)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP works
+				   (ADJP full-time)
+				   (PP on
+				       (NP some  other assignment))))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+      (NP you)
+      (VP (VP (ADVP rigidly)
+	      distinguish
+	      (PP between
+		  (NP (ADJP job
+			    -
+			    and
+			    non-job-connected) 
+		      health problems)))
+	  and
+	  (VP avoid
+	      (S (NP *)
+		 (VP treating
+		     (NP the latter))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Are)
+      (NP you)
+      (VP (ADVP indiscriminantly)
+	  offering
+	  (NP (NP unnecessary
+		  medical
+		  services)
+	      --
+	      (NP (NP flu shots)
+		  ,
+		  (NP sun lamp treatments)
+		  ,
+		  (X etc.)))))  
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (SBAR  If
+	    (S (NP you)
+	       (VP have
+		   (NP an
+		       (ADJP  annual or  regular)
+		       physical
+		       examination program))))
+     ,
+     (SQ  (AUX is)
+	 (NP it)
+	 (VP worth
+	     (SBAR (WHNP what)
+		   (S (NP it)
+		      (AUX is)
+		      (VP costing
+			  (NP you)
+			  (NP T)  ))))))
+ ?
+ )
+(  END_OF_TEXT_UNIT)
+((NP (NP A program)
+    (S (NP *)
+       (AUX to)
+       (VP fit
+	   (NP your needs)))))
+(  
+ (S  (NP *)
+     (VP Consider
+	 (SBAR (SBAR (WHNP what)
+		     (S
+		      (NP you)
+		      (AUX can)
+		      (VP afford
+			  (S (NP *)
+			     (AUX to)
+			     (VP spend
+				 (NP T))))))
+	       and
+	       (SBAR (WHNP what)
+		     (S
+		      (NP your goals)
+		      (VP are
+			  (NP T))))))
+     (PP before
+	 (S (S  (NP *)
+		(VP setting
+		    (PRT up)))
+	    or
+	    (S  (NP *)
+		(VP revamping
+		    (NP your employee benefit program))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP   Too
+	       many plant officials)
+    (VP are
+	(ADJP   all
+		too
+		eager
+		(S (NP *)
+		   (AUX to)
+		   (VP buy
+		       (NP a package program)
+		       (PP from
+			   (NP an insurance company))))))
+    (ADVP simply)
+    (SBAR because
+	  (S (NP it)
+	     (VP works
+		 (PP for
+		     (NP another plant))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR (ADVP even)
+	    if
+	    (S (NP that  other plant)
+	       (VP (VP employs
+		       (NP the  same number
+			   (PP of
+			       (NP workers))))
+		   and
+		   (VP makes
+		       (NP the  same product)))))
+      ,
+      (S (NP there)
+	 (VP are
+	     (NP  (NP other facts)
+		  (S (NP *)
+		     (AUX to)
+		     (VP consider))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (ADJP (WHADVP How)
+	      old)
+	(SQ (VP is)
+	    (NP your working force)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ  (VP 's)
+	     (NP your profit margin)
+	     (NP T) ))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHPP In
+	      (WHNP what section
+		    (WHPP  of
+			   (WHNP  the country))))
+	(SQ   (AUX are)
+	      (NP you)
+	      (VP located
+		  )))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (VP Are)
+     (NP you)
+     (PP in
+	 (NP a 
+	     (ADJP  rural or  urban) 
+	     area)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These factors)
+   (AUX can)
+   (VP make
+       (NP the difference
+	   (PP between
+	       (NP  waste and  efficiency)))
+       (PP in
+	   (NP any benefit program))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (PP Above
+	(NP all))
+    ,
+    (S  (NP *) 
+	(AUX do)
+	(NEG n't)
+	(VP set
+	    (PRT up)
+	    (NP  extravagant fringe benefits))
+	(ADVP just)
+	(S (NP *)
+	   (AUX to)
+	   (VP buy
+	       (NP employee  good will)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Unions)
+       (VP stress
+	   (NP fringe benefits)))
+    ,
+    but
+    (S (NP the
+	   individual
+	   hourly
+	   worker)
+       (VP prefers
+	   (NP cash))
+       (NP every time)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Aim
+	   (S (NP *)
+	      (AUX to)
+	      (VP balance
+		  (NP your employee benefit package)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Some plants)
+    (VP (VP go
+	    (ADVP overboard)
+	    (PP on
+		(NP one type
+		    (PP of
+			(NP (NP fringe)
+			    --
+			    (X say)
+			    (NP a  liberal retirement plan)
+			    --)))))
+	and
+	(VP find
+	    (NP themselves)
+	    (ADJP vulnerable)
+	    (ADVP elsewhere))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (AUX 're)
+	(VP asking
+	    (PP for
+		(NP union trouble))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Communications))
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP want
+		  (NP credit
+		      (PP for
+			  (NP your employee services
+			      program))))))
+    ,
+    (S  (NP *) 
+	(VP let
+	    (NP your workers)
+	    (VP know
+		(SBAR (WHNP what)
+		      (S (NP they)
+			 (VP 're
+			     (ADJP entitled
+				   (PP to
+				       (NP T))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Encourage
+	   (NP them)
+	   (S (NP *)
+	      (AUX to)
+	      (VP exercise
+		  (NP their benefits)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX can)
+   (VP be
+       (VP done
+	   (PP (PP by
+		   (NP (NP stories
+			   (PP in
+			       (NP your house organs)))
+		       ,
+		       (NP posters)
+		       ,
+		       (NP  special publications)
+		       ,
+		       (NP letters
+			   (PP to
+			       (NP (NP workers)
+				   ' homes)))))
+	       (ADVP  as
+		      well
+		      (PP as
+			  (PP by
+			      (NP (NP word
+				      (PP of
+					  (NP mouth)))
+				  (PP through
+				      (NP your chain
+					  (PP of
+					      (NP command))))))))))
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some companies)
+   (VP find
+       (NP a  little imagination)
+       (ADJP helpful)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP  Hallmark Cards
+	   ,
+	   Inc.)
+      ,
+      (NP (NP Kansas City)
+	  ,
+	  (NP Mo.))
+      ,)
+  (VP has
+      (NP (NP (NP a  do-it-yourself quiz game)
+	      (VP called
+		  (NP  ``
+		       Benefit Bafflers
+		       '')))
+	  ,
+	  (SBAR (WHNP which)
+		(S
+		 (NP it)
+		 (VP distributes
+		     (NP T)
+		     (PP to
+			 (NP employees))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  M
+	     &
+	     R  Dietetic Laboratories
+	     ,
+	     Inc.)
+	,
+	(NP Columbus)
+	,)
+    (VP gives
+	(NP all
+	    its workers)
+	(NP (NP a facsimile checkbook)
+	    --
+	    (S  (NP each check)
+		(VP showing
+		    (NP (NP the amount)
+			(SBAR 0
+			      (S
+			       (NP the company)
+			       (VP spends
+				   (NP T)
+				   (PP on
+				       (NP a  particular fringe)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP U.S. Rubber Company)
+      ,
+      (NP New York)
+      ,)
+  (VP passes
+      (PRT out)
+      (NP (NP a form)
+	  (VP itemizing
+	      (NP the value
+		  (PP of
+		      (NP benefits)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The  blue-collar worker)
+    (ADVP thus)
+    (VP knows
+	(SBAR 0
+	      (S (NP his insurance package)
+		 ,
+		 (PP for
+		     (NP example))
+		 ,
+		 (VP costs
+		     (NP $ 227.72))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Insurance))
+( 
+ (S  (NP *)
+     (VP Have
+	 (NP (NP the insurance company)
+	     or
+	     (NP your  own accounting department))
+	 (VP break
+	     (PRT down)
+	     (NP the cost
+		 (PP of
+		     (NP your insurance package)))
+	     (ADVP periodically))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (AUX may)
+    (VP find
+	(NP  certain coverage)
+	(S  (NP *)
+	    (VP costing
+		(ADJP  much
+		       more
+		       (PP than
+			   (S  (NP *) 
+			       (VP is
+				   (ADJP   economically
+					   feasible))))))
+	    ,
+	    (S  (NP *)
+		(ADVP thereby)
+		(VP alerting
+		    (NP you)
+		    (PP to
+			(NP  desirable revisions)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Check
+	   (S (NP *)
+	      (AUX to)
+	      (VP see
+		  (SBAR if
+			(S (NP (NP some
+				   (PP of
+				       (NP your benefits)))
+			       --
+			       (ADJP such
+				     (PP as
+					 (NP  on-the-job disability pay)))
+			       --)
+			   (AUX can)
+			   (VP be
+			       (VP put
+				   (PP on
+				       (NP (NP a  direct payment)
+					   (ADVP rather
+						 (PP than
+						     (NP an  insured basis)))))
+				   (PP at
+				       (NP a savings
+					   (PP to
+					       (NP you))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Use
+	   (NP  deductable insurance))
+       (X (WHADVP wherever)
+	  (ADJP feasible)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (VP put
+       (NP an end)
+       (PP to
+	   (NP  (NP marginal claims)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP play
+			(NP havoc)
+			(PP with
+			    (NP your insurance rates)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S  (NP *) 
+	  (VP beware
+	      (PP of
+		  (NP  open-end policies))
+	      ,
+	      (ADVP especially)
+	      (PP in
+		  (NP the  medical field)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX will)
+   (VP mean
+       (SBAR that
+	     (S (NP every time
+		    (SBAR 0
+			  (S (NP there)
+			     (VP 's
+				 (NP an increase)
+				 (PP in
+				     (NP hospital rates))))))
+		(S (NP your cost)
+		   (AUX will)
+		   (VP go
+		       (ADVP up)
+		       (PP in
+			   (NP (ADJP like) manner))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Put
+	   (NP a  dollar-and-cents limit)
+	   (PP on
+	       (NP benefits))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *) 
+     (AUX Do)
+     (NEG n't)
+     (VP go
+	 (ADVP overboard)
+	 (PP on
+	     (NP (NP insurance)
+		 (SBAR 
+		  (WHNP that)
+		  (S (NP T)
+		     (VP pays
+			 (NP benefits)
+			 (PP (ADVP only)
+			     upon
+			     (NP death)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Generally)
+      ,
+      (S (NP your employee)
+	 (AUX will)
+	 (VP  (ADVP greatly)
+	      appreciate
+	      (NP (NP benefits)
+		  (SBAR 
+		   (WHNP that)
+		   (S (NP T)
+		      (VP protect
+			  (NP him))
+		      (PP (PP during
+			      (NP his  working life))
+			  or
+			  (PP during
+			      (NP retirement)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+((NP  Special time
+     (ADVP off)))
+(  
+ (S (PP In
+	(S  (NP *)
+	    (VP granting
+		(NP bereavement leaves))))
+    ,
+    (S  (NP *) 
+	(VP (VP specify
+		(NP the  maximum time
+		    (ADVP off)))
+	    and
+	    (VP list
+		(SBAR (WHNP what)
+		      (S (NP (NP the worker)
+			     's relation
+			     (PP to
+				 (NP the deceased)))
+			 (AUX must)
+			 (VP be
+			     (NP T))
+			 (S (NP *)
+			    (AUX to)
+			    (VP qualify))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP you)
+	 (VP avoid
+	     (NP headaches))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP an employee)
+	     (VP wants
+		 (ADVP off)
+		 (PP for
+		     (NP (NP his  fourth cousin)
+			 's funeral)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S  (NP *) 
+	  (VP reserve
+	      (NP the right
+		  (S (NP *)
+		     (AUX to)
+		     (VP demand
+			 (NP proof
+			     (PP of
+				 (NP death)))))))
+	  (PP despite
+	      (NP the fact
+		  (SBAR that
+			(S (NP you)
+			   (AUX 'll)
+			   (ADVP probably)
+			   (ADVP never)
+			   (VP use
+			       (NP it))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Coffee breaks)
+   (AUX can)
+   (VP be
+       (NP a  real headache))
+   (X  if
+       (S (NP *)
+	  (NEG not)
+	  (VP regulated))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Vending machines)
+   (AUX can)
+   (VP alleviate
+       (NP (NP the  long hike
+	       (PP to
+		   (NP the cafeteria)))
+	   (PP during
+	       (NP the break))
+	   (PP with
+	       (NP   resulting
+		    waste
+		    (PP of
+			(NP production time)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP coffee)
+	      (AUX is)
+	      (VP sold
+		  (PP at
+		      (NP the cafeteria)))))
+     ,
+     (S  (NP *) 
+	 (VP let
+	     (NP a  few workers
+		 (PP in
+		     (NP each department)))
+	     (VP get
+		 (NP it)
+		 (PP for
+		     (NP the  whole group))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Consider
+	   (S  (NP *) 
+	       (VP installing
+		   (NP  supplemental serving lines)
+		   (PP in
+		       (NP production areas))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Make
+	   (ADJP sure)
+	   (SBAR 0
+		 (S (NP  milk
+			 (PP for
+			     (NP the coffee)))
+		    (AUX is)
+		    (VP placed
+			(PP (PP in
+				(NP dispensers))
+			    (ADVP rather
+				  (PP than
+				      (PP in
+					  (NP containers)))))))))
+       ,
+       (SBAR if
+	     (S (NP you)
+		(AUX are)
+		(VP supplying
+		    (NP the coffee)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Otherwise)
+      ,
+      (S (NP you)
+	 (AUX may)
+	 (VP be
+	     (VP saddled
+		 (PP with
+		     (NP a  good-size milk bill))
+		 (PP by
+		     (NP milk drinkers))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Retirement policies)
+   (VP Keep
+       (NP the retirement age)
+       (ADJP flexible))
+   (SBAR  so
+	  (S (NP (NP skilled craftsmen)
+		 (ADJP such
+		       (PP as
+			   (NP tool and die makers))))
+	     (AUX can)
+	     (VP be
+		 (VP kept
+		     (PP on
+			 (NP the job))))
+	     (PP for
+		 (NP the convenience
+		     (PP of
+			 (NP the company)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (SBAR And
+	  (SBAR  so
+		 (S (NP deadheads
+			(PP on
+			    (NP the payroll)))
+		    (AUX can)
+		    (VP be
+			(VP eased
+		  
+			    (PRT out)))
+		    (PP at
+			(NP the
+			    earliest
+			    possible
+			    age)))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Make
+	   (ADJP sure)
+	   (SBAR 0
+		 (S (NP you)
+		    (VP have
+			(NP (NP  minimum age)
+			    and
+			    (NP  time-on-the-job requirements))
+			(VP tied
+			    (PP  into
+				 (NP your pension plan))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP  Younger
+	   men)
+      (ADVP usually)
+      (AUX do)
+      (NEG n't)
+      (VP think
+	  (PP of
+	      (NP pensions))
+	  (PP as
+	      (NP an  important job benefit factor)))
+      (ADVP anyhow))
+     and
+     (S (NP they)
+	(VP 're
+	    (ADJP liable
+		  (S (NP *)
+		     (AUX to)
+		     (VP change
+			 (NP jobs)
+			 (NP  several times))
+		     (PP before
+			 (S  (NP *) 
+			     (VP settling
+				 (PRT down)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Choose
+	   (ADVP carefully)
+	   (PP between
+	       (NP (ADJP  contributory or  non-contributory) pension plans))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP There)
+        (VP are
+            (NP two sides
+                (PP of
+                    (NP a coin))))
+	(PP for
+	    (NP this decision)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Workers)
+   (ADVP usually)
+   (VP think
+       (ADVP more)
+       (PP of
+	   (NP (NP a plan)
+	       (SBAR 0
+		     (S
+		      (NP they)
+		      (VP contribute
+			  (PP to
+			      (NP T)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP they)
+	 (AUX can)
+	 (PP at
+	     (ADJP least))
+	 (VP collect
+	     (NP (NP (NP the money)
+		     (SBAR 0
+			   (S
+			    (NP they)
+			    (VP put
+				(PP in
+				    (NP *) )))))
+		 ,
+		 plus
+		 (NP interest)))
+	 ,
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP they)
+	     (VP leave
+		 (NP the company))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A  non-contributory plan)
+    (ADVP usually)
+    (AUX wo)
+    (NEG n't)
+    (VP pay
+	(PRT off)
+	(PP for
+	    (NP the worker))
+	(PP until
+	    (S (NP he)
+	       (VP retires)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP there)
+	 (VP is
+	     (NP (NP an  added incentive)
+		 (S (NP *)
+		    (AUX to)
+		    (VP stay
+			(PP on
+			    (NP the job))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP Holidays))
+( 
+ (S (NP *)
+    (VP Make
+	(ADJP sure)
+	(SBAR 0
+	      (S (NP you)
+		 (AUX do)
+		 (NEG n't)
+		 (VP pay
+		     (PP for
+			 (NP (NP holidays)
+			     (SBAR (WHNP that)
+				   (S (NP T)
+				      (VP occur)
+				      (SBAR (WHADVP when)
+					    (S (NP an employee)
+					       (AUX would)
+					       (NEG not)
+					       (ADVP otherwise)
+					       (VP be
+						   (VP working)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP include
+       :
+       (NP (NP leaves
+	       (PP of
+		   (NP absences)))
+	   ,
+	   (NP illnesses)
+	   ,
+	   and
+	   (NP layoffs))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Consider
+	   (S  (NP *) 
+	       (VP adopting
+		   (NP (NP a system
+			   (PP of
+			       (NP holidays)))
+		       (SBAR (WHPP in
+				   (WHNP which))
+			     (S (NP time
+				    (ADVP off))
+				(AUX is)
+				(VP granted
+				    (PP with
+					(NP an eye
+					    (PP to
+						(NP  minimum inconvenience
+						    (PP to
+							(NP the operation
+							    (PP of
+								(NP the plant))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-2 *pseudo-attach*))
+   (VP 's
+       (ADVP usually)
+       (NEG not)
+       (ADJP   too
+	       hard))
+   (S-2 (NP *)
+	(AUX to)
+	(VP sell
+	    (NP workers)
+	    (PP on
+		(NP this))))
+   (SBAR  as
+	  (S (NP it)
+	     (VP gives
+		 (NP them)
+		 (NP  longer
+		      holiday periods)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP the Friday
+	   (PP after
+	       (NP Thanksgiving)))
+       (AUX can)
+       (VP be
+	   (VP substituted
+	       (PP for
+		   (NP (NP Washington)
+		       's birthday))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP reduces
+       (NP the number
+	   (PP of
+	       (NP  expensive plant shutdowns and startups)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Require
+	   (NP each employee)
+	   (S (NP *)
+	      (AUX to)
+	      (VP work
+		  (NP his  last shift)
+		  (PP  both
+		       before
+		       and
+		       after 
+		       (NP the holiday)))
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (ADJP eligible
+			   (PP for
+			       (NP pay))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP cuts
+       (NP the absentee rate)))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Eating facilities))
+(  
+ (S  (NP *)
+     (VP Consider
+	 (S (NP *) 
+	    (VP using
+		(NP  (NP vending machines)
+		     (ADVP rather
+			   (PP than
+			       (NP   subsidized
+				    cafeterias))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Latest
+	 models)
+    (VP serve
+	(NP  hot meals)
+	(PP (PP at
+		(NP  reasonable prices))
+	    ,
+	    and
+	    (PP at
+		(NP a profit
+		    (PP to
+			(NP you)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP a concessionaire)
+	      (VP runs
+		  (NP the cafeteria))))
+    ,
+    (S  (NP *) 
+	(VP keep
+	    (NP an eye)
+	    (PRT out)
+	    (PP for
+		(NP  quality and  price)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR  If
+	   (S (NP the soup)
+	      (VP tastes
+		  (PP like
+		      (NP dishwater)))))
+    ,
+    (S (NP your employees)
+       (AUX wo)
+       (NEG n't)
+       (VP blame
+	   (NP the concessionaire))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX 'll)
+   (VP take
+       (NP the rap)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Check
+	   (NP your cafeteria location)
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (ADJP sure)
+		  (SBAR 0
+			(S (NP it)
+			   (VP 's
+			       (ADJP convenient)
+			       (PP for
+				   (NP  most
+				       employees)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX may)
+   (VP save
+       (NP  valuable production minutes)
+       (PP with
+	   (NP a change))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Vacations))
+(
+ (S  (NP *)
+     (VP (VP Spread
+	     (NP your vacation period)
+	     (PP over
+		 (NP the
+		     widest
+		     possible
+		     span
+		     (PP of
+			 (NP time)))))
+	 or
+	 (VP shut
+	     (NP the plant)
+	     (PRT down)
+	     (PP for
+		 (NP two weeks)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX will)
+   (VP cut
+       (NP the expense
+	   (PP of
+	       (NP vacation replacements)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (PP with
+	  (NP the shutdown method))
+      (S (NP there)
+	 (AUX will)
+	 (VP be
+	     (NP no argument
+		 (PP as
+		     (PP to
+			 (SBAR (WHNP who)
+			       (S  (NP T) 
+				   (VP gets
+				       (NP the  choice vacation dates))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      (S  (NP *) 
+	  (VP make
+	      (ADJP sure)
+	      (SBAR 0
+		    (S (NP you)
+		       (VP have
+			   (NP  reasonable requirements
+			       (PP as
+				   (PP to
+				       (NP (NP hours)
+					   (VP worked
+					       (PP before
+						   (S (NP a production employee)
+						      (AUX is)
+						      (VP entitled
+							  (PP to
+							      (NP a vacation))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (AUX might)
+    (VP (VP try
+	    (S (NP *)
+	       (VP providing
+		   (NP  standard vacation time
+			(ADVP off)))))
+	but
+	(VP make
+	    (NP the vacation pay)
+	    (VP depend
+		(PP on
+		    (NP the number
+			(PP of
+			    (NP (NP hours)
+				(VP worked
+				    (PP in
+					(NP the  previous year)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

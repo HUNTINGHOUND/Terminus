@@ -1,0 +1,2311 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (AUX Be)
+       (NP it)
+       (VP enacted
+	   (PP by
+	       (NP (NP the Senate
+		       and
+		       House
+		       (PP of
+			   (NP Representatives))
+		       (PP of
+			   (NP the United States
+			       (PP of
+				   (NP America)))))
+		   (PP in
+		       (NP Congress))
+		   (VP assembled))))
+       ,
+       (SBAR That
+	     (S (NP (NP the Act
+			(PP of
+			    (NP (NP (NP July 3) 
+				    , 
+				    (NP 1952))
+				(NP *LRB*
+				    (NP 66)
+				    (NP Stat. 328)
+				    *RRB*)))
+			(PP as
+			    (S (NP *)
+			       (VP amended))))
+		    (NP *LRB*
+			(NP 42 U.S.C.)
+			(NP 1952-1958)
+			*RRB*))
+		,
+		(AUX is)
+		(ADVP further)
+		(VP amended
+		    (S (NP *)
+		       (AUX to)
+		       (VP read
+			   (PP as
+			       (S  (NP *) 
+				   (VP follows)))))
+		       :
+		       (NP Section 1)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP view
+	    (PP of
+		(NP (NP the increasing shortage
+			(PP of
+			    (NP (ADJP usable) 
+				surface and ground water))
+			(PP in
+			    (NP many parts
+				(PP of
+				    (NP the Nation)))))
+		    and
+		    (NP the importance
+			(PP of
+			    (S (NP *)
+			       (VP finding
+				   (NP (NP (ADJP new)
+					   sources
+					   (PP of
+					       (NP supply)))
+				       (S (NP *)
+					  (AUX to)
+					  (VP meet
+					      (NP its 
+						  present 
+						  and future water needs))))))))))))
+    ,
+    (S (NP it
+	   (S-1 *pseudo-attach*))
+       (VP is
+	   (NP the policy
+	       (PP of
+		   (NP the Congress))))
+       (S-1 (NP *)
+	  (AUX to)
+	  (VP provide
+	      (PP (PP for
+		      (NP the development
+			  (PP of
+			      (NP 
+			       (ADJP practicable)
+			       (ADJP low-cost)
+			       means
+			       (PP for
+				   (NP the 
+				       (ADJP large-scale) 
+				       production
+				       (PP of
+					   (NP water
+					       (PP of
+						   (NP (NP a quality)
+						       (ADJP suitable
+							     (PP for
+								 (NP (ADJP municipal
+									   ,
+									   industrial
+									   ,
+									   agricultural
+									   ,
+									   and
+									   other)
+								     (ADJP beneficial)
+								     (ADJP consumptive)
+								     uses
+								     (PP from
+									 (NP (ADJP saline) 
+									     water)))))))))))))))
+		  ,
+		  and
+		  (PP for
+		      (NP (NP (NP studies)
+			      and 
+			      (NP research))
+			  (VP related
+			      (ADVP thereto)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S  (NP *) 
+	    (VP used
+		(PP in
+		    (NP this Act)))))
+    ,
+    (S (S (NP (NP the term)
+	      (NP '
+		  (ADJP saline)
+		  water
+		  '))
+	  (VP includes
+	      (NP (NP sea water)
+		  ,
+		  (NP (ADJP brackish) 
+		      water)
+		  ,
+		  and
+		  (NP (ADJP other)
+		      (ADJP (ADJP mineralized)
+			    or
+			    (ADVP chemically
+				  charged))
+		      water))))
+       ,
+       and
+       (S (NP (NP the term)
+	      (NP '
+		  United States
+		  '))
+	  (VP (VP extends
+		  (PP to
+		      (NP-1 *pseudo-attach*)))
+	      and
+	      (VP includes
+		  (NP-1 *pseudo-attach*)))
+	  (NP-1 (NP the District
+		    (PP of
+			(NP Columbia)))
+		,
+		(NP the Commonwealth
+		    (PP of
+			(NP Puerto Rico)))
+		,
+		and
+		(NP the territories and possessions
+		    (PP of
+			(NP the United States)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sec. 2)
+     .
+     (S (PP In
+	    (NP  order
+		(S (NP *)
+		   (AUX to)
+		   (VP accomplish
+		       (NP the purposes
+			   (PP of
+			       (NP this Act))))
+		   ,)))
+	(S (NP the Secretary
+	       (PP of
+		   (NP the Interior)))
+	   (AUX shall)
+	   --
+	   (VP (VP (NP *LRB*
+		       A
+		       *RRB*)
+		   (VP  conduct
+			,
+			encourage
+			,
+			and
+			promote
+			(NP  (NP 
+			      (ADJP fundamental)
+			      (ADJP scientific)
+			      research)
+			     and
+			     (NP (ADJP basic) 
+				 studies)))
+		   (S (NP *)
+		      (AUX to)
+		      (VP develop
+			  (NP the
+			      (ADJP best)
+			      and
+			      (ADJP most economical)
+			      processes and methods
+			      (PP for
+				  (S (NP *)
+				     (VP converting
+					 (NP (ADJP saline) 
+					     water)
+					 (PP into
+					     (NP (NP water)
+						 (ADJP suitable
+						       (PP for
+							   (NP 
+							    (ADJP beneficial)
+							    (ADJP consumptive)
+							    purposes))))))))))))
+	      ;
+	      ;
+	      (VP  (NP  *LRB*
+			B
+			*RRB*)
+		   (VP conduct
+		       (NP (NP engineering
+			       research)
+			   and
+			   (NP (ADJP technical) 
+			       development work))
+		       (S (NP *)
+			  (AUX to)
+			  (VP determine
+			      ,
+			      (PP by
+				  (NP laboratory and pilot plant testing))
+			      ,
+			      (NP the results
+				  (PP of
+				      (NP (NP the research and studies)
+					  (ADJP aforesaid)))))))
+		   (PP in
+		       (NP (NP order)
+			   (S (NP *)
+			      (AUX to)
+			      (VP develop
+				  (NP (NP processes) 
+				      and 
+				      (NP plant designs))
+				  (PP to
+				      (NP (NP the point)
+					  (SBAR 
+					   (WHADVP where)
+					   (S (NP they)
+					      (AUX can)
+					      (VP be
+						  (VP demonstrated
+						      (PP on
+							  (NP a 
+							      (ADJP large and practical) 
+							      scale)))))))))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    C
+		    *RRB*)
+		 (VP recommend
+		     (PP to
+			 (NP the Congress))
+		     (PP from
+			 (NP time
+			     (PP to
+				 (NP time))))
+		     (NP authorization
+			 (PP (PP for
+				 (NP (NP construction) 
+				     and 
+				     (NP operation)))
+			     ,
+			     or
+			     (PP for
+				 (NP participation
+				     (PP in
+					 (NP the construction and operation
+					     ,
+					     (PP of
+						 (NP (NP a demonstration plant
+							 (PP for
+							     (NP (NP any
+								     process)
+								 (SBAR-2 which
+									 (S (NP he)
+									    (VP determines
+										,
+										(PP on
+										    (NP the
+											basis
+											(PP of
+											    (NP (NP (NP subsections)
+												    (NP (NP *LRB*
+													    A
+													    *RRB*)
+													and
+													(NP *LRB*
+													    B
+													    *RRB*)))
+												(ADVP above)))))
+										,
+										(SBAR 0
+										      (S (NP T)
+											 (VP has
+											     (NP (ADJP great) 
+												 promise
+												 (PP of
+												     (S (NP *)
+													(VP accomplishing
+													    (NP the purposes
+														(PP of
+														    (NP this Act)))))))))))))))
+							 (SBAR-2 *pseudo-attach*)))))))))))
+		 ,
+		 (NP (ADJP such) 
+		     recommendation
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP accompanied
+				(PP by
+				    (NP a report
+					(PP on
+					    (NP the size
+						,
+						location
+						,
+						and
+						cost
+						(PP of
+						    (NP (NP the proposed plant)
+							and
+							(NP the engineering
+							    and
+							    (ADJP economic) 
+							    details
+							    (PP with
+								(NP respect
+								    (ADVP thereto)))))))))))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    D
+		    *RRB*)
+		 (VP study
+		     (NP methods
+			 (PP for
+			     (NP the recovery and marketing
+				 (PP of
+				     (NP (ADJP (ADVP commercially)
+					       valuable)
+					 byproducts
+					 (VP resulting
+					     (PP from
+						 (NP the conversion
+						     (PP of
+							 (NP (ADJP saline) 
+							     water))))))))))))
+	      ;
+	      ;
+	      and
+	      (VP (NP *LRB*
+		    E
+		    *RRB*)
+		 (VP undertake
+		     (NP  (ADJP economic) 
+			     studies and surveys))
+		 (S (NP *)
+		    (AUX to)
+		    (VP determine
+			(NP (ADJP present) 
+			    and 
+			    (ADJP prospective) 
+			    costs
+			    (PP of
+				(S (NP *)
+				   (VP producing
+				       (NP water
+					   (PP for
+					       (NP 
+						(ADJP beneficial)
+						(ADJP consumptive)
+						purposes)))
+				       (PP in
+					   (NP (ADJP various) 
+					       parts
+					       (PP of
+						   (NP the United States))))
+				       (PP by
+					   (NP the leading 
+					       (ADJP saline) 
+					       water processes
+					       (PP as
+						   (S (NP *)
+						      (VP compared
+							  (PP with
+							      (NP 
+							       (ADJP other)
+							       (ADJP standard)
+							       methods))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sec. 3)
+     .
+     (S (PP In
+	    (S  (NP *)
+		(VP carrying
+		    (PRT out)
+		    (NP his functions
+			(PP-3 *pseudo-attach*))
+		    (PP-3 under
+			  (NP Section 2
+			      (PP of
+				  (NP this Act)))))))
+	,
+	(S (NP the Secretary)
+	   (AUX may)
+	   --
+	   (VP (VP (NP *LRB*
+		    A
+		    *RRB*)
+		 (VP acquire
+		     (NP the services
+			 (PP of
+			     (NP (NP chemists)
+				 ,
+				 (NP physicists)
+				 ,
+				 (NP engineers)
+				 ,
+				 and
+				 (NP (ADJP other) 
+				     personnel))))
+		     (X (PP by
+			    (NP contract))
+			or
+			(ADVP otherwise))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    B
+		    *RRB*)
+		 (VP enter
+		     (PP into
+			 (NP contracts
+			     (PP with
+				 (NP (NP (ADJP educational) 
+					 institutions)
+				     ,
+				     (NP (ADJP scientific) 
+					 organizations)
+				     ,
+				     and
+				     (NP (ADJP industrial)
+					 and
+					 engineering firms)))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    C
+		    *RRB*)
+		 (VP make
+		     (NP research and training grants)))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    D
+		    *RRB*)
+		 (VP utilize
+		     (NP the facilities
+			 (PP of
+			     (NP 
+			      (ADJP Federal)
+			      (ADJP scientific)
+			      laboratories)))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    E
+		    *RRB*)
+		 (VP establish and operate
+		     (NP (NP (ADJP necessary) 
+			     facilities and test sites)
+			 (SBAR (WHPP at
+				     (WHNP which))
+			       (S (NP *)
+				  (AUX to)
+				  (VP carry
+				      (PRT on)
+				      (NP (NP the 
+					      (ADJP continuous) 
+					      research
+					      ,
+					      testing
+					      ,
+					      development
+					      ,
+					      and
+					      programing)
+					  (ADJP necessary
+						(S (NP *)
+						   (AUX to)
+						   (VP effectuate
+						       (NP the purposes
+							   (PP of
+							       (NP this Act)))))))))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    F
+		    *RRB*)
+		 (VP acquire
+		     (NP (NP (ADJP secret) 
+			     processes)
+			 ,
+			 (NP (ADJP technical)
+			     data)
+			 ,
+			 (NP inventions)
+			 ,
+			 (NP patent applications)
+			 ,
+			 (NP patents)
+			 ,
+			 (NP licenses)
+			 ,
+			 (NP (NP (NP land) 
+				 and 
+				 (NP interests
+				     (PP in
+					 (NP land))))
+			     (VP *LRB*
+				 including
+				 (NP water rights)
+				 *RRB*))
+			 ,
+			 (NP (NP plants) 
+			     and 
+			     (NP facilities))
+			 ,
+			 and
+			 (NP (ADJP other) 
+			     property or rights))
+		     (PP by
+			 (NP (NP purchase)
+			     ,
+			     (NP license)
+			     ,
+			     (NP lease)
+			     ,
+			     or
+			     (NP donation)))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    G
+		    *RRB*)
+		 (VP (VP assemble and maintain
+			 (NP (NP 
+			      (ADJP pertinent and current)
+			      (ADJP scientific)
+			      literature)
+			     ,
+			     (ADJP both
+				   (ADJP domestic) 
+				   and 
+				   (ADJP foreign))))
+		     ,
+		     and
+		     (VP issue
+			 (NP (ADJP bibliographical) 
+			     data
+			     (PP with
+				 (NP respect
+				     (ADVP thereto)))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    H
+		    *RRB*)
+		 (VP (VP cause
+			 (NP on-site inspections
+			     (PP-4 *pseudo-attach*))
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(VP made))
+			    (PP-4 of
+				  (NP (NP (ADJP promising) 
+					  projects)
+				      ,
+				      (ADJP domestic and foreign)))))
+		     ,
+		     and
+		     ,
+		     (PP in
+			 (NP the case
+			     (PP of
+				 (NP (NP projects)
+				     (VP located
+					 (PP in
+					     (NP the United States)))))))
+		     ,
+		     (VP cooperate and participate
+			 (PP in
+			     (NP their development))
+			 (PP in
+			     (NP (NP instances)
+				 (SBAR (WHPP in
+					     (WHNP which))
+				       (S (NP the purposes
+					      (PP of
+						  (NP this Act)))
+					  (AUX will)
+					  (VP be
+					      (VP served
+						  (ADVP thereby))))))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    I
+		    *RRB*)
+		 (VP (VP foster
+			 (NP-5 *pseudo-attach*)) 
+		     and 
+		     (VP participate
+			 (PP in
+			     (NP-5 *pseudo-attach*)))
+		     (NP-5 (NP (ADJP regional
+				     ,
+				     national
+				     ,
+				     and
+				     international)
+			       conferences)
+			   (VP relating
+			       (PP to
+				   (NP (ADJP saline) 
+				       water conversion))))))
+	      ;
+	      ;
+	      (VP (NP *LRB*
+		    J
+		    *RRB*)
+		 (VP coordinate
+		     ,
+		     correlate
+		     ,
+		     and
+		     publish
+		     (NP information)
+		     (PP with
+			 (NP a view
+			     (PP to
+				 (S (NP *)
+				    (VP advancing
+					(NP the development
+					    (PP of
+						(NP 
+						 (ADJP  low-cost)
+						 (ADJP saline)
+						 water conversion projects))))))))))
+	      ;
+	      ;
+	      and
+	      (VP (NP *LRB*
+		    K
+		    *RRB*)
+		 (VP cooperate
+		     (PP (PP with
+			     (NP 
+			      (ADJP other)
+			      (ADJP Federal)
+			      departments and agencies))
+			 ,
+			 (PP with
+			     (NP State
+				 and
+				 (ADJP local) 
+				 departments
+				 ,
+				 agencies
+				 ,
+				 and
+				 instrumentalities))
+			 ,
+			 and
+			 (PP with
+			     (NP  (ADJP interested)
+				  persons
+				  ,
+				  firms
+				  ,
+				  institutions
+				  ,
+				  and
+				  (NP organizations))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Sec. 4)
+	 .
+	 (NP *LRB*
+	     A
+	     *RRB*))
+     (S (NP (NP Research and development activities)
+	    (VP undertaken
+		(PP by
+		    (NP the Secretary))))
+	(AUX shall)
+	(VP be
+	    (VP coordinated
+		or
+		conducted
+		    (ADVP jointly)
+		(PP with
+		    (NP the Department
+			(PP of
+			    (NP Defense))))))
+	(PP to
+	    (NP the end
+		(SBAR (SBAR that
+			    (S (NP (NP developments
+				       (PP under
+					   (NP this Act)))
+				   (SBAR 
+				    (WHNP which)
+				    (S (NP T)
+				       (VP are
+					   (ADVP primarily)
+					   (PP of
+					       (NP a 
+						   (ADJP civil) 
+						   nature))))))
+			       (AUX will)
+			       (VP contribute
+				   (PP to
+				       (NP the defense
+					   (PP of
+					       (NP the Nation)))))))
+		      and
+		      (SBAR that
+			    (S (NP (NP developments)
+				   (SBAR 
+				    (WHNP which)
+				    (S (NP T)
+				       (VP are
+					   (ADVP primarily)
+					   (PP of
+					       (NP a
+						   (ADJP military)
+						   nature))))))
+			       (AUX will)
+			       ,
+			       (PP to
+				   (NP the
+				       (ADJP greatest practicable)
+				       extent
+				       (ADJP compatible
+					     (PP with
+						 (NP (ADJP military)
+						     and
+						     security requirements)))))
+			       ,
+			       (VP be
+				   (ADJP available
+					 (S (S (NP *)
+					       (AUX to)
+					       (VP advance
+						   (NP the purposes
+						       (PP of
+							   (NP this Act)))))
+					    and
+					    (S (NP *)
+					       (AUX to)
+					       (VP strengthen
+						   (NP the 
+						       (ADJP civil) 
+						       economy
+						       (PP of
+							   (NP the
+							       Nation)))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	(ADJP fullest)
+	cooperation
+	(PP by and with
+	    (NP (NP (ADJP Atomic) 
+		    Energy Commission)
+		,
+		(NP the Department
+		    (PP of
+			(NP (NP Health)
+			    ,
+			    (NP Education)
+			    ,
+			    and
+			    (NP Welfare))))
+		,
+		(NP the Department
+		    (PP of
+			(NP State)))
+		,
+		and
+		(NP (ADJP other)
+		    (ADJP concerned
+			  agencies)))))
+    (AUX shall)
+    (ADVP also)
+    (VP be
+	(VP carried
+	    (PRT out)
+	    (PP in
+		(NP the interest
+		    (PP of
+			(S (NP *)
+			   (VP achieving
+			       (NP the objectives
+				   (PP of
+				       (NP this Act)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 B
+	 *RRB*)
+     (S (NP (NP All research
+		(PP within
+		    (NP the United States)))
+	    (VP (VP contracted
+		    (PP for
+			(PP-1 *pseudo-attach*)))
+		,
+		(VP sponsored
+		    (PP-1 *pseudo-attach*))
+		,
+		(VP cosponsored
+		    (PP-1 *pseudo-attach*))
+		,
+		or
+		(VP authorized
+		    (PP-1 *pseudo-attach*))
+		(PP-1 under
+		      (NP authority
+			  (PP of
+			      (NP this Act))))))
+	,
+	(AUX shall)
+	(VP be
+	    (VP provided
+		(PRT for)
+		(PP in
+		    (NP (ADJP such) 
+			manner
+			(SBAR that
+			      (S (NP (NP all information
+					 ,
+					 uses
+					 ,
+					 products
+					 ,
+					 processes
+					 ,
+					 patents
+					 ,
+					 and
+					 (ADJP other)
+					 developments)
+				     (VP resulting
+					 (PP from
+					     (NP (NP (ADJP such) 
+						     research)
+						 (VP developed
+						     (PP by
+							 (NP Government expenditure)))))))
+				 (AUX will)
+				 *LRB*
+				 (PP with
+				     (NP (NP (ADJP such) 
+					     exceptions and limitations)
+					 ,
+					 (X if
+					    (NP any))
+					 ,
+					 (PP as
+					     (S (NP the Secretary)
+						(AUX may
+						     (VP find
+							 (NP T)
+							 (S (NP *)
+							    (AUX to)
+							    (VP be
+								(ADJP necessary
+								      (PP in
+									  (NP the interest
+									      (PP of
+										  (NP national
+										      defense)))))))))))))
+				 *RRB*
+				 (VP be
+				     (ADJP available
+					   (PP to
+					       (NP the
+						   (ADJP general) 
+						   public))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This subsection)
+   (AUX shall)
+   (NEG not)
+   (VP be
+       (VP (ADVP so)
+	   construed
+	   (PP as
+	       (S (NP *)
+		  (AUX to)
+		  (VP deprive
+		      (NP the owner
+			  (PP of
+			      (NP (NP any background patent)
+				  (VP relating
+				      (ADVP thereto)))))
+		      (PP of
+			  (NP (NP (ADJP such)
+				  rights)
+			      (PP as
+				  (S (NP he)
+				     (AUX may)
+				     (VP have
+					 (NP T)
+					 (ADVP thereunder))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Sec. 5)
+	 .
+	 (NP *LRB*
+	     A
+	     *RRB*))
+     (S (NP The Secretary)
+	(AUX may)
+	(VP dispose
+	    (PRT of)
+	    (NP (NP (NP water) 
+		    and 
+		    (NP byproducts))
+		(VP resulting
+		    (PP from
+			(NP his operations
+			    (PP under
+				(NP this Act)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP All moneys)
+	(VP received
+	    (PP from
+		(NP dispositions
+		    (PP under
+			(NP this section))))))
+    (AUX shall)
+    (VP be
+	(VP paid
+	    (PP into
+		(NP the Treasury))
+	    (PP as
+		(NP (ADJP miscellaneous) 
+		    receipts))))
+    *RRB*
+    .))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 B
+	 *RRB*)
+     (S (NP Nothing
+	    (PP in
+		(NP the Act)))
+	(AUX shall)
+	(VP be
+	    (VP construed
+		(S (NP *)
+		   (AUX to)
+		   (VP alter
+		       (NP existing
+			   law)
+		       (PP with
+			   (NP respect
+			       (PP to
+				   (NP the ownership and control
+				       (PP of
+					   (NP water))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sec. 6)
+     .
+     (S (NP The Secretary)
+	(AUX shall)
+	(VP make
+	    (NP reports)
+	    (PP to
+		(NP (NP the President)
+		    and
+		    (NP the Congress))))
+	(PP at
+	    (NP the beginning
+		(PP of
+		    (NP each 
+			(ADJP regular) 
+			session
+			(PP (PP of
+				(NP (NP the action)
+				    (VP taken
+					or
+					instituted
+					(PP by
+					    (NP him))
+					(PP under
+					    (NP the provisions
+						(PP of
+						    (NP this Act)))))))
+			    and
+			    (PP of
+				(NP (ADJP prospective) 
+				    action
+				    (PP during
+					(NP the 
+					    (ADJP ensuing) 
+					    year)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sec. 7)
+     .
+     (S
+      (NP The Secretary
+	  (PP of
+	      (NP the Interior)))
+      (AUX may)
+      (VP issue
+	  (NP (NP rules) 
+	      and 
+	      (NP regulations))
+	  (S (NP *)
+	     (AUX to)
+	     (VP effectuate
+		 (NP the purposes
+		     (PP of
+			 (NP this Act))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Sec. 8)
+      .
+      (S (NP There)
+	 (AUX are)
+	 (VP authorized
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP appropriated))))
+	 (NP (NP (ADJP such) 
+		 sums)
+	     ,
+	     (S (S (NP *)
+		   (AUX to)
+		   (VP remain
+		       (ADJP available)
+		       (PP until
+			   (S (NP *)
+			      (VP expended
+				  ,
+				  (PP as
+				      (S  (NP *)
+					  (AUX may)
+					  (VP be
+					      (ADJP necessary)))))))))
+		,
+		but
+		(NEG not)
+		(NP (ADJP more
+			  (PP than))
+		    $ 75,000,000
+		    (PP in
+			(NP all))))
+	     ,
+	     (S (S (NP *LRB*
+		       A
+		       *RRB*)
+		   (S (NP *)
+		      (AUX to)
+		      (VP carry
+			  (PRT out)
+			  (NP the provisions
+			      (PP of
+				  (NP this Act)))
+			  (PP during
+			      (NP (NP (NP the 
+					  (ADJP fiscal) 
+					  years)
+				      (NP 1962
+					  (PP to
+					      (NP 1967))))
+				  ,
+				  (ADJP inclusive))))))
+		;
+		;
+		(S (NP *LRB*
+		       B
+		       *RRB*)
+		   (S (NP *)
+		      (AUX to)
+		      (VP finance
+			  ,
+			  (PP for
+			      (NP (NEG not)
+				  (NP (ADJP more
+					    (PP than))
+				      two years
+				      (PP beyond
+					  (NP the end
+					      (PP of
+						  (NP (ADJP said) 
+						      period)))))))
+			  ,
+			  (NP (ADJP such) 
+			      grants
+			      ,
+			      contracts
+			      ,
+			      (ADJP cooperative)
+			      agreements
+			      ,
+			      and
+			      studies
+			      (PP as
+				  (S (NP *)
+				     (AUX may)
+				     (ADVP theretofore)
+				     (VP have
+					 (VP been
+					     (VP undertaken
+						 (ADJP pursuant
+						       (PP to
+							   (NP this Act)))))))))))))
+	     ;
+	     ;
+	     and
+	     (S (NP *LRB*
+		    C
+		    *RRB*)
+		(S (NP *)
+		   (AUX to)
+		   (VP finance
+		       ,
+		       (PP for
+			   (NP (NEG not)
+			       (NP (ADJP more
+					 (PP than))
+				   three years
+				   (PP beyond
+				       (NP the end
+					   (PP of
+					       (NP (ADJP said)
+						   period)))))))
+		       ,
+		       (NP (ADJP such) 
+			   activities
+			   (PP as
+			       (S (NP *)
+				  (AUX are)
+				  (VP required
+				      (S (NP *)
+					 (AUX to)
+					 (VP (VP correlate
+						 (NP-2 *pseudo-attach*))
+					     ,
+					     (VP coordinate
+						 (NP-2 *pseudo-attach*))
+					     ,
+					     and
+					     (VP round
+						 (PRT out)
+						 (NP-2 *pseudo-attach*))
+					     (NP-2 the results
+						   (PP of
+						       (NP (NP (NP studies) 
+							       and 
+							       (NP research))
+							   (VP undertaken
+							       (ADJP pursuant
+								     (PP to
+									 (NP this Act)))))))))))))))))
+	 :
+	 (S (S (NP *)
+	       (VP Provided
+		   ,
+		   (SBAR That
+			 (S (NP (NP funds)
+				(ADJP available
+				      (PP in
+					  (NP any one year))
+				      (PP for
+					  (NP (NP research) 
+					      and 
+					      (NP development)))))
+			    (AUX may)
+			    ,
+			    (ADJP subject
+				  (PP to
+				      (NP the approval
+					  (PP of
+					      (NP the Secretary
+						  (PP of
+						      (NP State))))
+					  (S (NP *)
+					     (AUX to)
+					     (VP assure
+						 (SBAR that
+						       (S (NP (ADJP such) 
+							      activities)
+							  (VP are
+							      (ADJP consistent
+								    (PP with
+									(NP the 
+									    (ADJP foreign) 
+									    policy objectives
+									    (PP of
+										(NP the
+										    United
+										    States)))))))))))))
+			    ,
+			    (VP be
+				(VP expended
+				    (PP in
+					(NP cooperation
+					    (PP with
+						(NP (ADJP public or private)
+						    agencies
+						    (PP in
+							(NP (ADJP foreign) 
+							    countries))))))
+				    (PP in
+					(NP the development
+					    (PP of
+						(NP (NP processes)
+						    (ADJP useful
+							  (PP to
+							      (NP the program
+								  (PP in
+								      (NP the United States))))))))))))))))
+	 :
+	 (S And
+	    (NP *)
+	    (VP provided
+		(ADVP  further)
+		,
+		(SBAR That
+		      (S (NP (NP every 
+				 (ADJP such) 
+				 contract or agreement)
+			     (VP made
+				 (PP with
+				     (NP any
+					 (ADJP public or private)
+					 agency
+					 (PP in
+					     (NP a 
+						 (ADJP foreign) 
+						 country))))))
+			 (AUX shall)
+			 (VP contain
+			     (NP (NP provisions)
+				 (ADJP effective
+				       (S (NP *)
+					  (AUX to)
+					  (VP insure
+					      (SBAR that
+						    (S (NP (NP the results or information)
+							   (VP developed
+							       (PP in
+								   (NP connection
+								       (ADVP therewith)))))
+						       (AUX shall)
+						       (VP be
+							   (ADJP available
+								 (PP without
+								     (NP cost))
+								 (PP to
+								     (NP the United States))
+								 (PP (PP for
+									 (NP the use
+									     (PP of
+										 (NP the United States))
+									     (PP throughout
+										 (NP the world))))
+								     and
+								     (PP for
+									 (NP the use
+									     (PP of
+										 (NP the 
+										     (ADJP general) 
+										     public))
+									     (PP within
+										 (NP the United State))
+									     (NP
+									      Sec.
+									      2)))))))))))))))))
+	 .)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Section 4
+	(PP of
+	    (NP (NP the
+		    (ADJP joint) 
+		    resolution
+		    (PP of
+			(NP (NP September 2) 
+			    , 
+			    (NP 1958))))
+		(NP *LRB*
+		   72
+		   Stat. 1707
+		   ;
+		   ;
+		   42
+		   U 1958
+		   *LRB*
+		   *RRB*
+		   *RRB*))))
+    ,
+    (AUX is)
+    (ADVP hereby)
+    (VP amended
+	(S (NP *)
+	   (AUX to)
+	   (VP read
+	       :
+	       (SBAR 0
+		     (S (NP The authority
+			    (PP of
+				(NP the Secretary
+				    (PP of
+					(NP the Interior))))
+			    (PP under
+				(NP this 
+				    (ADJP joint) 
+				    resolution
+				    (S (NP *)
+				       (AUX to)
+				       (VP construct
+					   ,
+					   operate
+					   ,
+					   and
+					   maintain
+					   (NP demonstration
+					       plants))))))
+			(AUX shall)
+			(VP terminate)
+			(PP upon
+			    (NP the expiration
+				(PP of
+				    (NP twelve years
+					(PP after
+					    (NP (NP the date)
+						(SBAR (WHPP on
+							    (WHNP which))
+						      (S (NP this joint resolution)
+							 (AUX is)
+							 (VP approved
+							     )))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP the expiration
+	    (PP of
+		(NP (NP a period)
+		    (X (VP deemed
+			   (ADJP adequate
+				 (PP for
+				     (NP demonstration purposes
+					 (PP for
+					     (NP each plant))))))
+		       ,
+		       but
+		       (NEG not)
+		       (S (NP *)
+			  (AUX to)
+			  (VP exceed
+			      (NP 
+			       (ADJP such)
+			       twelve-year
+			       period))))))))
+    ,
+    (S (NP the Secretary)
+       (AUX shall)
+       (VP proceed
+	   (ADVP as
+		 promptly
+		 (PP as
+		     (ADJP practicable))))
+       (S (NP *)
+	  (AUX to)
+	  (VP dispose
+	      (PP of
+		  (NP (NP any plants)
+		      (ADVP so)
+		      (VP constructed)))
+	      (PP (PP by
+		      (NP sale
+			  (PP to
+			      (NP the
+				  (ADJP highest)
+				  bidder))))
+		  ,
+		  or
+		  (PP as
+		      (S (NP *)
+			 (AUX may)
+			 (ADVP otherwise)
+			 (VP be
+			     (VP directed
+				 (PP by
+				     (NP Act
+					 (PP of
+					     (NP Congress)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP (ADJP such) 
+	    sale))
+    ,
+    (S (NP there)
+       (AUX shall)
+       (VP be
+	   (VP returned
+	       (PP to
+		   (NP (NP any State
+			   or
+			   (ADJP public)
+			   agency)
+		       (SBAR
+			(WHNP which)
+			(S (NP T)
+			   (AUX has)
+			   (VP contributed
+			       (NP (ADJP financial)
+				   assistance)
+			       (PP under
+				   (NP Section 3
+				       (PP of
+					   (NP this 
+					       (ADJP joint
+						     resolution))))))))))
+	       (NP a 
+		   (ADJP proper)
+		   share
+		   (PP of
+		       (NP the net proceeds
+			   (PP of
+			       (NP the sale)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (VP Approved
+      (NP (NP September 22)
+	  ,
+	  (NP 1961)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (AUX Be)
+    (NP it)
+    (VP enacted
+	(PP by
+	    (NP (NP the Senate
+		    and
+		    House
+		    of
+		    Representatives
+		    (PP of
+			(NP the United States
+			    (PP of
+				(NP America)))))
+		(PP in
+		    (NP Congress))
+		(VP assembled))))
+    ,
+    (SBAR That
+	  (S (NP the Secretary
+		 (PP of
+		     (NP the Interior)))
+	     (AUX is)
+	     (ADVP hereby)
+	     (VP authorized
+		 and
+		 directed
+		 (S (NP *)
+		    (AUX to)
+		    (VP (VP make
+			    (NP-3 *pseudo-attach*)) 
+			or 
+			(VP cause
+			    (S (NP *)
+			       (AUX to)
+			       (VP be
+				   (VP made
+				       (NP-3 *pseudo-attach*)))))
+			(NP-3 (NP a study)
+			      (VP covering
+				  --
+				  (NP (NP (NP *LRB*
+					      1
+					      *RRB*)
+					  (NP the causes
+					      (PP of
+						  (NP injuries and health hazards
+						      (PP in
+							  (NP (NP Metal
+								  and
+								  (ADJP nonmetallic) 
+								  mines)
+							      (VP *LRB*
+								  excluding
+								  (NP coal and lignite mines)
+								  *RRB*)))))))
+					  ;
+					  ;
+					  (NP (NP *LRB*
+						  2
+						  *RRB*)
+					      (NP the
+						  (ADJP relative) 
+						  effectiveness
+						  (PP of
+						      (NP (ADJP voluntary
+								(PP versus
+								    (ADJP mandatory)))
+							  reporting
+							  (PP of
+							      (NP accident statistics))))))
+					  ;
+					  ;
+					  (NP (NP *LRB*
+						  3
+						  *RRB*)
+					      (NP the 
+						  (ADJP relative)
+						  contribution
+						  (PP to
+						      (NP safety))
+						  (PP of
+						      (NP (NP inspection programs)
+							  (VP embodying
+							      --
+							      (NP (NP (NP *LRB*
+									  A
+									  *RRB*)
+								      (NP right-of-entry
+									  (ADVP only)))
+								  and
+								  (NP (NP *LRB*
+									  B
+									  *RRB*)
+								      (NP (NP right-of-entry) 
+									  plus 
+									  (NP enforcement authority)))))))))
+					  ;
+					  ;
+					  (NP (NP *LRB*
+						  4
+						  *RRB*)
+					      (NP the effectiveness
+						  (PP of
+						      (NP health and safety education and training))))
+					  ;
+					  ;
+					  (NP (NP *LRB*
+						  5
+						  *RRB*)
+					      (NP the magnitude
+						  (PP of
+						      (NP effort and costs
+							  (PP of
+							      (NP each
+								  (PP of
+								      (NP these
+									  (ADJP possible) 
+									  phases
+									  (PP of
+									      (NP an 
+										  (ADJP effective)
+										  safety program
+										  (PP-4 *pseudo-attach*)))))))
+							  (PP-4 *pseudo-attach*)))
+						  (PP-4 for
+							(NP (NP metal
+								and
+								(ADJP nonmetallic)
+								mines)
+							    (VP *LRB*
+								excluding
+								(NP coal and lignite mines)
+								*RRB*)))))
+					  ;
+					  ;
+					  and
+					  (NP (NP *LRB*
+						  6
+						  *RRB*)
+					      (NP (NP the scope and adequacy
+						      (PP of
+							  (NP (NP State mine-safety laws)
+							      (ADJP applicable
+								    (PP to
+									(NP (ADJP such) 
+									    mines))))))
+						  and
+						  (NP the enforcement
+						      (PP of
+							  (NP (ADJP such) 
+							      laws))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Sec. 2)
+	 .
+	 (NP *LRB*
+	     A
+	     *RRB*))
+     (S (NP (NP The Secretary
+		(PP of
+		    (NP the Interior)))
+	    or
+	    (NP any
+		(ADJP (ADVP duly)
+		      authorized)
+		representative))
+	(AUX shall)
+	(VP be
+	    (VP entitled
+		(X (PP to
+		       (NP admission
+			   (PP to
+			       (NP-6 *pseudo-attach*))))
+		   ,
+		   and
+		   (S (NP *)
+		      (AUX to)
+		      (VP require
+			  (NP reports
+			      (PP from
+				  (NP the operator
+				      (PP of
+					  ,
+					  (NP-6 *pseudo-attach*)))))))
+		   (NP-6 (NP (NP (NP any metal
+				     or
+				     (ADJP nonmetallic)
+				     mine)
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (VP is
+					 (PP in
+					     (NP a State))))))
+			     (VP *LRB*
+				 excluding
+				 (NP any coal
+				     or
+				     lignite mine)
+				 *RRB*))
+			 ,
+			 (SBAR (SBAR (WHNP the products
+					   (WHPP of
+						 (WHNP which)))
+				     (S (NP T)
+					(ADVP regularly)
+					(VP enter
+					    (NP commerce))))
+			       or
+			       (SBAR (WHNP the operations
+					   (WHPP of
+						 (WHNP which)))
+				     (S (NP T)
+					(ADVP substantially)
+					(VP affect
+					    (NP
+					     commerce))))))))))
+     ,
+     (PP for
+	 (NP the purpose
+	     (PP of
+		 (S (NP *)
+		    (VP gathering
+			(NP (NP data and information)
+			    (ADJP necessary
+				  (PP for
+				      (NP (NP the study)
+					  (VP authorized
+					      (PP in
+						  (NP the 
+						      (ADJP first)
+						      section
+						      (PP of
+							  (NP this
+							      Act)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 B
+	 *RRB*)
+     (S (PP As
+	    (S (NP *)
+	       (VP used
+		   (PP in
+		       (NP this section)))))
+	--
+	(S (S (NP *LRB*
+		  1
+		  *RRB*)
+	      (S (NP (NP the term)
+		     (NP ``
+			 State
+			 ''))
+		 (VP includes
+		     (NP (NP the Commonwealth
+			     (PP of
+				 (NP Puerto Rico)))
+			 and
+			 (NP any possession
+			     (PP of
+				 (NP the United States)))))))
+	   ;
+	   ;
+	   and
+	   (S (NP *LRB*
+		  2
+		  *RRB*)
+	      (S (NP (NP the term)
+		     (NP ``
+			 commerce
+			 ''))
+		 (VP means
+		     (NP commerce
+			 (PP (PP between
+				 (NP (NP any State)
+				     and
+				     (NP any place
+					 (PP outside
+					     (ADVP thereof)))))
+			     ,
+			     or
+			     (PP between
+				 (NP points
+				     (PP (PP within
+					     (NP the
+						 (ADJP same) 
+						 State))
+					 but
+					 (PP through
+					     (NP any place
+						 (PP outside
+						     (ADVP thereof)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sec. 3)
+     .
+     (S (NP The Secretary
+	    (PP of
+		(NP the Interior)))
+	(AUX shall)
+	(VP submit
+	    (NP (NP a report
+		    (PP of
+			(NP his findings))
+		    ,
+		    (ADVP together)
+		    (PP with
+			(NP recommendations
+			    (PP for
+				(NP an 
+				    (ADJP effective)
+				    safety program
+				    (PP for
+					(NP (NP metal
+						and
+						nonmetallic
+						(ADJP mines))
+					    (VP *LRB*
+						excluding
+						(NP coal
+						    and
+						    lignite mines)
+						*RRB*))))))))
+		(VP based
+		    (PP upon
+			(NP (ADJP such)
+			    findings))))
+	    ,
+	    (PP to
+		(NP the Congress)))
+	(NEG not)
+	(NP (ADJP more)
+	    (PP than
+		(NP two years
+		    (PP after
+			(NP the date
+			    (PP of
+				(NP enactment
+				    (PP of
+					(NP this Act)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (VP Approved
+      (NP (NP September 26)
+	  ,
+	  (NP 1961)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (AUX Be)
+       (NP it)
+       (VP enacted
+	   (PP by
+	       (NP (NP the Senate
+		       and
+		       House
+		       of
+		       Representatives
+		       (PP of
+			   (NP the United States
+			       (PP of
+				   (NP America)))))
+		   (PP in
+		       (NP Congress))
+		   (VP assembled))))
+       ,
+       (SBAR That
+	     (S (NP the Secretary
+		    (PP of
+			(NP the Interior)))
+		(AUX is)
+		(ADVP hereby)
+		(VP authorized
+		    and
+		    directed
+		    (S (NP *)
+		       (AUX to)
+		       (VP establish and maintain
+			   (NP a program
+			       (PP of
+				   (NP stabilization payments
+				       (PP to
+					   (NP 
+					    (ADJP small)
+					    (ADJP domestic)
+					    producers
+					    (PP of
+						(NP lead and zinc ores and concentrates))))))))))
+		(PP in
+		    (NP order)
+			(S (NP *)
+			   (AUX to)
+			   (VP stabilize
+			       (NP the mining
+				   (PP of
+				       (NP (NP lead) 
+					   and 
+					   (NP zinc)))
+				   (PP by
+				       (NP 
+					(ADJP small)
+					(ADJP domestic)
+					producers))
+				   (PP on
+				       (NP (ADJP public)
+					   ,
+					   (ADJP Indian)
+					   ,
+					   and
+					   (ADJP other) 
+					   lands))))))
+		(PP as
+		    (S (NP *)  
+		       (VP provided
+			   (PP in
+			       (NP this Act))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Sec. 2)
+	 .
+	 (NP *LRB*
+	     A
+	     *RRB*))
+     (S (ADJP Subject
+	      (PP to
+		  (NP the limitations
+		      (PP of
+			  (NP this Act)))))
+	,
+	(S (NP the Secretary)
+	   (AUX shall)
+	   (VP make
+	       (NP stabilization payments)
+	       (PP to
+		   (NP 
+		    (ADJP small)
+		    (ADJP domestic)
+		    producers)))
+	   (PP upon
+	       (NP presentation
+		   (PP of
+		       (NP (NP (NP evidence)
+			       (ADJP satisfactory
+				     (PP to
+					 (NP him))))
+			   (PP (PP of
+				   (NP their status
+				       (PP as
+					   (NP (ADJP such) 
+					       producers))))
+			       and
+			       (PP of
+				   (NP the sale
+				       (PP by
+					   (NP them))
+				       (PP of
+					   (NP (NP (ADJP (ADVP newly)
+							 mined)
+						   ores)
+					       ,
+					       or
+					       (NP (NP concentrates)
+						   (VP produced
+						       (ADVP therefrom))))))))))))
+	   ,
+	   (PP as
+	       (S (NP *)
+		  (VP provided
+		      (PP in
+			  (NP this Act))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Payments)
+   (AUX shall)
+   (VP be
+       (VP made
+	   (ADVP only)
+	   (PP with
+	       (NP respect
+		   (PP to
+		       (NP the metal content
+			   (PP as
+			       (S (NP *)
+				  (VP determined
+				      (PP by
+					  (NP assay))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 B
+	 *RRB*)
+     (S (S  (NP (ADJP Such)
+		payments)
+	    (AUX shall)
+	    (VP be
+		(VP made
+		    (PP to
+			(NP 
+			 (ADJP small)
+			 (ADJP domestic)
+			 producers
+			 (PP of
+			     (NP lead))))))
+	    (ADJP as
+		  long
+		  (PP as
+		      (S (NP the market price
+			     (PP for
+				 (NP (ADJP common) 
+				     lead))
+			     (PP at
+				 (NP (NP New York)
+				     ,
+				     (NP New York)))
+			     ,
+			     (PP as
+				 (S (NP *)
+				    (VP determined
+					(PP by
+					    (NP the Secretary))))))
+			 ,
+			 (VP is
+			     (PP below
+				 (NP 14-12 cents
+				     (PP per
+					 (NP pound)))))))))
+	,
+	and
+	(S (NP (ADJP such) 
+	       payments)
+	   (AUX shall)
+	   (VP be
+	       (NP 75
+		   (PP per
+		       (NP centum
+			   (PP of
+			       (NP the difference
+				   (PP between
+				       (NP (NP 14-12 cents
+					       (PP per
+						   (NP pound)))
+					   and
+					   (NP the 
+					       (ADJP average) 
+					       market price
+					       (PP for
+						   (NP (NP the month)
+						       (SBAR (WHPP in
+								   (WHNP which))
+							     (S (NP the sale)
+								(VP occurred)))))
+					       (PP as
+						   (S (NP *)
+						      (VP determined
+							  (PP by
+							      (NP the Secretary)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 C
+	 *RRB*)
+     (S (S  (NP (ADJP Such) 
+		payments)
+	      (AUX shall)
+	      (VP be
+		  (VP made
+		      (PP to
+			  (NP 
+			   (ADJP small)
+			   (ADJP domestic)
+			   producers
+			   (PP of
+			       (NP zinc))))))
+	   (ADJP as
+		 long
+		 (PP as
+		     (S (NP the market price
+			    (PP for
+				(NP 
+				 (ADJP prime)
+				 (ADJP western)
+				 zinc))
+			    (PP at
+				(NP (NP East Saint Louis)
+				    ,
+				    (NP Illinois)
+				    ,))
+			    (PP as
+				(S (NP *)
+				   (VP determined
+				       (PP by
+					   (NP the Secretary))))))
+			,
+			(VP is
+			    (PP below
+				(NP 14-12 cents
+				    (PP per
+					(NP pound)))))))))
+	,
+	and
+	(S (NP such payments)
+	   (AUX shall)
+	   (VP be
+	       (NP 55
+		   (PP per
+		       (NP centum
+			   (PP of
+			       (NP the difference
+				   (PP between
+				       (NP (NP 14-12 cents
+					       (PP per
+						   (NP pound)))
+					   and
+					   (NP the 
+					       (ADJP average) 
+					       market price
+					       (PP for
+						   (NP (NP the month)
+						       (SBAR (WHPP in
+								   (WHNP which))
+							     (S (NP the sale)
+								(VP occurred)))))
+					       (PP as
+						   (S (NP *)  
+						      (VP determined
+							  (PP by
+							      (NP the Secretary)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 D
+	 *RRB*)
+     (S (S (NP  The maximum amount
+		   (PP of
+		       (NP (NP payments)
+			   (SBAR
+			    (WHNP which)
+			    (S (NP T)
+			       (AUX may)
+			       (VP be
+				   (VP made
+				       (ADJP pursuant
+					     (PP to
+						 (NP this Act)))
+				       (PP on
+					   (NP account
+					       (PP of
+						   (NP (NP sales
+							   (PP of
+							       (NP (NP (ADJP (ADVP newly)
+									     mined)
+								       ores)
+								   or
+								   (NP (NP concentrates)
+								       (VP produced
+									   (ADVP therefrom))))))
+						       (VP made
+							   (PP during
+							       (NP (NP the calendar year)
+								   (NP 1962)))))))))))))))
+	   (AUX shall)
+	   (NEG not)
+	   (VP exceed
+	       (NP $ 4,500,000)))
+	;
+	;
+	(S (NP the maximum amount
+	       (PP of
+		   (NP (NP (ADJP such) 
+			   payments)
+		       (SBAR
+			(WHNP which)
+			(S (NP T)
+			   (AUX may)
+			   (VP be
+			       (VP made
+				   (PP on
+				       (NP account
+					   (PP of
+					       (NP (NP (ADJP such) 
+						       sales)
+						   (VP made
+						       (PP during
+							   (NP (NP the calendar year)
+							       (NP 1963)))))))))))))))
+	   (AUX shall)
+	   (NEG not)
+	   (VP exceed
+	       (NP $ 4,500,000)))
+	;
+	;
+	(S (NP the maximum amount
+	       (PP of
+		   (NP (NP such payments)
+		       (SBAR
+			(WHNP which)
+			(S (NP T)
+			   (AUX may)
+			   (VP be
+			       (VP made
+				   (PP on
+				       (NP account
+					   (PP of
+					       (NP (NP (ADJP such) 
+						       sales)
+						   (VP made
+						       (PP during
+							   (NP (NP the calendar year)
+							       (NP 1964)))))))))))))))
+	   (AUX shall)
+	   (NEG not)
+	   (VP exceed
+	       (NP $ 4,000,000)))
+	;
+	;
+	and
+	(S (NP the maximum amount
+	       (PP of
+		   (NP (NP (ADJP such) 
+			   payments)
+		       (SBAR
+			(WHNP which)
+			(S (NP T)
+			   (AUX may)
+			   (VP be
+			       (VP made
+				   (PP on
+				       (NP account
+					   (PP of
+					       (NP (NP (ADJP such) 
+						       sales)
+						   (VP made
+						       (PP during
+							   (NP (NP the calendar year)
+							       (NP 1965)))))))))))))))
+	   (AUX shall)
+	   (NEG not)
+	   (VP exceed
+	       (NP $ 3,500,000)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

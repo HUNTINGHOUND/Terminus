@@ -1,0 +1,2303 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 6.4
+	   .)
+       (NP The primary decomposition theorem)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX are)
+   (VP trying
+       (S (NP *)
+	  (AUX to)
+	  (VP study
+	      (NP a linear operator
+		  T)
+	      (PP on
+		  (NP the (ADJP finite-dimensional) space
+		      V))
+	      ,
+	      (PP by
+		  (S (NP *) 
+		     (VP decomposing
+			 (NP T)
+			 (PP into
+			     (NP a direct sum
+				 (PP of
+				     (NP (NP operators)
+					 (SBAR 
+					  (WHNP which)
+					  (S (NP T)
+					     (VP are
+						 (PP in
+						     (NP some sense))
+						 (ADJP elementary)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX can)
+   (VP do
+       (NP this)
+       (PP through
+	   (NP the characteristic values and vectors
+	       (PP of
+		   (NP T)))))
+   (PP in
+       (NP (NP 
+	    certain special
+	    cases)
+	   ,
+	   i.e.
+	   ,
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP the minimal polynomial
+		   (PP for
+		       (NP T)))
+	       (VP factors
+		   (PP over
+		       (NP the scalar field
+			   F))
+		   (PP into
+		       (NP a product
+			   (PP of
+			       (NP 
+				distinct monic
+				polynomials
+				(PP of
+				    (NP degree 1))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  (AUX can)
+       (NP we)
+       (VP do
+	   (NP T)
+	   (PP with
+	       (NP the
+		   general
+		   T)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP we)
+	     (VP try
+		 (S (NP *)
+		    (AUX to)
+		    (VP study
+			(NP T))
+		    (S (NP *) 
+		       (VP using
+			   (NP characteristic values)))))))
+   ,
+   (S (NP we)
+      (AUX are)
+      (VP confronted
+	     
+	  (PP with
+	      (NP two problems)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADVP First)
+	,
+	(S (NP T)
+	   (AUX may)
+	   (NEG not)
+	   (VP have
+	       (NP a
+		   single characteristic
+		   value))))
+     ;
+     ;
+     (S (NP this)
+	(VP is
+	    (ADVP really)
+	    (NP (NP a deficiency
+		    (PP in
+			(NP the scalar field)))
+		,
+		(ADVP namely)
+		,
+		(SBAR that
+		      (S (NP it)
+			 (VP  is
+			      (NEG not)
+			      (ADJP   (ADVP algebraically)
+				      closed
+				      ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Second)
+     ,
+     (SBAR  even
+	    if
+	    (S (NP the characteristic polynomial)
+	       (VP factors
+		   (ADVP completely)
+		   (PP over
+		       (NP F))
+		   (PP into
+		       (NP a product
+			   (PP of
+			       (NP polynomials
+				   (PP of
+				       (NP degree 1)))))))))
+     ,
+     (S (NP there)
+	(AUX may)
+	(NEG not)
+	(VP be
+	    (NP  enough
+		 characteristic vectors
+		 (PP for
+		     (S (NP T)
+			(AUX to)
+			(VP span
+			    (NP the space
+				V))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADVP clearly)
+       (NP a deficiency
+	   (PP in
+	       (NP T)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The second situation)
+    (AUX is)
+    (VP illustrated
+	 
+	(PP by
+	    (NP the operator
+		T))
+	(PP on
+	    (NP (NP A[fj])
+		*LRB*
+		(NP (NP F)
+		    (NP any field))
+		*RRB*
+		(VP represented
+		    (PP in
+			(NP the standard basis))
+		    (PP by
+			(NP A[fj])))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The characteristic polynomial
+	  (PP for
+	      (NP A)))
+      (VP is
+	  (NP A[fj])))
+   and
+   (S (NP this)
+      (VP is
+	  (ADVP plainly)
+	  (ADVP also)
+	  (NP the minimal polynomial
+	      (PP (PP for
+		      (NP A))
+		  *LRB*
+		  or
+		  (PP for
+		      (NP T))
+		  *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP T)
+	 (VP is
+	     (NEG not)
+	     (ADJP diagonalizable))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (VP sees
+       (SBAR that
+	     (S (NP this)
+		(VP happens
+		    (SBAR because
+			  (S (NP the null space
+				 (PP of
+				     (NP A[fj])))
+			     (VP has
+				 (NP dimension 1
+				     (ADVP only))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the other hand))
+   ,
+   (S (NP (NP the null space
+	      (PP of
+		  (NP A[fj])))
+	  and
+	  (NP the null space
+	      (PP of
+		  (NP A[fj]))))
+      (ADVP together)
+      (VP span
+	  (NP V))
+      ,
+      (S (S (NP the
+		(ADJP former))
+	    (VP being
+		(NP (NP the subspace)
+		    (VP spanned
+			(PP by
+			    (NP A[fj]))))))
+	 and
+	 (X (NP the
+		(ADJP latter))
+	    (NP (NP the subspace)
+		(VP spanned
+		    (PP by
+			(NP (NP A[fj]) and (NP A[fj])))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX will)
+   (VP be
+       (ADVP more
+	     or
+	     less)
+       (NP our general method
+	   (PP for
+	       (NP the second problem)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (SBAR If
+	    (S  *LRB*
+		(S  (NP *) 
+		    (VP remember
+			(SBAR 0
+			      (S (NP this)
+				 (VP is
+				     (NP an assumption))))))
+		*RRB*
+		(S (NP the minimal polynomial
+		       (PP for
+			   (NP T)))
+		   (VP decomposes
+		       (NP A[fj]))
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP A[fj])
+		       (VP are
+			   (NP distinct elements
+			       (PP of
+				   (NP F)))))))))
+      ,
+      (ADVP then)
+      (S (NP we)
+	 (AUX shall)
+	 (VP show
+	     (SBAR that
+		   (S (NP the space V)
+		      (VP is
+			  (NP the direct sum
+			      (PP of
+				  (NP the null spaces
+				      (PP of
+					  (NP A[fj])))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The diagonalizable operator)
+   (VP is
+       (NP (NP the special case
+	       (PP of
+		   (NP this)))
+	   (X  (WHPP in
+		     (WHNP which))
+	       (NP A[fj]
+		   (PP for
+		       (NP each i)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The theorem)
+	(SBAR (WHNP which)
+	      (S (NP we)
+		 (VP prove
+		     (NP T) ))))
+    (VP is
+	(ADJP  more
+	       general
+	       (PP  than
+		    (SBAR (WHNP what)
+			  (S
+			   (NP we)
+			   (AUX have)
+			   (VP described
+			       (NP T) ))))))
+    ,
+    (SBAR since
+	  (S (NP it)
+	     (VP works
+		 (PP with
+		     (NP the primary decomposition
+			 (PP of
+			     (NP the minimal polynomial)))))
+	     ,
+	     (SBAR whether
+		   or
+		   (NEG not)
+		   (S (NP (NP the primes)
+			  (SBAR  
+			   (WHNP which)
+			   (S (NP T)
+			      (VP enter))))
+		      (VP are
+			  (NP all
+			      (PP of
+				  (NP first degree)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reader)
+   (AUX will)
+   (VP find
+       (NP it
+	   (S-1 *pseudo-attach*))
+       (ADJP helpful)
+       (S-1 (S (NP *)
+	       (AUX to)
+	       (VP think
+		   (PP of
+		       (NP (NP the special case)
+			   (SBAR 
+			    (WHADVP when)
+			    (S (NP the primes)
+			       (VP are
+				   (PP of
+				       (NP degree 1)))))))))
+	    ,
+	    and
+	    (ADVP  even
+		   more particularly)
+	    ,
+	    (S (NP *)
+	       (AUX to)
+	       (VP think
+		   (PP of
+		       (NP (NP the proof
+			       (PP of
+				   (NP Theorem 10)))
+			   ,
+			   (NP a special case
+			       (PP of
+				   (NP this theorem))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Theorem 12
+	  .)
+      *LRB*
+      (NP primary decomposition theorem)
+      *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Let
+	 (NP T)
+	 (VP be
+	     (NP a linear operator
+		 (PP on
+		     (NP the (ADJP finite-dimensional) vector space V))
+		 (PP over
+		     (NP the field F))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP p)
+	 (VP be
+	     (NP the minimal polynomial
+		 (PP for
+		     (NP (NP T)
+			 ,
+			 (NP A[fj]))))
+	     ,
+	     (SBAR 
+	      (WHADVP where)
+	      (S (S (NP the A[fj])
+		    ,
+		    (VP are
+			(NP  distinct irreducible monic
+			     polynomials
+			     (PP over
+				 (NP F)))))
+		 and
+		 (S (NP the A[fj])
+		    (VP are
+			(NP positive integers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP A[fj])
+	 (VP be
+	     (NP the null space
+		 (PP of
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S   (ADVP Then)
+       (NP *LRB*
+	   (NP A)
+	   *RRB*
+	   (NP A[fj]))
+       ;
+       ;
+       (S  *LRB*
+	   (NP B)
+	   *RRB*
+	   (S (NP each A[fj])
+	      (VP is
+		  (NP invariant)
+		  (PP under
+		      (NP T)))))
+       ;
+       ;
+       (S  *LRB*
+	   (NP C)
+	   *RRB*
+	   (S (SBAR if
+		    (S (NP A[fj])
+		       (VP is
+			   (NP (NP the operator)
+			       (VP induced
+				   (PP on
+				       (NP A[fj]))
+				   (PP  by
+					(NP T)))))))
+	      ,
+	      (ADVP then)
+	      (S (NP the minimal polynomial
+		     (PP for
+			 (NP A[fj])))
+		 (VP is
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The idea
+       (PP of
+	   (NP the proof)))
+   (VP is
+       (NP this)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ   
+   (SBAR  If
+	  (S (NP (NP the direct-sum decomposition)
+		 *LRB*
+		 (NP A)
+		 *RRB*)
+	     (VP is
+		 (ADJP valid))))
+   ,
+   (SBARQ (WHADVP how)
+	  (SQ  
+	   (AUX can)
+	   (NP we)
+	   (VP get
+	       (NP hold
+		   (PP of
+		       (NP (NP the projections
+			       A[fj])
+			   (VP associated
+			       (PP with
+				   (NP the decomposition))))))))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The projection A[fj])
+   (AUX will)
+   (VP (VP be
+	   (NP the identity)
+	   (PP on
+	       (NP A[fj])))
+       (X and
+	  (NP zero)
+	  (PP on
+	      (NP the other A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX shall)
+   (VP find
+       (NP (NP a polynomial A[fj])
+	   (SBAR (SBAR (ADJP such)
+		       that
+		       (S (NP A[fj])
+			  (VP (VP is
+				  (NP the identity)
+				  (PP on
+				      (NP A[fj])))
+			      and
+			      (VP is
+				  (NP zero)
+				  (PP on
+				      (NP the other A[fj]))))))
+		 ,
+		 and
+		 (SBAR  so
+			that
+			(NP (NP A[fj])
+			    ,
+			    etc
+			    .))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP For
+      (NP each i))
+  ,
+  (S  (NP *) 
+      (VP let
+	  (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (SBAR  Since
+	      (S (NP A[fj])
+		 (VP are
+		     (NP  distinct prime
+			  polynomials))))
+       ,
+       (S (NP the polynomials
+	      A[fj])
+	  (VP are
+	      (ADJP  (ADVP relatively)
+		     prime))))
+    *LRB*
+    (NP (NP Theorem 8)
+	,
+	(NP Chapter 4))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP there)
+	 (VP are
+	     (NP polynomials
+		 A[fj])
+	     (X such
+		that
+		(NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Note
+	 (ADVP also)
+	 (SBAR that
+	       (S  (X  if
+		       (NP A[fj]))
+		   ,
+		   (ADVP then)
+		   (S (NP A[fj])
+		      (VP is
+			  (ADJP divisible
+				(PP by
+				    (NP the polynomial p))))
+		      ,
+		      (SBAR because
+			    (S (NP A[fj])
+			       (VP contains
+				   (NP each A[fj])
+				   (PP as
+				       (NP a factor))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX shall)
+   (VP show
+       (SBAR that
+	     (S (NP the polynomials
+		    A[fj])
+		(VP behave
+		    (PP in
+			(NP (NP the manner)
+			    (VP described
+				(PP in
+				    (NP the first paragraph
+					(PP of
+					    (NP the proof))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP (NP A[fj]) and (NP P))
+	     (VP divides
+		 (NP A[fj])
+		 (PP for
+		     (NP A[fj])))))
+   ,
+   (S (NP we)
+      (VP have
+	  (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP the A[fj])
+	 (VP are
+	     (NP (NP projections)
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (VP correspond
+			 (PP to
+			     (NP some direct-sum decomposition
+				 (PP of
+				     (NP the space V)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP wish
+       (S (NP *)
+	  (AUX to)
+	  (VP show
+	      (SBAR that
+		    (S (NP the range
+			   (PP of
+			       (NP A[fj])))
+		       (VP is
+			   (NP  (ADVP exactly)
+				the subspace A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (SBAR-1 *pseudo-attach*))
+      (VP is
+	  (ADJP clear))
+      (SBAR-1 that
+	      (S (NP each vector
+		     (PP in
+			 (NP the range
+			     (PP of
+				 (NP A[fj])))))
+		 (VP is
+		     (PP in
+			 (NP A[fj]))))))
+     for
+     (S (SBAR if
+	      (S (NP ** ya)
+		 (VP is
+		     (PP in
+			 (NP the range
+			     (PP of
+				 (NP A[fj])))))))
+	,
+	(ADVP then)
+	(X  (NP A[fj])
+	    and
+	    (ADVP so)
+	    (NP A[fj])
+	    (SBAR because
+		  (S (NP A[fj])
+		     (VP is
+			 (ADJP divisible
+			       (PP by
+				   (NP the minimal polynomial P)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP Conversely)
+   ,
+   (S  (NP *) 
+       (VP suppose
+	   (SBAR that
+		 (S (NP  ** ya)
+		    (VP is
+			(PP in
+			    (NP the null space
+				(PP of
+				    (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (X  If
+       (NP A[fj]))
+   ,
+   (ADVP then)
+   (S (S (NP A[fj])
+	 (VP is
+	     (ADJP divisible
+		   (PP by
+		       (NP A[fj])))))
+      and
+      (X (ADVP so)
+	 (NP (NP A[fj])
+	     ,
+	     i.e.
+	     ,
+	     (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (ADVP then)
+      (S (NP it
+	     (SBAR-2 *pseudo-attach*))
+	 (VP is
+	     (ADJP immediate))
+	 (SBAR-2 (X  that
+		     (NP A[fj]))
+		 ,
+		 i.e.
+		 ,
+		 (SBAR that
+		       (S (NP ** ya)
+			  (VP is
+			      (PP in
+				  (NP the range
+				      (PP of
+					  (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP completes
+	(NP the proof
+	    (PP of
+		(NP statement
+		    *LRB*
+		    A
+		    *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (VP is
+       (ADVP certainly)
+       (ADJP clear))
+   (SBAR-3 that
+	   (S (NP the subspaces
+		  A[fj])
+	      (VP are
+		  (ADJP invariant)
+		  (PP under
+		      (NP T))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP A[fj])
+	      (VP is
+		  (NP (NP the operator)
+		      (VP induced
+			  (PP on
+			      (NP A[fj]))
+			  (PP by
+			      (NP T)))))))
+    ,
+    (ADVP then)
+    (X  (ADVP evidently)
+	(NP A[fj])
+	,
+	(SBAR because
+	      (S (PP by
+		     (NP definition))
+		 (S (NP A[fj])
+		    (VP is
+			(NP 0)
+			(PP on
+			    (NP the subspace A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP shows
+       (SBAR that
+	     (S (NP the minimal polynomial
+		    (PP for
+			(NP A[fj])))
+		(VP divides
+		    (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP Conversely)
+   ,
+   (S  (NP *) 
+       (VP let
+	   (NP G)
+	   (VP be
+	       (NP any polynomial)
+	       (X    such
+		     that
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X  (ADVP Then)
+      (NP A[fj]))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (S (NP A[fj])
+	    (VP is
+		(ADJP divisible
+		      (PP by
+			  (NP the minimal polynomial P
+			      (PP of
+				  (NP T)))))))
+	 ,
+	 i.e.
+	 ,
+	 (S (NP A[fj])
+	    (VP divides
+		(NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-4 *pseudo-attach*))
+   (AUX is)
+   (VP  (ADVP easily)
+	seen)
+   (SBAR-4 that
+	   (S (NP A[fj])
+	      (VP divides
+		  (NP G)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S (NP the minimal polynomial
+	     (PP for
+		 (NP A[fj])))
+	 (VP is
+	     (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP Corollary)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (SBAR  If
+	     (S (NP A[fj])
+		(VP are
+		    (NP (NP the projections)
+			(VP associated
+			    (PP with
+				(NP the primary decomposition
+				    (PP of
+					(NP T)))))))))
+      ,
+      (ADVP then)
+      (S (NP each A[fj])
+	 (VP is
+	     (NP a polynomial)
+	     (PP in
+		 (NP T)))))
+     ,
+     and
+     (S  (ADVP accordingly)
+	 (SBAR if
+	       (S (NP a linear operator U)
+		  (VP commutes
+		      (PP with
+			  (NP T)))))
+	 (ADVP then)
+	 (S (S (NP U)
+	       (VP commutes
+		   (PP with
+		       (NP each
+			   (PP of
+			       (NP the A[fj]))))))
+	    ,
+	    i.e.
+	    ,
+	    (S (NP each subspace A[fj])
+	       (VP is
+		   (NP invariant)
+		   (PP under
+		       (NP U)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP the notation
+	  (PP of
+	      (NP the proof
+		  (PP of
+		      (NP Theorem 12))))))
+  ,
+  (S (NP *)  
+     (VP let
+	 (NP us)
+	 (VP take
+	     (NP a look
+		 (PP at
+		     (NP (NP (NP the special case)
+			     (SBAR (WHPP in
+					 (WHNP which))
+				   (S
+				    (NP the minimal polynomial
+					(PP for
+					    (NP T)))
+				    (VP is
+					(NP a product
+					    (PP of
+						(NP first-degree polynomials)))))))
+			 ,
+			 i.e.
+			 ,
+			 (NP the case
+			     (SBAR (WHPP in
+					 (WHNP which))
+				   (S
+				    (NP each A[fj])
+				    (VP is
+					(PP of
+					    (NP the form A[fj])))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S (NP the range
+	     (PP of
+		 (NP A[fj])))
+	 (VP is
+	     (NP the null space A[fj]
+		 (PP of
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Let
+	  (NP us)
+	  (VP put
+	      (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP Theorem 10))
+   ,
+   (S (NP D)
+      (VP is
+	  (NP (NP a diagonalizable operator)
+	      (SBAR (WHNP which)
+		    (S
+		     (NP we)
+		     (AUX shall)
+		     (VP call
+			 (NP T) 
+			 (NP the diagonalizable part
+			     (PP of
+				 (NP T))))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+     (VP Let
+	 (NP us)
+	 (VP look
+	     (PP at
+		 (NP the operator A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X  (ADVP Now)
+      (NP A[fj] A[fj])
+      (ADVP so)
+      (NP A[fj]))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reader)
+   (AUX should)
+   (VP be
+       (ADJP familiar
+	     enough
+	     (PP with
+		 (NP projections))
+	     (PP by
+		 (ADVP now))
+	     (SBAR  so
+		    that
+		    (S (NP he)
+		       (VP sees
+			   (X (X  that
+				  (NP A[fj]))
+			      and
+			      (PP in
+				  (ADJP general))
+			      (X   that
+				   (NP A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (X 
+      (WHADVP When)
+      (NP A[fj]
+	  (PP for
+	      (NP each i))))
+     ,
+     (S (NP we)
+	(AUX shall)
+	(VP have
+	    (NP A[fj]))
+	,
+	(SBAR because
+	      (S (NP the operator A[fj])
+		 (AUX will)
+		 (ADVP then)
+		 (VP be
+		     (NP 0)
+		     (PP on
+			 (NP the range
+			     (PP of
+				 (NP A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP Definition)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP N)
+	 (VP be
+	     (NP a linear operator)
+	     (PP on
+		 (NP the vector space V)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP say
+       (SBAR that
+	     (S (NP N)
+		(VP is
+		    (ADJP nilpotent)))))
+   (SBAR if
+	 (S (NP there)
+	    (VP is
+		(NP some positive integer R)
+		(X   such
+		     that
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Theorem 13)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP T)
+	 (VP be
+	     (NP a linear operator)
+	     (PP on
+		 (NP the (ADJP finite-dimensional) vector space V))
+	     (PP over
+		 (NP the field F)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Suppose
+	 (SBAR that
+	       (S (NP the minimal polynomial
+		      (PP for
+			  (NP T)))
+		  (VP decomposes
+		      (PP over
+			  (NP F))
+		      (PP into
+			  (NP a product
+			      (PP of
+				  (NP linear polynomials)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP there)
+	 (VP (VP is
+		 (NP a diagonalizable operator D)
+		 (PP on
+		     (NP V)))
+	     and
+	     (X (NP a nilpotent operator N)
+		(PP in
+		    (NP V))
+		(X such
+		   that
+		   (NP (NP  *LRB*
+			    (NP A)
+			    *RRB*
+			    (NP A[fj]))
+		       ,
+		       (NP *LRB*
+			   (NP b)
+			   *RRB*
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (PNP The diagonalizable operator D)
+	 and
+	 (NP the nilpotent operator N))
+     (AUX are)
+     (VP  (ADVP uniquely)
+	  determined
+        
+	  (PP by
+	      (NP  *LRB*
+		   (NP A)
+		   *RRB*
+		   and
+		   *LRB*
+		   (NP B)
+		   *RRB*))))
+    and
+    (S (NP each
+	   (PP of
+	       (NP them)))
+       (VP is
+	   (NP a polynomial)
+	   (PP in
+	       (NP T)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX have)
+   (ADVP just)
+   (VP observed
+       (SBAR that
+	     (S (NP we)
+		(AUX can)
+		(VP write
+		    (NP A[fj])
+		    (SBAR (SBAR 
+			   (WHADVP where)
+			   (S (S (NP D)
+				 (VP is
+				     (ADJP diagonalizable)))
+			      and
+			      (S (NP N)
+				 (VP is
+				     (ADJP nilpotent)))))
+			  ,
+			  and
+			  (SBAR 
+			   (WHADVP where)
+			   (S (NP (NP D) and (NP N))
+			      (VP (CONJP (NEG not)
+					 only)
+				  (VP commute)
+				  but
+				  (VP are
+				      (NP polynomials)
+				      (PP in
+					  (NP T))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S  (NP *) 
+	  (VP suppose
+	      (SBAR that
+		    (S (NP we)
+		       (ADVP also)
+		       (VP have
+			   (NP (NP A[fj])
+			       (SBAR 
+				(WHADVP where)
+				(S (S (NP D
+					  ')
+				      (VP is
+					  (ADJP diagonalizable)))
+				   ,
+				   (S (NP N
+					  ')
+				      (VP is
+					  (ADJP nilpotent)))
+				   ,
+				   and
+				   (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX shall)
+   (VP prove
+       (X that
+	  (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP (NP D
+		     ')
+		 and (NP N
+			 '))
+	     (VP commute
+		 (PP with
+		     (NP (NP one
+			     another)
+			 and
+			 (NP A[fj]))))))
+   ,
+   (S (NP we)
+      (VP see
+	  (SBAR that
+		(S (NP  (NP D)
+			'
+			and 
+			(NP N
+			    '))
+		   (VP commute
+		       (PP with
+			   (NP T))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Thus)
+	 (S (NP (NP D
+		    ')
+		and (NP N
+			'))
+	    (VP commute
+		(PP with
+		    (NP any polynomial
+			(PP in
+			    (NP T)))))))
+     ;
+     ;
+     (S  (ADVP hence)
+	 (S (NP they)
+	    (VP commute
+		(PP (PP with
+			(NP D))
+		    and
+		    (PP with
+			(NP N)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Now)
+	 (S (NP we)
+	    (VP have
+		(NP (NP A[fj]) or (NP A[fj])))))
+     and
+     (S (NP all four
+	    (PP of
+		(NP these operators)))
+	(VP commute
+	    (PP with
+		(NP one
+		    another)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (S (NP (NP D) and (NP D
+				   '))
+		(VP are
+		    both
+		    (ADJP diagonalizable)))
+	     and
+	     (S (NP they)
+		(VP commute))))
+   ,
+   (S (S (NP they)
+	 (VP are
+	     (ADVP simultaneously)
+	     (ADJP diagonalizable)))
+      ,
+      and
+      (S (NP A[fj])
+	 (VP is
+	     (ADJP diagonalizable)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (SBAR  Since
+	     (S (S (NP (NP N) and (NP N
+				      '))
+		   (VP are
+		       both
+		       (ADJP nilpotent)))
+		and
+		(S (NP they)
+		   (VP commute))))
+      ,
+      (S (NP the operator A[fj])
+	 (VP is
+	     (ADJP nilpotent))))
+     ;
+     ;
+     for
+     ,
+     (S (S (NP *) 
+	   (VP using
+	       (NP the fact
+		   (SBAR that
+			 (S (NP (NP N) and (NP N
+					       '))
+			    (VP commute
+				(NP A[fj])))))))
+	and
+	(S (ADVP so)
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP R)
+	       (VP is
+		   (ADJP  sufficiently
+			  large))))
+	   (S (NP every term
+		  (PP in
+		      (NP this expression
+			  (PP for
+			      (NP A[fj])))))
+	      (AUX will)
+	      (VP be
+		  (NP 0))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( *LRB*
+  (S (S (ADVP Actually)
+	,
+	(S (NP a nilpotent operator
+	       (PP on
+		   (NP an (ADJP n-dimensional) space)))
+	   (AUX must)
+	   (VP have
+	       (NP its T power)
+	       (NP 0))))
+     ;
+     ;
+     (S (SBAR if
+	      (S (NP we)
+		 (VP take
+		     (NP (NP A[fj])
+			 (ADVP above)))))
+	,
+	(S (NP that)
+	   (AUX will)
+	   (VP be
+	       (ADJP large
+		     enough)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (ADVP then)
+      (VP follows
+	  (SBAR that
+		(S (NP A[fj])
+		   (VP is
+		       (ADJP large
+			     enough))))))
+     ,
+     but
+     (S (NP this)
+	(VP is
+	    (NEG not)
+	    (ADJP obvious)
+	    (PP from
+		(NP the above expression)))))
+  .
+  *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Now)
+     (S (NP A[fj])
+	(VP is
+	    (NP (NP a diagonalizable operator)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP is
+			(ADVP also)
+			(ADJP nilpotent))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP  Such
+	    an operator)
+       (VP is
+	   (ADVP obviously)
+	   (NP the zero operator)))
+    ;
+    ;
+    for
+    (S  (SBAR since
+	      (S (NP it)
+		 (VP is
+		     (ADJP nilpotent))))
+	,
+	(S (NP the minimal polynomial
+	       (PP for
+		   (NP this operator)))
+	   (VP is
+	       (PP of
+		   (NP the form A[fj]))
+	       (PP for
+		   (NP some A[fj])))))
+    ;
+    ;
+    but
+    (ADVP then)
+    (S (SBAR since
+	     (S (NP the operator)
+		(VP is
+		    (ADJP diagonalizable))))
+       ,
+       (S (NP the minimal polynomial)
+	  (AUX can)
+	  (NEG not)
+	  (VP have
+	      (NP a (VP repeated) root))))
+    ;
+    ;
+    (ADVP hence)
+    (S (S (NP (NP A[fj])
+	      and
+	      (NP the minimal polynomial))
+	  (VP is
+	      (ADVP simply)
+	      (NP x)))
+       ,
+       (SBAR 
+	(WHNP which)
+	(S (NP T)
+	   (VP says
+	       (SBAR 0
+		     (S (NP the operator)
+			(VP is
+			    (NP 0)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP we)
+	 (VP see
+	     (X  that
+		 (NP (NP A[fj]) and (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP Corollary)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Let
+	  (NP V)
+	  (VP be
+	      (NP a (ADJP finite-dimensional) vector space
+		  (PP over
+		      (NP (NP an
+			      (ADJP  algebraically
+				     closed)
+			      field F)
+			  ,
+			  e.g.
+			  ,
+			  (NP the field
+			      (PP of
+				  (NP complex numbers)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP every linear operator T
+	     (PP in
+		 (NP V)))
+	 (AUX can)
+	 (VP be
+	     (VP written
+		  
+		 (PP as
+		     (NP the sum
+			 (PP of
+			     (NP (NP (NP a diagonalizable operator D)
+				     and
+				     (NP a nilpotent operator N))
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (VP commute)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP These operators
+	 D and N)
+     (VP are
+	 (ADJP unique)))
+    and
+    (S (NP each)
+       (VP is
+	   (NP a polynomial)
+	   (PP in
+	       (NP T)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP these results))
+   ,
+   (S (NP one)
+      (VP sees
+	  (SBAR that
+		(S (NP the study
+		       (PP of
+			   (NP linear operators
+			       (PP on
+				   (NP vector spaces))
+			       (PP over
+				   (NP an
+				       (ADJP  algebraically
+					      closed)
+				       field)))))
+		   (AUX is)
+		   (ADVP essentially)
+		   (VP reduced
+			   
+		       (PP to
+			   (NP the study
+			       (PP of
+				   (NP nilpotent operators))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP vector spaces
+	   (PP over
+	       (NP (ADJP (ADVP non-algebraically)
+			 closed)
+		   fields))))
+   ,
+   (S (NP we)
+      (ADVP still)
+      (VP need
+	  (S (NP *)
+	     (AUX to)
+	     (VP find
+		 (NP some substitute
+		     (PP for
+			 (NP characteristic values and vectors))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (SBAR-1 *pseudo-attach*))
+      (VP is
+	  (NP a
+	      (ADJP very
+		    interesting)
+	      fact))
+      (SBAR-1 that
+	      (S (NP these two problems)
+		 (AUX can)
+		 (VP be
+		     (VP handled
+			 (ADVP simultaneously))))))
+     and
+     (S (NP this)
+	(VP is
+	    (SBAR (WHNP what)
+		  (S
+		   (NP we)
+		   (AUX shall)
+		   (VP do
+		       (NP T) )
+		   (PP in
+		       (NP the next chapter)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (S (NP *)  
+	  (VP concluding
+	      (NP this section))))
+   ,
+   (S (NP we)
+      (AUX should)
+      (VP like
+	  (S (NP *)
+	     (AUX to)
+	     (VP give
+		 (NP (NP an example)
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP T)
+			 (VP illustrates
+			     (NP some
+				 (PP of
+				     (NP the ideas
+					 (PP of
+					     (NP the primary decomposition theorem))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX have)
+   (VP chosen
+       (S (NP *)
+	  (AUX to)
+	  (VP give
+	      (NP it))
+	  (PP at
+	      (NP the end
+		  (PP of
+		      (NP the section))))))
+   (SBAR since
+	 (S (NP it)
+	    (VP (VP deals
+		     
+		    (PP with
+			(NP differential equations)))
+		and
+		(VP (ADVP thus)
+		    is
+		    (NEG not)
+		    (NP  (ADJP purely
+			       linear) algebra))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Example 11)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the primary decomposition theorem))
+   ,
+   (S (S (NP it
+	     (SBAR-2 *pseudo-attach*))
+	 (VP is
+	     (NEG not)
+	     (ADJP necessary))
+	 (SBAR-2 that
+		 (S (NP the vector space V)
+		    (VP be
+			(ADJP finite dimensional)))))
+      ,
+      nor
+      (SINV  
+       (VP is)
+       (NP it
+	   (SBAR-3 *pseudo-attach*))
+       (ADJP necessary
+	     (PP for
+		 (NP parts
+		     *LRB*
+		     A
+		     *RRB*
+		     and
+		     *LRB*
+		     B
+		     *RRB*)))
+       (SBAR-3 that
+	       (S (NP P)
+		  (VP be
+		      (NP the minimal polynomial
+			  (PP for
+			      (NP T)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (SBAR  If
+		 (S (NP T)
+		    (VP is
+			(NP a linear operator
+			    (PP on
+				(NP an arbitrary vector space))))))
+	  and
+	  (SBAR if
+		(S (NP there)
+		   (VP is
+		       (NP a monic polynomial P)
+		       (X  such
+			   that
+			   (NP A[fj]))))))
+    ,
+    (ADVP then)
+    (S (NP parts
+	   *LRB*
+	   A
+	   *RRB*
+	   and
+	   *LRB*
+	   B
+	   *RRB*
+	   (PP of
+	       (NP Theorem 12)))
+       (VP are
+	   (ADJP valid
+		 (PP for
+		     (NP T))))
+       (PP with
+	   (NP (NP the proof)
+	       (SBAR (WHNP which)
+		     (S
+		      (NP we)
+		      (VP gave
+			  (NP T) )))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Let
+	     (NP N)
+	     (VP be
+		 (NP a positive integer))))
+     and
+     (S (NP *)  
+	(VP let
+	    (NP V)
+	    (VP be
+		(NP (NP the space
+			(PP of
+			    (NP all N)))
+		    (PP times
+			(NP (NP  (ADJP continuously
+				       differentiable) functions
+				       F
+				       (PP on
+					   (NP the real line)))
+			    (SBAR 
+			     (WHNP which)
+			     (S (NP T)
+				(VP satisfy
+				    (NP the differential equation A[fj])
+				    (SBAR 
+				     (WHADVP where)
+				     (S (NP A[fj])
+					(VP are
+					    (NP some (ADJP fixed) constants))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP If
+       (S (NP A[fj])
+	  (VP denotes
+	      (NP (NP the space
+		      (PP of
+			  (NP N)))
+		  (PP times
+		      (NP  (ADJP continuously
+				 differentiable) functions))))))
+   ,
+   (ADVP then)
+   (S (NP the space V
+	  (PP of
+	      (NP solutions
+		  (PP of
+		      (NP this differential equation)))))
+      (VP is
+	  (NP a subspace
+	      (PP of
+		  (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (S (NP D)
+		(VP denotes
+		    (NP the differentiation operator)))
+	     and
+	     (S (NP P)
+		(VP is
+		    (NP the polynomial A[fj])))))
+   (ADVP then)
+   (S (NP V)
+      (VP is
+	  (NP the null space
+	      (PP of
+		  (NP the operator p
+		      *LRB*
+		      ,
+		      *RRB*))))
+      ,
+      (SBAR because
+	    (S (NP A[fj])
+	       (VP  (ADVP simply)
+		    says
+		    (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+     (VP Let
+	 (NP us)
+	 (ADVP now)
+	 (VP regard
+	     (NP D)
+	     (PP as
+		 (NP a linear operator
+		     (PP on
+			 (NP the subspace V)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X  (ADVP Then)
+      (NP A[fj]))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR  If
+	   (S (NP we)
+	      (AUX are)
+	      (VP discussing
+		  (NP 
+		   differentiable (ADJP complex-valued)
+		   functions))))
+    ,
+    (ADVP then)
+    (S (S (NP (NP A[fj]) and (NP V))
+	  (VP are
+	      (NP complex vector spaces)))
+       ,
+       and
+       (S (NP A[fj])
+	  (AUX may)
+	  (VP be
+	      (NP any complex numbers)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP now)
+   (VP write
+       (NP (NP A[fj])
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP A[fj])
+	       (VP are
+		   (NP  distinct complex
+			numbers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP A[fj])
+	     (VP is
+		 (NP the null space
+		     (PP of
+			 (NP A[fj]))))))
+   ,
+   (ADVP then)
+   (S (NP Theorem 12)
+      (VP says
+	  (X  that
+	      (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP other words))
+   ,
+   (SBAR if
+	 (S (NP F)
+	    (VP satisfies
+		(NP the differential equation A[fj]))))
+   ,
+   (ADVP then)
+   (S (NP F)
+      (VP is
+	  (ADJP  uniquely
+		 expressible)
+	  (PP in
+	      (NP the form A[fj])))
+      (SBAR 
+       (WHADVP where)
+       (S (NP A[fj])
+	  (VP satisfies
+	      (NP the differential equation A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP the study
+	     (PP of
+		 (NP the solutions
+		     (PP to
+			 (NP the equation A[fj])))))
+	 (AUX is)
+	 (VP reduced
+	      
+	     (PP to
+		 (NP the study
+		     (PP of
+			 (NP the space
+			     (PP of
+				 (NP solutions
+				     (PP of
+					 (NP a differential equation
+					     (PP of
+						 (NP the form A[fj])))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This reduction)
+   (AUX has)
+   (VP been
+       (VP accomplished
+		 
+	   (PP (PP by
+		   (NP the general methods
+		       (PP of
+			   (NP linear algebra))))
+	       ,
+	       i.e.
+	       ,
+	       (PP by
+		   (NP the primary decomposition theorem))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (S (NP *) 
+	   (AUX To)
+	   (VP describe
+	       (NP the space
+		   (PP of
+		       (NP solutions
+			   (PP to
+			       (NP A[fj])))))))
+	,
+	(S (NP one)
+	   (AUX must)
+	   (VP know
+	       (NP something
+		   (PP about
+		       (NP differential equations))))))
+     ;
+     ;
+     (S (S (NP that)
+	   (VP is))
+	,
+	(S (NP one)
+	   (AUX must)
+	   (VP know
+	       (NP (NP something
+		       (PP about
+			   (NP D)))
+		   (ADVP  other
+			  (PP than
+			      (NP the fact
+				  (SBAR that
+					(S (NP it)
+					   (VP is
+					       (NP a linear operator))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP one)
+	 (AUX does)
+	 (NEG not)
+	 (VP need
+	     (S (NP *)
+		(AUX to)
+		(VP know
+		    (ADVP very
+			  much))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP It
+	(S-4 *pseudo-attach*))
+    (VP is
+	(ADJP  very
+	       easy))
+    (S-4 (NP *)
+	 (AUX to)
+	 (VP establish
+	     (PP by
+		 (NP induction
+		     (PP on
+			 (NP R))))
+	     (SBAR that
+		   (S (S (SBAR if
+			       (S (NP F)
+				  (VP is
+				      (PP in
+					  (NP A[fj])))))
+			 (ADVP then)
+			 (X (NP A[fj])))
+		    ;
+		    ;
+		    (S (NP that)
+		       (VP is
+			   (NP (NP T)
+			       ,
+			       (NP A[fj])
+			       ,
+			       etc
+			       .))))))))
+ .)
+( (X   (ADVP Thus)
+       (NP A[fj])
+       (X   if
+	    and
+	    only
+	    if
+	    (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP (NP (NP A function G)
+	  (SBAR  such
+		 that
+		 (S (NP (NP A[fj])
+			,
+			i.e.
+			,
+			(NP A[fj])
+			,)
+		    (AUX must)
+		    (VP be
+			(NP a polynomial function
+			    (PP of
+				(NP (NP degree A[fj])
+				    or
+				    (ADJP less))))))))
+      :
+      (NP A[fj]))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP F)
+	 (VP satisfies
+	     (NP A[fj]))
+	 (SBAR  if
+		and
+		only
+		if
+		(S (NP F)
+		   (VP has
+		       (NP the form A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Accordingly)
+      ,
+      (S (NP the
+	     '
+	     functions
+	     '
+	     A[fj])
+	 (VP span
+	     (NP the space
+		 (PP of
+		     (NP solutions
+			 (PP of
+			     (NP A[fj]))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (S (NP A[fj])
+		(VP are
+		    (NP  (ADJP linearly
+			       independent) functions)))
+	     and
+	     (S (NP the exponential function)
+		(VP has
+		    (NP no zeros)))))
+   ,
+   (S (NP these R functions
+	  A[fj])
+      ,
+      (VP form
+	  (NP a basis
+	      (PP for
+		  (NP the space
+		      (PP of
+			  (NP solutions))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

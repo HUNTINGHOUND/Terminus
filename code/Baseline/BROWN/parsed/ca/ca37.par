@@ -1,0 +1,2251 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP (NP The nation)
+     (NP the three-front war)))
+((S (PP At
+	(NP a closed-door session
+	    (PP on
+		(NP Capitol Hill))
+	    (NP last week)))
+    ,
+    (S (NP Secretary
+	   (PP of
+	       (NP State))
+	   (NP Christian Herter))
+       (VP made
+	   (NP his final report)
+	   (PP to
+	       (NP the Senate Foreign Relations Committee
+		   (PP on
+		       (NP U.S. affairs
+			   (ADVP abroad))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Afterward)
+      ,
+      (S (NP 
+	  (NP Tennessee)
+	  's
+	  Democratic Senator (NP Albert Gore))
+	 (VP summed
+	     (NP it)
+	     (PRT up)
+	     (PP for
+		 (NP newsmen)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHNP What)
+	   (S (NP Herter)
+	      (VP presented
+		  (NP T))))
+     ,
+     (SINV (VP said)
+	   (NP Gore))
+     ,
+     (VP was
+	 ``
+	 (NEG not)
+	 (NP a
+	     (ADJP  very
+		    encouraging)
+	     review)
+	 ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP That)
+    (VP was
+	(NP something
+	    (PP of
+		(NP an understatement))))
+    (PP in
+	(NP (NP a week)
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP the underlying conflict
+		    (PP between
+			(NP (NP the West)
+			    and
+			    (NP Communism))))
+		(VP erupted
+		    (PP on
+			(NP three fronts))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (SBAR While
+	   (S (NP Communists)
+	      (AUX were)
+	      (VP undermining
+		  (NP (NP United Nations efforts)
+		      (S (NP *)
+			 (AUX to)
+			 (VP rescue
+			     (NP the Congo)
+			     (PP from
+				 (NP chaos))))))))
+     ,
+     (S (NP two other Communist offensives)
+	(VP stirred
+	    (NP the Eisenhower Administration)
+	    (PP into
+		(NP (NP emergency conferences)
+		    and
+		    (NP serious decisions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (NP (NP 1)
+	*RRB*
+	(NP Cuba))
+    .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (NP Hours)
+	after
+	(NP a parade
+	    (PP of
+		(NP his
+		    new
+		    Soviet
+		    tanks and artillery))))
+    ,
+    (S (NP Dictator Fidel Castro)
+       (ADVP suddenly)
+       (VP confronted
+	   (NP the U.S.)
+	   (PP with
+	       (NP (NP a (ADJP  blunt
+				and
+				drastic) 
+		       demand)
+		   :
+		   (S (PP within
+			  (NP 48 hours))
+		      ,
+		      (S (NP the U.S.)
+			 (VP had
+			     (S (NP *)
+				(AUX to)
+				(VP reduce
+				    (NP (NP its embassy and consulate staffs
+					    (PP in
+						(NP Cuba)))
+					(S-1 *pseudo-attach*))
+				    (PP to
+					(NP a total
+					    (PP of
+						(NP eleven persons)))))))
+			 (S-1 *LRB*
+			      (NP (NP the embassy staff)
+				  (ADJP alone))
+			      (VP totaled
+				  (NP (NP 87 U.S. citizens)
+				      ,
+				      plus
+				      (NP 120 Cuban employees)))
+			      *RRB*))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP President Eisenhower)
+    (VP (VP held
+	    (NP an 8:30 a.m. meeting)
+	    (PP with
+		(NP top military and foreign-policy advisers)))
+	,
+	(VP decided
+	    (S (NP *)
+	       (AUX to)
+	       (VP break
+		   (PRT off)
+		   (NP diplomatic relations)
+		   (ADVP immediately))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S   ``
+       (S (NP There)
+	  (VP is
+	      (NP a limit
+		  (PP to
+		      (SBAR (WHNP what)
+			    (S (NP the United States
+				   (PP in
+				       (NP self-respect)))
+			       (AUX can)
+			       (VP endure
+				   (NP T))))))))
+       ''
+       ,
+       (SINV (VP said)
+	     (NP the President)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   ``
+    (S (NP That limit)
+       (AUX has)
+       (ADVP now)
+       (VP been
+	   (VP reached
+	       )))
+    ''
+    .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Through
+	(NP Secretary Herter))
+    ,
+    (S (NP Ike)
+       (VP offered
+	   (NP President-elect Kennedy)
+	   (NP (NP an opportunity)
+	       (S (NP *)
+		  (AUX to)
+		  (VP associate
+		      (NP his
+			  new
+			  Administration)
+		      (PP with
+			  (NP the breakoff decision))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Kennedy)
+    ,
+    (PP through
+	(NP Secretary-designate
+	    (PP of
+		(NP State))
+	    (NP Dean Rusk)))
+    ,
+    (VP declined))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (ADVP thus)
+       (VP kept
+	   (NP his hands)
+	   (ADJP free
+		 (PP for
+		     (NP any action
+			 (PP after
+			     (NP Jan. 20))))))
+       ,
+       (SBAR although
+	     (S (NP reaction
+		    (PP to
+			(NP the break)))
+		(VP was
+		    (ADJP  (ADVP generally)
+			   favorable)
+		    (PP in
+			(NP (NP the U.S.)
+			    and
+			    (NP Latin America)))))))
+    *LRB*
+    (S (NP *)
+       (VP see
+	   (NP the hemisphere)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP 2)
+     *RRB*
+     (NP Laos))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP a White House huddle
+	    (PP between
+		(NP (NP the President)
+		    and
+		    (NP top lieutenants)))))
+    ,
+    (S (NP the Defense Department)
+       (VP reacted
+	   (ADVP sharply)
+	   (PP to
+	       (NP a cry
+		   (PP from
+		       (NP the pro-Western government
+			   (PP of
+			       (NP Laos))))
+		   (SBAR that
+			 (S (NP several battalions
+				(PP of
+				    (NP Communist troops)))
+			    (AUX had)
+			    (VP invaded
+				(NP Laos)
+				(PP from
+				    (NP North Viet Nam))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (PP In
+	  (NP view
+	      (PP of
+		  (NP the present situation
+		      (PP in
+			  (NP Laos))))))
+      ''
+      ,
+      (SINV (VP said)
+	    (NP 
+	     (NP the Pentagon)
+	     's announcement))
+      ,
+      ``
+      (S (NP we)
+	 (AUX are)
+	 (VP taking
+	     (NP 
+	      normal
+	      precautionary
+	      actions)
+	     (S (NP *)
+		(AUX to)
+		(VP increase
+		    (NP the readiness
+			(PP of
+			    (NP our forces
+				(PP in
+				    (NP the Pacific)))))))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (S (NP *)
+	(VP Cutting
+	    (ADVP short)
+	    (NP a holiday
+		(PP at
+		    (NP Hong Kong)))))  
+     ,
+     (S (NP (NP the aircraft carriers
+		Lexington
+		and
+		Bennington)
+	    (VP-2 *pseudo-attach*))
+	(VP steamed
+	    (ADVP off)
+	    (PP into
+		(NP the South China Sea)))
+	,
+	(VP-2 accompanied
+	      (PP by
+		  (NP (NP a swarm
+			  (PP of
+			      (NP destroyers)))
+		      ,
+		      plus
+		      (NP (NP troopships)
+			  (VP loaded
+			      (PP with
+				  (NP marines)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP 
+	 (NP the U.S.)
+	 's island base
+	 (PP of
+	     (NP Okinawa))))
+    ,
+    (S (NP (NP Task Force 116)
+	   ,
+	   (VP made
+	       (PRT up)
+	       (PP of
+		   (NP Army
+		       ,
+		       Navy
+		       ,
+		       Marine
+		       and
+		       Air Force units)))
+	   ,)
+       (VP got
+	   (VP braced
+	    
+	       (S (NP *)
+		  (AUX to)
+		  (VP move
+		      (ADVP southward)
+		      (PP on
+			  (NP signal))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S But
+	 (PP by
+	     (NP 
+	      (NP week)
+	      's end))
+	 (S (S (NP the Laotian cry
+		   (PP of
+		       (NP invasion)))
+	       (AUX was)
+	       (VP read
+	      
+		   (PP as
+		       (NP an exaggeration)))))
+	 *LRB*
+	 (S (NP *)
+	    (VP see
+		(NP foreign news)))
+	 *RRB*)
+      ,
+      and
+      (S (NP the U.S.)
+	 (AUX was)
+	 (VP agreeing
+	     (PP with
+		 (NP its
+		     cautious
+		     (ADJP 
+		      British 
+		      and 
+		      French)
+		     allies))
+	     (SBAR that
+		   (S (NP a
+			  neutralist
+			  --
+			  (ADVP rather
+				(PP than
+				    (NP a
+					(ADJP pro-Western))))
+			  --
+			  government)
+		      (AUX might)
+		      (VP be
+			  (ADJP best)
+			  (PP for
+			      (NP Laos))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP French)
+     &
+     (NP Indians))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP There)
+    (VP was
+	(NP (NP a moral
+		(PP of
+		    (NP sorts)))
+	    (SBAR-3 *pseudo-attach*))
+	(PP in
+	    (NP the Laotian situation))
+	(SBAR-3 (WHNP that)
+		(S (NP T)
+		   (VP said
+		       (NP much)
+		       (PP about
+			   (NP all
+			       other
+			       cold-war
+			       fronts)))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP 
+	(ADJP  Political
+	       ,
+	       economic 
+	       and  
+	       military)
+	experts)
+       (VP were
+	   all
+	   (ADJP agreed
+		 (SBAR that
+		       (S (NP   chaotic
+				,
+				mountainous
+				little
+				Laos)
+			  (VP was
+			      (NP (NP the last place
+				      (PP in
+					  (NP the world)))
+				  (S (NP *)
+				     (AUX to)
+				     (VP fight
+					 (NP a war))))))))))
+    --
+    and
+    (S (NP they)
+       (VP were
+	   (ADVP probably)
+	   (ADJP right))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP It)
+	 (AUX would)
+	 (VP be
+	     (PP like
+		 (S (NP *)
+		    (VP fighting
+			(NP the
+			    French and Indian
+			    War)
+			(ADVP  all
+			       over
+			       again))))))
+      ''
+      ,
+      (SINV (VP said)
+	    (NP one military man)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ But
+	 (SBARQ (WHADVP why)
+		(SQ  (VP was)
+		     (NP Laos)
+		     (NP the
+			 new
+			 Southeast Asian
+			 battleground))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP Geneva))
+    (PP in
+	(NP 1954))
+    ,
+    (S (NP *)
+       (AUX to)
+       (VP get
+	   (NP the war
+	       (PP in
+		   (NP Indo-China)))
+	   (VP settled)))
+    ,
+    (S (NP the British
+	   and
+	   French)
+       (VP (VP gave
+	       (PRT in)
+	       (PP to
+		   (NP 
+		    (ADJP (ADJP Russian)
+			  and
+			  (ADJP Communist Chinese))
+		    demands)))
+	   and
+	   (VP agreed
+	       (PP to
+		   (NP the setting
+		       (PRT up)
+		       (PP of
+			   (NP (NP (NP a Communist state)
+				   ,
+				   (NP North Viet Nam))
+			       --
+			       (SBAR (WHNP which)
+				     (S (ADVP then)
+					,
+					(ADVP predictably)
+					,
+					(S (NP T)
+					   (VP became
+					       (NP a base
+						   (PP for
+						       (NP Communist operations
+							   (PP against
+							       (NP (VP neighboring)
+								   South Viet Nam
+								   and
+								   Laos)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The
+	    late
+	    Secretary
+	    of
+	    State)
+	(NP John Foster Dulles))
+    (VP (VP considered
+	    (NP the 1954 Geneva agreement)
+	    (NP a specimen
+		(PP of
+		    (NP appeasement))))
+	,
+	(VP saw
+	    (SBAR that
+		  (S (NP resolution)
+		     (AUX would)
+		     (VP be
+			 (VP needed
+			      
+			     (S (NP *)
+				(AUX to)
+				(VP keep
+				    (NP it)
+				    (PP from
+					(S (NP *)
+					   (VP becoming
+					       (NP a calamity)
+					       (PP for
+						   (NP the West))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP began
+	(NP (NP the diplomatic discussions)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP resulted
+			 (PP in
+			     (NP the establishment
+				 (PP of
+				     (NP A[fj]))))))))))
+ . )  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (NP The important thing
+	  (PP from
+	      (ADVP now
+		    on)))
+      ''
+      ,
+      (S (NP he)
+	 (VP said))
+      ,
+      ``
+      (VP is
+	  (S (NEG not)
+	     (S (NP *)
+		(AUX to)
+		(VP mourn
+		    (NP the past)))
+	     but
+	     (S (NP *)
+		(AUX to)
+		(VP seize
+		    (NP (NP the future opportunity)
+			(S (NP *)
+			   (AUX to)
+			   (VP prevent
+			       (NP the loss
+				   (PP in
+				       (NP  northern
+					    Viet Nam)))
+			       (PP from
+				   (S (NP *)
+				      (VP leading
+					  (PP to
+					      (NP the extension
+						  (PP of
+						      (NP Communism))
+						  (PP throughout
+						      (NP Southeast
+							  Asia))))))))))))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (NP  Russian tanks and artillery)
+	    (VP parading
+		(PP through
+		    (NP the streets
+			(PP of
+			    (NP Havana))))))
+	,
+	(NP  Russian intrigue
+	     (PP in
+		 (NP the Congo)))
+	,
+	and
+	(NP (NP  Russian 
+		 arms
+		 drops
+		 (PP in
+		     (NP Laos)))
+	    *LRB*
+	    (S (NP *)
+	       (VP using
+		   (NP (NP the same Ilyushin transports)
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(AUX were)
+				(VP used
+			     
+				    (S (NP *)
+				       (AUX to)
+				       (VP carry
+					   (NP Communist agents)
+					   (PP to
+					       (NP the Congo))))))))))
+	    *RRB*))
+    (VP made
+	(NP it)
+	(ADJP plain
+	      (SBAR-4 *pseudo-attach*))
+	(ADVP once
+	      more)
+	(SBAR-4 that
+		(S (NP the cold war)
+		   (VP was
+		       (NP all
+			   (PP of
+			       (NP a piece
+				   (PP in
+				       (NP (NP space)
+					   and
+					   (NP time)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Soviet Premier Khrushchev)
+    (VP (VP sent
+	    (NP 
+	     (NP New Year)
+	     's hopes
+	     (PP for
+		 (NP peace)))
+	    (PP to
+		(NP President-elect Kennedy)))
+	,
+	and
+	(VP got
+	    (NP a  cool acknowledgment)
+	    (PP in
+		(NP reply)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (VP Considering
+	   (NP the state
+	       (PP of
+		   (NP the whole world))))
+       ,
+       (S (NP 
+	   (NP the cold war)
+	   's three
+	   (VP exposed)
+	   fronts)
+	  (AUX did)
+	  (NEG not)
+	  (VP seem
+	      (ADJP  terribly
+		     ominous))))
+    ;
+    ;
+    but
+    ,
+    (S (PP in
+	   (NP 
+	    (NP Senator Gore)
+	    's words))
+       ,
+       (S (NP it)
+	  (VP was
+	      ``
+	      (NEG not)
+	      (NP (NP a
+		      (ADJP  very
+			     encouraging)
+		      ''
+		      situation)
+		  (SBAR (WHNP that)
+			(S (NP T)
+			   (AUX would)
+			   (VP confront
+			       (NP John F. Kennedy)
+			       (PP on
+				   (NP Inauguration Day)))))))))
+    )
+ .)  
+(  END_OF_TEXT_UNIT)
+((NP The Congress turmoil
+     (PP in
+	 (NP the House))))
+(  
+ (S (SBAR As
+	  (S (NP the
+		 87th
+		 Congress)
+	     (VP began
+		 (NP its sessions))
+	     (NP last week)))
+    ,
+    (S (NP  liberal
+	    Democrats)
+       (VP were
+	   (ADJP ready
+		 (PP for
+		     (NP (NP a finish fight)
+			 (S (NP *)
+			    (AUX to)
+			    (VP (VP open
+				    (NP (NP the sluice gates)
+					(VP controlled
+					    (PP by
+						(NP the House Rules Committee)))))
+				and
+				(VP permit
+				    (NP the free flow
+					(PP of
+					    (NP liberal legislation))
+					(PP to
+					    (NP the floor))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The liberal pressure bloc)
+	*LRB*
+	(SBAR (WHNP which)
+	      (S (S (NP T)
+		    (VP (ADVP coyly)
+			masquerades
+			(PP under
+			    (NP (NP the name)
+				(NP Democratic Study Group)))))))
+	*RRB*)
+    (X (X (AUX had)
+	  (VP fought
+	      (NP the committee))
+	  (ADVP before))
+       ,
+       and
+       (X (AUX had)
+	  (ADVP always)
+	  (VP lost))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This time)
+       ,
+       (S (NP they)
+	  (VP were
+	      (ADJP  much
+		     better
+		     prepared
+		     and
+		     organized)))
+       ,)
+    and
+    (S (NP the political climate)
+       (VP was
+	   (ADJP favorable))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP They)
+    (VP had
+	(NP the unspoken support
+	    (PP of
+		(NP (NP President-elect Kennedy)
+		    ,
+		    (SBAR 
+		     (WHNP whose
+			   own
+			   legislative
+			   program)
+		     (S (NP T)
+			(AUX was)
+			(VP menaced
+			     
+			    (PP by
+				(NP the Rules Committee
+				    bottleneck))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP *)
+	 (VP counting
+	     (NP noses))) 
+      ,
+      (S (NP they)
+	 (VP seemed
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (NP the votes)
+		    (S (NP *)
+		       (AUX to)
+		       (VP work
+			   (NP their will))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP  Deadly deadlock)
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP There)
+    (VP were
+	(NP two possible methods
+	    (PP of
+		(S (NP *)
+		   (VP breaching
+		       (NP the conservative barriers
+			   (PP around
+			       (NP the Rules Committee)))))))))
+ :)
+(  
+ (S (S (NP 1)
+       *RRB*
+       (S (NP *)
+	  (AUX to)
+	  (VP (VP pack
+		  (NP it)
+		  (PP with
+		      (NP additional liberals)))
+	      and
+	      (VP break
+		  (NP the conservative-liberal deadlock)))))
+    ,
+    or
+    (S (NP 2)
+       *RRB*
+       (S (NP *)
+	  (AUX to)
+	  (VP remove
+	      (NP one
+		  (PP of
+		      (NP (NP the conservatives)
+			  --
+			  (NP (NP  namely
+				   (NP Mississippi)
+				   's
+				   (ADJP 14-term)
+				   William Meyers Colmer)
+			      *LRB*
+			      (VP pronounced
+				  (NP Calmer))
+			      *RRB*))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (S (NP *)
+	  (VP Caucusing))
+       ,
+       (S (NP the liberals)
+	  (VP decided
+	      (S (NP *)
+		 (AUX to)
+		 (VP go
+		     (PP after
+			 (NP Colmer)))))))
+    ,
+    (SBAR 
+     (WHNP which)
+     (S (ADVP actually)
+	(S (NP T)
+	   (VP was
+	       (NP the
+		   (ADJP more
+			 drastic) course))
+	   ,
+	   (SBAR since
+		 (S (NP seniority
+			(PP in
+			    (NP the House)))
+		    (VP is
+			(ADJP next
+			      (PP to
+				  (NP godliness))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A
+	dour
+	,
+	(VP gangling)
+	man
+	(PP with
+	    (NP a choppy gait)))
+    ,
+    (S (NP Colmer)
+       (X (VP looks
+	      (ADJP younger
+		    (PP than
+			(NP his 70 years))))
+	  ,
+	  (X (AUX has)
+	     (VP  (ADVP gradually)
+		  swung
+		  (PP (PP from
+			  (NP a
+			      moderate
+			      ,
+			      internationalist
+			      position))
+		      (PP to
+			  (NP that
+			      (PP of
+				  (NP a diehard conservative))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP is
+	(ADJP (ADVP (ADVP generally)
+		    and
+		    (ADVP initially))
+	      suspicious
+	      (PP of
+		  (NP any federal project))))
+    ,
+    (SBAR unless
+	  (S (NP it)
+	     (VP happens
+		 (S (NP *)
+		    (AUX to)
+		    (VP benefit
+			(NP his Gulf Coast constituents)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP He)
+       (VP is
+	   ,
+	   (PP of
+	       (NP course))
+	   ,
+	   (NP a segregationist)))
+    ,
+    but
+    (S (NP he)
+       (VP says
+	   (SBAR 0
+		 (S (NP he)
+		    (AUX has)
+		    (ADVP never)
+		    (VP made
+			(NP an
+			    ``
+			    anti-Negro
+			    ''
+			    speech)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP 20 years))
+     (S
+      (NP he)
+      (AUX has)
+      (VP enjoyed
+	  (NP his power
+	      (PP on
+		  (NP the Rules Committee))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP There)
+	 (S (NP his vote
+		,
+		(PP along
+		    (PP with
+			(NP those
+			    (PP of
+				(NP (NP (NP Chairman Howard Smith)
+					,
+					(NP the
+					    courtly
+					    Virginia judge)
+					,)
+				    and
+				    (NP the four Republican members))))))
+		,)
+	    (AUX (AUX could)
+		 and
+		 (ADVP often)
+		 (AUX did))
+	    (VP produce
+		(NP (NP a 6-6 deadlock)
+		    (SBAR (WHNP that)
+			  (S (NP T)
+			     (VP blocked
+				 (NP 
+				  (ADJP far-out)
+				  ,
+				  (ADJP Democratic-sponsored)
+				  welfare legislation))))))))
+      *LRB*
+      (NP (NP a tactic)
+	  (ADJP  (ADVP often)
+		 acceptable
+		 (PP to
+		     (NP the Rayburn-Johnson congressional leadership))
+		 (S (NP *)
+		    (AUX to)
+		    (VP avoid
+			(NP  (ADJP embarrassing)
+			     votes)))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP  Equal treatment)
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP There)
+       (VP was
+	   (NP  sufficient pretext)
+	   (S (NP *)
+	      (AUX to)
+	      (VP demand
+		  (NP 
+		   (NP Colmer)
+		   's ouster)))))
+    :
+    (S (NP he)
+       (AUX had)
+       (VP given
+	   (NP his lukewarm support)
+	   (PP to
+	       (NP the anti-Kennedy electors
+		   (PP in
+		       (NP Mississippi)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Reprisals)
+       (VP are
+	   (NEG not)
+	   (ADJP unheard
+		 (PP of)))
+       (PP in
+	   (NP such situations)))
+    ,
+    but
+    (S (NP the recent tendency)
+       (AUX has)
+       (VP been
+	   (SBAR for
+		 (S (NP the Congress)
+		    (AUX to)
+		    (VP forgive
+			(NP its prodigal sons)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP In
+	    (NP 1949))
+	(S (NP the Dixiecrats)
+	   (VP escaped
+	       (ADJP unscathed))
+	   (PP after
+	       (NP their 1948 rebellion
+		   (PP against
+		       (NP Harry Truman))))))
+     ,
+     and
+     (S (PP in
+	    (NP 1957))
+	,
+	(S (SBAR after
+		 (S (NP Congressman Adam Clayton Powell)
+		    (VP campaigned
+			(PP for
+			    (NP Dwight Eisenhower)))
+		    (PP in
+			(NP 1956))))
+	   ,
+	   (S (NP his fellow
+		  Democrats)
+	      (AUX did)
+	      (NEG not)
+	      (VP touch
+		  (NP his committee assignments))
+	      ,
+	      (SBAR although
+		    (S (NP they)
+		       (AUX did)
+		       (VP strip
+			   (NP him)
+			   (ADVP temporarily)
+			   (PP of
+			       (NP his patronage)))))))))
+  . )
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S *LRB*
+      (PP In
+	  (NP the heat
+	      (PP of
+		  (NP the anti-Colmer drive
+		      (NP last week)))))
+      ,
+      (S (NP Judge Smith)
+	 (VP threatened
+	     (NP reprisal
+		 (PP against
+		     (NP Powell))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SINV (VP Said)
+	  (NP he))
+    :
+    ``
+    (S (NP We)
+       (AUX will)
+       (VP see
+	   (SBAR whether
+		 (S (NP (NP whites)
+			and
+			(NP Negroes))
+		    (AUX are)
+		    (VP treated
+			 
+			(NP the
+			    (ADJP same)))
+		    (ADVP around
+			  here)))))
+    '')
+ .
+ *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP Speaker Sam Rayburn)
+	,
+	(SBAR after
+	      (S (NP *)
+		 (VP huddling
+		     (PP in
+			 (NP Palm Beach))
+		     (PP with
+			 (NP President-elect Kennedy)))))
+	,
+	(VP decided
+	    (SBAR (SBAR that
+			(S (NP this year)
+			   (S (NP something)
+			      (VP had
+				  (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (VP done
+				        
+					     (PP about
+						 (NP the Rules Committee)))))))))
+		  --
+		  and
+		  (SBAR that
+			(S (NP he)
+			   (VP was
+			       (NP (NP the only man)
+				   (SBAR (WHNP who)
+					 (S (NP T)
+					    (AUX could)
+					    (VP do
+						(NP (NP anything)
+						    (ADJP
+						     effective)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP a  tense
+	    ,
+	    (ADJP closed-door) session
+	    (PP with
+		(NP Judge Smith))))
+    ,
+    (S (NP Rayburn)
+       (VP attempted
+	   (S (NP *)
+	      (AUX to)
+	      (VP work
+		  (PRT out)
+		  (NP (NP a compromise)
+		      :
+		      (S (NP *)
+			 (AUX to)
+			 (VP add
+			     (NP (NP three new members)
+				 (NP-2 *pseudo-attach*))
+			     (PP to
+				 (NP the Rules Committee))
+			     (NP-2  *LRB*
+				    (NP (NP two
+					    Democrats)
+					,
+					(VP including
+					    (NP one
+						Southerner))
+					,)
+				    and
+				    (NP one
+					Republican)
+				    *RRB*)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Smith)
+       (VP  (ADVP flatly)
+	    rejected
+	    (NP the offer)))
+    ,
+    and
+    (S (NP Mister Sam)
+       (ADVP thereupon)
+       (VP decided
+	   (S (NP *)
+	      (AUX to)
+	      (VP join
+		  (NP the rebels))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The next morning)
+	(S
+	 (NP he)
+	 (VP (VP summoned
+		 (NP a group
+		     (PP of
+			 (NP  top
+			      Democrats)))
+		 (PP to
+		     (NP his private office)))
+	     and
+	     (VP broke
+		 (NP the news)))))
+     :
+     (S (NP he)
+	(AUX would)
+	(VP lead
+	    (NP (NP the fight)
+		(S (NP *)
+		   (AUX to)
+		   (VP oust
+		       (NP (NP Colmer)
+			   ,
+			   (SBAR (WHNP whom)
+				 (S (NP he)
+				    (AUX is)
+				    (VP said
+					(S (NP *)
+					   (AUX to)
+					   (VP regard
+					       (NP T) 
+					       (PP as
+						   (NP  ``
+							an  inferior man
+							'')))))))))))))
+     )
+  .)   
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP News
+	(PP of
+	    (NP 
+	     (NP Rayburn)
+	     's commitment)))
+    (ADVP soon)
+    (VP leaked
+	(ADVP out)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP
+	  (NP Missouri)
+	  's
+	  Clarence Cannon)
+	 (VP got
+	     (NP the word))))
+     ,
+     (S (NP he)
+	(VP turned
+	    (NP purple))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (ADJP Unconscionable)
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP shouted)
+	,
+	and
+	(VP rushed
+	    (ADVP off)
+	    (PP to
+		(NP 
+		 (NP the Speaker)
+		 's Room))
+	    (S (NP *)
+	       (AUX to)
+	       (VP object
+		   :
+		   ``
+		   (NP A  dangerous precedent)
+		   '')))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP Cannon)
+	   ,
+	   (NP a
+	       powerful
+	       ,
+	       conservative
+	       man)
+	   ,)
+       (VP brought
+	   (NP welcome support)
+	   (PP to
+	       (NP the Smith-Colmer forces))))
+    :
+    (S (PP as
+	   (NP chairman
+	       (PP of
+		   (NP the Appropriations Committee))))
+       ,
+       (S (NP he)
+	  (VP holds
+	      (PP over
+		  (NP each member))
+	      (NP the  dreadful threat
+		  (PP of
+		      (S (NP *)
+			 (VP excluding
+			     (NP this
+				 or
+				 that congressional district)
+			     (PP from
+				 (NP federal pork-barrel projects))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (VP Sitting
+	   (ADVP quietly)
+	   (PP on
+	       (NP an
+		   (ADJP equally
+			 big) pork barrel)))
+       (AUX was)
+       (NP (NP another Judge Smith ally)
+	   ,
+	   (NP (NP 
+		(NP Georgia)
+		's
+		Carl Vinson)
+	       ,
+	       (NP chairman
+		   (PP of
+		       (NP the Armed Services Committee))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Threat
+      (PP of
+	  (NP war)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (NP the battle)
+	      (VP raged
+		  (PP in
+		      (NP the cloakrooms and caucuses)))))
+     ,
+     (S (NP it
+	    (SBAR-3 *pseudo-attach*))
+	(VP became
+	    (ADJP clear))
+	(SBAR-3 that
+	      (S (NP Judge Smith)
+		 (AUX could)
+		 (VP lose)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP His
+	   highest
+	   count
+	   (PP of
+	       (NP supporters)))
+       (VP numbered
+	   (NP 72)))
+    --
+    and
+    (S (NP he)
+       (VP needed
+	   (NP (ADJP  nearly
+		      twice)
+	       that number))
+       (S (NP *)
+	  (AUX to)
+	  (VP control
+	      (NP the
+		  260-member
+		  Democratic
+		  caucus)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The liberals)
+	,
+	(VP smelling
+	    (NP blood))
+	,)
+    (AUX were)
+    (VP faced
+	(PP with
+	    (NP the necessity
+		(PP of
+		    (S (NP *)
+		       (VP winning
+			   (NP three big votes
+			       --
+			       (PP (PP in
+				       (NP the Democratic Committee
+					   (PP on
+					       (NP Committees))))
+				   ,
+				   (PP in
+				       (NP the full party caucus))
+				   ,
+				   and
+				   (PP on
+				       (NP the floor
+					   (PP of
+					       (NP the House)))))
+			       --))
+		       (SBAR before
+			     (S (NP they)
+				(AUX could)
+				(VP oust
+				    (NP Colmer))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (NP (NP One big question)
+       :
+       (SBARQ (SBAR If
+		    (S (NP Colmer)
+		       (VP was
+			   (S (NP *)
+			      (AUX to)
+			      (VP be
+				  (VP purged
+				      ))))))
+	      ,
+	      (SBAR (WHNP what)
+		    (SQ 
+		     (AUX should)
+		     (NP the House)
+		     (VP do
+			 (NP T)
+			 (PP about
+			     (NP (NP the
+				     other
+				     three senior Mississippians)
+				 (SBAR (WHNP who)
+				       (S (NP T)
+					  (VP supported
+					      (NP the maverick
+						  electors)))))))))))
+   ?
+   ?
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP In
+	(NP all three arenas))
+    ,
+    (S (NP they)
+       (VP seemed
+	   (ADJP certain
+		 (PP of
+		     (NP victory))))
+       --
+       (PP  (ADVP especially)
+	    with
+	    (S (NP Sam Rayburn)
+	       (VP applying
+		   (NP his whiplash))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(   (SINV But
+	  (PP in
+	      (NP the prospect
+		  (PP of
+		      (S (NP *)
+			 (VP winning
+			     (NP the battle))))))
+	  (VP loomed)
+	  (NP the specter
+	      (PP of
+		  (S (NP *)
+		     (VP losing
+			 (NP a
+			     costlier
+			     war))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (SBAR If
+	   (S (NP the Southerners)
+	      (AUX were)
+	      (VP  (ADVP sufficiently)
+		   aroused
+		   )))
+     ,
+     (S (S (NP they)
+	   (AUX could)
+	   (ADVP very
+		 well)
+	   (VP cut
+	       (NP the Kennedy legislative program)
+	       (PP to
+		   (NP ribbons))
+	       (PP from
+		   (NP their vantage point
+		       (PP of
+			   (NP committee chairmanships))))))
+	,
+	(S (NP *)
+	   (VP leaving
+	       (NP (NP Sam Rayburn)
+		   (VP leading
+		       (NP a
+			   truncated
+			   ,
+			   unworkable
+			   party)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP With
+	   (NP that possibility
+	       (PP in
+		   (NP mind))))
+       ,
+       (S (NP 
+	   (NP Arkansas)
+	   '
+	   Wilbur Mills)
+	  (VP  (ADVP deliberately)
+	       delayed
+	       (S (NP *)
+		  (VP calling
+		      (NP a meeting
+			  (PP of
+			      (NP the Committee
+				  (PP on
+				      (NP Committees))))))))))
+    ,
+    and
+    (S (NP  coolheaded
+	    Democrats)
+       (VP sought
+	   (S (NP *)
+	      (AUX to)
+	      (VP bring
+		  (NP (NP Rayburn)
+		      and
+		      (NP Smith))
+		  (ADVP together)
+		  (ADVP again)
+		  (S (NP *)
+		     (AUX to)
+		     (VP work
+			 out
+			 (NP some sort
+			     (PP of
+				 (NP face-saving compromise))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV  ``
+	  (SINV (ADVP Here)
+		(VP are)
+		(NP (NP two old men)
+		    ,
+		    (ADJP (ADJP mad
+				(PP at
+				    (NP each
+					other)))
+			  and
+			  (ADJP too
+				proud
+				(S (NP *)
+				   (AUX to)
+				   (VP pick
+				       (PRT up)
+				       (NP the phone)))))))
+	  ''
+	  ,
+	  (SINV (VP said)
+		(NP a House Democratic leader)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP One)
+	 (VP wants
+	     (NP (ADJP (NP a
+			   little)
+		       more)
+		 power)))
+      ,
+      and
+      (S (NP the
+	     other)
+	 (AUX does)
+	 (NEG n't)
+	 (VP want
+	     (S (NP *)
+		(AUX to)
+		(VP give
+		    (PRT up)
+		    (NP any)))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Battle
+     (PP in
+	 (NP the senate))))
+((S (S
+     (NP The Senate)
+     (VP launched
+	 (NP the
+	     (ADJP 87th)
+	     Congress)
+	 (PP with
+	     (NP its own version
+		 (PP of
+		     (NP an
+			 ancient
+			 liberal-conservative
+			 battle))))))
+    ,
+    but
+    (S (PP in
+	   (NP contrast
+	       (PP with
+		   (NP 
+		    (NP the House)
+		    's guerrilla war))))
+       (S
+	(NP it)
+	(VP seemed
+	    (ADJP as
+		  pro forma
+		  (PP as
+		      (NP 
+		       (NP a Capitol guide)
+		       's speech)))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Question
+	 (PP at
+	     (NP issue)))
+     :
+     (SBARQ (SQ (NP (ADJP (WHADVP How)
+			  big)
+		    a vote)
+		(AUX should)
+		(VP be
+		    (ADJP necessary)
+		    (S (NP *)
+		       (AUX to)
+		       (VP (VP restrict
+			       (NP Senate debate))
+			   --
+			   and
+			   (ADVP thereby)
+			   (VP cut
+			       off
+			       (NP legislation-delaying filibusters))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A
+	(ADJP wide-ranging)
+	,
+	bipartisan
+	force
+	--
+	(PP (PP from
+		(NP 
+		 (NP Minnesota)
+		 's
+		 Democratic
+		 Hubert Humphrey))
+	    (PP to
+		(NP 
+		 (NP Massachusetts)
+		 '
+		 Republican Leverett Saltonstall)))
+	--)
+    (AUX was)
+    (VP drawn
+	 
+	(PRT up)
+	(PP against
+	    (NP a solid phalanx
+		(PP of
+		    (NP (NP Southern Democrats)
+			,
+			(SBAR 
+			 (WHNP who)
+			 (S (NP T)
+			    (AUX have)
+			    (VP  (ADVP traditionally)
+				 used
+				 (NP the filibuster)
+				 (S (NP *)
+				    (AUX to)
+				    (VP stop
+					(NP civil rights
+					    bills))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 
+     (NP New Mexico)
+     's
+     Clint Anderson)
+    (VP offered
+	(NP (NP a resolution)
+	    (S (NP *)
+	       (AUX to)
+	       (VP change
+		   (NP 
+		    (NP the Senate)
+		    's
+		    notorious
+		    Rule 22)
+		   (S (NP *)
+		      (AUX to)
+		      (VP allow
+			  (S (NP three-fifths
+				 (PP of
+				     (NP (NP the Senators)
+					 (ADJP (ADJP present)
+					       and
+					       (ADJP voting)))))
+			     (AUX to)
+			     (VP cut
+				 (ADVP off)
+				 (NP debate)))
+			  ,
+			  (ADVP instead
+				(PP of
+				    (NP the
+					current
+					(ADJP hard-to-get)
+					two-thirds))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Fair Dealer
+	Humphrey)
+    (VP (VP upped
+	    (NP the ante))
+	,
+	(VP asked
+	    (NP cloture power)
+	    (PP for
+		(NP a mere majority
+		    (PP of
+			(NP Senators)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP 
+	(NP Georgia)
+	's
+	Dick Russell)
+       (VP objected
+	   (ADVP politely)
+	   ))
+    ,
+    and
+    (S (NP the battle)
+       (AUX was)
+       (VP joined
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (ADVP Privately)
+     ,
+     (S (NP the liberals)
+	(VP admitted
+	    (SBAR that
+		  (S (NP the Humphrey amendment)
+		     (VP had
+			 (NP no chance
+			     (PP of
+				 (NP passage)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (ADVP Privately)
+     ,
+     (S (NP they)
+	(ADVP also)
+	(VP admitted
+	    (SBAR that
+		  (S (NP their hopes
+			 (PP for
+			     (NP 
+			      (NP Clint Anderson)
+			      's three-fifths modification)))
+		     (VP depended
+			 (PP on
+			     (NP none
+				 (ADJP other
+				       (PP than
+					   (NP Republican Richard
+					       Nixon)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1957))
+    (S (NP Nixon)
+       (VP delivered
+	   (NP a  significant opinion
+	       (SBAR (SBAR that
+			   (S (NP a majority
+				  (PP of
+				      (NP Senators)))
+			      (VP had
+				  (NP (NP the power)
+				      (S (NP *)
+					 (AUX to)
+					 (VP adopt
+					     (NP new rules)
+					     (PP at
+						 (NP the beginning
+						     (PP of
+							 (NP each
+							     new
+							     Congress))))))))))
+		     ,
+		     and
+		     (SBAR that
+			   (S (NP (NP any rules)
+				  (VP laid
+				      (ADVP down)
+				      (PP by
+					  (NP previous Congresses))))
+			      (VP were
+				  (NEG not)
+				  (ADJP binding)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP Armed
+	(PP with
+	    (NP the Nixon opinion)))
+    ,
+    (S (NP the Senate liberals)
+       (VP (VP rounded
+	       (PRT up)
+	       (NP their slim majority))
+	   and
+	   (VP prepared
+	       (S (NP *)
+		  (AUX to)
+		  (VP choke
+		      (ADVP off)
+		      (NP debate
+			  (PP on
+			      (NP the filibuster battle)))
+		      (NP this week)))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Hopefully)
+      ,
+      (S (NP the perennial battle
+	     (PP of
+		 (NP Rule 22)))
+	 (ADVP then)
+	 (AUX would)
+	 (VP be
+	     (VP fought
+		  
+		 (PP to
+		     (NP a settlement))
+		 (ADVP (ADVP once)
+		       and
+		       (PP for
+			   (NP all)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP Republicans last act))
+(  
+ (S (PP Since
+	(NP Election Day))
+    ,
+    (S (NP Vice President Richard Nixon)
+       (AUX had)
+       (VP  (ADVP virtually)
+	    retired
+	    --
+	    (PP by
+		(NP his own wish))
+	    --
+	    (PP from
+		(NP public view)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (PP with
+	     (NP the convening
+		 (PP of
+		     (NP the
+			 new
+			 Congress))))
+	 ,
+	 (S  (NP he)
+	     (VP was
+		 (NP the public man)
+		 (ADVP again))
+	     ,
+	     (S (NP *)
+		(VP presiding
+		    (PP over
+			(NP the Senate)))
+		(PP until
+		    (NP 
+		     (NP John Kennedy)
+		     's
+		     Inauguration))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One day)
+    (NP last week)
+    ,
+    (S (NP Nixon)
+       (VP faced
+	   (NP (NP a
+		   painful
+		   constitutional
+		   chore)
+	       (SBAR  (WHNP that)
+		      (S (NP T)
+			 (VP required
+			     (NP him)
+			     (S (S (NP *)
+				   (AUX to)
+				   (VP officiate
+				       (PP at
+					   (NP a joint session
+					       (PP of
+						   (NP Congress))))
+				       (S (NP *)
+					  (AUX to)
+					  (VP hear
+					      (NP the official tally
+						  (PP of
+						      (NP the Electoral College vote)))))))
+				,
+				and
+				then
+				(S (NP *)
+				   (AUX to)
+				   (VP make
+				       (NP  ``
+					    sufficient declaration
+					    ''
+					    (PP of
+						(NP the election
+						    (PP of
+							(NP (NP the man)
+							    (SBAR (WHNP who)
+								  (S (NP T)
+								     (VP defeated
+									 (NP him)
+									 (PP in
+									     (NP the
+										 tight
+										 1960 presidential election))))))))))))))))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Nixon)
+    (VP (VP fulfilled
+	    (NP his assignment)
+	    (PP with
+		(NP grace)))
+	,
+	then
+	(VP went
+	    (PP beyond
+		(NP the
+		    required
+		    ``
+		    sufficient
+		    declaration
+		    '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP This)
+	 (VP is
+	     (NP the first time
+		 (PP in
+		     (NP 100 years))
+		 (SBAR that
+		       (S (NP a candidate
+			      (PP for
+				  (NP the presidency)))
+			  (VP announced
+			      (NP the result
+				  (PP of
+				      (NP (NP an election)
+					  (SBAR (WHPP in
+						      (WHNP which))
+						(S (NP he)
+						   (AUX was)
+						   (VP defeated))))))))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

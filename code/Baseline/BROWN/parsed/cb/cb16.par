@@ -1,0 +1,2160 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( ``
+  (NP A lousy job)
+  '') 
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 9)) 
+    --
+    (S (NP No doubt)
+       (S (NP there)
+	  (AUX have)
+	  (VP been
+	      (NP moments
+		  (PP during
+		      (NP every Presidency))))
+	  (SBAR 
+	   (WHADVP when)
+	   (S (NP the man
+		  (PP in
+		      (NP the White House)))
+	      (AUX has)
+	      (VP had
+		  (NP feelings
+		      (PP of
+			  (NP (NP frustration)
+			      ,
+			      (NP exasperation)
+			      ,
+			      (NP exhaustion)
+			      ,
+			      and
+			      (ADVP even)
+			      (NP panic))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (S (NP we)
+       (AUX can)
+       (VP (ADVP sympathetically)
+	   understand
+	   (NP T))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP no President)
+       (ADVP ever
+	     before)
+       (VP referred
+	   (PP to
+	       (NP his))
+	   (PP as
+	       (NP a
+		   ``
+		   lousy job
+		   ''))
+	   *LRB*
+	   (PP as
+	       (S (NP Walter Trohan)
+		  (ADVP recently)
+		  (VP quoted
+		      (NP President Kennedy)
+		      (PP as 
+			  (S (NP *)
+			     (VP doing
+				 (PP in
+				     (NP conversation
+					 (PP with
+					     (NP Sen. (NP Barry Goldwater)))))))))))
+	   *RRB*)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP his aggressive campaign
+	    (S (NP *)
+	       (AUX to)
+	       (VP win
+		   (NP his present position)))))
+    ,
+    (S (NP Mr. Kennedy)
+       (VP was
+	   (ADJP vitriolic)
+	   (PP about
+	       (NP (NP (NP this country)
+		       's
+		       ``
+		       prestige
+		       '')
+		   (ADJP abroad))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ (AUX does)
+      (NP he)
+      (VP think
+	  (SBAR 0
+		(S (NP a remark
+		       (PP like
+			   (NP this
+			       ``
+			       (ADJP lousy)
+			       ''
+			       one)))
+		   (VP does
+		       (NP T) 
+		       (PP to
+			   (NP our prestige and morale))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the President
+		 (PP of
+		     (NP the United States)))
+	     (ADVP really)
+	     (VP feels
+		 (SBAR 0
+		       (S (NP he)
+			  (VP won
+			      (NP himself)
+			      (NP a
+				  ``
+				  lousy job
+				  '')))))))
+    ,
+    (ADVP then)
+    (S (NP heaven)
+       (VP help
+	   (NP us
+	       all)))) 
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+((VP Questions
+     (NP shelters))) 
+((S (X (NP (NP Evansville)
+	   ,
+	   (NP Ind.))
+       ,
+       (NP Aug. 5)) 
+    --
+    (S (NP Defense Secretary (NP Robert S. McNamara))
+       (AUX has)
+       (VP asked
+	   (NP Congress)
+	   (PP for
+	       (NP authority and funds
+		   (S (NP *)
+		      (AUX to)
+		      (VP build
+			  (NP (NP fallout shelters)
+			      (VP costing
+				  (NP (ADVP about)
+				      200 million dollars))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP Why)
+  (SQ (AUX should)
+      (NP Congress)
+      (ADVP even)
+      (VP consider
+	  (S (NP *)
+	     (VP allowing
+		 (NP such
+		     a sum)
+		 (PP for
+		     (NP (NP that)
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (AUX can)
+			     (VP give
+				 (NP no protection)))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Top scientists)
+   (AUX have)
+   (VP warned
+       (SBAR that
+	     (S (NP (NP an area)
+		    (VP hit
+			(PP by
+			    (NP an atomic missile
+				(PP of
+				    (NP massive power))))))
+		(AUX would)
+		(VP be
+		    (VP engulfed
+		     
+			(PP in
+			    (NP (NP a suffocating fire storm)
+				(SBAR (WHNP which)
+				      (S (NP T)
+					 (AUX would)
+					 (VP persist)
+					 (PP for
+					     (NP a long time))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The scientists)
+   (AUX have)
+   (ADVP also)
+   (VP warned
+       (SBAR that
+	     (S (NP (NP no life)
+		    (X (X (PP above
+			      (NP ground))
+			  or
+			  (ADJP underground))
+		       ,
+		       (ADJP sheltered or unsheltered)))
+		(AUX could)
+		(VP be
+		    (VP expected
+			 
+			(S (NP *)
+			   (AUX to)
+			   (VP survive
+			       (PP in 
+				   (NP (NP an area)
+				       (PP (NP (PP at
+						   (ADJP least))
+					       50 miles)
+					   in
+					   (NP diameter))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP This sum)
+	(VP spent
+	    (PP for
+		(NP (NP foreign economic
+			aid)
+		    ,
+		    (NP the peace corps)
+		    ,
+		    (NP food
+			(PP for
+			    (NP peace)))
+		    ,
+		    or
+		    (NP (NP any other program)
+			(S (NP T) 
+			   (AUX to)
+			   (VP solve
+			       (NP the problems
+				   (PP of
+				       (NP the underdeveloped
+					   countries))))))))))
+    (AUX would)
+    (VP be
+	(NP (NP an investment)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (AUX would)
+		     (VP pay
+			 (PRT off)
+			 (PP in
+			     (NP (NP world peace)
+				 ,
+				 (NP (VP increased)
+				     world trade)
+				 ,
+				 and
+				 (NP prosperity
+				     (PP for
+					 (NP every country
+					     (PP on
+						 (NP the globe)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Let
+	(NP us)
+	(VP prepare
+	    (PP (PP for
+		    (NP peace))
+		,
+		(ADVP instead
+		      (PP of
+			  (PP for
+			      (NP (NP a war)
+				  (SBAR (WHNP which)
+					(S (NP T)
+					   (AUX would)
+					   (VP mean
+					       (NP the end
+						   (PP of
+						       (NP civilization))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Short shorts
+     (PP on
+	 (NP the campus))) 
+ )
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 4)) 
+    --
+    (S (NP It)
+       (VP seems
+	   (SBAR 0
+		 (S (NP college)
+		    (VP is
+			(NEG n't)
+			(SBAR (WHNP what)
+			      (S (NP it)
+				 (AUX should)
+				 (VP be
+				     (NP T))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP refer
+       (PP to
+	   (NP (NP the attire)
+	       (VP worn
+		   (PP by
+		       (NP the students)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP a visit
+	    (PP to
+		(NP a
+		    local junior
+		    college))
+	    (NP last week)))
+    ,
+    (S (NP I)
+       (AUX was)
+       (VP shocked
+	     
+	   (S (NP *)
+	      (AUX to)
+	      (VP see 
+		  (X (X (NP the young ladies)
+			(VP wearing
+			    (NP short shorts)))
+		     and
+		     (X (NP the young men)
+			(VP wearing
+			    (NP Bermuda shorts)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SQ (VP Is)
+     (NP this)
+     (SBAR (WHNP what)
+	   (S (NP our children)
+	      (VP are
+		  (S (NP *)
+		     (AUX to)
+		     (VP come
+			 (NP face
+			     (PP to
+				 (NP face)))
+			 (PP with
+			     (NP T)))))))
+     (SBAR (WHADVP when)
+	   (S (NP they)
+	      (VP are
+		  (ADJP ready
+			(PP for
+			    (NP college))))
+	      (PP in
+		  (NP a few years)))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (S (NP Education) 
+       (AUX should)   
+       (VP be
+	   (ADJP uppermost)
+	   (PP in
+	       (NP their minds))))
+    ,
+    but
+    (PP with
+	(NP this attire))
+    (SBARQ (WHADVP how)
+	   (SQ (AUX can)
+	       (VP anyone)
+	       (VP think
+		   (SBAR 0
+			 (S (NP it)
+			    (VP is
+				(ADVP so))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP looks
+	(ADVP more)
+	(PP like
+	    (S (NP they)
+	       (AUX are)
+	       (VP going
+		   (S (NP *)
+		      (AUX to)
+		      (VP play
+			  (PP at
+			      (NP the beach)))))
+	       (ADVP instead
+		     (PP of
+			 (S (NP *)
+			    (VP taking
+				(NP lessons
+				    (PP on
+					(S (NP *)
+					   (VP bettering
+					       (NP themselves)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP High school students)
+   (VP have
+       (NP more
+	   sense
+	   (PP of
+	       (NP (NP the way) 
+		   (S (NP *)
+		      (AUX to)
+		      (VP dress))))
+	   (PP than
+	       (NP college students)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Many high
+	   school students)
+       (VP go
+	   (PP past
+	       (NP my house)))
+       (NP every day))
+    ,
+    and
+    (S (NP they)
+       (VP look
+	   (PP like
+	       (NP perfect ladies and gentlemen)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP No matter 
+	  (X (ADJP (WHADVP how)
+		   hot)
+	     (NP the day)))
+    ,
+    (S (NP they)
+       (VP are
+	   (X (VP dressed
+		  (ADVP properly))
+	      and
+	      (X (NEG not)
+		 (PP in
+		     (NP shorts)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Masaryk award)) 
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 9)) 
+    --
+    (S (NP The granting
+	   (PP of
+	       (NP the (NP Jan Masaryk) award))
+	   (NP August 13)
+	   (PP to
+	       (NP Senator Paul Douglas)))
+       (VP is
+	   (NP a bitter example
+	       (PP of
+		   (NP (VP misleading) 
+		       minorities))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Douglas)
+   (AUX has)
+   (VP (ADVP consistently)
+       voted
+       (X (S (NP *)
+	     (AUX to)
+	     (VP aid
+		 (NP (NP the people)
+		     (SBAR (WHNP who)
+			   (S (NP T)
+			      (VP killed
+				  (NP Masaryk)))))))
+	  ,
+	  and 
+	  (PP against
+	      (NP (NP principles)
+		  (SBAR 0
+			(S (NP Masaryk)
+			   (VP died)
+			   (S (NP *)
+			      (AUX to)
+			      (VP uphold
+				  (NP T))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Douglas)
+    (AUX has)
+    (VP voted
+	(PP (PP for
+		(NP aid
+		    (PP to
+			(NP Communists))))
+	    and
+	    (PP for
+		(NP (NP the destruction
+			(PP of
+			    (NP individual freedom)))
+		    *LRB*
+		    (NP (NP public housing)
+			,
+			(NP foreign aid)
+			,
+			etc .)
+		    *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+((NP Subsidies
+     (PP from
+	 (NP CTA)))) 
+((S (X (NP Oak Park)
+       ,
+       (NP Aug. 8)) 
+    --
+    (S (PP In
+	   (NP (NP Today)
+	       's
+	       ``
+	       (NP Voice)
+	       ''))
+       ,
+       (S (NP the CTA)
+	  (AUX is)
+	  (VP urged
+	     
+	      (S (NP *)
+		 (AUX to)
+		 (VP reduce
+		     (NP fares
+			 (PP for
+			     (NP senior citizens)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (VP Rising)
+	   costs)
+       (AUX have)
+       (VP increased
+	   (NP the difficulties
+	       (PP of
+		   (NP the
+		       (ADJP elderly))))))
+    ,
+    and
+    (S (NP I)
+       (AUX would)
+       (VP be
+	   (NP (NP the
+		   (ADJP last))
+	       (S (NP T)  
+		  (AUX to)
+		  (VP say
+		      (SBAR 0
+			    (S (NP they)
+			       (AUX should)
+			       (NEG not)
+			       (VP receive
+				   (NP consideration))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SBARQ But
+	(SBARQ 
+	 (WHADVP why)
+	 (SQ (VP is)
+	     (NP it)
+		 
+	     (NP the special responsibility
+		 (PP of
+		     (NP the CTA))
+		 (S (NP *)
+		    (AUX to)
+		    (VP help
+			(NP these people)))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+( (SBARQ
+   (WHADVP Why)
+   (SQ (AUX should)
+       (NP CTA regular riders)
+       (VP subsidize
+	   (NP (ADJP reduced)
+	       transportation
+	       (PP for
+		   (NP old people)))
+	   (ADVP any
+		 more
+		 (PP than
+		     (S (NP (NP the people)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP (VP drive
+					     (NP their own cars)
+					     (PP-1 *pseudo-attach*))
+					 or
+					 (VP walk
+					     (PP-1 *pseudo-attach*))
+					 (PP-1 to
+					       (NP work))))))
+			(AUX should)))))))
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The welfare
+	(PP of
+	    (NP (NP citizens)
+		,
+		(ADJP old and young)
+		,)))
+    (VP is
+	(NP the responsibility
+	    (PP (PP of
+		    (NP the community))
+		,
+		(ADVP not
+		      only)
+		(PP of
+		    (NP (NP that part
+			    (PP of
+				(NP it)))
+			(SBAR (WHNP that)
+			      (S (NP T)
+				 (VP rides
+				     (NP the A[fj])))))))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP CTA regulars)
+   (ADVP already)
+   (VP subsidize
+       (NP transportation
+	   (PP for
+	       (NP (NP school children)
+		   ,
+		   (NP policemen)
+		   ,
+		   and
+		   (NP firemen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)  
+    (VP Marketing
+	(NP meat)))) 
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 9)) 
+    --
+    (S (PP In
+	   (NP reply
+	       (PP to
+		   (NP (NP a letter
+			   (PP in
+			       (NP (NP Today)
+				   's
+				   ``
+				   (NP Voice)
+				   '')))
+		       (VP urging
+			   (NP the sale
+			       (PP of
+				   (NP meat))
+			       (PP after
+				   (NP 6 p.m.))))))))
+       ,
+       (S (NP I)
+	  (VP wish
+	      (S (NP *)
+		 (AUX to)
+		 (VP state
+		     (NP the other side
+			 (PP of
+			     (NP the story)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP am
+       (NP the wife
+	   (PP of
+	       (NP the owner
+		   (PP of
+		       (NP a
+			   small
+			   ,
+			   independent
+			   meat market)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP (NP My husband)
+	     's hours)
+	 (ADVP away
+	       (PP from
+		   (NP home))))
+     (PP for
+	 (NP the past years))
+     (AUX have)
+     (VP been
+	 (X (X (PP (PP from
+		       (NP 7 a.m.))
+		   (PP to
+		       (NP 7 p.m.)))
+	       (NP the early part
+		   (PP of
+		       (NP the week))))
+	    ,
+	    and
+	    (X (ADJP  as
+		      late
+		      (PP as
+			  (NP (NP 8)
+			      or
+			      (NP 9))))
+	       (PP on
+		   (NP week-ends)))))) 
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S Now
+    (S (NP he)
+       (AUX is)
+       (ADVP apparently)
+       (VP expected
+	        
+	   (S (NP *)
+	      (AUX to)
+	      (VP give
+		  (PRT up)
+		  (NP (NP his evenings)
+		      --
+		      and
+		      (NP Sundays)
+		      ,
+		      (ADVP too)
+		      ,
+		      for
+		      (S (NP this)
+			 (AUX is)
+			 (VP coming))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a trend
+	   (PP to
+	       (S (NP *)
+		  (VP (VP packaging
+			  (NP meat)
+			  (PP at
+			      (NP a central source)))
+		      ,
+		      (VP freezing
+			  (NP it))
+		      ,
+		      and
+		      (VP shipping
+			  (NP it)
+			  (PP to
+			      (NP (NP outlying stores)
+				  ,
+				  (SBAR 
+				   (WHADVP where)
+				   (S (NP meat cutters)
+				      (AUX will)
+				      (NEG not)
+				      (VP be
+					  (VP required
+					      )))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP a customer)
+	     (VP wishes
+		 (NP a
+		     (ADJP special)
+		     cut))))
+    ,
+    (S (NP it)
+       (AUX will)
+       (NEG not)
+       (VP be
+	   (ADJP available))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX are)
+    (ADVP slowly)
+    (VP being
+	(VP regimented
+		    
+	    (PP to
+		(S (NP *)
+		   (VP having
+		       (NP everything)
+		       (VP packaged))))))
+    ,
+    (SBAR whether 
+	  (S (NP we)
+	     (VP want
+		 (NP it)))
+	  or
+	  (NEG not)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Most)
+	women)
+    ,
+    (PP in
+	(NP this age
+	    (PP of
+		(NP freezers))))
+    ,
+    (VP shop
+	(PP for
+	    (NP the entire week)))
+    (PP on
+	(NP (NP week-ends)
+	    ,
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP prices)
+		(VP are
+		    (ADJP lower)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S Also
+    ,
+    (S (NP many
+	   (VP working)
+	   wives)
+       (VP have
+	   (NP (NP children or husbands)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP take
+			    (PRT over)
+			    (NP the shopping chores)
+			    (PP for
+				(NP them)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Independent market owners)
+       (VP work
+	   (NP (NP six days)
+	       (NP a week))))
+    ;
+    ;
+    and
+    (S (NP my husband)
+       (AUX has)
+       (NEG n't)
+       (VP had
+	   (NP a vacation))
+       (PP in
+	   (NP 14 years))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (X No) 
+    ,
+    (S (NP we)
+       (VP are
+	   (NEG not)
+	   (ADJP greedy))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR if
+	  (S (NP we)
+	     (VP closed
+		 (NP the store)
+		 (PP for
+		     (NP a vacation)))))
+    ,
+    (S (NP we)
+       (AUX would)
+       (VP lose
+	   (NP our customers)
+	   (PP to
+	       (NP the chain stores
+		   (PP in
+		       (NP the next block)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (NP The meat cutters)
+	    ' union)
+	,
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP has
+		     (NP a history
+			 (PP of
+			     (S (NP *)
+				(VP being
+				    (NP one
+					(PP of
+					    (NP the
+						(ADJP fairest
+						      and
+						      (ADJP least corrupt))
+						(PP in
+						    (NP our area))))))))))))
+	,)
+    (VP represents
+	(NP (NP the little corner markets)
+	    (ADVP as
+		  well
+		  (PP as
+		      (NP the large supermarkets))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+((S (NP (SBAR (WHNP What)
+	      (S (NP it)
+		 (AUX is)
+		 (VP trying
+		     (S (NP *)
+			(AUX to)
+			(VP do
+			    (NP T)))))))
+    (VP is
+	(S (NP *)
+	   (AUX to)
+	   (VP protect
+	       (NP the little man))
+	   ,
+	   (ADVP too)
+	   ,))
+    (ADVP as
+	  well
+	  (PP as
+	      (S (NP *)
+		 (VP trying
+		     (S (NP *)
+			(AUX to)
+			(VP maintain
+			    (NP a flow
+				(PP of
+				    (NP fresh meat))
+				(PP to
+				    (NP all stores))))
+			,
+			(PP with
+			    (S (NP choice
+				   (PP of
+				       (NP cut)))
+			       (VP being
+				   (VP made
+				       (PP by
+					   (NP (NP the consumer)
+					       ,
+					       not
+					       (NP the store)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The Legion Convention)
+     and
+     (NP Sidney Holzman)) 
+ )
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 9)) 
+    --
+    (S (NP I)
+       ,
+       (ADVP too)
+       ,
+       (VP congratulate
+	   (NP (NP the American Legion)
+	       ,
+	       (SBAR (WHPP of
+			   (WHNP which))
+		     (S (NP I)
+			(VP am
+			    (ADJP proud
+				  (S (NP *)
+				     (AUX to)
+				     (VP have
+					 (VP been
+					     (NP a member)))
+				     (PP for
+					 (NP (ADJP more
+						   (PP than
+						       (NP 40)))
+					     years)))))))
+	       ,)
+	   (PP on
+	       (NP the recent state convention)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (VP regret
+	(SBAR that
+	      (S (NP Bertha Madeira)
+		 *LRB*
+		 (NP (NP Today)
+		     's
+		     ``
+		     (NP Voice)
+		     '')
+		 *RRB*
+		 (VP obtained
+		     (NP incorrect information))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR (SINV (AUX Had)
+		(NP I)
+		(VP been
+		    (VP granted
+		     
+			(NP the floor)))
+		(PP on
+		    (NP a point
+			(PP of
+			    (NP personal privilege))))))
+    ,
+    (S (NP (NP the matter)
+	   (SBAR 0
+		 (S (NP she)
+		    (VP raised
+			(NP T)))))
+       (AUX would)
+       (VP have
+	   (VP been
+	       (VP clarified
+		   )))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The resolution
+       (PP under
+	   (NP discussion))
+       (PP at
+	   (NP the convention)))
+   (VP was
+       (S (NP *)
+	  (AUX to)
+	  (VP require 
+	      (S (NP the boards
+		     (PP of
+			 (NP election)))
+		 (AUX to)
+		 (VP instruct
+		     (NP judges)
+		     (S (NP *)  
+			(AUX to)
+			(VP (ADVP properly)
+			    display
+			    (NP the American flag)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Judges
+       (PP under
+	   (NP the jurisdiction
+	       (PP of
+		   (NP the Chicago board
+		       (PP of
+			   (NP election commissioners)))))))
+   (AUX are)
+   (VP instructed
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP do
+	      (NP this)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The resolution)
+   (ADVP further)
+   (VP asked
+       (SBAR that
+	     (S (NP polling place proprietors)
+		(VP affix
+		    (NP an attachment)
+		    (PP to
+			(NP their premises)))
+		(PP for
+		    (NP the display
+			(PP of
+			    (NP the flag))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (S-2 *pseudo-attach*)) 
+     (VP was
+	 (NP my desire))
+     (S-2 (NP *)
+	  (AUX to)
+	  (VP advise
+	      (NP the membership
+		  (PP of
+		      (NP the Legion)))
+	      (SBAR that
+		    (S (S (NP the majority
+			      (PP of
+				  (NP polling places)))
+			  (VP are
+			      (PP on
+				  (NP private property))))
+		       and
+		       (S ,
+			  (PP without
+			      (NP an amendment
+				  (PP to
+				      (NP the law))))
+			  ,
+			  (S (NP we)
+			     (AUX could)
+			     (NEG not)
+			     (VP enforce
+				 (NP this)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP My discussion
+	 (PP with
+	     (NP reference
+		 (PP to
+		     (NP the resolution)))))
+     (VP was
+	 (SBAR that
+	       (S (NP we)
+		  (AUX should)
+		  (VP (VP commend
+			  (NP (NP (NP those citizens)
+				  (SBAR (SBAR (WHNP who)
+					      (S (NP T)
+						 (VP serve
+						     (PP as
+							 (NP judges
+							     (PP of
+								 (NP election)))))))
+					and
+					(SBAR (WHNP who)
+					      (S (NP T)  
+						 (VP (ADVP properly)
+						     discharge
+						     (NP their duty))))))
+			      and 
+			      (NP (NP polling place proprietors)
+				  (SBAR (WHNP who)
+					(S (NP T)
+					   (VP make
+					       (ADJP available)
+					       (NP their private premises)))))))
+		      ,
+		      and
+		      (NEG not)
+		      (VP (PP by
+			      (NP innuendo))
+			  criticize
+			  (NP them)))))))
+  .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP At
+	   (NP no time))
+       (AUX did)
+       (NP I)
+       (VP attempt
+	   (S (NP *)
+	      (AUX to)
+	      (VP seek
+		  (NP approval or commendation
+		      (PP for
+			  (NP the members
+			      (PP of
+				  (NP the Chicago board
+				      (PP of
+					  (NP election commissioners))))))
+		      (PP for
+			  (NP the discharge
+			      (PP of
+				  (NP their duties)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP *)  
+    (VP Teaching
+	(NP the
+	    (ADJP handicapped))))) 
+((S (X (NP Chicago)
+       ,
+       (NP Aug. 7)) 
+    --
+    (S (NP The Illinois Commission
+	   (PP for
+	       (NP Handicapped Children)))
+       (VP wishes
+	   (S (NP *)
+	      (AUX to)
+	      (VP commend
+		  (NP the recent announcement
+		      (PP by
+			  (NP (NP the Catholic charities
+				  (PP of
+				      (NP the archdiocese
+					  (PP of
+					      (NP Chicago)))))
+			      and
+			      (NP DePaul University)))
+		      (PP of
+			  (NP the establishment
+			      (PP of
+				  (NP the Institute
+				      (PP for
+					  (NP Special Education))))
+			      (PP at
+				  (NP the university))
+			      (PP for
+				  (NP the training
+				      (PP of
+					  (NP teachers
+					      (PP for
+						  (NP (ADJP (ADJP physically
+								  handicapped)
+							    and
+							    (ADJP mentally
+								  retarded))
+						      children))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP these days
+	    (PP of
+		(NP serious shortage
+		    (PP of
+			(NP (NP (VP (ADVP properly)
+				    trained)
+				teachers)
+			    (VP qualified
+				(S (NP *)
+				   (AUX to)
+				   (VP teach
+				       (NP (ADJP (ADJP physically
+						       handicapped)
+						 and
+						 (ADJP mentally
+						       handicapped))
+					   children))))))))))
+    ,
+    (S (NP the establishment
+	   (PP of
+	       (NP such
+		   an institute)))
+       (AUX will)
+       (VP be
+	   (NP a major contribution
+	       (PP to
+		   (NP the field))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The Illinois Commission
+	    (PP for
+		(NP Handicapped Children)))
+	,
+	(SBAR (WHNP which)
+	      (S (PP for
+		     (NP 20 years))
+		 (S (NP T)
+		    (AUX has)
+		    (VP had
+			(NP the responsibility
+			    (PP (PP of
+				    (S (NP *)
+				       (VP coordinating
+					   (NP the services
+					       (PP of
+						   (NP (NP (ADJP (ADJP tax
+								       supported)
+								 and
+								 voluntary)
+							   organizations)
+						       (VP serving
+							   (NP handicapped children))))))))
+				,
+				(PP of
+				    (S (NP *)
+				       (VP studying
+					   (NP the needs
+					       (PP of
+						   (NP handicapped children
+						       (PP in
+							   (NP Illinois))))))))
+				,
+				and
+				(PP of
+				    (S (NP *)
+				       (VP promoting
+					   (NP (ADJP more
+						     adequate)
+					       services
+					       (PP for
+						   (NP them))))))))))))
+	,)
+    (ADVP indeed)
+    (VP welcomes
+	(NP (NP this
+		new important
+		resource)
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (AUX will)
+		     (VP help
+			 (NP the people
+			     (PP of
+				 (NP Illinois)))
+			 (PP toward
+			     (NP the goal
+				 (PP of
+				     (S (NP *)
+					(VP providing
+					    (NP an education
+						(PP for
+						    (NP all
+							(PP of
+							    (NP its children))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((PP From
+     (NP Candlelight Club))) 
+((S (X (NP Minneapolis)
+       ,
+       (NP Aug. 7)) 
+    --
+    (S (NP I)
+       (ADVP just)
+       (VP want
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP let
+		     (NP you)
+		     (VP know
+			 (SBAR (WHADVP how
+				       much)
+			       (S (NP I)
+				  (VP enjoyed
+				      (NP your (NP June 25) article
+					  (PP on
+					      (NP Liberace)))))))))
+	      ,
+	      and
+	      (S (NP *)
+		 (AUX to)
+		 (VP thank
+		     (NP you)
+		     (PP for
+			 (NP it))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (INTJ Please)
+    (S (NP *)  
+       (AUX do)
+       (VP put
+	   (NP (ADJP more)
+	       pictures and articles
+	       (PP-1 *pseudo-attach*))
+	   (PRT in)
+	   (PP-1 about
+		 (NP Liberace)))
+       ,
+       (PP as
+	   (S (NP he)
+	      (VP is
+		  (ADVP truly)
+		  (NP (NP one
+			  (PP of
+			      (NP our
+				  (ADJP greatest)
+				  entertainers)))
+		      and
+		      (NP a
+			  (ADJP really
+				wonderful)
+			  person)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (ADJP More)
+	 school)
+     ,
+     (NP (ADJP less)
+	 pay)) 
+ )
+((SQ (X (NP Chicago)
+	,
+	(NP Aug. 7)) 
+     --
+     (SQ (VP Is)
+	 (NP this)
+	 ,
+	 (ADVP perhaps)
+	 ,
+	 (NP (NP one
+		 (PP of
+		     (NP the things)))
+	     (SBAR (WHNP that)
+		   (S (NP T)
+		      (VP is
+			  (ADJP wrong
+				(PP with
+				    (NP our country)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Engineering graduates
+	(PP of
+	    (NP Illinois Institute
+		(PP of
+		    (NP Technology)))))
+    (AUX are)
+    (VP reported
+	(S (NP *)  
+	   (VP receiving
+	       (NP (NP the
+		       (ADJP highest)
+		       average starting salaries
+		       (PP in
+			   (NP (NP the school)
+			       's history)))
+		   --
+		   (NP (NP $ 550)
+		       (NP a month)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP My son)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX has)
+		 (VP completed
+		     (NP two years)
+		     (PP in
+			 (NP engineering school)))))
+	,)
+    (VP has
+	(NP a summer job
+	    (PP on
+		(NP a construction project))
+	    (PP as
+		(NP an unskilled laborer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP a rate
+	     (PP of
+		 (NP (NP $ 3.22)
+		     (NP an hour)))))
+     (S (NP he)
+	(AUX is)
+	(ADVP now)
+	(VP earning
+	    (NP (NP (ADVP approximately)
+		    $ 580)
+		(NP a month)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (ADJP Ironic)
+     ,
+     (SQ (VP is)
+	 (NP it
+	     (SBAR-3 *pseudo-attach*)) 
+	 (NEG not)
+	 ,
+	 (SBAR-3 that
+		 (S (PP after
+			(S (NP *)
+			   (VP completing
+			       (NP years
+				   (PP of
+				       (NP costly scientific
+					   training))))))
+		    (S (NP he)
+		       (AUX will)
+		       (VP receive
+			   (NP a cut
+			       (PP in
+				   (NP pay))
+			       (PP from
+				   (SBAR (WHNP what)
+					 (S (NP he)
+					    (AUX is)
+					    (VP receiving
+						(PP as
+						    (NP an
+							ordinary unskilled
+							laborer)))))))))))))
+ ?
+ ?)
+ 
+(  END_OF_TEXT_UNIT)
+((NP The Dupont case)) 
+(  
+ *LRB*
+ (S (NP Editorial comment
+	(PP on
+	    (NP this letter)))
+    (VP appears
+	(ADVP elsewhere
+	      (PP on
+		  (NP this page)))))
+ *RRB*
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (X (NP (NP Washington)
+	   ,
+	   (NP Aug. 4))) 
+    --
+    (S (NP (NP Your July 26 editorial)
+	   (VP regarding
+	       (NP the position
+		   (PP of
+		       (NP Attorney General (NP Robert F. Kennedy)))
+		   (PP on
+		       (NP prospective tax relief
+			   (PP for
+			       (NP DuPont stockholders)))))))
+       (AUX is)
+       (VP based
+	    
+	   (PP on
+	       (NP an erroneous statement
+		   (PP of
+		       (NP fact)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a result))
+    ,
+    (S (NP your criticism
+	   (PP of
+	       (NP (NP Attorney General (NP Robert F. Kennedy))
+		   and
+		   (NP the Department
+		       (PP of
+			   (NP Justice))))))
+       (VP was
+	   (ADJP inaccurate
+		 ,
+		 unwarranted and unfair))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The editorial)
+   (VP concerned
+       (NP legislative proposals
+	   (S (NP *)
+	      (AUX to)
+	      (VP ease
+		  (NP the tax burden
+		      (PP on
+			  (NP DuPont stockholders))))
+	      ,
+	      (PP in
+		  (NP connection
+		      (PP with
+			  (NP the (NP United States Supreme Court)
+			      ruling
+			      (SBAR that
+				    (S (NP DuPont)
+				       (AUX must)
+				       (VP divest
+					   (NP itself
+					       (PP of
+						   (NP its
+						       (ADJP extensive)
+						       (NP General Motors)
+						       stock holdings))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These proposals)
+   (AUX would)
+   (VP reduce
+       (NP the amount
+	   (PP of
+	       (NP (NP tax)
+		   (SBAR (WHNP that)
+			 (S (NP DuPont stockholders)
+			    (AUX might)
+			    (VP have
+				(S (NP *)
+				   (AUX to)
+				   (VP pay
+				       (NP T)))))))))
+       --
+       (PP from
+	   (NP an
+	       (ADJP estimated)
+	       1.1 billion dollars
+	       (PP under
+		   (NP present law))))
+       (PP to
+	   (NP (ADJP as
+		     little
+		     (PP as
+			 (NP 192 million)))
+	       dollars))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Congressman (NP Wilbur D. Mills))
+	,
+	(NP chairman
+	    (PP of
+		(NP the (NP House) Ways
+		    and
+		    Means Committee)))
+	,)
+    (VP asked
+	(NP the Department
+	    (PP of
+		(NP Justice)))
+	(PP for
+	    (NP its views
+		(PP on
+		    (NP these legislative proposals))
+		(PP as
+		    (S (NP they)
+		       (VP related
+			   (PP to
+			       (NP anti-trust law enforcement)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Attorney General)
+    (VP responded
+	(PP by
+	    (NP (NP letter)
+		(VP dated
+		    (NP July 19))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Copies
+       (PP of
+	   (NP this letter)))
+   (AUX were)
+   (VP made
+       (ADJP avaliable
+	     (PP to
+		 (NP the press and public)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this letter))
+    ,
+    (S (NP Mr. Kennedy)
+       (VP made
+	   (NP it
+	       (SBAR-4 *pseudo-attach*)) 
+	   (ADJP clear)
+	   (SBAR-4 that
+		   (S (NP he)
+		      (VP limited
+			  (NP his comment)
+			  (ADVP only)
+			  (PP to
+			      (NP (NP one consideration)
+				  --
+				  (SBAR 
+				   (WHNP what effect)
+				   (S (NP the legislative proposals)
+				      (AUX might)
+				      (VP have
+					  (NP T)
+					  (PP on
+					      (NP future anti-trust
+						  judgments)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP There)
+      (VP are
+	  (NP a number
+	      (PP of
+		  (NP other considerations
+		      (PP besides
+			  (NP this one)))))))
+   but
+   (S (NP it
+	  (S-5 *pseudo-attach*)) 
+      (VP is
+	  (PP for
+	      (NP (NP the Congress)
+		  ,
+		  (NEG not)
+		  (NP the Department
+		      (PP of
+			  (NP Justice)))
+		  ,)))
+      (S-5 (NP *)
+	   (AUX to)
+	   (VP (VP balance
+		   (NP these various considerations))
+	       and
+	       (VP make
+		   (NP a judgment
+		       (PP about
+			   (NP legislation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Yet)
+    (S (NP your editorial)
+       (VP said
+	   :
+	   ``
+	   (S (ADVP Now)
+	      (S (NP the Attorney General)
+		 (VP writes
+		     (SBAR that
+			   (S (NP no considerations)
+			      '
+			      (VP justify
+				  (NP any loss
+				      (PP of
+					  (NP revenue))
+				      (PP of
+					  (NP this proportion))))
+			      ')))))
+	   '')))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  
+ (S (NP (SBAR (WHNP What)
+	      (S (NP Mr. Kennedy)
+		 ,
+		 (PP in
+		     (NP fact))
+		 ,
+		 (VP wrote
+		     (NP T)))))
+    (VP was
+	:
+	``
+	(S (NP It
+	       (SBAR-6 *pseudo-attach*)) 
+	   (VP is
+	       (NP (NP the Department)
+		   's view))
+	   (SBAR-6 that
+		   (S (NP no anti-trust enforcement considerations)
+		      (VP justify
+			  (NP any loss
+			      (PP of
+				  (NP revenue))
+			      (PP of
+				  (NP this proportion)))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The editorial)
+    ,
+    (PP by
+	(S (NP *)
+	   (VP omitting
+	       (NP the words
+		   (NP anti-trust enforcement)))))
+    ,
+    (VP (ADVP totally)
+	distorted
+	(NP (NP Mr. Kennedy)
+	    's views)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The headline)
+   (VP is
+       (ADJP offensive))
+   ,
+   (ADVP particularly)
+   (PP in
+       (NP view
+	   (PP of
+	       (NP the total inaccuracy
+		   (PP of
+		       (NP the editorial)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Congresswoman Church)) 
+((S (X (NP Wilmette)
+       ,
+       (NP Aug. 7)) 
+    --
+    (S (NP I)
+       (VP concur
+	   (ADVP most heartily)
+	   (PP with
+	       (NP (NP today)
+		   's
+		   letter
+		   (PP on
+		       (NP the futility
+			   (PP of
+			       (S (NP *)
+				  (VP writing
+				      (PP to
+					  (NP (NP Sen. Dirksen)
+					      and
+					      (NP Sen. Douglas)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR 
+     (WHADVP when)
+     (S (NP you)
+	(VP write
+	    (PP to
+		(NP Congresswoman Church)))))
+    ,
+    (S (NP *)  
+       (VP bless
+	   (NP her
+	       heart)))
+    ,
+    (S (NP your letter)
+       (AUX is)
+       (VP answered
+	   (ADVP fully and completely))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (SINV (AUX Should)
+		(NP she)
+		(VP disagree)))
+    ,
+    (S (NP she)
+       (VP explains
+	   (WHADVP why) 
+	   (PP in
+	       (NP detail)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP she)
+	(VP agrees)))
+    ,
+    (S (NP you)
+       (AUX can)
+       (VP rest) 
+       (S (NP *)
+	  (VP assured
+	      (SBAR 0
+		    (S (NP her position)
+		       (AUX will)
+		       (VP remain
+			   (ADJP unchanged))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP think
+       (SBAR 0
+	     (S (NP we)
+		(VP have
+		    (NP the
+			(ADJP hardest
+			      working)
+			,
+			(ADJP best)
+			representative
+			(PP in
+			    (NP Congress))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Harmful drinks)) 
+((S (X (NP Downers Grove)
+       ,
+       (NP Aug. 8)) 
+    --
+    (S (NP A recent news story)
+       (VP reported
+	   (SBAR that
+		 (S (NP (NP Frank Sinatra)
+			and
+			(NP Dean Martin))
+		    (VP delayed
+			(NP 103 airplane passengers)
+			(NP 10 minutes)
+			(PP in
+			    (NP London)))
+		    (SBAR while
+			  (S (NP they)
+			     (VP finished
+				 (NP their drinks)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP do
+       (NP our country)
+       (NP great harm))
+   (PP by
+       (NP such actions)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Those
+       (PP in
+	   (NP the public eye)))
+   (AUX should)
+   (VP be
+       (NP good examples
+	   (PP of
+	       (NP American citizens))))
+   (X while
+      (ADVP abroad)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The plane)
+   (AUX should)
+   (VP have
+       (VP (VP started
+	       (PP at
+		   (NP the scheduled time)))
+	   and
+	   (VP left
+	       (NP (NP Sinatra)
+		   and
+		   (NP Martin))
+	       (S (NP *)
+		  (AUX to)
+		  (VP guzzle))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((PP Toward
+     (NP socialism))) 
+((S (X (NP Providence)
+       ,
+       (NP Aug. 5)) 
+    --
+    (S (NP Overt socialism)
+       (VP means
+	   (NP government ownership and management
+	       (PP of
+		   (NP (NP a nation)
+		       's main industries))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP covert socialism)
+	    --
+	    (SBAR (WHPP toward
+			(WHNP which))
+		  (S (NP America)
+		     (AUX is)
+		     (VP moving)))
+	    --))
+    (S (S (NP private enterprise)
+	  (VP retains
+	      (NP the ownership title
+		  (PP to
+		      (NP industries)))))
+       but
+       (S (NP government)
+	  (PP thru
+	      (NP (NP direct intervention)
+		  and
+		  (NP excessive regulations)))
+	  (ADVP actually)
+	  (VP controls
+	      (NP them)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (PP In
+	      (NP order))
+	  (S (NP *)
+	     (AUX to)
+	     (VP attract
+		 (NP new industries))))
+    ,
+    (S (NP 15 states
+	   or
+	   more)
+       (AUX are)
+       (VP issuing
+	   (NP tax free bonds))
+       (S (NP *)
+	  (AUX to)
+	  (VP build
+	      (NP (NP (ADJP government
+			    owned)
+		      plants)
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (AUX are)
+			   (VP leased
+		 
+			       (PP to
+				   (NP private enterprise))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP a step
+	   (PP toward
+	       (NP overt socialism)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (S (NP *)  
+	   (VP Issuing
+	       (NP bonds
+		   (PP for
+		       (NP plant construction))))))
+    (AUX has)
+    (VP brought
+	(NP new industries)
+	(PP to
+	    (NP certain regions))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

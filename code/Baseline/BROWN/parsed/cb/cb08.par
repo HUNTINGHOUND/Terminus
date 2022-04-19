@@ -1,0 +1,2590 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Old
+	  ,
+	  tired
+	  ,
+	  trembling)
+    (S (NP the woman)
+       (VP came
+	   (PP to
+	       (NP the cannery)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (AUX had)
+    ,
+    (S (NP she)
+       (VP said))
+    ,
+    (VP heard
+	(SBAR that
+	      (S (NP the plant)
+		 (AUX was)
+		 (VP closing)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP It)
+       (AUX could)
+       (NEG n't)
+       (VP close))
+    ,
+    (S (NP she)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (AUX had)
+    (VP (VP raised
+	    (NP a calf))
+	,
+	(VP grown
+	    (NP it)
+	    (ADJP beef-fat))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (AUX had)
+    ,
+    (PP with
+	(NP her
+	    own work-weary
+	    hands))
+    ,
+    (VP (VP put
+	    (NP seeds)
+	    (PP in
+		(NP the ground)))
+	,
+	(VP watched
+	    (NP them)
+	    (VP (VP sprout)
+		,
+		(VP bud)
+		,
+		(VP blossom)
+		,
+		and
+		(VP get
+		    (ADJP ready
+			  (S (NP *)
+			     (AUX to)
+			     (VP bear))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (X (VP was
+	   (ADJP ready
+		 (S (NP *)
+		    (AUX to)
+		    (VP (VP kill
+			    (NP the beef))
+			,
+			(VP dress
+			    (NP it)
+			    (PRT out))))))
+       ,
+       and
+       (X (PP with
+	      (NP vegetables
+		  (PP from
+		      (NP her garden))))
+	  (X (AUX was)
+	     (VP going
+		 (S (NP *)
+		    (AUX to)
+		    (VP can
+			(NP (NP soup)
+			    ,
+			    (NP broth)
+			    ,
+			    (NP hash)
+			    ,
+			    and
+			    (NP stew)))
+		    (PP against
+			(NP the winter))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP She)
+       (AUX had)
+       (VP done
+	   (NP it))
+       (NP (NP last year)
+	   ,
+	   and
+	   (NP (NP the year)
+	       (ADVP before))
+	   ,
+	   and
+	   (NP the year
+	       (PP before
+		   (NP that)))))
+    ,
+    and
+    (S (NP (NP she)
+	   ,
+	   and
+	   (NP her people))
+       (VP were
+	   (ADJP dependent
+		 (PP upon
+		     (NP these cans))
+		 (PP for
+		     (NP food))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX did)
+   (NEG not)
+   (VP happen
+       (PP in
+	   (NP (NP counties
+		   (PP of
+		       (NP North Georgia)))
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (NP the rivers)
+		   (VP (VP run)
+		       and
+		       (VP make
+			   (ADJP rich)
+			   (NP the bottom land)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((X Nor
+    (PP in
+	(NP (NP South Georgia)
+	    ,
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP the summer sun)
+		(VP (VP shines
+			(ADVP warmly))
+		    and
+		    (VP gives
+			(NP early life)
+			(PP to
+			    (NP (NP the things)
+				(VP growing
+				    (PP in
+					(NP the flat fields))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP happened
+       (PP in
+	   (NP (NP Decatur)
+	       ,
+	       (NP DeKalb County)
+	       ,))
+       (PP (NP not
+	       10 miles)
+	   from
+	   (NP the heart
+	       (PP of
+		   (NP (ADJP metropolitian)
+		       Atlanta))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S And
+    (ADVP now)
+    ,
+    (S (NP the woman)
+       ,
+       (X (ADJP tired)
+	  and
+	  (S (NP *)
+	     (VP trembling)))
+       ,
+       (VP came
+	   (ADVP here)
+	   (PP to
+	       (NP the DeKalb County cannery)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SQ ``
+     (VP Is)
+     (NP it
+	 (SBAR-1 *pseudo-attach*)) 
+     (ADVP so)
+     (SBAR-1 0
+	     (S (NP the cannery)
+		(AUX is)
+		(VP going
+		    (S (NP *)
+		       (AUX to)
+		       (VP close)))))
+     '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP O.N. Moss)
+	,
+	(NP 61)
+	,
+	(ADJP tall)
+	, 
+	(ADJP grey
+	      (PP as
+		  (NP a possum)))
+	,
+	(NP canning plant chief
+	    (PP since
+		(NP 1946)))
+	,)
+    (AUX did)
+    (NEG n't)
+    (VP know
+	(SBAR (WHNP what)
+	      (S (NP *)
+		 (AUX to)
+		 (VP say
+		     (NP T))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX did)
+   (VP say
+       (SBAR 0
+	     (S (NP she)
+		(AUX could)
+		(VP get
+		    (NP her beef and vegetables)
+		    (PP in
+			(NP cans)))
+		(NP this summer)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX did)
+   (VP say
+       (SBAR 0
+	     (S (S (NP he)
+		   (VP was
+		       (PP out
+			   (PP of
+			       (NP (NP cans)
+				   ,
+				   (NP the
+				       No. 3
+				       's)
+				   ,)))))
+		but
+		``
+		(S (NP I)
+		   (VP requisitioned
+		       (NP 22,000)))
+		''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP said
+	(SBAR 0
+	      (S (NP he)
+		 (VP had
+		     (NP No. 2
+			 's)
+		     (ADVP enough
+			   (S (NP *)
+			      (AUX to)
+			      (VP last
+				  (ADVP (NP two weeks)
+					more)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Threat
+        (PP of
+	    (S (NP *)
+	       (VP closing
+		   (NP the cannery)))))
+    (VP is
+	(NP a
+	    (ADJP recent)
+	    one)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP A (ADJP three-man) committee)
+     (AUX has)
+     (VP recommended
+	 (PP to
+	     (NP Commission Chairman Charles O. Emmerich))
+	 (SBAR that
+	       (S (NP the DeKalb County cannery)
+		  (AUX be)
+		  (VP closed
+		      )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP Reason)
+    :
+    (S (NP the cannery)
+       (VP loses
+	   (NP $ 3,000))
+       (ADVP yearly)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP (NP DeKalb citizens)
+	   ,
+	   (NP (NP those)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP use
+			    (NP the facilities
+				(PP of
+				    (NP the cannery)))))))
+	   ,)
+       (VP say
+	   (SBAR 0
+		 (S (NP the cannery)
+		    (VP is
+			(NEG not)
+			(ADJP supposed
+			      (S (NP *)
+				 (AUX to)
+				 (VP make
+				     (NP any money))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+     (NP The cannery)
+     ''
+     ,
+     (SINV (VP said)
+	   (NP (NP Mrs. Lewellyn Lundeen)
+	       ,
+	       (NP (NP an active booster
+		       (PP of
+			   (NP the cannery)))
+		   (PP since
+		       (NP (NP its opening
+			       (PP during
+				   (NP the war and rationing years
+				       (PP of
+					   (NP 1941)))))
+			   ,
+			   (S (NP *)
+			      (AUX to)
+			      (VP handle
+				  (NP the
+				      ``
+				      victory garden
+				      ''
+				      produce))))))))
+     ,
+     ``
+     (VP is
+	 (NP a service
+	     (PP to
+		 (NP the taxpayer)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((X And
+    (NP one
+	(PP of
+	    (NP (NP the
+		    (ADJP best)
+		    services)
+		(ADJP available
+		      (PP to
+			  (NP (NP the people)
+			      (SBAR (WHNP who)
+				    (S (NP T)
+				       (VP try
+					   (S (S (NP *)
+						 (AUX to)
+						 (VP raise
+						     and
+						     can
+						     (NP meat)))
+					      ,
+					      (S (NP *)
+						 (AUX to)
+						 (VP (VP plant)
+						     ,
+						     (VP grow
+							 (NP vegetables))
+						     and
+						     (VP put
+							 (NP them)
+							 (PRT up)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP helps
+	 (NP (NP those people)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP help
+			  (NP themselves)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP The county)
+      ,
+      (ADVP though)
+      ,
+      (VP seems
+	  (ADJP more
+		interested
+		(PP in
+		    (NP (NP (NP those people)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (AUX do)
+				     (NEG n't)
+				     (ADVP even)
+				     (VP try))))
+			,
+			(NP (NP those)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP (VP sit)
+					 and
+					 (VP draw
+					     (NP welfare checks))
+					 and
+					 (VP line
+					     (PRT up)
+					     (PP for
+						 (NP surplus food))))))))))))
+   ''
+   .)
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A driver
+	    (PP of
+		(NP a dairy truck)))
+	,
+	(SBAR (SBAR (WHNP who)
+		    (S (NP T)
+		       (VP (VP begins
+			       (NP work)
+			       (PP at
+				   (NP 1
+				       a.m.)))
+			   (VP finishes
+			       (PP before
+				   (NP breakfast)))
+			   ,
+			   (ADVP then)
+			   (VP (VP goes
+				   (ADVP out))
+			       and
+			       (VP grows
+				   (NP a garden))))))
+	      ,
+	      and
+	      (SBAR 
+	       (WHNP who)
+	       (S (NP T)
+		  (AUX has)
+		  (VP used
+		      (NP the cannery)
+		      (S (NP *)
+			 (AUX to)
+			 (VP (VP save)  
+			     and
+			     (VP feed
+				 (NP a family
+				     (PP of
+					 (NP five))))))))))
+	,)
+    (VP asked
+	,
+	``
+	(SBARQ (WHNP What
+		     (PP in
+			 (NP the world)))
+	       (SQ (AUX will)
+		   (NP we)
+		   (VP do
+		       (NP T))))
+	''
+	?
+	?)))
+(  END_OF_TEXT_UNIT)
+((SBARQ ``
+	(WHNP What
+	      (PP in
+		  (NP the world)))
+	''
+	,
+	(SINV (VP echoed)
+	      (NP (NP others)
+		  ,
+		  (NP (NP those)
+		      (VP come
+			  (PP with
+			      (NP (NP the beans)
+				  ,
+				  (NP potatoes)
+				  ,
+				  (NP the tomatoes)))))))
+	,
+	``
+	(SQ (AUX will)
+	    (NP any
+		(PP of
+		    (NP us)))
+	    (VP do
+		(NP T)))
+	''
+	?)
+ ?)
+(  END_OF_TEXT_UNIT)
+
+((S (NP (NP Moss)
+	,
+	(NP (NP a man)
+	    (SBAR (WHNP who)
+		  (S (NP T)
+		     (VP knows
+			 (SBAR (WHADVP how
+				       much)
+			       (S (NP the cannery)
+				  (VP helps
+				      (NP the county))))))))
+	,)
+    (AUX does)
+    (NEG n't)
+    (VP believe
+	(SBAR 0
+	      (S (NP it)
+		 (AUX will)
+		 (VP close)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP he)
+       (VP is
+	   (X (PP in
+		  (NP the middle))
+	      ,
+	      (NP an employe
+		  (PP of
+		      (NP DeKalb)))
+	      ,
+	      but
+	      (PP on
+		  (NP the side
+		      (PP of
+			  (NP the people))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The
+	 young married
+	 people)
+     ;
+     ;
+     (NP the old couples))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The dairy truck driver)
+     ;
+     ;
+     (NP the old woman
+	 (PP with
+	     (NP the stew))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SQ (AUX Do)
+	(NEG n't)
+	(VP ask
+	    (NP me)
+	    (SBAR if
+		  (S (NP I)
+		     (VP think
+			 (SBAR 0
+			       (S (NP the cannery)
+				  (VP helps))))))))
+    ''
+    ,
+    (S (NP he)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Sir)
+      ,
+      (S (NP I)
+	 (VP know
+	     (SBAR 0
+		   (S (NP the cannery)
+		      (VP helps))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Most
+	(PP of
+	    (NP us)))
+    (AUX would)
+    (VP be
+	(ADJP willing
+	      (S (NP *)
+		 (AUX to)
+		 (VP admit
+		     (SBAR that
+			   (S (NP forgiveness)
+			      (VP comes
+				  (ADVP hard)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP a person)
+	(VP has
+	    (VP (ADVP thoughtlessly
+		      or
+		      deliberately)
+		caused
+		(NP us)
+		(NP (NP pain) or (NP hardship))))))
+    (S (NP it
+	   (S-2 *pseudo-attach*))
+       (VP is
+	   (NEG not)
+	   (ADVP always)
+	   (ADJP easy))
+       (S-2 (NP *)
+	    (AUX to)
+	    (VP say
+		,
+		``
+		(S (NP *)
+		   (ADVP Just)
+		   (VP forget
+		       (NP it)))
+		''))))
+ .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP There)
+       (VP is
+	   (NP (NP one
+		   thing)
+	       (SBAR 0
+		     (S
+		      (NP I)
+		      (VP know
+			  (NP T)))))))
+    ;
+    ;
+    (S (NP a person)
+       (AUX will)
+       (ADVP never)
+       (VP have
+	   (NP (NP spiritual poise)
+	       and
+	       (NP inner peace)))
+       (ADVP as
+	     long
+	     (PP as
+		 (S (NP the heart)
+		    (VP holds
+			(NP a grudge)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP know
+       (NP (NP a man)
+	   (SBAR (WHNP who)
+		 (S (NP T)
+		    (VP held
+			(NP resentment
+			    (PP against
+				(NP a neighbor))))
+		    (PP for
+			(NP (ADJP more
+				  (PP than
+				      (NP three)))
+			    decades)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP Several years)
+	  ago)
+    (S (NP I)
+       (VP was
+	   (NP his pastor))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One night)
+    ,
+    (PP at
+	(NP the close
+	    (PP of
+		(NP the evening service))))
+    ,
+    (S (NP he)
+       (VP (VP came
+	       (ADVP forward))
+	   ,
+	   (VP left
+	       (NP his resentment)
+	       (PP at
+		   (NP the altar)))
+	   and
+	   (VP gave
+	       (NP his heart)
+	       (PP to
+		   (NP God))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP almost
+	       everyone)
+	   (AUX had)
+	   (VP gone)))
+    (S (NP he)
+       (VP told
+	   (NP me)
+	   (NP the simple story
+	       (PP of
+		   (SBAR 
+		    (WHADVP how)
+		    (S (NP one
+			   (PP of
+			       (NP his neighbors)))
+		       (AUX had)
+		       (VP moved
+			   (NP a fence)
+			   (ADVP (NP a few feet)
+				 over)
+			   (PP on
+			       (NP his land))))))))))
+ 
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (NP We)
+     (X (VP tried
+	    (S (NP *)
+	       (AUX to)
+	       (VP settle
+		   (NP this dispute))))
+	''
+	,
+	(S (NP he)
+	   (VP said))
+	,
+	``
+	but
+	(X (AUX could)
+	   (ADVP never)
+	   (VP come
+	       (PP to
+		   (NP an agreement))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP I)
+       (VP settled
+	   (NP it))
+       (NP tonight))
+    ''
+    ,
+    (S (NP he)
+       (VP continued)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+	 (VP leave
+	     (NP this church)
+	     (PP with
+		 (NP a feeling
+		     (SBAR that
+			   (S (NP a great weight)
+			      (AUX has)
+			      (VP been
+				  (VP lifted
+			 
+				      (PP off
+					  (NP my heart))))))))))
+      ,
+      (S (NP I)
+	 (AUX have)
+	 (VP (VP left
+		 (NP my grudge)
+		 (PP at
+		     (NP the altar)))
+	     and
+	     (VP forgiven
+		 (NP my neighbor)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Forgiveness)
+   (VP is
+       (NP (NP the door)
+	   (SBAR (WHPP through
+		       (WHNP which))
+		 (S (NP a person)
+		    (AUX must)
+		    (VP pass)
+		    (S (NP *) 
+		       (AUX to)
+		       (VP enter
+			   (NP the Kingdom
+			       (PP of
+				   (NP God))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX can)
+   (NEG not)
+   (VP (VP wear
+	   (NP the banner
+	       (PP of
+		   (NP God))))
+       and
+       (PP at
+	   (NP the same time))
+       (VP harbor
+	   (NP (NP envy)
+	       ,
+	       (NP jealousy) and (NP grudges))
+	   (PP in
+	       (NP your heart)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Henry Van Dyke)
+    (VP said
+	,
+	``
+	(S (S (NP *)  
+	      (VP (VP (VP Forgive) and (VP forget)
+		      (SBAR if
+			    (S (NP you)
+			       (AUX can))))))
+	     ;
+	     ;
+	     but
+	     (S (NP *)  
+		(VP forgive)
+		(ADVP anyway)))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jesus)
+   (VP made
+       (NP three things
+	   (PP-1 *pseudo-attach*))
+       (ADJP clear)
+       (PP-1 about
+	     (NP forgiveness))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX must)
+    ,
+    (ADVP first
+	  (PP of
+	      (NP all)))
+    ,
+    (VP be
+	(ADJP willing
+	      (S (NP *)
+		 (AUX to)
+		 (VP forgive
+		     (NP others)))))
+    (PP before
+	(S (NP we)
+	   (AUX can)
+	   (VP secure
+	       (NP (NP God)
+		   's forgiveness)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S For
+      (S (S (SBAR if
+		  (S (NP ye)
+		     (VP forgive
+			 (NP men)
+			 (NP their trespasses))))
+	    ,
+	    (S (NP your
+		   heavenly
+		   Father)
+	       (AUX will)
+	       (ADVP also)
+	       (VP forgive
+		   (NP you))))
+	 :
+	 but
+	 (SINV (SBAR if
+		     (S (NP ye)
+			(VP forgive
+			    (NEG not)
+			    (NP men)
+			    (NP their trespasses))))
+	       ,
+	       (SINV (ADVP neither)
+		     (AUX will)
+		     (NP your Father)
+		     (VP forgive
+			 --
+			 (NP your trespasses))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (NP Matthew 6 : 14-15)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(S-3 *pseudo-attach*)) 
+    (AUX will)
+    (VP do
+	(NP no
+	    good))
+    (S-3 (NP *)
+	 (AUX to)
+	 (VP seek
+	     (NP (NP God)
+		 's forgiveness)))
+    (PP until
+	(S (NP we)
+	   (AUX have)
+	   (VP forgiven
+	       (NP (NP those)
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (AUX have)
+			    (VP done
+				(NP us)
+				(ADVP wrong)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Then)
+    ,
+    (S (NP Jesus)
+       (VP indicated
+	   (SBAR that
+		 (S (NP (NP God)
+			's forgiveness)
+		    (VP is
+			(ADJP unlimited)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the prayer)
+	    (SBAR 0
+		  (S (NP Jesus)
+		     (VP taught
+			 (S (NP his disciples)
+			    (AUX to)
+			    (VP pray
+				(NP T))))))))
+    (S (NP we)
+       (VP find
+	   (NP (NP these words)
+	       ,
+	       ``
+	       (S (NP *)  
+		  (VP Forgive
+		      (NP us)
+		      (NP our debts)))
+	       ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP a person)
+	(VP meets
+	    (NP (NP God)
+		's requirements
+		(PP for
+		    (NP the experience
+			(PP of
+			    (NP forgiveness))))))))
+    (S (NP he)
+       (AUX is)
+       (VP forgiven
+	   )))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP God)
+       's mercy and patience)
+   (AUX will)
+   (VP last)
+   (ADVP forever))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Forgiveness)
+   (VP implies
+       (NP more
+	   (PP than
+	       (S (NP a person)
+		  (VP wanting
+		      (S (NP his past sins)
+			 (VP covered
+			     (PP by
+				 (NP (NP God)
+				     's love))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP also)
+   (VP implies
+       (SBAR that
+	     (S (NP a man)
+		(VP wants
+		    (S (NP his future)
+		       (AUX to)
+		       (VP be
+			   (ADJP free
+				 (PP from
+				     (NP the mistakes
+					 (PP of
+					     (NP the past))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP We)
+       (VP want
+	   (S (NP the past)
+	      (VP forgiven))))
+    ,
+    but
+    (S (PP at
+	   (NP the same time))
+       (S (NP we)
+	  (AUX must)
+	  (VP be
+	      (ADJP willing
+		    (PP for
+			(S (NP God)
+			   (AUX to)
+			   (VP direct
+			       (NP the future)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (ADVP Finally)
+    ,
+    (S (NP we)
+       (AUX must)
+       (VP be
+	   (ADJP willing
+		 (S (NP *)
+		    (AUX to)
+		    (VP forgive
+			(NP others)
+			(NP (ADJP as
+				  many)
+			    times
+			    (PP as
+				(S (NP they)
+				   (VP sin
+				       (PP against
+					   (NP us))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Once)
+    (S (NP Peter)
+       (VP asked
+	   ,
+	   ``
+	   (SBARQ (WHADVP How
+			  oft)
+		  (SQ (AUX shall)
+		      (X (X (NP my brother)
+			    (VP sin
+				(PP against
+				    (NP me))))
+			 ,
+			 and
+			 (X (NP I)
+			    (VP forgive
+				(NP him))))))
+	   ?
+	   ?))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (PP Till
+     (NP seven times))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP Jesus)
+     (VP saith
+	 (PP unto
+	     (NP him))
+	 ,
+	 (PP until
+	     (S (NP seventy)
+		(VP times
+		    (NP seven))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Matthew 18 :
+      21-22)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Jesus)
+       (CONJP not
+	      only)
+       (VP taught
+	   (NP forgiveness)))
+    ,
+    (S (NP He)
+       (VP gave
+	   (NP us)
+	   (NP an example
+	       (PP of
+		   (NP it))))
+       (PP on
+	   (NP the cross))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP With
+        (NP all
+	    the energy
+	    (PP of
+		(NP his broken body))))
+    (S (NP he)
+       (VP prayed
+	   ,
+	   ``
+	   (S (S (NP Father)
+		 ,
+		 (VP forgive
+		     (NP them)))
+	      ,
+	      for
+	      (S (NP they)
+		 (VP know
+		     (NEG not)
+		     (SBAR (WHNP what)
+			   (S (NP they)
+			      (VP do
+				  (NP T)))))))
+	   '')))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Luke 23:34)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP She)
+	(AUX 's)
+	(VP been
+	    (PP in and out
+		(PP of
+		    (NP my house))))
+	(PP for
+	    (NP a dozen years))
+	(ADVP now))
+     ,
+     (S (SBAR although
+	      (S (NP she)
+		 (VP 's
+		     (ADVP still)
+		     (NP (NP a teen-ager)
+			 (SBAR (WHNP who)
+			       (S (NP T)
+				  (VP looks
+				      (PP like
+					  (NP a baby)))))))))
+	,
+	(S (NP she)
+	   (AUX is)
+	   (VP getting
+	       (VP married
+		   )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Her mother)
+	   ,
+	   (ADJP (ADVP now)
+		 dead)
+	   ,)
+       (VP was
+	   (NP my good friend)))
+    and
+    (S (SBAR 
+	(WHADVP when)
+	(S (NP she)
+	   (VP came
+	       (S (S (NP *)
+		     (AUX to)
+		     (VP tell
+			 (NP us)
+			 (PP about
+			     (NP her plans))))
+		  and
+		  (S (NP *)
+		     (AUX to)
+		     (VP show
+			 (PRT off)
+			 (NP her ring)))))))
+       (S (NP I)
+	  (VP had
+	      (NP a (ADJP sobering) wish
+		  (S (NP *)
+		     (AUX to)
+		     (VP say
+			 (NP (NP something
+				 (ADJP meaningful))
+			     (NP-1 *pseudo-attach*))
+			 (PP to
+			     (NP her))
+			 ,
+			 (NP-1 (NP something)
+			       (SBAR 0
+				     (S (NP her mother)
+					(AUX would)
+					(VP wish 
+					    (S (NP T)
+					       (VP said)))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP a while))
+    (S (NP there)
+       (VP was
+	   (NP such
+	       shrill girlish
+	       commotion
+	       (SBAR 0
+		     (S (NP I)
+			(AUX could)
+			(NEG n't)
+			(VP have
+			    (VP made
+				(NP myself)
+				(VP heard)))
+			(SBAR if
+			      (S (NP I)
+				 (AUX 'd)
+				 (VP had
+				     (NP the equivalent
+					 (PP of
+					     (NP the message
+						 (PP to
+						     (NP Garcia))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR 
+     (WHADVP when)
+     (S (S (NP some
+	       (PP of
+		   (NP the squeals)))
+	   (AUX had)
+	   (VP subsided))
+	and
+	(S (NP she)
+	   (AUX had)
+	   (VP been
+	       (PP through
+		   (NP (NP one
+			   (PP of
+			       (NP (NP those sessions)
+				   (SBAR (WHNP that)
+					 (S (NP T)
+					    (VP are
+						(ADJP so
+						      indispensable
+						      (PP to
+							  (NP the young female)))))))))
+		       --
+		       (NP (NP six girls)
+			   (VP sprawled
+			       (PP on
+				   (NP one bed))
+			       ,
+			       (S (NP *)
+				  (VP (VP drinking
+					  (NP Cokes))
+				      and
+				      (VP giggling)))))
+		       --))))))
+    (S (NP she)
+       (VP came
+	   (ADVP back)
+	   (PP to
+	       (NP the kitchen))
+	   (S (NP *)
+	      (AUX to)
+	      (VP talk
+		  (PP with
+		      (NP me)))
+	      (NP a minute)))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHADVP How)
+    (SQ (AUX do)
+	(NP you)
+	(VP know
+	    (SBAR 0
+		  (S (NP you)
+		     (VP love
+			 (NP somebody)
+			 (ADVP enough
+			       (S (NP *)
+				  (AUX to)
+				  (VP get
+				      (VP married))))))))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP asked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP was
+	(NP (NP (NP the
+		    (ADJP oldest
+			  and
+			  toughest)
+		    question)
+		(SBAR 0
+		      (S (NP young lovers)
+			 (AUX have)
+			 (ADVP ever)
+			 (VP asked
+			     (NP T)))))
+	    :
+	    (SBARQ (WHADVP How)
+		   (SQ (AUX can)
+		       (NP you)
+		       (VP be
+			   (ADJP sure)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (SQ (VP Are)
+      (NEG n't)
+      (NP you)
+      (ADJP sure))
+  ''
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP asked
+       ,
+       (S (NP *)
+	  (VP looking
+	      (PP at
+		  (NP her))
+	      (ADVP searchingly)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (VP wanted
+	 (S (NP *)
+	    (AUX to)
+	    (VP (VP grab
+		    (NP her)
+		    (PP by
+			(NP the arm)))
+		and
+		(VP beg
+		    (NP her)
+		    (S (S (NP *)
+			  (AUX to)
+			  (VP wait))
+		       ,
+		       (S (NP *)
+			  (AUX to)
+			  (VP consider))
+		       ,
+		       (S (NP *)
+			  (AUX to)
+			  (VP know
+			      (PP for
+				  (ADJP certain)))))))))
+     (SBAR because
+	   (S (S (NP life)
+		 (VP is
+		     (ADJP so
+			   long)))
+	      and
+	      (S (NP marriage)
+		 (VP is
+		     (ADJP so
+			   important))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR if
+	  (S (NP she)
+	     (AUX were)
+	     (ADVP just)
+	     (VP having
+		 (NP a normal case
+		     (PP of
+			 (NP pre-nuptial jitters))))))
+    (S (NP such
+	   a question)
+       (AUX might)
+       (VP frighten
+	   (NP her)
+	   (PP out
+				     
+	       (PP of
+		   (NP a
+		       (ADJP really
+			     good)
+		       marriage))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Besides)
+    ,
+    (PP in
+	(NP all honesty))
+    ,
+    (S (NP I)
+       (AUX do)
+       (NEG n't)
+       (VP know
+	   (SBAR 
+	    (WHADVP how)
+	    (S (NP you)
+	       (AUX can)
+	       (VP be
+		   (ADJP sure)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX do)
+     (NEG n't)
+     (VP know
+	 (NP any secret recipe
+	     (PP for
+		 (NP certainty)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP the
+	    fevered
+	    ,
+	    intoxicating
+	    ,
+	    breathless
+	    state
+            (PP of
+		(S (NP *)
+		   (VP being
+		       (PP in
+			   (NP love)))))))
+    (S (NP (NP the usual signposts)
+	   (SBAR (WHNP that)
+		 (S (NP T)
+		    (VP guide
+			(NP you)
+			(PP to
+			    (NP (ADJP lasting
+				      and
+				      satisfying)
+				relationships))))))
+       (AUX are)
+       (ADVP sometimes)
+       (VP obscured)))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP I)
+     (VP knew
+	 (PP of
+	     (NP but
+		 one test))))
+    and
+    (S (NP I)
+       (VP threw
+	   (NP it)
+	   (PRT out)
+	   (PP to
+	       (NP her))
+	   (PP for
+	       (SBAR (WHNP what)
+		     (S (NP it)
+			(VP was
+			    (ADJP worth)
+			    (NP T))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (AUX Does)
+       (NP he)
+       (ADVP ever)
+       (VP bore
+	   (NP you)))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP asked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (VP Bore
+       (NP me))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (AUX was)
+   (VP shocked
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (INTJ Oh)
+    ,
+    (INTJ no-o))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((X (S (INTJ Why)
+       ,
+       (S (NP he)
+	  (VP 's
+	      (ADJP so
+		    darling))))
+    and)
+ '')
+(  
+ (S  ``
+     (NP I)
+     (VP mean
+	 ''
+	 ,
+	 (S (NP I)
+	    (VP went
+		(PRT on)
+		(ADVP ruthlessly)))
+	 ,
+	 ``
+	 (SQ (SBAR (WHADVP when)
+		   (S (NP he)
+		      (AUX 's)
+		      (NEG not)
+		      (VP talking
+			  (PP about
+			      (NP (NP you)
+				  or
+				  (NP himself)
+				  or
+				  (NP the wonders
+				      (PP of
+					  (NP love))))))))
+	     ,
+	     (SQ (VP is)
+		 (NP he)
+		 (ADJP interesting)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (AUX Does)
+   (NP he)
+   (VP care
+       (PP about
+	   (NP (NP things)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP matter
+			    (PP to
+				(NP you)))))))))
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Can)
+     (NP you)
+     (VP (VP visualize
+	     (S (NP *)
+		(VP being
+		    (VP stranded
+			(PP with
+			    (NP him))
+			(PP on
+			    (NP a desert island))))
+		(PP for
+		    (NP years and years))))
+	 and
+	 (ADVP still)
+	 (VP find
+	     (NP him
+		 (ADJP fascinating)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((SBAR Because
+       (S ,
+	  (NP honey)
+	  ,
+	  (S (NP I)
+	     (VP thought
+		 (ADVP silently)))
+	  ,
+	  (S (NP there)
+	     (VP are
+		 (NP plenty
+		     (PP of
+			 (NP (NP desert islands)
+			     (NP-1 *pseudo-attach*))))
+		 (PP in
+		     (NP every marriage))
+		 --
+		 (NP-1 (NP long periods)
+		       (SBAR 
+			(WHADVP when)
+			(S (NP you)
+			   (AUX 're)
+			   (ADVP hopelessly)
+			   (VP stranded
+			       ,
+			       (ADVP together)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (SBAR if
+	  (S (NP you)
+	     (VP bore
+		 (NP each
+		     other))
+	     (ADVP then)))
+    ,
+    (S (NP heaven)
+       (VP help
+	   (NP you))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP came
+	 (ADVP back))
+     (NP the other day)
+     (S (NP *)
+	(AUX to)
+	(VP reassure
+	    (NP me))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP She)
+      (AUX has)
+      (VP (VP studied)
+	  and
+	  (VP observed)))
+   and
+   (S (NP she)
+      (AUX is)
+      (VP convinced
+		 
+	  (SBAR that
+		(S (NP her young man)
+		   (AUX is)
+		   (VP going
+			      
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (ADVP endlessly)
+			      (ADJP enchanting)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP She)
+      (VP asked
+	  (SBAR if
+		(S (NP I)
+		   (VP had
+		       (NP other advice))))))
+   and
+   ,
+   (S (ADJP heady
+	    (PP with
+		(NP success)))
+      ,
+      (S (NP I)
+	 (VP rushed
+	     (NP it)
+	     (PRT in)))
+      ,
+      (S (NP I)
+	 (VP hope)
+	 (ADVP not
+	       too
+	       late))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Be
+	  (NP friends
+	      (PP with
+		  (NP your mother-in-law)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X (NP (NP Jokes)
+	   ,
+	   (NP cartoons) and (NP cynics))
+       (PP to
+	   (NP the contrary)))
+    ,
+    (S (NP mothers-in-law)
+       (VP make
+	   (NP good friends))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX do)
+   (NEG not)
+   (VP know
+       (NP Dr. Wilson Sneed)
+       (ADVP well)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP I)
+       (AUX was)
+       (VP (ADVP deeply)
+	   moved
+	     
+	   (PP by
+	       (NP his letter
+		   (PP of
+		       (NP resignation
+			   (PP as
+			       (NP rector
+				   (PP of
+				       (NP (NP St. Luke)
+					   's
+					   Church
+					   (PP in
+					       (NP Atlanta)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP It)
+	(VP was
+	    (NP the cry
+		(PP of
+		    (NP not
+			just
+			one heart)))))
+     ;
+     ;
+     (S (S (NP it)
+	   (VP spoke
+	       (PP for
+		   (NP many
+		       (PP in
+			   (NP the clergy))))))
+	,
+	(S (NP I)
+	   (VP suspect))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The pulpit)
+   (VP is
+       (NP a lonely place)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP Who)
+	(SQ (NP T)
+	    (VP stops
+		(S (NP *)
+		   (AUX to)
+		   (VP think
+		       (PP of
+			   (NP that)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S (NP *) 
+    (VP Imagine
+	(NP (NP (NP the searching)
+		and
+		(NP the prayer))
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP lay
+			 (PP behind
+			     (NP (NP the letter)
+				 (SBAR 0
+				       (S (NP the rector)
+					  (VP wrote
+					      (NP T))
+					  (PP-1 *pseudo-attach*))))))
+		     (PP-1 after 
+			   (NP almost
+			       a decade
+			       (PP of
+				   (NP service
+				       (PP to
+					   (NP this majestic church)))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (S (NP Such
+	      a church)
+	  (VP needs
+	      (NP vigor and vitality
+		  (PP in
+		      (NP its rector)))))
+       and
+       (S (NP one man)
+	  (VP has
+	      (NP only
+		  so
+		  much
+		  (PP of
+		      (NP these endowments))))))
+    ''
+    ,
+    (S (NP he)
+       (VP told
+	   (NP his members))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP A minister)
+       (AUX should)
+       (NEG not)
+       (VP stay
+	   (PP ``
+	       beyond
+	       (NP (NP the time)
+		   (SBAR that
+			 (S (NP his leadership)
+			    (AUX should)
+			    (VP benefit
+				''
+				(NP his church))))))))
+    ,
+    (S (NP he)
+       (VP wrote))
+    ,
+    ``
+    for
+    (S (NP he)
+       (VP becomes
+	   (ADJP ordinary))))
+ .
+ '')
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (ADVP so)
+    (S (NP the young minister)
+       (VP resigned
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP go) and (VP study) and (VP pray)))
+	   ,
+	   (S (NP *)
+	      (VP having
+		  (ADVP never)
+		  (VP passed
+		      (NP (NP a day)
+			  ,
+			  (S (NP he)
+			     (VP told
+				 (NP his parishioners)))
+			  ,
+			  (SBAR (WHADVP when)
+				``
+				(S (NP I)
+				   (AUX did)
+				   (NEG not)
+				   (VP gain
+				       (PP from
+					   (NP you))
+				       (NP (ADJP far
+						 more
+						 (PP than
+						     (S (NP I)
+							(ADVP ever)
+							(VP gave
+							    (PP to
+								(NP you)))))))))
+				''))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP His
+	(ADJP very
+	      honest)
+	act)
+    (VP called
+	(PRT up)
+	(NP (NP the recent talk)
+	    (SBAR 0
+		  (S (NP I)
+		     (VP had
+			 (NP T) 
+			 (PP with
+			     (NP (NP (NP another minister)
+				     ,
+				     (NP a
+					 (ADJP modest)
+					 Methodist))
+				 ,
+				 (SBAR 
+				  (WHNP who)
+				  (S (NP T)
+				     (VP said
+					 :
+					 ``
+					 (S (S (S (NP I)
+						  (VP feel
+						      (VP (ADVP so
+								deeply)
+							  blessed
+							  (PP by
+							      (NP God))))
+						  (SBAR 
+						   (WHADVP when)
+						   (S (NP I)
+						      (AUX can)
+						      (VP give
+							  (NP a message
+							      (PP of
+								  (NP (NP love)
+								      and
+								      (NP comfort))))
+							  (PP to
+							      (NP other men))))))
+					       ,
+					       and
+					       (S (NP I)
+						  (AUX would)
+						  (VP have
+						      (NP it)
+						      (NP no other way))))
+					    :
+					    and
+					    (S (NP it
+						   (S-4 *pseudo-attach*)) 
+					       (VP is
+						   (ADJP unworthy))
+					       (S-4 (NP *)
+						    (AUX to)
+						    (VP think
+							(PP of
+							    (NP self)))))))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (INTJ oh)
+    ,
+    (SBAR 
+     (WHADVP how)
+     (S (NP I)
+	(AUX do)
+	(ADVP sometimes)
+	(VP need
+	    (NP just
+		a moment
+		(PP of
+		    (NP rest
+			,
+			and
+			peace
+			,
+			(PP in
+			    (NP myself)))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A man)
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP gives
+		     (NP himself)
+		     (PP (PP to
+			     (NP God))
+			 and
+			 (PP to
+			     (NP the believers
+				 (PP of
+				     (NP his church)))))))))
+    (VP takes
+	(PP upon
+	    (NP himself))
+	(NP a life
+	    (PP of
+		(NP giving)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP He)
+       (AUX does)
+       (NEG not)
+       (VP expect
+	   (S (NP *)
+	      (AUX to)
+	      (VP get
+		  (NP great riches)))))
+    or
+    (S (NP he)
+       (AUX would)
+       (NEG not)
+       (VP have
+	   (VP chosen
+	       (S (NP *)
+		  (AUX to)
+		  (VP answer
+		      (NP the call
+			  (S (NP *)
+			     (AUX to)
+			     (VP preach)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The good ones)
+       (AUX are)
+       (NEG not)
+       (VP motivated
+	     
+	   (S (NP *)
+	      (AUX to)
+	      (VP seek
+		  (ADVP vainly)))))
+    ,
+    (SINV nor
+	  (AUX are)
+	  (NP they)
+	  (VP disposed
+	      (S (NP *)
+		 (AUX to)
+		 (VP covet
+		     (NP comfort)))))
+    ,
+    or
+    (S (NP they)
+       (AUX would)
+       (VP have
+	   (VP been
+	       (VP led
+			 
+		   (PP to
+		       (NP (NP fields)
+			   (SBAR (WHNP that)
+				 (S (NP T)
+				    (VP (VP offer
+					    (NP comfort))
+					and
+					(VP feed
+					    (NP vanity))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Theirs)
+    (VP is
+	(NP a sacrificial life)
+	(PP by
+	    (NP earthly standards))))
+ .)
+(  END_OF_TEXT_UNIT)
+
+( 
+ (S Yet
+    (S (NP (NP (NP we)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP (VP lean
+				(PP upon
+				    (NP such
+					a man)))
+			    and
+			    (VP draw
+				(NP strength)
+				(PP from
+				    (NP him)))
+			    and
+			    (VP expect
+				(NP interpretation
+				    (PP of
+					(NP the
+					    (ADJP infinite)))
+				    (PP through
+					(NP him))))))))
+	   --
+	   (NP (NP we)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP (ADVP readily)
+			    accept
+			    (NP his sacrifice)
+			    (PP as
+				(NP our
+				    (ADJP due)))))))
+	   ,
+	   (NP we
+	       (PP of
+		   (NP the congregations))))
+       (VP are
+	   (NP the
+	       (ADJP first
+		     (S (NP *) 
+			(AUX to)
+			(VP tell
+			    (NP him)
+			    (SBAR (WHNP what)
+				  (S (NP T)
+				     (VP is
+					 (PP in
+					     (NP our minds))))))
+			(PP instead
+			    (PP of
+				(S (NP *)
+				   (VP listening
+				       (PP to
+					   (SBAR (WHNP what)
+						 (S (NP T)  
+						    (VP is
+							(PP in
+							    (NP his soul))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP press
+       (NP him)
+       (S (S (NP *)
+	     (AUX to)
+	     (VP conform
+		 (PP to
+		     (NP our comfortable conceptions))))
+	  and
+	  (S (NP *)   
+	     (NEG not)
+	     (AUX to)
+	     (VP bruise
+		 (NP our satisfactions
+		     (PP with
+			 (NP (NP his word)
+			     ,
+			     and
+			     (NP (NP God)
+				 's)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP We)
+       (AUX do)
+       (NEG not)
+       (VP defeat
+	   (NP the good ones)
+	   (PP with
+	       (NP this cruelty))))
+    ,
+    but
+    (S (NP we)
+       (VP add
+	   (PP to
+	       (NP their burden))))
+    ,
+    (SBAR while
+	  (S (NP *)
+	     (VP expecting
+		 (S (NP them)
+		    (AUX to)
+		    (VP bestow
+			(NP saintliness)
+			(PP upon
+			    (NP us)))
+		    (PP in
+			(NP return
+			    (PP for
+				(NP (NP ostentatious church attendance)
+				    and
+				    (NP (NP (NP a few bucks)
+					    (NP a week))
+					,
+					(NP American cash)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP we)
+	     (VP break
+		 (NP the minister)
+		 (PP to
+		     (NP our bit)))))
+    ,
+    (S (NP we)
+       (AUX are)
+       (VP buying
+	   (ADVP back)
+	   (NP our own sins))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR If
+	  (S (NP he)
+	     (AUX wo)
+	     (NEG n't)
+	     (VP break)))
+    ,
+    (S (NP we)
+       (VP add
+	   (PP to
+	       (NP (NP the stress)
+		   (SBAR 0
+			 (S (NP he)
+			    (VP bears
+				(NP T)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S And
+    (S (NP a minister
+	   (PP of
+	       (NP all men)))
+       (VP is
+	   (ADJP most conscious
+		 (SBAR that
+		       (S (NP he)
+			  (VP is
+			      (NP (NP mere man)
+				  --
+				  (ADJP prone
+					(PP to
+					    (NP (NP the stresses)
+						(SBAR (WHNP that)
+						      (S (NP earthly humanity)
+							 (VP is
+							     (NP heir
+								 (PP to
+								     (NP T)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP We)
+       (VP expect
+	   (S (NP him)
+	      (X (X (AUX to)
+		    (VP be
+			(ADJP noble)))
+		 ,
+		 and
+		 (X (AUX to)
+		    (VP make
+			(NP us)
+			(ADVP so)))))))
+    --
+    (ADVP yet)
+    (S (NP he)
+       (VP (VP (VP knows
+		   (SBAR-5 *pseudo-attach*))
+	       ,
+	       and
+	       (VP tries
+		   (S (NP *)
+		      (AUX to)
+		      (VP tell
+			  (NP us)))
+		   (SBAR-5 *pseudo-attach*)))
+	   ,
+	   (SBAR-5 
+	    (ADJP (WHADVP how)
+		  very
+		  humble)
+	    (S (NP man)
+	       (AUX must)
+	       (VP be))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP expect
+       (NP bestowal
+	   (PP of
+	       (NP (NP God)
+		   's love))
+	   (PP through
+	       (NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  But 
+     (NP (ADJP how          
+	       little) love)
+     (S (NP we)
+	(VP give
+	    (NP him)
+	    (NP T))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The church)
+   (ADVP truly)
+   (VP is
+       (NP not
+	   (NP a rest home
+	       (PP for
+		   (NP saints)))
+	   ,
+	   but
+	   (NP a hospital
+	       (PP for
+		   (NP sinners))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S Yet
+    (NP every Sunday)
+    (S (NP we
+	   sinners)
+       (VP go
+	   (PP to
+	       (NP that emergency room))
+	   (S (NP *)
+	      (AUX to)
+	      (VP receive
+		  (NP first aid)))))
+    ,
+    and
+    (S (NP we)
+       (VP leave)
+       (ADJP unmindful 
+	     (SBAR that
+		   (S (NP (NP the man)
+			  (SBAR (WHNP who)
+				(S (NP T)
+				   (VP ministered
+				       (PP to
+					   (NP us))))))
+		      (VP is
+			  (NP (NP a human being)
+			      (SBAR (WHNP who)
+				    (S (NP T)
+				       (VP suffers)
+				       ,
+				       (ADVP too))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

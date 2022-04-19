@@ -1,0 +1,2210 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP the Westminster KC Dog Show
+	   (PP in
+	       (NP (NP Madison Square Garden)
+		   ,
+		   (NP New York)))))
+   (PP on
+       (NP the second day))
+   ,
+   (S (NP the Finals
+	  (PP of
+	      (NP the  Junior Class)))
+      (VP brought
+     	  (PRT out)
+	  (NP the
+	      most competitive
+	      competition
+	      (PP in
+		  (NP the history
+		      (PP of
+			  (NP this Class))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Class)
+   (VP had
+       (NP entries
+	   (PP from
+	       (ADVP (ADVP  as
+			    far
+			    west
+			    (PP as
+				(NP Wisconsin)))
+		     and
+		     (ADVP  as
+			    far
+			    south
+			    (PP as
+				(NP Kentucky))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP This year)
+    (S (NP (NP several entries
+	       (PP from
+		   (NP Canada)))
+	   (SBAR-1 *pseudo-attach*))
+       (AUX were)
+       (VP entered)
+       (SBAR-1 
+	(WHNP which)
+	(S (NP T)
+	   (VP made
+	       (NP the  Junior Class International))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Forty-six
+        (PP of
+            (NP (NP the 53 Juniors)
+		(SBAR  
+		 (WHNP who)
+		 (S (NP T)
+		    (VP mailed
+			(PRT in)
+			(NP entries)))))))
+    (VP were
+	(ADJP present)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (ADJP interesting))
+   (S (NP *)
+      (AUX to)
+      (VP note
+	  (SBAR that
+		(S (NP many
+		       (PP of
+			   (NP these Juniors)))
+		   (AUX were)
+		   (VP showing
+		       (NP dogs)
+		       (PP in
+			   (NP various
+			       other
+			       classes
+			       (PP at
+				   (NP the show)))))
+		   (ADJP prior
+			 (PP to
+			     (NP the Finals
+				 (PP of
+				     (NP the  Junior Class))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S  (NP *) 
+	    (AUX has)
+	    (VP been
+		(NP the custom)
+		(PP for
+		    (NP the
+			past
+			several years)))))
+    ,
+    (S (S (NP  (NP John Cross
+		   ,
+		   Jr.)
+	       ,
+	       (NP Bench Show Chmn.
+		   (PP of
+		       (NP Westminster)))
+	       ,)
+	  (VP (VP arranged
+		  (PP for
+		      (NP (NP the Juniors)
+			  ' meeting))
+		  (PP before
+		      (NP the Class)))
+	      ,
+	      and
+	      (VP invited
+		  (NP two speakers
+		      (PP from
+			  (NP the dog world)))
+		  (S (NP *)
+		     (AUX to)
+		     (VP address
+			 (NP them))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP  Over
+	 60 Juniors
+	 ,
+	 parents and guests)
+    (VP attended))
+ .)
+(  END_OF_TEXT_UNIT)
+(X (S  (NP Mrs. William H. Long
+	   ,
+	   Jr.)
+       (VP speaks)))
+(  
+ (S (PP After
+	(S (NP the Juniors)
+	   (AUX were)
+	   (VP  (VP welcomed)
+		and
+		(VP congratulated
+		    (PP for
+			(S  (NP *)
+			    (VP qualifying
+				(PP for
+				    (NP the Finals
+					(PP of
+					    (NP the  Junior Class)))))))))))
+    ,
+    (S  (NP Mrs. William H. Long
+	    ,
+	    Jr.)
+	(AUX was)
+	(VP introduced
+	 
+	    (PP as
+		(NP the first speaker)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP her opening
+	    remarks))
+    (S (NP Mrs. Long)
+       (ADVP also)
+       (VP (VP welcomed
+	       (NP the Juniors))
+	   and
+	   (VP stated
+	       ,
+	       (S  ``
+		   (NP There)
+		   (VP is
+		       (NEG n't)
+		       (NP any  other show
+			   (PP (ADVP quite)
+			       like
+			       (NP Westminster)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP know)
+   (SBAR because
+	 (S (NP this)
+	    (VP is
+		(NP my  37th year
+		    (PP with
+			(NP   hardly
+			      a break)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mrs. Long)
+   (ADVP still)
+   (VP feels
+       (NP (NP the
+	       same
+	       unique
+	       spirit
+	       (PP of
+		   (NP Westminster)))
+	   (SBAR (WHNP which)
+		 (S
+		  (NP she)
+		  (VP stated
+		      (S (NP  the
+			      present
+			      Juniors)
+			 (X  (X (AUX will)
+				(VP experience
+				    (NP T))
+				(NP today))
+			     but
+			     (X (ADVP probably)
+				(AUX will)
+				(NEG not)
+				(VP appreciate
+				    (NP T) 
+				    (PP in
+					(ADJP full))
+				    (PP for
+					(NP a number
+					    (PP of
+						(NP years))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP Twenty years)
+	  ago)
+    (S (NP (NP (NP her daughter)
+	       (NP Betsey Long))
+	   ,
+	   (X (ADVP then)
+	      (NP 13 years
+		  (PP of
+		      (NP age)))))
+       ,
+       (VP won
+	   (NP (NP the  Grand Challenge Trophy)
+	       ,
+	       (NP (NP (NP Children)
+		       's Handling Class)
+		   *LRB*
+		   (PP as
+		       (S (NP they)
+			  (AUX were)
+			  (VP called)
+			  (ADVP then)))
+		   *RRB*))
+	   (PP at
+	       (NP Westminster)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV (ADVP  No
+	      sooner)
+       (AUX had)
+       (NP Betsey)
+       (VP come
+	   (PRT out)
+	   (PP of
+	       (NP the ring)))
+       (PP than
+	   (S (NP Mrs. Long)
+	      (VP (VP walked
+		      (PP into
+			  (NP the Working Competition))
+		      (PP  with
+			   (NP (NP (NP  Ch
+					.
+					Cadet)
+				   or
+				   (NP Noranda))
+			       ,
+			       (NP another  home-bred product)
+			       ,)))
+		  and
+		  (VP won)))))
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Speaking
+	   (PP from
+	       (NP  long years
+		    (PP of
+			(NP experience))))))
+    ,
+    (S (NP Mrs. Long)
+       (VP advised
+	   (NP the Juniors)
+	   :
+	   (S  ``
+	       (SBAR 
+		(WHADVP When)
+		(S (NP (S  (NP *) 
+			   (VP showing
+			       (NP dogs))))
+		   (VP ceases
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (NP (NP fun) 
+				  and 
+				  (NP excitement)))))))
+	       ,
+	       (S  (NP *) 
+		   (VP stop))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Dogs)
+    (VP have
+	(NP a way
+	    (PP of
+		(S  (NP *)
+		    (VP sensing
+			(NP our feelings)))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR (WHADVP When)
+	   (S (NP (NP you)
+		  and
+		  (NP your dog))
+	      (VP step
+		  (PP into
+		      (NP the  Junior ring)))))
+     ,
+     (S (NP it)
+	(AUX should)
+	(VP be
+	    (SBAR (ADVP just)
+		  (WHNP what)
+		  (S (NP the dog)
+		     (VP wants
+			 (S (NP *)
+			    (AUX to)
+			    (VP do
+				(NP T))))))
+	    (PP as
+		(NP much
+		    (PP as
+			(SBAR (WHNP what)
+			      (S (NP you)
+				 (VP want
+				     (NP him)
+				     (S (NP *)
+					(AUX to)
+					(VP do
+					    (NP T))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (VP walk
+		  (PP into
+		      (NP the ring)))
+	      (SBAR because
+		    (S (NP it)
+		       (VP is
+			   (ADJP fun)
+			   (S (NP *)
+			      (AUX to)
+			      (VP show
+				  (NP your dog))))))))
+    ,
+    (S (NP he)
+       (AUX will)
+       (VP (VP feel
+	       (NP it))
+	   and
+	   (VP give
+	       (NP you)
+	       (NP a  good performance)))))
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP knows
+	(NP (NP your signals)
+	    ,
+	    (SBAR  (WHNP what)
+		   (S (NP T)
+		      (AUX is)
+		      (VP expected
+			  (PP of
+			      (NP him)))))
+	    and
+	    (NP  (NP the way)
+		 (SBAR 0
+		       (S (NP the Class)
+			  (AUX is)
+			  (VP conducted
+			      )))
+		 ,
+		 (PP   (ADVP right)
+		       up
+		       (PP through
+			   (NP the flash-bulbs
+			       (PP of
+				   (NP the photographers))))))))
+    '')
+ .) 
+(  END_OF_TEXT_UNIT)
+(   (X (NP  Right attitude)
+       (ADJP essential))
+    !
+    !)
+(  END_OF_TEXT_UNIT)
+((S   ``
+      (S  (NP *) 
+	  (VP Take
+	      (PRT away)
+	      (NP your attitude)))
+      ''
+      ,
+      (SINV (VP said)
+	    (NP Mrs. Long))
+      ,
+      ``
+      and
+      (SBARQ (WHNP what)
+	     (SQ (VP have)
+		 (NP you)
+		 (NP T) 
+		 (ADJP left))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X   Either
+	(NP a  nervous dog)
+	(SBAR because
+	      (X (S (NP you)
+		    (VP are
+			(ADJP livid
+			      (PP with
+				  (NP rage)))))
+		 --
+		 (NP (NP a  sure sign)
+		     (SBAR that
+			   (S (NP you)
+			      (AUX are)
+			      (VP (VP taking
+				      (NP things)
+				      (ADVP too
+					    seriously))
+				  and
+				  (VP had
+				      (ADVP better)
+				      (VP stop)))))))))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X    Or
+	(NP a  bored dog)
+	(SBAR because
+	      (S (NP you)
+		 (VP are
+		     (ADJP   more
+			     interested
+			     (PP in
+				 (NP (NP something
+					 else)
+				     --
+				     (X (ADVP  maybe)
+					(NP (NP the way)
+					    (SBAR 0
+						  (S (NP you)
+						     (VP look))))
+					,
+					or
+					(NP (NP the date)
+					    (SBAR 0
+						  (S (NP you)
+						     (VP have
+							 (NP T) 
+							 (PP after
+							     (NP the Class))))))
+					,
+					or
+					(S (NP you)
+					   (AUX are)
+					   (ADVP just)
+					   (VP doing
+					       (NP this))
+					   (S (NP *)
+					      (AUX to)
+					      (VP please
+						  (NP the parents))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (NP (NP The reason)
+	 (SBAR 0
+	       (S (NP you)
+		  (VP are
+		      (PP in
+			  (NP the ring)))
+		  (NP today))))
+     (VP is
+	 (S (NP *)
+	    (AUX to)
+	    (VP show
+		(NP your ability
+		    (S (NP *)
+		       (AUX to)
+		       (VP present
+			   (PP to
+			       (NP any judge))
+			   (NP (NP the
+				   most attractive
+				   picture
+				   (PP of
+				       (NP your dog)))
+			       (SBAR (WHNP that)
+				     (S (NP the  skillful use
+					    (PP of
+						(NP your aids)))
+					(AUX can)
+					(VP produce
+					    (NP T))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP Aids)
+     (VP sounds
+	 (PP  (ADVP more)
+	      like
+	      (NP (NP a Pony Club)
+		  ,
+		  or
+		  (NP horsemanship classes)))))
+    --
+    (S (NP (S (S (NP *)
+		 (VP riding
+		     (NP a horse)))
+	      and
+	      (S (NP *)
+		 (VP showing
+		     (NP a dog)))))
+       (VP are
+	   (ADJP  very
+		  similar))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (NP Your aids)
+     (VP are
+	 (NP (NP your attitude)
+	     ,
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (VP comes
+			  (PP through
+			      (NP (NP (NP your voice)
+				      ,
+				      (NP your hands and legs))
+				  --
+				  (NP (NP voice)
+				      (S (NP *)
+					 (AUX to)
+					 (X  (VP encourage)
+					     ,
+					     (VP discourage)
+					     or
+					     (SBAR (WHNP whatever)
+						   (S
+						    (NP the need)
+						    (AUX may)
+						    (VP be
+							(NP T)))))))
+				  ;
+				  ;
+				  (NP (NP hands)
+				      (S (NP *)
+					 (AUX to)
+					 (VP (VP guide) or (VP restrain))))
+				  ;
+				  ;
+				  (NP (NP legs)
+				      (S (NP *)
+					 (AUX to)
+					 (VP produce
+					     (NP  (NP motion)
+						  and 
+						  (NP rate
+						      (PP of
+							  (NP speed)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Without
+	 (NP  right attitude))
+     (S
+      (NP the  other aids)
+      (ADVP just)
+      (AUX do)
+      (NEG not)
+      (VP work
+	  (ADVP right)))
+     '')
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mrs. Long)
+    (VP (VP wished
+	    (NP all
+		the Juniors)
+	    (NP luck
+		(PP in
+		    (NP the Class))))
+	and
+	(VP stated
+	    ,
+	    (S ``
+	       (NP *) 
+	       (VP Have
+		   (NP fun))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV   And
+	 (SINV (AUX may)
+	       (NP you)
+	       (X all)
+	       (VP continue
+		   (S (NP *)
+		      (AUX to)
+		      (VP show
+			  (PP at
+			      (NP Westminster))
+			  (PP in
+			      (NP (NP the years)
+				  (S (NP *)
+				     (AUX to)
+				     (VP come))))))))
+	 '')
+ !)
+(  END_OF_TEXT_UNIT)
+(X (NP (NP Harvey Barcus)
+       ,
+       (NP second speaker)))
+(   
+ (S
+  (NP The second speaker)
+  (VP was
+      (NP (NP Harvey Barcus)
+	  ,
+	  (NP President
+	      (PP of
+		  (NP the Dog Writers Ass'n
+		      (PP of
+			  (NP America))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Mr. Barcus)
+    (VP spoke
+	(PP on
+	    (NP (NP the subject
+		    (PP of
+			(NP scholarships
+			    (PP for
+				(NP Juniors)))))
+		--
+		(SBAR (WHPP with
+			    (WHNP which))
+		      (S (NP he)
+			 (VP is
+			     (ADJP  very
+				    familiar))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Last year)
+    (S (NP (NP a boy)
+	   (SBAR 0
+		 (S (NP he)
+		    (VP (VP knows
+			    (NP T) )
+			and
+			(VP helped
+			    (NP T) 
+			    (PP in
+				(NP Journalism)))))))
+       (VP won
+	   (NP (NP the Thoroughbred Racing Ass'n Scholarship)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP is
+		       (ADJP   worth 
+			       (NP  $
+				    10,000)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP gave
+	(NP a resume
+	    (PP of
+		(NP (NP the steps)
+		    (VP taken
+			(SBAR (PP in
+				  (NP order))
+			      for
+			      (S (NP (NP the boy)
+				     (SBAR 0
+					   (S
+					    (NP he)
+					    (VP sponsored
+						(NP T) ))))
+				 (AUX to)
+				 (VP win
+				     (NP the scholarship))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S   ``
+      (NP  Junior Showmanship)
+      (VP (VP is
+	      (NP an
+		  extremely
+		  worthy 
+		  project))
+	  and
+	  (X (AUX should)
+	     (VP be
+		 (VP   earnestly
+		       encouraged
+		       ))))
+      '')
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X 
+   (VP Is
+       (NP one
+	   (PP of
+	       (NP (NP Mr. Barcus)
+		   '  strong 
+		   beliefs)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP feels
+	(ADVP very
+	      forcibly)
+	(SBAR that
+	      (S (NP the  American Kennel Club)
+		 (AUX should)
+		 (VP take
+		     (NP a
+			 more
+			 active part)
+		     (PP in
+			 (S  (NP *)
+			     (VP encouraging
+				 (NP the  Junior Division)))))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP closing))
+    ,
+    (S (NP Mr. Barcus)
+       (ADVP also)
+       (VP wished
+	   (NP all
+	       the Juniors)
+	   (NP luck
+	       (PP in
+		   (NP their Class))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(X (NP Westminster Show Notes))
+(  
+ 
+ (S  (ADVP Instead
+	   (PP of
+	       (NP 3 a.m.)))
+     (PP in
+	 (NP the past))
+     ,
+     (S (NP the Juniors Class
+	    (PP at
+		(NP Westminster)))
+	(AUX was)
+	(VP held
+	     
+	    (PP at
+		(NP 4:45 p.m
+		    .)))))
+ .)
+( 
+ (S (NP This)
+    (VP gave
+	(NP the Juniors)
+	(NP (NP the use
+		(PP of
+		    (NP the  entire ring)))
+	    (PP at
+		(NP the show))
+	    --
+	    (NP a  great advantage
+		(PP to
+		    (NP them))))))
+ !)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Before
+	(S (NP the Juniors)
+	   (VP entered
+	       (NP the ring))))
+    (S (NP the Steward)
+       (VP announced
+	   (SBAR  that
+		  (S  
+		   (PP after
+		       (S (NP all Juniors)
+			  (AUX had)
+			  (VP (VP moved
+				  (NP their dogs)
+				  (PP around
+				      (NP the ring)))
+			      and
+			      (VP set
+				  (NP them)
+				  (PRT up)))))
+		   ,
+		   (S (NP they)
+		      (AUX could)
+		      (VP relax
+			  (PP with
+			      (NP their dogs)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP From
+	    (NP there))
+	(ADVP on))
+    ,
+    (S (NP each Junior)
+       (AUX was)
+       (VP going
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP judged
+		      (ADVP individually)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This  thoughtful gesture)
+    (AUX was)
+    (VP  (ADVP well)
+	 received
+	  
+	 (PP by
+	     (NP the Juniors)))
+    (SBAR  as
+	   (S (S (NP the Class)
+		 (VP had
+		     (NP an entry
+			 (PP of
+			     (NP 46 Juniors)))))
+	      and
+	      (S (NP it)
+		 (VP took
+		     (NP  (ADVP approximately)
+			  (NP (NP one hour)
+			      ,
+			      (NP 45 minutes)))
+		     (S (NP *)
+			(AUX to)
+			(VP judge
+			    (NP the Class))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (X (S
+      (NP Anne Hone Rogers)
+      (VP judges
+	  (NP 28th finals))))
+  )
+(  
+ (S (NP This year)
+    (S  
+     (NP (NP Anne Hone Rogers)
+	 ,
+	 (NP (ADJP outstanding) Handler)
+	 ,)
+     (VP judged
+	 (NP the Class))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This)
+    (VP is
+	(NP (NP the third time
+		(PP in
+		    (NP 28 years
+			(PP of
+			    (NP  Junior Showmanship
+				 (PP at
+				     (NP Westminster)))))))
+	    (SBAR that
+		  (S (NP  a lady
+			  Handler)
+		     (AUX has)
+		     (VP judged
+			 (NP the Class)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR  As
+	    (S (NP the Juniors)
+	       (VP entered
+		   (NP the ring))))
+     ,
+     (S (NP (NP Mr. Spring)
+	    ,
+	    (NP the announcer)
+	    ,)
+	(VP stated
+	    (PP over
+		(NP the public-address system))
+	    (SBAR that
+		  (S (NP this)
+		     (VP was
+			 (NP (NP the 28th year)
+			     (SBAR that
+				   (S (NP Westminster)
+				      (AUX has)
+				      (VP held
+					  (NP the Finals
+					      (PP of
+						  (NP the  Junior Competition)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Juniors)
+    (VP (VP competed
+	    (NP last year)
+	    (PP at
+		(NP (NP  American Kennel Club)
+		    and
+		    (NP  Canadian Kennel Club))))
+	,
+	(NP (NP (ADJP recognized)
+		shows)
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (ADJP eligible
+			 (S (NP *)
+			    (AUX to)
+			    (VP compete
+				(PP in
+				    (NP (NP this Class)
+					--
+					(NP the Finals
+					    (PP for
+						(NP the year)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A Junior)
+	(SBAR 
+	 (WHNP who)
+	 (S (NP T)
+            (VP won
+                (NP  two
+		     or
+		     more
+		     wins)
+		(PP in
+		    (NP the  Open Class))))))
+    (VP was
+	(ADJP eligible)))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S  *LRB*
+     (NP The purpose
+	 (PP of
+	     (NP the   Junior Showmanship Competition)))
+     (VP is
+	 (S (NP *)
+	    (AUX to)
+	    (VP   teach and  encourage
+		  (NP Juniors)
+		  (S (NP *)
+		     (AUX to)
+		     (VP become
+			 (NP  good sportsmen)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Many adults)
+       (VP showing
+	   (PP at
+	       (NP Westminster))
+	   (NP today)))
+   (VP are
+       (NP products
+	   (PP of
+	       (NP this Class))))
+   *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP It)
+    (VP seemed
+	(NP an
+	    almost
+	    impossible job))
+    (SBAR  for
+	   (S (NP Miss Rogers)
+	      (AUX to)
+	      (VP select
+		  (NP 4 winners)
+		  (PP from
+		      (NP (NP the 46 Juniors)
+			  (VP entered)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A  large number
+       (PP of
+	   (NP these Juniors)))
+   (VP (VP have
+	   (NP  7
+		and
+		8 wins)
+	   (PP to
+	       (NP their credit)))
+       and
+       (VP are
+	   (NP (ADJP seasoned) campaigners))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP the judge)
+	   (VP moved
+	       (NP  all
+		    the dogs)
+	       (ADVP individually))))
+    ,
+    (S (NP she)
+       (VP (VP selected
+	       (NP several)
+	       (PP from
+		   (NP the group)))
+	   and
+	   (VP placed
+	       (NP them)
+	       (PP in
+		   (NP the center
+		       (PP of
+			   (NP the ring))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP She)
+    (ADVP then)
+    (VP went
+	(PP over
+	    (NP them))
+	(ADVP thoroughly)
+	(S (NP *) 
+	   (VP giving
+	       (NP each)
+	       (NP a  strenuous test
+		   (PP in
+		       (NP showmanship)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(X (NP  International Champion
+	(PP of
+	    (NP the year))))
+(  
+ (S (NP (NP Betty Lou Ham)
+	,
+	(X  (NP age 16)
+	    ,
+	    (NP (NP Holyoke)
+		,
+		(NP Mass.))
+	    ,
+	    (S (NP *) 
+	       (VP showing
+		   (NP an  Irish Setter))))
+	,)
+    (AUX was)
+    (VP chosen
+	  
+	(PP as
+	    (NP  International Champion
+		 (PP of
+		     (NP the year))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (AUX was)
+   (VP awarded
+       (NP (NP  (NP the   Professional Handlers
+		    '
+		    Ass'ns
+		    Ass'ns)
+		'
+		(NP Leonard Brumby
+		    ,
+		    Sr
+		    .)
+		Memorial Trophy)
+	   *LRB*
+	   (VP named
+	       (PP for
+		   (NP the founder-originator
+		       (PP of
+			   (NP the  Junior Classes)))))
+	   *RRB*))
+   )
+  .)
+(  END_OF_TEXT_UNIT)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Betty)
+    (VP (VP is
+	    (NP 16 years
+		(PP of
+		    (NP age))))
+	and
+	(VP had
+	    (NP several wins)
+	    (PP to
+		(NP her credit))
+	    (NP last year))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(S  (NP *) 
+		    (VP showing
+			(NP an  Irish Setter)
+			(PP throughout
+			    (NP the year)))))))
+    ,
+    (S (NP she)
+       (ADVP also)
+       (VP scored
+	   (PP with
+	       (NP an Afghan)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(X (NP Other winners))
+(  
+ 
+ (S (NP (NP Sydney Le Blanc)
+	,
+	(X  (NP age 15)
+	    ,
+	    (NP (NP Staten Island)
+		,
+		(NP N.Y.))
+	    ,
+	    (S  (NP *)
+		(VP showing
+		    (NP a Doberman Pinscher)))))
+    ,
+    (VP was
+	(ADJP  2nd)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP Susan Hackmann)
+     ,
+     (X  (NP age 14)
+	 ,
+	 (PP from
+	     (NP (NP Baltimore)
+		 ,
+		 (NP Md.)))
+	 ,
+	 (S  (NP *)
+	     (VP showing
+		 (NP a Dachshund))))
+     ,
+     (VP was
+	 (ADJP  3rd)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Last year)
+    (S (NP Susan)
+       (ADVP also)
+       (VP placed
+	   (ADVP  3rd)
+	   (PP in
+	       (NP the Finals))
+	   (PP at
+	       (NP Westminster)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP (NP the records)
+	    (SBAR 0
+		  (S (NP we)
+		     (VP keep
+			 (NP T) )))))
+    --
+    (S (NP Susan)
+       (VP is
+	   (NP (NP the  only Junior)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(AUX has)
+			(VP placed
+			    (PP in
+				(NP the  Junior Classes))
+			    (PP in
+				(NP both 
+				    (NP United States)
+				    and
+				    (NP Canada))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Karen Marcmann)
+	,
+	(X (NP age 16)
+	   ,
+	   (NP (NP Trapp)
+	       ,
+	       (NP Penna.))
+	   ,
+	   (S  (NP *) 
+	       (VP showing
+		   (NP a Keeshond)))))
+    (VP was
+	(ADJP 4th)))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  (NP Most
+	     Juniors)
+	 (SBAR (WHNP who)
+	       (S (NP T)
+		  (AUX were)
+		  (VP entered
+		      (PP in
+			  (NP the Finals)))
+		  )))
+    (X  (X (AUX are)
+	   (VP seasoned
+	       (NP campaigners)))
+	and
+	(VP (CONJP not
+		   only)
+	    (VP   show 
+		  and 
+		  win
+		  (PP in
+		      (NP  Junior Classes)))
+	    but
+	    (VP score
+		(PP in
+		    (NP the Breed Classes))
+		(ADVP as
+		      well)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(X    (S (NP Entries)
+	 (VP increasing))
+      --
+      (S  (NP requirements)
+	  (VP raised)))
+(     
+ (S (PP In
+	(NP 1960))
+    ,
+    (S (NP there)
+       (VP were
+	   (NP 7287 entries)
+	   (PP in
+	       (NP the  Junior Classes)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Each year)
+    (S (NP these shows)
+       (AUX have)
+       (VP increased
+	   (PP in
+	       (NP entries)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Next year)
+	(NP 1962))
+    ,
+    (PP at
+	(NP Westminster))
+    ,
+    (S (NP the Bench Show Committee)
+       (AUX has)
+       (VP raised
+	   (NP the requirements)
+	   (SBAR  so
+		  that
+		  (S (NP a junior)
+		     (AUX must)
+		     (VP win
+			 (NP  3
+			      or
+			      more 
+			      Junior
+			      Classes)
+			 (PP in
+			     (NP the  open division)))
+		     (ADVP only)
+		     (S (NP *)
+			(AUX to)
+			(VP qualify
+			    (PP for
+				(NP Westminster)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Percy Roberts)
+       ,
+       (NP a  leading judge))
+   (AUX will)
+   (NEG not)
+   (VP be
+       (PP at
+	   (NP the  International Show))
+       (NP this year)
+       (PP for
+	   (NP the
+	       Junior
+	       Judging Contest)))
+   (SBAR  as
+	  (S (NP he)
+	     (AUX has)
+	     (VP been
+		 (VP invited
+		       
+		     (S (NP *)
+			(AUX to)
+			(VP judge
+			    (PP in
+				(NP Australia)))
+			(PP in
+			    (NP March))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(X  (S (NP  Judging class
+	    (PP for
+		(NP intermediates)))
+       (VP proposed))
+    )
+((S (NP It)
+    (AUX has)
+    (VP been
+	(VP suggested
+	    (NP many times)
+	    (SBAR that
+		  (S (NP a Class)
+		     (AUX be)
+		     (VP set
+			 (PRT up)
+			 (PP for
+			     (NP (NP the Juniors)
+				 (SBAR 
+				  (WHNP who)
+				  (S (NP T)
+				     (VP (VP are
+					     (ADJP overage))
+					 and
+					 (X (AUX can)
+					    (NEG not)
+					    (VP enter
+						(NP the  Junior Classes)))))))))
+		     )))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP For
+        (NP some time))
+    (S (NP this writer)
+       (AUX has)
+       (VP been
+	   (VP suggesting
+	       (NP a
+		   Junior
+		   Judging
+		   Class
+		   (PP for
+		       (NP  (NP Intermediates
+				(PP  (PP over
+					 (NP 16))
+				     and
+				     (PP under
+					 (NP 20 years
+					     (PP of
+						 (NP age))))))
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP are
+					 (ADJP ineligible
+					       (S (NP *)
+						  (AUX to)
+						  (VP compete
+						      (PP in
+							  (NP the  Junior Class)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Such
+	a Class)
+    (AUX was)
+    (VP tried
+	(PRT out)
+	(ADVP successfully)
+	(PP at
+	    (NP the Westchester KC Show))
+	(ADVP recently)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SINV (CONJP Not
+		 only)
+	  (VP were)
+	  (NP the contestants)
+	  (ADJP pleased
+		(PP with
+		    (NP the Class))))
+    ,
+    but
+    (S (NP it)
+       (VP aroused
+	   (NP the interest
+	       (PP of
+		   (NP (NP all)
+		       (X (PP in
+			      (NP attendance))
+			  (NP that day))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Intermediates
+	  (PP in
+	      (NP the Class
+		  (PP with
+		      (NP the Judge)))))
+      (AUX were)
+      (VP asked
+	     
+	  (S (NP *)
+	     (AUX to)
+	     (VP (VP pick
+		     (NP 4 winners))
+		 and
+		 (VP give
+		     (NP their reasons))))))
+     but
+     (S (NP their decisions)
+	(AUX did)
+	(NEG not)
+	(VP affect
+	    (NP the choice
+		(PP of
+		    (NP the Judge))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP We)
+     (VP suggested
+	 (NP this Class)
+	 (PP in
+	     (NP the horse world))))
+    and
+    (S (NP it)
+       (AUX was)
+       (VP (VP accepted
+	       (ADVP immediately))
+	   and
+	   (VP included
+	       (PP in
+		   (NP the programs
+		       (PP of
+			   (NP horse shows))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP the  recent horse show convention
+	   (PP in
+	       (NP New York))))
+   (S
+    (NP it)
+    (AUX was)
+    (VP stated
+	 
+	(SBAR that
+	      (S (NP this
+		     Intermediate
+		     Judging
+		     Class)
+		 (X (X  (AUX is)
+			(VP meeting
+			    (PP with
+				(NP  great success))))
+		    and
+		    (X (AUX will)
+		       (VP be
+			   (NP a  great help)
+			   (PP to
+			       (NP  future judges
+				    (PP in
+					(NP the horse world))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This Class)
+   (AUX can)
+   (VP be
+       (ADJP  (ADVP just)
+	      as
+	      successful)
+       (PP in
+	   (NP the dog world)))
+   (SBAR if
+	 (S (NP it)
+	    (AUX is)
+	    (VP given
+		      
+		(NP a chance)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Last year)
+    (S (NP (NP Robert Harris)
+	   ,
+	   (NP a  leading  Junior Handler))
+       (VP (VP entered
+	       (NP  the Dog Judging Contest
+		    *LRB*
+		    Junior
+		    *RRB*
+		    (PP at
+			(NP the  (NP International KC
+				     (PP of
+					 (NP Chicago))) 
+			    show))))
+	   and
+	   (VP had
+	       (NP the
+		   highest
+		   score
+		   (PP in
+		       (NP judging))
+		   (PP of
+		       (NP any Junior
+			   (PP  since
+				(NP (NP the Class)
+				    ' inception)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Juniors)
+	 (SBAR  
+	  (WHNP who)
+	  (S (NP T)
+	     (VP attend
+		 (NP this Chicago show)))))
+     (AUX should)
+     (VP make
+	 (NP a point)
+	 (S (NP *)
+	    (AUX to)
+	    (VP enter
+		(NP this Class))))
+     (SBAR as
+	   (S (NP it)
+	      (AUX would)
+	      (VP be
+		  (PP of
+		      (NP  great help))
+		  (PP to
+		      (NP them))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(X (NP (NP More
+	   volunteer handlers)
+       (VP needed
+	   (S (NP *)
+	      (AUX to)
+	      (VP judge
+		  )))))
+( 
+ (S (NP Superintendents
+	(PP at
+	    (NP dog shows)))
+    (VP state
+	(SBAR 0
+	      (S (NP it)
+		 (AUX is)
+		 (VP becoming
+		     (ADJP  more
+			    difficult)
+		     (S (NP *)
+			(AUX to)
+			(VP obtain
+			    (NP (NP a  licensed Handler)
+				(S (NP *)
+				   (AUX to)
+				   (VP Judge
+				       (NP  Junior Showmanship Competition)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The founder
+	     (PP of
+		 (NP the  Junior Showmanship Competition)))
+	 (NP the
+	     late
+	     Leonard Brumby
+	     ,
+	     Sr.)
+	 *LRB*
+	 (SBAR (WHPP for
+		     (WHNP whom))
+	       (S (NP the trophy)
+		  (AUX is)
+		  (VP named
+		      (PP after
+			  (NP *))
+		      (PP at
+			  (NP Westminster)))
+		  ))
+	 *RRB*)
+     (VP (VP was
+	     (NP an  outstanding Handler))
+	 and
+	 (VP believed
+	     (SBAR 0
+		   (S (NP a Junior)
+		      (AUX should)
+		      (VP have
+			  (NP (NP an opportunity)
+			      (S (NP *)
+				 (AUX to)
+				 (VP exhibit
+				     (PP in
+					 (NP a dog show)))
+				 (S (NP *) 
+				    (VP starting
+					(PP with
+					    (NP the  Junior Showmanship Division))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP Some years)
+	  ago)
+    (S (NP this Class)
+       (AUX was)
+       (VP judged
+	   
+	   (PP by
+	       (NP (NP celebrities)
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (VP knew
+				(NP nothing
+				    (PP  of
+					 (SBAR (WHNP what)
+					       (S  (NP T)
+						   (AUX was)
+						   (VP required
+						       (PP of
+							   (NP 
+							    (NP a Junior)
+							    's ability
+							    (S (NP *)
+							       (AUX to)
+							       (VP show
+								   (NP a dog))))))))))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *)
+	(AUX To)
+	(VP overcome
+	    (NP this  unfair judging)))
+     ,
+     (S (NP the A.K.C.)
+	(VP requires
+	    (SBAR that
+		  (S (NP a  licensed Handler)
+		     (VP be
+			 (ADJP present))
+		     (S (NP *)
+			(AUX to)
+			(VP judge
+			    (NP the Class))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR  If
+	    (S (NP the superintendents)
+	       (AUX do)
+	       (NEG not)
+	       (VP receive
+		   (NP 
+		    more
+		    cooperation
+		    (PP from
+			(NP Handlers))))))
+     ,
+     (S (NP it)
+	(AUX has)
+	(VP been
+	    (VP suggested
+	        
+		(SBAR that
+		      (S (NP  licensed Judges)
+			 (ADVP also)
+			 (VP  be
+			      (ADJP  qualified
+				     (S (NP *)
+					(AUX to)
+					(VP judge
+					    (NP this Class)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP By
+	(S  (NP *) 
+	    (VP   (VP recognizing
+		      (NP-1 *pseudo-attach*))
+		  and
+		  (VP helping
+		      (NP-1 Juniors)
+		      (VP get
+			  (ADJP interested
+				(PP in
+				    (NP the dog world))))))))
+    ,
+    (S (NP all)
+       (AUX will)
+       (VP be
+	   (VP helping
+	       (S (NP *)
+		  (AUX to)
+		  (VP create
+		      (NP  future dog owners)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(X (NP Other awards
+       (PP for
+	   (NP Juniors))))
+(
+ (S (NP (NP The Airedale Terrier Club
+	    (PP of
+		(NP America)))
+	and
+	(NP the Kerry  Blue Terrier Club
+	    (PP of
+		(NP America))))
+    (VP have
+	(PP under
+	    (NP consideration))
+	(S (NP *)
+	   (VP donating
+	       (NP trophies)
+	       (PP to
+		   (NP (NP the boys or girls)
+		       (SBAR (WHNP who)
+			     (S (NP T)
+				(VP win
+				    (PP with
+					(NP their breeds))
+				    (PP in
+					(NP  Junior Showmanship Competition
+					     (PP at
+						 (NP any Show)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The Kansas City
+      and
+      the Topeka KCs)
+  (AUX are)
+  (VP arranging
+      (SBAR that
+	    (S (NP (NP Juniors)
+		   (SBAR  
+		    (WHNP who)
+		    (S (NP T)
+		       (VP win
+			   (PP at
+			       (NP their shows))))))
+	       (AUX will)
+	       (VP be
+		   (VP qualified
+		        
+		       (S (NP *)
+			  (AUX to)
+			  (VP win
+			      (NP points)
+			      (PP for
+				  (NP Westminster))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Rio Grande KC)
+    (AUX is)
+    (ADVP also)
+    (VP considering
+	(S (NP *)
+	   (VP having
+	       (NP their  Junior
+		   Classes)
+	       (VP set
+		   (PRT up)
+		   (SBAR  so
+			  that
+			  (S (NP Juniors)
+			     (AUX can)
+			     (VP qualify
+				 (PP with
+				     (NP points))
+				 (PP for
+				     (NP Westminster))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  American Pointer Club)
+   (AUX is)
+   (ADVP still)
+   (VP continuing
+       (S (NP *)
+	  (AUX to)
+	  (VP donate
+	      (NP trophies)
+	      (PP to
+		  (NP (NP Juniors)
+		      (SBAR 
+		       (WHNP who)
+		       (S (NP T)
+			  (VP win
+			      (PP at
+				  (NP  Junior Showmanship Classes))
+			      (PP with
+				  (NP Pointers)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  (S  (NP *)  
+	 (VP Traveling
+	     (PP through
+		 (NP the South))
+	     --
+	     (NP  over
+		  16,000 miles)
+	     --
+	     (PP with
+		 (NP (NP two  Great Danes)
+		     ,
+		     (NP an Afghan)
+		     ,
+		     and
+		     (NP a  Persian kitten)))))
+     ,
+     (S (NP we)
+	(AUX 've)
+	(VP worked
+	    (PRT up)
+	    (NP a  regular routine
+		(PP for
+		    (NP acceptance
+			(PP at
+			    (NP motels))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP My husband)
+     (VP (VP enters
+	     (NP the motel office))
+	 ,
+	 (VP signs
+	     (PRT up)
+	     (PP for
+		 (NP a room)))
+	 ,
+	 and
+	 (ADVP then)
+	 (VP (ADVP solemnly)
+	     asks
+	     (NP the proprieter)
+	     (SBAR if
+		   (S (NP he)
+		      (VP accepts
+			  (NP pets)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  (NP ``
+	    Puppies
+	    ''
+	    ?)
+	(VP Comes)
+	(NP the  suspicious question))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (INTJ  ``
+	   No
+	   '')
+    ,
+    (S (NP he)
+       (VP replies))
+    ,
+    (NP  ``
+	 (NP full
+	     grown
+	     ,
+	     adult show 
+	     dogs)
+	 ,
+	 (ADJP  housebroken
+		,
+		and
+		obedience-trained)
+	 ''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX 've)
+    (ADVP never)
+    (VP been
+	(VP refused)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+((S  (SBAR  Once
+	    (S (NP *)
+	       (VP settled)))
+     ,
+     (S (NP we)
+	(VP 're
+	    (ADJP careful)
+	    (S (NP *)
+	       (AUX to)
+	       (VP (VP walk
+		       (NP the dogs)
+		       (PP in
+			   (NP an (ADJP   out
+					  of
+					  the way)
+			       spot)))
+		   ,
+		   (VP keep
+		       (NP them)
+		       (PP under
+			   (NP control))
+		       (PP in
+			   (NP the room)))
+		   ,
+		   and
+		   (VP   feed and  bench
+			 (NP them)
+			 (SBAR (WHADVP where)
+			       (S (NP they)
+				  (AUX ca)
+				  (NEG n't)
+				  (VP do
+				      (NP any harm)
+				      (PP to
+					  (NP (NP the furnishings)
+					      or
+					      (NP the furniture))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the morning))
+     (S (NP we)
+	(VP leave
+	    (NP the room)
+	    (VP looking
+		(ADJP  as
+		       neat
+		       (PP as
+			   (NP a pin)))))))
+  !)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Many
+       a motel owner)
+   --
+   (SBAR 
+    (WHADVP when)
+    (S (NP we)
+       (AUX 've)
+       (VP stopped
+	   (ADVP there)
+	   (ADVP again))))
+   --
+   (X  (X (AUX has)
+	  (VP remembered
+	      (NP us)))
+       and
+       (X (AUX has)
+	  (VP said
+	      (SBAR 0
+		    (S (NP he)
+		       (VP preferred
+			   (NP our dogs)
+			   (PP to
+			       (NP 
+				most
+				children)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP  So
+	  many times)
+     (S (NP I)
+	(AUX have)
+	(VP wondered
+	    (SBAR 
+	     (WHADVP why)
+	     (S (NP veterinarians)
+		(AUX do)
+		(NEG not)
+		(VP wipe
+		    (NP the table)
+		    (ADJP clean))
+		(PP before
+		    (S (NP each  new canine patient)
+		       (AUX is)
+		       (VP placed
+				     
+			   (PP on
+			       (NP it))
+			   (PP for
+			       (NP examination))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  
+  (VP Is)
+  (NP it)
+  (SBAR that
+	(S (NP they)
+	   (AUX do)
+	   (NEG n't)
+	   (VP care
+	       ))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  
+  (VP Are)
+  (NP they)
+  (ADJP indifferent
+	(PP to
+	    (NP (NP the fact)
+		(SBAR that
+		      (S (NP the dog)
+			 (AUX can)
+			 (VP (ADVP easily)
+			     pick
+			     (PRT up)
+			     (NP germs)
+			     (PP from
+				 (NP the  (ADJP preceding) patient)))
+			 ))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

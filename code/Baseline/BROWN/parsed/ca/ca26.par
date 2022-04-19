@@ -1,0 +1,2096 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Probably)
+      (S (NP (NP the
+		 (ADJP hottest)
+		 thing)
+	     (SBAR  
+	      (WHNP that)
+	      (S (NP T)
+		 (AUX has)
+		 (VP hit
+		     (NP the Dallas investment community))))
+	     (PP in
+		 (NP years)))
+	 (VP was
+	     (NP (NP the Morton Foods stock issue)
+		 ,
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX was)
+		     (VP sold
+		     
+			 (PP to
+			     (NP the public)))
+		     (PP during
+			 (NP the past week))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP many reasons))
+   ,
+   (S  
+    (NP the demand
+	(S (NP *)
+	   (AUX to)
+	   (VP buy
+	       (NP shares
+		   (PP in
+		       (NP the (ADJP Dallas-headquartered) company))))))
+    (VP was
+	(ADJP tremendous))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP was
+	  (NEG not)
+	  (NP a case
+	      (PP of
+		  (S (NP the investment bankers)
+		     (VP having
+			 (S (NP *)
+			    (AUX to)
+			    (VP sell
+				(NP the stock)))))))))
+     ;
+     ;
+     (S (NP it)
+	(VP was
+	    (ADVP more)
+	    (NP one
+		(PP of
+		    (S  (NP *) 
+			(VP (VP allotting
+				(NP a few shares)
+				(PP to
+				    (NP a number
+					(PP of
+					    (NP customers)))))
+			    and
+			    (VP explaining
+				(PP to
+				    (NP others))
+				(SBAR 
+				 (WHADVP why)
+				 (S (NP they)
+				    (VP had
+					(NP  no
+					     more
+					     (S (NP *)
+						(AUX to)
+						(VP sell))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+((S (S (NP (NP Investors)
+	   (SBAR  
+	    (WHNP who)
+	    (S (NP T)
+	       (VP wanted
+		   (NP 100 shares)))))
+       (PP in
+	   (NP many cases))
+       (VP ended
+	   (PRT up)
+	   (PP with
+	       (NP 25))))
+    ,
+    and
+    (S  
+     (NP (NP customers)
+	 (SBAR 
+	  (WHNP who)
+	  (S (NP T)
+	     (AUX had)
+	     (VP put
+		 (PRT in)
+		 (NP a bid
+		     (S (NP *)
+			(AUX to)
+			(VP buy
+			    (NP 400 shares))))))))
+     (VP (VP found
+	     (NP themselves)
+	     (PP with
+		 (NP 100)))
+	 and
+	 (VP counted
+	     (NP themselves)
+	     (ADJP lucky
+		   (S (NP *)
+		      (AUX to)
+		      (VP get
+			  (NP (ADVP that)
+			      many))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP fact))
+   ,
+   (S  
+    (NP  (ADJP very
+	       few) customers)
+    ,
+    (ADVP anywhere
+	  (PP in
+	      (NP the nation)))
+    ,
+    (VP were
+	(ADJP able
+	      (S (NP *)
+		 (AUX to)
+		 (VP get
+		     (NP (ADJP more
+			       (PP than
+				   (NP 100)))
+			 shares)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some Dallas investment firms)
+   (VP got
+       (NP  (ADVP only)
+	    100 shares)
+       ,
+       (PP for
+	   (NP all
+	       (PP of
+		   (NP their customers))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A measure
+	(PP of
+	    (SBAR (ADJP (WHADVP how)
+			hot)
+		  (S (NP the stock)
+		     (VP was)))))
+    ,
+    (AUX can)
+    (VP be
+	(VP found
+	     
+	    (PP in
+		(SBAR (WHNP what)
+		      (S  (NP T) 
+			  (VP happened
+			      (PP to
+				  (NP it)))
+			  (PP on
+			      (NP the market))
+			  (ADVP as
+				soon
+				(PP as
+				    (S (NP trading)
+				       (VP began))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The stock)
+   (AUX was)
+   (VP sold
+	     
+       (PP in
+	   (NP the underwriting))
+       (PP at
+	   (NP a price
+	       (PP of
+		   (NP (NP $ 12.50)
+		       (NP a share)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The
+      first (ADJP over-the-counter)
+      trade)
+  (NP Wednesday afternoon)
+  (PP at
+      (NP (NP Eppler
+	      ,
+	      Guerin
+	      &
+	      Turner)
+	  ,
+	  (NP the managing underwriter)
+	  ,))
+  (VP was
+      (PP at
+	  (NP (NP $ 17)
+	      (NP a share)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (PP from
+	  (NP  that))
+      (S (NP the stock)
+	 (VP moved
+	     (ADVP right
+		   on
+		   up)
+	     (PP until
+		 (S (NP it)
+		    (AUX was)
+		    (VP trading
+			(NP Thursday morning)
+			(PP at
+			    (NP (NP (ADVP around)
+				    $ 22)
+				(NP a share)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the Morton Foods issue)
+	 (VP was
+	     (ADJP hot))
+	 (PP  (ADVP long)
+	      before
+	      (S (NP it)
+		 (VP was
+		     (PP on
+			 (NP the market)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (PP from
+	  (NP (NP the moment)
+	      (S (NP the reports
+		     (PP of
+			 (NP the (ADJP coming) issue)))
+		 (ADVP first)
+		 (VP started
+		     (S (NP *) 
+			(VP circulating)))
+		 (PP in
+		     (NP Dallas))
+		 (NP (ADJP last)
+		     January))))
+      ,
+      (S (NP the inquiries and demand
+	     (PP for
+		 (NP the stock)))
+	 (VP started
+	     (S  (NP *) 
+		 (VP building
+		     (PRT up))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Letters
+       (PP by
+	   (NP the reams)))
+   (VP came
+       (ADVP in)
+       (PP from
+	   (NP (NP investment firms)
+	       (PP all
+		   over
+		   (NP the nation)))))
+   ,
+   (S (NP all
+	  (PP of
+	      (NP them)))
+      (VP wanting
+	  (S (NP *)
+	     (AUX to)
+	     (VP get
+		 (NP a part
+		     (PP of
+			 (NP (NP the shares)
+			     (SBAR  
+			      (WHNP that)
+			      (S (NP T)
+				 (AUX would)
+				 (VP be
+				     (VP sold
+					 ))))
+			     *LRB*
+			     (X (NP 185,000)
+				(PP to
+				    (NP the public))
+				(PP at
+				    (NP $ 12.50))
+				,
+				(PP with
+				    (NP (NP another 5,000)
+					(VP reserved
+					    (PP for
+						(NP Morton Foods employes))
+					    (PP at
+						(NP (NP $ 11.50)
+						    (NP a share)))))))
+			     *RRB*))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP  (ADVP even)
+	    a cable
+	    (PP in
+		(NP French))
+	    (PP from
+		(NP (NP a bank
+			(PP in
+			    (NP Switzerland)))
+		    (SBAR 
+		     (WHNP that)
+		     (S (NP T)
+			(AUX had)
+			(ADVP somehow)
+			(VP learned
+			    (PP about
+				(NP the Dallas stock offering))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (VP subscribe
+	  (NP 500 shares
+	      (PP of
+		  (NP Morton Foods
+		      (PP of
+			  (NP Texas)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Cable confirmation)
+   ''
+   ,
+   (S (NP it)
+      (VP said)
+      (S  (NP *) 
+	  (VP translated))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP E.G.T.)
+	 (AUX could)
+	 (NEG not)
+	 (VP let
+	     (NP the Swiss bank)
+	     (VP have
+		 (NP  (ADVP even)
+		      10 shares)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (S (NP it)
+	  (VP allotted
+	      (NP shares)
+	      (PP to
+		  (NP 41 underwriters
+		      and
+		      52 selling group members
+		      (PP (PP from
+			      (NP coast))
+			  (PP to
+			      (NP coast))))))))
+   (S
+    (NP there)
+    (VP were
+	(NEG not)
+	(NP many shares
+	    (PP for
+		(NP anyone))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the result
+	     (PP of
+		 (NP it
+		     all)))
+	 (VP was
+	     ,
+	     (S (NP  E.G.T. partner
+		     (NP Dean Guerin))
+		(VP believes
+		    ))
+	     ,
+	     (NP an effective distribution
+		 (PP of
+		     (NP the stock))
+		 (PP to
+		     (NP owners
+			 (PP all
+			     over
+			     (NP the nation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP feel
+	     (ADJP confident
+		   (SBAR 0
+			 (S (NP the stock)
+			    (AUX will)
+			    (VP qualify
+				(PP for
+				    (NP the
+					'
+					national list
+					'))))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)
+	 ,
+	 (S (NP *) 
+	    (VP meaning
+		(SBAR 0
+		      (S (NP its market price)
+			 (AUX would)
+			 (VP be
+			     (VP quoted
+				 (ADVP regularly)
+				 (PP in
+				     (NP newspapers
+					 (PP   all
+					       over
+					       (NP the country))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX was)
+    (ADVP also)
+    (VP pleased
+	        
+	(PP with
+	    (NP the wide distribution)))
+    (SBAR because
+	  (S (NP he)
+	     (VP thought
+		 (SBAR 0
+		       (S (NP it)
+			  (VP proved
+			      (ADVP again)
+			      (NP his argument
+				  (SBAR that
+					(S (NP Dallas investment men)
+					   (AUX can)
+					   (VP do
+					       (NP (ADJP  (ADVP just)
+							  as
+							  good)
+						   a job
+						   (PP as
+						       (S (NP the
+							      big
+							      New York investment bankers)
+							  (VP claim
+							      (SBAR 0
+								    (S (NP  (ADVP only)
+									    they)
+								       (AUX can)
+								       (VP do
+									   (NP T) ))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (SBARQ  But
+	  (SBARQ 
+	   (WHNP what)
+	   (S (NP T)
+	      (VP made
+		  (NP the Morton Foods stock
+		      issue)
+		  (NP such
+		      a
+		      hot
+		      one)))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The answer)
+   (VP is
+       (SBAR that
+	     (S (NP it)
+		(VP was
+		    (NP a combination
+			(PP of
+			    (NP circumstances))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP First)
+      ,
+      (S (NP the general stock market)
+	 (AUX has)
+	 (VP been
+	     (VP boiling
+		 (ADVP upward)
+		 (PP for
+		     (NP the
+			 (ADJP last)
+			 few months))))
+	 ,
+	 (S (NP *) 
+	    (VP driving
+		(NP stocks
+		    (PP of
+			(NP all kinds)))
+		(ADVP up)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP a result))
+   ,
+   (S (NP it
+	  (S-1 *pseudo-attach*))
+      (VP is
+	  (NEG not)
+	  (ADJP easy))
+      (S-1 (NP *)
+	   (AUX to)
+	   (VP find
+	       (NP (NP a stock)
+		   (VP priced
+		       (PP (PP as
+			       (S (NP the Morton issue)
+				  (AUX was)
+				  (VP priced
+				      )))
+			   *LRB*
+			   (PP at
+			       (NP  (ADVP roughly)
+				    10
+				    times
+				    (NP 1960 earnings))
+			       ,
+			       (S (NP *)
+				  (AUX to)
+				  (VP yield
+				      (NP (ADVP (NP a little)
+						over)
+					  5
+					  (PP per
+					      (NP cent)))
+				      (PP on
+					  (NP the
+					      (ADJP 64-cent) anticipated
+					      dividend)))))
+			   *RRB*)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADJP Second)
+   ,
+   (S (S (NP the
+	     ``
+	     potato chip industry
+	     '')
+	 (AUX has)
+	 (VP caught
+	     (NP the fancy
+		 (PP of
+		     (NP investors))))
+	 (ADVP lately))
+      ,
+      and
+      (S  
+       (PP until
+	   (S (NP Morton Foods)
+	      (VP came
+		  (ADVP along))))
+       (S (NP there)
+	  (VP were
+	      (ADVP only)
+	      (NP (NP two potato chip stocks)
+		  --
+		  (NP (NP Frito)
+		      and
+		      (NP H.W. Lay))
+		  --)
+	      (PP on
+		  (NP the market)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Both
+	   (PP of
+	       (NP those)))
+       (AUX have)
+       (VP had
+	   (NP dynamic run-ups
+	       (PP in
+		   (NP price)))
+	   (PP on
+	       (NP the market))
+	   (PP in
+	       (NP recent months))))
+    ,
+    (S (NP both)
+       (AUX were)
+       (VP selling
+	   (PP at
+	       (NP 
+		(ADJP higher)
+		price-earnings and yield bases
+		(PP than
+		    (S (NP Morton)
+		       (AUX was)
+		       (VP coming
+			   (PP to
+			       (NP market))
+			   (PP at
+			       (NP T) ))))))))
+    ,
+    and
+    (S  
+     (NP (NP everyone)
+	 (SBAR  
+	  (WHNP who)
+	  (S (NP T)
+	     (VP knew
+		 (NP anything
+		     (PP about
+			 (NP it)))))))
+     (VP expected
+	 (S (NP the Morton stock)
+	    (AUX to)
+	    (VP have
+		(NP a fast run-up))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (ADJP third)
+      ,
+      (S (NP the potato chip industry)
+	 (AUX has)
+	 (VP taken
+	     (PRT on)
+	     (NP the flavor
+		 (PP of
+		     (NP a
+			 ``
+			 growth
+			 ''
+			 industry))))
+	 (PP in
+	     (NP the public mind))
+	 (PP of
+	     (ADVP late))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S   
+  (NP (NP Foods)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S   (NP T) 
+	    (ADVP long)
+	    (AUX had)
+	    (VP been
+		(VP considered
+		    (NP (ADJP (ADJP   ``
+				      recession resistant
+				      '')
+			      but
+			      (ADJP (ADVP hardly)
+				    dynamic))
+			stocks)))))
+      ,)
+  (AUX have)
+  (VP been
+      (VP acting
+	  (PP like
+	      (NP growth stocks))
+	  ,
+	  (S (NP *) 
+	     (VP going
+		 (PP to
+		     (NP 
+		      (ADJP higher)
+		      price-earnings
+		      ratios)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The potato chip industry)
+  (NP these days)
+  (AUX is)
+  (VP growing
+      )
+  ,
+  (X (CONJP  not
+	     only)
+     (PP as
+	 (NP a result
+	     (PP of
+		 (NP (NP population increase)
+		     and
+		     (NP public acceptance
+			 (PP of
+			     (NP convenience foods)))))))
+     ,
+     (CONJP but
+	    also)
+     (ADVP because
+	   (PP of
+	       (NP (NP a combination
+		       (PP of
+			   (NP circumstances)))
+		   (SBAR 
+		    (WHNP that)
+		    (S (NP T)
+		       (AUX has)
+		       (VP led
+			   (PP to
+			       (NP growth
+				   (PP by
+				       (NP merger))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The history
+       (PP of
+	   (NP the U.S. potato chip industry)))
+   (VP is
+       (SBAR that
+	     (S (NP many
+		    (PP of
+			(NP (NP today)
+			    's
+			    successful companies)))
+		(AUX got)
+		(VP started
+		    )
+		(PP during
+		    (NP the deep depression days))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( 
+ (S (NP (NP Those)
+	(SBAR  
+	 (WHNP that)
+	 (S (NP T)
+	    (VP remain))))
+    (VP are
+	(NP (NP those)
+	    (SBAR 
+	     (WHNP that)
+	     (S (NP T)
+		(AUX were)
+		(VP headed
+		        
+		    (PP by
+			(NP (NP strong executives)
+			    ,
+			    (NP men
+				(PP with
+				    (NP the abilities
+					(S (NP *)
+					   (AUX to)
+					   (VP last
+					       (NP  (ADVP almost)
+						    30 years)
+					       (PP in
+						   (NP the competitive survival
+						       (PP of
+							   (NP the
+							       (ADJP fittest))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (NP today)
+      (S (NP many
+	     (PP of
+		 (NP those men)))
+	 (AUX are)
+	 (VP (VP reaching
+		 (NP retirement age))
+	     and
+	     (VP (ADVP suddenly)
+		 realizing
+		 (SBAR (SBAR that
+			     (S (NP they)
+				(VP face
+				    (NP an estate tax problem))
+				(PP with
+				    (NP their
+					(VP  (ADVP closely)
+					     held)
+					companies))))
+		       and
+		       (ADVP also)
+		       (SBAR that
+			     (S (NP they)
+				(VP have
+				    (NP no second-echelon management)
+				    (PP in
+					(NP their firms))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP So)
+    (S (S (NP they)
+	  (VP go
+	      (S  (NP *) 
+		  (VP looking
+		      (PP for
+			  (NP mergers
+			      (PP with
+				  (NP (NP other firms)
+				      (SBAR 
+				       (WHNP that)
+				       (S (NP T)
+					  (VP have
+					      (NP (VP (ADVP publicly)
+						      quoted)
+						  stock))))))))))))
+       ,
+       and
+       (S  (ADVP  almost
+		  daily)
+	   (S (NP they)
+	      (VP pound
+		  (PP on
+		      (NP the doors
+			  (PP of
+			      (NP firms
+				  (PP like
+				      (NP Frito)))))))))))  
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All
+       those things)
+   (VP combined
+       (S (NP *)
+	  (AUX to)
+	  (VP make
+	      (NP the Morton Foods stock)
+	      (NP (NP the hot issue)
+		  (SBAR (WHNP that)
+			(S (NP it)
+			   (VP (VP was
+				   (NP T))
+			       and
+			       (VP is
+				   (NP T) )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      ,
+      (SBAR if
+	    (S  
+	     (NP (NP 
+		  (NP Morton)
+		  's
+		  newest
+		  product)
+		 ,
+		 (NP (NP a corn chip)
+		     (VP known
+			 (PP as
+			     (NP 
+			      (NP Chip-o)
+			      's))))
+		 ,)
+	     (VP turns
+		 (PRT out)
+		 (S (NP *)
+		    (AUX to)
+		    (VP sell
+			(ADVP as
+			      well
+			      (PP as
+				  (S (NP its stock)
+				     (VP did)))))))))
+      ,
+      (S (NP the stock)
+	 (AUX may)
+	 (VP turn
+	     (PRT out)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP worth
+			  (NP every cent
+			      (PP of
+				  (NP (NP the prices)
+				      (SBAR that
+					    (S (NP the avid buyers)
+					       (VP bid
+						   (NP it)
+						   (PP up
+        
+						       (PP to
+							   (NP T) ))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Dallas)
+      and
+      (NP North Texas))
+  (AUX is)
+  (VP known
+      (ADVP  world-wide)
+      (PP as
+	  (NP the manufacturing and distribution center
+	      (PP of
+		  (NP (NP cotton gin machinery and supplies)
+		      ,
+		      (VP valued
+			  (PP in
+			      (NP the millions
+				  (PP of
+				      (NP dollars)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  (ADJP More
+		  (PP than
+		      (NP 10)))
+	    companies)
+       (VP maintain
+	   (NP facilities)
+	   (PP in
+	       (NP Dallas))))
+    and
+    (S (NP one large manufacturer)
+       (AUX is)
+       (VP located
+	    
+	   (PP to
+	       (NP the north))
+	   (PP at
+	       (NP Sherman)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (NP no coincidence))
+   (SBAR-2 that
+	 (S (NP
+	     (NP the Texas Cotton Ginner)
+	     's Association)
+	    (AUX is)
+	    (VP meeting
+		(ADVP here))
+	    (NP this week)
+	    (PP for
+		(NP the 46th time
+		    (PP in
+			(NP their (ADJP 52-year) history)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The exhibition
+       (PP of
+	   (NP cotton ginning machinery))
+       (PP at
+	   (NP the State Fair grounds)))
+   (AUX is)
+   (VP valued
+	     
+       (PP at
+	   (NP  (ADJP more
+		      (PP than
+			  (NP a million)))
+		dollars))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP weighs
+	  (PP in
+	      (NP the tons))))
+     ,
+     so
+     (S (NP the proximity
+	    (PP of
+		(NP factory and exhibition area)))
+	(VP makes
+	    (NP it)
+	    (ADJP possible
+		  (PP for
+		      (NP an outstanding exhibit
+			  (NP each year)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A modern cotton gin plant)
+      (VP costs
+	  (PP in
+	      (NP the neighborhood
+		  (PP of
+		      (NP $ 250,000))))))
+     ,
+     and
+     (S (NP it
+	    (SBAR-3 *pseudo-attach*))
+	(VP 's
+	    (NP a safe assumption))
+	(SBAR-3 that
+	      (S (NP a large percentage
+		     (PP of
+			 (NP new gins
+			     (PP in
+				 (NP (NP the U.S.)
+				     and
+				     (NP foreign countries))))))
+		 (VP contain
+		     (NP (NP machinery)
+			 (VP made
+			     (PP in
+				 (NP this area)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The Murray Co.
+      (PP of
+	  (NP Texas))
+      ,
+      Inc.
+      ,)
+  (VP originated
+      (PP in
+	  (NP Dallas))
+      (PP in
+	  (NP 1896))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (AUX 've)
+    (VP occupied
+	(NP a (ADJP 22-acre) site))
+    (PP  since
+	 (S (NP
+	     the
+	     (ADJP early)
+	     1900
+	     's))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP  
+     (ADJP More
+	   (PP than
+	       (NP 700)))
+     employees)
+    (VP make
+	(NP (NP gin machinery)
+	    (SBAR 
+	     (WHNP that)
+	     (S  (NP T)  
+		 (AUX 's)
+		 (VP sold
+		     (ADVP (NP anywhere
+			       (SBAR 0
+				     (S (NP cotton)
+					(AUX is)
+					(VP grown
+					    )))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Murray)
+      (VP makes
+	  (NP a complete line
+	      (PP of
+		  (NP ginning equipment))
+	      (PP except
+		  (PP for
+		      (NP (NP driers) and (NP cleaners)))))))
+     ,
+     and
+     (S (NP this machinery)
+	(AUX is)
+	(VP purchased
+	     
+	    (PP from
+		(NP a (ADJP Dallas-based) firm)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Continental Gin Co.)
+   (VP began
+       (NP operations))
+   (PP in
+       (NP Dallas))
+   (PP in
+       (NP 1899)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The present company)
+   (VP is
+       (NP a combination
+	   (PP of
+	       (NP (NP several smaller ones)
+		   (SBAR 
+		    (WHNP that)
+		    (S (NP T)
+		       (VP date
+			   (ADVP back
+				 (PP to
+				     (NP 1834)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Headquarters)
+   (VP is
+       (PP in
+	   (NP (NP Birmingham)
+	       ,
+	       (NP Ala
+		   .)))))
+  .)
+(  
+ (S (NP Factories)
+    (AUX are)
+    (VP located
+	(X  (ADVP here)
+	    and
+	    (PP in
+		(NP (NP Prattville)
+		    ,
+		    (NP Ala
+			.))))))
+ .
+ )
+( (S
+   (NP (ADVP About)
+       40
+       (PP per
+	   (NP cent))
+       (PP of
+	   (NP the manufacturing)))
+   (AUX is)
+   (VP done
+	     
+       (PP at
+	   (NP the Dallas plant))
+       (PP by
+	   (NP  (ADJP more
+		      (PP than
+			  (NP 200)))
+		employes))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The company)
+   (VP sells
+       (NP a complete line
+	   (PP of
+	       (NP gin machinery)))
+       (PP    all
+	      over
+	      (NP the (ADJP cotton-growing) world))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hardwicke-Etter Co.
+       (PP of
+	   (NP Sherman)))
+   (VP makes
+       (NP a full line
+	   (PP of
+	       (NP gin machinery and equipment)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The firm)
+   (ADVP recently)
+   (VP expanded
+       (NP domestic sales)
+       (PP into
+	   (NP the Southeastern states)))
+   (PP as
+       (NP a result
+	   (PP of
+	       (NP an agreement
+		   (PP with
+		       (NP Cen-Tennial Gin Co
+			   .)))))))
+  .)
+( (S
+   (NP They)
+   (VP export)
+   (ADVP also))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The company)
+   (VP began
+       (NP operation)
+       (PP in
+	   (NP 1900))
+       (PP with
+	   (NP hardware and oil mill supplies))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 1930))
+   ,
+   (S (NP they)
+      (VP began
+	  (S  (NP *) 
+	      (VP making
+		  (NP cotton processing equipment))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Presently)
+      ,
+      (S (NP Hardwicke-Etter)
+	 (VP employs
+	     (NP 300-450 people))
+	 ,
+	 (VP depending
+	     (PP on
+		 (NP the season
+		     (PP of
+			 (NP the year)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Lummus Cotton Gin Co.)
+   (AUX has)
+   (VP had
+       (NP a sales and service office)
+       (PP in
+	   (NP Dallas)))
+   (PP  since
+	(NP 1912)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Factory operations)
+   (VP are
+       (PP in
+	   (NP (NP Columbus)
+	       ,
+	       (NP Ga
+		   .)))))
+  .)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The district office
+       (ADVP here))
+   (VP employs
+       (NP (ADVP about)
+	   65)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The Moss Gordin Lint Cleaner Co.)
+      and
+      (NP Gordin Unit System
+	  (PP of
+	      (NP Ginning))))
+  (VP have
+      (NP joint headquarters)
+      (ADVP here)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The
+	  cleaner
+	  equipment firm)
+      (VP began
+	  (NP operations)
+	  (PP in
+	      (NP 1953))))
+   and
+   (S  
+    (NP (NP the unit system)
+	,
+	(SBAR 
+	 (WHNP which)
+	 (S (NP T)
+	    (VP turns
+		(PRT out)
+		(NP a complete ginning system))))
+	,)
+    (VP began
+	(NP operations)
+	(PP in
+	    (NP 1959)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gordin manufacturing operations)
+   (VP are
+       (PP in
+	   (NP Lubbock))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The John E. Mitchell Co.)
+   (VP began
+       (NP work)
+       (PP in
+	   (NP Dallas))
+       (PP in
+	   (NP 1928))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The firm)
+      (VP is
+	  (ADJP prominent
+		(PP in
+		    (S  (NP *) 
+			(VP making
+			    (NP (NP equipment
+				    (PP for
+					(S (NP *) 
+					   (VP cleaning
+					       (NP seed cotton)))))
+				,
+				(NP driers)
+				,
+				and
+				(NP heaters))))))))
+   ,
+   and
+   (S (NP they)
+      (VP lay
+	  (NP claim
+	      (PP to
+		  (S (NP *) 
+		     (VP being
+			 (NP the first maker
+			     *LRB*
+			     (NP 1910)
+			     *RRB*
+			     (PP of
+				 (NP boil extraction equipment))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The increase
+       (PP in
+	   (NP mechanical harvesting
+	       (PP of
+		   (NP cotton)))))
+   (VP makes
+       (NP cleaning and drying equipment)
+       (NP a
+	   must
+	   (PP for
+	       (NP modern gin operation)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mitchell)
+   (VP employs
+       (NP a total
+	   (PP of
+	       (NP (ADVP about)
+		   400 people)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP export
+       (NP cotton ginning machinery)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Hinckley Gin Supply Co.)
+   (VP is
+       (NP a maker
+	   (PP of
+	       (NP  ``
+		    overhead equipment
+		    '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP includes
+       (NP (NP (NP driers)
+	       ,
+	       (NP cleaners)
+	       ,
+	       (NP burr extractors)
+	       ,
+	       (NP separators)
+	       and
+	       (NP piping))
+	   (SBAR (WHNP that)
+		 (S (NP T) 
+		    (AUX 's)
+		    (VP located
+			(PP above
+			    (NP gin stands)))
+		    (PP in
+			(NP a complete gin)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The firm)
+   (VP (VP began
+	   (NP operations)
+	   (ADVP back
+		 (PP in
+		     (NP 1925))))
+       and
+       (VP sells
+	   (NP equipment)
+	   (PP in
+	       (NP (NP the central cotton belt)
+		   ,
+		   (VP including
+		       (NP the Mississippi Delta)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Cen-Tennial Gin Supply Co.)
+   (VP has
+       (NP (NP home offices) and (NP factory facilities)))
+   (ADVP here))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP (VP make
+	   (NP gin saws))
+       and
+       (VP deal
+	   (PP in
+	       (NP (NP parts)
+		   ,
+		   (NP supplies)
+		   and
+		   (NP some  (ADJP used) gin machinery))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Stacy Co.)
+   (VP makes
+       (NP cleaning and drying equipment
+	   (PP for
+	       (NP sale
+		   (PP (ADVP largely)
+		       in
+		       (NP Texas)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (AUX 've)
+    (VP been
+	(PP in
+	    (NP Dallas)))
+    (PP  since
+	 (NP 1921)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Cotton Belt Gin Service
+      ,
+      Inc.
+      (PP of
+	  (NP Dallas)))
+  (VP (VP makes
+	  (NP gin saws))
+      and
+      (VP started
+	  (ADVP here)
+	  (ADVP (NP 14 years)
+		ago))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP distribute
+       (NP equipment))
+   (PP in
+       (NP 11 states)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The firm)
+   (ADVP also)
+   (VP handles
+       (NP (NP gin and oil mill supplies)
+	   (ADJP  such
+		  (PP as
+		      (NP (NP belting)
+			  ,
+			  (NP bearings)
+			  ,
+			  etc
+			  .))))))
+  .)
+( (S
+   (NP Cotton processing equipment)
+   (VP is
+       (NP a sizable segment
+	   (PP of
+	       (NP Dallas business economy)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP New car sales
+       (PP in
+	   (NP Dallas County)))
+   (PP during
+       (NP March))
+   (VP showed
+       (NP slight signs
+	   (PP of
+	       (S (NP *) 
+		  (VP recovering
+		      (PP from
+			  (NP (NP the doldrums)
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (AUX have)
+				  (VP characterized
+				      (NP sales))
+				  (NP this year)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Registrations
+       (PP of
+	   (NP new cars))
+       (PP in
+	   (NP Dallas County)))
+   (VP cracked
+       (NP the 3,000 mark))
+   (PP in
+       (NP March))
+   (PP for
+       (NP the first time
+	   (NP this year))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Totaling
+	  (NP 3,399)))
+   ,
+   (S (NP sales)
+      (VP jumped
+	  (NP 14
+	      (PP per
+		  (NP cent))
+	      (PP over
+		  (NP 
+		   (NP February)
+		   's 2,963))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP *) 
+	 (VP compared
+	     (PP with
+		 (NP March 1960 new car sales
+		     (PP of
+			 (NP 4,441))))))
+      ,
+      (S (NP this March)
+	 (VP was
+	     (ADVP off
+		   (NP 23
+		       (PP per
+			   (NP cent)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP On
+      (NP a (ADJP quarter-to-quarter) comparison))
+  ,
+  (S (NP the first quarter
+	 (PP of
+	     (NP 1961 total
+		 (PP of
+		     (NP 9,273 cars)))))
+     (VP was
+	 (PP (NP 21
+		 (PP per
+		     (NP cent)))
+	     behind
+	     (NP 
+	      (NP the previous year)
+	      's (ADJP 3-month) total
+	      (PP of
+		  (NP 11,744)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This (ADVP year-to-year) decline
+	   (PP for
+	       (NP Dallas County)))
+       (VP  (ADVP closely)
+	    follows
+	    (NP the national trend)))
+    --
+    (S (NP (VP estimated)
+	   sales
+	   (PP of
+	       (NP domestic cars))
+	   (PP in
+	       (NP the U.S.))
+	   (PP for
+	       (NP  
+		(ADJP first)
+		three months
+		(PP of
+		    (NP 1961)))))
+       (VP were
+	   (NP (NP (ADVP about)
+		   1,212,000)
+	       or
+	       (NP 80
+		   (PP per
+		       (NP cent))
+		   (PP of
+		       (NP the total
+			   (PP in
+			       (NP the first quarter))
+			   (ADVP (NP a year)
+				 earlier))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP the March pickup))
+   ,
+   (S (NP dealers)
+      (VP are
+	  (ADJP optimistic
+		(SBAR that
+		      (S (NP the April-June quarter)
+			 (AUX will)
+			 (VP equal or top
+			     (NP last year))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The March gain)
+       plus
+       (NP this optimism))
+   (AUX has)
+   (VP been
+       (ADJP  encouraging
+	      (ADVP enough)
+	      (S (NP *)
+		 (AUX to)
+		 (VP prompt
+		     (NP auto makers)
+		     (S (NP *)
+			(AUX to)
+			(VP boost
+			    (NP production schedules
+				(PP for
+				    (NP the next quarter))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the local level))
+   ,
+   (S (NP compacts)
+      (VP continue
+	  (S (NP *)
+	     (AUX to)
+	     (VP grab
+		 (NP a
+		     (ADJP larger)
+		     share
+		     (PP of
+			 (NP the market))))))
+      (PP at
+	  (NP the expense
+	      (PP of
+		  (NP (NP 
+		       (ADJP lower-priced) standard
+		       models)
+		      and
+		      (NP foreign cars)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (ADVP Only)
+	  three standard models)
+      --
+      (NP (NP Buick)
+	  ,
+	  (NP Chrysler)
+	  ,
+	  and
+	  (NP Mercury))
+      --)
+  (VP had
+      (NP 
+       slight (ADJP year-to-year)
+       gains
+       (PP in
+	   (NP March sales))))
+  (PP in
+      (NP the county)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The
+      (ADJP top)
+      3 students
+      (PP from
+	  (NP 11
+	      (VP participating)
+	      Dallas County
+	      high schools)))
+  (AUX will)
+  (VP be
+      (VP honored
+	     
+	  (PP by
+	      (NP the Dallas Sales Executives Club))
+	  (PP at
+	      (NP a banquet
+		  (PP at
+		      (NP 6
+			  p.m.))
+		  (NP Tuesday)
+		  (PP in
+		      (NP the Sam Houston Room
+			  (PP of
+			      (NP the Sheraton-Dallas Hotel))))))))
+  (SBAR  as
+	 (S (NP the club)
+	    (VP winds
+		(PRT up)
+		(NP its
+		    (ADJP annual)
+		    Distributive Education project)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (PP (ADVP Now)
+	  in
+	  (NP its third year))
+      ,
+      (S (NP the program)
+	 (AUX is)
+	 (VP designed
+		 
+	     (S (NP *)
+		(AUX to)
+		(VP provide
+		    (NP a laboratory)
+		    (PP for
+			(S (NP those youngsters)
+			   (VP seeking
+			       (NP careers
+				   (PP in
+				       (NP (NP marketing) and (NP salesmanship))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Business firms)
+   (VP provide
+       (NP 20 weeks
+	   (PP of
+	       (NP practical employment))))
+   (S (NP *)
+      (AUX to)
+      (VP supplement
+	  (NP classroom instruction
+	      (PP in
+		  (NP these fields))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  (ADJP More
+		  (PP than
+		      (NP 500)))
+	    juniors and seniors)
+       (AUX are)
+       (VP taking
+	   (NP part)
+	   (PP in
+	       (NP the program))))
+    and
+    (S (NP 100 firms)
+       (VP offer
+	   (NP jobs)
+	   (PP on
+	       (X (NP an
+		      educational
+		      rather
+		      than
+		      a need basis))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Principal address)
+   (AUX will)
+   (VP be
+       (VP delivered
+		 
+	   (PP by
+	       (NP (NP Gerald T. Owens)
+		   ,
+		   (NP national sales
+		       manager
+		       (PP for
+			   (NP Isodine Pharmical Corp.
+			       (PP of
+				   (NP New York))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP  The 33
+	 (ADJP honored)
+	 students)
+    (VP are
+	:
+	(NP (NP (NP (NP Mike Trigg)
+		    ,
+		    (NP Raymond Arrington)
+		    ,
+		    and
+		    (NP Ronald Kaminsky))
+		(PP of
+		    (NP Bryan Adams)))
+	    ,
+	    (NP (NP (NP Janice Whitney)
+		    ,
+		    (NP Fil Terral)
+		    ,
+		    and
+		    (NP Carl David Page))
+		(PP of
+		    (NP W.H. Adamson)))
+	    ;
+	    ;
+	    (NP (NP (NP Bill Burke)
+		    ,
+		    (NP Tommie Freeman)
+		    ,
+		    and
+		    (NP Lawrence Paschall))
+		(PP of
+		    (NP N.R. Crozier Tech
+			.)))
+	    (NP (NP (NP Paulah Thompson)
+		    ,
+		    (NP Gerald Kestner)
+		    ,
+		    and
+		    (NP Nancy Stephenson))
+		(PP of
+		    (NP Hillcrest)))
+	    ;
+	    ;
+	    (NP (NP (NP Arnold Hayes)
+		    ,
+		    (NP Mary Ann Shay)
+		    ,
+		    and
+		    (NP Lloyd Satterfield))
+		(PP of
+		    (NP Thomas Jefferson)))
+	    ;
+	    ;
+	    (NP (NP (NP William Cluck)
+		    ,
+		    (NP Deloris Carrel Carty)
+		    ,
+		    and
+		    (NP Edna Earl Eaton))
+		(PP of
+		    (NP North Dallas)))
+	    ;
+	    ;
+	    (NP (NP (NP Patricia Ann Neal)
+		    ,
+		    (NP Johnny Carruthers)
+		    ,
+		    and
+		    (NP David McLauchlin))
+		(PP of
+		    (NP Rylie
+			(PP of
+			    (NP Seagoville)))))
+	    ;
+	    ;
+	    (NP (NP (NP David Wolverton)
+		    ,
+		    (NP Sharon Flanagan)
+		    ,
+		    and
+		    (NP James Weaver))
+		(PP of
+		    (NP W.W. Samuels)))
+	    ;
+	    ;
+	    (NP (NP (NP William Austin)
+		    ,
+		    (NP Gary Hammond)
+		    ,
+		    and
+		    (NP Ronnie Davis))
+		(PP of
+		    (NP South Oak Cliff)))
+	    ;
+	    ;
+	    (NP (NP (NP Bill Eaton)
+		    ,
+		    (NP Carolyn Milton)
+		    ,
+		    and
+		    (NP Ronnie Bert Stone))
+		(PP of
+		    (NP Sunset)))
+	    ;
+	    ;
+	    and
+	    (NP (NP (NP Charles Potter)
+		    ,
+		    (NP Ronnie Moore)
+		    ,
+		    and
+		    (NP Robert Bailey))
+		(PP of
+		    (NP Woodrow Wilson))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP 
+       (NP The Kennedy administration)
+       's new housing
+       and
+       urban renewal proposals)
+      ,
+      (NP (ADVP particularly)
+	  their effect
+	  (PP on
+	      (NP the Federal Housing Administration)))
+      ,)
+  (VP came
+      (PP under
+	  (NP fire)))
+  (PP in
+      (NP Dallas))
+  (NP last week))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP (NP 
+	   (NP The Administration)
+	   's proposals)
+	  ,
+	  (ADJP   complex
+		  and
+		  sweeping
+		  (PP as
+		      (S (NP they)
+			 (VP are))))
+	  ,)
+      (S (NP all)
+	 (VP deal
+	     (PP with
+		 (NP fringe areas
+		     (PP of
+			 (NP the housing market))
+		     (ADVP rather
+			   (PP than
+			       (NP its core))))))))
+   ,
+   (SINV  
+    (VP stated)
+    (NP (NP Caron S. Stallard)
+	,
+	(NP first vice-president
+	    (PP of
+		(NP the Mortgage Bankers Association
+		    (PP of
+			(NP America))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

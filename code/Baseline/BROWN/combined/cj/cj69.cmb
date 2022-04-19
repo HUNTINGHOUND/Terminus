@@ -1,0 +1,2460 @@
+
+ 
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (VBG following) (NNS items))
+        (NP-1 (-NONE- *pseudo-attach*)))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN specified)
+            
+            (PP (IN in)
+                (NP (ADJP (JJ actual) (CC or) (JJ symbolic)) (NN form)))
+            (PP (IN in)
+                (NP (DT the) (NNS operands)
+                    (PP (IN of)
+                        (NP (NP (DT those) (NNS instructions))
+                            (SBAR (WHNP (WDT which))
+                                  (S (NP (-NONE- T))
+                                     (VP (VBP refer)
+                                         (PP (TO to)
+                                             (NP (DT the) (JJ particular) (NNS items))))))))))))
+    (: :)
+    (NP-1 (NP (NN channel))
+          (, ,)
+          (NP (NN unit))
+          (, ,)
+          (NP (VP (VBN combined))
+              (NN channel) (CC and) (NN unit))
+          (, ,)
+          (NP (VP (VBN combined))
+              (NN arm) (CC and) (NN file))
+          (, ,)
+          (NP (NN unit) (NN record) (NNS synchronizers))
+          (, ,)
+          (NP (NN inquiry) (NNS synchronizers))
+          (, ,)
+          (CC and)
+          (NP (NN alteration) (NNS switches))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (JJ declarative) (NN operation) (NN EQU))
+       (AUX (VBZ is))
+       (VP (VBN used)
+           
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB equate)
+                  (NP (JJ symbolic) (NNS names))
+                  (PP (TO to)
+                      (NP (NN item) (NNS numbers)))))))
+    (-LRB- -LRB-)
+    (S (NP (-NONE- *))
+       (VP (VB see)
+           (NP (NN page) (CD 85))))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Continuation) (NNS cards)))
+ 
+
+(
+ (S (NP (JJ Certain) (NN Autocoder) (NNS statements))
+    (VP (VBP make)
+        (NP (NN provision)
+            (PP (IN for)
+                (NP
+                    (ADJP (JJR more))
+                    (NNS parameters)
+                    (PP (IN than)
+                        (S (NP (-NONE- *))
+                           (AUX (MD may))
+                           (VP (VB be)
+                               (VP (VBN contained)
+                                   
+                                   (PP (IN in)
+                                       (NP (NP (DT the) (NN operand))
+                                           (-LRB- -LRB-)
+                                           (NP (NNS columns) (CD 21)
+                                               (: -)
+                                               (CD 75))
+                                           (-RRB- -RRB-)
+                                           (PP (IN of)
+                                               (NP (DT a) (JJ single) (NN line)
+                                                   (PP (IN on)
+                                                       (NP (DT the) (NN Autocoder) (NN coding) (NN sheet))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT this))
+             (VP (VBZ is)
+                 (NP (DT the) (NN case)))))
+    (, ,)
+    (S (NP (DT the) (JJ appropriate) (NN section)
+           (PP (IN of)
+               (NP (DT this) (NN manual))))
+       (AUX (MD will))
+       (VP (VB indicate)
+           (SBAR (IN that)
+                 (S (NP (`` ``)
+                        (NN Continuation) (NNS Cards)
+                        ('' ''))
+                    (AUX (MD may))
+                    (VP (VB be)
+                        (VP (VBN used)
+                            )))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (SBAR (WHADVP (WRB when))
+          (S (NP (-NONE- *))
+             (VP (ADVP (RB specifically))
+                 (VBN permitted))))
+    (, ,)
+    (S (NP (DT the) (NN operand)
+           (PP (IN of)
+               (NP (DT a) (VBN given) (NN line)
+                   (PP (IN on)
+                       (NP (DT the) (NN Autocoder) (NN coding) (NN sheet))))))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN continued)
+               
+               (PP (IN in)
+                   (NP (DT the) (NN operand)
+                       (PP (IN of)
+                           (NP (NP (PP (PP (IN from)
+                                           (NP (CD one)))
+                                       (PP (TO to)
+                                           (NP (CD four))))
+                                   (JJ additional) (NNS lines))
+                               (SBAR (WHNP (WDT which))
+                                     (S (NP (-NONE- T))
+                                        (ADVP (RB immediately))
+                                        (VP (VBP follow))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN label) (CC and) (NN operation) (NNS columns))
+       (AUX (MD must))
+       (VP (VB be)
+           (ADJP (JJ blank))))
+    (CC and)
+    (S (NP (DT the) (NN continuation)
+           (PP (IN of)
+               (NP (DT the) (NN operand))))
+       (AUX (MD must))
+       (VP (VB begin)
+           (PP (IN in)
+               (NP (NN column) (CD 21)))))
+    (: ;)
+    (: ;)
+    (X (FW i.e.))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (MD must))
+       (VP (VB be)
+           (ADJP (JJ left-justified)
+                 (PP (IN in)
+                     (NP (DT the) (NN operand) (NN column)
+                         (PP (IN of)
+                             (NP (DT the) (NN coding) (NN sheet)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN operand))
+    (X (X (AUX (MD need))
+          (NEG (RB not))
+          (VP (VB extend)
+              (PP (IN across)
+                  (NP (DT the) (JJ entire) (NN operand) (NN column)
+                      (PP (IN of)
+                          (NP (CC either)
+                              (DT the) (NN header) (NN card) (CC or) (NN continuation) (NNS cards)))))))
+       (CC but)
+       (X (AUX (MD may))
+          (VP (VB end)
+              (PP (IN with)
+                  (NP (NP (DT the) (NN comma))
+                      (VP (VBG following)
+                          (NP (DT any) (NN parameter)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNS Remarks))
+    (AUX (MD may))
+    (VP (VB appear)
+        (PP (TO to)
+            (NP (DT the) (NN right)
+                (PP (IN of)
+                    (NP (DT the) (JJ last) (NN parameter)
+                        (PP (IN on)
+                            (NP (DT each) (NN card))))))))
+    (VP (VBN provided)
+        (SBAR (-NONE- 0)
+              (S (NP (PRP they))
+                 (AUX (VBP are))
+                 (VP (VBN separated)
+                     
+                     (PP (IN from)
+                         (NP (DT the) (NN operand)))
+                     (PP (IN by)
+                         (NP (PP (IN at)
+                                 (ADJP (JJS least)))
+                             (CD two) (JJ blank) (NNS spaces))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NNS Illustrations)
+        (PP (IN of)
+            (NP (DT the) (NN use)
+                (PP (IN of)
+                    (NP (NN continuation) (NNS cards))))))
+    (AUX (VBP are))
+    (VP (VBN included)
+        
+        (PP (IN throughout)
+            (NP (NP (DT the) (NNS examples))
+                (VP (VBG illustrating)
+                    (NP (DT the) (JJ various) (NNS statements)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT a) (NN continuation) (NN card))
+             (VP (VBZ follows)
+                 (NP (NP (DT a) (NN statement))
+                     (SBAR (WHNP (WDT that))
+                           (S (NP (-NONE- T))
+                              (AUX (VBZ does))
+                              (NEG (RB not))
+                              (VP (VB permit)
+                                  (NP (NN continuation) (NNS cards)))))))))
+    (, ,)
+    (S (NP (DT the) (NN compiler))
+       (AUX (MD will))
+       (VP (VP (VB generate)
+               (NP (DT a) (NN NOP)))
+           (CC and)
+           (VP (VB issue)
+               (NP (DT an) (NN error) (NN message))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (JJ Additional) (NNS restrictions))
+    (VP (VBG regarding)
+        (S (NP (DT the) (NN use)
+               (PP (IN of)
+                   (NP (NN continuation) (NNS cards)
+                       (PP (IN with)
+                           (NP (NNS macro-instructions))))))))
+    (VP (VBP appear)
+        (PP (IN on)
+            (NP (NN page) (CD 106)))))
+ (. .))
+ 
+
+ 
+
+(
+ (NP (NN Reservation)
+     (PP (IN of)
+         (NP (NP (NN index) (NNS words))
+             (CC and)
+             (NP (JJ electronic) (NNS switches)))))
+ )
+ 
+
+((S
+    (NP (DT The) (NN assignment)
+        (PP (IN of)
+            (NP (JJ actual) (NNS addresses)))
+        (PP (TO to)
+            (NP (JJ symbolic) (NN index) (NN word)
+                (CC and)
+                (JJ electronic) (NN switch) (NNS names))))
+    (VP (VBZ occurs)
+        (PP (IN in)
+            (NP (NN Phase) (CD 3)
+                (, ,)
+                (PP (IN of)
+                    (NP (DT the) (NN Autocoder) (NN processor)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ initial) (NN availability)
+        (PP (IN of)
+            (NP (NP (NN index) (NNS words))
+                (CC and)
+                (NP (JJ electronic) (NNS switches)))))
+    (AUX (VBZ is))
+    (VP (VBN determined)
+        
+        (PP (IN by)
+            (NP (NP (DT a) (NN table))
+                (SBAR (WHNP (WDT which))
+                      (S (NP (-NONE- T))
+                         (AUX (VBZ is))
+                         (VP (VBN included)
+                             
+                             (PP (IN in)
+                                 (NP (DT the) (NN Compiler) (NNS Systems)
+                                     (NN Tape))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT This) (NN table))
+       (VP (ADVP (RB originally))
+           (VBZ indicates)
+           (SBAR (IN that)
+                 (S (NP (NP (NN index) (NNS words)
+                            (NP (CD 1)
+                                (PP (IN through))
+                                (NP (CD 96))))
+                        (CC and)
+                        (NP (JJ electronic) (NNS switches)
+                            (NP (CD 1)
+                                (PP (IN through)
+                                    (NP (CD 30))))))
+                    (VP (VBP are)
+                        (ADJP (JJ available)
+                              (PP (IN for)
+                                  (NP (NN assignment)
+                                      (PP (TO to)
+                                          (NP (JJ symbolic) (NNS references)))))))))))
+    (: ;)
+    (: ;)
+    (S
+       (NP (NN index) (NNS words)
+           (NP (CD 97)
+               (PP (IN through)
+                   (NP (CD 99)))))
+       (VP (VBP are)
+           (NEG (RB not))
+           (ADJP (JJ available)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ initial) (NN setting)
+        (PP (IN of)
+            (NP (DT this) (NN table))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN altered)
+            (, ,)
+            (ADVP (RB however))
+            (, ,)
+            (PP (IN as)
+                (S (NP (-NONE- *))
+                   (VP (VBN described)
+                       (PP (IN in)
+                           (NP (NP (DT the) (CD 70707074) (NNS Data)
+                                   (NN Processing) (NN System) (NN Bulletin))
+                               (`` ``)
+                               (NP (NP (NN IBM)
+                                       (CD 70707074) (NN Compiler) (NN System))
+                                   (: :)
+                                   (NP (NN Operating) (NN Procedure)))
+                               ('' '')
+                               (, ,)
+                               (NP (NN form) (-NONE- A[fj]))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN During)
+        (NP (DT the) (JJ first) (NN pass)
+            (PP (IN of)
+                (NP (NN Phase) (CD 3)))))
+    (, ,)
+    (, ,)
+    (S
+       (NP (NNS references)
+           (PP (TO to)
+               (NP (DT the) (JJ actual) (NNS addresses)
+                   (PP (IN of)
+                       (NP (NP (NN index) (NNS words))
+                           (CC and)
+                           (NP (JJ electronic) (NNS switches)))))))
+       (AUX (VBP are))
+       (VP (VBN collected)
+           ))
+    (CC and)
+    (S (NP (DT the) (NN availability) (NN table))
+       (AUX (VBZ is))
+       (VP (VBN updated)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN At)
+        (NP (DT the) (NN end)
+            (PP (IN of)
+                (NP (DT this) (NN pass)))))
+    (, ,)
+    (S (NP (DT the) (NN table))
+       (VP (VBZ indicates)
+           (SBAR (WHNP (WDT which) (NN index) (NNS words)
+                       (CC and)
+                       (JJ electronic) (NNS switches))
+                 (S (NP (-NONE- T))
+                    (VP (VBP are)
+                        (NEG (RB not))
+                        (ADJP (JJ available)
+                              (PP (IN for)
+                                  (NP (NN assignment)
+                                      (PP (TO to)
+                                          (NP (JJ symbolic) (NNS references))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Both)
+        (NP (NN index) (NNS words))
+        (CC and)
+        (NP (JJ electronic) (NNS switches)))
+    (AUX (MD may))
+    (VP (VB have)
+        (VP (VBN been)
+            (VP (VBN made)
+                (ADJP (JJ unavailable)
+                      (PP (IN before)
+                          (NP (DT the) (NN start)
+                              (PP (IN of)
+                                  (NP (NN assignment)))))
+                      (PP (IN in)
+                          (NP (CD one)
+                              (PP (IN of)
+                                  (NP (DT the) (VBG following) (NNS ways))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 1)
+     (. .)))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ initial) (NN setting)
+        (PP (IN of)
+            (NP (DT the) (NN availability) (NN table))))
+    (VP (VBD indicated)
+        (SBAR (IN that)
+              (S (NP (DT the) (NN index) (NN word)
+                     (CC or)
+                     (JJ electronic) (NN switch))
+                 (VP (VBD was)
+                     (NEG (RB not))
+                     (ADJP (JJ available)
+                           (PP (IN for)
+                               (NP (NN assignment)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 2)
+     (. .)))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (CD one)
+        (: -)
+        (CC or)
+        (JJ two-digit) (NN number)
+        (PP (IN of)
+            (NP (NP (DT the) (NN index) (NN word))
+                (CC or)
+                (NP (JJ electronic) (NN switch)))))
+    (AUX (VBD was))
+    (VP (VBN used)
+        
+        (PP (IN in)
+            (NP (DT the) (NN operand)
+                (PP (IN of)
+                    (NP (DT a) (JJ symbolic) (NN machine) (NN instruction)))))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB specify)
+               (NP (NN indexing))))
+        (CC or)
+        (PP (IN as)
+            (NP (NP (DT a) (NN parameter))
+                (SBAR (WHNP (WDT which))
+                      (S (NP (-NONE- T))
+                         (VP (VBZ is)
+                             (ADVP (RB always))
+                             (NP (NP (DT an) (NN index) (NN word))
+                                 (CC or)
+                                 (NP (JJ electronic) (NN switch))))))
+                (, ,)
+                (NP (X (FW e.g.)))
+                (, ,)
+                (NP (LS 3))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (CD one)
+           (: -)
+           (CC or)
+           (JJ two-digit) (NN number)
+           (PP (IN of)
+               (NP (DT the) (NN index) (NN word)
+                   (CC or)
+                   (JJ electronic) (NN switch))))
+       (AUX (VBD was))
+       (VP (VBN used)
+           
+           (PP (IN in)
+               (NP (DT the) (NN operand)
+                   (PP (IN of)
+                       (NP (DT an) (NN EQU) (NN statement)))))))
+    (, ,)
+    (NP (X (FW e.g.)))
+    (, ,)
+    (S (SBAR
+             (WHADVP (WRB When))
+             (S (NP (DT the) (NN index) (NNS words)
+                    (CC or)
+                    (JJ electronic) (NNS switches))
+                (AUX (VBP are))
+                (VP (VBN reserved)
+                    (ADVP (IN because)
+                          (PP (IN of)
+                              (NP (JJ actual) (NN usage)
+                                  (PP (IN in)
+                                      (NP (NP (DT the) (NNS statements))
+                                          (VP (VBN described)
+                                              (ADVP (IN above)))))))))))
+       (, ,)
+       (S (NP (DT the) (NN position) (CC or) (NN order)
+              (PP (IN of)
+                  (NP (DT the) (NNS statements)))
+              (PP (IN within)
+                  (NP (DT the) (NN program))))
+          (VP (VBZ is)
+              (NEG (RB not))
+              (ADJP (JJ important))))
+       (: ;)
+       (: ;)
+       (S (NP (DT any) (JJ such) (NN reference))
+          (AUX (MD will))
+          (VP (VB make)
+              (NP (DT the) (NN index) (NN word)
+                  (CC or)
+                  (NP (JJ electronic) (NN switch)))
+              (ADJP (JJ unavailable))
+              (PP (IN at)
+                  (NP (DT the) (NN end)
+                      (PP (IN of)
+                          (NP (DT this) (NN pass)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN During)
+        (NP (DT the) (NN assignment) (NN pass)
+            (PP (IN of)
+                (NP (NN Phase) (CD 3)))))
+    (, ,)
+    (, ,)
+    (S (NP (NP (NN index) (NNS words))
+           (CC and)
+           (NP (JJ electronic) (NNS switches)))
+       (AUX (VBP are))
+       (VP (VBN reserved)
+           
+           (SBAR (IN as)
+                 (S (NP (PRP they))
+                    (AUX (VBP are))
+                    (VP (VBN encountered)
+                        (PP (IN during)
+                            (NP (NN assignment)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (NN Index) (NNS words))
+        (CC and)
+        (NP (JJ electronic) (NNS switches)))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN reserved)
+            
+            (PP (IN in)
+                (NP (DT the) (VBG following) (NNS ways))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The)
+           (ADJP (JJ first))
+           (CD two) (NNS methods))
+       (VP (VBP apply)
+           (PP (TO to)
+               (NP (DT both)
+                   (NP (NN index) (NNS words))
+                   (CC and)
+                   (NP (JJ electronic) (NNS switches))))))
+    (: ;)
+    (: ;)
+    (S (NP (DT the) (NN third))
+       (VP (VBZ applies)
+           (ADVP (RB only))
+           (PP (TO to)
+               (NP (NN index) (NNS words))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 1)
+     (. .)))
+ 
+
+ 
+
+(
+ (S (PP (IN During)
+        (NP (DT the) (NN assignment) (NN pass)))
+    (, ,)
+    (S (NP (DT each) (NN instruction))
+       (AUX (VBZ is))
+       (VP (VBN examined)
+           
+           (PP (IN for)
+               (NP (NN reference)
+                   (PP (TO to)
+                       (NP (DT the) (JJ symbolic) (NN name)
+                           (PP (IN of)
+                               (NP (DT an) (NN index) (NN word)
+                                   (CC or)
+                                   (JJ electronic) (NN switch))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (PDT such)
+                 (DT a) (NN reference))
+             (AUX (VBZ is))
+             (VP (VBN found)
+                 )))
+    (, ,)
+    (S (NP (DT an) (JJ actual) (NN address))
+       (AUX (VBZ is))
+       (VP (VBN assigned)
+           ))
+    (CC and)
+    (S (NP (DT the) (NN availability) (NN table))
+       (AUX (VBZ is))
+       (VP (VBN changed)
+           
+           (SBAR (RB so)
+                 (IN that)
+                 (S (NP (DT the) (VBN assigned) (NN index) (NN word) (CC or) (NN switch))
+                    (VP (VBZ is)
+                        (ADVP (DT no)
+                              (RB longer))
+                        (ADJP (JJ available)
+                              (PP (IN for)
+                                  (NP (JJ later) (NN assignment))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 2)
+     (. .)))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (CD one)
+                 (: -)
+                 (CC or)
+                 (JJ two-digit) (NN address)
+                 (PP (IN of)
+                     (NP (DT an) (NN index) (NN word)
+                         (CC or)
+                         (JJ electronic) (NN switch))))
+             (X (X (AUX (VBZ is))
+                   (VP (VBN used)
+                       ))
+                (CC or)
+                (X (AUX (VBZ is))
+                   (VP (VBN included)
+                       
+                       (PP (IN in)
+                           (NP (DT the) (NN operand)
+                               (PP (IN of)
+                                   (NP (DT an) (NN XRESERVE) (CC or) (NN SRESERVE) (NN statement)
+                                       (-LRB- -LRB-)
+                                       (S (NP (-NONE- *))
+                                          (VP (VB see)
+                                              (NP (NN page) (CD 99))))
+                                       (-RRB- -RRB-))))))))))
+    (, ,)
+    (S
+       (NP (DT the) (JJ corresponding) (NN index) (NN word)
+           (CC or)
+           (JJ electronic) (NN switch))
+       (AUX (VBZ is))
+       (VP (VBN reserved)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 3)
+     (. .)))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT a) (NN statement))
+             (AUX (VBZ has))
+             (VP (VBN been)
+                 (VP (VBN assigned)
+                     
+                     (NP (DT an) (NN address))
+                     (PP (IN in)
+                         (NP (DT the) (NN index) (NN word) (NN area)))
+                     (PP (IN by)
+                         (NP (NNS means)
+                             (PP (IN of)
+                                 (NP (DT an) (JJ actual) (NN label)))))
+                     (CC or)
+                     (PP (IN by)
+                         (NP (NNS means)
+                             (PP (IN of)
+                                 (NP (NP (DT an) (NN origin) (NN statement))
+                                     (SBAR (WHNP (WDT which))
+                                           (S (NP (-NONE- T))
+                                              (VP (VBZ refers)
+                                                  (PP (TO to)
+                                                      (NP (DT an) (JJ actual) (NN address))))))))))))))
+    (, ,)
+    (S (NP (DT the) (JJ corresponding) (NN index) (NN word))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN reserved)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS entries))
+    (AUX (MD should))
+    (ADVP (RB normally))
+    (VP (VB appear)
+        (PP (IN at)
+            (NP (DT the) (NN beginning)
+                (PP (IN of)
+                    (NP (DT the) (NN program)))))
+        (CC or)
+        (VP (ADVP (RB immediately))
+            (VBG following)
+            (NP (DT each) (NN LITORIGIN) (NN statement)))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Otherwise))
+    (, ,)
+    (S (NP (JJ symbolic) (NNS names))
+       (AUX (MD may))
+       (VP (VB have)
+           (ADVP (RB previously))
+           (VP (VBN been)
+               (VP (VBN assigned)
+                   
+                   (PP (TO to)
+                       (NP (DT these) (JJ same) (NN index) (NNS words))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(-LRB-
+       (S (NP (DT This) (NN method))
+          (AUX (VBZ does))
+          (NEG (RB not))
+          (VP (VB apply)
+              (PP (TO to)
+                  (NP (JJ electronic) (NNS switches)))))
+       (. .)
+       (-RRB- -RRB-))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (VBG preceding) (NNS methods))
+    (VP (VBP allow)
+        (NP (JJ efficient) (NN use)
+            (PP (IN of)
+                (NP (NP (NN index) (NNS words))
+                    (CC and)
+                    (NP (JJ electronic) (NNS switches)))))
+        (PP (IN during)
+            (NP (DT a) (JJ sectionalized) (CC or) (JJ multi-phase) (NN program))))
+    (, ,)
+    (ADVP (RB particularly))
+    (SBAR (WHADVP (WRB when))
+          (S (NP (-NONE- *))
+             (VP (VBN used)
+                 (PP (IN in)
+                     (NP (NN conjunction)
+                         (PP (IN with)
+                             (NP (DT the) (NN LITORIGIN) (NN statement)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Extreme) (NN caution))
+    (AUX (MD should))
+    (VP (VB be)
+        (VP (VBN used)
+            (, ,)
+            (ADVP (RB however))
+            (, ,)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB avoid)
+                   (NP (NP (DT the) (VBG conflicting) (NN usage)
+                           (PP (IN of)
+                               (NP (DT an) (NN index) (NN word)
+                                   (CC or)
+                                   (JJ electronic) (NN switch))))
+                       (SBAR (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (AUX (MD may))
+                                (VP (VB result)
+                                    (PP (IN from)
+                                        (NP (DT the) (NN assignment)
+                                            (PP (IN of)
+                                                (NP (RBR more)
+                                                    (PP (IN than)
+                                                        (NP (CD one)))
+                                                    (NN name) (CC or) (NN function)))
+                                            (PP (TO to)
+                                                (NP (DT the) (JJ same) (NN address))))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (JJ symbolic) (NN name)
+                 (CC or)
+                 (JJ actual) (NN address)
+                 (PP (IN of)
+                     (NP (DT an) (NN index) (NN word)
+                         (CC or)
+                         (JJ electronic) (NN switch))))
+             (X (VP (VBZ appears)
+                    (PP-1 (-NONE- *pseudo-attach*)))
+                (CC or)
+                (X (AUX (VBZ is))
+                   (VP (VBN included)
+                       (PP-1 (-NONE- *pseudo-attach*))))
+                (PP-1 (IN in)
+                      (NP (DT the) (NN operand)
+                          (PP (IN of)
+                              (NP (DT an) (NN XRELEASE) (CC or) (NN SRELEASE) (NN statement)
+                                  (-LRB- -LRB-)
+                                  (S (NP (-NONE- *))
+                                     (VP (VB see)
+                                         (NP (NN page) (CD 101))))
+                                  (-RRB- -RRB-))))))))
+    (, ,)
+    (S
+       (NP (DT the) (VBN specified) (NN index) (NN word)
+           (CC or)
+           (JJ electronic) (NN switch))
+       (AUX (MD will))
+       (ADVP (RB again))
+       (VP (VB be)
+           (VP (VBN made)
+               (ADJP (JJ available))))
+       (, ,)
+       (ADVP (RB regardless)
+             (PP (IN of)
+                 (NP (NP (DT the) (NN method))
+                     (SBAR (WHPP (IN by)
+                                 (WHNP (WDT which)))
+                           (S
+                              (NP (PRP it))
+                              (AUX (VBD was))
+                              (VP (VBN reserved)
+                                  ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD will))
+    (NEG (RB not))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VB be)
+        (VP (VBN used)
+            
+            (PP (IN for)
+                (NP (JJ symbolic) (NN assignment)))))
+    (PP (IN until)
+        (S (NP (DT all) (JJ other) (NN index) (NNS words)
+               (CC or)
+               (NP (JJ electronic) (NNS switches)))
+           (AUX (VBP have))
+           (VP (VBN been)
+               (VP (VBN assigned)
+                   
+                   (PP (IN for)
+                       (NP (DT the) (JJ first) (NN time))))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (, ,)
+          (S (PP (IN at)
+                 (NP (DT any) (NN time)
+                     (PP (IN during)
+                         (NP (DT the) (NN assignment) (NN pass)))))
+             (, ,)
+             (S (NP (DT the) (NN compiler))
+                (VP (VBZ finds)
+                    (SBAR (IN that)
+                          (S (NP (EX there))
+                             (VP (VBP are)
+                                 (NP (DT no)
+                                     (ADJP (JJR more))
+                                     (NN index) (NNS words))
+                                 (ADJP (JJ available)
+                                       (PP (IN for)
+                                           (NP (NN assignment)))))))))))
+    (, ,)
+    (S (NP (NP (DT the) (VBG warning) (NN message))
+           (`` ``)
+           (NP (NP (DT No)
+                   (ADJP (JJR More))
+                   (NN Index) (NNS Words))
+               (ADJP (JJ Available)))
+           ('' ''))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN placed)
+               
+               (PP (IN in)
+                   (NP (DT the) (NN object) (NN program) (NN listing))))))
+    (, ,)
+    (S (NP (DT the) (NN table))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN altered)
+               
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB show)
+                      (SBAR (IN that)
+                            (S (NP (NN index) (NNS words)
+                                   (NP (CD 1)
+                                       (PP (IN through)
+                                           (NP (CD 96)))))
+                               (VP (VBP are)
+                                   (ADJP (JJ available))))))))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN assignment))
+       (AUX (MD will))
+       (VP (VB continue)
+           (PP (IN as)
+               (ADVP (IN before))
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (NN compiler))
+             (VP (VBZ finds)
+                 (SBAR (IN that)
+                       (S (NP (EX there))
+                          (VP (VBP are)
+                              (NP (DT no)
+                                  (RBR more)
+                                  (JJ electronic) (NNS switches))
+                              (ADJP (JJ available)
+                                    (PP (IN for)
+                                        (NP (NN assignment))))))))))
+    (, ,)
+    (S (NP (NP (DT the) (VBG warning) (NN message))
+           (`` ``)
+           (NP (NP (DT No)
+                   (JJR More) (JJ Electronic)
+                   (NNS Switches))
+               (ADJP (JJ Available)))
+           ('' ''))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN placed)
+               
+               (PP (IN in)
+                   (NP (DT the) (NN object) (NN program) (NN listing))))))
+    (, ,)
+    (S (NP (DT the) (NN table))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN altered)
+               
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB show)
+                      (SBAR (IN that)
+                            (S (NP (JJ electronic) (NNS switches)
+                                   (NP (CD 1)
+                                       (PP (IN through)
+                                           (NP (CD 30)))))
+                               (VP (VBP are)
+                                   (ADJP (JJ available))))))))))
+    (, ,)
+    (CC and)
+    (S (NP (NN assignment))
+       (AUX (MD will))
+       (VP (VB continue)
+           (PP (IN as)
+               (PP (IN before)
+                   )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (ADJP (JJ resultant))
+        (VP (VBG conflicting))
+        (NN usage)
+        (PP (IN of)
+            (NP (NP (NN index) (NNS words))
+                (CC or)
+                (NP (JJ electronic) (NNS switches)))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN avoided)
+            
+            (PP (IN by)
+                (S (NP (-NONE- *))
+                   (VP (VBG reducing)
+                       (NP (DT the) (NN number)
+                           (PP (IN of)
+                               (NP (NP (JJ symbolic) (NNS names))
+                                   (VP (VBN used))))))))
+            (, ,)
+            (NP (X (FW e.g.)))
+            (, ,)
+            (PP (IN through)
+                (NP (DT the) (JJ proper) (NN use)
+                    (PP (IN of)
+                        (NP (DT the) (NN EQU)
+                            (, ,)
+                            (NN XRELEASE)
+                            (, ,)
+                            (CC or)
+                            (NN SRELEASE) (NNS statements))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN As)
+        (S (NP (-NONE- *))
+           (VP (VBN noted)
+               (PP (IN in)
+                   (NP (NN Appendix) (NN C))))))
+    (, ,)
+    (S (NP (NN index) (NNS words)
+           (NP (CD 97)
+               (PP (IN through)
+                   (NP (CD 99)))))
+       (VP (VBP are)
+           (ADVP (RB never))
+           (ADJP (JJ available)
+                 (PP (IN for)
+                     (NP (NN assignment)
+                         (PP (TO to)
+                             (NP (JJ symbolic) (NNS names)))
+                         (PP (IN by)
+                             (NP (DT the) (NN compiler))))))))
+    (: ;)
+    (: ;)
+    (RB also)
+    (, ,)
+    (S
+       (NP (NN index) (NNS words)
+           (NP (CD 93)
+               (PP (IN through)
+                   (NP (CD 96)))))
+       (AUX (MD may))
+       (VP (VB have)
+           (VP (VBN been)
+               (VP (VBN made)
+                   (ADJP (JJ unavailable)
+                         (PP (IN for)
+                             (NP (NN assignment)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (JJ Declarative) (NNS statements)))
+ 
+
+(
+ (S (NP (NN Autocoder) (JJ declarative) (NNS statements))
+    (VP (VBP provide)
+        (NP (DT the) (NN processor))
+        (PP (IN with)
+            (NP (DT the) (JJ necessary) (NN information)
+                (S (NP (-NONE- *))
+                   (AUX (TO to))
+                   (VP (VB complete)
+                       (NP (DT the) (JJ imperative) (NNS operations))
+                       (ADVP (RB properly))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Declarative) (NNS statements))
+    (X (X (AUX (VBP are))
+          (ADVP (RB never))
+          (VP (VBN executed)
+              
+              (PP (IN in)
+                  (NP (DT the) (NN object) (NN program)))))
+       (CC and)
+       (X (AUX (MD should))
+          (VP (VB be)
+              (VP (VBN separated)
+                  
+                  (PP (IN from)
+                      (NP (NP (DT the) (NN program) (NN instruction) (NN area))
+                          (, ,)
+                          (VP (VBN placed)
+                              (ADVP (RB preferably))
+                              (PP (IN at)
+                                  (NP (PRP$ its) (NN beginning) (CC or) (NN end)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Otherwise))
+    (, ,)
+    (S (NP (JJ special) (NN care))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN taken)
+               
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB branch)
+                      (PP (IN around)
+                          (NP (PRP them)))))))
+       (SBAR (RB so)
+             (IN that)
+             (S (NP (DT the) (NN program))
+                (AUX (MD will))
+                (NEG (RB not))
+                (VP (VB attempt)
+                    
+                    (S (NP (-NONE- *))
+                       (AUX (TO to))
+                       (VP (VB execute)
+                           (NP (NN something)
+                               (PP (IN in)
+                                   (NP (DT a) (NNS data)
+                                       (NN area))))
+                           (PP (IN as)
+                               (NP (DT an) (NN instruction))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (NN compiler))
+             (AUX (VBZ does))
+             (VP (VB encounter)
+                 (NP (JJ such) (NNS statements)))))
+    (, ,)
+    (S (NP (DT a) (VBG warning) (NN message))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN issued)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (CD 70707074) (NN Autocoder))
+    (VP (VBZ includes)
+        (NP (DT the) (VBG following) (JJ declarative) (NNS statements)))
+    (: :)
+    (NP (NP (NP (NN DA))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Area))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN DC))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Constant))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN DRDW))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Record) (NN Definition) (NN Word))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN DSW))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Switch))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN DLINE))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Line))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN EQU))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Equate)))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN CODE,DTF))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Tape) (NN File))))
+            (-RRB- -RRB-))
+        (, ,)
+        (NP (NP (NN DIOCS))
+            (-LRB- -LRB-)
+            (S (NP (-NONE- *))
+               (VP (VB Define)
+                   (NP (NN Input) (NN Control) (NN System))))
+            (-RRB- -RRB-))
+        (, ,)
+        (CC and)
+        (NP (NP (NN DUF))
+            (-LRB- -LRB-)
+            (NP (JJ Descriptive) (NN Entry)
+                (PP (IN For)
+                    (NP (NN Unit) (NNS Records))))
+            (-RRB- -RRB-))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (NN DA))
+        (, ,)
+        (NP (NN DC))
+        (, ,)
+        (NP (NN DTF))
+        (, ,)
+        (CC and)
+        (NP (NN DLINE)))
+    (VP (VBP require)
+        (NP (RBR more)
+            (PP (IN than)
+                (NP (CD one)))
+            (NN entry))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DA) (NN statement))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB name) (CC and) (VB define)
+               (NP (DT the) (NNS positions) (CC and) (NN length)
+                   (PP (IN of)
+                       (NP (NNS fields)
+                           (PP (IN within)
+                               (NP (DT an) (NN area))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DC) (NN statement))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB name) (CC and) (VB enter)
+               (NP (NNS constants))
+               (PP (IN into)
+                   (NP (DT the) (NN object) (NN program)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN Since)
+          (S (NP (DT the) (CD 7070)
+                 (CC and)
+                 (NP (CD 7074)))
+             (VP (VBP make)
+                 (NP (NN use)
+                     (PP (IN of)
+                         (NP (NP (NN record) (NN definition) (NNS words))
+                             (-LRB- -LRB-)
+                             (NP (NN RDWS))
+                             (-RRB- -RRB-)))
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB read)
+                            (, ,)
+                            (VB write)
+                            (, ,)
+                            (VB move)
+                            (, ,)
+                            (CC and)
+                            (ADVP (RB otherwise))
+                            (VB examine)
+                            (NP (NNS blocks)
+                                (PP (IN of)
+                                    (NP (NN storage))))))))))
+    (, ,)
+    (S (NP (DT the) (NN DA) (CC and) (NN DC) (NNS statements))
+       (VP (VB provide)
+           (NP (DT the) (NN option)
+               (PP (IN of)
+                   (S (NP (-NONE- *))
+                      (VP (VBG generating)
+                          (NP (NN RDWS))
+                          (ADVP (RB automatically)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (WHADVP (WRB When))
+          (S (NP (-NONE- *))
+             (ADVP (RB so))
+             (VP (VBN instructed))))
+    (, ,)
+    (S (NP (NN Autocoder))
+       (AUX (MD will))
+       (VP (VP (VB generate)
+               (NP (CD one)
+                   (CC or)
+                   (ADJP (JJR more))
+                   (NN RDWS)))
+           (CC and)
+           (VP (VB assign)
+               (NP (NP (PRP them) (JJ successive) (NNS locations))
+                   (ADVP (RB immediately))
+                   (VP (VBG preceding)
+                       (NP (NP (DT the) (NN area))
+                           (SBAR (WHPP (IN with)
+                                       (WHNP (WDT which)))
+                                 (S
+                                    (NP (PRP they))
+                                    (VP (VBP are)
+                                        (S (NP (-NONE- *))
+                                           (AUX (TO to))
+                                           (VP (VB be)
+                                               (VP (VBN associated)
+                                                   )))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT An) (NN RDW))
+    (AUX (MD will))
+    (VP (VB be)
+        (PP (IN of)
+            (NP (NP (DT the) (NN form) (-NONE- A[fj]))
+                (, ,)
+                (SBAR
+                      (WHADVP (WRB where))
+                      (S (S (NP (NN xxxx))
+                            (VP (VBZ is)
+                                (NP (DT the) (NN starting) (NN location)
+                                    (PP (IN of)
+                                        (NP (DT the) (NN area))))))
+                         (CC and)
+                         (S (NP (NN yyyy))
+                            (VP (VBZ is)
+                                (NP (PRP$ its) (NN ending) (NN location))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS addresses))
+    (AUX (VBP are))
+    (VP (VBN calculated)
+        (ADVP (RB automatically))
+        (PP (IN by)
+            (NP (DT the) (NN processor)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (DT some) (NNS cases)))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (MD may))
+       (VP (VB be)
+           (ADJP (RBR more)
+                 (JJ advantageous)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB assign)
+              (NP (NP (NNS locations)
+                      (PP (TO to)
+                          (NP (NN RDWS))))
+                  (VP (VBN associated)
+                      (PP (IN with)
+                          (NP (NN DA) (CC and) (NN DC) (NNS areas)
+                              (PP (IN in)
+                                  (NP (DT some) (JJ other) (NN part)
+                                      (PP (IN of)
+                                          (NP (NN storage))))))))
+                  (, ,)
+                  (X (FW i.e.))
+                  (, ,)
+                  (NEG (RB not))
+                  (VP (ADVP (RB immediately))
+                      (VBG preceding)
+                      (NP (DT the) (NN DA) (CC or) (NN DC) (NNS areas))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DRDW) (NN statement))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN used)
+            
+            (PP (IN for)
+                (NP (DT this) (NN purpose))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DRDW) (NN statement))
+    (AUX (MD may))
+    (ADVP (RB also))
+    (VP (VB be)
+        (VP (VBN used)
+            
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB generate)
+                   (NP (NP (DT an) (NN RDW))
+                       (VP (VBG defining)
+                           (NP (NP (DT any) (NN area))
+                               (VP (VBN specified)
+                                   (PP (IN by)
+                                       (NP (DT the) (NN programmer))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (ADJP (RB As)
+              (JJ many)
+              (PP (IN as)
+                  (NP (CD ten))))
+        (JJ digital) (NNS switches))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VP (VBN named)
+                )
+            (CC and)
+            (VP (VBN provided)
+                (PP (IN by)
+                    (NP (DT the) (NN DSW) (NN statement)))
+                (PP (IN for)
+                    (NP (NN consideration)
+                        (PP (IN by)
+                            (NP (DT the) (NN SETSW) (CC and) (NN logic) (NNS macro-instructions)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT Each) (NN switch))
+    (X (VP (VBZ occupies)
+           (NP (CD one) (NN digit) (NN position)
+               (PP (IN in)
+                   (NP (DT a) (NN word)))))
+       (, ,)
+       (X (AUX (MD can))
+          (VP (VB be)
+              (VP (VBN set)
+                  (ADVP (IN on) (CC or) (IN off)))))
+       (, ,)
+       (CC and)
+       (X (AUX (VBZ is))
+          (VP (VBN considered)
+              (PP (RB as)
+                  (ADJP (RB logically)
+                        (JJ equivalent)
+                        (PP (TO to)
+                            (NP (DT an) (JJ electronic) (NN switch)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD can))
+    (NEG (RB not))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VB be)
+        (VP (VBN referred)
+            
+            (PP (TO to))
+            (PP (IN by)
+                (NP (NP (JJ electronic) (NN switch) (NNS commands))
+                    (, ,)
+                    (X (FW e.g.))
+                    (, ,)
+                    (NP (NN ESN))
+                    (, ,)
+                    (NP (NN BSN))
+                    (, ,)
+                    (NP (X (FW etc.))))))))
+ (. .))
+ 
+
+((S
+    (NP (NP (DT An) (JJ individual) (NN switch))
+        (CC or)
+        (NP (DT the)
+            (ADJP (JJ entire))
+            (VBN set)
+            (PP (IN of)
+                (NP (NNS switches)
+                    (PP (IN in)
+                        (NP (DT a) (NN word)))))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VP (VBN tested)
+                )
+            (CC or)
+            (VP (VBN altered))
+            (PP (IN as)
+                (S (NP (-NONE- *))
+                   (VP (VBN desired)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN Through)
+        (NP (NN use)
+            (PP (IN of)
+                (NP (DT the) (NN DLINE) (NN statement)))))
+    (, ,)
+    (S (NP (DT a) (NN means))
+       (AUX (VBZ is))
+       (VP (VBN provided)
+           
+           (PP (IN for)
+               (S (NP (-NONE- *))
+                  (VP (VBG specifying)
+                      (NP (PDT both)
+                          (NP (DT the) (NN editing)
+                              (PP (IN of)
+                                  (NP (NP (NNS fields))
+                                      (S (NP (-NONE- *))
+                                         (AUX (TO to))
+                                         (VP (VB be)
+                                             (VP (VBN inserted)
+                                                 
+                                                 (PP (IN in)
+                                                     (NP (DT a) (NN print) (NN line) (NN area)))))))))
+                          (CC and)
+                          (NP (DT the) (NN layout)
+                              (PP (IN of)
+                                  (NP (NP (DT the) (NN area))
+                                      (NP (PRP itself))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN area))
+    (AUX (MD may))
+    (VP (VB include)
+        (NP (NP (JJ constant) (NN information))
+            (VP (VBN supplied)
+                (PP (IN by)
+                    (NP (DT the) (NN programmer)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN area))
+    (AUX (MD may))
+    (ADVP (RB also))
+    (VP (VB be)
+        (VP (VBN provided)
+            
+            (PP (IN with)
+                (NP (JJ additional) (NNS data)))
+            (PP (IN during)
+                (NP (DT the) (VBG running)
+                    (PP (IN of)
+                        (NP (DT the) (NN object) (NN program)))))
+            (PP (IN by)
+                (NP (NNS means)
+                    (PP (IN of)
+                        (NP (NN EDMOV) (CC or) (NN move) (NNS macro-instructions))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ declarative) (NN statement) (NN EQU))
+    (VP (VBZ permits)
+        (S (NP (DT the) (NN programmer))
+           (X (X (AUX (TO to))
+                 (VP (VB equate)
+                     (NP (JJ symbolic) (NNS names))
+                     (PP (TO to)
+                         (NP (NP (JJ actual) (NN index) (NNS words))
+                             (, ,)
+                             (NP (JJ electronic) (NNS switches))
+                             (, ,)
+                             (NP (NN arm) (CC and) (NN file) (NNS numbers))
+                             (, ,)
+                             (NP (NN tape) (NN channel) (CC and) (NN unit) (NNS numbers))
+                             (, ,)
+                             (NP (NN alteration) (NNS switches))
+                             (, ,)
+                             (NP (X (FW etc.)))))))
+              (, ,)
+              (CC and)
+              (X (AUX (TO to))
+                 (VP (VB equate)
+                     (NP (DT a) (NN symbol))
+                     (PP (TO to)
+                         (NP (DT another) (NN symbol)))
+                     (CC or)
+                     (PP (TO to)
+                         (NP (DT an) (JJ actual) (NN address)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DIOCS)
+        (, ,)
+        (NN DTF)
+        (, ,)
+        (CC and)
+        (NN DUF) (NNS statements))
+    (AUX (VBP are))
+    (VP (VBN used)
+        
+        (SBAR (WHADVP (WRB when))
+              (S (NP (-NONE- *))
+                 (VP (VBN required))))
+        (PP (IN by)
+            (NP (DT the) (NN Input) (NN Control) (NN System)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN DIOCS))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB select)
+               (NP (NP (DT the) (JJ major) (NNS methods)
+                       (PP (IN of)
+                           (S (NP (-NONE- *))
+                              (VP (VBG processing)))))
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB be)
+                          (VP (VBN used)
+                              ))))))
+        (, ,)
+        (CC and)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB name)
+               (NP (NP (DT the) (NN index) (NNS words))
+                   (VP (VBN used)
+                       (PP (IN by)
+                           (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN tape) (NN file))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN described)
+            
+            (PP (IN by)
+                (NP (NP (NN Tape) (NN File) (NNS Specifications))
+                    (, ,)
+                    (VP (VBN produced)
+                        (PP (IN by)
+                            (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN addition)
+            (PP (TO to)
+                (NP (NP (NN information))
+                    (VP (VBN related)
+                        (PP (TO to)
+                            (NP (NP (DT the) (NN file))
+                                (CC and)
+                                (NP (PRP$ its) (NNS records)))))))))
+    (, ,)
+    (S (NP (DT the) (NN File) (NNS Specifications))
+       (VP (VBP contain)
+           (NP (NP (NN subroutine) (NNS locations))
+               (CC and)
+               (NP (DT the) (NN location)
+                   (PP (IN of)
+                       (NP (NN tape) (NN label) (NN information))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN DUF) (NN entry))
+        (VP-2 (-NONE- *pseudo-attach*)))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN supplied)
+            
+            (PP (IN for)
+                (NP (DT every) (NN unit) (NN record) (NN file)))))
+    (VP-2 (VBG describing)
+          (NP (NP (DT the) (NN type)
+                  (PP (IN of)
+                      (NP (NN file))))
+              (CC and)
+              (NP (DT the) (NN unit) (NN record) (NN equipment))
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB be)
+                     (VP (VBN used)
+                         ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN DUF))
+    (ADVP (RB also))
+    (VP (VBZ supplies)
+        (NP (DT the) (NNS locations)
+            (PP (IN of)
+                (NP (NP (NNS subroutines))
+                    (VP (VBN written)
+                        (PP (IN by)
+                            (NP (DT the) (NN user))))
+                    (SBAR (WHNP (WDT that))
+                          (S (NP (-NONE- T))
+                             (VP (VBP are)
+                                 (ADJP (JJ unique)
+                                       (PP (TO to)
+                                           (NP (DT the) (NN file))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ full) (NN description)
+        (PP (IN of)
+            (NP (DT the) (NN DIOCS)
+                (, ,)
+                (NN DTF)
+                (, ,)
+                (CC and)
+                (NN DUF) (NNS statements))))
+    (AUX (VBZ is))
+    (VP (VBN contained)
+        
+        (PP (IN in)
+            (NP (NP (DT the) (CD 7070) (NNS Data)
+                    (NN Processing) (NN System) (NN Bulletin))
+                (`` ``)
+                (NP (NN IBM)
+                    (CD 7070) (NN Input) (NN Control) (NN System))
+                ('' '')
+                (, ,)
+                (NP (NN form) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (JJ Brief) (NNS descriptions)
+            (PP (IN of)
+                (NP (DT these) (CD three) (JJ declarative) (NNS statements))))
+        (CC and)
+        (NP (VP (VBN detailed))
+            (NNS descriptions)
+            (PP (IN of)
+                (NP (DT the) (NNS formats) (CC and) (NNS functions)
+                    (PP (IN of)
+                        (NP (DT each)
+                            (PP (IN of)
+                                (NP (DT the)
+                                    (ADJP (JJ other))
+                                    (CD 70707074) (NN Autocoder) (JJ declarative) (NNS statements)))))))))
+    (VP (VBP follow)
+        (ADVP (IN below))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NP (NNS diocs))
+     (: --)
+     (S (NP (-NONE- *))
+        (VP (VB define)
+            (NP (NN input) (NN control) (NN system))))))
+ 
+
+(
+ (S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN Input) (NN Control) (NN System))
+             (VP (VBZ is)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB be)
+                        (VP (VBN used)
+                            
+                            (PP (IN in)
+                                (NP (DT a) (NN program)))))))))
+    (, ,)
+    (S (NP (DT a) (NN DIOCS) (NN statement))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN used)
+               
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB select)
+                      (NP (NP (DT the) (JJ major) (NNS methods)
+                              (PP (IN of)
+                                  (S (NP (-NONE- *))
+                                     (VP (VBG processing)))))
+                          (S (NP (-NONE- *))
+                             (AUX (TO to))
+                             (VP (VB be)
+                                 (VP (VBN used)
+                                     ))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN statement))
+    (ADVP (RB also))
+    (VP (VBZ allows)
+        (NP (DT the) (NN naming)
+            (PP (IN of)
+                (NP (NP (DT the) (NN index) (NNS words))
+                    (VP (VBN used)
+                        (PP (IN by)
+                            (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Source) (NN program) (NN format))
+ )
+ 
+
+(
+ (S (S (NP (DT The) (JJ basic) (NN format)
+           (PP (IN of)
+               (NP (DT the) (NN DIOCS) (NN statement))))
+       (VP (VBZ is)
+           (PP (IN as)
+               (S (NP (-NONE- *))
+                  (VP (VBZ follows))))))
+    (: :)
+    (S (NP (NN anylabel))
+       (VP (VBZ is)
+           (NP (RB any)
+               (JJ symbolic) (NN label))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP it))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN omitted)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN entry) (NN DIOCS))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN written)
+            
+            (PP (ADVP (RB exactly))
+                (IN as)
+                (S (NP (-NONE- *))
+                   (VP (VBN shown)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ first) (NN item)
+            (PP (IN in)
+                (NP (DT the) (NN operand))))
+        (, ,)
+        (NP (NN IOCSIXF))
+        (, ,))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB specify)
+               (NP (DT the) (JJ first) (NN IOCS) (NN index) (NN word)
+                   (PP (IN for)
+                       (NP (NP (NNS programs))
+                           (VP (VBG using)
+                               (NP (NN tape) (NNS files))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN item))
+    (AUX (MD may))
+    (VP (VB be)
+        (NP (NP (DT a) (JJ symbolic) (NN name))
+            (CC or)
+            (NP (DT an)
+                (JJ actual) (JJ one-digit) (CC or) (JJ two-digit)
+                (NN index) (NN word) (NN address)
+                (PP (IN in)
+                    (NP (DT the)
+                        (NN range) (CD 3)
+                        (: -)
+                        (CD 94)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (JJ first) (NN item)
+                 (PP (IN in)
+                     (NP (DT the) (NN operand))))
+             (AUX (VBZ is))
+             (VP (VBN omitted)
+                 )))
+    (, ,)
+    (S (NP (DT the) (JJ symbolic) (NN name) (NN IOCSIXF))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN assigned)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (NP (DT an) (JJ actual) (NN index) (NN word))
+                 (CC or)
+                 (NP (DT a) (JJ symbolic) (NN address)))
+             (AUX (VBZ is))
+             (VP (VBN specified)
+                 )))
+    (, ,)
+    (S (NP (NN Autocoder))
+       (AUX (MD will))
+       (VP (VB equate)
+           (NP (DT the) (NN name) (NN IOCSIXF))
+           (PP (TO to)
+               (NP (PRP it))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ second) (NN item)
+            (PP (IN in)
+                (NP (DT the) (NN operand))))
+        (, ,)
+        (NP (NN IOCSIXG))
+        (, ,))
+    (AUX (VBZ is))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB specify)
+               (NP (DT the) (JJ second) (NN IOCS) (NN index) (NN word))
+               (PP (IN for)
+                   (NP (NP (NNS programs))
+                       (VP (VBG using)
+                           (NP (NN tape) (NNS files)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN item))
+    (AUX (MD may))
+    (VP (VB be)
+        (NP (NP (DT a) (JJ symbolic) (NN name))
+            (CC or)
+            (NP (DT an)
+                (JJ actual) (JJ one-digit) (CC or) (JJ two-digit)
+                (NN index) (NN word) (NN address)
+                (PP (IN in)
+                    (NP (DT the)
+                        (NN range) (CD 3)
+                        (: -)
+                        (CD 94)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (JJ second) (NN item)
+                 (PP (IN in)
+                     (NP (DT the) (NN operand))))
+             (AUX (VBZ is))
+             (VP (VBN omitted)
+                 )))
+    (, ,)
+    (S (NP (DT the) (JJ symbolic) (NN name) (NN IOCSIXG))
+       (AUX (MD will))
+       (VP (VB be)
+           (VP (VBN assigned)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (NP (DT an) (JJ actual) (NN index) (NN word))
+                 (CC or)
+                 (NP (DT a) (JJ symbolic) (NN address)))
+             (AUX (VBZ is))
+             (VP (VBN specified)
+                 )))
+    (, ,)
+    (S (NP (NN Autocoder))
+       (AUX (MD will))
+       (VP (VB equate)
+           (NP (NN IOCSIXG))
+           (PP (TO to)
+               (NP (PRP it))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

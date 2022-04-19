@@ -1,0 +1,2121 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP Purification
+     (PP of
+	 (NP the conjugates))))
+((S  
+  (PP In
+      (S (NP *) 
+	 (VP attempting
+	     (S (NP *)
+		(AUX to)
+		(VP improve
+		    (NP specificity
+			(PP of
+			    (NP staining))))))))
+  ,
+  (S (S (NP (NP the (ADJP fluorescein-labeled) antisera)
+	    (VP used
+		(PP in
+		    (NP (ADJP both (ADJP direct) and  (ADJP indirect)) methods))))
+	(AUX were)
+	(VP treated
+	     
+	    (PP in
+		(NP one
+		    (PP of
+			(NP several ways))))))
+     :
+     (S   *LRB*
+	  (NP 1)
+	  *RRB*
+	  (S (NP They)
+	     (AUX were)
+	     (VP (VP passed
+	      
+		     (PP through
+			 (NP Dowex-2-chloride))
+		     (ADVP twice))
+		 and
+		 (VP treated
+		     (PP with
+			 (NP (NP  acetone insoluble powders)
+			     *LRB*
+			     (NP (NP Coons)
+				 ,
+				 (NP 1958))
+			     *RRB*
+			     (VP prepared
+				 (PP (PP from
+					 (NP mouse liver))
+				     or
+				     (PP from
+					 (NP (NP healthy sweet
+						 clover stems) 
+					     or 
+					     (NP (NP crown gall tissue)
+						 (VP produced
+						     (PP by
+							 (NP Agrobacterium tumefaciens))
+						     *LRB*
+						     (NP (NP E.F. Smith)
+							 &
+							 (NP Townsend))
+						     *RRB*
+						     (PP on
+							 (NP sweet clover stems))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *LRB*
+      (NP 2)
+      *RRB*
+      (S (NP (NP The conjugates)
+	     (ADVP as
+		   well
+		   (PP as
+		       (NP the intermediate sera))))
+	 (AUX were)
+	 (VP absorbed
+		 
+	     (PP for
+		 (NP 30 minutes))
+	     (PP with
+		 (NP (NP 20
+			 -
+			 50)
+		     mg
+		     (PP of
+			 (NP (NP proteins)
+			     (VP extracted
+				 (PP from
+				     (NP 
+				      healthy sweet
+				      clover stems))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The proteins)
+   (AUX were)
+   (VP (VP extracted
+	     
+	   (PP with
+	       (NP 3 volumes
+		   (PP of
+		       (NP A[fj]
+			   (PP in
+			       (NP A[fj]))))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP give
+		  (NP a
+		      (ADJP nearly
+			    neutral) extract))))
+       and
+       (VP precipitated
+	   (PP by
+	       (NP 80 % saturation
+		   (PP with
+		       (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The precipitate)
+   (AUX was)
+   (VP (VP washed
+	   (ADVP twice)
+	   (PP with
+	       (NP an (ADJP 80 % saturated) solution
+		   (PP of
+		       (NP A[fj])))))
+       ,
+       (VP dissolved
+	   (PP in
+	       (NP a small quantity
+		   (PP of
+		       (NP 0.1 M
+			   neutral phosphate buffer)))))
+       ,
+       (VP dialyzed
+	   (PP against
+	       (NP 
+		cold distilled
+		water))
+	   (PP till
+	       (ADJP free
+		     (PP from
+			 (NP ammonium ions)))))
+       ,
+       and
+       (VP lyophilized
+	   (S (NP *)  
+	      (VP using
+		  (NP liquid nitrogen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *LRB*
+      (NP 3)
+      *RRB*
+      (S (PP In
+	     (NP other experiments))
+	 (S (NP the indirect conjugate)
+	    (AUX was)
+	    (VP treated
+	     
+		(PP with
+		    (NP 3 volumes
+			(PP of
+			    (NP ethyl acetate)))))
+	    (PP as
+		(S (NP *) 
+		   (VP recommended
+		       (PP by
+			   (NP (NP (NP Dineen)
+				   and
+				   (NP Ade))
+			       *LRB*
+			       (NP 1957)
+			       *RRB*))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *LRB*
+      (NP 4)
+      *RRB*
+      (S (NP The conjugates)
+	 (AUX were)
+	 (VP passed
+	      
+	     (PP through
+		 (NP (NP  a diethylaminoethyl
+			  *LRB*
+			  DEAE
+			  *RRB*
+			  cellulose column)
+		     (VP equilibrated
+			 (PP with
+			     (NP (NP (NP neutral phosphate buffer)
+				     *LRB*
+				     (NP PBS)
+				     *RRB*)
+				 (VP containing
+				     (NP (NP A[fj] potassium phosphate) and (NP A[fj])))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Preparation
+       (PP of
+	   (NP (VP  frozen)
+	       sections)))
+  )
+((S  
+  (NP The technique
+      (PP of
+	  (S (NP *) 
+	     (VP cutting
+		 (NP sections)))))
+  (VP was
+      (NP (ADVP essentially)
+	  the
+	  (ADJP same)
+	  (PP as
+	      (NP (NP that)
+		  (VP described
+		      (PP by
+			  (NP (NP Coons
+				  et
+				  al)
+			      *LRB*
+			      (NP 1951)
+			      *RRB*))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Root and stem tumors
+       (PP from
+	   (NP (NP sweet clover plants)
+	       (VP infected
+		   (PP with
+		       (NP WTV))))))
+   (AUX were)
+   (VP (VP quick-frozen
+	     
+	   (PP in
+	       (NP liquid nitrogen)))
+       ,
+       (VP embedded
+	   (PP in
+	       (NP ice)))
+       ,
+       and
+       (VP cut
+	   (PP at
+	       (NP 3 - 6 ** ym))
+	   (PP in
+	       (NP (NP a cryostat)
+		   (VP maintained
+		       (PP  at
+			    (NP  -
+				 16-degrees
+				 (PP  to
+				      (NP  -
+					   20-degrees))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The sections)
+    (AUX were)
+    (VP mounted
+	(PP on
+	    (NP (NP cold slides)
+		(VP (VP smeared
+			(PP with
+			    (NP (NP 
+				 (NP Haupts)
+				 ' adhesive)
+				*LRB*
+				(NP (NP Johansen)
+				    ,
+				    (NP 1940))
+				*RRB*))
+			(PP in
+			    (NP earlier
+				experiments)))
+		    ,
+		    and
+		    (X (PP in
+			   (NP later
+			       experiments))
+		       (PP with
+			   (NP (NP a different mixture
+				   (PP of
+				       (NP the same components)))
+			       (VP reported
+				   (PP by
+				       (NP (NP (NP Schramm)
+					       and
+					       (NP Rottger))
+					   *LRB*
+					   (NP 1959)
+					   *RRB*)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The latter adhesive)
+   (AUX was)
+   (VP found
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP   (ADVP much
+			    more)
+		      satisfactory)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The sections)
+       (AUX were)
+       (ADVP then)
+       (VP (VP thawed
+	 
+	       (PP by
+		   (S (NP *) 
+		      (VP placing
+			  (NP a finger)
+			  (PP under
+			      (NP the slide))))))
+	   and
+	   (VP dried
+	       (PP under
+		   (NP a fan))
+	       (PP for
+		   (NP 30 minutes)))))
+    ;
+    ;
+    (S (PP until
+	   (S  (NP *) 
+	       (VP used)))
+       (S (NP they)
+	  (AUX were)
+	  (VP stored
+	      (PP for
+		  (ADVP as
+			long
+			(PP as
+			    (NP 2 weeks))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP  (NP Staining
+	  technique)
+      (NP indirect method))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The sections)
+   (AUX were)
+   (VP (VP fixed
+	     
+	   (PP in
+	       (NP acetone))
+	   (PP for
+	       (NP 15 minutes)))
+       and
+       (VP dried
+	   (PP at
+	       (NP 37-degrees))
+	   (PP for
+	       (NP 30 minutes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some
+       (PP of
+	   (NP them)))
+   (AUX were)
+   (ADVP then)
+   (VP covered
+        
+       (PP with
+	   (NP a drop
+	       (PP of
+		   (NP A[fj]))))
+       (PP in
+	   (NP a moist chamber))
+       (PP at
+	   (NP 24-degrees))
+       (PP for
+	   (NP 30 -
+	       40 minutes))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP controls))
+   (S (NP other sections)
+      (AUX were)
+      (VP  (ADVP similarly)
+	   covered
+	   
+	   (PP with
+	       (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sections)
+   (AUX were)
+   (ADVP then)
+   (VP washed
+        
+       (PP with
+	   (NP PBS))
+       (PP for
+	   (NP 15 -
+	       30 minutes))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (S (NP *) 
+	  (VP blotting
+	      (PRT out)
+	      (NP most
+		  (PP of
+		      (NP the saline
+			  (PP around
+			      (NP the sections))))))))
+   ,
+   (S (NP a drop
+	  (PP of
+	      (NP A[fj])))
+      (AUX was)
+      (VP (VP layered
+	      
+	      (PP over
+		  (NP each
+		      (PP of
+			  (NP the sections)))))
+	  ,
+	  (VP allowed
+	      (S (NP *)
+		 (AUX to)
+		 (VP react))
+	      (PP for
+		  (NP 30 minutes)))
+	  ,
+	  and
+	  (ADVP then)
+	  (VP washed
+	      (PP with
+		  (NP PBS))
+	      (PP for
+		  (NP 15 -
+		      30 minutes))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (S (NP *) 
+	  (VP blotting
+	      (PRT out)
+	      (ADJP most
+		    (PP of
+			(NP the liquid
+			    (PP around
+				(NP the sections))))))))
+   ,
+   (S (NP the latter)
+      (AUX were)
+      (VP mounted
+	      
+	  (PP in
+	      (NP (NP (VP buffered)
+		      glycerine)
+		  *LRB*
+		  (NP 7 parts
+		      glycerine
+		      (PP to
+			  (NP 3 parts
+			      (PP of
+				  (NP PBS)))))
+		  *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Direct method)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (S (NP *) 
+	  (VP (VP drying
+		  (NP the sections)
+		  (PP under
+		      (NP the fan)))
+	      ,
+	      (VP fixing
+		  (PP in
+		      (NP acetone)))
+	      ,
+	      and
+	      (VP drying
+		  (PP at
+		      (NP 37-degrees))
+		  (PP as
+		      (PP in
+			  (NP the indirect method)))))))
+   ,
+   (S (NP the sections)
+      (AUX were)
+      (VP treated
+	      
+	  (PP with
+	      (NP (NP (VP conjugated)
+		      A[fj] or A[fj])
+		  *LRB*
+		  (ADJP undiluted
+			(SBAR unless
+			      (S (NP *) 
+				 (VP mentioned
+				     (ADVP otherwise)))))
+		  *RRB*))
+	  (PP for
+	      (NP 5 - 30 minutes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP controls))
+   ,
+   (S (NP other sections)
+      (AUX were)
+      (VP  (ADVP similarly)
+	   treated
+	       
+	   (PP with
+	       (NP (NP A[fj])
+		   or
+		   (NP (NP conjugated antiserum
+			   (PP to
+			       (NP the New York strain
+				   (PP of
+				       (NP potato yellow-dwarf virus)))))
+		       *LRB*
+		       (NP (NP (NP Wolcyrz)
+			       and
+			       (NP Black))
+			   ,
+			   (NP 1956))
+		       *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The sections)
+    (AUX were)
+    (ADVP then)
+    (VP (VP washed
+	        
+	    (PP with
+		(NP PBS))
+	    (PP for
+		(NP 15 -
+		    30
+		    minutes)))
+	and
+	(VP mounted
+	    (PP in
+		(NP (VP buffered)
+		    glycerine)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Fluorescence microscopy))
+(   
+ (S (NP  (ADJP Stained
+	       or
+	       unstained) sections)
+    (AUX were)
+    (VP examined
+	  
+	(PP under
+	    (NP dark field illumination))
+	(PP in
+	    (NP (NP (NP a Zeiss fluorescence microscope)
+		    (VP equipped
+			(PP with
+			    (NP a mercury vapor lamp))))
+		*LRB*
+		(NP Osram HBO 200)
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The light beam
+       (PP from
+	   (NP the lamp)))
+   (AUX was)
+   (VP filtered
+	     
+       (PP through
+	   (NP a half-standard thickness
+	       Corning
+	       1840 filter))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the eyepiece))
+     (S
+      (NP a Wratten 2 B filter)
+      (AUX was)
+      (VP used
+	   
+	  (S (NP *)
+	     (AUX to)
+	     (VP filter
+		 (PRT off)
+		 (NP 
+		  residual ultra-violet
+		  light))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP A red filter)
+      ,
+      (NP Zeiss barrier filter
+	  (PP with
+	      (NP the code
+		  *LRB*
+		  Schott
+		  *RRB*
+		  designation
+		  BG 23)))
+      ,)
+  (AUX was)
+  (ADVP also)
+  (VP used
+       
+      (PP in
+	  (NP the ocular lens assembly)))
+  (SBAR  as
+	 (S (NP it)
+	    (VP improved
+		(NP the contrast
+		    (PP between
+			(NP (ADJP specific and nonspecific) fluorescence)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP  Results
+      specificity
+      (PP of
+	  (NP   (NP staining)
+	        (NP indirect method))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the
+	   first
+	   few experiments))
+   (S (NP A[fj])
+      (AUX was)
+      (VP (VP passed
+	      (PP through
+		  (NP Dowex-2-chloride))
+	      (ADVP twice))
+	  and
+	  (VP absorbed
+	      (ADVP twice)
+	      (PP with
+		  (NP 50 -
+		      100 mg sweet clover tissue powder))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The intermediate sera)
+   (AUX were)
+   (ADVP also)
+   (VP  (ADVP similarly)
+	absorbed
+        
+	(PP with
+	    (NP tissue powder))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sections
+       (PP of
+	   (NP sweet clover stem and root tumors)))
+   (AUX were)
+   (VP (VP treated
+	     
+	   (PP with
+	       (NP 1 : 10 solution
+		   (PP of
+		       (NP A[fj]))))
+	   (PP for
+	       (NP 30 minutes)))
+       ,
+       (VP washed
+	   (PP in
+	       (NP (VP buffered)
+		   saline))
+	   (PP for
+	       (NP 15 minutes)))
+       ,
+       (VP stained
+	   (PP with
+	       (NP A[fj]))
+	   (PP for
+	       (NP 30 minutes)))
+       ,
+       and
+       (VP washed
+	   (PP for
+	       (NP 15 minutes))
+	   (PP in
+	       (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Such sections)
+       (VP showed
+	   (NP 
+	    bright  (ADJP yellow-green)
+	    specific fluorescence
+	    (PP in
+		(NP the cells
+		    (PP of
+			(NP the pseudophloem tissue)))))))
+    *LRB*
+    (NP (NP (NP Lee)
+	    and
+	    (NP Black))
+	,
+	(NP 1955))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This specific fluorescence)
+   (AUX was)
+   (VP  (ADVP readily)
+	distinguished
+	     
+	(PP from
+	    (NP the
+		(ADJP light green) nonspecific
+		fluorescence
+		(PP in
+		    (NP (NP consecutive sections)
+			(VP stained
+			    (PP (PP with
+				    (NP 1 : 10 dilution
+					(PP of
+					    (NP (NP NS)
+						and
+						(NP A[fj])))))
+				or
+				(PP with
+				    (NP A[fj]
+					(ADVP alone)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP (ADVP Unstained) sections)
+	  (VP mounted
+	      (PP in
+		  (NP (VP buffered)
+		      glycerine))))
+      or 
+      (NP (NP sections)
+	  (VP treated
+	      (PP (ADVP only)
+		  with
+		  (NP (NP NS)
+		      or
+		      (NP A[fj]))))))
+  (AUX did)
+  (NEG not)
+  (VP show
+      (NP 
+       such green
+       fluorescence)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Sections
+	  (PP of
+	      (NP crown gall tissue)))
+      (VP  (ADVP similarly)
+	   stained
+	   (PP with
+	       (NP either  
+		   (NP (NP A[fj]) and (NP A[fj]))
+		   or
+		   (NP (NP NS)
+		       and
+		       (NP A[fj]))))))
+  (ADVP also)
+  (VP showed
+      (NP (ADVP only)
+	  the
+	  (ADJP light green) nonspecific
+	  fluorescence)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP the nonspecific staining
+	     (PP by
+		 (NP the A[fj]))
+	     (PP in
+		 (NP tumor sections)))
+	 (AUX was)
+	 (VP considered
+	     (ADJP bright
+		   enough
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (VP confused
+				  
+			      (PP with
+				  (NP the staining
+				      (PP of
+					  (NP small amounts
+					      (PP of
+						  (NP WTV antigen)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Two absorptions
+	  (PP of
+	      (NP A[fj]))
+	  (PP with
+	      (NP ethyl acetate)))
+      or
+      (NP two absorptions
+	  (PP of
+	      (NP (NP (NP A[fj])
+		      *LRB*
+		      (SBAR  
+		       (WHNP which)
+		       (S (NP T)
+			  (AUX had)
+			  (VP been
+			      (VP passed
+		        
+				  (PP through
+				      (NP Dowex-2-chloride))))))
+		      *RRB*)
+		  ,
+		  (NP NS)
+		  and
+		  (NP A[fj])))
+	  (PP with
+	      (NP (NP crown gall tissue powder)
+		  ,
+		  or
+		  (NP mouse liver powder)))))
+  (AUX did)
+  (NEG not)
+  (VP  (ADVP further)
+       improve
+       (NP the specificity
+	   (PP of
+	       (NP staining)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Treatment
+       (PP of
+	   (NP all
+	       the sera))
+       (PP with
+	   (NP sweet clover proteins)))
+   (VP (ADVP greatly)
+       reduced
+       (NP nonspecific fluorescence))
+   ,
+   (SBAR  especially
+	  (WHADVP when)
+	  (S (NP the (VP treated) conjugate)
+	     (AUX was)
+	     (VP diluted
+	        
+		 (PP to
+		     (NP 1 : 2))
+		 (PP with
+		     (NP 0.85 % saline))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP all
+	      the above procedures))
+      ,
+      (SBAR 
+       (WHADVP when)
+       (S (NP the intermediate sera)
+	  (AUX were)
+	  (VP diluted
+	      
+	      (PP to
+		  (NP (NP 1 : 10)
+		      or
+		      (NP 1 : 100)))
+	      (PP with
+		  (NP 0.85 % saline)))))
+      ,
+      (S (NP the (ADJP specific
+		       and
+		       nonspecific) fluorescence)
+	 (AUX were)
+	 (NEG not)
+	 (VP  (ADVP appreciably)
+	      reduced
+	      )))
+     ,
+     (SBAR whereas
+	   ,
+	   (S  
+	    (NP (NP a dilution
+		    (PP of
+			(NP the intermediate sera))
+		    (PP to
+			(NP 1 : 500)))
+		or
+		(NP (S (NP *)  
+		       (VP diluting
+			   (NP the A[fj])
+			   (PP to
+			       (NP 1 : 5))))))
+	    (VP  (ADVP greatly)
+		 reduced
+		 (NP specific fluorescence)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (S  (NP *)  
+	     (VP Rinsing
+		 (NP the sections)
+		 (PP with
+		     (NP PBS)))
+	     (PP before
+		 (S (NP *) 
+		    (VP layering
+			(NP the intermediate sera))))))
+     (AUX did)
+     (NEG not)
+     (VP improve
+	 (NP the staining reaction)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition
+	   (PP to
+	       (NP other treatments))))
+   ,
+   (S (NP (S  (NP *)  
+	      (VP treating
+		  (NP the sections)
+		  (PP with
+		      (NP normal sheep serum))
+		  (PP for
+		      (NP half
+			  an hour)))
+	      (PP before
+		  (S  (NP *) 
+		      (VP layering
+			  (NP A[fj]))))))
+      (AUX did)
+      (NEG not)
+      (VP reduce
+	  (NP nonspecific staining))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The only treatment)
+      (SBAR (WHPP by
+		  (WHNP which))
+	    (S (NP nonspecific staining)
+	       (AUX could)
+	       (VP be)
+	       (VP  (ADVP satisfactorily)
+		    removed))))
+  (VP was
+      (PP by
+	  (S (NP *) 
+	     (VP passing
+		 (NP the conjugate)
+		 (PP through
+		     (NP a DEAE-cellulose column)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP 1 ml
+	   (PP of
+	       (NP conjugate)))
+       (AUX was)
+       (VP passed
+		     
+	   (PP through
+	       (NP (NP a column)
+		   *LRB*
+		   (NP A[fj])
+		   *RRB*)))))
+   ,
+   (S (NP (NP the  first and second milliliter fractions)
+	  (VP collected))
+      (VP (VP were
+	      (NP the
+		  (ADJP  most specific)))
+	  and
+	  (VP (VP gave
+		  (NP no nonspecific staining)
+		  (PP in
+		      (NP some experiments)))
+	      ,
+	      and
+	      (X  
+	       (NP  very
+		    little)
+	       (PP in
+		   (NP others)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the latter
+	   cases))
+   (S (NP an additional treatment
+	  (PP of
+	      (NP the (ADJP DEAE-cellulose-treated) A[fj]))
+	  (PP with
+	      (NP 50 mg
+		  (PP of
+		      (NP sweet clover stem tissue powder)))))
+      (VP  (ADVP further)
+	   improved
+	   (NP the specificity))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP After
+	 (NP these treatments))
+     (S
+      (NP the conjugate)
+      (X (X (AUX did)
+	    (NEG not)
+	    (VP stain
+		(NP  (ADJP healthy
+			   or
+			   crown gall) sweet clover tissues)))
+	 or
+	 (VP stained
+	     (NP them)
+	     (NP (NP a
+		     (ADJP very
+			   faint) green)
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (VP was
+			 (ADJP  easily
+				distinguishable
+				(PP from
+				    (NP the
+					(ADJP bright yellow-green) specific
+					staining)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP With
+	 (NP this (VP purified) conjugate))
+     (S
+      (NP the
+	  best
+	  staining procedure)
+      (VP consisted
+	  (PP of
+	      (S (NP *) 
+		 (VP (VP treating
+			 (NP the sections)
+			 (PP with
+			     (NP 1 : 10 dilution
+				 (PP of
+				     (NP A[fj]))))
+			 (PP for
+			     (NP 30 minutes)))
+		     ,
+		     (VP washing
+			 (PP with
+			     (NP PBS))
+			 (PP for
+			     (NP 15 minutes)))
+		     ,
+		     (VP staining
+			 (PP with
+			     (NP A[fj]))
+			 (PP for
+			     (NP 30 minutes)))
+		     ,
+		     and
+		     (VP washing
+			 (PP with
+			     (NP PBS))
+			 (PP for
+			     (NP 15 minutes)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The specificity
+	  (PP of
+	      (NP staining))
+	  (PP in
+	      (NP WTV tumors))
+	  (PP (PP (PP with
+		      (NP (NP A[fj]) and (NP A[fj])))
+		  but
+		  (NEG not)
+		  (PP (PP with
+			  (NP (NP NS)
+			      and
+			      (NP A[fj])))
+		      or
+		      (PP with
+			  (NP (NP antiserum
+				  (PP to
+				      (NP potato yellow-dwarf virus)))
+			      and 
+			      (NP A[fj])))))))
+      ,
+      and
+      (NP the absence
+	  (PP of
+	      (NP such staining))
+	  (PP in
+	      (NP crown gall tumor tissue
+		  (PP from
+		      (NP sweet-clover)))))
+      ,)
+  (VP indicate
+      (SBAR that
+	    (S (NP an antigen
+		   (PP of
+		       (NP WTV)))
+	       (AUX was)
+	       (VP being
+		   (VP stained))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Direct method)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A[fj])
+   (AUX was)
+   (ADVP first)
+   (VP conjugated
+	     
+       (PP with
+	   (NP 50 mg
+	       (PP of
+		   (NP FITC))
+	       (PP per
+		   (NP gram
+		       (PP of
+			   (NP globulin))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This conjugate)
+   (AUX was)
+   (VP (VP passed
+	   (ADVP twice)
+	   (PP through
+	       (NP Dowex-2-chloride)))
+       and
+       (VP treated
+	   (PP with
+	       (NP various tissue powders))
+	   (PP in
+	       (NP the same manner
+		   (PP as
+		       (S  (NP *)  
+			   (VP described
+			       (PP for
+				   (NP the indirect method))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP all cases))
+    (S
+     (NP a (ADJP disturbing) amount
+	 (PP of
+	     (NP nonspecific staining)))
+     (VP was
+	 (ADVP still)
+	 (ADJP present))
+     (SBAR although
+	   (S (NP it)
+	      (VP was
+		  (ADVP still)
+		  (ADJP distinguishable
+			(PP from
+			    (NP specific fluorescence))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP later
+	   experiments))
+   ,
+   (S (NP (NP A[fj]) and (NP A[fj]))
+      (AUX were)
+      (VP prepared
+	  (PP by
+	      (S (NP *) 
+		 (VP conjugating
+		     (NP 8 mg
+			 (PP of
+			     (NP FITC))
+			 (PP per
+			     (NP gram
+				 (PP of
+				     (NP globulin)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP These conjugates
+      A[fj])
+  (VP had
+      (NP   (ADJP much
+		  less)
+	    nonspecific staining
+	    (PP than
+		(NP (NP the previous conjugate)
+		    *LRB*
+		    (PP with
+			(NP 50 mg
+			    FITC
+			    (PP per
+				(NP gram
+				    (PP of
+					(NP globulin))))))
+		    *RRB*))))
+  (SBAR while
+        (S (NP the specific staining)
+	   (VP was
+	       (ADJP similar))
+	   (PP in
+	       (NP both
+		   cases)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nonspecific staining)
+   (AUX could)
+   (VP be
+       (VP (ADVP satisfactorily)
+	   eliminated
+		 
+	   (PP by
+	       (S (NP *)  
+		  (VP passing
+		      (NP these conjugates)
+		      (PP through
+			  (NP a DEAE-cellulose column)))
+		  (PP as
+		      (S (NP *) 
+			 (VP described
+			     (PP for
+				 (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       best
+       staining procedure
+       (PP with
+	   (NP this (VP purified) A[fj])))
+   (VP consisted
+       (PP of
+	   (S (NP *) 
+	      (VP (VP staining
+		      (PP with
+			  (NP the conjugate))
+		      (PP for
+			  (NP 30 minutes)))
+		  and
+		  (VP washing
+		      (PP in
+			  (NP PBS))
+		      (PP for
+			  (NP 15 minutes))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The specificity
+	   (PP of
+	       (S  (NP *) 
+		   (VP staining
+		       (PP with
+			   (NP A[fj]))))))
+       (AUX was)
+       (VP established
+	   (PP as
+	       (S (NP *) 
+		  (VP follows)))))
+    :
+    (S (NP A[fj])
+       (ADVP specifically)
+       (VP stained
+	   (NP (NP tumor sections)
+	       but
+	       (NEG not)
+	       (NP sections
+		   (PP (PP of
+			   (NP 
+			    healthy sweet
+			    clover stems))
+		       or
+		       (PP of
+			   (NP crown gall tumor tissue
+			       (PP from
+				   (NP sweet clover))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sections
+       (PP of
+	   (NP (NP tumors)
+	       (VP incited
+		   (PP by
+		       (NP WTV))))))
+   (AUX were)
+   (NEG not)
+   (VP  (ADVP similarly)
+	stained
+	     
+	(PP with
+	    (NP (NP (VP conjugated)
+		    normal serum)
+		or
+		(NP (VP conjugated)
+		    antiserum
+		    (PP to
+			(NP potato yellow-dwarf virus)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP After
+	  (S (NP *) 
+	     (VP passing
+		 (NP A[fj])
+		 (PP through
+		     (NP DEAE-cellulose)))))
+      ,
+      (S (S (NP the titer
+		(PP of
+		    (NP antibodies))
+		(PP to
+		    (NP WTV))
+		(PP in
+		    (NP the specific fraction)))
+	    (VP was
+		(NP 1 : 4
+		    (PP of
+			(NP the titer
+			    (PP before
+				(NP such passage)))))))
+	 *LRB*
+	 (NP precipitin ring tests
+	     (PP by
+		 (NP R.F. Whitcomb)))
+	 *RRB*))
+     ;
+     ;
+     but
+     (S (NP mere dilution
+	    (PP of
+		(NP the conjugate))
+	    (PP to
+		(NP 1 : 4)))
+	(AUX did)
+	(NEG not)
+	(VP  (ADVP satisfactorily)
+	     remove
+	     (NP nonspecific staining))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP indicates
+       (SBAR that
+	     (S (NP increase
+		    (PP in
+			(NP specificity
+			    (PP of
+				(NP A[fj]))))
+		    (PP after
+			(S (NP *) 
+			   (VP passing
+			       (NP it)
+			       (PP through
+				   (NP DEAE-cellulose))))))
+		(VP was
+		    (NEG not)
+		    (ADVP merely)
+		    (ADVP  due
+			   (PP to
+			       (NP dilution))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP Specific staining
+	 (PP by
+	     (NP (ADJP DEAE-cellulose
+		       treated)
+		 A[fj] and A[fj])))
+     ,
+     (X although
+	(ADJP  (ADVP clearly)
+	       distinguishable
+	       (PP under
+		   (NP the microscope))
+	       (PP from
+		   (NP either 
+		       (NP nonspecific staining) 
+		       or 
+		       (NP autofluorescence
+			   (PP of
+			       (NP cells)))))))
+     ,
+     (AUX was)
+     (NEG not)
+     (VP  (ADVP satisfactorily)
+	  photographed
+	  
+	  (S (NP *)
+	     (AUX to)
+	     (VP show
+		 (NP such differences))))
+     (PP in
+	 (NP spite
+	     (PP of
+		 (NP many attempts
+		     (PP with
+			 (NP (ADJP (ADJP black and white)
+				   and
+				   (ADJP color))
+			     photography)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADVP chiefly)
+       (ADVP because
+	     (PP of
+		 (NP the
+		     (ADJP bluish white)
+		     autofluorescence
+		     (PP from
+			 (NP the cells)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The autofluorescence
+       (PP from
+	   (NP the walls
+	       (PP of
+		   (NP the xylem cells)))))
+   (VP was
+       (ADJP  (ADVP particularly)
+	      brilliant)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Distribution
+     (PP of
+	 (NP virus antigen))))
+((S (NP Results
+	(PP of
+	    (NP specific staining
+		(PP by
+		    (NP the
+			direct
+			and
+			the indirect methods)))))
+    (VP (VP were
+	    (ADJP similar))
+	and
+	(VP showed
+	    (NP the localization
+		(PP of
+		    (NP WTV antigen))
+		(PP in
+		    (NP certain tissues
+			(PP of
+			    (NP tumors))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The virus antigen)
+   (AUX was)
+   (VP concentrated
+	     
+       (PP in
+	   (NP the pseudophloem tissue))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Frequently)
+	 (S  
+	  (NP (NP   a few
+		    (ADJP isolated)
+		    (ADJP thick-walled) cells)
+	      or
+	      ,
+	      (ADVP rarely)
+	      ,
+	      (NP groups
+		  (PP of
+		      (NP such cells))
+		  (PP in
+		      (NP the xylem region)))
+	      ,)
+	  (AUX were)
+	  (ADVP also)
+	  (VP  (ADVP specifically)
+	       stained
+	       )))
+     ,
+     but
+     (S (NP there)
+	(VP was
+	    (NP no such staining
+		(PP in
+		    (NP (NP epidermis)
+			,
+			(NP cortex)
+			,
+			(NP most
+			    xylem cells)
+			,
+			(NP ray cells)
+			,
+			or
+			(NP pith)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP Within
+	 (NP the pseudophloem cells))
+     (S
+      (NP the distribution
+	  (PP of
+	      (NP WTV antigen)))
+      (VP was
+	  (ADJP irregular)
+	  (PP in
+	      (NP the cytoplasm)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No antigen)
+   (VP was
+       (ADJP detectable)
+       (PP in
+	   (NP 
+	    certain dark spherical
+	    areas
+	    (PP in
+		(NP most
+		    cells))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These areas)
+   (AUX are)
+   (VP thought
+       (S (NP *)
+	  (AUX to)
+	  (VP represent
+	      (NP the nuclei)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP some tumor sections))
+   (S   
+    (NP (NP 
+	 small spherical
+	 bodies)
+	,
+	(NP (NP (ADVP possibly)
+		inclusion bodies)
+	    *LRB*
+	    (NP (NP (NP Littau)
+		    and
+		    (NP Black))
+		,
+		(NP 1952))
+	    *RRB*))
+    (VP (VP stained
+	    (ADVP more intensely
+		  (PP than
+		      (NP the rest
+			  (PP of
+			      (NP cytoplasm))))))
+	and
+	(VP (ADVP probably)
+	    contained
+	    (NP more
+		antigen)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP all cases)
+	   (VP studied)))
+   (S  
+    (NP tissues
+	(PP of
+	    (NP (NP the stem)
+		(SBAR (WHPP on
+			    (WHNP which))
+		      (S (NP the tumor)
+			 (AUX had)
+			 (VP developed))))))
+    (AUX did)
+    (NEG not)
+    (VP contain
+	(NP detectable amounts
+	    (PP of
+		(NP WTV antigen))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (NP Discussion)
+   )
+((S (PP In
+	(NP both
+	    the direct and indirect methods
+	    (PP of
+		(S  (NP *) 
+		    (VP staining)))))
+    ,
+    (S (NP the conjugates)
+       (VP had
+	   (NP  (VP  (ADVP nonspecifically)
+		     staining)
+		fractions))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the indirect method))
+   ,
+   (S (NP this)
+      (VP was
+	  (ADJP evident)
+	  (PP from
+	      (NP the fact
+		  (SBAR that
+			(S (NP tumor sections)
+			   (AUX were)
+			   (VP stained
+			       (NP light green))
+			   (SBAR  (ADVP even)
+				  (WHADVP when)
+				  (S  (NP *)  
+				      (VP stained
+					  (PP (PP with
+						  (NP (NP NS)
+						      and
+						      (NP A[fj])))
+					      or
+					      (PP with
+						  (NP A[fj]
+						      (ADVP only))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the direct method))
+   ,
+   (S (S  
+       (NP (NP A[fj])
+	   ,
+	   (VP  (NEG not)
+		(ADVP further)
+		treated)
+	   ,)
+       (VP stained
+	   (NP certain tissues
+	       (PP of
+		   (NP 
+		    healthy sweet
+		    clover
+		    stems)))
+	   (ADVP nonspecifically)))
+      and
+      (S (NP WTV tumor sections)
+	 (AUX were)
+	 (VP  (ADVP similarly)
+	      stained
+	   
+	      (PP by
+		  (NP comparable A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP After
+       (S (NP (NP A[fj]) and (NP A[fj]))
+	  (AUX were)
+	  (VP (VP passed
+		    
+		  (PP through
+		      (NP Dowex-2-chloride))
+		  (ADVP twice))
+	      and
+	      (VP treated
+		  (ADVP twice)
+		  (PP with
+		      (NP healthy sweet
+			  clover tissue powder))))))
+   ,
+   (S (S (NP nonspecific staining)
+	 (AUX was)
+	 (VP  (ADVP greatly)
+	      reduced))
+      but
+      (S (NP a (ADJP disturbing) amount
+	     (PP of
+		 (NP such staining)))
+	 (VP was
+	     (ADVP still)
+	     (ADJP present)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Treatment
+	  (PP of
+	      (NP the conjugates))
+	  (PP with
+	      (NP ethyl acetate)))
+      ,
+      and
+      (X  
+       (NP (NP the conjugates)
+	   *LRB*
+	   (SBAR  
+	    (WHNP which)
+	    (S (NP T)
+	       (AUX had)
+	       (VP been
+		   (VP passed
+		       (PP through
+			   (NP Dowex-2-chloride))))))
+	   *RRB*)
+       (PP with
+	   (NP (NP mouse liver powder)
+	       ,
+	       (NP sweet clover crown gall tissue powder)
+	       ,
+	       or
+	       (NP healthy sweet
+		   clover proteins)))))
+  (AUX did)
+  (NEG not)
+  (VP  (ADVP satisfactorily)
+       remove
+       (NP  (VP  (ADVP nonspecifically)
+		 staining)
+	    substances
+	    (PP in
+		(NP the conjugates)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Such treatments
+	  (PP of
+	      (NP the conjugates)))
+      (AUX have)
+      (ADVP usually)
+      (VP been
+	  (ADJP successful
+		(PP in
+		    (S (NP *) 
+		       (VP eliminating
+			   (NP nonspecific staining))
+		       (PP in
+			   (NP several other systems)))))))
+   *LRB*
+   (NP (NP Coons)
+       ,
+       (NP 1958))
+   *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Schramm)
+	  and
+	  (NP Rottger))
+      *LRB*
+      (NP 1959)
+      *RRB*)
+  (AUX did)
+  (NEG not)
+  (VP report
+      (NP any
+	  such nonspecific
+	  staining
+	  (PP of
+	      (NP plant tissues))
+	  (PP with
+	      (NP fluorescein (ADJP isocyanate-labeled) antiserum
+		  (PP to
+		      (NP tobacco mosaic virus)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reason
+       (PP for
+	   (NP the failure
+	       (PP of
+		   (NP these treatments))
+	       (S (NP *)
+		  (AUX to)
+		  (VP eliminate
+		      (NP nonspecific staining)
+		      (PP in
+			  (NP the conjugates
+			      (PP in
+				  (NP our system)))))))))
+   (AUX is)
+   (NEG not)
+   (VP known))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP our work))
+     (S  
+      (NP the
+	  best
+	  procedure
+	  (PP for
+	      (S (NP *)  
+		 (VP removing
+		     (NP (NP substances)
+			 (VP causing
+			     (NP nonspecific staining))))
+		 (SBAR (PP in
+			   (NP order))
+		       (S (NP *)
+			  (AUX to)
+			  (VP obtain
+			      (NP specific conjugates)))))))
+      (VP was
+	  (S (S (NP *)
+		(AUX to)
+		(VP pass
+		    (NP the conjugates)
+		    (PP through
+			(NP a DEAE-cellulose column))))
+	     and
+	     (PP in
+		 (NP some cases))
+	     (S (NP *)
+		(AUX to)
+		(VP absorb
+		    (NP the first and second milliliter fractions)
+		    (PP with
+			(NP sweet clover tissue powder))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The specific staining
+       (PP by
+	   (NP (ADJP both (ADJP direct) and (ADJP indirect)) methods)))
+   (VP showed
+       (SBAR that
+	     (S (NP WTV antigen)
+		(X (X (AUX was)
+		      (VP concentrated
+			  (PP (PP in
+				  (NP the pseudophloem tissue))
+			      and
+			      (PP in
+				  (NP a few (ADJP thick-walled) cells
+				      (PP in
+					  (NP the xylem region)))))))
+		   ,
+		   but
+		   (VP was
+		       (NEG not)
+		       (ADJP detectable
+			     (PP in
+				 (NP any other tissues
+				     (PP of
+					 (NP the root and stem tumors)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A study
+       (PP of
+	   (NP the distribution
+	       (PP of
+		   (NP WTV antigen))
+	       (PP within
+		   (NP the pseudophloem cells)))))
+   (VP indicates
+       (SBAR that
+	     (S (NP it)
+		(AUX is)
+		(VP  (ADVP irregularly)
+		     distributed
+		     (PP in
+			 (NP the cytoplasm)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Wound-tumor virus)
+      (VP is
+	  (NP (NP  a
+		   (ADJP leafhopper
+			 transmitted)
+		   virus)
+	      (ADJP (NEG not)
+		    (ADVP easily)
+		    transmissible
+		    (PP by
+			(NP mechanical inoculation))))))
+   *LRB*
+   (NP (NP  (NP Black)
+	    ,
+	    (NP 1944))
+       ;
+       ;
+       (NP (NP Brakke et al)
+	   ,
+	   (NP 1954)))
+   *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  The concentration
+	 and
+	 apparent localization
+	 (PP of
+	     (NP the WTV antigen))
+	 (PP in
+	     (NP pseudophloem tissue
+		 (PP of
+		     (NP the tumor)))))
+    (AUX may)
+    (VP indicate
+	(SBAR that
+	      (S (NP the virus)
+		 (X (VP  (ADVP preferentially)
+			 multiplies
+			 (PP in
+			     (NP the phloem)))
+		    and
+		    (X  
+		     (AUX may)
+		     (VP need
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(VP  (ADVP directly)
+				     placed
+		       
+				     (PP in
+					 (NP this tissue))))))
+		     (SBAR (PP in
+			       (NP order))
+			   (S (NP *)
+			      (AUX to)
+			      (VP infect
+				  (NP plants))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

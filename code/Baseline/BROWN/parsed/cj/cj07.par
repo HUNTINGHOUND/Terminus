@@ -1,0 +1,2194 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP The Poynting-Robertson effect)
+	  *LRB*
+	  (NP ( NP (NP Robertson)
+		   ,
+		   (NP 1937))
+	      ;
+	      ;
+	      (NP (NP (NP Wyatt)
+		      and
+		      (NP Whipple))
+		  ,
+		  (NP 1950)))
+	  *RRB*)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (VP is
+	      (NP a retardation
+		  (PP of
+		      (NP the orbital motion
+			  (PP of
+			      (NP particles))))
+		  (PP by
+		      (NP the relativistic aberration
+			  (PP of
+			      (NP the repulsive force
+				  (PP of
+				      (NP the (VP impinging) solar radiation))))))))))
+      ,)
+  (VP causes
+      (NP the dust)
+      (S (NP *)
+	 (AUX to)
+	 (VP spiral
+	     (PP into
+		 (NP the sun)))
+	 (PP in
+	     (NP (NP times)
+		 (ADJP  much
+			shorter
+			(PP than
+			    (NP the age
+				(PP of
+				    (NP the Earth))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The radial velocity)
+      (VP varies
+	  (ADVP inversely)
+	  (PP as
+	      (NP the particle size))))
+     --
+     (S (NP (NP a 1000-m-diameter particle)
+	    (PP near
+		(NP the orbit
+		    (PP of
+			(NP Mars)))))
+	(AUX would)
+	(VP reach
+	    (NP the sun))
+	(PP in
+	    (NP (ADVP about)
+		60 million years))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Whipple)
+	*LRB*
+	(NP 1955)
+	*RRB*)
+    (VP extends
+	(NP the effects)
+	(S (NP *)
+	   (AUX to)
+	   (VP include
+	       (NP (NP the (ADJP solar-corpuscular-radiation) pressure)
+		   ,
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (VP increases
+			   (NP  both
+				(NP the minimum particle size)
+				and
+				(NP the drag))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Further)
+      ,
+      (S  
+       (NP (NP the corpuscular radiation)
+	   ,
+	   i.e.
+	   ,
+	   (NP the solar-wind protons)
+	   ,)
+       (AUX must)
+       (VP (VP sputter
+	       (ADVP away)
+	       (NP the surface atoms
+		   (PP of
+		       (NP the dust))))
+	   and
+	   (VP cause
+	       (NP a slow diminution
+		   (PP in
+		       (NP size)))))
+       ,
+       (PP with
+	   (NP a resultant increase
+	       (PP in
+		   (NP both
+		       (NP the Poynting-Robertson effect)
+		       and
+		       (NP the ratio
+			   (PP of
+			       (NP the repulsive force))
+			   (PP to
+			       (NP the gravitational force)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Poynting-Robertson effect)
+   (VP causes
+       (NP the (ADJP semi-major) axis
+	   (PP of
+	       (NP orbits)))
+       (S (NP *)
+	  (AUX to)
+	  (VP diminish
+	      (ADVP more rapidly
+		    (PP than
+			(NP the (ADJP semi-minor) axis)))))
+       ,
+       (PP with
+	   (NP a consequent tendency
+	       (PP toward
+		   (NP circular orbits))
+	       (SBAR  as
+		      (S (NP the particles)
+			 (VP move
+			     (PP toward
+				 (NP the sun)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      ,
+      (S (NP
+	  planetary gravitational
+	  attraction)
+	 (VP increases
+	     (NP the dust concentration
+		 (PP near
+		     (NP the plane
+			 (PP of
+			     (NP the ecliptic))))))
+	 (SBAR  as
+		(S (NP the sun)
+		   (AUX is)
+		   (VP approached
+		       )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP (NP one astronomical unit
+	       (PP from
+		   (NP the sun)))
+	   *LRB*
+	   (NP 
+	    (NP the Earth)
+	    's distance)
+	   *RRB*))
+   (S (NP the dust orbits)
+      (VP are
+	  (ADVP probably)
+	  (ADJP  nearly
+		 circular))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP such)
+	     (VP is
+		 (NP the case))))
+   ,
+   (S (S (NP the particles
+	     (PP within
+		 (NP a distance
+		     (PP of
+			 (NP (ADVP about)
+			     A[fj]
+			     (PP of
+				 (NP the Earth)))))))
+	 (AUX will)
+	 (VP have
+	     ,
+	     (ADJP relative
+		   (PP to
+		       (NP the Earth)))
+	     ,
+	     (NP (NP a kinetic energy)
+		 (ADJP less
+		       (PP than
+			   (NP their potential energy))))))
+      and
+      (S (NP they)
+	 (AUX will)
+	 (VP be
+	     (VP captured
+		 
+		 (PP into
+		     (NP orbits
+			 (PP about
+			     (NP the Earth)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP (NP De Jager)
+	 *LRB*
+	 (NP 1955)
+	 *RRB*)
+     (AUX has)
+     (VP calculated
+	 (NP (NP the times)
+	     (VP required
+		 (PP for
+		     (S (NP these particles)
+			(AUX to)
+			(VP reach
+			    (NP the atmosphere))
+			(PP under
+			    (NP the influence
+				(PP of
+				    (NP (NP the Poynting-Robertson effect)
+					,
+					(SBAR 
+					 (WHNP which)
+					 (S  
+					  (PP in
+					      (NP this case))
+					  (S (NP T)
+					     (VP causes
+						 (NP the orbits)
+						 (S (NP *)
+						    (AUX to)
+						    (VP become
+							(ADJP   (ADVP more
+								      and
+								      more)
+								eccentric))))
+					     (PP without
+						 (S (NP *)  
+						    (VP changing
+							(NP the semi-major axis)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This effect)
+    (AUX can)
+    (VP give
+	(NP rise)
+	(PP to
+	    (NP a blanket
+		(PP of
+		    (NP micrometeorites))
+		(PP around
+		    (NP the Earth))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (SBAR  Since
+	     (S (NP there)
+		(VP is
+		    (NP a continual loss
+			(PP of
+			    (NP micrometeoritic material)))
+		    (PP in
+			(NP space)))
+		(ADVP because
+		      (PP of
+			  (NP the radiation effects)))))
+      ,
+      (S (NP there)
+	 (AUX must)
+	 (VP be
+	     (NP a continual replenishment))))
+     :
+     (S (ADVP otherwise)
+	,
+	(S (NP micrometeorites)
+	   (AUX would)
+	   (VP have
+	       (VP disappeared
+		   (PP from
+		       (NP interplanetary space)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP several possible sources)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (VP According
+       (PP to
+	   (NP (NP Whipple)
+	       *LRB*
+	       (NP 1955)
+	       *RRB*)))
+   ,
+   (S (NP cometary debris)
+      (VP is
+	  (ADJP sufficient
+		(S (NP *)
+		   (AUX to)
+		   (VP replenish
+		       (NP (NP the material)
+			   (VP spiraling
+			       (PP into
+				   (NP the sun))))
+		       ,
+		       (S  (NP *) 
+			   (VP maintaining
+			       (NP a
+				   (ADJP fairly
+					 steady) state)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Asteroidal collisions)
+   (AUX are)
+   (ADVP also)
+   (VP thought
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP contribute
+	      (NP material)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (ADVP also)
+       (ADJP possible))
+   (SBAR-1 that
+	   (S (NP some
+		  (PP of
+		      (NP the dust
+			  (PP in
+			      (NP the vicinity
+				  (PP of
+				      (NP the Earth)))))))
+	      (VP originated
+		  (PP from
+		      (NP meteoritic impacts
+			  (PP upon
+			      (NP the moon))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP (NP 5.3)
+     (NP  direct measurements
+	  (PP of
+	      (NP micrometeorite flux)))))
+((S (NP One)
+    (AUX can)
+    (NEG not)
+    (VP make
+	(NP a
+	    (ADJP very
+		  satisfactory) guess
+	    (PP about
+		(NP the micrometeorite flux
+		    (PP in
+			(NP space)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP  (ADVP Even)
+       in
+       (NP the neighborhood
+	   (PP of
+	       (NP (NP the Earth)
+		   ,
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP information)
+		       (AUX has)
+		       (VP been
+			   (VP obtained
+		
+			       (ADVP   both
+				       (ADVP directly) and  (ADVP indirectly))))))
+		   ,))))
+  (S (NP the (VP derived) flux values)
+     (VP vary
+	 (PP by
+	     (NP (PP at
+		     (ADJP least))
+		 four orders
+		 (PP of
+		     (NP magnitude)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This large discrepancy)
+   (VP demonstrates
+       (NP (NP the inadequacies
+	       (PP of
+		   (NP the experimental methods)))
+	   and
+	   (NP the lack
+	       (PP of
+		   (NP understanding
+		       (PP of
+			   (NP (NP the various phenomena)
+			       (VP involved)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP (PP Beyond
+	   (NP a few million kilometers
+	       (PP from
+		   (NP the Earth))))
+       ,
+       but
+       (ADVP still)
+       (PP in
+	   (NP the region
+	       (PP of
+		   (NP 
+		    (NP the Earth)
+		    's orbit))))
+       ,)
+   (S (NP a prediction
+	  (PP of
+	      (NP the flux
+		  (PP of
+		      (NP dust)))))
+      (VP is
+	  (ADJP    even
+		   more
+		   unreliable))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP 
+	greater
+	distances
+	(PP from
+	    (NP the sun))))
+   ,
+   (S (NP the situation)
+      (VP is
+	  (ADVP still)
+	  (ADJP  less
+		 certain))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP several sources
+	   (PP of
+	       (NP evidence
+		   (PP on
+		       (NP the micrometeorite environment)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Direct information)
+   (AUX has)
+   (VP been
+       (VP obtained
+		 
+	   (PP from
+	       (NP (NP (NP rockets) and (NP satellites))
+		   (VP equipped
+		       (PP with
+			   (NP impact sensors))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   ,
+   (S (NP (NP the size distribution)
+	  (VP obtained
+	      (PP from
+		  (NP  (ADJP visual
+			     and
+			     radar) observations
+			     (PP of
+				 (NP meteors))))))
+      (AUX may)
+      (VP be
+	  (VP extrapolated
+	      
+	      (PP to
+		  (NP the micrometeorite domain))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP (NP the brightness
+	       (PP of
+		   (NP the F component
+		       (PP of
+			   (NP the solar corona)))))
+	   and
+	   (NP the brightness
+	       (PP of
+		   (NP the zodiacal light)))))
+   ,
+   (S (NP an estimate
+	  (PP of
+	      (NP the particle sizes
+		  ,
+		  concentrations
+		  ,
+		  and
+		  spatial distribution)))
+      (AUX can)
+      (VP be
+	  (VP derived
+	      
+	      (PP for
+		  (NP (NP regions
+			  (PP of
+			      (NP space)))
+		      (PP near
+			  (NP the ecliptic plane))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Another important source
+	    (PP of
+		(NP evidence)))
+	(VP  only
+	     (ADVP recently)
+	     receiving
+	     (NP much attention)))
+    (VP is
+	(NP the analysis
+	    (PP of
+		(NP atmospheric dust))
+	    (PP for
+		(NP a meteoritic component)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cores
+       of
+       deep-sea sediments
+       and
+       content
+       of
+       collectors
+       (PP in
+	   (NP remote regions)))
+   (VP are
+       (ADJP valuable))
+   (PP in
+       (NP this category)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The data)
+   (VP provide
+       (NP a measure
+	   (PP of
+	       (NP the total mass
+		   (PP of
+		       (NP cosmic material incident
+			   (PP upon
+			       (NP the Earth)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The direct evidence
+	   (PP on
+	       (NP the micrometeorite environment
+		   (PP near
+		       (NP the Earth)))))
+       (AUX is)
+       (VP obtained
+	 
+	   (PP (PP from
+		   (NP (NP piezoelectric sensors)
+		       *LRB*
+		       (NP (ADVP essentially)
+			   microphones)
+		       *RRB*))
+	       and
+	       (PP from
+		   (NP wire gages)))))
+    ;
+    ;
+    (S (NP these instruments)
+       (AUX are)
+       (VP installed
+	    
+	   (PP on
+	       (NP (NP rockets)
+		   ,
+		   (NP satellites)
+		   ,
+		   and
+		   (NP space probes))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Statistically)
+      ,
+      (S (NP the
+	     (ADJP  most significant)
+	     data)
+	 (AUX have)
+	 (VP been
+	     (VP collected
+		 (PP from
+		     (NP the sensors
+			 (PP on
+			     (NP (NP (NP 1958
+					 Alpha)
+				     *LRB*
+				     (NP Explorer 1)
+				     *RRB*)
+				 ,
+				 (NP (NP 1958
+					 Delta 2)
+				     *LRB*
+				     (NP Sputnik 3)
+				     *RRB*)
+				 ,
+				 and
+				 (NP (NP 1959
+					 Eta)
+				     *LRB*
+				     (NP Vanguard 3)
+				     *RRB*)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP These vehicles)
+      ,
+      (PP with
+	  (NP 
+	   large sensitive
+	   areas))
+      ,)
+  (AUX have)
+  (VP collected
+      (NP data)
+      (PP for
+	  (NP 
+	   (ADJP long enough)
+	   times
+	   (S (NP *)
+	      (AUX to)
+	      (VP give
+		  (NP reliable impact rates
+		      (PP for
+			  (NP the periods
+			      (PP of
+				  (NP exposure)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Many other
+    vehicles
+    (PP with
+	(NP 
+	 smaller
+	 sensitive-area exposure-time products)))
+   (VP contribute
+       (NP some information)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (S  
+	(NP The impact rate
+	    (PP on
+		(NP 1958
+		    Alpha))
+	    (PP for
+		(NP 153 events)))
+	(VP was
+	    (NP A[fj]
+		(PP for
+		    (NP particles
+			(PP of
+			    (NP (NP mass)
+				(ADJP greater
+				      (PP than
+					  (NP A[fj]))))))))))
+       *LRB*
+       (NP (NP Dubin)
+	   ,
+	   (NP 1960))
+       *RRB*)
+    ;
+    ;
+    (S (NP this mass threshold)
+       (AUX was)
+       (VP derived
+	    
+	   (PP from
+	       (NP (NP the detector calibration)
+		   and
+		   (NP an (VP assumed) impact velocity
+		       (PP of
+			   (NP A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The data)
+   (VP show
+       (NP (ADJP daily and diurnal) variations)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP  Ninety
+	  (PP per
+	      (NP cent
+		  (PP of
+		      (NP the 153
+			  (VP recorded)
+			  impacts)))))
+     (VP occurred
+	 (PP between
+	     (NP (NP midnight) and (NP noon)))))
+    ,
+    and
+    (S (PP (PP from
+	       (NP day))
+	   (PP to
+	       (NP day)))
+       (S
+	(NP the variation
+	    (PP of
+		(NP the rate)))
+	(VP was
+	    (ADJP as
+		  much
+		  (PP as
+		      (NP an order
+			  (PP of
+			      (NP magnitude)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One)
+    (AUX may)
+    (VP conclude
+	(SBAR that
+	      (S  
+	       (NP  most
+		    (PP of
+			(NP the
+			    (VP detected) micrometeoritic
+			    material)))
+	       (AUX is)
+	       (VP concentrated
+		   
+		   (PP in
+		       (NP (NP orbital streams)
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP intersect
+				   (NP 
+				    (NP the Earth)
+				    's orbit)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX have)
+      (VP been
+	  (NP contradictory reports)
+	  (PP from
+	      (NP 1958
+		  Delta 2))))
+     ,
+     and
+     (S (NP (NP the data)
+	    (VP quoted
+		(ADVP here)))  
+	(AUX are)
+	(VP believed
+	     
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (NP the
+		       (ADJP  more
+			      reliable)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S  
+	 (PP On
+	     (NP May 15))
+	 ,
+	 (S (NP a
+		(ADJP very
+		      large) increase)
+	    (VP occurred)
+	    (PP with
+		(NP A[fj]
+		    (PP of
+			(NP mass
+			    (PP between
+				(NP (NP A[fj]) and (NP A[fj])))))))))
+	;
+	;
+	(S (PP for
+	       (NP the
+		   next
+		   two days))
+	   ,
+	   (S (NP the impact rate)
+	      (VP was
+		  (NP A[fj]))))
+	;
+	;
+	and
+	(S (PP for
+	       (NP the
+		   next
+		   nine days))
+	   ,
+	   (S (NP the impact rate)
+	      (VP was
+		  (ADJP less
+			(PP than
+			    (NP A[fj])))))))
+     *LRB*
+     (NP (NP Nazarova)
+	 (NP ,
+	     1960))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The data
+       (PP for
+	   (NP the first day)))
+   (VP (VP indicate
+	   (NP a meteor stream
+	       (PP with
+		   (NP a
+		       (ADJP very
+			     high) concentration
+		       (PP of
+			   (NP particles))))))
+       and
+       (X  
+	(AUX may)
+	(VP have
+	    (VP led
+		(PP to
+		    (NP the high estimates
+			(PP of
+			    (NP micrometeorite flux)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP Preliminary data
+	 (PP from
+	     (NP 1959
+		 Eta)))
+     (VP give
+	 (NP an average impact rate
+	     (PP of
+		 (NP A[fj]))
+	     (PP for
+		 (NP (NP masses)
+		     (ADJP larger
+			   (PP than
+			       (NP A[fj]))))))
+	 (PP for
+	     (NP (ADVP about)
+		 1000 events
+		 (PP in
+		     (NP a (ADJP 22-day) period))))))
+    *LRB*
+    (NP  
+     (NP (NP LaGow)
+	 and
+	 (NP Alexander))
+     ,
+     (NP 1960)
+     *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The (ADJP day-to-day) rate)
+     (VP varied
+	 (PP by
+	     (NP  less
+		  (PP than
+		      (NP a factor
+			  (PP of
+			      (NP 4.5))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The data)
+   (AUX have)
+   (ADVP  (NEG not)
+	  yet)
+   (VP been
+       (VP analyzed
+		 
+	   (PP for
+	       (NP diurnal variations)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Note
+	 (SBAR (SBAR that
+		     (S (NP the mass threshold)
+			(VP is
+			    (NP (NP four times)
+				that
+				(PP of
+				    (NP 1958
+					Alpha))))))
+	       and
+	       (SBAR that
+		     (S (NP the flux)
+			(VP is
+			    (ADJP (NP one
+				      fifth)
+				  as
+				  large)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP one)
+	     (VP assumes
+		 (SBAR that
+		       (S (NP the average flux)
+			  (AUX did)
+			  (NEG not)
+			  (VP change)
+			  (PP between
+			      (NP measurements)))))))
+   ,
+   (S (NP (NP a mass-distribution curve)
+	  (SBAR-1 *pseudo-attach*))
+      (AUX is)
+      (VP obtained)
+      (SBAR-1 
+       (WHNP which)
+       (S (NP T)
+	  (VP relates
+	      (NP the flux
+		  (PP of
+		      (NP (NP particles)
+			  (ADJP larger
+				(PP than
+				    (NP a given radius))))))
+	      (PP to
+		  (NP the
+		      inverse
+		      72 power
+		      (PP of
+			  (NP the radius)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Space probes)
+   (AUX have)
+   (VP yielded
+       (NP little information)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Pioneer 1)
+   ,
+   (VP recorded
+       (NP a decrease
+	   (PP in
+	       (NP flux))
+	   (PP with
+	       (NP distance
+		   (PP from
+		       (NP the Earth)))))
+       (PP on
+	   (NP the basis
+	       (PP of
+		   (NP 11 counts
+		       (PP in
+			   (NP 9 hours))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP (NP detectors)
+	   (X (ADJP sensitive
+		    (PP to
+			(NP three mass intervals)))
+	      and
+	      (VP based
+		  (PP on
+		      (NP a few counts))))))
+   ,
+   (S (NP the
+	  (ADJP second and third)
+	  Russian space probes)
+      (VP indicate
+	  (SBAR that
+		(S (NP the flux
+		       (PP of
+			   (NP (NP the
+				   smallest
+				   particles)
+			       (VP detected))))
+		   (VP is
+		       (ADJP less
+			     (PP than
+				 (NP that
+				     (PP of
+					 (NP 
+					  larger
+					  ones)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (AUX Being)
+	 (VP based
+	     (PP on
+		 (NP  (ADJP so
+			    few) events))))
+     ,
+     (S (NP these results)
+	(VP are
+	    (PP of
+		(NP dubious validity)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The calibration
+       (PP of
+	   (NP piezoelectric sensors))
+       (PP in
+	   (NP terms
+	       (PP of
+		   (NP the particle parameters)))))
+   (VP is
+       (ADJP  very
+	      uncertain)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Many workers)
+   (VP believe
+       (SBAR that
+	     (S (S (NP the response)
+		   (VP is
+		       (ADJP proportional
+			     (PP to
+				 (NP the incident momentum
+				     (PP of
+					 (NP the particles)))))))
+		,
+		(NP (NP a relation)
+		    (VP deduced
+			(PP from
+			    (NP (NP laboratory results)
+				(VP  (ADVP linearly)
+				     extrapolated
+				     (PP to
+					 (NP meteoritic velocities)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP one)
+	 (AUX must)
+	 (VP expect
+	     (SBAR that
+		   (S (NP  vaporization and ejection
+			   (PP of
+			       (NP material))
+			   (PP by
+			       (NP hypervelocity impacts)))
+		      (AUX would)
+		      (VP cause
+			  (NP a deviation
+			      (PP from
+				  (NP a linear relationship)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the United States))
+   ,
+   (S  (NP most
+	   (PP of
+	       (NP the sensors)))
+       (AUX are)
+       (VP calibrated
+	       
+	   (PP by
+	       (S (NP *) 
+		  (VP dropping
+		      (NP small spheres)
+		      (PP on
+			  (NP their sensitive surfaces))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Russian experimenters)
+    (VP claim
+	(SBAR that
+	      (S (NP  only
+		      a small fraction
+		      (PP of
+			  (NP the impulse
+			      (PP from
+				  (NP the sensors)))))
+		 (AUX is)
+		 (VP caused
+			      
+		     (PP by
+			 (NP the incident momentum)))
+		 (PP with
+		     (S (NP the remainder)
+			(VP being
+			    (NP momentum
+				(PP of
+				    (NP (VP ejected)
+					material
+					(PP from
+					    (NP the sensor))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This
+       ``
+       ejection
+       ''
+       momentum)
+   (AUX is)
+   (VP  (ADVP linearly)
+	related
+	     
+	(PP to
+	    (NP the particle energy))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP quote
+       (NP (NP (ADVP about)
+	       the same mass threshold
+	       (PP as
+		   (NP that
+		       (PP of
+			   (NP the U.S. apparatus)))))
+	   ,
+	   but
+	   (NP (NP a momentum threshold)
+	       (ADJP (NP  (ADVP about)
+			  40 times)
+		     greater)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a difference
+	   (PP in
+	       (NP the experimental arrangement))))
+   ,
+   (SBAR in
+	 that
+	 (S (NP the U.S. microphones)
+	    (AUX are)
+	    (VP attached
+		(ADVP directly)
+		(PP to
+		    (NP the vehicle skin)))
+	    (SBAR while
+		  (S (NP the Russian instruments)
+		     (AUX are)
+		     (VP isolated
+		     
+			 (PP from
+			     (NP the skin))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The threshold mass)
+   (AUX is)
+   (VP derived
+	     
+       (PP from
+	   (NP the momentum threshold))
+       (PP with
+	   (NP the assumption
+	       (PP of
+		   (NP a mean impact velocity
+		       (PP of
+			   (NP (NP (NP A[fj])
+				   (PP in
+				       (NP the U.S. work)))
+			       and
+			       (NP (NP A[fj])
+				   (PP in
+				       (NP the U.S.S.R. work)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The threshold mass
+       (PP of
+	   (NP (ADVP about)
+	       A[fj])))
+   (VP corresponds
+       (PP to
+	   (NP a 10-M-diameter sphere
+	       (PP of
+		   (NP density A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP the conversion
+	     (PP from
+		 (NP mass))
+	     (PP to
+		 (NP size)))
+	 (VP is
+	     (ADJP unreliable))
+	 ,
+	 (SBAR since
+	       (S (NP many photographic meteors)
+		  (VP give
+		      (NP evidence
+			  (PP of
+			      (NP a
+				  (ADJP fluffy)
+				  ,
+				  (VP  loosely
+				       bound)
+				  meteorite structure
+				  (PP with
+				      (NP (NP densities)
+					  (ADJP as
+						low
+						(PP as
+						    (NP A[fj])))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP (SBAR (WHPP  To
+		     (WHNP what
+			   extent))
+	      (S (NP  such low density)
+		 (VP applies
+		  
+		     (PP to
+			 (NP micrometeorites))))))
+    (VP is
+	(ADJP unknown)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP The velocity value)
+	  (VP used))
+      (VP is
+	  (ADVP also)
+	  (ADJP open
+		(PP to
+		    (NP some question)))))
+     ;
+     ;
+     (S (SBAR if
+	      (S (NP a substantial fraction
+		     (PP of
+			 (NP the dust)))
+		 (AUX is)
+		 (VP orbiting
+		     (PP about
+			 (NP the Earth)))))
+	,
+	(S
+	 (NP     (ADVP only)
+		 (ADVP about
+		       one
+		       third)
+		 the
+		 (ADJP above-mentioned) average
+		 velocity)
+	 (AUX should)
+	 (VP be
+	     (VP used
+		 
+		 (PP in
+		     (S (NP *) 
+			(VP deriving
+			    (NP the mass)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Zodiacal light)
+      and
+      (NP the gegenschein))
+  (VP give
+      (NP some evidence
+	  (PP for
+	      (NP (NP   such
+			a dust blanket)
+		  ,
+		  (NP a phenomenon
+		      (S   (NP *)
+			   (ADVP also)
+			   (AUX to)
+			   (VP be
+			       (VP expected))
+			   (SBAR if
+				 (S (NP the dust
+					(PP before
+					    (NP capture)))
+				    (VP is
+					(PP in
+					    (NP circular orbits
+						(PP about
+						    (NP the sun)))))
+				    ,
+				    (PP as
+					(S  (NP *)
+					    (VP indicated
+						(PP by
+						    (NP the trend
+							(PP of
+							    (NP the
+								smaller visible
+								meteors))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The diurnal variation
+       (PP in
+	   (NP the (VP observed) flux)))
+   (AUX may)
+   (VP be
+       (ADVP   partly
+	       due
+	       (PP to
+		   (NP the dependence
+		       (PP of
+			   (NP the detector sensitivity))
+		       (PP on
+			   (NP the incident velocity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The flux
+       (PP of
+	   (NP micrometeorites
+	       (PP in
+		   (NP the neighborhood
+		       (PP of
+			   (NP the Earth)))))))
+   (AUX can)
+   (VP be
+       (VP estimated
+		 
+	   (PP by
+	       (NP  extrapolation
+		    (PP from
+			(NP radar
+			    and
+			    visual meteor data)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A summary
+	  (PP of
+	      (NP meteorite data)))
+      ,
+      (VP prepared
+	  (PP by
+	      (NP (NP Whipple)
+		  *LRB*
+		  1958
+		  *RRB*))
+	  (PP on
+	      (NP the basis
+		  (PP of
+		      (NP  (ADJP photographic
+				 ,
+				 visual
+				 ,
+				 and
+				 radar) evidence)))))
+      ,)
+  (AUX is)
+  (VP given
+	 
+      (PP in
+	  (NP Table 5-1))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP From
+      (NP an (VP estimated) mass
+	  (PP of
+	      (NP 25 g))
+	  (PP for
+	      (NP a zero-magnitude meteorite))))
+  ,
+  (S (NP the other masses)
+     (AUX are)
+     (VP derived
+	 (PP with
+	     (NP the assumption
+		 (PP of
+		     (NP a mass decrease
+			 (PP by
+			     (NP a factor
+				 (PP of
+				     (NP 2.512))))
+			 (PP for
+			     (NP each unit increase
+				 (PP in
+				     (NP magnitude)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The radius)
+   (AUX is)
+   (VP calculated
+	     
+       (PP from
+	   (NP the mass))
+       (PP by
+	   (S (NP *) 
+	      (VP assuming
+		  (NP spheres
+		      (PP of
+			  (NP density A[fj]))))
+	      (PP except
+		  (PP for
+		      (NP (NP the
+			      smallest
+			      particles)
+			  ,
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (AUX must)
+			      (VP have
+				  (NP a
+				      higher
+				      mass density))
+			      (S (NP *)
+				 (AUX to)
+				 (VP remain
+				     (PP in
+					 (NP the solar system))
+				     (PP in
+					 (NP the presence
+					     (PP of
+						 (NP solar-radiation pressure)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP The flux values)
+   (VP (VP are
+	   (PP for
+	       (NP all particles
+		   (PP with
+		       (NP (NP masses)
+			   (ADJP greater
+				 (PP than
+				     (NP the (ADJP given) mass))))))))
+       and
+       (X  
+	(AUX are)
+	(VP based
+	      
+	    (PP on
+		(NP an estimate
+		    (PP of
+			(NP the numbers
+			    (PP of
+				(NP visual meteors))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (AUX is)
+   (VP assumed)
+   (SBAR-2 that
+	   (S (NP the flux values)
+	      (VP increase
+		     
+		  (PP by
+		      (NP a factor
+			  (PP of
+			      (NP 2.512))))
+		  (PP per
+		      (NP magnitude)))
+	      ,
+	      (PP in
+		  (NP accordance
+		      (PP with
+			  (NP the opinion
+			      (SBAR that
+				    (S (NP the total mass flux
+					   (PP in
+					       (NP each unit range))
+					   (PP in
+					       (NP magnitude)))
+				       (VP is
+					   (ADJP constant)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The values)
+   (VP agree
+       (PP with
+	   (NP the data
+	       (PP from
+		   (NP (NP 1958
+			   Alpha)
+		       and
+		       (NP 1959
+			   Eta)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The figures
+       (PP in
+	   (NP the (ADJP next-to-last) column)))
+   (AUX are)
+   (VP derived
+	     
+       (PP with
+	   (NP the assumption
+	       (PP of
+		   (NP (NP 50
+			   (PP per
+			       (NP cent)))
+		       shielding
+		       (PP by
+			   (NP the Earth)))))))
+   ;
+   ;
+   (S  (ADVP hence)
+       ,
+       (S (NP these figures)
+	  (VP apply
+	      (PP (ADVP immediately)
+		  above
+		  (NP 
+		   (NP the Earth)
+		   's atmosphere))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The (ADJP unshielded) flux)
+      (AUX is)
+      (VP given
+	     
+	  (PP in
+	      (NP the last column))))
+     ;
+     ;
+     (S (NP these figures)
+	(VP constitute
+	    (NP the
+		best
+		estimate
+		(PP for
+		    (NP the flux
+			(PP in
+			    (NP interplanetary space
+				(PP near
+				    (NP the Earth))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Of
+       (NP course))
+   ,
+   (SBAR if
+	 (S (NP there)
+	    (VP is
+		(NP a dust blanket
+		    (PP around
+			(NP the Earth))))))
+   ,
+   (S (NP the fluxes
+	  (PP in
+	      (NP interplanetary space)))
+      (AUX should)
+      (VP be
+	  (ADJP less
+		(PP than
+		    (NP (NP the figures)
+			(VP given
+			    (ADVP here))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S   (NP *)  
+	  (VP Note
+	      (SBAR that
+		    (S (NP the mass scale)
+		       (VP is
+			   (ADJP (NP (NP one
+					 (PP to
+					     (NP two)))
+				     orders
+				     (PP of
+					 (NP magnitude)))
+				 greater
+				 (PP than
+				     (NP (NP some)
+					 (VP  (ADVP previously)
+					      used)))))))))
+     ;
+     ;
+     (S (PP for
+	    (NP example))
+	,
+	(S (NP (NP Jacchia)
+	       *LRB*
+	       (NP 1948)
+	       *RRB*)
+	   (VP derived
+	       (NP a scale
+		   (PP of
+		       (NP 0.15 g)))
+	       (PP for
+		   (NP a A[fj]
+		       ,
+		       zero-magnitude meteorite))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       older
+       scales)
+   (AUX were)
+   (VP based
+	     
+       (PP on
+	   (NP theoretical estimates
+	       (PP of
+		   (NP the conversion efficiency
+		       (PP of
+			   (NP kinetic energy))
+		       (PP into
+			   (NP light))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The mass scale)
+	(VP used
+	    (PP in
+		(NP Table 5-1))))
+    (AUX was)
+    (VP derived
+	 
+	(PP on
+	    (NP the assumption
+		(SBAR that
+		      (S (S (NP the motion
+				(PP of
+				    (NP the glowing trail)))
+			    (AUX is)
+			    (VP related
+			      
+				(PP to
+				    (NP the momentum transfer
+					(PP to
+					    (NP the trail))
+					(PP by
+					    (NP the meteorite)))))
+			    ,
+			    (S (NP *) 
+			       (VP permitting
+				   (NP the calculation
+				       (PP of
+					   (NP the mass)))
+				   (SBAR if
+					 (S (NP the velocity)
+					    (AUX is)
+					    (VP known
+						))))))
+			 *LRB*
+			 (NP (NP (NP Cook)
+				 and
+				 (NP Whipple))
+			     ,
+			     (NP 1958))
+			 *RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A concentration distribution)
+       (AUX has)
+       (VP been
+	   (VP derived
+		     
+	       (PP from
+		   (NP (NP radar observations)
+		       (ADJP sensitive
+			     (PP to
+				 (NP the fifteenth magnitude))))))))
+    *LRB*
+    (NP (NP (NP Manning)
+	    and
+	    (NP Eshleman))
+	,
+	(NP 1959))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Extrapolation
+       (PP of
+	   (NP this relationship))
+       (PP through
+	   (NP the thirtieth magnitude)))
+   (VP covers
+       (NP the range
+	   (PP of
+	       (NP micrometeorites)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The approximate equation)
+   (VP is
+       (NP (NP A[fj])
+	   ,
+	   (SBAR 
+	    (WHADVP where)
+	    (S (S (NP N)
+		  (VP is
+		      (NP the number
+			  (PP of
+			      (NP A[fj]))))
+		  (PP with
+		      (NP (NP electron line-density)
+			  (ADJP (ADJP greater
+				      (PP than
+					  (NP-3 *pseudo-attach*)))
+				or
+				(ADJP equal
+				      (PP to
+					  (NP-3 *pseudo-attach*)))
+				(NP-3 A[fj])))))
+	       ,
+	       and
+	       (S (NP Q)
+		  (VP is
+		      (ADJP proportional
+			    (PP to
+				(NP the mass
+				    (PP of
+					(NP the meteorite))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP N)
+	 (VP is
+	     (X (ADJP  inversely
+		       proportional
+		       (PP to
+			   (NP (NP the radius)
+			       (VP cubed))))
+		and
+		(PP in
+		    (NP fair agreement
+			(PP with
+			    (NP (NP the
+				    (ADJP inverse)
+				    72 power)
+				(VP derived
+				    (PP from
+					(NP 1958
+					    Alpha
+					    and
+					    1959 Eta data)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X   
+   (X (PP At
+	  (NP the fifteenth magnitude))
+      ,
+      (NP A[fj]))
+   ,
+   and
+   (X  (PP at
+	   (NP the twenty-fifth magnitude))
+       ,
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These (VP extrapolated) fluxes)
+   (VP are
+       (ADJP (NP (ADVP about)
+		 an order
+		 (PP of
+		     (NP magnitude)))
+	     less
+	     (PP than
+		 (NP (NP the values
+			 (PP from
+			     (NP the satellite data)))
+		     and
+		     (NP the figures
+			 (PP in
+			     (NP 
+			      (NP Whipple)
+			      's table))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The extrapolation)
+   (AUX may)
+   (VP be
+       (PP in
+	   (NP error)))
+   (PP for
+       (NP several reasons)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The observational data)
+	(VP determining
+	    (NP the concentration distribution)))
+    (VP have
+	(NP (NP a range
+		(PP of
+		    (NP error)))
+	    (SBAR 
+	     (WHNP which)
+	     (S (NP T)
+		(AUX is)
+		(VP magnified
+		 
+		    (PP in
+			(NP the extension
+			    (PP into
+				(NP the micrometeorite region))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The solar-electromagnetic)
+      -
+      and
+      (NP corpuscular-radiation pressure)
+      and
+      (NP the
+	  (ADJP associated)
+	  Poynting-Robertson effect))
+  (VP (VP increase
+	  (PP in
+	      (NP effectiveness))
+	  (SBAR  as
+		 (S (NP the particle size)
+		    (VP decreases))))
+      and
+      (VP (VP modify
+	      (NP the distribution))
+	  and
+	  (VP limit
+	      (NP sizes)
+	      (PP to
+		  (NP  larger
+		       (PP than
+			   (NP a few microns))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      ,
+      (S (NP it
+	     (SBAR-4 *pseudo-attach*))
+	 (AUX has)
+	 (VP been
+	     (VP suggested))
+	 (SBAR-4 that
+		 (S (S (S (NP the source
+			      (PP of
+				  (NP all
+				      or
+				      part
+				      (PP of
+					  (NP the dust)))))
+			  (AUX may)
+			  (NEG not)
+			  (VP be
+			      (NP the
+				  same
+				  (PP as
+				      (NP that
+					  (PP for
+					      (NP (ADJP visual
+							or
+							radar)) meteorites))))))
+		       *LRB*
+		       (NP (NP Best)
+			   ,
+			   1960)
+		       *RRB*)
+		    ,
+		    and
+		    (S (NP the same distribution)
+		       (AUX would)
+		       (NEG not)
+		       (VP be
+			   (VP expected)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   (NP 5.4)
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Indirect indications
+        (PP of
+            (NP micrometeorite flux)))
+    )
+(  
+ (S (NP A measure
+	(PP of
+	    (NP the total mass accretion
+		(PP of
+		    (NP meteoritic material))
+		(PP by
+		    (NP the Earth)))))
+    (AUX is)
+    (VP obtained
+	 
+	(PP from
+	    (NP (NP  
+		 analyses
+		 (PP of
+		     (NP (NP deep-sea sediments and dust)
+			 (VP collected
+			     (PP in
+				 (NP remote regions))))))
+		*LRB*
+		(NP (NP Pettersson)
+		    ,
+		    (NP 1960))
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   Most meteoritic
+   material)
+  ,
+  (PP by
+      (NP (NP the time)
+	  (SBAR 0
+		(S (NP it)
+		   (VP reaches
+		       (NP 
+			(NP the Earth)
+			's surface))))))
+  ,
+  (AUX has)
+  (VP been
+      (VP reduced
+	     
+	  (PP (PP to
+		  (NP dust))
+	      or
+	      (PP to
+		  (NP spherules
+		      (PP of
+			  (NP (VP ablated)
+			      material)))))))
+  (PP in
+      (NP its passage
+	  (PP through
+	      (NP the atmosphere)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP all meteorites))
+   ,
+   (S (NP the average nickel content)
+      (VP is
+	  (NP (ADVP about)
+	      2.5
+	      (PP per
+		  (NP cent))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP (VP is
+	   (ADJP  much
+		  higher
+		  (PP than
+		      (NP the nickel content
+			  (PP of
+			      (NP terrestrial dusts and sediments))))))
+       and
+       (VP provides
+	   (NP a basis
+	       (PP for
+		   (NP the determination
+		       (PP of
+			   (NP the meteoritic mass influx))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Present data)
+   (VP indicate
+       (NP an accretion
+	   (PP of
+	       (NP (NP (ADVP about)
+		       A[fj] tons
+		       (PP per
+			   (NP year))
+		       (PP over
+			   (NP the entire globe)))
+		   ,
+		   or
+		   (NP (ADVP about)
+		       A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

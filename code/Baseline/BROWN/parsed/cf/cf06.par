@@ -1,0 +1,2661 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP How)
+	(SQ  (AUX did)
+	     (NP I)
+	     (VP get
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(NP sixty-five)))
+		 (ADVP so
+		       fast))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ  (AUX do)
+	     (NP I)
+	     (VP do
+		 (NP T))
+	     (ADVP now)))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  (S (X Yes) 
+      ,
+      (S (NP retirement)
+	 (VP seems
+	     (S (NP *)
+		(AUX to)
+		(VP creep
+		    (PP upon
+			(NP you))
+		    (ADVP suddenly))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Somehow)
+      (S (NP we
+	     old-timers)
+	 (ADVP never)
+	 (VP figured
+	     (SBAR 0
+		   (S (NP we)
+		      (AUX would)
+		      (ADVP ever)
+		      (VP retire))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (ADVP always)
+     (VP thought
+	 (SBAR 0
+	       (S (NP we)
+		  (AUX would)
+		  (VP die
+		      (PP with
+			  (X (NP our boots)
+			     (ADVP on))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP Out
+	   (PP of
+	       (NP the blue)))
+       (VP comes)
+       (NP talk
+	   (PP of
+	       (NP pension plans))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Compulsory retirement
+	 (PP at
+	     (NP sixty-five)))
+     (VP looms
+	 (PP on
+	     (NP our horizon))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Still)
+      ,
+      (S (NP it)
+	 (VP seems
+	     (PP in
+		 (NP the far future)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Suddenly)
+      ,
+      (NP one day)
+      ,
+      (S (ADVP up)
+	 (S (NP it)
+	    (VP pops))))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X  (NP Sixty-five years)
+     and
+     (S (NP you)
+	(AUX 've)
+	(VP had
+	    (NP it))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  (X (ADVP So)
+      ,
+      (ADVP now)
+      (WHNP what))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (INTJ Oh)
+    (ADJP sure))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (AUX 've)
+    (VP thought
+	(PP about
+	    (NP it))
+	(ADVP before)
+	(PP in
+	    (NP a hazy sort
+		(PP of
+		    (NP way))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  But
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP (ADVP never)
+	(VP seemed
+	    (ADJP real))
+       ;
+       ;
+	(ADVP never)
+	(VP seemed
+	    (SBAR  as
+		   if
+		   (S (NP it)
+		      (AUX could)
+		      (VP happen
+			  (PP (PP to
+				  (NP you))
+				 ;
+				 ;
+				 (PP  (ADVP only)
+				      to
+				      (NP the other fellow)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (ADVP Now)
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      (S (NP it)
+	 (VP is)))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ (WHADVP How)
+	 (SQ (AUX am)
+	     (NP I)
+	     (VP going
+		 (S (NP *)
+		    (AUX to)
+		    (VP live)))))
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ (WHNP What)
+	 (SQ (AUX am)
+	     (NP I)
+	     (VP going
+		 (S (NP *)
+		    (AUX to)
+		    (VP do
+			(NP T) )))))
+  ?)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP Where)
+	(SQ  (AUX do)
+	     (NP I)
+	     (VP go
+		 (PP from
+		     (ADVP here)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP A
+	 (ADJP great
+	       many)
+	 retired
+	 people)
+     (VP are
+	 (NP the
+	     (ADJP so-called) white
+	     collar workers)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ (VP Are)
+      (NP you)
+      (NP one
+	  (PP of
+	      (NP these))))
+  ?)
+(  END_OF_TEXT_UNIT)
+(  (S (X  If
+	  (ADVP so))
+      ,
+      (S (NP you)
+	 (VP are
+	     (PP of
+		 (NP the old school)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (VP are
+	(X (ADJP conscientious
+		 ,
+		 hard
+		 working
+		 ,
+		 honest
+		 ,
+		 accurate)
+	   ,
+	   (NP a good penman)
+	   ,
+	   and
+	   (NP a stickler
+	       (PP for
+		   (NP (NP a job)
+		       (VP  (ADVP well)
+			    done
+			    ,
+			    (PP with
+				(NP no loose ends)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Everything)
+     (AUX must)
+     (VP balance
+	 (PP to
+	     (NP the last penny))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      (S (NP you)
+	 (AUX can)
+	 (VP spell
+	     ,
+	     (PP without
+		 (S  (NP *) 
+		     (VP consulting
+			 (NP a dictionary)
+			 (PP for
+			     (NP every other word))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP You)
+      (ADVP never)
+      (VP are
+	  (ADJP (ADJP late
+		      (PP for
+			  (NP work)))
+		and
+		(ADVP seldom)
+		(ADJP absent))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Actually)
+      ,
+      (S (NP you)
+	 (AUX can)
+	 (VP take
+	     (NP no special credit)
+	     (PP for
+		 (NP this)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP is
+	 (NP  (NP (NP the way)
+		  (SBAR 0
+			(S (NP you)
+			   (AUX were)
+			   (VP taught))))
+	      and
+	      (NP your way
+		  (PP of
+		      (NP life))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  All
+	 this)
+    (VP is
+	(NP (NP standard equipment
+		(PP for
+		    (NP a man
+			(PP of
+			    (NP your day)))))
+	    ;
+	    ;
+	    (NP your stock
+		(PP in
+		    (NP trade)))
+	    ;
+	    ;
+	    (NP your livelihood))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (NP the
+	  last
+	  few years
+	  (PP of
+	      (NP your life)))
+      ,
+      (S (NP things)
+	 (VP seem
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP changing))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Your way)
+     (AUX does)
+     (NEG n't)
+     (VP seem
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(ADJP  so
+		       darned
+		       important))))
+     (ADVP  any
+	    more))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (VP realize
+	 (SBAR 0
+	       (S (NP you)
+		  (AUX are)
+		  (VP getting
+		      (PP in
+			  (NP the old fogy class)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP put
+            (NP it)
+	    (ADVP bluntly)))
+     ,
+     (S (NP you)
+	(AUX are)
+	(VP getting
+	    (ADJP out-moded))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(S  (NP T) 
+	    (AUX 's)
+	    (VP happened)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The answer)
+     (VP is
+	 (NP a new era)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (SINV  (ADVP Now)
+	  ,
+	  (SINV  (VP looming
+		     (PP on
+			 (NP the horizon)))
+		 (AUX  are)
+		 (NP such things
+		     (PP as
+			 (NP (NP (VP estimated)
+				 totals)
+			     ,
+			     (NP (VP calculated)
+				 risks)
+			     and
+			     (NP I.B.M. machines))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Planning Dept.)
+     (VP comes
+	 (PP into
+	     (NP existence))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP All sorts
+	 (PP of
+	     (NP plans)))
+     (VP come
+	 (PP to
+	     (NP life))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (AUX is)
+     (VP followed
+	 (PP by
+	     (NP a boom
+		 (PP in
+		     (NP conferences))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X (X Yes)
+      (NP sir))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Conferences)
+     (VP become
+	 (ADJP  very
+		popular)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP a plan)
+	      (VP burst
+		  (NP its seams))))
+     ,
+     (S (NP hasty conferences)
+	(VP supply
+	    (NP the necessary patch)))
+     ,
+     and
+     (S (NP life)
+	(VP goes
+	    (ADVP merrily)
+	    (ADVP on))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP That)
+     (AUX 's)
+     (VP called
+	 (NP progress)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The new way
+     (PP of
+	 (NP life)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Let
+	   (NP 's)
+	   (VP face
+	       (NP it))))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP You)
+	(VP had
+	    (NP your day)))
+     and
+     (S (NP it)
+	(VP was
+	    (NP a good day))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Let
+	  (NP this generation)
+	  (VP have
+	      (NP theirs))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Time)
+    (VP marches
+	(ADVP on)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  (S (X Well)
+      ,
+      (S (NP *)
+	 (AUX to)
+	 (VP get
+	     (PP back
+		 (PP to
+		     (NP the problem
+			 (PP of
+			     (NP retirement))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Every (VP retiring) person)
+    (VP has
+	(NP (NP a different situation)
+	    (VP facing
+		(NP him)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some)
+	(VP have
+	    (NP plenty
+		(PP of
+		    (NP money)))))
+     --
+     (S (NP some)
+	(VP have
+	    (NP  (ADJP very
+		       little) money))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some)
+	(VP are
+	    (ADJP blest)
+	    (PP with
+		(NP an abundance
+		    (PP of
+			(NP good health))))))
+     --
+     (S (NP some)
+	(VP are
+	    (PP in
+		(NP poor health))))
+     and
+     (S (NP many)
+	(VP are
+	    (NP invalids))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some)
+	(VP have
+	    (NP lovely homes)))
+     --
+     (S (NP some)
+	(VP live
+	    (PP in
+		(NP small apartments)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some)
+	(VP have
+	    (NP beautiful gardens)))
+     --
+     (X  (NP some)
+	 (NP (ADVP (NEG not)
+		   even)
+	     a blade
+	     (PP of
+		 (NP grass)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some)
+	(VP have
+	    (NP (NP serenity
+		    (PP of
+			(NP mind)))
+		,
+		(NP the ability
+		    (S (NP *)
+		       (AUX to)
+		       (VP (VP accept
+			       (SBAR (WHNP what)
+				     (S (NP they)
+					(VP have
+					    (NP T) ))))
+			   ,
+			   and
+			   (VP make
+			       (NP the
+				   (ADJP most))
+			       (PP of
+				   (NP it))))))
+		*LRB*
+		(NP (NP a wonderful gift)
+		    (S (NP *)
+		       (AUX to)
+		       (VP have
+			   (NP T) )))
+		,
+		(S  (NP *) 
+		    (VP believe
+			(NP me)))
+		*RRB*)))
+     --
+     (S (NP some)
+        (VP see
+            (NP (NP only darkness)
+		,
+		(NP the bitter side
+		    (PP of
+			(NP everything)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (X Well)
+      ,
+      (SBAR (WHNP whatever)
+	    (S (NP you)
+	       (VP have
+		   (NP T) )))
+      ,
+      (S (NP that)
+	 (VP 's
+	     (NP it))))
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (AUX 've)
+    (VP got
+	(S (NP *)
+	   (AUX to)
+	   (VP learn
+	       (S (NP *)
+		  (AUX to)
+		  (VP live
+		      (PP with
+			  (NP it))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (ADVP Now)
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The question)
+    (VP is
+	``
+	(SBARQ (WHADVP How)
+	       (SQ (AUX are)
+		   (NP you)
+		   (VP going
+		       (S (NP *)
+			  (AUX to)
+			  (VP live
+			      (PP with
+				  (NP it)))))))
+	''))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX can)
+     (VP (VP sit
+	     (ADVP back))
+	 and 
+	 (VP moan) 
+	 and 
+	 (VP bewail
+	     (NP your lot))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Yes)
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX can)
+     (VP do
+	 (NP this)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      ,
+      (SBAR if
+	    (S (NP you)
+	       (AUX do)))
+      ,
+      (S (NP your life)
+	 (AUX will)
+	 (VP be
+	     (NP (NP (ADVP just)
+		     one thing)
+		 --
+		 (NP (NP unhappiness)
+		     --
+		     (ADJP complete and unabridged))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-1 *pseudo-attach*))
+     (VP seems
+	 (PP to
+	     (NP me)))
+     ,
+     (SBAR-1 0
+	   (S (NP (NP the first thing)
+		  (SBAR 0
+			(S (NP you)
+			   (AUX 've)
+			   (VP got
+			       (S (NP *)
+				  (AUX to)
+				  (VP do)))
+			   ,
+			   (S (NP *)
+			      (AUX to)
+			      (VP be
+				  (ADJP happy)))
+			   ,)))
+	      (VP is
+		  (S (NP *)
+		     (AUX to)
+		     (VP face
+			 (PP up
+			     (PP to
+				 (NP your problems))))
+		     ,
+		     (ADVP  no matter
+			    (SBAR (WHNP what)
+				  (S
+				   (NP they)
+				   (AUX may)
+				   (VP be
+				       (NP T) )))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Make
+	   (PRT up)
+	   (NP your mind)
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP pool
+		      (NP your resources))
+		  and
+		  (VP get
+		      (NP the
+			  (ADJP most))
+		      (PP out
+			  (PP of
+			      (NP your remaining years
+				  (PP of
+				      (NP life))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP One thing)
+	,
+	(SBAR 0
+	      (S (NP I)
+		 (VP am
+		     (ADJP sure)
+		     (PP of
+			 (NP T) ))))
+	,)
+    (S (NP you)
+       (AUX must)
+       (VP get
+	   (NP an interest
+	       (PP in
+		   (NP life))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP You)
+    (AUX 've)
+    (VP got
+	(S (NP *)
+	   (AUX to)
+	   (VP do
+	       (NP something)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Many
+	(PP of
+	    (NP you)))
+    (AUX will)
+    (VP say
+	,
+	``
+	(SBARQ  (INTJ Well)
+		,
+		(SBARQ (WHNP what)
+		       (SQ (AUX can)
+			   (NP I)
+			   (VP do
+			       (NP T) ))))
+	''))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Believe
+	   (NP me)))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP are
+	 (NP (NP many
+		 ,
+		 many things)
+	     (S (NP *)
+		(AUX to)
+		(VP do)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Find
+	     (PRT out)
+	     (SBAR (WHNP what)
+		   (S (NP you)
+		      (VP like
+			  (S (NP *)
+			     (AUX to)
+			     (VP do
+				 (NP T)))
+			  (ADVP most))))))
+     and
+     (S  (NP *)  
+	 (ADVP really)
+	 (VP give
+	     (NP it)
+	     (NP a whirl))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (AUX ca)
+	      (NEG n't)
+	      (VP think
+		  (PP of
+		      (NP (NP a thing)
+			  (S (NP *)
+			     (AUX to)
+			     (VP do
+				 (NP T) )))))))
+    ,
+    (S  (NP *) 
+	(VP try
+	    (NP (NP something)
+		--
+		(NP anything)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Maybe)
+      (S (NP you)
+	 (AUX will)
+	 (VP surprise
+	     (NP yourself))))
+   .)
+(  END_OF_TEXT_UNIT)
+(   (ADJP True)
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (VP are
+	 (NEG not)
+	 all
+	 (NP great artists)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    ,
+    (ADVP frankly)
+    ,
+    (AUX ca)
+    (NEG n't)
+    (VP draw
+	(NP a straight line)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Maybe)
+	 (S (NP you)
+	    (VP are
+		(NEG not)
+		(ADJP  that
+		       gifted)
+		(ADVP either))))
+      ,
+      but
+      (X (WHADVP how)
+	 (PP about
+	     (S (NP *) 
+		(VP puttering
+		    (ADVP around)
+		    (PP with
+			(NP the old paints)))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX may)
+     (VP (VP amaze
+	     (NP yourself))
+	 and
+	 (VP acquire
+	     (NP a real knack
+		 (PP for
+		     (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Anyway)
+      ,
+      (S (NP I)
+	 (AUX 'll)
+	 (VP bet
+	     (SBAR 0
+		   (S (NP you)
+		      (VP have
+			  (NP a lot
+			      (PP of
+				  (NP fun)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Do)
+     (NP you)
+     (VP like
+	 (S (NP *)
+	    (AUX to)
+	    (VP sew))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Does)
+     (NP (S (NP *)
+	    (VP making
+		(NP (NP your own clothes)
+		    or
+		    (NP (ADVP even)
+			doll clothes)
+		    ,))))
+     (VP interest
+	 (NP you)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Do)
+     (NP you)
+     (VP love
+	 (S (NP *)
+	    (AUX to)
+	    (VP (VP run
+		    (PRT up)
+		    (NP a hem))
+		,
+		(VP sew
+		    (PRT on)
+		    (NP buttons))
+		,
+		(VP make
+		    (NP neat buttonholes))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (AUX do)))
+    ,
+    (S  (NP *) 
+	(VP go
+	    (PP to
+		(NP it)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (ADVP always)
+	 (NP a market)
+	 (PP for
+	     (NP this line
+		 (PP of
+		     (NP work))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Some women)
+    (AUX can)
+    (VP (VP (VP sit) 
+	    and 
+	    (VP (VP sew)
+		,
+		(VP crochet)
+		,
+		(VP tat)
+		or
+		(VP   knit))
+	    (PP by
+		(NP the hour)))
+	,
+	and
+	(VP look
+	    (ADJP calm and relaxed))
+	and
+	(VP turn
+	    (PRT out)
+	    (NP beautiful work))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP Where)
+	  (S (NP sewing)
+	     (AUX is)
+	     (VP concerned)))
+    ,
+    (S (NP I)
+       (VP 'm
+	   (NP a total loss))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP you)
+	      (VP see
+		  (NP a needle)
+		  (PP in
+		      (NP my hands)))))
+     (S (NP you)
+	(AUX will)
+	(VP know
+	    (SBAR 0
+		  (S (S (NP the family buttons)
+			(AUX have)
+			(VP fallen
+			    (ADVP off)))
+		     and
+		     (S (NP I)
+			(VP have
+			    (S (NP *)
+			       (AUX to)
+			       (VP (VP sew
+				       (NP them)
+				       (ADVP back)
+				       (PRT on))
+				   ,
+				   or
+				   (VP get
+				       (PRT out)
+				       (NP the safety pins)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (ADVP again)
+      ,
+      (S (NP there)
+	 (VP 's
+	     (ADVP always)
+	     (NP  that
+		  lovely old
+		  pastime
+		  (PP of
+		      (S  (NP *) 
+			  (VP hooking
+			      or
+			      braiding
+			      (NP rugs))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (X  (PP  (NEG Not)
+	  for
+	  (NP me))
+     ,
+     but
+     (X (ADVP perhaps)
+	(ADVP just)
+	(NP the thing)
+	(PP for
+	    (NP you))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (X Well)
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (WHADVP How)
+    (VP 's
+	(PP about
+	    (NP (NP mosaic tile)
+		,
+		(NP ceramics)
+		or
+		(NP similar arts and crafts)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Some people)
+	(VP love
+	    (S (NP *)
+	       (AUX to)
+	       (VP crack
+		   (NP tile)))))
+     and
+     (S (NP it
+	    (SBAR-2 *pseudo-attach*))
+	(VP 's
+	    (ADJP amazing))
+	(SBAR-2 (WHNP what
+		      beautiful designs)
+		(S (NP they)
+		   (VP come
+		       (ADVP up)
+		       (PP with
+			   (NP T)))
+		   (PP as
+		       (NP a result
+			   (PP of
+			       (NP their
+				   cracking good
+				   time))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (WHADVP How)
+    (PP about
+	(NP the art
+	    (PP of
+		(NP cooking)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Do)
+     (NP you)
+     (VP yearn
+	 (S (NP *)
+	    (AUX to)
+	    (VP make
+		(NP (NP (NP cakes) 
+			and 
+			(NP pies))
+		    ,
+		    or
+		    (NP special cookies and candies))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (ADVP always)
+	 (NP an open market)
+	 (PP for
+	     (NP this sort
+		 (PP of
+		     (NP delicacy)))))
+     ,
+     (PP in
+	 (NP spite
+	     (PP of
+		 (NP low calorie diets
+		     ,
+		     cottage cheese 
+		     and 
+		     hands-off-all-sweets
+		     (PP to
+			 (NP the contrary)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Some people)
+     (AUX can)
+     (VP carve
+	 (NP  (ADVP most)
+	      anything)
+	 (PP out
+	     (PP of
+		 (NP a piece
+		     (PP of
+			 (NP wood)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Some)
+    (VP make
+	(NP  beautiful chairs
+	     ,
+	     cabinets
+	     ,
+	     chests
+	     ,
+	     doll houses
+	     ,
+	     etc .)))
+ .)
+ ( (SQ  (S (ADVP Perhaps)
+	  (S (NP you)
+	     (AUX could)
+	     (NEG n't)
+	     (VP do
+		 (NP that))))
+       but
+       (SQ (AUX have)
+	   (NP you)
+	   (ADVP ever)
+	   (VP tried
+	       (S (NP *)
+		  (AUX to)
+		  (VP see
+		      (SBAR (WHNP what)
+			    (S (NP you)
+			       (AUX could)
+			       (VP do
+				   (NP T)
+				   (PP with
+				       (NP a hunk
+					   (PP of
+					       (NP wood))))))))))))
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Outside
+	(PP of
+	    (S (NP *) 
+	       (VP cutting
+		   (NP your fingers)))))
+    ,
+    (ADVP maybe)
+    (S (NP you)
+       (AUX would)
+       (VP come
+	   (ADVP up)
+	   (PP with
+	       (NP nothing
+		   (PP at
+		       (NP all))))))
+    ,
+    but
+    (ADVP then
+	  again)
+    ,
+    (S (NP you)
+       (AUX might)
+       (VP turn
+	   (PRT out)
+	   (NP some
+	       dandy
+	       little gadgets))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Some women)
+     (VP get
+	 (NP a real thrill)
+	 (PP out
+	     (PP of
+		 (NP housework)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP love
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP dust)
+	       ,
+	       (VP scrub)
+	       ,
+	       (VP polish)
+	       ,
+	       (VP wax
+		   (NP floors))
+	       ,
+	       (VP move
+		   (NP the furniture)
+		   (PRT around)
+		   (PP from
+		       (NP place
+			   (PP to
+			       (NP place)))))
+	       ,
+	       (VP take
+		   (PRT down)
+		   (NP the curtains))
+	       ,
+	       (VP put
+		   (PRT up)
+		   (NP new ones))
+	       and
+	       (VP have
+		   (NP themselves)
+		   (NP a real ball))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Maybe)
+      (S (NP that)
+	 (VP 's
+	     (NP your forte))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (ADVP certainly)
+     (VP is
+	 (NEG n't)
+	 (NP mine)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX can)
+     (VP (VP look
+	     (PP at
+		 (NP furniture))
+	     (PP in
+		 (NP one spot))
+	     (ADVP  (ADVP year in)
+		    and
+		    (ADVP year out)))
+	 and
+	 (VP  (ADVP really)
+	      feel
+	      (PP for
+		  (ADJP sure))
+	      (SBAR 0
+		    (S (NP that)
+		       (VP 's
+			   (SBAR (WHADVP where)
+				 (S (NP it)
+				    (VP belongs)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Perhaps)
+      (S (NP you)
+	 (AUX would)
+	 (VP like
+	     (S (NP *)
+		(AUX to)
+		(VP become
+		    (NP a writer))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (VP gives
+	 (NP you)
+	 (NP a (ADJP wide and varied) choice)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Will)
+      (NP it)
+      (VP be
+	  (NP  (NP short stories)
+	       ,
+	       (NP fiction)
+	       ,
+	       (NP nonfiction)
+	       ,
+	       (NP biography)
+	       ,
+	       (NP poetry)
+	       ,
+	       (NP (NP children)
+		   's stories)
+	       ,
+	       or
+	       (NP (NP  (ADVP even)
+			a book)
+		   (SBAR if
+			 (S (NP you)
+			    (VP are
+				(ADJP  really
+				       ambitious))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S (PP  (ADVP Ever)
+	 since
+	 (S (NP I)
+	    (VP was
+		(NP a child))))
+    ,
+    (S (NP I)
+       (AUX have)
+       (ADVP always)
+       (VP had
+	   (NP a yen
+	       (S (NP *)
+		  (AUX to)
+		  (VP try
+		      (NP my hand)
+		      (PP at
+			  (NP writing))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP you)
+	      (AUX do)
+	      (VP decide
+		  (S (NP *)
+		     (AUX to)
+		     (VP write)))))
+    ,
+    (S (NP you)
+       (AUX will)
+       (ADVP soon)
+       (VP become
+	   (VP acquainted
+	       (PP with
+		   (NP (NP rejection slips) 
+		       and
+		       (NP dejection)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (AUX Do)
+       (NEG n't)
+       (VP be
+	   (VP discouraged)))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (VP is
+	 (ADVP just)
+	 (S  (NP *)
+	     (VP being
+		 (NP a normal writer)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Just)
+      (S  (NP *) 
+	  (VP let
+	      (NP the rejection slips)
+	      (VP fall
+		  (SBAR (WHADVP where)
+			(S (NP they)
+			   (AUX may))))))
+      ,
+      and
+      (S  (NP *) 
+	  (VP keep
+	      (PRT on)
+	      (S (NP *)
+		 (VP plugging))))
+      ,
+      and
+      (ADVP finally)
+      (S (NP you)
+	 (AUX will)
+	 (VP make
+	     (NP the grade))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Few new
+	writers)
+    (VP have
+	(NP their first story)
+	(VP accepted))
+    ,
+    (ADVP  so
+	   (S (NP they)
+	      (VP tell
+		  (NP me)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      ,
+      (S (NP it)
+	 (AUX could)
+	 (VP happen))
+      ,
+      and
+      (S (NP it)
+	 (AUX may)
+	 (VP happen
+	     (PP to
+		 (NP you)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP there)
+	 (VP 's
+	     (ADVP always)
+	     (NP (NP hobbies)
+		 ,
+		 (X (S  (NP *) 
+			(VP collecting
+			    (NP (NP stamps)
+				,
+				(NP coins)
+				,
+				(NP timetables)
+				,
+				(NP salt and pepper shakers)
+				,
+				(NP elephants)
+				,
+				(NP dogs)
+				,
+				(NP dolls)
+				,
+				(NP shells))))
+		    ,
+		    or
+		    (SQ  (AUX shall)
+			 (NP we)
+			 (ADVP just)
+			 (VP say
+			     (S (NP *) 
+				(VP collecting
+				    (NP (NP anything)
+					(SBAR 0
+					      (S (NP your heart)
+						 (VP desires
+						     (NP T) )))))))))))))
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX can)
+     (VP hear
+	 (NP some
+	     (PP of
+		 (NP you folks)))
+	 (VP protesting)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (VP say
+	 ,
+	 ``
+	 (S But
+	    (S (NP it
+		   (S-3 *pseudo-attach*))
+	       (VP costs
+		   (NP a lot
+		       (PP of
+			   (NP money))))
+	       (S-3 (NP *)
+		  (AUX to)
+		  (VP have
+		      (NP a hobby)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX have)
+     (NEG n't)
+     (VP got
+	 (NP that kind
+	     (PP of
+		 (NP money)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  (ADJP True)
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP It)
+	(AUX does)
+	(VP cost
+	    (NP a lot
+		(PP of
+		    (NP money))))
+	(PP for
+	    (NP most
+		hobbies)))
+     but
+     (S (NP there)
+        (VP are
+	    (NP (NP hobbies)
+		(SBAR (WHNP (WHNP that))
+		      (S (NP T)
+			 (VP are
+			     (PP for
+				 (ADJP free)))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X  (WHADVP How)
+     (PP about
+	 (NP (NP a rock collection)
+	     ,
+	     or
+	     (NP a collection
+		 (PP of
+		     (NP leaves
+			 (PP (PP from
+				 (NP different trees or shrubs))
+			     and
+			     (PP in
+				 (NP different colors)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      ,
+      (S  (NP *) 
+	  (VP take
+	      (NP flowers))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (VP are
+	 (ADJP many
+	       and
+	       varied)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S (NP there)
+	 (VP 's
+	     (NP (NP scrap
+		     books)
+		 ,
+		 (S  (NP *) 
+		     (VP collecting
+			 (NP (NP newspaper pictures and clippings)
+			     ,
+			     or
+			     (NP any items
+				 (PP of
+				     (NP interest
+					 (PP to
+					     (NP you))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-4 *pseudo-attach*))
+     (VP 's
+	 (S  (NP *) 
+	     (VP getting
+		 (ADJP interested
+		       (PP in
+			   (NP something))))))
+     (SBAR-4 (WHNP that)
+	     (S (NP T)
+		(VP counts))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(PP for
+	    (NP me)))
+    ,
+    (S (NP I)
+       (AUX am)
+       (VP holding
+	   (PP in 
+	       (NP reserve ))
+	   (NP (NP  two
+		    huge puzzles)
+	       *LRB*
+	       (S (NP I)
+		  (VP love
+		      (NP puzzles)))
+	       *RRB*
+	       (S (NP *)
+		  (AUX to)
+		  (VP put
+		      (NP T) 
+		      (ADVP together))
+		  (SBAR (WHADVP when)
+			(S (NP time)
+			   (VP hangs
+			       (ADJP heavy)
+			       (PP on
+				   (NP my hands))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So
+	    far)
+      ,
+      (S (NP the covers)
+	 (AUX have)
+	 (ADVP never)
+	 (VP been
+	     (PP off
+		 (NP the boxes)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (ADVP just)
+     (AUX do)
+     (NEG n't)
+     (VP have
+	 (NP (NP time)
+	     (S (NP *)
+		(AUX to)
+		(VP do
+		    (NP (NP half
+			    the things)
+			(SBAR 0
+			      (S (NP I)
+				 (VP want
+				     (S (NP *)
+					(AUX to)
+					(VP do
+					    (NP T) )
+					(ADVP now)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So)
+      (PP in
+	  (NP  closing))
+      ,
+      (NP fellow
+	  retired
+	  members)
+      ,
+      (S (NP I)
+	 (VP advise
+	     (S (NP you)
+		(AUX to)
+		(VP make
+		    (NP the
+			(ADJP most))
+		    (PP of
+			(NP each day))))))
+      ,
+      (S  (NP *) 
+	  (VP enjoy
+	      (NP each one)
+	      (PP to
+		  (NP the
+		      n'th 
+		      degree)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Travel)
+       ,
+       (SBAR if
+	     (S (NP you)
+		(AUX can))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Keep
+	      (ADJP occupied)
+	      (PP to
+		  (NP (NP the point)
+		      (SBAR 0
+			    (S (NP you)
+			       (VP are
+				   (NEG not)
+				   (ADJP bored
+					 (PP with
+					     (NP life))))))))))
+      and
+      (S (NP you)
+	 (AUX will)
+	 (ADVP truly)
+	 (VP find
+	     (S (NP these final days and years
+		    (PP of
+			(NP your lives)))
+		(AUX to)
+		(VP be
+		    (ADJP  sunshine
+			   sweet))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  (NP Good Luck)
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (PP To
+	(NP (NP  one)
+	    and
+	    (NP all)))
+    --
+    (NP Good Days
+	(ADVP ahead)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP An important criterion
+	 (PP of
+	     (NP maturity)))
+     (VP is
+	 (NP creativity)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The mature person)
+     (VP is
+	 (ADJP creative)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ  (AUX does)
+	     (NP it)
+	     (VP mean)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (X (ADJP creative)
+		       ,
+		       (NP (NP a term)
+			   (SBAR 0
+				 (S (NP we)
+				    (VP hear
+					(NP T)
+					(PP with
+					    (NP  increasing
+						 frequency)))
+				    (NP these days)))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP we)
+	      (VP turn
+		  (PP to
+		      (NP Noah Webster)))))
+     (S (NP we)
+	(VP find
+	    (NP him)
+	    (ADJP helpful))
+	(PP as
+	    (ADJP usual))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP (S   (NP *) 
+	       (AUX To)
+	       (VP be
+		   (ADJP creative))))
+      (VP is
+	  (S (NP *)
+	     (AUX to)
+	     (VP have
+		 (NP the ability
+		     (S (S (NP *)
+			   (AUX to)
+			   (VP cause
+			       (S (NP *)
+				  (AUX to)
+				  (VP exist))))
+			--
+			(S (NP *)
+			   (AUX to)
+			   (VP produce
+			       (SBAR (WHADVP where)
+				     (S (NP nothing)
+					(VP was
+					    (ADVP before))))))
+			--
+			(S (NP *)
+			   (AUX to)
+			   (VP bring
+			       (ADVP forth)
+			       (NP an original production
+				   (PP of
+				       (NP human intelligence or power)))))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (VP are
+	 (ADJP creative))
+     ,
+     (S (NP it)
+	(VP seems))
+     ,
+     (SBAR (WHADVP when)
+	   (S (NP we)
+	      (VP produce
+		  (NP (NP something)
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (AUX has)
+			       (NEG not)
+			       (ADVP previously)
+			       (VP existed))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP creativity)
+	 (AUX may)
+	 (VP run
+	     (NP all
+		 the way)
+	     (PP (PP from
+		     (NP (S  (NP *) 
+			     (VP making
+				 (NP a cake)))
+			 ,
+			 (S  (NP *) 
+			     (VP building
+				 (NP a chicken coop)))
+			 ,
+			 or
+			 (S  (NP *) 
+			     (VP producing
+				 (NP a book)))))
+		 ,
+		 (PP to
+		     (NP (S  (NP *)
+			     (VP founding
+				 (NP a business)))
+			 ,
+			 (S  (NP *) 
+			     (VP creating
+				 (NP a League
+				     (PP of
+					 (NP Nations)))))
+			 or
+			 ,
+			 (S  (NP *) 
+			     (VP developing
+				 (NP a mature character)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP All (VP living) creatures
+	 (PP from
+	     (NP the
+		 lowest
+		 form
+		 (PP of
+		     (NP insect or animal life)))))
+     (VP evidence
+	 (NP the power
+	     (PP of
+		 (NP creativity))))
+     ,
+     (SBAR if
+	   (S (NP it)
+	      (VP is
+		  (ADVP only)
+		  (S (NP *)
+		     (AUX to)
+		     (VP reproduce
+			 (NP a form
+			     (PP like
+				 (NP their
+				     own)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  While
+	   (S (NP man)
+	      (VP shares
+		  (NP this procreative function)
+		  (PP with
+		      (NP all
+			  his predecessors
+			  (PP in
+			      (NP the evolutionary process)))))))
+    ,
+    (S (NP he)
+       (VP is
+	   (NP the only animal
+	       (PP with
+		   (NP a
+		       true (ADJP non-instinctive and conscious) creative
+		       ability))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP An animal)
+	,
+	(NP bird) 
+	or 
+	(NP insect))
+    (VP creates
+	(NP  either
+	     a burrow
+	     ,
+	     or
+	     nest or hive)
+	(PP in
+	    (NP unending sameness))
+	(VP according
+	    (PP to
+		(NP specie)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Man)
+	 's great superiority
+	 (PP over
+	     (NP these evolutionary forbears)))
+     (VP is
+	 (PP in
+	     (NP the development
+		 (PP of
+		     (NP his imagination))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (VP gives
+	 (NP him)
+	 (NP (NP the power)
+	     (S (S (NP *)
+		   (AUX to)
+		   (VP form
+		       (PP in
+			   (NP his mind))
+		       (NP new image combinations
+			   (PP of
+			       (NP (NP old memories)
+				   ,
+				   (NP ideas)
+				   and 
+				   (NP experiences))))))
+		and
+		(S (NP *)
+		   (AUX to)
+		   (VP project
+		       (NP them)
+		       (PP outside
+			   (PP of
+			       (NP himself)))
+		       (PP into
+			   (NP his environment))
+		       (PP in
+			   (NP (ADJP new and (ADJP ever-changing)) forms))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-5 *pseudo-attach*))
+    (AUX has)
+    (VP been
+	(ADVP truly)
+	(VP said))
+    (SBAR-5 that
+	    (S (NP (NP anything)
+		   (SBAR 0
+			 (S (NP man)
+			    (AUX can)
+			    (VP imagine))))
+	       (S (NP he)
+		  (AUX can)
+		  (VP produce or create
+		      (NP T)
+		      (PP by
+			  (S  (NP *) 
+			      (VP projecting
+				  (NP this inner image)
+				  (PP into
+				      (NP its counterpart
+					  (PP in
+					      (NP the objective world))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP our own time))
+     (S (NP we)
+	(AUX have)
+	(VP seen
+	    (NP the
+		(ADJP most fantastic)
+		imagery
+		(PP of
+		    (NP a Jules Verne)))
+	    (VP come
+		(PP into
+		    (NP actuality))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The vision
+	     (PP of
+		 (NP a Lord Tennyson)))
+	 (VP expressed
+	     (PP in
+		 (NP a poem ))
+	     (ADVP (NP  100
+			years)
+		   ago)))
+     (VP took
+	 (NP visible form)
+	 (PP over
+	     (NP London))
+	 (PP in
+	     (NP the air blitzes
+		 (PP of
+		     (NP 1941))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP fact))
+     (S (NP all
+	    (PP of
+		(NP our civilized world)))
+	(VP is
+	    (NP the resultant
+		(PP of
+		    (NP (NP man)
+			's projection
+			(PP of
+			    (NP his imagination))
+			(PP over
+			    (NP (NP the
+				    past
+				    60 centuries)
+				or
+				(NP more)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (PP in
+	   (NP this one aspect)))
+   ,
+   (PP at
+       (ADJP least))
+   ,
+   (SBAR-1 that
+	   (S (NP man)
+	      (VP seems
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (VP made
+			     (PP in
+				 (NP the image
+				     (PP of
+					 (NP his Creator)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (CONJP Not
+	     only)
+      (SINV (AUX can)
+	    (NP man)
+	    (VP project
+		(NP his imagination)
+		(PP out
+		    (PP into
+			(NP his environment)))
+		(PP in
+		    (NP concrete forms))))
+      ,
+      but
+      (ADVP  even
+	     more importantly)
+      ,
+      (S (NP he)
+	 (AUX can)
+	 (VP turn
+	     (NP it)
+	     (ADVP inward))
+	 (S (NP *)
+	    (AUX to)
+	    (VP help
+		(VP create
+		    (NP (ADJP  new
+			       and
+			       better)
+			forms
+			(PP of
+			    (NP himself))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (VP recognize
+	 (SBAR that
+	       (S (NP young people)
+		  (PP through
+		      (NP imaginative mind and body training))
+		  (AUX can)
+		  (VP become
+		      (NP (NP athletes)
+			  ,
+			  (NP acrobats)
+			  ,
+			  (NP dancers)
+			  ,
+			  (NP musicians) 
+			  and 
+			  (NP artists)))
+		  ,
+		  (S  (NP *) 
+		      (VP developing
+			  (NP many potentialities)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (VP know
+	 (SBAR that
+	       (S (NP actors)
+		  (AUX can)
+		  (VP learn
+		      (S (NP *)
+			 (AUX to)
+			 (VP portray
+			     (NP a wide variety
+				 (PP of
+				     (NP character roles))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP this same combination
+	    (PP of
+		(NP (NP the will)
+		    and
+		    (NP the imagination)))))
+    ,
+    (S (NP each one
+	   (PP of
+	       (NP us)))
+       (AUX can)
+       (VP learn
+	   (S (NP *)
+	      (AUX to)
+	      (VP portray
+		  (ADVP permanently)
+		  (NP (NP the kind
+			  (PP of
+			      (NP character)))
+		      (SBAR 0
+			    (S (NP we)
+			       (AUX would)
+			       (VP like
+				   (S (NP *)
+				      (AUX to)
+				      (VP be
+					  (NP T) )))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (AUX must)
+     (VP realize
+	 (PP with
+	     (NP Prof. Charles Morris))
+	 (PP in
+	     (NP his
+		 (NP The Open Self)))
+	 (SBAR that
+	       ``
+	       (S (NP Man)
+		  (VP is
+		      (NP (NP (NP the being)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (AUX can)
+				       (ADVP continually)
+				       (VP remake
+					   (NP himself)))))
+			  ,
+			  (NP (NP the artisan)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP is
+					   (NP himself)
+					   (NP the material
+					       (PP for
+						   (NP his own creation))))))))))
+	       '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So
+	    far)
+      (PP in
+	  (NP history))
+      (S (NP man)
+	 (AUX has)
+	 (VP been
+	     (ADJP (ADVP  too
+			  greatly)
+		   over-occupied
+		   (PP with
+		       (S (S  (NP *)
+			      (VP projecting
+				  (NP things)
+				  (PP into
+				      (NP his environment))))
+			  (ADVP rather
+				(PP than  
+				    (S (ADVP first)
+				       (S (NP *)
+					  (VP creating
+					      (NP (NP the sort
+						      (PP of
+							  (NP person)))
+						  (SBAR (WHNP who)
+							(S (NP T)
+							   (AUX can)
+							   (VP make
+							       (NP the
+								   highest
+								   use
+								   (PP of
+								       (NP (NP the things)
+									   (SBAR 0
+										 (S (NP he)
+										    (AUX has)
+										    (VP created
+											(NP T) ))) ))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ (VP Is)
+      (NEG not)
+      (NP the present world crisis)
+      (NP a race
+	  (PP (PP between
+		  (NP (NP things)
+		      (SBAR (SBAR 0
+				  (S (NP we)
+				     (AUX have)
+				     (VP created
+					 (NP T))))
+			    (SBAR (WHNP which)
+				  (S (NP T)
+				     (AUX can)
+				     (ADVP now)
+				     (VP destroy
+					 (NP us)))))))
+	      and
+	      (PP between
+		  (NP populations
+		      (PP of
+			  (NP sufficient wisdom and character
+			      (S (NP *)
+				 (AUX to)
+				 (VP forestall
+				     (NP the tragedy))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (VP Is)
+     (NP it
+	 (S-6 *pseudo-attach*))
+     (NEG not)
+     (NP the obligation
+	 (PP of
+	     (NP us
+		 older
+		 citizens)))
+     (S-6 (S (NP *)
+	   (AUX to)
+	   (VP lend
+	       (NP our weight)
+	       (PP to
+		   (S  (NP *) 
+		       (VP being
+			   (ADJP creative)
+			   (PP on
+			       (NP the character side)))))))
+	and
+	(S (NP *)
+	   (AUX to)
+	   (VP hasten
+	       (NP our
+		   own
+		   maturing
+		   process)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Sir Julian Huxley)
+    (PP in
+	(NP (NP his book)
+	    (NP Uniqueness
+		(PP Of
+		    (NP Man)))))
+    (VP makes
+	(NP the novel point
+	    (SBAR that
+		  (S (PP (ADVP just)
+			 as
+			 (S (NP man)
+			    (VP is
+				(ADJP unique)
+				(PP in
+				    (S  (NP *)
+					(VP being
+					    (NP (NP the only animal)
+						(SBAR (WHNP which)
+						      (S (NP T)
+							 (VP requires
+							     (NP a long period
+								 (PP of
+								     (NP  infancy 
+									  and 
+									  childhood
+									  (PP under
+									      (NP family protection)))))))))))))))
+		     ,
+		     (SINV (ADVP so)
+			   (SINV (VP is)
+				 (NP he)
+				 (NP (NP the only animal)
+				     (SBAR (WHNP who)
+					   (S (NP T)
+					      (VP has
+						  (NP a long period)
+						  (PP after
+						      (NP the decline
+							  (PP of
+							      (NP his procreativity)))))))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

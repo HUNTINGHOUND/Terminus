@@ -1,0 +1,2451 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Mr. Dooley)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mr. Speaker)
+    ,
+    (S (PP for
+	   (NP (ADJP several) 
+	       years
+	       (ADVP now)))
+       (S (NP (NP the commuter railroads)
+	      (VP serving
+		  (S (NP our
+			 (ADJP large)
+			 (ADJP metropolitan)
+			 areas))))
+	  (AUX have)
+	  (VP found
+	      (NP it)
+	      (ADJP (ADVP increasingly)
+		    difficult)
+	      (S (NP *)
+		 (AUX to)
+		 (VP render
+		     (NP (NP the kind
+			     (PP of
+				 (NP service)))
+			 (SBAR 0
+			       (S (NP our expanding population)
+				  (X (VP wants
+					  (NP T))
+				      and
+				      (X (AUX is)
+					 (VP entitled
+					     (S (NP *)
+						(AUX to)
+						(VP have
+						    (NP T)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S
+       (NP The causes
+	   (PP of
+	       (NP the decline
+		   (PP of
+		       (NP the commuter railroads)))))
+       (VP are
+	   (X  (NP many)
+	       and
+	       (ADJP complex))))
+      --
+      (X (NP (NP (ADJP high)
+		 taxes)
+	     ,
+	     (NP losses
+		 (PP of
+		     (NP revenue))
+		 (PP to
+		     (NP (ADJP Government
+			       subsidized)
+			 highway and air carriers))))
+	 ,
+	 (S (NP *)
+	    (AUX to)
+	    (VP name
+		(NP (ADVP but)
+		    two)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S And
+     (S (NP the solutions
+	    (PP to
+		(NP the problems
+		    (PP of
+			(NP the commuter lines)))))
+	(AUX have)
+	(VP been
+	    (ADVP equally)
+	    (VP varied))
+	,
+	(S (NP *)
+	   (VP ranging
+	       (NP all
+		   the way
+		   (PP (PP from
+			   (NP Government ownership))
+		       (PP to
+			   (NP (ADJP complete) 
+			       discontinuance
+			       (PP of
+				   (NP this 
+				       (ADJP important) 
+				       service))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX have)
+   (VP been
+       (NP a number
+	   (PP of
+	       (NP (NP (ADJP sound)
+		       plans)
+		   (VP proposed))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP none
+	     (PP of
+		 (NP these)))
+	 (AUX has)
+	 (VP been
+	     (VP implemented
+		 ))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Instead)
+     (S (NP we)
+	(X (X (AUX have)
+	      (VP  stood
+		   (ADVP idly)
+		   (ADVP by)))
+	   ,
+	   (VP watched
+	       (NP our commuter railroad service)
+	       (VP decline))
+	   ,
+	   and
+	   (X (AUX have)
+	      (VP failed
+		  (S (NP *)
+		     (AUX to)
+		     (VP offer
+			 (NP a helping hand))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR Though
+	    (S (NP the number
+		   (PP of
+		       (NP (NP people)
+			   (VP flowing
+			       (PP in and out
+				   (PP of
+				       (NP our 
+					   (ADJP metropolitan 
+						 areas))))
+			       (ADVP (NP each day))))))
+	       (AUX has)
+	       (VP increased
+		   (ADVP tremendously)
+		   (PP since
+		       (NP World War 2)))))
+      ,
+      ,
+      (S (NP total 
+	     (ADJP annual)
+	     rail commutation)
+	 (VP dropped
+	     (NP 124 million
+		 (PP for
+		     (NP 1947
+			 (PP to
+			     (NP 1957))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Nowhere
+	    (PP-1 *pseudo-attach*))
+      (AUX has)
+      (NP this decline)
+      (VP been
+	  (ADJP  more
+		 (ADVP painfully)
+		 evident))
+      (PP-1 than
+	    (PP in
+		(NP the 
+		    (NP New York City) 
+		    area))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Here)
+     (S (NP (NP the New York Central Railroad)
+	    ,
+	    (NP one
+		(PP of
+		    (NP 
+		     (NP the Nation)
+		     's
+		     (ADJP most important)
+		     carriers)))
+	    ,)
+	(AUX has)
+	(ADVP alone)
+	(VP lost
+	    (NP 47.6 percent
+		(PP of
+		    (NP its passengers)))))
+     (PP since
+	 (NP 1949)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP this time
+	    (PP of
+		(NP crisis
+		    (PP in
+			(NP 
+			 (NP our Nation)
+			 's commuter railroads))))))
+    ,
+    (S (NP a 
+	   (ADJP new) 
+	   threat
+	   (PP to
+	       (NP the 
+		   (ADJP continued) 
+		   operations
+		   (PP of
+		       (NP the New York Central)))))
+       (AUX has)
+       (VP appeared
+	   (PP in
+	       (NP the form
+		   (PP of
+		       (NP (NP the Chesapeake
+			       &
+			       Ohio Railroad)
+			   's proposal
+			   (PP for
+			       (NP control
+				   (PP of
+				       (NP the Baltimore
+					   &
+					   Ohio railroads)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The New York Central)
+    (AUX has)
+    (VP pointed
+	(PRT out)
+	(SBAR that
+	      (S (NP (NP this control)
+		     ,
+		     (PP if
+			 (S (NP *)
+			    (VP approved
+				(PP by
+				    (NP the 
+					(ADJP Interstate) 
+					Commerce Commission))))))
+		 ,
+		 (AUX would)
+		 (VP give
+		     (NP the
+			 (ADJP combined)
+			 (NP C.
+			     &
+			     O.)
+			 -
+			 (NP B.
+			     &
+			     O.)
+			 Railroad)
+		     (NP a total
+			 (PP of
+			     (VP (NP 185 points)
+				 (VP served
+				     (PP in
+					 (NP common
+					     (PP with
+						 (NP the New York Central)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (CONJP Not
+	     only)
+      (SINV (VP is)
+	    (NP this kind
+		(PP of
+		    (NP duplication)))
+	    (ADJP wasteful))
+      ,
+      (CONJP but)
+      (S (NP it)
+	 (VP gives
+	     (NP the 
+		 (ADJP combined) 
+		 system)
+	     (NP the ability
+		 (S (NP *)
+		    (AUX to)
+		    (VP take
+			(NP freight traffic)
+			(ADVP away
+			      (PP from
+				  (NP (NP the New York Central)
+				      and
+				      (NP (NP (ADJP other) 
+					      railroads)
+					  (VP serving
+					      (NP the area))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The New York Central)
+   (VP notes
+       :
+       (SBAR 0)  ``
+	     (S (NP (NP The freight traffic)
+		    (ADJP most susceptible
+			  (PP to
+			      (NP  raiding
+				   (PP by
+				       (NP  the 
+					    (NP C.
+						&
+						O.)
+					    -
+					    (NP B.
+						&
+						O.)))))))
+		(VP provides
+		    (NP the backbone
+			(PP of
+			    (NP 
+			     (NP Central)
+			     's revenues)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These revenues)
+   (VP make
+       (NP it)
+       (ADJP possible)
+       (S (NP *)
+	  (AUX to)
+	  (VP provide
+	      (NP (ADJP essential) 
+		  freight and passenger service
+		  (PP over
+		      (NP (NP the
+			      (ADJP entire)
+			      New York Central system)
+			  (ADVP as
+				well
+				(PP as
+				    (NP the New York area commuter
+					and
+					terminal freight services))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP these services)
+	  (VP are
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (VP maintained))))))
+   ,
+   (S (NP the New York Central)
+      (AUX must)
+      (VP have
+	  (NP the revenues
+	      (S (NP *)
+		 (AUX to)
+		 (VP make
+		     (NP them
+			 (ADJP possible))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The New York Central)
+   (ADVP (NP today))
+   (VP handles
+       (NP 60 percent
+	   (PP of
+	       (NP (NP all 
+		       (ADJP southbound) 
+		       commuter traffic)
+		   (VP coming
+		       (PP into
+			   (NP New York City))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP  a
+	   (NP $ 14
+	       million operation)
+	   (VP involving
+	       (NP (NP 3,500 employees)
+		   (SBAR
+		    (WHNP who)
+		    (S (NP T)
+		       (VP work
+			   (PP on
+			       (NP commuter traffic))
+			   (ADVP exclusively)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A blow
+       (PP to
+	   (NP this phase
+	       (PP of
+		   (NP 
+		    (NP the Central)
+		    's operations)))))
+   (AUX would)
+   (VP have
+       (NP 
+	(ADJP serious)
+	(ADJP economic)
+	consequences
+	(PP  (CONJP not
+		    only)
+	    (PP to
+		(NP (NP the railroad)
+		    (NP itself)))
+	    ,
+	    (CONJP but)
+	    (PP to
+		(NP (NP the 40,000 people
+			(PP per
+			    (NP day)))
+		    (SBAR
+		     (WHNP who)
+		     (S (NP T)
+			(AUX are)
+			(VP provided
+			    (PP with
+				(NP (ADJP efficient)
+				    ,
+				    (ADJP (ADVP reasonably)
+					  priced)
+				    transportation
+				    (PP in and out
+					(PP of
+					    (NP the city))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (S ``
+	 (NP There)
+	 (VP is
+	     (NP a 
+		 (ADJP workable)
+		 alternative
+		 (PP to
+		     (NP this
+			 (ADJP (ADVP potentially)
+			       dangerous 
+			       and 
+			       harmful)
+			 (NP C.
+			     &
+			     O.)
+			 -
+			 (NP B.
+			     &
+			     O.)
+			 merger scheme))))
+	 '')
+      --
+      (S (NP The Central)
+	 (AUX has)
+	 (VP pointed
+	     (PRT out))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S ``
+     (NP The logic
+	 (PP of
+	     (S (NP *)
+		(VP creating
+		    (NP a
+			(ADJP strong)
+			,
+			(ADJP balanced)
+			,
+			(ADJP competitive)
+			two-system
+			railroad service
+			(PP in
+			    (NP the East)))))))
+     (VP is
+	 (ADJP (ADVP so)
+	       obvious
+	       (SBAR that
+		     (S (NP B.
+			    &
+			    O.)
+			(AUX was)
+			(ADVP publicly)
+			(VP committed
+			    (PP to
+				(NP (NP the approach)
+				    (VP outlined
+					(ADVP here))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Detailed)
+	 studies
+	 (PP of
+	     (NP the plan)))
+     (VP were
+	 (ADJP (ADVP well)
+	       underway)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Though
+	(ADJP far
+	      (PP from
+		  (NP completion))))
+    ,
+    (S (NP these studies)
+       (VP indicated
+	   (PP beyond
+	       (NP a doubt))
+	   (SBAR that
+		 (S (NP (NP savings)
+			(SBAR-2 *pseudo-attach*))
+		    (AUX would)
+		    (VP result)
+		    (SBAR-2
+		     (WHNP which)
+		     (S (NP T)
+			(AUX would)
+			(VP be
+			    (PP of
+				(NP (ADJP unprecedented) 
+				    benefit
+				    (PP (PP to
+					    (NP (NP (NP the railroads)
+						    (VP concerned))
+						,
+						(NP their investors)
+						,
+						(NP their customers)
+						,
+						(NP their users)
+						,))
+					and
+					(PP to
+					    (NP the public
+						(PP at
+						    (NP (ADJP large))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Then)
+     ,
+     (S (S (NP *)
+	   (VP abandoning
+	       (NP the studies)
+	       (PP in
+		   (NP the face
+		       (PP of
+			   (NP their 
+			       (ADJP promising) 
+			       outlook
+			       (PP for
+				   (NP (NP all)
+				       (ADJP concerned)))))))))
+	,
+	(NP B.
+	    &
+	    O.)
+	(VP entered
+	    (NP (NP (ADJP on-again-off-again) 
+		    negotiations
+		    (PP with
+			(NP C.
+			    &
+			    O.)))
+		(SBAR
+		 (WHNP which)
+		 (S (NP T)
+		    (VP resulted
+			(PP in
+			    (NP the 
+				(ADJP present)
+				situation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the light
+	    (PP of
+		(NP the facts
+		    (PP at
+			(NP hand))))))
+    ,
+    (ADVP however)
+    ,
+    (S (NP New York Central)
+       (VP intends
+	   (S (NP *)
+	      (AUX to)
+	      (VP pursue
+		  (NP the objective
+		      (PP of
+			  (S (NP *)
+			     (VP helping
+				 (S (NP *)
+				    (AUX to)
+				    (VP create
+					(NP a
+					    (ADJP healthy)
+					    two-system
+					    (ADJP eastern)
+					    railroad structure
+					    (PP in
+						(NP the
+						    (ADJP public) 
+						    interest))))))))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Interstate Commerce Commission)
+   (AUX will)
+   (VP commence
+       (NP its deliberations
+	   (PP on
+	       (NP the
+		   (ADJP proposed)
+		   (NP C.
+		       &
+		       O.)
+		   -
+		   (NP B.
+		       &
+		       O.)
+		   merger))))
+   (PP on
+       (NP June 18)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Obviously)
+     ,
+     (S (NP the Interstate Commerce Commission)
+	(AUX will)
+	(NEG not)
+	(VP force
+	    (NP the New York Central
+		(S  (NP *)
+		    (AUX to)
+		    (ADVP further)
+		    (VP curtail
+			(NP its commuter operations)
+			(PP by
+			    (S (NP *)
+			       (VP giving
+				   (NP 
+				    (ADJP undue)
+				    (ADJP competitive)
+				    advantages)
+				   (PP to
+				       (NP (NP the lines)
+					   (SBAR that
+						 (S  (NP T) 
+						     (VP wish
+							 (S (NP *)
+							    (AUX to)
+							    (VP merge))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (NP there)
+	(VP is
+	    (NP a
+		(ADJP (ADVP more)
+		      profound)
+		consideration
+		(PP to
+		    (NP this proposed merger))
+		(PP than
+		    (NP (NP profit) 
+			and 
+			(NP loss)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP That)
+       (VP is))
+    ,
+    (SQ (AUX will)
+	(NP it)
+	(VP serve
+	    (NP the 
+		(ADJP long-range) 
+		(ADJP public)
+		interest))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP the
+	    (ADJP past)
+	    40 years))
+    (S (NP Congress)
+       (AUX has)
+       (VP advocated
+	   (NP a
+	       (ADJP (ADJP (ADVP carefully)
+			   planned)
+		     ,
+		     (ADJP balanced)
+		     and
+		     (ADJP competitive))
+	       railway system))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (AUX must)
+      (VP ask
+	  (NP ourselves)
+	  (SBAR
+	   (WHNP which
+		 (WHPP of
+		     (WHNP (WHNP the two alternatives)
+			 (NP-4 *pseudo-attach*))))
+	   (S (NP T)
+	      (AUX will)
+	      (VP help
+		  (NP the commuter))))))
+     --
+     (NP-4 (NP the
+	       (ADJP two-way)
+	       (NP B.
+		   &
+		   O.)
+	       -
+	       (NP C.
+		   &
+		   O.)
+	       merger)
+	   ,
+	   or
+	   (NP the
+	       (ADJP three-way)
+	       (NP New York Central)
+	       -
+	       (NP B.
+		   &
+		   O.)
+	       -
+	       (NP C.
+		   &
+		   O.)
+	       merger)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP Which)
+  (SQ (NP T)
+      (AUX will)
+      (VP serve
+	  (NP   (CONJP  not
+			only)
+		(NP the
+		    (ADJP best)
+		    interest
+		    (PP of
+			(NP the stockholders)))
+		,
+		(CONJP but)
+		(NP the interests
+		    (PP of
+			(NP all
+			    the traveling public)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Mr. Lindsay)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mr. Speaker)
+    ,
+    (S (NP I)
+       (VP rise
+	   (ADVP (NP today))
+	   (S (NP *)
+	      (AUX to)
+	      (VP pay
+		  (NP tribute)
+		  (PP to
+		      (NP (NP a
+			      (ADJP great) 
+			      newspaper)
+			  ,
+			  (NP the New York Times)
+			  ,))
+		  (PP on
+		      (NP the occasion
+			  (PP of
+			      (NP a 
+				  (ADJP major) 
+				  change
+				  (PP in
+				      (NP its 
+					  (ADJP top) 
+					  (ADJP executive)
+					  command)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Arthur Hays Sulzberger)
+      (AUX has)
+      (VP been
+	  (NP a 
+	      (ADJP distinguished) 
+	      publisher
+	      (PP of
+		  (NP this 
+		      (ADJP distinguished) 
+		      newspaper)))))
+     and
+     (S (NP it
+	    (SBAR-1 *pseudo-attach*))
+	(VP is
+	    (ADJP fitting))
+	(SBAR-1 that
+	      (S (NP we)
+		 (VP take
+		     (NP (ADJP due) 
+			 notice
+			 (PP of
+			     (NP his 
+				 (ADJP major) 
+				 contribution
+				 (PP to
+				     (NP (ADJP American) 
+					 journalism))))))
+		 (PP on
+		     (NP the occasion
+			 (PP of
+			     (NP his retirement))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX am)
+   (VP pleased
+       (S (NP *)
+	  (AUX to)
+	  (VP note
+	      (SBAR that
+		    (S (NP Mr. Sulzberger)
+		       (AUX will)
+		       (VP continue
+			   (S (NP *)
+			      (AUX to)
+			      (VP serve
+				  (PP as
+				      (NP chairman
+					  (PP of
+					      (NP the board
+						  (PP of
+						      (NP the New York Times)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mr. Sulzberger)
+    's successor
+    (PP as
+	(NP publisher)))
+   (VP is
+       (NP (NP Mr. Orvil E. Dryfoos)
+	   ,
+	   (SBAR (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (VP is
+			 (NP president
+			     (PP of
+				 (NP the New York Times Co.))))))
+		 ,
+		 and
+		 (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (AUX has)
+		     (VP been
+			 (PP with
+			     (NP the Times))
+			 (PP since
+			     (NP 1942)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mr. Dryfoos)
+    ' 
+    (ADJP outstanding)
+    career
+    (PP as
+	(NP a journalist)))
+   (VP guarantees
+       (SBAR that
+	     (S (NP (NP the 
+			(ADJP high) 
+			standards)
+		    (SBAR
+		     (WHNP which)
+		     (S (NP T)
+			(AUX have)
+			(VP made
+			    (NP the Times)
+			    (NP one
+				(PP of
+				    (NP 
+				     (NP the world)
+				     's 
+				     (ADJP great) 
+				     newspapers)))
+			    (AUX will)
+			    (VP be
+				(VP maintained
+				    ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX am)
+   (ADVP also)
+   (VP pleased
+       (S (NP *)
+	  (AUX to)
+	  (VP note
+	      (SBAR that
+		    (S (NP (NP Mr. John B. Oakes)
+			   ,
+			   (NP a member
+			       (PP of
+				   (NP the Times staff))
+			       (PP since
+				   (NP 1946)))
+			   ,)
+		       (AUX has)
+		       (VP been
+			   (VP appointed
+			       (PP as
+				   (NP (ADJP editorial) 
+				       page editor))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mr. Oakes)
+   (VP succeeds
+       (NP (NP (NP Charles Merz)
+	       ,
+	       (NP editor
+		   (PP since
+		       (NP 1938))))
+	   ,
+	   (SBAR 
+	    (WHNP who
+		  (S (NP T)
+		     (ADVP now)
+		     (VP becomes
+			 (NP editor
+			     (ADJP emeritus)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX should)
+   (VP like
+       (PP at
+	   (NP this time))
+       ,
+       (NP Mr. Speaker)
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP pay
+	      (NP (ADJP warm) 
+		  tribute)
+	      (PP to
+		  (NP (NP Arthur Hays Sulzberger)
+		      and
+		      (NP Charles Merz)))
+	      (PP on
+		  (NP the occasion
+		      (PP of
+			  (NP their retirement
+			      (PP from
+				  (NP (ADJP distinguished)
+				      careers
+				      (PP in
+					  (NP (ADJP American) 
+					      journalism))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP My
+       (ADJP heartiest)
+       congratulations)
+   (VP go
+       (PP to
+	   (NP (NP (NP their successors)
+		   ,
+		   (NP (NP Orvil E. Dryfoos)
+		       and
+		       (NP John B. Oakes)))
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (AUX can)
+		   (VP be
+		       (VP counted
+			   (PRT upon)
+			   (S (NP *)
+			      (AUX to)
+			      (VP sustain
+				  (NP the 
+				      (ADJP illustrious) 
+				      tradition
+				      (PP of
+					  (NP the New York Times)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The people
+	   (PP of
+	       (NP the
+		   (ADJP 17th)
+		   District
+		   (PP of
+		       (NP New York)))))
+       ,
+       and
+       (NP I
+	   (PP as
+	       (NP their Representative
+		   (PP in
+		       (NP Congress)))))
+       ,)
+   (VP take
+       (NP (ADJP great) 
+	   pride)
+       (PP in
+	   (NP the New York Times
+	       (PP as
+		   (NP one
+		       (PP of
+			   (NP the 
+			       (ADJP great and authoritative) 
+			       newspapers
+			       (PP of
+				   (NP the world))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Mr. Stratton)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mr. Speaker)
+    ,
+    (S (PP in
+	   (NP my
+	       (ADJP latest)
+	       newsletter
+	       (PP to
+		   (NP my constituents))))
+       (S (NP I)
+	  (VP urged
+	      (NP the imposition
+		  (PP of
+		      (NP a
+			  (ADJP naval)
+			  blockade
+			  (PP of
+			      (NP Cuba))))
+		  (PP as
+		      (NP the
+			  (ADVP only)
+			  (ADJP effective)
+			  method
+			  (PP of
+			      (S (NP *)
+				 (VP preventing
+				     (NP (ADJP continued)
+					 (ADJP Soviet) 
+					 armaments)
+				     (PP from
+					 (S  (NP *)
+					     (VP coming
+						 (PP into
+						     (NP the 
+							 (ADJP Western) 
+							 Hemisphere))
+						 (PP in
+						     (NP violation
+							 (PP of
+							     (NP the Monroe Doctrine)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Yesterday)
+      ,
+      (S (NP I)
+	 (VP had
+	     (NP the privilege
+		 (PP of
+		     (S (NP *)
+			(VP reading
+			    (NP (NP a 
+				    (ADJP thoughtful) 
+				    article
+				    (PP in
+					(NP the U.S. News
+					    &
+					    World Report
+					    (PP of
+						(NP May 8)))))
+				(SBAR
+				 (WHNP which)
+				 (S (NP T)
+				    (VP discussed
+					(NP this type
+					    (PP of
+						(NP action)))
+					(PP in
+					    (NP 
+					     (ADJP more)
+					     detail)))
+				    ,
+				    (S (NP *)
+				       (VP including
+					   (NP both
+					       (NP its advantages)
+					       and
+					       (NP its disadvantages))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Under
+	(NP leave
+	    (S (NP *)
+	       (AUX to)
+	       (VP extend
+		   (NP my remarks)))))
+    ,
+    (S (S (NP I)
+	  (VP include
+	      (NP (NP the 
+		      (ADJP relevant)
+		      portion
+		      (PP of
+			  (NP my newsletter)))
+		  ,
+		  (ADVP together
+			(PP with
+			    (NP the text
+				(PP of
+				    (NP the article
+					(PP from
+					    (NP the U.S. News
+						&
+						World Report))))))))))
+       :
+       (S ``
+	  (NP (NP your Congressman)
+	      ,
+	      (NP Samuel S. Stratton)
+	      ,)
+	  (VP reports
+	      (PP from
+		  (NP Washington)))
+	  ,
+	  (NP (NP May) 1 
+	      , 
+	      (NP 1961)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Cuban S.S.R.))
+(  
+ :
+ (S (SBAR 
+     (WHNP Whatever)
+     (S (NP T)
+	(AUX may)
+	(VP have
+	    (VP been
+		(NP (NP the setbacks)
+		    (VP resulting
+			(PP from
+			    (NP the 
+				(ADJP unsuccessful)
+				attempt
+				(PP of
+				    (NP the
+					(ADJP Cuban) 
+					rebels))
+				(S (NP *)
+				   (AUX to)
+				   (VP establish
+				       (NP a beachhead)
+				       (PP on
+					   (NP the 
+					       (ADJP Castro-held) 
+					       mainland)))
+				   (NP (ADJP last)
+				       week))))))))))
+    ,
+    (S (S (NP there)
+	  (VP was
+	      (PP at
+		  (NP (ADJP least)))
+	      (NP one 
+		  (ADJ positive) 
+		  benefit)))
+       ,
+       and
+       (S (NP that)
+	  (VP was
+	      (NP the
+		  (ADJP clear-cut)
+		  revelation
+		  (PP to
+		      (NP the 
+			  (ADJP whole) 
+			  world
+			  (PP of
+			      (NP the 
+				  (ADJP complete)
+				  conversion
+				  (PP of
+				      (NP Cuba))
+				  (PP into
+				      (NP a
+					  (ADJP Russian-dominated)
+					  (ADJP military)
+					  base)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP fact))
+    ,
+    (S (NP one
+	   (PP of
+	       (NP the 
+		   (ADJP major) 
+		   reasons
+		   (PP for
+		       (NP the failure
+			   (PP of
+			       (NP the 
+				   (ADJP ill-starred)
+				   expedition)))))))
+       (VP appears
+	   (S (NP *)
+	      (AUX to)
+	      (VP have
+		  (VP been
+		      (NP a lack
+			  (PP of
+			      (NP (ADJP full) 
+				  information
+				  (PP on
+				      (NP (NP the extent)
+					  (SBAR (WHPP to
+						      (WHNP which))
+						(S
+						 (NP Cuba)
+						 (AUX has)
+						 (VP been
+						     (VP getting
+							 (NP this 
+							     (ADJP Russian) 
+							     (ADJP military) 
+							     equipment))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Somehow)
+     ,
+     (S (NP the pictures and stories
+	    (PP of
+		(NP (NP Soviet T-34 tanks
+			(PP on
+			    (NP (ADJP Cuban) 
+				beaches)))
+		    and
+		    (NP (NP (ADJP Russian)
+			    Mig jet fighters)
+			(VP strafing
+			    (NP rebel troops))))))
+	(AUX has)
+	(VP brought
+	    (ADVP (NP home))
+	    (PP to
+		(NP all
+		    (PP of
+			(NP us))))
+	    (NP the
+		(ADJP stark
+		      ,
+		      blunt)
+		truth
+		(PP of
+		    (SBAR (WHNP what)
+			  (S (NP it)
+			     (VP means
+				 (NP T)
+				 (S (NP *)
+				    (AUX to)
+				    (VP have
+					(NP a 
+					    (ADJP Russian) 
+					    (ADJP military)
+					    base)
+					(NP (NP 90 miles)
+					    (ADVP away
+						  (PP from
+						      (NP home))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Russian) 
+	tanks and planes
+	(PP in
+	    (NP Cuba)))
+    (VP (VP jeopardize
+	    (NP the security
+		(PP of
+		    (NP the United States))))
+	,
+	(VP violate
+	    (NP the Monroe Doctrine))
+	,
+	and
+	(VP threaten
+	    (NP the security
+		(PP of
+		    (NP every
+			(ADJP other)
+			(ADJP Latin
+			      American) 
+			republic))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Once
+	   (S (NP the 
+		  (ADJP full) 
+		  extent
+		  (PP of
+		      (NP this 
+			  (ADJP Russian) 
+			  (ADJP military) 
+			  penetration
+			  (PP of
+			      (NP Cuba)))))
+	      (VP was
+		  (ADJP clear))))
+     ,
+     (S (NP President Kennedy)
+	(VP announced
+	    (SBAR 0
+		  (S  (NP we)
+		      (AUX would)
+		      (VP take
+			  (SBAR
+			   (WHNP whatever action)
+			   (S (NP T)
+			      (VP was
+				  (ADJP appropriate
+					(S (NP *)
+					   (AUX to)
+					   (VP prevent
+					       (NP this))))))))
+		      ,
+		      (SBAR (ADVP even)
+			    if
+			    (S (NP we)
+			       (VP had
+				   (S (NP *)
+				      (AUX to)
+				      (VP go
+					  (NP it)
+					  (ADVP alone)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP (NP the 
+		(ADJP Latin American) 
+		republics)
+	    (SBAR 
+	     (WHNP who)
+	     (S (NP T)
+		(AUX have)
+		(VP been
+		    (ADVP rather)
+		    (VP inclined
+			(S (NP *)
+			   (AUX to)
+			   (VP drag
+			       (NP their feet)
+			       (PP on
+				   (S (NP *)
+				      (VP taking
+					  (NP action
+					      (PP against
+						  (NP Castro)))))))))))))
+	(ADVP also)
+	(VP reacted
+	    (ADVP swiftly)
+	    (NP (ADJP last) 
+		week)
+	    (PP by
+		(ADVP finally)
+		(S (NP *)
+		   (VP throwing
+		       (NP Cuba)
+		       (PP off
+			   (NP the Inter-American Defense Board))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP years))
+     (S (NP the United States)
+	(AUX had)
+	(VP been
+	    (VP trying
+		(S (NP *)
+		   (AUX to)
+		   (VP get
+		       (NP these countries)
+		       (S (NP *)
+			  (AUX to)
+			  (VP exclude
+			      (NP 
+			       (NP Castro)
+			       's representative)
+			      (PP from
+				  (NP 
+				   (ADJP secret)
+				   (ADJP military)
+				   talks))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP it
+	    (S-2 *pseudo-attach*))
+        (VP took
+            (NP the pictures
+                (PP of
+		    (NP (NP the Migs)
+			and
+			(NP the T-34 tanks)))))
+	(S-2 (NP *)
+	   (AUX to)
+	   (VP do
+	       (NP the job)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a
+	   (ADJP new) 
+	   atmosphere
+	   (PP of
+	       (NP urgency))))
+   (PP in
+       (NP Washington))
+   (NP this week))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP You)
+       (AUX can)
+       (VP see
+	   (NP it)
+	   ,
+	   (PP for
+	       (NP example))
+	   ,
+	   (PP in
+	       (NP (NP (NP the
+			   (ADJP extensive) 
+			   efforts)
+		       (SBAR 0
+			     (S (NP President Kennedy)
+				(AUX has)
+				(VP made
+				    (NP T)
+				    (S (NP *)
+				       (AUX to)
+				       (VP enlist
+					   (NP 
+					    (ADJP solid)
+					    (ADJP bipartisan)
+					    support
+					    (PP for
+						(NP his actions
+						    (PP toward
+							(NP both
+							    (NP Cuba)
+							    and
+							    (NP Laos))))))))))))
+		   ;
+		   ;
+		   (NP (NP efforts)
+		       ,
+		       (PP as
+			   (S (NP I)
+			      (VP see
+				  (NP it))))
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX are)
+			   (VP being
+			       (VP directed
+				   ,
+				   (PP by
+				       (NP the way))
+				   ,
+				   (PP (PP toward
+					   (NP support
+					       (PP for
+						   (NP future actions))))
+				       ,
+				       (NEG not)
+				       (PP for
+					   (NP (NP those)
+					       (ADVP already)
+					       (ADJP past))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (SBAR (WHNP What)
+	       (S (NP the next move)
+		  (AUX will)
+		  (VP be
+		      (NP T)))))
+     (NP (ADVP only)
+	 time)
+     ,
+     (PP of
+	 (NP course))
+     ,
+     (AUX will)
+     (VP tell))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Personally)
+     ,
+     (S (NP I)
+	(VP think
+	    (SBAR 0
+		  (S (NP we)
+		     (VP ought 
+			 (S (NP *)
+			    (AUX to)
+			    (VP set
+				(PRT up)
+				(NP an
+				    (ADJP immediate)
+				    (ADJP naval)
+				    blockade
+				    (PP of
+					(NP Cuba)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP simply)
+   (AUX ca)
+   (NEG n't)
+   (VP tolerate
+       (NP (NP (NP 
+		(ADJP further)
+		(ADJP Russian)
+		weapons)
+	       ,
+	       (VP including
+		   (NP the possibility
+		       (PP of
+			   (NP 
+			    (ADJP long-range)
+			    (ADJP nuclear)
+			    missiles)))))
+	   ,
+	   (VP being
+	       (VP located
+		   (PP in
+		       (NP Cuba)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Obviously)
+     ,
+     (S (NP we)
+	(AUX ca)
+	(NEG n't)
+	(VP stop
+	    (NP them)
+	    (PP from
+		(S (NP *)
+		   (VP coming
+		       (ADVP in)))))
+	,
+	(ADVP however)
+	,
+	(ADVP just)
+	(PP by
+	    (NP talk))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A
+	(ADJP naval) 
+	blockade)
+    (X (X (AUX would)
+	  (VP be
+	      (ADVP thoroughly)
+	      (PP in
+		  (NP line
+		      (PP with
+			  (NP the Monroe Doctrine))))))
+       ,
+       (X (AUX would)
+	  (VP be
+	      (NP a
+		  (ADJP (ADVP relatively)
+			simple)
+		  operation
+		  (S (NP *)
+		     (AUX to)
+		     (VP carry
+			 (PRT out))))))
+       ,
+       and
+       (X (AUX would)
+	  (VP bring
+	      (NP an 
+		  (ADJP abrupt) 
+		  end
+		  (PP to
+		      (NP (ADJP Soviet) 
+			  penetration
+			  (PP of
+			      (NP our hemisphere ''.
+				  ``)))))))))
+ ((PP *LRB*
+     from
+     (NP (NP U.s
+	     .
+	     (NP News)
+	     &
+	     World Report
+	     ,)
+	 (NP (NP May 8) 
+	     , 
+	     (NP 1961)))
+     *RRB*))
+    (ADJP next
+	  (PP for
+	      (NP Cuba)))
+    :
+    (NP an arms
+	blockade)
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Look
+	  (PP at
+	      (NP (NP Castro
+		      (ADVP now))
+		  --
+		  (ADJP cockier
+			(PP than
+			    (NP ever))
+			(PP with
+			    (NP arms and agents
+				(S (NP *)
+				   (AUX to)
+				   (VP threaten
+				       (NP the Americas))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP How)
+  (SQ (AUX can)
+      (NP the United States)
+      (VP act)
+      ))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Blockade)
+   (VP is
+       (NP (NP one answer)
+	   (VP offered
+	       (PP by
+		   (NP experts))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP it))
+    (S (NP they)
+       (VP see
+	   (NP a way
+	       (S (NP *)
+		  (AUX to)
+		  (VP (VP isolate
+			  (NP Cuba))
+		      ,
+		      (VP stop
+			  (NP infiltration))
+		      ,
+		      (ADVP maybe)
+		      (VP finish
+			  (NP Castro)
+			  ,
+			  (ADVP too))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This)
+       (VP is
+	   (NP (NP the question)
+	       (ADVP now)
+	       (VP facing
+		   (NP President Kennedy)))))
+    :
+    (SBARQ (WHADVP How)
+	   (SQ (NP *)
+	       (AUX to)
+	       (VP put
+		   (NP a stop
+		       (PP (PP to
+			       (NP the 
+				   (ADJP Soviet) 
+				   buildup
+				   (PP in
+				       (NP Cuba))))
+			   and
+			   (PP to
+			       (NP (ADJP Communist) 
+				   infiltration
+				   (PP of
+				       (NP this hemisphere))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP April 25))
+    ,
+    (S (NP the White House)
+       (VP reported
+	   (SBAR that
+		 (S (NP a total embargo
+			(PP of
+			    (NP  remaining
+				 U.S. trade
+				 (PP with
+				     (NP Cuba)))))
+		    (AUX was)
+		    (VP being
+			(VP considered
+			    )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Its aim)
+     :
+     (S (NP *)
+	(AUX To)
+	(VP undermine
+	    (ADVP further)
+	    (NP 
+	     (NP Cuba)
+	     's economy))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Weaken
+	  (NP Castro))) 
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP (NP Another strategy)
+	 --
+	 (ADJP (ADJP bolder)
+	       and
+	       (ADJP tougher))
+	 --
+	 (NP-3 *pseudo-attach*))
+       (AUX was)
+       (ADVP also)
+       (VP attracting
+	   (NP notice
+	       (PP in
+		   (NP Washington))))
+    :
+    (NP-3 a
+	(ADJP naval)
+	and
+	air blockade
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP cut
+		   (NP Cuba)
+		   (PRT off)
+		   (PP from
+		       (NP the world)))
+	       ,
+	       (VP destroy
+		   (NP Castro))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Blockade)
+    ,
+    (PP in
+	(NP the view
+	    (PP of
+		(NP (ADJP military and civilian)
+		    experts))))
+    ,
+    (AUX could)
+    (VP restore
+	(NP teeth)
+	(PP to
+	    (NP the Monroe Doctrine))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX could)
+   (VP halt
+       (NP (NP a flood
+	       (PP of
+		   (NP (NP (ADJP Communist)
+			   arms)
+		       and
+		       (NP (ADJP strategic) 
+			   supplies))))
+	   (ADVP now)
+	   (VP reaching
+	       (NP Castro)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX could)
+   (VP stop
+       (NP (ADJP Cuban) 
+	   re-export
+	   (PP of
+	       (NP (NP guns) 
+		   and 
+		   (NP propaganda materials)))
+	   (PP to
+	       (NP South America)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP be
+       (NP (NP (NP the
+		   (ADJP most severe)
+		   reprisal)
+	       ,
+	       (ADJP short
+		     (PP of
+			 (NP (ADJP declared)
+			     war)))
+	       ,)
+	   (SBAR that
+		 (S (NP the United States)
+		    (AUX could)
+		    (VP invoke
+			(NP T)
+			(PP against
+			    (NP Castro))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP It)
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (NP the strategy
+	   (PP of
+	       (NP blockade))))
+   ,
+   (ADVP therefore)
+   ,
+   (SBAR-1 that
+	   (S  (NP T) 
+	       (VP is
+		   (ADVP suddenly)
+		   (PP at
+		       (NP the center
+			   (PP of
+			       (NP attention
+				   (PP of
+				       (NP (NP administration officials)
+					   ,
+					   (NP Members
+					       (PP of
+						   (NP Congress)))
+					   ,
+					   (NP officers
+					       (PP in
+						   (NP the Pentagon)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a 
+	    (ADJP possible) 
+	    course
+	    (PP of
+		(NP action))))
+    ,
+    (S (NP it)
+       (ADVP also)
+       (X (VP is
+	       (NP the center
+		   (PP of
+		       (NP debate))))
+	   and
+	   (X (AUX is)
+	      (VP raising
+		  (NP many questions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Among
+	(NP these questions))
+    :
+    (SBARQ 
+     (WHNP what)
+     (SQ (AUX would)
+	 (NP a Cuba blockade)
+	 (VP take
+	     (NP T)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Military) 
+	experts)
+    (VP say
+	(SBAR 0
+	      (S (NP a
+		     (ADJP tight)
+		     (ADJP naval)
+		     blockade
+		     (PP (PP off
+			     (NP (ADJP Cuban)
+				 ports))
+			 and
+			 (PP at
+			     (NP the approaches
+				 (PP to
+				     (NP (ADJP Cuban) 
+					 waters))))))
+		 (AUX would)
+		 (VP require
+		     (NP (NP  two 
+			      (ADJP naval) 
+			      task forces)
+			 ,
+			 (NP (NP each)
+			     (VP built
+				 (PP around
+				     (NP an aircraft carrier
+					 (PP with
+					     (NP a complement
+						 (PP of
+						     (NP (NP about
+							     100 planes)
+							 and
+							 (NP several destroyers)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Navy)
+    ,
+    (PP on
+	(NP April 25))
+    ,
+    (VP announced
+	(SBAR 0
+	      (S (NP it)
+		 (AUX is)
+		 (VP bringing
+		     (PRT back)
+		     (NP (NP the carrier)
+			 (NP Shangri-La))
+		     (PP from
+			 (NP the Mediterranean)))
+		 ,
+		 (S (NP *)
+		    (VP increasing
+			(PP to
+			    (NP four))
+			(NP the number
+			    (PP of
+				(NP attack carriers))
+			    (PP in
+				(NP the vicinity
+				    (PP of
+					(NP Cuba)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP More)
+	(PP than
+	    (NP 36 
+		(ADJP other)
+		(ADJP big) 
+		Navy ships)))
+    (VP are
+	(ADVP (NP (ADJP (NEG no)
+			less)
+		  (PP than
+		      (NP 
+		       (NP a day)
+		       's sailing time)))
+	      away)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP *)
+	 (AUX To)
+	 (VP round
+	     (PRT out)
+	     (NP the blockading force)))
+      ,
+      (S (NP submarines)
+	 (AUX would)
+	 (VP be
+	     (VP needed
+		 --
+		 (S (NP *)
+		    (AUX to)
+		    (VP locate
+			,
+			identify and track
+			(NP approaching
+			    vessels)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Land-based) 
+       radar)
+   (AUX would)
+   (VP help
+       (PP with
+	   (NP this task))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (ADVP So)
+	(AUX would)
+	(NP radar
+	    picket ships))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A squadron
+	    (PP of
+		(NP Navy jets)))
+	and
+	(NP another
+	    (PP of
+		(NP (ADJP long-range) 
+		    patrol planes))))
+    (AUX would)
+    (VP add
+	(NP support)
+	(PP to
+	    (NP the carrier task forces))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S 
+  (NP (NP Three requirements)
+      (S-2 *pseudo-attach*))
+     (VP go
+	 (PP with
+	     (NP a blockade)))
+    :
+    (S-2 (S (NP It)
+	    (AUX must)
+	    (VP be
+		(VP proclaimed)))
+	 ;
+	 ;
+	 (S (NP the blockading force)
+	    (AUX must)
+	    (VP be
+		(ADJP powerful
+		      (ADVP enough)
+		      (S (NP *)
+			 (AUX to)
+			 (VP enforce
+			     (NP it))))))
+	 ;
+	 ;
+	 and
+	 (S (NP it)
+	    (AUX must)
+	    (VP be
+		(VP enforced
+		    (PP without
+			(NP discrimination)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP Once
+	 (S (NP these conditions
+		(PP of
+		    (NP (ADJP international) 
+			law)))
+	    (AUX are)
+	    (VP met)))
+     ,
+     (S (NP (NP countries)
+	    (SBAR that
+		  (S (NP T)
+		     (VP try
+			 (S (NP *)
+			    (AUX to)
+			    (VP run
+				(NP the blockade)))))))
+	(VP do
+	    (ADVP so)
+	    (PP at
+		(NP their 
+		    (ADJP own) 
+		    risk)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Blockade runners)
+   (AUX can)
+   (VP be
+       (VP (VP stopped
+	       --
+	       (PP by
+		   (NP gunfire
+		       ,
+		       (PP if
+			   (ADJP necessary))))
+	       --)
+	   (VP (VP searched)
+	       and
+	       (VP held)
+	       ,
+	       (PP at
+		   (NP (ADJP least)))
+	       (ADVP temporarily)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX could)
+   (VP be
+       (VP sent
+	   (PP to
+	       (NP U.S. ports))
+	   (PP for
+	       (NP rulings
+		   (SBAR whether
+			 (S (NP cargo)
+			    (AUX should)
+			    (VP be
+				(VP confiscated
+				    )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ (AUX could)
+      (NP a blockade)
+      (VP accomplish
+	  (NP T))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP Plenty)
+     ,
+     (SINV (VP say)
+	   (NP the experts)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP a 
+	    (ADJP broad) 
+	    sense))
+    ,
+    (S (NP it)
+       (AUX would)
+       (VP reaffirm
+	   (NP the Monroe Doctrine))
+       (PP by
+	   (S (NP *)
+	      (VP opposing
+		  (NP (ADJP Communist) 
+		      interference
+		      (PP in
+			  (NP the 
+			      (ADJP Western) 
+			      Hemisphere))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX could)
+   ,
+   (PP by
+       (S (NP *)
+	  (VP avoiding
+	      (NP (ADJP direct) 
+		  intervention))))
+   ,
+   (VP provide
+       (NP a 
+	   (ADJP short-of-war) 
+	   strategy
+	   (S (NP *)
+	      (AUX to)
+	      (VP meet
+		  (NP (ADJP short-of-war) 
+		      infiltration))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Primary)
+       target)
+   (AUX would)
+   (VP be
+       (NP (NP shipments
+	       (PP of
+		   (NP (NP tanks)
+		       ,
+		       (NP guns)
+		       ,
+		       (NP aviation gasoline)
+		       and
+		       (NP ammunition))))
+	   (VP coming
+	       (PP from
+		   (NP (NP Russia)
+		       and
+		       (NP Czechoslovakia)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Shipments
+       (PP of
+	   (NP arms))
+       (PP from
+	   (NP (ADJP Western) 
+	       countries)))
+   (AUX could)
+   (ADVP similarly)
+   (VP be
+       (VP seized
+	   (PP as
+	       (ADJP contraband)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP a total blockade))
+    ,
+    (S (NP action)
+       (AUX could)
+       (ADVP also)
+       (VP be
+	   (VP taken
+	       (PP against
+		   (NP (NP ships)
+		       (VP bringing
+			   (PRT in)
+			   (NP (NP chemicals)
+			       ,
+			       (NP oils)
+			       ,
+			       (NP textiles)
+			       ,
+			       and
+			       (ADVP even)
+			       (NP foodstuffs)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP times))
+    ,
+    (S (NP (NP three ships)
+	   (NP a day)
+	   (PP from
+	       (NP the 
+		   (ADJP Soviet) 
+		   bloc)))
+       (AUX are)
+       (VP unloading
+	   (PP in
+	       (NP (ADJP Cuban) 
+		   ports)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2008 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Abstract Experiments)
+    (AUX were)
+    (VP made
+		 
+	(PP on
+	    (NP an electric arc)))
+    (S (NP *) 
+       (VP applying
+	   (NP (NP a porous graphite anode)
+	       (VP cooled
+		   (PP by
+		       (NP (NP a transpiring gas)
+			   *LRB*
+			   (NP Argon)
+			   *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP (NP the energy)
+	     (VP transferred
+		 (PP from
+		     (NP the arc))
+		 (PP to
+		     (NP the anode))))
+	 (AUX was)
+	 (VP  (ADVP partly)
+	      fed
+	      (ADVP back)
+	      (PP into
+		  (NP the arc)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX was)
+   (VP shown)
+   (SBAR-1 that
+	   (S (PP by
+		  (NP proper anode design))
+	      (S
+	       (NP the net energy loss
+		   (PP of
+		       (NP the arc))
+		   (PP to
+		       (NP the anode)))
+	       (AUX could)
+	       (VP be
+		   (VP reduced
+			  
+		       (PP to
+			   (NP  (ADVP approximately)
+				15 %
+				(PP of
+				    (NP the total arc energy))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A (ADJP detailed) energy balance
+       (PP of
+	   (NP the anode)))
+   (AUX was)
+   (VP established
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anode ablation)
+   (AUX could)
+   (VP be
+       (VP reduced
+		 
+	   (PP to
+	       (NP a negligible amount)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dependence
+       (PP of
+	   (NP the arc voltage))
+       (PP upon
+	   (NP the mass flow velocity
+	       (PP of
+		   (NP the transpirating gas)))))
+   (AUX was)
+   (VP investigated
+	     
+       (PP for
+	   (NP various arc lengths and currents
+	       (PP between
+		   (NP (NP 100
+			   Amp)
+		       and
+		       (NP 200 A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S
+	 (NP Qualitative observations)
+	 (AUX were)
+	 (VP made))
+	and
+	(S (NP (ADJP high-speed) motion pictures)
+	   (AUX were)
+	   (VP taken)))
+     (S (NP *)
+	(AUX to)
+	(VP study
+	    (NP flow phenomena
+		(PP in
+		    (NP the arc)))
+	    (PP at
+		(NP various mass flow velocities)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Introduction))
+( (S
+   (NP (NP The high heat fluxes)
+       (VP existing
+	   (PP at
+	       (NP the electrode surfaces
+		   (PP of
+		       (NP electric arcs))))))
+   (VP necessitate
+       (NP extensive cooling
+	   (S (NP *)
+	      (AUX to)
+	      (VP prevent
+		  (NP electrode ablation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cooling requirements)
+   (VP are
+       (ADJP  (ADVP particularly)
+	      severe)
+       (PP at
+	   (NP the anode))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 
+	(ADJP free-burning) electric
+	arcs))
+   ,
+   (PP for
+       (NP instance))
+   ,
+   (S (NP  (ADVP approximately)
+	   90 %
+	   (PP of
+	       (NP the total arc power)))
+      (AUX is)
+      (VP transferred
+	  
+	  (PP to
+	      (NP the anode)))
+      (S (NP *) 
+	 (VP giving
+	     (NP rise)
+	     (PP to
+		 (NP local heat fluxes
+		     (PP in
+			 (NP excess
+			     (PP of
+				 (NP A[fj]))))
+		     (PP as
+			 (S (NP *) 
+			    (VP measured
+				(PP by
+				    (NP the authors)))))))))
+      --
+      (S (NP the exact value)
+	 (VP depending
+	     (PP on
+		 (NP the arc atmosphere))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP In
+       (NP plasma generators
+	   (PP (PP as
+		   (ADJP   currently
+			   commercially
+			   available
+			   (PP for
+			       (NP industrial use))))
+	       or
+	       (PP as
+		   (NP high temperature research tools)))))
+   (ADVP often)
+   (S (NP more
+	  (PP than
+	      (NP 50 %
+		  (PP of
+		      (NP the total energy input)))))
+      (AUX is)
+      (VP being
+	  (VP transferred
+		 
+	      (PP to
+		  (NP the cooling medium
+		      (PP of
+			  (NP the anode))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The
+	   higher
+	   heat transfer rates
+	   (PP at
+	       (NP the anode)))
+       (VP compared
+	   (PP with
+	       (NP those
+		   (PP at
+		       (NP the cathode))))))
+   (AUX can)
+   (VP be
+       (VP explained
+	    
+	   (PP by
+	       (NP (NP the physical phenomena)
+		   (VP occurring
+		       (PP in
+			   (NP (ADJP free
+				     burning)
+			       arcs))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP plasma generators))
+     (S (NP the
+	    (VP superimposed)
+	    (VP forced)
+	    convection)
+	(AUX may)
+	(VP modify
+	    (NP the picture)
+	    (ADVP somewhat))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The heat transfer
+       (PP to
+	   (NP the anode)))
+   (VP is
+       (PP  due
+		 (PP to
+		     (NP (NP the following effects)
+			 :
+			 (NP 1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP  
+   (NP (NP Heat
+	   (PP of
+	       (NP condensation)))
+       *LRB*
+       (NP work function)
+       *RRB*)
+   plus
+   (NP kinetic energy
+       (PP of
+	   (NP (NP the electrons)
+	       (VP impinging
+		   (PP on
+		       (NP the anode)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This energy transfer)
+   (VP depends
+       (PP on
+	   (NP (NP the current)
+	       ,
+	       (NP the temperature
+		   (PP in
+		       (NP the arc column)))
+	       ,
+	       (NP the anode material)
+	       ,
+	       and
+	       (NP the conditions
+		   (PP in
+		       (NP the anode sheath)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 2)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Heat transfer
+      (PP (PP by
+	      (NP molecular conduction))
+	  (ADVP as
+		well
+		(PP as
+		    (PP by
+			(NP radiation
+			    (PP from
+				(NP the arc column))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP The heat transfer
+	(PP to
+	    (NP the anode))
+	(PP in
+	    (NP    (ADJP free
+			 burning)
+		   arcs)))
+    (AUX is)
+    (VP enhanced
+		    
+	(PP by
+	    (NP (NP a hot gas jet)
+		(VP flowing
+		    (PP from
+			(NP the cathode))
+		    (PP towards
+			(NP the anode))
+		    (PP with
+			(NP velocities
+			    (PP up
+				(NP A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This phenomenon)
+    (AUX has)
+    (VP been
+	(VP  (ADVP experimentally)
+	     investigated
+	      
+	     (PP in
+		 (NP detail))
+	     (PP by
+		 (NP (NP Maecker)
+		     *LRB*
+		     (NP Ref. 1)
+		     *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP The pressure gradient)
+       (VP producing
+	   (NP the jet)))
+   (VP is
+       (ADJP due
+	     (PP to
+		 (NP (NP the nature
+			 (PP of
+			     (NP the magnetic field
+				 (PP in
+				     (NP the arc)))))
+		     *LRB*
+		     (NP rapid decrease
+			 (PP of
+			     (NP current density))
+			 (PP (PP from
+				 (NP cathode))
+			     (PP to
+				 (NP the anode))))
+		     *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (S (NP the flow conditions
+	     (PP at
+		 (NP the anode
+		     (PP of
+			 (NP   (ADJP free
+				     burning)
+			       arcs)))))
+	 (VP resemble
+	     (NP those
+		 (PP near
+		     (NP a stagnation point))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (ADJP apparent))
+   (PP (PP from
+	   (NP the
+	       above))
+       and
+       (PP from
+	   (NP experimental evidence)))
+   (SBAR-2 that
+	   (S (NP the cooling requirements
+		  (PP for
+		      (NP the anode
+			  (PP of
+			      (NP   (ADJP free
+					  burning)
+				    arcs)))))
+	      (VP are
+		  (ADJP large))
+	      (S (NP *)
+		 (VP compared
+		     (PP with
+			 (NP those
+			     (PP for
+				 (NP the cathode)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The gas flow
+	  (PP through
+	      (NP a plasma generator)))
+      (AUX will)
+      (VP modify
+	  (NP these conditions)))
+   ;
+   ;
+   (S (ADVP however)
+      ,
+      (S (NP the anode)
+	 (VP is
+	     (ADVP still)
+	     (NP (NP the part)
+		 (VP receiving
+		     (NP the
+			 largest
+			 heat flux)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP An attempt
+      (S (NP *)
+	 (AUX to)
+	 (VP improve
+	     (NP (NP the life
+		     (PP of
+			 (NP the anodes)))
+		 or
+		 (NP the efficiency
+		     (PP of
+			 (NP the plasma generators)))))))
+  (AUX must)
+  ,
+  (ADVP therefore)
+  ,
+  (VP aim
+      (PP at
+	  (NP a reduction
+	      (PP of
+		  (NP the anode loss))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP following) possibilities
+       (PP-1 *pseudo-attach*))
+   (VP exist
+       (PP-1 for
+	     (S (NP *) 
+		(VP achieving
+		    (NP this)))))
+   :
+   (NP 1))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The use
+     (PP of
+	 (NP (NP high voltages)
+	     and
+	     (NP low currents)))
+     (PP by
+	 (NP proper design))
+     (S (NP *)
+	(AUX to)
+	(VP reduce
+	    (NP electron heat transfer
+		(PP to
+		    (NP the anode)))
+	    (PP for
+		(NP a (ADJP given) power output)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 2)
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Continuous motion
+     (PP of
+	 (NP the arc contact area
+	     (PP at
+		 (NP the anode))))
+     (PP by
+	 (NP (NP flow)
+	     or
+	     (NP magnetic forces))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 3)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Feedback
+      (PP of
+	  (NP (NP the energy)
+	      (VP transferred
+		  (PP to
+		      (NP the anode)))))
+      (PP by
+	  (S (NP *) 
+	     (VP applying
+		 (NP gas transpiration
+		     (PP through
+			 (NP the anode)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The third method)
+    (AUX was)
+    ,
+    (PP to
+	(NP our knowledge))
+    ,
+    (VP  (ADVP successfully)
+	 applied
+	 (PP for
+	     (NP the first time))
+	 (PP by
+	     (NP (NP (NP C. Sheer)
+		     and
+		     (NP co-workers))
+		 *LRB*
+		 (NP Ref. 2)
+		 *RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The purpose
+       (PP of
+	   (NP the present study)))
+   (VP is
+       (S (S (NP *)
+	     (AUX to)
+	     (VP study
+		 (NP the thermal conditions)))
+	  and
+	  (S (NP *)
+	     (AUX to)
+	     (VP establish
+		 (NP (NP an energy balance
+			 (PP for
+			     (NP a (ADJP transpiration
+					 cooled)
+				 anode)))
+		     (ADVP as
+			   well
+			   (PP as
+			       (NP the effect
+				   (PP of
+				       (NP blowing))
+				   (PP on
+				       (NP the arc voltage)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Gas injection
+	   (PP through
+	       (NP a porous anode)))
+       *LRB*
+       (NP transpiration cooling)
+       *RRB*)
+   (VP (CONJP not
+	      only)
+       (VP feeds
+	   (ADVP back)
+	   (NP (NP the energy)
+	       (VP transferred
+		   to
+		   (NP the anode)))
+	   (PP by
+	       (NP the
+		   (ADJP above
+			 mentioned)
+		   processes)))
+       ,
+       but
+       also
+       (VP modifies
+	   (NP the conditions
+	       (PP in
+		   (NP (NP the arc)
+		       (NP itself)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A (ADJP detailed) study
+       (PP of
+	   (NP this latter phenomenon)))
+   (AUX was)
+   (NEG not)
+   (VP attempted
+	     
+       (PP in
+	   (NP this paper))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Argon)
+   (AUX was)
+   (VP used
+	     
+       (PP as
+	   (NP a blowing gas)))
+   (S (NP *)
+      (AUX to)
+      (VP exclude
+	  (NP any effects
+	      (PP of
+		  (NP (NP dissociation)
+		      or
+		      (NP chemical reaction)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anode material)
+   (VP was
+       (NP porous graphite)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Sintered
+	 porous metals)
+    (AUX should)
+    (VP be
+	(ADJP usable))
+    (PP in
+	(NP principle)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP technical difficulties)
+	 (VP arise
+	     (PP by
+		 (NP melting
+		     (PP at
+			 (NP 
+			  local hot
+			  spots)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The experimental arrangement
+       (PP as
+	   (S (NP *) 
+	      (VP described
+		  (ADVP below)))))
+   (AUX is)
+   (VP based
+	     
+       (PP on
+	   (NP the geometry
+	       (PP of
+		   (NP   (ADJP free
+			       burning)
+			 arcs))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP direct comparisons)
+	 (AUX can)
+	 (VP be
+	     (VP drawn
+		     
+		 (PP with
+		     (NP (NP   (ADJP free
+				     burning)
+			       arcs)
+			 (SBAR  
+			  (WHNP which)
+			  (S (NP T)
+			     (AUX have)
+			     (VP been
+				 (VP studied
+		      
+				     (PP in
+					 (NP detail))
+				     (PP during
+					 (NP the past years and decades))
+				     (PP by
+					 (NP (NP numerous investigators)
+					     *LRB*
+					     (NP Ref. 3)
+					     *RRB*))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((NP Experimental apparatus))
+((S  
+  (NP Figures
+      (NP 1
+	  (PP to
+	      (NP 3))))
+  (VP show
+      (NP (ADJP photographic and schematic) views
+	  (PP (PP of
+		  (NP the test stand))
+	      and
+	      (PP of
+		  (NP two different models
+		      (PP of
+			  (NP the anode holder))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The cathode)
+    (VP consisted
+	(PP of
+	    (NP  (NP a 14 '' diameter
+		     thoriated
+		     tungsten rod)
+		 (VP attached
+		     (PP to
+			 (NP a (ADJP water
+				     cooled)
+			     copper tube)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This tube)
+   (AUX could)
+   (VP be
+       (VP adjusted
+		 
+	   (PP in
+	       (NP its axial direction))
+	   (PP by
+	       (NP an electric drive))))
+   (S (NP *)
+      (AUX to)
+      (VP establish
+	  (NP the (VP required) electrode spacing))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anode
+       (PP in
+	   (NP figure 2)))
+   (AUX was)
+   (VP mounted
+	     
+       (PP by
+	   (NP means
+	       (PP of
+		   (NP (NP the anode holder)
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX was)
+			   (VP attached
+		 
+			       (PP to
+				   (NP a steel plug and disk)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The transpiring gas)
+       (VP ejected
+	   (PP from
+	       (NP the anode))))
+   (VP formed
+       (NP (NP a jet)
+	   (VP directed
+	       (ADVP axially)
+	       (PP towards
+		   (NP the cathode
+		       (ADVP below)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Inflow
+       (PP of
+	   (NP air))
+       (PP from
+	   (NP the (ADJP surrounding) atmosphere)))
+   (AUX was)
+   (VP prevented
+	     
+       (PP by
+	   (NP (NP the two disks)
+	       (VP shown
+		   (PP in
+		       (NP figure 2)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Argon)
+    (AUX was)
+    (ADVP also)
+    (VP blown
+	 
+	(PP at
+	    (NP (NP low velocities)
+		*LRB*
+		(NP mass flow rate A[fj])
+		*RRB*))
+	(PP through
+	    (NP (NP a tube)
+		(ADJP coaxial
+		      (PP with
+			  (NP the cathode))))))
+    (PP as
+	(NP an additional precaution
+	    (PP against
+		(NP contamination
+		    (PP of
+			(NP the arc))
+		    (PP by
+			(NP air)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anode)
+   (VP consisted
+       (PP of
+	   (NP (NP a 12 inch diameter porous graphite plug)
+	       ,
+	       (ADJP  (NP 14 inch)
+		      long)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The graphite)
+   (VP was
+       (NP (NP National Carbon NC 60)
+	   ,
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (VP has
+		   (NP (NP a porosity
+			   (PP of
+			       (NP 50 %)))
+		       and
+		       (NP an average pore size
+			   (PP of
+			       (NP 30))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This small pore size)
+   (AUX was)
+   (VP required
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP ensure
+	      (NP uniformity
+		  (PP of
+		      (NP (NP the flow)
+			  (VP leaving
+			      (NP the anode)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The anode plug)
+      *LRB*
+      (NP Figure 2)
+      *RRB*)
+  (AUX was)
+  (VP inserted
+	 
+      (PP into
+	  (NP a carbon anode holder))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A shielded thermocouple)
+   (AUX was)
+   (VP used
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP measure
+	      (NP the upstream temperature
+		  (PP of
+		      (NP the transpiring gas)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP exposed
+	     
+       (PP to
+	   (NP a high velocity gas jet))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A plug)
+      and
+      (NP a tube
+	  (PP with
+	      (NP holes
+		  (PP in
+		      (NP its cylindrical walls))))))
+  (VP divided
+      (NP the chamber
+	  (PP above
+	      (NP the porous plug)))
+      (PP into
+	  (NP two parts))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This arrangement)
+   (VP had
+       (NP the purpose
+	   (S (NP *)
+	      (AUX to)
+	      (VP prevent
+		  (NP 
+		   (ADJP heated)
+		   gas)
+		  (S (NP *)
+		     (AUX to)
+		     (VP reach
+			 (NP the thermocouple)
+			 (PP by
+			     (NP natural convection)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Two pyrometers)
+	(VP shown
+	    (PP in
+		(NP (NP figure 1
+			and
+			2)
+		    *LRB*
+		    (NP Pyrometer Instrument Co
+			.
+			Model 95)
+		    *RRB*))))
+    (VP served
+	(PP for
+	    (NP simultaneous measurement
+		(PP of
+		    (NP (NP the anode surface temperature)
+			and
+			(NP the temperature distribution
+			    (PP along
+				(NP the anode holder)))))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Three thermocouples)
+   (AUX were)
+   (VP placed
+	     
+       (PP at
+	   (NP different locations
+	       (PP in
+		   (NP (NP the aluminum disk)
+		       (VP surrounding
+			   (NP the anode holder)))))))
+   (S (NP *)
+      (AUX to)
+      (VP determine
+	  (NP its temperature))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Another anode holder)
+       (VP used
+	   (PP in
+	       (NP the experiments))))
+   (AUX is)
+   (VP shown
+	     
+       (PP in
+	   (NP figure 3))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP In
+	  (NP this design))
+      (S (S
+	  (NP the anode holder)
+	  (VP is
+	      (ADJP   water
+		     cooled)))
+	 and
+	 (S (NP the heat losses
+		(PP by
+		    (NP conduction
+			(PP from
+			    (NP the anode)))))
+	    (AUX were)
+	    (VP determined
+	    
+		(PP by
+		    (S (NP *) 
+		       (VP measuring
+			   (NP the temperature rise
+			       (PP of
+				   (NP the coolant))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP reduce
+	    (NP heat transfer
+		(PP (PP from
+			(NP the hot gas))
+		    (PP to
+			(NP this anode holder
+			    (PP outside
+				(NP the regime
+				    (PP of
+					(NP the arc))))))))))
+     ,
+     (S (NP a carbon shield)
+	(AUX was)
+	(VP attached
+	        
+	    (PP to
+		(NP the surface)))
+	(S  (NP *)  
+	    (VP providing
+		(NP an air gap
+		    (PP of
+			(NP 116 inch)))
+		(PP between
+		    (NP (NP the plate)
+			and
+			(NP the surface
+			    (PP of
+				(NP the anode holder)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   ,
+   (S (NP the inner surface
+	  (PP of
+	      (NP the carbon shield)))
+      (AUX was)
+      (VP covered
+	      
+	  (PP with
+	      (NP aluminum foil))))
+   (S (NP *)
+      (AUX to)
+      (VP reduce
+	  (NP radiation))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Temperatures
+       (PP (PP of
+	       (NP the shield))
+	   and
+	   (PP of
+	       (NP the surface
+		   (PP of
+		       (NP the (ADJP water-cooled) anode holder))))))
+   (AUX were)
+   (VP measured
+	     
+       (PP by
+	   (NP thermocouples)))
+   (S (NP *)
+      (AUX to)
+      (VP account
+	  (PP for
+	      (NP (NP heat)
+		  (VP (VP received
+			  (PP by
+			      (NP the coolant)))
+		      but
+		      (VP (NEG not)
+			  originating
+			  (PP from
+			      (NP the anode plug)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The argon flow
+       (PP from
+	   (NP commercial bottles)))
+   (AUX was)
+   (VP (VP regulated
+	     
+	   (PP by
+	       (NP a pressure regulator)))
+       and
+       (VP measured
+	   (PP with
+	       (NP a gas flow rator)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The power source)
+   (VP was
+       (NP a commercial D.C. rectifier)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP 100
+	   Amp))
+   (S (NP the (ADJP 360 cycle) ripple)
+      (VP was
+	  (NP (NP  less
+		   (PP than
+		       (NP 0.5 V)))
+	      *LRB*
+	      (NP peak
+		  (PP to
+		      (NP peak)))
+	      *RRB*)
+	  (PP with
+	      (NP a resistive load)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The current)
+   (AUX was)
+   (VP (VP regulated
+	     
+	   (PP by
+	       (NP means
+		   (PP of
+		       (NP a variable resistor)))))
+       and
+       (VP measured
+	   (PP with
+	       (NP a (ADJP 50 mV) shunt and millivoltmeter)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The arc voltage)
+   (AUX was)
+   (VP measured
+	     
+       (PP with
+	   (NP (NP a voltmeter)
+	       (SBAR 
+		(WHNP whose terminals)
+		(S (NP T)
+		   (AUX were)
+		   (VP connected
+		 
+		       (PP to
+			   (NP the anode and cathode holders)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP  Because
+	  (PP of
+	      (NP the falling characteristic
+		  (PP of
+		      (NP the rectifier)))))
+   ,
+   (S (NP no ballast resistor)
+      (AUX was)
+      (VP required
+	     
+	  (PP for
+	      (NP stability
+		  (PP of
+		      (NP operation)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A high frequency starter)
+   (AUX was)
+   (VP used
+       (S  (NP *)  
+	   (AUX to)
+	   (PP start
+	       (NP the arc)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP (NP Experimental procedure) 
+	 and 
+	 (NP error analysis))
+     (NP 1)) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (NP   (ADJP Transpiration
+	     cooled)
+       anode
+       (PP with
+	   (NP carbon anode holder)))
+ )
+( (S
+   (NP (NP The anode holder)
+       (VP shown
+	   (PP in
+	       (NP figure 2))))
+   (AUX was)
+   (VP designed
+	     
+       (PP with
+	   (X (NP two goals)
+	      (PP in
+		  (NP mind))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The heat losses
+	  (PP of
+	      (NP the holder)))
+      (VP were
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (VP reduced
+		     (ADVP as
+			   far
+			   (PP as
+			       (ADJP possible))))))))
+     and
+     (S (NP they)
+	(AUX should)
+	(VP be
+	    (ADJP such
+		  (SBAR that
+			(S (NP an accurate heat balance)
+			   (AUX can)
+			   (VP be
+			       (VP made
+				   ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (PP In
+	      (NP order))
+	  (S (NP *)
+	     (AUX to)
+	     (VP reduce
+		 (NP the number
+		     (PP of
+			 (NP variable parameters))))))
+    ,
+    (S (NP all experiments)
+       (AUX were)
+       (VP made
+	       
+	   (PP with
+	       (NP (NP a constant arc length
+		       (PP of
+			   (NP 0.5 '')))
+		   and
+		   (NP a current
+		       (PP of
+			   (NP 100 A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The argon flow
+       (PP through
+	   (NP the porous anode)))
+   (AUX was)
+   (VP varied
+       (ADVP systematically)
+       (PP between
+	   (NP (NP A[fj]) and (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The lower limit)
+   (AUX was)
+   (VP determined
+	     
+       (PP by
+	   (NP the fact
+	       (SBAR (SBAR that
+			   (S (PP for
+				  (NP 
+				   smaller
+				   flow rates))
+			      (S (NP the arc)
+				 (VP started
+				     (S (NP *)
+					(AUX to)
+					(VP strike
+					    (PP (PP to
+						    (NP the anode holder))
+						(ADVP instead
+						      (PP of
+							  (PP to
+							      (NP the porous graphite plug)))))))))))
+		     and
+		     (SBAR that
+			   (S (NP it)
+			      (VP became
+				  (ADJP  highly
+					 unstable)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The upper limit)
+    (AUX was)
+    (VP determined
+	 
+	(PP by
+	    (NP (NP the difficulty
+		    (PP of
+			(S (NP *) 
+			   (VP measuring
+			       (NP the characteristic anode surface temperature)))))
+		*LRB*
+		(S (NP *) 
+		   (VP see
+		       (ADVP below)))
+		*RRB*)))
+    (SBAR since
+	  (S (NP  (ADVP only)
+		  a small region
+		  (PP of
+		      (NP the anode)))
+	     (AUX was)
+	     (VP struck
+		 
+		 (PP by
+		     (NP the arc))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP This region)
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (VP had
+		(NP a
+		    higher
+		    temperature
+		    (PP than
+			(NP the rest
+			    (PP of
+				(NP the anode surface)))))))))
+    (VP changed
+	(NP (NP size) and (NP location))
+	(ADVP continuously)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP each mass flow rate))
+     (S
+      (NP the arc voltage)
+      (AUX was)
+      (VP measured
+	  )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP measure
+	    (NP the surface temperature
+		(PP of
+		    (NP the anode plug)))))
+     ,
+     (S (NP the surface)
+	(AUX was)
+	(VP scanned
+	        
+	    (PP with
+		(NP a pyrometer)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S (NP it)
+	  (VP turned
+	      (PRT out))))
+   ,
+   (S (NP a
+	  (ADJP  very
+		 hot) region)
+      (VP occurred
+	  (PP on
+	      (NP the plug)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its temperature)
+   (AUX was)
+   (VP denoted
+	     
+       (PP by
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The size
+       (PP of
+	   (NP this hot region)))
+   (AUX was)
+   (VP estimated
+	     
+       (PP by
+	   (NP eye))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The rest
+       (PP of
+	   (NP the surface)))
+   (VP had
+       (NP (NP a temperature)
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (VP decreased)
+	       (PP towards
+		   (NP the outer diameter
+		       (PP of
+			   (NP the plug)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The mean temperature
+       (PP of
+	   (NP this region)))
+   (AUX was)
+   (VP approximated
+	     
+       (PP by
+	   (NP (NP the temperature)
+	       (VP measured
+		   (ADVP halfways
+			 (PP between
+			     (NP (NP the edge
+				     (PP of
+					 (NP the hot spot)))
+				 and
+				 (NP the rim
+				     (PP of
+					 (NP the plug)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP denoted
+	     
+       (PP by
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (S (NP The mean temperature
+	   (PP of
+	       (NP the surface)))
+       (AUX was)
+       (ADVP then)
+       (VP computed
+	   (VP according
+	       (PP to
+		   (NP the following relation)))))
+    :
+    (NP (NP A[fj])
+	(SBAR 
+	 (WHADVP where)
+	 (S (NP x)
+	    (VP is
+		(NP (NP the fraction
+			(PP of
+			    (NP the plug area)))
+		    (VP covered
+			(PP by
+			    (NP the hot spot)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Assuming
+	     (NP thermal equilibrium
+		 (PP between
+		     (NP (NP the anode surface)
+			 and
+			 (NP the transpiring argon))))))
+     ,
+     (S (NP the gas enthalpy rise
+	    (PP through
+		(NP the anode)))
+	(AUX was)
+	(VP calculated
+	    (VP according
+		(PP to
+		    (NP (NP the relation A[fj])
+			(SBAR 
+			 (WHADVP whereby)
+			 (S (NP the specific heat
+				(PP of
+				    (NP argon)))
+			    (AUX was)
+			    (VP taken
+	   
+				(PP as
+				    (NP A[fj])))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This calculation)
+   (VP results
+       (PP in
+	   (NP (NP an enthalpy rise)
+	       (SBAR  
+		(WHNP which)
+		(S (NP T)
+		   (VP is
+		       (ADJP  somewhat
+			      high))
+		   (SBAR because
+			 (S (NP it)
+			    (VP assumes
+				(NP (NP a mass flow)
+				    (VP (ADVP equally)
+					distributed
+					(PP over
+					    (NP the plug cross section)))))
+			    (SBAR whereas
+				  (S (PP in
+					 (NP reality))
+				     (S
+				      (NP the mass velocity)
+				      (AUX is)
+				      (VP expected
+	  
+					  (S (NP *)
+					     (AUX to)
+					     (VP be
+						 (ADJP smaller))
+					     (PP in
+						 (NP the regions
+						     (PP of
+							 (NP 
+							  higher
+							  temperatures)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The upstream gas temperature)
+       (VP measured
+	   (PP with
+	       (NP (NP the thermocouple)
+		   (VP shown
+		       (PP in
+			   (NP figure 2)))))))
+   (VP was
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The A[fj] values)
+   (AUX are)
+   (VP listed
+	     
+       (PP in
+	   (NP Table 1)))
+   (ADVP together
+	 (PP with
+	     (NP the measured surface temperatures and arc voltages))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Simultaneously
+	    (PP with
+		(NP the anode surface temperature and voltage measurements)))
+      (S (NP pyrometer readings)
+	 (AUX were)
+	 (VP taken
+	     (PP along
+		 (NP the cylindrical surface
+		     (PP of
+			 (NP the carbon anode holder)))))
+	 (PP as
+	     (S (NP *) 
+		(VP indicated
+		    (PP on
+			(NP figure 2)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some
+       (PP of
+	   (NP these temperatures)))
+   (AUX are)
+   (VP plotted
+	     
+       (PP in
+	   (NP figure 4))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP showed
+       (NP no (ADJP marked) dependence
+	   (PP on
+	       (NP the flow rate))))
+   (PP within
+       (NP the accuracy
+	   (PP of
+	       (NP these measurements)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP (NP the dotted line)
+	     (VP shown
+		 (PP in
+		     (NP figure 4))))
+	 (AUX was)
+	 (VP taken
+	      
+	     (PP as
+		 (ADJP typical
+		       (PP for
+			   (NP the temperature distribution
+			       (PP for
+				   (NP all blowing rates)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The thermocouples
+       (PP in
+	   (NP (NP the aluminum disk)
+	       (VP shown
+		   (PP in
+		       (NP figure 2))))))
+   (VP indicated
+       (NP an equilibrium temperature
+	   (PP of
+	       (NP the surface
+		   (PP of
+		       (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This temperature)
+   (AUX was)
+   (VP taken
+	     
+       (PP as
+	   (NP (NP environmental temperature)
+	       (SBAR (WHPP to
+			   (WHNP which))
+		     (S (NP the anode holder)
+			(AUX was)
+			(VP exposed
+			    )
+			(ADVP as
+			      far
+			      (PP as
+				  (S (NP radiation)
+				     (AUX is)
+				     (VP concerned
+					 ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP is
+	(ADJP  sufficiently
+	       small
+	       (S (NP *)
+		  (VP compared
+		      (PP with
+			  (NP the surface temperature
+			      (PP of
+				  (NP the anode holder))))))
+	       ,
+	       (S (NP *)
+		  (AUX to)
+		  (VP make
+		      (NP (NP the energy flux)
+			  (VP radiated
+			      (PP from
+				  (NP the environment))
+			      (PP toward
+				  (NP the anode holder))))
+		      (ADJP negligible))
+		  (PP within
+		      (NP the accuracy
+			  (PP of
+			      (NP the present measurements))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reflection
+       (PP of
+	   (NP (NP radiation)
+	       (VP (VP originating
+		       (PP from
+			   (NP the anode holder)))
+		   and
+		   (VP reflected
+		       (ADVP back)
+		       (PP to
+			   (NP it))
+		       (PP by
+			   (NP the (VP surrounding) metal surfaces)))))))
+   (AUX should)
+   (ADVP also)
+   (VP be
+       (ADJP small))
+   (ADVP because
+	 (PP of
+	     (NP the peculiar characteristic
+		 (PP (PP of
+			 (NP the metal surfaces))
+		     and
+		     (PP of
+			 (NP the specific geometry)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The total heat loss
+	(PP through
+	    (NP the anode holder)))
+    (VP included
+	(ADVP also)
+	(NP (NP the heat)
+	    (VP conducted
+		(PP through
+		    (NP the base
+			(PP of
+			    (NP the cylindrical piece))))
+		(PP into
+		    (NP the adjacent metal parts))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP calculated
+	     
+       (PP from
+	   (NP the temperature gradient A[fj]))
+       (PP at
+	   (NP A[fj] inch))
+       (PP as
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The total heat flux
+       (PP from
+	   (NP the porous plug))
+       (PP into
+	   (NP the plug holder)))
+   (VP is
+       (ADVP thereby)
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The temperature distribution
+       (PP of
+	   (NP figure 4)))
+   (VP gives
+       (NP A[fj])
+       (PP for
+	   (NP all blowing rates)))
+   ,
+   (S (NP *) 
+      (VP assuming
+	  (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The temperature dependent value
+       (PP of
+	   (NP ** ye)))
+   (AUX was)
+   (VP taken
+	     
+       (PP from
+	   (NP Ref. 7))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The radiation loss
+	(PP from
+	    (NP the anode surface)))
+    (AUX was)
+    (VP computed
+	(VP according
+	    (PP to
+		(NP (NP A[fj])
+		    (SBAR 
+		     (WHADVP where)
+		     (S (NP A[fj])
+			(VP is
+			    (NP the mean
+				(PP of
+				    (NP (NP the fourth powers
+					    (PP of
+						(NP (NP the temperatures)
+						    (NP (NP A[fj]) and (NP A[fj])))))
+					(VP calculated
+					    (ADVP analogously)
+					    (PP to
+						(NP equation
+						    *LRB*
+						    1
+						    *RRB*))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

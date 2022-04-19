@@ -1,0 +1,2082 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The next question)
+   (VP is
+       (SBAR whether
+	     (S (NP board members)
+		(VP favor
+		    (NP their
+			own social
+			classes))
+		(PP in
+		    (NP their roles
+			(PP as
+			    (NP educational policy-makers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP On
+      (NP the
+	  whole))
+  ,
+  (S (NP it
+	 (SBAR-1 *pseudo-attach*))
+     (VP appears)
+     (SBAR-1 that
+	   (S (NP they)
+	      (AUX do)
+	      (NEG not)
+	      (VP favor
+		  (NP their
+		      own social
+		      classes)
+		  (PP in
+		      (NP an explicit way)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   (ADVP Seldom)
+	  (VP is)
+	  (NP there)
+	  (NP (NP an issue)
+	      (SBAR (WHPP in (WHNP which ))
+		    (S (NP class lines)
+		       (AUX can 
+			    (VP be
+				(VP  (ADVP clearly)
+				     drawn
+				     )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A hypothetical issue
+       (PP of
+	   (NP this sort)))
+   (AUX might)
+   (VP deal
+       (PP with
+	   (NP the establishment
+	       (PP of
+		   (NP a free public junior college))
+	       (PP in
+		   (NP (NP a community)
+		       (SBAR 
+			(WHADVP where)
+			(S (NP there)
+			   (ADVP already)
+			   (VP was
+			       (NP (NP a
+				       good private
+				       college)
+				   (SBAR 
+				    (WHNP which)
+				    (S (NP T)
+				       (VP (VP served
+					       (NP the middle-class youth)
+					       (ADVP adequately))
+					   but
+					   (VP was
+					       (ADJP  too
+						      expensive
+						      (PP for
+							  (NP working-class youth)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP situations
+	     (PP of
+		 (NP this sort))))
+     (S
+      (NP the board)
+      (ADVP generally)
+      (VP favors
+	  (NP the expansion
+	      (PP of
+		  (NP free education))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Campbell)
+   (VP (VP studied
+	   (NP the records
+	       (PP of
+		   (NP 172 school board members
+		       (PP in
+			   (NP twelve western cities))
+		       (PP over
+			   (NP the period
+			       (PP of
+				   (NP 1931 -
+				       40))))))))
+       and
+       (VP found
+	   (NP  ``
+		little
+		or
+		no relationship
+		(PP between
+		    (NP 
+		     (NP certain (ADJP social and economic)
+			 factors)
+		     and 
+		     (NP school board competence)))
+		'')
+	   ,
+	   (SBAR  as
+		  (S  (NP *)  
+		      (VP judged
+			  (PP by
+			      (NP (NP a panel
+				      (PP of
+					  (NP professional educators)))
+				  (SBAR 
+				   (WHNP who)
+				   (S (NP T)
+				      (VP studied
+					  (NP the voting records
+					      (PP on
+						  (NP educational issues))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The few cases
+	  (PP of
+	      (NP clear favoritism
+		  (PP along
+		      (NP social-class lines)))))
+      (VP are
+	  (ADJP  as
+		 likely
+		 (PP as
+		     (NEG not))
+		 (S (NP *)
+		    (AUX to)
+		    (VP involve
+			(NP (NP representatives
+				(PP of
+				    (NP the working class))
+				(PP on
+				    (NP the school board)))
+			    (SBAR 
+			     (WHNP who)
+			     (S (NP T)
+				(VP favor
+				    (NP some such practice
+					(PP as
+					    (NP (NP 
+						 (ADJP higher)
+						 wages
+						 (PP for
+						     (NP janitors)))
+						(ADVP rather
+						      (PP than
+							  (NP pay increases
+							      (PP for
+								  (NP teachers)))))))))))))))))
+     ,
+     and
+     (S (NP such issues)
+	(VP are
+	    (NEG not)
+	    (NP issues
+		(PP of
+		    (NP educational policy))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (PP In
+	 (ADJP general))
+     ,
+     (S (NP it
+	    (SBAR-2 *pseudo-attach*))
+	(VP appears)
+	(SBAR-2 that
+	      (S (NP (NP trustees) and (NP board members))
+		 (VP attempt
+		     (S (NP *)
+			(AUX to)
+			(VP represent
+			    (NP the public interest))))
+		 (PP in
+		     (NP their administration
+			 (PP of
+			     (NP educational policy))))))))
+    ,
+    and
+    (S (NP this)
+       (AUX is)
+       (VP made
+	   (ADJP easier)
+	   (PP by
+	       (NP the fact
+		   (SBAR that
+			 (S (NP the dominant values
+				(PP of
+				    (NP the society)))
+			    (VP are
+				(NP (NP middle-class values)
+				    ,
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(AUX are)
+					(ADVP generally)
+					(VP thought
+	     
+					    (S (NP *)
+					       (AUX to)
+					       (VP be
+						   (ADJP valid
+							 (PP for
+							     (NP the entire society)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX have)
+   (VP been
+       (NP  (ADJP very
+		  few) cases
+		  (PP of
+		      (NP explicit conflict
+			  (PP of
+			      (NP interest))
+			  (PP between
+			      (NP (NP the middle class)
+				  and
+				  (NP any other class)))))))
+   (PP in
+       (NP the field
+	   (PP of
+	       (NP educational policy)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP there)
+	     (VP were
+		 (NP  more
+		      such cases))))
+   ,
+   (S (NP it
+	  (S-1 *pseudo-attach*))
+      (AUX would)
+      (VP be
+	  (ADJP easier))
+      (S-1 (NP *)
+	   (AUX to)
+	   (VP answer
+	       (NP the question
+		   (SBAR whether
+			 (S (NP the policy-makers)
+			    (VP favor
+				(NP their
+				    own social
+				    classes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP is
+	(ADVP currently)
+	(NP (NP a major controversy
+		(PP of
+		    (NP public education)))
+	    (SBAR (WHPP in (WHNP which ))
+		  (S (NP group interests and values)
+		     (VP  are
+			  (ADJP (ADVP heavily)
+				engaged)
+			  ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP the issue
+	   (PP of
+	       (NP  (ADJP segregated)
+		    schools
+		    (PP in
+			(NP the South)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP this case))
+     (S
+      (NP it)
+      (VP is
+	  (ADVP primarily)
+	  (NP a matter
+	      (PP of
+		  (NP conflict
+		      (PP of
+			  (NP (NP racial groups)
+			      (ADVP rather
+				    (PP than
+					(NP social-class groups)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP the white (ADJP middle
+			     and
+			     lower)
+	     classes)
+	 (AUX are)
+	 (VP arrayed
+	      
+	     (PP against
+		 (NP the Negro (ADJP middle
+				     and
+				     lower)
+		     classes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This conflict)
+   (AUX may)
+   (VP be
+       (VP resolved
+		 
+	   (PP in
+	       (NP (NP a way)
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (AUX will)
+		       (VP suit
+			   (NP
+			    white middle-class
+			    people)
+			   (ADVP better
+				 (PP than
+				     (S (NP it)
+					(VP suits
+					    (NP 
+					     white lower-class
+					     people)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP this)
+	     (VP happens)))
+   ,
+   (S (NP there)
+      (AUX may)
+      (VP be
+	  (NP some class conflict)
+	  (PP in
+	      (NP the South)))
+      ,
+      (PP with
+	  (S (NP (NP school boards) and (NP school teachers))
+	     (VP taking
+		 (NP the middle-class position))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP The educational profession)
+    )
+( (S
+   (NP The members
+       (PP of
+	   (NP the educational profession)))
+   (VP have
+       (NP a major voice)
+       (PP in
+	   (NP the determination
+	       (PP of
+		   (NP educational policy)))))
+   ,
+   (S  
+    (NP their position)
+    (VP being
+	(ADJP strongest)
+	(PP in
+	    (NP the universities)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP are
+       (ADVP mostly)
+       (NP  (ADJP upper-middle
+		  -
+		  and
+		  lower-middle-class) people
+		  ,
+		  (PP with
+		      (NP a few
+			  (PP in
+			      (NP the upper class)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  
+  (AUX Do)
+  (NP they)
+  (VP make
+      (NP (ADJP class-biased) decisions)))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (X (PP In
+	  (NP (NP a society)
+	      (VP dominated
+		  (PP by
+		      (NP middle-class values)))))
+      and
+      (S  (NP *)
+	  (VP working
+	      (PP in
+		  (NP  (NP an institution)
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP transmits
+			       and
+			       strengthens
+			       (NP these social values)))))))))
+   ,
+   (S (NP it
+	  (SBAR-1 *pseudo-attach*))
+      (VP is
+	  (ADJP clear))
+      (SBAR-1 that
+	    (S (NP the educational profession)
+	       (AUX must)
+	       (VP work
+		   (PP for
+		       (NP (NP the values)
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP are
+				   (ADJP characteristic
+					 (PP of
+					     (NP the society)))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP no problem))
+   (ADVP here))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The problem)
+   (VP arises)
+   ,
+   (SBAR if
+	 (S (NP it)
+	    (AUX does)
+	    (VP arise)))
+   ,
+   (SBAR 
+    (WHADVP when)
+    (S (NP the educator)
+       (VP has
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP (NP  (NP a choice)
+			   or
+			   (NP a decision))
+		      (X (PP within
+			     (NP the area
+				 (PP of
+				     (NP his professional competence))))
+			 ,
+			 but
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (VP bears
+				 (NP some relation
+				     (PP to
+					 (NP the social structure))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ   
+   (PP For
+       (NP instance))
+   ,
+   (PP (PP in
+	   (S (NP *) 
+	      (VP giving
+		  (NP school grades))))
+       or
+       (PP in
+	   (S (NP *)
+	      (VP making
+		  (NP recommendations
+		      (PP for
+			  (NP the award
+			      (PP of
+				  (NP a college scholarship)))))))))
+   ,
+   (SQ  
+    (AUX does)
+    (NP he)
+    (VP (ADVP consciously or unconsciously)
+	favor
+	(NP students
+	    (PP of
+		(NP one
+		    or
+		    another social class))))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ   (ADVP Again)
+	,
+	(PP in
+	    (S (NP *) 
+	       (VP deciding
+		   (PP on
+		       (NP the content and method
+			   (PP of
+			       (NP his teaching)))))))
+	,
+	(SQ (SQ  
+	     (AUX does)
+	     (NP he)
+	     (VP favor
+		 (NP (NP a curriculum)
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP T)
+			 (AUX will)
+			 (VP make
+			     (NP his students)
+			     (NP 
+			      stronger
+			      competitors
+			      (PP in
+				  (NP the race
+				      (PP for
+					  (NP 
+					   higher economic
+					   status)))))))))))
+	    ,
+	    or
+	    (SQ  
+	     (AUX does)
+	     (NP he)
+	     (VP favor
+		 (NP (NP a curriculum)
+		     (SBAR  
+		      (WHNP which)
+		      (S (NP T)
+			 (VP strengthens
+			     (NP students)
+			     (PP in
+				 (NP other ways))))))))))
+  ?
+  ?)
+ 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The answers
+       (PP to
+	   (NP (NP questions)
+	       (ADJP such
+		     (PP as
+			 (NP these))))))
+   (ADVP certainly)
+   (VP depend
+       (PP to
+	   (NP some extent))
+       (PP (PP (PP upon
+		   (NP 
+		    (NP the educator)
+		    's
+		    own social-class
+		    position))
+	       and
+	       (ADVP also)
+	       (PP upon
+		   (NP his social history)))
+	   ,
+	   (ADVP as
+		 well
+		 (PP as
+		     (PP upon
+			 (NP (NP his personality)
+			     and
+			     (SBAR (WHNP what)
+				   (S
+				    (NP he)
+				    (VP conceives
+					(S (NP his mission)
+					   (AUX to)
+					   (VP be
+					       (NP T) )
+					   (PP as
+					       (NP an educator)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP a set
+	   (PP of
+	       (NP case studies
+		   (PP of
+		       (NP teachers
+			   (PP with
+			       (NP 
+				various social-class
+				backgrounds))))))))
+   ,
+   (S (NP Wattenberg)
+      (VP illustrates
+	  (NP a variety
+	      (PP of
+		  (NP (NP approaches
+			  (PP (PP to
+				  (NP students))
+			      and
+			      (PP to
+				  (NP teaching))))
+		      (SBAR
+		       (WHNP which)
+		       (S (NP T)
+			  (VP depend
+			      (PP (PP upon
+				      (NP 
+				       (NP the teacher)
+				       's personality))
+				  (ADVP as
+					well
+					(PP as
+					    (PP on
+						(NP his social-class background))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP One upward-mobile teacher)
+      (AUX may)
+      (VP be
+	  (NP a hard taskmaster)
+	  (PP for
+	      (NP lower-class pupils)))
+      (SBAR because
+	    (S (NP she)
+	       (VP wants
+		   (S (NP them)
+		      (AUX to)
+		      (VP develop
+			  (NP (NP the attitudes and skills)
+			      (SBAR 
+			       (WHNP that)
+			       (S (NP T)
+				  (AUX will)
+				  (VP enable
+				      (NP them)
+				      (S (NP *)
+					 (AUX to)
+					 (VP climb))))))))))))
+     ,
+     (SBAR while
+	   (S (NP another upward-mobile teacher)
+	      (AUX may)
+	      (VP be
+		  (NP a
+		      (ADJP  very
+			     permissive) person)
+		  (PP with
+		      (NP lower-class pupils)))
+	      (SBAR because
+		    (S (S (NP he)
+			  (VP knows
+			      (NP their disadvantages and deprivations
+				  (PP at
+				      (NP home)))))
+		       ,
+		       and
+		       (S (NP he)
+			  (VP hopes
+			      (S (NP *)
+				 (AUX to)
+				 (VP encourage
+				     (NP them)
+				     (PP by
+					 (NP friendly treatment)))))))))))
+  
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP One social-class factor)
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (VP plays
+		(NP a large part)
+		(PP in
+		    (NP educational policy)))
+	    (NP today))))
+    (VP is
+	(NP the fact
+	    (SBAR that
+		  (S (NP  a
+			  (ADJP great)
+			  many school and college teachers)
+		     (VP are
+			 (ADJP  upward
+				mobile)
+			 (PP from
+			     (NP 
+			      (ADJP (ADJP urban lower-class) and (ADJP lower-middle-class))
+			      families))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their own experience
+       (PP in
+	   (NP the social system)))
+   (VP influences
+       (NP their work and attitudes
+	   (PP as
+	       (NP teachers)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+	  (S (NP this influence)
+	     (VP is
+		 (NP a complex matter))
+	     ,
+	     (S  (NP *) 
+		 (VP depending
+		     (PP (PP upon
+			     (NP personality factors
+				 (PP in
+				     (NP the individual))))
+			 (ADVP as
+			       well
+			       (PP as
+				   (PP upon
+				       (NP his social-class experience)))))))))
+   ,
+   (S (NP there)
+      (ADVP probably)
+      (VP are
+	  (NP some general statements
+	      (PP about
+		  (NP (NP (NP social-class background)
+			  and
+			  (NP educational policy))
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (AUX can)
+			  (VP be
+			      (VP made
+		     
+				  (PP with
+				      (NP a fair degree
+					  (PP of
+					      (NP truth))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)   
+((S (S (NP (NP Teachers)
+	   (SBAR  
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX have)
+	       (VP been
+		   (ADJP  upward
+			  mobile)))))
+       (ADVP probably)
+       (VP see
+	   (NP education)
+	   (PP as
+	       (ADJP  most valuable
+		      (PP for
+			  (NP their students)))))
+       (SBAR if
+	     (S (NP it)
+		(VP serves
+		    (NP students)
+		    (SBAR  as
+			   (S (NP it)
+			      (AUX has)
+			      (VP served
+				  (NP them))))))))
+    ;
+    ;
+    (S (S (NP that)
+	  (VP is))
+       ,
+       (S (NP they)
+	  (VP are
+	      (ADJP likely
+		    (S (NP *)
+		       (AUX to)
+		       (VP favor
+			   (NP (NP a kind
+				   (PP of
+				       (NP education)))
+			       (SBAR 
+				(WHNP that)
+				(S (NP T)
+				   (VP has
+				       (NP vocational-advancement value))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (AUX does)
+      (NEG not)
+      (ADVP necessarily)
+      (VP mean
+	  (SBAR that
+		(S (NP such teachers)
+		   (AUX will)
+		   (VP favor
+		       (NP (NP vocational education)
+			   ,
+			   (SBAR  as
+				  (S (NP *) 
+				     (VP contrasted
+					 (PP with
+					     (NP liberal education)))))
+			   ,))))))
+     but
+     (S (NP they)
+	(VP are
+	    (ADJP likely
+		  (S (NP *)
+		     (AUX to)
+		     (VP favor
+			 (NP (NP an approach
+				 (PP to
+				     (NP liberal education)))
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (VP has
+				     (NP a
+					 maximal vocational-advancement
+					 value)))))
+			 ,
+			 (PP as
+			     (PP against
+				 (NP (NP a kind
+					 (PP of
+					     (NP 
+					      (ADJP ``
+						    pure
+						    '')
+					      liberal
+					      education)))
+				     (SBAR 
+				      (WHNP that)
+				      (S (NP T)
+					 (AUX is)
+					 (NEG not)
+					 (VP designed
+					     (S (NP *)
+						(AUX to)
+						(VP help
+						    (NP people)
+						    (VP get
+							(NP  better
+							     jobs))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP is
+	(NP no doubt
+	    (SBAR that
+		  (S (NP 
+		      higher
+		      education
+		      (PP  since
+			   (NP World War 2)))
+		     ,
+		     (AUX has)
+		     (VP moved
+			 (ADVP away
+			       (PP from
+				   (NP 
+				    (ADJP ``
+					  pure
+					  '')
+				    liberal
+				    education)))
+			 (PP toward
+			     (NP 
+			      greater
+			      emphasis
+			      (PP on
+				  (NP (NP technology) and (NP specialization)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP several causes
+	   (PP for
+	       (NP this))))
+   ,
+   (S (NP one)
+      (VP being
+	  (NP  rapid economic
+	       development))
+      (PP with
+	  (S (NP (VP increasing)
+		 numbers
+		 (PP of
+		     of
+		     (NP middle-class positions)))
+	     (VP requiring
+		 (NP engineering
+		     or
+		     scientific training))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP another cause)
+	 (AUX may)
+	 (VP lie
+	     (PP in
+		 (NP the experience
+		     (PP of
+			 (NP  (ADJP so
+				    many) new postwar faculty members))
+		     (PP with
+			 (NP their own use
+			     (PP of
+				 (NP education))
+			     (PP as
+				 (NP a means
+				     (PP of
+					 (NP social advancement)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Compared
+	     (PP with
+		 (NP the college and university faculty members
+		     (PP of
+			 (NP the period
+			     (PP (PP from
+				     (NP 1900))
+				 (PP to
+				     (NP 1930)))))))))
+     ,
+     (S (NP the
+	    new postwar
+	    faculty members)
+	(VP consist
+	    (PP of
+		(NP (NP 
+		     more
+		     children
+		     (PP of
+			 (NP immigrants)))
+		    and
+		    (NP 
+		     more
+		     children
+		     (PP of
+			 (NP 
+			  urban working-class
+			  fathers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their experience)
+   (VP is
+       (PP  (ADVP quite)
+	    in
+	    (NP contrast
+		(PP with
+		    (NP that
+			(PP of
+			    (NP children
+				(PP of
+				    (NP (NP  (ADJP upper
+						   -
+						   and
+						   upper-middle-class) native-born
+						   parents)
+					,
+					(SBAR
+					 (WHNP who)
+					 (S (NP T)
+					    (VP are
+						(ADJP  more
+						       likely
+						       (S (S (NP *)
+							     (AUX to)
+							     (VP regard
+								 (NP education)
+								 (PP as
+								     (ADJP good
+									   (PP for
+									       (NP its own sake))))))
+							  and
+							  (S (NP *)
+							     (AUX to)
+							     (VP discount
+								 (NP the vocational emphases
+								     (PP in
+									 (NP the curriculum))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The
+     ``
+     public interest
+     ''
+     groups)
+  )
+( (S (NP Educational policies)
+     (AUX are)
+     (VP formed
+	     
+	 (PP by
+	     (NP (NP several groups)
+		 (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (AUX are)
+		     (VP (ADVP officially
+			       or
+			       unofficially)
+			 appointed
+			 (S (NP *)
+			    (AUX to)
+			    (VP act
+				(PP in
+				    (NP the public interest)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Legislators)
+      (VP are
+	  (NP one such group)))
+     ,
+     and
+     (S (NP state legislators)
+	(VP have
+	    (NP major responsibility
+		(PP for
+		    (NP educational legislation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (ADVP generally)
+      (VP vote
+	  (SBAR  so
+		 as
+		 (S (NP *)
+		    (AUX to)
+		    (VP serve
+			(NP their own constituency))))))
+     ,
+     and
+     (S (SBAR if
+	      (S (NP the constituency)
+		 (AUX should)
+		 (VP be
+		     (ADJP (ADJP (ADVP solidly)
+				 middle class)
+			   or
+			   (ADJP   (ADVP solidly)
+				   lower
+				   class)))))
+	,
+	(S (NP they)
+	   (AUX might)
+	   (VP be
+	       (VP expected
+		 
+		   (S (NP *)
+		      (AUX to)
+		      (VP vote and work
+			  (PP (PP for
+				  (ADJP middle))
+			      -
+			      or
+			      (PP for
+				  (NP lower-class interests)))
+			  (PP in
+			      (NP education)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (S (NP there)
+	    (VP are
+		(NP  (ADJP (ADVP relatively)
+			   few) such political constituencies)))
+	 ,
+	 and
+	 ,
+	 (S (SBAR  as
+		   (S  (NP *) 
+		       (AUX has)
+		       (VP been
+			   (VP pointed
+			       (PRT out)))))
+	    ,
+	    (S (NP there)
+	       (VP is
+		   (ADVP seldom)
+		   (NP a clear-cut distinction
+		       (PP between
+			   (NP (NP the educational interests
+				   (PP of
+				       (NP one social class)))
+			       and
+			       (NP those
+				   (PP of
+				       (NP another)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another public interest group)
+   (VP is
+       (NP (NP the commission
+	       (PP of
+		   (NP (NP laymen) or (NP educators))))
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (AUX is)
+	       (VP appointed
+		 
+		   (S (S (NP *)
+			 (AUX to)
+			 (VP study
+			     (NP an educational problem)))
+		      and
+		      (S (NP *)
+			 (AUX to)
+			 (VP make
+			     (NP recommendations))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Generally)
+      (S (NP these commissions)
+	 (VP work
+	     (ADVP earnestly)
+	     (S (NP *)
+		(AUX to)
+		(VP represent
+		    (NP (NP the interest
+			    (PP of
+				(NP the entire society)))
+			,
+			(SBAR  as
+			       (S (NP they)
+				  (VP conceive
+				      (NP it))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Nevertheless)
+      ,
+      (S (S (NP their conclusions and recommendations)
+	    (AUX can)
+	    (NEG not)
+	    (VP please
+		(NP everybody)))
+	 ,
+	 and
+	 (S (NP they)
+	    (ADVP often)
+	    (VP represent
+		(NP a
+		    particular (ADJP economic or political)
+		    point
+		    (PP of
+			(NP view)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP instance))
+   ,
+   (S (NP there)
+      (AUX have)
+      (VP been
+	  (NP two
+	      Presidential Commissions
+	      (PP on
+		  (NP 
+		   higher
+		   education))))
+      (PP  since
+	   (NP World War 2))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP President Truman)
+       's Commission
+       (PP on
+	   (NP Higher Education)))
+      (VP tended
+	  (S (NP *)
+	     (AUX to)
+	     (VP take
+		 (NP a
+		     liberal
+		     ,
+		     expansionist
+		     position)))))
+     ,
+     (SBAR while
+	   (S (NP
+	       (NP President Eisenhower)
+	       's
+	       Committee
+	       (PP on
+		   (NP Education 
+		       (PP Beyond
+			   (NP the High School)))))
+	      (VP was
+		  (ADJP   (ADVP slightly
+				more)
+			  conservative)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Both Commissions)
+   (VP consisted
+       (PP of
+	   (NP (NP  
+		(ADJP upper-middle
+		      -
+		      and
+		      upper-class) people)
+	       ,
+	       (SBAR
+		(WHNP who)
+		(S (NP T)
+		   (VP attempted
+		       (S (NP *)
+			  (AUX to)
+			  (VP act
+			      (PP in
+				  (NP the public interest)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An example
+	(PP of
+	    (NP a
+		(ADJP more
+		      definite) class bias)))
+    (AUX is)
+    (VP noted
+)
+    (PP in
+	(NP proceedings
+	    (PP of
+		(NP (NP the Commission
+			(PP on
+			    (NP the Financing
+				(PP of
+				    (NP Higher Education)))))
+		    (VP (VP sponsored
+			    (PP by
+				(NP the Association
+				    (PP of
+					(NP American Universities)))))
+			and
+			(VP supported
+			    (PP by
+				(NP (NP the Rockefeller Foundation)
+				    and
+				    (NP the Carnegie Corporation))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This Commission)
+   (VP recommended
+       (PP (PP against
+	       (NP the use
+		   (PP of
+		       (NP federal government funds))
+		   (PP for
+		       (NP the assistance
+			   (PP of
+			       (NP private universities))))))
+	   and
+	   (PP against
+	       (NP a broad program
+		   (PP of
+		       (NP government-supported scholarships)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This)
+       (AUX might)
+       (VP be
+	   (VP said
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (NP an
+			  upper
+			  -
+			  or
+			  an upper-middle-class bias))))))
+    ,
+    but
+    (S (NP the Commission)
+       (VP published
+	   (PP as
+	       (NP one
+		   (PP of
+		       (NP its staff studies))))
+	   (NP (NP a book
+		   (PP by
+		       (NP Byron S. Hollingshead)))
+	       (VP entitled
+		   (NP 
+		    (SBARQ  (WHNP Who)
+			    (SQ    (AUX Should)
+				   (NP T) 
+				   (VP Go 
+				       (PP To (NP College)))))
+		    ?
+		    ?)))))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SBAR 
+  (WHNP Which)
+  (S (NP T)
+     (VP recommended
+	 (NP a federal government scholarship program))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Furthermore)
+      ,
+      (S (NP the Commission)
+	 (VP set
+	     (PRT up)
+	     (NP the Council
+		 (PP for
+		     (NP Financial Aid
+			 (PP to
+			     (NP Education))))))
+	 (PP as
+	     (NP a means
+		 (PP of
+		     (S (NP *) 
+			(VP encouraging
+			    (NP private business)
+			    (S (NP *)
+			       (AUX to)
+			       (VP increase
+				   (NP its support
+				       (PP of
+					   (NP 
+					    private higher
+					    education))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP the Commission)
+	 (VP acted
+	     (PP with
+		 (NP a sense
+		     (PP of
+			 (NP social responsibility)))))
+	 (PP within
+	     (NP the area
+		 (PP of
+		     (NP its own convictions
+			 (PP about
+			     (NP the problem
+				 (PP of
+				     (NP government support
+					 (PP to
+					     (NP private education))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP there)
+	 (VP are
+	     (NP (NP the trustees and officers
+		     (PP of
+			 (NP the
+			     great educational
+			     foundations)))
+		 ,
+		 (SBAR 
+		  (WHNP who)
+		  (S  (NP T)
+		      (ADVP inevitably)
+		      (VP exert
+			  (NP an influence
+			      (PP on
+				  (NP educational decisions)))
+			  (PP by
+			      (NP their support or refusal
+				  (S (NP *)
+				     (AUX to)
+				     (VP support
+					 (NP 
+					  various educational
+					  programs
+					  ,
+					  experiments
+					  ,
+					  and
+					  demonstrations))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These people)
+   (VP are  
+       (ADVP (ADVP practically)
+	     always)
+       (NP (NP  (ADJP upper
+		      -
+		      or
+		      upper-middle-class) persons)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP attempt
+		   (S (NP *)
+		      (AUX to)
+		      (VP act
+			  (PP  in
+			       (SBAR (WHNP what)
+				     (S
+				      (NP they)
+				      (VP regard
+					  (NP T)
+					  (PP as
+					      (NP the interest
+						  (PP of
+						      (NP the entire society))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Finally)
+      (S (NP there)
+	 (VP are
+	     (NP (NP (NP the parent organizations)
+		     and
+		     (NP 
+		      (NP the laymen)
+		      's organizations))
+		 (ADJP such
+		       (PP as
+			   (NP (NP the National Association
+				   (PP of
+				       (NP (NP Parents)
+					   and
+					   (NP Teachers))))
+			       ,
+			       and
+			       (NP the Citizens Committee
+				   (PP on
+				       (NP Public Schools))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP have
+       (NP (NP an upper-middle-class leadership)
+	   and
+	   (NP a middle-class membership)))
+   ,
+   (PP with
+       (NP (NP  rare exceptions)
+	   ,
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP working-class parents)
+	       (VP are
+		   (ADJP active)
+		   (PP in
+		       (NP 
+			local
+			P.-T.A. matters))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Like
+       (NP the
+	   other policy-making
+	   groups))
+   ,
+   (S (S (NP these)
+	 (VP are
+	     (ADJP middle class)
+	     (PP in
+		 (NP their educational attitudes))))
+      ,
+      and
+      (S (NP they)
+	 (VP attempt
+	     (S (NP *)
+		(AUX to)
+		(VP act
+		    (PP in
+			(NP (NP the general public interest)
+			    ,
+			    (SBAR  as
+				   (S (NP they)
+				      (VP see
+					  (NP it))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (ADJP general))
+   ,
+   (S (NP it
+	  (SBAR-1 *pseudo-attach*))
+      (VP appears)
+      (SBAR-1 that
+	      (S (NP (NP educational decisions)
+		     and
+		     (NP educational policies))
+		 (AUX are)
+		 (VP made
+			      
+		     (PP by
+			 (NP (NP people)
+			     (SBAR 
+			      (WHNP who)
+			      (S (NP T)
+				 (VP intend
+				     (S (NP *)
+					(AUX to)
+					(VP act
+					    (PP in
+						(NP the interests
+						    (PP of
+							(NP the society
+							    (PP as
+								(NP a whole))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP (VP are
+	   (ADVP predominantly)
+	   (NP  (ADJP middle
+		      -
+		      and
+		      upper-class) people))
+       ,
+       and
+       (VP (ADVP undoubtedly)
+	   share
+	   (NP the values and attitudes
+	       (PP of
+		   (NP those classes))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX may)
+   (VP (VP be
+	   (ADJP unaware
+		 (PP of
+		     (NP the existence
+			 (PP of
+			     (NP lower-class values))))))
+       and
+       (ADVP consequently)
+       (VP fail
+	   (S (NP *)
+	      (AUX to)
+	      (VP take
+		  (NP them)
+		  (PP into
+		      (NP account)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP there)
+	 (VP is
+	     (NP   (ADJP very
+			 little)
+		   (ADJP frank and conscious) espousal
+		   (PP of
+		       (NP the interests
+			   (PP of
+			       (NP any one social class))))
+		   (PP by
+		       (NP (NP the people)
+			   (SBAR 
+			    (WHNP who)
+			    (S (NP T)
+			       (VP have
+				   (NP the power
+				       (S (NP *)
+					  (AUX to)
+					  (VP make
+					      (NP decisions))
+					  (PP in
+					      (NP education)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP (VP think
+	   (PP of
+	       (NP themselves))
+	   (PP as
+	       (NP trustees
+		   (PP for
+		       (NP the entire society)))))
+       and
+       (VP try
+	   (S (NP *)
+	      (AUX to)
+	      (VP serve
+		  (NP the entire society))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Attempts
+      (S (NP *)
+	 (AUX to)
+	 (VP influence
+	     (NP social structure)
+	     (PP through
+		 (NP education Educational policy)))))
+  (PP in
+      (NP the United States))
+  (VP has
+      (PP as
+	  (NP an explicit goal))
+      (NP the maximization
+	  (PP of
+	      (NP (ADJP economic and cultural) opportunity)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP  In
+	  so
+	  far
+	  (PP as
+	      (S (NP this goal)
+		 (AUX is)
+		 (VP achieved
+		     ))))
+   ,
+   (S (S (NP the society)
+	 (VP becomes
+	     (ADJP  more
+		    fluid)))
+      ,
+      (S (NP  artificial
+	      barriers
+	      (PP to
+		  (NP social mobility)))
+	 (AUX are)
+	 (VP reduced
+	     ))
+      ,
+      and
+      (S (NP people
+	     (PP at
+		 (NP the
+		     lower
+		     end
+		     (PP of
+			 (NP the social hierarchy)))))
+	 (VP share
+	     (ADVP more fully)
+	     (PP in
+		 (NP the (ADJP material
+			       and
+			       cultural) goods
+			       (PP of
+				   (NP society))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP the other hand))
+   ,
+   (S (NP there)
+      (VP is
+	  (NP (NP a counterbalancing purpose)
+	      (SBAR-2 *pseudo-attach*))
+	  (PP in
+	      (NP education))
+	  (SBAR-2 
+	   (WHNP which)
+	   (S (NP T)
+	      (VP is
+		  (S (NP *)
+		     (AUX to)
+		     (VP pass
+			 (PRT on)
+			 (NP the advantages
+			     (PP of
+				 (NP the parents)))
+			 (PP to
+			     (NP their children))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP leads
+       (PP (PP to
+	       (NP efforts
+		   (PP at
+		       (NP exclusiveness))
+		   (PP through
+		       (NP private schools))))
+	   and
+	   (PP to
+	       (NP the maintenance
+		   (PP of
+		       (NP social stratification))
+		   (PP in
+		       (NP the schools)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Both
+       (PP of
+	   (NP these purposes)))
+   (VP exist
+       (NP side
+	   (PP by
+	       (NP side)))
+       (PP without
+	   (NP much overt conflict))
+       (PP under
+	   (NP present conditions))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *)
+       (VP Maximizing
+	   (NP (ADJP economic and cultural) opportunity)))
+  )
+( (S (NP The broad expansion
+	 (PP of
+	     (NP free education)))
+     (VP results
+	 (PP  both
+	      (PP in
+		  (S (NP *) 
+		     (VP raising
+			 (NP the
+			     average (ADJP economic and cultural)
+			     level
+			     (PP of
+				 (NP the society))))))
+	      and
+	      (PP in
+		  (S (NP *)
+		     (VP promoting
+			 (NP fluidity))
+		     (PP within
+			 (NP the social structure)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (ADVP (NP Fifty years)
+	 ago)
+   (S (NP the general raising
+	  (PP of
+	      (NP the school-leaving age))
+	  (PP to
+	      (NP sixteen)))
+      (VP was
+	  (NP an example
+	      (PP of
+		  (NP this movement))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the past decade))
+     (S
+      (NP the program)
+      (AUX has)
+      (VP been
+	  (VP carried
+	       
+	      (PRT on)
+	      (PP through
+		  (NP expansion
+		      (PP of
+			  (NP 
+			   free higher
+			   education
+			   (PP in
+			       (NP (NP state universities)
+				   ,
+				   (NP state colleges)
+				   ,
+				   and
+				   (NP community colleges)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The reaffirmation
+	  (PP of
+	      (NP American faith
+		  (PP in
+		      (NP the
+			  comprehensive high
+			  school)))))
+      ,
+      (SBAR  as
+	     (S  (NP *)  
+		 (VP expressed
+		     (PP in
+			 (NP the Conant study)))))
+      ,)
+  (VP is
+      (NP another indication
+	  (PP of
+	      (NP the liveliness
+		  (PP of
+		      (NP the ideal
+			  (PP of
+			      (S (NP *)  
+				 (VP maximizing
+				     (NP opportunity)
+				     (PP through
+					 (NP the equalizing
+					     (PP of
+						 (NP educational opportunity))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The
+	recent federal
+	government)
+    's student-loan program)
+   (VP is
+       (NP another step
+	   (PP in
+	       (NP the direction
+		   (PP of
+		       (S (NP *) 
+			  (VP making
+			      (NP 
+			       higher
+			       education)
+			      (ADJP  more
+				     available
+				     (PP to
+					 (NP lower-status youth)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP It)
+    (VP is
+	(ADVP probably)
+	(ADJP more effective
+	      (PP than
+		  (NP the  (VP expanded) scholarship programs
+		      (PP of
+			  (NP the past decade))))))
+    ,
+    (SBAR because
+	  (S (S (NP the scholarship programs)
+		(ADVP mainly)
+		(VP aided
+		    (NP (NP the students
+			    (PP with
+				(NP the
+				    best academic
+				    records)))
+			*LRB*
+			(SBAR  
+			 (WHNP who)
+			 (S (NP T)
+			    (VP were
+				(ADVP usually)
+				(ADJP middle-class))))
+			*RRB*)))
+	     ,
+	     and
+	     (S (NP these students)
+		(VP tended
+		    (S (NP *)
+		       (AUX to)
+		       (VP use
+			   (NP the scholarship funds)
+			   (S (NP *)
+			      (AUX to)
+			      (VP go
+				  (PP to
+				      (NP 
+				       (ADJP more expensive)
+				       colleges)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Meanwhile)
+      ,
+      (S (NP the private colleges)
+	 (AUX have)
+	 (VP increased
+	     (NP their tuition rates)
+	     (ADVP so
+		   much
+		   (SBAR that
+			 (S (NP they)
+			    (AUX have)
+			    (VP raised
+				(NP (NP an economic barrier)
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(VP dwarfs
+					    (NP their scholarship funds))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gains
+       (PP in
+	   (NP educational opportunity)))
+   (PP during
+       (NP the past decade))
+   (AUX have)
+   (VP taken
+       (NP place)
+       (ADVP largely)
+       (PP in
+	   (NP the
+	       (VP (ADVP publicly)
+		   supported)
+	       institutions))))  
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

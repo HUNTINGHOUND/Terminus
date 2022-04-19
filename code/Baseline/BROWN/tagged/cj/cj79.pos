@@ -1,0 +1,1574 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT set/NN ]
+of/IN 
+[ all/DT decisions/NNS ]
+is/VBZ called/VBN 
+[ the/DT operating/VBG policy/NN ]
+or/CC ,/, more/RBR simply/RB ,/, 
+[ the/DT policy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT optimal/JJ policy/NN ]
+is/VBZ 
+[ one/CD ]
+
+[ which/WDT ]
+in/IN 
+[ some/DT sense/NN ]
+gets/VBZ 
+[ the/DT best/JJS ]
+out/IN of/IN 
+[ the/DT process/NN ]
+as/IN 
+[ a/DT whole/NN ]
+by/IN maximizing/VBG 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT product/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+are/VBP thus/RB 
+[ three/CD components/NNS ]
+to/TO 
+[ an/DT optimal/JJ design/NN problem/NN ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ The/DT specification/NN ]
+of/IN 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT process/NN stream/NN ]
+;/: ;/: (/( 
+[ 2/LS ]
+)/) 
+[ The/DT specification/NN ]
+of/IN 
+[ the/DT operating/VBG variables/NNS ]
+and/CC 
+[ the/DT transformation/NN ]
+
+[ they/PRP ]
+effect/VBP ;/: ;/: (/( 
+[ 3/LS ]
+)/) 
+[ The/DT specification/NN ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+of/IN 
+[ which/WDT ]
+
+[ the/DT optimization/NN ]
+is/VBZ desired/VBN ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ a/DT chemical/JJ process/NN ]
+
+[ the/DT first/JJ ]
+of/IN 
+[ these/DT ]
+might/MD involve/VB 
+[ the/DT concentrations/NNS ]
+of/IN 
+[ the/DT different/JJ chemical/NN species/NN ]
+,/, and/CC 
+[ the/DT temperature/NN ]
+or/CC 
+[ pressure/NN ]
+of/IN 
+[ the/DT stream/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT second/JJ ]
+
+[ we/PRP ]
+might/MD have/VB to/TO choose/VB 
+[ the/DT volume/NN ]
+of/IN 
+[ reactor/NN ]
+or/CC 
+[ amount/NN ]
+of/IN cooling/NN to/TO be/VB supplied/VBN ;/: ;/: 
+[ the/DT way/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT transformation/NN ]
+of/IN 
+[ state/NN ]
+depends/VBZ on/IN 
+[ the/DT operating/VBG variables/NNS ]
+for/IN 
+[ the/DT main/JJ types/NNS ]
+of/IN 
+[ reactors/NNS ]
+is/VBZ discussed/VBN in/IN 
+[ the/DT next/JJ chapter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT objective/JJ function/NN ]
+is/VBZ 
+[ some/DT measure/NN ]
+of/IN 
+[ the/DT increase/NN ]
+in/IN 
+[ value/NN ]
+of/IN 
+[ the/DT stream/NN ]
+by/IN processing/VBG ;/: ;/: 
+[ it/PRP ]
+is/VBZ 
+[ the/DT subject/NN ]
+of/IN 
+[ Chapter/NN 4/CD ]
+./. 
+==================================
+
+[ The/DT essential/JJ characteristic/NN ]
+of/IN 
+[ an/DT optimal/JJ policy/NN ]
+when/WRB 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT stream/NN ]
+is/VBZ transformed/VBN in/IN 
+[ a/DT sequence/NN ]
+of/IN 
+[ stages/NNS ]
+with/IN 
+[ no/DT feedback/NN ]
+was/VBD first/RB isolated/VBN by/IN 
+[ Bellman/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+recognized/VBD that/IN 
+[ whatever/WDT transformation/NN ]
+may/MD be/VB effected/VBN in/IN 
+[ the/DT first/JJ stage/NN ]
+of/IN 
+[ an/DT R-stage/JJ process/NN ]
+,/, 
+[ the/DT remaining/VBG stages/NNS ]
+must/MD use/VB 
+[ an/DT optimal/JJ Af-stage/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT state/NN ]
+resulting/VBG from/IN 
+[ the/DT first/JJ stage/NN ]
+,/, if/IN 
+[ there/EX ]
+is/VBZ to/TO be/VB 
+[ any/DT chance/NN ]
+of/IN optimizing/VBG 
+[ the/DT complete/JJ process/NN ]
+./. 
+==================================
+Moreover/RB ,/, by/IN systematically/RB varying/VBG 
+[ the/DT operating/VBG conditions/NNS ]
+in/IN 
+[ the/DT first/JJ stage/NN ]
+and/CC always/RB using/VBG 
+[ the/DT optimal/JJ Af-stage/JJ policy/NN ]
+for/IN 
+[ the/DT remaining/VBG stages/NNS ]
+,/, 
+[ we/PRP ]
+shall/MD eventually/RB find/VB 
+[ the/DT optimal/JJ policy/NN ]
+for/IN 
+[ all/DT R/NN stages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Proceeding/VBG ]
+in/IN 
+[ this/DT way/NN ]
+,/, from/IN 
+[ one/CD ]
+to/TO 
+[ two/CD ]
+and/CC from/IN 
+[ two/CD ]
+to/TO 
+[ three/CD stages/NNS ]
+,/, 
+[ we/PRP ]
+may/MD gradually/RB build/VB up/IN 
+[ the/DT policy/NN ]
+for/IN 
+[ any/DT number/NN ]
+./. 
+==================================
+At/IN 
+[ each/DT step/NN ]
+of/IN 
+[ the/DT calculation/NN ]
+
+[ the/DT operating/VBG variables/NNS ]
+of/IN only/RB 
+[ one/CD stage/NN ]
+need/MD be/VB varied/VBN ./. 
+==================================
+To/TO see/VB how/WRB 
+[ important/JJ ]
+
+[ this/DT economy/NN ]
+is/VBZ ,/, let/VB 
+[ us/PRP ]
+suppose/VB that/IN 
+[ there/EX ]
+are/VBP 
+[ M/NN ]
+operating/VBG 
+[ variables/NNS ]
+at/IN 
+[ each/DT stage/NN ]
+and/CC that/IN 
+[ the/DT state/NN ]
+is/VBZ specified/VBN by/IN 
+[ N/NN variables/NNS ]
+;/: ;/: then/RB 
+[ the/DT search/NN ]
+for/IN 
+[ the/DT maximum/NN ]
+at/IN 
+[ any/DT one/CD stage/NN ]
+will/MD require/VB 
+[ a/DT number/NN ]
+of/IN 
+[ operations/NNS ]
+of/IN 
+[ order/NN A[fj]/SYM ]
+(/( where/WRB 
+[ a/NN ]
+is/VBZ 
+[ some/DT number/NN ]
+not/RB unreasonably/RB large/JJ )/) ./. 
+==================================
+
+==================================
+==================================
+To/TO proceed/VB from/IN 
+[ one/CD stage/NN ]
+to/TO 
+[ the/DT next/JJ a/DT sufficient/JJ number/NN ]
+of/IN 
+[ feed/NN states/NNS ]
+must/MD be/VB investigated/VBN to/TO allow/VB for/IN 
+[ interpolation/NN ]
+;/: ;/: 
+[ this/DT number/NN ]
+will/MD be/VB of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN ,/, however/RB ,/, 
+[ we/PRP ]
+are/VBP seeking/VBG 
+[ the/DT optimal/JJ R-stage/JJ policy/NN ]
+for/IN 
+[ a/DT given/VBN feed/NN state/NN ]
+,/, only/RB 
+[ one/CD search/NN ]
+for/IN 
+[ a/DT maximum/NN ]
+is/VBZ required/VBN at/IN 
+[ the/DT final/JJ step/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ a/DT number/NN ]
+of/IN 
+[ operations/NNS ]
+of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ A[fj]/SYM ]
+are/VBP required/VBN ./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ all/PDT the/DT operating/VBG variables/NNS ]
+were/VBD varied/VBN simultaneously/RB ,/, 
+[ A[fj]/SYM operations/NNS ]
+would/MD be/VB required/VBN to/TO do/VB 
+[ the/DT same/JJ job/NN ]
+,/, and/CC as/IN 
+[ R/NN ]
+increases/VBZ 
+[ this/DT ]
+increases/VBZ very/RB much/RB more/RBR rapidly/RB than/IN 
+[ the/DT number/NN ]
+of/IN 
+[ operations/NNS ]
+required/VBN by/IN 
+[ the/DT dynamic/JJ program/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC even/RB more/RBR important/JJ than/IN 
+[ this/DT ]
+is/VBZ 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT direct/JJ search/NN ]
+by/IN simultaneously/RB varying/VBG 
+[ all/DT operating/VBG conditions/NNS ]
+has/VBZ produced/VBN only/RB 
+[ one/CD optimal/JJ policy/NN ]
+,/, namely/RB ,/, that/IN for/IN 
+[ the/DT given/VBN feed/NN state/NN ]
+and/CC 
+[ R/NN stages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ contrast/NN ]
+,/, 
+[ the/DT dynamic/JJ program/NN ]
+produces/VBZ 
+[ this/DT policy/NN ]
+and/CC 
+[ a/DT whole/JJ family/NN ]
+of/IN 
+[ policies/NNS ]
+for/IN 
+[ any/DT smaller/JJR number/NN ]
+of/IN 
+[ stages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT problem/NN ]
+is/VBZ enlarged/VBN to/TO require/VB 
+[ a/DT complete/JJ coverage/NN ]
+of/IN 
+[ feed/NN states/NNS ]
+,/, 
+[ A[fj]/SYM operations/NNS ]
+are/VBP needed/VBN by/IN 
+[ the/DT dynamic/JJ program/NN ]
+and/CC 
+[ A[fj]/SYM ]
+by/IN 
+[ the/DT direct/JJ search/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ A[fj]/SYM ]
+is/VBZ vastly/RB larger/JJR than/IN 
+[ R/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT optimism/NN ]
+is/VBZ more/RBR baseless/JJ than/IN that/IN 
+[ which/WDT ]
+believes/VBZ that/IN 
+[ the/DT high/JJ speed/NN ]
+of/IN 
+[ modern/JJ digital/JJ computers/NNS ]
+allows/VBZ for/IN 
+[ use/NN ]
+of/IN 
+[ the/DT crudest/JJS ]
+of/IN 
+[ methods/NNS ]
+in/IN searching/VBG out/IN 
+[ a/DT result/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Suppose/VB that/IN 
+[ A[fj]/SYM ]
+,/, and/CC that/IN 
+[ the/DT average/JJ operation/NN ]
+requires/VBZ 
+[ only/JJ A[fj]/SYM sec./NN ]
+./. Then/RB 
+[ the/DT dynamic/JJ program/NN ]
+would/MD require/VB about/IN 
+[ a/DT minute/NN ]
+whereas/IN 
+[ the/DT direct/JJ search/NN ]
+would/MD take/VB more/RBR than/IN 
+[ three/CD millennia/NN ]
+!/. !/. 
+==================================
+
+[ The/DT principle/NN ]
+of/IN 
+[ optimality/NN ]
+thus/RB brings/VBZ 
+[ a/DT vital/JJ organization/NN ]
+into/IN 
+[ the/DT search/NN ]
+for/IN 
+[ the/DT optimal/JJ policy/NN ]
+of/IN 
+[ a/DT multistage/JJ decision/NN process/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Bellman/NNP ]
+(/( 
+[ 1957/CD ]
+)/) has/VBZ annunciated/VBN in/IN 
+[ the/DT following/VBG terms/NNS ]
+:/: ``/`` 
+[ An/DT optimal/JJ policy/NN ]
+has/VBZ 
+[ the/DT property/NN ]
+that/IN 
+[ whatever/WDT ]
+
+[ the/DT initial/JJ state/NN ]
+and/CC 
+[ initial/JJ decision/NN ]
+are/VBP ,/, 
+[ the/DT remaining/VBG decisions/NNS ]
+must/MD constitute/VB 
+[ an/DT optimal/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT state/NN ]
+resulting/VBG from/IN 
+[ the/DT first/JJ decision/NN ]
+''/'' ./. 
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT principle/NN ]
+
+[ which/WDT ]
+
+[ we/PRP ]
+will/MD invoke/VB in/IN 
+[ every/DT case/NN ]
+to/TO set/VB up/IN 
+[ a/DT functional/JJ equation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+appears/VBZ in/IN 
+[ a/DT form/NN ]
+
+[ that/WDT ]
+is/VBZ admirably/RB suited/VBN to/TO 
+[ the/DT powers/NNS ]
+of/IN 
+[ the/DT digital/JJ computer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ every/DT device/NN ]
+
+[ that/WDT ]
+can/MD be/VB employed/VBN to/TO reduce/VB 
+[ the/DT number/NN ]
+of/IN 
+[ variables/NNS ]
+is/VBZ of/IN 
+[ the/DT greatest/JJS value/NN ]
+,/, and/CC 
+[ it/PRP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT attractive/JJ features/NNS ]
+of/IN 
+[ dynamic/JJ programming/NN ]
+
+[ that/DT room/NN ]
+is/VBZ left/VBN for/IN 
+[ ingenuity/NN ]
+in/IN using/VBG 
+[ the/DT special/JJ features/NNS ]
+of/IN 
+[ the/DT problem/NN ]
+to/TO 
+[ this/DT end/NN ]
+./. 
+==================================
+
+[ 2.2/CD ]
+
+[ the/DT discrete/JJ deterministic/JJ process/NN ]
+Consider/VB 
+[ the/DT process/NN ]
+illustrated/VBN in/IN 
+[ Fig./NN 2.1/CD ]
+,/, consisting/VBG of/IN 
+[ R/NN distinct/JJ stages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+will/MD be/VB numbered/VBN in/IN 
+[ the/DT direction/NN ]
+opposite/JJ to/TO 
+[ the/DT flow/NN ]
+of/IN 
+[ the/DT process/NN stream/NN ]
+,/, so/RB that/IN 
+[ stage/NN R/NN ]
+is/VBZ 
+[ the/DT T/NN stage/NN ]
+from/IN 
+[ the/DT end/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT stream/NN leaving/VBG stage/NN R/NN ]
+be/VB denoted/VBN by/IN 
+[ a/DT vector/NN A[fj]/SYM ]
+and/CC 
+[ the/DT operating/VBG variables/NNS ]
+of/IN 
+[ stage/NN R/NN ]
+by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ A[fj]/SYM ]
+denotes/VBZ 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT feed/NN ]
+to/TO 
+[ the/DT R-stage/JJ process/NN ]
+,/, and/CC 
+[ A[fj]/SYM ]
+
+[ the/DT state/NN ]
+of/IN 
+[ the/DT product/NN ]
+from/IN 
+[ the/DT last/JJ stage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT stage/NN ]
+transforms/VBZ 
+[ the/DT state/NN A[fj]/SYM ]
+of/IN 
+[ its/PRP$ feed/NN ]
+to/TO 
+[ the/DT state/NN A[fj]/SYM ]
+in/IN 
+[ a/DT way/NN ]
+
+[ that/WDT ]
+depends/VBZ on/IN 
+[ the/DT operating/VBG variables/NNS A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+write/VBP 
+[ this/DT A[fj]/SYM ]
+./. 
+==================================
+
+[ This/DT transformation/NN ]
+is/VBZ uniquely/RB determined/VBN by/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ we/PRP ]
+therefore/RB speak/VBP of/IN 
+[ the/DT process/NN ]
+as/IN 
+[ deterministic/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ practical/JJ situations/NNS ]
+
+[ there/EX ]
+will/MD be/VB 
+[ restrictions/NNS ]
+on/IN 
+[ the/DT admissible/JJ operating/VBG conditions/NNS ]
+,/, and/CC 
+[ we/PRP ]
+regard/VBP 
+[ the/DT vectors/NNS ]
+as/IN belonging/VBG to/TO 
+[ a/DT fixed/JJ ]
+and/CC bounded/JJ 
+[ set/NN S/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT set/NN ]
+of/IN 
+[ vectors/NNS A[fj]/SYM ]
+constitutes/VBZ 
+[ the/DT operating/VBG policy/NN ]
+or/CC ,/, more/RBR 
+[ briefly/NN ]
+,/, 
+[ the/DT policy/NN ]
+,/, and/CC 
+[ a/DT policy/NN ]
+is/VBZ admissible/JJ if/IN 
+[ all/DT the/DT A[fj]/SYM ]
+belong/VB to/TO 
+[ S/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT policy/NN ]
+has/VBZ been/VBN chosen/VBN ,/, 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT product/NN ]
+can/MD be/VB obtained/VBN from/IN 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT feed/NN ]
+by/IN 
+[ repeated/VBN application/NN ]
+of/IN 
+[ the/DT transformation/NN ]
+(/( 
+[ 1/CD ]
+)/) ;/: ;/: thus/RB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT objective/NN function/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ to/TO be/VB maximized/VBN ,/, is/VBZ 
+[ some/DT function/NN ]
+,/, usually/RB piecewise/RB 
+[ continuous/JJ ]
+,/, of/IN 
+[ the/DT product/NN state/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ this/DT ]
+be/VB denoted/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ An/DT optimal/JJ policy/NN ]
+is/VBZ 
+[ an/DT admissible/JJ policy/NN A[fj]/SYM ]
+
+[ which/WDT ]
+maximizes/VBZ 
+[ the/DT objective/JJ function/NN P/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT policy/NN ]
+may/MD not/RB be/VB unique/JJ but/CC 
+[ the/DT maximum/JJ value/NN ]
+of/IN 
+[ P/NN ]
+certainly/RB is/VBZ ,/, and/CC once/RB 
+[ the/DT policy/NN ]
+is/VBZ specified/VBN 
+[ this/DT maximum/NN ]
+can/MD be/VB calculated/VBN by/IN (/( 
+[ 2/CD ]
+)/) and/CC (/( 
+[ 3/CD ]
+)/) as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT feed/NN state/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ A[fj]/SYM ]
+where/WRB 
+[ the/DT maximization/NN ]
+is/VBZ over/IN 
+[ all/DT admissible/JJ policies/NNS A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ it/PRP ]
+is/VBZ necessary/JJ to/TO be/VB 
+[ specific/JJ ]
+
+[ we/PRP ]
+say/VBP that/IN 
+[ the/DT optimal/JJ policy/NN ]
+is/VBZ 
+[ an/DT optimal/JJ R-stage/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT feed/NN state/NN A[fj]/SYM ]
+./. 
+==================================
+For/IN 
+[ any/DT choice/NN ]
+of/IN 
+[ admissible/JJ policy/NN A[fj]/SYM ]
+in/IN 
+[ the/DT first/JJ stage/NN ]
+,/, 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT stream/NN ]
+leaving/VBG 
+[ this/DT stage/NN ]
+is/VBZ given/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT feed/NN state/NN ]
+of/IN 
+[ the/DT subsequent/JJ A[fj]/SYM stages/NNS ]
+
+[ which/WDT ]
+,/, according/VBG to/TO 
+[ the/DT principle/NN ]
+of/IN 
+[ optimality/NN ]
+,/, must/MD use/VB 
+[ an/DT optimal/JJ Af-stage/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ this/DT state/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+will/MD result/VB in/IN 
+[ a/DT value/NN A[fj]/SYM ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+,/, and/CC when/WRB 
+[ A[fj]/SYM ]
+is/VBZ chosen/VBN correctly/RB 
+[ this/DT ]
+will/MD give/VB 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT maximum/NN ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ A[fj]/SYM ]
+where/WRB 
+[ the/DT maximization/NN ]
+is/VBZ over/IN 
+[ all/DT admissible/JJ policies/NNS A[fj]/SYM ]
+,/, and/CC 
+[ A[fj]/SYM ]
+is/VBZ related/VBN to/TO 
+[ A[fj]/SYM ]
+by/IN (/( 
+[ 5/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT sequence/NN ]
+of/IN 
+[ equations/NNS ]
+(/( 
+[ 6/CD ]
+)/) can/MD be/VB solved/VBN for/IN 
+[ A[fj]/SYM ]
+when/WRB 
+[ A[fj]/SYM ]
+is/VBZ known/VBN ,/, and/CC clearly/RB 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT maximization/NN ]
+being/VBG over/IN 
+[ all/DT admissible/JJ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT set/NN ]
+of/IN 
+[ equations/NNS ]
+(/( 
+[ 5/CD ]
+)/) ,/, (/( 
+[ 6/CD ]
+)/) ,/, and/CC 
+[ the/DT starting/VBG equation/NN ]
+(/( 
+[ 7/CD ]
+)/) is/VBZ of/IN 
+[ a/DT recursive/JJ type/NN ]
+well/RB suited/VBN to/TO 
+[ programming/NN ]
+on/IN 
+[ the/DT digital/JJ computer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN finding/VBG 
+[ the/DT optimal/JJ R-stage/JJ policy/NN ]
+from/IN 
+[ that/DT ]
+of/IN 
+[ A[fj]/SYM stages/NNS ]
+,/, only/RB 
+[ the/DT function/NN A[fj]/SYM ]
+is/VBZ needed/VBN ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ A[fj]/SYM ]
+has/VBZ been/VBN found/VBN 
+[ it/PRP ]
+may/MD be/VB transferred/VBN into/IN 
+[ the/DT storage/NN location/NN ]
+of/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ the/DT whole/JJ calculation/NN ]
+repeated/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+also/RB see/VBP how/WRB 
+[ the/DT results/NNS ]
+may/MD be/VB presented/VBN ,/, although/IN if/IN 
+[ n/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ state/NN variables/NNS ]
+,/, is/VBZ large/JJ 
+[ any/DT tabulation/NN ]
+will/MD become/VB 
+[ cumbersome/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT table/NN ]
+or/CC 
+[ set/NN ]
+of/IN 
+[ tables/NNS ]
+may/MD be/VB set/VBN out/IN as/IN in/IN 
+[ Table/NN 2.1/CD ]
+./. 
+==================================
+To/TO extract/VB 
+[ the/DT optimal/JJ R-stage/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT feed/NN state/NN A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+enter/VBP 
+[ section/NN R/NN ]
+of/IN 
+[ this/DT table/NN ]
+at/IN 
+[ the/DT state/NN A[fj]/SYM ]
+and/CC find/VB immediately/RB from/IN 
+[ the/DT last/JJ column/NN ]
+
+[ the/DT maximum/JJ value/NN ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT third/JJ column/NN ]
+is/VBZ given/VBN 
+[ the/DT optimal/JJ policy/NN ]
+for/IN 
+[ stage/NN R/NN ]
+,/, and/CC in/IN 
+[ the/DT fourth/JJ ]
+,/, 
+[ the/DT resulting/VBG state/NN ]
+of/IN 
+[ the/DT stream/NN ]
+when/WRB 
+[ this/DT policy/NN ]
+is/VBZ used/VBN ./. 
+==================================
+
+==================================
+==================================
+Since/IN by/IN 
+[ the/DT principle/NN ]
+of/IN 
+[ optimality/NN ]
+
+[ the/DT remaining/VBG stages/NNS ]
+use/VB 
+[ an/DT optimal/JJ Af-stage/JJ policy/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+may/MD enter/VB 
+[ section/NN A[fj]/SYM ]
+of/IN 
+[ the/DT table/NN ]
+at/IN 
+[ this/DT state/NN A[fj]/SYM ]
+and/CC read/VBD off/IN 
+[ the/DT optimal/JJ policy/NN ]
+for/IN 
+[ stage/NN A[fj]/SYM ]
+and/CC 
+[ the/DT resulting/VBG state/NN A[fj]/SYM ]
+./. 
+==================================
+
+[ Proceeding/VBG ]
+in/IN 
+[ this/DT way/NN ]
+up/IN 
+[ the/DT table/NN ]
+
+[ we/PRP ]
+extract/VBP 
+[ the/DT complete/JJ optimal/JJ policy/NN ]
+and/CC ,/, if/IN 
+[ it/PRP ]
+is/VBZ desired/VBN ,/, 
+[ we/PRP ]
+can/MD check/VB on/IN 
+[ A[fj]/SYM ]
+by/IN evaluating/VBG 
+[ A[fj]/SYM ]
+at/IN 
+[ the/DT last/JJ stage/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+may/MD be/VB that/IN 
+[ the/DT objective/JJ function/NN ]
+depends/VBZ not/RB only/RB on/IN 
+[ A[fj]/SYM ]
+but/CC also/RB on/IN 
+[ A[fj]/SYM ]
+,/, as/IN when/WRB 
+[ the/DT cost/NN ]
+of/IN 
+[ the/DT operating/VBG policy/NN ]
+is/VBZ considered/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT moment/NN 's/POS reflection/NN ]
+shows/VBZ that/IN 
+[ the/DT above/JJ algorithm/NN ]
+and/CC 
+[ presentation/NN work/NN ]
+equally/RB well/RB in/IN 
+[ this/DT case/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT form/NN ]
+of/IN 
+[ objective/JJ function/NN ]
+that/IN 
+[ we/PRP ]
+shall/MD often/RB have/VB 
+[ occasion/NN ]
+to/TO consider/VB is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Here/RB 
+[ P/NN ]
+represents/VBZ 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT stream/NN ]
+in/IN 
+[ state/NN P/NN ]
+and/CC 
+[ Q/NN ]
+
+[ the/DT cost/NN ]
+of/IN operating/VBG 
+[ the/DT stage/NN ]
+with/IN 
+[ conditions/NNS Q/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB 
+[ P/NN ]
+is/VBZ 
+[ the/DT increase/NN ]
+in/IN 
+[ value/NN ]
+of/IN 
+[ the/DT stream/NN ]
+minus/CC 
+[ the/DT cost/NN ]
+of/IN 
+[ operation/NN ]
+,/, 
+[ that/DT ]
+is/VBZ ,/, 
+[ the/DT net/JJ profit/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+denotes/VBZ 
+[ the/DT net/JJ profit/NN ]
+from/IN 
+[ stage/NN R/NN ]
+and/CC 
+[ A[fj]/SYM ]
+,/, then/RB 
+[ the/DT principle/NN ]
+of/IN 
+[ optimality/NN ]
+gives/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT sequence/NN ]
+of/IN 
+[ equations/NNS ]
+may/MD be/VB started/VBN with/IN 
+[ the/DT remark/NN ]
+that/IN with/IN 
+[ no/DT process/NN A[fj]/SYM there/EX ]
+is/VBZ 
+[ no/DT profit/NN ]
+,/, 
+[ i.e./FW ]
+,/, 
+[ Af./NN 2.3/CD ]
+
+[ the/DT discrete/JJ stochastic/JJ process/NN ]
+
+[ The/DT process/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT outcome/NN ]
+of/IN 
+[ any/DT one/CD stage/NN ]
+is/VBZ known/VBN only/RB statistically/RB is/VBZ also/RB of/IN 
+[ interest/NN ]
+,/, although/IN for/IN 
+[ chemical/JJ reactor/NN design/NN ]
+
+[ it/PRP ]
+is/VBZ not/RB as/RB important/JJ as/IN 
+[ the/DT deterministic/JJ process/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ this/DT case/NN ]
+
+[ the/DT stage/NN R/NN ]
+operating/VBG with/IN 
+[ conditions/NNS A[fj]/SYM ]
+transforms/VBZ 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT stream/NN ]
+from/IN 
+[ A[fj]/SYM ]
+to/TO 
+[ A[fj]/SYM ]
+,/, but/CC only/RB 
+[ the/DT probability/NN distribution/NN ]
+of/IN 
+[ A[fj]/SYM ]
+is/VBZ known/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ specified/VBN by/IN 
+[ a/DT distribution/NN function/NN A[fj]/SYM such/JJ ]
+that/IN 
+[ the/DT probability/NN ]
+that/IN 
+[ A[fj]/SYM ]
+lies/VBZ in/IN 
+[ some/DT region/NN D/NN ]
+of/IN 
+[ the/DT stage/NN space/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ We/PRP ]
+can/MD not/RB now/RB speak/VB of/IN maximizing/VBG 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+,/, since/IN 
+[ this/DT function/NN ]
+is/VBZ now/RB known/VBN only/RB in/IN 
+[ a/DT probabilistic/JJ sense/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+can/MD ,/, however/RB ,/, maximize/VB 
+[ its/PRP$ expected/VBN value/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ a/DT single/JJ stage/NN ]
+
+[ we/PRP ]
+may/MD define/VB 
+[ A[fj]/SYM ]
+where/WRB 
+[ the/DT maximization/NN ]
+is/VBZ by/IN 
+[ choice/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+thus/RB have/VBP 
+[ an/DT optimal/JJ policy/NN ]
+
+[ which/WDT ]
+maximizes/VBZ 
+[ the/DT expected/VBN value/NN ]
+of/IN 
+[ the/DT objective/JJ function/NN ]
+for/IN 
+[ a/DT given/VBN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ we/PRP ]
+consider/VBP 
+[ a/DT process/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT outcome/NN ]
+of/IN 
+[ one/CD stage/NN ]
+is/VBZ known/VBN before/IN 
+[ passage/NN ]
+to/TO 
+[ the/DT next/JJ ]
+,/, then/RB 
+[ the/DT principle/NN ]
+of/IN 
+[ optimality/NN ]
+shows/VBZ that/IN 
+[ the/DT policy/NN ]
+in/IN 
+[ subsequent/JJ stages/NNS ]
+should/MD be/VB optimal/JJ with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT outcome/NN ]
+of/IN 
+[ the/DT first/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT maximization/NN ]
+being/VBG over/IN 
+[ all/DT admissible/JJ A[fj]/SYM ]
+and/CC 
+[ the/DT integration/NN ]
+over/IN 
+[ the/DT whole/NN ]
+of/IN 
+[ stage/NN space/NN ]
+./. 
+==================================
+
+[ The/DT type/NN ]
+of/IN 
+[ presentation/NN ]
+of/IN 
+[ results/NNS ]
+used/VBN in/IN 
+[ the/DT deterministic/JJ process/NN ]
+may/MD be/VB used/VBN here/RB ,/, except/IN that/IN now/RB 
+[ the/DT fourth/JJ column/NN ]
+is/VBZ redundant/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT third/JJ column/NN ]
+gives/VBZ 
+[ the/DT optimal/JJ policy/NN ]
+,/, but/CC 
+[ we/PRP ]
+must/MD wait/VB to/TO see/VB 
+[ the/DT outcome/NN ]
+of/IN 
+[ stage/NN R/NN ]
+and/CC enter/VB 
+[ the/DT preceding/VBG section/NN ]
+of/IN 
+[ the/DT table/NN ]
+at/IN 
+[ this/DT state/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT discussion/NN ]
+of/IN 
+[ the/DT optimal/JJ policy/NN ]
+when/WRB 
+[ the/DT outcome/NN ]
+of/IN 
+[ one/CD stage/NN ]
+is/VBZ not/RB known/VBN before/IN passing/VBG to/TO 
+[ the/DT next/JJ ]
+is/VBZ 
+[ a/DT very/RB ]
+much/RB 
+[ more/RBR difficult/JJ matter/NN ]
+./. 
+==================================
+
+[ 2.4/CD ]
+
+[ the/DT continuous/JJ deterministic/JJ process/NN ]
+In/IN 
+[ many/JJ cases/NNS ]
+
+[ it/PRP ]
+is/VBZ not/RB possible/JJ to/TO divide/VB 
+[ the/DT process/NN ]
+into/IN 
+[ a/DT finite/JJ number/NN ]
+of/IN 
+[ discrete/JJ stages/NNS ]
+,/, since/IN 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT stream/NN ]
+is/VBZ transformed/VBN in/IN 
+[ a/DT continuous/JJ manner/NN ]
+through/IN 
+[ the/DT process/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+replace/VBP 
+[ r/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ the/DT stage/NN ]
+from/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT process/NN ]
+,/, by/IN 
+[ t/NN ]
+,/, 
+[ a/DT continuous/JJ variable/NN ]
+
+[ which/WDT ]
+measures/VBZ 
+[ the/DT ]
+``/`` 
+[ distance/NN ]
+''/'' of/IN 
+[ the/DT point/NN ]
+considered/VBN from/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT process/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT word/NN distance/NN ]
+is/VBZ used/VBN here/RB in/IN 
+[ a/DT ]
+rather/RB 
+[ general/JJ sense/NN ]
+;/: ;/: 
+[ it/PRP ]
+may/MD in/IN 
+[ fact/NN ]
+be/VB 
+[ the/DT time/NN ]
+
+[ that/WDT ]
+will/MD elapse/VB before/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT process/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ T/NN ]
+is/VBZ 
+[ the/DT total/JJ ]
+``/`` 
+[ length/NN ]
+''/'' of/IN 
+[ the/DT process/NN ]
+,/, 
+[ its/PRP$ feed/NN state/NN ]
+may/MD be/VB denoted/VBN by/IN 
+[ a/DT vector/NN p/NN ]
+(/( 
+[ T/NN ]
+)/) and/CC 
+[ the/DT product/NN state/NN ]
+by/IN 
+[ p/NN ]
+(/( 
+[ Q/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ P/NN ]
+denotes/VBZ 
+[ the/DT state/NN ]
+at/IN 
+[ any/DT point/NN T/NN ]
+and/CC 
+[ Q/NN ]
+
+[ the/DT vector/NN ]
+of/IN operating/VBG 
+[ variables/NNS ]
+there/RB ./. 
+==================================
+==================================
+==================================

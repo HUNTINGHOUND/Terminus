@@ -1,0 +1,2469 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP They)
+    (VP neither
+	liked
+	nor
+	disliked
+	    (NP the Old Man)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP them))
+    (S
+     (NP he)
+     (AUX could)
+     (VP have
+	 (VP been
+	     (NP (NP the broken bell
+		     (PP in
+			 (NP the church tower)))
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (VP rang
+			      (PP (PP before and after
+				      (NP Mass))
+				  ,
+				  and
+				  (PP at
+				      (NP noon))
+				  ,
+				  and
+				  (PP at
+				      (NP (NP six)
+					  (NP each evening)))))
+			  --
+			  (NP (NP its tone)
+			      ,
+			      (ADJP repetitive
+				    ,
+				    monotonous)
+			      ,
+			      (VP (ADVP  never)
+				  breaking
+				  (NP the boredom
+				      (PP of
+					  (NP the streets))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Old Man)
+   (VP was
+       (ADJP unimportant)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (SBAR if
+	    (S (NP he)
+	       (VP were
+		   (NEG not)
+		   (ADVP there))))
+      ,
+      (S (NP they)
+	 (AUX would)
+	 (VP have
+	     (VP missed
+		 (NP him)))
+	 ,
+	 (SBAR  as
+		(S (NP they)
+		   (AUX would)
+		   (VP have
+		       (VP missed
+			   (NP (NP the sounds
+				   (PP of
+				       (NP (NP bees)
+					   (VP buzzing
+					       (PP against
+						   (NP the screen door))
+					       (PP in
+						   (NP (ADJP early)
+						       June))))))
+			       ;
+			       ;
+			       or
+			       (NP (NP (NP the smell
+					   (PP of
+					       (NP thick tomato paste)))
+				       --
+				       (NP (NP the ripe smell)
+					   (SBAR that
+						 (S (NP T)  
+						    (VP was
+							(NP both
+							    (ADJP sweet and sour))))))
+				       --)
+				   (VP rising
+				       (ADVP up)
+				       (PP from
+					   (NP (NP aluminum trays)
+					       (VP wrapped
+						   (PP in
+						       (NP fly-dotted cheesecloth))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Or
+      (NP the surging whirling sounds
+	  (PP of
+	      (NP bats
+		  (PP at
+		      (NP (NP night)
+			  ,
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP their black bodies)
+			      (VP dived
+				  (PP into
+				      (NP the blackness
+					  (PP above and below
+					      (NP the amber street lights)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Or
+      (NP the bay
+	  (PP of
+	      (NP female dogs
+		  (PP in
+		      (NP heat))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (ADVP never)
+   (VP called
+       (NP him)
+       (PP by
+	   (NP name)))
+   ,
+   (SBAR although
+	 (S (NP he)
+	    (VP had
+		(NP one)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Filippo Rossi)
+       ,
+       (S (NP that)
+	  (VP 's
+	      (SBAR (WHNP what)
+		    (S
+		     (NP he)
+		     (AUX was)
+		     (VP called
+			 (NP T)
+			 (PP in
+			     (NP the old country))))))))
+    ;
+    ;
+    (S  but
+	(ADVP here)
+	(S (NP he)
+	   (VP was
+	       (ADVP just)
+	       (NP (NP Signore)
+		   or
+		   (NP the Old Man))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP this)
+	 (VP was
+	     (NEG not)
+	     (ADJP unusual))
+	 ,
+	 (SBAR because
+	       (S (NP youth)
+		  (PP in
+		      (NP these quarters))
+		  (AUX was)
+		  (ADVP always)
+		  (VP pushed
+			    
+		      (PP at
+			  (NP a distance))
+		      (PP from
+			  (NP its elders)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Youth)
+    (VP obeyed)
+    (SBAR (WHADVP when)
+	  (S (NP *)
+	     (VP commanded))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP went
+	   (PP to
+	       (NP church))
+	   (PP on
+	       (NP Sunday)))
+       and
+       (VP (NP (NP one
+		   Saturday)
+	       (NP a month))
+	   went
+	   (PP to
+	       (NP confession)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP youth)
+	 (VP asked
+	     (NP (NP nothing
+		     (PP of
+			 (NP its parents)))
+		 --
+		 (NP (NP (NEG not)
+			 a touch
+			 (PP of
+			     (NP the hand)))
+		     or
+		     (NP (NP a kiss)
+			 (VP given
+			     (PP in
+				 (S  (NP *)
+				     (VP passing))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The only thing)
+	(ADJP unusual
+	      (PP about
+		  (NP the Old Man))))
+    (AUX had)
+    (ADVP (ADJP long)
+	  since)
+    (VP happened))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the past)
+	 (VP was
+	     (ADJP dead))
+	 (ADVP here)
+	 (SBAR  as
+		(S (NP the present)
+		   (VP was
+		       (ADJP dead))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP Once)
+    (S (NP the Old Man)
+       (AUX had)
+       (VP had
+	   (NP a wife))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (ADVP once)
+      (S (NP she)
+	 ,
+	 (ADVP too)
+	 ,
+	 (VP ignored
+	     (NP him))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP a tiny fur-piece)
+	    (VP wrapped
+		(PP around
+		    (NP her shoulders)))))
+    ,
+    (S (NP she)
+       (X (VP wiggled
+	      (NP her satin-covered buttocks)
+	      (PP down
+		  (NP the street))
+	      (PP before
+		  (NP him)))
+	  and
+	  (X (AUX did)
+	     (NEG n't)
+	     (VP stop)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP In
+	    (NP one hand))
+	(S
+	 (NP she)
+	 (VP clutched
+	     (NP a hundred dollar bill))))
+     and
+     (X (PP in
+	    (NP the
+		(ADJP other)))
+	(NP a straw suitcase)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The way)
+	 (SBAR 0
+	       (S
+		(NP she)
+		(VP strutted
+		    (PP down
+			(NP the street))))))
+     ,
+     (S (NP the Old Man)
+	(AUX would)
+	(VP have
+	    (VP been
+		(ADJP blind)))
+	(S (NP *)
+	   (NEG not)
+	   (AUX to)
+	   (VP have
+	       (VP noticed
+		   (NP both))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP Without
+	    (S  (NP *)
+		(VP looking
+		    (PP at
+			(NP him)))))
+	,
+	(PP without
+	    (S  (NP *)
+		(VP looking
+		    (PP at
+			(NP anything
+			    (PP except
+				(NP Drexel Street
+				    (PP  (ADVP directly)
+					 in
+					 (NP front
+					     (PP of
+						 (NP her))))))))))))
+    ,
+    (S (NP she)
+       (VP (VP climbed
+	       (ADVP up
+		     (PP into
+			 (NP one
+			     (PP of
+				 (NP those orange streetcars))))))
+	   ,
+	   (VP rode
+	       (ADVP away)
+	       (PP in
+		   (NP it)))
+	   ,
+	   and
+	   (VP  (ADVP never)
+		came
+		(ADVP back)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  ``
+	 But
+	 (S (NP she)
+	    (AUX should)
+	    (NEG n't)
+	    (VP have
+		(VP come
+		    (ADVP here)))
+	    (PP in
+		(NP the first place)))
+	 '')
+     ,
+     (S (NP the women)
+	(AUX had)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (X (INTJ No)
+      ,
+      (INTJ no))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP  Not
+      that one)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP thought
+	(SBAR 0
+	      (S (NP she)
+		 (VP was
+		     (ADJP bigger
+			   (PP than
+			       (S (NP we)
+				  (VP are))))))))
+    (SBAR because
+	  (S (NP she)
+	     (VP came
+		 (PP from
+		     (NP Torino))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (X (X Eh)
+      ,
+      (NP Torino))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP gave
+       (NP herself)
+       (NP fancy airs)))
+  !
+  !) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  (ADVP Just)
+	   because
+	   (S (NP she)
+	      (VP had
+		  (NP a part)
+		  (PP on
+		      (NP the stage)))
+	      (PP in
+		  (NP the old country))))
+    ,
+    (S (NP she)
+       (VP thought
+	   (SBAR 0
+		 (S (NP she)
+		    (AUX could)
+		    (VP carry
+			(NP her head)
+			(ADJP higher
+			      (PP than
+				  (NP ours)))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX had)
+   (VP slapped
+       (NP their thighs)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It)
+      (VP 's
+	  (NEG not)
+	  (PP for
+	      (S  (NP *)
+		  (VP making
+		      (NP pretty speeches
+			  (PP about
+			      (NP Dante)))))))
+      (SBAR 0
+	    (S (NP those actresses)
+	       (AUX get)
+	       (VP paid
+		   (ADJP  so
+			  good)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (INTJ Henh)
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Calloused fingers)
+	,
+	(VP caressed
+	    (ADVP only)
+	    (PP by
+		(NP the smoothness
+		    (PP of
+			(NP  polished
+			     rosaries)))))
+	,)
+    (AUX had)
+    (VP swayed
+	(ADVP excitedly)
+	(PP beneath
+	    (NP (NP puckered chins)
+		(SBAR (WHADVP where)
+		      (S (NP
+			  tiny black
+			  hairs)
+			 (VP sprouted)
+			 ,
+			 (S (NP *)
+			    (ADVP never)
+			    (AUX to)
+			    (VP be
+				(VP tweezed
+				    (ADVP away))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+
+( 
+ (S (NP (NP Mauve-colored mouths)
+	(SBAR that
+	      (S 
+	       (AUX had)
+	       (ADVP never)
+	       (VP known
+		   (NP (NP anything)
+		       (ADJP sweeter
+			     (PP than
+				 (NP (NP the taste
+					 (PP of
+					     (NP new wine)))
+				     and
+				     (NP the passion
+					 (PP of
+					     (NP 
+					      (NP man)
+					      's tongue)))))))))))
+    (X (X (AUX had)
+	  (NEG not)
+	  (VP smiled))
+       ,
+       but
+       (X (AUX had)
+	  (VP condemned)
+	  (ADVP again
+		and
+		again))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP Puttana)
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR if
+	    (S (S (NP the Old Man)
+		  (ADVP even)
+		  (VP thought
+		      (PP about
+			  (NP his wife)))
+		  (ADVP now))))
+      ,
+      (S (NP nobody)
+	 (VP cared
+	     (NP a fig))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP was
+       (ADVP enough)
+       (PP for
+	   (NP people)))
+   (S-1 (NP *)
+      (AUX to)
+      (VP know
+	  (SBAR that
+		(S (PP at
+		       (NP one time))
+		   (S
+		    (NP he)
+		    (AUX had)
+		    (VP looked
+			(PP down
+			    (NP the street))
+			(PP at
+			    (NP the fleshy suppleness
+				(PP of
+				    (NP (NP a woman)
+					(SBAR 0
+					      (S
+					       (NP he)
+					       (AUX had)
+					       (VP consumed
+						   (NP T) ))))))))
+		    --
+		    (S  (NP *) 
+			(VP watching
+			    (S (NP her)
+			       (VP become
+				   (ADJP (ADJP thinner
+					       and
+					       thinner
+					       (PP in
+						   (NP the distance)))
+					 ,
+					 (ADJP  as
+						thin
+						(PP as
+						    (NP the seams
+							(PP on
+							    (NP her stockings)))))
+					 ,
+					 and
+					 (ADJP  (ADVP still)
+						thinner))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His voice)
+   (AUX had)
+   (NEG not)
+   (VP commanded
+       (NP her)
+       (S (NP *)
+	  (AUX to)
+	  (VP stop))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX had)
+    (NEG not)
+    (VP questioned
+	(WHADVP why)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The women)
+      (VP said
+	  (SBAR 0
+                (S (NP they)
+		   (AUX had)
+		   (VP seen
+		       (S (NP him)
+			  (VP wave
+			      (NP an exhausted farewell))))))))
+     ;
+     ;
+     but
+     (S (NP he)
+	(AUX might 
+	     (VP have 
+		 (VP been
+		     (VP shooing
+			 (PRT away)
+			 (NP (NP the fleas)
+			     (SBAR that
+				   (S  (NP T) 
+				       (VP hopped
+					   (PP from
+					       (NP his yellow dog))
+					   (PP onto
+					       (NP him))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP He)
+      (VP was
+	  (ADVP never)
+	  (PP without
+	      (NP that dog))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S And
+     (S (NP (NP his eyes)
+	    --
+	    (NP those miniature sundials
+		(PP of
+		    (NP variegated yellow)))
+	    --)
+	(AUX had)
+	(NEG not)
+	(VP altered
+	    (NP their expression or direction))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP The Old Man)
+       's very soul)
+      (AUX could)
+      (VP have
+	  (VP (VP left
+		  (NP him))
+	      and
+	      (VP flown
+		  (PP down
+		      (NP that street))))))
+     ,
+     but
+     (S (NP he)
+	(AUX would)
+	(NEG n't)
+	(VP have
+	    (VP had
+		(NP anyone)
+		(VP know
+		    (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Perhaps)
+      (S (NP he)
+	 (AUX had)
+	 (VP known
+	     (ADVP then)
+	     (SBAR (SBAR (WHADVP where)
+			 (S (NP  that
+				 hundred dollar bill)
+			    (AUX had)
+			    (VP come
+				(PP from))))
+		   and
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP it)
+		       (AUX was)
+		       (VP taking
+			   (NP his wife))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SQ  But
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP he)
+	    (VP called
+		(PP for
+		    (S (NP his
+			   withered
+			   ,
+			   wrinkled
+			   sister
+			   Rose)
+		       (AUX to)
+		       (VP care
+			   (PP for
+			       (NP (NP him)
+				   and
+				   (NP the children)))))))))
+	,
+	(SQ  (AUX had)
+	     (NP he)
+	     (VP guessed
+		 (SBAR that
+		       (S (NP (NP all)
+			      (SBAR 0
+				    (S (NP he)
+				       (AUX would)
+				       (VP remember
+					   (NP T)
+					   (PP of
+					       (NP his woman))))))
+			  (VP was
+			      (NP the memory
+				  (PP of
+				      (S (NP her)
+					 (VP climbing
+					     (PP into
+						 (NP that streetcar))))))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP seemed
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (NP a contemptuous purpose))
+	  (PP in
+	      (NP (NP the way)
+		  (SBAR 0
+			(S (NP he)
+			   (VP sat
+			       (ADVP there)
+			       (PP with
+				   (NP (NP (NP his eyes)
+					   (VP glued
+					       (PP to
+						   (NP Drexel Street))))
+				       and
+				       (NP (NP his back)
+					   (PP in
+					       (NP opposition
+						   (PP to
+						       (NP the church
+							   (PP behind
+							       (NP him)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP (NP all)
+	    (SBAR 0
+		  (S (NP he)
+		     (VP (VP  saw
+			      (NP T) )
+			 or
+			 (VP cared
+			     (S (NP *)
+				(AUX to)
+				(VP see
+				    (NP T) ))))))))
+    ,
+    (S (NP this)
+       (AUX could)
+       (VP have
+	   (VP been
+	       (NP (NP a town
+		       (PP in
+			   (NP Italy)))
+		   ,
+		   (NP (NEG not)
+		       the outskirts
+		       (PP of
+			   (NP Philadelphia))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX could)
+   (VP have
+       (VP been
+	   (NP (NP Bari)
+	       or
+	       (NP Chieti))))
+   (PP for
+       (NP (NP the way)
+	   (SBAR 0
+		 (S
+		  (NP it)
+		  (VP smelled))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  (AUX did)
+       (NP it)
+       (VP matter)
+       (PP to
+	   (NP him))
+       (SBAR that
+	     (S (NP the park
+		    (PP at
+			(NP the foot
+			    (PP of
+				(NP Ash Road)))))
+		(VP stretched
+		    (PP beneath
+			(NP (NP  elevated
+				 trains)
+			    (SBAR that
+				  (S  (NP T) 
+				      (VP roared
+					  (PP from
+					      (NP the stucco station))
+					  (PP into
+					      (NP 
+					       (NP the city)
+					       's center)))
+				      (PP at
+					  (NP half-hour intervals)))))))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Or
+      (SBAR that
+	    (S (NP the tiny creek)
+	       (VP spun
+		   (NP its silent course
+		       (PP toward
+			   (NP the Schuylkill)))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This place)
+    (VP was
+	(NP hatred))
+    (PP to
+	(NP him))
+    ,
+    (SBAR just
+	  as
+	  (S (NP hatred)
+	     (VP was
+		 (NP his only companion))
+	     (PP in
+		 (NP his aloneness)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP him))
+    (S
+     (NP they)
+     (VP were
+	 (NP (NP one)
+	     and
+	     (NP the
+		 (ADJP same))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sameness
+       (PP for
+	   (NP the Old Man)))
+   (AUX was)
+   (VP framed
+       (PRT in)
+       (PP by
+	   (NP (NP a wall
+		   (PP of
+		       (NP ginkgo trees)))
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP divided
+			    (NP these quarters)
+			    (PP from
+				(NP the city)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sameness)
+   (VP lined
+       (NP the streets)
+       (PP with
+	   (NP (NP two-story houses)
+	       (NP the color
+		   (PP of
+		       (NP ash)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP slashed
+       (NP the
+	   sloping manure-scented
+	   lawns
+	   (PP with
+	       (NP (NP concrete steps)
+		   (SBAR (WHNP which)
+			 (S (NP T)
+			    (VP climbed
+				(ADVP upward)
+				(PP to
+				    (NP 
+				     white wooden
+				     porches))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP swayed
+	   (PP with
+	       (NP the wicker swings)))
+       and
+       (VP screeched
+	   (PP with
+	       (NP the rusted hinges
+		   (PP of
+		       (NP screen doors)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP (NP  (ADVP Even)
+	     the stable-garage)
+	,
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP housed
+		     (NP nothing
+			 (ADVP now)
+			 (ADVP but
+			       (NP the scent
+				   (PP of
+				       (NP rot))))))))
+	,)
+    (VP had
+	(NP a lawn)
+	(PP before
+	    (NP it))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP the coffee shop
+		 (PP on
+		     (NP Drexel Street)))
+	     ,
+	     (SBAR 
+	      (WHADVP where)
+	      (S (NP the men)
+		 (VP spent
+		     (NP their evenings
+			 and
+			 Sundays)
+		     (S (NP *)
+			(VP playing
+			    (NP cards))))))
+	     ,)
+	 (VP had
+	     (NP a rose hedge)
+	     (PP beneath
+		 (NP its window)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The hedge)
+   (VP reeked
+       (PP of
+	   (NP (NP coffee dregs)
+	       (VP thrown
+		   (PP against
+		       (NP it)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 one house
+	 (PP on
+	     (NP the street)))
+    (VP had
+	(NP no lawn)
+	(PP before
+	    (NP it))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP squatted
+       (ADJP low
+	     and
+	     square)
+       (PP upon
+	   (NP the sidewalk))
+       (PP with
+	   (NP (NP a heavy iron grating)
+	       (VP supporting
+		   (NP a glass facade))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP That)
+   (VP was
+       (NP 
+	(NP Bartoli)
+	's shop)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Above
+	(NP it))
+    ,
+    (PP from
+	(NP a second-story showroom))
+    ,
+    (S (NP wooden angels)
+       (VP surveyed
+	   (NP the neighborhood))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Did)
+      (NP the Old Man)
+      (VP remember
+	  (NP them))
+      (ADVP there))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (ADVP everywhere
+	    else)
+      (S (NP sameness)
+	 (VP was
+	     (NP stucco and wood
+		 (PP in
+		     (NP square blocks))))
+	 --
+	 (PP like
+	     (NP (NP fortresses)
+		 (VP (VP perched
+			 (PP against
+			     (NP the slant
+				 (PP of
+				     (NP the hill)))))
+		     ,
+		     (VP rising
+			 (X (X (PP with
+				   (NP the hill))
+			       (PP to
+				   (NP (NP the top)
+				       (SBAR 
+					(WHADVP where)
+					(S (NP the church)
+					   (VP was))))))
+			    and
+			    (X (PP beyond
+				   (NP that))
+			       (PP to
+				   (NP the cemetery))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 paved
+	 alleyways)
+    (VP tunneled
+	(PP through
+	    (NP the walls
+		(PP of
+		    (NP those fortresses))))
+	(PP into
+	    (NP (NP the mysterious core
+		    (PP of
+			(NP intimacy))
+		    (PP behind
+			(NP the houses)))
+		(SBAR (SBAR 
+		       (WHADVP where)
+		       (S (NP backyards)
+			  (VP owned
+			      (NP no fences))))
+		      ,
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP
+			   (NP one man)
+			   's property)
+			  (VP blended
+			      (PP with
+				  (NP the
+				      (ADJP next)))
+			      (S (NP *)
+				 (AUX to)
+				 (VP form
+				     (NP (NP courtyards)
+					 (SBAR (WHPP in
+						     (WHNP which))
+					       (S
+						(NP no one)
+						(VP knew
+						    (NP privacy)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Love and hatred and fear)
+    (VP were
+	(NP one))
+    (ADVP here)
+    ,
+    (VP shaded
+	(ADVP only)
+	(PP by
+	    (NP (NP fig trees)
+		and
+		(NP grape vines)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP the forked tongue
+	     (PP of
+		 (NP gossip)))
+	 (VP licked
+	     (NP its sinister way
+		 (PP (PP from
+			 (NP back porch))
+		     (PP to
+			 (NP back porch)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Old Man)
+     (ADVP silently)
+     (VP fed
+	 (PP upon
+	     (NP these streets))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP kept
+       (NP him)
+       (ADJP alive))
+   ,
+   (S (NP *)
+      (VP waiting)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Waiting
+	      (PP (PP for
+		      (WHNP what))
+		  and
+		  (PP for
+		      (WHNP whom)))))
+      ,
+      (S (NP  (ADVP only)
+	      he)
+	 (X (X (AUX could)
+	       (VP tell))
+	    and
+	    (X (AUX would)
+	       (NEG not)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END (  END_OF_TEXT_UNIT)
+       _OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (SBAR  as
+	     though
+	     (S (S (NP he)
+		   (AUX had)
+		   (VP made
+		       (NP a pact)
+		       (PP with
+			   (NP (NP the devil)
+			       (NP himself)))))
+		,
+		but
+		(S (NP it)
+		   (VP was
+		       (NEG not)
+		       (ADVP yet)
+		       (NP time
+			   (S (NP *)
+			      (AUX to)
+			      (VP pay
+				  (NP the price))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP holding
+       (PRT out)
+       (PP for
+	   (NP something))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP determined
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP hold
+	      (PRT out)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The Old Man)
+    's son)
+   (VP threw
+       (NP himself)
+       (PRT down)
+       ,
+       (ADJP (NP belly)
+	     first)
+       ,
+       (PP upon
+	   (NP a concrete step)))
+   ,
+   (S (S  (NP *) 
+	  (VP taking
+	      (PRT in)
+	      (NP the coolness
+		  (PP of
+		      (NP it)))))
+      ,
+      and
+      (S  (NP *) 
+	  (VP dreaming
+	      (PP of
+		  (NP (NP the day)
+		      (SBAR 0
+			    (S
+			     (NP he)
+			     (AUX would)
+			     (VP be
+				 (ADJP rich))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP At
+	   (NP fifteen))
+       (S (NP he)
+	  (AUX did)
+	  (NEG n't)
+	  (VP care
+	      (SBAR (SBAR that
+			  (S (NP he)
+			     (VP had
+				 (NP no mother))))
+		    ,
+		    (SBAR that
+			  (S (NP he)
+			     (AUX could)
+			     (NEG n't)
+			     (VP remember
+				 (NP (NP her face)
+				     or
+				     (NP her touch)))))))))
+    ;
+    ;
+    (SINV  neither
+	   (AUX did)
+	   (NP he)
+	   (VP care
+	       (SBAR that
+		     (S (NP Aunt Rose)
+			(VP provided
+			    (PP for
+				(NP him))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX was)
+      (VP named
+	     
+	  (NP Pompeii))
+      (PP as
+	  (NP a tribute
+	      (PP to
+		  (NP his heritage)))))
+     ,
+     and
+     (S (NP he)
+	(AUX could)
+	(NEG n't)
+	(VP have
+	    (VP cared
+		(ADVP less)
+		(PP about
+		    (NP that))))
+	either))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP him))
+    (S
+     (NP life)
+     (VP was
+	 (NP (NP a restless boredom)
+	     (SBAR that
+		   (S  (NP T) 
+		       (VP (VP began
+			       (PP with
+				   (NP the rising sun)))
+			   and
+			   (VP ended
+			       (PP  (ADVP only)
+				    with
+				    (NP sleep))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+	 (AUX would)
+	 (VP be
+	     (NP a man))))
+     ,
+     (S (NP he)
+	(AUX would)
+	(VP be
+	    (NP a rich man))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX would)
+   (NEG not)
+   (VP be
+       (PP like
+	   (NP (NP the
+		   ``
+		   rich
+		   Americans
+		   '')
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP lived
+		       (PP in
+			   (NP white-columned houses)))
+		   (PP on
+		       (NP the other side
+			   (PP of
+			       (NP the park))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX would)
+   (NEG not)
+   (VP ride
+       (NP the eight-thirty local)
+       (PP to
+	   (NP the city)))
+   (NP each morning))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX would)
+   (NEG not)
+   (VP carry
+       (NP a brief case)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV Nor
+	 (AUX would)
+	 (NP he)
+	 (VP work)
+	 (PP at
+	     (NP all)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX would)
+   (VP (VP square
+	   (NP his shoulders))
+       and
+       (VP carry
+	   (NP a cane)
+	   (PP before
+	       (NP each step)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX would)
+      (VP (VP sit
+	      (PP inside
+		  (NP the coffee shop)))
+	  and
+	  (VP pound
+	      (NP a gloved fist)
+	      (PP upon
+		  (NP the table)))))
+     and
+     (S (NP a girl)
+	(AUX would)
+	(VP (VP hear
+		(NP him))
+	    and
+	    (VP come
+		(S (NP *)
+		   (VP running))))
+	,
+	(S (S  (NP *) 
+	       (VP bowing
+		   (PP with
+		       (NP her running))))
+	   ,
+	   (S (NP *)  
+	      (VP calling
+		  (PRT out)
+		  (PP in
+		      (NP her bowing))
+		  ,
+		  (PP  ``
+		       At
+		       (NP your service)
+		       ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (X (AUX would)
+	 (VP order
+	     (S (NP her)
+		(AUX to)
+		(VP bring
+		    (NP coffee)))))
+      ,
+      and
+      (X (AUX would)
+	 (VP take
+	     (PP from
+		 (NP his vest pocket))
+	     (NP (NP a
+		     thin black
+		     pipe)
+		 (SBAR (WHNP which)
+		       (S
+			(NP he)
+			(AUX would)
+			(VP  stuff
+			     --
+			     (S (NP he)
+				(AUX would)
+				(NEG not)
+				(VP remove
+				    (NP his gloves)))
+			     --
+			     and
+			     light and smoke
+			     (NP T) ))))))))
+  .)
+  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX could)
+   (VP do
+       (NP that))
+   (SBAR 
+    (WHADVP when)
+    (S (NP he)
+       (AUX would)
+       (VP be
+	   (NP a man)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (X (INTJ Hey)
+      ,
+      (NP Laura))
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP called
+       (PP to
+	   (NP his sister))
+       (PP on
+	   (NP the porch
+	       (PP above
+		   (NP the steps))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP was
+       (ADJP (ADVP only)
+	     (NP ten months)
+	     older
+	     (PP than
+		 (NP he)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (NP Laura)
+       ,
+       (SBARQ 
+	(WHNP what)
+	(SQ  (AUX would)
+	     (NP you)
+	     (VP say)
+	     (SBAR if
+		   (S (NP I)
+		      (VP smoked
+			  (NP a pipe)))))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Laura)
+   (AUX did)
+   (NEG not)
+   (VP answer
+       (NP him)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP leaned
+	(ADJP unconcerned)
+	(PP against
+	    (NP the broken porch fence)))
+    ,
+    (S (NP *)
+       (VP brushing
+	   and
+	   drying
+	   (NP her
+	       wet
+	       ,
+	       gilded
+	       hair)
+	   (PP in
+	       (NP the sun)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One lithe leg)
+    (VP (VP straddled
+	    (NP the railing))
+	and
+	(VP swung
+	    (ADVP loosely)
+	    (PP before
+		(NP the creaking
+		    ,
+		    torn
+		    pales)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Her tanned foot)
+	,
+	(SBAR (WHNP whose arch)
+	      (S (NP T)
+		 (VP swept
+		     (ADJP high and white))))
+	,)
+    (VP pointed
+	(ADVP artfully)
+	(PP toward
+	    (NP (NP  tapering
+		     toes)
+		--
+		(NP (NP toes
+			(PP like
+			    (NP fingers)))
+		    ,
+		    (SBAR 
+		     (WHNP whose tips)
+		     (S (NP T)
+			(VP glowed
+			    (ADJP white)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (? 
+   (S (NP (NP All
+	      the while)
+	  (SBAR 0
+		(S
+		 (NP she)
+		 (VP sat
+		     (NP there)))))
+      ,
+      (S (NP her sinewy arms)
+	 (VP swirled
+	     (PP before
+		 (NP her chest))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her face)
+   (VP showed
+       (NP no sign
+	   (PP of
+	       (S  (NP *)
+		   (VP having
+		       (VP heard
+			   (NP Pompeii))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP (NP a face)
+	   (SBAR that
+		 (S  (NP T) 
+		     (X (X (AUX had)
+			   (VP lost
+			       (NP its childlike softness)))
+			and
+			(X (AUX was)
+			   (VP beginning
+			       (S (NP *)
+				  (AUX to)
+				  (VP fold
+				      (PP within
+					  (NP its fragile features))
+				      (NP (NP a harshness)
+					  (SBAR that
+						(S  (NP T) 
+						    (VP belied
+							(NP the lyric lines
+							    (PP of
+								(NP its contours)))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The eyes)
+	,
+	(ADJP (ADJP  blue)
+	      and
+	      (ADJP (ADVP always
+			  somewhat)
+		    downcast))
+	,)
+    (VP possessed
+	(NP a sullen quality)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  Even
+	   though
+	   (S (NP the boy)
+	      (AUX could)
+	      (NEG not)
+	      (VP see
+		  (NP them))))
+    ,
+    (S (NP he)
+       (VP knew
+	   (SBAR 0
+		 (S (NP they)
+		    (AUX were)
+		    (VP clouded
+			    
+			(PP by
+			    (NP distance))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (ADVP never)
+       (ADJP sure
+	     (SBAR 0
+		   (S (NP they)
+		      (ADVP fully)
+		      (VP took
+			  (NP him)
+			  (PRT in)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Pompeii)
+    (VP called
+	(ADVP again)
+	,
+	(NP  ``
+	     Laura
+	     '')))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP (NP the only answer)
+	     (SBAR that
+		   (S  (NP T) 
+		       (VP reached
+			   (NP him)))))
+	 (VP was
+	     (NP the screeching
+		 (PP of
+		     (NP the porch rail))
+		 (PP from
+		     (S (NP her leg)
+			(VP moving
+			    (PP against
+				(NP it)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+	(NP She)
+	(VP 's
+	    (PP in
+		(NP a mood)))
+	'')
+    ,
+    (S (NP he)
+       (VP thought)))
+ (S  ``
+     (NP There)
+     (VP 's)
+     (NEG not)
+     (NP (NP a month)
+	 (SBAR 0
+	       (S
+		(NP she)
+		(AUX does)
+		(NEG n't)
+		(VP get
+		    (NP herself)
+		    (PP in
+			(NP a mood))))))
+     ''
+     .)) 
+(  END_OF_TEXT_UNIT)
+(  (SQ  (ADVP Well)
+	,
+	(SBARQ 
+	 (WHNP what)
+	 (SQ (AUX did)
+	     (NP that)
+	     (VP matter
+		 (NP T) )))
+	(SBAR 
+	 (WHADVP when)
+	 (S (S (NP the sun)
+	       (AUX was)
+	       (VP shining))
+	    and
+	    (S (NP there)
+	       (VP were
+		   (NP (NP dreams)
+		       (S (NP *)
+			  (AUX to)
+			  (VP dream
+			      (PP about)))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP as
+	  (PP for
+	      (NP his pipe)))
+      ,
+      (SBAR if
+	    (S (NP he)
+	       (VP wanted
+		   (S (NP *)
+		      (AUX to)
+		      (VP smoke
+			  (NP one))))))
+      ,
+      (S (NP nobody)
+	 (AUX would)
+	 (VP stop
+	     (NP him))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Not
+      even
+      (NP Laura))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Suddenly)
+      (S (S (NP he)
+	    (AUX was)
+	    (VP interrupted
+	        
+		(PP in
+		    (NP his daydreaming))
+		(PP by
+		    (NP (NP a warm wetness)
+			(VP lapping
+			    (PP against
+				(NP his chin)))))))
+	 ,
+	 and
+	 (S (NP his eyes)
+	    (VP opened
+		(ADJP wide and long)
+		(PP at
+		    (NP the sight
+			(PP of
+			    (NP (NP 
+				 (NP a goat)
+				 's claret tongue)
+				,
+				(VP feasting
+				    (PP against
+					(NP the salt taste
+					    (PP of
+						(NP him)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Above
+	(NP the tongue))
+    ,
+    (S (NP (NP an
+	       aged yellow
+	       eye)
+	   ,
+	   (ADJP sallow and time-cast)
+	   ,
+	   (VP encrusted
+	       (PP within
+		   (NP a sphere
+		       (PP of
+			   (NP  marbleized
+				pink skin)))))
+	   ,)
+       (VP stared
+	   (ADVP unfalteringly)
+	   (PP at
+	       (NP him)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Christ sake)
+      ,
+      (NP goat)
+      ,
+      (S  (NP *)
+	  (VP git)))
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the goat)
+	 (AUX would)
+	 (NEG not)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (S (NP You)
+	  (AUX 're)
+	  (VP boiling
+	      (NP milk)))
+       ,
+       (SQ (AUX ai)
+	   (NEG n't)
+	   (NP you)))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Soothing
+	      (NP it)
+	      (PP with
+		  (NP his hand))))
+      ,
+      (S  (NP *) 
+	  (VP knowing
+	      (NP (NP the whiskered jowls)
+		  and
+		  (NP the swollen smoothness
+		      (PP of
+			  (NP (NP teats)
+			      (SBAR that
+				    (S  (NP T) 
+					(VP wrinkled
+					    (ADVP expectantly)
+					    (PP to
+						(NP his touch))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pompeii)
+   (VP rolled
+       (PRT over)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His head)
+    (VP undulated
+	(ADVP gradually))
+    ,
+    (S  (NP *) 
+	(VP covering
+	    (NP space)))
+    ,
+    (S (NP *)
+       (AUX to)
+       (VP come
+	   (S (NP *)
+	      (VP straining
+		  (PP beneath
+		      (NP the taut belly))
+		  (PP within
+		      (NP the warmth
+			  (PP of
+			      (NP those teats)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP his mouth)
+	    (VP opened
+		(ADJP wide))))
+    ,
+    (S (S (NP he)
+	  (VP squirted
+	      (NP the
+		  warm white
+		  milk)
+	      (PP against
+		  (NP the roof
+		      (PP of
+			  (NP his mouth))))))
+       and
+       (S (NP his tongue)
+	  (VP savored
+	      (NP the light
+		  ,
+		  earthy taste
+		  (PP of
+		      (NP it)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 
+     (NP The boy)
+     's fingers and mouth)
+    (VP operated
+	(PP with
+	    (NP the skilled unity
+		(PP of
+		    (NP a bagpipe player)))))
+    ,
+    (S  (NP *) 
+	(VP (VP pressing)
+	    and
+	    (VP pulling)))
+    ,
+    (S  (NP *) 
+	(VP delighting
+	    (PP in
+		(SBAR (WHNP what)
+		      (S
+		       (NP he)
+		       (VP did
+			   (NP T) )))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP Above
+	   (NP him))
+       (VP slid)
+       (NP the evasive shadow
+	   (PP of
+	       (NP a storm cloud))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Its form)
+   (VP was
+       (NP a heavy figure
+	   (PP in
+	       (NP a (VP fluttering) soutane)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the boy)
+	 (AUX could)
+	 (VP see
+	     (NP  (ADVP only)
+		  (NP the goat)
+		  's belly))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Old Man)
+   (PP near
+       (NP the corner))
+   (VP let
+       (NP the shadow)
+       (VP pass
+	   (PP over
+	       (NP him))))
+   ,
+   (S  (NP *) 
+       (VP sensing
+	   (NP something
+	       (ADJP portentous))
+	   (PP in
+	       (NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP (VP knew
+	       (SBAR 0
+		     (S (NP it)
+			(VP was
+			    (ADVP there)))))
+	   ,
+	   (VP knew
+	       (ADVP also)
+	       (SBAR (WHNP what)
+		     (S
+		      (NP it)
+		      (VP was
+			  (PP about
+			      (NP T) )))))))
+    ,
+    but
+    (S (NP he)
+       (AUX would)
+       (NEG n't)
+       (VP raise
+	   (NP a finger))
+       (PP except
+	   (S (NP *)
+	      (AUX to)
+	      (VP smooth
+		  (NP 
+		   (NP his yellow dog)
+		   's back))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX would)
+   (VP be
+       (NP time
+	   (ADVP enough)
+	   ,
+	   (ADVP perhaps)
+	   (S (NP the Old Man)
+	      (VP reassured
+		  (NP himself)))
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP pay
+		  (NP the devil)
+		  (NP his due))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Time
+     (ADVP enough)
+     (S (NP *)
+	(AUX to)
+	(VP give
+	    (PRT up)
+	    (NP his soul))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the meantime))
+    ,
+    (S (NP (NP six sandals)
+	   ,
+	   (VP stained
+	       (NP (NP an ocher)
+		   ,
+		   (NP the same color
+		       (PP as
+			   (NP 
+			    (NP Pompeii)
+			    's shaved hair)))))
+	   ,)
+       (VP edged
+	   (PRT up)
+	   (ADVP close
+		 (PP to
+		     (NP him))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The clapping)
+	(SBAR 0
+	      (S (NP they)
+		 (VP made
+		     (NP T) 
+		     (PP on
+			 (NP the concrete))))))
+    (VP interrupted
+	(NP him)
+	(PP in
+	    (NP (NP the ecstatic pleasure)
+		(SBAR 0
+		      (S
+		       (NP he)
+		       (VP knew
+			   (NP T) ))))))
+    ,
+    (SBAR  so
+	   that
+	   (S (NP he)
+	      (ADVP quickly)
+	      (VP (VP released
+		      (NP his hold)
+		      (PP on
+			  (NP the goat)))
+		  and
+		  (VP pretended
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (VP examining
+				 (NP its haunches)
+				 (PP for
+				     (NP ticks))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP knew
+       (PP at
+	   (NP a glance))
+       (SBAR that
+	     (S (S (NP the
+		       biggest
+		       sandals)
+		   (VP belonged
+		       (PP to
+			   (NP Niobe))))
+		,
+		(S (NP the
+		       neatest
+		       ones) 
+		   (VP *
+		       (PP to
+			   (NP Concetta)))
+		   )
+		,
+		and
+		(S (NP the laced ones)
+		   (VP *
+		       (PP to
+			   (NP (NP Romeo)
+			       ,
+			       (NP 
+				(NP Concetta)
+				's idiot brother)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pompeii)
+   (VP expected
+       (NP 
+	(NP Romeo)
+	's small body)
+       (S (NP *)
+	  (AUX to)
+	  (VP sink
+	      (ADJP closer
+		    and
+		    closer
+		    (PP to
+			(NP the ground)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP expected
+       (S (S (NP 
+	      (NP Concetta)
+	      's thin hand)
+	     (AUX to)
+	     (VP reach
+		 (ADVP down)
+		 (S (NP *)
+		    (AUX to)
+		    (VP grasp
+			(NP the boy)))))
+	  ,
+	  and
+	  (S (NP her
+		 shrill
+		 ,
+		 impetuous
+		 voice)
+	     (AUX to)
+	     (VP sound
+		 (PP against
+		     (NP the rotundity
+			 (PP of
+			     (NP (NP his disfigured flesh)
+				 (SBAR that
+				       (S 
+					(NP *)
+					(VP was
+					    (ADVP never)
+					    (ADJP sure
+						  (PP of
+						      (S   (NP *)
+							   (VP hearing
+							       (NP anything)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

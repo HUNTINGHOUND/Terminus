@@ -1,0 +1,1677 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+Because/IN 
+[ individual/JJ classes/NNS ]
+
+of/IN 
+[ foods/NNS ]
+differ/VBP in/IN 
+[ their/PRP$ requirements/NNS ]
+for/IN 
+[ preservation/NN ]
+,/, 
+[ a/DT number/NN ]
+of/IN 
+[ methods/NNS ]
+have/VBP been/VBN developed/VBN over/IN 
+[ the/DT years/NNS ]
+involving/VBG 
+[ one/CD ]
+or/CC 
+[ a/DT combination/NN ]
+of/IN 
+[ procedures/NNS ]
+such/JJ as/IN 
+[ dehydration/NN ]
+,/, fermentation/NN ,/, salting/NN ,/, 
+[ chemical/NN treatment/NN ]
+,/, canning/NN ,/, 
+[ refrigeration/NN ]
+,/, and/CC freezing/NN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT basic/JJ objectives/NNS ]
+in/IN 
+[ each/DT instance/NN ]
+are/VBP to/TO make/VB 
+[ available/JJ supplies/NNS ]
+of/IN 
+[ food/NN ]
+during/IN 
+[ the/DT intervals/NNS ]
+between/IN 
+[ harvesting/NN ]
+or/CC 
+[ slaughter/NN ]
+,/, to/TO minimize/VB 
+[ losses/NNS ]
+resulting/VBG from/IN 
+[ the/DT action/NN ]
+of/IN 
+[ microorganisms/NNS ]
+and/CC 
+[ insects/NNS ]
+,/, and/CC to/TO make/VB 
+[ it/PRP ]
+possible/JJ to/TO transport/VB 
+[ foods/NNS ]
+from/IN 
+[ the/DT area/NN ]
+of/IN 
+[ harvest/NN ]
+or/CC 
+[ production/NN ]
+to/TO 
+[ areas/NNS ]
+of/IN 
+[ consumption/NN ]
+./. 
+==================================
+In/IN 
+[ earlier/JJR years/NNS ]
+,/, 
+[ the/DT preservation/NN ]
+of/IN 
+[ food/NN ]
+was/VBD essentially/RB related/VBN to/TO 
+[ survival/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT more/RBR sophisticated/JJ atmosphere/NN ]
+of/IN 
+[ today/RB 's/POS developed/VBN nations/NNS ]
+,/, 
+[ food-preservation/NN techniques/NNS ]
+have/VBP  }
+sought/VBN also/RB to/TO bring/VB 
+[ variety/NN ]
+,/, 
+[ peak/NN freshness/NN ]
+,/, and/CC 
+[ optimum/JJ taste/NN ]
+and/CC 
+[ flavor/NN ]
+in/IN 
+[ foods/NNS ]
+at/IN 
+[ reasonable/JJ cost/NN ]
+to/TO 
+[ the/DT consumer/NN ]
+./. 
+==================================
+With/IN 
+[ the/DT development/NN ]
+of/IN 
+[ nuclear/JJ technology/NN ]
+,/, 
+[ isotopic/JJ materials/NNS ]
+,/, and/CC 
+[ machine/NN radiation/NN sources/NNS ]
+in/IN 
+[ recent/JJ years/NNS ]
+,/, 
+[ the/DT possibilities/NNS ]
+of/IN applying/VBG 
+[ ionizing/VBG radiation/NN ]
+to/TO 
+[ the/DT preservation/NN ]
+of/IN 
+[ foods/NNS ]
+attracted/VBD 
+[ the/DT attention/NN ]
+of/IN 
+[ investigators/NNS ]
+in/IN 
+[ the/DT United/NNP States/NNPS ]
+and/CC throughout/IN 
+[ the/DT world/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT early/JJ hope/NN ]
+
+[ that/DT irradiation/NN ]
+might/MD be/VB 
+[ the/DT ultimate/JJ answer/NN ]
+to/TO practically/RB 
+[ all/DT food/NN preservation/NN problems/NNS ]
+was/VBD soon/RB dispelled/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Interest/NN ]
+remained/VBD ,/, however/RB ,/, in/IN 
+[ the/DT possibility/NN ]
+that/IN 
+[ it/PRP ]
+would/MD serve/VB as/IN 
+[ a/DT useful/JJ supplementary/JJ method/NN ]
+for/IN 
+[ counteracting/VBG spoilage/NN losses/NNS ]
+and/CC for/IN preserving/VBG 
+[ some/DT foods/NNS ]
+at/IN 
+[ lower/JJR over-all/JJ costs/NNS ]
+than/IN freezing/NN ,/, or/CC without/IN 
+[ employing/VBG heat/NN ]
+or/CC 
+[ chemicals/NNS ]
+with/IN 
+[ their/PRP$ attendant/JJ taste/NN alterations/NNS ]
+./. 
+==================================
+
+[ Factors/NNS ]
+responsible/JJ for/IN 
+[ the/DT spoilage/NN ]
+of/IN 
+[ foods/NNS ]
+
+[ The/DT chief/JJ factors/NNS ]
+responsible/JJ for/IN 
+[ the/DT spoilage/NN ]
+of/IN 
+[ fresh/JJ foodstuffs/NNS ]
+are/VBP (/( 
+[ 1/LS ]
+)/) 
+[ microorganisms/NNS ]
+such/JJ as/IN 
+[ bacteria/NNS ]
+,/, 
+[ molds/NNS ]
+,/, and/CC 
+[ yeasts/NNS ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ enzymes/NNS ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ insects/NNS ]
+,/, (/( 
+[ 4/LS ]
+)/) 
+[ sprouting/NN ]
+,/, and/CC (/( 
+[ 5/LS ]
+)/) 
+[ chemical/NN reactions/NNS ]
+./. 
+==================================
+
+[ Microorganisms/NNS ]
+are/VBP often/RB responsible/JJ for/IN 
+[ the/DT rapid/JJ spoilage/NN ]
+of/IN 
+[ foods/NNS ]
+./. 
+==================================
+Of/IN 
+[ special/JJ concern/NN ]
+is/VBZ 
+[ the/DT growth/NN ]
+of/IN 
+[ bacteria/NNS ]
+such/JJ as/IN 
+[ Clostridium/NN botulinum/NN ]
+
+[ which/WDT ]
+generate/VBP 
+[ poisonous/JJ products/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Enzymatic/JJ action/NN ]
+in/IN 
+[ stored/VBN food/NN ]
+produces/VBZ 
+[ changes/NNS ]
+
+[ which/WDT ]
+can/MD adversely/RB affect/VB 
+[ the/DT appearance/NN ]
+of/IN 
+[ food/NN ]
+or/CC 
+[ its/PRP$ palatability/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Spoilage/NN ]
+by/IN 
+[ chemical/JJ action/NN results/VBZ ]
+from/IN 
+[ the/DT reaction/NN ]
+of/IN 
+[ one/CD group/NN ]
+of/IN 
+[ components/NNS ]
+in/IN 
+[ the/DT food/NN ]
+with/IN 
+[ others/NNS ]
+or/CC with/IN 
+[ its/PRP$ environment/NN ]
+,/, as/IN in/IN 
+[ corrosion/NN ]
+of/IN 
+[ the/DT walls/NNS ]
+of/IN 
+[ metal/NN containers/NNS ]
+or/CC 
+[ the/DT reaction/NN ]
+of/IN 
+[ fats/NNS ]
+with/IN 
+[ oxygen/NN ]
+in/IN 
+[ the/DT air/NN ]
+to/TO produce/VB 
+[ rancidity/NN ]
+./. 
+==================================
+Sprouting/NN is/VBZ 
+[ a/DT ]
+naturally/RB occurring/VBG 
+[ phenomenon/NN ]
+in/IN 
+[ stored/VBN potatoes/NNS ]
+,/, 
+[ onions/NNS ]
+,/, 
+[ carrots/NNS ]
+,/, 
+[ beets/NNS ]
+,/, and/CC 
+[ similar/JJ root/NN vegetables/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Insect/NN infestation/NN ]
+is/VBZ 
+[ a/DT problem/NN ]
+of/IN 
+[ importance/NN ]
+chiefly/RB in/IN 
+[ stored/VBN grain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT presence/NN ]
+of/IN 
+[ parasitic/JJ organisms/NNS ]
+such/JJ as/IN 
+[ Trichinella/NN spiralis/NNS ]
+in/IN 
+[ pork/NN ]
+introduces/VBZ 
+[ another/DT factor/NN ]
+
+[ which/WDT ]
+must/MD be/VB dealt/VBN with/IN in/IN 
+[ food/NN processing/NN ]
+./. 
+==================================
+To/TO permit/VB 
+[ the/DT storage/NN ]
+of/IN 
+[ food/NN ]
+for/IN 
+[ long/JJ periods/NNS ]
+of/IN 
+[ time/NN ]
+,/, 
+[ a/DT method/NN ]
+of/IN 
+[ preservation/NN ]
+must/MD accomplish/VB 
+[ the/DT destruction/NN ]
+of/IN 
+[ microorganisms/NNS ]
+and/CC 
+[ inhibition/NN ]
+of/IN 
+[ enzymatic/JJ action/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT term/NN ]
+``/`` 
+[ sterilization/NN ]
+''/'' applies/VBZ to/TO 
+[ methods/NNS ]
+involving/VBG essentially/RB 
+[ complete/JJ destruction/NN ]
+of/IN 
+[ all/DT microorganisms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Food/NN ]
+treated/VBN in/IN 
+[ this/DT manner/NN ]
+and/CC protected/VBN from/IN 
+[ recontamination/NN ]
+by/IN 
+[ aseptic/JJ methods/NNS ]
+of/IN packaging/VBG and/CC 
+[ containment/NN ]
+presumably/RB could/MD be/VB stored/VBN for/IN 
+[ long/JJ periods/NNS ]
+without/IN 
+[ refrigeration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT process/NN ]
+of/IN ``/`` 
+[ pasteurization/NN ]
+''/'' involves/VBZ 
+[ milder/JJR ]
+and/CC less/RBR prolonged/VBN 
+[ heat/NN treatment/NN ]
+
+[ which/WDT ]
+accomplishes/VBZ 
+[ the/DT destruction/NN ]
+of/IN 
+[ most/JJS ]
+,/, but/CC not/RB 
+[ all/DT ]
+,/, of/IN 
+[ the/DT microorganisms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Less/RBR severe/JJ thermal/JJ treatment/NN ]
+as/IN by/IN blanching/VBG or/CC scalding/VBG serves/VBZ to/TO inactivate/VB 
+[ enzymes/NNS ]
+./. 
+==================================
+
+[ General/JJ effects/NNS ]
+of/IN 
+[ ionizing/VBG radiation/NN Ionizing/VBG radiation/NN ]
+can/MD cause/VB 
+[ the/DT destruction/NN ]
+of/IN 
+[ microorganisms/NNS ]
+and/CC 
+[ insects/NNS ]
+involved/VBN in/IN 
+[ food/NN spoilage/NN ]
+or/CC ,/, at/IN 
+[ lower/JJR doses/NNS ]
+,/, can/MD inhibit/VB 
+[ their/PRP$ action/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+furnishes/VBZ 
+[ a/DT means/NN ]
+of/IN destroying/VBG 
+[ insects/NNS ]
+in/IN 
+[ stored/VBN grain/NN products/NNS ]
+as/RB well/RB as/IN 
+[ certain/JJ parasitic/JJ organisms/NNS ]
+present/JJ in/IN 
+[ meats/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Deactivation/NN ]
+of/IN 
+[ enzymes/NNS ]
+is/VBZ also/RB 
+[ possible/JJ ]
+,/, although/IN 
+[ some/DT types/NNS ]
+require/VBP extremely/RB 
+[ heavy/JJ doses/NNS ]
+of/IN 
+[ 10/CD Mrad/NN ]
+or/CC 
+[ more/JJR ]
+./. 
+==================================
+
+==================================
+==================================
+Because/IN of/IN 
+[ undesirable/JJ flavors/NNS ]
+,/, 
+[ odors/NNS ]
+,/, 
+[ colors/NNS ]
+,/, and/CC generally/RB 
+[ low/JJ palatability/NN ]
+associated/VBN with/IN 
+[ radiation/NN treatment/NN ]
+of/IN 
+[ this/DT magnitude/NN ]
+,/, 
+[ the/DT inactivation/NN ]
+of/IN 
+[ enzymes/NNS ]
+is/VBZ best/RB accomplished/VBN prior/RB to/TO 
+[ irradiation/NN ]
+by/IN 
+[ the/DT conventional/JJ heat-processing/JJ methods/NNS ]
+of/IN blanching/VBG ./. 
+==================================
+
+[ Radiation/NN ]
+does/VBZ not/RB retard/VB 
+[ the/DT chemical/NN spoilage/NN ]
+of/IN 
+[ food/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+will/MD ,/, however/RB ,/, inhibit/VB 
+[ the/DT sprouting/NN ]
+of/IN 
+[ potatoes/NNS ]
+and/CC 
+[ other/JJ root/NN vegetables/NNS ]
+./. 
+==================================
+
+[ The/DT radiation/NN doses/NNS ]
+required/VBN for/IN 
+[ the/DT preservation/NN ]
+of/IN 
+[ foods/NNS ]
+are/VBP in/IN 
+[ the/DT following/VBG ranges/NNS ]
+:/: 
+[ 1/LS ]
+./. 
+==================================
+For/IN 
+[ radiosterilization/NN ]
+,/, to/TO destroy/VB 
+[ all/DT organisms/NNS ]
+for/IN 
+[ long-term/JJ preservation/NN ]
+--/: about/IN 
+[ 4.5/CD Mrad/NN ]
+for/IN 
+[ nonacid/JJ foods/NNS ]
+of/IN 
+[ low/JJ salt/NN content/NN ]
+./. 
+==================================
+
+[ 2/LS ]
+./. 
+==================================
+For/IN 
+[ radiopasteurization/NN ]
+,/, to/TO partially/RB destroy/VB 
+[ microorganisms/NNS ]
+;/: ;/: 
+[ results/NNS ]
+vary/VBP with/IN 
+[ types/NNS ]
+of/IN 
+[ food/NN ]
+,/, 
+[ storage/NN conditions/NNS ]
+,/, and/CC 
+[ objectives/NNS ]
+of/IN 
+[ treatment/NN ]
+--/: commonly/RB of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ 0.2/CD Mrads/NNS ]
+but/CC up/IN to/TO about/IN 
+[ 0.8/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 3/LS ]
+./. 
+==================================
+For/IN 
+[ destruction/NN ]
+of/IN 
+[ insects/NNS ]
+--/: about/IN 
+[ 25,000/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 4/LS ]
+./. 
+==================================
+For/IN inhibiting/VBG 
+[ the/DT sprouting/NN ]
+of/IN 
+[ root/NN vegetables/NNS ]
+--/: 
+[ 4,000/CD ]
+to/TO 
+[ 10,000/CD A[fj]/SYM ]
+./. 
+==================================
+Preserving/VBG 
+[ foods/NNS ]
+with/IN 
+[ ionizing/VBG radiation/NN ]
+leads/VBZ to/TO 
+[ some/DT undesirable/JJ side/NN effects/NNS ]
+,/, particularly/RB at/IN 
+[ the/DT higher/JJR radiation/NN dosages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ this/DT respect/NN ]
+,/, 
+[ the/DT general/JJ palatability/NN ]
+and/CC 
+[ individual/JJ acceptance/NN ]
+of/IN 
+[ most/JJS radiosterilized/VBN foods/NNS ]
+has/VBZ ,/, to/TO date/NN ,/, been/VBN found/VBN to/TO be/VB low/JJ in/IN 
+[ comparison/NN ]
+with/IN 
+[ fresh/JJ ]
+and/CC commercially/RB processed/VBN 
+[ foods/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT number/NN ]
+of/IN 
+[ foods/NNS ]
+are/VBP quite/RB acceptable/JJ as/IN regards/VBZ 
+[ taste/NN ]
+and/CC 
+[ palatability/NN ]
+,/, however/RB ,/, at/IN 
+[ dosages/NNS ]
+substantially/RB less/JJR than/IN 
+[ sterilization/NN levels/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, 
+[ the/DT nutritive/JJ value/NN ]
+of/IN 
+[ irradiated/VBN foods/NNS ]
+apparently/RB undergoes/VBZ 
+[ little/JJ ]
+,/, if/IN 
+[ any/DT ]
+,/, 
+[ change/NN ]
+,/, although/IN 
+[ some/DT ]
+of/IN 
+[ the/DT fat-soluble/JJ vitamins/NNS ]
+are/VBP affected/VBN by/IN 
+[ sterilization/NN doses/NNS ]
+./. 
+==================================
+
+[ Radiation/NN sources/NNS ]
+For/IN 
+[ irradiation/NN ]
+of/IN 
+[ food/NN ]
+,/, 
+[ the/DT results/NNS ]
+obtained/VBN depend/VBP upon/IN 
+[ the/DT dose/NN ]
+rather/RB than/IN 
+[ the/DT specific/JJ type/NN ]
+of/IN 
+[ radiation/NN ]
+,/, and/CC 
+[ X-ray/NN ]
+,/, 
+[ gamma/NN ]
+,/, and/CC 
+[ high-energy/JJ electron/NN radiation/NN ]
+are/VBP suitable/JJ ./. 
+==================================
+
+==================================
+==================================
+Aside/RB from/IN 
+[ availability/NN ]
+and/CC 
+[ economic/JJ considerations/NNS ]
+,/, 
+[ each/DT ]
+has/VBZ 
+[ certain/JJ practical/JJ advantages/NNS ]
+;/: ;/: for/IN 
+[ example/NN ]
+,/, 
+[ gamma/NN rays/NNS ]
+give/VBP 
+[ deeper/JJR penetration/NN ]
+but/CC can/MD not/RB be/VB focused/VBN or/CC collimated/VBN ,/, whereas/IN 
+[ unidirectional/JJ electron/NN beams/NNS ]
+may/MD be/VB split/VBN and/CC directed/VBN to/TO 
+[ both/PDT ]
+
+[ the/DT top/NN ]
+and/CC 
+[ bottom/NN ]
+of/IN 
+[ the/DT food/NN package/NN ]
+to/TO be/VB irradiated/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Selection/NN ]
+of/IN 
+[ a/DT source/NN ]
+for/IN 
+[ commercial/JJ irradiation/NN ]
+would/MD involve/VB 
+[ consideration/NN ]
+of/IN 
+[ numerous/JJ factors/NNS ]
+including/VBG 
+[ required/VBN dose/NN rate/NN ]
+,/, 
+[ load/NN factor/NN ]
+,/, 
+[ throughput/NN ]
+,/, 
+[ convenience/NN ]
+,/, 
+[ safety/NN ]
+,/, and/CC most/RBS important/JJ ,/, 
+[ costs/NNS ]
+./. 
+==================================
+Of/IN 
+[ the/DT ]
+potentially/RB 
+[ useful/JJ sources/NNS ]
+of/IN ionizing/VBG 
+[ radiations/NNS ]
+,/, 
+[ gamma/NN sources/NNS ]
+,/, 
+[ cobalt-60/NN ]
+,/, 
+[ cesium-137/NN ]
+,/, 
+[ fission/NN products/NNS ]
+,/, or/CC 
+[ a/DT reactor/NN irradiation/NN loop/NN system/NN ]
+using/VBG 
+[ a/DT material/NN ]
+such/JJ as/IN 
+[ an/DT indium/NN salt/NN ]
+have/VBP received/VBN 
+[ most/JJS attention/NN ]
+for/IN 
+[ food-preservation/NN systems/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Of/IN 
+[ the/DT various/JJ particle/NN accelerators/NNS ]
+,/, 
+[ the/DT Van/NNP De/NNP Graff/NNP machines/NNS ]
+,/, 
+[ resonant/JJ transformers/NNS ]
+,/, and/CC 
+[ linear/JJ accelerators/NNS ]
+are/VBP 
+[ the/DT principal/JJ ones/NNS ]
+available/JJ for/IN 
+[ commercial/JJ use/NN ]
+./. 
+==================================
+
+[ Costs/NNS ]
+of/IN 
+[ the/DT effective/JJ energy/NN ]
+produced/VBN by/IN 
+[ these/DT sources/NNS ]
+is/VBZ 
+[ a/DT major/JJ obstacle/NN ]
+in/IN 
+[ the/DT development/NN ]
+of/IN 
+[ food-preservation/NN processes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Estimated/VBN 
+[ production/NN costs/NNS ]
+of/IN 
+[ radiation/NN energy/NN ]
+from/IN 
+[ machine/NN ]
+and/CC 
+[ nuclide/NN sources/NNS range/NN ]
+from/IN 
+[ $/$ 1/CD ]
+to/TO 
+[ $/$ 10/CD ]
+per/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Conventional/JJ energy/NN ]
+for/IN processing/VBG 
+[ foods/NNS ]
+is/VBZ available/JJ in/IN 
+[ the/DT range/NN ]
+of/IN at/IN 
+[ most/JJS a/DT few/JJ cents/NNS ]
+per/IN 
+[ kwhr/NN ]
+for/IN 
+[ electric/JJ power/NN ]
+and/CC 
+[ the/DT equivalent/NN ]
+of/IN 
+[ a/DT few/JJ mills/NNS ]
+per/IN 
+[ kwhr/NN ]
+for/IN 
+[ process/NN steam/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Radiation/NN ]
+,/, therefore/RB ,/, is/VBZ at/IN 
+[ an/DT initial/JJ cost/NN disadvantage/NN ]
+even/RB though/IN only/RB 
+[ 1/CD ]
+to/TO 
+[ 10/CD ]
+per/IN 
+[ cent/NN ]
+as/IN 
+[ much/JJ radiation/NN energy/NN ]
+as/IN 
+[ heat/NN energy/NN ]
+is/VBZ required/VBN for/IN 
+[ radiopasteurization/NN ]
+or/CC 
+[ radiosterilization/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ What/WP ]
+are/VBP 
+[ the/DT possibilities/NNS ]
+of/IN 
+[ lowered/VBN radiation/NN production/NN costs/NNS ]
+for/IN 
+[ the/DT future/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+has/VBZ been/VBN estimated/VBN that/IN for/IN 
+[ applications/NNS ]
+on/IN 
+[ a/DT megawatt/NN scale/NN costs/NNS ]
+might/MD reach/VB 
+[ values/NNS ]
+in/IN 
+[ the/DT neighborhood/NN ]
+of/IN 
+[ 10/CD cents/NNS ]
+per/IN 
+[ kwhr/NN ]
+for/IN 
+[ large-scale/JJ accelerators/NNS ]
+or/CC for/IN 
+[ gamma/JJ radiation/NN ]
+generated/VBN in/IN 
+[ a/DT reactor/NN core/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT comparable/JJ reductions/NNS ]
+in/IN 
+[ the/DT cost/NN ]
+of/IN 
+[ nuclide/NN radiation/NN ]
+are/VBP foreseen/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Such/JJ projections/NNS ]
+,/, however/RB ,/, appear/VBP highly/RB speculative/JJ and/CC 
+[ the/DT capacities/NNS ]
+involved/VBN are/VBP far/JJ beyond/IN 
+[ those/DT ]
+foreseen/VBN for/IN 
+[ food-preservation/NN facilities/NNS ]
+./. 
+==================================
+Because/IN 
+[ agricultural/JJ activities/NNS ]
+are/VBP seasonal/JJ and/CC 
+[ the/DT areas/NNS ]
+of/IN 
+[ production/NN ]
+and/CC 
+[ harvest/NN ]
+of/IN 
+[ many/JJ foods/NNS ]
+are/VBP widely/RB scattered/VBN geographically/RB ,/, and/CC because/RB of/IN 
+[ the/DT high/JJ cost/NN ]
+of/IN transporting/VBG 
+[ bulk/JJ food/NN ]
+items/VBZ 
+[ any/DT substantial/JJ distance/NN ]
+to/TO 
+[ a/DT central/JJ processing/NN location/NN ]
+,/, 
+[ the/DT use/NN ]
+of/IN 
+[ large/JJ central/JJ ]
+processing/VBG 
+[ stations/NNS ]
+,/, where/WRB 
+[ low-cost/JJ radiation/NN facilities/NNS ]
+approaching/VBG 
+[ the/DT megawatt/NN range/NN ]
+might/MD be/VB utilized/VBN ,/, is/VBZ inherently/RB impracticable/JJ ./. 
+==================================
+
+[ Present/JJ status/NN ]
+of/IN 
+[ irradiation/NN preservation/NN ]
+of/IN 
+[ foods/NNS ]
+
+[ The/DT objective/NN ]
+of/IN 
+[ complete/JJ sterilization/NN ]
+of/IN 
+[ foods/NNS ]
+is/VBZ to/TO produce/VB 
+[ a/DT wholesome/JJ ]
+and/CC 
+[ palatable/JJ product/NN ]
+capable/JJ of/IN being/VBG stored/VBN without/IN 
+[ refrigeration/NN ]
+for/IN 
+[ extended/VBN periods/NNS ]
+of/IN 
+[ time/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Chief/JJ interest/NN ]
+in/IN 
+[ radiosterilization/NN ]
+resides/VBZ in/IN 
+[ the/DT military/JJ services/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ them/PRP ]
+,/, providing/VBG 
+[ appetizing/JJ food/NN ]
+under/IN 
+[ battle/NN ]
+or/CC 
+[ emergency/NN conditions/NNS ]
+is/VBZ 
+[ a/DT paramount/JJ consideration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+require/VBP completely/RB 
+[ sterile/JJ foods/NNS ]
+capable/JJ of/IN being/VBG stored/VBN without/IN 
+[ refrigeration/NN ]
+,/, preferably/RB 
+[ items/NNS ]
+already/RB cooked/VBN and/CC ready/JJ to/TO eat/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ High/JJ nutritional/JJ value/NN ]
+,/, 
+[ variety/NN ]
+,/, 
+[ palatability/NN ]
+,/, and/CC 
+[ appetizing/JJ appearance/NN ]
+are/VBP important/JJ for/IN 
+[ reasons/NNS ]
+of/IN 
+[ morale/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Foods/NNS ]
+for/IN 
+[ rear/JJ stations/NNS ]
+,/, 
+[ which/WDT ]
+require/VBP cooking/NN ,/, but/CC 
+[ no/DT refrigeration/NN ]
+,/, are/VBP also/RB of/IN 
+[ interest/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Of/IN 
+[ primary/JJ interest/NN ]
+are/VBP 
+[ meats/NNS ]
+./. 
+==================================
+
+[ Radiopasteurization/NN ]
+,/, 
+[ which/WDT ]
+produces/VBZ 
+[ fewer/JJR adverse/JJ sensory/JJ changes/NNS ]
+in/IN 
+[ food/NN products/NNS ]
+,/, has/VBZ 
+[ potential/JJ usefulness/NN ]
+in/IN prolonging/VBG 
+[ the/DT keeping/VBG qualities/NNS ]
+of/IN 
+[ fresh/JJ ]
+and/CC refrigerated/VBN 
+[ food/NN items/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ food/NN ]
+so/RB processed/VBN might/MD reach/VB 
+[ more/RBR remote/JJ markets/NNS ]
+and/CC permit/VB 
+[ the/DT consumer/NN ]
+to/TO enjoy/VB 
+[ more/JJR produce/NN ]
+at/IN 
+[ peak/NN freshness/NN ]
+and/CC 
+[ palatability/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Commercial/JJ interest/NN ]
+is/VBZ chiefly/RB in/IN 
+[ this/DT type/NN ]
+of/IN 
+[ treatment/NN ]
+,/, as/IN is/VBZ 
+[ military/JJ interest/NN ]
+under/IN 
+[ peacetime/NN conditions/NNS ]
+./. 
+==================================
+
+[ The/DT present/JJ status/NN ]
+of/IN 
+[ food/NN preservation/NN ]
+by/IN 
+[ ionizing/VBG radiation/NN ]
+is/VBZ discussed/VBN by/IN 
+[ food/NN classes/NNS ]
+in/IN 
+[ the/DT following/VBG paragraphs/NNS ]
+./. 
+==================================
+
+[ Meats/NNS ]
+
+[ The/DT radiation/NN processing/NN ]
+of/IN 
+[ meat/NN ]
+has/VBZ received/VBN 
+[ extensive/JJ investigation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO 
+[ date/NN ]
+,/, 
+[ the/DT one/CD meat/NN ]
+showing/VBG 
+[ favorable/JJ results/NNS ]
+at/IN 
+[ sterilization/NN doses/NNS ]
+is/VBZ 
+[ pork/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Of/IN 
+[ particular/JJ interest/NN ]
+to/TO 
+[ the/DT military/JJ services/NNS ]
+is/VBZ 
+[ the/DT demonstration/NN ]
+
+[ that/DT roast/NN pork/NN ]
+,/, after/IN 
+[ radiosterilization/NN ]
+,/, is/VBZ superior/JJ in/IN 
+[ palatability/NN ]
+to/TO 
+[ available/JJ canned/JJ pork/NN products/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Tests/NNS ]
+with/IN 
+[ beef/NN ]
+have/VBP been/VBN largely/RB unsuccessful/JJ because/RB of/IN 
+[ the/DT development/NN ]
+of/IN 
+[ off-flavors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT prime/JJ objective/NN ]
+of/IN 
+[ the/DT Army/NNP Quartermaster/NNP Corps/NNP program/NN ]
+is/VBZ to/TO find/VB 
+[ the/DT reasons/NNS ]
+for/IN 
+[ beef/NN 's/POS low/JJ palatability/NN ]
+and/CC 
+[ means/NNS ]
+of/IN overcoming/VBG 
+[ it/PRP ]
+,/, since/IN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT major/JJ ]
+and/CC 
+[ desirable/JJ dietary/JJ item/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Partly/RB because/IN 
+[ low-level/JJ heat/NN treatment/NN ]
+is/VBZ needed/VBN to/TO inactivate/VB 
+[ enzymes/NNS ]
+before/IN 
+[ radiosterilization/NN ]
+,/, treated/VBN 
+[ fresh/JJ meats/NNS ]
+have/VBP 
+[ the/DT appearance/NN ]
+of/IN boiled/VBN or/CC canned/VBN 
+[ meat/NN ]
+./. 
+==================================
+
+[ Off-flavor/NN ]
+is/VBZ 
+[ a/DT less/RBR severe/JJ problem/NN ]
+with/IN 
+[ the/DT radiopasteurization/NN ]
+of/IN 
+[ meats/NNS ]
+,/, but/CC 
+[ problems/NNS ]
+of/IN 
+[ commercial/JJ acceptability/NN ]
+remain/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ Moderate/JJ radiation/NN doses/NNS ]
+of/IN from/IN 
+[ 100,000/CD ]
+to/TO 
+[ 200,000/CD rads/NNS ]
+can/MD extend/VB 
+[ the/DT shelf/NN life/NN ]
+(/( at/IN 
+[ 35/CD F/NN ]
+)/) of/IN 
+[ fresh/JJ beef/NN ]
+from/IN 
+[ 5/CD days/NNS ]
+to/TO 
+[ 5/CD ]
+or/CC 
+[ 6/CD weeks/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ the/DT problem/NN ]
+of/IN 
+[ consumer/NN acceptability/NN ]
+remains/VBZ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT preradiation/NN blanching/NN process/NN ]
+discolors/VBZ 
+[ the/DT treated/VBN beef/NN ]
+and/CC 
+[ liquid/NN ]
+accumulates/VBZ in/IN 
+[ prepackaged/VBN cuts/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Cooked/VBN 
+[ beef/NN ]
+irradiated/VBN in/IN 
+[ the/DT absence/NN ]
+of/IN 
+[ oxygen/NN ]
+assumes/VBZ 
+[ an/DT unnatural/JJ pink/JJ color/NN ]
+./. 
+==================================
+When/WRB 
+[ lamb/NN ]
+and/CC 
+[ mutton/NN ]
+are/VBP irradiated/VBN at/IN 
+[ substerilization/NN doses/NNS ]
+,/, 
+[ the/DT meat/NN ]
+becomes/VBZ dehydrated/VBN ,/, 
+[ the/DT fat/NN ]
+becomes/VBZ 
+[ chalky/JJ ]
+,/, and/CC ,/, again/RB ,/, 
+[ unnatural/JJ changes/NNS ]
+in/IN 
+[ color/NN ]
+occur/VBP ./. 
+==================================
+
+[ Ground/NN meats/NNS ]
+such/JJ as/IN 
+[ fresh/JJ pork/NN sausage/NN ]
+and/CC 
+[ hamburger/NN ]
+have/VBP 
+[ a/DT ]
+relatively/RB 
+[ short/JJ shelf/NN life/NN ]
+under/IN 
+[ refrigeration/NN ]
+,/, and/CC 
+[ radiopasteurization/NN ]
+might/MD be/VB thought/VBN to/TO offer/VB distinctly/RB improved/VBN 
+[ keeping/VBG qualities/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ a/DT major/JJ problem/NN ]
+here/RB is/VBZ 
+[ one/CD ]
+of/IN 
+[ scale/NN ]
+of/IN processing/VBG ;/: ;/: 
+[ ground/NN meats/NNS ]
+are/VBP usually/RB prepared/VBN from/IN 
+[ scrap/JJ meats/NNS ]
+at/IN 
+[ the/DT local/JJ level/NN ]
+,/, whereas/IN 
+[ irradiation/NN ]
+at/IN 
+[ economic/JJ volumes/NNS ]
+of/IN 
+[ production/NN ]
+would/MD require/VB 
+[ central/JJ processing/NN ]
+and/CC 
+[ distribution/NN facilities/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT problems/NNS ]
+of/IN 
+[ color/NN change/NN ]
+by/IN blanching/VBG and/CC 
+[ liquid/NN accumulation/NN ]
+within/IN 
+[ the/DT package/NN ]
+are/VBP 
+[ the/DT same/JJ ]
+as/IN for/IN 
+[ solid/JJ cuts/NNS ]
+./. 
+==================================
+
+[ Specialty/NN ]
+cooked/VBD 
+[ items/NNS ]
+containing/VBG 
+[ meat/NN portions/NNS ]
+,/, as/IN in/IN ``/`` frozen/VBN 
+[ dinners/NNS ]
+''/'' might/MD offer/VB 
+[ a/DT potential/JJ use/NN ]
+for/IN 
+[ radiopasteurization/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT principal/JJ potential/JJ advantage/NN ]
+would/MD be/VB that/IN 
+[ the/DT finished/VBN product/NN ]
+could/MD be/VB transported/VBN and/CC stored/VBN at/IN 
+[ lower/JJR cost/NN ]
+under/IN 
+[ refrigeration/NN ]
+instead/RB of/IN being/VBG frozen/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT refrigerated/VBN item/NN ]
+could/MD also/RB be/VB heated/VBN and/CC served/VBN in/IN 
+[ less/JJR time/NN ]
+than/IN is/VBZ required/VBN for/IN 
+[ frozen/VBN foods/NNS ]
+of/IN 
+[ the/DT same/JJ type/NN ]
+./. 
+==================================
+
+[ Competitive/JJ processes/NNS ]
+for/IN preserving/VBG 
+[ meats/NNS ]
+are/VBP by/IN canning/VBG and/CC freezing/VBG ./. 
+==================================
+
+==================================
+==================================
+
+[ Costs/NNS ]
+of/IN 
+[ canning/VBG meat/NN ]
+are/VBP in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 0.8/CD ]
+to/TO 
+[ 5/CD cents/NNS ]
+per/IN 
+[ pound/NN ]
+;/: ;/: 
+[ costs/NNS ]
+of/IN freezing/VBG are/VBP in/IN 
+[ the/DT area/NN ]
+of/IN 
+[ 2/CD ]
+to/TO 
+[ 3.5/CD cents/NNS ]
+per/IN 
+[ pound/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT table/NN ]
+on/IN 
+[ page/NN 10/CD ]
+shows/VBZ 
+[ costs/NNS ]
+of/IN canning/VBG and/CC 
+[ freezing/VBG meat/NN ]
+,/, and/CC estimated/VBN 
+[ costs/NNS ]
+for/IN 
+[ irradiation/NN ]
+under/IN 
+[ certain/JJ assumed/VBN conditions/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Under/IN 
+[ the/DT conditions/NNS ]
+of/IN 
+[ comparison/NN ]
+,/, 
+[ it/PRP ]
+will/MD be/VB noted/VBN that/IN :/: (/( 
+[ 1/LS ]
+)/) 
+[ Radiosterilization/NN ]
+(/( at/IN 
+[ 3/CD Mrad/NN ]
+)/) is/VBZ more/RBR expensive/JJ than/IN canning/VBG ,/, particularly/RB for/IN 
+[ the/DT cesium-137/NN source/NN ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ 2/LS ]
+)/) 
+[ Radiopasteurization/NN ]
+by/IN 
+[ either/CC ]
+
+[ the/DT electron/NN accelerator/NN ]
+or/CC 
+[ cesium-137/NN source/NN ]
+is/VBZ in/IN 
+[ the/DT range/NN ]
+of/IN freezing/NN 
+[ costs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ 3/LS ]
+)/) 
+[ Irradiation/NN ]
+using/VBG 
+[ the/DT nuclide/NN source/NN ]
+is/VBZ more/RBR expensive/JJ than/IN 
+[ use/NN ]
+of/IN 
+[ an/DT electron/NN accelerator/NN ]
+./. 
+==================================
+
+[ Poultry/NN Results/NNS ] 
+of/IN 
+[ irradiation/NN tests/NNS ]
+with/IN 
+[ poultry/NN ]
+have/VBP been/VBN quite/RB successful/JJ ./. 
+==================================
+
+==================================
+==================================
+At/IN sterilizing/VBG 
+[ doses/NNS ]
+,/, 
+[ good/JJ palatability/NN results/VBZ ]
+,/, with/IN 
+[ a/DT minimum/NN ]
+of/IN 
+[ changes/NNS ]
+in/IN 
+[ appearance/NN ]
+,/, 
+[ taste/NN ]
+,/, and/CC 
+[ odor/NN ]
+./. 
+==================================
+
+[ Radiopasteurization/NN ]
+has/VBZ also/RB been/VBN successful/JJ ,/, and/CC 
+[ the/DT shelf/NN life/NN ]
+of/IN 
+[ chicken/NN ]
+can/MD be/VB extended/VBN to/TO 
+[ a/DT month/NN ]
+or/CC 
+[ more/JJR ]
+under/IN 
+[ refrigerated/VBN storage/NN ]
+as/IN compared/VBN with/IN about/IN 
+[ 10/CD days/NNS ]
+for/IN 
+[ the/DT untreated/JJ product/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Acceptable/JJ taste/NN ]
+and/CC 
+[ odor/NN ]
+are/VBP retained/VBN by/IN 
+[ the/DT irradiated/VBN ]
+and/CC refrigerated/VBN 
+[ chicken/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Acceptance/NN ]
+of/IN 
+[ radiopasteurization/NN ]
+is/VBZ likely/JJ to/TO be/VB delayed/VBN ,/, however/RB ,/, for/IN 
+[ two/CD reasons/NNS ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ the/DT storage/NN life/NN ]
+of/IN 
+[ fresh/JJ chicken/NN ]
+under/IN 
+[ refrigeration/NN ]
+is/VBZ becoming/VBG 
+[ a/DT minimal/JJ problem/NN ]
+because/IN of/IN constantly/RB improved/VBN 
+[ sanitation/NN ]
+and/CC 
+[ distributing/VBG practices/NNS ]
+,/, and/CC (/( 
+[ 2/LS ]
+)/) 
+[ treatment/NN ]
+by/IN 
+[ antibiotics/NNS ]
+,/, 
+[ a/DT measure/NN ]
+already/RB approved/VBN by/IN 
+[ the/DT Federal/NNP Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+,/, serves/VBZ to/TO extend/VB 
+[ the/DT storage/NN life/NN ]
+of/IN 
+[ chicken/NN ]
+at/IN 
+[ a/DT low/JJ cost/NN ]
+of/IN about/IN 
+[ 0.5/CD cents/NNS ]
+per/IN 
+[ pound/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Seafood/NN Fresh/JJ seafood/NN products/NNS ]
+are/VBP extremely/RB perishable/JJ ./. 
+==================================
+
+==================================
+==================================
+Although/IN 
+[ refrigeration/NN ]
+has/VBZ served/VBN to/TO extend/VB 
+[ the/DT storage/NN life/NN ]
+of/IN 
+[ these/DT products/NNS ]
+,/, substantially/RB increased/VBN 
+[ consumption/NN ]
+might/MD be/VB possible/JJ if/IN 
+[ areas/NNS ]
+remote/JJ from/IN 
+[ the/DT seacoast/NN ]
+could/MD be/VB served/VBN adequately/RB ./. 
+==================================
+==================================
+==================================

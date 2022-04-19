@@ -1,0 +1,2118 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Elburn)
+     ,
+     (NP Ill))
+ .
+ --)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Farm machinery dealer
+       (NP Bob Houtz))
+   (VP (VP tilts
+	   (ADVP back)
+	   (PP in
+	       (NP a (ADJP battered) chair)))
+       and
+       (VP tells
+	  
+	   (PP of
+	       (NP a sharp pickup
+		   (PP in
+		       (NP sales))))
+	   :
+	   ``
+	   (S (NP We)
+	      (X (X (AUX 've)
+		    (VP sold
+			(NP four corn pickers))
+		    (PP  since
+			 (NP Labor Day)))
+		 and
+		 (VP have
+		     (NP good prospects)
+		     (PP for
+			 (NP 10
+			     more))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP sold
+       (NP  (ADVP only)
+	    four pickers))
+   (NP  all
+	last year))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Gus Ehlers)
+      ,
+      (NP competitor
+	  (PP of
+	      (NP Mr. Houtz))
+	  (PP in
+	      (NP this farm community)))
+      ,)
+  (VP says
+      (SBAR 0
+	    (S (NP his business)
+	       (PP since
+		   (NP August 1))
+	       (AUX is)
+	       (VP running
+		   (PP (NP  50 %)
+		       above
+		       (ADVP (NP a year)
+			     earlier)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (PP Before
+	     (ADVP then))
+	 ,
+	 (S (NP my sales)
+	    (PP during
+		(NP  much
+		     (PP of
+			 (NP the year))))
+	    (AUX had)
+	    (VP lagged
+		(PP behind
+		    (NP 1960))
+		(PP by
+		    (NP 20 %)))))
+      ''
+      ,
+      (S (NP he)
+	 (VP says)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Though
+	  (S (NP (NP the sales
+		     gains)
+		 (SBAR 0
+		       (S (NP these two dealers)
+			  (AUX are)
+			  (VP experiencing
+			      (NP T) ))))
+	     (VP are
+		 (PP above
+		     (NP average)))
+	     (PP for
+		 (NP their business))))
+   ,
+   (S (NP farm equipment sales)
+      (AUX are)
+      (VP climbing)
+      (PP in
+	  (NP 
+	   most rural
+	   areas))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Paradoxically)
+      ,
+      (S (NP  the sales
+	      rise)
+	 (VP is
+	     (ADVP  due
+		    (PP in
+			(NP large measure))
+		    (PP to
+			(NP Government efforts
+			    (S (NP *)
+			       (AUX to)
+			       (VP slash
+				   (NP farm output)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP
+	       (NP the Administration)
+	       's program)
+	      (VP cut
+		  (NP crop acreage)
+		  (PP to
+		      (NP the
+			  lowest
+			  point
+			  (SBAR since
+				(NP 1934)))))))
+     ,
+     (S (NP farmers)
+	,
+	(PP with
+	    (NP the help
+		(PP of
+		    (NP (NP extra fertilizer)
+			and
+			(NP good weather)))))
+	,
+	(AUX are)
+	(VP getting
+	    (NP such high yields
+		(PP per
+		    (NP acre))
+		(SBAR that
+		      (S (NP many)
+			 (AUX are)
+			 (VP being
+			     (VP forced
+				 (S (NP *)
+				    (AUX to)
+				    (VP buy
+					(NP new harvesting machines)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Fields
+      (PP of
+	  (NP (NP corn)
+	      and
+	      (NP some other crops))))
+  (PP in
+      (NP many cases))
+  (VP are
+      (ADJP  so
+	     dense
+	     (SBAR that
+		   (S (NP
+		       older
+		       equipment)
+		      (AUX can)
+		      (NEG not)
+		      (VP handle
+			  (NP them)
+			  (ADVP efficiently)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP The
+	      higher
+	      price supports)
+	  (VP provided
+	      (PP by
+		  (NP the new legislation))))
+      ,
+      (ADVP together
+	    (PP with
+		(NP (VP rising)
+		    prices
+		    (PP for
+			(NP farm products)))))
+      ,)
+  (AUX are)
+  (VP pushing
+      (PRT up)
+      (NP farm income))
+  ,
+  (S  (NP *)  
+      (VP making
+	  (NP it)
+	  (ADJP possible
+		(PP for
+		    (S (NP farmers)
+		       (AUX to)
+		       (VP afford
+			   (NP the new machinery))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Seven
+        (PP of
+            (NP the eight companies
+		(SBAR  
+		 (WHNP that)
+		 (S (NP T)
+		    (VP turn
+			(PRT out)
+			(NP full lines
+			    (PP of
+				(NP farm machinery)))))))))
+    (VP say
+	(SBAR 0
+	      (S (NP sales
+		     (PP by
+			 (NP their dealers)))
+		 (PP  since
+		      (NP the start
+			  (PP of
+			      (NP August))))
+		 (AUX have)
+		 (VP shown
+		     (NP (NP gains)
+			 (VP averaging
+			     (PP (NP  (ADVP nearly)
+				      10 %)
+				 above
+				 (NP last year)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (PP In
+		(NP August))
+	    (S (NP our dealers)
+	       (VP sold
+		   (NP  (ADJP (NP 13 %)
+			      more) farm machinery
+			      (PP than
+				  (ADVP (NP a year)
+					earlier))))))
+	 and
+	 (S (PP in
+		(NP September))
+	    (S (NP retail sales)
+	       (VP were
+		   (ADJP (NP 14 %)
+			 higher
+			 (PP than
+			     (NP last year)))))))
+      ''
+      ,
+      (SINV  
+       (VP says)
+       (NP (NP Mark V. Keeler)
+	   ,
+	   (NP farm equipment vice president
+	       (PP of
+		   (NP International Harvester Co
+		       .))))))
+  .
+  )
+( (S  (PP For
+	  (NP the year))
+      (PP to
+	  (NP date))
+      ,
+      (S (NP sales
+	     (PP of
+		 (NP 
+		  (NP the company)
+		  's farm equipment dealers)))
+	 (ADVP still)
+	 (VP lag
+	     (PP  
+	      (NP (ADVP about)
+		  5 %)
+	      behind
+	      (NP 1960)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Two
+	(PP of
+	    (NP three)))
+    (VP report
+	(NP gains))))
+((S  
+   (PP Among
+       (NP (NP individual dealers)
+	   (VP questioned
+	       (PP in
+		   (NP  (ADVP nearly)
+			a score
+			(PP of
+			    (NP states)))))))
+   ,
+   (S (NP two
+	  (PP out
+	      (PP of
+		  (NP three))))
+      (VP report
+	  (SBAR 0
+		(S (NP their sales
+		       (PP  since
+			    (NP August 1)))
+		   (VP show
+		       (NP sizable gains
+			   (PP from
+			       (ADVP (NP a year)
+				     earlier)))
+		       ,
+		       (PP with
+			   (S (NP the increases)
+			      (VP ranging
+				  (PP (PP from
+					  (NP 5 %))
+				      (PP to
+					  (NP 50 %))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  Not
+	    all sections)
+       (AUX are)
+       (VP showing
+	   (NP an upswing))
+       ,
+       (ADVP however))
+    ;
+    ;
+    (S (NP the
+	   (ADJP drought-seared)
+	   North Central states)
+       (VP are
+	   (NP the
+	       (ADJP  most notable)
+	       exceptions
+	       (PP to
+		   (NP the uptrend))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The significance
+       (PP of
+	   (NP the pickup
+	       (PP in
+		   (NP farm machinery sales)))))
+   (VP extends
+       (PP beyond
+	   (NP the farm equipment industry))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The demand
+       (PP for
+	   (NP farm machinery)))
+   (AUX is)
+   (VP regarded
+	     
+       (PP as
+	   (NP a yardstick
+	       (PP of
+		   (NP rural buying
+		       (ADVP generally)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Farmers)
+   (VP spend
+       (NP more
+	   (PP of
+	       (NP their income))
+	   (PP on
+	       (NP (NP tractors) and (NP implements)))
+	   (PP than
+	       (PP on
+		   (NP any other group
+		       (PP of
+			   (NP products))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (ADJP More
+	       (PP than
+		   (NP 20 million)))
+	 people)
+     (VP live
+	 (PP on
+	     (NP farms))))
+    and
+    (S (NP they)
+       (VP (VP own
+	       (NP a
+		   fourth
+		   (PP of
+		       (NP 
+			(NP the nation)
+			's trucks))))
+	   ,
+	   (VP buy
+	       (NP 
+		more
+		gasoline
+		(PP than
+		    (NP any other industry))))
+	   and
+	   (VP provide
+	       (NP a major market
+		   (PP for
+		       (NP (NP home appliances)
+			   ,
+			   (NP chemicals)
+			   and
+			   (NP other products))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Farmers)
+      (VP are
+	  (ADJP  so
+		 eager
+		 (PP for
+		     (NP new machinery))
+		 (SBAR that
+		       (S (NP they)
+			  (AUX 're)
+			  (VP haggling
+			      (ADVP less
+				    (PP-1 *pseudo-attach*))
+			      (PP over
+				  (NP prices))
+			      (PP-1 than
+				    (S (NP they)
+				       (VP did)
+				       (ADVP (NP a year)
+					     ago)))))))))
+   ,
+   (S (NP dealers)
+      (VP report)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (NP Farmers)
+	    (VP are
+		(NEG n't)
+		(ADJP   as
+			price conscious
+			(PP as
+			    (NP last year)))))
+	 so
+	 (S (NP we)
+	    (AUX can)
+	    (VP get
+		(NP (ADJP more)
+		    money)
+		(PP on
+		    (NP a sale)))))
+      ''
+      ,
+      (SINV  
+       (VP says)
+       (NP (NP Jack Martin)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP sells
+		   (NP 
+		    J
+		    Case tractors and implements))
+	       (PP in
+		   (NP (NP Sioux City)
+		       ,
+		       (NP Iowa))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   ``
+    (S  
+     (NP This morning)
+     ,
+     (S (NP we)
+	(VP allowed
+	    (NP a farmer $
+		600)
+	    (PP on
+		(NP (NP the old picker)
+		    (SBAR 0
+			  (S
+			   (NP he)
+			   (VP traded
+			       (PRT in)
+			       (NP T) 
+			       (PP on
+				   (NP a new 
+				       $
+				       2,700 model))))))))))
+    .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last year)
+   ,
+   (S (NP we)
+      (ADVP probably)
+      (AUX would)
+      (VP have
+	  (VP given
+	      (NP him)
+	      (NP $ 700)
+	      (PP for
+		  (NP a comparable machine))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Mr. Martin)
+      (VP sold
+	  (NP 21 tractors))
+      (PP in
+	  (NP August)))
+     ;
+     ;
+     (S (PP in
+	    (NP August
+		(PP of
+		    (NP 1960))))
+	,
+	(S (NP he)
+	   (VP sold
+	       (NP seven)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP 
+     (NP Dealers)
+     ' stocks)
+    (ADVP down)))
+((S  
+   (PP With
+       (S  (NP dealer stocks
+	       (PP of
+		   (NP new equipment)))
+	   (VP averaging
+	       (PP  
+		(NP (ADVP about)
+		    25 %)
+		below
+		(ADVP (NP a year)
+		      ago)))))
+   ,
+   (S (NP the affects
+	  (PP of
+	      (NP the rural recovery)))
+      (AUX are)
+      (VP being
+	  (VP felt
+	      (ADVP  almost
+		     immediately)
+	      (PP by
+		  (NP 
+		   (NP the country)
+		   's farm equipment manufacturers))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (NP example))
+      ,
+      (S (NP farm equipment shipments
+	     (PP of
+		 (NP International Harvester))
+	     (PP in
+		 (NP August)))
+	 (VP climbed
+	     (PP  
+	      (NP (ADVP about)
+		  5 %)
+	      above
+	      (ADVP (NP a year)
+		    earlier)))))
+     ,
+     (S (NP Mr. Keeler)
+	(VP reports)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP Tractor production
+	 (PP at
+	     (NP  Massey-Ferguson
+		  ,
+		  Ltd.
+		  ,
+		  (PP of
+		      (NP Toronto)))))
+     (PP in
+	 (NP (NP July)
+	     and
+	     (NP August)))
+     (VP rose
+	 (PP to
+	     (NP 2,418 units))
+	 (PP from
+	     (NP 869
+		 (PP in
+		     (NP the like period
+			 (ADVP (NP a year)
+			       earlier)))))))
+    ,
+    (SINV  
+     (VP says)
+     (NP (NP John Staiger)
+	 ,
+	 (NP vice president))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP (NP the
+	       lower
+	       dealer inventories)
+	   and
+	   (NP the (ADJP stepped-up) demand)))
+   (S
+    (NP some manufacturers)
+    (VP believe
+	(SBAR 0
+	      (S (NP there)
+		 (AUX could)
+		 (VP be
+		     (NP shortages
+			 (PP of
+			     (NP some implements)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Merritt D. Hill)
+      ,
+      (NP Ford Motor Co. vice president)
+      ,)
+  (VP says
+      (SBAR 0
+	    (S (NP his company)
+	       (AUX is)
+	       (VP starting
+		   (S (NP *)
+		      (AUX to)
+		      (VP get
+			  (NP calls)
+			  (ADVP daily)
+			  (PP from
+			      (NP (NP dealers)
+				  (VP (VP demanding
+					  (NP immediate delivery))
+				      or
+				      (VP wanting
+					  (NP 
+					   earlier
+					   shipping dates
+					   (PP on
+					       (NP orders
+						   (PP for
+						       (NP corn pickers))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Except
+       (PP for
+	   (NP a few months
+	       (PP in
+		   (NP (NP  
+			late
+			1960)
+		       and
+		       (NP   early
+			    1961))))))
+   ,
+   (S (NP retail farm equipment sales)
+      (AUX have)
+      (VP trailed
+	  (NP (ADJP year-earlier) levels))
+      (PP  since
+	   (NP the latter part
+	       (PP of
+		   (NP 1959))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP The rise
+	  (PP in
+	      (NP sales))
+	  (NP last winter))
+      (AUX was)
+      (VP checked
+	  )
+      (SBAR 
+       (WHADVP when)
+       (S (NP
+	   (NP the Government)
+	   's new feed grain program)
+	  (AUX was)
+	  (VP adopted
+	      ))))
+   ;
+   ;
+   (S (NP the program)
+      (VP (VP resulted
+	      (PP in
+		  (NP a cutback
+		      (PP of
+			  (NP (ADVP around)
+			      20 %))
+		      (PP in
+			  (NP planted acreage)))))
+	  and
+	  ,
+	  (PP as
+	      (NP a result))
+	  ,
+	  (VP reduced
+	      (NP the immediate need
+		  (PP for
+		      (NP machines)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  (ADVP Nearly)
+	 all
+	 (PP of
+	     (NP the farm equipment manufacturers and dealers)))
+    (VP say
+	(SBAR 0
+	      (S (NP the upturn
+		     (PP in
+			 (NP sales)))
+		 (AUX has)
+		 (VP resulted
+		     (ADVP chiefly)
+		     (PP from
+			 (NP the recent improvement
+			     (PP in
+				 (NP crop prospects)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Total farm output)
+   (PP for
+       (NP this year))
+   (AUX is)
+   (VP  (ADVP officially)
+	forecast
+	     
+	(PP at
+	    (NP (NP 129 %
+		    (PP of
+			(NP the 1947-49 average)))
+		,
+		(ADJP (ADJP  
+		       (NP three points)
+		       higher
+		       (PP than
+			   (NP the July 1 estimate)))
+		      and
+		      (ADJP  (ADVP exactly)
+			     equal
+			     (PP to
+				 (NP the final figure
+				     (PP for
+					 (NP 1960))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Government)
+   (ADVP also)
+   (AUX is)
+   (VP aiding
+       (NP 
+	(NP farmers)
+	' income prospects)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Agriculture Department economists)
+   (VP estimate
+       (SBAR 0
+	     (S (NP the Government)
+		(NP this year)
+		(AUX will)
+		(VP hand
+		    (NP farmers)
+		    (NP (NP $ 1.4
+			    billion
+			    (PP in
+				(NP (NP special subsidies) and (NP incentive payments))))
+			,
+			(X (PP  (ADVP well)
+				above
+				(NP the record $
+				    1.1 billion
+				    (PP of
+					(NP 1958))))
+			   and
+			   (ADVP  (ADVP about)
+				  double
+				  (NP the
+				      $ 639
+				      million
+				      (PP of
+					  (NP 1960)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Price support loans)
+   (AUX may)
+   (VP total
+       (NP another
+	   $ 1
+	   billion))
+   (NP this year))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (S (NP cash receipts
+	      (PP from
+		  (NP marketings)))
+	  (VP expected
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (PP  (ADVP slightly)
+			  above
+			  (NP 1960)))))))
+   ,
+   (S (NP
+       (NP farmers)
+       ' gross income)
+      (AUX is)
+      (VP estimated
+	      
+	  (PP at
+	      (NP (NP $ 39.5
+		      billion)
+		  ,
+		  (PP (NP $ 1.5
+			  billion)
+		      above
+		      (NP 
+		       (NP 1960)
+		       's record
+		       high)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Net income)
+   (AUX may)
+   (VP reach
+       (NP (NP $ 12.7
+	       billion)
+	   ,
+	   (X (ADVP  up
+		     (NP $ 1
+			 billion)
+		     (PP from
+			 (NP 1960)))
+	      and
+	      (NP the
+		  highest
+		  (PP  since
+		       (NP 1953)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Government)
+   (VP reported
+       (NP last week)
+       (SBAR that
+	     (S (NP the index
+		    (PP of
+			(NP (NP prices)
+			    (VP received
+				(PP by
+				    (NP farmers))))))
+		(VP rose
+		    (PP in
+			(NP (NP the month)
+			    (VP ended
+		     
+				(PP at
+				    (NP mid-September)))))
+		    (PP for
+			(NP the
+			    third consecutive
+			    month)))
+		,
+		(S (NP *) 
+		   (VP reaching
+		       (NP (NP 242 %
+			       (PP of
+				   (NP the 1910-14 average)))
+			   (VP compared
+			       (PP with
+				   (NP 237 %
+				       (PP at
+					   (NP mid-July))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Kennedy)
+   (VP opposes
+       (NP any widespread relief
+	   (PP from
+	       (NP a High Court depletion ruling)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Supreme Court decision
+       (PP in
+	   (NP mid-1960)))
+   (VP was
+       (PP in
+	   (NP the case
+	       (PP of
+		   (NP  (NP a company)
+			(VP making
+			    (NP sewer pipe)
+			    (PP from
+				(NP (NP clay)
+				    (SBAR (WHNP which)
+					  (S
+					   (NP it)
+					   (VP mined
+					       (NP T) ))))))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The company)
+   ,
+   (PP in
+       (S (NP *) 
+	  (VP figuring
+	      (NP its taxable earnings))))
+   ,
+   (VP deducted
+       (NP a percentage
+	   (PP of
+	       (NP (NP the revenue)
+		   (SBAR 0
+			 (S
+			  (NP it)
+			  (VP received
+			      (NP T) 
+			      (PP for
+				  (NP its finished products))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Such
+      ``
+      depletion allowances
+      '')
+  ,
+  (PP in
+      (NP the form
+	  (PP of
+	      (NP percentages
+		  (PP of
+		      (NP sales))))))
+  (AUX are)
+  (VP authorized
+	 
+      (PP by
+	  (NP tax law))
+      (PP for
+	  (NP 
+	   (NP specified raw
+	       materials
+	       producers)
+	   (VP using
+	       (PRT up)
+	       (NP their assets))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The High Court)
+   (VP held
+       (SBAR that
+	     (S (NP the company)
+		(AUX must)
+		(VP apply
+		    (NP its percentage allowance)
+		    (PP (PP to
+			    (NP the value
+				(PP of
+				    (NP (NP the raw materials)
+					(VP removed
+					    (PP from
+						(NP the ground)))))))
+			,
+			(NEG not)
+			(PP to
+			    (NP the revenue
+				(PP from
+				    (NP finished products))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A measure)
+       (VP passed
+	   (PP by
+	       (NP Congress))
+	   (PP  (ADVP just)
+		before
+		(S (NP *) 
+		   (VP adjourning)))))
+   (VP softened
+       (NP 
+	(NP the ruling)
+	's impact
+	,
+	(PP on
+	    (NP (NP (ADJP prior-year) returns)
+		(PP (ADVP still)
+		    under
+		    (NP review))))
+	,
+	(PP for
+	    (NP (NP clay-mining companies)
+		(SBAR 
+		 (WHNP that)
+		 (S (NP T)
+		    (VP make
+			(NP brick and tile products)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The measure)
+   (VP allows
+       (NP such companies)
+       (PP in
+	   (NP those years))
+       (S (NP *)
+	  (AUX to)
+	  (VP apply
+	      (NP their mineral depletion allowances)
+	      (PP to
+		  (NP (NP 50 %
+			  (PP of
+			      (NP the value
+				  (PP of
+				      (NP the finished products)))))
+		      (ADVP rather
+			    (PP than
+				(NP the
+				    lower
+				    value
+				    (PP of
+					(NP raw clay
+					    (ADVP alone))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP President Kennedy)
+   ,
+   (PP in
+       (S (NP *) 
+	  (VP signing
+	      (NP the relief measure)
+	      (PP into
+		  (NP law)))))
+   ,
+   (VP stressed
+       (SBAR 0
+	     (S (NP he)
+		(VP regarded
+		    (NP it)
+		    (PP as
+			(NP an exception)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP My approval
+	     (PP of
+		 (NP this bill)))
+	 (AUX should)
+	 (NEG not)
+	 (VP be
+	     (VP viewed
+		  
+		 (PP as
+		     (S (NP *) 
+			(VP establishing
+			    (NP a precedent
+				(PP for
+				    (NP the enactment
+					(PP of
+					    (NP similar legislation))
+					(PP for
+					    (NP other mineral industries)))))))))))
+      ''
+      ,
+      (S (NP the President)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Charitable deductions)
+   (VP come
+       (PRT in)
+       (PP for
+	   (NP 
+	    closer
+	    scrutiny
+	    (PP by
+		(NP the I.R.S
+		    .))))))
+  .)
+( (S
+   (NP The Service)
+   (VP announced
+       (SBAR that
+	     (S (NP (NP taxpayers)
+		    (VP making
+			(NP such claims)))
+		(AUX may)
+		(VP be
+		    (VP called
+			      
+			(PRT on)
+			(S (NP *)
+			   (AUX to)
+			   (VP furnish
+			       (NP (NP a statement
+				       (PP from
+					   (NP the recipient organization)))
+				   (VP showing
+				       (NP  the date
+					    ,
+					    purpose
+					    ,
+					    amount
+					    and
+					    other particulars
+					    (PP of
+						(NP the contribution)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Requests
+       (PP for
+	   (NP substantiation)))
+   ,
+   (S (NP the Service)
+      (VP indicated))
+   ,
+   (AUX can)
+   (VP be
+       (VP  (ADVP especially)
+	    expected
+	        
+	    (PP in
+		(NP (NP cases)
+		    (SBAR 
+		     (WHADVP where)
+		     (S (NP it)
+			(VP suspects
+			    (SBAR 0
+				  (S (NP the donor)
+				     (VP received
+					 (NP (NP some material benefit)
+					     (ADJP-2 *pseudo-attach*))
+					 (PP in
+					     (NP return))
+					 ,
+					 (ADJP-2  such
+						  (PP as
+						      (NP tickets
+							  (PP to
+							      (NP a show))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP such
+	   an instance))
+   ,
+   (S (NP revenuers)
+      (VP stressed))
+   ,
+   (S (NP the deduction)
+      (AUX must)
+      (VP be
+	  (VP reduced
+		  
+	      (PP by
+		  (NP the value
+		      (PP of
+			  (NP (NP the benefit)
+			      (VP received)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A rule
+       (PP on
+	   (NP the Federal deductibility
+	       (PP of
+		   (NP state taxes)))))
+   (AUX is)
+   (VP contested
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A realty corporation
+       (PP in
+	   (NP Louisiana)))
+   (VP owed
+       (NP no tax
+	   (PP-3 *pseudo-attach*))
+       ,
+       (PP under
+	   (NP Federal law))
+       ,
+       (PP-3 on
+	   (NP its gain
+	       (PP from
+		   (NP the sale
+		       (PP of
+			   (NP (NP property)
+			       (VP disposed
+				   (PP of
+				       (NP *) )
+				   (PP in
+				       (NP line
+					   (PP with
+					       (NP a plan
+						   (PP of
+						       (NP liquidation)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Louisiana)
+   ,
+   (ADVP however)
+   ,
+   (VP collected
+       (NP an income tax
+	   (PP on
+	       (NP the profits
+		   (PP from
+		       (NP the sale)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The corporation)
+   ,
+   (PP in
+       (S (NP *) 
+	  (VP filing
+	      (NP its
+		  final Federal
+		  income return))))
+   ,
+   (VP claimed
+       (NP the state tax payment)
+       (PP as
+	   (NP a deductible expense)))
+   ,
+   (PP as
+       (S (NP *) 
+	  (VP permitted
+	      (PP under
+		  (NP U.S. tax law))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Revenue Service)
+   (VP disallowed
+       (NP the claim))
+   ,
+   (S  (NP *) 
+       (VP invoking
+	   (NP (NP a law provision)
+	       (SBAR 
+		(WHNP that)
+		(S   (NP T) 
+		     (ADVP generally)
+		     (VP bars
+			 (NP deductions
+			     (PP for
+				 (NP (NP expenses)
+				     (VP incurred
+					 (PP in
+					     (NP connection
+						 (PP  with
+						      (SBAR (WHNP what)
+							    (S (NP it)
+							       (VP said
+								   (SBAR 0
+									 (S  (NP T) 
+									     (VP was
+										 (NP (ADJP tax-exempt) income)))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Tax Court)
+   (VP rejected
+       (NP this view)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP said
+       (SBAR 0
+	     (S (NP the tax-freedom
+		    (PP of
+			(NP the gain)))
+		(PP in
+		    (NP this case))
+		(VP stemmed
+		    (PP (NEG not)
+			(PP from
+			    (NP the exempt status
+				(PP of
+				    (NP the income))))
+			but
+			(PP from
+			    (NP a special rule
+				(PP on
+				    (NP corporate liquidations))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The Tax Court decision)
+      and
+      (NP a
+	  similar earlier
+	  finding
+	  (PP by
+	      (NP the Ninth Circuit Court
+		  (PP of
+		      (NP Appeals))))))
+  (VP challenges
+      (NP a
+	  (ADJP year-old)
+	  I.R.S. ruling
+	  (PP on
+	      (NP the subject)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Service)
+    (AUX has)
+    (NEG not)
+    (VP said
+	(SBAR (WHNP what)
+	      (S
+	       (NP its next step)
+	       (AUX will)
+	       (VP be
+		   (NP T) )))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Peace Corps volunteers)
+   (AUX are)
+   (VP assured
+	     
+       (NP a tax benefit))
+   (PP under
+       (NP (NP the law)
+	   (VP creating
+	       (NP the agency)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP provides
+       (SBAR that
+	     (S (NP (NP the
+			$ 1,800
+			termination payment)
+		    (SBAR 0
+			  (S (NP each cadet)
+			     (VP is
+				 (S (NP *)
+				    (AUX to)
+				    (VP get
+					(NP T) )))
+			     ,
+			     (PP after
+				 (S (NP *) 
+				    (VP serving
+					(NP a (ADJP two-year) hitch)
+					(PP without
+					    (NP pay)))))
+			     ,)))
+		(AUX will)
+		(VP be
+		    (VP (VP spread
+			      
+			    (PP over
+				(NP both
+				    years)))
+			,
+			(NEG not)
+			(VP taxed
+			    (PP in
+				(NP its entirety))
+			    (PP at
+				(NP a
+				    (ADJP  (ADVP possibly)
+					   higher)
+				    rate))
+			    (PP in
+				(NP (NP the year)
+				    (SBAR 0
+					  (S  (NP *)
+					      (VP received))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (S (NP The owner
+	 (PP of
+	     (NP a public relations
+		 firm)))
+     (VP owed
+	 (NP no income tax
+	     (PP on
+		 (NP (NP payments)
+		     (SBAR 0
+			   (S
+			    (NP he)
+			    (VP (VP received
+				    (NP T)
+				    (PP from
+					(NP a client company)))
+				and
+				(VP  ``
+				     kicked
+				     (NP T) 
+				     (ADVP back)
+				     ''
+				     (PP to
+					 (NP 
+					  (NP the company)
+					  's advertising manager)))))))))))
+  ,
+  (S (NP the Tax Court)
+     (VP ruled)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The taxpayer)
+   (VP testified
+       (SBAR that
+	     (S (PP in
+		    (NP order
+			(S (NP *)
+			   (AUX to)
+			   (VP retain
+			       (NP the account)))))
+		(S
+		 (NP he)
+		 (VP had
+		     (S (NP *)
+			(AUX to)
+			(VP (VP pad
+				(NP his invoices))
+			    and
+			    (VP pay
+				(NP the excess)
+				(PP to
+				    (NP the manager)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Court)
+   (VP upheld
+       (NP 
+	(NP the taxpayer)
+	's contention
+	(SBAR that
+	      (S (NP these
+		     ``
+		     kickbacks
+		     '')
+		 (VP were
+		     (NEG not)
+		     (NP his income))
+		 (SBAR though
+		       (S (NP they)
+			  (VP passed
+			      (PP through
+				  (NP his hands))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Court)
+   (VP limited
+       (NP its decision)
+       (PP to
+	   (NP  (NP the tax issue)
+		(VP involved))))
+   ,
+   (S  (NP *) 
+       (VP commenting
+	   :
+	   ``
+	   (S (NP It)
+	      (VP is
+		  (NEG not)
+		  (NP our province))
+	      (S (NP *)
+		 (AUX to)
+		 (VP pass
+		     (NP judgment)
+		     (PP on
+			 (NP the morality
+			     (PP of
+				 (NP the transaction)))))))
+	   '')))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A portable kerosene range)
+       (VP designed
+	   (PP for
+	       (NP use
+		   (PP aboard
+		       (NP boats))))))
+   (AUX is)
+   (VP sold
+	     
+       (PP with
+	   (NP a special railing
+	       (S (NP *)
+		  (AUX to)
+		  (VP keep
+		      (NP it)
+		      (PP from
+			  (S (NP *) 
+			     (VP moving
+				 (PP with
+				     (NP the motion
+					 (PP of
+					     (NP the vessel)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Revenue Service)
+   (VP said
+       (SBAR 0
+	     (S (NP the addition
+		    (PP of
+			(NP the attachment)))
+		(AUX does)
+		(NEG not)
+		(VP keep
+		    (NP the range)
+		    (PP from
+			(S (NP *) 
+			   (VP coming
+			       (PP under
+				   (NP 
+				    (NP the Federal manufacturers)
+				    ' excise tax
+				    (PP on
+					(NP (ADJP household-type) appliances))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  
+    (NP (S  (NP *) 
+	    (VP Hiring
+		(NP the wife)
+		(PP for
+		    (NP (NP one)
+			's
+			company)))))
+    (AUX may)
+    (VP win 
+	(NP her )
+	(NP (ADJP tax-aided)
+	    retirement income)))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A spouse)
+       (VP employed
+	   (PP by
+	       (NP (NP a corporation)
+		   (SBAR 0
+			 (S (NP her husband)
+			    (VP controls
+				(NP T) )))))))
+   ,
+   (PP for
+       (NP example))
+   ,
+   (AUX may)
+   (VP be
+       (VP entitled
+		 
+	   (PP to
+	       (NP (NP distributions
+		       (PP under
+			   (NP 
+			    (NP the company)
+			    's pension plan)))
+		   (PP  as
+			well
+			as
+			(PP to
+			    (NP her
+				own
+				Social Security coverage))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (AUX would)
+      (VP be
+	  (VP taxed
+		 
+	      (PP on
+		  (NP (NP the pensions)
+		      (SBAR (WHADVP when)
+			    (S (NP *) 
+			       (VP received)))))))
+      ,
+      (PP of
+	  (NP course)))
+     ,
+     but
+     (S (NP
+	 (NP the company)
+	 's contributions)
+	(AUX would)
+	(VP be
+	    (ADJP tax-free))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP A frequent pitfall
+       (PP in
+	   (NP this sort
+	       (PP of
+		   (NP arrangement)))))
+   ,
+   (S (NP experts)
+      (VP warn))
+   ,
+   (VP is
+       (NP a tendency
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP pay
+		     (NP the wife)
+		     (ADVP  more
+			    (PP than
+				(S (NP her job)
+				   (VP is
+				       (ADJP worth)))))))
+	      and
+	      (S (NP *)
+		 (AUX to)
+		 (VP set
+		     (ADVP aside)
+		     (NP an excessive amount)
+		     (PP for
+			 (NP her))
+		     (PP as
+			 (NP retirement income))))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP that event))
+   ,
+   (S (NP they)
+      (VP note))
+   ,
+   (S (NP the Revenue Service)
+      (AUX might)
+      (VP (VP declare
+	      (SBAR 0
+		    (S (NP the pension plan)
+		       (VP is
+			   (ADJP discriminatory)))))
+	  and
+	  (VP deny
+	      (NP it tax privileges
+		  (PP under
+		      (NP the law)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP  
+   (NP Possible upshots)
+   :
+   (S (S (NP The company)
+	 (AUX could)
+	 (VP be
+	     (VP denied
+	       
+		 (NP a deduction
+		     (PP for
+			 (NP its pension payments))))))
+      ,
+      or
+      (S (NP those payments
+	     (PP for
+		 (NP (NP the wife)
+		     and
+		     (NP other employes))))
+	 (AUX could)
+	 (VP be
+	     (VP ruled
+		 (ADJP taxable
+		       (PP to
+			   (NP them))
+		       (PP in
+			   (NP (NP the year)
+			       (SBAR 0
+				     (S (NP *)
+					(VP made)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP   
+   (NP State briefs)
+   :
+   (S (NP Voters
+	  (PP in
+	      (NP (NP four counties)
+		  (VP containing
+		      and
+		      bordering
+		      (NP Denver)))))
+      (VP authorized
+	  (NP the imposition
+	      (PP of
+		  (NP an
+		      additional
+		      2 %
+		      sales
+		      tax))
+	      (PP within
+		  (NP that area))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Colorado)
+   (VP has
+       (NP a 2 % sales
+	   tax)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Denver)
+      (NP itself))
+  (VP collects
+      (NP (NP a 1 % sales
+	      tax)
+	  (SBAR 
+	   (WHNP which)
+	   (S (NP T)
+	      (VP is
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (VP absorbed
+			        
+			     (PP in
+				 (NP the
+				     higher
+				     area tax)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Washington state supreme court)
+   (VP ruled
+       (SBAR that
+	     (S (NP
+		 (NP the state)
+		 's occupation tax)
+		(VP applied
+		    (PP to
+			(NP (NP sales)
+			    ,
+			    (VP made
+				(PP at
+				    (NP cost))
+				(PP to
+				    (NP an oil company))
+				,
+				(PP by
+				    (NP (NP a (ADJP wholly-owned) subsidiary)
+					(VP set
+					    (PRT up)
+					    (S (NP *)
+					       (AUX to)
+					       (VP purchase
+						   (NP certain supplies)
+						   (PP without
+						       (S (NP *) 
+							  (VP divulging
+							      (NP the identity
+								  (PP of
+								      (NP the parent)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The state)
+    's occupation tax)
+   (AUX is)
+   (VP computed
+	     
+       (PP on
+	   (NP gross sales))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The court)
+   (VP held
+       (SBAR that
+	     (S (NP the tax)
+		(VP applied
+		    (PP to
+			(NP (ADJP non-profit) sales)))
+		(SBAR because
+		      (S (NP the corporations)
+			 (VP realized
+			     (NP economic benefits)
+			     (PP by
+				 (S (NP *)  
+				    (VP doing
+					(NP business)
+					(PP as
+					    (NP two separate entities))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Washington)
+ --)
+((S (S (NP Consumer spending)
+       (VP edged
+	   (ADVP down))
+       (PP in
+	   (NP April))
+       (PP after
+	   (S (NP *) 
+	      (VP rising)
+	      (PP for
+		  (NP two consecutive months)))))
+    ,
+    (S (NP the Government)
+       (VP reported)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Commerce Department)
+    (VP said
+	(SBAR 0
+	      (S (NP 
+		  (VP   (ADVP seasonally)
+			adjusted)
+		  sales
+		  (PP of
+		      (NP retail stores)))
+		 (VP dropped
+		     (PP to
+			 (NP (ADVP  (ADVP slightly)
+				    under)
+			     $ 18
+			     billion))
+		     (PP in
+			 (NP April))
+		     ,
+		     (ADVP  
+		      down
+		      (NP 1 %)
+		      (PP from
+			  (NP the March level
+			      (PP of
+				  (NP  more
+				       (PP than
+					   (NP $ 18.2
+					       billion))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP April sales)
+       (ADVP also)
+       (VP were
+	   (PP (NP 5 %)
+	       below
+	       (NP those
+		   (PP of
+		       (NP (NP April (NP last year))
+			   ,
+			   (SBAR 
+			    (WHADVP when)
+			    (S (NP volume)
+			       (VP reached
+				   (NP (NP a record
+					   (PP for
+					       (NP any month)))
+				       ,
+				       (NP (NP $ 18.9
+					       billion))))))))))))
+    *LRB*
+    (S (NP *)  
+       (VP see
+	   (NP chart
+	       (PP on
+		   (NP Page One)))))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The seasonal adjustment)
+   (VP takes
+       (PP into
+	   (NP account))
+       (NP such factors
+	   (PP as
+	       (S (S (NP Easter)
+		     (NP-6 *pseudo-attach*)
+		     (VP was
+			 (PP on
+			     (NP (NP April 2)
+				 (NP-6 this year)
+				 ,
+				 (ADVP  
+				  (NP two weeks)
+				  earlier
+				  (PP than
+				      (PP in
+					  (NP 1960))))))))
+		  ,
+		  and
+		  (S (NP (ADJP pre-Easter) buying)
+		     (AUX was)
+		     (VP pushed
+	    
+			 (PP into
+			     (NP March)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Commerce Department officials)
+   (AUX were)
+   (VP inclined
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP explain
+	      (NP the April sales
+		  decline)
+	      (PP as
+		  (NP a reaction
+		      (PP from
+			  (NP a surge
+			      (PP of
+				  (NP consumer buying))
+			      (PP in
+				  (NP March))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (VP Adjusted)
+	 sales)
+     (NP that month)
+     (VP were
+	 (ADVP  up
+		(NP a
+		    (ADJP  (ADVP relatively)
+			   steep)
+		    2.5 %)
+		(PP from
+		    (NP (NP those
+			    (PP of
+				(NP the month
+				    (ADVP before))))
+			,
+			(SBAR 
+			 (WHNP which)
+			 (S  
+			  (PP in
+			      (NP turn))
+			  (S (NP T)
+			     (VP were
+				 (ADJP  slightly
+					higher
+					(PP than
+					    (NP the January low
+						(PP of
+						    (NP $ 17.8
+							billion))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

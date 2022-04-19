@@ -1,0 +1,2237 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Two metabolites
+	    (PP-1 *pseudo-attach*)
+	    (SBAR-2 *pseudo-attach*))
+	*LRB*
+	(NP 1)
+	,
+	and
+	(NP 2)
+	*RRB*
+	*RRB*
+	(PP-1 of
+	    (NP p-aminobenzoic acid))
+	*LRB*
+	(NP PABA)
+	*RRB*
+	(SBAR-2 (WHNP which)
+	      (S (NP T)
+		 (VP act
+		     (PP as
+			 (NP cofactors
+			     (PP for
+				 (NP the hydroxylation
+				     (PP of
+					 (NP aniline))
+				     (PP by
+					 (NP acid-fast bacteria))))))))))
+    (AUX are)
+    (VP biosynthesized
+	 
+	(PP from
+	    (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The 7 carbons
+	(PP of
+	    (NP PABA)))
+    (AUX are)
+    (VP incorporated
+	(PP (ADVP directly)
+	    into
+	    (NP metabolite 2))
+	*LRB*
+	*LRB*
+	(PP as
+	    (S (NP *)  
+	       (VP shown
+		   (PP with
+		       (NP both ring-labeled and carboxy-labeled A[fj])))))
+	*RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Thirty-five
+       (PP of
+	   (NP the 36 carbon atoms)))
+   (VP arise
+       (PP from
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP All 28 carbons
+	(PP of
+	    (NP (NP metabolite 1)
+		*LRB*
+		*LRB*
+		(NP a product
+		    (PP of
+			(NP 
+			 mild acid
+			 hydrolysis
+			 (PP of
+			     (NP 2)))))
+		*RRB*)))
+    (VP arise
+	(PP from
+	    (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Metabolite 1)
+  ,
+  (S (NP *)  
+     (VP isolated
+	 (PP from
+	     (NP the medium))))
+  ,
+  (ADVP however)
+  ,
+  (VP showed
+      (NP (NP a
+	      lower specific
+	      activity)
+	  ,
+	  (SBAR 
+	   (WHNP which)
+	   (S (NP T)
+	      (VP indicates
+		  (NP endogenous synthesis
+		      (PP of
+			  (NP this metabolite)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 
+     Vigorous acid
+     hydrolysis
+     (PP of
+	 (NP metabolite 1)))
+    ,
+    (VP (VP destroyed
+	    (NP the biological activity
+		(PP of
+		    (NP the compound))))
+	and
+	(VP liberated
+	    (NP two aryl amines))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S
+   (NP  Fragment
+       A)
+   (AUX has)
+   (VP been
+       (VP obtained
+	    
+	   (PP in
+	       (NP crystalline form))
+	   (PP as
+	       (NP a dioxalate salt
+		   and
+		   free base)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Preliminary evidence)
+    (VP  (ADVP tentatively)
+	 indicates
+	 (SBAR that
+	       (S (NP (NP the molecule)
+		      *LRB*
+		      (NP metabolite 1)
+		      *RRB*
+		      *RRB*)
+		  (AUX is)
+		  (VP cleaved
+		      (PP at
+			  (NP a secondary amide bond)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP N.H. Sloane)
+      ;
+      ;
+      (S (NP chemical studies)
+	 (AUX are)
+	 (VP being
+	     (VP pursued
+	      
+		 (PP with
+		     (NP the cooperation
+			 (PP of
+			     (NP K.G. Untch))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP studies
+    (PP on
+	(NP esterases))))
+( 
+ (S  --
+     (S (NP Research
+	    (PP on
+		(NP esterases
+		    (PP in
+			(NP mammalian sera)))))
+	(AUX was)
+	(VP continued
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One
+       (PP of
+	   (NP the
+	       (ADJP most interesting)
+	       findings)))
+   (VP was
+       (NP the extreme sensitivity
+	   (PP of
+	       (NP plasma arylesterases))
+	   (PP to
+	       (NP rare earth ions)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The inhibition
+       (PP of
+	   (NP the enzyme))
+       (PP by
+	   (NP (ADJP  very
+		      low) concentrations
+		      (PP of
+			  (NP lanthanum ion)))))
+   (VP is
+       (ADVP probably)
+       (NP the
+	   (ADJP strongest)
+	   (VP known)
+	   biological effect
+	   (PP of
+	       (NP rare earth salts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Various metal ions)
+   (AUX have)
+   (VP been
+       (VP found
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP protect
+		  (NP plasma arylesterase)
+		  (PP against
+		      (NP inactivation
+			  (PP by
+			      (NP urea and guanidine)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The effects)
+   (AUX can)
+   (VP be
+       (VP related
+		 
+	   (PP to
+	       (NP the structure
+		   (PP of
+		       (NP this enzyme)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	(ADJP non-identity)
+	(PP of
+	    (NP serum
+		and
+		red blood cell arylesterase)))
+    (AUX was)
+    (ADVP also)
+    (VP established)
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP the hydrolysis
+	     (PP of
+		 (NP paraoxon)))
+	 (AUX was)
+	 (VP studied
+	      
+	     (PP in
+		 (NP mammalian sera))))
+      ,
+      and
+      (S (NP it)
+	 (AUX was)
+	 (VP found
+	      
+	     (SBAR that
+		   (S (NP it)
+		      (AUX is)
+		      (VP hydrolyzed
+			   
+			  (PP by
+			      (NP (NP albumin)
+				  *LRB*
+				  or
+				  (NP (NP a factor)
+				      (VP attached
+					  (PP to
+					      (NP it))))
+				  *RRB*))
+			  (PP in
+			      (NP addition
+				  (PP to
+				      (NP arylesterase))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Selective inhibitors)
+   (AUX can)
+   (VP distinguish
+       (NP the two activities)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Investigations
+       (PP on
+	   (NP the acceleration
+	       (PP of
+		   (NP human plasma cholinesterase)))))
+   (AUX were)
+   (VP carried
+       (ADVP further)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP  *LRB*
+	 (NP (NP E.G. Erdos)
+	     ,
+	     (NP L.E. Boggs)
+	     ,
+	     (NP C.D. Mackey))
+	 *RRB*)
+    (NP biophysical studies
+	(PP on
+	    (NP (VP modified)
+		fibrous proteins)))
+    --))
+((S (NP  Electron-microscopical
+	 and
+	 physical-chemical methods)
+    (AUX were)
+    (VP used
+	(S (NP *)
+	   (AUX to)
+	   (VP demonstrate
+	       (NP the renaturation
+		   (PP of
+		       (NP (NP heat-denatured collagen)
+			   and
+			   (NP ribonucleic acid)))))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP  *LRB*
+     R.V. Rice
+     *RRB*))
+((S (NP A method)
+    (AUX was)
+    (VP devised
+	(PP for
+	    (S  (NP *) 
+		(VP  extracting
+		     and
+		     purifying
+		     (NP (NP soluble earthworm collagen)
+			 *LRB*
+			 (NP EWC)
+			 *RRB*)))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX was)
+    (VP observed
+	 
+	(SBAR that
+	      (S (NP EWC macromolecules)
+		 (VP are
+		     (X (NP (NP the same diameter)
+			    *LRB*
+			    (NP 15 a.)
+			    *RRB*)
+			but
+			(ADJP much
+			      longer
+			      *LRB*
+			      (PP up
+				  (PP to
+				      (NP several microns)))
+			      *RRB*
+			      (PP than
+				  (NP vertebrate tropocollagen)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This unusual collagen)
+   (ADVP also)
+   (AUX was)
+   (VP shown
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP undergo
+	      (NP a
+		  reversible thermal
+		  phase transformation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP  *LRB*
+	 (NP (NP R.V. Rice)
+	     ,
+	     (NP M.D. Maser))
+	 *RRB*)
+    (NP studies
+	(PP on
+	    (NP peptides and peptidases))))
+ --)
+((S (NP This investigation)
+    (VP involved
+	(NP several aspects)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Substance Z)
+	 ,
+	 (NP an
+	     active urinary
+	     peptide)
+	 ,)
+     (AUX was)
+     (VP purified
+	 (PP by
+	     (NP (NP extraction
+		     (PP in
+			 (NP organic solvents)))
+		 and
+		 (NP (VP repeated)
+		     column chromatography))))
+     )
+    ;
+    ;
+    (S (NP (NP high-voltage electrophoresis) 
+	   and 
+	   (NP paper chromatography))
+       (AUX were)
+       (VP used
+	    
+	   (PP in
+	       (NP 
+		preliminary structural
+		studies))))
+    ;
+    ;
+    (S  
+     (NP pharmacological effects
+	 (PP in
+	     (NP (X vitro)))
+	 (PP on
+	     (NP  isolated
+		  (VP surviving)
+		  organs))
+	 and
+	 (PP in
+	     (NP (X vivo)))
+	 (PP on
+	     (NP blood pressure)))
+     (AUX were)
+     (VP assayed
+	 ))
+    ;
+    ;
+    (S (NP (NP special equipment)
+	   (VP required
+	       (PP for
+		   (S (NP *)  
+		      (VP registering
+			  (NP respiration))))
+	       and
+	       (PP for
+		   (S (NP *)  
+		      (VP recording
+			  (NP the contraction
+			      (PP of
+				  (NP smooth muscles)))
+			  (PP under
+			      (NP various conditions)))))))
+       (AUX was)
+       (VP developed
+	     
+	   (PP by
+	       (NP (NP the Instruments
+		       Section)
+		   *LRB*
+		   (NP (NP Victor Jackman)
+		       ,
+		       (NP W.C. Barnes)
+		       ,
+		       (NP J.F. Reiss))
+		   *RRB*))))
+    ;
+    ;
+    and
+    (S (NP (NP enzymes)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP terminate
+			(NP the action
+			    (PP of
+				(NP (NP peptides)
+				    (ADJP such
+					  (PP  
+					   as
+					   (NP (NP bradykinin)
+					       and
+					       (ADVP perhaps)
+					       (NP Substance Z)))))))))))
+       (AUX were)
+       (VP studied
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Experiments)
+   (VP are
+       (PP in
+	   (NP progress)))
+   (S (NP *)
+      (AUX to)
+      (VP develop
+	  (NP 
+	   ultraviolet spectrophotometric
+	   techniques
+	   (PP for
+	       (S (NP *)  
+		  (VP assaying
+		      (NP these enzymes))))
+	   and
+	   (PP for
+	       (S (NP *)  
+		  (VP studying
+		      (NP their sensitivity
+			  (PP to
+			      (NP metal ions))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP  *LRB*
+	 (NP (NP E.G. Erdos)
+	     ,
+	     (NP C.D. Mackey)
+	     ,
+	     (NP A.G. Renfrew)
+	     ,
+	     (NP W.B. Severs)
+	     ,
+	     (NP E.M. Sloane))
+	 *RRB*)
+    (NP seed proteins)
+    --))
+((S (PP In
+	(NP a physiochemical study
+	    (PP of
+		(NP seed proteins))))
+    ,
+    (S (NP the globulins
+	   (PP of
+	       (NP the Brazil nut)))
+       (AUX have)
+       (VP been
+	   (VP investigated
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(NP (NP the
+			known principal
+			globulin)
+		    ,
+		    (NP excelsin)))))
+    ,
+    (S (NP three
+	   other
+	   (ADJP ultracentrifugally
+		 distinct)
+	   components)
+       (AUX have)
+       (VP been
+	   (VP observed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A water-soluble protein
+	(PP of
+	    (NP (NP 
+		 (ADJP  quite
+			low) molecular
+		 weight)
+		*LRB*
+		(NP ca. 10,000)
+		*RRB*)))
+    (AUX has)
+    (ADVP also)
+    (VP been
+	(VP (VP found
+	     
+		(PP in
+		    (NP this system)))
+	    and
+	    (VP  (ADVP partly)
+		 characterized))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP  *LRB*
+	  (NP (NP E.F. Casassa)
+	      ,
+	      (NP H.J. Notarius))
+	  *RRB*)
+     (NP continuum mechanics and viscoelasticity theory
+	 (PP of
+	     (NP non-newtonian fluids))))
+ --)
+((S (PP On
+	(NP the basis
+	    (PP of
+		(NP a differentiability assumption
+		    (PP in
+			(NP function space))))))
+    ,
+    (S (NP it
+	   (S-1 *pseudo-attach*))
+       (VP is
+	   (ADJP possible))
+       (S-1 (NP *)
+	  (AUX to)
+	  (VP prove
+	      (SBAR that
+		    ,
+		    (S (PP for
+			   (NP (NP materials)
+			       (VP having
+				   (NP the property
+				       (SBAR that
+					     (S (NP the stress)
+						(AUX is)
+						(VP given
+		  
+						    (PP by
+							(NP a functional
+							    (PP of
+								(NP the history
+								    (PP of
+									(NP the deformation gradients)))))))))))))
+		       ,
+		       (S (NP the classical theory
+			      (PP of
+				  (NP infinitesimal viscoelasticity)))
+			  (VP is
+			      (ADJP valid))
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP the deformation)
+			      (AUX has)
+			      (VP been
+				  (ADJP infinitesimal))
+			      (PP for
+				  (NP all times
+				      (PP in
+					  (NP the past)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (NP *)  
+	   (VP strengthening
+	       (NP the differentiability assumption))))
+    ,
+    (S (NP it)
+       (AUX has)
+       (VP been
+	   (ADJP possible))
+       (S (NP *)
+	  (AUX to)
+	  (VP derive
+	      (NP  
+	       (ADJP second
+		     and
+		     higher
+		     order)
+	        theories
+	       (PP of
+		   (NP viscoelasticity)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the second-order theory))
+    ,
+    (S (NP one
+	   (PP of
+	       (NP the normal stress differences)))
+       (AUX can)
+       (VP be
+	   (VP calculated
+	        
+	       (PP from
+		   (NP the first-order stress relaxation function))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP *LRB*
+    (NP B.D. Coleman
+	(PP with
+	    (NP (NP Walter Noll)
+		,
+		(NP (NP Department
+			(PP of
+			    (NP Mathematics)))
+		    ,
+		    (NP Carnegie Institute
+			(PP of
+			    (NP Technology)))))))
+    *RRB*)
+ (NP viscoelastic measurements
+     --))
+((S (NP An extensive series
+	(PP of
+	    (NP measurements)))
+    (AUX was)
+    (VP made
+	 
+	(PP on
+	    (NP a high-density polyethylene
+		(PP in
+		    (NP a torsion pendulum instrument))))
+	(S (NP *)  
+	   (VP using
+	       (NP (NP (VP forced)
+		       sinusoidal oscillation)
+		   ,
+		   (NP free vibration)
+		   ,
+		   and
+		   (NP creep measurements))
+	       (PP over
+		   (NP the temperature range
+		       (PP of
+			   (NP A[fj]
+			       (PP to
+				   (NP 80-degrees-C))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP As
+	       many
+	       (PP as
+		   (NP seven decades
+		       (PP of
+			   (NP the time scale))))))
+    (AUX were)
+    (ADVP thus)
+    (VP covered
+	(ADVP isothermally)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The simple time-temperature equivalence)
+       (ADJP valid
+	     (PP for
+		 (NP many amorphous systems))))
+   (AUX did)
+   (NEG not)
+   (VP hold
+       (ADVP here)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-2 *pseudo-attach*))
+   (VP was
+       (ADJP possible))
+   ,
+   (ADVP however)
+   ,
+   (S-2 (NP *)
+      (AUX to)
+      (VP decompose
+	  (NP the compliance)
+	  (PP into
+	      (NP a sum
+		  (PP of
+		      (NP (NP a frequency-independent component)
+			  and
+			  (NP (NP two viscoelastic mechanisms)
+			      ,
+			      (NP (NP each)
+				  (ADJP compatible
+					(PP with
+					    (NP the Boltzmann superposition principle))
+					and
+					(PP with
+					    (NP a consistent set
+						(PP of
+						    (NP time-temperature equivalence factors))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	(NP Hershel Markovitz)
+	,
+	(NP D.J. Plazek)
+	,
+	(NP Haruo) Nakayasu
+	*RRB*)
+    (NP geochemistry trace elements
+	(PP in
+	    (NP (NP tektites)
+		,
+		(NP meteorites)
+		,
+		and
+		(NP (VP related)
+		    materials))))
+    --))
+( 
+ (S (NP The results
+	(PP of
+	    (NP microanalysis
+		(PP of
+		    (NP (NP tektites)
+			*LRB*
+			(NP natural glasses
+			    (PP of
+				(NP unknown origin)))
+			*RRB*))
+		(PP for
+		    (NP gallium and germanium)))))
+    (AUX have)
+    (VP shown
+	(SBAR that
+	      (S (NP these glasses)
+		 (AUX are)
+		 (ADVP probably)
+		 (VP produced
+		      
+		     (PP from
+			 (NP (ADJP terrestrial)
+			     *LRB*
+			     or
+			     (ADJP  less
+				    likely)
+			     (PP from
+				 (ADJP lunar))
+			     *RRB*
+			     matter))
+		     (PP by
+			 (NP impact
+			     (PP of
+				 (NP a celestial body)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gallium germanium ratio)
+   (VP is
+       (ADJP higher
+	     (PP than
+		 (NP that
+		     (PP for
+			 (NP  ordinary
+			     (ADJP  igneous
+				    ,
+				    metamorphic
+				    ,
+				    or
+				    sedimentary)
+			     matter))))))
+   (PP as
+       (NP a result
+	   (PP of
+	       (NP selective volatilization
+		   (PP of
+		       (NP the components
+			   (PP of
+			       (NP the tektite)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Gallium oxide)
+       (VP is
+	   (ADJP  less
+		  volatile
+		  (PP than
+		      (NP (NP silica)
+			  *LRB*
+			  (NP the main constituent
+			      (PP of
+				  (NP tektites)))
+			  *RRB*)))))
+    and
+    (S (NP germanium oxide)
+       (VP is
+	   (ADJP  more
+		 volatile))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Australites)
+	*LRB*
+	(NP tektites
+	    (PP from
+		(NP Australia)))
+	*RRB*)
+    (VP give
+	(NP the appearance
+	    (PP of
+		(NP a second melting)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP conformity
+	    (PP with
+		(NP this conclusion))))
+    (S (NP a
+	   (ADJP higher)
+	   trace gallium content)
+       (AUX was)
+       (VP found
+	    
+	   (PP in
+	       (NP (NP the portion)
+		   *LRB*
+		   (NP flange)
+		   *RRB*
+		   (SBAR (WHNP that)
+			 (S (NP T)
+			    (AUX has)
+			    (VP undergone
+				(NP a second melting)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The silicate fractions
+       (PP of
+	   (NP stony meteorites)))
+   (VP show
+       (NP (NP gallium germanium ratios)
+	   (ADJP similar
+		 (PP to
+		     (NP those
+			 (PP of
+			     (NP tektites)))))))
+   (SBAR because
+	 (S (NP they)
+	    (ADVP too)
+	    (AUX have)
+	    (VP undergone
+		(NP melting))
+	     
+	    (PP at
+		(NP some point
+		    (PP in
+			(NP their histories)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Libyan Desert silica-glass)
+	,
+	(NP another natural glass)
+	,)
+    (X (X (AUX is)
+	  (VP composed
+	      (PP of
+		  (NP (ADJP  nearly
+			     pure) silica))))
+       and
+       (VP has
+	   (NP the same trace germanium content)
+	   (PP as
+	       (NP sands
+		   (PP in
+		       (NP the area)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The gallium content)
+    ,
+    (ADVP however)
+    ,
+    (AUX has)
+    (VP been
+	(VP enhanced
+	    (ADJP five-fold))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This glass)
+   (AUX is)
+   (ADVP probably)
+   (VP formed
+        
+       (PP from
+	   (NP Libyan Desert sands))
+       (PP by
+	   (NP comet
+	       or
+	       stony-meteorite impact))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Nickel-iron meteorites
+	(PP with
+	    (NP (NP 
+		 sufficient kinetic
+		 energy)
+		(S (NP *)
+		   (AUX to)
+		   (VP produce
+		       (NP
+			large terrestrial
+			explosion craters))))))
+    (AUX may)
+    (ADVP nevertheless)
+    (VP melt
+	(NP 
+	 only small
+	 quantities
+	 (PP of
+	     (NP material)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Most
+	(PP of
+	    (NP the impact energy)))
+    (AUX is)
+    (VP spent
+	(PP in
+	    (NP  (NP crushing)
+		 and
+		 (NP fragmentation))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP rapid quenching)
+	 (VP follows
+	     (NP melting))))
+     ,
+     (S (NP impact glasses)
+	(AUX may)
+	(VP result)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (ADVP always)
+   (VP contain
+       (NP metallic inclusions)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Impact glasses)
+	(NEG not)
+	(VP containing
+	    (NP elemental nickel-iron)))
+    (AUX may)
+    (VP have
+	(VP been
+	    (VP produced
+		 
+		(PP by
+		    (NP stony meteorites or comets))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP No meteorites)
+      (AUX have)
+      (ADVP ever)
+      (VP been
+	  (VP recovered
+	    
+	      (PP from
+		  (NP paleoexplosion craters)))))
+     ,
+     and
+     (S (NP (NP recent craters)
+	    (VP containing
+		(NP impact glass)))
+	(VP have)
+	(ADVP all)
+	(VP been
+	    (VP produced
+		(PP by
+		    (NP metallic meteorites))))
+	(PP with
+	    (NP the exception
+		(PP of
+		    (NP (NP Aouelloul crater)
+			,
+			(NP (NP Adrar)
+			    ,
+			    (NP Western Sahara Desert))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This crater)
+      (VP contains
+	  (NP impact glass
+	      (PP with
+		  (NP no metallic inclusions)))))
+     and
+     (S (NP no meteoritic material)
+	(AUX has)
+	(VP been
+	    (VP recovered
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	(NP  (NP A.J. Cohen)
+	     ,
+	     (NP John Anania))
+	*RRB*)
+    (NP inorganic chemistry)))
+((S (NP Preparation
+	(PP of
+	    (NP a coordination compound)))
+    (AUX is)
+    (ADVP often)
+    (VP accomplished
+	 
+	(PP by
+	    (NP the simple method
+		(PP of
+		    (S (NP *)  
+		       (VP reacting
+			   (NP a metal salt)
+			   (PP with
+			       (NP a ligand))
+			   (PP in
+			       (NP a suitable solvent
+				   (ADJP such
+					 (PP as
+					     (NP an alcohol))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S  (NP *) 
+	    (VP applying
+		(NP this general principle))))
+    ,)
+ (S (NP a great number
+	(PP of
+	    (NP complex compounds
+		(PP of
+		    (NP (NP (NP osmium)
+			    ,
+			    (NP ruthenium)
+			    ,
+			    (NP iridium)
+			    ,
+			    and
+			    (NP rhenium))
+			,
+			(PP with
+			    (NP (NP triphenylphosphine)
+				,
+				(NP triphenylarsine)
+				,
+				and
+				(NP triphenylstibine))))))))
+    (AUX have)
+    (VP been
+	(VP obtained
+	     
+	    (PP in
+		(NP this laboratory))))
+    (PP during
+	(NP the
+	    (ADJP past)
+	    few years)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP *LRB*
+    (NP Lauri Vaska)
+    ,
+    (NP E.M. Sloane)
+    ,
+    (NP J.W. DiLuzio)
+    *RRB*))
+( 
+ (S (PP In
+	(NP the absence
+	    (PP of
+		(NP direct evidence
+		    (PP to
+			(NP the contrary))))))
+    ,
+    (S (NP (NP decomposition
+	       (PP of
+		   (NP solvent alcohol)))
+	   and
+	   (NP coordination
+	       (PP of
+		   (NP its fragments))
+	       (PP to
+		   (NP the metal))))
+       (AUX were)
+       (NEG not)
+       (VP considered
+	   )
+       ,
+       (VP following
+	   (NP the
+	       above heretofore-accepted
+	       assumption
+	       (PP in
+		   (NP preparative coordination chemistry))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Recent work
+	(PP with
+	    (NP (NP radiocarbon)
+		and
+		(NP (VP deuterated)
+		    alcohols)
+		(PP as
+		    (NP solvents)))))
+    ,
+    (ADVP however)
+    ,
+    (AUX has)
+    (VP given
+	(NP evidence
+	    (SBAR that
+		  (S
+		   (NP  metal-hydrido and carbonyl complexes)
+		   (AUX may)
+		   (VP be
+		       (VP  (ADVP readily)
+			    formed
+			     
+			    (PP by
+				(NP reaction
+				    (PP with
+					(NP alcohol))))
+			    (PP in
+				(NP some
+				    (PP of
+					(NP these systems)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Some
+	   (PP of
+	       (NP the
+		   (VP previously
+		       reported)
+		   compounds)))
+       (AUX have)
+       (ADVP thus)
+       (VP been
+	   (VP reformulated
+	       )))
+    and
+    (S (NP a series
+	   (PP of
+	       (NP new hydrido and carbonyl compounds)))
+       (VP discovered)
+       ,
+       (S (NP the
+	      (ADJP  more
+		     representative) examples)
+	  (VP being
+	      (NP (NP A[fj])
+		  ,
+		  (NP A[fj])
+		  ,
+		  (NP A[fj])
+		  ,
+		  (NP A[fj])
+		  and
+		  (NP (NP A[fj])
+		      *LRB*
+		      A[fj]
+		      *RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The coordination complexes)
+	(VP formed
+	    (PP by
+		(NP transition metals))
+	    (PP with
+		(NP primary and secondary phosphines and arsines))))
+    (AUX are)
+    (VP being
+	(VP investigated
+	    ))
+    *LRB*
+    (NP R.G. Hayter)
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Particular interest)
+   (AUX is)
+   (VP directed
+        
+       (PP towards
+	   (NP the condensation
+	       (PP of
+		   (NP these ligands
+		       (PP with
+			   (NP metal halides))))
+	       (S (NP *)
+		  (AUX to)
+		  (VP form
+		      (NP substituted phosphide or arside complexes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the past year))
+    ,
+    (S (NP these ligands)
+       (AUX have)
+       (VP yielded
+	   (NP (NP (NP some
+		       unusual five-coordinate
+		       complexes
+		       (PP of
+			   (NP (NP nickel)
+			       (NP *LRB*
+				   (NP 2)
+				   *RRB*))))
+		   and
+		   (NP some
+		       interesting binuclear phosphorus-bridged
+		       complexes
+		       (PP of
+			   (NP (NP palladium)
+			       (NP *LRB*
+				   (NP 2)
+				   *RRB*)))))
+	       *LRB*
+	       (S (NP *)  
+		  (VP see
+		      (NP figure)))
+	       *RRB*
+	       ,
+	       (ADVP as
+		     well
+		     (PP as
+			 (NP new compounds
+			     (PP of
+				 (NP the well-known type A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The structures
+	,
+	properties
+	,
+	and
+	reactions
+	(PP of
+	    (NP these compounds)))
+    (AUX are)
+    (VP being
+	(VP studied
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP another study))
+    (S (NP (NP (NP chromium-substituted aluminum oxyhydroxides)
+	       and
+	       (NP (VP related)
+		   species))
+	   ,
+	   (VP prepared
+	       (ADVP homogeneously)
+	       (PP by
+		   (NP high-temperature hydrolysis)))
+	   ,)
+       (AUX are)
+       (VP being
+	   (VP  characterized
+		and
+		investigated
+		(ADVP spectrally)
+		(PP in
+		    (NP the ultraviolet region)))
+	   (PP with
+	       (NP a view
+		   (PP to
+		       (NP (NP identification)
+			   and
+			   (NP semiquantitative estimation
+			       (PP of
+				   (NP (NP the phases)
+				       (VP formed
+					   (PP under
+					       (NP (VP varying)
+						   preparative conditions)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	 (NP J. A.
+	     Laswick) 
+	 ,
+	 (NP N.L. Heatwole)
+	 *RRB*)
+     (NP (NP structure and properties
+	     (PP of
+		 (NP macromolecules)))
+	 (NP elasticity
+	     (PP of
+		 (NP macromolecular networks))))
+     --))
+( 
+ (S (S (NP The theory
+	   (PP of
+	       (NP elasticity
+		   (PP of
+		       (NP Gaussian networks)))))
+       (AUX has)
+       (VP been
+	   (VP developed
+	       
+	       (PP on
+		   (NP a
+		       (ADJP  more
+			      general) basis)))))
+    and
+    (S (NP (NP the equations
+	       (PP of
+		   (NP state)))
+	   (VP relating
+	       (NP variables
+		   (PP of
+		       (NP (NP pressure)
+			   ,
+			   (NP volume)
+			   ,
+			   (NP temperature)
+			   ,
+			   (NP stress)
+			   and
+			   (NP strain))))))
+       (AUX have)
+       (VP been)
+       (VP  (ADVP precisely)
+	    formulated
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Simple elongation)
+   (AUX has)
+   (VP been
+       (VP treated
+	    
+	   (PP in
+	       (NP detail)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	various stress-temperature
+	coefficients
+	(PP for
+	    (NP (NP constancy
+		    (PP of
+			(NP (NP volume) 
+			    and 
+			    (NP strain))))
+		,
+		(NP constancy
+		    (PP of
+			(NP (NP pressure) 
+			    and 
+			    (NP strain))))
+		,
+		and
+		(NP constancy
+		    (PP of
+			(NP (NP pressure) 
+			    and 
+			    (NP length)))))))
+    (AUX have)
+    (VP been
+	(VP interrelated
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP The dilation)
+	  (VP accompanying
+	      (NP elongation)))
+      and
+      (NP the
+	  (ADJP  simultaneously
+		 developed)
+	  anisotropy
+	  (PP of
+	      (NP compressibility))))
+    (AUX have)
+    (VP been
+	(VP related
+	     
+	    (PP to
+		(NP the elongation)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP continuation
+	    (PP of
+		(NP these theoretical studies))))
+    ,
+    (S (NP a
+	   (ADJP  more
+		 precise) elucidation
+	   (PP of
+	       (NP the effects
+		   (PP of
+		       (NP imperfections
+			   (PP in
+			       (NP network structure)))))))
+       (AUX is)
+       (VP sought
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	 (NP P.J. Flory)
+	 ,
+	 (NP C. A. J. Hoeve) 
+	 *RRB*)
+     (NP chain conformations
+	 (PP of
+	     (NP polymeric chains)))
+     --))
+( 
+ (S  
+  (NP 
+   Recent theoretical
+   work
+   (S (NP *)
+      (AUX to)
+      (VP calculate
+	  (NP the dimensions
+	      (PP of
+		  (NP polymeric chains)))))
+   (PP by
+       (NP (NP Volkenstein)
+	   and
+	   (NP Lifson))))
+  (AUX has)
+  (VP been
+      (VP extended
+	   
+	  (S (NP *)
+	     (AUX to)
+	     (VP include
+		 (NP 
+		  (ADJP more general)
+		  types
+		  (PP of
+		      (NP chains))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       mean-square end-to-end
+       distance
+       (PP of
+	   (NP the polyisobutylene chain)))
+   (AUX has)
+   (VP been
+       (VP calculated
+	    
+	   (PP in
+	       (NP reasonable agreement
+		   (PP with
+		       (NP (NP values)
+			   (VP deduced
+			       (PP from
+				   (NP viscosity data))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These studies)
+   (AUX are)
+   (VP being
+       (VP extended
+	    
+	   (PP to
+	       (NP different polymers))))
+   (S (NP *)
+      (AUX to)
+      (VP increase
+	  (NP our knowledge
+	      (PP about
+		  (NP the hindrances
+		      (PP to
+			  (NP rotation
+			      (PP around
+				  (NP chain bonds))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	(NP C. A. J. Hoeve) 
+	,
+	(NP A.A.
+	    Blumberg)
+	*RRB*)
+    (NP crystallization
+	(PP in
+	    (NP polymers and copolymers)))
+    --))
+( 
+ (S (NP The crystallization
+	(PP of
+	    (NP (NP copolymers)
+		(VP comprising
+		    (NP (NP A[fj] units)
+			(VP interspersed
+			    (PP with
+				(NP a minor percentage
+				    (PP of
+					(NP A[fj]))))))))))
+    (AUX is)
+    (VP limited
+	 
+	(PP by
+	    (NP the inability
+		(PP of
+		    (NP the crystal lattice characteristic
+			(PP of
+			    (NP the former))))
+		(S (NP *)
+		   (AUX to)
+		   (VP accommodate
+		       (NP the bulky side group
+			   (PP of
+			       (NP the latter)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Only uninterrupted
+    sequences
+    (PP of
+	(NP the former)))
+   (VP are
+       (ADJP eligible
+	     (PP for
+		 (NP formation
+		     (PP of
+			 (NP crystallites)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Limitations
+	  (PP on
+	      (NP the lengths
+		  (PP of
+		      (NP these sequences)))))
+      (VP diminish
+	  (NP the stability
+	      (PP of
+		  (NP (NP the
+			  (ADJP  comparatively
+				 short) crystallites)
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (AUX can)
+			       (VP be
+				   (VP formed
+				       )))))))))
+     ,
+     and
+     (S (NP this)
+	(AUX is)
+	(VP reflected
+	     
+	    (PP in
+		(NP a broadening
+		    (PP of
+			(NP the melting range)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP *LRB*
+    (NP Robert Chiang)
+    ,
+    (NP J.B. Jackson)
+    ,
+    (NP P.J. Flory)
+    *RRB*))
+(
+ (S (NP (NP (VP  Carefully
+		 executed)
+	    melting
+	    studies
+	    (PP on
+		(NP this system)))
+	(NP  *LRB*
+	    M.J. Richardson
+	    *RRB*))
+    (VP permit
+	(NP quantitative estimation
+	    (PP of
+		(NP (NP the instability)
+		    (VP engendered
+			(PP by
+			    (NP (VP reduced)
+				crystallite length))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The complex morphology
+       (PP of
+	   (NP polycrystalline homopolymers)))
+   (VP is
+       (ADJP  necessarily
+	     dependent
+	     (PP on
+		 (NP the same factor)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Hence)
+      ,
+      (S (NP the present studies)
+	 (VP offer
+	     (NP a possible basis
+		 (PP for
+		     (NP interpretations
+			 (PP in
+			     (NP the latter field))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP Contraction
+    (PP of
+	(NP muscle))
+    --))
+(  
+ (S (NP Glycerinated muscle)
+    ,
+    (PP in
+	(NP the presence
+	    (PP of
+		(NP (NP the physiological agent)
+		    *LRB*
+		    (NP ATP)
+		    *RRB*
+		    (ADJP responsible
+			  (PP for
+			      (S (NP *)  
+				 (VP delivering
+				     (NP energy)
+				     (PP to
+					 (NP the
+					     (ADJP  mechanochemically
+						    active) proteins
+					     (PP of
+						 (NP muscle))))))))))))
+    ,
+    (AUX has)
+    (VP been
+	(VP shown
+	     
+	    (S (NP *)
+	       (AUX to)
+	       (VP undergo
+		   (NP (NP a contraction)
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP is
+				    (ADJP  highly
+					   sensitive
+					   (PP both
+					       (PP to
+						   (NP temperature))
+					       and
+					       (PP to
+						   (NP solvent composition
+						       (PP in
+							   (NP mixtures
+							       (PP of
+								   (NP alcohols and water)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Experiments)
+	(VP carried
+	    (PRT out)
+	    (PP over
+		(NP long periods
+		    (PP of
+			(NP time))))
+	    (SBAR  in
+		      order
+		  (S (NP *)
+		     (AUX to)
+		     (VP allow
+			 (NP establishment
+			     (PP of
+				 (NP a steady state))))))))
+    (AUX have)
+    (VP shown
+	(SBAR that
+	      (S (NP (NP the onset
+			 (PP of
+			     (NP contraction)))
+		     and
+		     (NP its completion))
+		 (AUX are)
+		 (VP confined
+		       
+		     (PP to
+			 (NP an interval
+			     (PP of
+				 (NP several degrees
+				     Centigrade))))
+		     and
+		     (PP to
+			 (NP a concentration range
+			     (PP of
+				 (NP  only
+				      several
+				      per
+				      cent)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The contraction)
+   (ADVP therefore)
+   (VP partakes
+       (PP of
+	   (NP the character
+	       (PP of
+		   (NP a phase transition))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHNP While)
+	  (S (NP ATP)
+	     (VP appears
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(ADJP necessary
+			      (PP for
+				  (NP the occurrence
+				      (PP of
+					  (NP contraction))))))))))
+    ,
+    (S (NP (NP its presence)
+	   and
+	   (NP enzymatic hydrolysis
+	       (PP of
+		   (NP it))
+	       (PP by
+		   (NP the muscle protein myosin))))
+       (VP are
+	   (NEG not)
+	   (NP the only criteria
+	       (PP for
+		   (NP contraction))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP *LRB*
+	(NP C. A. J. Hoeve) 
+	,
+	(NP P.J. Flory)
+	*RRB*)
+    (NP anionic Polymerization
+	--)))
+( 
+ (S (NP One
+	  (PP of
+	      (NP the principal aims
+		  (PP of
+		      (NP anionic polymerization techniques)))))
+      (VP is
+	  (NP the synthesis
+	      (PP of
+		  (NP polymers
+		      (PP of
+			  (NP 
+			   (ADJP  extremely
+				 narrow) molecular
+			   weight distribution)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A simple process
+       (PP for
+	   (NP the preparation
+	       (PP of
+		   (NP (ADJP  nearly
+			      monodisperse) polystyrene
+			      (PP of
+				  (NP 
+				   predictable molecular
+				   weight)))))))
+   (AUX has)
+   (VP been
+       (VP developed
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The preparation
+	  (PP of
+	      (NP such products)))
+      (VP is
+	  (NEG not)
+	  (ADJP new)))
+     ,
+     but
+     (S (NP (NP the systems)
+	    (ADVP heretofore)
+	    (VP employed
+		(PP in
+		    (NP polymerizations))))
+	(AUX have)
+	(VP commanded
+	    (NP (NP 
+		 considerable experimental
+		 skill)
+		and
+		(NP (VP starting)
+		    materials
+		    (PP of
+			(NP a high purity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the new process))
+    (S (NP (NP impurities)
+	   (ADVP present
+		 (PP in
+		     (NP (NP (NP the solvent)
+			     (NP *LRB*
+				 (NP benzene)
+				 *RRB*))
+			 ,
+			 (NP the monomer)))
+		 ,
+		 and
+		 (PP in
+		     (NP the reaction system)))
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (AUX would)
+		    (VP cause
+			(NP deactivation
+			    (PP of
+				(NP propagation centers)))))))
+       ,
+       (AUX are)
+       (VP rendered
+	   (ADJP inactive
+		 (ADVP prior 
+		       (PP to
+			   (NP polymerization)))
+		 (PP by
+		     (NP gradual addition
+			 (PP of
+			     (NP (NP initiator)
+				 ,
+				 (NP a mixture
+				     (PP of
+					 (NP (NP butyl-lithium)
+					     and
+					     (NP telomeric styryl-lithium))))
+				 ,))
+			 (PP at
+			     (NP (NP a temperature)
+				 (ADVP (ADJP low)
+				       enough
+				       (S (NP *)
+					  (AUX to)
+					  (VP suppress
+					      (NP chain
+						  growth))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP completion
+	    (PP of
+		(NP the purging step))))
+    ,
+    (S (NP (NP additional initiator)
+	   (ADJP appropriate
+		 (PP for
+		     (NP the molecular weight
+			 (PP of
+			     (NP (NP the sample)
+				 (VP desired)))))))
+       (AUX is)
+       (VP added
+	   ))
+    ,
+    and
+    (S (NP the system)
+       (AUX is)
+       (ADVP then)
+       (VP warmed
+	    
+	   (PP to
+	       (NP (NP the polymerization temperature)
+		   ,
+		   (SBAR (WHPP at
+			       (WHNP which))
+			 (S
+			  (NP the reaction)
+			  (AUX is)
+			  (VP allowed
+	     
+			      (S (NP *)
+				 (AUX to)
+				 (VP go
+				     (PP to
+					 (NP completion))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The predictability
+       (PP of
+	   (NP the molecular weights)))
+   (AUX was)
+   (VP found
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (PP within
+		  (NP 10 %
+		      )))))
+   (PP for
+       (NP (NP the polymers)
+	   (VP prepared)))
+   ,
+   (PP with
+       (NP (NP A[fj] ratios)
+	   (ADJP less
+		 (PP than
+		     (NP 1.1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Contrary
+	  (PP to
+	      (NP observations
+		  (PP with
+		      (NP ethers)))))
+    ,
+    (S (NP no apparent change
+	   (PP of
+	       (NP the reactivity
+		   (PP of
+		       (NP the chain ends)))))
+       (VP takes
+	   (NP place
+	       (PP over
+		   (NP considerable periods
+		       (PP of
+			   (NP time))))
+	       (PP in
+		   (NP (NP benzene)
+		       (PP as
+			   (ADJP solvent))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

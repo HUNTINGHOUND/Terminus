@@ -1,0 +1,2327 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP it
+	     (S-1 *pseudo-attach*))
+         (VP is
+             (ADJP reasonable))
+	 (S-1 (NP *)
+	      (AUX to)
+	      (VP believe
+		  (SBAR that
+			(S (NP there)
+			   (VP is
+			       (NP a significant difference
+				   (PP between
+				       (NP the two groups))
+				   (PP in
+				       (NP their performance
+					   (PP on
+					       (NP this task))))))
+			   (PP after
+			       (NP a brief
+				   ``
+				   structuring
+				   ''
+				   experience))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-2 *pseudo-attach*))
+     (AUX was)
+     (VP predicted)
+     (SBAR-2 that
+	     (S (NP (ADJP Kohnstamm-negative) subjects)
+		(AUX would)
+		(VP adhere
+		    (PP to
+			(NP (ADJP  more
+				   liberal
+				   ,
+				   concretistic)
+			    reports
+			    (PP  of
+				 (SBAR (WHNP what)
+				       (S (NP the ambiguous figure)
+					  ``
+					  (VP looked
+					      (PP like
+						  (NP T)))
+					  ''))))))
+		(PP as
+		    (S (NP *) 
+		       (VP reflecting
+			   (NP their hesitancy
+			       (PP about
+				   (S (NP *) 
+				      (VP taking
+					  (NP chances)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADJP true)
+       (PP (ADVP mostly)
+	   of
+           (NP (NP those (ADJP Kohnstamm-negative) subjects)
+               (SBAR 
+                (WHNP who)
+                (S (NP T)
+                   (AUX did)
+                   (NEG not)
+                   (VP perceive
+                       (NP the ambiguous figure)
+                       (PP as
+                           (NP people
+                               (PP in
+                                   (NP action)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Responses)
+       (ADJP such
+             (PP as
+                 (NP ``
+		     (NP rope
+			 (PP with
+			     (X (NP a loop)
+				(PP in
+				    (NP it)))))
+		     ''
+                     ,
+                     and
+		     ``
+		     (NP two pieces
+			 (PP of
+			     (NP rope)))
+		     ''
+                     ,))))
+   (VP were
+       (ADJP  quite
+              characteristic)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Guilford-Martin personality inventories)
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The three personality inventories)
+      *LRB*
+      (NP (NP Guilford)
+	  ;
+	  ;
+          (NP Guilford-Martin)
+	  ;
+	  ;
+          (NP Guilford-Martin))
+      *RRB*)
+  (AUX were)
+  (VP filled
+      (PRT out)
+      (PP by
+          (NP (NP 12
+                  (PP of
+                      (NP the (ADJP Kohnstamm-positive) subjects)))
+              and
+              (NP 19
+                  (PP of
+                      (NP the (ADJP Kohnstamm-negative) subjects)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP were
+       (NP (NP the same subjects)
+           (SBAR 
+            (WHNP who)
+            (S (NP T)
+               (AUX were)
+               (VP given
+                         
+                   (NP the Rorschach test)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP (NP  (NP Some predictions)
+            (VP-1 *pseudo-attach*))
+       (SBAR-2 *pseudo-attach*))
+   (AUX had)
+   (VP been
+       (VP made
+           (VP-1  concerning
+                  (NP factors
+                      R
+                      ,
+                      N
+                      ,
+                      I
+                      and
+                      Co))
+           (PP on
+               (NP these inventories))))
+   (SBAR-2 
+    (WHNP which)
+    (S (NP T)
+       (VP appeared
+           (S (NP *)
+              (AUX to)
+              (VP be
+                  (ADJP  (ADVP directly)
+                         related
+                         (PP to
+                             (NP (NP control and security aspects
+                                     (PP of
+                                         (NP personality
+                                             functioning)))
+                                 (SBAR
+                                  (WHNP which)
+                                  (S (NP T)
+                                     (AUX were)
+                                     (VP hypothesized
+                                
+                                         (PP as
+                                             (S (NP *) 
+                                                (VP being
+                                                    (PP of
+                                                        (NP importance))
+                                                    (PP in
+                                                        (NP 
+                                                         (ADJP differential)
+                                                         Kohnstamm reactivity)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Only
+         Co)
+    (VP differentiated
+        (PP between
+            (NP the two groups))
+        (PP at
+            (NP (ADJP less)
+		(PP than
+		    (NP (NP the 5 % level)
+			*LRB*
+			(NP A[fj])
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP One prediction)
+       (PP-3 *pseudo-attach*))
+   (AUX had)
+   (VP been
+       (VP made))
+   (PP-3 about
+	 (NP the difference
+	     (PP in
+		 (NP (NP security) or (NP self-confidence)))
+	     (PP between
+		 (NP (NP (NP those subjects)
+			 (SBAR  
+			  (WHNP who)
+			  (S (NP T)
+			     (VP shifted
+				 (NP their Kohnstamm reactivity))
+			     (SBAR (WHADVP when)
+				   (S  (NP *) 
+				       (VP informed))))))
+		     and
+		     (NP (NP those)
+			 (SBAR 
+			  (WHNP who)
+			  (S (NP T)
+			     (AUX did)
+			     (NEG not)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The nonreactors)
+   (AUX had)
+   (VP been
+       (VP separated
+                 
+           (PP into
+               (NP two groups))))
+   (PP on
+       (NP this assumption))
+   (PP with
+       (S (NP  the
+               (ADJP  presumably
+                      ``
+                      secure
+                      '')
+               nonreactors
+               and
+               (ADJP ``
+                     secure
+                     '')
+               reactors)
+          (VP being
+              (VP used
+                  (PP as
+                      (NP the groups
+                          (PP for
+                              (NP comparative personality studies)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (AUX was)
+   (VP predicted)
+   (SBAR-3 that
+	   (S (NP (NP those)
+		  (SBAR  
+		   (WHNP who)
+		   (S (NP T)
+		      (VP shifted
+			  (PP in
+			      (NP their Kohnstamm reactivity))))))
+	      (AUX would)
+	      (VP differ
+		  (ADVP significantly)
+		  (PP from
+		      (NP (NP those)
+			  (SBAR 
+			   (WHNP who)
+			   (S (NP T)
+			      (VP did)
+			      (NEG not)))))
+		  (PP on
+		      (NP (NP the factor
+			      I)
+			  (SBAR (WHNP which)
+				(S
+				 (NP the investigators)
+				 (VP refer
+				     (PP to
+					 (NP T) )
+				     (PP as
+					 (NP the
+					     ``
+					     Inferiority
+					     ''
+					     factor)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP All
+      (PP of
+          (NP the subjects
+              (PP in
+                  (NP (NP the (ADJP (ADJP Kohnstamm-negative) and (ADJP Kohnstamm-positive)) groups)
+                      *LRB*
+                      (PP as
+                          (S  (NP *)  
+                              (VP defined)
+                              (PP for
+                                  (NP purposes
+                                      (PP of
+                                          (NP the personality studies))))))
+                      *RRB*)))))
+  (AUX were)
+  (VP compared
+         
+      (PP with
+          (NP (NP those subjects)
+              (SBAR 
+               (WHNP who)
+               (S (NP T)
+                  (VP shifted
+                      (PP in
+                          (NP Conditions 3
+                              ,
+                              or
+                              4)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A t test
+          (PP on
+	      (NP (NP these two groups)
+		  ,
+		  (NP shifters
+		      (PP vs.
+			  (NP  nonshifters)))
+		  ,))))
+  (VP gave
+      (NP a
+          ``
+          t
+          ''
+          value
+          (PP of
+              (NP (NP 2.405)
+                  (SBAR 
+                   (WHNP which)
+                   (S (NP T)
+                      (VP is
+                          (ADJP significant))
+                      (PP on
+                          (NP the (ADJP two-tail) test))
+		      (PP at
+			  (NP the level)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((NP Discussion))
+((NP individual differences))
+( 
+ (S (NP Individual differences
+        (PP in
+            (NP Kohnstamm reactivity
+                (PP to
+                    (NP 
+                     (ADJP controlled)
+                     Kohnstamm situations)))))
+    (AUX were)
+    (VP found
+            
+        (PP among
+            (NP (NP the subjects)
+                (VP used
+                        
+                    (PP in
+                        (NP the study)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP (NP (ADVP Only)
+	     27 %)
+          *LRB*
+          (NP 11 subjects)
+          *RRB*)
+     (VP gave
+         (NP a
+	     positive
+             Kohnstamm reaction))
+     (X (WHADVP when)
+        (ADJP  (ADVP completely)
+               naive
+               (VP concerning
+                   (NP the phenomenon)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP were
+        (NP (NP (NP 49 %)
+		*LRB*
+		(NP 20 subjects)
+		*RRB*)
+            (SBAR  
+             (WHNP who)
+             (S (NP T)
+                (AUX did)
+                (NEG not)
+                (VP give
+                    (NP a positive reaction))))))
+    (PP  even
+         after
+         (S (NP they)
+            (X (X (AUX were)
+                  (VP informed
+                      (PP of
+                          (NP the normalcy
+                              (PP of
+                                  (NP   such
+                                        a reaction))))))
+               and
+               (X  
+                (AUX had)
+                (VP been
+                    (VP given
+               
+                        (NP a demonstration))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP were
+        (NP (NP (NP 24 %)
+		*LRB*
+		(NP 10 subjects)
+		*RRB*)
+            (SBAR  
+             (WHNP who)
+             (S (NP T)
+                (VP shifted
+		    (PP from
+			(NP a
+			    (ADJP negative)))
+		    (PP to
+			(NP a positive reaction)))
+                (PP after
+                    (S (NP they)
+                       (AUX were)
+                       (VP reassured
+                    
+                           (PP as
+                               (PP to
+                                   (NP the normalcy
+                                       (PP of
+                                           (NP the (ADJP Kohnstamm-positive) reaction)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP Among
+         (NP this latter group))
+     (S
+      (NP there)
+      (VP were
+          (ADVP also)
+          (NP differences
+              (PP in
+                  (NP the amount and kind
+                      (PP of
+                          (NP (NP information)
+                              (ADJP necessary
+                                    (PP before
+                                        (S (NP a shift
+                                               (PP in
+                                                   (NP reaction)))
+                                           (VP occurred))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One subject)
+    (VP changed)
+    (SBAR (WHADVP when)
+          (S  (NP *)  
+              (VP given
+                  (NP  only
+                       the information
+                       (SBAR that
+                             (S (NP some people)
+                                (VP have
+                                    (NP something)
+				    (VP happen
+					(PP to
+					    (NP their arm))))
+                                (SBAR 
+                                 (WHADVP when)
+                                 (S (NP they)
+                                    (VP relax))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP (NP Five subjects)
+         *LRB*
+         (NP 12 %)
+         *RRB*)
+     (AUX did)
+     (NEG not)
+     (VP change)
+     (PP until
+	 (S (NP they)
+	    (X (X (AUX had)
+		  (VP been
+		      (VP told
+                        
+			  (SBAR (SBAR that
+				      (S (NP some people)
+					 (VP have
+					     (NP something)
+					     (VP happen
+                                         
+						 (PP to
+						     (NP their arm))))))
+				,
+				(SBAR (WHNP what)
+				      (S (NP  that
+					      something)
+					 (VP was
+					     (NP T))))))))
+	       ,
+	       and
+	       (ADVP also)
+	       (X  
+		(AUX were)
+		(VP given
+             
+		    (NP a demonstration)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP Four subjects)
+         *LRB*
+         (NP 10 %)
+         *RRB*)
+     (X (X (AUX did)
+           (NEG not)
+           (VP change)
+           (ADVP even
+                 then))
+        but
+        (VP needed
+            (NP the additional information
+                (SBAR that
+                      (S (NP an arm-elevation)
+                         (PP under
+                             (NP these circumstances))
+                         (VP was
+                             (NP (NP a
+                                     (ADJP  perfectly
+                                            normal) reflex reaction)
+                                 (SBAR
+                                  (WHNP which)
+                                  (S (NP some people)
+                                     (VP showed
+					 (NP T) )
+                                     (SBAR while
+                                           (S (NP others)
+                                              (AUX did)
+                                              (NEG not)
+                                              ))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (PP At
+        (NP no time))
+    (AUX was)
+    (NP it
+	(SBAR-5 *pseudo-attach*))
+    (VP implied
+        (PP by
+            (NP the experimenter)))
+    (SBAR-5 that
+	    (S (NP
+		(NP the subject)
+		's initial reaction)
+	       (VP was
+		   (ADJP deviant)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The subjects)
+   (AUX were)
+   (VP  (ADVP only)
+        given
+        (NP information
+            (PP about
+                (NP other possibilities
+                    (PP of
+                        (NP  ``
+                             normal
+                             ''
+                             reaction)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( 
+ (S (NP (NP Those)
+        (SBAR  
+         (WHNP who)
+         (S (NP T)
+            (VP responded
+                (PP with
+                    (NP an arm-elevation)))
+            (PP in
+                (NP the naive state)))))
+    (AUX did)
+    (NEG not)
+    (VP change
+        (NP their reaction))
+    (SBAR (WHADVP when)
+          (S  (NP *) 
+              (VP told
+                  (SBAR that
+                        (S (NP there)
+                           (VP were
+                               (NP (NP some normal people)
+                                   (SBAR 
+                                    (WHNP who)
+                                    (S (NP T)
+                                       (AUX did)
+                                       (NEG not)
+                                       (VP react
+                                           (PP in
+                                               (NP this fashion)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This information)
+   (AUX was)
+   (VP accepted
+             
+       (PP with
+           (NP the frequent interpretation
+               (SBAR that
+                     (S (NP (NP those persons)
+                            (SBAR  
+                             (WHNP who)
+                             (S (NP T)
+                                (AUX did)
+                                (NEG not)
+                                (VP show
+                                    (NP  arm-levitation)))))
+                        (AUX must)
+                        (VP be
+                            (VP preventing
+                                (NP it)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These subjects)
+   (VP implied
+       (SBAR that
+             (S (NP they)
+                (ADVP too)
+                (AUX could)
+                (VP prevent
+                    (NP their arms)
+                    (PP from
+                        (S (NP *) 
+                           (VP rising))))
+                (SBAR if
+                      (S (NP they)
+                         (VP tried)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The
+      (ADJP positive)
+      Kohnstamm reactivity
+      (PP in
+          (NP (NP Condition 1)
+              *LRB*
+              *LRB*
+              (NP the naive state)
+              *RRB*)))
+  (AUX is)
+  (NEG not)
+  (VP  (ADVP adequately)
+       explained
+       
+       (PP by
+           (NP  such
+                a concept
+                (PP as
+                    (NP suggestibility)))))
+  *LRB*
+  (SBAR if
+        (S (NP suggestibility)
+           (AUX is)
+           (VP defined
+               (PP as
+                   (NP the influence
+                       (PP on
+                           (NP behavior))
+                       (PP by
+                           (NP verbal cues)))))))
+  *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (PP In
+       (NP no way))
+   ,
+   (ADVP  either
+          (ADVP verbally)
+          or
+          (ADVP behaviorally))
+   ,
+   (AUX did)
+   (NP the experimenter)
+   (VP indicate
+       (PP to
+           (NP the subjects))
+       (NP any (VP preferred) mode
+           (PP of
+               (S (NP *) 
+                  (VP responding
+                      (PP to
+                          (NP the voluntary contraction))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (SBAR 
+       (WHADVP when)
+       (S (NP the experimenter)
+          (AUX did)
+          (VP inform
+              (NP those subjects)
+              (SBAR that
+                    (S (NP there)
+                       (VP were
+                           (NP (NP some normal people)
+                               (SBAR 
+                                (WHNP who)
+                                (S (NP T)
+                                   (AUX did)
+                                   (NEG not)
+                                   (VP have
+                                       (NP their arm)
+                                       (VP rise))
+                                   (SBAR once
+                                         (S (NP they)
+                                            (VP relaxed))))))))))))
+      ,
+      (S (NP the (ADJP Kohnstamm-positive) subjects)
+         (VP were
+             (ADJP uninfluenced)
+             )
+         (PP in
+             (NP their subsequent reactions
+                 (PP to
+                     (NP the Kohnstamm situation))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP continued
+       (S (NP *)
+          (AUX to)
+          (VP give
+              (NP an arm-elevation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A differential suggestibility)
+   (AUX would)
+   (VP have
+       (S (NP *)
+          (AUX to)
+          (VP be
+              (VP invoked
+                  ))))
+   (S (NP *)
+      (AUX to)
+      (VP (VP explain
+              (NP the failure
+                  (PP of
+                      (NP this additional information))
+                  (S (NP *)
+                     (AUX to)
+                     (VP influence
+                         (NP the (ADJP Kohnstamm-positive) reactors)))))
+          and
+          (VP  (ADVP yet)
+               attribute
+               (NP their
+		   naive
+                   Kohnstamm reactivity)
+               (PP to
+                   (NP suggestion))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Autosuggestibility)
+      ,
+      (NP the reaction
+          (PP of
+              (NP the subject))
+          (PP in
+              (NP  
+               such
+               a way
+               (PP as
+                   (S (NP *)
+                      (AUX to)
+                      (VP conform
+                          (PP to
+                              (NP (NP his own expectations
+                                      (PP of
+                                          (NP the outcome)))
+                                  *LRB*
+				  i.e.
+				  ,
+				  (SBAR that
+					(S (NP the arm-rise)
+					   (VP is
+					       (NP a reaction
+						   (PP to
+						       (NP (NP the pressure)
+							   (VP exerted
+							       (PP in
+								   (NP the voluntary contraction)))))))
+					   ,
+					   (ADVP because
+						 (PP of
+						     (NP his knowledge
+							 (SBAR that
+							       ``
+							       (S (PP to
+								      (NP every reaction))
+								  (S (NP there)
+								     (VP is
+									 (NP an (ADJP equal and opposite) reaction))))
+							       ''))))))
+                                  *RRB*)))))))))
+  (ADVP also)
+  (VP seems
+      (ADJP inadequate)
+      (PP as
+          (NP an explanation
+              (PP for
+                  (NP (NP the (ADJP following) reasons)
+                      :
+                      (NP (NP  *LRB*
+                               (NP 1)
+                               *RRB*
+                               (NP (NP (NP the subjects)
+				       '
+				       (ADJP  apparently
+					      genuine)
+				       experience
+				       (PP of
+					   (NP surprise)))
+				   (SBAR 
+				    (WHADVP when)
+				    (S (NP their arms)
+				       (VP rose)))))
+                          ,
+                          and
+                          (NP  *LRB*
+                               (NP 2)
+                               *RRB*
+                               (NP manifestations
+                                   (PP of
+                                       (NP the phenomenon))
+                                   (PP despite
+                                       (NP anticipations
+                                           (PP (PP of
+                                                   (S (NP something
+                                                          else)
+                                                      (VP happening)))
+                                               *LRB*
+                                               e.g.
+                                               ,
+                                               (PP of
+                                                   (NP (S (NP *) 
+							  (VP (VP becoming
+								  (ADJP dizzy))
+							      and
+							      (ADVP maybe)
+							      (VP falling)))
+                                                       ,
+                                                       (NP (NP an expectation)
+                                                           (VP  (ADVP spontaneously)
+                                                                volunteered
+                                                                (PP by
+                                                                    (NP one
+                                                                        (PP of
+                                                                            (NP the subjects))))))))
+                                               *RRB*))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A suggestion Hypothesis)
+   (ADVP also)
+   (VP seems
+       (ADJP inadequate)
+       (PP as
+           (NP an explanation
+               (PP for
+                   (NP (NP those)
+                       (SBAR  
+                        (WHNP who)
+                        (S (NP T)
+                           (VP shifted
+                               (NP their reactions))
+                           (PP after
+                               (S (NP they)
+                                  (AUX were)
+                                  (VP informed
+                                      (PP of
+                                          (NP the possibilities
+                                              (PP of
+                                                  (NP (NP  ``
+                                                           normal
+                                                           ''
+                                                           reactions)
+                                                      (ADJP different
+                                                            (PP from
+                                                                (NP  (NP those)
+                                                                     (SBAR (WHNP which)
+                                                                           (S
+                                                                            (NP they)
+                                                                            (VP gave
+                                                                                (NP T) )))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+          (S (NP they)
+             (AUX were)
+             (VP told
+                  
+                 (SBAR that
+                       (S (NP there)
+                          (VP were
+                              (NP (NP some normal people)
+                                  (SBAR  
+                                   (WHNP who)
+                                   (S (NP T)
+                                      (VP reacted
+                                          (ADVP  differently
+                                                 (PP than
+                                                     (S (NP they)
+                                                        (VP had))))))))))))))
+   ,
+   (S (NP they)
+      (AUX were)
+      (ADVP also)
+      (VP informed
+            
+          (SBAR that
+                (S (NP there)
+                   (VP were
+                       (NP (NP other normals)
+                           (SBAR  
+                            (WHNP who)
+                            (S (NP T)
+                               (VP reacted
+                                   (PP as
+                                       (S (NP they)
+                                          (AUX had)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP was
+        (NP (NP no implication)
+	    (VP made)
+	    (SBAR that
+		  (S (NP (NP their initial reaction)
+			 *LRB*
+			 (NP absence
+			     (PP of
+				 (NP an arm-elevation)))
+			 *RRB*)
+		     (VP was
+			 (ADJP  less
+				preferred
+				(PP than
+				    (NP the presence
+					(PP of
+					    (NP levitation)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP  more
+              tenable) explanation
+       (PP for
+           (NP the change
+               (PP in
+                   (NP reactions)))))
+   (VP is
+       (SBAR that
+             (S (NP the  added knowledge
+                    and
+                    increased familiarity
+                    (PP with
+                        (NP the total situation)))
+                (VP made
+		    (NP it
+			(PP-6 *pseudo-attach*))
+		    (ADJP possible)
+		    (PP-6 for
+			  (S (NP these subjects)
+			     (X (X (AUX to)
+				   (VP be
+				       (ADJP   less
+					       guarded)))
+				and
+				(X  
+				 (AUX to)
+				 (VP relax))))))
+                ,
+                (SBAR since
+                      (S (NP any reaction)
+                         (VP seemed
+                             (ADJP acceptable
+                                   (PP to
+                                       (NP the examiner))
+                                   (PP as
+				       ``
+				       (ADJP normal)
+				       '')))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The naive state)
+      ,
+      (NP Condition 1)
+      ,
+      ,)
+  (AUX could)
+  (ADVP therefore)
+  (VP be
+      (VP viewed
+             
+          (PP as
+              (NP an  (VP inhibiting) one
+                  (PP for
+                      (NP 24 %
+                          (PP of
+                              (NP the subjects
+                                  (PP in
+                                      (NP this study)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP were
+       (NEG not)
+       (ADJP free
+             (S (NP *)
+                (AUX to)
+                (VP be
+                    (NP themselves)))))
+   (PP in
+       (NP (NP this situation)
+           ,
+	   (NP (NP an interpersonal one)
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (S (NP there)
+		      (VP was
+			  (NP an observer
+			      (PP of
+				  (NP their reactions)))))
+		   and
+		   (S (NP they)
+		      (VP had
+			  (NP no guide
+			      (PP for
+				  (NP acceptable behavior)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP Instructions
+      (S (S (NP *)
+            (AUX to)
+            (VP relax))
+         ,
+         i.e.
+         ,
+         (S (NP *)
+            (AUX to)
+            (VP (VP be
+		    ``
+		    (ADJP spontaneous)
+		    '')
+                ,
+                and
+                (VP react
+                    (ADVP immediately)
+                    (PP  to
+                         (SBAR (WHNP whatever impulse)
+                               (S (NP they)
+                                  (AUX might)
+                                  (VP have
+                                      (NP T) )))))))
+         ,))
+  (VP was
+      (NEG not)
+      (ADJP   (ADVP sufficiently)
+              reassuring))
+  (PP until
+      (S (NP some idea
+             (PP of
+                 (NP the possibilities
+                     (PP of
+                         (NP normal reactions)))))
+         (AUX had)
+         (VP been
+             (VP given
+                 )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+          (S (NP other conditions)
+             (AUX might)
+             (VP be
+                 (ADJP   (ADVP even
+                               more)
+                         effective
+                         (PP in
+                             (S (NP *) 
+                                (VP bringing
+                                    (PRT about)
+                                    (NP a change
+                                        (PP (PP from
+                                                (NP immobility))
+                                            (PP to
+                                                (NP mobility)))
+                                        (PP in
+                                            (NP Kohnstamm reactivity))))))))))
+   ,
+   (S (NP it
+	  (SBAR-7 *pseudo-attach*))
+      (VP is
+          (NP our hypothesis))
+      (SBAR-7 that
+	      (S (NP all such conditions)
+		 (AUX would)
+		 (VP have
+		     (PP as
+			 (NP a common factor))
+		     (NP the capacity
+			 (S (NP *)
+			    (AUX to)
+			    (VP induce
+				(NP (NP an attitude)
+				    (SBAR-1 *pseudo-attach*))
+				(PP in
+				    (NP the subject))
+				(SBAR-1 
+				 (WHNP which)
+				 (S (NP T)
+				    (VP enabled
+					(NP him)
+					(S (NP *)
+					   (AUX to)
+					   (VP divorce
+					       (NP himself)
+					       (ADVP temporarily)
+					       (PP from
+						   (NP feelings
+						       (PP of
+							   (NP responsibility
+							       (PP for
+								   (NP his behavior)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Alcohol ingestion)
+    (VP succeeded
+        (PP in
+            (S (NP *) 
+               (VP changing
+                   (NP immobility)
+                   (PP to
+                       (NP mobility)))))
+        (ADVP quite
+              strikingly))
+    (PP in
+        (NP (NP one pilot subject)
+            *LRB*
+            (NP (NP the
+                    only
+                    one)
+                (SBAR (WHPP with
+                            (WHNP whom))
+                      (S (NP this technique)
+                         (AUX was)
+                         (VP tried
+                             ))))
+            *RRB*)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP This subject)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+          (AUX has)
+          (VP been
+              (VP undergoing
+                  (NP psychoanalytic psychotherapy)
+                  (PP for
+                      (NP five years))))))
+      ,)
+  (AUX did)
+  (NEG not)
+  (VP give
+      (NP a
+	  positive
+          Kohnstamm reaction)
+      (PP under
+          (NP any
+              (PP of
+                  (NP (NP the four (ADJP standardized) conditions)
+                      (VP used
+                          (PP in
+                              (NP this experiment))))))))
+  (X while
+     (ADJP sober)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP (NP two drinks)
+           (VP containing
+               (NP alcohol))))
+   ,
+   (S (NP her arm)
+      (VP flew
+          (ADVP upward)
+          (ADVP very
+                freely))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP evident delight)
+       (PP on
+           (NP the part
+               (PP of
+                   (NP the subject))))
+       (PP in
+           (NP response
+               (PP to
+                   (NP her experience
+                       (PP of
+                           (NP the freedom
+                               (PP of
+                                   (NP movement))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP described
+        (NP herself)
+        (PP as
+            (S (NP *) 
+               (VP having
+		   (NP (NP the same kind
+			   (PP of
+			       (NP ``
+				   (ADJP irresponsible)
+				   ''
+				   feeling)))
+		       (PP as
+			   (S (NP she)
+			      (AUX had)
+			      (ADVP once)
+			      (VP experienced
+				  (NP T))
+			      (PP under
+				  (NP hypnosis))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP ascribed
+	 (NP her delight
+	     (PP with
+		 (NP both
+		     experiences)))
+	 (PP to
+	     (NP (NP the effect)
+		 (SBAR 0
+		       (S
+			(NP they)
+			(VP seemed
+			    (S (NP *)
+			       (AUX to)
+			       (VP have
+				   (NP T) )))))
+		 (PP of
+		     (S (NP *) 
+			(VP  (ADVP temporarily)
+			     removing
+			     (PP from
+				 (NP her))
+			     (NP (NP the controls)
+				 (SBAR (WHNP which)
+				       (S
+					(NP she)
+					(VP felt
+					    (NP T)
+					    (ADJP   so
+						    (ADVP compulsively)
+						    necessary
+						    (S (NP *)
+						       (AUX to)
+						       (VP maintain))))
+					(SBAR 
+					 (WHADVP  even
+						  when)
+					 (S (NP it
+						(S-8 *pseudo-attach*))
+					    (AUX might)
+					    (VP seem
+						(ADJP appropriate))
+					    (S-8 (NP *)
+						 (AUX to)
+						 (VP relax
+						     (NP these controls)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Many subjects)
+    (VP attributed
+        (NP differences
+            (PP in
+                (NP Kohnstamm reactivity)))
+        (PP to
+            (NP differences
+                (PP in
+                    (NP degrees
+                        (PP of
+                            (NP (NP subjective control)
+                                --
+                                (ADJP (ADJP voluntary
+                                            (PP as
+                                                (S (NP the (ADJP Kohnstamm-positive) subjects)
+                                                   (VP perceived
+                                                       (NP it)))))
+                                      and
+                                      (ADJP involuntary
+                                            (PP as
+                                                (S (NP the (ADJP Kohnstamm-negative) subjects)
+                                                   (VP perceived
+                                                       (NP it))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These (VP suggested) interpretations)
+   (AUX were)
+   (VP given
+       (PP by
+           (NP the subjects))
+       (ADVP spontaneously))
+   (SBAR 
+    (WHADVP when)
+    (S (NP they)
+       (AUX were)
+       (VP told
+                     
+           (SBAR that
+                 (S (NP there)
+                    (VP were
+                        (NP (NP people)
+                            (SBAR  
+                             (WHNP who)
+                             (S (NP T)
+                                (VP reacted
+                                    (ADVP differently
+                                          (PP than
+                                              (S (NP they)
+                                                 (AUX had)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP Kohnstamm-positive) subjects)
+   (VP described
+       (NP the vivid experience
+           (PP of
+               (S (NP *)  
+                  (VP having
+                      (NP their arms)
+                      (VP rise)))))
+       (PP as
+           (NP (NP one)
+               (SBAR (WHPP in
+                           (WHNP which))
+                     (S
+                      (NP they)
+                      (VP exercised
+                          (NP no control))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP explained
+       (NP its absence
+           (PP in
+               (NP others)))
+       (PP on
+           (NP the basis
+               (PP of
+                   (NP an intervention
+                       (PP of
+                           (NP control factors))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP felt
+       (SBAR that
+             (S (NP they)
+                (ADVP too)
+                (AUX could)
+                (VP counteract
+                    (NP the (ADVP upward) arm movement)
+                    (PP by
+                        (NP a voluntary effort)))
+                (PP after
+                    (S (NP they)
+                       (AUX had)
+                       (ADVP once)
+                       (VP experienced
+                           (NP the reaction))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP Some
+        (PP of
+            (NP  (NP those)
+                 (SBAR  
+                  (WHNP who)
+                  (S (NP T)
+                     (AUX did)
+                     (NEG not)
+                     (ADVP initially)
+                     (VP react
+                         (PP with
+                             (NP an arm-elevation))))))))
+    (ADVP also)
+    (VP associated
+        (NP their behavior
+            (PP in
+                (NP the situation)))
+        (PP with
+            (NP (NP control factors)
+                --
+                (NP an inability
+                    (S (NP *)
+                       (AUX to)
+                       (VP relinquish
+                           (NP control)
+                           (ADVP voluntarily))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One subject)
+    (VP  (ADVP spontaneously)
+         asked
+         *LRB*
+         (PP after
+             (S (NP her arm)
+                (AUX had)
+                (ADVP finally)
+                (VP risen)))
+         *RRB*
+         ,
+         ``
+         (SQ  
+          (AUX Do)
+          (NP you)
+          (VP suppose
+              (SBAR 0
+                    (S (NP I)
+                       (AUX was)
+                       (VP  (ADVP unconsciously)
+                            keeping
+                            (NP it)
+                            (ADVP down))
+                       (ADVP before)))))
+         ''))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another)
+   (VP said
+       (SBAR  that
+              (S (NP her arm)
+                 (AUX did)
+                 (NEG not)
+                 (VP go
+                     (ADVP up))
+                 (PP at
+                     (ADJP first))
+		 ``
+		 (SBAR because
+		       (S (S (NP I)
+			     (AUX would)
+			     (NEG n't)
+			     (VP let
+				 (NP it)))
+                           ;
+                           ;
+                           (S (NP I)
+                              (VP thought
+                                  (SBAR 0
+                                        (S (NP it)
+                                           (VP was
+                                               (NEG n't)
+					       (ADJP supposed
+						     (S
+						      (NP *)
+						      (AUX to))))))))))
+		 ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This subject)
+   (VP was
+       (NP (NP one)
+           (SBAR 
+            (WHNP who)
+            (S (NP T)
+               (VP gave
+                   (NP an arm-elevation))
+               (PP (PP on
+                       (NP the second trial
+                           (PP in
+                               (NP the naive state))))
+                   but
+                   (PP (NEG not)
+                       in
+                       (NP the
+                           (ADJP first)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (X (AUX had)
+      (VP felt
+          (SBAR that
+                (S (NP her arm)
+                   (VP wanted
+                       (S (NP *)
+                          (AUX to)
+                          (VP go
+                              (ADVP up))))))
+          (PP in
+              (NP the first trial)))
+      ,
+      but
+      (X  
+       (AUX had)
+       (VP  (ADVP consciously)
+            prevented
+            (NP it)
+            (PP from
+                (S   (NP *) 
+                     (VP (ADVP so)
+                         doing)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP explained
+       (NP nonreactivity
+	   (PP of
+	       (NP others)))
+       (PP by
+	   (S (NP *) 
+	      (VP saying
+		  (SBAR that
+			(S (NP they)
+			   (AUX were)
+			   ``
+			   (NEG not)
+			   (VP letting
+			       (NP themselves)
+			       (VP relax))
+			   '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR 
+      (WHADVP When)
+      (S (NP *)  
+	 (VP informed
+	     (SBAR that
+		   (S (NP there)
+		      (VP were
+			  (NP (NP some persons)
+			      (SBAR 
+			       (WHNP who)
+			       (S (NP T)
+				  (AUX did)
+				  (NEG not)
+				  (VP have
+				      (NP their arm)
+				      (VP go
+					  (ADVP up))))))))))))
+     ,
+     (S (NP she)
+	(VP commented
+	    ,
+	    ``
+	    (S (NP I)
+	       (AUX do)
+	       (NEG n't)
+	       (VP see
+		   (SBAR 
+		    (WHADVP how)
+		    (S (NP they)
+		       (AUX can)
+		       (VP prevent
+			   (NP it))))))
+	    '')))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP contrast
+	   (PP to
+	       (NP (NP this  voluntary-control explanation
+		       (PP for
+			   (NP nonreactivity)))
+		   (VP given
+		       (PP by
+			   (NP the (ADJP Kohnstamm-positive) subjects)))))))
+   ,
+   (S (NP the (ADJP Kohnstamm-negative) subjects)
+      (VP offered
+	  (NP an  involuntary-control hypothesis))
+      (S  (NP *)
+	  (AUX to)
+	  (VP explain
+	      (NP nonreactivity)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP felt
+       (SBAR (SBAR that
+		   (S (NP they)
+		      (AUX were)
+		      (VP relaxing
+			  (ADVP as
+				much
+				(PP as
+				    (S (NP they)
+				       (AUX could)))))))
+	     and
+	     (SBAR that
+		   (S (NP (NP any control factors)
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (AUX might)
+			      (VP be
+				  (ADJP present))
+			      (S (NP *)
+				 (AUX to)
+				 (VP prevent
+				     (NP response))))))
+		      (AUX must)
+		      (VP be
+			  (PP on
+			      (NP an unconscious level))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADVP above) discussion)
+   (AUX does)
+   (NEG not)
+   (VP mean
+       (S (NP *)
+	  (AUX to)
+	  (VP imply
+	      (SBAR (SBAR that
+			  (S (NP control factors)
+			     (VP were
+				 (ADVP completely)
+				 (PP in
+				     (NP abeyance)))
+			     (PP in
+				 (NP the (ADJP Kohnstamm-positive) subjects))))
+		    ;
+		    ;
+		    but
+		    (ADVP rather)
+		    (SBAR that
+			  (S (NP they)
+			     (AUX could)
+			     (VP be
+				 (VP diminished
+				     (ADVP sufficiently
+					   (S  (NP *)
+					       (NEG not)
+					       (AUX to)
+					       (VP interfere
+						   (PP with
+						       (NP arm-levitation))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP One (ADJP Kohnstamm-positive) subject)
+	(SBAR 
+	 (WHNP who)
+	 (S (NP T)
+	    (VP had
+		(NP both
+		    arms)
+		(VP rise))
+	    (SBAR while
+		  (S (NP *)  
+		     (VP being
+			 (VP tested
+			     (PP in
+				 (NP the naive condition)))))))))
+    (VP described
+	(NP her subjective experience)
+	(PP as
+	    (S  (NP *) 
+		(VP follows)))
+	:
+	``
+	(S (NP You)
+	   (VP feel
+	       (SBAR 0
+		     (S (S (NP they)
+			   (AUX 're)
+			   (VP going
+			       (ADVP up)))
+			and
+			(S (NP you)
+			   (VP 're
+			       (PP on
+				   (NP a stage))))
+			and
+			(S (NP it
+			       (PP-9 *pseudo-attach*))
+			   (VP 's
+			       (NEG not)
+			       (ADJP right))
+			   (PP-9 for
+				 (S (NP them)
+				    (AUX to)
+				    (VP do
+					(ADVP so)))))
+			and
+			(ADVP then)
+			(S (NP you)
+			   (VP think
+			       (SBAR 0
+				     (S (ADVP maybe)
+					(S (NP  that)
+					   (VP 's
+					       (SBAR (WHNP what)
+						     (S  (NP T)  
+							 (VP 's
+							     (ADJP supposed
+								   (S (NP *)
+								      (AUX to)
+								      (VP happen))))))))))))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (ADVP then)
+   (VP described
+       (NP her experience)
+       (PP as
+	   (NP (NP one)
+	       (SBAR (WHPP in
+			   (WHNP which))
+		     (S (NP she)
+			(ADVP first)
+			(VP had
+			    (NP difficulty
+				(S  (NP *)  
+				    (VP accepting
+					(PP for
+					    (NP herself))
+					(NP (NP a state
+						(PP of
+						    (NP being)))
+					    (SBAR (WHPP in
+							(WHNP which))
+						  (S
+						   (NP she)
+						   (VP relinquished
+						       (NP control)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP she)
+	 (VP was
+	     (ADJP able
+		   (S (NP *)
+		      (AUX to)
+		      (VP (VP relax) 
+			  and 
+			  (VP yield
+			      (PP to
+				  (NP the moment)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-10 *pseudo-attach*))
+    (VP is
+	(NP our hypothesis))
+    (SBAR-10 (SBAR that
+		   (S (NP (ADJP Kohnstamm-positive) subjects)
+		      (VP are
+		  
+			  (ADJP  less
+				 hesitant
+				 (PP about
+				     (S (NP *) 
+					(VP relinquishing
+					    (NP control))))
+				 (PP than
+				     (SINV  
+				      (VP are)
+				      (NP (ADJP Kohnstamm-negative) subjects)))))))
+	     ;
+	     ;
+	     (SBAR that
+		   (S (NP they)
+		      (AUX can)
+		      (VP (VP give
+			      (PRT up)
+			      (NP their control))
+			  and
+			  (VP allow
+			      (NP themselves)
+			      (S (NP *)
+				 (AUX to)
+				 (VP be
+				     (NP (NP reactors)
+					 (ADVP rather
+					       (PP than
+						   (NP actors))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-11 *pseudo-attach*))
+   (VP is
+       (NP our belief))
+   (SBAR-11 that
+	    (S (NP this readiness
+		   (S (NP *)
+		      (AUX to)
+		      (VP relinquish
+			  (NP some control))))
+	       (AUX was)
+	       (VP evidenced
+			 
+		   (PP by
+		       (NP the (ADJP Kohnstamm-positive) subjects))
+		   (PP in
+		       (NP some
+			   (PP of
+			       (NP (NP the
+				       other experimental
+				       situations)
+				   (S (NP *)
+				      (AUX to)
+				      (VP be
+					  (VP discussed
+					      (ADVP below))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S  
+       (NP (NP this readiness
+	       (S (NP *)
+		  (AUX to)
+		  (VP relax
+		      (NP controls))))
+	   ,
+	   (VP evidenced
+	       (PP in
+		   (NP the Kohnstamm situation)))
+	   ,)
+       (VP appears
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (NP a
+		      (ADJP  more
+			     general) personality factor))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Aniseikonic illusion)
+ )
+( (S
+   (NP The (ADJP Kohnstamm-positive) subjects)
+   (VP seemed
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP freer
+		    (S (NP *)
+		       (AUX to)
+		       (VP experience
+			   (NP the
+			       (ADJP (ADJP unusual)
+				     and
+				     (ADJP seemingly
+					   impossible))
+			       (PP in
+				   (NP the external world))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP a
+	       (ADJP  significantly
+		      greater)
+	       number)
+	   (PP in
+	       (NP this group))
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP reported
+		   (NP a desk)
+		   (PP as
+		       (S (NP *) 
+			  (VP being
+			      (PP in
+				  (NP a (ADJP tilted) position))))))
+	       (SBAR while
+		     (S (NP (NP a tennis ball)
+			    (VP resting
+				(PP on
+				    (NP it))))
+			(VP remained
+			    (ADJP stationary)
+			    (PP on
+				(NP the incline))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP occurred
+       (PP in
+	   (NP spite
+	       (PP of
+		   (NP the rational awareness
+		       (SBAR that
+			     (S (NP the ball)
+				(AUX should)
+				(VP be
+				    (VP going
+					(ADVP downhill)
+					))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP knew
+       (SBAR that
+	     (S (NP their perceptual experience)
+		(VP differed
+		    (PP from
+			(NP objective reality))))))
+   (SBAR since
+	 (S (NP they)
+	    (AUX had)
+	    (VP seen
+		(NP the desk and ball))
+	    (ADVP prior
+		  (PP to
+		      (S  (NP *)  
+			  (VP putting
+			      (PP on
+				  (NP the aniseikonic lenses)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Yet)
+      (S (NP they)
+	 (VP  were
+	      (NEG not)
+	      (ADJP (ADVP so)
+		    bound
+		    (PP by
+			(NP (NP past experience) and (NP constriction)))
+		    (PP as
+			(S (S (NP *)
+			      (AUX to)
+			      (VP deny
+				  (NP their immediate perceptions)))
+			   and
+			   (S (NP *)
+			      (AUX to)
+			      (VP be
+				  (VP dominated
+		 
+				      (PP by
+					  (NP their knowledge
+					      (PP  of
+						   (SBAR (WHNP what)
+							 (S
+							  (NP the experience)
+							  (AUX should)
+							  (VP be
+							      (NP T) )))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The change
+      (PP in
+	  (NP perceptions))
+      (PP by
+	  (NP some
+	      (PP of
+		  (NP the (ADJP Kohnstamm-negative) subjects))))
+      ,
+      (PP after
+	  (S (NP they)
+	     (AUX had)
+	     (VP been
+		 (VP informed
+		        
+		     (PP of
+			 (NP the possibilities
+			     (PP of
+				 (NP normal reactions))))))))
+      ,)
+  (VP suggests
+      (SBAR that
+	    (S (NP their constriction and guardedness)
+	       (AUX is)
+	       (VP associated
+		      
+		   (PP with
+		       (NP their general mode
+			   (PP of
+			       (S (NP *) 
+				  (VP responding
+				      (PP to
+					  (NP (ADJP strange or unknown) situations))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP were
+       (ADJP able
+	     (S (NP *)
+		(AUX to)
+		(VP experience
+		    (PP at
+			(ADJP first))
+		    ,
+		    (PP in
+			(NP terms
+			    (PP of
+				(NP past conventionality)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR 
+      (WHADVP When)
+      (S  (NP *) 
+	  (VP informed
+	      (PP as
+		  (PP to
+		      (NP the various possibilities
+			  (PP of
+			      (NP normal reactions))))))))
+     ,
+     (S (NP they)
+	(VP were
+	    (ADVP then)
+	    (ADJP able
+		  (S (NP *)
+		     (AUX to)
+		     (VP experience
+			 (NP the uniqueness
+			     (PP of
+				 (NP the present)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-12 *pseudo-attach*))
+    (AUX might)
+    (VP be
+	(VP postulated))
+    (SBAR-12 (SBAR that
+		   (S (NP these subjects)
+		      (VP are
+			  (ADJP  unduly
+				 afraid
+				 (PP of
+				     (S (NP *) 
+					(VP being
+					    (ADJP wrong))))))))
+	     ;
+	     ;
+	     (SBAR that
+		   (S (NP they)
+		      (VP perceive
+			  (NP 
+			   new (ADJP internal and environmental)
+			   situations)
+			  (PP as
+			      ``
+			      (ADJP threatening)
+			      ''))
+		      (PP until
+			  (S (NP they)
+			     (AUX are)
+			     (VP (VP tested)
+				 and
+				 (VP proved
+				     (ADVP otherwise)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  While
+	    (S (NP  (NP the interpretations)
+		    (SBAR  
+		     (WHNP that)
+		     (S (NP T)
+			(AUX have)
+			(VP been
+			    (VP given
+				)))))
+	       (VP are
+		   (NP inferences
+		       (ADVP only)))))
+     ,
+     (S (NP they)
+	(VP gain
+	    (NP support)
+	    (PP from
+		(NP such comments
+		    (PP as
+			(NP (NP the (ADJP following))
+			    ,
+			    (SBAR 
+			     (WHNP which)
+			     (S (NP T)
+				(AUX was)
+				(VP made
+	     
+				    (PP by
+					(NP (NP one
+						(PP of
+						    (NP the (ADJP Kohnstamm-negative) subjects)))
+					    (SBAR  
+					     (WHNP who)
+					     (S (NP T)
+						(AUX did)
+						(NEG not)
+						,
+						(PP on
+						    (NP the first trial))
+						,
+						(VP perceive
+						    (NP the tilt illusion))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

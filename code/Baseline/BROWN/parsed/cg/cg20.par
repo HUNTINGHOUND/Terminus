@@ -1,0 +1,2261 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX will)
+   (VP be
+       (VP shown
+))
+   (SBAR-1 that
+	 (S (NP the objectives
+		(PP of
+		    (NP the cooperative people
+			(PP in
+			    (NP an organization)))))
+	    (VP determine
+		(NP (NP the type
+			(PP of
+			    (NP network)))
+		    (VP required
+			)))))
+   ,
+   (SBAR because
+	 (S (NP the type
+		(PP of
+		    (NP network)))
+	    (VP functions
+		(VP according
+		    (PP to
+			(NP the characteristics
+			    (PP of
+				(NP (NP the messages)
+				    (VP enumerated
+					(PP in
+					    (NP Table 1))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Great stress)
+   (AUX is)
+   (VP placed
+	     
+       (PP on
+	   (NP (NP the role)
+	       (SBAR that
+		     (S (NP the monitoring
+			    (PP of
+				(NP information sending)))
+			(VP plays
+			    (NP T)
+			    (PP in
+				(S  (NP *)
+				    (VP maintaining
+					(NP the effectiveness
+					    (PP of
+						(NP the network)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP monitoring))
+    ,
+    (S (NP we)
+       (VP mean
+	   (NP some system
+	       (PP of
+		   (NP control
+		       (PP over
+			   (NP the types
+			       (PP of
+				   (NP (NP information)
+				       (VP sent
+					   (PP from
+					       (NP the various centers)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a word
+	    (PP of
+		(NP caution))))
+    ,
+    (S (NP we)
+       (AUX should)
+       (VP be
+	   (ADJP aware
+		 (SBAR that
+		       (S (PP in
+			      (NP actual practice))
+			  (S
+			   (NP no message)
+			   (VP is
+			       (ADVP purely)
+			       (NP one
+				   (PP of
+				       (NP (NP the four types)
+					   ,
+					   (NP (NP question)
+					       ,
+					       (NP command)
+					       ,
+					       (NP statement)
+					       ,
+					       or
+					       (NP exclamation)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S  (NP *) 
+	(VP suppose
+	    (SBAR 0
+		  (S (NP (NP a man)
+			 (VP (VP wearing
+				 (NP a
+				     $ 200
+				     watch))
+			     ,
+			     (VP driving
+				 (NP a 1959
+				     Rolls Royce))
+			     ,))
+		     (VP stops
+			 (S (NP *)
+			    (AUX to)
+			    (VP ask
+				(NP a man
+				    (PP on
+					(NP the sidewalk)))
+				,
+				   (SBARQ  ``
+					   (WHNP What
+						 time)
+					   (SQ (VP is)
+					       (NP it))
+					   ''
+					   ?
+					   ?))))))))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This sentence)
+      (AUX would)
+      (VP have
+	  (NP most
+	      (PP of
+		  (NP the characteristics
+		      (PP of
+			  (NP a question)))))))
+     ,
+     but
+     (S (NP it)
+	(VP has
+	    (NP some
+		(PP of
+		    (NP the characteristics
+			(PP of
+			    (NP a statement))))))
+	(SBAR because
+	      (S (NP the questioner)
+		 (AUX has)
+		 (VP conveyed
+		     (NP the fact
+			 (SBAR that
+			       (S (NP he)
+				  (VP has
+				      (NP no faith)
+				      (PP in
+					  (NP (NP his own timepiece)
+					      or
+					      (NP (NP the one)
+						  (VP attached
+						      (PP to
+							  (NP his car)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP the man
+		  (PP on
+		      (NP the sidewalk)))
+	      (AUX is)
+	      (VP surprised
+		     
+		  (PP at
+		      (NP this question)))))
+    ,
+    (S (NP it)
+       (AUX has)
+       (VP served
+	   (PP as
+	       (NP an exclamation)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S Also
+      ,
+      (SBAR since
+	    (S (NP (NP the man)
+		   (VP questioned))
+	       (VP feels
+		   (NP a strong compulsion
+		       (S (NP *)
+			  (AUX to)
+			  (VP (VP answer)
+			      *LRB*
+			      and
+			      (VP  (ADVP thereby)
+				   avoid
+				   (NP the consequences
+				       (PP of
+					   (S  (NP *)
+					       (VP being
+						   (VP thought
+						       (ADJP queer)))))))
+			      *RRB*))))))
+      (S (NP the question)
+	 (AUX has)
+	 (VP assumed
+	     (NP some measurable properties
+		 (PP of
+		     (NP a command))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (PP for
+	  (NP convenience))
+      (S
+       (NP we)
+       (AUX will)
+       (VP stick
+	   (PP to
+	       (NP the idea
+		   (SBAR that
+			 (S (NP  information)
+			    (AUX can)
+			    (VP be
+				(VP classified
+				    (VP according
+					(PP to
+					    (NP Table 1))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP this basis))
+    ,
+    (S (NP
+	certain extreme
+	kinds
+	(PP of
+	    (NP networks)))
+       (AUX will)
+       (VP be
+	   (VP discussed
+		     
+	       (PP for
+		   (NP illustrative purposes))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP (NP Networks)
+	  (VP illustrating
+	      (NP some special types
+		  (PP of
+		      (NP organization)))))
+      (NP the cocktail party))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Presumably)
+      (S (NP a cocktail party)
+	 (AUX is)
+	 (VP expected
+	        
+	     (S (NP *)
+		(AUX to)
+		(VP fulfill
+		    (NP 
+		     (NP the host)
+		     's desire
+		     (S (NP *)
+			(AUX to)
+			(VP (VP get
+				(PRT together)
+				(NP a number
+				    (PP of
+					(NP (NP people)
+					    (SBAR (WHNP who)
+						  (S (NP T)
+						     (AUX are)
+						     (VP (ADVP inadequately)
+							 acquainted
+							 )))))))
+			    and
+			    (VP  (ADVP thereby)
+				 arrange
+				 (PP for
+				     (S  (NP *)
+					 (VP bringing
+					     (NP the level
+						 (PP of
+						     (NP acquaintance)))
+					     (PP up
+						 (PP to
+						     (NP adequacy
+							 (PP for
+							     (NP 
+							      future cooperative
+							      endeavors)))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The party)
+   (VP is
+       (ADVP usually)
+       (PP in
+	   (NP (NP a room)
+	       (ADJP small
+		     (ADVP enough
+			   (SBAR  so
+				 that
+				 (S (NP all guests)
+				    (VP are
+					(PP within
+					    (NP sight and hearing
+						(PP of
+						    (NP one
+							another)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The information)
+    (X (X (AUX is)
+	  (VP furnished
+		 
+	      (PP by
+		  (NP each
+		      (PP of
+			  (NP the guests))))))
+       ,
+       (X (AUX is)
+	  (VP sent
+	     
+	      (PP by
+		  (NP oral broadcasting
+		      (PP over
+			  (NP the air waves))))))
+       ,
+       and
+       (X (AUX is)
+	  (VP received
+		 
+	      (PP by
+		  (NP the ears))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Since
+	(S (NP the air)
+	   (VP is
+	       (NP a continuum))))
+    ,
+    (S (NP the network
+	   (PP of
+	       (NP communication)))
+       (VP remains
+	   (ADJP intact)
+	   (ADVP regardless
+		 (PP of
+		     (NP the positions or motions
+			 (PP of
+			     (NP (NP the points)
+				 *LRB*
+				 (NP the people)
+				 *RRB*
+				 (PP in
+				     (NP the net))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP *)
+	   (VP shown
+	       (PP in
+		   (NP Figure 1)))))
+    ,
+    (S (NP there)
+       (VP is
+	   (NP a connection
+	       (PP for
+		   (NP communication
+		       (PP between
+			   (NP every pair
+			       (PP of
+				   (NP points))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP This)
+	,
+	and
+	(NP other qualifications)
+	,)
+    (VP make
+	(NP the cocktail party)
+	(NP (NP the
+		(ADJP most complete)
+		and
+		(ADJP most chaotic)
+		communication system)
+	    (VP  (ADVP ever)
+		 dreamed
+		 (PRT up)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP All four types
+	    (PP of
+		(NP message)))
+	(VP listed
+	    (PP in
+		(NP Table 1))))
+    (AUX are)
+    (VP permitted
+	)
+    ,
+    (SBAR although
+	  (S (NP decorum and cocktail tradition)
+	     (VP require
+		 (S (NP *)
+		    (VP holding
+			(NP the commands)
+			(PP to
+			    (NP a minimum)))))))
+    ,
+    (SBAR while
+	  (S (NP (NP exclamations)
+		 (VP having
+		     (NP complimentary intonations)))
+	     (AUX are)
+	     (VP (ADVP more
+		       (PP than)
+		       customarily)
+		 encouraged))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The completeness
+	(PP of
+	    (NP the connections)))
+    (VP provide
+	(SBAR that
+	      (S  ,
+		  (PP for
+		      (NP N people))
+		  ,
+		  (S (NP there)
+		     (VP are
+			 (NP (NP A[fj] lines
+				 (PP of
+				     (NP communication))
+				 (PP between
+				     (NP the pairs)))
+			     ,
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (AUX can)
+				 (VP become
+				     (NP (NP a large number)
+					 *LRB*
+					 (NP 1,225)
+					 *RRB*))
+				 (PP for
+				     (NP a party
+					 (PP of
+					     (NP fifty guests)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Looking
+	 (PP at
+	     (NP the diagram)))
+     ,
+     (S (NP we)
+	(VP see
+	    (SBAR that
+		  (S (NP A[fj] connection lines)
+		     (VP come
+			 (PP in
+			     (PP to
+				 (NP each member)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Thus)
+	 (S (NP the cocktail party)
+	    (AUX would)
+	    (VP appear
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (NP the ideal system))))))
+      ,
+      but
+      (S (NP there)
+	 (VP is
+	     (NP one weakness))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP spite
+	    (PP of
+		(NP the dreams
+		    (PP of
+			(NP the host))
+		    (PP for
+			(NP oneness
+			    (PP in
+				(NP the group))))))))
+    ,
+    (S (NP the A[fj] incoming messages
+	   (PP for
+	       (NP each guest)))
+       (VP overload
+	   (NP his receiving system)
+	   (PP beyond
+	       (NP comprehension)))
+       (SBAR if
+	     (S (NP N)
+		(VP exceeds
+		    (NP  (ADVP about)
+			 six))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The crowd)
+   (ADVP consequently)
+   (VP breaks
+       (PRT up)
+       (PP into
+	   (NP (NP temporary groups)
+	       (VP ranging
+		   (PP in
+		       (NP size))
+		   (PP from
+		       (NP two))
+		   (PP to
+		       (NP six))))))
+   ,
+   (PP with
+       (NP (NP a half-life
+	       (PP for
+		   (NP the cluster)))
+	   (VP ranging
+	       (PP from
+		   (NP three))
+	       (PP to
+		   (NP twenty minutes))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP (NP the occasion)
+	    (SBAR (WHPP on
+			(WHNP which))
+		  (S (S
+		      (NP everyone)
+		      (ADVP already)
+		      (VP knows
+			  (NP everyone
+			      else))
+		      and
+		      (S (NP the host)
+			 (VP wishes
+			     (S (NP them)
+				(AUX to)
+				(VP meet
+				    (NP one
+					or
+					a few honored newcomers))))))))))
+    ,
+    (S (ADVP then)
+       (S (NP the
+	      ``
+	      open house
+	      ''
+	      system)
+	  (VP is
+	      (ADJP advantageous)))
+       (SBAR because
+	     (S (S (NP the honored guests)
+		   (VP are)
+		   (NP  fixed
+			connective points))
+		and
+		(S (NP the drifting guests)
+		   (VP make
+		       and
+		       break
+		       (NP connections))
+		   (PP at
+		       (NP the door)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The rural community)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP consider
+       (NP a rural community)
+       (PP as
+	   (NP (NP an assemblage
+		   (PP of
+		       (NP inhabited dwellings)))
+	       (SBAR 
+		(WHNP whose configuration)
+		(S (NP T)
+		   (AUX is)
+		   (VP determined
+			     
+		       (PP by
+			   (NP the location and size
+			       (PP of
+				   (NP (NP the arable land sites)
+				       (ADJP necessary
+					     (PP for
+						 (NP family subsistence))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP assume
+	(PP for
+	    (NP this illustration))
+	(SBAR that
+	      (S (NP the size
+		     (PP of
+			 (NP the land plots)))
+		 (VP is
+		     (ADJP  so
+			    great
+			    (SBAR (SBAR that
+					(S (NP the distance
+					       (PP between
+						   (NP dwellings)))
+					   (VP is
+					       (ADJP greater
+						     (PP than
+							 (S (NP the voice)
+							    (AUX can)
+							    (VP carry)))))))
+				  and
+				  (SBAR that
+					(S (NP (ADJP most)
+					       (PP of
+						   (NP the communication)))
+					   (VP is
+					       (PP between
+						   (NP 
+						    (ADJP nearest)
+						    neighbors)))
+					   (ADVP only)
+					   ,
+					   (PP as
+					       (S (NP *)
+						  (VP shown
+						      (PP in
+							  (NP Figure 2))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Information
+       (PP beyond
+	   (NP 
+	    (ADJP nearest)
+	    neighbor)))
+   (AUX is)
+   (VP carried
+       (ADJP second
+	     -
+	     ,
+	     third
+	     -
+	     ,
+	     and
+	     fourth-hand)
+       (PP as
+	   (NP a distortable rumor))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP Figure 2))
+    ,
+    (S (NP the points
+	   (PP in
+	       (NP the network)))
+       (AUX are)
+       (VP designated
+		 
+	   (PP by
+	       (NP (NP a letter)
+		   (VP accompanied
+		       (PP by
+			   (NP a number))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The numbers)
+   (VP indicate
+       (NP the number
+	   (PP of
+	       (NP 
+		(ADJP nearest)
+		neighbors)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (AUX will)
+   (VP be
+       (VP noted
+))
+   (SBAR-2 that
+	 (S (S (NP  point f)
+	       (VP has
+		   (NP seven nearest neighbors)))
+	    ,
+	    (S (NP h and e)
+	       (VP have
+		   (NP six)))
+	    ,
+	    and
+	    (S (NP p)
+	       (VP has
+		   (NP  only
+			one)))
+	    ,
+	    (SBAR while
+		  (S (NP the remaining points)
+		     (VP have
+			 (NP intermediate numbers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP any social system)
+	    (SBAR (WHPP in
+			(WHNP which))
+		  (S (NP communications)
+		     (VP have
+			 (NP (NP an importance)
+			     (ADJP comparable
+				   (PP with
+				       (NP that
+					   (PP of
+					       (NP (NP production)
+						   and
+						   (NP 
+						    other human
+						    factors)))))))
+			 )))))
+    ,
+    (S (NP a point
+	   (PP like
+	       (NP f
+		   (PP in
+		       (NP Figure 2)))))
+       (AUX would)
+       *LRB*
+       (S  (NP other things)
+	   (VP being
+	       (ADJP equal)))
+       *RRB*
+       (VP be
+	   (NP the dwelling place
+	       (PP for
+		   (NP the community leader))))
+       ,
+       (SBAR while
+	     (S (NP e and h)
+		(AUX would)
+		(VP house
+		    (NP the
+			(ADJP next)
+			(ADJP  most important)
+			citizens))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A point
+	  (PP like
+	      (NP p)))
+      (VP gets
+	  (NP information)
+	  (ADVP directly
+		(PP from
+		    (NP n)))))
+     ,
+     but
+     (S (NP all information
+	    (PP beyond
+		(NP n)))
+	(AUX is)
+	(ADVP indirectly)
+	(VP relayed
+		 
+	    (PP through
+		(NP n)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dweller
+       (PP at
+	   (NP p)))
+   (VP is
+       (X (ADJP last
+		(S (NP *)
+		   (AUX to)
+		   (VP hear
+		       (PP about
+			   (NP a new cure)))))
+	  ,
+	  (NP the
+	      (ADJP slowest
+		    (S (NP *)
+		       (AUX to)
+		       (VP announce
+			   (PP to
+			       (NP his neighbors))
+			   (NP his urgent distresses)))))
+	  ,
+	  (NP (NP the one)
+	      (SBAR (WHNP who)
+		    (S (NP T)
+		       (VP goes
+			   (NP the
+			       farthest)
+			   (S (NP *)
+			      (AUX to)
+			      (VP trade))))))
+	  ,
+	  and
+	  (NP the one
+	      (PP with
+		  (NP the
+		      (ADJP greatest)
+		      difficulty
+		      (PP of
+			  (NP all))
+		      (PP in
+			  (S (S  (NP *)
+				 (VP putting
+				     (PP over
+					 (NP an idea))))
+			     or
+			     (S  (NP *) 
+				 (VP getting
+				     (NP people)
+				     (S (NP *)
+					(AUX to)
+					(VP join
+					    (NP him)
+					    (PP in
+						(NP a cooperative effort))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  Since
+	   (S (NP the hazards
+		  (PP of
+		      (NP poor communication)))
+	      (VP are
+		  (ADJP  so
+			 great))))
+    ,
+    (S (NP p)
+       (AUX can)
+       (VP be
+	   (VP justified
+		  
+	       (PP as
+		   (NP a habitable site))))
+       (PP  (ADVP only)
+	    on
+	    (NP the basis
+		(PP of
+		    (NP (NP unusual productivity)
+			(ADJP such
+			      (PP as
+				  (S  (NP T) 
+				      (AUX is)
+				      (VP made
+					  (ADJP available)
+					  (PP by
+					      (NP a waterfall))
+					  (PP for
+					      (NP (NP milling purposes)
+						  ,
+						  (NP a mine)
+						  ,
+						  or
+						  (NP a sugar maple camp)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Location theorists)
+   (AUX have)
+   (VP given
+       (NP these matters)
+       (NP much consideration)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Military organizations)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The networks
+       (PP for
+	   (NP military communications)))
+   (VP are
+       (NP one
+	   (PP of
+	       (NP the
+		   (ADJP best)
+		   examples
+		   (PP of
+		       (NP (NP networks)
+			   (SBAR (WHNP which)
+				 (S (CONJP (NEG not)
+					   only)
+				    (S (NP T)
+				       (AUX must)
+				       (VP be
+					   (VP changed
+		        
+					       (PP with
+						   (NP the changes
+						       (PP in
+							   (NP objectives)))))))
+				    (CONJP but
+					   also)
+				    (S  (NP T) 
+					(AUX must)
+					(VP be
+					    (VP changed
+		       
+						(PP with
+						    (NP the addition
+							(PP of
+							    (NP new machines
+								(PP of
+								    (NP war))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (ADVP also)
+   (VP furnish
+       (NP proof
+	   (SBAR that
+		 (S  ,
+		     (PP in
+			 (NP modern war))
+		     ,
+		     (S (NP message sending)
+			(AUX must)
+			(VP be
+			    (VP monitored
+				))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Without
+	(NP monitoring))
+    ,
+    (S (NP a military hookup)
+       (VP becomes
+	   (NP a noisy party))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The need
+       (PP for
+	   (NP monitoring)))
+   (VP became
+       (ADJP greater))
+   (SBAR 
+    (WHADVP when)
+    (S (NP radio)
+       (AUX was)
+       (VP adopted
+		 
+	   (PP for
+	       (NP military signaling))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  
+ (S (NP (NP  Alexander
+	     the
+	     (ADJP Great))
+	,
+	(SBAR 
+	 (WHNP who)
+	 (S (NP T)
+	    (VP used
+		(NP runners)
+		(PP as
+		    (NP message carriers)))))
+	,)
+    (AUX did)
+    (NEG not)
+    (VP have
+	(S (NP *)
+	   (AUX to)
+	   (VP worry
+	       (PP about
+		   (S (S  (NP *)
+			  (VP having
+			      (S (NP every officer
+				     (PP in
+					 (NP his command)))
+				 (VP hear
+				     (SBAR (WHNP what)
+					   (S
+					    (NP he)
+					    (VP said
+						(NP T))))))))
+		      and
+		      (S  (NP *)
+			  (VP having
+			      (NP hundreds
+				  (PP of
+				      (NP them)))
+			      (VP comment))
+			  (PP at
+			      (NP once)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (S (NP time)
+	      (AUX has)
+	      (VP passed))
+	   and
+	   (S (NP science)
+	      (AUX has)
+	      (VP progressed))))
+    ,
+    (S (S (NP the speed
+	      (PP of
+		  (NP military vehicles)))
+	  (AUX has)
+	  (VP increased))
+       ,
+       (S (NP the range
+	      (PP of
+		  (NP missiles)))
+	  (AUX has)
+	  (VP been
+	      (VP extended
+		  )))
+       ,
+       (S (NP the use
+	      (PP of
+		  (NP target-hunting noses
+		      (PP on
+			  (NP the projectiles)))))
+	  (AUX has)
+	  (VP been
+	      (VP adopted
+		  )))
+       ,
+       and
+       (S (NP the range and breadth
+	      (PP of
+		  (NP message sending)))
+	  (AUX has)
+	  (VP increased))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADJP Next
+	      (PP to
+		  (NP the old problem
+		      (PP of
+			  (NP the slowness
+			      (PP of
+				  (NP decision making)))))))
+	,
+	(S
+	 (NP 
+	  network structure)
+	 (VP seems
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP paramount))))))
+     ,
+     and
+     (S (PP without
+	    (NP monitoring))
+	(S (NP no network)
+	   (VP has
+	       (NP value)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the parade ground))
+    (S (NP the net)
+       (AUX may)
+       (VP be
+	   (ADJP similar
+		 (PP to
+		     (NP (NP that)
+			 (ADJP shown
+			       (PP in
+				   (NP Figure 3)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The monitoring)
+   (VP is
+       (NP the
+	   (ADJP highest)
+	   and
+	   (ADJP  most restrictive)
+	   (PP of
+	       (NP any organization
+		   (PP in
+		       (NP existence)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP No questions
+	    ,
+	    statements
+	    ,
+	    or
+	    explanations)
+	(NP-1 *pseudo-attach*))
+    (AUX are)
+    (VP permitted
+	)
+    --
+    (NP-1 only commands))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Commands)
+   (VP go
+       (ADVP only)
+       (PP from
+	   (NP an officer))
+       (PP to
+	   (NP the man
+	       (PP of
+		   (NP 
+		    nearest lower
+		    rank))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The same command)
+    (AUX is)
+    (VP repeated
+		 
+	(PP as
+	    (NP many times)
+	    (PP as
+		(S (NP there)
+		   (VP are
+		       (NP levels
+			   (PP in
+			       (NP rank))
+			   (PP (PP from
+				   (NP general))
+			       (PP to
+				   (NP corporal))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All orders)
+   (VP (VP originate
+	   (PP with
+	       (NP the officer
+		   (PP of
+		       (NP 
+			(ADJP highest)
+			rank)))))
+       and
+       (VP terminate
+	   (PP with
+	       (NP action
+		   (PP of
+		       (NP the men
+			   (PP in
+			       (NP the ranks)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+
+((S (NP  (ADVP Even)
+	 the officer
+	 (PP in
+	     (NP charge)))
+    ,
+    (SINV (VP be)
+	  (NP it)
+	  (NP (NP (NP a captain)
+		  *LRB*
+		  (PP for
+		      (NP small display))
+		  *RRB*)
+	      or
+	      (NP a
+		  (ADJP general))))
+    ,
+    (AUX is)
+    (VP restrained
+	 
+	(PP by
+	    (NP monitoring))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP done
+	     
+       (X (PP for
+	      (NP simplicity
+		  (PP of
+		      (NP commands))))
+	  and
+	  (S (NP *)
+	     (AUX to)
+	     (VP bring
+		 (NP the hidden redundancy)
+		 (PP up)
+		 (PP to
+		     (SBAR 
+		      (WHADVP where)
+		      (S (NP misunderstanding)
+			 (VP has
+			     (NP  almost
+				  zero possibility))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The commands)
+    (X (X (AUX are)
+	  (VP specified
+		 
+	      (PP by
+		  (NP the military regulations))))
+       ;
+       ;
+       (VP are
+	   (ADJP (ADJP  few
+			(PP in
+			    (NP number)))
+		 ,
+		 (ADJP   (ADVP briefly)
+			 worded)
+		 ,
+		 (ADJP (NP all)
+		       different
+		       (PP in
+			   (NP sound)))))
+       ;
+       ;
+       and
+       (VP are
+	   (ADJP combinable
+		 (PP into
+		     (NP (NP sequences)
+			 (SBAR (WHNP which)
+			       (S (NP T)
+				  (VP permit
+				      (NP (NP any
+					      marching maneuver)
+					  (SBAR (WHNP that)
+						(S (NP T)
+						   (AUX could)
+						   (VP be
+						       (VP desired
+							   )))))
+				      (PP on
+					  (NP a parade ground)))))))))))
+ .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This monitoring)
+   (VP is
+       (ADJP necessary))
+   (SBAR because
+	 (S (S  ,
+		(PP on
+		    (NP a parade ground))
+		,
+		(S (NP everyone)
+		   (AUX can)
+		   (VP hear
+		       (NP  too
+			    much))))
+	    ,
+	    and
+	    (S (PP without
+		   (NP  monitoring))
+	       (S (NP a
+		      confused social
+		      event)
+		  (AUX would)
+		  (VP develop))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP troops)
+	    (VP dispersed
+		(PP on
+		    (NP fields
+			(PP of
+			    (NP battle))))
+		(ADVP rather
+		      (PP than
+			  (PP on
+			      (NP the parade ground)))))))
+    ,
+    (S (NP it)
+       (AUX may)
+       (VP seem
+	   (SBAR that
+		 (S (NP a certain amount
+			(PP of
+			    (NP monitoring)))
+		    (AUX is)
+		    (ADVP automatically)
+		    (VP enforced
+			    
+			(PP by
+			    (NP the lines
+				(PP of
+				    (NP communication))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (ADVP (NP Years)
+	     ago)
+       (S (NP this)
+	  (VP was
+	      (ADJP true))))
+    ,
+    but
+    (S (S (PP with
+	      (NP the replacement
+		  (PP of
+		      (NP wires or runners))
+		  (PP by
+		      (NP radio and radar
+			  *LRB*
+			  and
+			  (ADVP perhaps)
+			  (NP television)
+			  *RRB*))))
+	  ,
+	  (S (NP these restrictions)
+	     (AUX have)
+	     (VP disappeared)))
+       and
+       (S (ADVP now
+		again)
+	  (S  (ADJP  (ADVP too)
+		     much)
+	      (AUX is)
+	      (VP heard
+		  )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP contrast
+	    (PP to
+		(NP cocktail parties))))
+    ,
+    (S (NP military organizations)
+       ,
+       (PP  (ADVP even)
+	    in
+	    (NP the field))
+       ,
+       (VP are
+	   (ADJP  more
+		  formal))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the extreme and oversimplified example)
+	    (VP suggested
+		(PP in
+		    (NP Figure 3)))))
+    ,
+    (S (NP the organization)
+       (X (AUX is)
+	  (VP (ADVP more easily)
+	      understood)
+	  and
+	  (ADJP  more
+		 predictable
+		 (PP in
+		     (NP behavior))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A military organization)
+   (VP has
+       (NP (NP an objective)
+	   (VP chosen
+	       (PP by
+		   (NP the
+		       (ADJP higher)
+		       command))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This objective)
+   (AUX is)
+   (VP adhered
+	     
+       (PP to)
+       (PP throughout
+	   (NP the duration
+	       (PP of
+		   (NP the action))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP The connective system)
+	   ,
+	   or
+	   (NP network)
+	   ,)
+       (AUX is)
+       (VP tailored
+	  
+	   (S (NP *)
+	      (AUX to)
+	      (VP meet
+		  (NP the requirements
+		      (PP of
+			  (NP the objective)))))))
+    ,
+    and
+    (S (NP it)
+       (VP is
+	   (ADVP therefore)
+	   (ADJP (NEG not)
+		 surprising
+		 (SBAR that
+		       (S (NP (NP a military body)
+			      (VP acting
+				  (PP as
+				      (NP a
+					  (ADJP single)
+					  (ADJP  coordinated)
+					  unit))))
+			  (VP has
+			      (NP a different communication network)
+			      (PP than
+				  (NP (NP a factory)
+				      ,
+				      (NP a college)
+				      ,
+				      or
+				      (NP a rural village))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+
+( 
+ (S (NP (NP The assumptions)
+	(SBAR (WHPP upon
+		    (WHNP which))
+	      (S (NP (NP the example)
+		     (VP shown
+			 (PP in
+			     (NP Figure 3))))
+		 (AUX is)
+		 (VP based
+		     ))))
+    (VP are
+	:
+	(S  (S *LRB*
+	       (NP A)
+	       *RRB*
+	       (S (NP One man)
+		  (AUX can)
+		  (VP direct
+		      (NP  (ADVP about)
+			   six subordinates))
+		  (SBAR if
+			(S (NP the subordinates)
+			   (AUX are)
+			   (VP chosen
+			       (ADVP carefully)
+			       (SBAR  so
+				      that
+				      (S (NP they)
+					 (AUX do)
+					 (NEG not)
+					 (VP need
+					     (NP  (ADJP too
+							much) personal coaching
+							,
+							indoctrinating
+							,
+							etc
+							.)))))))))
+	    . 
+	    (S   *LRB*
+		 (NP B)
+		 *RRB*
+		 (S (NP A message)
+		    (VP runs
+			(NP (ADJP  too
+				   great)
+			    a risk
+			    (PP of
+				(S  (NP *)
+				    (VP being
+					(VP distorted))))))
+		    (SBAR if
+			  (S (NP it)
+			     (VP is
+				 (S (NP *)
+				    (AUX to)
+				    (VP be
+					(VP relayed
+					    (ADJP more
+						  (PP than
+						      (NP  (ADVP about)
+							   six consecutive times)))))))))
+		    .))
+	    (S   *LRB*
+		 (NP C)
+		 *RRB*
+		 (S (NP Decisions
+			(PP of
+			    (NP a general kind)))
+		    (AUX are)
+		    (VP made
+	       
+			(PP by
+			    (NP the central command)))
+		    .))
+	    And
+	    (S   *LRB*
+		 (NP D)
+		 *RRB*
+		 (S (NP (NP all action
+			    (PP of
+				(NP a physical kind)))
+			(ADJP pertinent
+			      (PP to
+				  (NP the mission))))
+		    (AUX is)
+		    (VP relegated
+	        
+			(PP to
+			    (NP the line
+				(PP of
+				    (NP men
+					(PP on
+					    (NP the
+						(ADJP lower)
+						rank)))))))
+		    .)))))
+ ) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These assumptions)
+    (VP lead
+	(PP to
+	    (NP an organization
+		(PP with
+		    (NP (NP one man
+			    (PP at
+				(NP the top)))
+			,
+			(NP six
+			    (PP (ADVP directly)
+				under
+				(NP him)))
+			,
+			(NP six
+			    (PP under
+				(NP each
+				    (PP of
+					(NP these)))))
+			,
+			(X and
+			   so
+			   on
+			   (PP until
+			       (S (NP there)
+				  (VP are
+				      (NP six levels
+					  (PP of
+					      (NP personnel)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The number
+       (PP of
+	   (NP (NP people)
+	       (VP acting
+		   (PP as
+		       (NP one body))
+		   (PP by
+		       (NP this scheme))))))
+   (VP gives
+       (NP a
+	   (ADJP surprisingly
+		 large) army
+	   (PP of
+	       (NP 55,987 men)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This organizational network)
+   (AUX would)
+   (VP be
+       (PP of
+	   (NP no avail)))
+   (SBAR if
+	 (S (NP there)
+	    (VP were
+		(NP (NP no regulations)
+		    (VP pertaining
+			(PP to
+			    (NP (NP the types
+				    (PP of
+					(NP message)))
+				(VP sent)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Of
+	(NP (NP types
+		(PP of
+		    (NP message)))
+	    (VP listed
+		(PP in
+		    (NP Table 1)))))
+    ,
+    (S (NP commands and statements)
+       (VP are
+	   (NP (NP the only ones)
+	       (VP sent
+		   (PP through
+		       (NP (NP the vertical network)
+			   (VP shown
+			       (PP in
+				   (NP Figure 3))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP further)
+       regulation)
+   (VP is
+       (SBAR that
+	     (S (S (NP commands)
+		   (ADVP always)
+		   (VP go
+		       (ADVP down))
+		   ,
+		   (ADJP unaccompanied
+			 (PP by
+			     (NP statements))))
+		,
+		and
+		(S (NP statements)
+		   (ADVP always)
+		   (VP go
+		       (ADVP up))
+		   ,
+		   (ADJP unaccompanied
+			 (PP by
+			     (NP commands))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Questions)
+	and
+	,
+	(ADVP particularly)
+	,
+	(NP exclamations))
+    (X (X (AUX are)
+	  (ADVP usually)
+	  (VP channeled
+	  
+	      (PP along
+		  (NP (NP 
+		       (ADJP informal)
+		       ,
+		       (ADJP horizontal)
+		       lines)
+		      (VP (NEG not)
+			  indicated
+			  (PP in
+			      (NP Figure 3)))))))
+       and
+       (X (ADVP seldom)
+	  (AUX are)
+	  (VP carried
+		   
+	      (PP beyond
+		  (NP the
+		      (ADJP nearest)
+		      neighbor))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX will)
+    (ADVP readily)
+    (VP be
+	(VP seen
+	    (SBAR that
+		  (S (PP in
+			 (NP (NP this suggested network)
+			     *LRB*
+			     (ADJP (NEG not)
+				   (ADVP materially)
+				   different
+				   (PP from
+				       (NP some
+					   (PP of
+					       (NP the networks
+						   (PP in
+						       (NP vogue))
+						   (ADVP today))))))
+			     *RRB*))
+		     (S (NP
+			 (ADJP greater)
+			 emphasis
+			 (PP on
+			     (NP monitoring))
+			 (PP-2 *pseudo-attach*))
+			(AUX is)
+			(VP implied
+			    )
+			(PP-2 than
+			      (S  (NP *) 
+				  (AUX is)
+				  (ADVP usually)
+				  (VP put
+		  
+				      (PP into
+					  (NP practice)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP the network
+	     (PP in
+		 (NP Figure 3)))
+	 (VP is
+	     (NP (NP  only
+		      the basic net)
+		 (SBAR (WHPP through
+			     (WHNP which))
+		       (S (NP (NP other networks)
+			      (VP pertaining
+				  (PP to
+				      (NP (NP logistics)
+					  and
+					  (NP the like)))))
+			  (AUX are)
+			  (VP interlaced
+			      )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (ADVP Not)
+       (VP discussed)
+       (ADVP here)
+       (AUX are)
+       (NP (NP (NP some military problems
+		   (PP of
+		       (NP modern times)))
+	       (ADJP such
+		     (PP as
+			 (NP undersea warfare))))
+	   ,
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP (NP the surveillance
+		       ,
+		       sending
+		       ,
+		       transmitting
+		       ,
+		       and
+		       receiving)
+		   (NP-3 *pseudo-attach*))
+	       (VP are
+		   (NP-3 all)
+		   (ADJP  so
+			  inadequate
+			  (SBAR that
+				(S (NP networks and decision making)
+				   (VP are
+				       (NEG not)
+				       (NP the bottlenecks))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such problems)
+   (VP (VP are
+	   (PP of
+	       (NP (NP extreme interest)
+		   (ADVP as
+			 well
+			 (PP as
+			     (NP importance))))))
+       and
+       (VP are
+	   (PP (ADJP   so
+		       much)
+	       like
+	       (NP (S  (NP *)
+		       (VP fighting
+			   (PP in
+			       (NP a rain forest))))
+		   or
+		   (NP guerrilla warfare
+		       (PP at
+			   (NP night))
+		       (PP in
+			   (NP tall grass)))))))
+   (SBAR that
+	 (S (NP we)
+	    (AUX might)
+	    (VP have
+		(S (NP *)
+		   (AUX to)
+		   (VP re-examine
+		       (NP primitive conflicts)
+		       (PP  for
+			    (SBAR (WHNP what)
+				  (S
+				   (NP they)
+				   (AUX could)
+				   (VP teach
+				       (NP T) ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP A team
+      (PP for
+	  (NP useful research)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP an unsolved problem)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (ADVP probably)
+		    (AUX has)
+		    (ADVP never)
+		    (VP been
+			(VP (ADVP seriously)
+			    investigated
+			    ))))))
+   ,
+   (SBAR although
+	 (S (NP one)
+	    (ADVP frequently)
+	    (VP hears
+		(NP the comment
+		    (SBAR that
+			  (S (NP we)
+			     (VP have
+				 (NP insufficient specialists
+				     (PP of
+					 (NP (NP the kind)
+					     (SBAR (WHNP who)
+						   (S (NP T)
+						      (AUX can)
+						      (VP compete
+							  (X (X (PP with
+								    (NP the Germans
+									or
+									Swiss))
+								,
+								(PP for
+								    (NP example))
+								,
+								(PP in
+								    (NP precision machinery and mathematics)))
+							     ,
+							     or
+							     (X (NP the Finns)
+								(PP in
+								    (NP geochemistry))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP hear
+       (NP  (ADJP equally
+		  fervent) concern
+		  (PP over
+		      (NP the belief
+			  (SBAR that
+				(S (NP we)
+				   (VP have
+				       (NP (NP  (ADJP (NEG not)
+						      enough)
+						generalists)
+					   (SBAR (WHNP who)
+						 (S (NP T)
+						    (AUX can)
+						    (VP (VP see
+							    (NP the over-all picture))
+							and
+							(VP combine
+							    (NP our national skills and knowledge)
+							    (PP for
+								(NP useful purposes)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This problem
+       (PP of
+	   (NP the optimum balance
+	       (PP in
+		   (NP the relative numbers
+		       (PP of
+			   (NP generalists and specialists)))))))
+   (AUX can)
+   (VP be
+       (VP investigated
+		 
+	   (PP on
+	       (NP a communicative network basis)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  Since
+	   (S (NP the difficulty
+		  (PP of
+		      (S (NP *)
+			 (VP drawing
+			     (NP the net)))))
+	      (VP is
+		  (ADJP great))))
+    ,
+    (S (NP we)
+       (AUX will)
+       (ADVP merely)
+       (VP discuss
+	   (NP it))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP First)
+      ,
+      (S (NP we)
+	 (VP realize
+	     (SBAR that
+		   (S (NP a pure specialist)
+		      (AUX does)
+		      (NEG not)
+		      (VP exist))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      ,
+      (PP for
+	  (NP practical purposes))
+      ,
+      (S (NP we)
+	 (VP have
+	     (NP (NP people)
+		 (SBAR (WHNP who)
+		       (S (NP T)
+			  (AUX can)
+			  (VP be
+			      (VP considered
+				   
+				  (PP as
+				      (ADJP such))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP there)
+       (VP are
+	   (NP (NP (NP persons)
+		   (SBAR (SBAR (WHNP who)
+			       (S (NP T)
+				  (VP are
+				      (PP (PP in
+					      (NP physical science))
+					  ,
+					  (PP in
+					      (NP the field
+						  (PP of
+						      (NP mineralogy)))))
+				      ,
+				      (S (NP *)
+					 (VP trained
+					     (PP in
+						 (NP crystallography))))
+				      ,)))
+			 (SBAR 
+			  (WHNP who)
+			  (S (NP T)
+			     (VP use
+				 (NP only X-rays))
+			     ,
+			     (S (NP *)
+				(VP applying
+				    (NP  only
+					 the powder technique
+					 (PP of
+					     (NP X-ray diffraction)))
+				    ,
+				    (PP to
+					(NP clay minerals))
+				    (ADVP only)))))
+			 ,
+			 and
+			 (SBAR 
+			  (WHNP who)
+			  (S (NP T)
+			     (AUX have)
+			     (VP spent
+				 (NP the
+				     (ADJP last)
+				     fifteen years)
+				 (VP concentrating
+				     (PP on
+					 (NP the montmorillonites))))))))
+	       ;
+	       ;
+	       or
+	       (NP (NP persons
+		       (PP (PP in
+			       (NP the social sciences))
+			   (PP in
+			       (NP the field
+				   (PP of
+				       (NP anthropology))))))
+		   ,
+		   (VP studying
+		       (NP the lung capacity
+			   (PP of
+			       (NP seven Andean
+				   Indians)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So)
+      (S (NP we)
+	 (VP see
+	     (SBAR that
+		   (S (NP a specialist)
+		      (VP is
+			  (NP (NP a man)
+			      (SBAR (WHNP who)
+				    (S (NP T)
+				       (VP knows
+					   (NP more
+					       and
+					       more)
+					   (PP about
+					       (ADJP less
+						     and
+						     (ADJP less))))
+				       (PP as
+					   (S (NP he)
+					      (VP develops)))))))
+		      ,
+		      (PP as
+			  (S (NP *)
+			     (VP contrasted
+				 (PP to
+				     (NP (NP the generalist)
+					 ,
+					 (SBAR 
+					  (WHNP who)
+					  (S (NP T)
+					     (VP knows
+						 (ADJP less
+						       and
+						       less)
+						 (PP about
+						     (ADJP more
+							   and
+							   (ADJP more))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

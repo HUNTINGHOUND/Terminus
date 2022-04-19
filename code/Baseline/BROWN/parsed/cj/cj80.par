@@ -1,0 +1,2133 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A gyro-stabilized platform system)
+	,
+	(VP using
+	    (NP 
+	     (ADJP restrained)
+	     gyros))
+	,)
+    (VP is
+	(ADJP well
+	      suited
+	       
+	      (PP for
+		  (NP automatic leveling))))
+    (ADVP because
+	  (PP of
+	      (NP the characteristics
+		  (PP of
+		      (NP the gyro-platform-servo combination))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	restrained gyro-stabilized
+	platform
+	(PP with
+	    (NP reasonable response characteristics)))
+    (VP operates
+	(PP with
+	    (NP (NP an approximate equation
+		    (PP of
+			(NP motion)))
+		,
+		(VP neglecting
+		    (NP transient effects))
+		,
+		(PP as
+		    (S  (NP *) 
+			(VP follows
+			    :
+			    (NP (NP A[fj])
+				(SBAR 
+				 (WHADVP where)
+				 (S (NP U)
+				    (VP is
+					(NP (NP a torque)
+					    (VP applied
+						(PP about
+						    (NP the output axis
+							(PP of
+							    (NP the controlling gyro)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The platform angle ** yf)
+   (VP is
+       (NP (NP the angle)
+	   (SBAR (WHPP about
+		       (WHNP which))
+		 (S
+		  (NP the gyro)
+		  (AUX is)
+		  (VP controlling))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (ADVP normally)
+   (VP termed
+        
+       (NP (NP the gyro input axis)
+	   ,
+	   (ADVP (NP 90-degrees)
+		 away
+		 (PP from
+		     (NP the gyro output or ** yj axis))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gyro angular momentum)
+   (AUX is)
+   (VP defined
+        
+       (PP by
+	   (NP H))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (SBAR if
+	    (S (NP the gyro and platform-controller combination)
+	       (VP maintains
+		   (NP the platform)
+		   (PP with
+		       (NP zero angular deviation
+			   (PP about
+			       (NP the ** yf axis)))))))
+      ,
+      (S (NP the system)
+	 (AUX can)
+	 (VP be
+	     (VP rotated
+		  
+		 (PP with
+		     (NP an angular velocity A[fj]))))
+	 (SBAR if
+	       (S (NP a torque)
+		  (AUX is)
+		  (VP supplied
+		       
+		      (PP to
+			  (NP the gyro output axis A[fj])))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP assumed
+        
+       (SBAR that
+	     (S (NP the gyros)
+		(AUX are)
+		(VP designed
+		     
+		    (PP with
+			(NP electrical torquers))
+		    (SBAR  so
+			   that
+			   (S (NP a torque)
+			      (AUX can)
+			      (VP be
+				  (VP applied
+				       
+				      (PP about
+					  (NP their output axes)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the system)
+	    (VP shown
+		(PP in
+		    (NP Fig. 7-1)))))
+    ,
+    (S (NP the accelerometer output)
+       (AUX is)
+       (VP amplified
+	   ))
+    and
+    (S (NP the resulting voltage)
+       (AUX is)
+       (VP applied
+	    
+	   (PP to
+	       (NP the gyro output-axis torquer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This torque)
+   (VP causes
+       (S (NP the entire system)
+	  (AUX to)
+	  (VP rotate
+	      (PP about
+		  (NP the ** yf axis)))))
+   ,
+   (PP since
+       (NP the response
+	   (PP to
+	       (NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the polarities)
+	    (VP are
+		(ADJP correct))))
+   ,
+   (S (NP the platform)
+      (VP rotates
+	  (PP in
+	      (NP such
+		  a direction
+		  (PP as
+		      (S (NP *)
+			 (AUX to)
+			 (VP reduce
+			     (NP the accelerometer output)
+			     (PP to
+				 (NP zero))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR As
+	 (S (NP the accelerometer output)
+	    (AUX is)
+	    (VP decreasing)))
+   ,
+   (S (NP (NP the torque)
+	  (VP applied
+	      (PP to
+		  (NP the gyro output axis))))
+      (VP decreases))
+   and
+   ,
+   (ADVP therefore)
+   ,
+   (S (NP the rate)
+      (VP decreases)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Finally)
+      ,
+      (SBAR 
+       (WHADVP when)
+       (S (NP the accelerometer output)
+	  (VP is
+	      (NP zero))))
+      ,
+      (S (NP the entire system)
+	 (VP remains
+	     (ADJP stationary)))
+      ,
+      and
+      (S (NP the platform)
+	 (AUX is)
+	 ,
+	 (PP by
+	     (NP definition))
+	 ,
+	 (VP leveled)))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A mathematical block diagram
+       (PP for
+	   (NP the leveling system)))
+   (AUX is)
+   (VP shown
+        
+       (PP in
+	   (NP Fig. 7-2))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The platform)
+   (VP is
+       (ADVP initially)
+       (PP off
+	   (NP level)
+	   (PP by
+	       (NP the angle A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The angle)
+	(VP generated
+	    (PP by
+		(NP (NP the platform servo ** yf)
+		    (VP multiplied
+			(PP by
+			    (NP G)))))))
+    (VP is
+	(NP (NP the effective acceleration)
+	    (VP acting
+		(PP on
+		    (NP the accelerometer))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A[fj])
+    (VP is
+	(NP the scale factor
+	    (PP of
+		(NP (NP the accelerometer)
+		    *LRB*
+		    (NP A[fj])
+		    *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The voltage A[fj])
+   (AUX is)
+   (VP (VP amplified
+        
+	   (PP by
+	       (NP A[fj])))
+       and
+       (VP applied
+	   (PP to
+	       (NP the gyro torquer))
+	   (PP with
+	       (NP scale factor A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Finally)
+      ,
+      (S (NP the gyro-stabilized platform characteristic)
+	 (AUX is)
+	 (VP represented
+	      
+	     (PP by
+		 (NP A[fj])))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The system
+       (PP as
+	   (S (NP *)  
+	      (VP indicated
+		  (PP in
+		      (NP Fig. 7-2))))))
+   (VP is
+       (ADJP fundamental and simple))
+   (SBAR because
+	 (S (NP the transient effects
+		(PP of
+		    (NP both
+			(NP the platform servo)
+			and
+			(NP the accelerometer))))
+	    (AUX have)
+	    (VP been
+		(VP neglected
+		    )))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP these factors)
+	    (VP included)))
+    ,
+    (S (NP an upper limit)
+       (AUX is)
+       (VP placed
+	    
+	   (PP on
+	       (NP the allowable loop gain))
+	   (PP by
+	       (NP stability considerations)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this type
+	    (PP of
+		(NP system))))
+    ,
+    (S (NP a high loop gain)
+       (VP is
+	   (ADJP desirable))
+       (SBAR because
+	     (S (NP it)
+		(VP provides
+		    (NP a fast response time))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the frequency response characteristics
+	     (PP of
+		 (NP practical components)))
+	 (AUX are)
+	 (VP considered
+	     )))
+     ,
+     (S (NP their effect
+	    (PP on
+		(NP stability)))
+	(AUX does)
+	(NEG not)
+	(VP present
+	    (NP the
+		(ADJP most serious)
+		limit
+		(PP on
+		    (NP the system loop gain))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The time)
+	(VP required
+	    (PP for
+		(S (NP the system)
+		   (AUX to)
+		   (VP reach
+		       (NP a level position))))))
+    (VP is
+	(ADJP  approximately
+	      inversely
+	      proportional
+	      (PP to
+		  (NP the servo loop gain)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP the cutoff frequency
+	   (PP for
+	       (NP input accelerations)))
+       (VP is
+	   (ADJP  approximately
+		  proportional
+		  (PP to
+		      (NP the servo loop gain)))))
+    ;
+    ;
+    (X i.e.)
+    ,
+    (S (NP high loop gain)
+       (VP causes
+	   (S (NP the system)
+	      (AUX to)
+	      (VP respond
+		  (PP to
+		      (NP horizontal components
+			  (PP of
+			      (NP accelerations)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This problem)
+   (ADVP usually)
+   (VP determines
+       (NP (NP the
+	       (ADJP lower)
+	       limit
+	       (PP of
+		   (NP loop gain)))
+	   (ADVP rather
+		 (PP than
+		     (NP response time))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX must)
+   (VP be
+       (VP noticed
+	    
+	   (PP in
+	       (NP Fig. 7-1))
+	   (SBAR that
+		 (S (NP the accelerometer)
+		    (VP responds
+			 
+			(PP to
+			    (NP any input acceleration))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The equation)
+       (VP relating
+	   (NP input acceleration
+	       (PP to
+		   (NP output platform angle)))))
+   (VP is
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP practice))
+    ,
+    (S (NP the preflight leveling process)
+       (VP takes
+	   (NP place)
+	   (PP with
+	       (S (NP the system)
+		  (VP mounted
+		      (PP in
+			  (NP the airframe))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the system)
+	 (AUX is)
+	 (VP arranged
+	      
+	     (PP for
+		 (NP automatic leveling)))))
+     ,
+     (S (NP the platform angles)
+	(VP respond
+	    (PP to
+		(NP (NP any horizontal components
+			(PP of
+			    (NP acceleration)))
+		    (VP acting
+			(PP on
+			    (NP the accelerometers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP many such components
+	   (PP of
+	       (NP acceleration present))))
+   (ADVP due
+	 (PP to
+	     (NP the effect
+		 (PP of
+		     (NP (NP wind gusts)
+			 ,
+			 (NP engine noise)
+			 ,
+			 (NP turbulence
+			     (PP around
+				 (NP the vehicle)))
+			 ,
+			 (NP (X etc.))))))))
+  .)
+( (S
+   (NP (NP One
+	   (PP of
+	       (NP the
+		   (ADJP greatest)
+		   problems)))
+       (VP associated
+	   (PP with
+	       (NP automatic leveling))))
+   (AUX is)
+   (VP establishing
+       (NP a true level)
+       (PP in
+	   (NP the presence
+	       (PP of
+		   (NP high-level acceleration noise))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One solution
+       (PP to
+	   (NP the problem)))
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP operate
+	      (PP with
+		  (NP a low loop gain))))
+       and
+       (S (NP *)
+	  (AUX to)
+	  (VP include
+	      (NP low-pass filters)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This technique)
+   (VP causes
+       (S (NP the system)
+	  (AUX to)
+	  (VP respond
+	      (ADVP only)
+	      (PP to
+		  (NP low frequency acceleration components
+		      (PP  
+		       (ADJP such)
+		       as
+		       (NP the platform tilt))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP (NP a
+		     (ADJP lower)
+		     loop gain)
+		 and
+		 (NP low-pass filtering))
+	     (VP increases
+		 (NP the response time))))
+    ,
+    (S (NP a practical compromise)
+       (AUX must)
+       (VP be
+	   (VP reached
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One
+       (PP of
+	   (NP the
+	       (ADJP most desirable)
+	       solutions)))
+   (AUX is)
+   (VP achieved
+        
+       (PP by
+	   (NP the use
+	       (PP of
+		   (NP a non-linear amplifier
+		       (PP for
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The amplifier)
+   (AUX is)
+   (VP designed
+        
+       (SBAR  so
+	      that
+	      (S (NP its gain)
+		 (VP is
+		     (ADJP large))
+		 (PP for
+		     (NP accelerometer signals
+			 (PP above
+			     (NP a certain threshold level))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Below
+	(NP this level))
+    ,
+    (S (NP the amplifier gain A[fj])
+       (VP (VP is
+	       (ADJP proportional))
+	   and
+	   (VP is
+	       (PP of
+		   (NP small value))))
+       ,
+       (SBAR (PP in
+		 (NP order))
+	     (S (NP *)
+		(AUX to)
+		(VP provide
+		    (NP adequate noise filtering))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The effect)
+   (VP is
+       (SBAR that
+	     (S (NP the platform)
+		(VP returns
+		    (PP from
+			(NP an off-level position))
+		    (PP at
+			(NP a rapid rate)))
+		(PP until
+		    (S (NP it)
+		       (VP is
+			   (ADJP  nearly
+				  level))))
+		,
+		(SBAR (WHPP at
+			    (WHNP which point))
+		      (S
+		       (NP the platform)
+		       (AUX is)
+		       (VP controlled
+			    
+			   (PP by
+			       (NP a proportional servo
+				   (PP with
+				       (NP 
+					(ADJP low enough)
+					frequency response
+					(SBAR  so
+					       that
+					       (S (NP the noise)
+						  (VP has
+						      (NP little effect)
+						      (PP on
+							  (NP the leveling process))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the system)
+	(VP is
+	    (PP on
+		(NP automatic leveling)))))
+    ,
+    (S (NP the gyro drift)
+       (AUX is)
+       (VP canceled
+	    
+	   (PP by
+	       (NP the output
+		   (PP of
+		       (NP (NP the leveling system)
+			   *LRB*
+			   (NP amplifier A[fj])
+			   *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The platform)
+    (ADVP actually)
+    (VP tilts
+	(PP off
+	    (NP level))
+	(SBAR  so
+	       that
+	       (S (NP (NP the accelerometer output)
+		      ,
+		      (SBAR (WHADVP when)
+			    (S (NP *)  
+			       (VP amplified
+			        
+				   (PP by
+				       (NP A[fj]))))))
+		  ,
+		  (AUX will)
+		  (VP supply
+		      (NP the correct current)
+		      (PP to
+			  (NP the gyro torquer)))
+		  (S (NP *)
+		     (AUX to)
+		     (VP cancel
+			 (NP the gyro drift)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The amount
+	   (PP of
+	       (NP platform dip)))
+       (VP required))
+   (VP depends
+       (PP upon
+	   (NP the scale factors
+	       (PP of
+		   (NP the system))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 7-3)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Practical leveling considerations)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The automatic leveling system)
+       (VP described
+	   (PP in
+	       (NP this section))))
+   (VP is
+       (ADJP  readily
+	     adaptable
+	     (PP to
+		 (NP (NP a gyro-stabilized platform)
+		     (VP consisting
+			 (PP of
+			     (NP three
+				 (VP integrating)
+				 gyros))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The system)
+   (VP requires
+       (NP some switching
+	   (PP of
+	       (NP flight equipment circuits)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP the leveling operation)
+	 (AUX can)
+	 (VP be
+	     (VP   maintained
+		   and
+		   controlled
+		   (ADVP remotely)
+		   (PP with
+		       (NP no mechanical or optical contact
+			   (PP with
+			       (NP the platform))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This leveling system)
+    (AUX will)
+    (VP hold
+	(NP the platform)
+	(ADJP on-level)
+	,
+	(ADVP automatically)
+	,
+	(ADJP as
+	      long
+	      (PP as
+		  (S (NP the system)
+		     (AUX is)
+		     (VP actuated
+			 ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A useful by-product
+       (PP of
+	   (NP this system)))
+   (VP is
+       (SBAR that
+	     (S (NP (NP the information)
+		    (ADJP necessary
+			  (S (NP *)
+			     (AUX to)
+			     (VP set
+				 (NP the gyro drift biases)))))
+		(VP is
+		    (ADJP available
+			  (PP from
+			      (NP (NP the currents)
+				  (ADJP necessary
+					(S (NP *)
+					   (AUX to)
+					   (VP hold
+					       (NP the system
+						   (PP in
+						       (NP level))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The leveling process)
+      (AUX can)
+      (VP be
+	  (VP accomplished
+	      (ADVP manually))))
+     ,
+     and
+     (S (NP the results)
+	(VP are
+	    (ADJP  as
+		  satisfactory
+		  (PP as
+		      (NP (NP those)
+			  (VP obtained
+			      (PP with
+				  (NP automatic equipment)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The process)
+   (VP consists
+       (PP in
+	   (S (NP *)  
+	      (VP turning
+		  (NP the platform)
+		  (ADVP manually))
+	      (PP until
+		  (S (NP the outputs
+			 (PP of
+			     (NP  both
+				  accelerometers)))
+		     (VP are
+			 (NP zero))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The turning)
+   (AUX is)
+   (VP accomplished
+        
+       (PP by
+	   (S (NP *)  
+	      (VP applying
+		  (NP voltage)
+		  (PP to
+		      (NP (NP the gyro torquers)
+			  (VP described
+			      (PP above)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP brief))
+    ,
+    (S (NP the human)
+       (VP replaces
+	   (NP amplifier A[fj])
+	   (PP in
+	       (NP Figs. 7-1
+		   and
+		   7-2)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Manual leveling)
+   (VP requires
+       (NP an appropriate display
+	   (PP of
+	       (NP the accelerometer outputs)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP high accuracy)
+	      (AUX is)
+	      (VP required
+		   
+		  (PP in
+		      (NP preflight leveling)))))
+     ,
+     (S (NP it)
+	(VP is
+	    (ADVP usually)
+	    (ADJP necessary
+		  (S (NP *)
+		     (AUX to)
+		     (VP  integrate
+			 or
+			 (VP  doubly
+			      integrate)
+			 (NP the accelerometer outputs))))))
+     *LRB*
+     (S (NP this)
+	(ADVP also)
+	(VP minimizes
+	    (NP the noise problem)))
+     *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP integration))
+    ,
+    (S (NP the effect
+	   (PP of
+	       (NP (NP a small acceleration)
+		   *LRB*
+		   or
+		   (NP small platform tilt angle)
+		   *RRB*)))
+       (AUX can)
+       (VP be
+	   (VP seen
+	       (PP after
+		   (NP a time))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP skill)
+	 (AUX is)
+	 (VP required
+	      
+	     (PP on
+		 (NP the part
+		     (PP of
+			 (NP an operator)))))
+	 (S (NP *)
+	    (AUX to)
+	    (VP level
+		(NP a platform)
+		(PP to
+		    (NP any degree
+			(PP of
+			    (NP accuracy))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      ,
+      (S (NP it)
+	 (VP requires
+	     (NP 
+	      (ADJP more)
+	      time
+	      (PP as
+		  (S (NP *)  
+		     (VP compared
+			 (PP to
+			     (NP the automatic approach)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Manual leveling)
+   (VP is
+       (ADJP inconvenient))
+   (SBAR if
+	 (S (NP the platform)
+	    (AUX must)
+	    (VP be
+		(VP maintained
+		    (ADVP accurately
+			  level)
+		    (PP for
+			(NP any prolonged period
+			    (PP of
+				(NP time)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The operator)
+   (AUX must)
+   (ADVP continually)
+   (VP supply
+       (NP the correct amount
+	   (PP of
+	       (NP  turning
+		    current)))
+       (PP to
+	   (NP the gyro torquers))
+       (SBAR  so
+	      that
+	      (S (NP the effect
+		     (PP of
+			 (NP gyro drift)))
+		 (AUX is)
+		 (VP canceled
+		     )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This process)
+   (VP is
+       (ADJP  especially
+	      difficult))
+   (SBAR since
+	 (S (NP gyro drifting)
+	    (VP is
+		(ADJP  typically
+		      random)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 7-4)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Platform heading)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Platform heading)
+   (VP consists
+       (PP of
+	   (S (NP *)  
+	      (VP orienting
+		  (NP the sensitive axis
+		      (PP of
+			  (NP the accelerometers)))
+		  (ADJP parallel
+			(PP to
+			    (NP the desired coordinate system
+				(PP of
+				    (NP the navigator))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 
+	 (ADJP simpler)
+	 terms))
+    ,
+    (S (NP it)
+       (VP amounts
+	   (PP to
+	       (S (NP *)  
+		  (VP pointing
+		      (NP the platform)
+		      (PP in
+			  (NP the proper direction))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP (ADJP  purely
+		   inertial) navigators))
+    ,
+    (S (NP (NP two techniques)
+	   (NP-1 *pseudo-attach*))
+       (VP are
+	   (ADJP available))
+       (S (NP *)
+	  (AUX to)
+	  (VP accomplish
+	      (NP the platform heading)))
+       :
+       (NP-1 (NP Use
+	       (PP of
+		   (NP (ADJP external)
+		       or
+		       surveying
+		       equipment))
+	       (S (NP *)
+		  (AUX to)
+		  (VP establish
+		      (NP proper heading))))
+	   ;
+	   ;
+	   (NP Use
+	       (PP of
+		   (NP the characteristics
+		       (PP of
+			   (NP the platform components))))
+	       (PP for
+		   (NP an indication
+		       (PP of
+			   (NP true heading))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The choice
+       (PP of
+	   (NP the heading technique)))
+   (VP is
+       (ADJP dependent
+	     (PP upon
+		 (NP (NP the accuracy requirements
+			 ,
+			 field conditions)
+		     ,
+		     and
+		     (NP (NP the time)
+			 (ADJP available)
+			 (S (NP *)
+			    (AUX to)
+			    (VP accomplish
+				(NP the heading)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 7-5)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP External determination
+	 (PP of
+	     (NP heading)))
+     --
+     (NP (VP surveying)
+	 technique))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(S (NP the gyro-stabilized platform)
+	   (VP leveled)))
+    ,
+    (S (NP it)
+       (AUX can)
+       (VP be
+	   (VP headed
+	        
+	       (PP in
+		   (NP the proper direction))
+	       (PP by
+		   (S (NP *)  
+		      (VP using
+			  (NP (VP surveying)
+			      techniques))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The platform accelerometers)
+   (AUX must)
+   (VP be
+       (VP  (ADVP slightly)
+	    modified
+	     
+	    (PP for
+		(NP this procedure)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP Before
+       (S (NP the accelerometers)
+	  (AUX are)
+	  (VP mounted
+        
+	      (PP on
+		  (NP the platform)))))
+   ,
+   (S (NP the direction
+	  (PP of
+	      (NP their sensitive axis)))
+      (AUX must)
+      (VP be
+	  (VP  (ADVP accurately)
+	       determined
+	       ))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A mirror)
+   (AUX is)
+   (VP mounted
+        
+       (PP on
+	   (NP each accelerometer))
+       (SBAR  so
+	      that
+	      (S (NP the plane
+		     (PP of
+			 (NP the mirror)))
+		 (VP is
+		     (ADJP perpendicular
+			   (PP to
+			       (NP the sensitive axis
+				   (PP of
+				       (NP the unit))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Transit)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A precision transit)
+   (AUX is)
+   (VP set
+        
+       (PRT up)
+       (SBAR  so
+	      that
+	      (S (NP it)
+		 (AUX is)
+		 (VP aligned
+		      
+		     (PP with
+			 (NP respect
+			     (PP to
+				 (NP true north)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX can)
+   (VP be
+       (VP done
+	   (PP to
+	       (NP a high degree
+		   (PP of
+		       (NP accuracy))))
+	   (PP by
+	       (NP  existing
+		    surveying techniques)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(S (NP the transit)
+	   (VP set
+	       (PRT up))))
+    ,
+    (S (NP a mirror
+	   (PP on
+	       (NP one
+		   (PP of
+		       (NP the accelerometers)))))
+       (AUX is)
+       (VP sighted
+	   ))
+    and
+    (S (NP the platform)
+       (AUX is)
+       (VP turned
+	    
+	   (PP until
+	       (S (NP it)
+		  (AUX is)
+		  (VP aligned
+		      ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The sighting procedure)
+   (VP includes
+       (NP the use
+	   (PP of
+	       (NP a fixture
+		   (PP for
+		       (NP the transit)))
+	       (S (NP *)
+		  (AUX to)
+		  (VP project
+		      (NP (NP a beam
+			      (PP of
+				  (NP light)))
+			  ,
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (AUX is)
+			      (VP darkened
+	    
+				  (PP by
+				      (NP (VP crossed)
+					  hairs))
+				  ,
+				  (PP on
+				      (NP the accelerometer mirror))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the platform)
+	(AUX is)
+	(VP aligned
+	    )))
+    ,
+    (S (NP the reflected image
+	   (PP of
+	       (NP the crossed hairs)))
+       (AUX can)
+       (VP be
+	   (VP seen
+	        
+	       (ADJP  exactly
+		      superimposed
+		      (PP upon
+			  (NP the
+			      original
+			      crossed
+			      hairs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The images)
+   (AUX can)
+   (ADVP easily)
+   (VP be
+       (VP aligned
+	    
+	   (PP with
+	       (NP a high degree
+		   (PP of
+		       (NP accuracy)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The platform)
+   (AUX is)
+   (VP turned
+        
+       (PP as
+	   (S (NP *)  
+	      (VP required
+		  (PP by
+		      (S (NP *)  
+			 (VP supplying
+			     (NP currents)
+			     (PP to
+				 (NP the appropriate gyro torquers))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP this technique)
+	      (VP is
+		  (ADJP simple and satisfactory))))
+     ,
+     (S (NP one practical difficulty)
+	(AUX does)
+	(VP exist))
+     :
+     (S (NP the direction
+	    (PP of
+		(NP true north)))
+	(AUX must)
+	(VP be
+	    (VP known
+	       
+		(PP for
+		    (NP each launch point))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP this difficulty)
+	 (VP is
+	     (NEG not)
+	     (ADJP  too
+		   serious))
+	 (SBAR if
+	       (S (NP it)
+		  (AUX is)
+		  (VP realized
+		       
+		      (SBAR that
+			    (S (NP a surveying team)
+			       (AUX can)
+			       (VP establish
+				   (NP a true north base line)
+				   (PP with
+				        
+				       (NP 
+					(NP a few days)
+					' work))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP many installations))
+    ,
+    (S (NP the inertial platform)
+       (AUX is)
+       (VP raised
+	    
+	   (PP off
+	       (NP the ground))
+	   (NP a considerable height))
+       (SBAR 
+	(WHADVP when)
+	(S (NP it)
+	   (AUX is)
+	   (VP mounted
+		     
+	       (PP in
+		   (NP the vehicle)))
+	   (PP before
+	       (NP flight))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP this situation))
+    ,
+    (S (NP it)
+       (VP is
+	   (ADJP difficult))
+       (S (NP *)
+	  (AUX to)
+	  (VP sight
+	      (PP in
+		  (PP on
+		      (NP the platform)))
+	      (PP with
+		  (NP surveying equipment))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the platform)
+	    (VP is
+		(NEG not)
+		(ADJP  too
+		      high
+		      (PP off
+			  (NP the ground))))))
+   ,
+   (S (NP a transit)
+      (AUX can)
+      (VP be
+	  (VP mounted
+	       
+	      (PP on
+		  (NP a stand))
+	      (S (NP *)
+		 (AUX to)
+		 (VP raise
+		     (NP it)
+		     (PP up
+			 (PP to
+			     (NP the platform)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Obviously)
+      ,
+      (S (NP the heading accuracy)
+	 (AUX is)
+	 (VP lessened
+	      
+	     (PP by
+		 (NP such techniques)))
+	 (SBAR since
+	       (S (NP errors)
+		  (AUX are)
+		  (VP introduced
+		      (ADVP because
+			    (PP of
+				(NP motion
+				    (PP of
+					(NP the stand))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Autocollimator)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The transit)
+   (AUX can)
+   (VP be
+       (VP replaced
+	    
+	   (PP by
+	       (NP an autocollimator)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This instrument)
+   (X (VP provides
+	  (NP (NP an electrical signal)
+	      (ADJP proportional
+		    (PP to
+			(NP the angular deviations
+			    (PP of
+				(NP the platform)))))))
+      and
+      (X (AUX can)
+	 (VP be
+	     (VP used
+	       
+		 (S  (NP *) 
+		     (AUX to)
+		     (ADVP automatically)
+		     (VP hold
+			 (NP the platform)
+			 (PP on
+			     (NP true heading)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The electrical signal
+       (PP from
+	   (NP the autocollimator)))
+   (AUX is)
+   (VP  (VP amplified)
+	and
+	(VP supplied
+	    (PP to
+		(NP the Z-gyro torquer)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR If
+	   (S (NP the polarity)
+	      (VP is
+		  (ADJP correct))))
+     ,
+     (S (NP the platform)
+	(AUX will)
+	(VP turn
+	    (PP until
+		(S (NP the heading error angle)
+		   (VP is
+		       (NP zero)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Information)
+   (VP is
+       (ADVP also)
+       (ADJP available
+	     (PP from
+		 (NP this autocollimator system))
+	     (S (NP *)
+		(AUX to)
+		(VP set
+		    (NP the drift bias
+			(PP for
+			    (NP the Z-axis gyro))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the Z gyro)
+	    (AUX is)
+	    (VP drifting)))
+   ,
+   (S (NP (NP a current)
+	  (VP generated
+	      (PP by
+		  (NP the autocollimator))))
+      (AUX is)
+      (VP delivered
+	   
+	  (PP to
+	      (NP the gyro torquer))
+	  (S (NP *)
+	     (AUX to)
+	     (VP cancel
+		 (NP the drift))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the drift error)
+	    (VP is
+		(ADJP systematic))))
+   ,
+   (S (NP it)
+      (AUX can)
+      (VP be
+	  (VP canceled
+	       
+	      (PP with
+		  (NP (NP a bias circuit)
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (AUX can)
+			       (VP be
+				   (VP  arranged
+				       and
+				       adjusted
+				       (S (NP *)
+					  (AUX to)
+					  (VP supply
+					      (NP the
+						  (ADJP required)
+						  (VP compensating)
+						  current)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Electrical pickoffs)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADJP possible))
+   (S-1 (NP *)
+      (AUX to)
+      (VP locate
+	  (NP (NP an
+		  angular electrical
+		  pickoff)
+	      ,
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (AUX will)
+		  (VP indicate
+		      (NP the angular deviation
+			  (PP between
+			      (NP (NP the true heading direction)
+				  and
+				  (NP the platform)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Essentially)
+      ,
+      (S (NP the stator or reference portion
+	     (PP of
+		 (NP the pickoff)))
+	 (AUX is)
+	 (VP established
+	      
+	     (PP with
+		 (NP respect
+		     (PP to
+			 (NP the true heading direction))))))
+      ,
+      and
+      (S (NP the platform)
+	 (AUX is)
+	 (VP turned
+	     (ADVP either
+		   (ADVP manually)
+		   or
+		   (ADVP automatically))
+	     (PP until
+		 (S (NP the
+			(ADJP angular electrical)
+			pickoff signal)
+		    (AUX is)
+		    (VP reduced
+		       
+			(PP to
+			    (NP zero))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (NP 7-6)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Gyrocompass heading)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gyrocompass alignment)
+   (VP is
+       (NP (NP an automatic heading system)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP depends
+			(PP upon
+			    (NP the characteristic
+				(PP of
+				    (NP one gyro))))
+			(S (NP *)
+			   (AUX to)
+			   (VP establish
+			       (NP true heading)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP the case
+	    (PP of
+		(NP (NP a
+			(ADJP  purely
+			       inertial) autonavigator)
+		    (VP consisting
+			(PP of
+			    (NP three
+				(VP restrained)
+				gyros)))))))
+    ,
+    (S (NP a coordinate system)
+       (AUX is)
+       (VP used
+	    
+	   (SBAR 
+	    (WHADVP where)
+	    (S (S (NP the sensitive axis
+		      (PP of
+			  (NP the X accelerometer)))
+		  (VP is
+		      (ADJP parallel
+			    (PP to
+				(NP the east-west direction))
+			    (PP at
+				(NP the base point)))))
+	       ,
+	       and
+	       (S (NP the Y accelerometer sensitive axis)
+		  (VP is
+		      (ADJP parallel
+			    (PP to
+				(NP the north-south direction))
+			    (PP at
+				(NP the base point))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The accelerometers)
+   (AUX are)
+   (VP mounted
+       (ADVP rigidly)
+       (PP on
+	   (NP the platform))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (SBAR if
+	    (S (NP one accelerometer)
+	       (AUX is)
+	       (VP  (ADVP properly)
+		    aligned
+		    )))
+      ,
+      (S (NP the
+	     (ADJP other))
+	 (VP is
+	     (ADVP also))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The input axis
+       (PP of
+	   (NP the appropriate gyros)))
+   (VP are
+       (ADJP parallel
+	     (PP to
+		 (NP the sensitive direction
+		     (PP of
+			 (NP the accelerometers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Figure 7-3)
+   (VP shows
+       (NP a platform system
+	   (PP with
+	       (NP (NP the gyro vectors)
+		   (VP arranged
+		       (PP as
+			   (S (NP *)  
+			      (VP described
+				  (PP above))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The platform)
+   (AUX is)
+   (VP (VP  leveled)
+       and
+       (VP (ADVP properly)
+	   headed
+	   ,
+	   (SBAR  so
+		  that
+		  (S (S (NP the X-gyro input axis)
+			(VP is
+			    (ADJP parallel
+				  (PP to
+				      (NP the east-west direction)))))
+		     and
+		     (S (NP the Y-gyro input axis)
+			(VP is
+			    (ADJP parallel
+				  (PP to
+				      (NP the north-south direction))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The input axis
+	(PP of
+	    (NP the X gyro)))
+    ,
+    (SBAR (WHADVP when)
+	  (S (NP *)  
+	     (VP pointing
+		 (PP in
+		     (NP the east-west direction)))))
+    ,
+    (VP is
+	(ADVP always)
+	(ADJP perpendicular
+	      (PP to
+		  (NP the spin axis
+		      (PP of
+			  (NP earth)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP the platform)
+	    (AUX is)
+	    (NEG not)
+	    (VP  (ADVP properly)
+		 headed
+		 )))
+   ,
+   (S (NP the X-gyro input axis)
+      (AUX will)
+      (VP see
+	  (NP a component
+	      (PP of
+		  (NP 
+		   (NP the earth)
+		   's rotation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The sensing
+       (PP of
+	   (NP this rotation))
+       (PP by
+	   (NP the X gyro)))
+   (AUX can)
+   (VP be
+       (VP utilized
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP direct
+		  (NP the platform
+		      (PP into
+			  (NP proper heading))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP Fig. 7-4))
+    ,
+    (S (NP the input axis
+	   (PP of
+	       (NP the three-axis platform)))
+       (AUX is)
+       (VP shown
+	    
+	   (PP at
+	       (NP some point
+		   (PP on
+		       (NP the earth)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The point)
+      (VP is
+	  (PP at
+	      (NP a latitude ** yl))))
+     ,
+     and
+     (S (NP the platform)
+	(VP is
+	    (PP at
+		(NP an error)))
+	(PP in
+	    (S (NP *)  
+	       (VP heading
+		   (ADJP east))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The earth)
+   (AUX is)
+   (VP spinning
+       (PP at
+	   (NP (NP an angular velocity ** zq)
+	       (ADJP equal
+		     (PP to
+			 (NP one revolution
+			     (PP per
+				 (NP 24 hr
+				     .)))))))))
+  .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the platform)
+	 (VP is
+	     (ADJP level))))
+     ,
+     (S (NP ** ye)
+	(VP is
+	    (NP a rotation
+		(PP about
+		    (NP the Z axis
+			(PP of
+			    (NP the platform A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR Since
+	   (S (S (NP the earth)
+		 (AUX is)
+		 (VP rotating))
+	      and
+	      (S (NP the
+		     unleveled gyro-stabilized
+		     platform)
+		 (AUX is)
+		 (VP fixed
+		      
+		     (PP with
+			 (NP respect
+			     (PP to
+				 (NP a reference
+				     (PP in
+					 (NP space))))))))))
+     ,
+     (S (NP an observer
+	    (PP on
+		(NP the earth)))
+	(AUX will)
+	(VP see
+	    (NP the platform)
+	    (VP rotating
+		*LRB*
+		(PP with
+		    (NP respect
+			(PP to
+			    (NP the earth))))
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
