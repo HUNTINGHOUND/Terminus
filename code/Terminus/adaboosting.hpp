@@ -10,12 +10,9 @@ class BinaryAdaBoosting {
 public:
     
     struct SplitInfo {
-        bool initialized = false;
         size_t feature;
         double threshold;
-        bool up, down;
         
-        std::vector<size_t> deci;
         double gini;
     };
     
@@ -33,7 +30,7 @@ public:
     std::vector<size_t> boot;
     
     // Find the feature and threshold that yields the least gini index. Return the information.
-    SplitInfo find_gini(std::vector<std::vector<double>> const & data, std::vector<bool> const & target, std::unordered_map<size_t, double> const & skip);
+    SplitInfo find_best_split(std::vector<std::vector<double>> const & data, std::vector<bool> const & target);
     
     // Find the thresholds given values of a feature.
     static std::vector<double> find_threshold(std::vector<double> const & val);
@@ -59,9 +56,10 @@ public:
     // Bootstrap data, return weighted selection
     std::vector<size_t> boot_strap(size_t n);
     
-    void fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_steps, std::vector<std::string> const & feature_name={});
+    void fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_steps, std::vector<std::string> const & feature_name, double learning_rate=1);
     
-    std::vector<bool> predict(std::vector<std::vector<double>> const & x);
+    std::vector<bool> predict(std::vector<std::vector<double>> const & x, std::unordered_map<std::string, size_t> & feature_name_to_idx);
+    
 };
 
 #endif /* adaboosting_hpp */

@@ -24,4 +24,23 @@ std::vector<bool> not_equal(std::vector<T> const & a, std::vector<S> const & b) 
     return res;
 }
 
+
+// General utils
+
+bool is_symbol(std::string const & s);
+
+bool is_cap(std::string const & s);
+
+bool is_upper(std::string const & s);
+
+bool contain_number(std::string const & s);
+
+bool contain_symbol(std::string const & s);
+
+bool is_quote(std::string const & s);
+
+bool is_open_quote(std::string const & s);
+
+bool is_close_quote(std::string const & s);
+
 #endif /* util_hpp */

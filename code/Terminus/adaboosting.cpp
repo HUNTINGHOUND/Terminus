@@ -14,7 +14,7 @@ double BinaryAdaBoosting::compute_error(std::vector<bool> const & incorrect) {
 }
 
 double BinaryAdaBoosting::compute_voting_power(double error) {
-    return (1.0 / 2.0) * std::log((100 - error) / error);
+    return (1.0 / 2.0) * std::log((1000 - error) / error);
 }
 
 void BinaryAdaBoosting::change_weight(std::vector<bool> const & incorrect, std::vector<double> & w, double a) {
@@ -33,28 +33,22 @@ void BinaryAdaBoosting::change_weight(std::vector<bool> const & incorrect, std::
     // normalize weight
     for(size_t i = 0; i < w.size(); i++) {
         w[i] /= sum;
-        w[i] *= 100; // make sure that we don't approach precision boundary
+        w[i] *= 1000; // make sure that we don't approach precision boundary
     }
 }
 
-BinaryAdaBoosting::SplitInfo BinaryAdaBoosting::find_gini(std::vector<std::vector<double>> const & data, std::vector<bool> const & target, std::unordered_map<size_t, double> const & skip) {
+BinaryAdaBoosting::SplitInfo BinaryAdaBoosting::find_best_split(std::vector<std::vector<double>> const & data, std::vector<bool> const & target) {
     SplitInfo min_gini;
     min_gini.gini = INT_MAX;
     for(size_t i = 0; i < data.size(); i++) {
         std::vector<double> const & feature = data[i];
-        std::vector<double> thresholds = find_threshold(feature); // TODO: Move this to main training loop so that we don't have to recalculate this
+        std::vector<double> thresholds = find_threshold(feature);
         for(double thres : thresholds) {
-            if(skip.count(i) && skip.at(i) == thres) continue;
-            
             std::vector<size_t> d = find_decision(data, i, thres, target);
             double gini = calculate_gini(d);
             if(gini < min_gini.gini) {
-                min_gini.initialized = true;
                 min_gini.feature = i;
                 min_gini.threshold = thres;
-                min_gini.up = d[0] < d[1];
-                min_gini.down = d[2] < d[3];
-                min_gini.deci = std::move(d);
                 min_gini.gini = gini;
             }
         }
@@ -76,17 +70,45 @@ std::vector<double> BinaryAdaBoosting::find_threshold(std::vector<double> const 
     return poss;
 }
 
-std::vector<size_t> BinaryAdaBoosting::find_decision(std::vector<std::vector<double>> const & val, size_t col, double thres, std::vector<bool> const & target) {
-    std::vector<size_t> res(4, 0);
-    for(size_t i : boot) {
-        if(val[col][i] >= thres) {
-            if(target[i] == 0) res[0]++;
-            else res[1]++;
+void decision_thread(std::atomic_size_t& zero, std::atomic_size_t& one, std::atomic_size_t& two, std::atomic_size_t& three,
+                     size_t start, size_t end, size_t col, double thres,
+                     std::vector<std::vector<double>> const & val, std::vector<bool> const & target, std::vector<size_t> & boot) {
+    for(size_t i = start; i < end; i++) {
+        size_t j = boot[i];
+        if(val[col][j] >= thres) {
+            if(target[j] == 0) zero++;
+            else one++;
         } else {
-            if(target[i] == 0) res[2]++;
-            else res[3]++;
+            if(target[j] == 0) two++;
+            else three++;
         }
     }
+    
+}
+
+std::vector<size_t> BinaryAdaBoosting::find_decision(std::vector<std::vector<double>> const & val, size_t col, double thres, std::vector<bool> const & target) {
+    std::vector<size_t> res(4, 0);
+    std::vector<std::thread> list;
+    list.reserve(16);
+    std::atomic_size_t zero = 0, one = 0, two = 0, three = 0;
+    size_t i = 0;
+    size_t amount = boot.size() / 14;
+    while(i < boot.size()) {
+        list.emplace_back(decision_thread,
+                          std::ref(zero), std::ref(one), std::ref(two), std::ref(three),
+                          i, std::min(i + amount, boot.size()), col, thres,
+                          std::ref(val), std::ref(target), std::ref(boot));
+        i = std::min(i + amount, boot.size());
+    }
+    
+    for(size_t t = 0; t < list.size(); t++) {
+        list[t].join();
+    }
+    
+    res[0] = zero;
+    res[1] = one;
+    res[2] = two;
+    res[3] = three;
     
     return res;
 }
@@ -103,6 +125,20 @@ double BinaryAdaBoosting::calculate_gini(std::vector<size_t> const & decision) {
     return (gl_h * (decision[0] + decision[1]) + gl_l * (decision[2] + decision[3])) / (decision[0] + decision[1] + decision[2] + decision[3] * 1.0);
 }
 
+
+void boot_strap_thread(size_t n, std::vector<std::pair<double, size_t>> const & prefix, std::vector<size_t>& sample, std::atomic_size_t& idx) {
+    std::uniform_real_distribution<double> unif(0, 1000);
+    std::default_random_engine re;
+    for(size_t i = 0; i < n; i++) {
+        double random_weight = unif(re);
+        auto it = std::upper_bound(prefix.begin(), prefix.end(), std::make_pair(random_weight, 0), [](std::pair<double, size_t> const & a, std::pair<double, size_t> const & b) {
+            return a.first < b.first;
+        });
+        
+        sample[idx.fetch_add(1)] = it->second - 1;
+    }
+}
+
 std::vector<size_t> BinaryAdaBoosting::boot_strap(size_t n) {
     std::vector<std::pair<double, size_t>> prefix;
     double sum = 0;
@@ -113,22 +149,26 @@ std::vector<size_t> BinaryAdaBoosting::boot_strap(size_t n) {
     prefix.emplace_back(sum, n);
     
     
-    std::vector<size_t> sample;
-    std::uniform_real_distribution<double> unif(0, 100);
-    std::default_random_engine re;
-    for(size_t i = 0; i < n; i++) {
-        double random_weight = unif(re);
-        auto it = std::upper_bound(prefix.begin(), prefix.end(), std::make_pair(random_weight, 0), [](std::pair<double, size_t> const & a, std::pair<double, size_t> const & b) {
-            return a.first < b.first;
-        });
-        
-        sample.push_back(it->second - 1);
+    std::vector<size_t> sample(n, -1);
+    std::vector<std::thread> thread_list;
+    thread_list.reserve(16);
+    std::atomic_size_t idx = 0;
+    size_t i = 0;
+    size_t amount = n / 14;
+    while(i < n) {
+        thread_list.emplace_back(boot_strap_thread, std::min(amount, n - i), std::ref(prefix), std::ref(sample), std::ref(idx));
+        i = std::min(n, i + amount);
     }
+    
+    
+    for(size_t t = 0; t < thread_list.size(); t++) thread_list[t].join();
+    for(size_t x = 0; x < sample.size(); x++)
+        if(sample[x] >= n) throw std::logic_error("bad");
     
     return sample;
 }
 
-void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_step, std::vector<std::string> const & feature_name) {
+void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_step, std::vector<std::string> const & feature_name, double learning_rate) {
     // clean up previous training
     forrest.clear();
     voting_power.clear();
@@ -137,18 +177,14 @@ void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vec
     size_t n = x[0].size();
     boot = std::vector<size_t>(n);
     std::iota(boot.begin(), boot.end(), 0);
-    weight = std::vector<double>(n, 1.0 / x[0].size() * 100);
+    weight = std::vector<double>(n, 1.0 / n * 1000);
     
-    std::unordered_map<size_t, double> seen_thres;
     size_t i = 0;
     while(i < max_step) {
         
-        SplitInfo thres_info = find_gini(x, y, seen_thres);
+        SplitInfo thres_info = find_best_split(x, y);
         
-        // We used all available stump
-        if(!thres_info.initialized) break;
-        
-        forrest.emplace_back(feature_name.size() ? feature_name[thres_info.feature] : ("Feature " + std::to_string(i)), thres_info.feature, thres_info.threshold, thres_info.up, thres_info.down);
+        forrest.emplace_back(feature_name[thres_info.feature], thres_info.feature, thres_info.threshold);
         
         std::vector<bool> incorrect;
         for(size_t idx : boot) {
@@ -157,38 +193,50 @@ void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vec
             else incorrect.push_back(false);
         }
         double error = compute_error(incorrect);
-        if(!error) {
-            voting_power.push_back(1.0);
+        if(error <= 20 || error >= 980) {
+            std::cout << "error boundary reached, stopping early" << std::endl;
+            forrest.pop_back();
+            //voting_power.push_back(*std::max_element(voting_power.begin(), voting_power.end()));
             break;
         }
-        double a = compute_voting_power(error);
-        
+
+        double a = compute_voting_power(error) * learning_rate;
         voting_power.push_back(a);
         
         change_weight(incorrect, weight, a);
         
-        // seen_thres[thres_info.feature] = thres_info.threshold;
         std::vector<size_t> bb = boot_strap(n), new_boot;
-        for(size_t idx : bb) new_boot.push_back(boot[idx]);
+        for(size_t idx : bb)
+            new_boot.push_back(boot[idx]);
         std::swap(new_boot, boot);
+        std::unordered_set<size_t> boot_uniq(boot.begin(), boot.end());
+        if(boot_uniq.size() < 5) {
+            std::cout << "Not enough diversity, terminate early" << std::endl;
+            break;
+        }
+        std::cout << "Finished stump " << i + 1 << " used feature " << feature_name[thres_info.feature] << " with threshold = " << thres_info.threshold << std::endl;
         i++;
     }
 }
 
-std::vector<bool> BinaryAdaBoosting::predict(std::vector<std::vector<double>> const & x) {
+std::vector<bool> BinaryAdaBoosting::predict(std::vector<std::vector<double>> const & x, std::unordered_map<std::string, size_t> & feature_name_to_idx) {
     std::vector<bool> y_hat;
     for(size_t i = 0; i < x[0].size(); i++) {
-        double tsum = 0, fsum = 0;
+        if(x[feature_name_to_idx["$"]][i] ||
+           (x[feature_name_to_idx["."]][i] && x[feature_name_to_idx["next is quote"]][i] && x[feature_name_to_idx["in quotes"]][i]) ||
+           (x[feature_name_to_idx[":"]][i] && x[feature_name_to_idx["next is quote"]][i]) ||
+           (x[feature_name_to_idx["open quote"]][i])) {
+            y_hat.push_back(false);
+            continue;
+        }
+        double sum = 0;
         for(size_t j = 0; j < forrest.size(); j++) {
-            if(forrest[j].predict(x[forrest[j].feature_idx][i])) {
-                tsum += voting_power[j];
-            } else {
-                fsum += voting_power[j];
+            if(forrest[j].predict(x[feature_name_to_idx[forrest[j].featureName]][i])) {
+                sum += voting_power[j];
             }
         }
         
-        double s = tsum + fsum;
-        y_hat.push_back(tsum / s >= fsum / s);
+        y_hat.push_back(sum >= 0);
     }
     return y_hat;
 }

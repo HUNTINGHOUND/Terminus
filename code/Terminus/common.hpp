@@ -10,6 +10,11 @@
 #include <unordered_set>
 #include <unordered_map>
 #include <random>
+#include <memory>
+#include <fstream>
+#include <sstream>
+#include <atomic>
+#include <thread>
 
 
 #endif /* common_h */
