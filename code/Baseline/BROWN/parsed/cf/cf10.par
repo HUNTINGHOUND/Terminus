@@ -1,0 +1,2244 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Franklin D. Lee)
+    (VP proved
+	(NP a man
+	    (PP of
+		(NP prompt action))))
+    (SBAR (WHADVP when)
+	  (S (NP (NP Mrs. Claire Shaefer)
+		 ,
+		 (VP accompanied
+		     (PP by
+			 (NP a friend)))
+		 ,)
+	     (VP visited
+		 (NP him)
+		 (PP in
+		     (NP (NP Bakersfield)
+			 ,
+			 (NP California)))
+		 ,
+		 (ADVP (NP several months)
+		       ago)
+		 (PP as
+		     (NP a prospective patient))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (NP  ``
+       Doctor
+       ''))
+( 
+ (S (NP Lee)
+    (VP asked
+	(S (NP her)
+	   (AUX to)
+	   (VP (VP lie
+		   (ADVP down)
+		   (PP on
+		       (NP a bed)))
+	       and
+	       (VP remove
+		   (NP her shoes))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      ,
+      (PP by
+	  (S (NP *) 
+	     (VP squeezing
+		 (NP her foot )
+		 (NP  three
+		      times))))
+      ,
+      (S (NP he)
+	 (VP came
+	     (ADVP up)
+	     --
+	     (ADVP presto)
+	     --
+	     (PP with
+		 (NP a different diagnosis)))
+	 (PP with
+	     (NP each squeeze))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP had
+	 --
+	 (S (NP he)
+	    (VP informed
+		(NP her)))
+	 --
+	 (NP (NP kidney trouble)
+	     ,
+	     (NP liver trouble)
+	     ,
+	     and
+	     (NP a severe female disorder))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP He)
+      (VP explained
+	  (SBAR that
+		(S (NP he)
+		   (AUX could)
+		   (VP diagnose
+		       (NP these ailments)
+		       (PP from
+			   (S  (NP *) 
+			       (VP squeezing
+				   (NP her foot)))))
+		   (SBAR because
+			 (S (NP all
+				(PP of
+				    (NP the nervous system)))
+			    (AUX was)
+			    (VP connected
+				(PP to
+				    (NP it)))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP He)
+    (VP knew
+	(NP (NP  (ADVP just)
+		 the thing
+		 (PP for
+		     (NP her)))
+	    --
+	    (NP a treatment
+		(PP from
+		    (NP his
+			``
+			cosmic light ozone generator
+			''
+			machine))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP he)
+	      (VP applied
+		  (NP (NP the applicator)
+		      (VP extending
+			  (PP from
+			      (NP (NP the machine)
+				  --
+				  (SBAR (WHNP which)
+					(S (NP T)
+					   (VP consisted
+					       (PP of
+						   (NP (NP seven
+							   (ADJP   differently
+								   colored)
+							   neon tubes)
+						       (VP superimposed
+							   (PP on
+							       (NP a rectangular base))))))))
+				  --))))
+		  (PP to
+		      (NP the
+			  (ADJP  supposedly
+				 diseased) portions
+			  (PP of
+			      (NP (NP Mrs. Shaefer)
+				  's body)))))))
+    ,
+    (S (NP Lee)
+       (VP kept
+	   (PRT up)
+	   (NP a steady stream
+	       (PP of
+		   (NP pseudo-scientific mumbo-jumbo))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Yes)
+	 ,
+	 (S (NP the ozone
+		(PP from
+		    (NP his machine)))
+	    (AUX would)
+	    (VP cure
+		(NP  (ADVP practically)
+		     everything))))
+      ,
+      (S (NP he)
+	 (VP assured
+	     (NP her))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Did)
+     (NP she)
+     (VP know
+	 ,
+	 (S (NP he)
+	    (VP asked))
+	 ,
+	 (SBAR (WHADVP why)
+	       (S (NP the colors
+		      (PP of
+			  (NP the tubes)))
+		  (VP were
+		      (ADJP important
+			    (PP to
+				(NP (NP people)
+				    's health))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The human body)
+    --
+    (S (NP he)
+       (VP pointed
+	   (PRT out)))
+    ,
+    (PP for
+	(NP example))
+    --
+    (VP required
+	(NP 33 units
+	    (PP of
+		(NP blue light)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP that reason))
+    ,
+    (S (NP he)
+       (VP informed
+	   (NP her)))
+    ,
+    (S (NP the Lord)
+       (VP made
+	   (NP the sky)
+	   (ADJP blue))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Continuing
+	      (ADVP glibly)
+	      (PP in
+		  (NP this vein))))
+      ,
+      (S  (NP he)
+	  (VP paused
+	      (S (NP *)
+		 (AUX to)
+		 (VP comfort
+		     (NP her))
+		 :
+		  ``
+		 (S  (NP *) 
+		     (AUX Do)
+		     (NEG n't)
+		     (NP you)
+		     (VP worry))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This machine)
+     (AUX will)
+     (VP cure
+	 (NP your (ADJP cancer-ridden) body)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP Cancer)
+   ''
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mrs. Shaefer)
+     (VP (ADVP practically)
+	 shrieked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX did)
+      (NEG n't)
+      (VP tell
+	  (NP me)
+	  (SBAR 0
+		(S (NP I)
+		   (VP had
+		       (NP cancer)))) ))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (VP have
+	  (NP it))
+      ,
+      (ADVP  all right))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (ADVP as
+	    long
+	    (PP as
+		(S (NP you)
+		   (AUX can)
+		   (VP have
+		       (NP treatment
+			   (PP from
+			       (NP my machine)))))))
+      (S (NP you)
+	 (VP have
+	     (NP (NP nothing)
+		 (S (NP *)
+		    (AUX to)
+		    (VP worry
+			(PP about
+			     (NP T) )))))))   
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X  Why)
+    ,
+    (S (NP I)
+       (ADVP once)
+       (VP used
+	   (NP this machine))
+       (S (NP *)
+	  (AUX to)
+	  (VP cure
+	      (NP a woman
+		  (PP with
+		      (NP 97 pounds
+			  (PP of
+			      (NP cancer))
+			  (PP in
+			      (NP her body)))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP urged
+	 (S (NP her)
+	    (AUX to)
+	    (VP buy
+		(NP one
+		    (PP of
+			(NP his machines)))
+		--
+		(PP for
+		    (NP $ 300))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP she)
+	      (VP said
+		  (SBAR that
+			(S (NP she)
+			   (AUX did)
+			   (NEG n't)
+			   (VP have
+			       (NP the money)))))))
+     ,
+     (S (NP he)
+	(VP said
+	    (SBAR that
+		  (S (NP she)
+		     (AUX could)
+		     (VP come
+			 (ADVP in)
+			 (PP for
+			     (NP treatment
+				 (PP with
+				     (NP his office model)))))
+		     (PP until
+			 (S (NP she)
+			    (VP was
+				(ADJP ready
+				      (S (NP *)
+					 (AUX to)
+					 (VP buy
+					     (NP one))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (ADVP then)
+     (VP sold
+	 (NP her)
+	 (NP (NP (NP  minerals)
+		 (S  (NP T) 
+		     (AUX to)
+		     (VP cure
+			 (NP her kidney ailment))))
+	     ,
+	     (NP a can
+		 (PP of
+		     (NP (NP sage)
+			 ``
+			 (S  (NP T) 
+			     (AUX to)
+			     (VP make
+				 (NP her)
+				 (VP look
+				     (PP like
+					 (NP a girl))
+				     (ADVP again))))
+			 '')))
+	     ,
+	     and
+	     (NP an application
+		 (PP of
+		     (NP (NP plain mud)
+			 (S  (NP T) 
+			     (AUX to)
+			     (VP take
+				 (NP her wrinkles)
+				 (PRT away)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Lee)
+     (VP renewed
+	 (NP (NP his pressure
+		 (PP on
+		     (NP Mrs. Shaefer)))
+	     (S (NP *)
+		(AUX to)
+		(VP buy
+		    (NP his machine)))))
+     (SBAR (WHADVP when)
+	   (S (NP she)
+	      (VP visited
+		  (NP him))
+	      (NP the next day))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP another treatment
+	    (PP with
+		(NP the machine))))
+    ,
+    (S (NP he)
+       (VP told
+	   (NP her)
+	   (SBAR that
+		 ``
+		 (S (NP her entire body)
+		    (AUX was)
+		    (VP shot
+			(ADVP through)
+			(PP with
+			    (NP (NP tumors) 
+				and
+				(NP cysts)))))
+		 ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (ADVP then)
+     (VP sold
+	 (NP her)
+	 (NP (NP some capsules)
+	     (SBAR (WHNP that)
+		   (S (NP he)
+		      (VP asserted
+			  (SBAR 0
+				(S (NP T)
+				   (AUX would)
+				   (VP take
+				       (NP care)
+				       (PP of
+					   (NP the tumors and
+					       cysts)))
+				   (PP until
+				       (S (NP she)
+					  (AUX could)
+					  (VP collect
+					      (NP the money
+						  (PP for
+						      (S (NP *) 
+							 (VP buying
+							     (NP his machine)))))))))) ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (SBAR (WHADVP When)
+	  (S (NP she)
+	     (VP submitted
+		 (PP to
+		     (NP his treatment
+			 (PP with
+			     (NP the capsules)))))))
+    ,
+    (S (NP Mrs. Shaefer)
+       (VP felt
+	   (NP intense pain))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Leaving
+	      (NP (NP Lee)
+		  's office)))
+      ,
+      (S (NP Mrs. Shaefer)
+	 (VP hurried
+	     (PP over
+		 (PP to
+		     (NP (NP her family physician)
+			 ,
+			 (SBAR (WHNP who)
+			       (S (NP T)
+				  (VP treated
+				      (NP her)
+				      (PP for
+					  (NP (VP burned)
+					      tissue)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP several days))
+    ,
+    (S (NP she)
+       (VP was
+	   (ADJP ill))
+       (PP as
+	   (NP a result
+	       (PP of
+		   (NP (NP Lee)
+		       's treatment))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mrs. Shaefer)
+     (ADVP never)
+     (VP got
+	 (PP around
+	     (PP to
+		 (S  (NP *) 
+		     (VP joining
+			 (NP (NP the thousand
+				 or
+				 so
+				 people)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (VP paid
+					  (NP Lee)
+					  (NP  some
+					       $ 30,000)
+					  (PP for
+					      (NP his ozone machines))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  For
+     (S (NP (NP (NP Mrs. Shaefer)
+		--
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (AUX had)
+			 (VP been
+			     (VP given
+				 (NP a clean bill
+				     (PP of
+					 (NP health)))
+				 (PP by
+				     (NP her own physician))))
+			 (PP at
+			     (NP the time
+				 (SBAR 0
+				       (S (NP she)
+					  (VP visited
+					      (NP Lee)))))))))
+	    --
+	    and
+	    (NP her friend))
+	(VP were
+	    (NP agents
+		(PP for
+		    (NP the California Pure Food
+			and
+			Drug Inspection Bureau))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP she)
+	 (VP felt
+	     (S (NP *)
+		(VP  (ADVP amply)
+		     rewarded
+		     (PP for
+			 (NP her suffering)))))
+	 (SBAR (WHADVP when)
+	       (S (NP (NP the evidence
+			  (PP of
+			      (NP (NP Lee)
+				  's quack shenanigans)))
+		      ,
+		      (VP gathered
+			  (PP by
+			      (NP the tape recorder
+				  (PP under
+				      (NP (NP her friend)
+					  's clothing)))))
+		      ,)
+		  (VP proved
+		      (ADJP adequate
+			    (PP in
+				(NP court))
+			    (PP for
+				(S  (NP *) 
+				    (VP convicting
+					(NP Franklin D. Lee))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The charge)
+     :
+     (NP violation
+	 (PP of
+	     (NP the California Medical Practices Act))
+	 (PP by
+	     (S   (S  (NP *) 
+		      (VP practicing
+			  (NP medicine)
+			  (PP without
+			      (NP a license))))
+		  and
+		  (S (NP *) 
+		     (VP selling
+			 (NP misbranded drugs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The sentence)
+     :
+     (NP (NP 360 days)
+	 ' confinement
+	 (PP in
+	     (NP the county jail))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP An isolated case
+     (PP of
+	 (NP quackery)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (PP By
+      (NP no means))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Rather)
+      ,
+      (S (NP it)
+	 (VP is
+	     (ADJP typical
+		   (PP of
+		       (NP (NP the thousands
+			       (PP of
+				   (NP quacks)))
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (VP use
+					(NP phony therapeutic
+					    devices)
+					(S (NP *)
+					   (AUX to)
+					   (VP fatten
+					       (NP themselves)
+					       (PP on
+						   (NP the miseries
+						       (PP of
+							   (NP hundreds
+							       (PP of
+								   (NP thousands
+								       (PP of
+									   (NP Americans))))))))
+					       (PP by
+						   (S   (S  (NP *)
+							    (VP robbing
+								(NP them
+								    (PP of
+									(NP millions
+									    (PP of
+										(NP dollars)))))))
+							and
+							(S  (NP *) 
+							    (VP luring
+								(NP them)
+								(PP away
+								    (PP from
+									(NP 
+									 legitimate
+									 ,
+									 ethical medical
+									 treatment
+									 (PP of
+									     (NP serious diseases))))))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The machine quack)
+     (VP makes
+	 (NP his Rube Goldberg devices)
+	 (PP out
+	     (PP of
+		 (NP odds and ends
+		     (PP of
+			 (NP (NP metals)
+			     ,
+			     (NP wires)
+			     ,
+			     and
+			     (NP radio parts))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP these gadgets)
+	    --
+	    (ADJP impressive
+		  (PP to
+		      (NP the
+			  gullible))
+		  (ADVP because
+			(PP of
+			    (NP  their flashing light bulbs
+				 ,
+				 ticks
+				 ,
+				 and
+				 buzzes))))))
+    --
+    (S (NP he)
+       (ADVP then)
+       (VP carries
+	   (PRT out)
+	   (NP a
+	       vicious medical
+	       con game))
+       ,
+       (S  (NP *) 
+	   (VP capitalizing
+	       (PP on
+		   (NP (NP people)
+		       's respect
+		       (PP for
+			   (NP the (ADJP electrical and atomic) wonders
+			       (PP of
+				   (NP our scientific age))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP milks
+	 (NP the
+	     latest scientific
+	     advances))
+     ,
+     (S  (NP *) 
+	 (VP translating
+	     (NP them)
+	     (PP into
+		 (NP his
+		     own special
+		     Buck Rogers vocabulary)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP huckster
+		(NP his fake machines)
+		(PP as
+		    (NP a cure-all
+			(PP for
+			    (NP everything
+				(PP (PP from
+					(NP hay fever))
+				    (PP to
+					(NP (NP sexual impotence) 
+					    and 
+					    (NP cancer))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The gadget faker)
+     (VP  operates
+	  or
+	  sells
+	  (NP his phony machines)
+	  (PP for
+	      (NP (NP $ 5
+		      (PP to
+			  (NP $ 10,000)))
+		  --
+		  (NP (NP anything)
+		      (SBAR 0
+			    (S (NP the traffic)
+			       (AUX will)
+			       (VP bear
+				   (NP T)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX may)
+     (VP call
+	 (NP himself)
+	 (NP (NP a anaprapath)
+	     ,
+	     (NP a physiotherapist)
+	     ,
+	     (NP an electrotherapist)
+	     ,
+	     (NP a naturopath)
+	     ,
+	     (NP a sanipractor)
+	     ,
+	     (NP a medical cultist)
+	     ,
+	     (NP a masseur)
+	     ,
+	     (NP a
+		 ``
+		 doctor
+		 '')
+	     --
+	     or
+	     (SBAR (WHNP what)
+		   (SINV (VP have
+			     (NP T) )
+			 (NP you))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (CONJP Not
+	     only)
+      (SINV (AUX do)
+	    (NP these quacks)
+	    (VP assume
+		(NP impressive titles)))
+      ,
+      but
+      (S  (NP *) 
+	  (VP represent
+	      (NP themselves)
+	      (PP as
+		  (S  (NP *) 
+		      (VP being
+			  (VP associated
+			      (PP with
+				  (NP (NP various (ADJP scientific or impressive)
+					  foundations)
+				      --
+				      (NP (NP foundations)
+					  (SBAR (WHNP which)
+						(S  (NP T) 
+						    (ADVP often)
+						    (VP have
+							(ADJP  little
+							       more
+							       (PP than
+								   (NP a letterhead existence))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+((S (NP The medical device pirate
+	(PP of
+	    (NP today)))
+    ,
+    (PP of
+	(NP course))
+    ,
+    (VP is
+	(NP a
+	    (ADJP  far
+		   more
+		   sophisticated) operator
+	    (PP than
+		(NP (NP his predecessor
+			(PP of
+			    (NP yesteryear)))
+		    --
+		    (NP the gallus-snapping hawker
+			(PP of
+			    (NP (NP snake oil)
+				and
+				(NP other patent
+				    medicines)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His plunder)
+    (VP is
+	(ADVP therefore)
+	(ADJP  far
+	       higher))
+    --
+    (S  (NP *)
+	(VP running
+	    (PP into
+		(NP hundreds
+		    (PP of
+			(NP millions)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP According
+	(PP to
+	    (NP (NP the Food
+		    And
+		    Drug Administration)
+		*LRB*
+		(NP FDA)
+		*RRB*)))
+    ,
+    (S (NP (NP  ``
+		Doctor
+		''
+		Ghadiali)
+	   ,
+	   (NP (NP Dr. Albert Abrams)
+	       and
+	       (NP his clique))
+	   ,
+	   and
+	   (NP Dr. Wilhelm Reich))
+       --
+       (S (NP *)
+	  (AUX to)
+	  (VP name
+	      (NP three notorious device quacks)))
+       --
+       (VP succeeded
+	   ,
+	   (ADVP respectively)
+	   ,
+	   (PP in
+	       (S  (NP *)
+		   (VP distributing
+		       (NP (NP (NP 10,000) 
+			       ,
+			       (NP 5000)
+			       ,
+			       and
+			       (NP 2000))
+			   fake health machines)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Authorities)
+     (VP believe
+	 (SBAR that
+	       (S (NP (NP many
+			  (PP of
+			      (NP the Doctor Frauds)))
+		      (VP using
+			  (NP these false health gadgets)))
+		  (VP are
+		      (ADVP still)
+		      (PP in
+			  (NP business)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Look
+	   (PP at
+	       (NP (NP the sums)
+		   (VP paid
+		       (PP by
+			   (NP two device quack victims
+			       (PP in
+				   (NP Cleveland)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Sarah Gross)
+	   ,
+	   (NP a dress shop proprietor)
+	   ,)
+       (VP paid
+	   (NP $ 1020)
+	   (PP to
+	       (NP a masseur))))
+    ,
+    and
+    (S (NP (NP Mr. A.)
+	   ,
+	   (NP a laborer)
+	   ,)
+       (VP paid
+	   (NP $ 4200)
+	   (PP to
+	       (NP a chiropractor))
+	   (PP for
+	       (NP treatment
+		   (PP with
+		       (NP (NP two fake health machines)
+			   --
+			   (NP (NP the
+				   ``
+				   radioclast
+				   '')
+			       and
+			       (NP the
+				   ``
+				   diagnometer
+				   '')))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Multiply
+	   (NP these figures)
+	   (PP by
+	       (NP the millions
+		   (PP of
+		       (NP (NP people)
+			   (VP known
+			       (S (NP *)
+				  (AUX to)
+				  (VP be
+				      (VP conned
+					  (PP by
+					      (NP medical pirates))))
+				  (ADVP annually)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP You)
+     (AUX will)
+     (VP come
+	 (PRT up)
+	 (PP with
+	     (NP a frightening total))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP That)
+    (VP 's
+	(SBAR (WHADVP why)
+	      (S (NP (NP the FDA)
+		     ,
+		     (NP (NP the American Medical Association)
+			 *LRB*
+			 (NP AMA)
+			 *RRB*)
+		     ,
+		     and
+		     (NP (NP the National Better Business Bureau)
+			 *LRB*
+			 (NP BBB)
+			 *RRB*))
+		 (AUX have)
+		 (VP estimated
+		     (S (NP the toll
+			    (PP of
+				(NP mechanical quackery)))
+			(AUX to)
+			(VP be
+			    (NP a substantial portion
+				(PP of
+				    (NP (NP (NP the
+						$ 610
+						million)
+					    or
+					    (ADVP so))
+					(VP paid
+					    (PP to
+						(NP medical charlatans))
+					    (ADVP annually))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Postmaster General)
+     (ADVP recently)
+     (VP reported
+	 (SBAR that
+	       (S (NP (NP mail order frauds)
+		      --
+		      (SBAR (WHPP among
+				  (WHNP which))
+			    (S (NP fake therapeutic devices)
+			       (VP figure
+				   (ADVP prominently))))
+		      --)
+		  (VP are
+		      (PP at
+			  (NP the
+			      highest
+			      level
+			      (PP in
+				  (NP history)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Similarly)
+      ,
+      (S (NP (NP (NP the American Cancer Society)
+		 *LRB*
+		 (NP ACS)
+		 *RRB*)
+	     ,
+	     (NP the Arthritis
+		 and
+		 Rheumatism Foundation)
+	     ,
+	     and
+	     (NP the BBB))
+	 (AUX have)
+	 (NP each)
+	 (VP stated
+	     (ADVP lately)
+	     (SBAR that
+		   (S (NP medical quackery)
+		      (VP is
+			  (PP at
+			      (NP a new high))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP the BBB)
+       (AUX has)
+       (VP reported
+	   (SBAR 0
+		 (S (NP it)
+                    (AUX was)
+                    (VP receiving
+			(NP (NP (NP four times
+				    (PP as
+					(ADJP many)))
+				inquiries
+				(PP about
+				    (NP quack devices)))
+			    and
+			    (NP (NP 10 times
+				    (PP as
+					(ADJP many)))
+				complaints)))
+		    (S  (NP *)
+			(VP compared
+			    (PP with
+				(ADVP (NP two years)
+				      ago)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Authorities)
+     (VP hesitate
+	 (S (NP *)
+	    (AUX to)
+	    (VP quote
+		(NP exact figures))))
+     ,
+     (ADVP however)
+     ,
+     (S  (NP *) 
+	 (VP believing
+	     (SBAR that
+		   (S (NP (NP any sum)
+			  (SBAR 0
+				(S (NP they)
+				   (VP come
+				       (PP up
+					   (PP with
+					       (NP T) ))))))
+		      (VP is
+			  (NP   (ADVP only)
+				a surface manifestation
+				--
+				(VP turned
+				    (ADVP up)
+				    (PP by
+					(NP their
+					    (ADJP   inevitably
+						    limited)
+					    policing)))
+				--
+				(PP of
+				    (NP the real loot
+					(PP of
+					    (NP the medical racketeer)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this sense))
+    ,
+    (S (NP authorities)
+       (VP believe
+	   (SBAR that
+		 (S (NP all estimates
+			(PP of
+			    (NP phony device quackery)))
+		    (VP are
+			(ADJP conservative)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The economic toll)
+	(SBAR (WHNP that)
+	      (S (NP the device quack)
+		 (VP extracts
+		     (NP T)))))
+    (VP is
+	(ADJP important))
+    ,
+    (PP of
+	(NP course)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP it
+	     (SBAR-1 *pseudo-attach*))
+	 (VP is
+	     (NP (NP our health)
+		 --
+		 (ADJP  more
+			precious
+			(PP than
+			    (NP all
+				the money
+				(PP in
+				    (NP the world)))))
+		 --))
+	 (SBAR-1 that
+		 (S (NP these modern witch doctors
+			(PP with
+			    (NP their fake therapeutic gadgets)))
+		    (AUX are)
+		    (VP gambling
+			(PRT away))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP By
+	    (S  (NP *) 
+		(VP preying
+		    (PP on
+			(NP the
+			    (ADJP sick))))))
+	,
+	(PP by
+	    (S (NP *)
+	       (VP playing
+		   (ADVP callously)
+		   (PP on
+		       (NP the hopes
+			   (PP of
+			       (NP the
+				   (ADJP desperate))))))))
+	,
+	(PP by
+	    (S (NP *) 
+	       (VP causing
+		   (S (NP the sufferer)
+		      (AUX to)
+		      (VP delay
+			  (NP proper medical
+			      care)))))))
+    ,
+    (S (NP these medical ghouls)
+       (VP create
+	   (NP (NP pain) 
+	       and 
+	       (NP misery))
+	   (PP by
+	       (NP their very activity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADJP Typically)
+      ,
+      (S (NP Sarah Gross
+	     and
+	     Mr. A
+	     both)
+	 (VP lost
+	     (NP more
+		 (PP than
+		     (NP their money))))
+	 (PP as
+	     (NP the result
+		 (PP of
+		     (NP their experiences
+			 (PP with
+			     (NP their Cleveland quacks))))))))
+   .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Sarah Gross)
+     (VP found
+	 (SBAR that
+	       (S (NP (NP the treatments)
+		      (VP given
+			  (NP her)
+			  (PP for
+			      (NP a nervous ailment))
+			  (PP by
+			      (NP the masseur))))
+		  (AUX were)
+		  (NEG not)
+		  (VP helping
+		      (NP her))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a result))
+    ,
+    (S (NP she)
+       (VP (VP consulted
+	       (NP medical authorities))
+	   and
+	   (VP learned
+	       (SBAR that
+		     (S (NP (NP the devices)
+			    (SBAR 0
+				  (S (NP her quack
+					 ``
+					 doctor
+					 '')
+				     (AUX was)
+				     (VP using
+					 (NP T) ))))
+			(VP were
+			    (ADJP phony))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (VP suffered
+	     (NP a nervous breakdown))
+	 and
+	 (VP had
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP institutionalized))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Mr. A.)
+	,
+	(NP her fellow townsman)
+	,)
+    (ADVP also)
+    (VP experienced
+	(NP a nervous breakdown)
+	(ADVP  (ADVP just)
+	       as
+	       soon
+	       (PP as
+		   (S (NP he)
+		      (VP discovered
+			  (SBAR that
+				(S (NP he)
+				   (AUX had)
+				   (VP been
+				       (VP bilked
+					   (PP of
+					       (NP his life savings))
+					   (PP by
+					       (NP (NP the limited practitioner)
+						   (SBAR (WHNP who)
+							 (S (NP T)
+							    (AUX had)
+							    (VP been
+								(VP treating
+								    (NP (NP (NP his wife)
+									    --
+									    (NP (NP a woman)
+										(VP suffering
+										    (PP from
+											(NP (NP an incurable disease)
+											    ,
+											    (NP multiple sclerosis)))))
+									    --)
+									and
+									(NP himself))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (S (NP  Mr. A)
+	(AUX has)
+	(VP recovered))
+     ,
+     but
+     (S (NP he)
+	(VP is
+	    ,
+	    (ADVP justifiably)
+	    ,
+	    (NP a bitter man))))  
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP That)
+	 (VP 's
+	     (NP (NP a lot
+		     (PP of
+			 (NP hard-earned money)))
+		 (S (NP *)
+		    (AUX to)
+		    (VP lose
+			(NP T) )))))
+      ''
+      ,
+      (S (NP he)
+	 (VP says)
+	 (NP today)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP Neither
+	 (NP me)
+	 nor
+	 (NP my wife))
+     (AUX were)
+     (VP helped
+	 (PP by
+	     (NP (NP that chiropractor)
+		 's treatments))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP there)
+	 (VP was
+	     (NP the case
+		 (PP of
+		     (NP (NP Tom Hepker)
+			 ,
+			 (NP a machinist)
+			 ,
+			 (SBAR (WHNP who)
+			       (S (NP T)
+				  (AUX was)
+				  (VP referred
+				      (PP by
+					  (NP a friend))
+				      (PP to
+					  (NP (NP a health machine quack)
+					      (SBAR (WHNP who)
+						    (S (NP T)
+						       (VP treated
+							   (NP him)
+							   (PP with
+							       (NP a
+								   so-called diagnostic
+								   machine))
+							   (PP  for
+								(SBAR (WHNP what)
+								      (S (NP Doctor Fraud)
+									 (VP said
+									     (SBAR 0
+										   (S (NP T)
+										      (VP was
+											  (NP (NP a system)
+											      (ADJP full
+												    (PP of
+													(NP (NP arsenic) 
+													    and 
+													    (NP strychnine))))))))))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP his pains)
+	   (VP got
+	       (ADJP worse))))
+    ,
+    (S (NP Tom)
+       (VP decided
+	   (S (NP *)
+	      (AUX to)
+	      (VP see
+		  (NP (NP a real doctor)
+		      ,
+		      (SBAR (WHPP from
+				  (WHNP whom))
+			    (S (NP he)
+			       (VP learned
+				   (SBAR 0
+					 (S (NP he)
+					    (AUX was)
+					    (VP suffering
+						(PP from
+						    (NP cancer
+							(PP of
+							    (NP the lung))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (X Yes)
+       ,
+       (S (NP Tom)
+	  (VP caught
+	      (NP it)
+	      (PP in
+		  (NP time
+		      (S (NP *)
+			 (AUX to)
+			 (VP stay
+			     (ADJP alive))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP he)
+	 (VP 's
+	     (NP (NP a welfare case)
+		 (ADVP now)
+		 --
+		 (NP a human wreck)
+		 --))
+	 (NP thanks
+	     (PP to
+		 (NP this modern witch doctor)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the machine quack)
+	 (AUX can)
+	 (VP cause
+	     (ADJP  far
+		    more
+		    (PP than
+			(NP  (ADVP just)
+			     suffering))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP such diseases
+	    (PP as
+		(NP (NP cancer)
+		    ,
+		    (NP tuberculosis)
+		    ,
+		    and
+		    (NP heart disease)))))
+    ,
+    (S (NP early diagnosis and treatment)
+       (VP are
+	   (ADJP  so
+		  vital
+		  (SBAR that
+			(S (NP the waste
+			       (PP of
+				   (NP time))
+			       (PP by
+				   (NP the patient))
+			       (PP with
+				   (NP (NP Doctor Fraud)
+				       's cure-all gadget)))
+			   (AUX can)
+			   (VP prove
+			       (ADJP fatal))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP (NP the diabetic patient)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP (VP relies
+			      (PP on
+				  (NP cure
+				      (PP by
+					  (NP the quack device)))))
+			  and
+			  (ADVP therefore)
+			  (VP cuts
+			      (PRT off)
+			      (NP his insulin intake))))))
+	 (AUX can)
+	 (VP be
+	     (VP committing
+		 (NP suicide)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP instance))
+    :
+    (S (PP In
+	   (NP Chicago))
+       ,
+       (ADVP (NP some time)
+	     ago)
+       ,
+       (S (NP (NP Mr. H.)
+	      ,
+	      (NP age 27)
+	      ,
+	      (NP a diabetic
+		  (PP  since
+		       (S (NP he)
+			  (VP was
+			      (NP six)))))
+	      ,)
+	  (VP stopped
+	      (S (NP *)
+		 (VP using
+		     (NP insulin))))
+	  (SBAR because
+		(S (NP he)
+		   (AUX had)
+		   (VP bought
+		       (NP (NP a
+			       ``
+			       magic spike
+			       '')
+			   --
+			   (NP (NP a glass tube
+				   (PP about
+				       (NP the size
+					   (PP of
+					       (NP a pencil)))))
+			       (VP filled
+				   (PP with
+				       (NP (NP barium chloride)
+					   (VP worth
+					       (NP a small fraction
+						   (PP of
+						       (NP a cent))))))))
+			   --
+			   (VP sold
+			       (PP by
+				   (NP the Vrilium Company
+				       (PP of
+					   (NP Chicago))))
+			       (PP for
+				   (NP $ 306))
+			       (PP as
+				   (NP a cure-all))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (S (S  (NP *) 
+	    (VP (VP Hang
+		    (NP this)
+		    (PP around
+			(NP your neck)))
+		or
+		(VP attach
+		    (NP it)
+		    (PP to
+			(NP other parts
+			    (PP of
+				(NP your anatomy)))))))
+	,
+	and
+	(S (NP its rays)
+	   (AUX will)
+	   (VP cure
+	       (NP (NP any disease)
+		   (SBAR 0
+			 (S (NP you)
+			    (VP have
+				(NP T) )))))))
+     ''
+     ,
+     (SINV (VP said)
+	   (NP the company)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mr. H.)
+     (VP is
+	 (ADJP dead))
+     (NP today)
+     (SBAR because
+	   (S (NP he)
+	      (VP followed
+		  (NP this advice)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Doris Hull)
+	,
+	(VP suffering
+	    (PP from
+		(NP tuberculosis)))
+	,)
+    (AUX was)
+    (VP taken
+	(PP by
+	    (NP her husband))
+	(S (NP *)
+	   (AUX to)
+	   (VP see
+	       (NP (NP Otis G. Carroll)
+		   ,
+		   (NP (NP a sanipractor)
+		       --
+		       (NP a
+			   licensed drugless
+			   healer)
+		       --))
+	       (PP in
+		   (NP Spokane))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Carroll)
+    (VP diagnosed
+	(NP Mrs. Hull)
+	(PP by
+	    (S (S  (NP *)
+		   (VP taking
+		       (NP a drop
+			   (PP of
+			       (NP blood)))
+		       (PP from
+			   (NP her ear))))
+	       and
+	       (S  (NP *) 
+		   (VP putting
+		       (NP it)
+		       (PP on
+			   (NP his
+			       ``
+			       radionic
+			       ''
+			       machine))))
+	       and
+	       (S  (NP *) 
+		   (VP twirling
+		       (NP some knobs))))))
+    *LRB*
+    (NP (NP fee) 
+	(NP $ 50))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP His prescription)
+     :
+     (NP (NP (ADJP hot and cold) compresses)
+	 (S  (NP T) 
+	     (AUX to)
+	     (VP increase
+		 (NP her absorption
+		     (PP of
+			 (NP water)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP she)
+	      (VP weighed
+		  (NP  only
+		       108 pounds))
+	      (SBAR (WHADVP when)
+		    (S (NP she)
+		       (VP visited
+			   (NP him))))))
+     ,
+     (S (NP Carroll)
+	(VP permitted
+	    (S (NP her)
+	       (AUX to)
+	       (VP go
+		   (PP on
+		       (NP (NP a 10-day fast)
+			   (SBAR (WHPP in
+				       (WHNP which))
+				 (S (NP she)
+				    (VP took
+					(NP nothing 
+					    (PP but
+						(NP water)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Inevitably)
+      ,
+      (S (NP Mrs. Hull)
+	 (VP died
+	     (PP of
+		 (NP (NP starvation) 
+		     and 
+		     (NP tuberculosis))))
+	 ,
+	 (S  (NP *) 
+	     (VP weighing
+		 (NP 60 pounds)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP her husband and child)
+	 (VP contracted
+	     (NP T.B.)
+	     (PP from
+		 (NP her)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+  (NP (NP Small wonder)
+      (SBAR 0
+	    (S (NP a Spokane jury)
+	       (VP awarded 
+		   (NP the husband )
+		   (NP  $ 35,823)
+		   (PP for
+		       (NP (NP his wife)
+			   's death))))) )
+  .
+  *RRB*) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP California))
+     ,
+     (ADVP (NP a few years)
+	   ago)
+     ,
+     (S (NP a ghoul
+	    (PP by
+		(NP the name
+		    (PP of
+			(NP H.F. Bell)))))
+	(VP sold
+	    (NP electric blankets)
+	    (PP as
+		(NP a cure
+		    (PP for
+			(NP cancer)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP did
+	 (NP this)
+	 (PP by
+	     (NP the charming practice
+		 (PP of
+		     (S (S  (NP *)
+			    (VP buying
+				(PRT up)
+				(NP (VP used)
+				    electric blankets)
+				(PP for
+				    (NP $ 5
+					(PP to
+					    (NP $ 10))))
+				(PP from
+				    (NP survivors
+					(PP of
+					    (NP (NP patients)
+						(SBAR (WHNP who)
+						      (S (NP T)
+							 (AUX had)
+							 (VP died)))))))))
+			,
+			(S  (NP *) 
+			    (VP reconditioning
+				(NP them)))
+			,
+			and
+			(S  (NP *) 
+			    (VP selling
+				(NP them)
+				(PP at
+				    (NP (NP $ 185)
+					(NP each)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP authorities)
+	     (VP convicted
+		 (NP him)
+		 (PP of
+		     (S  (NP *) 
+			 (VP practicing
+			     (NP medicine)
+			     (PP without
+				 (NP a license))))))))
+    *LRB*
+    (S (NP he)
+       (VP got
+	   (ADVP  off)
+	   (PP with
+	       (NP a (VP suspended) sentence
+		   (PP of
+		       (NP three years)))))
+       (ADVP because
+	     (PP of
+		 (NP his advanced age
+		     (PP of
+			 (NP 77))))))
+    *RRB*
+    ,
+    (S  (NP one
+	    (PP of
+		(NP his victims)))
+	(VP was
+	    (NEG not)
+	    (ADJP around
+		  (S (NP *)
+		     (AUX to)
+		     (VP testify))))
+	:
+	(S (NP He)
+	   (VP was
+	       (ADJP dead
+		     (PP of
+			 (NP cancer)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (SINV (PP By
+	    (NP no means))
+	(SINV (VP are)
+	      (NP these)
+	      (NP isolated cases)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP Unfortunately)
+      ''
+      ,
+      (SINV (VP says)
+	    (NP (NP Chief Postal Inspector
+		    (NP David H. Stephens))
+		,
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (AUX has)
+			 (VP prosecuted
+			     (NP many device quacks))))))
+      ,
+      ``
+      (S (NP (NP the ghouls)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP trade
+			  (PP on
+			      (NP the hopes
+				  (PP of
+				      (NP the
+					  (ADJP desperately
+						ill)))))))))
+	 (ADVP often)
+	 (AUX can)
+	 (NEG not)
+	 (VP be
+	     (VP  (ADVP successfully)
+		  prosecuted))
+	 (SBAR because
+	       (S (NP (NP the patients)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP are
+				   (NP the chief witnesses)))))
+		  (VP die
+		      (PP before
+			  (S (NP the case)
+			     (AUX is)
+			     (VP called
+				 (PRT up)
+				 (PP in
+				     (NP court))))))))))
+   ''
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  (NP Death)
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Have
+	   (NP no doubt
+	       (PP about
+		   (NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP That)
+     (VP 's
+	 (SBAR (WHADVP where)
+	       (S (NP device quackery)
+		  (AUX can)
+		  (VP lead)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The evidence)
+    (VP shows
+	(SBAR that
+	      (S (NP (NP fake therapeutic
+			 machines)
+		     ,
+		     (VP substituted
+			 (PP for
+			     (NP valid medical
+				 cures)))
+		     ,)
+		 (AUX have)
+		 (VP hastened
+		     (NP the deaths
+			 (PP of
+			     (NP thousands))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP Who)
+	(SQ  (NP T)
+	     (VP are
+		 (NP the victims
+		     (PP of
+			 (NP the device quacks))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Authorities)
+     (VP say
+	 (SBAR that
+	       (S (NP oldsters)
+		  (VP are
+		      (NP a prime target))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (VP Says)
+	(NP (NP Wallace F. Jannsen)
+	    ,
+	    (NP director
+		(PP of
+		    (NP (NP the FDA)
+			's Division
+			(PP of
+			    (NP Public Information))))))
+	:
+	``
+	(S (NP Quacks)
+	   (VP are
+	       (ADJP apt
+		     (S (NP *)
+			(AUX to)
+			(VP direct
+			    (NP their appeal)
+			    (PP (PP (ADVP directly)
+				    to
+				    (NP older
+					people))
+				,
+				or
+				(PP to
+				    (NP sufferers
+					(PP from
+					    (NP (NP chronic ailments)
+						(ADJP such
+						      (PP as
+							  (NP (NP arthritis)
+							      ,
+							      (NP rheumatism)
+							      ,
+							      (NP diabetes)
+							      ,
+							      and
+							      (NP cancer)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+((S (NP (NP People)
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX have)
+		 (NEG not)
+		 (VP been
+		     (ADJP able
+			   (S (NP *)
+			      (AUX to)
+			      (VP get
+				  (NP relief)
+				  (PP from
+				      (NP regular medical
+					  doctors)))))))))
+    (VP are
+	(ADJP  especially
+	       apt
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP taken
+			  (PRT in)
+			  (PP by
+			      (NP quacks))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The victims
+	 (PP of
+	     (NP the quacks)))
+     (VP are
+	 (ADVP frequently)
+	 (NP (NP poor people
+		 ,
+		 (PP like
+		     (NP Mr. A.))
+		 ,)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP scrape
+			  (PRT up)
+			  (NP (NP their life savings)
+			      (S (NP *)
+				 (AUX to)
+				 (VP offer
+				     (NP T) 
+				     (PP as
+					 (NP a sacrifice))
+				     (PP to
+					 (NP (NP Doctor Fraud)
+					     's avarice)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (VP are
+	 (ADVP often)
+	 (ADJP ignorant
+	       (ADVP as
+		     well
+		     (PP as
+			 (ADJP underprivileged))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

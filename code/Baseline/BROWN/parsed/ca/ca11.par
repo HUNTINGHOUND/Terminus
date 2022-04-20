@@ -1,0 +1,2056 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP (NP (NP Miami)
+	 ,
+	 (NP Fla.))
+     ,
+     (NP March 17))
+ --)
+(   
+ (S (NP The Orioles)
+    (NP tonight)
+    (VP retained
+	(NP the distinction
+	    (PP of
+		(S (NP *) 
+		   (VP being
+		       (NP the
+			   only winless
+			   team
+			   (PP among
+			       (NP the eighteen  Major-League
+				   clubs))))))))
+    (SBAR  as
+	   (S (NP they)
+	      (VP dropped
+		  (NP their
+		      sixth straight
+		      spring exhibition decision))
+	      ,
+	      (X (NP this one)
+		 (PP to
+		     (NP the Kansas City Athletics))
+		 (PP by
+		     (NP a score
+			 (PP of
+			     (NP 5
+				 (PP to
+				     (NP 3))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Indications)
+   (ADVP as
+	 late
+	 (PP as
+	     (NP the top
+		 (PP of
+		     (NP the
+			 sixth)))))
+   (VP were
+       (SBAR that
+	     (S (NP the Birds)
+		(VP were
+		    (S (NP *)
+		       (AUX to)
+		       (VP end
+			   (NP their victory draught))))
+		(SBAR  as
+		       (S (NP they)
+			  (VP coasted
+			      (ADVP along)
+			      (PP with
+				  (NP a 3-to-o advantage)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP Siebern)
+  (VP hits
+      (NP homer))))
+((S  
+  (PP Over
+      (NP the
+	  first
+	  five frames))
+  ,
+  (S  
+   (NP (NP Jack Fisher)
+       ,
+       (NP (NP the big righthander)
+	   (SBAR  
+	    (WHNP who)
+	    (S (NP T)
+	       (VP figures
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (PP in
+			      (NP the middle
+				  (PP of
+				      (NP Oriole plans
+					  (PP for
+					      (NP a drive
+						  (PP on
+						      (NP the 1961 American League pennant))))))))))))))
+       ,)
+   (VP held
+       (NP the
+	   A 's)
+       (ADJP scoreless))
+   (SBAR while
+	 (S (NP *) 
+	    (VP yielding
+		(NP three scattered hits))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S  (ADVP Then)
+	(S (NP (NP Dick Hyde)
+	       ,
+	       (NP submarine-ball hurler)
+	       ,)
+	   (VP entered
+	       (NP the contest))))
+    and
+    (S (NP  (ADVP only)
+	    five batters)
+       (VP needed
+	   (S (NP *)
+	      (AUX to)
+	      (VP face
+		  (NP him)))
+	   (PP before
+	       (S (NP there)
+		  (VP existed
+		      (NP a 3-to-3 deadlock)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP A two-run homer
+	     (PP by
+		 (NP Norm Siebern)))
+	 and
+	 (NP a solo blast
+	     (PP by
+		 (NP Bill Tuttle))))
+     (VP tied
+	 (NP the game)))
+    ,
+    and
+    (S (NP single runs
+	   (PP in
+	       (NP the
+		   eighth and ninth)))
+       (VP gave
+	   (NP the Athletics)
+	   (NP their fifth victory
+	       (PP in
+		   (NP eight starts))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP House)
+  (VP throws
+      (ADVP wild))))
+((S  
+   (PP With
+       (NP (NP one)
+	   (ADJP down)))
+   (PP in
+       (NP the
+	   eighth))
+   ,
+   (S (NP Marv Throneberry)
+      (VP (VP drew
+	      (NP a walk))
+	  and
+	  (VP stole
+	      (NP second)))
+      (SBAR  
+       as
+       (S (NP Hyde)
+	  (VP fanned
+	      (NP Tuttle))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   (NP Catcher Frank House)
+   's throw)
+  (PP in
+      (NP an effort
+	  (S (NP *)
+	     (AUX to)
+	     (VP nab
+		 (NP Throneberry)))))
+  (VP was
+      (X (ADJP wide)
+	 and
+	 (PP in
+	     (NP the dirt)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (S  
+	  (NP (NP Heywood Sullivan)
+	      ,
+	      (NP Kansas City catcher)
+	      ,)
+	  (VP singled
+	      (PP up
+		  (NP the middle))))
+	 and
+	 (S (NP Throneberry)
+	    (VP was
+		(ADVP across)
+		(PP with
+		    (SBAR (WHNP what)
+			  (S (NP T)  
+			     (VP proved
+				 (S (NP *)
+				    (AUX to)
+				    (VP be
+					(NP the winning run)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Rookie southpaw)
+	(NP George Stepanovich))
+    (VP (VP relieved
+	    (NP Hyde)
+	    (PP at
+		(NP the start
+		    (PP of
+			(NP the
+			    ninth)))))
+	and
+	(VP gave
+	 
+	    (PRT up)
+	    (NP (NP the
+		    A)
+		's
+		fifth tally)
+	    (PP on
+		(NP (NP a walk
+			(PP to
+			    (NP (NP second baseman)
+				(NP Dick Howser))))
+		    ,
+		    (NP a wild pitch)
+		    ,
+		    and
+		    (NP 
+		     (NP Frank Cipriani)
+		     's single
+		     (PP under
+			 (NP 
+			  (NP Shortstop Jerry Adair)
+			  's glove))
+		     (PP into
+			 (NP center))))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Orioles)
+   (ADVP once
+	 again)
+   (VP performed
+       (PP at
+	   (NP the plate))
+       (PP in
+	   (NP powderpuff fashion)))
+   ,
+   (S (NP *) 
+      (VP gathering
+	  (NP (ADVP only)
+	      seven blows)
+	  (PP off
+	      (NP the offerings
+		  (PP of
+		      (NP three Kansas City pitchers)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Three)
+   (VP were
+       (NP doubles))
+   ,
+   (S (S (NP Brooks Robinson)
+	 (VP getting
+	     (NP a pair)))
+      (X and
+	 (NP Marv Breeding)
+	 (NP one))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (X (NP Hartman)
+      (ADJP impressive)))
+(  
+ (S  
+  (NP (NP Bill Kunkel)
+      ,
+      (NP Bob Hartman)
+      and
+      (NP Ed Keegan))
+  (VP did
+      (NP the mound chores
+	  (PP for
+	      (NP (NP the club)
+		  (ADVP down
+			(PP from
+			    (NP West Palm Beach))
+			(S (NP *)
+			   (AUX to)
+			   (VP play
+			       (NP the game)
+			       (PP before
+				   (NP 767
+				       paying
+				       customers)))
+			   (PP in
+			       (NP Miami Stadium)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Birds)
+   (VP got
+       (NP (NP five hits)
+	   and
+	   (NP all three
+	       (PP of
+		   (NP their runs))))
+       (PP off
+	   (NP Kunkel)))
+   (PP before
+       (S (NP Hartman)
+	  (VP took
+	      (PRT over))
+	  (PP in
+	      (NP the top
+		  (PP of
+		      (NP the
+			  fourth)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Hartman)
+      ,
+      (VP purchased
+	  (PP by
+	      (NP the
+		  A 's))
+	  (PP from
+	      (NP the Milwaukee Braves))
+	  (NP last fall))
+      ,)
+  (VP (VP allowed
+	  (NP no hits)
+	  (PP in
+	      (NP his
+		  scoreless (ADJP three-inning)
+		  appearance)))
+      ,
+      and
+      (VP merited
+	  (NP the triumph))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Keegan)
+      ,
+      (NP a (ADJP 6-foot-3-inch) 158-pounder)
+      ,)
+  (VP gave
+      (PRT up)
+      (NP 
+       (NP the Orioles)
+       '
+       last
+       two safeties)
+      (PP over
+	  (NP the
+	      final
+	      three frames)))
+  ,
+  (S  (NP *) 
+      (VP escaping
+	  (NP a load
+	      (PP of
+		  (NP trouble))))
+      (PP in
+	  (NP (NP the
+		  ninth)
+	      (SBAR 
+	       (WHADVP when)
+	       (S (NP the Birds)
+		  (VP  threatened
+		       but
+		       failed
+		       (S (NP *)
+			  (AUX to)
+			  (VP tally)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP Robinson)
+  (VP doubles
+      (ADVP again))))
+((S  
+   (PP In
+       (NP the
+	   ninth))
+   ,
+   (S (NP Robinson)
+      (VP led
+	  (PRT off)
+	  (PP with
+	      (NP (NP his second double
+		      (PP of
+			  (NP the night)))
+		  ,
+		  (NP (NP a blast)
+		      (PP off
+			  (NP the
+			      fence))
+		      (ADJP (NP 375
+				feet)
+			    deep
+			    (PP into
+				(NP left)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Whitey Herzog)
+      ,
+      (VP performing
+	  (PP in
+	      (NP right))
+	  (SBAR  as
+		 (S (NP the Orioles)
+		    (VP fielded
+			(NP  (ADVP possibly)
+			     their
+			     strongest
+			     team
+			     (PP of
+				 (NP the spring)))))))
+      ,)
+  (VP worked
+      (NP Keegan)
+      (PP for
+	  (NP a base
+	      (PP on
+		  (NP balls))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP three consecutive pinch-hitters)
+	 (VP failed
+	     (S (NP *)
+		(AUX to)
+		(VP produce)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Pete Ward)
+    (AUX was)
+    (VP (VP sent
+	    (PRT in)
+	    (PP for
+		(NP House)))
+	and
+	(VP   ,
+	      (PP after
+		  (S (NP *) 
+		     (VP failing
+			 (PP in
+			     (NP a bunt attempt)))))
+	      ,
+	      popped
+	      (PP to
+		  (NP Howser))
+	      (PP on
+		  (NP (NP the grass)
+		      (ADVP back
+			    (PP of
+				(NP short))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (NP John Powell)
+	 ,
+	 (VP batting
+	     (PP for
+		 (NP Adair)))
+	 ,)
+     (VP fanned)
+     (PP after
+	 (S (NP *) 
+	    (VP fouling
+		(PP off
+		    (NP two 2-and-2 pitches))))))
+    ,
+    and
+    (S  
+     (NP (NP Buddy Barker)
+	 ,
+	 (ADVP up
+	       (PP for
+		   (NP Stepanovich)))
+	 ,)
+     (VP bounced
+	 (ADVP out)
+	 (ADVP sharply)
+	 (PP to
+	     (NP Jerry Lumpe
+		 (PP at
+		     (NP second))))
+	 (S (NP *)
+	    (AUX to)
+	    (VP end
+		(NP the 2-hour-and-27-minute contest))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Orioles)
+   (VP got
+       (NP a run)
+       (PP in
+	   (NP the first inning)))
+   (SBAR 
+    (WHADVP when)
+    (S (NP (NP (NP Breeding)
+	       ,
+	       (PP along
+		   (PP with
+		       (NP Robinson)))
+	       ,)
+	   (NP (NP the two
+		   Birds)
+	       (SBAR  
+		(WHNP who)
+		(S (NP T)
+		   (VP got
+		       (NP a pair
+			   (PP of
+			       (NP hits)))))))
+	   ,)
+       (VP (VP doubled
+	       (PP to
+		   (NP right center)))
+	   ,
+	   (VP moved
+	       (PP to
+		   (NP third))
+	       (PP on
+		   (NP 
+		    (NP Russ Snyder)
+		    's single
+		    (PP to
+			(NP right)))))
+	   and
+	   (VP crossed
+	       (PP on
+		   (NP 
+		    (NP Kunkel)
+		    's wild pitch
+		    (PP into
+			(NP the dirt))))
+	       (PP in
+		   (NP front
+		       (PP of
+			   (NP the plate)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Flock)
+   (VP added
+       (NP a pair
+	   (PP of
+	       (NP tallies)))
+       (PP in
+	   (NP the
+	       third))
+       (PP on
+	   (NP three straight hits)))
+   (PP after
+       (S (NP two)
+	  (VP were
+	      (ADJP out)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jackie Brandt)
+   (VP singled
+       (ADVP deep
+	     (PP into
+		 (NP the hole
+		     (PP at
+			 (NP short)))))
+       (S (NP *)
+	  (AUX to)
+	  (VP start
+	      (NP the rally)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP Lumpe)
+  (VP errs)))
+((S (S (NP Jim Gentile)
+       (VP (VP bounced
+	       (NP a hard shot)
+	       (PP off
+		   (NP 
+		    (NP Kunkel)
+		    's glove)))
+	   and
+	   (VP beat
+	       (NP it)
+	       (PRT out)
+	       (PP for
+		   (NP a single)))))
+    ,
+    and
+    (S  
+     (SBAR 
+      (WHADVP when)
+      (S (NP Lumpe)
+	 (VP (VP grabbed
+		 (NP the ball))
+	     and
+	     (VP threw
+		 (NP it)
+		 (PP over
+		     (NP (NP 
+			  (NP  first baseman
+			       (NP Throneberry))
+			  's head)))))))
+     (S (S (NP Brandt)
+	   (VP took
+	       (NP third))
+	   (PP-1 *pseudo-attach*))
+	and
+	(S  (NP Gentile)
+	    (VP *
+		(NP second)) 
+	    (PP-1 on
+		  (NP the error))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP Robinson)
+	 (VP slammed
+	     (NP a long double)
+	     (PP to
+		 (NP left center)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP score
+		(NP both
+		    runners)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP Robinson)
+	 (VP tried
+	     (S (NP *)
+		(AUX to)
+		(VP stretch
+		    (NP his blow)
+		    (PP into
+			(NP a triple)))))))
+     ,
+     (S (NP he)
+	(AUX was)
+	(VP cut
+	     
+	    (ADVP down)
+	    (PP in
+		(NP (NP a close play
+			(PP at
+			    (NP third)))
+		    ,
+		    (NP Tuttle
+			(PP to
+			    (NP Andy Carey))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The (ADJP detailed) rundown
+	  (PP on
+	      (NP the Kansas City scoring
+		  (PP in
+		      (NP the
+			  sixth)))))
+      (VP went
+	  (PP like
+	      (NP this))))
+     :
+     (S (NP Lumpe)
+	(VP (VP worked
+		(NP a walk)
+		(PP as
+		    (NP (NP the first batter)
+			(S  (NP T) 
+			    (AUX to)
+			    (VP face
+				(NP Hyde))))))
+	    and
+	    (VP romped
+		(ADVP around)
+		(SBAR  as
+		       (S (NP Siebern)
+			  (VP blasted
+			      (NP 
+			       (NP Hyde)
+			       's next toss)
+			      (PP (NP 415 feet)
+				  over
+				  (NP the scoreboard
+				      (PP in
+					  (NP right center)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP Carey)
+  (VP Singles)))
+((S (NP Carey)
+    (VP singled
+	(PP on
+	    (NP (NP a (ADJP slow-bouncing) ball
+		    (PP to
+			(NP short)))
+		(SBAR (WHNP which)
+		      (S
+		       (NP Robinson)
+		       (VP (VP cut
+			       (NP T)
+			       (ADVP across)
+			       (S (NP *)
+				  (AUX to)
+				  (VP field)))
+			   and
+			   (VP threw
+			       (ADVP wide)
+			       (PP to
+				   (NP first))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP ruled
+	     
+       (NP (NP a difficult chance)
+	   and
+	   (NP a hit))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP Throneberry)
+	 (VP rapped
+	     (PP into
+		 (NP a
+		     fast double
+		     play)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X   
+   (NP Breeding
+       (PP to
+	   (NP Adair
+	       (PP to
+		   (NP Gentile)))))
+   ,
+   (S (NP *) 
+      (VP setting
+	  (PRT up)
+	  (NP 
+	   (NP Tuttle)
+	   's 390-foot homer
+	   (PP over
+	       (NP the wall
+		   (PP in
+		       (NP left center))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP the Orioles)
+	     (VP are
+		 (S (NP *)
+		    (AUX to)
+		    (VP break
+			(NP their losing streak))))
+	     (PP within
+		 (NP the
+		     next
+		     two days))))
+   ,
+   (S (NP it)
+      (AUX will)
+      (VP have
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (PP at
+		     (NP the expense
+			 (PP of
+			     (NP (NP the American League champion
+				     (NP New York Yankees))
+				 ,
+				 (SBAR 
+				  (WHNP who)
+				  (S (NP T)
+				     (VP come
+					 (PP in
+					     (ADVP here))
+					 (NP tomorrow)
+					 (PP for
+					     (NP (NP a night game)
+						 and
+						 (NP a single test
+						     (NP Sunday afternoon))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP   
+  (NP (NP Miami)
+      ,
+      (NP Fla.))
+  ,
+  (NP March 17))
+ --)
+((S (NP The flavor
+	(PP of
+	    (NP 
+	     (NP Baltimore)
+	     's Florida Grapefruit League news)))
+    (VP ripened
+	(ADVP considerably))
+    (ADVP  late
+	   (NP today))
+    (SBAR 
+     (WHADVP when)
+     (S (NP the Orioles)
+	(AUX were)
+	(VP advised
+	    
+	    (SBAR that
+		  (S (NP Ron Hansen)
+		     (X (X (AUX has)
+			   (VP fulfilled
+			       (NP his obligations)
+			       (PP under
+				   (NP 
+				    (NP the Army)
+				    's military training program))))
+			and
+			(VP is
+			    (ADJP ready
+				  (PP for
+				      (NP belated spring training)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Hansen)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP (VP slugged
+		  (NP the 1960 Oriole high
+		      (PP of
+			  (NP 22 homers))))
+	      and
+	      (VP drove
+		  (PRT in)
+		  (NP 86 runs)
+		  (PP on
+		      (NP a freshman average))))))
+      ,)
+  (VP completes
+      (NP 
+       (NP the Birds)
+       ' spring squad)
+      (PP at
+	  (NP 49 players))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The
+	  big
+	  ,
+	  (ADJP 22-year-old) shortstop)
+      ,
+      (NP the 1960 American league
+	  ``
+	  rookie-of-the-year
+	  '')
+      ,)
+  (VP (VP flew
+	  (ADVP here)
+	  (ADVP  late
+		 (NP this afternoon))
+	  (PP from
+	      (NP Baltimore)))
+      ,
+      (VP signed
+	  (NP his contract
+	      (PP for
+		  (NP an (VP estimated) $
+		      15,000))))
+      and
+      (VP was
+	  (NP a spectator
+	      (PP at
+		  (NP (NP 
+		       (NP tonight)
+		       's 5-to-3 loss
+		       (PP to
+			   (NP Kansas City)))
+		      --
+		      (NP (NP the
+			      winless
+			      Birds)
+			  ' sixth setback
+			  (PP in
+			      (NP a row)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((ADJP (NP 15 pounds)
+      lighter))
+( 
+ (S  
+  (NP The
+      6-foot 3-inch
+      Hansen)
+  (VP checked
+      (PRT in)
+      (ADJP close
+	    (PP to
+		(NP (NP 200 pounds)
+		    ,
+		    (ADJP (NP 15 pounds)
+			  lighter
+			  (PP than
+			      (NP (NP his reporting weight)
+				  (NP last spring)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP hopes
+	(S (NP *)
+	   (AUX to)
+	   (VP melt
+	       (PRT off)
+	       (NP an
+		   additional
+		   eight pounds))))
+    (PP before
+	(S (NP the Flock)
+	   (VP breaks
+	       (NP camp))
+	   (ADVP (NP  three
+		      weeks)
+		 hence))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR
+       (WHADVP When)
+       (S (NP he)
+	  (AUX was)
+	  (VP inducted
+		 
+	      (PP into
+		  (NP the Army))
+	      (PP at
+		  (NP (NP Fort Knox)
+		      ,
+		      (NP Ky.)
+		      ,)))))
+      (S (NP
+	  (NP Hansen)
+	  's weight)
+	 (AUX had)
+	 (VP dropped
+	     (PP to
+		 (NP (NP 180)
+		     --
+		     (S  ``
+			 (ADJP  too
+				light
+				(PP for
+				    (S (NP me)
+				       (AUX to)
+				       (VP be
+					   (PP at
+					       (NP my
+						   (ADJP best)))))))
+			 ''
+			 (S (NP he)
+			    (VP said))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP feel
+	     (ADJP good)
+	     (ADVP physically)))
+      ''
+      ,
+      (S (NP Hansen)
+	 (VP added))
+      ,
+      ``
+      but
+      (S (NP I)
+	 (VP think
+	     (SBAR 0
+		   (S (NP I)
+		      (AUX 'll)
+		      (VP move
+			  (ADVP better))
+		      (S (NP *) 
+			 (VP carrying
+			     (NP (ADJP (ADVP  a little) less)
+				 weight
+				 (PP than
+				     (S (NP I)
+					(AUX 'm)
+					(VP carrying)
+					(ADVP now))))))))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+((S   (NP *)  
+      (VP Seeks
+	  (NP  ``
+	       (ADJP improved)
+	       fielding
+	       ''))))
+(  
+ (S (NP (NP The
+	    rangy
+	    ,
+	    (NP (NP Albany)
+		*LRB*
+		(NP Cal.)
+		*RRB*)
+	    native)
+	,
+	(NP (NP a surprise
+		slugging
+		sensation
+		(PP for
+		    (NP the Flock))
+		(NP last year))
+	    (PP  as
+		 well
+		 as
+		 (NP a defensive whiz)))
+	,)
+    (VP set
+	(NP  ``
+	     (ADJP improved)
+	     fielding
+	     '')
+	(PP as
+	    (NP his 1961 goal))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP think
+	     (SBAR 0
+		   (S (NP I)
+		      (AUX can)
+		      (VP do
+			  (NP a
+			      better
+			      job)
+			  (PP with
+			      (NP the glove))))))
+	 ,
+	 (ADVP now
+	       (SBAR that
+		     (S (NP I)
+			(VP know
+			    (NP the hitters
+				(PP around
+				    (NP the league)))
+			    (ADVP  (ADVP  a
+					  little)
+				   better))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hansen)
+   (AUX will)
+   (VP engage
+       (PP in
+	   (NP his first workout
+	       (PP at
+		   (NP Miami Stadium)))))
+   (ADVP prior
+	 (PP to
+	     (NP the opening 
+		 (NP tomorrow night)
+		 (PP of
+		     (NP a (ADJP two-game) weekend series
+			 (PP with
+			     (NP the New York Yankees))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Skinny Brown)
+	  and
+	  (NP Hoyt Wilhelm))
+      ,
+      (NP 
+       (NP the Flock)
+       's veteran knuckleball specialists
+       ,))
+  (AUX are)
+  (VP slated
+	 
+      (S (NP *)
+	 (AUX to)
+	 (VP oppose
+	     (NP the American League champions))
+	 (PP in
+	     (NP tomorrow)
+	     's
+	     8 P.M. contest))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP (NP Duren)
+	,
+	(NP Sheldon))
+    (PP on
+	(NP hill)))
+ )
+((S  
+  (NP (NP Ryne Duren)
+      and
+      (NP (NP Roland Sheldon)
+	  ,
+	  (NP (NP a rookie righthander)
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP posted
+		      (NP a 15-1 record last year)
+		      (PP for
+			  (NP 
+			   (NP the Yanks)
+			   ' (NP (NP Auburn)
+				 *LRB*
+				 (NP N.Y.)
+				 *RRB*)
+			   farm club
+			   (PP of
+			       (NP the Class-D New York-Pennsylvania League))))))))
+	  ,))
+  (VP are
+      (NP the
+	  probable rival
+	  pitchers)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (ADJP Twenty-one-year-old)
+	  Milt Pappas)
+      and
+      (NP (NP Jerry Walker)
+	  ,
+	  (NP 22)
+	  ,))
+  (AUX are)
+  (VP scheduled
+	 
+      (S (NP *)
+	 (AUX to)
+	 (VP share
+	     (NP the Oriole mound chores)
+	     (PP against
+		 (NP 
+		  (NP the Bombers)
+		  ' Art Ditmar)))
+	 (PP in
+	     (NP 
+	      (NP Sunday)
+	      's 2
+	      P.M. encounter)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Ralph Houk)
+	 ,
+	 (NP successor
+	     (PP to
+		 (NP Casey Stengel))
+	     (PP at
+		 (NP the Yankee helm)))
+	 ,)
+     (VP plans
+	 (S (NP *)
+	    (AUX to)
+	    (VP bring
+		(NP (NP the
+			entire
+			New York squad)
+		    (VP-2 *pseudo-attach*))
+		(ADVP here)
+		(PP from
+		    (NP St. Petersburg))
+		,
+		(VP-2 including
+		    (NP Joe Dimaggio))))))
+    and
+    (S (NP large crowds)
+       (AUX are)
+       (VP anticipated
+	    
+	   (PP for
+	       (NP both weekend games)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The
+	  (ADJP famed)
+	  Yankee Clipper)
+      ,
+      (ADJP  (ADVP now)
+	     retired)
+      ,)
+  (AUX has)
+  (VP been
+      (VP assisting
+	  (PP as
+	      (NP a batting coach)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (X (NP Squad
+	  cut)
+      (ADJP near)))
+(  
+ (S  (NP Pitcher Steve Barber)
+     (VP joined
+	 (NP the
+	     (NP club)))
+     (ADVP (NP  one
+		week)
+	   ago)
+     (PP after
+	 (S (NP *) 
+	    (VP completing
+		(NP his hitch
+		    (PP under
+			(NP (NP 
+			     (NP the Army)
+			     's accelerated wintertime military course)
+			    ,
+			    (PP (ADVP also)
+				at
+				(NP (NP Fort Knox)
+				    ,
+				    (NP Ky
+					.))))))))))
+ .)
+(  
+ (S (NP The (ADJP 22-year-old) southpaw)
+    (VP enlisted
+	(ADVP earlier
+	      (NP 
+	       last
+	       fall)
+	      (PP than
+		  (SINV  
+		   (VP did)
+		   (NP Hansen))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Baltimore)
+    's bulky spring-training contingent)
+   (ADVP now)
+   (ADVP gradually)
+   (AUX will)
+   (VP be
+       (VP reduced
+	   ))
+   (SBAR  as
+	  (S (NP (NP Manager Paul Richards)
+		 and
+		 (NP his coaches))
+	     (VP seek
+		 (S (NP *)
+		    (AUX to)
+		    (VP trim
+			(NP it)
+			(ADVP down)
+			(PP to
+			    (NP a
+				(ADJP  more
+				       streamlined and workable) unit))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S  (NP *) 
+	  (VP Take
+	      (NP a ride)
+	      (PP on
+		  (NP this one))))
+      ''
+      ,
+      (S (NP Brooks Robinson)
+	 (VP greeted
+	     (NP Hansen))
+	 (SBAR  as
+		(S (NP the Bird third sacker)
+		   (VP (VP grabbed
+			   (NP a bat))
+		       ,
+		       (VP headed
+			   (PP for
+			       (NP the plate)))
+		       and
+		       (VP bounced
+			   (NP a third-inning (ADJP two-run) double)
+			   (PP off
+			       (NP the (ADJP left-centerfield) wall))
+			   (NP tonight)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP the
+	   first
+	   (PP of
+	       (NP two doubles
+		   (PP by
+		       (NP (NP Robinson)
+			   ,
+			   (SBAR 
+			    (WHNP who)
+			    (S (NP T)
+			       (VP was
+				   (PP in
+				       (NP (NP a mood)
+					   (S (NP *)
+					      (AUX to)
+					      (VP celebrate))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP  (ADVP Just)
+	 before
+	 (NP game time))
+    ,
+    (S  (NP (NP 
+	     (NP Robinson)
+	     's pretty wife)
+	    ,
+	    (NP Connie))
+	(VP informed
+	    (NP him)
+	    (SBAR that
+		  (S (NP an addition
+			 (PP to
+			     (NP the family)))
+		     (AUX can)
+		     (VP be
+			 (VP expected))
+		     (ADVP late
+			   (NP  next
+				summer)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Unfortunately)
+      ,
+      (S (NP
+	  (NP Brooks)
+	  's teammates)
+	 (VP were
+	     (NEG not)
+	     (PP in
+		 (NP 
+		  such festive
+		  mood))))
+      (SBAR  as
+	     (S (NP the Orioles)
+		(VP expired
+		    (PP before
+			(NP the (ADJP seven-hit) pitching
+			    (PP of
+				(NP three Kansas City rookie hurlers))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hansen)
+   (VP arrived
+       (PP (ADVP just)
+	   before
+	   (NP nightfall))
+       ,
+       (NP 
+	(ADVP (NP two hours)
+	      late)
+	,
+	(PP in
+	    (NP company
+		(PP with
+		    (NP (NP Lee MacPhail)
+			  ;
+			  ;
+			  (NP (NP J Iglehart)
+			      ,
+			      (NP chairman
+				  (PP of
+				      (NP the Oriole board
+					  (PP of
+					      (NP directors))))))
+			  ,
+			  and
+			  (NP Public Relations Director (NP Jack Dunn)))))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their flight)
+   (AUX was)
+   (VP delayed
+       )
+   ,
+   (S (NP Dunn)
+      (VP said))
+   ,
+   (SBAR 
+    (WHADVP when)
+    (S (NP a boarding ramp)
+       (VP inflicted
+	   (NP some minor damage
+	       (PP to
+		   (NP the wing
+		       (PP of
+			   (NP the plane)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Ex-Oriole (NP Clint Courtney))
+       ,
+       (VP  (ADVP now)
+	    catching
+	    (PP  for
+		 (NP the
+		     A
+		     's))))
+   (VP is
+       (ADVP all)
+       (PP for
+	   (NP 
+	    (NP the American League)
+	    's 1961 expansion
+	    (PP to
+		(NP the West Coast))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S  But
+	  (S (NP they)
+	     (AUX shouldda)
+	     (VP brought
+		 (PRT in)
+		 (NP Tokyo)
+		 ,
+		 (ADVP too))))
+      ''
+      ,
+      (SINV  
+       (VP added)
+       (NP Old Scrapiron)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   ``
+    (S  (ADVP Then)
+	(S (NP we)
+	   (AUX 'd)
+	   (VP  (ADVP really)
+		have
+		(NP (NP someplace)
+		    (S (NP *)
+		       (AUX to)
+		       (VP go))))))
+    ''
+    .)
+(  END_OF_TEXT_UNIT)
+( (S (NP   
+      (NP (NP Bowie)
+	  ,
+	  (NP Md.))
+      ,
+      (NP March 17))
+     --
+     (S (S (NP *) 
+	   (VP Gaining
+	       (NP her
+		   second straight
+		   victory)))
+	,
+	(S (NP (NP (NP Norman B.
+		       ,
+		       Small
+		       ,
+		       Jr.)
+		   's
+		   Garden Fresh)
+	       ,
+	       (NP a (ADJP 3-year-old) filly)
+	       ,)
+	   (VP (VP downed
+		   (NP promising colts)
+		   (PP in
+		       (NP (NP the
+			       $ 4,500
+			       (NP St. Patrick)
+			       's
+			       Day Purse)
+			   ,
+			   (NP  (VP featured)
+				seventh race
+				(ADVP here)
+				(NP today)))))
+	       ,
+	       and
+	       (VP paid
+		   (NP $ 7.20)
+		   (ADVP straight))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *) 
+       (VP Toying
+	   (PP with
+	       (NP her field)))
+       (PP in
+	   (NP the early stages)))
+    ,
+    (S (NP Garden Fresh)
+       (AUX was)
+       (VP (VP asked
+	     
+	       (PP for
+		   (NP top speed))
+	       (PP (ADVP only)
+		   in
+		   (NP the stretch))
+	       (PP by
+		   (NP Jockey Philip Grimm)))
+	   and
+	   (VP won
+	       (PP by
+		   (NP (NP a length)
+		       and
+		       (NP a half)))
+	       (PP in
+		   (NP 1.24 3-5
+		       (PP for
+			   (NP the 7 furlongs))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP 8,280)
+    (VP attend
+	(NP races))))
+(  
+ (S  
+  (NP (NP 
+       (NP Richard M. Forbes)
+       's
+       Paget
+       ,
+       (SBAR 
+	(WHNP which)
+	(S (NP T)
+	   (VP had
+	       (SBAR
+		(WHNP what)
+		(S (NP T)
+		   (VP seemed
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (NP a substantial lead)))))))
+	   (PP in
+	       (NP the early stages)))))
+      ,)
+  (VP (VP tired
+	  (ADVP rapidly)
+	  (S (NP *) 
+	     (VP nearing
+		 (NP the wire))))
+      and
+      (VP was
+	  (ADJP able
+		(S (NP *)
+		   (AUX to)
+		   (VP save
+		       (NP place money)
+		       (PP  
+			(NP  (ADVP only)
+			     a head)
+			in
+			(NP front
+			    (PP of
+				(NP 
+				 (NP Glen T. Hallowell)
+				 's
+				 Milties Miss.))))))))))
+ )
+((S (S  
+     (NP (NP A bright sun)
+	 and
+	 (NP brisk wind))
+     (VP had
+	 (NP the track)
+	 (PP in
+	     (NP a fast condition))
+	 (PP for
+	     (NP the first time
+		 (NP this week)))))
+    and
+    (S (NP 8,280 St. Patty Day celebrants)
+       (VP bet
+	   (NP $ 842,617)
+	   (PP on
+	       (NP the (ADJP well-prepared) program)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Prior
+	    (PP to
+		(NP the featured race)))
+      ,
+      (S (NP the stewards)
+	 (VP announced
+	     (SBAR that
+		   (S (NP apprentice
+			  (NP James P. Verrone))
+		      (AUX is)
+		      (VP suspended
+			  (NP ten days)
+			  (PP for
+			      (S (NP *) 
+				 (VP (VP crowding
+					 (NP horses))
+				     and
+				     (VP crossing
+					 (NP the field)
+					 (ADVP sharply)))
+				 (PP in
+				     (NP two races
+					 (PP on
+					     (NP Wednesday))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Culmone)
+    (VP gets
+	(NP first win))))
+(  
+ (S  
+  (NP (NP Garden Fresh)
+      ,
+      (NP the result
+	  (PP of
+	      (NP a mating
+		  (PP of
+		      (NP (NP Better Self)
+			  and
+			  (NP Rosy Fingered))))))
+      ,)
+  (VP (VP seems
+	  (S (NP *)
+	     (AUX to)
+	     (VP improve
+		 (PP with
+		     (NP each start)))))
+      and
+      (VP appeared
+	  (S (NP *)
+	     (AUX to)
+	     (VP win
+		 (NP 
+		  the St. Patrick
+		  's Day Purse))
+	     (PP with
+		 (S  (NP some speed)
+		     (VP *
+			 (PP in
+			     (NP reserve)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (AUX was)
+   (VP moving
+       (PP up
+	   (PP to
+	       (NP the allowance department))))
+   (PP after
+       (S (NP *) 
+	  (VP winning
+	      (NP a
+		  $ 10,000
+		  claiming
+		  event)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP   (NP Cleveland)
+	  ,
+	  (NP March 17)
+	  *LRB*
+	  (NP AP)
+	  *RRB*)
+    --
+    (S  
+     (NP (NP George Kerr)
+	 ,
+	 (NP the (ADJP swift-striding) Jamaican)
+	 ,)
+     (VP set
+	 (NP a meet record)
+	 (PP in
+	     (NP the (ADJP 600-yard) run))
+	 (PP in
+	     (NP the Knights
+		 of
+		 Columbus
+		 track meet))
+	 (NP tonight))
+     ,
+     (S (NP *) 
+	(VP beating
+	    (NP 
+	     (NP Purdue)
+	     's
+	     Dave Mills)
+	    (PP in
+		(NP a hot duel))
+	    (PP in
+		(NP 1.10.1))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Kerr)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP set
+	      (NP the world record))
+	  (ADVP earlier
+		(NP this month))
+	  (PP in
+	      (NP New York))
+	  (PP with
+	      (NP a clocking
+		  (PP of
+		      (NP 1.09.3))))))
+      ,)
+  (VP (VP wiped
+	  (PRT out)
+	  (NP 
+	   (NP Mills)
+	   's early pace))
+      and
+      (VP beat
+	  (NP the
+	      (ADJP young)
+	      Big 10 (ADJP quarter-mile) king)
+	  (PP by
+	      (NP 5 yards)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Both)
+   (VP were
+       (ADJP under
+	     (NP (NP the meet mark
+		     (PP of
+			 (NP 1.10.8)))
+		 (VP set
+		     (PP in
+			 (NP 1950))
+		     (PP by
+			 (NP Mal Whitfield)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mills)
+   (VP (VP shot
+	   (PRT out)
+	   (PP in
+	       (NP front)))
+       and
+       (VP kept
+	   (NP the lead)
+	   (PP through
+	       (NP two thirds
+		   (PP of
+		       (NP the race)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S  
+       (NP (NP Kerr)
+	   ,
+	   (NP a graduate student
+	       (PP from
+		   (NP Illinois)))
+	   ,)
+       (VP (VP moved
+	       (PP past
+		   (NP him))
+	       (PP on
+		   (NP a straightaway)))
+	   and
+	   (VP held
+	       (PRT off)
+	       (NP 
+		(NP Mills)
+		's challenge)
+	       (PP on
+		   (NP the final turn))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mills)
+   (AUX was)
+   (VP timed
+	     
+       (PP in
+	   (NP 1.10.4))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The crowd
+      (PP at
+	  (NP (NP the
+		  (ADJP twenty-first annual
+			K.
+			of
+			C. Games))
+	      ,
+	      (NP final indoor
+		  meet
+		  (PP of
+		      (NP the season)))
+	      ,)))
+  (VP got
+      (NP a thrill))
+  (ADVP (NP a few minutes)
+	earlier)
+  (SBAR 
+   (WHADVP when)
+   (S (NP a
+	  slender
+	  ,
+	  bespectacled
+	  woman)
+      (VP broke
+	  (NP the (ADJP one-week-old) world record)
+	  (PP in
+	      (NP the half-mile run))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mrs. Grace Butcher)
+      ,
+      (PP of
+	  (NP nearby Chardon))
+      ,
+      (NP (NP a (ADJP 27-year-old) housewife)
+	  (SBAR  
+	   (WHNP who)
+	   (S (NP T)
+	      (VP has
+		  (NP two children)))))
+      ,)
+  (VP finished
+      (PP in
+	  (NP 2.21.6))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP snapped
+       (NP five tenths
+	   (PP of
+	       (NP a second)))
+       (PP off
+	   (NP (NP the mark)
+	       (VP set
+		   (PP by
+		       (NP (NP Helen Shipley)
+			   ,
+			   (PP of
+			       (NP Wellsley College))
+			   ,))
+		   (PP in
+		       (NP the National A.A.U. meet
+			   (PP in
+			       (NP (NP Columbus)
+				   ,
+				   (NP Ohio))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP   
+      (NP San Francisco)
+      ,
+      (NP March 17)
+      *LRB*
+      (NP AP)
+      *RRB*)
+     --
+     (S  
+      (NP (NP Bobby Waters
+	      (PP of
+		  (NP (NP Sylvania)
+		      ,
+		      (NP Ga.)
+		      ,)))
+	  (NP relief quarterback
+	      (PP for
+		  (NP the San Francisco 49ers
+		      (PP of
+			  (NP the National Football League)))))
+	  ,)
+      (AUX will)
+      (VP undergo
+	  (NP a knee operation)
+	  (NP tomorrow)
+	  (PP at
+	      (NP Franklin Hospital))
+	  (ADVP here))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Waters)
+   (VP injured
+       (NP his left knee))
+   (PP in
+       (NP the last game
+	   (PP of
+	       (NP the 1960 season)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  While
+	  (S (NP *) 
+	     (VP working
+		 (PRT out)
+		 (PP in
+		     (NP Sylvania)))))
+   (S (S
+       (NP a swelling)
+       (VP developed)
+       (PP in
+	   (NP the knee)))
+      and
+      (S (NP he)
+	 (VP came
+	     (ADVP here)
+	     (S (NP *)
+		(AUX to)
+		(VP consult
+		    (NP the team physician)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP   
+      (NP (NP St. Petersburg)
+	  ,
+	  (NP Fla.))
+      ,
+      (NP March 17)
+      *LRB*
+      (NP AP)
+      *RRB*)
+     --
+     (S  
+      (NP Two errors
+	  (PP by
+	      (NP New York Yankee shortstop
+		  (NP Tony Kubek)))
+	  (PP in
+	      (NP the eleventh inning)))
+      (VP donated
+	  (NP (NP four unearned runs)
+	      and
+	      (NP a 5-to-2 victory))
+	  (PP to
+	      (NP the Chicago White Sox)))
+      (NP today)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

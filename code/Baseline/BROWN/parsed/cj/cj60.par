@@ -1,0 +1,2199 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Los Angeles)
+   (PP in
+       (NP 1957))
+   (ADVP finally)
+   (VP bowed
+       (PP to
+           (NP the skyscraper))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *RRB*
+   (S And
+      (PP without
+          (NP high density
+              (PP in
+                  (NP the core))))
+      ,
+      (S (NP rapid-transit systems)
+         (AUX can)
+         (NEG not)
+         (VP be
+             (VP (VP maintained
+                     (ADVP economically))
+                 ,
+                 (CONJP let
+                        alone)
+                 (VP built
+                     (PP from
+                         (NP scratch))
+                     (PP at
+                         (NP  (NP today)
+                              's
+                              prices)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP the 
+	     building
+	     (PP of
+		 (NP (NP freeways) and (NP garages))))
+         (AUX can)
+         (NEG not)
+         (VP continue)
+	 (ADVP forever)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The new interchange
+      (PP among
+          (NP the four Los Angeles freeways)))
+  ,
+  (VP including
+      (NP the grade-constructed accesses))
+  ,
+  (VP occupies
+      (PP by
+          (NP itself))
+      (ADJP  no
+             less
+             (PP than
+                 (NP (NP eighty acres
+                         (PP of
+                             (NP downtown land)))
+                     ,
+                     (NP one-eighth
+                         (PP of
+                             (NP a square mile)))
+                     ,
+                     (NP an area
+                         (PP about
+                             (NP the size
+                                 (PP of
+                                     (NP Rockefeller Center
+                                         (PP in
+                                             (NP New York))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADJP hard))
+   (S-1 (NP *)
+	(AUX to)
+	(VP believe
+	    (SBAR that
+		  (S (NP this mass
+			 (PP of
+			     (NP intertwined concrete)))
+		     (VP constitutes
+			 (SBAR (WHNP what)
+			       (S (NP the law)
+				  (VP calls
+				      (NP T) 
+				      (NP  ``
+					   the
+					   (ADJP highest
+						 and
+						 best)
+					   use
+					   ''
+					   (PP of
+					       (NP (ADJP    centrally
+							    located)
+						   urban land))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (SBAR    As
+		   (S (NP it)
+		      (VP affects
+			  (NP 
+			   (NP the city)
+			   's fiscal situation))))
+       ,
+       (S (NP  
+           such
+           an interchange)
+          (VP is
+              (ADJP ruinous))))
+    ;
+    ;
+    (S (NP it)
+       (VP removes
+           (ADVP forever)
+            
+           (PP from
+               (NP the tax rolls))
+           (NP (NP property)
+               (SBAR 
+                (WHNP which)
+                (S (NP T)
+                   (AUX should)
+                   (VP be
+                       (VP taxed
+                           ))
+                   (S (NP *)
+                      (AUX to)
+                      (VP pay
+                          (PP for
+                              (NP the city services))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Subways)
+       (VP improved
+           (NP land values)
+           (PP without
+               (S (NP *) 
+                  (VP taking
+                      (ADVP away)
+                      (NP land))))))
+    ;
+    ;
+    (S (NP freeways)
+       (VP (VP boost
+               (NP valuation)
+               (ADJP less)
+               *LRB*
+               (SBAR because
+                     (S (NP (NP the garages)
+                            (SBAR 0
+                                  (S (NP they)
+                                     (VP require
+                                         (NP T) ))))
+                        (VP are
+                            (NEG not)
+                            (NP prime buildings)
+                            (PP by
+                                (NP a long shot)))))
+               *RRB*)
+           ,
+           and
+           (VP reduce
+               (NP (NP the acreage)
+                   (SBAR 
+                    (WHNP that)
+                    (S (NP T)
+                       (AUX can)
+                       (VP be
+                           (VP taxed
+                               )))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP  Downtown
+            Los Angeles)
+       (VP is
+           (ADVP already)
+           (NP two-thirds)
+           (NP (NP freeway)
+               ,
+               (NP interchange)
+               ,
+               (NP street)
+               ,
+               (NP parking lot) 
+               and 
+               (NP garage))))
+    --
+    (S (NP one
+           (PP of
+               (NP those
+                   preposterous
+                   ``
+                   if
+                   ''
+                   statistics)))
+       (AUX has)
+       (ADVP already)
+       (VP come
+                
+           (S (NP *)
+              (AUX to)
+              (VP pass)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The freeway
+            (PP with
+                (NP  
+                 (VP  (ADVP narrowly)
+                      spaced)
+                 interchanges)))
+        (VP  concentrates
+            and
+	    mitigates
+                (NP the access problem)))
+     ,
+     but
+     (S (NP it)
+        (ADVP also)
+        (VP acts
+            (ADVP inevitably)
+            (PP as
+                (NP an
+                    artificial
+                    ,
+                    isolating
+                    boundary)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP City planners)
+    (AUX do)
+    (NEG not)
+    (ADVP always)
+    (VP use
+        (NP this boundary)
+        (ADVP as
+              effectively
+              (SBAR  as
+                     (S (NP they)
+			(VP might) 
+			  )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADJP Less
+               ambitious) freeway plans)
+    (AUX may)
+    (VP be
+        (ADJP  more
+               successful))
+    --
+    (SBAR 
+     (WHADVP  (ADVP especially)
+              when)
+     (S (NP the roadways and interchanges)
+        (AUX are)
+        (VP raised
+            )
+        ,
+        (S (S  (NP *) 
+               (VP allowing
+                   (PP for
+                       (NP cross access
+                           (PP at
+                               (NP many points))))))
+           and
+           (S  (NP *) 
+               (VP providing
+                   (NP parking areas
+                       (PP below
+                           (NP the ramp)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Meanwhile)
+      ,
+      (S  
+       (NP (NP the automobile)
+           and
+           (NP (NP its friend)
+               (NP the truck)))
+       (AUX have)
+       (VP cost
+           (NP the central city)
+           (NP some
+               (PP of
+                   (NP its industrial dominance))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP 
+         (ADJP  ever
+                greater)
+         numbers))
+    ,
+    (S (NP factories)
+       (AUX are)
+       (VP locating
+           (PP (PP in
+                   (NP the suburbs))
+               or
+               (PP in
+                   (NP (NP  ``
+                            industrial parks
+                            '')
+                       (VP removed
+                           (PP from
+                               (NP 
+                                (NP the city)
+                                's political jurisdiction)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The appeal
+       (PP of
+           (NP the suburb)))
+   (VP is
+       (ADJP  particularly
+              strong
+              (PP for
+                  (NP (NP heavy industry)
+                      ,
+                      (SBAR 
+                       (WHNP which)
+                       (S (NP T)
+                          (X (X (AUX must)
+                                (VP move
+                                    (NP bulky objects)
+                                    (PP along
+                                        (NP a lengthy assembly line))))
+                             and
+                             (X (VP wants
+                                    (NP enough land area
+                                        (S (NP *)
+                                           (AUX to)
+                                           (VP do
+                                               (NP the entire job)
+                                               (PP on
+                                                   (NP one floor)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP To
+	   (NP  light industry))
+       ,
+       (S (NP the economies
+	      (PP of
+		  (S (NP *)  
+		     (VP being
+			 (PP on
+			     (NP one floor))))))
+	  (VP are
+	      (ADJP  much
+		     slighter))))
+    ,
+    but
+    (S (NP efficiency engineers)
+       (ADVP usually)
+       (VP believe
+	   (PP in
+	       (NP them))))
+    ,
+    and
+    (S  
+     (NP (NP manufacturers)
+	 (VP looking
+	     (PP for
+		 (NP (NP ways)
+		     (S (NP *)
+			(AUX to)
+			(VP cut
+			    (NP costs)))))))
+     (AUX can)
+     (NEG not)
+     (VP be
+	 (VP prevented
+                
+	     (PP from
+		 (S  (NP *)
+		     (VP turning
+			 (PP to
+			     (NP efficiency engineers)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This movement
+        (PP of
+            (NP industry))
+        (PP away
+            (PP from
+                (NP the central cities))))
+    (VP is
+        (NEG not)
+        (ADJP  so
+               catastrophically
+               new
+	       (PP   as
+		     (S (NP some prophets)
+			(VP seem
+			    (S (NP *)
+			       (AUX to)
+			       (VP believe))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADVP merely)
+       (NP the
+           latest
+           example
+           (PP of
+               (NP (NP the leapfrog growth)
+                   (SBAR 
+                    (WHNP which)
+                    (S (NP T)
+                       (VP formed
+                           (NP the pattern
+                               (PP of
+                                   (NP  (ADJP virtually
+                                              all) American cities)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP  (NP The big factories)
+	     (SBAR  
+	      (WHNP which)
+	      (S (NP T)
+		 (VP are
+		     (PP  (ADVP relatively)
+			  near
+			  (NP the centers
+			      (PP of
+				  (NP our cities))))))))
+	--
+	(NP (NP the rubber factories
+		(PP in
+		    (NP Akron)))
+	    ,
+	    (NP 
+	     (NP Chrysler)
+	     's Detroit plants)
+	    ,
+	    (NP 
+	     (NP U.S. Steel)
+	     's Pittsburgh works))
+	--)
+    (ADVP often)
+    (VP began
+        (PP on
+            (NP these sites))
+        (PP at
+            (NP  (NP a time)
+		 (SBAR 
+		  (WHADVP when)
+		  (S (S (NP that)
+			(VP was
+			    (X (NP the edge
+				   (PP of
+				       (NP the city)))
+			       ,
+			       (ADVP yet)
+			       (ADJP close
+				     (PP to
+					 (NP (NP (NP transport)
+						 *LRB*
+						 (NP river)
+						 *RRB*)
+					     ,
+					     (NP storage
+						 *LRB*
+						 (NP piers)
+						 *RRB*)
+					     and
+					     (NP (NP power)
+						 *LRB*
+						 (NP river)
+						 *RRB*)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       ``
+       leapfrog
+       '')
+   (VP was
+       (NP a phenomenon
+           (PP of
+               (NP (NP the railroad)
+                   and
+                   (NP the steam turbine)
+                   ,
+                   and
+                   (NP  the time
+                       (SBAR 
+                        (WHADVP when)
+                        (S (NP (NP the belts
+                                   (PP of
+                                       (NP residence)))
+                               (VP surrounding
+                                   (NP the old factory area)))
+                           (AUX were)
+                           (NEG not)
+                           (ADVP yet)
+                           (VP blighted
+                               )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP  
+     (NP The truck)
+     and
+     (NP the car))
+    (VP gave
+        (NP the manufacturer)
+        (NP a new degree
+            (PP of
+                (NP freedom
+                    (PP in
+			(S (NP *)
+			   (VP selecting
+			       (NP his plant site)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Until
+        (S (NP  internal combustion)
+           (VP became
+               (ADJP cheap))))
+    ,
+    (S (NP he)
+       (VP had
+           (S (NP *)
+              (AUX to)
+              (VP be
+                  (PP near
+		      (NP (NP (NP a railroad siding)
+			      and
+			      (NP a trolley line))
+			   or
+			  (NP an (VP existing) large community
+			      (PP of
+				  (NP (ADJP lower-class) homes))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The railroad siding)
+      (VP is
+          (ADVP still)
+          (ADJP important)))
+     --
+     (S (NP it
+	    (SBAR-2 *pseudo-attach*))
+        (VP is
+            (ADVP usually
+                  ,
+                  though
+                  (NEG not)
+                  always
+                  ,)
+            (ADJP true))
+	(SBAR-2 that
+	      (S (NP long-haul shipment
+		     (PP by
+			 (NP rail)))
+		 (VP is
+		     (ADJP cheaper
+			   (PP than
+			       (NP trucking))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S But
+	 (S (NP (NP anybody)
+		(SBAR 
+		 (WHNP who)
+		 (S (NP T)
+		    (VP promises
+			(NP a substantial volume
+			    (PP of
+				(NP business)))))))
+	    (AUX can)
+	    (VP get
+		(NP a railroad)
+		(S (NP *)
+		   (AUX to)
+		   (VP run
+		       (NP a short spur)
+		       (PP to
+			   (NP his plant)))))
+	    (NP these days)))
+      ,
+       and
+      (S (NP many businesses)
+	 (AUX can)
+	 (VP live
+	     (PP without
+		 (NP the railroad)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP there)
+         (VP are
+             (ADVP now)
+	     (NP (NP many millions
+		     (PP of
+			 (NP workers))
+		     (SBAR (WHPP for
+				 (WHNP whom))
+			   (S (NP the factory
+				  (PP with
+				      (NP (NP the big parking lot)
+					  ,
+					  (SBAR  
+					   (WHNP which)
+					   (S (NP T)
+					      (AUX can)
+					      (VP be
+						  (VP reached
+                        
+						      (PP by
+							  (S (NP *)
+							     (VP driving
+								 (PP across or against
+								     (NP the usual pattern
+									 (PP of
+									     (NP (NP rush hour traffic) 
+										 and 
+										 (NP grille-route bus lines))))))))))))
+					  ,)))
+			      (VP is
+				  (ADVP actually)
+				  (ADJP  more
+					 convenient
+					 (PP than
+					     (NP the walk-to factory)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Willow Run)
+        ,
+        (NP 
+         (NP General Electric)
+         's enormous installations
+         (PP at
+             (NP (NP Louisville)
+                 and
+                 (NP Syracuse))))
+        ,
+        (NP the Pentagon)
+        ,
+        (NP Boeing
+            (PP in
+                (NP Seattle)))
+        ,
+        (NP  Douglas
+             and
+             Lockheed
+             (PP in
+                 (NP Los Angeles)))
+        ,
+        (NP (NP the new automobile assembly plants)
+            (ADVP everywhere)))
+    --
+    (S (NP none
+           (PP of
+               (NP these)))
+       (AUX is)
+       (ADVP substantially)
+       (VP served
+             
+           (PP by
+               (NP any sort
+                   (PP of
+                       (NP conventional mass rapid transit)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP are
+       (NP all)
+       (NP (NP  suburban plants)
+           ,
+           (VP relying
+               (PP on
+                   (NP the roads))
+	       (S  (NP *)
+		   (AUX to)
+		   (VP keep
+		       (NP them)
+		       (S  (NP *) 
+			   (VP supplied
+			       (PP with
+				   (NP workers))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR 
+       (WHADVP wherever)
+       (S (NP the
+              new
+              thruways)
+          (VP go
+              (ADVP up))))
+      (S (NP their banks)
+         (AUX are)
+         (VP lined
+                 
+             (PP by
+                 (NP neat (ADJP glass and metal
+				and
+				(ADJP colored
+				      brick))
+                      light industry)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The drive
+        (PP along
+            (NP (NP 
+                 (NP Massachusetts)
+                 '
+                 Route 128)
+                ,
+                (NP (NP the by-pass)
+                    (SBAR  
+                     (WHNP which)
+                     (S (NP T)
+                        (VP makes
+                            (NP an arc)
+                            (NP  (ADVP about)
+                                 twenty miles
+                                 (PP from
+                                     (NP downtown
+                                         Boston)))))))
+                ,)))
+    (AUX may)
+    (VP be
+        (NP a vision
+            (PP of
+                (NP the future)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The future)
+   (AUX could)
+   (VP be
+       (ADJP worse)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The plants
+       (PP along
+           (NP Route 128)))
+   (AUX are)
+   (ADVP mostly)
+   (VP (VP  (ADVP well)
+            designed
+            )
+       and
+       (VP  (ADVP nicely)
+            set
+            (PP against
+                (NP the New England rocks and trees)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX can)
+   (ADVP even)
+   (VP be
+       (ADJP  rather
+              grand))
+   ,
+   (PP like
+       (NP 
+	(NP Edward Land)
+	's monument)
+       (PP to
+	   (NP the astonishing success
+	       (PP of
+		   (NP Polaroid))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP they)
+         (VP deny
+             (NP the values
+                 (PP of
+                     (NP (NP the city)
+                         --
+                         (NP the
+                             crowded
+                             ,
+                             competitive
+                             ,
+                             tolerant
+                             city)
+                         ,
+                         (NP (NP the
+                                 ``
+                                 melting pot
+                                 '')
+                             (SBAR 
+                              (WHNP which)
+                              (S (NP T)
+                                 (VP gave
+                                     (ADVP off)
+                                     (NP  (ADVP so)
+                                          many
+                                          (PP of
+                                              (NP the
+                                                  (ADJP most admirable)
+                                                  American qualities)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP are
+       (NP  (VP segregated)
+            businesses))
+   ,
+   (S  (NP *) 
+       (VP combining
+           (ADVP again)
+           (PP on
+               (NP one site))
+           (NP (NP the factory)
+               and
+               (NP the office))))
+   ,
+   (S  (NP *) 
+       (VP drawing
+           (NP their work force
+               (PP from
+                   (NP (VP segregated)
+                       communities))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (VP is
+       (ADJP interesting))
+   (S-3 (NP *)
+	(AUX to)
+	(VP note
+	    (SBAR (WHNP  (WHADVP how)
+			 many
+			 (PP of
+			     (NP the plants
+				 (PP on
+				     (NP 
+				      (NP Massachusetts)
+				      '
+				      Route 128)))))
+		  (S (NP T)
+		     (VP  draw
+			  (NP  most
+			       (PP of
+				   (NP their income)))
+			  (PP   either
+				(PP from
+				    (NP the government
+					(PP in
+					    (NP 
+					     (ADJP non-competitive) cost-plus
+					     arrangements))))
+				,
+				or
+				(PP from
+				    (NP the exploitation
+					(PP of
+					    (NP (NP patents)
+						(SBAR 
+						 (WHNP which)
+						 (S (NP T)
+						    (VP grant
+							(PP at
+							    (ADJP least))
+							(NP a partial monopoly)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  While
+          (S (NP the factories)
+             (VP were
+                 (ADVP always)
+                 (NP the center
+                     (PP of
+                         (NP the labor market))))))
+   ,
+   (S (NP they)
+      (VP were
+          (ADVP often)
+          (PP on
+              (NP 
+               (NP the city)
+               's periphery)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S (NP *)  
+	   (VP spreading
+	       (NP the factories)
+	       (ADVP even
+		     farther))))
+    ,
+    (S (NP the automobile)
+       (AUX may)
+       (NEG not)
+       (VP have
+           (VP changed
+               (PP to
+                   (NP any great extent))
+               (NP the growth pattern
+                   (PP of
+                       (NP the cities)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (S (NP (ADVP Even)
+              the loss
+              (PP of
+                  (NP hotel business))
+              (PP to
+                  (NP 
+                   (NP the outskirt)
+                   's motel)))
+          (AUX has)
+          (VP been
+              (ADJP  relatively
+                     painless)))
+       ;
+       ;
+       (S (NP the hotel-motel demarcation)
+          (AUX is)
+          (VP becoming
+              (ADJP harder
+                    (S (NP *)
+                       (AUX to)
+                       (VP find))))
+          (NP every year)))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (SBAR  
+       (WHNP What)
+       (S (NP T)
+          (VP hurts
+              (ADJP most)))))
+  (VP is
+      (NP (NP the damage)
+          (SBAR 0
+                (S
+                 (NP the automobile)
+                 (AUX has)
+                 (VP done
+                     (NP T)
+		     (PP to
+			 (NP central-city retailing
+			     ,
+			     (PP (ADVP especially)
+				 in
+				 (NP (NP those cities)
+				     (SBAR 
+				      (WHADVP where)
+				      (S (NP public transit)
+					 (VP is
+					     (ADJP feeble))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Some retailing)
+  ,
+  (PP of
+      (NP course))
+  ,
+  (ADVP always)
+  (VP spreads
+      (PP with
+          (NP the population)))
+  --
+  (NP (NP grocery stores)
+      ,
+      (NP drugstores)
+      ,
+      (NP local haberdasheries and dress shops)
+      ,
+      (NP candy stores)
+      and
+      (NP the
+          like)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR 
+       (WHADVP whenever)
+       (S (NP a major purchase)
+          (AUX was)
+          (VP contemplated)
+          (ADVP (NP forty years)
+                ago)
+          --
+          (NP (NP a new bedroom set)
+              or
+              (NP a winter coat)
+              ,
+              (NP an Easter bonnet)
+              ,
+              (NP a bicycle
+                  (PP for
+                      (NP Junior))))
+          --))
+      (S (NP the family)
+         (VP set
+             (ADVP off)
+             (PP for
+                 (NP (NP the downtown department store)
+                     ,
+                     (SBAR 
+                      (WHADVP where)
+                      (S (NP the selection)
+                         (AUX would)
+                         (VP be
+                             (ADJP greatest)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Department stores)
+   (VP congregated
+       (PP in
+           (NP (NP the
+                   ``
+                   (NP one hundred
+                       (PP per
+                           (NP cent)))
+		   location
+                   '')
+               ,
+               (SBAR 
+                (WHADVP where)
+                (S (NP all
+                       the transit lines)
+                   (VP converged)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP These stores)
+      (VP are
+          (ADVP still)
+          (ADVP there)))
+     ,
+     but
+     (S (NP the volume
+            (PP of
+                (NP the
+                    ``
+                    downtown store
+                    '')))
+        (AUX has)
+        (VP been
+            (PP on
+                (NP a relative decline)))
+        ,
+        (SBAR while
+              (S (PP in
+                     (NP many cities))
+                 (S
+                  (NP the suburban
+                      ``
+                      branch
+                      '')
+                  (VP sells
+                      (NP  (ADJP more
+                                 and
+                                 more)
+                           dry goods)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP 
+	       (NP the retailer and hotelman)
+	       's downtown unit sales)
+	      (AUX have)
+	      (VP been
+		  (VP decreasing))))
+    ,
+    (ADVP however)
+    ,
+    (S (NP his dollar volume)
+       (VP continues
+           (S (NP *)
+              (AUX to)
+              (VP rise))))
+    ,
+    and
+    (S (NP it
+	   (SBAR-4 *pseudo-attach*))
+       (VP is
+	   (NP dollars))
+       (SBAR-4 (WHNP which)
+	       (S (NP you)
+		  (VP put
+		      (NP T)
+		      (PP in
+			  (NP the bank)))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP 
+         most
+         discussions
+         (PP of
+             (NP this phenomenon))))
+    ,
+    (S (NP the figures)
+       (AUX are)
+       (ADVP substantially)
+       (VP inflated
+           )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP No
+	  suburban shopping-center
+	  branch)
+      --
+      (NP  
+       (NEG not)
+       (ADVP even)
+       (NP Hudson)
+       's vast Northland
+       (PP outside
+	   (NP Detroit)))
+      --)
+  (VP (VP does
+          (NP anything
+              (PP like
+		  (NP (NP the unit volume
+			  (PP of
+			      (NP business)))
+		      (S-5 *pseudo-attach*)))))
+      or
+      (VP carries
+          (NP anything
+              (PP like
+                  (NP (NP the variety
+                          (PP of
+                              (NP merchandise)))
+                      (S-5  (NP T) 
+			    (AUX to)
+			    (VP be
+				(NP found
+                 
+				    (PP in
+					(NP the home store)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Telephone orders)
+      (VP distort
+          (NP the picture)))
+     :
+     (S (NP the suburbanite)
+        (ADVP naturally)
+        (VP calls
+            (NP a
+                local
+		rather
+		than
+		a central-city number))
+        (SBAR if
+              (S (NP both)
+                 (AUX are)
+                 (VP listed
+		     )
+		 (PP in
+		     (NP an advertisement))))
+        ,
+        (SBAR  (ADVP especially)
+               if
+               (S (NP the local call)
+                  (VP eliminates
+                      (NP city sales
+                          tax))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The suburban branch)
+   (AUX is)
+   (ADVP thereby)
+   (VP credited
+             
+       (PP with
+           (NP (NP a sale)
+               (SBAR 
+                (WHNP which)
+                (S (NP T)
+                   (AUX would)
+                   (VP have
+                       (VP been
+                           (VP made
+                               )))
+                   (SBAR  (ADVP even)
+                          if
+                          (S (NP its glass doors)
+                             (AUX had)
+                             (ADVP never)
+                             (VP opened
+                                 )))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Accounting procedures)
+        (SBAR  
+         (WHNP which)
+         (S (NP T)
+            (VP continue
+                (S (NP *)
+                   (AUX to)
+                   (VP charge
+                       (NP a disproportionate overhead and warehouse expense)
+                       (PP to
+                           (NP the main store))))))))
+    (VP make
+        (NP the branches)
+        (VP seem
+            (ADJP  more
+                   profitable
+                   (PP than
+                       (S (NP they)
+                          (VP are)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+         (NP many cases))
+     (S (NP (NP that statement)
+            --
+            ``
+            (S (NP We)
+               (VP  (VP break
+                        (ADJP even)
+                        (PP on
+                            (NP our downtown operation)))
+                    and
+                    (VP make
+                        (NP money)
+                        (PP on
+                            (NP our branches)))))
+            ''
+            --)
+        (AUX would)
+        (VP be
+            (VP turned
+                (ADVP around)))
+        (SBAR if
+              (S (NP the cost analysis)
+                 (AUX were)
+                 (VP recalculated
+                
+                     (PP on
+                         (NP (NP terms)
+                             (ADJP  less
+                                    prejudicial
+                                    (PP to
+                                        (NP the old store))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Fear
+          (PP of
+              (NP the competition)))
+      --
+      (NP  (ADVP always)
+           a
+           great
+           (VP motivating)
+           force
+           (PP in
+               (NP the American economy)))
+      --)
+  (VP makes
+      (NP (NP retailers)
+          (SBAR 
+           (WHNP who)
+           (S (NP T)
+              (AUX do)
+              (NEG not)
+              (VP have
+                  (NP suburban operations)))))
+      (VP exaggerate
+          (NP  both
+	       the volume
+               and
+	       the profitability
+               (PP of
+                   (NP 
+                    (NP their rival)
+                    's
+                    shiny new
+                    branches))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The fact)
+    (VP seems
+        (S (NP *)
+           (AUX to)
+           (VP be
+               (SBAR (SBAR that
+                           (S (NP  (ADJP very
+                                         many) large branch stores)
+                              (VP are
+                                  (ADJP uneconomical))))
+                     ,
+                     (SBAR that
+                           (S (NP the choice
+                                  (PP of
+                                      (NP location
+                                          (PP in
+                                              (NP the suburbs)))))
+                              (VP is
+                                  (ADJP  as
+                                         important
+                                         (SBAR  as
+                                                (S (NP it)
+                                                   (VP was
+                                                       (NP downtown))))))))
+                     ,
+                     and
+                     (SBAR that
+                           (S (NP  (ADVP even)
+                                   (VP  (ADVP highly)
+                                        suburbanized)
+                                   cities)
+                              (AUX will)
+                              (VP support
+                                  (NP (ADVP only)
+				      (ADJP so
+					    many) big branches)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP the cost
+             (PP of
+                 (NP operations)))
+         (VP is
+             (ADVP always)
+             (ADJP high))
+	 (PP in
+	     (NP any new store))
+         ,
+         (SBAR  as
+		(S (NP (NP the conservative bankers)
+		       (SBAR  
+			(WHNP who)
+			(S (NP T)
+			   (VP act
+			       (PP as
+				   (NP controllers
+				       (PP for
+					   (NP retail giants))))))))
+		   (AUX are)
+		   (VP beginning
+		       (S (NP *)
+			  (AUX to)
+			  (VP discover)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP all)
+        (AUX has)
+        (VP been
+            (VP said))))
+    ,
+    (ADVP however)
+    ,
+    (S (NP the big branch store)
+       (VP remains
+           (NP a major break
+               (PP with
+                   (NP history))
+               (PP in
+                   (NP the development
+                       (PP of
+                           (NP American retailing))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR   (ADVP Just)
+	    as
+	    (S (NP the suburban factory)
+	       (AUX may)
+	       (VP be
+		   (ADJP  more
+			  convenient
+			  (PP than
+			      (NP the downtown plant)))
+		   (PP to
+		       (NP the worker
+			   (PP with
+			       (NP a car)))))))
+    ,
+    (S (NP the trip
+           (PP to
+               (NP the shopping center)))
+       (AUX may)
+       (VP seem
+           (ADJP  far
+                  easier
+                  (PP than
+                      (PP to
+                          (NP the downtown department store)))))
+       ,
+       (SBAR though
+             (S (NP both)
+                (VP are
+                    (NP the same distance
+                        (PP from
+                            (NP home))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Indeed)
+      ,
+      (S (NP there)
+         (VP are
+             (NP (NP some cities)
+                 (SBAR 
+                  (WHADVP where)
+                  (S (NP the suburban shopping)
+                     (VP pulls
+                         (NP (NP customers)
+                             (SBAR 
+                              (WHNP who)
+                              (S (NP T)
+                                 (VP are
+                                     (ADVP geographically)
+                                     (ADJP  much
+                                            nearer
+                                            (PP to
+                                                (NP downtown))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Raymond Vernon)
+   (VP reports
+       (SBAR that
+             (S (NP residents
+                    (PP of
+                        (NP East St. Louis)))
+                (AUX have)
+                (VP been
+                    (VP driving
+                        (PP (PP across
+                                (NP the Mississippi))
+                            ,
+                            (PP through
+                                (NP the heart
+                                    (PP of
+                                        (NP downtown
+                                            St. Louis))))
+                            and
+                            (PP out
+                                (PP to
+                                    (NP the western suburbs))))))
+		(PP for
+		    (NP major shopping))
+                ,
+                (SBAR  (ADVP simply)
+                       because
+                       (S (NP parking)
+                          (VP is
+                              (ADJP easier
+                                    (PP at
+                                        (NP the big branches))
+                                    (PP than
+                                        (S (NP it)
+                                           (VP is
+                                               (PP in
+                                                   (NP the heart
+                                                       (PP of
+                                                           (NP town)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+        (NP (NP the extent)
+            (SBAR that
+                  (S (NP the problem)
+                     (VP is
+                         (ADVP merely)
+                         (NP parking))))))
+    ,
+    (S (NP an aggressive downtown management
+           ,
+           (PP like
+               (NP that
+                   (PP of
+                       (NP Lazarus Brothers
+                           (PP in
+                               (NP (NP Columbus)
+                                   ,
+                                   (NP Ohio))))))
+               )
+           ,)
+       (AUX can)
+       (VP fight
+           (ADVP back)
+           (ADVP successfully)
+           (PP by
+               (S  (NP *) 
+                   (VP building
+                       (NP a garage)
+                       (PP on
+                           (NP the lot
+                               (PP next
+                                   (NP door))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+           (S (NP the distant patron
+                  (PP of
+                      (NP the suburban branch)))
+              (AUX has)
+              (VP been
+                  (VP frightened
+		      (PP away
+			  (PP from
+			      (NP downtown)))
+		      (PP by
+                          (NP traffic problems))))))
+    ,
+    (ADVP however)
+    ,
+    (S (NP the city store)
+       (AUX can)
+       (ADVP only)
+       (VP (VP pressure
+               (NP the politicians)
+               (S (NP *)
+                  (AUX to)
+                  (VP do
+                      (NP something
+                          (PP about
+                              (NP the highways))))))
+           or
+           (VP await
+               (NP the completion
+                   (PP of
+                       (NP the federal highway program)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR if
+            (S (NP the affection
+                   (PP for
+                       (NP the suburban branch)))
+               (VP reflects
+                   (NP  a desire
+			(S (NP *)
+			   (AUX to)
+			   (VP shop
+			       (PP (PP with
+				       ``
+				       (NP nice people)
+				       '')
+				   ,
+				   (ADVP rather
+					 (PP than
+					     (PP with
+						 (NP (NP the
+							 indiscriminate urban
+							 mass)
+						     (SBAR 
+						      (WHNP which)
+						      (S (NP T)
+							 (VP supports
+							     (NP the downtown department store)))))))))))))))
+      ,
+      (S (NP the central location)
+         (AUX may)
+         (VP be
+             (PP in
+                 (NP serious trouble)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Today)
+      ,
+      (VP according
+          (PP to
+              (NP (NP land economist)
+                  (NP Homer Hoyt))))
+      ,
+      (S (NP (NP shopping centers)
+             and
+             (NP their associated parking lots))
+         (VP cover
+             (NP (NP some 46,000 acres
+                     (PP of
+                         (NP land)))
+                 ,
+                 (SBAR 
+                  (WHNP which)
+                  (S (NP T)
+                     (VP is
+                         (NP  (ADVP  almost
+                                     exactly)
+                              the total land area
+                              (PP in
+                                  (S (NP all
+                                         (NP 
+                                          (NP the nation)
+                                          's Central Business Districts))
+                                     (VP put
+                                         (ADVP together))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The downtown store)
+        (VP continues
+            (S (NP *)
+               (AUX to)
+               (VP offer
+                   (NP the great inducement
+                       (PP of
+                           (NP variety)))
+                   ,
+		   (PP
+		    both
+		    (PP within
+			(NP its gates))
+		    and
+		    (PP (PP across
+			    (NP the street))
+			,
+			(SBAR 
+			 (WHADVP where)
+			 (S (NP other department stores)
+			    (VP are
+				(ADJP  immediately
+				       convenient)
+				(PP for
+				    (NP (NP the shopper)
+					(SBAR 
+					 (WHNP who)
+					 (S (NP T)
+					    (VP wants
+						(S (NP *)
+						   (AUX to)
+						   (VP see
+						       (SBAR
+							(WHNP what)
+							(S (NP T)
+							   (VP is
+							       (ADJP available)))))))
+					    (PP before
+						(S (NP *)
+						   (VP making
+						       (PRT up)
+						       (NP her mind)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+           (S (NP anything)
+              (AUX may)
+              (VP be
+                  (VP predicted
+                      ))
+              (PP in
+                  (NP the quicksilver world
+                      (PP of
+                          (NP retailing))))))
+    ,
+    (S (NP it
+	   (SBAR-6 *pseudo-attach*))
+       (VP seems
+           (ADJP likely))
+       (SBAR-6 that
+             (S (NP the suburban branch)
+                (AUX will)
+                (VP come
+                    (S (NP *)
+                       (AUX to)
+                       (VP dominate
+                           (NP (NP 
+                                (NP children)
+                                's clothing)
+                               *LRB*
+                               (S (NP (S (NP *)
+                                         (VP taking
+                                             (NP the kid)
+                                             (ADVP downtown))))
+                                  (VP is
+                                      (ADJP too
+                                            much
+                                            (PP of
+                                                (NP a production)))))
+                               *RRB*
+                               ,
+                               (NP household gadgetry)
+                               and
+                               (NP the discount business
+                                   (PP in
+                                       (NP big-ticket items)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Department stores)
+      (AUX were)
+      (VP built
+             
+          (PP on
+              (NP (NP dry goods)
+                  ,
+                  (NP  (ADVP especially)
+                       (NP ladies)
+                       ' fashions)))))
+     ,
+     and
+     (S (PP in
+            (NP this area))
+        ,
+        (PP in
+            (NP the long run))
+        ,
+        (S (NP the suburban branches)
+           (AUX will)
+           (VP be
+               (VP  (ADJP hard)
+                    put
+                     
+                    (S (NP *)
+                       (AUX to)
+                       (VP compete
+                           (PP against
+                               (NP downtown)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+          (S (NP this analysis)
+             (VP is
+                 (ADJP correct))))
+   ,
+   (S (NP the suburban branches)
+      (AUX will)
+      (VP turn
+          (ADVP out)
+          (S (NP *)
+             (AUX to)
+             (VP be 
+                 (NP (SBAR (WHNP what )
+                           (S (NP (NP management)
+                                  's
+                                  cost accountants)
+                              (VP refuse
+                                  (S (NP *)
+                                     (AUX to)
+                                     (VP acknowledge
+                                         (NP T) )))))
+                     ,
+                     (NP (NP marginal operations)
+                         (ADVP rather
+                               (PP than
+                                   (NP major factors))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Historically)
+      (PP in
+          (NP America))
+      (S
+       (NP the appeal
+           (PP of
+               (NP cities)))
+       (AUX has)
+       (VP been
+           (NP (NP their color and life)
+               ,
+               (NP (NP the variety
+		       (PP of
+			   (NP experience)))
+		   (SBAR 0
+			 (S
+			  (NP they)
+			  (VP offered
+			      (NP T) ))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+	 (SBARQ  
+	  (WHADVP How)
+	  (SQ  (NP ya)
+	       (VP gon
+		   (S (NP *) 
+		      (AUX na)
+		      (VP keep
+			  (NP 'em)
+			  (PP down
+			      (PP on
+				  (NP the farm))))))))
+	 ''
+	 ?
+	 ?)
+    (VP Was
+	(NP (NP a question)
+	    (SBAR  
+	     (WHNP that)
+	     (S (NP T)
+		(VP had
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP asked
+			     
+			       (PP (ADVP long)
+				   before
+				   (S (NP they)
+				      (VP saw
+					  (NP Paree)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  Though
+	   (S (NP Americans)
+	      (ADVP usually)
+	      (VP lived
+		  (PP in
+		      (NP (NP groups)
+			  (VP segregated
+			      (PP by
+				  (NP (NP national origin)
+				      or
+				      (NP religious belief)))))))))
+    ,
+    (S (NP they)
+       (VP liked
+	   (S (NP *)
+	      (AUX to)
+	      (VP work and shop
+		  (PP in
+		      (NP the noise and vitality
+			  (PP of
+			      (NP downtown)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  (ADVP Only)
+	    a radical change
+	    (PP in
+		(NP the nature
+		    (PP of
+			(NP the population
+			    (PP in
+				(NP the central city)))))))
+       (AUX would)
+       (VP be
+	   (ADJP likely
+		 (S (NP *)
+		    (AUX to)
+		    (VP destroy
+			(NP this preference))))))
+    --
+    and
+    (S (NP we)
+       (AUX must)
+       (ADVP now)
+       (VP turn
+	   (NP our attention)
+	   (PP to
+	       (NP the question
+		   (PP of
+		       (SBAR whether
+			     (S (NP (NP such
+					a change)
+				    ,
+				    (VP  (ADVP gloomily)
+					 foreseen
+					 (PP by
+					     (NP  (ADJP so
+							many) urban diagnosticians)))
+				    ,)
+				(VP is
+				    (ADVP actually)
+				    (PP upon
+					(NP us)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP 4)
+      .
+      (NP (NP Suburbs)
+	  and
+	  (NP Negroes))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP In
+	(NP (NP their book)
+	    ,
+	    (NP American Skyline)))
+    ,
+    (S (NP (NP Christopher Tunnard)
+	   and
+	   (NP Henry Hope Reed))
+       (VP argue
+	   (SBAR that
+		 (S (NP
+		     (NP Franklin Roosevelt)
+		     's
+		     New Deal)
+		    (VP was
+			(SBAR
+			 (WHNP what)
+			 (S (NP T)
+			    (VP made
+				(NP the modern suburb)
+				(NP a possibility)))))
+		    --
+		    (X  (NP a
+			    fine ironical
+			    argument)
+			,
+			(S 
+			 (WHADVP when)
+			 (S (NP you)
+			    (VP consider
+				(SBAR 
+				 (WHADVP how)
+				 (S (NP suburbanites)
+				    (VP tend
+					(S (NP *)
+					   (AUX to)
+					   (VP vote))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The first superhighways)
+	--
+	(NP 
+	 (NP (NP New York)
+	     's
+	     Henry Hudson)
+	 and
+	 (NP (NP Chicago)
+	     's
+	     Lake Shore)
+	 ,
+	 (NP (NP San Francisco)
+	     's
+	     Bay Bridge
+	     and
+	     its approaches)
+	 ,
+	 (NP a good slice
+	     (PP of
+		 (NP the Pennsylvania Turnpike))))
+	--)
+    (AUX were)
+    (VP built
+	 
+	(PP as
+	    (NP part
+		(PP of
+		    (NP (NP the federal works
+			    program)
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (AUX was)
+			    (VP going
+				(S (NP *)
+				   (AUX to)
+				   (VP cure
+				       (NP the depression))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the same time))
+    ,
+    (S (NP (NP 
+	    (NP Roosevelt)
+	    's
+	    Federal Housing Administration)
+	   ,
+	   (VP coupled
+	       (PP with
+		   (NP 
+		    (NP Henry Morgenthau)
+		    's cheap-money policy)))
+	   ,)
+       (VP permitted
+	   (S (NP 
+	       ordinary (ADJP lower-middle-class)
+	       families)
+	      (AUX to)
+	      (VP build
+		  (NP their own homes))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP Bankers)
+	    (SBAR 
+	     (WHNP who)
+	     (S (NP T)
+		(AUX had)
+		(VP been
+		    (ADJP reluctant
+			  (S (NP *)
+			     (AUX to)
+			     (VP lend
+				 (PP without
+				     (NP 
+				      better
+				      security
+				      (PP than
+					  (NP (NP the house)
+					      (NP itself))))))))))))
+	(VP got
+	    (NP that security)
+	    (PP from
+		(NP the U.S. government))))
+     ;
+     ;
+     (S (NP (NP householders)
+	    (SBAR  
+	     (WHNP who)
+	     (S (NP T)
+		(AUX had)
+		(VP been
+		    (ADJP unable
+			  (S (NP *)
+			     (AUX to)
+			     (VP pick
+				 (PRT up)
+				 (NP the burden
+				     (PP of
+					 (NP 
+					  (ADJP short-term) (ADJP high-interest)
+					  mortgages))))))))))
+	(VP found
+	    (SBAR 0
+		  (S (NP they)
+		     (AUX could)
+		     (VP borrow
+			 (PP for
+			     (NP twenty-five years))
+			 (PP at
+			     (NP 4
+				 (PP per
+				     (NP cent)))))
+		     ,
+		     (PP under
+			 (NP government aegis)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

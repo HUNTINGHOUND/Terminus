@@ -1,0 +1,2109 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    High-gain
+    ,
+    photoelectronic
+    image intensification)
+   (AUX is)
+   (VP applied
+       (PP under
+	   (NP conditions
+	       (PP of
+		   (NP 
+		    low incident
+		    light levels))))
+       (SBAR 
+	(WHADVP whenever)
+	(S (NP (NP the integration time)
+	       (VP required
+		   (PP by
+		       (NP a sensor
+			   or
+			   recording instrument))))
+	   (VP exceeds
+	       (NP the limits
+		   (PP of
+		       (NP practicability))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Examples
+	(PP of
+	    (NP such situations)))
+    (VP are
+	(NP (NP  *LRB*
+		 aerial
+		 *RRB*
+		 night reconnaissance)
+	    ,
+	    (NP the recording
+		(PP of
+		    (NP radioactive tracers
+			(PP in
+			    (NP live body tissues)))))
+	    ,
+	    (NP special radiography
+		(PP in
+		    (NP medical or industrial applications)))
+	    ,
+	    (NP track recording
+		(PP of
+		    (NP high energy particles)))
+	    ,
+	    (NP (X etc.)))))
+ .)
+(  
+ (S (S (NP
+	High-gain photoelectronic
+	image intensification)
+       (AUX may)
+       (VP be
+	   (VP achieved
+	       (PP by
+		   (NP several methods)))
+	   ))
+    ;
+    ;
+    (S (NP some
+	   (PP of
+	       (NP these)))
+       (AUX are)
+       (VP listed
+	   (ADVP below)
+	   :
+	   (NP   (NP *LRB*
+		     A
+		     *RRB*
+		     (NP (S  (NP *) 
+			     (VP Cascading
+				 (NP single stages)
+				 (PP by
+				     (S (NP *)  
+					(VP coupling
+					    (NP lens systems))))))))
+		 ,
+		 (NP (NP *LRB*
+			 B
+			 *RRB*)
+		     (NP Channel-type
+			 ,
+			 secondary emission image intensifier))
+		 ,
+		 (NP (NP *LRB*
+			 C
+			 *RRB*)
+		     (NP (NP Image intensifier)
+			 (VP based
+			     (PP upon
+				 (NP the
+				     ``
+				     multipactor
+				     ''
+				     principle)))))
+		 ,
+		 (NP (NP *LRB*
+			 D
+			 *RRB*)
+		     (NP (NP Transmission secondary electron multiplication image intensifiers)
+			 *LRB*
+			 (NP TSEM tubes)
+			 *RRB*))
+		 ,
+		 (NP (NP *LRB*
+			 E
+			 *RRB*)
+		     (NP (S  (NP *)
+			     (VP Cascading
+				 (PP of
+				     (NP (NP single stages)
+					 ,
+					 (VP enclosed
+					     (PP in
+						 (NP one common envelope)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (S (NP *)  
+	   (VP Cascading
+	       (NP single stages)
+	       (PP by
+		   (S  (NP *)
+		       (VP coupling
+			   (NP lens systems)))))))
+    (VP is
+	(ADJP  rather
+	       inefficient))
+    (SBAR as
+	  (S (NP the lens systems)
+	     (VP limit
+		 (NP the obtainable gain)
+		 (ADVP quite
+		       severely)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Channel-type image intensifiers)
+      (VP are
+	  (ADJP capable
+		(PP of
+		    (S (NP *)  
+		       (VP achieving
+			   (NP high-gain values)))))))
+     ;
+     ;
+     (S (NP they)
+	(VP suffer
+	    ,
+	    (ADVP however)
+	    ,
+	    (PP from
+		(NP an
+		    (ADVP inherently)
+		    low resolution)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Image intensifiers)
+	(VP based
+	    (PP upon
+		(NP the multipactor principle))))
+    (VP appear
+	(S (NP *)
+	   (AUX to)
+	   (VP hold
+	       (NP promise)))
+	(ADVP as
+	      far
+	      (PP as
+		  (S (NP obtainable resolution)
+		     (AUX is)
+		     (VP concerned
+			 ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP the
+	     unavoidable low-duty
+	     cycle)
+	 (VP restricts
+	     (NP the effective gain))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP TSEM tubes)
+	(VP-1 *pseudo-attach*))
+    (AUX have)
+    (VP been
+	(VP constructed
+	    ))
+    (VP-1 showing
+	(NP high gain and resolution)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP (NP electrostatic focus)
+	     ,
+	     (ADJP important
+		   (PP for
+		       (NP many applications)))
+	     ,)
+	 (AUX has)
+	 (NEG not)
+	 (VP been
+	     (VP realized
+		 (PP for
+		     (NP these devices))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Resolution limitations
+       (PP with
+	   (NP electrostatic focus)))
+   (AUX might)
+   (VP be
+       (VP anticipated
+	   ))
+   (ADVP due
+	 (PP to
+	     (NP chromatic aberrations))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP the thin film dynodes)
+	 (VP appear
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (NP a natural diameter limitation)
+		    (SBAR 
+		     (WHADVP wherever)
+		     (S (NP a mesh support)
+			(AUX can)
+			(NEG not)
+			(VP be
+			    (VP tolerated
+				)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  (VP Cascaded)
+	     single stages)
+	(VP enclosed
+	    (PP by
+		(NP a common envelope))))
+    (AUX have)
+    (VP been
+	(VP constructed
+	    (PP with
+		(NP (NP high gain)
+		    and
+		    (NP high resolution))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These tubes)
+   (AUX may)
+   (VP differ
+       (PP both
+	   (PP in
+	       (NP the choice
+		   (PP of
+		       (NP the electron optical system))))
+	   and
+	   (PP in
+	       (NP the design
+		   (PP of
+		       (NP the coupling members)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The electron optical system)
+   (AUX may)
+   (VP be
+       (NP  either
+	   a
+	   magnetic or electrostatic
+	   one)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The magnification)
+   (AUX may)
+   (VP be
+       (ADJP smaller
+	     ,
+	     equal
+	     ,
+	     or
+	     larger
+	     (PP than
+		 (NP unity)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An electrostatic system)
+    (VP suffers
+	(ADVP generally)
+	(PP from
+	    (NP (NP image plane curvature)
+		(VP leading
+		    (PP to
+			(NP defocusing
+			    (PP in
+				(NP the peripheral image region))))
+		    (SBAR if
+			  (S (NP (NP a
+				     (ADJP flat)
+				     viewing
+				     (NP screen))
+				 *LRB*
+				 or
+				 (NP interstage coupler)
+				 *RRB*)
+			     (AUX is)
+			     (VP utilized
+				 )))))))
+    ,
+    (SBAR while
+	  (S (NP a magnetic system)
+	     (VP requires
+		 (NP accurate adjustment
+		     (PP of
+			 (NP (NP the solenoid)
+			     ,
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (VP is
+				     (ADJP heavy and bulky)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP As
+       (S (NP it)
+	  (AUX will)
+	  (VP be
+	      (VP discussed
+		  ))
+	  (ADVP later)))
+   ,
+   (S (NP  
+       (ADJP peripheral)
+       defocusing)
+      (AUX can)
+      (VP be
+	  (VP improved
+	      (PP on)
+	      (PP by
+		  (S (NP *)  
+		     (VP utilizing
+			 (NP curved fiber couplers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX should)
+   (VP be
+       (VP noted
+	   ,
+	   (ADVP however)
+	   ,
+	   (SBAR that
+		 (S (NP the paraxial resolution)
+		    (VP is
+			(ADJP  quite
+			       similar
+			       (PP for
+				   (NP both electron optical systems)))))))
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX is)
+    (VP felt)
+    (SBAR that
+	  (S (NP fiber-coupled double
+		 -
+		 *LRB*
+		 and
+		 multi
+		 -
+		 *RRB*
+		 stage image intensifiers)
+	     (AUX will)
+	     (VP gain
+		 (NP considerable importance))
+	     (PP in
+		 (NP the future)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP we)
+	 (AUX shall)
+	 (VP consider
+	     (PP in
+		 (NP this paper))
+	     (NP the theoretical gain and resolution capabilities
+		 (PP of
+		     (NP such tubes))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The luminous efficiency and resolution
+	(PP (PP of
+		(NP (NP single stages)
+		    ,
+		    (NP fiber couplers)))
+	    ,
+	    and
+	    (ADVP finally)
+	    (PP of
+		(NP the composite tube))))
+    (AUX will)
+    (VP be
+	(VP computed
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX will)
+   (VP be
+       (VP shown
+	   (ADVP theoretically)
+	   (SBAR that
+		 (S (NP (NP the high image intensification)
+			(ADJP obtainable
+			      (PP with
+				  (NP (NP such
+					  a tube)
+				      and
+				      (NP contact photography)))))
+		    (VP permits
+			(NP the utilization
+			    (PP of
+				(NP (ADJP  extremely
+					  low) incident light levels)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The effect
+	    (PP of
+		(NP device and quantum noise)))
+	,
+	(VP associated
+	    (PP with
+		(NP 
+		 such low
+		 input levels)))
+	,)
+    (AUX will)
+    (VP be
+	(VP described
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP these theoretical considerations))
+    ,
+    (S (NP constructional details
+	   (PP of
+	       (NP a
+		   fiber-coupled
+		   ,
+		   double-stage
+		   X-ray image intensifier)))
+       (AUX will)
+       (VP be
+	   (VP discussed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (VP Measured)
+	performance characteristics
+	(PP for
+	    (NP this experimental tube)))
+    (AUX will)
+    (VP be
+	(VP listed
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The conclusion)
+       (SBAR-2 *pseudo-attach*))
+   (AUX shall)
+   (VP be
+       (VP reached
+	   ))
+   (SBAR-2 that
+	 (S (NP fiber-coupled
+		,
+		double-stage
+		tubes)
+	    (VP represent
+		(NP a (ADJP sensible
+			    and
+			    practical)
+		    approach
+		    (PP to
+			(NP high-gain image intensification)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Basic design
+        (PP of
+            (NP a
+		fiber-coupled
+		,
+		double-stage
+		image intensifier)))
+    )
+((S (NP (NP The tube design)
+	(SBAR (WHNP which)
+	      (S (NP T)
+		 (VP forms
+		     (NP the basis
+			 (PP of
+			     (NP the theoretical discussion)))))))
+    (AUX shall)
+    (VP be
+	(VP described
+	    ))
+    (ADVP now))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The electron optical system)
+    *LRB*
+    (S  (NP *) 
+	(VP see
+	    (NP fig. 14-1)))
+    *RRB*
+    (AUX is)
+    (VP based
+	(PP in
+	    (NP principle))
+	(PP on
+	    (NP the focusing action
+		(PP of
+		    (NP 
+		     concentric spherical
+		     cathode and anode surfaces))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	(ADJP inner)
+	*LRB*
+	anode
+	*RRB*
+	sphere)
+    (AUX is)
+    (VP  (VP pierced)
+	 ,
+	 (VP elongated
+	     (PP into
+		 (NP a cup)))
+	 ,
+	 and
+	 (VP terminated
+	     (PP by
+		 (NP the phosphor screen)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The photoelectrons)
+	(VP emitted
+	    (PP from
+		(NP a circular segment
+		    (PP of
+			(NP the cathode sphere))))))
+    (X (X (AUX are)
+	  (VP focused
+	      (PP by
+		  (NP the positive lens action
+		      (PP of
+			  (NP the two concentric spheres))))))
+       ,
+       (VP pass
+	   (PP through
+	       (NP (NP the
+		       *LRB*
+		       negative
+		       *RRB*
+		       lens)
+		   (VP formed
+		       (PP by
+			   (NP the anode aperture))))))
+       ,
+       and
+       (VP impinge
+	   (PP upon
+	       (NP the cathodoluminescent viewing screen)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cylindrical focusing electrode)
+   (VP permits
+       (NP adjustment
+	   (PP of
+	       (NP the positive lens part))
+	   (PP by
+	       (S (NP *)  
+		  (VP varying
+		      (NP the focusing potential)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anode potential)
+   (VP codetermines
+       (NP   the gain
+	     ,
+	     G
+	     ,
+	     and
+	     magnification
+	     ,
+	     M
+	     ,
+	     (PP of
+		 (NP the stage)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Both
+	the photocathode
+	and
+	the image plane
+	(PP of
+	    (NP such
+		an electrode configuration)))
+    (AUX are)
+    (VP curved
+	(ADJP concave)
+	(PP as
+	    (S (NP *)  
+	       (VP seen
+		   (PP from
+		       (NP the anode aperture)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The field-flattening property
+       (PP of
+	   (NP the biconcave fiber coupler)))
+   (AUX can)
+   (VP be
+       (VP utilized
+	   (S (NP *)
+	      (AUX to)
+	      (VP alleviate
+		  (NP (NP the peripheral resolution losses)
+		      (VP resulting
+			  (PP with
+			      (NP a flat phosphor-screen
+				  or
+				  (VP coupling)
+				  member)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP the same reason))
+    ,
+    (S (NP the output fiber plate)
+       (VP is
+	   (ADJP planoconcave))
+       ,
+       (S (NP its
+	      exposed flat
+	      side)
+	  (VP permitting
+	      (NP contact photography)
+	      (SBAR if
+		    (S (NP a permanent record)
+		       (AUX is)
+		       (VP desired
+			   )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP As
+       (S (NP it)
+	  (AUX will)
+	  (VP be
+	      (VP shown
+		  ))
+	  (ADVP later)))
+   ,
+   (S (NP the field-flattening properties
+	  (PP of
+	      (NP the interstage and output fiber coupler)))
+      (VP comprise
+	  (ADVP indeed)
+	  (NP the main advantage
+	      (PP of
+		  (NP such
+		      a design))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The second photocathode)
+      and
+      (NP both phosphor surfaces))
+    (AUX are)
+    (VP deposited
+	 
+	(PP on
+	    (NP the fiber plate substrates))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The photocathode sensitivities
+	S
+	,
+	phosphor efficiencies
+	P
+	,
+	and
+	anode potentials
+	V
+	(PP of
+	    (NP the individual stages)))
+    (AUX shall)
+    (VP be
+	(VP distinguished
+	     
+	    (PP by
+		(NP means
+		    (PP of
+			(NP subscripts 1
+			    ,
+			    and
+			    2))))
+	    ,
+	    (PP in
+		(NP the text))
+	    ,
+	    (SBAR (WHADVP where)
+		  (S (NP *)  
+		     (VP required
+			 ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (NP  Both
+	 stages)
+     (AUX are)
+     (VP assumed
+	  
+	 (S (NP *)
+	    (AUX to)
+	    (VP have
+		(NP unity magnification)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Theoretical discussion
+        (PP of
+            (NP flux gain)))
+  (NP flux gain
+      (PP of
+	  (NP a single stage)))
+    )
+(  
+ (S (NP The luminous gain
+	(PP of
+	    (NP a single stage
+		(PP with
+		    (NP (NP A[fj])
+			*LRB*
+			(NP flux gain)
+			*RRB*)))))
+    (AUX is)
+    ,
+    (PP to
+	(NP a first approximation))
+    ,
+    (VP given
+	(PP by
+	    (NP the product
+		(PP of
+		    (NP  (NP (NP the photocathode sensitivity S)
+			     *LRB*
+			     (NP amp lumen)
+			     *RRB*)
+			 ,
+			 (NP (NP the anode potential V)
+			     *LRB*
+			     (NP volts)
+			     *RRB*)
+			 ,
+			 and
+			 (NP (NP the phosphor conversion efficiency P)
+			     *LRB*
+			     (NP lumen)
+			     *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP general))
+    ,
+    (S (NP P)
+       (VP is
+	   (NP a function
+	       (PP of
+		   (NP (NP V)
+		       and
+		       (NP the current density))))))
+    ,
+    but
+    (S (NP it)
+       (AUX shall)
+       (ADVP here)
+       (VP be
+	   (VP assumed
+	        
+	       (PP as
+		   (NP a constant))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The luminous efficiency A[fj]
+       (PP of
+	   (NP a photocathode)))
+   (VP depends
+       (PP on
+	   (NP the
+	       maximum radiant
+	       sensitivity A[fj]))
+       and
+       (PP on
+	   (NP the spectral distribution
+	       (PP of
+		   (NP the incident light A[fj]))))
+       (PP by
+	   (NP (NP the relation)
+	       :
+	       (NP (NP A[fj])
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP A[fj])
+		       (AUX is)
+		       (NP  normalized
+			   radiant photocathode sensitivity))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A[fj])
+   (VP is
+       (NP standard visibility function)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The luminous flux gain
+       (PP of
+	   (NP a single stage)))
+   (AUX is)
+   (VP given
+       (PP by
+	   :
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBAR If
+       (S (NP the input light distribution)
+	  (VP falls
+	      (PP beyond
+		  (NP the visible range)))))
+    ,
+    (NP A[fj]
+	(PP as
+	    (S (NP *)  
+	       (VP expected)))
+	,
+	(SBAR since
+	      (NP A[fj])))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such cases)
+   (AUX are)
+   (NEG not)
+   (VP considered
+       (ADVP here)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Efficiency
+        (PP of
+            (NP fiber couplers)))
+    )
+(  
+ (S (NP The efficiency
+	(PP of
+	    (NP fiber optics
+		plates)))
+    (VP depends
+	(PP on
+	    (NP (NP four factors)
+		:
+		(NP (NP *LRB*
+			A
+			*RRB*)
+		    (NP (NP numerical aperture)
+			*LRB*
+			(NP N.A.)
+			*RRB*))
+		;
+		;
+		(NP (NP *LRB*
+			B
+			*RRB*)
+		    (NP (NP end
+			    *LRB*
+			    Fresnel reflection
+			    *RRB*
+			    losses)
+			(NP *LRB*
+			    R
+			    *RRB*)))
+		;
+		;
+		(NP (NP *LRB*
+			C
+			*RRB*)
+		    (NP (NP internal losses)
+			*LRB*
+			(NP I.L.)
+			*RRB*))
+		;
+		;
+		(NP (NP *LRB*
+			D
+			*RRB*)
+		    (NP (NP (VP packing)
+			    efficiency)
+			*LRB*
+			(NP F.R
+			    .)
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The numerical aperture
+       (PP of
+	   (NP the fibers)))
+   (AUX is)
+   (VP given
+       (PP by
+	   :
+	   (NP (NP A[fj])
+	       (SBAR (WHADVP where)
+		     (S (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The angle A[fj])
+   (AUX is)
+   (VP measured
+       (PP in
+	   (NP the medium
+	       (PP of
+		   (NP index A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (VP Settled)
+	   phosphors)
+       ,
+       (PP as
+	   (S (NP *)  
+	      (ADVP generally)
+	      (VP used
+		  (PP in
+		      (NP image intensifiers)))))
+       ,
+       (VP have
+	   (NP 
+	    low optical
+	    contact)
+	   (PP with
+	       (NP the substrate surface))))
+    ,
+    (ADVP hence)
+    (S (NP A[fj])
+       (AUX shall)
+       (VP be
+	   (VP assumed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The numerical aperture)
+   (AUX should)
+   (VP be
+       (PP in
+	   (NP general))
+       (ADVP close
+	     (PP to
+		 (NP unity)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This condition)
+   (AUX can)
+   (VP be
+       (VP satisfied
+	   ,
+	   (X e.g.)
+	   ,
+	   (PP with
+	       (NP (NP A[fj] and A[fj])
+		   or
+		   (NP equivalent glass combinations))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A
+	(ADJP  sufficiently
+	       good) approximation
+	(PP for
+	    (S (NP *)  
+	       (VP determining
+		   (NP the end reflection losses
+		       R)))))
+    (AUX can)
+    (VP be
+	(VP obtained
+	    (PP from
+		(NP (NP the angle independent Fresnel formula)
+		    :
+		    (NP A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP  (NP (NP phosphor
+		     (PP to
+			 (NP fiber)))
+		 and
+		 (NP fiber
+		     (PP to
+			 (NP air))))
+	     surfaces))
+    ,
+    and
+    (S (NP *)  
+       (VP assuming
+	   (NP A[fj])))
+    ,
+    (S (NP we)
+       (VP obtain
+	   (NP A[fj] percent))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This value)
+    (AUX may)
+    (VP be
+	(VP reduced
+	    (PP to
+		(NP 4.6 percent))
+	    (PP by
+		(NP means
+		    (PP of
+			(NP a
+			    (ADJP  *LRB*
+				   very
+				   thin
+				   *RRB*)
+			    glass layer
+			    (PP of
+				(NP index 1.5)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Hence)
+      ,
+      (S (NP the A[fj] factor
+	     (PP for
+		 (NP the output fiber coupler)))
+	 (VP is
+	     (NP A[fj]))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+	  (S (NP the index
+		 (PP of
+		     (NP refraction
+			 (PP of
+			     (NP photosensitive surfaces
+				 (PP of
+				     (NP the
+					 (ADJP SbCs-type))))))))
+	     (VP lies
+		 (NP  around
+		      2))))
+    ,
+    (S (NP the Fresnel losses
+	   (PP at
+	       (NP the fiber-photocathode interface)))
+       (VP are
+	   (PP about
+	       (NP 0.5 percent))))
+    and
+    (S (NP the A[fj] factor
+	   (PP for
+	       (NP the interstage coupler)))
+       (VP is
+	   (NP 0.95))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX might)
+   (VP be
+       (VP anticipated
+	   ))
+   (SBAR-1 that
+	 (S (NP multiple coatings)
+	    (AUX will)
+	    (VP reduce
+		(NP end reflection losses)
+		(ADVP even
+		      further)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The internal losses)
+   (VP are
+       (ADVP due
+	     (PP to
+		 (NP (NP absorption)
+		     and
+		     (NP (NP the small but finite losses)
+			 (VP suffered
+			     (PP in
+				 (NP the
+				     numerous internal
+				     reflections
+				     (ADVP due
+					   (PP to
+					       (NP (NP deviations
+						       (PP from
+							   (NP the
+							       prescribed
+							       ,
+							       cylindrical
+							       fiber
+							       cross-section)))
+						   and
+						   (NP minute imperfections
+						       (PP of
+							   (NP the core-jacket interface)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These losses)
+   (VP depend
+       (PP (PP on
+	       (NP (NP fiber diameter and length)
+		   ,
+		   (NP absorption coefficient)
+		   ,
+		   (NP the mean value
+		       (PP of
+			   (NP the loss
+			       (PP per
+				   (NP internal reflection)))))))
+	   and
+	   (ADJP last
+		 ,
+		 but
+		 (NEG not)
+		 least)
+	   ,
+	   (PP on
+	       (NP the angular distribution
+		   (PP of
+		       (NP the incident light)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Explicit expressions)
+	(NP  *LRB*
+	     integral averages
+	     *RRB*))
+    (AUX are)
+    (VP given
+	 
+	(PP in
+	    (NP the literature))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Lacking
+	   (NP reliable data
+	       (PP for
+		   (NP some
+		       (PP of
+			   (NP the variables)))))))
+    ,
+    (S (NP we)
+       (AUX are)
+       (VP relying
+	   (PP on
+	       (NP experimental data
+		   (PP of
+		       (NP  about
+			    20 percent internal losses
+			    (PP for
+				(ADJP 14-inch long
+				      ,
+				      small
+				      *LRB*
+				      5 - 10 M
+				      *RRB*
+				      diameter fibers)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This
+       (ADJP  relatively
+	     high) value)
+   (VP is
+       (ADVP probably)
+       (ADVP due
+	     (PP to
+		 (S (NP the small fiber diameters)
+		    (VP increasing
+			(NP the number
+			    (PP of
+				(NP internal reflections)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR Since
+	   (S (NP we)
+	      (AUX are)
+	      (VP considering
+		  (ADVP here)
+		  (NP (ADJP  relatively
+			    small) diameter
+			    *LRB*
+			    1 - 1.5 inches
+			    *RRB*
+			    fiber plates))))
+     ,
+     (S (NP their average thickness)
+	(AUX can)
+	(VP be
+	    (VP kept
+		 
+		(PP below
+		    (NP 14 inch)))))
+     and
+     (S (NP their internal losses)
+	(AUX may)
+	(VP be
+	    (VP assumed
+		 
+		(PP as
+		    (NP (NP 15 percent)
+			*LRB*
+			(PP per
+			    (NP plate))
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The packing efficiency
+	,
+	F.R.
+	,
+	(PP of
+	    (NP fiber plates)))
+    (AUX did)
+    (NEG not)
+    (VP receive
+	(NP much attention)
+	(PP in
+	    (NP the literature)))
+    ,
+    (ADVP probably)
+    (SBAR as
+	  (S (NP it)
+	     (VP is
+		 (ADJP high
+		       (PP for
+			   (NP (NP the
+				   (ADJP larger)
+				   fibers)
+			       (VP (ADVP generally)
+				   used)))))))
+    ,
+    (PP until
+	(ADVP rather
+	      recently)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP circular fibers
+	    (PP in
+		(NP a
+		    (VP  closely
+			 packed)
+		    hexagonal array))))
+    ,
+    (S (NP the packing efficiency)
+       (AUX is)
+       (VP given
+	   (PP by
+	       :
+	       (NP (NP A[fj])
+		   (SBAR 
+		    (WHADVP where
+			    (S (S (NP A[fj]))
+			       ,
+			       and
+			       (S (NP 0.906)
+				  (VP is
+				      (NP the ratio
+					  (PP of
+					      (NP the area
+						  (PP of
+						      (NP a circle))
+						  (PP to
+						      (NP that
+							  (PP of
+							      (NP the circumscribed hexagon)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((PP For
+    (NP (NP the small diameter fibers)
+	(ADVP now)
+	(ADJP  technically
+	       feasible)
+	and
+	(VP required
+	    (PP for
+		(NP  about
+		     100 A[fj] resolution))))
+    ,
+    (NP A[fj]))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cladding thickness)
+   (VP is
+       (PP about
+	   (NP 0.5 M)))
+   ,
+   (ADVP hence)
+   ,
+   (NP A[fj] and A[fj]))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP the efficiency ** yt couplers)
+	 (AUX is)
+	 (VP given
+	     (PP by
+		 --
+		 (NP (NP A[fj])
+		     or
+		     (NP  approximately
+			  50 percent
+			  each))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX must)
+    (VP be
+	(VP remembered
+	    (SBAR that
+		  (S (NP the fiber plates)
+		     (VP replace
+			 (NP (NP a glass window)
+			     and
+			     (NP a
+				 *LRB*
+				 mica
+				 *RRB*
+				 membrane)
+			     ,
+			     (PP in
+				 (NP addition
+				     (PP to
+					 (NP an optical output lens system)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The efficiency A[fj]
+       (PP of
+	   (NP an A[fj] lens))
+       (PP at
+	   (NP the magnification A[fj])))
+   (VP is
+       :
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Neglecting
+	   (NP absorption)))
+    ,
+    (S (NP the end losses
+	   (PP of
+	       (NP (NP the coupling membrane)
+		   and
+		   (NP the output window A[fj]))))
+       (AUX would)
+       (VP be
+	   (NP (NP 6 percent)
+	       and
+	       (NP 8 percent)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP the combined efficiency
+	     (PP of
+		 (NP (NP the elements)
+		     (VP replaced
+			 (PP by
+			     (NP (NP the two fiber plates)
+				 *LRB*
+				 (PP with
+				     (NP a combined efficiency
+					 (PP of
+					     (NP 0.25))))
+				 *RRB*))))))
+	 (VP is
+	     (NP (NP 0.043)
+		 or
+		 (NP  about
+		     six times
+		     (ADJP less
+			   (PP than
+			       (NP that
+				   (PP of
+				       (NP the two fiber plates))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Gain
+     (PP of
+	 (NP fiber
+	     coupled
+	     image intensifiers)))
+ (S (S (NP *)  
+       (VP Including
+	   (NP the brightness gain A[fj]
+	       (ADVP due
+		     (PP to
+			 (NP the A[fj] area demagnification))))))
+    ,
+    (S (NP the overall gain
+	   (PP of
+	       (NP a fiber
+		   coupled
+		   double stage image intensifier)))
+       (VP is
+	   :
+	   (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (ADJP obvious))
+   (SBAR-2 that
+	 (S (NP (NP the careful choice
+		    (PP of
+			(NP photocathode)))
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP maximizes
+			     (NP A[fj])
+			     (PP (PP for
+				     (NP a given input E))
+				 *LRB*
+				 (PP in
+				     (NP the case
+					 (PP of
+					     (NP the second stage))))
+				 ,
+				 (PP for
+				     (NP the first phosphor screen emission))
+				 *RRB*)))))
+	    (VP is
+		(ADJP  very
+		      important)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The same consideration)
+    (AUX should)
+    (VP govern
+	(NP the choice
+	    (PP of
+		(NP the second-stage phosphor screen
+		    (PP for
+			(S (NP *)  
+			   (VP matching
+			       (PP with
+				   (NP the spectral sensitivity
+				       (PP of
+					   (NP (NP the ultimate sensor)
+					       *LRB*
+					       (X e.g.)
+					       ,
+					       (NP photographic emulsion)
+					       *RRB*))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX have)
+    (VP evaluated
+	(NP the
+	    ``
+	    matching integrals
+	    '')
+	(PP for
+	    (NP (NP two types
+		    (PP of
+			(NP photocathodes)))
+		(NP  *LRB*
+		     (NP S-11) 
+		     and 
+		     (NP S-20)
+		     *RRB*)
+		and
+		(NP three types
+		    (PP of
+			(NP light input)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The input light distributions)
+	(VP considered))
+    (VP are
+	(NP (NP P-11 and P-20 phosphor emission)
+	    and
+	    (NP the so-called
+		``
+		night light
+		''
+		*LRB*
+		N.L.
+		*RRB*
+		(PP as
+		    (S (NP *)  
+		       (VP given
+			   (PP by
+			       (NP (NP H.W. Babcock)
+				   and
+				   (NP J.J. Johnson))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The integrals
+	(PP  *LRB*
+	     in
+	     (NP units)
+	     *RRB*))
+    (AUX are)
+    (VP listed
+	 
+	(PP in
+	    (NP table 14-1))
+	,
+	(ADVP below)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Theoretical discussion
+	  (PP of
+	      (NP paraxial device resolution)))
+      (NP resolution limitations
+	  (PP in
+	      (NP a single stage))))
+  )
+( (S
+   (NP The resolution limitations
+       (PP for
+	   (NP a single stage)))
+   (AUX are)
+   (VP given
+	     
+       (PP by
+	   (NP (NP the inherent resolution
+		   (PP of
+		       (NP the electron optical system)))
+	       (ADVP as
+		     well
+		     (PP as
+			 (NP the resolution capabilities
+			     (PP of
+				 (NP the cathodoluminescent viewing screen)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The resolution capabilities
+       (PP of
+	   (NP an electrostatic system)))
+   (VP depend
+       (PP on
+	   (NP both
+	       (NP the choice
+		   (PP of
+		       (NP magnification)))
+	       and
+	       (NP chromatic aberrations)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (AUX has)
+   (VP been
+       (VP stated
+	   (ADVP previously)))
+   (SBAR-3 that
+	 (S (NP a minifying electrostatic system)
+	    (VP yields
+		(NP a
+		    (ADJP lower)
+		    resolution
+		    (PP than
+			(NP (NP a magnifying system)
+			    or
+			    (NP a system
+				(PP with
+				    (NP unity magnification))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP the chromatic aberrations)
+	 (VP depend
+	     (PP on
+		 (NP the
+		     chosen high
+		     voltage)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(ADJP general))
+    ,
+    (S (NP a high anode voltage)
+       (VP (VP reduces
+	       (NP chromatic aberrations))
+	   and
+	   thus
+	   (VP increases
+	       (NP the obtainable resolution)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The luminous gain
+	(PP of
+	    (NP the discussed tube)))
+    (AUX was)
+    (VP calculated
+	(PP from
+	    (NP Eq.
+		*LRB*
+		6
+		*RRB*))
+	(PP for
+	    (NP the 16 possible combinations
+		(PP of
+		    (NP (NP S-11 and S-20 photocathodes)
+			and
+			(NP P-11 and P-20 phosphor screens)))))
+	,
+	(PP for
+	    (NP night light and P-20 light input))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP The P-20 input)
+      (VP is
+	  (PP of
+	      (NP interest)))
+      (SBAR because
+	    (S (NP it)
+	       (VP corresponds
+		   (ADVP roughly)
+		   (PP to
+		       (NP the light emission
+			   (PP of
+			       (NP conventional X-ray fluorescent screens))))))))
+   *RRB*
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The following efficiencies)
+       (VP obtained
+	   (PP from
+	       (NP JEDEC and RCA specifications))))
+   (AUX were)
+   (VP used
+       :
+       (NP A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The following table
+	*LRB*
+	14-2
+	*RRB*)
+    (VP lists
+	(NP (NP  the
+		 *LRB*
+		 luminous
+		 *RRB*
+		 gain values)
+	    (VP computed
+		(VP according
+		    (PP to
+			(NP Eq.
+			    *LRB*
+			    6
+			    *RRB*)))
+		(PP with
+		    (NP A[fj]))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The possibility
+       (PP of
+	   (NP a space charge blowup
+	       (PP of
+		   (NP the screen crossover
+		       (PP of
+			   (NP the elementary electron bundles)))))))
+   (AUX has)
+   (VP been
+       (VP pointed
+	    
+	   (PRT out))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-4 *pseudo-attach*))
+   (VP is
+       (ADJP obvious))
+   (SBAR-4 that
+	 (S (NP  such
+		 an influence)
+	    (AUX can)
+	    (ADVP only)
+	    (VP be
+		(VP expected
+		    (PP in
+			(NP the final stage
+			    (PP of
+				(NP an image intensifier
+				    (PP at
+					(NP (ADJP  rather
+						   high) output levels)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Space charge influences)
+    (AUX will)
+    (ADVP also)
+    (VP decrease
+	(PP at
+	    (NP (VP increased)
+		voltages))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Electrostatic systems
+       (PP of
+	   (NP the pseudo-symmetric type)))
+   (AUX have)
+   (VP been
+       (VP tested
+	   (PP for
+	       (NP resolution capabilities))
+	   (PP by
+	       (S (NP *)  
+		  (VP applying
+		      (NP electronography)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A resolution
+       (PP of
+	   (NP 70 -
+	       80 line-pairs
+	       (PP per
+		   (NP millimeter)))))
+   (VP appears
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP feasible)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The inherent resolution
+	(PP of
+	    (NP a cathodoluminescent phosphor screen)))
+    (X (VP decreases
+	   (PP with
+	       (NP (ADJP  increasingly
+			  aggregate) thickness))
+	   (PP  *LRB*
+		with
+		(NP (VP increasing)
+		    anode voltage)
+		*RRB*))
+       ,
+       (VP decreases
+	   (PP with
+	       (NP (NP (VP decreasing)
+		       porosity)
+		   *LRB*
+		   (ADVP thus)
+		   (NP the advantage
+		       (PP of
+			   (NP cathodophoretic phosphor deposition)))
+		   *RRB*)))
+       and
+       (X (AUX might)
+	  (VP be
+	      (VP impaired
+		  (PP by
+		      (NP the
+			  (ADJP  normally
+				 used)
+			  aluminum mirror)))
+	      ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (PP in
+	  (ADJP general))
+      ,
+      (S (NP (NP 
+	      elementary
+	      light optical effects)
+	     ,
+	     (NP light scatter)
+	     ,
+	     and
+	     (NP electron scatter))
+	 (VP determine
+	     (NP the obtainable resolution limit))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX should)
+    (VP be
+	(VP noted
+	     
+	    (SBAR that
+		  (S (NP  photoluminescence
+			  ,
+			  (ADVP due
+				(PP to
+				    (NP (NP  ``
+					     Bremsstrahlung
+					     '')
+					(VP generated
+					    (PP within
+						(NP the viewing screen))
+					    (PP by
+						(NP electron impact))))))
+			  ,)
+		     (VP appears
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(ADJP important
+				      (SBAR  only
+					     if
+					     (S (NP anode voltages
+						    (PP in
+							(NP excess
+							    (PP of
+								(NP 30 KV)))))
+						(AUX are)
+						(VP utilized
+						    ))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX has)
+    (VP been
+	(VP stated
+	    (SBAR that
+		  (S (NP (VP settled)
+			 cathodoluminescent phosphor screens)
+		     (AUX may)
+		     (VP have
+			 (NP a limiting resolution
+			     (PP of
+				 (NP 60 A[fj])))
+			 (PP at
+			     (NP high voltage values
+				 (PP of
+				     (NP  approximately
+					 20 A[fj]))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP the
+	    (ADJP further)
+	    discussion))
+    ,
+    (S (NP we)
+       (AUX shall)
+       (ADVP thus)
+       (VP assume
+	   (NP (NP an electron optical resolution
+		   (PP of
+		       (NP 80 A[fj])))
+	       and
+	       (NP phosphor screen resolution
+		   (PP of
+		       (NP 60 A[fj])))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

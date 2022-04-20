@@ -1,0 +1,2246 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A proton magnetic resonance study
+       (PP of
+	   (NP polycrystalline A[fj]
+	       (PP as
+		   (NP a function
+		       (PP of
+			   (NP (NP magnetic field) and (NP temperature))))))))
+   (AUX is)
+   (VP presented
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A[fj])
+      (VP is
+	  (ADJP paramagnetic)))
+     ,
+     and
+     (S (NP (NP electron paramagnetic dipole)
+	    (ADVP as
+		  well
+		  (PP as
+		      (NP 
+		       nuclear dipole
+		       effects))))
+	(VP lead
+	    (PP to
+		(NP line
+		    broadening)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The lines)
+      (VP are
+	  (ADJP asymmetric)))
+     and
+     (S (PP over
+	    (NP the range
+		(PP of
+		    (NP (NP field A[fj] gauss) and (NP temperature A[fj])))))
+	(S
+	 (NP the asymmetry)
+	 (VP increases
+	     (PP with
+		 (NP (NP (VP increasing)
+			 A[fj])
+		     and
+		     (NP (VP decreasing)
+			 T))))))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP An isotropic resonance shift
+      (PP of
+	  (NP A[fj]))
+      (PP to
+	  (NP
+	   lower
+	   (VP applied)
+	   fields)))
+  (VP indicates
+      (NP a
+	  weak isotropic hyperfine
+	  contact interaction)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The general theory
+       (PP of
+	   (NP resonance shifts)))
+   (X (X (AUX is)
+	 (VP used
+	     
+	     (S (NP *)
+		(AUX to)
+		(VP derive
+		    (NP a general expression
+			(PP for
+			    (NP the second moment A[fj]
+				(PP of
+				    (NP a
+					polycrystalline paramagnetic
+					sample)))))))))
+      and
+      (X  
+       (AUX is)
+       (VP specialized
+	       
+	   (PP to
+	       (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The theory)
+   (VP predicts
+       (NP a linear dependence
+	   (PP of
+	       (NP A[fj]))
+	   (PP on
+	       (NP A[fj]))))
+   ,
+   (SBAR 
+    (WHADVP where)
+    (S (NP J)
+       (VP is
+	   (NP the
+	       (VP experimentally
+		   determined)
+	       Curie-Weiss constant)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       experimental second
+       moment A[fj])
+   (VP conforms
+       (PP to
+	   (NP the relation A[fj]))
+       (PP in
+	   (NP agreement
+	       (PP with
+		   (NP theory))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (S (NP (NP the electron paramagnetic effects)
+	     *LRB*
+	     (NP slope)
+	     *RRB*)
+	 (AUX can)
+	 (VP be
+	     (VP separated
+		     
+		 (PP from
+		     (NP (NP the nuclear effects)
+			 *LRB*
+			 (NP intercept)
+			 *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       paramagnetic dipole
+       effects)
+   (VP provide
+       (NP some information
+	   (PP on
+	       (NP the particle shapes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  nuclear dipole
+	  effects)
+      (VP provide
+	  (NP some information
+	      (PP on
+		  (NP the motions
+		      (PP of
+			  (NP the hydrogen nuclei)))))))
+     ,
+     but
+     (S (NP the symmetry
+	    (PP of
+		(NP the A[fj] bond
+		    (PP in
+			(NP A[fj])))))
+	(VP remains
+	    (PP in
+		(NP doubt)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Introduction))
+( (S
+   (NP the magnetic moment
+       (PP of
+	   (NP (NP an (ADJP unpaired) electron)
+	       (VP associated
+		   (ADVP nearby)))))
+   (AUX may)
+   (VP have
+       (NP a tremendous influence
+	   (PP on
+	       (NP the magnetic resonance properties
+		   (PP of
+		       (NP nuclei)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADJP important))
+   (S-1 (NP *)
+	(AUX to)
+	(VP (VP consider
+		(NP-2 *pseudo-attach*))
+	    and
+	    (VP (ADVP experimentally)
+		verify
+		(NP-2 *pseudo-attach*))
+	    (NP-2 this influence)))
+   (SBAR since
+	 (S (NP
+	     quantitative nuclear
+	     resonance)
+	    (AUX is)
+	    (VP becoming
+		(S (NP *)
+		   (VP  (ADVP increasingly)
+			used
+			(PP in
+			    (NP investigations
+				(PP of
+				    (NP structure))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP A[fj])
+   (VP appeared
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP   (ADVP well)
+		      suited
+			  
+		      (PP for
+			  (NP the study
+			      (PP of
+				  (NP these matters))))))))
+   ,
+   (SBAR since
+	 (S (S (NP it)
+	       (VP is
+		   (NP a normal paramagnet))
+	       ,
+	       (PP with
+		   (NP three
+		       (ADJP unpaired)
+		       electrons
+		       (PP on
+			   (NP the chromium))))
+	       ,)
+	    (S (NP its crystal structure)
+	       (VP is
+		   (ADJP  very
+			  simple)))
+	    ,
+	    and
+	    (S (NP the (ADJP unknown) position
+		   (PP of
+		       (NP the hydrogen))
+		   (PP in
+		       (NP the strong A[fj] bond)))
+	       (VP provides
+		   (NP structural interest))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP first)
+   (VP discuss
+       (NP the A[fj] bond)
+       (PP in
+	   (NP A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP then)
+   (VP (VP outline
+	   (NP the theory
+	       (PP of
+		   (NP the interaction
+		       (PP of
+			   (NP paramagnetic dipoles))
+		       (PP with
+			   (NP nuclei))))))
+       and
+       (VP show
+	   (SBAR that
+		 (S (NP the theory)
+		    (VP is
+			(PP in
+			    (NP excellent agreement
+				(PP with
+				    (NP experiment))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      (S (NP it
+	     (S-3 *pseudo-attach*))
+	 (VP is
+	     (ADJP possible))
+	 (S-3 (NP *)
+	      (AUX to)
+	      (VP separate
+		  (X (ADJP electron
+			   paramagnetic))
+		  (PP from
+		      (NP nuclear
+			  effects))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP The information)
+	  (VP provided
+	      (PP by
+		  (NP the electron paramagnetic effects))))
+      (AUX is)
+      (ADVP then)
+      (VP discussed))
+     ,
+     and
+     (S  (ADVP finally)
+	 (S (NP the nuclear effects)
+	    (AUX are)
+	    (VP interpreted
+	      
+		(PP in
+		    (NP terms
+			(PP of
+			    (NP 
+			     various (ADJP motional-modified)
+			     models
+			     (PP of
+				 (NP the A[fj] bond
+				     (PP in
+					 (NP Af))))))))))))
+  .)
+((NP A[fj] bond
+     (PP in
+	 (NP A[fj]))))
+((S (NP Theoretical studies
+	(PP of
+	    (NP the hydrogen bond)))
+    (ADVP generally)
+    (VP agree
+	(SBAR that
+	      (S (NP the A[fj] bond)
+		 (AUX will)
+		 (VP be
+		     (ADJP linear))
+		 (PP in
+		     (NP the absence
+			 (PP of
+			     (NP peculiarities
+				 (PP of
+				     (NP  packing))
+				 (PP in
+				     (NP the solid))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (S (NP it)
+	 (AUX will)
+	 (VP be
+	     (ADJP asymmetric))
+	 (PP until
+	     (S (NP (NP a
+			certain critical
+			A[fj] distance)
+		    (SBAR-1 *pseudo-attach*))
+		(AUX is)
+		(VP reached)
+		,
+		(SBAR-1 (WHPP below
+			      (WHNP which))
+			(S
+			 (NP it)
+			 (AUX will)
+			 (VP become
+			     (ADJP symmetric))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP ample evidence
+	   (PP from
+	       (NP many sources))
+	   (SBAR that
+		 (S (NP the A[fj] bond
+			(PP in
+			    (NP A[fj])))
+		    (VP is
+			(ADJP symmetric)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The A[fj] distance
+       (PP in
+	   (NP A[fj])))
+   (VP is
+       (NP 2.26 A[fj])))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP evidence
+	   ,
+	   (X though
+	      (ADJP  less
+		     convincing
+		     (PP than
+			 (PP for
+			     (NP A[fj])))))
+	   ,
+	   (SBAR that
+		 (S (NP the A[fj] bond
+			(PP in
+			    (NP nickel dimethylglyoxime)))
+		    (VP is
+			(ADJP symmetric)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      (S (NP the A[fj] distance)
+	 (VP is
+	     (NP 2.44 A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A number
+	  (PP of
+	      (NP semiempirical estimates
+		  (PP by
+		      (NP various workers)))))
+      (VP lead
+	  (PP to
+	      (NP the conclusion
+		  (SBAR that
+			(S (NP the A[fj] bond)
+			   (VP becomes
+				  
+			       (ADJP symmetric))
+			   (SBAR 
+			    (WHADVP when)
+			    (S (NP the A[fj] bond length)
+			       (VP is
+				   (NP (ADVP about)
+				       (NP 2.4
+					   (PP to
+					       (NP 2.5)))
+				       A))))))))))
+     ,
+     but
+     (S (ADVP aside
+	      (PP from
+		  (NP the possible example
+		      (PP of
+			  (NP nickel dimethylglyoxime)))))
+	(S
+	 (NP there)
+	 (AUX have)
+	 (VP been
+	     (NP  no
+		  convincing reports
+		  (PP of
+		      (NP symmetric A[fj] bonds)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Douglass)
+   (AUX has)
+   (VP studied
+       (NP the crystal structure
+	   (PP of
+	       (NP A[fj])))
+       (PP by
+	   (NP x-ray diffraction))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP finds
+       (SBAR 0
+	     (S (NP the structure)
+		(VP contains
+		    (NP an A[fj] bond
+			(PP with
+			    (NP the A[fj] distance
+				(PP of
+				    (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       ,
+       (ADVP then)
+       ,
+       (NP the possibility
+	   (SBAR that
+		 (S (NP this A[fj] bond)
+		    (VP is
+			(ADJP symmetric))))))
+   ,
+   (SBAR although
+	 (S (NP Douglass)
+	    (VP was
+		(ADJP unable
+		      (S (NP *)
+			 (AUX to)
+			 (VP determine
+			     (NP its symmetry)
+			     (PP from
+				 (NP his x-ray data)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Douglass)
+   (VP found
+       (NP A[fj])
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (X (ADJP trigonal)
+		 ,
+		 (NP Laue symmetry A[fj])
+		 ,
+		 (PP with
+		     (NP (NP A[fj])
+			 ,
+			 (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  (ADJP X-ray
+	       and
+	       experimental) density)
+    (VP showed
+	(NP (NP one formula unit
+		(PP in
+		    (NP the unit cell)))
+	    ,
+	    (VP corresponding
+		(PP to
+		    (NP a paramagnetic ion density
+			(PP of
+			    (NP A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The x-ray data)
+      (AUX did)
+      (NEG not)
+      (VP permit
+	  (NP Douglass)
+	  (S (NP *)
+	     (AUX to)
+	     (VP determine
+		 (ADVP uniquely)
+		 (NP the space group)))))
+     ,
+     but
+     (S (NP a negative test
+	    (PP for
+		(NP piezoelectricity)))
+	(VP led
+	    (NP him)
+	    (S (NP *)
+	       (AUX to)
+	       (VP assume
+		   (NP a center
+		       (PP of
+			   (NP symmetry))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Under
+	 (NP this assumption))
+     (S (S
+	 (NP the space group)
+	 (AUX must)
+	 (VP be
+	     (NP A[fj])))
+	and
+	(S (NP the following)
+	   (VP are
+	       (NP the positions
+		   (PP of
+		       (NP the atoms))
+		   (PP in
+		       (NP the unit cell)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP A[fj])
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This space group)
+   (VP requires
+       (S (NP the hydrogen bond)
+	  (AUX to)
+	  (VP be
+	      (ADJP symmetric)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Douglass)
+   (VP found
+       (S (NP powder intensity calculations and measurements)
+	  (AUX to)
+	  (VP agree
+	      (ADVP best)
+	      (PP for
+		  (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These data)
+    (VP lead
+	(PP to
+	    (NP (NP a structure)
+		(SBAR (WHPP in
+			    (WHNP which))
+		      (S (NP sheets
+			     (PP of
+				 (NP Cr atoms)))
+			 (VP lie
+			     (PP between
+				 (NP two sheets
+				     (PP of
+					 (NP O atoms)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The O atoms
+	  (PP in
+	      (NP each sheet)))
+      (VP are
+	  (ADJP   (ADVP close)
+		  packed
+		  )))
+     and
+     (S (NP each Cr atom)
+	(AUX is)
+	(VP surrounded
+		 
+	    (PP by
+		(NP a (ADJP distorted) octahedron
+		    (PP of
+			(NP O atoms)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The A[fj] layers)
+    (AUX are)
+    (VP stacked
+	(ADJP normal
+	      (PP to
+		  (NP the
+		      *LRB*
+		      111
+		      *RRB*
+		      axis)))
+	(PP with
+	    (X (NP the
+		   lower
+		   oxygens
+		   (PP of
+		       (NP one layer)))
+	       (PP (ADVP directly)
+		   above
+		   (NP the upper oxygens
+		       (PP of
+			   (NP the (ADJP neighboring) lower layer))))
+	       ,
+	       (PP in
+		   (NP  
+		    such
+		    a manner
+		    (SBAR that
+			  (S (NP the repeat)
+			     (VP is
+				 (NP every three layers))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The separate layers)
+   (AUX are)
+   (VP joined
+       (ADVP together)
+       (PP by
+	   (NP hydrogen bonds))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A drawing
+       (PP of
+	   (NP the structure)))
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP found
+			 
+		  (PP in
+		      (NP reference 6)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gross details
+       (PP of
+	   (NP the structure)))
+   (VP appear
+       (ADJP reasonable)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The structure)
+   (VP (VP appears
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (ADJP unique
+			(PP among
+			    (NP OOH compounds))))))
+       ,
+       but
+       (VP is
+	   (NP the
+	       same
+	       (PP as
+		   (NP (NP that)
+		       (VP assumed
+			   (PP by
+			       (NP A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The bond angles and distances)
+      (VP are
+	  all
+	  (PP within
+	      (NP the (VP expected) limits))))
+     and
+     (S (NP the volume
+	    (PP per
+		(NP oxygen)))
+	(VP is
+	    (ADJP  (ADVP about)
+		   normal))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP  However)
+     ,
+     (S (NP the possible absence
+	    (PP of
+		(NP a center
+		    (PP of
+			(NP symmetry)))))
+	(VP
+	 (CONJP  not
+		 only)
+	 (VP moves
+	     (NP the hydrogen atom)
+	     (PP off
+		 (NP A[fj])))
+	 ,
+	 (CONJP but
+		also)
+	 (VP allows
+	     (NP the oxygen atoms)
+	     (S (NP *)
+		(AUX to)
+		(VP become
+		    (ADJP nonequivalent))
+		,
+		(PP with
+		    (X (X (NP A[fj])
+			  (PP at
+			      (NP A[fj])))
+		       and
+		       (X (NP A[fj])
+			  (PP at
+			      (NP (NP A[fj])
+				  *LRB*
+				  (NP space group A[fj])
+				  *RRB*)))))
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (S (NP A[fj])
+		       (VP represents
+			   (NP the oxygens
+			       (PP on
+				   (NP one side
+				       (PP of
+					   (NP the A[fj] layers)))))))
+		    and
+		    (X (NP  A[fj])
+		       (NP those
+			   (PP on
+			       (NP the other side)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP any oxygen nonequivalence)
+	 (AUX would)
+	 (VP shorten
+	     (NP either
+		 (NP the
+		     (ADVP already)
+		     (ADJP (ADVP extremely)
+			   short) A[fj] interlayer distance
+		     (PP of
+			 (NP 2.55
+			     A)))
+		 or
+		 (NP (NP the (ADJP non-hydrogen-bonded) A[fj] interlayer interactions)
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP T)
+			 (VP are
+			     (ADVP already)
+			     (ADJP (ADVP quite)
+				    short))
+			 (PP at
+			     (NP 2.58 A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S (NP it
+	     (S-5 *pseudo-attach*))
+	 (VP is
+	     (ADJP difficult))
+	 (S-5 (NP *)
+	      (AUX to)
+	      (VP conceive
+		  (PP of
+		      (NP (NP a packing
+			      (PP of
+				  (NP the atoms))
+			      (PP in
+				  (NP this material)))
+			  (SBAR (WHPP in
+				      (WHNP which))
+				(S
+				 (NP the oxygen atoms)
+				 (VP are
+				     (ADVP far
+					   (PP from
+					       (NP geometrical equivalence))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The only effect
+	(PP of
+	    (NP lack
+		(PP of
+		    (NP a center)))))
+    (AUX would)
+    (ADVP then)
+    (VP be
+	(S (NP *)
+	   (AUX to)
+	   (VP release
+	       (NP the hydrogen atoms)
+	       (S (NP *)
+		  (AUX to)
+		  (VP occupy
+		      (NP (ADJP (ADJP general)
+				,
+				(ADVP rather
+				      (PP than
+					  (ADJP special)))
+				,)
+			  positions)
+		      (PP along
+			  (NP the
+			      *LRB*
+			      111
+			      *RRB*
+			      axis))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP the A[fj] bond)
+	      (VP is
+		  (ADJP linear))))
+    (ADVP then)
+    (S (NP there)
+       (VP are
+	   (NP (NP three reasonable positions
+		   (PP for
+		       (NP the hydrogen atoms)))
+	       :
+	       (NP (NP  *LRB*
+			(NP 1)
+			*RRB*
+			(S (S (NP The hydrogen atoms)
+			      (AUX are)
+			      (VP centered
+				  ))
+			   and
+			   (S (ADVP hence)
+			      (S (NP all)
+				 (VP lie
+				     (PP on
+					 (NP (NP a sheet)
+					     (PP (ADVP midway)
+						 between
+						 (NP the oxygen sheets)))))))))
+		   ;
+		   ;
+		   (NP  *LRB*
+			(NP 2)
+			*RRB*
+			(S (S (NP all hydrogen atoms)
+			      (VP lie
+				  (PP on
+				      (NP a sheet))))
+			   ,
+			   but
+			   (S (NP the sheet)
+			      (VP is
+				  (ADJP closer
+					(PP to
+					    (NP one oxygen sheet))
+					(PP than
+					    (PP to
+						(NP the
+						    other))))))))
+		   ;
+		   ;
+		   (NP  *LRB*
+			(NP 3)
+			*RRB*
+			(S (NP hydrogen atoms)
+			   (AUX are)
+			   (VP  (ADVP asymmetrically)
+				placed
+				,
+				(X  either
+				    (ADVP randomly)
+				    or
+				    (PP in
+					(NP an (ADJP ordered) way)))
+				,
+				(SBAR   so
+					that
+					(S (NP some hydrogen atoms)
+					   (VP are
+					       (ADJP closer
+						     (PP to
+							 (NP the upper oxygen atoms))))
+					   (SBAR while
+						 (S (NP others)
+						    (VP are
+							(ADJP closer
+							      (PP to
+								  (NP the
+								      lower
+								      oxygen atoms))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Position
+	*LRB*
+	2
+	*RRB*)
+    (VP appears
+	(PP to
+	    (NP us))
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (ADJP unlikely))))
+    (PP (PP in
+	    (NP view
+		(PP of
+		    (NP the absence
+			(PP of
+			    (NP a piezoelectric effect))))))
+	and
+	(PP on
+	    (NP 
+	     general chemical structural
+	     grounds))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A randomization
+	(PP of
+	    (NP ``
+		(NP ups)
+		''
+		and
+		``
+		(NP downs)
+		'')))
+    (VP is
+	(ADJP  more
+	       likely
+	       (PP than
+		   (NP (ADJP ordered)
+		       ``
+		       ups
+		       ''
+		       and
+		       ``
+		       downs
+		       ''))))
+    (PP in
+	(NP position
+	    *LRB*
+	    3
+	    *RRB*))
+    (SBAR (SBAR since
+		(S (S (NP the hydrogen atoms)
+		      (AUX are)
+		      (VP  (ADVP well)
+			   separated
+			   ))
+		   and
+		   (S (ADVP so)
+		      (S (NP the position
+			     (PP of
+				 (NP one)))
+			 (AUX could)
+			 (ADVP hardly)
+			 (VP affect
+			     (NP the position
+				 (PP of
+				     (NP another))))))))
+	  ,
+	  and
+	  (ADVP also)
+	  (SBAR since
+		(S  
+		 (NP (ADJP ordered)
+		     ``
+		     up
+		     ''
+		     and
+		     ``
+		     down
+		     '')
+		 (VP implies
+		     (NP (NP a
+			     larger
+			     unit cell)
+			 ,
+			 (SBAR (WHPP for
+				     (WHNP which))
+			       (S
+				(NP no evidence)
+				(VP exists)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP the
+	     only
+	     (ADJP unknown) structural
+	     feature)
+	 (AUX would)
+	 (VP appear
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (SBAR whether
+			  (S (NP the hydrogen atoms)
+			     (AUX are)
+			     (VP located
+				 (ADVP (ADVP (ADVP symmetrically)
+					     *LRB*
+					     (NP 1)
+					     *RRB*)
+				       or
+				       (ADVP  (ADVP asymmetrically)
+					      *LRB*
+					      (NP 3)
+					      *RRB*))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Experimental procedures samples))
+(  
+ (S (NP Douglass)
+    (VP prepared
+	(NP his sample
+	    (PP of
+		(NP A[fj])))
+	(PP by
+	    (NP thermal decomposition
+		(PP of
+		    (NP 
+		     aqueous chromic
+		     acid))
+		(PP at
+		    (NP 300
+			-
+			325-degrees-C))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dr. Douglass)
+   (VP was
+       (ADJP kind
+	     enough
+	     (S (NP *)
+		(AUX to)
+		(VP lend
+		    (NP us)
+		    (NP (ADVP about)
+			5 grams
+			(PP of
+			    (NP his material))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This material)
+   (VP proved
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP unsatisfactory))))
+   ,
+   (SBAR since
+	 (S (NP we)
+	    (AUX could)
+	    (NEG not)
+	    (VP obtain
+		(NP reproducible results)
+		(PP on
+		    (NP various portions
+			(PP of
+			    (NP the sample))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Subsequently)
+      ,
+      (S (NP we)
+	 (VP learned
+	     (PP from
+		 (NP Douglass))
+	     (SBAR that
+		   (S (NP his sample)
+		      (VP contained
+			  (NP a few percent A[fj] impurity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (SBAR  Since
+	  (S (NP A[fj])
+	     (VP is
+		 (ADJP ferromagnetic))))
+   ,
+   (S (NP we)
+      (VP felt
+	  (SBAR that
+		(S (NP (NP any results)
+		       (VP obtained
+			   (PP from
+			       (NP the
+				   (ADJP  magnetically
+					  contaminated)
+				   A[fj]))))
+		   (AUX would)
+		   (VP be
+		       (ADJP suspect)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Plane)
+   (VP suggested
+       (NP (NP another preparation
+	       (PP of
+		   (NP A[fj])))
+	   (SBAR (WHNP which)
+		 (S
+		  (NP we)
+		  (VP used
+		      (NP T)
+		      (ADVP here)))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 500 ml
+       (PP of
+	   (NP 1M aqueous A[fj]))
+       (PP with
+	   (S (NP 1 A[fj])
+	      (VP added))))
+   (AUX are)
+   (VP heated
+	     
+       (PP in
+	   (NP a bomb))
+       (PP at
+	   (NP 170-degrees-C))
+       (PP for
+	   (NP 48 hours))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP A
+	  (ADJP very
+		fine)
+	  ,
+	  gray
+	  solid)
+      *LRB*
+      (NP (ADVP about)
+	  15 g)
+      *RRB*)
+  (AUX is)
+  (VP (VP formed
+	  )
+      ,
+      (VP water-washed
+	  (PP by
+	      (NP centrifugation)))
+      ,
+      and
+      (VP dried
+	  (PP at
+	      (NP 110-degrees-C)))))
+ *RRB*
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Differential thermal
+    analysis)
+   (VP showed
+       (NP (NP a
+	       (ADJP very
+		     small) endothermic
+	       reaction
+	       (PP at
+		   (NP 340-degrees-C)))
+	   and
+	   (NP a
+	       large endothermic
+	       reaction
+	       (PP at
+		   (NP 470-degrees-C))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This latter reaction)
+   (VP is
+       (PP in
+	   (NP accord
+	       (PP with
+		   (NP the (VP reported) decomposition
+		       (PP of
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Thermogravimetric analysis)
+   (VP showed
+       (NP (NP (NP a weight loss
+		   (PP of
+		       (NP 1.8 %)))
+	       (VP centered
+		   (PP at
+		       (NP 337-degrees-C))))
+	   and
+	   (NP another weight loss
+	       (PP of
+		   (NP 10.8 %))
+	       (PP at
+		   (NP 463-degrees-C))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP expected) weight loss
+       (PP for
+	   (NP (NP A[fj])
+	       (VP going
+		   (PP to
+		       (NP (NP A[fj]) and (NP A[fj])))))))
+   (VP is
+       (NP 10.6 %)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Mass spectrometric analysis
+	     (PP of
+		 (NP gases)))
+	 (VP evolved
+	     (PP upon
+		 (NP  heating
+		      (PP to
+			  (NP 410-degrees-C))))))
+     (VP indicated
+	 (NP (NP nitrogen oxides) and (NP water vapor))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The small reaction)
+       (VP occurring
+	   (PP at
+	       (NP 337-degrees-C))))
+   (AUX is)
+   (ADVP probably)
+   (VP caused
+        
+       (PP (PP by
+	       (NP decomposition
+		   (PP of
+		       (NP (VP occluded)
+			   nitrates))))
+	   ,
+	   and
+	   (ADVP perhaps)
+	   (PP by
+	       (NP a small amount
+		   (PP of
+		       (NP (NP some hydrous material)
+			   (ADJP other
+				 (PP than
+				     (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All subsequent measurements)
+   (AUX were)
+   (VP made
+	     
+       (PP on
+	   (NP (NP material)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX had)
+		   (VP been
+		       (VP heated
+		     
+			   (PP to
+			       (NP  375-degrees-C))
+			   (PP for
+			       (NP one hour))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Emission spectra)
+   (VP indicated
+       (NP (NP (NP A[fj] calcium)
+	       and
+	       (NP all other impurities)))
+       (ADJP  much
+	      lower)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ( S
+    (NP Chromium analysis)
+    (VP gave
+	(NP 58.8 %
+	    Cr)
+	(PP as
+	    (S (NP *) 
+	       (VP compared
+		   (PP with
+		       (NP 61.2 %
+			   theory)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADVP  However)
+	,
+	(S (NP A[fj])
+	   (VP adsorbs
+	       (NP water)
+	       (PP from
+		   (NP the atmosphere)))))
+     and
+     (S (NP this)
+	(AUX may)
+	(VP account
+	    (PP for
+		(NP (NP the low chromium analysis)
+		    and
+		    (NP 
+		     high total
+		     weight loss))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The x-ray diffraction pattern
+	  (PP of
+	      (NP the material)))
+      ,
+      (VP taken
+	  (PP with
+	      (NP CuK ** ya radiation)))
+      ,)
+  (VP (VP indicated
+	  (NP the presence
+	      (PP of
+		  (NP no extra lines))))
+      and
+      (VP was
+	  (PP in
+	      (NP good agreement
+		  (PP with
+		      (NP the pattern
+			  (PP of
+			      (NP Douglass)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP   Magnetic
+	analyses
+	(PP by
+	    (NP R.G. Meisenheimer
+		(PP of
+		    (NP this laboratory)))))
+  (VP indicated
+      (NP no ferromagnetic impurities)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A[fj])
+   (AUX was)
+   (VP found
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP paramagnetic))
+	  (PP with
+	      (NP (NP three
+		      (ADJP unpaired)
+		      electrons
+		      (PP per
+			  (NP chromium atom)))
+		  and
+		  (NP a molecular susceptibility
+		      (PP of
+			  (NP (NP A[fj])
+			      ,
+			      (X (WHADVP where)
+				 (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP     (ADVP exactly)
+	       three
+	       (ADJP unpaired)
+	       electrons))
+   (S
+    (NP the coefficient)
+    (AUX would)
+    (VP be
+	(NP 3.10))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP An infrared spectrum)
+      ,
+      (VP obtained
+	  (PP by
+	      (NP (NP (NP H
+			  Benesi)
+		      and
+		      (NP R.G. Snyder))
+		  (PP of
+		      (NP this laboratory)))))
+      ,)
+  (VP showed
+      (NP bands)
+      (PP in
+	  (NP (NP the positions)
+	      (VP found
+		  (PP by
+		      (NP Jones)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP Electron microscopic examination
+	(PP of
+	    (NP the A[fj] sample)))
+    (VP showed
+	(S (NP it)
+	   (AUX to)
+	   (VP be
+	       (VP composed
+		   (PP of
+		       (NP (NP (ADJP (ADVP nearly)
+				     isotropic) particles)
+			   (PP (NP (ADVP about)
+				   0.3M)
+			       in
+			       (NP diameter)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The particles)
+      (VP appeared
+	  (ADJP rough)))
+     and
+     (S  (ADVP undoubtedly)
+	 (S (NP the (ADJP single-crystal) domains)
+	    (VP are
+		(ADJP smaller
+		      (PP than
+			  (NP this)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The x-ray data)
+   (VP are
+       (ADJP consistent
+	     (PP with
+		 (NP particle sizes
+		     (PP of
+			 (NP (NP 1000
+				 A)
+			     or
+			     (ADJP greater))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (VP found
+	  (NP (NP no obvious effects)
+	      (PP  due
+		   (PP to
+		       (NP  (VP preferred)
+			    orientation
+			    (PP of
+				(NP the crystallites))))))
+	  (PP in
+	      (NP this sample))))
+     nor
+     (SINV  
+      (AUX would)
+      (NP we)
+      (VP expect
+	  (AUX to))
+      (PP on
+	  (NP the basis
+	      (PP of
+		  (NP (NP the shape)
+		      (VP found
+			  (PP from
+			      (NP electron microscopic examination)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP  
+   Nuclear magnetic
+   resonance
+   *LRB*
+   NMR
+   *RRB*
+   measurements)
+  )
+( (S
+   (NP The magnetic resonance absorption)
+   (AUX was)
+   (VP detected
+	     
+       (PP by
+	   (S (NP *) 
+	      (VP employing
+		  (NP (NP a Varian model A[fj] broad line spectrometer)
+		      and
+		      (NP the
+			  (ADJP associated) (ADJP 12-inch)
+			  electromagnet system)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP One measurement
+      (PP at
+	  (NP 40
+	      Mc)))
+  (AUX was)
+  (VP obtained
+	 
+      (PP with
+	  (NP the Varian model A[fj] unit))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A (ADJP bridged-T) type
+       (PP of
+	   (NP bridge)))
+   (AUX was)
+   (VP used
+	     
+       (PP in
+	   (NP the 10 -
+	       16 Mc range))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The rf power level)
+   (AUX was)
+   (VP maintained
+       (ADJP small
+	     enough
+	     (PP at
+		 (NP all times))
+	     (S (NP *)
+		(AUX to)
+		(VP prevent
+		    (NP obvious line shape distortions)
+		    (PP by
+			(NP saturation effects)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A modulation frequency
+       (PP of
+	   (NP 40 cps))
+       (PP with
+	   (NP (NP (NP an amplitude)
+		   (ADJP  as
+			  small
+			  (PP as
+			      (ADJP possible))))
+	       ,
+	       (ADJP commensurate
+		     (PP with
+			 (NP  (ADJP reasonably
+				    good) (ADJP signal-to-noise) quality)))
+	       ,)))
+   (AUX was)
+   (VP used
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Background spectra)
+   (AUX were)
+   (VP obtained
+       )
+   (PP in
+       (NP all cases)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The spectrometer)
+   (AUX was)
+   (VP adjusted
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP minimize
+	      (NP (NP the amount
+		      (PP of
+			  (NP dispersion mode)))
+		  (VP mixed
+		      (ADVP in)
+		      (PP with
+			  (NP the absorption signal))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A single value
+       (PP of
+	   (NP the thermal relaxation time A[fj]
+	       (PP at
+		   (NP room temperature)))))
+   (AUX was)
+   (VP measured
+	     
+       (PP by
+	   (NP the progressive saturation method))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The value
+       (PP of
+	   (NP (NP A[fj])
+	       (VP estimated
+		   (PP at
+		       (NP 470 gauss))))))
+   (VP was
+       (NP A[fj] microseconds)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A single measurement
+	  (PP of
+	      (NP the spin)))
+      -
+      (NP spin relaxation time A[fj]))
+  (AUX was)
+  (VP obtained
+	 
+      (PP at
+	  (NP 10
+	      Mc))
+      (PP by
+	  (NP pulse methods))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This measurement)
+   (AUX was)
+   (VP obtained
+	     
+       (PP by
+	   (NP W. Blumberg
+	       (PP of
+		   (NP (NP the University
+			   (PP of
+			       (NP California)))
+		       ,
+		       (NP Berkeley)))))
+       ,
+       (PP by
+	   (S (NP *) 
+	      (VP observing
+		  (NP the breadth
+		      (PP of
+			  (NP the free induction decay signal))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The value)
+       (VP derived))
+   (VP was
+       (NP 16 microseconds)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Field shifts)
+   (AUX were)
+   (VP derived
+	     
+       (PP from
+	   (NP the mean value
+	       (PP of
+		   (NP (NP the resonance line)
+		       ,
+		       (VP defined
+			   (PP as
+			       (NP (NP the field)
+				   (SBAR (WHPP about
+					       (WHNP which))
+					 (S
+					  (NP the first moment)
+					  (VP is
+					      (NP zero)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Second moments
+       (PP of
+	   (NP the spectra)))
+   (AUX were)
+   (VP computed
+	     
+       (PP by
+	   (NP numerical integration))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Corrections)
+   (AUX were)
+   (VP applied
+	     
+       (X (PP for
+	      (NP (NP modulation
+		      broadening)
+		  ,
+		  (NP apparatus background)
+		  ,
+		  and
+		  (NP field shift))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Spectra)
+   (AUX were)
+   (VP obtained
+	     
+       (PP over
+	   (NP the temperature range
+	       (PP of
+		   (NP 77
+		       -
+		       294-degrees-K))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP  the (ADJP low-temperature) measurements))
+     (S
+      (NP the sample)
+      (AUX was)
+      (VP cooled
+	   
+	  (PP by
+	      (NP (NP a cold nitrogen gas flow method)
+		  (ADJP similar
+			(PP to
+			    (NP that
+				(PP of
+				    (NP (NP Andrew)
+					and
+					(NP Eades)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The temperature)
+    (AUX was)
+    (VP maintained
+		 
+	(PP to
+	    (PP within
+		(NP (ADVP about)
+		    A[fj])))
+	(PP for
+	    (NP (NP (NP the period
+			(PP of
+			    (NP time)))
+		    (VP required
+			(S (NP *)
+			   (AUX to)
+			   (VP make
+			       (NP the measurement)))))
+		*LRB*
+		(NP (ADVP usually)
+		    (ADVP about)
+		    one hour)
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP One sample)
+       ,
+       (SBAR  
+	(WHNP which)
+	(S (NP T)
+	   (AUX had)
+	   (VP been
+	       (VP exposed
+		   (PP to
+		       (NP the atmosphere))))
+	   (PP after
+	       (NP evacuation
+		   (PP at
+		       (NP 375-degrees-C))))))
+       ,)
+   (VP showed
+       (NP (NP the presence
+	       (PP of
+		   (NP (NP (VP adsorbed)
+			   water)
+		       *LRB*
+		       (NP (ADVP about)
+			   0.3 wt)
+		       *RRB*
+		       *RRB*)))
+	   (PP as
+	       (S (NP *) 
+		  (VP evidenced
+		      (PP by
+			  (NP (NP a weak resonance line)
+			      (SBAR (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(VP was
+					    (ADJP  very
+						   narrow))
+					(PP at
+					    (NP room temperature))))
+				    and
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(VP disappeared)
+					,
+					(PP  due
+					     (PP to
+						 (NP  broadening)))
+					,
+					(PP at
+					    (NP low temperature)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The data)
+      (VP reported
+	  (ADVP here)))
+  (VP are
+      (PP  either
+	   (PP from
+	       (NP (NP spectra)
+		   (SBAR (WHPP from
+			       (WHNP which))
+			 (S
+			  (NP the adsorbed water resonance)
+			  (AUX could)
+			  (VP (ADVP easily)
+			      be
+			      (VP eliminated
+				  ))))))
+	   or
+	   (PP from
+	       (NP spectra
+		   (PP of
+		       (NP (NP (NP samples)
+			       (VP evacuated
+				   and
+				   sealed
+				   (PRT off)
+				   (PP at
+				       (NP 375-degrees-C))))
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP contain
+				   (NP no (VP adsorbed) water)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The (VP measured) powder density
+	(PP of
+	    (NP (NP the A[fj])
+		(VP used
+		    (ADVP here)))))
+    (VP was
+	(NP (NP (ADVP about)
+		A[fj])
+	    ,
+	    (ADVP   (ADVP approximately)
+		    one-third
+		    (NP that
+			(PP of
+			    (NP (NP the crystal density)
+				*LRB*
+				(NP A[fj])
+				*RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Such
+	 a density)
+    (VP corresponds
+	(PP to
+	    (NP a paramagnetic ion density
+		(PP of
+		    (NP (ADVP about)
+			A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP  Spectra)
+   (AUX were)
+   (VP obtained
+       (PP from
+	   (NP (NP a (VP powdered) sample)
+	       (VP having
+		   (NP the shape
+		       (PP of
+			   (NP a
+			       right circular
+			       cylinder
+			       (PP with
+				   (NP a  (ADJP height-to-diameter) ratio
+				       (PP of
+					   (NP (NP 4)
+					       :
+					       :
+					       (NP 1)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The top
+	  (PP of
+	      (NP the sample)))
+      (VP was
+	  (ADJP  (ADVP nearly)
+		 flat)))
+     and
+     (X (NP the bottom)
+	(ADJP hemispherical)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Spectra)
+   (AUX were)
+   (ADVP also)
+   (VP obtained
+        
+       (PP from
+	   (NP (NP a sample
+		   (PP in
+		       (NP a spherical container)))
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX was)
+		   (VP made
+		 
+		       (PP by
+			   (S  (NP *) 
+			       (VP blowing
+				   (NP a bubble)
+				   (PP on
+				       (NP the end
+					   (PP of
+					       (NP a capillary glass tube))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The bubble)
+      (AUX was)
+      (VP filled
+	     
+	  (PP to
+	      (NP the top))))
+     and
+     (S (NP special precautions
+	    (S-1 *pseudo-attach*))
+	(AUX were)
+	(VP taken)
+	(S-1 (NP *)
+	     (AUX to)
+	     (VP prevent
+		 (NP any sample)
+		 (PP from
+		     (S (NP *) 
+			(VP remaining
+			    (PP in
+				(NP the capillary)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Spectra)
+   (AUX were)
+   (ADVP also)
+   (VP obtained
+        
+       (PP from
+	   (NP a third sample
+	       (PP of
+		   (NP (NP A[fj])
+		       (SBAR  
+			(WHNP which)
+			(S (NP T)
+			   (AUX had)
+			   (VP been
+			       (VP diluted
+		      
+				   (PP to
+				       (NP (NP three times)
+					   (NP its original volume)))
+				   (PP with
+				       (NP (NP 
+					    powdered
+					    ,
+					    anhydrous
+					    alundum)
+					   *LRB*
+					   (NP A[fj])
+					   *RRB*))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This sample)
+   (AUX was)
+   (VP contained
+	     
+       (PP in
+	   (NP (NP a cylindrical container)
+	       (ADJP similar
+		     (PP to
+			 (NP (NP that)
+			     (ADJP described
+				   (ADVP above)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

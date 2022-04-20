@@ -1,0 +1,2386 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Samuel Gorton)
+        ,
+        (NP founder
+            (PP of
+                (NP Warwick)))
+        ,)
+    (AUX was)
+    (VP styled
+          
+        (PP by
+            (NP (NP the historian)
+                (NP Samuel Greene Arnold)))
+        (NP  ``
+             one
+             (PP of
+                 (NP (NP the
+                         (ADJP  most remarkable)
+                         men)
+                     (SBAR (WHNP who)
+                           (S (NP T)
+                              (ADVP ever)
+                              (VP lived)))))
+             '')))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A biographer)
+   (VP called
+       (NP him)
+       (NP  ``
+            the
+            premature
+            John
+            the Baptist
+            (PP of
+                (NP New England Transcendentalism))
+            '')))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The historian)
+        (NP Charles Francis Adams))
+    (VP called
+        (NP him)
+        (NP  ``
+             a crude and half-crazy thinker
+             '')))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His contemporaries
+       (PP in
+           (NP Massachusetts)))
+   (VP called
+       (NP him)
+       (NP (NP an arch-heretic)
+           ,
+           (NP a beast)
+           ,
+           (NP a miscreant)
+           ,
+           (NP a proud and pestilent seducer)
+           ,
+           (NP a prodigious minter
+               (PP of
+                   (NP exorbitant novelties))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP Edward Rawson)
+         ,
+         (NP secretary
+             (PP of
+                 (NP the colony
+                     (PP of
+                         (NP Massachusetts Bay)))))
+         ,)
+     (VP described
+         (NP him)
+         (PP as
+             (NP  ``
+                  (NP (NP a man)
+                      (SBAR (WHNP whose spirit)
+                            (S (NP T)
+                               (VP was
+                                   (ADJP stark
+                                         drunk
+                                         (PP with
+                                             (NP blasphemies and insolence)))))))
+                  ,
+                  (NP a corrupter
+                      (PP of
+                          (NP the truth)))
+                  ,
+                  (NP a disturber
+                      (PP of
+                          (NP the peace
+                              (SBAR 
+                               (WHADVP wherever)
+                               (S (NP he)
+                                  (VP comes))))))
+                  ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nathaniel Morton)
+   (VP stated
+       (SBAR 0
+             (S (NP he)
+                ``
+                (AUX was)
+                (VP  (ADVP deeply)
+                     leavened
+                         
+                     (PP with
+                         (NP blasphemous and familistical opinions)))
+                ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP thrown
+       (ADVP out)
+       ,
+       (ADJP more
+             or
+             less)
+       ,
+       (PP from
+           (NP (NP Boston)
+               ,
+               (NP Plymouth)
+               ,
+               (NP Pocasset)
+               ,
+               (NP Newport)
+               ,
+               and
+               (NP Providence)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+        (NP the other hand))
+    ,
+    (S (NP Dr. Ezra Styles)
+       (VP recorded
+           (NP (NP the following testimony
+                   (PP of
+                       (NP (NP John Angell)
+                           ,
+                           (NP the last disciple
+                               (PP of
+                                   (NP Gorton))))))
+               :
+               (S  ``
+                   (NP He)
+                   (VP said
+                       (SBAR 0
+                             (S (NP Gorton)
+                                (VP (VP was
+                                        (NP a holy man))
+                                    ;
+                                    ;
+                                    (VP (VP wept
+                                            (NP day and night)
+                                            (PP for
+                                                (NP the sins and blindness
+                                                    (PP of
+                                                        (NP the world)))))
+                                        (VP had
+                                            (NP a long walk
+                                                (PP through
+                                                    (NP (NP the trees and woods
+                                                            (PP by
+                                                                (NP his house)))
+                                                        ,
+                                                        (SBAR 
+                                                         (WHADVP where)
+                                                         (S (NP he)
+                                                            (ADVP constantly)
+                                                            (VP walked)
+                                                            (NP morning and evening)
+                                                            ,
+                                                            and
+                                                            (ADVP even
+                                                                  (PP in
+                                                                      (NP the depths
+                                                                          (PP of
+                                                                              (NP the night)))))
+                                                            ,
+                                                            (ADVP alone
+                                                                  (PP by
+                                                                      (NP himself)))
+                                                            ,
+                                                            (PP for
+                                                                (NP (NP contemplation)
+                                                                    and
+                                                                    (NP the enjoyment
+                                                                        (PP of
+                                                                            (NP the dispensation
+                                                                                (PP of
+                                                                                    (NP light)))))))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (ADVP universally)
+   (VP beloved
+       (PP by
+           (NP (NP his neighbours)
+               ,
+               and
+               (NP (NP the Indians)
+                   ,
+                   (SBAR 
+                    (WHNP who)
+                    (S (NP T)
+                       (VP esteemed
+                           (NP him)
+                           ,
+                           (PP (CONJP (NEG not)
+                                      only)
+                               as
+                               (NP (NP a friend)
+                                   ,
+                                   but
+                                   (NP (NP one)
+                                       (ADJP high
+                                             (PP in
+                                                 (NP communion
+                                                     (PP with
+                                                         (NP God
+                                                             (PP in
+                                                                 (NP Heaven))))))))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (ADVP sometimes)
+   (VP signed
+       (NP himself)
+       (NP  ``
+            a professor
+            (PP of
+                (NP the mysteries
+                    (PP of
+                        (NP Christ))))
+            '')))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (ADJP  plenty
+              more
+              (S (NP *)
+                 (AUX to)
+                 (VP recommend
+                     (NP (NP Gorton)
+                         ,
+                         (SBAR (WHNP  the facts
+                                      (WHPP of
+                                            (WHNP whose life)))
+                               (S (NP T)
+                                  (AUX are)
+                                  (VP given
+             
+                                      (PP in
+                                          (NP (NP The Life
+                                                  And
+                                                  Times
+                                                  (PP Of
+                                                      (NP Samuel Gorton)))
+                                              ,
+                                              (PP by
+                                                  (NP Adelos Gorton)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP fought
+            (PP like
+                (NP a fiend))
+            (PP for
+                (NP the
+                    (ADJP helpless and oppressed))))
+        ,
+        (VP worked
+            (PP for
+                (NP the abolition
+                    (PP of
+                        (NP slavery)))))
+        ,
+        (VP helped
+            (NP (NP the Quakers)
+                and
+                (NP Indians)))
+        ,
+        and
+        (VP worked
+            (PP against
+                (NP the prosecution
+                    (PP of
+                        (NP witches)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP defied
+           (NP the Boston hierarchy)))
+    ,
+    and
+    (S (PP after
+           (S (NP they)
+              (VP sent
+                  (NP a small army)
+                  (S (NP *)
+                     (AUX to)
+                     (VP get
+                         (NP him))))))
+       (S (NP he)
+          (VP befuddled
+              (NP the court)
+              ,
+              (S (NP *)  
+                 (VP including
+                     (NP John Cotton)))
+              ,
+              (PP with
+                  (NP one
+                      (PP of
+                          (NP (NP  the
+                                   (ADJP  most
+                                        complicated)
+                                   religious discourses)
+                              (VP  (ADVP ever)
+                                   heard)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Samuel Gorton)
+   (AUX was)
+   (VP born
+             
+       (PP at
+           (NP (NP Gorton)
+               ,
+               (NP England)
+               ,
+               (PP near
+                   (NP the present city
+                       (PP of
+                           (NP Manchester))))
+               ,)))
+   (PP about
+       (NP 1592)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+           (S (NP he)
+              (AUX did)
+              (NEG not)
+              (VP attend
+                  (NP any celebrated schools or universities))))
+     ,
+     (S (NP he)
+        (X (VP was
+               (NP a master
+                   (PP of
+                       (NP (NP Greek)
+                           and
+                           (NP Hebrew)))))
+           and
+           (X (AUX could)
+              (VP read
+                  (NP the Bible)
+                  (PP in
+                      (NP the
+                          (ADJP original))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (VP worked
+          (PP as
+              (NP a
+                  ``
+                  clothier
+                  ''))
+          (PP in
+              (NP London)))
+      ,
+      but
+      (X (AUX was)
+         (VP  (ADVP greatly)
+              concerned
+                  
+              (PP with
+                  (NP religion))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (VP left
+       (NP England)
+       ,
+       (S (NP he)
+          (VP said))
+       ,
+       (X  ``
+           (S (NP *)
+              (AUX to)
+              (VP enjoy
+                  (NP libertie
+                      (PP of
+                          (NP conscience)))
+                  (PP in
+                      (NP respect
+                          (PP to
+                              (NP faith
+                                  (PP towards
+                                      (NP God))))))))
+           ,
+           and
+           (PP for
+               (NP no other end))
+           '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+        (NP (NP his wife)
+            and
+            (NP (NP three)
+                or
+                more
+                children)))
+    (S
+     (NP he)
+     (VP (VP arrived
+             (PP in
+                 (NP Boston))
+             (PP in
+                 (NP March
+                     ,
+                     1637)))
+         ,
+         and
+         (VP  (ADVP soon)
+              found
+              (SBAR 0
+                    (S (NP it)
+                       (VP was
+                           (NP no place)
+                           (PP for
+                               (NP (NP anyone)
+                                   (VP looking
+                                       (PP for
+                                           (NP liberty
+                                               (PP of
+                                                   (NP conscience))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Roger Williams)
+      (AUX had)
+      (ADVP recently)
+      (VP been
+          (VP thrown
+              (ADVP out))))
+     ,
+     and
+     (S (NP (NP Anne Hutchinson)
+            and
+            (NP her Antinomians))
+        (AUX were)
+        (VP slugging
+            (NP it)
+            (PP out)
+            (PP with
+                (NP the powers-that-be)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Gorton)
+        and
+        (NP his family))
+    (VP moved
+        (PP to
+            (NP Plymouth))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Soon)
+      (S (NP he)
+         (VP was
+             (PP in
+                 (NP trouble))
+             (ADVP there)
+             ,
+             (PP for
+                 (S  (NP *)
+                     (VP defending
+                         (NP (NP a woman)
+                             (SBAR (WHNP who)
+                                   (S (NP T)
+                                      (AUX was)
+                                      (VP accused
+                                          (PP of
+                                              (S  (NP *)
+                                                  (VP smiling
+                                                      (PP in
+                                                          (NP church)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP was
+       (NP (NP Ellen Aldridge)
+           ,
+           (NP (NP a widow
+                   (PP of
+                       (NP good repute)))
+               (SBAR (WHNP who)
+                     (S (NP T)
+                        (X (X (AUX was)
+                              (VP employed
+                                  
+                                  (PP by
+                                      (NP 
+                                       (NP Gorton)
+                                       's wife))))
+                           and
+                           (VP lived
+                               (PP with
+                                   (NP the family))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The report)
+   (VP was
+       :
+       (S  ``
+           (S (NP It
+		  (SBAR-1 *pseudo-attach*))
+              (AUX had)
+              (VP been
+                  (VP whispered
+                      (ADVP privately)))
+              (SBAR-1 that
+                    (S (NP she)
+                       (AUX had)
+                       (VP smiled
+                           (PP in
+                               (NP the congregation))))))
+           ,
+           and
+           (S (NP the Governor Prence)
+              (VP sent
+                  (S (NP *)
+                     (AUX to)
+                     (VP (VP knoe
+                             (NP her
+                                 business))
+                         ,
+                         and
+                         (VP command
+                             ,
+                             (PP after
+                                 (NP punishment))
+                             (PP as
+                                 (S (NP the bench)
+                                    (VP see
+                                        (ADJP fit))))
+                             ,
+                             (NP (NP her departure)
+                                 and
+                                 also
+                                 (NP (NP anyone)
+                                     (SBAR (WHNP who)
+                                           (S (NP T)
+                                              (VP brought
+                                                  (NP her)
+                                                  (PP to
+                                                      (NP (NP the place)
+                                                          (SBAR (WHPP from
+                                                                      (WHNP which))
+                                                                (S
+                                                                 (NP she)
+                                                                 (VP came)))))))))))))))
+           '
+           '')))
+  .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (VP said
+       (SBAR 0
+             (S (S (NP they)
+                   (AUX were)
+                   (VP preparing
+                       (S (NP *)
+                          (AUX to)
+                          (VP deport
+                              (NP her)
+                              (PP as
+                                  (NP a vagabond))))))
+                ,
+                and
+                (S (S (NP *)
+                      (AUX to)
+                      (VP escape
+                          (NP the shame)))
+                   (S
+                    (NP she)
+                    (VP fled
+                        (PP to
+                            (NP the woods))
+                        (PP for
+                            (NP several days)))
+                    ,
+                    (S  (NP *) 
+                        (VP returning
+                            (PP at
+                                (NP night))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP advised
+       (NP the poor woman)
+       (S (NP *)
+          (NEG not)
+          (AUX to)
+          (VP appear
+              (PP in
+                  (NP court)))))
+   (SBAR (WHPP as)
+         (S (NP (SBAR (WHNP what)
+                      (S (NP she)
+                         (AUX was)
+                         (VP charged
+                 
+                             (PP with
+                                 (NP T) )))))
+            (VP was
+                (NEG not)
+                (PP in
+                    (NP violation
+                        (PP of
+                            (NP law))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Gorton)
+      (VP appeared
+          (PP for
+              (NP her)))
+      ,
+      (ADVP however)
+      ,)
+     and
+     (S (NP (SBAR (WHNP what)
+                  (S (NP he)
+                     (VP told
+                         (NP the magistrates)
+                         (NP T) ))))
+        (AUX must)
+        (VP have
+            (VP been
+                (ADJP plenty))))
+     ,
+     (PP for
+         (S (NP he)
+            (AUX was)
+            (VP (VP charged
+                    
+                    (PP with
+                        (S  (NP *)
+                            (VP deluding
+                                (NP the court)))))
+                ,
+                (VP fined)
+                ,
+                and
+                (VP told
+                    (S (NP *)
+                       (AUX to)
+                       (VP leave
+                           (NP the colony))
+                       (PP within
+                           (NP fourteen days))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP left
+       (PP in
+           (NP a storm))
+       (PP for
+           (NP Pocasset)))
+   ,
+   (NP December 4 , 1638))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His wife)
+   (VP was
+       (X (PP in
+              (NP delicate health))
+          and
+          (VP nursing
+              (NP an infant
+                  (PP with
+                      (NP measles)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The
+        unconquerable
+        Mrs. Hutchinson)
+    (AUX was)
+    (VP residing
+        (PP at
+            (NP Pocasset)))
+    ,
+    (PP after
+        (S  (NP *)
+            (VP having
+                (VP been
+                    (VP (VP excommunicated
+                            (PP by
+                                (NP the Boston church)))
+                        and
+                        (VP thrown
+                            (PP out
+                                (PP of
+                                    (NP the colony))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX can)
+   (VP imagine
+       (SBAR that
+             (S (PP with
+                    (NP (NP her)
+                        and
+                        (NP Gorton)))
+                (ADVP there)
+                (S (NP it)
+                   (VP was
+                       (NP no place)
+                       (PP for
+                           (NP anyone
+                               (PP with
+                                   (NP weak nerves))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP William Coddington)
+        ,
+        (SBAR (WHNP who)
+              (S (NP T)
+                 (AUX was)
+                 (VP running
+                     (NP the colony))))
+        ,)
+    (VP felt
+        (ADJP constrained
+              (S (NP *)
+                 (AUX to)
+                 (VP move
+                     (ADVP (NP seven miles)
+                           south))
+                 (SBAR (WHADVP where)
+                       (S ,
+                          (PP with
+                              (NP others))
+                          --
+                          (PP as
+                              (S (NP *)
+                                 (VP mentioned
+                                     (ADVP above))))
+                          --
+                          (S (NP he)
+                             (VP founded
+                                 (NP Newport)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+          (S ,
+             (PP in
+                 (NP March
+                     ,
+                     1640))
+             ,
+             (S (NP the two towns)
+                (AUX were)
+                (VP united
+                    
+                    (PP under
+                        (NP Coddington))))))
+    ,
+    (S (NP Gorton)
+       (VP claimed
+           (SBAR (SBAR 0
+                       (S (NP the union)
+                          (VP was
+                              (ADJP irregular
+                                    and
+                                    (ADJP   illegally
+                                            constituted)))))
+                 and
+                 (SBAR that
+                       (S (NP it)
+                          (AUX had)
+                          (ADVP never)
+                          (VP been
+                              (VP sanctioned
+                                        
+                                  (PP by
+                                      (NP the majority
+                                          (PP of
+                                              (NP freeholders))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP he)
+         (VP became
+             (ADJP involved
+                 (PP in
+                     (NP (NP a ruckus)
+                         (ADJP  remarkably
+                                similar
+                                (PP to
+                                    (NP the one
+                                        (PP in
+                                            (NP Plymouth)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A cow)
+       (VP owned
+           (PP by
+               (NP an old woman))))
+   (VP trespassed
+       (PP on
+           (NP 
+            (NP Gorton)
+            's land))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR While
+        (S  (NP *)
+            (VP driving
+                (NP the cow)
+                (ADVP  back
+                       home))))
+    (S (NP the woman)
+       (AUX was)
+       (VP assaulted
+              
+           (PP by
+               (NP a servant maid
+                   (PP of
+                       (NP Gorton)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The old woman)
+   (VP complained
+       (PP to
+	   (NP (NP the deputy governor)
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP ordered
+		       (S (NP the servant)
+			  (VP brought
+			      (PP before
+				  (NP the court)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Gorton)
+    (VP (VP reverted
+	    (PP to
+		(NP his Plymouth tactics)))
+	,
+	(VP refused
+	    (S (NP *)
+	       (AUX to)
+	       (VP let
+		   (NP her)
+		   (VP go))))
+	,
+	and
+	(VP appeared
+	    (NP himself)
+	    (PP before
+		(NP the Portsmouth grand jury)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the trial))
+     (S (NP he)
+	(VP (VP told
+		(PRT off)
+		(NP the jury))
+	    ,
+	    (VP called
+		(NP them)
+		(NP  ``
+		     Just
+		     Asses
+		     ''))
+	    and
+	    (VP called
+		(NP a freeman)
+		(NP  ``
+		     a saucy boy and Jack-an-Apes
+		     '')))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX was)
+    (VP (VP jailed
+	    )
+	and
+	(VP banished)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (VP (VP (ADVP then)
+	   moved
+	   (PP to
+	       (NP Providence)))
+       and
+       (VP  (ADVP soon)
+	    put
+	    (NP the town)
+	    (PP in
+		(NP a turmoil)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP held
+       (SBAR that
+	     (S (NP no group
+		    (PP of
+			(NP colonists)))
+		(AUX could)
+		(VP (VP set
+			(PRT up)
+			(NP-1 *pseudo-attach*))
+		    or
+		    (VP maintain
+			(NP-1 *pseudo-attach*))
+		    (NP-1 a government))
+		(PP without
+		    (NP royal sanction))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  Since
+	   (S (NP Rhode Island)
+	      (PP at
+		  (NP that time))
+	      (AUX did)
+	      (NEG not)
+	      (VP have
+		  (NP such sanction))))
+    ,
+    (S (NP his opinion)
+       (VP was
+	   (NEG not)
+	   (ADJP popular))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Roger Williams)
+       (VP wrote
+	   (NP (NP his friend)
+	       (NP Winthrop)))
+       (PP as
+	   (S (NP *)
+	      (VP follows))))
+    :
+    (S ``
+       (S (NP (NP Master Gorton)
+	      ,
+	      (VP having
+		  (VP  foully
+		       abused
+		       (ADJP high and low)
+		       (PP at
+			   (NP Aquidneck)))))
+	  (AUX is)
+	  (ADVP now)
+	  (VP (VP bewitching
+		  and
+		  bemaddening
+		  (NP  poor
+		       Providence)
+		  ,
+		  (PP  both
+		       with
+		       (NP (NP his unclean and foul censures
+			       (PP of
+				   (NP all
+				       the ministers
+				       (PP of
+					   (NP this country)))))
+			   *LRB*
+			   (SBAR (WHPP for
+				       (WHNP which))
+				 (S (NP myself)
+				    (AUX have)
+				    (PP in
+					(NP 
+					 (NP Christ)
+					 's name))
+				    (VP withstood
+					(NP him))))
+			   *RRB*)))
+	      ,
+	      (CONJP and
+		     also)
+	      (VP denying
+		  (NP all visible and external ordinances)
+		  (PP in
+		      (NP depth
+			  (PP of
+			      (NP Familism)))))))
+       :
+       (S (NP  almost
+	       all)
+	  (VP suck
+	      (PRT in)
+	      (NP his poison))
+	  ,
+	  (PP as
+	      (S (PP at
+		     (ADJP first))
+		 (S
+		  (NP they)
+		  (VP did)
+		  (PP at
+		      (NP Aquidneck))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Some few)
+	   and
+	   (NP myself))
+       (VP withstand
+	   (NP his inhabitation and town privileges)
+	   ,
+	   (PP without
+	       (NP confession and reformation
+		   (PP of
+		       (NP his uncivil and inhuman practices
+			   (PP at
+			       (NP Portsmouth))))))))
+    ;
+    ;
+    (S  (ADVP yet)
+	(S (NP the tide)
+	   (VP is
+	       (ADJP  too
+		      strong
+		      (PP against
+			  (NP us)))))
+	,
+	and
+	(S (NP I)
+	   (VP fear
+	       *LRB*
+	       (SBAR if
+		     (S (NP the framer
+			    (PP of
+				(NP hearts)))
+			(VP help)
+			(NEG not)))
+	       *RRB*
+	       (SBAR 0
+		     (S (NP it)
+			(AUX will)
+			(VP force
+			    (NP me)
+			    (PP to
+				(NP (NP little Patience)
+				    ,
+				    (NP (NP a little isle)
+					(ADJP next
+					      (PP to
+						  (NP your Prudence)))))))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Williams)
+   (ADVP also)
+   (VP stated
+       :
+       (S  ``
+	   (NP Our peace)
+	   (VP was
+	       (PP like
+		   (NP the peace
+		       (PP of
+			   (NP (NP a man)
+			       (SBAR (WHNP who)
+				     (S (NP T)
+					(VP hath
+					    (NP the tertian ague)))))))))
+	   '')))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Providence)
+      (ADVP finally)
+      (VP managed
+	  (S (NP *)
+	     (AUX to)
+	     (VP get
+		 (NP Gorton)
+		 (PP out
+		     (PP of
+			 (NP the town)))))))
+     ,
+     and
+     (S (NP (NP he)
+	    and
+	    (NP some friends))
+	(VP bought
+	    (NP land)
+	    (PP at
+		(NP (NP Pawtuxet
+			(PP on
+			    (NP the west side
+				(PP of
+				    (NP Narragansett Bay)))))
+		    ,
+		    (X (ADVP (NP five miles)
+			     south)
+		       but
+		       (PP  (ADVP still)
+			    within
+			    (NP the jurisdiction
+				(PP of
+				    (NP the Providence colony))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This town)
+   (AUX should)
+   (NEG not)
+   (VP be
+       (VP confused
+		 
+	   (PP with
+	       (NP (NP (NP Pawtucket)
+		       ,
+		       (ADJP  just
+			      north
+			      (PP of
+				  (NP Providence))))
+		   ,
+		   or
+		   (NP (NP Pawcatuck)
+		       ,
+		       (NP Connecticut)
+		       ,
+		       (PP on
+			   (NP the Pawcatuck River))
+		       ,
+		       (PP opposite
+			   (NP (NP Westerly)
+			       ,
+			       (NP Rhode Island)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Up
+	   (PP to
+	       (NP now)))
+       ,
+       (S (NP Gorton)
+	  (AUX had)
+	  (VP been
+	      (VP looking
+		  (PP for
+		      (NP trouble))))))
+    ,
+    and
+    (S (ADVP now
+	     (SBAR that
+		   (S (NP he)
+		      (AUX was)
+		      (VP trying
+			  (S (NP *)
+			     (AUX to)
+			     (VP get
+				 (ADVP away
+				       (PP from
+					   (NP it)))))))))
+       ,
+       (S (NP trouble)
+	  (VP started
+	      (S (NP *)
+		 (VP looking
+		     (PP for
+			 (NP him))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP intelligence
+	    (SBAR that
+		  (S (NP the formidable agitator)
+		     (VP was
+			 (S (NP *)
+			    (AUX to)
+			    (VP favor
+				(NP them)
+				(PP with
+				    (NP his presence)))))))))
+    ,
+    (S (NP the benighted inhabitants
+	   (PP of
+	       (NP Pawtuxet)))
+       ,
+       (INTJ alas)
+       ,
+       (VP (VP gave
+	       (NP their allegiance)
+	       (PP to
+		   (NP Massachusetts)))
+	   and
+	   (VP asked
+	       (S (NP that colony)
+		  (AUX to)
+		  (VP expel
+		      (NP the newcomers)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  As
+	    (S (NP it)
+	       (VP was
+		   (NP the custom
+		       (PP of
+			   (NP that alert colony))))
+	       (S (NP *)
+		  (AUX to)
+		  (VP take
+		      (PRT over)
+		      (NP the property
+			  (PP of
+			      (NP (NP persons)
+				  (VP asking
+				      (PP for
+					  (NP protection))))))))))
+     ,
+     (S (NP this)
+	(VP was
+	    (NP an act
+		(ADJP  roughly
+		       equivalent
+		       (PP to
+			   (S (S  (NP *)
+				  (VP throwing
+				      (ADJP open)
+				      (NP the door)
+				      (PP to
+					  (NP a pack
+					      (PP of
+						  (NP wolves))))))
+			      and
+			      (S  (NP *) 
+				  (VP saying
+				      (S  ``
+					  (NP *)
+					  (VP Come and get
+					      (NP it))
+					  ''))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Gorton)
+	and
+	(NP company))
+    ,
+    (ADVP however)
+    ,
+    (VP  (ADVP promptly)
+	 bought
+	 (NP (NP land)
+	     (S-2 *pseudo-attach*))
+	 (PP from
+	     (NP (NP Miantonomi)
+		 (ADVP (NP a few miles)
+		       south
+		       (PP of
+			   (NP Pawtuxet)))))
+	 ,
+	 (S-2  (NP *) 
+	       (VP extending
+		   (PP from
+		       (NP the
+			   present
+			   Gaspee Point))
+		   (ADVP (ADVP south
+			       (PP to
+				   (NP Warwick Neck)))
+			 and
+			 (ADVP (NP twenty miles)
+			       inland))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The settlement)
+   (AUX was)
+   (VP called
+	     
+       (NP Shawomet)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NEG not)
+       (PP within
+	   (NP the jurisdiction
+	       (PP of
+		   (NP (NP anybody or anything)
+		       ,
+		       (VP including
+			   (NP (NP Providence)
+			       and
+			       (NP Massachusetts)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP Gorton)
+	      (VP wanted
+		  (NP peace and quiet)
+		  (PP for
+		      (NP his complicated meditations)))))
+    (S
+     (NP this)
+     (VP is
+	 (SBAR 
+	  (WHADVP where)
+	  (S (NP he)
+	     (AUX should)
+	     (VP have
+		 (VP had
+		     (NP it))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Instead
+	    (PP of
+		(NP that)))
+      (S (NP he)
+	 (AUX was)
+	 (VP engulfed
+	        
+	     (PP by
+		 (NP bedlam)))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP (NP Pomham)
+	    and
+	    (NP Soconoco))
+	,
+	(NP a couple
+	    (PP of
+		(NP minor sachems
+		    *LRB*
+		    (PP of
+			(NP something
+			    (ADJP less
+				  (PP than
+				      (NP exalted character)))))
+		    *RRB*
+		    (PP under
+			(NP Miantonomi)))))
+	,)
+    (VP declared
+	(SBAR that
+	      (S (NP they)
+		 (X (X (AUX had)
+		       (ADVP never)
+		       (VP assented
+			   (PP to
+			       (NP the sale
+				   (PP of
+				       (NP land))
+				   (PP to
+				       (NP Gorton))))))
+		    and
+		    (X (AUX had)
+		       (ADVP never)
+		       (VP received
+			   (NP anything)
+			   (PP for
+			       (NP it)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Following
+	      (NP the glorious lead
+		  (PP of
+		      (NP the heroes
+			  (PP of
+			      (NP Pawtuxet)))))))
+      ,
+      (S (NP they)
+	 (ADVP also)
+	 (VP submitted
+	     (NP themselves)
+	     (PP to
+		 (NP the protection
+		     (PP of
+			 (NP Massachusetts)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One historical authority)
+    (VP presents
+	(NP (NP laborious and circuitous testimony)
+	    (VP tending
+		(S (NP *)
+		   (AUX to)
+		   (VP arouse
+		       (NP suspicion
+			   (SBAR that
+				 (S (NP Massachusetts)
+				    (VP was
+					(PP behind
+					    (NP (NP the clouds)
+						(VP settling
+						    (ADVP down)
+						    (PP on
+							(NP the
+							    embattled
+							    Gorton)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP the General Court
+	     (PP at
+		 (NP Boston)))
+	 (VP ordered
+	     (NP the purchasers
+		 (PP of
+		     (NP Shawomet)))
+	     (S (NP *)
+		(AUX to)
+		(VP appear
+		    (PP before
+			(NP them))
+		    (S (NP *)
+		       (AUX to)
+		       (VP answer
+			   (NP 
+			    (NP the sachems)
+			    ' claim))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The purchasers)
+   (VP rejected
+       (NP the order))
+   (PP in
+       (NP (NP two letters)
+	   (VP written
+	       (PP in
+		   (NP vigorous terms))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP Massachusetts)
+	 (VP switched
+	     (PP to
+		 (NP its standard tactics)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP pointed
+	   (PRT out)
+	   (NP twenty-six instances
+	       (PP of
+		   (NP blasphemy)))
+	   (PP in
+	       (NP the letters)))
+       ,
+       and
+       (VP ordered
+	   (S (S (NP the writers)
+		 (AUX to)
+		 (VP submit))
+	      or
+	      (S (NP  force
+		      (PP of
+			  (NP arms)))
+		 (AUX would)
+		 (VP be
+		     (VP used
+			 )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The next week)
+    ,
+    (S (NP forty soldiers)
+       (AUX were)
+       (VP sent
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP get
+		  (NP the miscreants))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The latter)
+   (VP tried
+       (S (NP *)
+	  (AUX to)
+	  (VP arbitrate
+	      (PP through
+		  (NP (NP a delegation
+			  (PP from
+			      (NP Providence)))
+		      ,
+		      (SBAR 
+		       (WHNP which offer)
+		       (S (NP T)
+			  (AUX was)
+			  (VP declined
+	      
+			      (PP by
+				  (NP the invaders)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Commissioners
+       (PP at
+	   (NP Boston)))
+   (VP wrote
+       (NP the victims)
+       (S (S (NP *)
+	     (AUX to)
+	     (VP (VP see
+		     (NP their misdeeds))
+		 and
+		 (VP repent)))
+	  or
+	  (S (NP they)
+	     (AUX should)
+	     ``
+	     (VP look
+		 (PP upon
+		     (NP them))
+		 (PP as
+		     (NP (NP men)
+			 (VP prepared
+			     (PP for
+				 (NP slaughter))))))
+	     ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP Shawomet))
+    ,
+    (S (NP women and children)
+       (VP fled
+	   (PP in
+	       (NP terror))
+	   (PP across
+	       (NP the Bay)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The men)
+   (VP (VP fortified
+	   (NP a blockhouse))
+       and
+       (VP got
+	   (ADJP ready
+		 (S (NP *)
+		    (AUX to)
+		    (VP fight))))
+       ,
+       but
+       (VP  (ADVP meanwhile)
+	    appealed
+	    (PP to
+		(NP the King)))
+       and
+       (VP  (ADVP again)
+	    tried
+	    (S (NP *)
+	       (AUX to)
+	       (VP arbitrate)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Gorton)
+      (ADVP evidently)
+      (VP  (ADVP still)
+	   had
+	   (NP plenty
+	       (S (NP *)
+		  (AUX to)
+		  (VP learn
+		      (PP about
+			  (NP Massachusetts)))))))
+     ,
+     but
+     (S (NP he)
+	(AUX was)
+	(VP learning
+	    (ADVP fast))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Governor Winthrop)
+   (VP wrote
+       :
+       (S  ``
+	   (NP You)
+	   (AUX may)
+	   (VP do
+	       (ADVP well))
+	   (S (NP *)
+	      (AUX to)
+	      (VP take
+		  (NP notice
+		      ,
+		      (SBAR that
+			    (S (PP besides
+				   (NP the title
+				       (PP to
+					   (NP land))
+				       (PP between
+					   (NP (NP the English)
+					       and
+					       (NP the Indians
+						   (ADVP there))))))
+			       ,
+			       (S (NP there)
+				  (VP are
+				      (NP (NP twelve
+					      (PP of
+						  (NP the English)))
+					  (SBAR (SBAR (WHNP that)
+						      (S (NP T)
+							 (AUX have)
+							 (VP subscribed
+							     (NP their names)
+							     (PP to
+								 (NP horrible
+								     and
+								     detestable blasphemies)))))
+						,
+						(SBAR 
+						 (WHNP who)
+						 (S (NP T)
+						    (VP are
+							(S (NP *)
+							   (ADVP rather)
+							   (AUX to)
+							   (VP be
+							       (VP judged
+								   (PP as
+								       (ADJP
+									blasphemous))))
+							   (SBAR  than
+								  (S (NP they)
+								     (AUX should)
+								     (VP delude
+									 (NP us)
+									 (PP by
+									     (S  (NP *)
+										 (VP winning
+										     (NP time))
+										 (PP under
+										     (NP pretence
+											 (PP of
+											     (NP arbitration)))))))))))))))))))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The attack)
+      (VP started
+	  (PP on
+	      (NP October 2 , 1643))))
+     ,
+     and
+     (S (NP the Gortonists)
+	(VP held
+	    (ADVP out)
+	    (PP for
+		(NP (NP a day)
+		    and
+		    (NP a night))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The attackers)
+       (VP sent
+	   (PP for
+	       (NP 
+		(ADJP more)
+		soldiers))))
+    ,
+    and
+    (S (NP the defenders)
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP save
+	      (NP bloodshed)))
+       ,
+       (VP surrendered
+	   (PP under
+	       (NP the promise
+		   (SBAR that
+			 (S (NP they)
+			    (AUX would)
+			    (VP be
+				(VP treated
+				     
+				    (PP as
+					(NP neighbors)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Promptly)
+	 (S (NP their livestock)
+	    (AUX was)
+	    (VP taken
+		)))
+      and
+      (VP according
+	  (PP to
+	      (NP Gorton)))
+      (S
+       (NP the soldiers)
+       (AUX were)
+       (VP ordered
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP knock
+		      (PRT down)
+		      (NP (NP anyone)
+			  (SBAR (WHNP who)
+				(S (NP T)
+				   (AUX should)
+				   (VP utter
+				       (NP a word
+					   (PP of
+					       (NP insolence))))))))
+		  ,
+		  and
+		  (VP run
+		      (PRT through)
+		      (NP (NP anyone)
+			  (SBAR (WHNP who)
+				(S (NP T)
+				   (AUX might)
+				   (VP step
+				       (PP out
+					   (PP of
+					       (NP line)))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the captives)
+	(VP arrived
+	    (PP in
+		(NP Boston)))))
+    ,
+    (S  ``
+	(NP the chaplain
+	    *LRB*
+	    (PP of
+		(NP their captors))
+	    *RRB*)
+	(VP went
+	    (PP to
+		(NP prayers))
+	    (PP in
+		(NP the open streets)))
+	,
+	(SBAR that
+	      (S (NP the people)
+		 (AUX might)
+		 (VP take
+		     (NP notice)
+		     (SBAR (WHNP what)
+			   (S
+			    (NP they)
+			    (AUX had)
+			    (VP done
+				(NP T) )
+			    (PP (PP in
+				    (NP a holy manner))
+				,
+				and
+				(PP in
+				    (NP the name
+					(PP of
+					    (NP the Lord))))))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Gorton)
+	and
+	(NP ten
+	    (PP of
+		(NP his friends))))
+    (AUX were)
+    (VP thrown
+	    
+	(PP in
+	    (NP jail))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP Sunday))
+    (S (NP they)
+       (VP refused
+	   (S (NP *)
+	      (AUX to)
+	      (VP attend
+		  (NP church))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The magistrates)
+   (AUX were)
+   (VP determined
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP compel
+	      (NP them)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The prisoners)
+    (VP agreed)
+    ,
+    (VP provided
+	(SBAR 0
+	      (S (S (NP they)
+		    (AUX might)
+		    (VP speak)
+		    (PP after
+			(NP the sermon)))
+		 ,
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX was)
+		     (VP permitted
+			 )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV (ADVP Here)
+	 (VP was)
+	 (NP 
+	  (NP Gorton)
+	  's chance
+	  (S (NP *)
+	     (AUX to)
+	     (VP indulge
+		 (PP in
+		     (NP (NP something)
+			 (SBAR (WHPP at
+				     (WHNP which))
+			       (S
+				(NP he)
+				(VP was
+				    (ADJP supreme))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Boston elders)
+      (VP were
+	  (ADJP great
+		(PP at
+		    (S  (NP *)
+			(VP befuddling
+			    (NP the opposition)
+			    (PP with
+				(NP torrents
+				    (PP of
+					(NP ecclesiastical obscurities))))))))))
+     ,
+     but
+     (S (NP Gorton)
+	(VP was
+	    (ADJP better))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Reverend Cotton)
+   (VP preached
+       (PP to
+	   (NP them))
+       (PP about
+	   (NP (NP Demetrius)
+	       and
+	       (NP the shrines
+		   (PP of
+		       (NP Ephesus)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (VP replied
+       (PP with
+	   (NP (NP blasts)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(VP scandalized
+			    (NP the congregation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP (NP the trial)
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (VP took
+			  (NP place))
+		      (ADVP later)))))
+     ,
+     (S (NP the Pomham matter)
+	(AUX was)
+	(VP  (ADVP completely)
+	     omitted
+	     )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Gortonists)
+   (AUX were)
+   (VP (VP charged
+	     
+	   (PP with
+	       (NP blasphemy)))
+       and
+       (VP tried
+	   (PP for
+	       (NP their lives)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Four ecclesiastical questions)
+   (AUX were)
+   (VP presented
+	     
+       (PP by
+	   (NP the General Court))
+       (PP to
+	   (NP Gorton)))
+   :
+   ``
+   (NP (NP 1
+	   .)
+       (SBAR Whether
+	     (S (NP (NP the Fathers)
+		    ,
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (VP died)
+			     (PP before
+				 (S (NP Christ)
+				    (AUX was)
+				    (VP born
+		    
+					(PP of
+					    (NP the Virgin Mary)))))))
+		    ,)
+		(AUX were)
+		(VP (VP justified
+			)
+		    and
+		    (VP saved
+			(PP  only
+			     by
+			     (NP (NP (NP the blood)
+				     (SBAR (WHNP which)
+					   (S
+					    (NP he)
+					    (VP shed
+						(NP T) ))))
+				 ,
+				 and
+				 (NP (NP the death)
+				     (SBAR (WHNP which)
+					   (S (NP he)
+					      (VP suffered
+						  (PP after
+						      (NP his incarnation)))))))))))
+	     ?))))
+(  END_OF_TEXT_UNIT) 
+
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 2
+	   .)
+       (SBAR Whether
+	     (S (NP the only price
+		    (PP of
+			(NP our redemption)))
+		(VP were
+		    (NEG not)
+		    (NP the death
+			(PP of
+			    (NP Christ))
+			(PP on
+			    (NP the cross))
+			,
+			(PP with
+			    (NP the rest
+				(PP of
+				    (NP his sufferings and obediences
+					,
+					(PP in
+					    (NP the time
+						(PP of
+						    (NP his life
+							(ADVP here)))))
+					,
+					(PP after
+					    (S (NP he)
+					       (AUX was)
+					       (VP born
+						   (PP of
+						       (NP the Virgin Mary))))))))))))
+	     ?)))
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 3
+	  .)
+       (SBARQ
+	(WHNP Who)
+	(SQ (NP T)
+	   (VP was
+	       (NP (NP the God)
+		   (SBAR (WHNP whom)
+			 (S (NP he)
+			    (VP thinke
+				(SBAR 0
+				      (S (NP we)
+					 (VP serve
+					     (NP T) )))))))))
+	?)))
+(  END_OF_TEXT_UNIT)
+   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 4
+	  .)
+       (SBAR (WHNP What)
+	     (S (NP he)
+		(VP means
+		    (NP T) )
+		(SBAR 
+		 (WHADVP when)
+		 (S (NP he)
+		    (VP saith
+			,
+			(S (NP wee)
+			   (VP worship
+			       (NP the starre
+				   (PP of
+				       (NP our God Remphan
+					   ,
+					   Chion
+					   ,
+					   Moloch)))))))))
+	     ''
+	     ?)))
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gorton)
+   (VP answered
+       (PP in
+	   (NP writing))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP All
+	  (PP of
+	      (NP the elders))
+	  (PP except
+	      (NP three)))
+      (VP voted
+	  (PP for
+	      (NP death))))
+     ,
+     but
+     (S (NP a majority
+	    (PP of
+		(NP the deputies)))
+	(VP refused
+	    (S (NP *)
+	       (AUX to)
+	       (VP sanction
+		   (NP the sentence))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Seven
+	(PP of
+	    (NP the prisoners)))
+    (AUX were)
+    (VP sentenced
+		 
+	(S (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP (VP confined
+			    
+			  (PP in
+			      (NP irons))
+			  (PP for
+			      (ADJP  as
+				     long
+				     (PP as
+					 (S (NP it)
+					    (VP pleased
+						(NP the court)))))))
+		      ,
+		      (VP set
+			  (S (NP *)
+			     (AUX to)
+			     (VP work))))))
+	   and
+	   ,
+	   (SBAR if
+		 (S (NP they)
+		    (VP (VP broke
+			    (NP jail))
+			or
+			(VP proclaimed
+			    (NP heresy)))))
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP executed
+		      ))
+	      (X if
+		 (VP convicted))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The three others)
+    (VP got
+	(PRT off)
+	(ADVP easier)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The convicts)
+   (AUX were)
+   (VP (VP put
+	     
+	   (PP in
+	       (NP chains)))
+       ,
+       (VP paraded
+	   (PP before
+	       (NP the congregation))
+	   (PP at
+	       (NP 
+		(NP the Reverend Cotton)
+		's lecture))
+	   (PP as
+	       (NP an example)))
+       ,
+       and
+       (VP sent
+	   (PP to
+	       (NP (NP prisons
+		       (PP in
+			   (NP various towns)))
+		   ,
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP they)
+		       (VP languished
+			   (NP all winter)
+			   ,
+			   (NP (NP chains)
+			       (VP included))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

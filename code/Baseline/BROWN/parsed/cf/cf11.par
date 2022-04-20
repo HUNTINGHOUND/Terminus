@@ -1,0 +1,2219 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (NP (ADJP Ten-year-old) Richard Stewart)
+     (AUX had)
+     (VP been
+	 (ADJP irritable and quarrelsome))
+     (PP for
+	 (NP (ADVP almost)
+	     a year)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP His grades)
+	(AUX had)
+	(VP gone
+	    (ADVP steadily)
+	    (ADVP downhill)))
+     ,
+     and
+     (S (NP he)
+	(AUX had)
+	(VP stopped
+	    (S (NP *)
+	       (VP bringing
+		   (NP (NP friends) 
+		       and 
+		       (NP classmates))
+		   (ADVP home)
+		   (PP from
+		       (NP school)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Mr.
+	 and
+	 Mrs. Stewart)
+    (VP were
+	(ADJP puzzled and concerned)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (NP one day)
+      (S (NP (NP (NP Dick)
+		 's classmate)
+	     (NP Jimmy
+		 ,
+		 (PP from
+		     (NP next door))
+		 ,))
+	 (VP let
+	     (NP the cat)
+	     (PP out
+		 (PP of
+		     (NP the bag))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The youngsters
+	 (PP in
+	     (NP (NP the boys)
+		 ' class)))
+     (AUX had)
+     (VP nicknamed
+	 (NP Dick)
+	  ``
+	 (NP Bugs Bunny)
+	  '')
+     (SBAR because
+	   (S (NP his teeth)
+	      (VP protruded))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP (NP Richard)
+		  's parents)
+	      (VP told
+		  (NP him)
+		  (SBAR 0
+			(S (NP they)
+			   (VP wanted
+			       (S (NP *)
+				  (AUX to)
+				  (VP take
+				      (NP him)
+				      (PP to
+					  (NP (NP an orthodontist)
+					      --
+					      (NP (NP a dentist)
+						  (SBAR (WHNP who)
+							(S (NP T)
+							   (VP specializes
+							       (PP in
+								   (S  (NP *)
+								       (VP realigning
+									   (NP (NP teeth) 
+									       and 
+									       (NP jaws)))))))))
+					      --))))))) )))
+     (S (NP their young son)
+	(AUX was)
+	(VP interested)))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the year
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP followed)))))
+    ,
+    (S (NP Dick)
+       (X (VP co-operated
+	      (ADVP whole-heartedly)
+	      (PP with
+		  (NP the dentist)))
+	  and
+	  (X (AUX was)
+	     (VP delighted
+		 (PP with
+		     (NP (NP (NP the final result)
+			     (VP achieved))
+			 --
+			 (NP (NP an upper row
+				 (PP of
+				     (NP strong straight
+					 teeth)))
+			     (SBAR (WHNP that)
+				   (S (NP T)
+				      (ADVP completely)
+				      (VP changed
+					  (NP his facial appearance))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP Richard Stewart)
+     (VP is
+	 (NP no special case)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP The majority
+	     (PP of
+		 (NP children
+		     (PP in
+			 (NP the United States)))))
+	 (AUX could)
+	 (VP benefit
+	     (PP by
+		 (NP some form
+		     (PP of
+			 (NP orthodontic treatment))))))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP (NP Dr. Allan G. Brodie)
+		,
+		(NP (NP (NP professor) 
+			and 
+			(NP head
+			    (PP of
+				(NP the department
+				    (PP of
+					(NP orthodontics)))))
+			(PP at
+			    (NP the University
+				(PP of
+				    (NP Illinois)))))
+		    and
+		    (NP a
+			(ADJP  nationally
+			       recognized)
+			authority
+			(PP in
+			    (NP his field)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ (AUX do)
+	    (NP parents)
+	    (VP need
+		(S (NP *)
+		   (AUX to)
+		   (VP know
+		       (NP T)
+		       (PP about
+			   (NP those
+			       ``
+			       years
+			       (PP of
+				   (NP the braces))
+			       '')))))
+	    (SBAR  in
+		   order
+		   (S  (NP *)  
+		       (NEG not)
+		       (AUX to)
+		       (VP waste
+			   (NP (NP (NP a child)
+				   's time)
+			       and
+			       (NP their money)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP How)
+	(SQ  (AUX can)
+	     (NP they)
+	     (VP tell
+		 (SBAR whether
+		       (S (NP a child)
+			  (VP needs
+			      (NP orthodontic treatment)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (X (WHADVP Why)
+	   and
+	   (WHADVP when))
+	(SQ (AUX should)
+	    (NP  tooth-straightening)
+	    (VP be
+		(VP undertaken))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ (VP is)
+	    (NP it)
+	    (ADJP  likely
+		   (S (NP *)
+		      (AUX to)
+		      (VP cost
+			  (NP T) )))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Tooth fit
+	explained
+	occlusion)
+    (VP is
+	(NP (NP the dentist)
+	    's expression
+	    (PP for
+		(NP the way
+		    (SBAR 0
+			  (S (NP teeth)
+			     (VP fit
+				 (ADVP together))
+			     (SBAR (WHADVP when)
+				   (S (NP the jaws)
+				      (AUX are)
+				      (VP closed))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Malocclusion)
+	,
+	or
+	(NP a bad fit)
+	,)
+    (VP is
+	(SBAR (WHNP what)
+	      (S (NP parents)
+		 (VP need
+		     (S (NP *)
+			(AUX to)
+			(VP look
+			    (PP out
+				(PP for
+				    (NP T) )))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP One main type
+	 (PP of
+	     (NP malocclusion)))
+     (AUX is)
+     (VP characterized
+	 (PP by
+	     (NP (NP a (VP receding) chin)
+		 and
+		 (NP (VP protruding)
+		     upper front
+		     teeth)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (NP A chin)
+	    (ADJP  too
+		   prominent
+		   (PP in
+		       (NP relation
+			   (PP to
+			       (NP the rest
+				   (PP of
+				       (NP the face))))))))
+	,
+	(NP a thrusting
+	    (ADVP forward)
+	    (PP of
+		(NP the
+		    lower
+		    front teeth)))
+	,
+	(NP an overdeveloped lower jawbone)
+	,
+	and
+	(NP an
+	    underdeveloped upper
+	    jaw))
+    (VP indicate
+	(NP the opposite type
+	    (PP of
+		(NP malocclusion)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP These two basic malformations)
+     (VP have
+	 ,
+	 (PP of
+	     (NP course))
+	 ,
+	 (NP many variations)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP A child)
+     (ADVP probably)
+     (VP requires
+	 (NP some form
+	     (PP of
+		 (NP treatment))))
+     (SBAR if
+	   (S (NP he)
+	      (VP has
+		  (NP any
+		      (PP of
+			  (NP (NP the following conditions)
+			      :
+			      (NP A noticeable protrusion
+				  (PP of
+				      (NP the upper or lower jaw))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP  Crooked
+	    ,
+	    overlapping
+	    ,
+	    twisted
+	    ,
+	    or
+	    (ADJP   widely
+		    spaced))
+     teeth)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Front teeth)
+      (NEG not)
+      (VP meeting
+	  (SBAR (WHADVP when)
+		(S (NP the back teeth)
+		   (VP close)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Upper teeth)
+      (VP  (ADVP completely)
+	   covering
+	   (NP the lowers)
+	   (SBAR (WHADVP when)
+		 (S (NP the back teeth)
+		    (VP close)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP (NP The eyeteeth)
+	 *LRB*
+	 (ADJP third
+	       (PP from
+		   (NP the middle))
+	       (PP on
+		   (NP top)))
+	 ,
+	 (S  (NP *) 
+	     (VP counting
+		 (NP each front tooth)
+		 (PP as
+		     (NP the
+			 first))))
+	 *RRB*)
+     (VP beginning
+	 (S (NP *)
+	    (AUX to)
+	    (VP protrude
+		(PP like
+		    (NP fangs))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP Second teeth)
+     (SBAR (WHNP that)
+      (S (NP T)
+	 (AUX have)
+	 (VP come
+	     (ADVP in)
+	     (PP before
+		 (S (NP the first ones)
+		    (AUX have)
+		    (VP fallen
+			(ADVP out))))
+	     ,
+	     (S  (NP *)  
+		 (VP making
+		     (NP a double row)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Contrary
+	  (PP to
+	      (NP the thinking
+		  (PP of
+		      (X (ADVP (NP (NP 30
+				       (PP to
+					   (NP 40)))
+				   years)
+			       ago)
+			 ,
+			 (SBAR (WHADVP when)
+			       (S (NP all malocclusion)
+				  (AUX was)
+				  (VP blamed
+				      (PP on
+					  (NP some unfortunate habit))))))))))
+    ,
+    (S (NP recent studies)
+       (VP show
+	   (SBAR that
+		 (S (NP  most
+			 tooth irregularity)
+		    (VP has
+			(PP at
+			    (ADJP least))
+			(NP its beginning)
+			(PP in
+			    (NP hereditary predisposition))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP this)
+	 (AUX does)
+	 (NEG not)
+	 (VP mean
+	     (SBAR that
+		   (S (NP (NP a child)
+			  's teeth or jaws)
+		      (AUX must)
+		      (ADVP necessarily)
+		      (VP resemble
+			  (NP those
+			      (PP of
+				  (NP someone
+				      (PP in
+					  (NP his family)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Tooth deformity)
+	(AUX may)
+	(VP be
+	    (NP the result
+		(PP of
+		    (NP excessive thumb
+			-
+			or
+			finger-sucking
+			,
+			tongue-thrusting
+			,
+			or
+			lip-sucking)))))
+     --
+     but
+     (S (NP it
+	    (S-2 *pseudo-attach*))
+	(VP 's
+	    (ADJP important))
+	(S-2 (NP *)
+	     (AUX to)
+	     (VP remember
+		 (SBAR that
+		       (S (NP there)
+			  (VP 's
+			      (NP a difference
+				  (PP between
+				      (NP (ADJP normal and excessive) sucking habits))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It
+	   (SBAR-1 *pseudo-attach*))
+       (VP 's
+	   (ADJP  perfectly
+		  normal))
+       (SBAR-1  for
+	      (S (NP babies)
+		 (AUX to)
+		 (VP suck
+		     (NP their thumbs)))))
+    ,
+    and
+    (S (NP no mother)
+       (VP need
+	   (S (NP *)
+	      (VP worry
+		  (SBAR if
+			(S (NP a child)
+			   (VP continues
+			       (NP this habit)
+			       (PP until
+				   (S (NP he)
+				      (VP is
+					  (ADJP (NP   two
+						      or
+						      three years)
+						old))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Occasional sucking)
+	(PP up
+	    (PP to
+		(NP the fifth year)))
+	(AUX may)
+	(NEG not)
+	(VP affect
+	    (NP (NP a youngster)
+		's teeth)))
+     ;
+     ;
+     but
+     (S (PP after
+	    (NP that))
+	,
+	(SBAR if
+	      (S (NP thumb-sucking pressure)
+		 (VP is
+		     (ADJP frequent))))
+	,
+	(S (NP it)
+	   (AUX will)
+	   (VP have
+	       (NP an effect)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Malocclusion)
+    (AUX can)
+    (ADVP also)
+    (VP result)
+    (SBAR if
+	  (S (NP baby teeth)
+	     (AUX are)
+	     (VP (VP lost
+		     (ADVP  too
+			    soon))
+		 or
+		 (VP retained
+		     (ADVP  too
+			    long))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP a child)
+	      (VP loses
+		  (NP a molar))
+	      (PP at
+		  (NP the age
+		      (PP of
+			  (NP two))))))
+    ,
+    (S (NP the (VP adjoining) teeth)
+       (AUX may)
+       (VP shift
+	   (PP toward
+	       (NP the empty space))
+	   ,
+	   (S (ADVP thus)
+	      (S  (NP *) 
+		  (VP narrowing
+		      (NP (NP the place)
+			  (VP intended
+			      (PP for
+				  (NP the permanent ones))))))
+	      and
+	      (S  (NP *) 
+		  (VP producing
+		      (NP a jumble)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  If
+	    (S (NP baby teeth)
+	       (AUX are)
+	       (VP retained
+		   (ADVP  too
+			  long))))
+     ,
+     (S (NP the (VP incoming) second teeth)
+	(X (X  (AUX may)
+	       (VP be
+		   (VP prevented
+		       (PP from
+			   (S  (NP *)
+			       (VP emerging
+				   (PP at
+				       (NP the normal time))))))))
+	   or
+	   (X (AUX may)
+	      (VP have
+		  (S (NP *)
+		     (AUX to)
+		     (VP erupt
+			 (PP in
+			     (NP the wrong place)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Correction)
+	(AUX can)
+	(VP save
+	    (NP teeth)))
+     (S (NP every orthodontist)
+	(VP sees
+	    (NP (NP children)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (AUX are)
+			 (VP embarrassed
+			     (PP by
+				 (NP their malformed teeth)))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Some such youngsters)
+       (VP  (ADVP rarely)
+	    smile))
+    ,
+    or
+    (S (NP they)
+       (VP try
+	   (S (NP *)
+	      (AUX to)
+	      (VP speak
+		  (PP with
+		      (S (NP the mouth)
+			 (VP closed))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP certain cases))
+    ,
+    (PP as
+	(PP in
+	    (NP (NP Dick Stewart)
+		's)))
+    ,
+    (S (NP (NP a child)
+	   's personality)
+       (AUX is)
+       (VP affected)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (PP from
+	  (NP (NP the dentist)
+	      's point
+	      (PP of
+		  (NP view))))
+      ,
+      (S (NP bad-fitting teeth)
+	 (AUX should)
+	 (VP be
+	     (VP corrected
+		 (PP for
+		     (NP physical reasons))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Bad alignment)
+     (AUX may)
+     (VP result
+	 (PP in
+	     (NP early loss
+		 (PP of
+		     (NP teeth))
+		 (PP through
+		     (NP a breakdown
+			 (PP of
+			     (NP (NP the bony structure)
+				 (SBAR (WHNP that)
+				       (S (NP T)
+					  (VP supports
+					      (NP their roots))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (NP (NP This serious condition)
+	,
+	(VP  (ADVP popularly)
+	     known
+	     (PP as
+		 (NP pyorrhea)))
+	,)
+    (VP is
+	(NP one
+	    (PP of
+		(NP the chief causes
+		    (PP of
+			(NP tooth loss
+			    (PP in
+				(NP adults)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      ,
+      (ADVP too)
+      ,
+      (S (NP  misplaced
+	      or
+	      jammed-together teeth)
+	 (VP are
+	     (ADJP prone
+		   (PP to
+		       (S (NP *) 
+			  (VP trapping
+			      (NP food particles))
+			  ,
+			  (S (NP *)
+			     (VP increasing
+				 (NP the likelihood
+				     (PP of
+					 (NP rapid decay)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (S (PP For
+	 (NP these
+	     and
+	     other reasons))
+     ''
+     ,
+     (SINV (VP says)
+	   (NP Dr. Brodie))
+     ,
+     ``
+     (S (NP orthodontics)
+	(AUX can)
+	(VP prolong
+	    (NP the life
+		(PP of
+		    (NP teeth))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The failure
+	 (PP of
+	     (NP teeth))
+	 (S (NP *)
+	    (AUX to)
+	    (VP fit
+		(ADVP together))
+	    (SBAR (WHADVP when)
+		  (S  (NP *) 
+		      (VP closed)))))
+     (VP interferes
+	 (PP with
+	     (NP normal chewing))
+	 ,
+	 (SBAR  so
+		that
+		(S (NP a child)
+		   (AUX may)
+		   (VP (VP swallow
+			   (NP food)
+			   (ADVP whole))
+		       and
+		       (VP put
+			   (NP a burden)
+			   (PP on
+			       (NP his digestive system))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP Because
+	  (PP of
+	      (NP these chewing troubles)))
+    ,
+    (S (NP a child)
+       (AUX may)
+       (VP avoid
+	   (NP (NP certain foods)
+	       (SBAR 0
+		     (S (NP he)
+			(VP needs
+			    (NP T)
+			    (PP for
+				(NP adequate nutrition))))) ))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP  Badly
+	     placed)
+	teeth)
+    (AUX can)
+    (ADVP also)
+    (VP cause
+	(NP (ADJP such)
+	    a speech handicap
+	    (PP as
+		(S (NP *) 
+		   (VP lisping))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP The
+      when
+      and
+      how
+      (PP of
+	  (NP straightening))))
+(  
+ (S  ``
+     (S (NP  most orthodontic
+	     work)
+	(AUX is)
+	(VP done
+	    (PP on
+		(NP children
+		    (PP between
+			(NP the ages
+			    (PP of
+				(NP (NP 10)
+				    and
+				    (NP 14))))))))
+	,
+	(SBAR though
+	      (S (NP there)
+		 (AUX have)
+		 (VP been
+		     (NP (NP patients)
+			 (ADJP (ADJP  as
+				      young
+				      (PP as
+					  (NP two)))
+			       and
+			       (ADJP  as
+				      old
+				      (PP as
+					  (NP 55)))))))))
+     ''
+     ,
+     (SINV (VP says)
+	   (NP Dr. Brodie)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the period
+	    (PP from
+		(NP 10
+		    (PP to
+			(NP 14))))))
+    (S (S (NP the permanent set
+	      (PP of
+		  (NP teeth)))
+	  (AUX is)
+	  (ADVP usually)
+	  (VP completed))
+       ,
+       (S (ADVP yet)
+	  (S (NP the continuing growth
+		 (PP of
+		     (NP bony tissue)))
+	     (VP makes
+		 (S  (NP *) 
+		     (VP moving
+			 (NP (VP  badly
+				  placed)
+			     teeth)))
+		 (ADJP  comparatively
+			easy))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP Orthodontic work)
+     (VP is
+	 (ADJP possible))
+     (SBAR because
+	   (S (S (NP teeth)
+		 (AUX are)
+		 (VP held
+		     (ADVP (ADVP firmly)
+			   but
+			   (NEG not)
+			   (ADVP rigidly))
+		     ,
+		     (PP by
+			 (NP a system
+			     (PP of
+				 (NP peridontal membrane
+				     (PP with
+					 (NP an involved nerve network))))))
+		     ,
+		     (PP to
+			 (NP the bone
+			     (PP in
+				 (NP the jaw))))))
+	      ;
+	      ;
+	      (S (NP they)
+		 (AUX are)
+		 (NEG not)
+		 (VP anchored
+		     (PP  (ADVP directly)
+			  to
+			  (NP the bone)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Abnormal pressure)
+	,
+	(VP applied
+	    (PP over
+		(NP a period
+		    (PP of
+			(NP time)))))
+	,)
+    (VP produces
+	(NP a change
+	    (PP in
+		(NP the bony deposit))))
+    ,
+    (SBAR   so
+	    (S (NP a tooth)
+	       (VP functions
+		   (ADVP normally)
+		   (PP in
+		       (NP (NP the new position)
+			   (SBAR (WHPP into
+				       (WHNP which))
+				 (S (NP it)
+				    (AUX has)
+				    (VP been
+					(VP guided))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(SQ (AUX can)
+	    (NP (ADJP 10-year-old)
+		Susan)
+	    (VP expect
+		(NP T) )
+	    (SBAR (WHADVP when)
+		  (S (NP she)
+		     (VP enters
+			 (NP (NP the orthodontist)
+			     's office))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP her
+	    first
+	    visit))
+    (S (NP the orthodontist)
+       (AUX will)
+       (VP take
+	   (NP (NP x-rays)
+	       ,
+	       (NP photographs)
+	       ,
+	       (NP tooth measurements)
+	       ,
+	       and
+	       (NP (NP  ``
+			tooth prints
+			'')
+		   --
+		   (NP (NP an impression
+			   (PP of
+			       (NP the mouth)))
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(VP permits
+				    (S (NP him)
+				       (AUX to)
+				       (VP study
+					   (NP her teeth and jaws))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP he)
+	      (VP decides
+		  (S (NP *)
+		     (AUX to)
+		     (VP proceed)))))
+    ,
+    (S (NP he)
+       (AUX will)
+       (VP custom-make
+	   (PP for
+	       (NP Susie))
+	   (NP (NP an appliance)
+	       (VP consisting
+		   (PP of
+		       (NP (NP bands)
+			   ,
+			   (NP plastic plates)
+			   ,
+			   (NP fine wires)
+			   ,
+			   and
+			   (NP tiny springs))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This appliance)
+     (AUX will)
+     (VP exert
+	 (NP a (ADJP gentle and (ADJP continuous or intermittent)) pressure)
+	 (PP on
+	     (NP the bone))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP the tooth)
+	      (VP moves)))
+    ,
+    (S (S (NP bone cells
+	      (PP on
+		  (NP the pressure side
+		      (PP of
+			  (NP it)))))
+	  (AUX will)
+	  (VP dissolve))
+       ,
+       and
+       (S (NP new ones)
+	  (AUX will)
+	  (VP form
+	      (PP on
+		  (NP (NP the side)
+		      (SBAR (WHPP from
+				  (WHNP which))
+			    (S (NP the tooth)
+			       (AUX has)
+			       (VP moved)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (AUX must)
+     (VP be
+	 (VP done
+	     (X (PP at
+		    (NP  (NP the rate)
+			 (SBAR (WHPP at
+				     (WHNP which))
+			       (S (NP new bony
+				      tissue)
+				  (VP grows)))))
+		,
+		and
+		(ADVP no
+		      faster)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (SBAR  If
+		(S (NP teeth)
+		   (AUX are)
+		   (VP moved
+		       (ADVP too
+			     rapidly))))
+	 ,
+	 (S (NP serious injury)
+	    (AUX can)
+	    (VP be
+		(VP done
+		    (PP (PP to
+			    (NP their roots))
+			(ADVP as
+			      well
+			      (PP as
+				  (PP to
+				      (NP (NP the (VP surrounding) bone)
+					  (VP holding
+					      (NP them)
+					      (PP in
+						  (NP place))))))))))))
+      ''
+      ,
+      (SINV (VP explains)
+	    (NP Dr. Brodie)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S  (NP (S  (NP *) 
+		  (VP Moving
+		      (NP  one
+			   or
+			   two teeth))))
+	  (AUX can)
+	  (VP affect
+	      (NP the whole system)))
+      ,
+      and
+      (S (NP an ill-conceived plan
+	     (PP of
+		 (NP treatment)))
+	 (AUX can)
+	 (VP disrupt
+	     (NP the growth pattern
+		 (PP of
+		     (NP (NP a child)
+			 's face))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (X (PP During
+	      (NP the
+		  (ADJP first few) 
+		  days
+		  (PP of
+		      (S  (NP *)
+			  (VP wearing
+			      (NP the appliance))))))
+	  and
+	  (VP  (ADVP immediately)
+	       following
+	       (NP each adjustment)))
+       ,
+       (S (NP Susan)
+	  (AUX may)
+	  (VP have
+	      (NP a slight discomfort or soreness))))
+    ,
+    but
+    (S (PP after
+	   (NP a short time))
+       (S (NP this)
+	  (AUX will)
+	  (VP disappear))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Parents)
+     (AUX are)
+     (ADVP often)
+     (VP concerned
+	 (SBAR that
+	       (S (NP orthodontic appliances)
+		  (AUX may)
+		  (VP cause
+		      (S (NP teeth)
+			 (AUX to)
+			 (VP decay)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X (WHADVP When)
+       (PP in
+	   (NP place)))
+    ,
+    (S (NP a (VP well-cemented) band)
+       (ADVP actually)
+       (VP protects
+	   (NP (NP the part
+		   (PP of
+		       (NP the tooth)))
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(AUX is)
+			(VP covered)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Next)
+     (S (NP Susie)
+	(AUX will)
+	(VP (VP enter
+		(NP the treatment stage))
+	    and
+	    (VP visit
+		(NP the orthodontist)
+		(ADVP once or twice
+		      (NP a month))
+		,
+		(S  (NP *) 
+		    (VP depending
+			(PP on
+			    (NP the severity
+				(PP of
+				    (NP her condition))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP these visits))
+     (S (NP the dentist)
+	(AUX will)
+	(VP adjust
+	    (NP the braces))
+	(S (NP *)
+	   (AUX to)
+	   (VP increase
+	       (NP the pressure
+		   (PP on
+		       (NP her teeth)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (SINV (ADVP Last)
+	 (VP comes)
+	 (NP the retention stage))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Susie)
+	 's teeth)
+     (AUX have)
+     (ADVP now)
+     (VP been
+	 (VP guided
+	     (PP into
+		 (NP a
+		     desirable new
+		     position)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR because
+	    (S (NP teeth)
+	       (ADVP sometimes)
+	       (AUX may)
+	       (VP drift
+		   (ADVP back)
+		   (PP to
+		       (NP their original position)))))
+      ,
+      (S (NP a (VP retaining) appliance)
+	 (AUX is)
+	 (VP used
+	     (S (NP *)
+		(AUX to)
+		(VP lock
+		    (NP them)
+		    (PP in
+			(NP place)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Usually)
+      (S (NP this)
+	 (VP is
+	     (NP a thin band
+		 (PP of
+		     (NP (NP wire)
+			 (VP (VP attached
+				 (PP to
+				     (NP the molars)))
+			     and
+			     (VP stretching
+				 (PP across
+				     (NP the teeth))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Susie)
+     (AUX may)
+     (VP wear
+	 (NP this)
+	 (PP (PP  (ADVP only)
+		  at
+		  (NP night))
+	     or
+	     (PP for
+		 (NP a few hours
+		     (PP during
+			 (NP the day)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Then)
+	 (VP comes)
+	 (NP  (NP the time)
+	      (SBAR (WHADVP when)
+		    (S (S (NP the last wire)
+			  (AUX is)
+			  (VP removed))
+		       and
+		       (S (NP Susie)
+			  (VP walks
+			      (ADVP out)
+			      (NP a
+				  (ADJP healthier
+					and
+					(ADJP more
+					      attractive))
+				  girl
+				  (PP than
+				      (SBAR (WHADVP when)
+					    (S (NP she)
+					       (ADVP first)
+					       (VP went
+						   (PP to
+						       (NP the orthodontist)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (ADVP (WHADVP How)
+	      long)
+	(SQ  (AUX will)
+	     (NP this)
+	     (VP take)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (S  (NP *)
+	     (VP Straightening
+		 (NP (NP one tooth)
+		     (SBAR (WHNP that)
+			   (S (NP T)
+			      (AUX has)
+			      (VP come
+				  (ADVP in)
+				  (ADVP wrong))))))))
+     (AUX may)
+     (VP take
+	 (NP  (ADVP only)
+	      a few months)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (S (NP *)  
+	    (VP Aligning
+		(NP all
+		    the teeth))))
+     (AUX may)
+     (VP take
+	 (NP  (NP a year)
+	      or
+	      (NP  more))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP An added complication)
+	 (ADJP such
+	       (PP as
+		   (NP a (VP malformed) jaw))))
+     (AUX may)
+     (VP take
+	 (NP two
+	     or
+	     three years)
+	 (S (NP *)
+	    (AUX to)
+	    (VP correct))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(S (NP T)
+	   (VP is
+	       (NP the cost))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP The charge
+	 (PP for
+	     (NP a
+		 complete full-banded
+		 job)))
+     (VP differs
+	 (PP in
+	     (NP various parts
+		 (PP of
+		     (NP the country))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP (NP Work)
+	  (SBAR (WHNP that)
+		(S (NP T)
+		   (AUX might)
+		   (VP cost
+		       (NP $ 500
+			   (PP to
+			       (NP $ 750))))
+		   (PP in
+		       (NP the South)))))
+      (AUX could)
+      (VP cost
+	  (NP $ 750
+	      (PP to
+		  (NP $ 1,200))))
+      (PP in
+	  (NP (NP New York City)
+	      or
+	      (NP Chicago))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP An
+	 average national
+	 figure
+	 (PP for
+	     (NP (NP two
+		     (PP to
+			 (NP three)))
+		 years
+		 (PP of
+		     (NP treatment)))))
+     (AUX would)
+     (VP be
+	 (NP $ 650
+	     (PP to
+		 (NP $ 1,000)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP Factors
+	     (PP in
+		 (NP the cost
+		     (PP of
+			 (NP treatment)))))
+	 (VP are
+	     (NP (NP (NP the length
+			 (PP of
+			     (NP time)))
+		     (VP involved))
+		 and
+		 (NP the skill and education
+		     (PP of
+			 (NP the practitioner))))))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP Dr. Brodie)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP become
+            (NP an orthodontist)))
+     ,
+     (S (S (NP a man)
+	   (AUX must)
+	   (ADVP first)
+	   (VP be
+	       (VP licensed
+		   (PP by
+		       (NP his state))
+		   (PP as
+		       (NP a dentist)))))
+	,
+	(ADVP then)
+	(S (NP he)
+	   (AUX must)
+	   (VP spend
+	       (NP (PP at
+		       (ADJP least))
+		   two years)
+	       (PP in
+		   (NP additional training)))
+	   (S (NP *)
+	      (AUX to)
+	      (VP acquire
+		  (NP a license
+		      (PP as
+			  (NP a specialist))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (NP Costs)
+	    (AUX may)
+	    (VP seem
+		(ADJP high)))
+	 ,
+	 but
+	 (S (NP they)
+	    (VP used
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (ADJP  even
+			      higher))))))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP Dr. Brodie)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Fees)
+      (VP are
+	  (NP (ADVP about)
+	      half
+	      (PP to
+		  (NP a
+		      third))
+	      (PP  of
+		   (SBAR (WHNP what)
+			 (S (NP they)
+			    (VP were
+				(NP T) 
+				(ADVP (NP 25 years)
+				      ago))))))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The reason)
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP People)
+	(ADVP today)
+	(VP are
+	    (ADJP aware
+		  (PP of
+		      (NP the value
+			  (PP of
+			      (NP orthodontics)))))))
+     ,
+     and
+     (S (PP as
+	    (NP a result))
+	(S (NP there)
+	   (VP are
+	       (NP  more
+		    practitioners)
+	       (PP in
+		   (NP the field))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Most
+	    orthodontists)
+	(VP require
+	    (NP (NP an initial payment)
+		(S  (NP T) 
+		   (AUX to)
+		   (VP cover
+		       (NP the cost
+			   (PP of
+			       (NP (NP diagnostic materials) 
+				   and 
+				   (NP construction
+				       (PP of
+					   (NP the appliances)))))))))))
+     ,
+     but
+     (ADVP usually)
+     (S (NP the remainder
+	    (PP of
+		(NP the cost)))
+	(AUX may)
+	(VP be
+	    (VP spread
+		(PP over
+		    (NP a period
+			(PP of
+			    (NP (NP months) or (NP years)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP many cities
+	    (PP in
+		(NP the United States))))
+    (S (NP (NP clinics)
+	   (VP associated
+	       (PP with
+		   (NP dental schools))))
+       (AUX will)
+       (VP take
+	   (NP patients)
+	   (PP at
+	       (NP a nominal fee)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Some municipal agencies)
+     (AUX will)
+     (VP pay
+	 (PP for
+	     (NP orthodontic treatment
+		 (PP for
+		     (NP children
+			 (PP of
+			     (NP needy parents))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Research)
+   (VP helps
+       (NP families))))
+((S (S (NP growth studies)
+	(AUX have)
+	(VP been
+	    (VP carried
+		(ADVP on)
+		(ADVP consistently)
+		(PP by
+		    (NP orthodontists))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Dr. Brodie)
+    (VP has
+	(NP (NP 30-year records
+		(PP of
+		    (NP head growth)))
+	    ,
+	    (VP started
+		(PP (NP 20 minutes)
+		    after
+		    (NP (NP children)
+			's births))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S  (PP In
+		 (NP the past))
+	     (S (NP (NP anyone)
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (VP said
+				 (SBAR that
+				       (S (NP 90 %
+					      (PP of
+						  (NP all malocclusion)))
+					  (VP is
+					      (ADJP hereditary))))))))
+		(AUX was)
+		(VP scoffed
+		    (PP at))))
+	 ;
+	 ;
+	 (ADVP now)
+	 (S (NP we)
+	    (VP know
+		(SBAR that
+		      (S (NP family characteristics)
+			 (AUX do)
+			 (VP affect
+			     (NP tooth formation)
+			     (PP to
+				 (NP a large extent))))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP says)))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (ADVP Fortunately)
+	 (PP through
+	     (NP our growth studies))
+	 (S (NP we)
+	    (AUX have)
+	    (VP been
+		(ADJP able
+		      (S (NP *)
+			 (AUX to)
+			 (VP see
+			     (SBAR (WHNP what)
+				   (S (NP nature)
+				      (VP does
+					   (NP T)  )))))))))
+      ,
+      and
+      (S (NP that)
+	 (VP helps
+	     (NP us)
+	     (VP know
+		 (SBAR (WHNP what)
+		       (S (NP we)
+			  (AUX can)
+			  (VP do
+			      (NP T) )))))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+(
+  (S (NP This knowledge)
+     (VP  both
+	  modifies
+	  and
+	  dictates
+	  (NP (NP diagnosis) 
+	      and 
+	      (NP treatment))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S (NP a boy)
+       (AUX may)
+       (VP inherit
+	   (NP (NP a small jaw
+		   (PP from
+		       (NP one ancestor)))
+	       and
+	       (NP large teeth
+		   (PP from
+		       (NP another)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the past))
+     (S (NP an orthodontist)
+	(AUX might)
+	(VP have
+	    (VP tried
+		,
+		(PP over
+		    (NP four
+			or
+			five years))
+		,
+		(S (NP *)
+		   (AUX to)
+		   (VP straighten and fit
+		       (NP (NP the boy)
+			   's large teeth)
+		       (PP into
+			   (NP (NP a jaw)
+			       (SBAR (WHNP that)
+				     ,
+				     (PP despite
+					 (NP some growth))
+				     ,
+				     (S  (NP T) 
+					 (AUX would)
+					 (ADVP never)
+					 (VP accommodate
+					     (NP them))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP a dentist)
+	 (AUX can)
+	 (VP recommend
+	     (NP extraction))
+	 (ADVP immediately)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP other cases))
+    ,
+    (PP in
+	(NP view
+	    (PP of
+		(NP present-day knowledge
+		    (PP of
+			(NP head growth))))))
+    ,
+    (S (NP orthodontists)
+       (AUX will)
+       (VP recommend
+	   (S  (NP *) 
+	       (VP waiting
+		   (NP four
+		       or
+		       five years)
+		   (PP before
+		       (NP treatment)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The child)
+	(AUX is)
+	(VP kept
+	    (PP on
+		(NP call))))
+     ,
+     and
+     (S (NP the orthodontist)
+	(VP watches
+	    (NP the growth))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S (NP Nature)
+	 (ADVP often)
+	 (VP takes
+	     (NP care
+		 (PP of
+		     (NP the problem)))))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP Dr. Brodie)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP A child
+	  (PP with
+	      (NP a certain type
+		  (PP of
+		      (NP (NP head) 
+			  and 
+			  (NP teeth))))))
+      (AUX will)
+      (VP outgrow
+	  (NP tooth deformity)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP That)
+     (VP is
+	 (SBAR (WHADVP why)
+	       (S (NP Dr. Brodie)
+		  (VP asks
+		      (NP parents)
+		      (S  (NP *)
+			  (NEG not)
+			  (AUX to)
+			  (VP insist
+			      ,
+			      (PP against
+				  (NP (NP their dentist)
+				      's advice))
+			      ,
+			      (SBAR that
+				    (S (NP their child)
+				       (VP have
+					   (NP orthodontic work)
+					   (VP done
+					       (ADVP too
+						     early))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP  Both
+	     because
+	     (PP of
+		 (NP (NP (NP our culture)
+			 's stress
+			 (PP on
+			     (NP beauty)))
+		     and
+		     (NP our
+			 improved economic
+			 conditions))))
+      ,
+      (S (NP some parents)
+	 (VP demand
+	     (SBAR that
+		   (S (NP the dentist)
+		      (VP try
+			  (S (NP *)
+			     (AUX to)
+			     (VP correct
+				 (NP a problem)
+				 (PP before
+				     (S (NP it
+					    (S-3 *pseudo-attach*))
+					(VP is
+					    (ADJP wise))
+					(S-3 (NP *)
+					     (AUX to)
+					     (VP do
+						 (ADVP so)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)
+	 (VP Let
+	     (NP the orthodontist)
+	     (VP decide
+		 (NP  the proper time
+		     (S (NP *)
+			(AUX to)
+			(VP start
+			    (NP treatment)))))))
+     ''
+     ,
+     (S (NP he)
+	(VP urges)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Superior new
+	 material
+	 (PP for
+	     (NP orthodontic work)))
+     (VP is
+	 (NP another result
+	     (PP of
+		 (NP research)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Plastics)
+	(VP are
+	    (ADJP easier
+		  (S (NP *)
+		     (AUX to)
+		     (VP handle))
+		  (PP than
+		      (NP (NP the (VP vulcanized) rubber)
+			  (VP  (ADVP formerly)
+			       used))))))
+     ,
+     and
+     (S (NP they)
+	(VP save
+	    (NP (NP time) 
+		and 
+		(NP money)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Plaster
+	  (PP of
+	      (NP Paris)))
+      ,
+      (ADVP once)
+      (VP utilized
+	  (PP in
+	      (S (NP *) 
+		 (VP making
+		     (NP impressions
+			 (PP of
+			     (NP teeth)))))))
+      ,)
+  (AUX has)
+  (VP been
+      (VP replaced
+	  (PP by
+	      (NP (NP (NP alginates)
+		      *LRB*
+		      (NP (ADJP gelatin-like) material)
+		      *RRB*)
+		  (SBAR (WHNP that)
+			(S (NP T)
+			   (VP work
+			       (X (ADVP quickly
+					and
+					accurately)
+				  and
+				  (PP with
+				      (NP least
+					  discomfort
+					  (PP to
+					      (NP a child)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Prevention)
+	(VP is
+	    (ADJP best))
+	(PP as
+	    (NP a rule)))
+     ,
+     (SBAR  (X  the
+		earlier)
+	    (S (NP general
+		   dental treatment)
+	       (AUX is)
+	       (VP started)) )
+     ,
+     (S (X  the
+	    (ADJP (ADJP  less
+			 expensive)
+		  and
+		  (ADJP  more
+			 satisfactory)))
+	(S (NP it)
+	   (VP is
+	       (ADJP likely
+		     (S  (NP *)
+			 (AUX to)
+			 (VP be)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (PP After
+	     (S (NP (NP your child)
+		    's baby teeth)
+		(VP are
+		    (NP all)
+		    (ADVP in))
+		--
+		(ADVP usually)
+		(PP at
+		    (NP the age
+			(PP of
+			    (NP two
+				and
+				one half
+				(PP to
+				    (NP three))))))
+		--))
+	 (S (NP it)
+	    (VP 's
+		(NP time
+		    (PP for
+			(NP that
+			    first dental
+			    appointment))))))
+      ''
+      ,
+      (S (NP Dr. Brodie)
+	 (VP advises)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP Then)
+      (S  (NP *) 
+	  (VP see
+	      (SBAR  that
+		     (S (NP your youngster)
+			(VP has
+			    (NP a routine checkup))
+			(ADVP once
+			      (NP a year)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP help
+	    (VP prevent
+		(NP orthodontic problems)
+		(PP from
+		    (NP (S  (NP *) 
+			    (VP arising)))))))
+    ,
+    (S (NP your dentist)
+       (AUX can)
+       (VP do
+	   (NP (NP these things)
+	       :
+	       (S (NP He)
+		  (AUX can)
+		  (VP correct
+		      (NP decay))
+		  ,
+		  (S (ADVP thus)
+		     (S  (NP *) 
+			 (VP preventing
+			     (NP early loss
+				 (PP of
+				     (NP teeth)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (SBAR  If
+		 (S (NP a child)
+		    (AUX does)
+		    (VP lose
+			(NP his first teeth)
+			(ADVP prematurely)
+			(ADVP because
+			      (PP of
+				  (NP decay))))))
+	  --
+	  and
+	  (SBAR if
+		(S (NP no preventive steps)
+		   (AUX are)
+		   (VP taken)))
+	  --)
+    (S (NP the other teeth)
+       (AUX may)
+       (VP (VP shift
+	       (PP out
+		   (PP of
+		       (NP position))))
+	   ,
+	   (VP become
+	       (ADJP overcrowded and malformed)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP turn))
+     (S (NP the other teeth)
+	(VP are
+	    (ADJP likely
+		  (S (NP *)
+		     (AUX to)
+		     (VP decay))))
+	(SBAR because
+	      (S (NP food particles)
+		 (AUX may)
+		 (VP become
+		     (ADJP  impacted
+			    (PP in
+				(NP them))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

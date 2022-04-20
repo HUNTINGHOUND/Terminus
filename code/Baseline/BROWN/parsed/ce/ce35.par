@@ -1,0 +1,2261 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP (NP New rule)
+	 (NP no.
+	     2))
+     :
+     :
+     (S (S  (NP *) 
+	    (AUX Do)
+	    (NEG n't)
+	    (VP build
+		(X (PP from
+		       (NP the outside))
+		   (ADVP in))))
+	--
+	(S  (NP *) 
+	    (VP try
+		(S (NP *)
+		   (AUX to)
+		   (VP build
+		       (X (PP from
+			      (NP the inside))
+			  (ADVP out))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+	(AUX Do)
+	(NEG n't)
+	(VP insert
+	    (NP your components)
+	    (PP into
+		(NP fixed openings))))
+    ,
+    (S (NP they)
+       (X  (AUX may)
+	   or
+	   (X (AUX may)
+	      (NEG not)))
+       (VP fit))
+    ;
+    ;
+    (S  (NP *)
+	(VP position
+	    (NP your components))
+	(PP before
+	    (S (NP you)
+	       (VP close
+		   (NP them)
+		   (PRT in))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    :
+    (S  (NP *) 
+	(AUX Do)
+	(NEG n't)
+	(VP wall
+	    (PRT in)
+	    (NP your kitchen))
+	(PP before
+	    (S (NP you)
+	       (VP (VP hang
+		       (NP the wall cabinets))
+		   and
+		   (VP set
+		       (NP the appliances)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(S-1 *pseudo-attach*))
+    (VP 's
+	(ADJP (NP a
+		  lot)
+	      quicker
+	      and
+	      easier))
+    (S-1 (NP *)
+	 (AUX to)
+	 (VP  (VP dimension
+		  (NP the kitchen)
+		  (S (NP *)
+		     (AUX to)
+		     (VP fit
+			 (NP the cabinets))))
+	      and
+	      (VP erect
+		  (NP the end wall)))
+	 (PP after
+	     (S (NP they)
+		(VP are
+		    (X all)
+		    (PP in
+			(NP place)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Set
+	   (NP your bathtub))
+       (PP before
+	   (S (NP you)
+	      (VP close
+		  (PRT in)
+		  (NP the end
+		      (PP of
+			  (NP the bathroom)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *) 
+     (AUX Do)
+     (NEG n't)
+     (VP try
+	 (S (NP *)
+	    (AUX to)
+	    (VP wrestle
+		(NP a 400-lb. tub)
+		(X A[fj])
+		(PP through
+		    (NP a narrow doorway))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Finish
+	      (NP your plumbing))
+	  (PP before
+	      (S (NP you)
+		 (VP frame
+		     (NP it)
+		     (PRT in)))))
+      *LRB*
+      (S (NP
+	  most economical
+	  framing)
+	 (VP is
+	     (NP a
+		 thin
+		 non-bearing
+		 partition
+		 (PP on
+		     (NP either side
+			 (PP of
+			     (NP the pipes)))))))
+      *RRB*)
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Finish
+	   (VP   installing
+		 and
+		 connecting
+		 (PRT up)
+		 (NP (NP your furnace)
+		     and
+		     (NP your water heater))))
+       (PP before
+	   (S (NP you)
+	      (VP wall
+		  (NP them)
+		  (PRT in)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP no
+	   better
+	   way
+	   (S (NP *)
+	      (AUX to)
+	      (VP waste
+		  (NP time)))
+	   (PP than
+	       (S  (NP *) 
+		   (VP trying
+		       (S (NP *)
+			  (AUX to)
+			  (VP install
+			      (NP a furnace)
+			      (PP in
+				  (NP a  finished (X A[fj]) closet))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+	(AUX Do)
+	(NEG n't)
+	(VP position
+	    (NP your studs))
+	(PP before
+	    (S (NP you)
+	       (VP insert
+		   (NP your windows)
+		   (PP in
+		       (NP conventional construction))))))
+    ;
+    ;
+    (S (NP that way)
+       (S (NP you)
+	  (AUX may)
+	  (VP pay
+	      (NP more
+		  (S (NP *)
+		     (AUX to)
+		     (VP shim
+			 (NP the window)
+			 (PP into
+			     (NP place))))
+		  (PP than
+		      (S (NP you)
+			 (VP paid
+			     (PP for
+				 (NP the window))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX can)
+   (VP save
+       (NP all
+	   that shimming time))
+   (SBAR if
+	 (S (NP you)
+	    (VP set
+		(NP your windows)
+		(PP in
+		    (NP (NP one ,
+			    two ,
+			    three order)
+			--
+			(NP (ADVP first)
+			    (NP the stud
+				(PP on
+				    (NP one side)))
+			    ,
+			    (ADVP then)
+			    (NP the window)
+			    ,
+			    (ADVP then)
+			    (NP the stud
+				(PP on
+				    (NP the other side))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP (VP Install
+	       (NP  your disappearing stair
+		    *LRB*
+		    or
+		    stairs
+		    *RRB*
+		    (PP to
+			(NP the attic))))
+	   and
+	   (VP finish
+	       (NP your overhead ducts)))
+       (PP before
+	   (S (NP you)
+	      (VP drywall
+		  (NP the ceiling)))))
+   .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S   (NP *) 
+      (AUX Do)
+      (NEG n't)
+      (VP close
+	  (PRT in)
+	  (NP your house)
+	  (PP until
+	      (S 
+	       (NP everything)
+	       (AUX has)
+	       (VP been
+		   (VP carried
+		       (PRT in)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Last wall)
+	(SBAR 0
+	      (S (NP Bob Schmitt)
+		 (VP erects
+		     (NP T)))))
+    (VP is
+	(NP the wall
+	    (PP between
+		(NP the house and garage)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP That way)
+     (S (NP he)
+	(AUX can)
+	(VP (VP truck
+		(NP his parts)
+		(ADVP  (ADVP right) indoors))
+	    and
+	    (VP unload
+		(NP them)
+		(PP under
+		    (NP the roof))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP No auto maker)
+    (AUX would)
+    (VP dream
+	(PP of
+	    (S  (NP *) 
+		(VP putting
+		    (NP the head)
+		    (PP on
+			(NP the engine)))
+		(PP before
+		    (S (NP he)
+		       (VP fitted
+			   (NP the pistons)
+			   (PP in
+			       (NP the block)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP trailer makers)
+	     ,
+	     (NP  those                              
+		  (ADJP  most industrialized
+			 and
+			 (ADVP therefore)
+			 most efficient
+			 (PP of
+			     (NP homebuilders)))))
+	 ,
+	 (VP say
+	     (SBAR 0
+		   (S (NP they)
+		      (VP save
+			  (NP hundreds
+			      (PP of
+				  (NP dollars)))
+			  (PP by
+			      (S  (NP *)  
+				  (ADVP always)
+				  (VP building
+				      (X (PP from
+					     (NP the inside))
+					 (ADVP out)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP New rule)
+	(NP no.
+	    3))
+    :
+    (S  (NP *) 
+	(VP rethink
+	    (NP everything)
+	    (S (NP *)
+	       (AUX to)
+	       (VP get
+		   (NP (NP all
+			   the big savings)
+		       (SBAR 0
+			     (S (NP the revolution
+				    (PP in
+					(NP  materials
+					     handling)))
+				(VP offers
+				    (NP you))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S
+  (NP This revolution)
+  (VP is
+      (NP the
+	  biggest
+	  build-better-for-less
+	  news
+	  (PP of
+	      (NP all))))
+  ,
+  (X because))
+ :) 
+(  END_OF_TEXT_UNIT)
+( (S (NP 1
+	 .)
+     (S (NP It)
+	(VP makes
+	    (NP it
+		(S-2 *pseudo-attach*))
+	    (ADJP easy)
+	    (S-2 (NP *)
+		 (AUX to)
+		 (VP handle
+		     (NP 
+		      much
+		      heavier
+		      units))))
+	,
+	(SBAR  so
+	       (S (NP you)
+		  (AUX can)
+		  (VP plan
+		      (S (NP *)
+			 (AUX to)
+			 (VP build
+			     (PP with
+				 (NP (ADJP   much
+					     bigger
+					     and
+					     heavier)
+				     prefabricated
+				     components
+				     (PP like
+					 (NP (NP those)
+					     (VP  shown
+						  (PP in
+						      (NP (NP the pictures)
+							  (ADVP alongside)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 2
+	.)
+    (S (NP It)
+       (VP makes
+	   (NP  materials
+		handling)
+	   (NP (NP the only construction cost)
+	       (SBAR (WHNP that)
+		     (S *LRB*
+			(PP like
+			    (NP (NP earthmoving) and (NP roadbuilding)))
+			*RRB*
+			(S  (NP T) 
+			    (AUX should)
+			    (VP be
+				(ADJP lower
+				      (NP today)
+				      (PP than
+					  (PP in
+					      (NP 1929))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 3
+	.)
+    (S (NP It)
+       (VP changes
+	   (NP the answers
+	       (PP to
+		   ``
+		   (X (SBARQ (WHNP Who)
+			     (SQ   (NP T) 
+				   (AUX should)
+				   (VP do
+				       (WHNP what))))
+		      ,
+		      and
+		      (WHADVP where))
+		   '')))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP (VP lessens
+	    (NP the need
+		(PP for
+		    (NP 
+		     costly
+		     on-site
+		     fabrication))))
+	and
+	(VP increases
+	    (NP the chance
+		(PP for
+		    (NP (NP shop fabrication)
+			,
+			(SBAR 
+			 (WHADVP where)
+			 (S (NP  almost
+				 everything)
+			    (AUX can)
+			    (VP be
+				(VP made
+				    (ADVP  better     
+					   and
+					   cheaper)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+( (S (NP 4
+	 .)
+     (S
+      (NP It)
+      (VP changes
+	  (NP the answers
+	      (PP on
+		  (SBAR (WHADVP when)
+			(S (NP *)
+			   (AUX to)
+			   (VP do
+			       (WHNP what))
+			   (PP at
+			       (NP the site)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (ADVP  instead
+	   (PP of
+	       (S   (NP *) 
+		    (VP putting
+			(PRT in)
+			(NP your driveways))
+		    (ADVP last)
+		    *LRB*
+		    (PP as
+			(S (NP many builders)
+			   (AUX do)
+			   (VP *) ))
+		    *RRB*)))
+    (S (NP you)
+       (AUX can)
+       (ADVP now)
+       (VP save
+	   (NP money)
+	   (PP by
+	       (S  (NP *) 
+		   (VP putting
+		       (NP them)
+		       (PRT in))
+		   (ADVP first))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (ADVP  Instead
+	       (PP of
+		   (S  (NP *) 
+		       (VP closing
+			   (NP the house)
+			   (PRT in)
+			   (ADVP first))
+		       *LRB*
+		       (PP as
+			   (S (NP  most
+				   builders)
+			      (AUX do)
+			      (VP *)))
+		       *RRB*)))
+	(S (NP you)
+	   (AUX can)
+	   (ADVP now)
+	   (VP cut
+	       (NP your costs)
+	       (PP by
+		   (S  (NP *) 
+		       (NEG not)
+		       (VP closing
+			   (NP it)
+			   (PRT in)
+			   (PP until
+			       (S (NP you)
+				  (VP have
+				      (S (NP *)
+					 (AUX to)
+					 (VP *) ))))))))))
+     *LRB*
+     (S  (NP *) 
+	 (VP see
+	     (NP p 121)))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+( (S (NP 5
+	 .)
+     (S
+      (NP It)
+      (VP changes
+	  (NP the answers
+	      (PP on
+		  (NP builder-dealer relations))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Not
+	    so
+	    long
+	    ago)
+      (S (NP many builders)
+	 (AUX were)
+	 (VP finding
+	     (SBAR 0
+		   (S (NP they)
+		      (AUX could)
+		      (VP cut
+			  (NP their costs)
+			  (PP by
+			      (S (S  ``
+				     (NP *) 
+				     (VP buying
+					 (ADVP direct))
+				     '')
+				 and
+				 (S  (NP *)
+				     (VP short-cutting
+					 (NP the dealer)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (ADVP now)
+      (S (NP many
+	     (PP of
+		 (NP these same builders)))
+	 (AUX are)
+	 (VP finding
+	     (SBAR 0
+		   (S (NP they)
+		      (AUX can)
+		      (VP cut
+			  (NP their costs)
+			  (ADVP more)
+			  (PP by
+			      (S  (NP *)
+				  (VP teaming
+				      (PRT up)
+				      (PP with
+					  (NP (NP a dealer)
+					      (SBAR (WHNP who)
+						    (S (NP T)
+						       (VP has
+							   (NP  volume
+								(ADVP enough)
+								(S (NP *)
+								   (AUX to)
+								   (VP afford
+								       (NP the
+									   most efficient
+									   specialized equipment)
+								       (S (NP *)
+									  (AUX to)
+									  (VP deliver
+									      (NP everything)
+									      (SBAR  (ADVP just)
+										     (WHADVP where)
+										     (S (NP it)
+											(AUX is)
+											(VP needed
+											    )))
+									      --  
+									      (X  (X  (NP drywall)
+										      (PP inside
+											  (NP the house)))
+										  ,
+										  (X  (NP siding)
+										      (PP along
+											  (NP the sides)))
+										  ,
+										  (X  (NP trusses)
+										      (PP on
+											  (NP the walls)))
+										  ,
+										  (X  (NP roofing)
+										      (PP on
+											  (NP the roof)))
+										  ,
+										  (X etc
+										     .)))))))))))))))))))))
+   .)
+(  (SINV  (VP Says)
+	  (NP Clarence Thompson)
+	  :
+	  (S  ``
+	      (NP (NP We)
+		  (NP dealers))
+	      (AUX must)
+	      (VP earn
+		  (NP our mark-up)
+		  (PP by
+		      (S  (NP *)
+			  (VP performing
+			      (NP a service)
+			      (PP for
+				  (NP the builder))
+			      (ADVP cheaper
+				    (PP than
+					(S (NP he)
+					   (AUX could)
+					   (VP do
+					       (NP it)
+					       (NP himself)))))))))
+	      ''))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The revolution)
+	(ADVP now)
+	(PP under
+	    (NP way))
+	(PP in
+	    (NP materials
+		handling)))
+    (VP makes
+	(NP this)
+	(ADJP  much
+	       easier)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The revolution)
+       (VP is
+	   (PP  (ADVP well)
+		under
+		(NP way))))
+    ,
+    but
+    (S (NP (ADJP  much
+		  more))
+       (VP remains
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP done
+		      ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP  Five years)
+	  ago)
+    (S  (NP (NP a House
+		&
+		Home Round Table)
+	    (VP cosponsored
+		(PP by
+		    (NP 
+		     (NP the Lumber Dealers)
+		     ' Research Council))))
+	(VP reported
+	    (ADVP unhappily)
+	    :
+	    ``
+	    (S (S (NP  (ADVP Only)
+		       one lumber dealer
+		       (PP in
+			   (NP ten)))
+		  (AUX is)
+		  (VP equipped
+		       
+		      (S (NP *)
+			 (AUX to)
+			 (VP handle
+			     (NP unit loads)))))
+		 ;
+		 ;
+		 (S (NP  (ADVP only)
+			 one box car
+			 (PP in
+			     (NP eight)))
+		    (VP has
+			(NP (NP the wide doors)
+			    (VP needed
+				(PP for
+				    (NP unit loads))))))
+		 ;
+		 ;
+		 (S (NP  (ADVP only)
+			 one producer
+			 (PP in
+			     (NP a hundred)))
+		    (AUX is)
+		    (VP equipped
+			 
+			(S (NP *)
+			   (AUX to)
+			   (VP   package
+				 and 
+				 ship
+				 (NP unit loads)))))
+		 ;
+		 ;
+		 (S (NP  (ADVP only)
+			 one builder
+			 (PP in
+			     (NP a thousand)))
+		    (AUX is)
+		    (VP equipped
+			 
+			(S (NP *)
+			   (AUX to)
+			   (VP receive
+			       (NP unit loads)))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S So
+     (PP (PP from
+	     (NP raw materials))
+	 (PP to
+	     (NP  finished erection)))
+     (S (NP the costs
+	    (PP of
+		(NP (NP materials
+			handling)
+		    *LRB*
+		    (X  (NP  most
+			     (PP of
+				 (NP it)))
+			(ADJP inefficient))
+		    *RRB*)))
+	(VP add
+	    (PRT up)
+	    (PP to
+		(NP one-fourth
+		    (PP of
+			(NP the total construction cost
+			    (PP of
+				(NP housing)))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP  That
+	     House
+	     &
+	     Home Round Table)
+	(VP was
+	    (NP the
+		real
+		starting
+		point)
+	    (PP for
+		(NP  (NP today)
+		     's
+		     revolution
+		     (PP in
+			 (NP materials
+			     handling))))))
+    ''
+    ,
+    (SINV (VP says)
+	  (NP (NP Clarence Thompson)
+	      ,
+	      (ADVP long)
+	      (NP  chairman
+		   (PP of
+		       (NP 
+			(NP the Lumber Dealers)
+			' Research Council))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP It)
+     (VP made
+	 (NP our whole industry)
+	 (VP recognize
+	     (NP the need
+		 (PP for
+		     (NP a new kind
+			 (PP of
+			     (NP teamwork
+				 (PP between
+				     (NP (NP (NP manufacturer)
+					     ,
+					     (NP carrier)
+					     ,
+					     (NP equipment maker)
+					     ,
+					     (NP dealer)
+					     ,
+					     and
+					     (NP builder))
+					 ,
+					 (S (NP all)
+					    (VP working
+						(ADVP together)
+						(S (NP *)
+						   (AUX to)
+						   (VP cut
+						       (NP the cost
+							   (PP of
+							       (NP materials
+								   handling)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Before
+	 (NP  that))
+     (S (NP (NP we) 
+	    (NP lumber dealers))
+	(AUX were)
+	(VP working
+	    (ADVP   almost
+		    single-handed)
+	    (PP on
+		(NP the problem)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP Here)
+     (VP is
+	 (SBAR 
+	  (WHADVP where)
+	  (S (NP things)
+	     (VP stand)
+	     (NP today)))))
+ :)
+(  END_OF_TEXT_UNIT)
+((S (NP 1
+	.)
+    (S (NP  Almost
+	    all
+	    (PP of
+		(NP (NP the 3,000 lumber dealers)
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (VP (VP cater
+				     (ADVP primarily)
+				     (PP to
+					 (NP the  new-house market)))
+				 and
+				 (VP supply
+				     (NP 90 %
+					 (PP of
+					     (NP 
+					      (NP this year)
+					      's new houses))))))))))
+       (AUX are)
+       (VP mechanized)
+       ))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP are
+	(NP (NP (NP few areas)
+		(VP left))
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP a builder)
+		(AUX can)
+		(NEG not)
+		(VP find
+		    (NP (NP a dealer)
+			(VP equipped
+			    (S (NP *)
+			       (AUX to)
+			       (VP save
+				   (NP him)
+				   (NP money)
+				   (PP by
+				       (S  (NP *) 
+					   (VP delivering
+					       (NP everything)
+					       (PP at
+						   (NP  lower
+						       cost))
+					       (SBAR  (ADVP just)
+						      (WHADVP where)
+						      (S (NP his workmen)
+							 (AUX will)
+							 (VP need
+							     (NP it)))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+((S (NP 2
+	.)
+    (S (NP (NP  Practically
+		all bulky housing products)
+	   (VP-1 *pseudo-attach*))
+       (AUX can)
+       (ADVP now)
+       (VP be
+	   (VP ordered
+	       (PP in
+		   (NP (NP standard units)
+		       (VP  palletized
+			    or
+			    unitized
+			    (PP for
+				(NP mechanical handling)))))))
+       --
+       (VP-1 including
+	     (NP (NP lumber)
+		 ,
+		 (NP asphalt shingles)
+		 ,
+		 (NP glass block)
+		 ,
+		 (NP face brick)
+		 ,
+		 (NP plaster)
+		 ,
+		 (NP lime)
+		 ,
+		 (NP hardboard)
+		 ,
+		 (NP gypsum wallboard and sheathing)
+		 ,
+		 (NP cement)
+		 ,
+		 (NP insulation sheathing)
+		 ,
+		 (NP floor tile)
+		 ,
+		 (NP acoustical tile)
+		 ,
+		 (NP plaster base)
+		 ,
+		 and
+		 (NP asbestos shingles)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 3
+	.)
+    (S (NP Truck
+	   and
+	   materials-handling equipment makers)
+       (ADVP now)
+       (VP offer
+	   (NP 
+	    specialized
+	    units)
+	   (S (NP *)
+	      (AUX to)
+	      (VP meet
+		  (NP  almost
+		       every homebuilding need))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP some
+	    significant
+	    new
+	    items))
+    (S  (NP *) 
+	(VP see
+	    (NP the pictures))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP 4
+	.)
+    (S (S (NP  More
+	       (PP than
+		   (NP 50 %
+		       (PP of
+			   (NP all lumber)))))
+	  (AUX is)
+	  (VP unitized
+	      ))
+       ;
+       ;
+       (S (NP an NLRDA survey)
+	  (VP found
+	      (SBAR that
+		    (S (NP (PP at
+			       (ADJP least))
+			   492 lumber mills)
+		       (AUX will)
+		       (VP strap
+			   (NP their shipments)
+			   (PP for
+			       (NP  mechanized
+				    handling)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Of
+	(NP these))
+    ,
+    (S (NP 376)
+       (VP said
+	   (SBAR 0
+		 (S (NP they)
+                    (VP make
+                        (NP no extra charge
+			    (PP for
+				(S  (NP *) 
+				    (VP strapping
+					(PRT in)
+					(NP standard units))))))
+		    ,
+		    (SBAR because
+			  (S (NP they)
+			     (VP save
+				 (NP enough
+				     (S-2 *pseudo-attach*))
+				 (PP on
+				     (NP  mechanized
+					  carloading))
+				 (S-2 (NP *)
+				      (AUX to)
+				      (VP offset
+					  (NP their strapping cost)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  Most
+       (PP of
+	   (NP the others)))
+  (AUX will)
+  (VP (VP swallow
+	  (NP their
+	      (NP $ .50
+		  (PP to
+		      (NP $ 3)))
+	      charge))
+      (ADVP rather
+	    (PP than
+		(VP lose
+		    (NP a good customer))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)  
+(  END _OF_TEXT_UNIT)
+( (S  ``
+      (S (PP With
+	     (NP a
+		 15,500-lb
+		 .
+		 fork-lift))
+	 ,
+	 (S (NP dealers)
+	    (AUX can)
+	    (VP unload
+		(NP  unitized
+		     lumber)
+		(PP from
+		    (NP wide-door box cars))
+		(PP for
+		    (NP (NP $ .30)
+			(VP compared
+			    (PP with
+				(NP (NP (NP $ 1.65)
+					or
+					(ADJP more))
+				    (S (NP *)
+				       (AUX to)
+				       (VP unload
+					   (NP loose lumber)
+					   (NP one piece
+					       (PP at
+						   (NP a time)))))))))))))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP James Wright
+		(PP of
+		    (NP (X A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 5
+	.)
+    (S (NP (NP Lumber dealers)
+	   and 
+	   (NP lumber manufacturers))
+       (AUX have)
+       (VP agreed
+	   (PP on
+	       (NP (NP a standard unit
+		       (PP for
+			   (NP  unitized
+				shipments)))
+		   --
+		   (NP (ADJP (NP 48 '' '')
+			     wide
+			     (PP by
+				 (NP a
+				     nominal
+				     (ADJP (NP 30 '' '')
+					   high))))
+		       *LRB*
+		       or
+		       (NP (NP six McCracken packets)
+			   (ADJP  (NP 24 '' '')
+				  wide
+				  (PP by
+				      (NP  nominal
+					   (ADJP (NP 7 '' '')
+						 high)))))
+		       *RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These units)
+    (VP make
+	(NP it
+	    (S-3 *pseudo-attach*))
+	(ADJP easy)
+	(S-3 (NP *)
+	     (AUX to)
+	     (VP load
+		 (NP  as
+		      much
+		      (PP as
+			  (NP (NP 48,000 bd)
+			      *LRB*
+			      (X (VP say)              
+				 (NP 120,000 lb)
+				 (PP in
+				     (NP a 50 '
+					 box car)))
+			      *RRB*
+			      (NP   much
+				    more
+				    (PP than
+					(NP the average
+					    (PP for
+						(NP loose-loaded cars))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 6
+	.)
+    (S (NP The railroads)
+       (AUX have)
+       (VP responded
+	   (PP (PP by
+		   (S  (NP *) 
+		       (VP adding
+			   (NP (NP 20,000 more box cars
+				   (PP with
+				       (NP (NP doors)
+					   (ADJP    12
+						    '
+						    or
+						    wider)
+					   (PP for
+					       (NP forklift unloading)))))
+			       *LRB*
+			       (NP a 21 % increase)
+			       (SBAR while
+				     (S (NP the total number
+					    (PP of
+						(NP box cars)))
+					(AUX was)
+					(VP falling
+					    (NP 6 %))))
+			       *RRB*))))
+	       and
+	       (PP by
+		   (S  (NP *)
+		       (VP cutting
+			   (NP their freight rates
+			       (PP-1 *pseudo-attach*))
+			   (ADVP twice)
+			   (PP-1 on
+				 (NP (NP lumber)
+				     (VP shipped
+					 (PP in
+					     (NP  heavily
+						  loaded cars))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (SINV (ADVP  First)
+	     (VP was)
+	     (NP a 1958 cut
+		 (PP of
+		     (NP more
+			 (PP than
+			     (NP 50 %))))
+		 (PP on
+		     (NP (NP that portion
+			     (PP of
+				 (NP the load)))
+			 (PP in
+			     (NP excess
+				 (PP of
+				     (NP 40,000 lb))))))))
+       ;
+       ;
+       (SINV  (ADVP later)
+	      (VP came)
+	      (NP (NP a 1961 cut
+		      (PP on
+			  (NP the West Coast))
+		      *LRB*
+		      (X (ADVP still)
+			 (VP pending)     
+			 (ADVP elsewhere))
+		      *RRB*
+		      (PP of
+			  (NP $ .07))
+		      (PP on
+			  (NP 70,000 lb-plus carloads)))
+		  
+		  *LRB*
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (VP works
+			       (PRT out)
+			       (PP to
+				   (NP   more
+					 (PP than
+					     (NP $ 4))))
+			       (PP on
+				   (NP (NP that portion
+					   (PP of
+					       (NP the load)))
+				       (PP in
+					   (NP excess
+					       (PP of
+						   (NP 70,000 lb))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)    
+(  END_OF_TEXT_UNIT)
+((S (NP 7
+	.)
+    (S (S (NP  More
+	       unitized
+	       lumber)
+	  (AUX is)
+	  (VP being
+	      (VP shipped
+	     
+		  (PP on
+		      (NP flat cars)))))
+       ,
+       and
+       (S (NP NLRDA studies)
+	  (VP show
+	      (SBAR that
+		    (S (NP (NP flat cars)
+			   (VP loaded
+			       (PP with
+				   (NP the
+				       new
+				       Type 6-B
+				       floating-load method))))
+		       (AUX can)
+		       (VP be
+			   (VP unloaded
+			       (PP for
+				   (NP  as
+					little
+					(PP as
+					    (NP $ .054))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP long hauls))
+    (S (NP these shipments)
+       (AUX should)
+       (VP be
+	   (VP protected
+	        
+	       (PP with
+		   (NP water-proof paper))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP costs
+	  (PP (PP from
+		  (NP $ .75))
+	      (PP to
+		  (NP $ 2.30)))))
+     ,
+     but
+     (S (NP the cover)
+	(AUX can)
+	(VP pay
+	    (PRT off))
+	(SBAR if
+	      (S (NP the lumber)
+		 (VP is
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP stored
+				        
+				(PP in
+				    (NP the
+					open))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These carriers)
+   (VP cut
+       (NP handling costs)
+       (PP for
+	   (NP (NP the dealer)
+	       --
+	       and
+	       (NP the builder)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (VP Says)
+       (NP (NP NRLDA)
+	   's
+	   James Wright)
+       :
+       ``
+       (S (PP Since
+	      (NP 1958))
+	  (S (NP (NP carriers)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP move
+			      (NP material)
+			      (PP from
+				  (NP the yard))
+			      (PP to
+				  (NP the job site))))))
+	     (AUX have)
+	     (VP undergone
+		 (NP  more
+		      radical changes
+		      (PP than
+			  (NP any
+			      (PP of
+				  (NP 
+				   (NP the dealer)
+				   's other equipment))))))))
+       '')
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The reason)       
+    :
+    (S (NP (NP today)
+	   's
+	   components and lumber packages)
+       (VP are
+	   (ADJP   far
+		   too
+		   bulky
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (VP handled
+			      
+			      (PP by
+				  (NP (NP a truckdriver)
+				      and
+				      (NP a helper))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S    So
+       (S (NP manufacturers)
+	  (AUX have)
+	  (VP pioneered
+	      (NP (NP a new type
+		      (PP of
+			  (NP vehicle)))
+		  --
+		  (NP the self-unloading carrier)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP cuts
+       (NP 
+	(NP the lumber dealer)
+	's cost))
+   (SBAR (SBAR because
+	       (S (NP it
+		      (S-2 *pseudo-attach*))
+		  (VP takes
+		      (NP (NP  only
+			       one man)
+			  --
+			  (NP the driver)
+			  --))
+		  (S-2 (NP *)
+		       (AUX to)
+		       (VP unload
+			   (NP it)))))
+	 ,
+	 and
+	 (SBAR because
+	       (S (NP it)
+		  (VP unloads
+			  
+		      (PP (PP in
+			      (NP a fraction
+				  (PP of
+				      (NP the time))))
+			  and
+			  (PP at
+			      (NP a fraction
+				  (PP of
+				      (NP the cost
+					  (PP of
+					      (NP hand unloading))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP it)
+	 (VP helps
+	     (NP the builder))
+	 (SBAR because
+	       (S (NP it)
+		  (X  (X (AUX can)
+			 (VP handle
+			     (NP a
+				 more efficiently
+				 packaged 
+				 load)))
+		      ,
+		      (X (AUX can)
+			 (VP deliver
+			     (NP it)
+			     (PP (PP to
+				     (NP the
+					 best
+					 spot))
+				 *LRB*
+				 (PP in
+				     (NP some cases))
+				 ,
+				 (PP (PP  (ADVP right)
+					  on
+					  (NP the roof))
+				     or
+				     (PP inside
+					 (NP the house)))
+				 *RRB*)))
+		      ,
+		      and
+		      (X (ADVP never)
+			 (VP takes
+			     (NP any
+				 (PP of
+				     (NP 
+				      (NP the builder)
+				      's high-priced labor))))
+			 (S (NP *)
+			    (AUX to)
+			    (VP help
+				(VP unload
+				    (NP it))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (VP Says)
+       (NP Wright)
+       :
+       ``
+       (S (NP Our survey)
+	  (VP shows
+	      (SBAR that
+		    (S (NP one third
+			   (PP of
+			       (NP the retail dealers)))
+		       (VP plan
+			   (S (NP *)
+			      (AUX to)
+			      (VP increase
+				  (NP the mechanization
+				      (PP of
+					  (NP their materials
+					      handling))))
+			      (PP in
+				  (NP the
+				      coming 
+				      two
+				      years)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S  (NP most
+	      (PP of
+		  (NP the gain)))
+	  (AUX will)
+	  (VP be
+	      (PP in
+		  (NP self-unloading vehicles)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP New rule)
+	(NP no.
+	    4))
+    :
+    :
+    (S  (NP *) 
+	(VP Restudy
+	    (SBAR (WHNP what)
+		  (S (NP your men)
+		     (VP do
+			 (NP T) ))))
+	,
+	(S (NP *)
+	   (AUX to)
+	   (VP help
+	       (NP them)
+	       (VP waste
+		   (NP  less
+			(PP of
+			    (NP  the time
+				 (SBAR 0
+				       (S (NP you)
+					  (VP pay
+					      (PP for
+						  (NP T) ))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Half)
+	(NP (NP the manhours)
+	    (SBAR 0
+		  (S (NP you)
+		     (VP pay
+			 (PP for
+			     (NP T)))
+		     (PP on
+			 (NP 
+			  most
+			  jobs))))))
+    (AUX are)
+    (VP wasted)
+    (SBAR because
+	  (S (S (NP the job)
+		(AUX was)
+		(NEG not)
+		(VP planned
+		    (ADVP right)))
+	     ,
+	     so
+	     (S (S (NP the right tools)
+		   (VP were
+		       (NEG not)
+		       (ADJP handy)
+		       (PP at
+			   (NP the right place))
+		       (PP at
+			   (NP the right time))))
+		,
+		or
+		(S (NP the right materials)
+		   (AUX were)
+		   (NEG not)
+		   (VP delivered
+			      
+		       (PP to
+			   (NP the
+			       handiest
+			       spots))))
+		or
+		(S (NP materials)
+		   (AUX were)
+		   (NEG not)
+		   (VP stacked
+		       (PP in
+			   (NP the right order
+			       (PP for
+				   (NP erection)))))
+		   )
+		,
+		or
+		(S (NP you)
+		   (VP bought
+		       (NP (NP cheap materials)
+			   (SBAR (WHNP that)
+				 (S (NP T)
+				    (VP took
+					(ADJP  too
+					       long)
+					(S (NP *)
+					   (AUX to)
+					   (VP fit))))))))
+		,
+		or
+		(S (NP your workmen)
+		   (VP had
+		       (S (NP *)
+			  (AUX to)
+			  (VP come
+			      (PRT back)
+			      (ADVP twice))
+			  (S (NP *)
+			     (AUX to)
+			     (VP finish
+				 (NP (NP a job)
+				     (SBAR 0
+					   (S
+					    (NP they)
+					    (AUX could)
+					    (VP have
+						(VP done
+						    (NP T)
+						    (PP on
+							(NP one trip))))))))))))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADVP Even)
+	(NP  ``
+	     (NP America) 's
+	     most efficient
+	     builder
+	     '')
+	,
+	(NP Bob Schmitt
+	    (PP of
+		(NP Berea)))
+	,)
+    (VP hopes
+	(S (NP *)
+	   (AUX to)
+	   (VP cut
+	       (NP his labor
+		   costs)
+	       (NP  another
+		    $ 2,000
+		    (PP per
+			(NP house))))
+	   (PP as
+	       (NP a result
+		   (PP of
+		       (NP (NP the time-&-motion studies)
+			   (VP (ADVP now)
+			       being
+			       (VP completed
+				   (PP on
+				       (NP his operation))
+				   (PP by
+				       (NP industrial efficiency engineers
+					   (PP from
+					       (NP the Stanley Works)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Already)
+      (S (NP this study)
+	 (AUX has)
+	 (VP suggested
+	     (NP (NP ways)
+		 (S (NP *)
+		    (AUX to)
+		    (VP cut
+			(NP his foundation manhours)
+			(PP from
+			    (NP 170))
+			(PP to
+			    (NP 105))
+			(PP by
+			    (S  (NP *) 
+				(VP eliminating
+				    (NP (NP idle time)
+					and
+					(NP   wasted
+					     motion)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  Builder
+	     (NP Eddie Carr)
+	     (PP of
+		 (NP Washington)))
+	,
+	(NP past president
+	    (PP of
+		(NP NAHB)))
+	,)
+    (VP cut
+	(NP his bricklaying costs)
+	(NP (NP $ 150)
+	    (NP a house))
+	(PP by
+	    (S  (NP *) 
+		(VP adopting
+		    (NP (NP the
+			    ``
+			    SCR masonry process
+			    '')
+			(VP worked
+			    (PRT out)
+			    (PP after
+				(NP (NP  careful
+					 time-&-motion
+					 studies
+					 (PP by
+					     (NP the Structural Clay
+						 Products Research Foundation)))
+				    (S (NP *)
+				       (AUX to)
+				       (VP help
+					   (NP bricklayers)
+					   (VP do
+					       (NP  better
+						    work)
+					       (PP for
+						   (NP  less))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A midwestern builder)
+    (VP (VP cut
+	    (NP his labor costs
+		(PP per
+		    (NP thousand bricks)))
+	    (PP from
+		(NP $ 81))
+	    (PP to
+		(NP $ 43.50))
+	    (PP by
+		(S  (NP *) 
+		    (VP adopting
+			(NP this same process)))))
+	,
+	(VP cut
+	    (NP them)
+	    (NP another
+		$ 7.50)
+	    (PP to
+		(NP $ 36))
+	    (PP by
+		(S  (NP *) 
+		    (VP buying
+			(NP his bricks)
+			(PP in
+			    (NP 
+			     convenient
+			     ,
+			     easy-to-spot
+			     100-brick
+			     packages))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP The SCR process)
+	   ,
+	   (PP with
+	       (NP (NP its precision corner-posts)
+		   ,
+		   (NP its precision guide lines)
+		   ,
+		   (NP its working level scaffold)
+		   ,
+		   and
+		   (NP its hand-level brick supply))))
+       (VP takes
+	   (NP eight manhours)
+	   (S (NP *)
+	      (AUX to)
+	      (VP get
+		  (ADJP set)))))
+    ,
+    but
+    (S   (SBAR once
+	       (S  (NP *)
+		   (VP *
+		       (ADJP ready))))
+	 (S (NP it)
+	    (VP makes
+		(NP it
+		    (SBAR-4 *pseudo-attach*))
+		(ADJP easy)
+		(SBAR-4  for
+			 (S (NP bricklayers)
+			    (AUX to)
+			    (VP lay
+				(NP (NP a thousand bricks)
+				    (NP a day)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP See
+	  (NP page 156)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP One good way)
+	(S (NP *)
+	   (AUX to)
+	   (VP cut
+	       (NP your labor waste))))
+    (VP is
+	(S (NP *)
+	   (AUX to)
+	   (VP make
+	       (ADJP sure)
+	       (SBAR 0
+		     (S (NP you)
+			(AUX are)
+			(VP using
+			    (NP  (ADVP just)
+				 the right number
+				 (PP of
+				     (NP men)))
+			    (PP in
+				(NP each crew)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (VP Reports)
+       (NP Jim Lendrum)
+       :
+        ``
+       (S (PP By
+	       (S  (NP *) 
+		   (VP studying
+		       (NP (NP men)
+			   (PP on
+			       (NP the job))))))
+	   ,
+	   (S (NP we)
+	      (VP found
+		  (SBAR that
+			(S (NP (NP two men)
+			       --
+			       (NP (NP a carpenter)
+				   and
+				   (NP a helper))
+			       --)
+			   (AUX can)
+			   (VP lay
+			       (NP a floor)
+			       (ADVP faster
+				     (PP than
+					 (NP three))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP found
+       (SBAR that
+	     (S (NP (NP three men)
+		    --
+		    (NP (NP two carpenters)
+			and
+			(NP a helper))
+		    --)
+		(AUX can)
+		(VP put
+		    (PRT up)
+		    (NP wall panels or trusses)
+		    (ADVP more economically
+			  (PP than
+			      (NP four men))))
+		--
+		(SBAR because
+		      (S (S (NP four men)
+			    (AUX do)
+			    (NEG n't)
+			    (VP make
+				(NP two teams)))
+			 ;
+			 ;
+			 (S (NP they)
+			    (VP make
+				(NP one inefficient three-men-and-a-helper team)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP found
+	(SBAR  that
+	       (SBAR (WHADVP wherever)
+		     (S (NP you)
+			(AUX can)
+			(VP use
+			    (NP two teams)
+			    (PP on
+				(NP a job)))))
+	       ,
+	       (S (NP (NP five men)
+		      ,
+		      (NP  not
+			   four)
+		      ,)
+		  (VP is
+		      (NP the magic number))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP No house)
+	(SBAR-5 *pseudo-attach*))
+    (AUX was)
+    (ADVP ever)
+    (VP built
+	(SBAR-5 (WHNP that)
+		(S (NP T)
+		   (AUX could)
+		   (NEG not)
+		   (VP have
+		       (VP been
+			   (VP built
+			       (ADVP better)
+			       (PP for
+				   (NP  less)))))
+		   (SBAR if
+			 (S (S (NP the work)
+			       (AUX had)
+			       (VP been
+				   (VP   better
+					 planned)))
+			    and
+			    (X  (NP the work)
+				(VP   better
+				      scheduled))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP New rule)
+	(NP no.
+	    5))
+    :
+    :
+    (S  (NP *) 
+	(AUX Do)
+	(NEG n't)
+	(VP waste
+	    (NP any $ .10-a-minute time)
+	    (PP on
+		(NP green lumber)))
+	(S (NP *)
+	   (AUX to)
+	   (VP save
+	       (NP (NP $ .03)
+		   (NP a stud))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP the
+	       (ADJP (ADVP most) penny-wise
+		     ,
+		     pound-foolish)
+	       chisel)
+	   (SBAR 0
+		 (S
+		  (NP a builder)
+		  (AUX can)
+		  (VP commit
+		      (NP T) ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Green lumber)
+   (VP was
+       (ADVP  all      
+	      very
+	      well)
+       (ADVP back
+	     (PP in
+		 (NP (NP the days
+			 (PP of
+			     (NP wet plaster)))
+		     ,
+		     (SBAR 
+		      (WHADVP when)
+		      (S (NP the framing lumber)
+			 (AUX was)
+			 (VP bound
+			        
+			     (S (NP *)
+				(AUX to)
+				(VP (VP swell)
+				    and
+				    (ADVP then)
+				    (VP shrink))
+				(SBAR  as
+				       (S (NP tons
+					      (PP of
+						  (NP water)))
+					  (VP dried
+					      (PRT out)
+					      (NP the gypsum)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (ADVP now)
+      (SBAR that
+	      (S (S (NP all production builders)
+		    (VP build
+			(PP with
+			    (NP drywall))))
+		 and
+		 (S (NP all smart builders)
+		    (VP build
+			(PP with
+			    (NP panels))))))
+      ,
+      (S (NP green lumber)
+	 (VP is
+	     (NP (NP an anachronism)
+		 (SBAR 0
+		       (S
+			(NP you)
+			(AUX can)
+			(NEG not)
+			(VP afford
+			    (NP T)
+			    )))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Green studs)
+       (VP cost
+	   (NP  (ADVP about)
+		$ .65)))
+    ;
+    ;
+    (S (NP dry studs)
+       (VP cost
+	   (NP   less
+		 (PP than
+		     (ADJP   (NP $ .03)
+			     more))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  So
+       (SBAR if
+	     (S (NP a green stud)
+		(VP makes
+		    (S (NP (NP a carpenter)
+			   or
+			   (NP a drywall finisher)
+			   or
+			   (NP   anybody
+				 (ADJP else)))
+		       (VP waste
+			   (NP  (ADVP even)
+				20 seconds))))))
+       ,
+       (S (NP the green stud)
+	  (VP becomes
+	      (ADJP  more
+		     expensive
+		     (PP than
+			 (NP a dry stud))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

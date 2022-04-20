@@ -1,0 +1,2590 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP you)
+	   (VP (VP elect
+		   (S (NP *)
+		      (AUX to)
+		      (VP use
+			  (NP (NP the 
+				  (ADJP Standard)
+				  Deduction)
+			      or
+			      (NP the Tax Table)))))
+	       ,
+	       and
+	       (ADVP later)
+	       (VP find
+		   (SBAR 0
+			 (S (NP you)
+			    (AUX should)
+			    (VP have
+				(VP itemized
+				    (NP your deductions)))))))))
+    ,
+    (S (NP you)
+       (AUX may)
+       (VP do
+	   (ADVP so)
+	   (PP by
+	       (S (NP *)
+		  (VP filing
+		      (NP an 
+			  (ADJP amended) 
+			  return)
+		      (PP within
+			  (NP (NP the time)
+			      (VP prescribed
+				  (PP for
+				      (S (NP *)
+					 (VP filing
+					     (NP a claim
+						 (PP for
+						     (NP refund)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP See
+	 (NP (NP (S (NP You)
+		    (AUX May)
+		    (VP Claim
+			(NP A Refund))))
+	     ,
+	     (NP Page 135)))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP same))
+   (VP is
+       (ADJP true))
+   (SBAR if
+	 (S (NP you)
+	    (X (X (AUX have)
+		  (VP itemized
+		      (NP your deductions)))
+	       and
+	       (ADVP later)
+	       (VP decide
+		   (SBAR 0
+			 (S (NP you)
+			    (AUX should)
+			    (VP have
+				(VP used
+				    (NP (NP the
+					    (ADJP Standard) 
+					    Deduction)
+					or
+					(NP Tax Table)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The words)
+	 (NP (ADJP amended)
+	     return))
+     (AUX should)
+     (VP be
+	 (VP (ADVP plainly)
+	     written
+		 (PP across
+		     (NP the top
+			 (PP of
+			     (NP (ADJP such)
+				 return)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((WHADVP (WHADVP When)
+	and
+	(WHADVP where)
+	(S (NP *)
+	   (AUX to)
+	   (VP file))))
+(  
+ (S (NP April 15)
+    (VP is
+	(ADVP usually)
+	(NP the 
+	    (ADJP final) 
+	    date
+	    (PP for
+		(S (NP *)
+		   (VP filing
+		       (NP income tax returns))))))
+    (PP for
+	(NP 
+	 (ADJP most)
+	 people))
+    (SBAR because
+	  (S (NP they)
+	     (VP use
+		 (NP (NP the calendar year)
+		     (VP ending
+			 (PP on
+			     (NP December 31))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP you)
+	   (VP use
+	       (NP (NP a 
+		       (ADJP fiscal) 
+		       year)
+		   ,
+		   (NP (NP a year)
+		       (VP ending
+			   (PP on
+			       (NP the 
+				   (ADJP last)
+				   day
+				   (PP of
+				       (NP (NP any month)
+					   (ADJP other
+						 (PP than
+						     (NP December)))))))))))))
+    ,
+    (S (NP your return)
+       (VP is
+	   (ADJP due
+		 (PP on or before
+		     (NP the 
+			 (ADJP 15th)
+			 day
+			 (PP of
+			     (NP the 
+				 (ADJP 4th) 
+				 month))
+			 (PP after
+			     (NP the close
+				 (PP of
+				     (NP your tax year))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Saturday)
+     ,
+     (NP Sunday)
+     ,
+     or
+     (NP holiday))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP (NP the 
+		   (ADJP last) 
+		   day)
+	       (NP *LRB*
+		   (ADJP due)
+		   date
+		   *RRB*)
+	       (PP for
+		   (S (NP *)
+		      (VP performing
+			  (NP (NP any act
+				  (PP for
+				      (NP tax purposes)))
+			      ,
+			      (ADJP such
+				    (PP as
+					(S (S (NP *)
+					      (VP filing
+						  (NP a return)))
+					   or
+					   (S (NP *)
+					      (VP making
+						  (NP a tax payment)))
+					   ,
+					   (S etc.)
+					   ,))))))))
+	   (VP falls
+	       (PP on
+		   (NP (NP Saturday)
+		       ,
+		       (NP Sunday)
+		       ,
+		       or
+		       (NP a 
+			   (ADJP legal)
+			   holiday))))))
+    ,
+    (S (NP you)
+       (AUX may)
+       (VP perform
+	   (NP that act)
+	   (PP on
+	       (NP (NP the next 
+		       (ADJP succeeding) 
+		       day)
+		   (SBAR
+		    (WHNP which)
+		    (S (NP T)
+		       (VP is
+			   (NEG not)
+			   (NP  a Saturday
+				,
+				Sunday
+				,
+				or
+				(ADJP legal) 
+				holiday)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP (NP April 15)
+		 ,
+		 (NP 1962)
+		 ,)
+	     (VP is
+		 (PP on
+		     (NP Sunday)))))
+    (S (NP your return
+	   (PP for
+	       (NP (NP the calendar year)
+		   (NP 1961))))
+       (AUX will)
+       (VP be
+	   (ADVP timely)
+	   (VP filed))
+       (SBAR if
+	     (S (NP it)
+		(AUX is)
+		(VP filed
+		    (PP on or before
+			(NP (NP Monday)
+			    ,
+			    (NP April 16)
+			    ,
+			    (NP 1962))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP you)
+	   (VP mail
+	       (NP A return or tax payment))))
+    ,
+    (S (NP you)
+       (AUX must)
+       (VP place
+	   (NP it)
+	   (PP in
+	       (NP the mails))
+	   (PP in
+	       (NP (ADJP ample)
+		   time
+		   (S (NP *)
+		      (AUX to)
+		      (VP reach
+			  (NP the district director)
+			  (PP on or before
+			      (NP the 
+				  (ADJP due 
+					date))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Declaration
+      (PP of
+	  (NP (ADJP estimated)
+	      tax)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP you)
+	  (AUX were)
+	  (VP required
+	      (S (NP *)
+		 (AUX to)
+		 (VP file
+		     (NP a declaration
+			 (PP of
+			     (NP (ADJP estimated)
+				 tax))
+			 (PP for
+			     (NP (NP the calendar year)
+				 (NP 1961)))))))))
+   ,
+   (S (NP it
+	  (S-1 *pseudo-attach*))
+      (VP is
+	  (NEG not)
+	  (ADJP necessary))
+      (S-1 (NP *)
+	 (AUX to)
+	 (VP pay
+	     (NP (NP the 
+		     (ADJP fourth) 
+		     installment)
+		 (ADJP (ADVP otherwise)
+		       due
+		       (PP on
+			   (NP (NP January 15) 
+			       ,
+			       (NP 1962)))))))
+      ,
+      (SBAR if
+	    (S (NP you)
+	       (VP (VP file
+		       (NP (NP your income tax return Form)
+			   (NP 1040)))
+		   ,
+		   and
+		   (VP pay
+		       (NP your tax)
+		       (PP in
+			   (NP (ADJP full)))
+		       (PP for
+			   (NP (NP the calendar year)
+			       (NP 1961)))
+		       (PP by
+			   (NP (NP January 31)
+			       ,
+			       (NP 1962)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The filing
+       (PP of
+	   (NP (NP an
+		   (ADJP (ADJP original)
+			 or
+			 (ADJP amended))
+		   declaration)
+	       ,
+	       (ADJP (ADVP otherwise)
+		     due
+		     (PP on
+			 (NP  (NP January 15) 
+			      ,
+			      (NP 1962)))))))
+   ,
+   (AUX is)
+   (ADVP also)
+   (VP waived)
+   ,
+   (SBAR if
+	 (S (NP you)
+	    (VP (VP file
+		    (NP (NP your
+			    Form) 
+			(NP 1040)
+			(PP for
+			    (NP 1961))))
+		and
+		(VP pay
+		    (NP the 
+			(ADJP full) 
+			tax
+			(PP by
+			    (NP  (NP January 31) 
+				 ,
+				 (NP 1962)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Farmers)
+    ,
+    (PP for
+	(NP these purposes))
+    ,
+    (VP have
+	(PP until
+	    (NP (NP February 15)
+		,
+		(NP 1962)))
+	,
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP file
+		   (NP Form 1040))
+	       and
+	       (VP pay
+		   (NP the tax
+		       (PP in
+			   (NP (ADJP full)))
+		       (PP for
+			   (NP (NP the calendar year)
+			       (NP 1961)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (ADJP Fiscal) 
+	   year taxpayers)
+       (VP have
+	   (PP until
+	       (NP  the 
+		    (ADJP last) 
+		    day
+		    (PP of
+			(NP (NP the
+				(ADJP first) 
+				month)
+			    (VP following
+				(NP the close
+				    (PP of
+					(NP the
+					    (ADJP fiscal) 
+					    year))))))))))
+    (X *LRB*
+       (NP farmers)
+       (PP until
+	   (NP the 
+	       (ADJP 15th 
+		     day)
+	       (PP of
+		   (NP the
+		       (ADJP 2d) 
+		       month))))
+       *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP See
+	 (NP Chapter 38))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP (NP (NP Nonresident aliens)
+	     (VP living
+		 (PP in
+		     (NP (NP Canada)
+			 or
+			 (NP Mexico)))))
+	 (SBAR 
+	  (WHNP who)
+	  (S (NP T)
+	     (VP earn
+		 (NP wages)
+		 (PP in
+		     (NP the United States))))))
+       (AUX may)
+       (VP be
+	   (ADJP subject
+		 (PP to
+		     (NP withholding
+			 (PP of
+			     (NP tax
+				 (PP on
+				     (NP their wages))))))))
+    ,
+    (NP the
+	(ADJP same
+	      (PP as
+		  (SBAR if
+			(S (NP they)
+			   (VP were
+			       (NP citizens
+				   (PP of
+				       (NP the United States))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their United States tax returns)
+   (VP are
+       (ADJP due
+	     (NP (NP April 16)
+		 ,
+		 (NP 1962)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+     ,
+     (S (SBAR if
+	      (S (NP their United States income)
+		 (VP is
+		     (NEG not)
+		     (ADJP subject
+			   (PP to
+			       (NP the withholding
+				   (PP of
+				       (NP tax
+					   (PP on
+					       (NP wages))))))))))
+	,
+	(X (S (NP their returns)
+	      (VP are
+		  (ADJP due
+			(NP  (NP June 15)
+			     ,
+			     (NP 1962))))
+	      ,
+	      (SBAR if
+		    (S (NP they)
+		       (VP use
+			   (NP a calendar year)))))
+	   ,
+	   or
+	   (NP the 
+	       (ADJP 15th) 
+	       day
+	       (PP of
+		   (NP the 
+		       (ADJP 6th 
+			     month)
+		       (PP after
+			   (NP the close
+			       (PP of
+				   (NP their
+				       (ADJP fiscal) 
+				       year))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Nonresident aliens
+      (PP in
+	  (NP Puerto Rico)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP you)
+	  (VP are
+	      (NP (NP a nonresident alien)
+		  and
+		  (NP a resident
+		      (PP of
+			  (NP Puerto Rico)))))))
+   ,
+   (S (NP your return)
+      (VP is
+	  (ADVP also)
+	  (ADJP due
+		(NP (NP (NP June 15) 
+			,
+			(NP 1962))
+		    ,
+		    or
+		    (NP the 
+			(ADJP 15th)
+			day
+			(PP of
+			    (NP the 
+				(ADJP 6th) 
+				month
+				(PP after
+				    (NP the close
+					(PP of
+					    (NP your 
+						(ADJP fiscal)
+						year))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP A taxpayer)
+	   (VP dies)))
+    ,
+    (S (NP the executor
+	   ,
+	   administrator
+	   ,
+	   or
+	   (ADJP legal) 
+	   representative)
+       (AUX must)
+       (VP file
+	   (NP the 
+	       (ADJP final) 
+	       return
+	       (PP for
+		   (NP the decedent)))
+	   (PP on or before
+	       (NP the 
+		   (ADJP 15th) 
+		   day
+		   (PP of
+		       (NP the 
+			   (ADJP 4th)
+			   month))
+		   (VP following
+		       (NP the close
+			   (PP of
+			       (NP 
+				(NP the 
+				    (ADJP deceased) 
+				    taxpayer)
+				's 
+				(ADJP normal) 
+				tax year)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP Suppose
+	  (SBAR 0
+		(S (NP (NP John Jones)
+		       ,
+		       (SBAR (WHNP who)
+			     ,
+			     (S (PP for
+				    (NP 1960))
+				,
+				(S (NP T)
+				   (VP filed
+				       (PP on
+					   (NP the basis
+					       (PP of
+						   (NP a calendar year))))))))
+		       ,)
+		   (VP died
+		       (NP (NP June 20) 
+			   ,
+			   (NP 1961)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His return
+	(PP for
+	    (NP (NP the period)
+		(NP January 1
+		    (PP to
+			(NP (N June 20) 
+			    ,
+			    (NP 1961)
+			    ,))))))
+    (VP is
+	(ADJP due
+	      (NP (NP April 16) 
+		  ,
+		  (NP 1962)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The return
+       (PP for
+	   (NP a decedent)))
+   (AUX may)
+   (ADVP also)
+   (VP serve
+       (PP as
+	   (NP a claim
+	       (PP for
+		   (NP refund
+		       (PP of
+			   (NP an overpayment
+			       (PP of
+				   (NP tax))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (ADJP such)
+	    a case))
+    ,
+    (S (NP Form 1310)
+       (AUX should)
+       (VP be
+	   (VP (VP completed)
+	       and
+	       (VP attached
+		   (PP to
+		       (NP the return)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This form)
+   (AUX may)
+   (VP be
+       (VP obtained
+	   (PP from
+	       (NP the 
+		   (ADJP local) 
+		   office
+		   (PP of
+		       (NP your district director)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Returns
+       (PP of
+	   (NP (NP estates) 
+	       or 
+	       (NP trusts))))
+   (VP are
+       (ADJP due
+	     (PP on or before
+		 (NP the 
+		     (ADJP 15th) 
+		     day
+		     (PP of
+			 (NP the 
+			     (ADJP 4th) 
+			     month
+			     (PP after
+				 (NP the close
+				     (PP of
+					 (NP the tax year)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Extensions
+       (PP of
+	   (NP time
+	       (PP for
+		   (S (NP *)
+		      (VP filing))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP Under
+	 (NP (ADJP unusual) 
+	     circumstances))
+     (S
+      (NP a resident individual)
+      (AUX may)
+      (VP be
+	  (VP granted
+	      (NP an extension
+		  (PP of
+		      (NP time
+			  (S-1 (NP *)
+			       (AUX to)
+			       (VP file
+				   (NP a return)))))
+		  (S-1 *pseudo-attach*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP You)
+      (AUX may)
+      (VP apply
+	  (PP for
+	      (NP (ADJP such)
+		  an extension))
+	  (PP by
+	      (S (NP *)
+		 (VP filing
+		     (NP (NP Form 2688)
+			 ,
+			 (NP Application
+			     (PP For
+				 (NP Extension
+				     (PP Of
+					 (NP Time
+					     (S (NP *) 
+						(AUX To)
+						(VP File))))))))
+		     ,
+		     (PP with
+			 (NP the District Director
+			     (PP of
+				 (NP (ADJP Internal)
+				     Revenue))
+			     (PP for
+				 (NP your district)))))))))
+     ,
+     or
+     (S (NP you)
+	(AUX may)
+	(VP make
+	    (NP your application)
+	    (PP in
+		(NP a letter)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Your application)
+    (AUX must)
+    (VP include
+	(NP (NP the following information)
+	    :
+	    (NP (NP (NP *LRB*
+			1
+			*RRB*)
+		    (NP your reasons
+			(PP for
+			    (S (NP *)
+			       (VP requesting
+				   (NP an extension))))))
+		,
+		(NP (NP *LRB*
+			2
+			*RRB*)
+		    (NP (SBAR whether
+			      (S (NP you)
+				 (VP filed
+				     (NP (ADJP timely) 
+					 income tax returns
+					 (PP for
+					     (NP the 3
+						 (ADJP preceding)
+						 years))))))))
+		,
+		and
+		(NP (NP *LRB*
+			3
+			*RRB*)
+		    (NP (SBAR (SBAR whether
+				    (S (NP you)
+				       (AUX were)
+				       (VP required
+					   (S (NP *)
+					      (AUX to)
+					      (VP file
+						  (NP an
+						      (ADJP estimated) 
+						      return
+						      (PP for
+							  (NP the year))))))))
+			      ,
+			      and
+			      (PP if
+				  (ADVP so))
+			      (SBAR whether
+				    (S (NP you)
+				       (X (X (AUX did)
+					     (VP file
+						 (NP-2 *pseudo-attach*)))
+					  and
+					  (X (AUX have)
+					     (VP paid
+						 (NP-2 *pseudo-attach*)))
+					  (NP-2 the
+						(ADJP estimated)
+						tax payments)
+					  (PP on or before
+					      (NP the 
+						  (ADJP due) 
+						  dates))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Any failure
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP file
+		   (NP (ADJP timely) 
+		       returns))
+	       or
+	       (VP make
+		   (NP
+		    (ADJP estimated)
+		    tax payments))
+	       (WHADVP when
+		       (S (NP *)
+			  (ADJP due))))))
+    (AUX must)
+    (VP be
+	(VP (ADVP fully)
+	    explained
+		)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Extensions)
+      (AUX are)
+      (NEG not)
+      (VP granted
+	  (PP as
+	      (NP a matter
+		  (PP of
+		      (NP course))))))
+     ,
+     and
+     (S (NP the reasons
+	    (PP for
+		(NP your request)))
+	(AUX must)
+	(VP be
+	    (ADJP substantial))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP you)
+	  (VP are
+	      (ADJP unable
+		    (S (NP *)
+		       (AUX to)
+		       (VP sign
+			   (NP the request)))))
+	  ,
+	  (ADVP because
+		(PP of
+		    (NP (NP illness)
+			or
+			(NP 
+			 (ADJP other)
+			 (ADJP good)
+			 cause))))))
+   ,
+   (S (NP (NP another person)
+	  (SBAR
+	   (WHNP who)
+	   (S (NP T)
+	      (VP stands
+		  (PP in
+		      (NP (ADJP close)
+			  (ADJP personal)
+			  or
+			  business relationship
+			  (PP to
+			      (NP you))))))))
+      (AUX may)
+      (VP sign
+	  (NP the request)
+	  (PP on
+	      (NP your behalf)))
+      ,
+      (S (NP *)
+	 (VP stating
+	     (NP (NP the reason)
+		 (SBAR 
+		  (WHADVP why)
+		  (S (NP you)
+		     (VP are
+			 (ADJP unable
+			       (S (NP *)
+				  (AUX to)
+				  (VP sign)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX should)
+   (VP make
+       (NP any request
+	   (PP for
+	       (NP an extension)))
+       (ADVP early))
+   (SBAR  so
+	 that
+	 (S (SBAR if
+		  (S (NP it)
+		     (AUX is)
+		     (VP refused)))
+	    ,
+	    (S (NP your return)
+	       (AUX may)
+	       (ADVP still)
+	       (VP be
+		   (PP on
+		       (NP time)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP See
+	  (ADVP also)
+	  (NP (NP Interest
+		  (PP On
+		      (NP (ADJP Unpaid)
+			  Taxes)))
+	      ,
+	      (ADVP below))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Extensions
+     (WHADVP while
+	     (ADJP abroad)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Citizens
+	     (PP of
+		 (NP the United States)))
+	 (SBAR (WHNP who)
+	       ,
+	       (S (PP on
+		      (NP April 15))
+		  ,
+		  (S (NP T)
+		     (VP are
+			 (NEG not)
+			 (PP in
+			     (NP (NP the United States)
+				 or
+				 (NP Puerto Rico))))))))
+     ,
+     (AUX are)
+     (VP allowed
+	 (NP an extension
+	     (PP of
+		 (NP time))
+	     (PP until
+		 (NP June 15))
+	     (PP for
+		 (S (NP *)
+		    (VP filing
+			(NP the return)
+			(PP for
+			    (NP the 
+				(ADJP preceding) 
+				calendar year))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An extension
+       (PP of
+	   (NP 2 months
+	       (PP beyond
+		   (NP the
+		       (ADJP regular)
+		       (ADJP due)
+		       date
+		       (PP for
+			   (S (NP *)
+			      (VP filing))))))))
+   (VP is
+       (ADVP also)
+       (ADJP available
+	     (PP to
+		 (NP (NP taxpayers)
+		     (VP making
+			 (NP returns
+			     (PP for
+				 (NP a 
+				     (ADJP fiscal) 
+				     year)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Alaska)
+     and
+     (NP Hawaii))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP Taxpayers)
+	   (VP residing
+	       or
+	       traveling
+	       (PP in
+		   (NP Alaska))))
+       (AUX are)
+       (ADVP also)
+       (VP allowed
+	   (NP this extension
+	       (PP of
+		   (NP time))
+	       (PP for
+		   (S (NP *)
+		      (VP filing))))))
+    ,
+    but
+    (S (NP (NP those) 
+	   (VP residing
+	       or
+	       traveling
+	       (PP in
+		   (NP Hawaii))))
+       (AUX are)
+       (NEG not)
+       (VP allowed
+	   (NP this 
+	       (ADJP automatic) 
+	       extension))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Military)
+	or
+	(ADJP Naval) 
+	Personnel
+	(PP on
+	    (NP duty))
+	(PP (PP in
+		(NP Alaska))
+	    or
+	    (PP outside
+		(NP (NP the United States)
+		    and
+		    (NP Puerto Rico)))))
+    (AUX are)
+    (ADVP also
+	  (VP allowed
+	      (NP this 
+		  (ADJP automatic)
+		  extension
+		  (PP of
+		      (NP time))
+		  (PP for
+		      (S (NP *)
+			 (VP filing
+			     (NP their returns))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX must)
+   (VP attach
+       (NP (NP a statement)
+	   (VP-3 *pseudo-attach*))
+       (PP to
+	   (NP your return)))
+   ,
+   (SBAR if
+	 (S (NP you)
+	    (VP take
+		(NP advantage
+		    (PP of
+			(NP this
+			    (ADJP automatic) 
+			    extension))))))
+   ,
+   (S (NP *)
+      (VP-3 showing
+	    (SBAR that
+		  (S (NP you)
+		     (VP (VP were
+			     (PP in
+				 (NP Alaska)))
+			 or
+			 (VP were
+			     (PP outside
+				 (NP (NP the United States)
+				     or
+				     (NP Puerto Rico)))))
+		     (PP on
+			 (NP (NP April 15)
+			     or
+			     (NP 
+			      (ADJP other)
+			      (ADJP due)
+			      date))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Interest
+      (PP on
+	  (NP (ADJP unpaid) 
+	      taxes)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Interest
+	 (PP at
+	     (NP the rate
+		 (PP of
+		     (NP (NP 6 %)
+			 (NP a year))))))
+     (AUX must)
+     (VP be
+	 (VP paid
+	     (PP on
+		 (NP (NP taxes)
+		     (SBAR
+		      (WHNP that)
+		      (S (NP T)
+			 (AUX are)
+			 (NEG not)
+			 (VP paid
+			     (PP on or before
+				 (NP their 
+				     (ADJP due) 
+				     date))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Such) 
+       interest)
+   (AUX must)
+   (VP be
+       (VP paid))
+   (ADVP even)
+   (SBAR though
+	 (S (NP an extension
+		(PP of
+		    (NP time))
+		(PP for
+		    (S (NP *)
+		       (VP filing))))
+	    (AUX is)
+	    (VP granted
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBAR
+   (WHADVP When)
+   (S (NP payment)
+      (VP is
+	  (ADJP due))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP your computation
+	       (PP on
+		   (NP (NP Form 1040)
+		       or
+		       (NP Form 1040A))))
+	   (VP shows
+	       (SBAR 0
+		     (S (NP you)
+			(VP owe
+			    (NP (ADJP additional)
+				tax)))))))
+    ,
+    (S (NP it)
+       (AUX should)
+       (VP be
+	   (VP remitted
+	       (PP with
+		   (NP your return))))
+       (SBAR unless
+	     (S (NP you)
+		(VP owe
+		    (NP (ADJP less)
+			(PP than
+			    (NP $ 1)))))
+	       ,
+	       (SBAR (WHPP in
+			   (WHNP which case))
+		     (S
+		      (NP it)
+		      (AUX is)
+		      (VP forgiven
+			  ))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP payment)
+	  (VP is
+	      (PP by
+		  (NP cash)))))
+   ,
+   (S (NP you)
+      (AUX should)
+      (VP ask
+	  (PP for
+	      (NP a receipt)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (S (NP you)
+	      (VP file
+		  (NP Form 1040A)))
+	   and
+	   (S (NP the District Director)
+	      (VP computes
+		  (NP your tax)))))
+    ,
+    (S (NP you)
+       (AUX will)
+       (VP be
+	   (VP sent
+	       (NP a bill)))
+       (SBAR if
+	     (S (NP (ADJP additional) 
+		    tax)
+		(VP is
+		    (ADJP due))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This bill)
+   (AUX should)
+   (VP be
+       (VP paid
+	   (PP within
+	       (NP 30 days)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Payment
+       (PP by
+	   (NP (NP check) 
+	       or  
+	       (NP money order))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Whether
+	  (S (NP the check)
+	     (AUX is)
+	     (ADJP (ADJP certified)
+		   or
+		   (ADJP uncertified))))
+    ,
+    (S (NP the tax)
+       (AUX is)
+       (NEG not)
+       (VP paid)
+       (PP until
+	   (S (NP the check)
+	      (AUX is)
+	      (VP paid
+		  )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP If
+	(S (S (NP the check)
+	      (VP is
+		  (NEG not)
+		  (ADJP good)))
+	   and
+	   (S (NP the April 15
+		  or
+		  (ADJP other)
+		  (ADJP due)
+		  date deadline)
+	      (VP elapses))))
+    ,
+    (S (NP additions
+	   (PP to
+	       (NP the tax)))
+       (AUX may)
+       (VP be
+	   (VP incurred
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Furthermore)
+     ,
+     (S (NP a 
+	    (ADJP bad) 
+	    check)
+	(AUX may)
+	(VP subject
+	    (NP the maker)
+	    (PP to
+		(NP (ADJP certain)
+		    penalties)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All checks and money orders)
+   (AUX should)
+   (VP be
+       (VP made
+	   (ADJP payable
+		 (PP to
+		     (NP (ADJP Internal)
+			 Revenue Service))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Refunds)
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An overpayment
+	(PP of
+	    (NP income
+		and
+		social security taxes)))
+    (VP entitles
+	(NP you)
+	(PP to
+	    (NP a refund)))
+    (SBAR unless
+	  (S (NP you)
+	     (VP indicate
+		 (PP on
+		     (NP the return))
+		 (SBAR that
+		       (S (NP the overpayment)
+			  (AUX should)
+			  (VP be
+			      (VP applied
+				  (PP to
+				      (NP 
+				       (NP your 
+					   (ADJP succeeding) 
+					   year)
+				       's estimated tax))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (S (NP you)
+	      (VP file
+		  (NP Form 1040A)))
+	   and
+	   (S (NP the District Director)
+	      (VP computes
+		  (NP your tax)))))
+    ,
+    (S (NP (NP any refund)
+	   (SBAR (WHPP to
+		       (WHNP which))
+		 (S (NP you)
+		    (AUX are)
+		    (VP entitled))))
+       (AUX will)
+       (VP be)
+       (VP mailed
+	   (PP to
+	       (NP you)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP you)
+	   (VP file
+	       (NP a
+		   Form 1040))))
+    ,
+    (S (NP you)
+       (AUX should)
+       (VP indicate
+	   (PP in
+	       (NP (NP the place)
+		   (VP provided)))
+	   (X (SBAR that
+		    (S (NP there)
+		       (VP is
+			   (NP an overpayment
+			       (PP of
+				   (NP tax))))))
+	      and
+	      (NP (NP (NP the amount)
+		      (SBAR 0
+			    (S (NP you)
+			       (VP want
+				   (NP T)
+				   (VP refunded)))))
+		  and
+		  (NP (NP the amount)
+		      (SBAR 0
+			    (S (NP you)
+			       (VP want
+				   (NP T)
+				   (VP credited
+				       (PP against
+					   (NP your
+					       (ADJP estimated) 
+					       tax))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Refunds
+       (PP of
+	   (NP less
+	       (PP than
+		   (NP $ 1)))))
+   (AUX will)
+   (NEG not)
+   (VP be
+       (VP made))
+   (SBAR unless
+	 (S (NP you)
+	    (VP attach
+		(NP (NP a 
+			(ADJP separate) 
+			application)
+		    (VP-4 *pseudo-attach*))
+		(PP to
+		    (NP your return))
+		(VP-4 requesting
+		      (NP (ADJP such)
+			  a refund))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBAR (WHADVP Where)
+       (S (NP *)
+	  (AUX to)
+	  (VP file)))
+ .)
+(  END_OF_TEXT_UNIT)
+(   (S (NP *)
+       (VP Send
+	   (NP your return)
+	   (PP to
+	       (NP the Director
+		   (PP of
+		       (NP (ADJP Internal)
+			   Revenue))
+		   (PP for
+		       (NP (NP the district)
+			   (SBAR (WHPP in
+				       (WHNP which))
+				 (S (NP you)
+				    (VP have
+					(NP your 
+					    (ADJP legal)
+					    residence
+					    or
+					    (ADJP principal) 
+					    place
+					    (PP of
+						(NP business))))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP you)
+	   (VP have
+	       (NP neither
+		   (NP a 
+		       (ADJP legal) 
+		       residence)
+		   nor
+		   (NP a 
+		       (ADJP principal)
+		       place
+		       (PP of
+			   (NP business)))
+		   (PP in
+		       (NP any 
+			   (ADJP Internal) 
+			   Revenue district))))))
+    ,
+    (S (NP your return)
+       (AUX should)
+       (VP be
+	   (VP filed
+	       (PP with
+		   (NP (NP the District Director
+			   (PP of
+			       (NP (ADJP Internal)
+				   Revenue)))
+		       ,
+		       (NP Baltimore 2)
+		       ,
+		       (NP Md.)))))))
+ .)
+ 
+ ((S (PP If
+	(S (S (NP your
+		  (ADJP principal)
+		  place
+		  (PP of
+		      (NP abode))
+		  (PP for
+		      (NP the tax year)))
+	      (VP is
+		  (PP outside
+		      (NP (NP (NP the United States)
+			      (VP *LRB*
+				  including
+				  (NP (NP Alaska)
+				      and
+				      (NP Hawaii))
+				  *RRB*))
+			  ,
+			  (NP Puerto Rico)
+			  ,
+			  or
+			  (NP the Virgin Islands)))))
+	   and
+	   (S (NP you)
+	      (VP have
+		  (NP no 
+		      (ADJP legal) 
+		      residence
+		      or
+		      (ADJP principal) 
+		      place
+		      (PP of
+			  (NP business)))
+		  (PP in
+		      (NP any 
+			  (ADJP Internal) 
+			  Revenue district
+			  (PP in
+			      (NP the United States))))))))
+    ,
+    (S (NP you)
+       (AUX should)
+       (VP file
+	   (NP your return)
+	   (PP with
+	       (NP (NP the Office
+		       (PP of
+			   (NP (ADJP International)
+			       Operations)))
+		   ,
+		   (NP (ADJP Internal)
+		       Revenue Service)
+		   ,
+		   (NP Washington 25)
+		   ,
+		   (NP D.C.))))))
+ .)
+(  
+ (NP (ADJP Adjusted)
+     (ADJP gross)
+     income)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The deductions)
+	 (VP allowed
+	     (PP in
+		 (S (NP *)
+		    (VP determining
+			(NP (ADJP Adjusted)
+			    (ADJP Gross) 
+			    Income))))))
+     (VP put
+	 (NP all taxpayers)
+	 (PP on
+	     (NP a 
+		 (ADJP comparable 
+		       basis)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP (NP the amount)
+	   (SBAR 0
+		 (S
+		  (NP you)
+		  (VP enter
+		      (NP T)
+		      (PP on
+			  (NP (NP line 9)
+			      ,
+			      (NP page 1)
+			      (PP of
+				  (NP Form 1040))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some deductions)
+   (AUX are)
+   (VP subtracted
+       (PP from
+	   (NP (ADJP Gross) 
+	       Income))
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      (NP (ADJP Adjusted) 
+		  (ADJP Gross) 
+		  Income)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Other) 
+       deductions)
+   (AUX are)
+   (VP subtracted
+       (ADVP only)
+       (PP from
+	   (NP (ADJP Adjusted)
+	       (ADJP Gross) 
+	       Income)))
+   (PP in
+       (S  (NP *)
+	   (VP arriving
+	       (PP at
+		   (NP (ADJP Taxable)
+		       Income))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP compute
+	    (NP your
+		(ADJP adjusted)
+		(ADJP gross)
+		income)))
+     (S (NP you)
+	(VP total
+	    (NP all items
+		(PP of
+		    (NP income))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 6))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP From
+	(NP this amount))
+    (S (NP *)
+       (VP deduct
+	   (NP (NP the items)
+	       (VP indicated
+		   (ADVP below))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Businessmen)
+   (VP deduct
+       (NP (NP all
+	       (ADJP ordinary)
+	       and 
+	       (ADJP necessary)
+	       expenses)
+	   (ADJP attributable
+		 (PP to
+		     (NP a trade or business))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP Rents)
+     or 
+     (NP royalties))
+ .)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (PP If
+	(S (NP you)
+	   (VP hold
+	       (NP property
+		   (PP for
+		       (NP the production
+			   (PP of
+			       (NP (NP rents) 
+				   or 
+				   (NP royalties)))))))))
+    (S (NP you)
+       (VP subtract
+	   ,
+	   (PP in
+	       (S (NP *)
+		  (VP computing
+		      (NP (ADJP Adjusted)
+			  (ADJP Gross)
+			  Income))))
+	   ,
+	   (NP (NP (ADJP ordinary) 
+		   and 
+		   (ADJP necessary)
+		   expenses)
+	       and
+	       (NP (NP 
+		    (ADJP certain other)
+		    deductions)
+		   (ADJP attributable
+			 (PP to
+			     (NP the property))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 15))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Outside salesmen)
+    (VP deduct
+	(NP (NP all expenses)
+	    (ADJP attributable
+		  (PP to
+		      (S (NP *)
+			 (VP earning
+			     (NP a salary
+				 ,
+				 commission
+				 ,
+				 or
+				 (NP (ADJP other) 
+				     compensation)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S *LRB*
+      (NP *)
+      (VP See
+	  (NP Chapter 10))
+      .
+      *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Employees)
+    (VP deduct
+	(NP  expenses
+	     (PP of
+		 (NP (NP (NP travel)
+			 ,
+			 (NP meals)
+			 and
+			 (NP lodging))
+		     (X while
+			(ADJP away
+			      (PP from
+				  (NP home))
+			      (PP in
+				  (NP connection
+				      (PP with
+					  (NP the performance
+					      (PP of
+						  (NP their services
+						      (PP as
+							  (NP employees)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (ADVP also)
+    (VP deduct
+	(NP (NP transportation expenses)
+	    (VP incurred
+		(PP in
+		    (NP connection
+			(PP with
+			    (NP the performance
+				(PP of
+				    (NP services))
+				(PP as
+				    (NP employees)))))))))
+    (ADVP even)
+    (SBAR though
+	  (S (NP they)
+	     (VP are
+		 (NEG not)
+		 (ADJP away
+		       (PP from
+			   (NP home)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 12))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP your employer)
+	   (VP reimburses
+	       (NP you)
+	       (PP for
+		   (NP (NP expenses)
+		       (VP incurred))))))
+    ,
+    (S (NP you)
+       (VP deduct
+	   (NP (ADJP such)
+	       expenses))
+       (SBAR if
+	     (S (NP they)
+		(ADVP otherwise)
+		(VP qualify)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 10))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Sick pay)
+    ,
+    (PP if
+	(S (NP *)
+	   (VP included
+	       (PP in
+		   (NP your 
+		       (ADJP Gross) 
+		       Income)))))
+    ,
+    (AUX is)
+    (VP deducted
+	(PP in
+	    (S (NP *)
+	       (VP arriving
+		   (PP at
+		       (NP (ADJP Adjusted)
+			   (ADJP Gross) 
+			   Income)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP your sick pay)
+	  (AUX is)
+	  (NEG not)
+	  (VP included
+	      (PP in
+		  (NP your 
+		      (ADJP Gross) 
+		      Income)))))
+   ,
+   (S (NP you)
+      (AUX may)
+      (NEG not)
+      (VP deduct
+	  (NP it))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 9))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP income
+      (PP from
+	  (NP (NP estates) 
+	      and 
+	      (NP trusts))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP you)
+	  (VP are
+	      (NP a life tenant))))
+   ,
+   (S (NP you)
+      (VP deduct
+	  (NP (ADJP allowable) 
+	      depreciation and depletion))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP you)
+	  (VP are
+	      (NP an income beneficiary
+		  (PP of
+		      (NP (NP (NP property)
+			      (VP held
+				  (PP in
+				      (NP trust))))
+			  or
+			  (NP an heir
+			      ,
+			      legatee
+			      ,
+			      or
+			      devisee)))))))
+   ,
+   (S (NP you)
+      (AUX may)
+      (VP deduct
+	  (NP (ADJP allowable) 
+	      depreciation and depletion
+	      ,
+	      (PP if
+		  (NEG not)
+		  (ADJP deductible
+			(PP by
+			    (NP the estate or trust))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Deductible losses
+       (PP on
+	   (NP sales or exchanges
+	       (PP of
+		   (NP property)))))
+   (VP are
+       (ADJP allowable
+	     (PP in
+		 (S (NP *)
+		    (VP determining
+			(NP your 
+			    (ADJP Adjusted) 
+			    (ADJP Gross) 
+			    Income)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapter 20))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP 50 %
+      (PP of
+	  (NP capital gains)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (ADVP also)
+   (VP deduct
+       (NP 50 %
+	   (PP of
+	       (NP the excess
+		   (PP of
+		       (NP 
+			(ADJP net)
+			(ADJP long-term)
+			capital gains))))
+	   (PP over
+	       (NP 
+		(ADJP net)
+		(ADJP short-term)
+		capital losses))))
+   (PP in
+       (S (NP *)
+	  (VP determining
+	      (NP (ADJP Adjusted) 
+		  (ADJP Gross)
+		  Income)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *) 
+     (VP See
+	 (NP Chapter 24))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP other)
+     deductions) 
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (ADJP Certain)
+    (ADJP other)
+    deductions)
+   (AUX are)
+   (NEG not)
+   (VP allowed
+       (PP in
+	   (S (NP *)
+	      (VP determining
+		  (NP (ADJP Adjusted) 
+		      (ADJP Gross) 
+		      Income))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX may)
+   (VP be
+       (VP claimed
+	   (ADVP only)
+	   (PP by
+	       (S  (NP *)
+		   (VP itemizing
+		       (NP them)
+		       (PP on
+			   (NP page 2
+			       (PP of
+				   (NP Form 1040))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These deductions)
+   (AUX may)
+   (NEG not)
+   (VP be
+       (VP claimed))
+   (SBAR if
+	 (S (NP you)
+	    (VP elect
+		(S (NP *)
+		   (AUX to)
+		   (VP use
+		       (NP the 
+			   (ADJP Standard) 
+			   Deduction or Tax Table)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP Chapters 30
+	     (PP through
+		 (NP 37))))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT
+   (S (NP 2)
+      .
+      (S (NP Minors)
+	 (S (NP minors)
+	    (AUX must)
+	    (ADVP also)
+	    (VP file
+		(NP returns))
+	    (SBAR if
+		  (S (NP they)
+		     (VP earn
+			 (NP (NP $ 600)
+			     or
+			     (NP (ADJP more))))
+		     (PP during
+			 (NP the year)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A minor)
+   (VP is
+       (ADJP subject
+	     (PP to
+		 (NP tax
+		     (PP on
+			 (NP his 
+			     (ADJP own) 
+			     earnings)))))))
+  (ADVP even)
+  (SBAR though
+	(S (NP his parent)
+	   (X (X (AUX may)
+		 ,
+		 (PP under
+		     (NP (ADJP local)
+			 law))
+		 ,
+		 (VP have
+		     (NP the right
+			 (PP to
+			     (NP them)))))
+	      and
+	      (X (AUX might)
+		 (ADVP actually)
+		 (VP have
+		     (VP received
+			 (NP the money)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His income)
+   (AUX is)
+   (NEG not)
+   (VP required
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP included
+		  (PP in
+		      (NP the return
+			  (PP of
+			      (NP his parent)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A 
+       (ADJP minor) 
+       child)
+   (AUX is)
+   (VP allowed
+       (NP A 
+	   (ADJP personal) 
+	   exemption
+	   (PP of
+	       (NP $ 600))
+	   (PP on
+	       (NP his 
+		   (ADJP own) 
+		   return))))
+   (ADVP regardless
+	 (PP of
+	     (SBAR 
+	      (WHADVP how
+		      (WHNP much money))
+	      (S (NP he)
+		 (AUX may)
+		 (VP earn))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Exemption)
+     (ADVP also)
+     (VP allowed
+	 (NP parent)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP your child)
+	  (VP (VP is
+		  (PP under
+		      (NP 19)))
+	      or
+	      (VP is
+		  (NP a student)))))
+   (S (NP you)
+      (AUX may)
+      (ADVP also)
+      (VP claim
+	  (NP an exemption
+	      (PP for
+		  (NP him))))
+      (SBAR if
+	    (S (NP he)
+	       (VP qualifies
+		   (PP as
+		       (NP your
+			   (ADJP dependent))))))
+      ,
+      (SBAR  even
+	    though
+	    (S (NP he)
+	       (VP earns
+		   (NP (NP $ 600)
+		       or
+		       (NP (ADJP more))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP See
+	 (NP Chapter 5))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Example)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Your 16 year old son)
+   (VP earned
+       (NP $ 720))
+   (PP in
+       (NP 1961)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (VP spent
+       (NP $ 800)
+       (PP for
+	   (NP his support))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP he)
+	     (VP had
+		 (NP (ADJP gross) 
+		     income
+		     (PP of
+			 (NP (NP $ 600)
+			     or
+			     (NP  (ADJP more))))))))
+    ,
+    (S (NP he)
+       (AUX must)
+       (VP file
+	   (NP (NP a return)
+	       (SBAR (WHPP in
+			   (WHNP which))
+		     (S (NP he)
+			(AUX may)
+			(VP claim
+			    (NP an exemption deduction
+				(PP of
+				    (NP $ 600))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Since
+	(S (NP you)
+	   (VP contributed
+	       (NP (ADJP more
+			 (PP than
+			     (NP half
+				 (PP of
+				     (NP his support)))))))))
+    ,
+    (S (NP you)
+       (AUX may)
+       (ADVP also)
+       (VP claim
+	   (NP an exemption
+	       (PP for
+		   (NP him)))
+	   (PP on
+	       (NP your return)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX may)
+   (VP get
+       (NP a tax refund)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP A minor)
+	 (SBAR 
+	  (WHNP who)
+	  (S (NP T)
+	     (VP has
+		 (NP (ADJP gross) 
+		     income
+		     (PP of
+			 (NP (ADJP less
+				   (PP than
+				       (NP $ 600))))))))))
+     (AUX is)
+     (VP entitled
+	 (PP to
+	     (NP a refund)))
+     (SBAR if
+	   (S (NP income tax)
+	      (AUX was)
+	      (VP withheld
+		  (PP from
+		      (NP his wages))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Generally)
+     ,
+     (S (NP the refund)
+	(AUX may)
+	(VP be
+	    (VP obtained
+		(PP by
+		    (S (NP *)
+		       (VP filing
+			   (NP (NP Form 1040A)
+			       (VP accompanied
+ 				   (PP by
+				       (NP (NP the withholding statement)
+					   (NP *LRB*
+					       Form W-2
+					       *RRB*))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP he)
+	   (VP had
+	       (NP (NP (NP income)
+		       (ADJP other
+			     (PP than
+				 (NP wages))))
+		   (ADJP subject
+			 (PP to
+			     (NP withholding)))))))
+    ,
+    (S (NP he)
+       (AUX may)
+       (VP be
+	   (VP required
+	       (S (NP *)
+		  (AUX to)
+		  (VP file
+		      (NP Form 1040)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)
+      (VP See
+	  (NP Chapter 1))) 
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(S (NP your child)
+	   (VP works
+	       (PP for
+		   (NP you)))))
+    ,
+    (S (NP you)
+       (AUX may)
+       (VP deduct
+	   (NP (NP (ADJP reasonable) 
+		   wages)
+	       (SBAR 0
+		     (S (NP you)
+			(VP paid
+			    (NP T) 
+			    (PP to
+				(NP him))
+			    (PP for
+				(NP (NP services)
+				    (SBAR 0
+					  (S (NP he)
+					     (VP rendered
+						 (NP T)
+						 (PP in
+						     (NP your business))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX may)
+   (VP deduct
+       (NP these payments))
+   (SBAR (SBAR  even
+		though
+		(S (NP your child)
+		   (VP uses
+		       (NP the money)
+		       (S (NP *)
+			  (AUX to)
+			  (VP purchase
+			      (NP  his 
+				   (ADJP own) 
+				   clothing
+				   or
+				   (ADJP other)
+				   necessities
+				   (SBAR which
+					 (S
+					  (NP you)
+					  (AUX are)
+					  (ADVP normally)
+					  (VP obligated
+					      (S (NP *)
+						 (AUX to)
+						 (VP furnish
+						     (NP T)
+						     (NP him))))))))))))
+	 ,
+	 and
+	 (SBAR  even
+		though
+		(S (NP you)
+		   (AUX may)
+		   (VP be
+		       (VP entitled
+			   (PP to
+			       (NP his services))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

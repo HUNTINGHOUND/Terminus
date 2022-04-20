@@ -1,0 +1,1976 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The thermal exchange
+      (PP of
+	  (NP chlorine))
+      (PP between
+	  (NP (NP A[fj])
+	      and
+	      (NP liquid A[fj]))))
+  (VP is
+      (ADJP  (ADVP readily)
+	     measurable
+	     (PP at
+		 (NP temperatures
+		     (PP in
+			 (NP the range
+			     (PP of
+				 (NP (NP 180-degrees)
+				     and
+				     (ADVP above))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The photochemical exchange)
+   (VP occurs
+       (PP with
+	   (NP a quantum yield
+	       (PP of
+		   (NP the order
+		       (PP of
+			   (NP unity))))))
+       (PP in
+	   (NP the liquid phase))
+       (PP at
+	   (NP 65-degrees)))
+   (S (NP *) 
+      (VP using
+	  (NP (NP light)
+	      (VP absorbed
+		  (ADVP only)
+		  (PP by
+		      (NP the A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the gas phase))
+   ,
+   (PP with
+       (NP (NP A[fj]
+	       (PP of
+		   (NP A[fj])))
+	   and
+	   (NP A[fj]
+	       (PP of
+		   (NP A[fj])))))
+   ,
+   (S (NP quantum yields
+	  (PP of
+	      (NP the order
+		  (PP of
+		      (NP A[fj])))))
+      (AUX have)
+      (VP been
+	  (VP observed
+		  
+	      (PP at
+		  (NP 85-degrees))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Despite
+       (NP extensive attempts
+	   (S (NP *)
+	      (AUX to)
+	      (VP obtain
+		  (NP  (ADJP highly
+			     pure) reagents)))))
+   ,
+   (S (NP serious difficulty)
+      (AUX was)
+      (VP experienced
+	  (PP in
+	      (S (NP *) 
+		 (VP obtaining
+		     (NP reproducible rates
+			 (PP of
+			     (NP reaction)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP appears
+       (ADJP possible))
+   (S-1 (NP *)
+	(AUX to)
+	(VP set
+	    (NP a
+		lower
+		limit
+		(PP of
+		    (NP (ADVP about)
+			A[fj])))
+	    (PP for
+		(NP the activation energy
+		    (PP of
+			(NP the abstraction
+			    (PP of
+				(NP a chlorine atom))
+			    (PP from
+				(NP a carbon tetrachloride molecule))
+			    (PP by
+				(NP a chlorine atom))))
+		    (S (NP *)
+		       (AUX to)
+		       (VP form
+			   (NP A[fj] radical))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The rate
+	  (PP of
+	      (NP the gas phase exchange reaction)))
+      (VP appears
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (ADJP proportional
+		       (PP to
+			   (NP the first power
+			       (PP of
+				   (NP the  absorbed light
+				       intensity)))))))))
+     (VP indicating
+	 (SBAR that
+	       (S (NP the radical intermediates)
+		  (AUX are)
+		  (VP removed
+						   
+		      (PP (PP (PP at
+				  (NP the walls))
+			      or
+			      (PP by
+				  (NP reaction
+				      (PP with
+					  (NP an
+					      impurity)))))
+			  (ADVP rather
+				(PP than
+				    (PP by
+					(NP 
+					 bimolecular radical
+					 combination reactions))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Introduction))
+(  
+ (S  
+  (ADVP Because
+	(PP of
+	    (NP the simplicity
+		(PP of
+		    (NP the molecules)))))
+  ,
+  (S  
+   (NP isotopic exchange reactions
+       (PP between
+	   (NP (NP elemental halogens)
+	       and
+	       (NP the (VP corresponding) carbon tetrahalides))))
+   (AUX would)
+   (VP appear
+       (S (NP *)
+	  (AUX to)
+	  (VP offer
+	      (NP  (ADJP particularly
+			 fruitful)
+		   possibilities
+		   (PP for
+		       (S (NP *) 
+			  (VP obtaining
+			      (NP 
+			       unambiguous basic kinetic
+			       data))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP It)
+    (AUX would)
+    (VP appear
+	(SBAR that
+	      (S (NP it
+		     (S-2 *pseudo-attach*))
+		 (AUX should)
+		 (VP be
+		     (ADJP possible))
+		 (S-2 (S (NP *)
+			 (AUX to)
+			 (VP determine
+			     (NP unique mechanisms
+				 (PP for
+				     (NP the (ADJP thermal and photochemical) reactions
+					 (PP in
+					     (NP  both
+						  the liquid and gas phases)))))))
+		      and
+		      (S (NP *)
+			 (AUX to)
+			 (VP determine
+			     (NP (NP values
+				     (PP for
+					 (NP activation energies
+					     (PP of
+						 (NP some
+						     (PP of
+							 (NP the intermediate reactions
+							     (PP of
+								 (NP (NP atoms)
+								     and
+								     (NP free radicals))))))))))
+				 ,
+				 (ADVP as
+				       well
+				       (PP as
+					   (NP information
+					       (PP on
+						   (NP the heat
+						       (PP of
+							   (NP dissociation))
+						       (PP of
+							   (NP the carbon-halogen bond)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The reaction
+	(PP of
+	    (NP chlorine))
+	(PP with
+	    (NP carbon tetrachloride)))
+    (VP seemed
+	(ADJP  particularly
+	       suited
+	       (PP for
+		   (NP such studies)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (AUX should)
+   (VP be
+       (ADJP possible))
+   (S-3 (NP *)
+	(AUX to)
+	(VP prepare
+	    (NP  (ADJP very
+		       pure) chlorine)
+	    (PP by
+		(NP (NP oxidation
+			(PP of
+			    (NP inorganic chlorides))
+			(PP on
+			    (NP a vacuum system)))
+		    (VP followed
+			(PP by
+			    (NP multiple distillation
+				(PP of
+				    (NP the liquid))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-4 *pseudo-attach*))
+   (AUX should)
+   (VP be
+       (ADJP possible))
+   (S-4 (NP *)
+	(AUX to)
+	(VP free
+	    (NP carbon tetrachloride)
+	    (PP of
+		(NP any
+		    (VP interfering)
+		    substances))
+	    (PP by
+		(NP (NP the usual purification methods)
+		    (VP followed
+			(PP by
+			    (NP prechlorination
+				(ADVP prior
+				      (PP to
+					  (NP addition
+					      (PP of
+						  (NP radioactive chlorine)))))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Furthermore)
+	 ,
+	 (S (NP the exchange)
+	    (AUX would)
+	    (NEG not)
+	    (VP be
+		(VP expected
+		     
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (ADJP sensitive
+				 (PP to
+				     (NP trace amounts
+					 (PP of
+					     (NP impurities)))))))))
+	    (SBAR because
+		  (S (NP it)
+		     (AUX would)
+		     (NEG not)
+		     (VP be
+			 (ADJP apt
+			       (S (NP *)
+				  (AUX to)
+				  (VP be
+				      (NP a chain reaction)))))
+		     (SBAR since
+			   (S (NP the activation energy
+				  (PP for
+				      (NP abstraction
+					  (PP of
+					      (NP chlorine))
+					  (PP by
+					      (NP a chlorine atom)))))
+			      (AUX would)
+			      (VP be
+				  (VP expected
+		     
+				      (S (NP *)
+					 (AUX to)
+					 (VP be
+					     (ADJP  too
+						    high)))))))))))
+     ;
+     ;
+     (S  (ADVP also)
+	 (S (NP it
+		(SBAR-5 *pseudo-attach*))
+	    (AUX would)
+	    (VP be
+		(VP expected))
+	    (SBAR-5 that
+		    (S (NP A[fj])
+		       (AUX would)
+		       (VP compete
+			   (ADVP very
+				 effectively)
+		       
+			   (PP with
+			       (NP any impurities)))
+		       (PP as
+			   (NP a scavenger
+			       (PP for
+				   (NP A[fj] radicals)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP  Contrary
+	  (PP to
+	      (NP these expectations)))
+   (S (NP we)
+      (AUX have)
+      (VP found
+	  (NP it
+	      (S-6 *pseudo-attach*))
+	  (ADJP impossible)
+	  (S-6 (NP *)
+	       (AUX to)
+	       (VP obtain
+		   (NP (NP the degree
+			   (PP of
+			       (NP reproducibility)))
+		       (SBAR 0
+			     (S (NP one)
+				(AUX would)
+				(VP wish 
+				    (NP T) ))))
+		   ,
+		   (PP  (ADVP even)
+			with
+			(NP extensive efforts
+			    (S (NP *)
+			       (AUX to)
+			       (VP prepare
+				   (NP  (ADJP especially
+					      pure) reagents))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX are)
+   (VP reporting
+       (NP these investigations)
+       (ADVP here)
+       (ADVP briefly))
+   (X (ADVP because
+	    (PP of
+		(NP their relevancy
+		    (PP to
+			(NP problems
+			    (PP of
+				(NP the study
+				    (PP of
+					(NP  (ADJP apparently
+						   simple)
+					     exchange reactions
+					     (PP of
+						 (NP chlorine)))))))))))
+      and
+      (SBAR because
+	    (S (NP the results)
+	       (VP furnish
+		   (NP some information
+		       (PP on
+			   (NP the activation energy
+			       (PP for
+				   (NP abstraction
+				       (PP of
+					   (NP chlorine atoms))
+				       (PP from
+					   (NP carbon tetrachloride))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Experimental reagents)
+ .)
+(  END_OF_TEXT_UNIT)
+( --
+  (S (NP Matheson
+	 (ADJP highest
+	       purity) tank chlorine)
+     (AUX was)
+     (VP passed
+	     
+	 (PP through
+	     (NP a tube
+		 (PP of
+		     (NP (VP resublimed)
+			 A[fj]))))
+	 (PP into
+	     (NP (NP an
+		     (VP evacuated)
+		     Pyrex system)
+		 (SBAR 
+		  (WHADVP where)
+		  (S (NP it)
+		     (AUX was)
+		     (VP condensed
+		     
+			 (PP with
+			     (NP liquid air)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (ADVP then)
+   (VP distilled
+        
+       (NP (PP at
+	       (ADJP least))
+	   three times)
+       (PP from
+	   (NP a trap
+	       (PP  at
+		    (NP  -
+			 78-degrees))))
+       (PP to
+	   (NP a liquid air trap)))
+   (PP with
+       (S (NP  (ADVP only)
+	       a
+	       small middle
+	       fraction)
+	  (AUX being)
+	  (VP retained)
+	  (PP in
+	      (NP each distillation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP purified) product)
+   (AUX was)
+   (VP stored
+       (PP at
+	   (NP  -
+		78-degrees)))
+   (PP in
+       (NP (NP a tube)
+	   (VP equipped
+	       (PP with
+		   (NP a break seal))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Of
+       (NP (NP several methods)
+	   (VP employed
+	       (PP for
+		   (S (NP *) 
+		      (VP tagging
+			  (NP chlorine)
+			  (PP with
+			      (NP radiochlorine))))))))
+   ,
+   (S (NP the exchange
+	  (PP of
+	      (NP inactive chlorine))
+	  (PP with
+	      (NP (VP tagged) aluminum chloride))
+	  (PP at
+	      (NP room temperature)))
+      (AUX was)
+      (VP found
+	      
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (NP the
+		     (ADJP  most satisfactory)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP prepare
+	    (NP the latter)))
+     ,
+     (S (NP silver chloride)
+	(AUX was)
+	(VP precipitated
+	        
+	    (PP from
+		(NP (NP a solution)
+		    (VP containing
+			(NP (NP A[fj])
+			    (VP obtained
+				(PP from
+				    (NP the Oak Ridge National Laboratory))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The silver chloride)
+   (AUX was)
+   (VP fused
+	     
+       (PP under
+	   (NP vacuum))
+       (PP in
+	   (NP the presence
+	       (PP of
+		   (NP aluminum chips))))
+       (PP with
+	   (NP the resultant product
+	       (PP of
+		   (NP (NP A[fj])
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX was)
+			   (VP sublimed
+		 
+			       (PP into
+				   (NP a flask))
+			       (PP on
+				   (NP the vacuum line)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (VP  Previously
+		purified)
+	   chlorine)
+       (AUX was)
+       (ADVP subsequently)
+       (VP admitted
+	   ))
+    and
+    (S (NP the exchange)
+       (AUX was)
+       (VP allowed
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP take
+		  (NP place))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The radiochlorine)
+   (AUX was)
+   (VP stored
+       (PP  at
+	    (NP  -
+		 78-degrees))
+       (PP in
+	   (NP (NP a tube)
+	       (VP equipped
+		   (PP with
+		       (NP a break seal)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Liter quantities
+      (PP of
+	  (NP Mallinckrodt
+	      ,
+	      low sulfur
+	      ,
+	      reagent grade carbon tetrachloride)))
+  (AUX were)
+  (VP (VP saturated
+	 
+	  (PP with
+	      (NP (NP A[fj]) and (NP A[fj]))))
+      and
+      (VP illuminated
+	  (PP for
+	      (NP (ADVP about)
+		  50 hours))
+	  (PP with
+	      (NP a 1000 watt tungsten lamp))
+	  (PP at
+	      (NP a distance
+		  (PP of
+		      (NP a few inches)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The mixture)
+      (AUX was)
+      (ADVP then)
+      (VP extracted
+        
+	  (PP (PP with
+		  (NP alkali))
+	      and
+	      (PP with
+		  (NP water)))))
+     (SBAR (VP following
+	       (WHNP which))
+	   (S
+	    (NP the carbon tetrachloride)
+	    (AUX was)
+	    (VP distilled
+	       
+		(PP on
+		    (NP a Vigreux column)))
+	    ,
+	    (S (NP a 25 % center cut)
+	       (AUX being)
+	       (VP retained)
+	       (SBAR
+		(WHNP which)
+		(S (NP T)
+		   (AUX was)
+		   (ADVP then)
+		   (VP degassed
+		 
+		       (PP under
+			   (NP vacuum))
+		       (PP in
+			   (NP the presence
+			       (PP of
+				   (NP A[fj])))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (VP Purified)
+	   inactive chlorine)
+       (AUX was)
+       (ADVP then)
+       (VP added
+	 
+	   (PP from
+	       (NP one
+		   (PP of
+		       (NP (NP the tubes)
+			   (VP described
+			       (ADVP above))))))))
+    and
+    (S (NP the mixture)
+       (VP (VP frozen
+	       (PRT out))
+	   and
+	   (VP sealed
+	       (PRT off)
+	       (PP in
+		   (NP (NP a flask)
+		       (VP equipped
+			   (PP with
+			       (NP a break seal)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This chlorine-carbon tetrachloride solution)
+      (AUX was)
+      (VP illuminated
+	     
+	  (PP for
+	      (NP a day))))
+     (SBAR (VP following
+	       (WHNP which))
+	   (S (S
+	       (NP the flask)
+	       (AUX was)
+	       (VP resealed
+	       
+		   (PP onto
+		       (NP a vacuum system))))
+	      and
+	      (S (NP the excess chlorine)
+		 (VP distilled
+		     (PRT off))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP required) amount
+       (PP of
+	   (NP carbon tetrachloride)))
+   (AUX was)
+   (VP distilled
+	     
+       (PP into
+	   (NP a series
+	       (PP of
+		   (NP reaction cells))))
+       (PP on
+	   (NP a manifold))
+       (PP on
+	   (NP a vacuum line))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The (VP desired) amounts
+	   (PP of
+	       (NP (NP inactive chlorine)
+		   and
+		   (NP radioactive chlorine))))
+       (AUX were)
+       (ADVP likewise)
+       (VP condensed
+	 
+	   (PP in
+	       (NP these cells))
+	   (PP on
+	       (NP the vacuum line))))
+    (SBAR (VP following
+	      (WHNP which))
+	  (S (S
+	      (NP they)
+	      (AUX were)
+	      (VP frozen
+	       
+		  (PRT down)))
+	     and
+	     (S (NP the manifold
+		    (PP as
+			(NP a whole)))
+		(AUX was)
+		(VP sealed
+	    
+		    (PRT off))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The contents
+	  (PP of
+	      (NP the manifold
+		  (PP for
+		      (NP liquid phase experiments)))))
+      (AUX were)
+      (ADVP then)
+      (VP (VP mixed
+        
+	      (PP by
+		  (S (NP *) 
+		     (VP shaking))))
+	  ,
+	  (VP redistributed
+	      (PP to
+		  (NP the reaction tubes)))
+	  ,
+	  (VP frozen
+	      (PRT down))))
+     ,
+     and
+     (S (NP each tube)
+	(AUX was)
+	(ADVP then)
+	(VP sealed
+	        
+	    (PRT off))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reactants
+       (PP for
+	   (NP the gas phase experiments)))
+   (AUX were)
+   (VP (ADVP first)
+       (VP frozen
+	   (PRT out)
+	   (PP in
+	       (NP (NP a side-arm)
+		   (VP attached
+		       (PP to
+			   (NP the manifold))))))
+       and
+       (ADVP then)
+       (VP allowed
+	   (S (NP *)
+	      (AUX to)
+	      (VP distil
+		  (ADVP slowly)
+		  (PP into
+		      (NP the manifold
+			  (PP of
+			      (NP (VP pre-cooled) reaction cells))))))
+	   (PP before
+	       (S (NP *) 
+		  (VP sealing
+		      (PRT off)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This method)
+   (PP in
+       (ADJP general))
+   (VP solved
+       (NP the problem
+	   (PP of
+	       (S (NP *) 
+		  (VP obtaining
+		      (NP  (ADJP fairly
+				 equal) concentrations
+				 (PP of
+				     (NP reactants)))
+		      (PP in
+			  (NP each
+			      (PP of
+				  (NP the six cells
+				      (PP from
+					  (NP a set))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Reaction conditions and analysis)
+ .)
+(  END_OF_TEXT_UNIT)
+( --
+  (S (NP The samples
+	 (PP for
+	     (NP liquid phase thermal reaction studies)))
+     (AUX were)
+     (VP prepared
+	     
+	 (PP in
+	     (NP (NP Pyrex capillary tubing)
+		 (X (NP 2.5 mm. i.d.)
+		    and
+		    (ADJP (NP (ADVP about)
+			      15 cm.)
+			  long))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP a few experiments))
+     (S
+      (NP the tubes)
+      (AUX were)
+      (VP made
+	     
+	  (PP from
+	      (NP standard
+		  6 mm. i.d
+		  .
+		  Pyrex tubing
+		  (PP of
+		      (NP 1 mm. wall thickness)))))))
+  .)  
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S
+   (NP  Both
+	types
+	(PP of
+	    (NP tube)))
+   (VP withstood
+       (NP (NP the pressure
+	       (PP of
+		   (NP  (ADVP approximately)
+			20 atmospheres)))
+	   (VP exerted
+	       (PP by
+		   (NP the carbon tetrachloride))
+	       (PP at
+		   (NP 220-degrees))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The photochemical reaction cells)
+   (VP consisted
+       (PP of
+	   (NP (NP 10 mm. i.d
+		   .
+		   Pyrex tubing)
+	       ,
+	       (ADJP (NP 5.5 cm.)
+		     long)
+	       ,)))
+   (S (NP diffraction effects)
+      (AUX being)
+      (VP minimized
+	  (PP by
+	      (NP the fact
+		  (SBAR that
+			(S (NP the light)
+			   (VP passed
+			       (PP through
+				   (NP  only
+					(NP  liquid-glass interfaces)
+					and
+					(NEG not)
+					(NP gas-glass interfaces)))))))))))
+  .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP These cells)
+       (ADVP-1 *pseudo-attach*))
+   (AUX were)
+   (VP used
+       )
+   (ADVP-1 rather
+	   (PP than
+	       (NP 
+		(ADJP square)
+		Pyrex tubing)))
+   (ADVP  because
+	  (PP of
+	      (NP the tendency
+		  (PP of
+		      (NP the latter))
+		  (S (NP *)
+		     (AUX to)
+		     (VP shatter)
+		     (SBAR (WHADVP when)
+			   (S (NP *) 
+			      (VP thawing
+				  (NP (VP frozen)
+				      carbon tetrachloride)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The round cells)
+   (AUX were)
+   (VP  (ADVP reproducibly)
+	positioned
+	     
+	(PP in
+	    (NP (NP the light beam)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP entered
+			(NP the thermostated mineral oil-bath)
+			(PP through
+			    (NP a window)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Two types
+	   (PP of
+	       (NP light source)))
+       (NP-7 *pseudo-attach*))
+   (AUX were)
+   (VP used)
+   ,
+   (NP-7 (NP a thousand watt projection lamp)
+	 and
+	 (NP an AH6 high pressure mercury arc)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The light)
+    (AUX was)
+    (VP filtered
+		 
+	(PP by
+	    (NP the soft glass window
+		(PP of
+		    (NP the thermostat))))
+	(S   (NP *)
+	     (ADVP thus)
+	     (VP ensuring
+		 (SBAR that
+		       (S (NP  (NP only light)
+			       (VP absorbed
+				   (PP (PP by
+					   (NP the chlorine))
+				       and
+				       (NEG not)
+				       (PP by
+					   (NP the carbon tetrachloride)))))
+			  (AUX could)
+			  (VP enter
+			      (NP the reaction cell))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Relative incident light intensities)
+   (AUX were)
+   (VP measured
+	     
+       (PP with
+	   (NP a thermopile potentiometer system))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Changes
+       (PP of
+	   (NP intensity))
+       (PP on
+	   (NP the cell)))
+   (AUX were)
+   (VP achieved
+	     
+       (PP (PP by
+	       (NP use
+		   (PP of
+		       (NP a wire screen))))
+	   and
+	   (PP by
+	       (S (NP *) 
+		  (VP varying
+		      (NP the distance
+			  (PP of
+			      (NP the light source))
+			  (PP from
+			      (NP the cell)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (VP Following
+	  (NP reaction))
+      (S
+       (NP the cells)
+       (AUX were)
+       (VP (VP  scratched
+		(PP with
+		    (NP a file)))
+	   and
+	   (VP opened
+	       (PP under
+		   (NP a 20 % aqueous sodium iodide solution))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Carrier A[fj])
+      (AUX was)
+      (VP added
+	  ))
+   and
+   (S (S (NP the (ADJP aqueous and organic) phases)
+	 (AUX were)
+	 (VP separated
+	     ))
+      *LRB*
+      (S (NP (NP cells)
+	     (VP containing
+		 (NP gaseous reactants)))
+	 (AUX were)
+	 (VP immersed
+	     (PP in
+		 (NP liquid air)))
+	 (PP before
+	     (S (NP *) 
+		(VP opening
+		    (PP under
+			(NP sodium iodide))))))
+      *RRB*))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP titration
+	   (PP of
+	       (NP the (VP liberated) A[fj]))
+	   (PP with
+	       (NP A[fj]))))
+   ,
+   (S (NP aliquots
+	  (PP (PP of
+		  (NP the
+		      (ADJP aqueous)))
+	      and
+	      (PP of
+		  (NP the organic phase))))
+      (AUX were)
+      (VP counted
+	      
+	  (PP in
+	      (NP a solution-type Geiger tube)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the liquid phase runs))
+   (S (NP the amount
+	  (PP of
+	      (NP carbon tetrachloride))
+	  (PP in
+	      (NP each reaction tube)))
+      (AUX was)
+      (VP determined
+	   
+	  (PP by
+	      (S (NP *) 
+		 (VP weighing
+		     (NP the tube))
+		 (PP before
+		     (S (NP *) 
+			(VP opening
+			    and
+			    weighing
+			    (NP the fragments))
+			(PP after
+			    (S (NP *) 
+			       (VP emptying))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The fraction
+       (PP of
+	   (NP exchange)))
+   (AUX was)
+   (VP determined
+	     
+       (PP as
+	   (NP the ratio
+	       (PP of
+		   (NP (NP the counts
+			   minute)
+		       (VP observed
+			   (PP in
+			       (NP the carbon tetrachloride)))))
+	       (PP to
+		   (NP (NP the counts
+			   minute)
+		       (VP calculated
+			   (PP for
+			       (NP the carbon tetrachloride fractions
+				   (PP for
+				       (NP equilibrium distribution
+					   (PP of
+					       (NP the activity
+						   (PP between
+						       (NP (NP the chlorine) and (NP carbon tetrachloride)))))))))))))))
+   ,
+   (S (NP (VP  (ADVP empirically)
+	       determined)
+	  correction)
+      (AUX being)
+      (VP made
+	  (PP for
+	      (NP the difference
+		  (PP in
+		      (NP  counting
+			   efficiency
+			   (PP of
+			       (NP A[fj]))
+			   (PP in
+			       (NP  (NP A[fj]) and  (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (SINV (VP Results)
+       (NP the thermal reaction))
+ .)
+(  END_OF_TEXT_UNIT)
+( --
+  (S (PP In
+	 (S (NP *) 
+	    (VP studying
+		(NP the liquid phase thermal reaction))))
+     ,
+     (S (NP some 70 tubes
+	    (PP from
+		(NP 12 different manifold fillings)))
+	(AUX were)
+	(VP (VP prepared)
+	    and
+	    (VP analyzed))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Experiments)
+   (AUX were)
+   (VP done
+	     
+       (PP at
+	   (NP 180 
+	       ,
+	       200
+	       ,
+	       210
+	       ,
+	       and
+	       220-degrees))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (VP Following
+       (NP observation
+	   (PP of
+	       (NP the fact
+		   (SBAR that
+			 (S (NP the reaction rates
+				(PP of
+				    (NP (NP  (ADJP supposedly
+						   identical) reaction mixtures)
+					(VP (VP prepared
+						(PP on
+						    (NP the same filling manifold)))
+					    and
+					    (VP exposed
+						(PP under
+						    (NP identical conditions)))))))
+			    (ADVP often)
+			    (VP differed
+				      
+				(PP by
+				    (NP several hundred
+					(PP per
+					    (NP cent)))))))))))
+   ,
+   (S (NP a systematic series
+	  (PP of
+	      (NP experiments)))
+      (AUX was)
+      (VP undertaken
+	  )
+      (S (NP *)
+	 (AUX to)
+	 (VP see
+	     (SBAR whether
+		   (S (NP the difficulty)
+		      (AUX could)
+		      (VP be
+			  (VP ascribed
+				      
+			      (PP (PP to
+				      (NP the method
+					  (PP of
+					      (S (NP *) 
+						 (VP preparing
+						     (NP the chlorine))))))
+				  ,
+				  (PP to
+				      (NP the effects
+					  (PP of
+					      (NP (NP oxygen) or (NP moisture)))))
+				  or
+				  (PP to
+				      (NP the effect
+					  (PP of
+					      (NP (NP surface
+						      (PP to
+							  (NP volume)))
+						  ratio
+						  (PP in
+						      (NP the reaction tubes)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition
+	   (PP to
+	       (NP (NP the method)
+		   (VP described
+		       (PP in
+			   (NP the section
+			       (ADVP above))))))))
+   ,
+   (S (NP (NP chlorine) and (NP radiochlorine))
+      (AUX were)
+      (VP prepared
+	     
+	  (PP (PP by
+		  (NP the electrolysis
+		      (PP of
+			  (NP a A[fj] eutectic))
+		      (PP on
+			  (NP the vacuum line))))
+	      ,
+	      and
+	      (PP by
+		  (NP exchange
+		      (PP of
+			  (NP A[fj]))
+		      (PP with
+			  (NP molten A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Calcium hydride)
+   (AUX was)
+   (VP substituted
+	     
+       (PP for
+	   (NP A[fj]))
+       (PP as
+	   (NP a drying agent
+	       (PP for
+		   (NP carbon tetrachloride))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP No correlation
+      (PP between
+	  (NP (NP these variables)
+	      and
+	      (NP the irreproducibility
+		  (PP of
+		      (NP the results))))))
+  (AUX was)
+  (VP found
+      ))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The reaction rates)
+	(VP observed
+	    (PP at
+		(NP 200-degrees))))
+    (VP ranged
+	(PP (PP from
+		(S (NP A[fj]
+		       (PP of
+			   (NP the chlorine)))
+		   (VP exchanged
+		       (PP per
+			   (NP hour)))))
+	    (PP to
+		(S (NP 0.7)
+		   (VP exchanged
+		       (PP per
+			   (NP hour))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP 
+	  most
+	  cases))
+     (S
+      (NP the chlorine concentration)
+      (VP was
+	  (NP (ADVP about)
+	      A[fj]))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP Sets
+      (PP of
+	  (NP (NP reaction tubes)
+	      (VP (VP containing
+		      (NP 0.2
+			  (PP of
+			      (NP an atmosphere
+				  (PP of
+				      (NP (VP added)
+					  oxygen)))))
+		      (PP in
+			  (NP one case)))
+		  and
+		  (X  
+		   (NP (VP added)
+		       moisture)
+		   (PP in
+		       (NP another))))))
+      ,)
+  (NP both)
+  (VP gave
+      (NP reaction rates
+	  (PP in
+	      (NP the range
+		  (PP of
+		      (NP 0.1
+			  (PP to
+			      (NP 0.4))
+			  (PP of
+			      (NP (NP the chlorine)
+				  (VP exchanged
+				      (PP per
+					  (NP hour))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No detectable reaction)
+   (AUX was)
+   (VP found
+	     
+       (PP at
+	   (NP room temperature))
+       (PP for
+	   (NP (NP reaction mixtures)
+	       (VP allowed
+		   (S (NP *)
+		      (AUX to)
+		      (VP stand)
+		      (PP up
+			  (PP to
+			      (NP 5 hours)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The liquid phase photochemical reaction)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The liquid phase photochemical exchange
+       (PP between
+	   (NP (NP chlorine) and (NP carbon tetrachloride))))
+   (VP was
+       (ADJP (ADJP  more
+		    reproducible
+		    (PP than
+			(NP the thermal exchange)))
+	     ,
+	     (X  although
+		 (ADJP (ADVP still)
+		       erratic)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The improvement)
+   (VP was
+       (ADJP  most noticeable)
+       (PP in
+	   (NP the
+	       greater
+	       consistency
+	       (PP among
+		   (NP (NP reaction cells)
+		       (VP prepared
+			   (PP as
+			       (NP a group))
+			   (PP on
+			       (NP the same manifold)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADJP Rather
+	       large)
+	 differences
+	 (PP-8 *pseudo-attach*))
+    (AUX were)
+    (ADVP still)
+    (VP found)
+    (PP-8 between
+	(NP reaction cells
+	    (PP from
+		(NP different manifold fillings)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some 80 reaction tubes
+       (PP from
+	   (NP 13 manifold fillings)))
+   (AUX were)
+   (VP illuminated
+	     
+       (PP in
+	   (NP the temperature range
+	       (PP from
+		   (NP 40
+		       (PP to
+			   (NP 85-degrees)))))))
+   (PP in
+       (NP a
+	   further
+	   endeavor
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP determine
+		     (NP the cause
+			 (PP of
+			     (NP the irreproducibility)))))
+	      and
+	      (S (NP *)
+		 (AUX to)
+		 (VP obtain
+		     (NP information
+			 (PP on
+			     (NP (NP the activation energy)
+				 and
+				 (NP the effect
+				     (PP of
+					 (NP light intensity))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP all cases))
+     (S
+      (NP there)
+      (VP was
+	  (NP  (ADJP readily
+		     measurable) exchange))
+      (PP after
+	  (NP (ADJP  as
+		     little
+		     (PP as
+			 (NP one hour
+			     (PP of
+				 (NP illumination)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (S (NP *) 
+	  (VP comparing
+	      (NP (NP reaction cells)
+		  (VP sealed
+		      (PP from
+			  (NP (NP the same manifold temperature dependency)
+			      (ADJP corresponding
+				    (PP to
+					(NP (NP activation energies)
+					    (VP ranging
+						(PP from
+						    (NP 11
+							(PP to
+							    (NP 18)))))))))))))))
+   (S (NP A[fj])
+      (AUX was)
+      (VP observed)
+      (SBAR while
+	    (S (NP dependence
+		   (PP on
+		       (NP the first power
+			   (PP of
+			       (NP the light intensity)))))
+	       (VP seemed
+		 
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (VP indicated
+	       
+			      (PP in
+				  (NP 
+				   most
+				   cases))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-9 *pseudo-attach*))
+   (VP was
+       (ADJP possible))
+   (S-9 (NP *)
+	(AUX to)
+	(VP make
+	    (NP estimates
+		(PP of
+		    (NP the quantum yield)))
+	    (PP by
+		(S (NP *) 
+		   (VP (VP observing
+			   (NP the extent
+			       (PP of
+				   (NP reduction
+				       (PP of
+					   (NP (NP a uranyl oxalate actinometer solution)
+					       (VP illuminated
+						   (PP for
+						       (NP a (ADJP known) time))
+						   (PP in
+						       (NP a typical reaction cell)))))))))
+		       and
+		       (VP making
+			   (NP (NP appropriate conversions)
+			       (VP based
+				   (PP on
+				       (NP the differences
+					   (PP in
+					       (NP the absorption spectra
+						   (PP (PP of
+							   (NP uranyl oxalate))
+						       and
+						       (PP of
+							   (NP chlorine))))))))))
+		       ,
+		       and
+		       (VP considering
+			   (NP the spectral distribution
+			       (PP of
+				   (NP the light source))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These estimates)
+   (VP indicated
+       (SBAR that
+	     (S (NP the quantum yield
+		    (PP for
+			(NP the exchange
+			    (PP of
+				(NP chlorine))
+			    (PP with
+				(NP liquid carbon tetrachloride))
+			    (PP at
+				(NP 65-degrees)))))
+		(VP is
+		    (PP of
+			(NP the order
+			    (PP of
+				(NP magnitude))
+			    (PP of
+				(NP unity)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP typical reaction cells)
+	     (SBAR (WHPP to
+			 (WHNP which))
+		   (S (NP 0.3
+			  (PP of
+			      (NP an atmosphere
+				  (PP of
+				      (NP oxygen)))))
+		      (AUX had)
+		      (VP been
+			  (VP added
+			      )))))
+	 (AUX were)
+	 (VP illuminated
+	     )))
+     ,
+     (S (NP (NP chlorine) and (NP phosgene))
+	(AUX were)
+	(VP produced)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Exchange)
+   (AUX was)
+   (ADVP also)
+   (VP observed
+        
+       (PP in
+	   (NP (NP these cells)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP had
+		       (NP chlorine)
+		       (ADJP present
+			     (PP at
+				 (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The photochemical exchange
+      (PP in
+	  (NP the gas phase)))
+  .)
+(  END_OF_TEXT_UNIT)
+( --
+  (S (SBAR Although
+	   (S (NP there)
+	      (VP was
+		  (NP (NP some variation
+			  (PP in
+			      (NP results)))
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (AUX must)
+			  (VP be
+			      (VP attributed
+				  (PP  either
+				       (PP to
+					   (NP trace impurities))
+				       or
+				       (PP to
+					   (NP variation
+					       (PP in
+						   (NP wall effects)))))))))))))
+     ,
+     (S (NP the photochemical exchange
+	    (PP in
+		(NP the gas phase)))
+	(VP was
+	    (ADJP  sufficiently
+		   reproducible
+		   (SBAR  so
+			  that
+			  (S (NP it
+				 (S-10 *pseudo-attach*))
+			     (VP seemed
+				 (ADJP meaningful))
+			     (S-10 (NP *)
+				   (AUX to)
+				   (VP compare
+				       (NP the reaction rates
+					   (PP in
+					       (NP different series
+						   (PP of
+						       (NP reaction
+							   tubes))))))
+				   (PP for
+				       (NP the purpose
+					   (PP of
+					       (S (NP *) 
+						  (VP obtaining
+						      (NP information
+							  (PP on
+							      (NP the effect
+								  (PP (PP of
+									  (NP chlorine concentration))
+								      and
+								      (PP of
+									  (NP carbon tetrachloride concentration)))
+								  (PP on
+								      (NP the reaction rate)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Data
+	   (PP on
+	       (NP such comparisons)))
+       (ADVP together
+	     (PP with
+		 (NP data
+		     (PP on
+			 (NP the effect
+			     (PP of
+				 (NP light intensity))))))))
+   (AUX are)
+   (VP given
+        
+       (PP in
+	   (NP Table 1))))
+  .
+  ,)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP series 1))
+  ,
+  (S (NP the relative light intensity)
+     (AUX was)
+     (VP varied
+	     
+	 (PP by
+	     (S (NP *) 
+		(VP varying
+		    (NP the distance
+			(PP of
+			    (NP the lamp))
+			(PP from
+			    (NP the reaction cell)))
+		    (PP over
+			(NP (NP the range)
+			    (NP (PP (PP from
+					(NP 14.7))
+				    (PP to
+					(NP 29.2)))
+				cm .)))))))))
+ .)
+( (S
+   (NP The last column)
+   (VP shows
+       (NP (NP (NP the rate
+		   (PP of
+		       (NP exchange)))
+	       (SBAR (WHNP that)
+		     (S (NP T)  
+			(AUX would)
+			(VP have
+			    (VP been
+				(VP observed
+			    
+				    (PP at
+					(NP (NP a relative intensity
+						(PP of
+						    (NP (NP 4)
+							*LRB*
+							(NP 14.7 cm. distance)
+							*RRB*)))))))))))
+	   (VP calculated
+	       (PP on
+		   (NP the assumptions
+		       (SBAR (SBAR that
+				   (S (NP the incident light intensity)
+				      (VP is
+					  (ADJP  inversely
+						 proportional
+						 (PP to
+						     (NP the square
+							 (PP of
+							     (NP the distance
+								 (PP of
+								     (NP the lamp))
+								 (PP from
+								     (NP the cell))))))))))
+			     and
+			     (SBAR that
+				   (S (NP the rate)
+				      (VP is
+					  (ADJP  directly
+						 proportional
+						 (PP to
+						     (NP the incident light intensity)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Direct proportionality
+       (PP of
+	   (NP the rate))
+       (PP to
+	   (NP the incident intensity)))
+   (AUX has)
+   (ADVP also)
+   (VP been
+       (VP assumed))
+   (PP in
+       (S (NP *) 
+	  (VP obtaining
+	      (NP the value
+		  (PP in
+		      (NP the last column))
+		  (PP for
+		      (NP (NP the fourth sample
+			      (PP of
+				  (NP series 2)))
+			  ,
+			  (SBAR 
+			   (WHADVP where)
+			   (S (NP the light intensity)
+			      (AUX was)
+			      (VP reduced
+	        
+				  (PP by
+				      (NP use
+					  (PP of
+					      (NP a screen))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

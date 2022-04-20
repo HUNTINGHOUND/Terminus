@@ -1,0 +1,2133 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The Baltimore
+      and
+      Ohio Railroad)
+  (VP announced
+      (NP yesterday)
+      (SBAR 0
+	    (S (NP it)
+	       (AUX would)
+	       (VP reduce
+		   (NP the total amount
+		       (PP of
+			   (NP its payroll)))
+		   (PP by
+		       (NP 10
+			   (PP per
+			       (NP cent)))))
+	       (PP through
+		   (NP  (NP (NP salary cuts)
+			    and (NP lay-offs))
+			(ADJP effective
+			      (PP at
+				  (NP 12:01 A.M.))
+			      (NP  next
+				   Saturday))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       current monthly
+       payroll)
+   (VP comes
+       (PP to
+	   (NP (ADVP about)
+	       $ 15,000,000))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Howard E. Simpson)
+      ,
+      (NP 
+       (NP the railroad)
+       's president)
+      ,)
+  (VP said
+      ,
+      ``
+      (S  
+       (NP (NP A drastic decline
+	       (PP in
+		   (NP freight
+		       loading)))
+	   (ADVP due
+		 (PP (ADVP principally)
+		     to
+		     (NP the severe slump
+			 (PP in
+			     (NP the movement
+				 (PP of
+				     (NP heavy goods))))))))
+       (AUX has)
+       (VP necessitated
+	   (NP this regrettable action)))
+      ''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reduction
+       (PP in
+	   (NP expenses)))
+   (AUX will)
+   (VP affect
+       (NP employees
+	   (PP in
+	       (NP (NP the thirteen states)
+		   (SBAR (WHPP in
+			       (WHNP which))
+			 (S (NP  the B.
+				 &
+				 O.)
+			    (VP operates))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (NP (NP Salary cut) and (NP lay-offs))
+ )
+( (S (NP It)
+     (AUX will)
+     (VP be
+	 (VP accomplished
+	     (PP in
+		 (NP (NP two ways)
+		     :
+		     (NP (NP 1)
+			 (NP A flat reduction
+			     (PP of
+				 (NP 10
+				     (PP per
+					 (NP cent))))
+			     (PP in
+				 (NP the salary
+				     (PP of
+					 (NP (NP all officers
+						 ,
+						 supervisors
+						 and
+						 other employees)
+					     (VP (NEG not)
+						 belonging
+						 (PP to
+						     (NP unions))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (ADVP about)
+	   3,325 officers and employees)
+       (PP in
+	   (NP this class))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 2)
+       (NP Sufficient lay-offs
+	   (PP of
+	       (NP union employees))
+	   (S (NP *)
+	      (AUX to)
+	      (VP bring
+		  (PP about
+		      (NP a (NP 10
+				(PP per 
+				    (NP cent )))
+			  cut
+			  (PP in
+			      (NP the union payroll expense))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (S
+       (SBAR  Since
+	      (S (NP the railroad)
+		 (AUX can)
+		 (NEG not)
+		 (VP reduce
+		     (NP the salary
+			 (PP of
+			     (NP individual union members
+				 (PP under
+				     (NP contract))))))))
+       ,
+       (S (NP it)
+	  (AUX must)
+	  (VP accomplish
+	      (NP its payroll reduction)
+	      (PP by
+		  (S (NP *) 
+		     (VP placing
+			 (NP some
+			     (PP of
+				 (NP the men)))
+			 (PP on
+			     (NP furlough))))))))
+      ,
+      (S (NP  a B.
+	      &
+	      O. spokesman)
+	 (VP said)))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Those union members)
+       (VP kept
+	   (PP on
+	       (NP their jobs))))
+   ,
+   (ADVP therefore)
+   ,
+   (AUX will)
+   (NEG not)
+   (VP take
+       (NP a cut
+	   (PP in
+	       (NP their wages)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The spokesman)
+    (VP said
+	(SBAR 0
+	      (S (NP (NP the number)
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP furloughed
+				))))
+		 (AUX can)
+		 (NEG not)
+		 (VP be
+		     (VP estimated
+			 ))
+		 (SBAR since
+		       (S (NP the lay-offs)
+			  (AUX must)
+			  (VP be
+			      (VP carried
+			 
+				  (PRT out)
+				  (PP in
+				      (NP each area))))
+			  (VP depending
+			      (PP on
+				  (SBAR 
+				   (WHNP what
+					 men)
+				   (S  (NP T)
+				       (AUX are)
+	      
+				       (VP   (ADVP most)
+					     needed
+					     (PP on
+						 (NP the job)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A thug)
+   (VP struck
+       (NP a cab driver)
+       (PP in
+	   (NP the face))
+       (PP with
+	   (NP a pistol)))
+   (NP last night)
+   (PP after
+       (S (NP *) 
+	  (VP robbing
+	      (NP him)
+	      (PP of
+		  (NP $ 18)))))
+   (PP at
+       (NP  Franklin
+	    and
+	    Mount Streets)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The victim)
+      ,
+      (NP Norman B. Wiley)
+      ,
+      (NP 38)
+      ,
+      (PP of
+	  (NP the 900 block
+	      North Charles Street))
+      ,)
+  (AUX was)
+  (VP treated
+	 
+      (PP for
+	  (NP cuts)))
+  (PP at
+      (NP Franklin Square Hospital))
+  (PP after
+      (NP the robbery)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The driver)
+   (VP told
+       (NP police)
+       (SBAR 0
+	     (S (NP he)
+		(VP followed)
+		(SBAR  as
+		       (S (NP the Negro man)
+			  (VP got
+			      (PP out
+				  (PP of
+				      (NP the cab)))
+			      (PP with
+				  (NP his money)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The victim)
+   (AUX was)
+   (VP beaten
+       )
+   (SBAR 
+    (WHADVP when)
+    (S (NP he)
+       (VP attempted
+	   (S (NP *)
+	      (AUX to)
+	      (VP stop
+		  (NP the bandit)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP said
+	(SBAR 0
+	      (S (NP (NP the assailant)
+		     ,
+		     (SBAR 
+		      (WHNP who)
+		      (S (NP T)
+			 (VP was
+			     (ADJP armed
+				   (PP with
+				       (NP a automatic))))))
+		     ,)
+		 (VP entered
+		     (NP the taxi)
+		     (PP at
+			 (NP  (NP Pennsylvania Avenue)
+			      and
+			      (NP Gold Street))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP another attack))
+   ,
+   (S  
+    (NP (NP Samuel Verstandig)
+	,
+	(NP 41)
+	,
+	(NP proprietor
+	    (PP of
+		(NP a food store
+		    (PP in
+			(NP the 2100 block
+			    Aiken Street)))))
+	,)
+    (VP told
+	(NP police)
+	(SBAR 0
+	      (S (NP  two
+		      Negroes)
+		 (VP (VP assaulted
+			 (NP him)
+			 (PP in
+			     (NP his store)))
+		     and
+		     (VP stole
+			 (NP $ 150)
+			 (PP from
+			     (NP the cash register))
+			 (PP after
+			     (S (NP *) 
+				(VP  choking
+				     and
+				     beating
+				     (NP him)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (S
+	 (NP A baby)
+	 (AUX was)
+	 (VP burned
+	   
+	     (PP to
+		 (NP death))))
+	and
+	(S (NP two other children)
+	   (AUX were)
+	   (VP  (ADVP seriously)
+		injured)))
+     (NP last night)
+     (PP in
+	 (NP (NP a fire)
+	     (SBAR 
+	      (WHNP which)
+	      (S (NP T)
+		 (VP damaged
+		     (NP their
+			 (ADJP one-room)
+			 Anne Arundel county home)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The victim)
+      (NP Darnell Somerville)
+      ,
+      (NP Negro)
+      ,
+      (NP 1)
+      ,)
+  (AUX was)
+  (VP pronounced
+      (ADJP dead
+	    (PP on
+		(NP arrival))))
+  (PP at
+      (NP Anne Arundel General Hospital
+	  (PP in
+	      (NP Annapolis)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP His sister and brother)
+      ,
+      (NP (NP (NP Marie Louise)
+	      ,
+	      (NP 3))
+	  ,
+	  and
+	  (NP (NP John Raymond
+		  ,
+		  Jr.)
+	      (NP  22 months)))
+      ,)
+  (AUX were)
+  (VP admitted
+	 
+      (PP to
+	  (NP the hospital))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The girl)
+   (VP was
+       (PP in
+	   (NP critical condition))
+       (PP with
+	   (NP burns
+	       (PP over
+		   (NP 90
+		       per
+		       cent
+		       (PP of
+			   (NP her body))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (X (NP Boy)
+     (PP in
+	 (NP fair condition)))
+  )
+( (S
+   (NP The boy)
+   (VP received
+       (NP  second-degree burns
+	    (PP of
+		(NP the face
+		    ,
+		    neck and back)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His condition)
+   (AUX was)
+   (VP reported
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP fair)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Police)
+    (VP said
+	(SBAR 0
+	      (S (NP (NP 
+		      (NP the children)
+		      's mother)
+		     ,
+		     (NP Mrs. Eleanor Somerville)
+		     ,)
+		 (AUX was)
+		 (VP visiting
+		     (NP next door))
+		 (SBAR 
+		  (WHADVP when)
+		  (S (NP the fire)
+		     (VP occurred)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The house)
+      (VP is
+	  (PP on
+	      (NP Old Annapolis road))
+	  (ADVP (NP a mile)
+		south
+		(PP of
+		    (NP Severna Park)))
+	  ,
+	  (PP at
+	      (NP Jones Station))))
+     ,
+     (S (NP police)
+	(VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Annapolis)
+     ,
+     (NP Jan. 7))
+ --)
+(
+ (S (NP The Anne Arundel county school superintendent)
+    (AUX has)
+    (VP asked
+	(SBAR that
+	      (S (NP the Board
+		     (PP of
+			 (NP Education)))
+		 (VP return
+		     (PP to
+			 (NP the practice
+			     (PP of
+				 (S (NP *) 
+				    (VP recording
+					(NP its proceedings)
+					(ADVP mechanically))
+				    (SBAR  so
+					   that
+					   (S (NP there)
+					      (AUX will)
+					      (VP be
+						  (NP no
+						      (ADJP more)
+						      question
+						      (PP  about
+							   (SBAR (WHNP who)
+								 (S (NP T)  
+								    (VP said
+									(WHNP what))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The proposal)
+    (AUX was)
+    (VP made
+		 
+	(PP by
+	    (NP Dr. David S. Jenkins)))
+    (PP after
+	(S (NP (NP he)
+	       and
+	       (NP (NP Mrs. D. Ellwood Williams
+		       ,
+		       Jr.)
+		   ,
+		   (NP a board member
+		       and
+		       long-time critic
+		       of
+		       the superintendent)
+		   ,))
+	   (VP argued
+	       (PP for
+		   (NP (ADVP about)
+		       fifteen minutes)))
+	   (PP at
+	       (NP 
+		(NP this week)
+		's meeting)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The disagreement)
+   (VP was
+       (PP  over
+	    (SBAR (SBAR (WHNP what)
+			(S (NP Dr. Jenkins)
+			   (AUX had)
+			   (VP said
+			       (NP T) )
+			   (PP at
+			       (NP a previous session))))
+		  and
+		  (SBAR 
+		   (WHADVP how)
+		   (S (NP his remarks)
+		      (VP appeared)
+		      (PP in
+			  (NP (NP the minutes)
+			      (VP presented
+				  (PP at
+				      (NP the following meeting)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (VP Cites
+     (NP discrepancies))
+  )   
+(  
+ (S (NP Mrs. Williams)
+    (VP had
+	(NP (NP a list)
+	    (SBAR (WHNP which
+			(S (NP she)
+			   (VP said
+			       (SBAR 0
+				     (S (NP T)
+					(VP contained
+					    (NP (NP (ADVP about)
+						    nine
+						    or ten )
+						discrepancies
+						(PP between
+						    (NP (NP her memory
+							    (PP of
+								(NP 
+								 (NP Dr. Jenkins)
+								 's
+								 conversation)))
+							and
+							(SBAR 
+							 (WHADVP how)
+							 (S (NP they)
+							    (AUX were)
+							    (VP written
+				      
+								(PRT up)
+								(PP for
+								    (NP 
+								     (NP the board)
+								     's
+								     approval))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP hate
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (NP these things)
+		    (VP come
+			(PRT up)
+			(ADVP again and again))))))
+      ''
+      ,
+      (S (NP Dr. Jenkins)
+	 (VP commented)
+	 (SBAR  as
+		(S (NP he)
+		   (VP made
+		       (NP his suggestion))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP These)
+      (VP are
+	  (NP 
+	   (NP the board)
+	   's minutes)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX 'll)
+   (VP write
+       (SBAR (WHNP what)
+	     (S
+	      (NP you)
+	      (VP tell
+		  (NP me)
+		  (AUX to))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP a number
+	     (PP of
+		 (NP years))))
+     (S
+      (NP the board)
+      (VP (VP used
+	      (NP a machine)
+	      (S (NP *)
+		 (AUX to)
+		 (VP keep
+		     (NP a permanent record))))
+	  but
+	  (VP abandoned
+	      (NP the practice)
+	      (ADVP  
+	       (NP (ADVP about)
+		   two years)
+	       ago)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-1 *pseudo-attach*))
+    (VP was
+	(NP (ADVP about)
+	    that time))
+    ,
+    (S (NP a board member)
+       (VP said)
+       (ADVP later))
+    ,
+    (SBAR-1 that
+	  (S (NP (NP Dr. Thomas G. Pullen
+		     ,
+		     Jr.)
+		 ,
+		 (NP State superintendent
+		     (PP of
+			 (NP schools)))
+		 ,)
+	     (VP told
+		 (NP (NP Dr. Jenkins)
+		     and
+		     (NP a number
+			 (PP of
+			     (NP other education officials))))
+		 (SBAR that
+		       (S (NP he)
+			  (AUX would)
+			  (NEG not)
+			  (VP talk
+			      (PP to
+				  (NP them))
+			      (PP with
+				  (S (NP a recording machine)
+				     (VP sitting
+			        
+					 (PP in
+					     (NP front
+						 (PP of
+						     (NP him))))))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The Board
+	  (PP of
+	      (NP County Commissioners)))
+      ,
+      (NP the Sanitary Commission)
+      ,
+      (NP the Planning
+	  and
+	  Zoning Board)
+      and
+      (NP other county official bodies))
+  (VP use
+      (NP  recording
+	   machines)
+      (PP for
+	  (NP all public business)))
+  (PP in
+      (NP order
+	  (S (NP *)
+	     (AUX to)
+	     (VP prevent
+		 (NP (NP law suits)
+		     and
+		     (NP other misunderstandings
+			 (PP  about
+			      (SBAR (WHNP what)
+				    (S  (NP T) 
+					(VP  (ADVP actually)
+					     happened)
+					(PP at
+					    (NP their meetings))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Dr. Jenkins)
+    (VP notes
+	,
+	(ADVP however)
+	,
+	(SBAR that
+	      (S  
+	       (NP most
+		   (PP of
+		       (NP the school boards
+			   (PP in
+			       (NP the State)))))
+	       (AUX do)
+	       (NEG not)
+	       (VP do
+		   (ADVP so))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP  (NP State Senator
+	     (NP Joseph A. Bertorelli)) 
+	 *LRB*
+	 (NP (NP D.)
+	     ,
+	     (NP  First
+		  Baltimore))
+	 *RRB*)
+    (VP had
+	(NP a stroke))
+    (NP yesterday)
+    (X while
+       (PP in
+	   (NP his automobile))
+       (PP in
+	   (NP the 200 block
+	       (PP of
+		   (NP West Pratt Street))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP taken
+	     
+       (PP to
+	   (NP University Hospital))
+       (PP in
+	   (NP a municipal ambulance))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Doctors
+       (PP at
+	   (NP the hospital)))
+   (VP said
+       (SBAR 0
+	     (S (NP he)
+		(AUX was)
+		(VP  (ADVP partially)
+		     paralyzed
+			 
+		     (PP on
+			 (NP the right side)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His condition)
+    (AUX was)
+    (VP said
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       ,
+	       ``
+	       (ADJP fair)
+	       ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Police)
+    (VP said
+	(SBAR 0
+	      (S (NP he)
+		 (VP became
+		     (ADJP ill))
+		 (SBAR while
+		       (S (NP *) 
+			  (VP parked
+			      (PP in
+				  (NP front
+				      (PP of
+					  (NP a barber shop
+					      (PP at
+						  (NP 229
+						      West Pratt Street)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S
+ (NP Barber)
+ (VP summoned)))
+((S (NP He)
+     (VP called
+	 (NP (NP (NP Vincent L. Piraro)
+		 ,
+		 (NP proprietor
+		     (PP of
+			 (NP the shop)))
+		 ,)
+	     (SBAR 
+	      (WHNP who)
+	      (S (NP T)
+		 (VP summoned
+		     (NP (NP police)
+			 and
+			 (NP an ambulance))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The vice president
+       (PP of
+	   (NP the City Council)))
+   (VP complained
+       (NP yesterday)
+       (SBAR that
+	     (S (NP there)
+		(VP are
+		    (NP (NP  ``
+			     deficiencies
+			     ''
+			     (PP in
+				 (NP 
+				  (NP the city)
+				  's  snow
+				  clearing
+				  program)))
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (AUX should)
+			    (VP be
+				(VP corrected
+				    ))
+			    (ADVP  as
+				   soon
+				   (PP as
+				       (ADJP possible)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP Councilman  (NP William D. Schaefer))
+	 *LRB*
+	 (NP D.
+	     ,
+	     Fifth)
+	 *RRB*)
+     (VP said
+	 (PP in
+	     (NP a letter
+		 (PP to
+		     (NP Mayor Grady))))
+	 (SBAR that
+	       (S   (NP plowing
+			and
+			salting
+			crews)
+		    (X (X (AUX should)
+			  (VP be
+			      (VP dispatched
+				  (ADVP earlier
+					(PP in
+					    (NP storms))))))
+		       and
+		       (X (AUX should )
+			  (VP be
+			      (VP kept
+		   
+				  (PP on
+				      (NP the job))
+				  (ADVP longer
+					(PP than
+					    (S (NP they)
+					       (AUX were)
+					       (NP last month))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Werner)
+      (VP criticized))
+   )
+( (S  
+   (S (NP *) 
+      (VP Conceding
+	  (SBAR that
+		(S (NP several cities
+		       (PP to
+			   (NP the north)))
+		   (VP were
+		       (PP in
+			   (NP 
+			    (ADJP worse)
+			    shape
+			    (PP than
+				(NP Baltimore)))))
+		   (PP after
+		       (NP the last storm))))))
+   ,
+   (S (NP Mr. Schaefer)
+      (VP listed
+	  (NP (NP several improvements)
+	      (SBAR 0
+		    (S (NP he)
+		       (VP said
+			   (SBAR 0
+				 (S (NP T) 
+				    (AUX should )
+				    (VP be
+					(VP made
+					    (PP in
+						(NP the snow plan))))
+				    (ADVP here))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       (SBAR 0
+	     (S (NP the snow plan)
+		(AUX was)
+		(VP put
+			 
+		    (PP in
+			(NP effect))
+		    (ADVP  too
+			   slowly))
+		(PP in
+		    (NP December))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Equipment)
+      (AUX should)
+      (VP be
+	  (PP in
+	      (NP operation)))
+      (PP  ``
+	   (ADVP almost
+		 immediately)
+	   after
+	   (NP the first snowfall)
+	   ''))
+     ,
+     (S (NP Mr. Schaefer)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP The Councilman)
+       ,
+       (SBAR  
+	(WHNP who)
+	(S (NP T)
+	   (VP is
+	       (NP the Administration floor leader))))
+       ,)
+   (ADVP also)
+   (VP criticized
+       (NP (NP Bernard L. Werner)
+	   ,
+	   (NP public works
+	       director)
+	   ,)
+       (PP for
+	   (S  ``
+	      (NP *) 
+	      (VP halting
+		  (NP snow operations))
+	      ''
+	      (PP on
+		  (NP Tuesday night))
+	      (PP after
+		  (NP the Sunday storm))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((VP Sent
+    (ADVP home)
+    (PP for
+	(NP rest))))
+(   
+ (S (NP Mr. Werner)
+    (VP said
+	(NP yesterday)
+	(SBAR that
+	      (S (NP operations)
+		 (VP continued
+		     (PP through
+			 (NP the week)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (SBAR (WHNP What)
+	       (S (NP he)
+		  (VP did
+		      (NP T) ))))
+     ,
+     (S (NP Mr. Werner)
+	(VP said))
+     ,
+     (VP was
+	 (VP let
+	     (NP manual laborers)
+	     (VP go
+		 (ADVP home)
+		 (NP Tuesday night)
+		 (PP for
+		     (NP some rest))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Work)
+      (VP resumed
+	  (NP Wednesday)))
+     ,
+     (S (NP he)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mr. Schaefer)
+    (ADVP also)
+    (VP recommended
+	(SBAR that
+	      (S (NP (NP the snow emergency route plan)
+		     ,
+		     (SBAR (WHPP under
+				 (WHNP which))
+			   (S (S (NP parking)
+				 (VP is
+				     (ADJP banned
+					   (PP on
+					       (NP key streets)))))
+			      and
+			      (S (NP cars)
+				 (AUX are)
+				 (VP required
+	        
+				     (S (NP *)
+					(AUX to)
+					(VP use
+					    (NP (NP snow tires) or (NP chains))
+					    (PP on
+						(NP them))))))))
+		     ,)
+		 (AUX should)
+		 (VP be
+		     (VP  ``
+			  (ADVP strictly)
+			  enforced
+			  ''
+			  ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Admitting
+	     (SBAR that
+		   (S (NP (NP main streets)
+			  and
+			  (NP the central business district))
+		      (AUX should)
+		      (VP have
+			  (NP priority))))))
+     ,
+     (S (NP the Councilman)
+	(VP said
+	    (SBAR 0
+		  (S (NP it
+			 (SBAR-2 *pseudo-attach*))
+		     (VP is
+			 (ADVP also)
+			 (ADJP essential))
+		     (SBAR-2 that
+			     (S (NP  small
+				     shopping
+				     areas)
+				``
+				(NEG not)
+				(AUX be)
+				(VP overlooked
+				    )))
+		     (SBAR if
+			   (S (NP our small merchants)
+			      (VP are
+				  (S (NP *)
+				     (AUX to)
+				     (VP survive
+					 )))))
+		     '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S  (NP *)  
+       (VP Recounting
+	   (NP personal observations
+	       (PP of
+		   (NP clearance work)))))
+   ,
+   (S (NP the Councilman)
+      (VP (VP cited
+	      (NP instances
+		  (PP of
+		      (NP inefficient use
+			  (PP of
+			      (NP (NP equipment)
+				  or
+				  (NP supplies)))
+			  (PP by
+			      (NP (ADJP   (ADVP poorly)
+					  trained)
+				  workers))))))
+	  and
+	  (VP urged
+	      (SBAR that
+		    (S (NP plow blades)
+		       (AUX be)
+		       (VP set
+				        
+			   (SBAR  so
+				  (S (NP they)
+				     (AUX do)
+				     (NEG not)
+				     (VP leave
+					 (PRT behind)
+					 (NP (NP a thin layer
+						 (PP of
+						     (NP snow)))
+					     (SBAR 
+					      (WHNP which)
+					      (S  (ADVP eventually)
+						  (S (NP T)
+						     (VP freezes)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Annapolis)
+     ,
+     (NP Jan. 7)
+     *LRB*
+     (NP special)
+     *RRB*)
+ --)
+((S  
+   (NP The
+       (ADJP 15-year-old)
+       (ADJP adopted)
+       son
+       (PP of
+	   (NP (NP (NP a Washington attorney)
+		   and
+		   (NP his wife))
+	       ,
+	       (SBAR  
+		(WHNP who)
+		(S (NP T)
+		   (AUX were)
+		   (VP murdered)
+		   (ADVP early
+			 (NP today))
+		   (PP in
+		       (NP their Chesapeake (ADJP Bay-front) home))))
+	       ,)))
+   (AUX has )
+   (VP been
+       (VP sent
+	      
+	   (PP to
+	       (NP Spring Grove State Hospital))
+	   (PP for
+	       (NP detention)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The victims)
+   (VP were
+       (NP (NP (NP H. Malone Dresbach)
+	       ,
+	       (NP 47))
+	   ,
+	   and
+	   (NP (NP his wife)
+	       ,
+	       (NP Shirley)
+	       ,
+	       (NP 46)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each)
+   (AUX had )
+   (VP been
+       (VP shot
+		 
+	   (PP in
+	       (NP the
+		   back))
+	   (NP several times)
+	   (PP with
+	       (NP a automatic rifle))))
+   ,
+   (VP according
+       (PP to
+	   (NP (NP Capt. Elmer Hagner)
+	       ,
+	       (NP chief
+		   (PP of
+		       (NP Anne Arundel detectives)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Judge Benjamin Michaelson)
+    (VP signed
+	(NP (NP the order)
+	    (VP remanding
+		(NP the boy)
+		(PP to
+		    (NP the hospital))
+		(ADVP because
+		      (PP of
+			  (NP the lack
+			      (PP of
+				  (NP juvenile accommodations))
+			      (PP at
+				  (NP the Anne Arundel County Jail)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Circuit Court jurist)
+   (VP said
+       (SBAR 0
+	     (S (NP the boy)
+		(AUX will)
+		(VP have
+		    (NP a hearing
+			(PP in
+			    (NP Juvenile Court))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+ (NP 
+  (ADJP Younger)
+  son)
+ (VP calls
+     (NP police))))
+((S  
+   (PP  (ADVP Soon)
+	after
+	(NP 10
+	    A.M.))
+   ,
+   (SBAR 
+    (WHADVP when)
+    (S (NP police)
+       (VP reached
+	   (NP the (ADJP 1-12-story) brick home
+	       (PP in
+		   (NP the Franklin Manor section))
+	       ,
+	       (ADVP (NP 15 miles)
+		     south
+		     (PP of
+			 (ADVP here)))
+	       (PP on
+		   (NP the bay))))
+       ,
+       (PP in
+	   (NP response
+	       (PP to
+		   (NP a call
+		       (PP from
+			   (NP (NP 
+				(NP the Dresbach)
+				's other son)
+			       ,
+			       (NP Lee)
+			       ,
+			       (NP 14)
+			       ,))))))))
+   (S (NP they)
+      (VP found
+	  (NP 
+	   (NP Mrs. Dresbach)
+	   's body)
+	  (PP on
+	      (NP the  first-floor bedroom floor)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Her husband)
+      (AUX was)
+      (VP lying
+	  (PP on
+	      (NP the kitchen floor))))
+     ,
+     (S (NP police)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP younger)
+       son)
+   (VP told
+       (NP police)
+       (SBAR 0
+	     (S (NP his brother)
+		(X (X (AUX had)
+		      (VP run
+			  (PP from
+			      (NP the house)))
+		      (PP after
+			  (NP the shootings)))
+		   and
+		   (X  
+		    (AUX had)
+		    (VP driven
+			(ADVP away)
+			(PP in
+			    (NP 
+			     (NP their mother)
+			     's car)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The description
+       (PP of
+	   (NP the car)))
+   (AUX was)
+   (ADVP immediately)
+   (VP broadcast
+        
+       (PP throughout
+	   (NP  
+	    Southern
+	    Maryland))
+       (PP on
+	   (NP police radio))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+ (NP Two brothers)
+ (VP adopted)))
+((S (NP Police)
+    (VP said
+	(SBAR 0
+	      (S (NP the boys)
+		 (X (VP are
+			(NP natural brothers))
+		    and
+		    (X  
+		     (AUX were)
+		     (VP adopted
+	      
+			 (PP as
+			     (NP small children))
+			 (PP by
+			     (NP the Dresbachs)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Trooper J Grzesiak)
+   (VP spotted
+       (NP (NP the wanted car)
+	   ,
+	   (PP with
+	       (NP three boys))
+	   ,)
+       (PP at
+	   (NP a Route 2 service station))
+       ,
+       (PP  (ADVP just)
+	    outside
+	    (NP Annapolis))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S
+	 (NP The driver)
+	 (VP admitted
+	     (SBAR 0
+		   (S (NP he)
+		      (VP was
+			  (NP 
+			   (NP the Dresbachs)
+			   ' son))))))
+	and
+	(S (NP all three)
+	   (AUX were)
+	   (VP taken
+	     
+	       (PP to
+		   (NP the Edgewater Station)))))
+     ,
+     (S (NP police)
+	(VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP   
+  (NP Annapolis)
+  ,
+  (NP Jan. 7)
+  --))
+((S  
+   (NP Governor Tawes)
+   (NP today)
+   (VP appointed
+       (NP (NP Lloyd L. Simpkins)
+	   ,
+	   (NP his administrative assistant)
+	   ,)
+       (PP as
+	   (NP 
+	    (NP Maryland)
+	    's
+	    Secretary
+	    (PP of
+		(NP State))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mr. Simpkins)
+   (AUX will)
+   (VP move
+       (PP into
+	   (NP (NP the post)
+	       (VP being
+		   (VP vacated
+		       (PP by
+			   (NP (NP Thomas B. Finan)
+			       ,
+			       (VP  (ADVP earlier)
+				    named
+				    (NP Attorney General)
+				    (S (NP *)
+				       (AUX to)
+				       (VP succeed
+					   (NP (NP C. Ferdinand Sybert)
+					       ,
+					       (SBAR 
+						(WHNP who)
+						(S (NP T) 
+						   (AUX will )
+						   (VP be
+						       (VP elevated
+				       
+							   (PP to
+							       (NP an associate judgeship
+								   (PP on
+								       (NP the Maryland Court
+									   (PP of
+									       (NP Appeals))))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Governor Tawes)
+   (VP announced
+       (SBAR that
+	     (S (NP a triple  swearing-in ceremony)
+		(AUX will)
+		(VP be
+		    (VP held
+			      
+			(PP in
+			    (NP his office))))
+		(NP  (ADJP next)
+		     Friday)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((X (NP Simpkins)
+    (PP from
+	(NP Somerset))))
+(   
+ (S (S (NP Mr. Simpkins)
+       (VP is
+	   (NP a resident
+	       (PP of
+		   (NP Somerset county)))))
+    ,
+    and
+    (S  
+     (NP (NP he)
+	 and
+	 (NP (NP the Governor)
+	     ,
+	     (ADVP also)
+	     (NP a Somerset countian)
+	     ,))
+     (AUX have)
+     (VP been
+	 (NP friends))
+     (SBAR since
+	   (S (NP Mr. Simpkins)
+	      (VP was
+		  (NP a child))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (X (ADVP Now)
+	 (NP 38))
+      ,
+      (S (NP Mr. Simpkins)
+	 (AUX was)
+	 (VP graduated
+		 
+	     (PP from
+		 (NP (NP the University
+			 (PP of
+			     (NP 
+			      (NP Maryland))))
+		     's
+		     College
+		     (PP of
+			 (NP Agriculture)))))
+	 (PP in
+	     (NP 1947))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (ADVP (NP Five years)
+	   later)
+     ,
+     (S (NP he)
+	(AUX was)
+	(VP awarded
+	        
+	    (NP 
+	     (NP the university)
+	     's degree
+	     (PP in
+		 (NP law))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mr. Simpkins)
+   (VP made
+       (NP a name)
+       (PP for
+	   (NP himself))
+       (PP as
+	   (NP a member
+	       (PP of
+		   (NP the House
+		       (PP of
+			   (NP Delegates))))
+	       (PP (PP from
+		       (NP 1951))
+		   (PP through
+		       (NP 1958)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP the outset
+	   (PP of
+	       (NP his first term))))
+   ,
+   (S (NP he)
+      (VP established
+	  (NP himself)
+	  (PP as
+	      (NP one
+		  (PP of
+		      (NP the guiding spirits
+			  (PP of
+			      (NP the House
+				  (PP of
+				      (NP Delegates)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Maryland contracts
+	  (PP for
+	      (NP future construction)))
+      (PP during
+	  (NP October))
+      (VP totaled
+	  (NP $ 77,389,000)
+	  ,
+	  (ADVP up
+		(PP to
+		    (NP 10
+			(PP per
+			    (NP cent))))
+		(VP compared
+		    (PP to
+			(NP (NP October)
+			    ,
+			    (NP 1960)))))))
+   ,
+   (S (NP (NP F.W. Dodge)
+	  ,
+	  (NP Dodge Corporation)
+	  ,)
+      (VP reported)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dodge)
+   (VP reported
+       (NP  (NP the following breakdown)
+	    (X  :
+		(ADJP (ADJP Nonresidential)
+		      (PP at
+			  (NP $ 20,447,000))
+		      ,
+		      (ADVP down
+			    (NP 28
+				(PP per
+				    (NP cent)))))
+		;
+		;
+		(ADJP (ADJP residential)
+		      (PP at
+			  (NP $ 47,101,000))
+		      ,
+		      (ADVP up
+			    (NP 100
+				(PP per
+				    (NP cent)))))
+		;
+		;
+		and
+		(NP (NP (ADJP heavy)
+			engineering)
+		    (PP at
+			(NP $ 9,841,000))
+		    ,
+		    (ADVP down
+			  (NP 45
+			      (PP per
+				  (NP cent)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The cumulative total
+       (PP of
+	   (NP construction contracts))
+       (PP for
+	   (NP the
+	       (ADJP first)
+	       ten months
+	       (PP of
+		   (NP 1961)))))
+   (VP amounted
+       (PP to
+	   (NP (NP $ 634,517,000)
+	       ,
+	       (NP (NP a   (NP 4
+			       per
+			       cent) increase)
+		   (VP compared
+		       (PP to
+			   (NP the corresponding period
+			       (PP of
+				   (NP last year))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A breakdown
+       (PP of
+	   (NP the (ADJP ten-month) total)))
+   (VP showed
+       :
+       (X (ADJP (ADJP Nonresidential)
+		(PP at
+		    (NP $ 253,355,000))
+		,
+		(ADVP up
+		      (NP 22
+			  (PP per
+			      (NP cent)))))
+	  ;
+	  ;
+	  (ADJP (ADJP residential)
+		(PP at
+		    (NP $ 278,877,000))
+		,
+		(ADVP up
+		      (NP 12
+			  (PP per
+			      (NP cent)))))
+	  ;
+	  ;
+	  and
+	  (NP (NP heavy
+		  engineering)
+	      (PP at
+		  (NP $ 102,285,000))
+	      ,
+	      (ADVP down
+		    (NP 33
+			(PP per
+			    (NP cent))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Residential
+	 building)
+    (VP consists
+	(PP of
+	    (NP (NP houses)
+		,
+		(NP apartments)
+		,
+		(NP hotels)
+		,
+		(NP dormitories)
+		and
+		(NP (NP other buildings)
+		    (VP designed
+			(PP for
+			    (NP shelter))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The share
+      (PP of
+	  (NP (NP (NP the new housing market)
+		  (VP enjoyed
+		      (PP by
+			  (NP apartments))))
+	      ,
+	      (SBAR  
+	       (WHNP which)
+	       (S (NP T)
+		  (VP began
+		      (ADVP (NP (ADVP about)
+				six years)
+			    ago))))
+	      ,)))
+  (AUX has)
+  (VP  (ADVP more
+	     than)
+       tripled)
+  (PP within
+      (NP that span
+	  (PP of
+	      (NP time)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 1961))
+   ,
+   (S (NP it)
+      (AUX is)
+      (VP estimated
+	  (SBAR that
+		(S (NP multiple unit dwellings)
+		   (AUX will)
+		   (VP account
+		      
+		       (PP for
+			   (NP  (ADVP nearly)
+				30
+				per
+				cent
+				(PP of
+				    (NP the starts
+					(PP in
+					    (NP residential construction))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  While
+	  (S (NP availability
+		 (PP of
+		     (NP mortgage money)))
+	     (AUX has)
+	     (VP been
+		 (NP a factor
+		     (PP in
+			 (S  (NP *) 
+			     (VP encouraging
+				 (NP apartment construction))))))))
+   ,
+   (S (NP (NP the
+	      (ADJP   (ADVP generally)
+		      high) level
+	      (PP of
+		  (NP prosperity))
+	      (PP in
+		  (NP the
+		      (ADJP past)
+		      few years)))
+	  plus
+	  (NP  (VP rising)
+	       consumer income))
+      (VP are
+	  (PP among
+	      (NP (NP the factors)
+		  (SBAR 
+		   (WHNP that)
+		   (S (NP T)
+		      (AUX have)
+		      (VP encouraged
+			  (NP builders)
+			  (S (NP *)
+			     (AUX to)
+			     (VP concentrate
+				 (PP in
+				     (NP the (ADJP apartment-building) field))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR Although
+	 (S (NP (ADJP economic and personal) circumstances)
+	    (VP vary
+		(ADVP widely)
+		(PP among
+		    (NP (NP those)
+			(VP  (ADVP now)
+			     choosing
+			     (NP apartments)))))))
+   ,
+   (S  
+    (NP (NP Leo J. Pantas)
+	,
+	(NP vice president
+	    (PP of
+		(NP a (ADJP hardware
+			    manufacturing)
+		    company)))
+	,)
+    (VP pointed
+	(PRT out)
+	(ADVP recently)
+	(SBAR that
+	      (S (NP many apartment seekers)
+		 (VP seem
+		     (S (NP *)
+			(AUX to)
+			(VP have
+			    (NP (NP one characteristic)
+				(NP-1 *pseudo-attach*))
+			    (PP in
+				(ADJP common))
+			    :
+			    (NP-1 a desire
+				  (PP for
+				      (NP 
+				       (NP greater
+					   convenience) 
+				       and 
+				       (NP freedom
+					   (PP from
+					       (NP (NP the problems)
+						   (VP involved
+						       (PP in
+							   (S (NP *) 
+							      (VP maintaining
+								  (NP a house)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+ (NP Convenience)
+ (VP held
+     (ADJP key))))
+((S (NP  ``
+	 Convenience)
+    (VP is
+	(ADVP therefore)
+	(NP the key
+	    (PP to
+		(NP the housing market))))
+    (NP today))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (ADJP Trouble-free)
+       ,
+       (ADJP long-life)
+       ,
+       (ADJP quality)
+       components)
+      (AUX will)
+      (VP play
+	  (NP an
+	      (ADJP  (ADVP increasingly)
+		     important) part)
+	  (PP in
+	      (NP the merchandising
+		  (PP of
+		      (NP new housing)))))
+      (PP in
+	  (NP 1960)))
+     ''
+     ,
+     (S (NP Pantas)
+	(VP predicted)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP   Sixty-seven
+	living
+	units)
+  (AUX are)
+  (VP being
+      (VP added
+	   
+	  (PP to
+	      (NP the
+		  (ADJP 165-unit)
+		  Harbor View Apartments
+		  (PP in
+		      (NP the Cherry Hill section)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Ultimately)
+     (S (NP the development)
+	(AUX will)
+	(VP comprise
+	    (NP 300 units)
+	    ,
+	    (PP in
+		(NP  (ADJP two-story and three-story) structures)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  Various
+       (PP of
+	   (NP the apartments)))
+  (VP are
+      (PP of
+	  (NP the terrace type)))
+  ,
+  (S (NP *) 
+     (VP being
+	 (PP on
+	     (NP the ground floor))
+	 (SBAR  so
+		that
+		(S (NP  entrance)
+		   (VP is
+		       (ADJP direct)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Others)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (AUX are)
+	  (VP reached
+		    
+	      (PP by
+		  (S (NP *) 
+		     (VP walking
+			 (PP up
+			     (NP a single flight
+				 (PP of
+				     (NP stairs))))))))))
+      ,)
+  (VP have
+      (NP balconies)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The structures)
+      (VP housing
+	  (NP the apartments)))
+  (VP are
+      (PP of
+	  (NP masonry and frame construction))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Heating)
+    (VP is
+	(PP by
+	    (NP  
+	     individual (ADJP gas-fired)
+	     ,
+	     forced
+	     warm air systems))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Construction)
+   (PP in
+       (NP 1962))
+   (AUX will)
+   (VP account
+       (PP for
+	   (NP (ADVP about)
+	       15
+	       (PP per
+		   (NP cent))
+	       (PP of
+		   (NP the
+		       gross national
+		       product)))))
+   ,
+   (VP according
+       (PP to
+	   (NP a study
+	       (PP by
+		   (NP Johns-Manville Corporation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

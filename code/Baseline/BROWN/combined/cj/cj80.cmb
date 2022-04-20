@@ -1,0 +1,2628 @@
+
+ 
+ 
+
+ 
+
+(
+ (S (NP (NP (DT A) (JJ gyro-stabilized) (NN platform) (NN system))
+        (, ,)
+        (VP (VBG using)
+            (NP
+                (ADJP (VBN restrained))
+                (NNS gyros)))
+        (, ,))
+    (VP (VBZ is)
+        (ADJP (RB well)
+              (VBN suited)
+              
+              (PP (IN for)
+                  (NP (JJ automatic) (NN leveling)))))
+    (ADVP (IN because)
+          (PP (IN of)
+              (NP (DT the) (NNS characteristics)
+                  (PP (IN of)
+                      (NP (DT the) (JJ gyro-platform-servo) (NN combination)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The)
+        (VBN restrained) (JJ gyro-stabilized)
+        (NN platform)
+        (PP (IN with)
+            (NP (JJ reasonable) (NN response) (NNS characteristics))))
+    (VP (VBZ operates)
+        (PP (IN with)
+            (NP (NP (DT an) (JJ approximate) (NN equation)
+                    (PP (IN of)
+                        (NP (NN motion))))
+                (, ,)
+                (VP (VBG neglecting)
+                    (NP (JJ transient) (NNS effects)))
+                (, ,)
+                (PP (IN as)
+                    (S (NP (-NONE- *))
+                       (VP (VBZ follows)
+                           (: :)
+                           (NP (NP (-NONE- A[fj]))
+                               (SBAR
+                                     (WHADVP (WRB where))
+                                     (S (NP (NN U))
+                                        (VP (VBZ is)
+                                            (NP (NP (DT a) (NN torque))
+                                                (VP (VBN applied)
+                                                    (PP (IN about)
+                                                        (NP (DT the) (NN output) (NN axis)
+                                                            (PP (IN of)
+                                                                (NP (DT the) (VBG controlling) (NN gyro))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN platform) (NN angle) (-NONE- **) (NN yf))
+    (VP (VBZ is)
+        (NP (NP (DT the) (NN angle))
+            (SBAR (WHPP (IN about)
+                        (WHNP (WDT which)))
+                  (S
+                     (NP (DT the) (NN gyro))
+                     (AUX (VBZ is))
+                     (VP (VBG controlling)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (AUX (VBZ is))
+    (ADVP (RB normally))
+    (VP (VBN termed)
+        
+        (NP (NP (DT the) (NN gyro) (NN input) (NN axis))
+            (, ,)
+            (ADVP (NP (NNS 90-degrees))
+                  (RB away)
+                  (PP (IN from)
+                      (NP (DT the) (NN gyro) (NN output) (CC or) (-NONE- **) (NN yj) (NN axis)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN gyro) (JJ angular) (NN momentum))
+    (AUX (VBZ is))
+    (VP (VBN defined)
+        
+        (PP (IN by)
+            (NP (NN H)))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (SBAR (IN if)
+          (S (NP (DT the) (NN gyro) (CC and) (NN platform-controller) (NN combination))
+             (VP (VBZ maintains)
+                 (NP (DT the) (NN platform))
+                 (PP (IN with)
+                     (NP (CD zero) (JJ angular) (NN deviation)
+                         (PP (IN about)
+                             (NP (DT the) (-NONE- **) (NN yf) (NN axis))))))))
+    (, ,)
+    (S (NP (DT the) (NN system))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN rotated)
+               
+               (PP (IN with)
+                   (NP (DT an) (JJ angular) (NN velocity) (-NONE- A[fj])))))
+       (SBAR (IN if)
+             (S (NP (DT a) (NN torque))
+                (AUX (VBZ is))
+                (VP (VBN supplied)
+                    
+                    (PP (TO to)
+                        (NP (DT the) (NN gyro) (NN output) (NN axis) (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (VBZ is))
+    (VP (VBN assumed)
+        
+        (SBAR (IN that)
+              (S (NP (DT the) (NNS gyros))
+                 (AUX (VBP are))
+                 (VP (VBN designed)
+                     
+                     (PP (IN with)
+                         (NP (JJ electrical) (NNS torquers)))
+                     (SBAR (IN so)
+                           (IN that)
+                           (S (NP (DT a) (NN torque))
+                              (AUX (MD can))
+                              (VP (VB be)
+                                  (VP (VBN applied)
+                                      
+                                      (PP (IN about)
+                                          (NP (PRP$ their) (NN output) (NNS axes))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NP (DT the) (NN system))
+            (VP (VBN shown)
+                (PP (IN in)
+                    (NP (NN Fig.) (CD 7-1))))))
+    (, ,)
+    (S (NP (DT the) (NN accelerometer) (NN output))
+       (AUX (VBZ is))
+       (VP (VBN amplified)
+           ))
+    (CC and)
+    (S (NP (DT the) (VBG resulting) (NN voltage))
+       (AUX (VBZ is))
+       (VP (VBN applied)
+           
+           (PP (TO to)
+               (NP (DT the) (NN gyro) (NN output-axis) (NN torquer))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN torque))
+    (VP (VBZ causes)
+        (S (NP (DT the) (JJ entire) (NN system))
+           (AUX (TO to))
+           (VP (VB rotate)
+               (PP (IN about)
+                   (NP (DT the) (-NONE- **) (NN yf) (NN axis))))))
+    (, ,)
+    (PP (IN since)
+        (NP (DT the) (NN response)
+            (PP (TO to)
+                (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NNS polarities))
+             (VP (VBP are)
+                 (ADJP (JJ correct)))))
+    (, ,)
+    (S (NP (DT the) (NN platform))
+       (VP (VBZ rotates)
+           (PP (IN in)
+               (NP (PDT such)
+                   (DT a) (NN direction)
+                   (PP (IN as)
+                       (S (NP (-NONE- *))
+                          (AUX (TO to))
+                          (VP (VB reduce)
+                              (NP (DT the) (NN accelerometer) (NN output))
+                              (PP (TO to)
+                                  (NP (CD zero)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN As)
+          (S (NP (DT the) (NN accelerometer) (NN output))
+             (AUX (VBZ is))
+             (VP (VBG decreasing))))
+    (, ,)
+    (S (NP (NP (DT the) (NN torque))
+           (VP (VBN applied)
+               (PP (TO to)
+                   (NP (DT the) (NN gyro) (NN output) (NN axis)))))
+       (VP (VBZ decreases)))
+    (CC and)
+    (, ,)
+    (ADVP (RB therefore))
+    (, ,)
+    (S (NP (DT the) (NN rate))
+       (VP (VBZ decreases))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Finally))
+    (, ,)
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (DT the) (NN accelerometer) (NN output))
+             (VP (VBZ is)
+                 (NP (CD zero)))))
+    (, ,)
+    (S (NP (DT the) (JJ entire) (NN system))
+       (VP (VBZ remains)
+           (ADJP (JJ stationary))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN platform))
+       (AUX (VBZ is))
+       (, ,)
+       (PP (IN by)
+           (NP (NN definition)))
+       (, ,)
+       (VP (VBN leveled))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ mathematical) (NN block) (NN diagram)
+        (PP (IN for)
+            (NP (DT the) (NN leveling) (NN system))))
+    (AUX (VBZ is))
+    (VP (VBN shown)
+        
+        (PP (IN in)
+            (NP (NN Fig.) (CD 7-2)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN platform))
+    (VP (VBZ is)
+        (ADVP (RB initially))
+        (PP (IN off)
+            (NP (NN level))
+            (PP (IN by)
+                (NP (DT the) (NN angle) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN angle))
+        (VP (VBN generated)
+            (PP (IN by)
+                (NP (NP (DT the) (NN platform) (NN servo) (-NONE- **) (NN yf))
+                    (VP (VBN multiplied)
+                        (PP (IN by)
+                            (NP (NN G))))))))
+    (VP (VBZ is)
+        (NP (NP (DT the) (JJ effective) (NN acceleration))
+            (VP (VBG acting)
+                (PP (IN on)
+                    (NP (DT the) (NN accelerometer)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (-NONE- A[fj]))
+    (VP (VBZ is)
+        (NP (DT the) (NN scale) (NN factor)
+            (PP (IN of)
+                (NP (NP (DT the) (NN accelerometer))
+                    (-LRB- -LRB-)
+                    (NP (-NONE- A[fj]))
+                    (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN voltage) (-NONE- A[fj]))
+    (AUX (VBZ is))
+    (VP (VP (VBN amplified)
+            
+            (PP (IN by)
+                (NP (-NONE- A[fj]))))
+        (CC and)
+        (VP (VBD applied)
+            (PP (TO to)
+                (NP (DT the) (NN gyro) (NN torquer)))
+            (PP (IN with)
+                (NP (NN scale) (NN factor) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Finally))
+    (, ,)
+    (S (NP (DT the) (JJ gyro-stabilized) (NN platform) (NN characteristic))
+       (AUX (VBZ is))
+       (VP (VBN represented)
+           
+           (PP (IN by)
+               (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN system)
+        (PP (IN as)
+            (S (NP (-NONE- *))
+               (VP (VBN indicated)
+                   (PP (IN in)
+                       (NP (NN Fig.) (CD 7-2)))))))
+    (VP (VBZ is)
+        (ADJP (JJ fundamental) (CC and) (JJ simple)))
+    (SBAR (IN because)
+          (S (NP (DT the) (JJ transient) (NNS effects)
+                 (PP (IN of)
+                     (NP (PDT both)
+                         (NP (DT the) (NN platform) (NN servo))
+                         (CC and)
+                         (NP (DT the) (NN accelerometer)))))
+             (AUX (VBP have))
+             (VP (VBN been)
+                 (VP (VBN neglected)
+                     )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN With)
+        (NP (NP (DT these) (NNS factors))
+            (VP (VBD included))))
+    (, ,)
+    (S (NP (DT an) (JJ upper) (NN limit))
+       (AUX (VBZ is))
+       (VP (VBN placed)
+           
+           (PP (IN on)
+               (NP (DT the) (JJ allowable) (NN loop) (NN gain)))
+           (PP (IN by)
+               (NP (NN stability) (NNS considerations))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (DT this) (NN type)
+            (PP (IN of)
+                (NP (NN system)))))
+    (, ,)
+    (S (NP (DT a) (JJ high) (NN loop) (NN gain))
+       (VP (VBZ is)
+           (ADJP (JJ desirable)))
+       (SBAR (IN because)
+             (S (NP (PRP it))
+                (VP (VBZ provides)
+                    (NP (DT a) (JJ fast) (NN response) (NN time)))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN frequency) (NN response) (NNS characteristics)
+                 (PP (IN of)
+                     (NP (JJ practical) (NNS components))))
+             (AUX (VBP are))
+             (VP (VBN considered)
+                 )))
+    (, ,)
+    (S (NP (PRP$ their) (NN effect)
+           (PP (IN on)
+               (NP (NN stability))))
+       (AUX (VBZ does))
+       (NEG (RB not))
+       (VP (RB present)
+           (NP (DT the)
+               (ADJP (RBS most) (JJ serious))
+               (NN limit)
+               (PP (IN on)
+                   (NP (DT the) (NN system) (NN loop) (NN gain)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN time))
+        (VP (VBN required)
+            (PP (IN for)
+                (S (NP (DT the) (NN system))
+                   (AUX (TO to))
+                   (VP (VB reach)
+                       (NP (DT a) (NN level) (NN position)))))))
+    (VP (VBZ is)
+        (ADJP (RB approximately)
+              (RB inversely)
+              (JJ proportional)
+              (PP (TO to)
+                  (NP (DT the) (JJ servo) (NN loop) (NN gain))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN addition)))
+    (, ,)
+    (S (NP (DT the) (JJ cutoff) (NN frequency)
+           (PP (IN for)
+               (NP (NN input) (NNS accelerations))))
+       (VP (VBZ is)
+           (ADJP (RB approximately)
+                 (JJ proportional)
+                 (PP (TO to)
+                     (NP (DT the) (JJ servo) (NN loop) (NN gain))))))
+    (: ;)
+    (: ;)
+    (X (FW i.e.))
+    (, ,)
+    (S (NP (JJ high) (NN loop) (NN gain))
+       (VP (VBZ causes)
+           (S (NP (DT the) (NN system))
+              (AUX (TO to))
+              (VP (VB respond)
+                  (PP (TO to)
+                      (NP (JJ horizontal) (NNS components)
+                          (PP (IN of)
+                              (NP (NNS accelerations))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN problem))
+    (ADVP (RB usually))
+    (VP (VBZ determines)
+        (NP (NP (DT the)
+                (ADJP (JJR lower))
+                (NN limit)
+                (PP (IN of)
+                    (NP (NN loop) (NN gain))))
+            (ADVP (RB rather)
+                  (PP (IN than)
+                      (NP (NN response) (NN time)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN noticed)
+            
+            (PP (IN in)
+                (NP (NN Fig.) (CD 7-1)))
+            (SBAR (IN that)
+                  (S (NP (DT the) (NN accelerometer))
+                     (VP (VBZ responds)
+                         
+                         (PP (TO to)
+                             (NP (DT any) (NN input) (NN acceleration)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN equation))
+        (VP (VBG relating)
+            (NP (NN input) (NN acceleration)
+                (PP (TO to)
+                    (NP (NN output) (NN platform) (NN angle))))))
+    (VP (VBZ is)
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN practice)))
+    (, ,)
+    (S (NP (DT the) (NN preflight) (NN leveling) (NN process))
+       (VP (VBZ takes)
+           (NP (NN place))
+           (PP (IN with)
+               (S (NP (DT the) (NN system))
+                  (VP (VBN mounted)
+                      (PP (IN in)
+                          (NP (DT the) (NN airframe)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN system))
+             (AUX (VBZ is))
+             (VP (VBN arranged)
+                 
+                 (PP (IN for)
+                     (NP (JJ automatic) (NN leveling))))))
+    (, ,)
+    (S (NP (DT the) (NN platform) (NNS angles))
+       (VP (VBP respond)
+           (PP (TO to)
+               (NP (NP (DT any) (JJ horizontal) (NNS components)
+                       (PP (IN of)
+                           (NP (NN acceleration))))
+                   (VP (VBG acting)
+                       (PP (IN on)
+                           (NP (DT the) (NNS accelerometers)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBP are)
+        (NP (JJ many) (JJ such) (NNS components)
+            (PP (IN of)
+                (NP (NN acceleration) (NN present)))))
+    (ADVP (IN due)
+          (PP (TO to)
+              (NP (DT the) (NN effect)
+                  (PP (IN of)
+                      (NP (NP (NN wind) (NNS gusts))
+                          (, ,)
+                          (NP (NN engine) (NN noise))
+                          (, ,)
+                          (NP (NN turbulence)
+                              (PP (IN around)
+                                  (NP (DT the) (NN vehicle))))
+                          (, ,)
+                          (NP (X (FW etc.)))))))))
+ (. .))
+ 
+
+((S
+    (NP (NP (CD One)
+            (PP (IN of)
+                (NP (DT the)
+                    (ADJP (JJS greatest))
+                    (NNS problems))))
+        (VP (VBN associated)
+            (PP (IN with)
+                (NP (JJ automatic) (NN leveling)))))
+    (AUX (VBZ is))
+    (VP (VBG establishing)
+        (NP (DT a) (JJ true) (NN level))
+        (PP (IN in)
+            (NP (DT the) (NN presence)
+                (PP (IN of)
+                    (NP (JJ high-level) (NN acceleration) (NN noise)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (CD One) (NN solution)
+        (PP (TO to)
+            (NP (DT the) (NN problem))))
+    (VP (VBZ is)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB operate)
+               (PP (IN with)
+                   (NP (DT a) (JJ low) (NN loop) (NN gain)))))
+        (CC and)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB include)
+               (NP (JJ low-pass) (NNS filters))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN technique))
+    (VP (VBZ causes)
+        (S (NP (DT the) (NN system))
+           (AUX (TO to))
+           (VP (VB respond)
+               (ADVP (RB only))
+               (PP (TO to)
+                   (NP (JJ low) (NN frequency) (NN acceleration) (NNS components)
+                       (PP
+                           (ADJP (JJ such))
+                           (IN as)
+                           (NP (DT the) (NN platform) (NN tilt)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN Since)
+          (S (NP (NP (DT a)
+                     (ADJP (JJR lower))
+                     (NN loop) (NN gain))
+                 (CC and)
+                 (NP (JJ low-pass) (NN filtering)))
+             (VP (VBZ increases)
+                 (NP (DT the) (NN response) (NN time)))))
+    (, ,)
+    (S (NP (DT a) (JJ practical) (NN compromise))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN reached)
+               ))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (CD One)
+        (PP (IN of)
+            (NP (DT the)
+                (ADJP (RBS most) (JJ desirable))
+                (NNS solutions))))
+    (AUX (VBZ is))
+    (VP (VBN achieved)
+        
+        (PP (IN by)
+            (NP (DT the) (NN use)
+                (PP (IN of)
+                    (NP (DT a) (JJ non-linear) (NN amplifier)
+                        (PP (IN for)
+                            (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN amplifier))
+    (AUX (VBZ is))
+    (VP (VBN designed)
+        
+        (SBAR (RB so)
+              (IN that)
+              (S (NP (PRP$ its) (NN gain))
+                 (VP (VBZ is)
+                     (ADJP (JJ large)))
+                 (PP (IN for)
+                     (NP (NN accelerometer) (NNS signals)
+                         (PP (IN above)
+                             (NP (DT a) (JJ certain) (NN threshold) (NN level)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN Below)
+        (NP (DT this) (NN level)))
+    (, ,)
+    (S (NP (DT the) (NN amplifier) (NN gain) (-NONE- A[fj]))
+       (VP (VP (VBZ is)
+               (ADJP (JJ proportional)))
+           (CC and)
+           (VP (VBZ is)
+               (PP (IN of)
+                   (NP (JJ small) (NN value)))))
+       (, ,)
+       (SBAR (PP (IN in)
+                 (NP (NN order)))
+             (S (NP (-NONE- *))
+                (AUX (TO to))
+                (VP (VB provide)
+                    (NP (JJ adequate) (NN noise) (NN filtering)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN effect))
+    (VP (VBZ is)
+        (SBAR (IN that)
+              (S (NP (DT the) (NN platform))
+                 (VP (VBZ returns)
+                     (PP (IN from)
+                         (NP (DT an) (JJ off-level) (NN position)))
+                     (PP (IN at)
+                         (NP (DT a) (JJ rapid) (NN rate))))
+                 (PP (IN until)
+                     (S (NP (PRP it))
+                        (VP (VBZ is)
+                            (ADJP (RB nearly)
+                                  (NN level)))))
+                 (, ,)
+                 (SBAR (WHPP (IN at)
+                             (WHNP (WDT which) (NN point)))
+                       (S
+                          (NP (DT the) (NN platform))
+                          (AUX (VBZ is))
+                          (VP (VBN controlled)
+                              
+                              (PP (IN by)
+                                  (NP (DT a) (JJ proportional) (NN servo)
+                                      (PP (IN with)
+                                          (NP
+                                              (ADJP (JJ low) (JJ enough))
+                                              (NN frequency) (NN response)
+                                              (SBAR (RB so)
+                                                    (IN that)
+                                                    (S (NP (DT the) (NN noise))
+                                                       (VP (VBZ has)
+                                                           (NP (JJ little) (NN effect))
+                                                           (PP (IN on)
+                                                               (NP (DT the) (NN leveling) (NN process)))))))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN system))
+             (VP (VBZ is)
+                 (PP (IN on)
+                     (NP (JJ automatic) (NN leveling))))))
+    (, ,)
+    (S (NP (DT the) (NN gyro) (NN drift))
+       (AUX (VBZ is))
+       (VP (VBN canceled)
+           
+           (PP (IN by)
+               (NP (DT the) (NN output)
+                   (PP (IN of)
+                       (NP (NP (DT the) (NN leveling) (NN system))
+                           (-LRB- -LRB-)
+                           (NP (NN amplifier) (-NONE- A[fj]))
+                           (-RRB- -RRB-))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN platform))
+    (ADVP (RB actually))
+    (VP (VBZ tilts)
+        (PP (IN off)
+            (NP (NN level)))
+        (SBAR (RB so)
+              (IN that)
+              (S (NP (NP (DT the) (NN accelerometer) (NN output))
+                     (, ,)
+                     (SBAR (WHADVP (WRB when))
+                           (S (NP (-NONE- *))
+                              (VP (VBN amplified)
+                                  
+                                  (PP (IN by)
+                                      (NP (-NONE- A[fj])))))))
+                 (, ,)
+                 (AUX (MD will))
+                 (VP (VB supply)
+                     (NP (DT the) (JJ correct) (NN current))
+                     (PP (TO to)
+                         (NP (DT the) (NN gyro) (NN torquer))))
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB cancel)
+                        (NP (DT the) (NN gyro) (NN drift))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN amount)
+            (PP (IN of)
+                (NP (NN platform) (NN dip))))
+        (VP (VBN required)))
+    (VP (VBZ depends)
+        (PP (IN upon)
+            (NP (DT the) (NN scale) (NNS factors)
+                (PP (IN of)
+                    (NP (DT the) (NN system)))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 7-3))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (JJ Practical) (NN leveling) (NNS considerations))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ automatic) (NN leveling) (NN system))
+        (VP (VBN described)
+            (PP (IN in)
+                (NP (DT this) (NN section)))))
+    (VP (VBZ is)
+        (ADJP (RB readily)
+              (JJ adaptable)
+              (PP (TO to)
+                  (NP (NP (DT a) (JJ gyro-stabilized) (NN platform))
+                      (VP (VBG consisting)
+                          (PP (IN of)
+                              (NP (CD three)
+                                  (VP (VBG integrating))
+                                  (NNS gyros)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN system))
+    (VP (VBZ requires)
+        (NP (DT some) (NN switching)
+            (PP (IN of)
+                (NP (NN flight) (NN equipment) (NNS circuits))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (DT the) (NN leveling) (NN operation))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN maintained)
+               (CC and)
+               (VBN controlled)
+               (ADVP (RB remotely))
+               (PP (IN with)
+                   (NP (DT no) (JJ mechanical) (CC or) (JJ optical) (NN contact)
+                       (PP (IN with)
+                           (NP (DT the) (NN platform)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN leveling) (NN system))
+    (AUX (MD will))
+    (VP (VB hold)
+        (NP (DT the) (NN platform))
+        (ADJP (NN on-level))
+        (, ,)
+        (ADVP (RB automatically))
+        (, ,)
+        (ADJP (RB as)
+              (RB long)
+              (PP (IN as)
+                  (S (NP (DT the) (NN system))
+                     (AUX (VBZ is))
+                     (VP (VBN actuated)
+                         ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ useful) (NN by-product)
+        (PP (IN of)
+            (NP (DT this) (NN system))))
+    (VP (VBZ is)
+        (SBAR (IN that)
+              (S (NP (NP (DT the) (NN information))
+                     (ADJP (JJ necessary)
+                           (S (NP (-NONE- *))
+                              (AUX (TO to))
+                              (VP (VB set)
+                                  (NP (DT the) (NN gyro) (NN drift) (NNS biases))))))
+                 (VP (VBZ is)
+                     (ADJP (JJ available)
+                           (PP (IN from)
+                               (NP (NP (DT the) (NNS currents))
+                                   (ADJP (JJ necessary)
+                                         (S (NP (-NONE- *))
+                                            (AUX (TO to))
+                                            (VP (VB hold)
+                                                (NP (DT the) (NN system)
+                                                    (PP (IN in)
+                                                        (NP (NN level)))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN leveling) (NN process))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN accomplished)
+               (ADVP (RB manually)))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NNS results))
+       (VP (VBP are)
+           (ADJP (RB as)
+                 (JJ satisfactory)
+                 (PP (IN as)
+                     (NP (NP (DT those))
+                         (VP (VBN obtained)
+                             (PP (IN with)
+                                 (NP (JJ automatic) (NN equipment))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN process))
+    (VP (VBZ consists)
+        (PP (IN in)
+            (S (NP (-NONE- *))
+               (VP (VBG turning)
+                   (NP (DT the) (NN platform))
+                   (ADVP (RB manually)))
+               (PP (IN until)
+                   (S (NP (DT the) (NNS outputs)
+                          (PP (IN of)
+                              (NP (DT both)
+                                  (NNS accelerometers))))
+                      (VP (VBP are)
+                          (NP (CD zero)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN turning))
+    (AUX (VBZ is))
+    (VP (VBN accomplished)
+        
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG applying)
+                   (NP (NN voltage))
+                   (PP (TO to)
+                       (NP (NP (DT the) (NN gyro) (NNS torquers))
+                           (VP (VBN described)
+                               (PP (IN above))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN brief)))
+    (, ,)
+    (S (NP (DT the) (NN human))
+       (VP (VBZ replaces)
+           (NP (NN amplifier) (-NONE- A[fj]))
+           (PP (IN in)
+               (NP (NN Figs.) (CD 7-1)
+                   (CC and)
+                   (CD 7-2))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (JJ Manual) (NN leveling))
+    (VP (VBZ requires)
+        (NP (DT an) (JJ appropriate) (NN display)
+            (PP (IN of)
+                (NP (DT the) (NN accelerometer) (NNS outputs))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (JJ high) (NN accuracy))
+             (AUX (VBZ is))
+             (VP (VBN required)
+                 
+                 (PP (IN in)
+                     (NP (NN preflight) (NN leveling))))))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (ADVP (RB usually))
+           (ADJP (JJ necessary)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB integrate)
+                        (CC or)
+                        (VP (RB doubly)
+                            (VB integrate))
+                        (NP (DT the) (NN accelerometer) (NNS outputs)))))))
+    (-LRB- -LRB-)
+    (S (NP (DT this))
+       (ADVP (RB also))
+       (VP (VBZ minimizes)
+           (NP (DT the) (NN noise) (NN problem))))
+    (-RRB- -RRB-))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN With)
+        (NP (NN integration)))
+    (, ,)
+    (S (NP (DT the) (NN effect)
+           (PP (IN of)
+               (NP (NP (DT a) (JJ small) (NN acceleration))
+                   (-LRB- -LRB-)
+                   (CC or)
+                   (NP (JJ small) (NN platform) (NN tilt) (NN angle))
+                   (-RRB- -RRB-))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN seen)
+               (PP (IN after)
+                   (NP (DT a) (NN time)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (NN skill))
+       (AUX (VBZ is))
+       (VP (VBN required)
+           
+           (PP (IN on)
+               (NP (DT the) (NN part)
+                   (PP (IN of)
+                       (NP (DT an) (NN operator))))))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB level)
+              (NP (DT a) (NN platform))
+              (PP (TO to)
+                  (NP (DT any) (NN degree)
+                      (PP (IN of)
+                          (NP (NN accuracy)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Also))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ requires)
+           (NP
+               (ADJP (JJR more))
+               (NN time)
+               (PP (IN as)
+                   (S (NP (-NONE- *))
+                      (VP (VBN compared)
+                          (PP (TO to)
+                              (NP (DT the) (JJ automatic) (NN approach))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (JJ Manual) (NN leveling))
+    (VP (VBZ is)
+        (ADJP (JJ inconvenient)))
+    (SBAR (IN if)
+          (S (NP (DT the) (NN platform))
+             (AUX (MD must))
+             (VP (VB be)
+                 (VP (VBN maintained)
+                     (ADVP (RB accurately)
+                           (JJ level))
+                     (PP (IN for)
+                         (NP (DT any) (VBN prolonged) (NN period)
+                             (PP (IN of)
+                                 (NP (NN time))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN operator))
+    (AUX (MD must))
+    (ADVP (RB continually))
+    (VP (VB supply)
+        (NP (DT the) (JJ correct) (NN amount)
+            (PP (IN of)
+                (NP (VBG turning)
+                    (JJ current))))
+        (PP (TO to)
+            (NP (DT the) (NN gyro) (NNS torquers)))
+        (SBAR (RB so)
+              (IN that)
+              (S (NP (DT the) (NN effect)
+                     (PP (IN of)
+                         (NP (NN gyro) (NN drift))))
+                 (AUX (VBZ is))
+                 (VP (VBN canceled)
+                     )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN process))
+    (VP (VBZ is)
+        (ADJP (RB especially)
+              (JJ difficult)))
+    (SBAR (IN since)
+          (S (NP (NN gyro) (NN drifting))
+             (VP (VBZ is)
+                 (ADJP (RB typically)
+                       (JJ random))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 7-4))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Platform) (NN heading))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Platform) (NN heading))
+    (VP (VBZ consists)
+        (PP (IN of)
+            (S (NP (-NONE- *))
+               (VP (VBG orienting)
+                   (NP (DT the) (JJ sensitive) (NN axis)
+                       (PP (IN of)
+                           (NP (DT the) (NNS accelerometers))))
+                   (ADJP (RB parallel)
+                         (PP (TO to)
+                             (NP (DT the) (VBN desired) (NN coordinate) (NN system)
+                                 (PP (IN of)
+                                     (NP (DT the) (NN navigator)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP
+            (ADJP (JJR simpler))
+            (NNS terms)))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ amounts)
+           (PP (TO to)
+               (S (NP (-NONE- *))
+                  (VP (VBG pointing)
+                      (NP (DT the) (NN platform))
+                      (PP (IN in)
+                          (NP (DT the) (JJ proper) (NN direction)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (ADJP (RB purely)
+                  (JJ inertial)) (NNS navigators)))
+    (, ,)
+    (S (NP (NP (CD two) (NNS techniques))
+           (NP-1 (-NONE- *pseudo-attach*)))
+       (VP (VBP are)
+           (ADJP (JJ available)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB accomplish)
+              (NP (DT the) (NN platform) (NN heading))))
+       (: :)
+       (NP-1 (NP (NN Use)
+                 (PP (IN of)
+                     (NP (ADJP (JJ external))
+                         (CC or)
+                         (VBG surveying)
+                         (NN equipment)))
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB establish)
+                        (NP (JJ proper) (NN heading)))))
+             (: ;)
+             (: ;)
+             (NP (NN Use)
+                 (PP (IN of)
+                     (NP (DT the) (NNS characteristics)
+                         (PP (IN of)
+                             (NP (DT the) (NN platform) (NNS components)))))
+                 (PP (IN for)
+                     (NP (DT an) (NN indication)
+                         (PP (IN of)
+                             (NP (JJ true) (NN heading)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN choice)
+        (PP (IN of)
+            (NP (DT the) (NN heading) (NN technique))))
+    (VP (VBZ is)
+        (ADJP (JJ dependent)
+              (PP (IN upon)
+                  (NP (NP (DT the) (NN accuracy) (NNS requirements)
+                          (, ,)
+                          (NN field) (NNS conditions))
+                      (, ,)
+                      (CC and)
+                      (NP (NP (DT the) (NN time))
+                          (ADJP (JJ available))
+                          (S (NP (-NONE- *))
+                             (AUX (TO to))
+                             (VP (VB accomplish)
+                                 (NP (DT the) (NN heading))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 7-5))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NP (JJ External) (NN determination)
+         (PP (IN of)
+             (NP (NN heading))))
+     (: --)
+     (NP (VP (VBG surveying))
+         (NN technique)))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN With)
+        (S (NP (DT the) (JJ gyro-stabilized) (NN platform))
+           (VP (VBD leveled))))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN headed)
+               
+               (PP (IN in)
+                   (NP (DT the) (JJ proper) (NN direction)))
+               (PP (IN by)
+                   (S (NP (-NONE- *))
+                      (VP (VBG using)
+                          (NP (VP (VBG surveying))
+                              (NNS techniques)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN platform) (NNS accelerometers))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (ADVP (RB slightly))
+            (VBN modified)
+            
+            (PP (IN for)
+                (NP (DT this) (NN procedure))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN Before)
+        (S (NP (DT the) (NNS accelerometers))
+           (AUX (VBP are))
+           (VP (VBN mounted)
+               
+               (PP (IN on)
+                   (NP (DT the) (NN platform))))))
+    (, ,)
+    (S (NP (DT the) (NN direction)
+           (PP (IN of)
+               (NP (PRP$ their) (JJ sensitive) (NN axis))))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (ADVP (RB accurately))
+               (VBN determined)
+               ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (NN mirror))
+    (AUX (VBZ is))
+    (VP (VBN mounted)
+        
+        (PP (IN on)
+            (NP (DT each) (NN accelerometer)))
+        (SBAR (RB so)
+              (IN that)
+              (S (NP (DT the) (NN plane)
+                     (PP (IN of)
+                         (NP (DT the) (NN mirror))))
+                 (VP (VBZ is)
+                     (ADJP (JJ perpendicular)
+                           (PP (TO to)
+                               (NP (DT the) (JJ sensitive) (NN axis)
+                                   (PP (IN of)
+                                       (NP (DT the) (NN unit)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Transit))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT A) (NN precision) (NN transit))
+    (AUX (VBZ is))
+    (VP (VBN set)
+        
+        (PRT (IN up))
+        (SBAR (RB so)
+              (IN that)
+              (S (NP (PRP it))
+                 (AUX (VBZ is))
+                 (VP (VBN aligned)
+                     
+                     (PP (IN with)
+                         (NP (NN respect)
+                             (PP (TO to)
+                                 (NP (JJ true) (NN north))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN done)
+            (PP (TO to)
+                (NP (DT a) (JJ high) (NN degree)
+                    (PP (IN of)
+                        (NP (NN accuracy)))))
+            (PP (IN by)
+                (NP (VBG existing)
+                    (NN surveying) (NNS techniques))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN With)
+        (S (NP (DT the) (NN transit))
+           (VP (VBN set)
+               (PRT (IN up)))))
+    (, ,)
+    (S (NP (DT a) (NN mirror)
+           (PP (IN on)
+               (NP (CD one)
+                   (PP (IN of)
+                       (NP (DT the) (NNS accelerometers))))))
+       (AUX (VBZ is))
+       (VP (VBN sighted)
+           ))
+    (CC and)
+    (S (NP (DT the) (NN platform))
+       (AUX (VBZ is))
+       (VP (VBN turned)
+           
+           (PP (IN until)
+               (S (NP (PRP it))
+                  (AUX (VBZ is))
+                  (VP (VBN aligned)
+                      ))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN sighting) (NN procedure))
+    (VP (VBZ includes)
+        (NP (DT the) (NN use)
+            (PP (IN of)
+                (NP (DT a) (NN fixture)
+                    (PP (IN for)
+                        (NP (DT the) (NN transit))))
+                (S (NP (-NONE- *))
+                   (AUX (TO to))
+                   (VP (VB project)
+                       (NP (NP (DT a) (NN beam)
+                               (PP (IN of)
+                                   (NP (NN light))))
+                           (, ,)
+                           (SBAR
+                                 (WHNP (WDT which))
+                                 (S (NP (-NONE- T))
+                                    (AUX (VBZ is))
+                                    (VP (VBN darkened)
+                                        
+                                        (PP (IN by)
+                                            (NP (VP (VBN crossed))
+                                                (NNS hairs)))
+                                        (, ,)
+                                        (PP (IN on)
+                                            (NP (DT the) (NN accelerometer) (NN mirror)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN platform))
+             (AUX (VBZ is))
+             (VP (VBN aligned)
+                 )))
+    (, ,)
+    (S (NP (DT the) (VBN reflected) (NN image)
+           (PP (IN of)
+               (NP (DT the) (VBN crossed) (NNS hairs))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN seen)
+               
+               (ADJP (RB exactly)
+                     (VBN superimposed)
+                     (PP (IN upon)
+                         (NP (DT the)
+                             (JJ original)
+                             (VBN crossed)
+                             (NNS hairs))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS images))
+    (AUX (MD can))
+    (ADVP (RB easily))
+    (VP (VB be)
+        (VP (VBN aligned)
+            
+            (PP (IN with)
+                (NP (DT a) (JJ high) (NN degree)
+                    (PP (IN of)
+                        (NP (NN accuracy))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN platform))
+    (AUX (VBZ is))
+    (VP (VBN turned)
+        
+        (PP (IN as)
+            (S (NP (-NONE- *))
+               (VP (VBN required)
+                   (PP (IN by)
+                       (S (NP (-NONE- *))
+                          (VP (VBG supplying)
+                              (NP (NNS currents))
+                              (PP (TO to)
+                                  (NP (DT the) (JJ appropriate) (NN gyro) (NNS torquers)))))))))))
+ (. .))
+ 
+
+ 
+
+((S (SBAR (IN Although)
+          (S (NP (DT this) (NN technique))
+             (VP (VBZ is)
+                 (ADJP (JJ simple) (CC and) (JJ satisfactory)))))
+    (, ,)
+    (S (NP (CD one) (JJ practical) (NN difficulty))
+       (AUX (VBZ does))
+       (VP (VB exist)))
+    (: :)
+    (S (NP (DT the) (NN direction)
+           (PP (IN of)
+               (NP (JJ true) (NN north))))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN known)
+               
+               (PP (IN for)
+                   (NP (DT each) (NN launch) (NN point)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (DT this) (NN difficulty))
+       (VP (VBZ is)
+           (NEG (RB not))
+           (ADJP (RB too)
+                 (JJ serious)))
+       (SBAR (IN if)
+             (S (NP (PRP it))
+                (AUX (VBZ is))
+                (VP (VBN realized)
+                    
+                    (SBAR (IN that)
+                          (S (NP (DT a) (VBG surveying) (NN team))
+                             (AUX (MD can))
+                             (VP (VB establish)
+                                 (NP (DT a) (JJ true) (NN north) (NN base) (NN line))
+                                 (PP (IN with)
+                                     
+                                     (NP
+                                         (NP (DT a) (JJ few) (NNS days))
+                                         (POS ') (NN work)))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (JJ many) (NNS installations)))
+    (, ,)
+    (S (NP (DT the) (JJ inertial) (NN platform))
+       (AUX (VBZ is))
+       (VP (VBN raised)
+           
+           (PP (IN off)
+               (NP (DT the) (NN ground)))
+           (NP (DT a) (JJ considerable) (NN height)))
+       (SBAR
+             (WHADVP (WRB when))
+             (S (NP (PRP it))
+                (AUX (VBZ is))
+                (VP (VBN mounted)
+                    
+                    (PP (IN in)
+                        (NP (DT the) (NN vehicle))))
+                (PP (IN before)
+                    (NP (NN flight)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN With)
+        (NP (DT this) (NN situation)))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (ADJP (JJ difficult)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB sight)
+              (PP (IN in)
+                  (PP (IN on)
+                      (NP (DT the) (NN platform))))
+              (PP (IN with)
+                  (NP (VBG|NN surveying) (NN equipment)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN platform))
+             (VP (VBZ is)
+                 (NEG (RB not))
+                 (ADJP (RB too)
+                       (JJ high)
+                       (PP (IN off)
+                           (NP (DT the) (NN ground)))))))
+    (, ,)
+    (S (NP (DT a) (NN transit))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN mounted)
+               
+               (PP (IN on)
+                   (NP (DT a) (NN stand)))
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB raise)
+                      (NP (PRP it))
+                      (PP (IN up)
+                          (PP (TO to)
+                              (NP (DT the) (NN platform))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Obviously))
+    (, ,)
+    (S (NP (DT the) (NN heading) (NN accuracy))
+       (AUX (VBZ is))
+       (VP (VBN lessened)
+           
+           (PP (IN by)
+               (NP (JJ such) (NNS techniques))))
+       (SBAR (IN since)
+             (S (NP (NNS errors))
+                (AUX (VBP are))
+                (VP (VBN introduced)
+                    (ADVP (RB because)
+                          (PP (IN of)
+                              (NP (NN motion)
+                                  (PP (IN of)
+                                      (NP (DT the) (NN stand)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Autocollimator))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN transit))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN replaced)
+            
+            (PP (IN by)
+                (NP (DT an) (NN autocollimator))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN instrument))
+    (X (VP (VBZ provides)
+           (NP (NP (DT an) (JJ electrical) (NN signal))
+               (ADJP (JJ proportional)
+                     (PP (TO to)
+                         (NP (DT the) (JJ angular) (NNS deviations)
+                             (PP (IN of)
+                                 (NP (DT the) (NN platform))))))))
+       (CC and)
+       (X (AUX (MD can))
+          (VP (VB be)
+              (VP (VBN used)
+                  
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (ADVP (RB automatically))
+                     (VP (VB hold)
+                         (NP (DT the) (NN platform))
+                         (PP (IN on)
+                             (NP (JJ true) (NN heading))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ electrical) (NN signal)
+        (PP (IN from)
+            (NP (DT the) (NN autocollimator))))
+    (AUX (VBZ is))
+    (VP (VP (VBN amplified))
+        (CC and)
+        (VP (VBN supplied)
+            (PP (TO to)
+                (NP (DT the) (NN Z-gyro) (NN torquer))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (DT the) (NN polarity))
+             (VP (VBZ is)
+                 (ADJP (JJ correct)))))
+    (, ,)
+    (S (NP (DT the) (NN platform))
+       (AUX (MD will))
+       (VP (VB turn)
+           (PP (IN until)
+               (S (NP (DT the) (NN heading) (NN error) (NN angle))
+                  (VP (VBZ is)
+                      (NP (CD zero))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Information))
+    (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (JJ available)
+              (PP (IN from)
+                  (NP (DT this) (NN autocollimator) (NN system)))
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB set)
+                     (NP (DT the) (NN drift) (NN bias)
+                         (PP (IN for)
+                             (NP (DT the) (NN Z-axis) (NN gyro)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN Z) (NN gyro))
+             (AUX (VBZ is))
+             (VP (VBG drifting))))
+    (, ,)
+    (S (NP (NP (DT a) (NN current))
+           (VP (VBN generated)
+               (PP (IN by)
+                   (NP (DT the) (NN autocollimator)))))
+       (AUX (VBZ is))
+       (VP (VBN delivered)
+           
+           (PP (TO to)
+               (NP (DT the) (NN gyro) (NN torquer)))
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB cancel)
+                  (NP (DT the) (NN drift)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN drift) (NN error))
+             (VP (VBZ is)
+                 (ADJP (JJ systematic)))))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN canceled)
+               
+               (PP (IN with)
+                   (NP (NP (DT a) (NN bias) (NN circuit))
+                       (SBAR (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (AUX (MD can))
+                                (VP (VB be)
+                                    (VP (VBN arranged)
+                                        (CC and)
+                                        (VBN adjusted)
+                                        (S (NP (-NONE- *))
+                                           (AUX (TO to))
+                                           (VP (VB supply)
+                                               (NP (DT the)
+                                                   (ADJP (VBN required))
+                                                   (VP (VBG compensating))
+                                                   (NN current))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (JJ Electrical) (NNS pickoffs))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (S-1 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (ADJP (JJ possible)))
+    (S-1 (NP (-NONE- *))
+         (AUX (TO to))
+         (VP (VB locate)
+             (NP (NP (DT an)
+                     (JJ angular) (JJ electrical)
+                     (NN pickoff))
+                 (, ,)
+                 (SBAR
+                       (WHNP (WDT which))
+                       (S (NP (-NONE- T))
+                          (AUX (MD will))
+                          (VP (VB indicate)
+                              (NP (DT the) (JJ angular) (NN deviation)
+                                  (PP (IN between)
+                                      (NP (NP (DT the) (JJ true) (NN heading) (NN direction))
+                                          (CC and)
+                                          (NP (DT the) (NN platform))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Essentially))
+    (, ,)
+    (S (NP (DT the) (NN stator) (CC or) (NN reference) (NN portion)
+           (PP (IN of)
+               (NP (DT the) (NN pickoff))))
+       (AUX (VBZ is))
+       (VP (VBN established)
+           
+           (PP (IN with)
+               (NP (NN respect)
+                   (PP (TO to)
+                       (NP (DT the) (JJ true) (NN heading) (NN direction)))))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN platform))
+       (AUX (VBZ is))
+       (VP (VBN turned)
+           (ADVP (DT either)
+                 (ADVP (RB manually))
+                 (CC or)
+                 (ADVP (RB automatically)))
+           (PP (IN until)
+               (S (NP (DT the)
+                      (ADJP (JJ angular) (JJ electrical))
+                      (NN pickoff) (NN signal))
+                  (AUX (VBZ is))
+                  (VP (VBN reduced)
+                      
+                      (PP (TO to)
+                          (NP (CD zero)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (CD 7-6))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Gyrocompass) (NN heading))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Gyrocompass) (NN alignment))
+    (VP (VBZ is)
+        (NP (NP (DT an) (JJ automatic) (NN heading) (NN system))
+            (SBAR (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ depends)
+                         (PP (IN upon)
+                             (NP (DT the) (NN characteristic)
+                                 (PP (IN of)
+                                     (NP (CD one) (NN gyro)))))
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB establish)
+                                (NP (JJ true) (NN heading))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (DT the) (NN case)
+            (PP (IN of)
+                (NP (NP (DT a)
+                        (ADJP (RB purely)
+                              (JJ inertial)) (NN autonavigator))
+                    (VP (VBG consisting)
+                        (PP (IN of)
+                            (NP (CD three)
+                                (VP (VBN restrained))
+                                (NNS gyros))))))))
+    (, ,)
+    (S (NP (DT a) (JJ coordinate) (NN system))
+       (AUX (VBZ is))
+       (VP (VBN used)
+           
+           (SBAR
+                 (WHADVP (WRB where))
+                 (S (S (NP (DT the) (JJ sensitive) (NN axis)
+                           (PP (IN of)
+                               (NP (DT the) (NN X) (NN accelerometer))))
+                       (VP (VBZ is)
+                           (ADJP (JJ parallel)
+                                 (PP (TO to)
+                                     (NP (DT the) (JJ east-west) (NN direction)))
+                                 (PP (IN at)
+                                     (NP (DT the) (NN base) (NN point))))))
+                    (, ,)
+                    (CC and)
+                    (S (NP (DT the) (NN Y) (NN accelerometer) (JJ sensitive) (NN axis))
+                       (VP (VBZ is)
+                           (ADJP (JJ parallel)
+                                 (PP (TO to)
+                                     (NP (DT the) (JJ north-south) (NN direction)))
+                                 (PP (IN at)
+                                     (NP (DT the) (NN base) (NN point)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS accelerometers))
+    (AUX (VBP are))
+    (VP (VBN mounted)
+        (ADVP (RB rigidly))
+        (PP (IN on)
+            (NP (DT the) (NN platform)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (SBAR (IN if)
+          (S (NP (CD one) (NN accelerometer))
+             (AUX (VBZ is))
+             (VP (ADVP (RB properly))
+                 (VBN aligned)
+                 )))
+    (, ,)
+    (S (NP (DT the)
+           (ADJP (JJ other)))
+       (VP (VBZ is)
+           (ADVP (RB also)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN input) (NN axis)
+        (PP (IN of)
+            (NP (DT the) (JJ appropriate) (NNS gyros))))
+    (VP (VBP are)
+        (ADJP (JJ parallel)
+              (PP (TO to)
+                  (NP (DT the) (JJ sensitive) (NN direction)
+                      (PP (IN of)
+                          (NP (DT the) (NNS accelerometers))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Figure) (CD 7-3))
+    (VP (VBZ shows)
+        (NP (DT a) (NN platform) (NN system)
+            (PP (IN with)
+                (NP (NP (DT the) (NN gyro) (NNS vectors))
+                    (VP (VBN arranged)
+                        (PP (IN as)
+                            (S (NP (-NONE- *))
+                               (VP (VBN described)
+                                   (PP (IN above)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN platform))
+    (AUX (VBZ is))
+    (VP (VP (VBN leveled))
+        (CC and)
+        (VP (ADVP (RB properly))
+            (VBN headed)
+            (, ,)
+            (SBAR (RB so)
+                  (IN that)
+                  (S (S (NP (DT the) (NN X-gyro) (NN input) (NN axis))
+                        (VP (VBZ is)
+                            (ADJP (JJ parallel)
+                                  (PP (TO to)
+                                      (NP (DT the) (JJ east-west) (NN direction))))))
+                     (CC and)
+                     (S (NP (DT the) (NN Y-gyro) (NN input) (NN axis))
+                        (VP (VBZ is)
+                            (ADJP (JJ parallel)
+                                  (PP (TO to)
+                                      (NP (DT the) (JJ north-south) (NN direction)))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN input) (NN axis)
+        (PP (IN of)
+            (NP (DT the) (NN X) (NN gyro))))
+    (, ,)
+    (SBAR (WHADVP (WRB when))
+          (S (NP (-NONE- *))
+             (VP (VBG pointing)
+                 (PP (IN in)
+                     (NP (DT the) (JJ east-west) (NN direction))))))
+    (, ,)
+    (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ perpendicular)
+              (PP (TO to)
+                  (NP (DT the) (NN spin) (NN axis)
+                      (PP (IN of)
+                          (NP (NN earth))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN platform))
+             (AUX (VBZ is))
+             (NEG (RB not))
+             (VP (ADVP (RB properly))
+                 (VBN headed)
+                 )))
+    (, ,)
+    (S (NP (DT the) (NN X-gyro) (NN input) (NN axis))
+       (AUX (MD will))
+       (VP (VB see)
+           (NP (DT a) (NN component)
+               (PP (IN of)
+                   (NP
+                       (NP (DT the) (NN earth))
+                       (POS 's) (NN rotation)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN sensing)
+        (PP (IN of)
+            (NP (DT this) (NN rotation)))
+        (PP (IN by)
+            (NP (DT the) (NN X) (NN gyro))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN utilized)
+            
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB direct)
+                   (NP (DT the) (NN platform)
+                       (PP (IN into)
+                           (NP (JJ proper) (NN heading)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN Fig.) (CD 7-4)))
+    (, ,)
+    (S (NP (DT the) (NN input) (NN axis)
+           (PP (IN of)
+               (NP (DT the) (JJ three-axis) (NN platform))))
+       (AUX (VBZ is))
+       (VP (VBN shown)
+           
+           (PP (IN at)
+               (NP (DT some) (NN point)
+                   (PP (IN on)
+                       (NP (DT the) (NN earth))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN point))
+       (VP (VBZ is)
+           (PP (IN at)
+               (NP (DT a) (NN latitude) (-NONE- **) (NN yl)))))
+    (, ,)
+    (CC and)
+    (S (NP (DT the) (NN platform))
+       (VP (VBZ is)
+           (PP (IN at)
+               (NP (DT an) (NN error))))
+       (PP (IN in)
+           (S (NP (-NONE- *))
+              (VP (VBG heading)
+                  (ADJP (JJ east)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN earth))
+    (AUX (VBZ is))
+    (VP (VBG spinning)
+        (PP (IN at)
+            (NP (NP (DT an) (JJ angular) (NN velocity) (-NONE- **) (NN zq))
+                (ADJP (JJ equal)
+                      (PP (TO to)
+                          (NP (CD one) (NN revolution)
+                              (PP (IN per)
+                                  (NP (CD 24) (NN hr)
+                                      (. .))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN platform))
+             (VP (VBZ is)
+                 (ADJP (JJ level)))))
+    (, ,)
+    (S (NP (-NONE- **) (NN ye))
+       (VP (VBZ is)
+           (NP (DT a) (NN rotation)
+               (PP (IN about)
+                   (NP (DT the) (NN Z) (NN axis)
+                       (PP (IN of)
+                           (NP (DT the) (NN platform) (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN Since)
+          (S (S (NP (DT the) (NN earth))
+                (AUX (VBZ is))
+                (VP (VBG rotating)))
+             (CC and)
+             (S (NP (DT the)
+                    (VBN unleveled) (JJ gyro-stabilized)
+                    (NN platform))
+                (AUX (VBZ is))
+                (VP (VBN fixed)
+                    
+                    (PP (IN with)
+                        (NP (NN respect)
+                            (PP (TO to)
+                                (NP (DT a) (NN reference)
+                                    (PP (IN in)
+                                        (NP (NN space)))))))))))
+    (, ,)
+    (S (NP (DT an) (NN observer)
+           (PP (IN on)
+               (NP (DT the) (NN earth))))
+       (AUX (MD will))
+       (VP (VB see)
+           (NP (DT the) (NN platform))
+           (VP (VBG rotating)
+               (-LRB- -LRB-)
+               (PP (IN with)
+                   (NP (NN respect)
+                       (PP (TO to)
+                           (NP (DT the) (NN earth)))))
+               (-RRB- -RRB-)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

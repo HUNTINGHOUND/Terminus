@@ -1,0 +1,2221 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  The bronchus
+	 and
+	 pulmonary artery)
+    (PP in
+	(NP this lung type))
+    (VP maintain
+	(NP a close relationship)
+	(ADVP throughout)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP The pulmonary vein)
+      ,
+      (ADVP however)
+      ,
+      (PP without
+	  (NP the  limiting supportive tissue septa
+	      (PP as
+		  (PP in
+		      (NP type 1)))))
+      ,
+      ,
+      (X (VP follows
+	     (NP a
+		 (ADJP more
+		       direct) path
+		 (PP to
+		     (NP the hilum))))
+	 and
+	 (X   
+	  (AUX does)
+	  (NEG not)
+	  (VP maintain
+	      (NP this close relationship)))))
+     *LRB*
+     (NP figs. 8
+	 ,
+	 22)
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another (ADJP marked) difference)
+   (AUX is)
+   (VP noted)
+   (ADVP here))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP The pulmonary artery)
+     ,
+     (PP in
+	 (NP addition
+	     (PP to
+		 (S (NP *) 
+		    (VP supplying
+			(NP the distal portion
+			    (PP of
+				(NP (NP the respiratory bronchiole)
+				    ,
+				    (NP the alveolar duct)
+				    ,
+				    and
+				    (NP the alveoli)))))))))
+     ,
+     (VP (VP continues
+	     (ADVP on))
+	 and
+	 (VP  (ADVP directly)
+	      supplies
+	      (NP the thin pleura))))
+    *LRB*
+    (NP fig. 8)
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The bronchial artery)
+  ,
+  (PP except
+      (PP for
+	  (NP a small number
+	      (PP of
+		  (NP short branches))
+	      (PP in
+		  (NP the hilum)))))
+  ,
+  (VP contributes
+      (NP none
+	  (PP of
+	      (NP the pleural blood supply)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP It)
+    (AUX does)
+    ,
+    (PP as
+	(PP in
+	    (NP type 1)))
+    ,
+    ,
+    (VP supply
+	(NP (NP the hilar lymph nodes)
+	    ,
+	    (NP the pulmonary artery)
+	    ,
+	    (NP the pulmonary vein)
+	    ,
+	    (NP the bronchi)
+	    ,
+	    and
+	    (NP the bronchioles)))
+    --
+    (S (NP *) 
+       (VP terminating
+	   (PP in
+	       (NP a common capillary bed
+		   (PP with
+		       (NP the pulmonary artery)))))
+       (PP at
+	   (NP the level
+	       (PP of
+		   (NP the respiratory bronchiole))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No bronchial artery-pulmonary artery anastomoses)
+   (AUX were)
+   (VP noted
+       )
+   (PP in
+       (NP this group)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Lung type
+	  3)
+      *LRB*
+      *LRB*
+      (NP fig. 3)
+      *RRB*)
+  (VP is
+      (PP to
+	  (NP some degree))
+      (NP a composite
+	  (PP of
+	      (NP types 1
+		  ,
+		  and
+		  2)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (AUX is)
+    (VP characterized
+	 
+	(PP by
+	    (NP the presence
+		(PP of
+		    (NP (NP (VP  (ADVP incompletely)
+				 developed)
+			    secondary lobules)
+			;
+			;
+			(NP (VP (VP (ADVP well)
+				    defined)
+				,
+				but
+				(VP  (ADVP haphazardly)
+				     arranged)
+				,)
+			    interlobular septa)
+			and
+			(NP (NP a
+				thick
+				,
+				(ADJP remarkably
+				      vascular)
+				pleura)
+			    *LRB*
+			    (NP fig. 9)
+			    *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	(ADVP  most distal)
+	airways)
+    (VP are
+	(ADJP similar
+	      (PP to
+		  (NP (NP those)
+		      (VP  found
+			   (PP in
+			       (NP type 1)))))))
+    ,
+    ,
+    (S (NP *) 
+       (AUX being)
+       (VP composed
+	   (PP of
+	       (NP (NP (NP 
+			numerous
+			,
+			(ADJP apparently
+			      true)
+			terminal
+			bronchioles)
+		       and
+		       ,
+		       (NP occasional
+			   (ADJP   poorly
+				   developed)
+			   respiratory bronchioles))
+		   *LRB*
+		   (NP figs. 14
+		       ,
+		       15)
+		   *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP this instance))
+   ,
+   (ADVP because
+	 (PP of
+	     (NP incomplete septation)))
+   ,
+   (S (NP the secondary lobule)
+      (AUX does)
+      (NEG not)
+      (VP constitute
+	  (PP in
+	      (NP itself))
+	  (SBAR 
+	   (WHNP what)
+	   (S (NP T)
+	      (VP appears
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (NP a
+			     small individual
+			     lung))
+		     (PP as
+			 (PP in
+			     (NP type 1))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Air-drifts
+       (PP (PP from
+	       (NP one area))
+	   (PP to
+	       (NP another))))
+   (VP are
+       ,
+       (ADVP therefore)
+       ,
+       (ADJP conceivable)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Distally)
+	 (S (NP the bronchus)
+	    (AUX is)
+	    (VP situated
+	      
+		(PP between
+		    (NP (NP a pulmonary artery
+			    (PP on
+				(NP one side)))
+			and
+			(NP a pulmonary vein
+			    (PP on
+				(NP the
+				    other)))))
+		,
+		(PP as
+		    (PP in
+			(NP type 1))))))
+     *LRB*
+     *LRB*
+     (NP fig. 24)
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP This relationship)
+  ,
+  (ADVP however)
+  ,
+  (AUX is)
+  (NEG not)
+  (VP maintained
+      (ADVP centrally)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Here)
+	 (S   
+	  (NP the pulmonary vein)
+	  ,
+	  (PP as
+	      (PP in
+		  (NP type 2)))
+	  ,
+	  ,
+	  (AUX is)
+	  (VP noted
+	    
+	      (S (S (NP *)
+		    (AUX to)
+		    (VP draw
+			(ADVP away
+			      (PP from
+				  (NP the bronchus)))))
+		 ,
+		 and
+		 (S (NP *)
+		    (AUX to)
+		    (VP follow
+			(NP a
+			    (ADJP more
+				  direct)
+			    ,
+			    independent
+			    course
+			    (PP to
+				(NP the hilum)))))))))
+     *LRB*
+     (NP figs. 23
+	 ,
+	 24)
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The bronchial artery
+       (PP in
+	   (NP its course and distribution)))
+   (VP differs
+       (ADVP somewhat)
+       (PP from
+	   (NP (NP that)
+	       (VP  found
+		    (PP in
+			(NP other mammals)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S  (NP *)  
+	   (VP seen
+	       (PP in
+		   (NP types 1
+		       ,
+		       and
+		       2)))))
+   ,
+   ,
+   (S (NP it)
+      (VP supplies
+	  (NP (NP the hilar lymph nodes)
+	      ,
+	      (NP vasa vasorum
+		  (PP to
+		      (NP the pulmonary artery and vein)))
+	      ,
+	      (NP the bronchi)
+	      and
+	      (NP the terminal bronchioles)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S  
+	 (PP As
+	     (PP in
+		 (NP type 1)))
+	 ,
+	 ,
+	 (S (NP it)
+	    (VP provides
+		(NP arterial blood)
+		(PP to
+		    (NP the interlobular septa)))))
+	,
+	and
+	(S (NP an
+	       (ADJP extremely
+		     rich)
+	       anastomotic pleural
+	       supply)
+	   (AUX is)
+	   (VP seen
+	       )))
+     *LRB*
+     (NP figs. 9
+	 ,
+	 10)
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This pleural supply)
+   (AUX is)
+   (VP derived
+       both
+       (PP from
+	   (NP 
+	    (ADJP hilar and interlobular) bronchial
+	    artery branches))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Such
+	 a dual derivation)
+    (AUX was)  
+    (VP (ADVP strikingly)
+	demonstrated
+	)
+    (PP during
+	(NP (NP the injection process)
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP initial filling)
+		(AUX would)
+		(VP be
+		    (VP noted
+			 
+			(S (NP *)
+			   (AUX to)
+			   (VP occur
+			       (PP in
+				   (NP several
+				       (ADJP isolated)
+				       pleural vessels))
+			       (PP at
+				   (ADVP once)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some
+       (PP of
+	   (NP these)))
+   (AUX were)
+   (ADVP obviously)
+   (VP filling
+       (PP from
+	   (NP interlobular branches
+	       (PP of
+		   (NP the bronchial arteries)))))
+   (SBAR while
+	 (S (NP others)
+	    (AUX were)
+	    (VP filling
+		(PP from
+			 
+		    (NP 
+		     (NP direct hilar
+			 branches)
+		     (VP following
+			 (PP along
+			     (NP the pleural surface)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP completion
+	   (PP of
+	       (NP  filling))))
+   ,
+   (S 
+    (NP   
+     (ADJP net-like)
+     anastomoses)
+    (AUX were)
+    (VP noted
+	  
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (ADJP present)
+	       (PP between
+		   (NP these
+		       (VP   separately
+			     derived)
+		       branches)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An unusual increase
+       (PP in
+	   (NP (NP the number
+		   (PP of
+		       (NP bronchial arteries)))
+	       (ADJP present
+		     (PP within
+			 (NP the substance
+			     (PP of
+				 (NP the lung))))))))
+   (AUX was)
+   (VP noted
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX was)
+   (VP accounted
+	     
+       (PP for
+	   (NP *) )
+       (PP (ADVP primarily)
+	   by
+	   (NP the presence
+	       (PP of
+		   (NP (NP a bronchial artery)
+		       (VP  (ADVP closely)
+			    following
+			    (NP the pulmonary artery))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The diameter
+	   (PP of
+	       (NP this bronchial artery)))
+       (VP was
+	   (ADJP   (ADVP much
+			 too)
+		   large
+		   (PP for
+		       (S (NP it)
+			  (AUX to)
+			  (VP be
+			      (NP a mere vasa vasorum)))))))
+    *LRB*
+    (NP figs. 16
+	,
+	23 ,
+	24)
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP distal regions))
+   (S (NP its diameter)
+      (AUX would)
+      (VP be
+	  (NP (ADJP one-fourth
+		    (PP to
+			(ADJP one-fifth)))
+	      that
+	      (PP of
+		  (NP the pulmonary artery))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This vessel)
+       (AUX could)
+       (VP be
+	   (VP followed
+	       (PP to
+		   (NP (NP the parenchyma)
+		       (SBAR 
+			(WHADVP where)
+			(S (NP it)
+			   (ADVP directly)
+			   (VP provided
+			       (NP 
+				bronchial arterial
+				blood)
+			       (PP to
+				   (NP the alveolar capillary bed))))))))))
+    *LRB*
+    (NP figs. 17
+	,
+	18)
+    *RRB*)  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Also)
+	 (S (NP three other direct pathways
+		(PP of
+		    (NP 
+		     alveolar bronchial arterial
+		     supply)))
+	    (AUX were)
+	    (VP noted
+		)
+	    :
+	    (PP (PP via
+		    (NP the pleura))
+		;
+		;
+		(PP through
+		    (NP the interlobular septa))
+		;
+		;
+		and
+		(PP along
+		    (NP the terminal bronchiole)))))
+     *LRB*
+     (NP figs. 14
+	 ,
+	 17 ,
+	 18 ,
+	 19)
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP One bronchial (ADJP arteriolar-pulmonary) arteriolar anastomosis)
+       (AUX was)
+       (VP noted
+	   (PP at
+	       (NP the
+		   terminal bronchiolar
+		   level))))
+    *LRB*
+    (NP fig. 26)
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP Discussion))
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (ADJP evident))
+   (SBAR-1 that
+	   (S (NP many (ADJP marked and striking) differences
+		  (PP-1 *pseudo-attach*))
+	      (VP exist)
+	      (PP-1 between
+		    (NP lungs))
+	      (SBAR 
+	       (WHADVP when)
+	       (S (NP an (ADJP inter-species) comparison)
+		  (AUX is)
+		  (VP made))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The significance
+	  (PP of
+	      (NP these differences)))
+      (AUX has)
+      (NEG not)
+      (VP been
+	  (VP studied
+	      )))
+     nor
+     (SINV  
+      (AUX has)
+      (NP the existence
+	  (PP of
+	      (NP 
+	       (ADJP corresponding) physiologic
+	       differences)))
+      (VP  
+       been
+       (VP determined))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     (S  ,
+	 (NP the dynamics
+	     (PP of
+		 (NP airflow)))
+	 ,
+	 (PP from
+	     (NP morphologic considerations
+		 (ADVP alone)))
+	 ,
+	 (AUX may)
+	 (ADVP conceivably)
+	 (VP be
+	     (ADJP different
+		   (PP in
+		       (NP the monkey))
+		   (PP than
+		       (PP in
+			   (NP the horse)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  The volume
+       and
+       ,
+       (ADVP perhaps)
+       ,
+       (ADVP even)
+       the characteristics
+       (PP of
+	   (NP bronchial arterial
+	       blood flow)))
+  (AUX might)
+  (VP be
+      (ADJP different
+	    (PP in
+		(NP the dog))
+	    (PP than
+		(PP in
+		    (NP the horse))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Also)
+	 ,
+	 (S (NP interlobular air drifts)
+	    (X (X (AUX may)
+		  (VP be
+		      (ADJP (ADVP all
+				  but)
+			    nonexistent)
+		      (PP in
+			  (NP the cow))))
+	       ;
+	       ;
+	       (VP  (ADVP probably)
+		    occur
+		    (PP in
+			(NP the horse))
+		    (ADVP much
+			  (PP as
+			      (PP in
+				  (NP the human
+				      being)))))
+	       ;
+	       ;
+	       and
+	       ,
+	       (PP in
+		   (NP contrast))
+	       ,
+	       (VP are
+		   (ADJP present)
+		   (PP to
+		       (NP a
+			   (ADJP relatively
+				 immense) degree))
+		   (PP on
+		       (NP a segmental basis))
+		   (PP in
+		       (NP  (NP the dog)
+			    (SBAR 
+			     (WHADVP where)
+			     (S (NP lobules)
+				(VP are
+				    (ADJP absent))))))))))
+     *LRB*
+     (NP (NP (NP Van Allen)
+	     and
+	     (NP Lindskog))
+	 ,
+	 (NP '31 '31))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A reason
+       (PP for
+	   (NP 
+	    such wide
+	    variation
+	    (PP in
+		(NP the pulmonary morphology)))))
+   (VP is
+       (ADJP   (ADVP entirely)
+	       lacking))
+   (PP at
+       (NP present)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP Within
+	  (NP 
+	   certain wide
+	   limits))
+      (S (NP anatomy)
+	 (VP dictates
+	     (NP function))))
+     and
+     ,
+     (S (SBAR if
+	      (S (NP one)
+		 (AUX is)
+		 (VP permitted
+		    
+		     (S (NP *)
+			(AUX to)
+			(VP speculate)))))
+	,
+	(S (NP potential pathology)
+	   (AUX should)
+	   (VP be
+	       (VP included
+		     
+		   (PP in
+		       (NP this statement
+			   (ADVP as
+				 well))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S (NP the (ADJP marked) susceptibility
+	  (PP of
+	      (NP the monkey))
+	  (PP to
+	      (NP respiratory infection)))
+      (AUX might)
+      (VP be
+	  (ADJP related
+		(PP to
+		    (NP (NP its
+			    delicate
+			    ,
+			    long
+			    alveolar ducts)
+			and
+			(NP (NP 
+			     short
+			     ,
+			     large
+			     bronchioles)
+			    (VP situated
+				(PP within
+				    (NP (NP a parenchyma)
+					(ADJP   entirely
+						lacking
+						(PP in
+						    (NP (NP 
+							 protective supportive
+							 tissue barriers)
+							(ADJP such
+							      (PP as
+								  (NP (NP those)
+								      (VP  found
+									   (PP in
+									       (NP types 1
+										   ,
+										   and
+										   3))))))))))))))))
+	  )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX might)
+   (ADVP also)
+   (VP wonder
+       (SBAR if
+	     (S (NP monkeys)
+		(VP are
+		    (ADJP capable
+			  (PP of
+			      (S  (NP *) 
+				  (VP developing
+				      (NP bronchiolitis)
+				      (PP as
+					  (S (NP we)
+					     (VP know
+						 (NP it))
+					     (PP in
+						 (NP (NP man)
+						     or
+						     (NP the horse))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   ,
+   (S (S (NP it
+	     (S-2 *pseudo-attach*))
+	 (AUX would)
+	 (VP be
+	     (ADJP difficult))
+	 (S-2 (NP *)
+	      (AUX to)
+	      (VP imagine
+		  (S (NP 
+		      chronic generalized
+		      emphysema)
+		     (VP occurring
+			 (PP in
+			     (NP a cow))))))
+	 ,
+	 (VP considering
+	     (NP its
+		 (ADJP marked) lobular
+		 development)))
+      but
+      ,
+      (X (ADVP conversely)
+	 ,
+	 (ADJP (NEG not)
+	       difficult)
+	 (NP (NP *)
+	     (AUX to)
+	     (VP imagine
+		 (S (NP this)
+		    (VP occurring
+			(PP in
+			    (NP (NP the horse)
+				or
+				(NP the dog))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Anatomically)
+      ,
+      (S (NP the horse lung)
+	 (VP appears
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (PP  (ADVP remarkably)
+			 like
+			 (NP that
+			     (PP of
+				 (NP man))))
+		    ,
+		    (ADVP insofar
+			  (PP as
+			      (S (NP this)
+				 (AUX can)
+				 (VP be
+				     (VP ascertained
+			   
+					 (PP from
+					     (NP comparison
+						 (PP of
+						     (NP our findings
+							 (PP in
+							     (NP the horse))))
+						 (PP with
+						     (NP those
+							 (PP of
+							     (NP (NP others)
+								 *LRB*
+								 (NP (NP Birnbaum)
+								     ,
+								     (NP '54 '54))
+								 *RRB*))
+							 (PP in
+							     (NP the human being))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The only area)
+      (SBAR (WHPP in
+		  (WHNP which))
+	    (S (NP one)
+	       (AUX might)
+	       (VP find
+		   (NP major disagreement
+		       (PP in
+			   (NP this matter)))))))
+  (VP is
+      (PP in
+	  (NP regard
+	      (PP to
+		  (NP the alveolar distribution
+		      (PP of
+			  (NP the bronchial arteries))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S   (ADVP As
+	    early
+	    (PP as
+		(NP 1858)))
+      ,
+      (S (NP Le Fort)
+	 (VP claimed
+	     (NP an alveolar distribution
+		 (PP of
+		     (NP the bronchial arteries
+			 (PP in
+			     (NP human beings))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 1951))
+   ,
+   (S (NP this)
+      (AUX was)
+      (VP reaffirmed
+	      
+	  (PP by
+	      (NP Cudkowicz)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The opposition
+	(PP to
+	    (NP this point
+		(PP of
+		    (NP view)))))
+    (VP has
+	(NP its
+	    staunchest
+	    support)
+	(PP in
+	    (NP (NP the work
+		    (PP of
+			(NP Miller)))
+		*LRB*
+		(NP '50)
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Apparently)
+	 ,
+	 (ADVP however)
+	 ,
+	 (S (NP Miller)
+	    (AUX has)
+	    (VP relied
+		(ADVP heavily)
+		(PP on
+		    (NP the anatomy
+			(PP in
+			    (NP (NP dogs) and (NP cats))))))))
+      ,
+      and
+      (S (S (NP he)
+	    (AUX has)
+	    (VP been
+		(VP criticized
+		  
+		    (PP for
+			(S (NP *) 
+			   (VP using
+			       (NP pathologic human material)
+			       (PP in
+				   (NP his normal study))))))))
+	 *LRB*
+	 (NP (NP Loosli)
+	     ,
+	     (NP '38 '38))
+	 *RRB*))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (SBAR Although
+	    (S (NP Miller)
+	       (VP noted
+		   (PP in
+		       (NP 1907))
+		   (SBAR that
+			 (S (NP a difference
+				(PP in
+				    (NP the pleural blood supply)))
+			    (VP existed
+		    
+				(PP between
+				    (NP animals))))))))
+      ,
+      (SINV (ADVP nowhere
+		  (PP in
+		      (NP his published works)))
+	    (AUX is)
+	    (NP it)
+	    (VP found)
+	    (SBAR that
+		  (S (NP he)
+		     (VP did
+			 (NP a comparative study
+			     (PP of
+				 (NP the intrapulmonary features
+				     (PP of
+					 (NP (NP 
+					      various mammalian
+					      lungs)
+					     (ADJP other
+						   (PP than
+						       (PP in
+							   (NP the dog and cat))))))))))))))
+     *LRB*
+     (NP (NP Miller)
+	 ,
+	 (NP (NP '13 '13)
+	     ;
+	     ;
+	     (NP '25 '25)))
+     *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The meaning
+       (PP of
+	   (NP this variation
+	       (PP in
+		   (NP distribution
+		       (PP of
+			   (NP the bronchial artery
+			       (PP as
+				   (S  (NP *)  
+				       (VP found
+					   (PP in
+					       (NP the horse))))))))))))
+   (VP is
+       (NEG not)
+       (ADJP clear)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP this artery)
+	 (AUX is)
+	 (VP known
+		 
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (NP a nutrient vessel
+			(PP with
+			    (NP a distribution
+				(PP  (ADVP primarily)
+				     to
+				     (NP the proximal airways
+					 and
+					 supportive tissues
+					 (PP of
+					     (NP the lung))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The alveoli
+      and
+      respiratory bronchioles)
+  (VP  are
+       (ADVP primarily)
+       (NP  diffusing
+	    tissues)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Theoretically)
+      ,
+      (S (NP they)
+	 (VP are
+	     (ADJP capable
+		   (PP of
+		       (S (NP *) 
+			  (VP extracting
+			      (NP their (ADJP required) oxygen)
+			      (PP either
+				  (PP from
+				      (NP (NP the (VP surrounding) air)
+					  *LRB*
+					  (NP (NP (NP Ghoreyeb)
+						  and
+						  (NP Karsner))
+					      ,
+					      (NP '13 '13))
+					  *RRB*))
+				  or
+				  (PP from
+				      (NP (NP 
+					   pulmonary arterial
+					   blood)
+					  *LRB*
+					  (NP (NP Comroe)
+					      ,
+					      (NP '58 '58))
+					  *RRB*))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP an explanation
+	     (PP of
+		 (NP this alveolar bronchial artery supply)))
+	 (AUX might)
+	 (VP be
+	     (NP the nutritive requirement
+		 (PP of
+		     (NP (NP an  (VP increased) amount
+			     (PP of
+				 (NP supportive tissue)))
+			 ,
+			 (ADJP  (ADVP (NEG not)
+				      primarily)
+				diffusing
+				(PP in
+				    (NP nature)))
+			 ,
+			 (PP in
+			     (NP the region
+				 (PP of
+				     (NP the alveolus))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP this)
+	     (VP be
+		 (ADJP true))))
+   ,
+   (S (NP the possibility)
+      (VP exists
+	  (SBAR that
+		(S (NP an occlusive lesion
+		       (PP of
+			   (NP the bronchial arteries)))
+		   (AUX might)
+		   (VP cause
+		       (NP  (NP widespread degeneration
+				(PP of
+				    (NP supportive tissue)))
+			    (ADJP similar
+				  (PP to
+				      (NP (NP that)
+					  (VP seen
+					      (PP in
+						  (NP (ADJP generalized) emphysema)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (AUX would)
+   (NEG not)
+   (VP expect
+       (S (NP  such
+	       an event)
+	  (AUX to)
+	  (VP occur
+	      (PP in
+		  (NP (NP animals)
+		      (VP possessing
+			  (NP lungs
+			      (PP of
+				  (NP types 1
+				      ,
+				      or
+				      2))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP The presence
+        (PP of
+	    (NP (VP  (ADVP normally)
+		     occurring
+		     )
+		bronchial artery-pulmonary artery anastomoses)))
+    (AUX was)
+    (ADVP first)
+    (VP (VP noted
+	 
+	    (PP in
+		(NP 1721))
+	    (PP by
+		(NP Ruysch)))
+	,
+	and
+	(X (ADVP thereafter)
+	   (PP by
+	       (NP many others)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP (NP Nakamura)
+	     *LRB*
+	     (NP '58)
+	     *RRB*)
+	 ,
+	 (NP (NP Verloop)
+	     *LRB*
+	     (NP '48)
+	     *RRB*)
+	 ,
+	 (NP (NP (NP Marchand)
+		 ,
+		 (NP Gilroy)
+		 and
+		 (NP Watson))
+	     *LRB*
+	     (NP '50)
+	     *RRB*)
+	 ,
+	 (NP (NP Von Hayek)
+	     *LRB*
+	     (NP '53)
+	     *RRB*)
+	 ,
+	 and
+	 (NP (NP Tobin)
+	     *LRB*
+	     (NP '52)
+	     *RRB*))
+     (AUX have)
+     all
+     (VP claimed
+	 (NP their
+	     (ADJP normal
+		   but
+		   (ADVP relatively)
+		   nonfunctional)
+	     existence
+	     (PP in
+		 (NP the human being)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP Miller
+	 *LRB*
+	 (NP '50)
+	 *RRB*)
+     (VP is
+	 (NP the principal antagonist
+	     (PP of
+		 (NP this viewpoint)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP criticism
+	   (PP of
+	       (NP 
+		(NP the latter)
+		's views))))
+   ,
+   (S (NP his conclusions)
+      (AUX were)
+      (VP based
+	  (PP upon
+	      (NP (NP dog lung injection studies)
+		  (SBAR 
+		   (WHPP in
+			 (WHNP which))
+		   (S (NP all
+			  (PP of
+			      (NP the vascular channels)))
+		      (X (X (AUX were)
+			    (ADVP first)
+			    (VP filled
+	    
+				(PP with
+				    (NP (NP a solution)
+					(PP under
+					    (NP pressure))))))
+			 and
+			 (X (ADVP then)
+			    (AUX were)
+			    (VP injected
+	      
+				(PP with
+				    (NP (NP  (ADJP various sized)
+					     (ADJP colored)
+					     particles)
+					(VP designed
+					    (S (NP *)
+					       (AUX to)
+					       (VP stop
+						   (PP at
+						       (NP the arteriolar level)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S   (ADVP As
+	    early
+	    (PP as
+		(NP 1913)))
+      (S  
+       (NP (NP Ghoreyeb)
+	   and
+	   (NP Karsner))
+       (VP demonstrated
+	   (PP with
+	       (NP perfusion studies
+		   (PP in
+		       (NP dogs))))
+	   (SBAR (SBAR that
+		       (S (NP bronchial artery flow)
+			  (AUX would)
+			  (VP remain
+	        
+			      (ADJP constant)
+			      (PP at
+				  (NP a
+				      certain low
+				      level)))
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP pressure)
+			      (AUX was)
+			      (VP maintained
+	   
+				  (PP in
+				      (NP the pulmonary artery and vein)))))))
+		 ,
+		 but
+		 (SBAR that
+		       (S (NP increases
+			      (PP in
+				  (NP bronchial artery flow)))
+			  (AUX would)
+			  (VP occur)
+			  (PP in
+			      (NP response
+				  (PP to
+				      (NP a relative drop
+					  (PP in
+					      (NP pulmonary artery pressure))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP (NP Berry)
+	      ,
+	      (NP Brailsford)
+	      and
+	      (NP Daly))
+	  (PP in
+	      (NP 1931)))
+      and
+      (NP (NP Nakamura)
+	  (PP in
+	      (NP 1958))))
+  (VP reaffirmed
+      (NP this)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Our own studies)
+      (SBAR (WHPP in
+		  (WHNP which))
+	    (S (NP bronchial artery-pulmonary artery anastomoses)
+	       (AUX were)
+	       (VP demonstrated
+		   )))
+      ,)
+  (AUX were)
+  (VP accomplished
+	 
+      (PP by
+	  (S (NP *) 
+	     (VP injecting
+		 (NP the bronchial artery)
+		 (PP (ADVP first)
+		     (PP with
+			 (NP no pressure
+			     (PP on
+				 (NP the pulmonary artery or vein))))
+		     ,
+		     and
+		     (ADVP then)
+		     (PP by
+			 (S (NP *) 
+			    (VP injecting
+				(NP the pulmonary artery and vein)
+				(ADVP afterwards))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (VP is
+       (ADJP  distinctly
+	      possible))
+   ,
+   (ADVP therefore)
+   ,
+   (SBAR-3 that
+	   (S (NP simultaneous pressures
+		  (PP in
+		      (NP all three vessels)))
+	      (AUX would)
+	      (VP have
+		  (VP rendered
+		      (NP the shunts)
+		      (ADJP inoperable
+			    and
+			    (ADVP hence)
+			    ,
+			    uninjectable))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This viewpoint)
+    (AUX is)
+    (VP  (ADVP further)
+	 supported
+		  
+	 (PP by
+	     (NP 
+	      (NP Verloop)
+	      's
+	      *LRB*
+	      (NP '48)
+	      *RRB*
+	      demonstration
+	      (PP of
+		  (NP (NP (ADJP thickened)
+			  bronchial artery
+			  and
+			  arteriolar muscular
+			  coats)
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (VP are
+			      (ADJP capable
+				    (PP of
+					(S (NP *) 
+					   (VP acting
+					       (PP as
+						   (NP valves)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP other words))
+   ,
+   (S (NP the anastomoses
+	  (PP between
+	      (NP the bronchial artery
+		  and
+		  pulmonary artery)))
+      (AUX should)
+      (VP be
+	  (VP considered
+	      
+	      (PP as
+		  (NP  
+		   (ADJP functional
+			 or
+			 demand) shunts))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   ,
+   (S (NP little work)
+      (AUX has)
+      (VP been
+	  (VP done
+	      (PP on
+		  (NP a comparative basis))))
+      (PP in
+	  (NP regard
+	      (PP to
+		  (NP the normal existence
+		      (PP of
+			  (NP bronchial artery-pulmonary artery anastomoses))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP Verloop)
+	 *LRB*
+	 (NP (NP '48)
+	     ;
+	     ;
+	     (NP '49))
+	 *RRB*)
+     (VP (VP found
+	     (NP these shunts)
+	     (PP in
+		 (NP the human being)))
+	 but
+	 (VP was
+	     (ADJP unable
+		   (S (NP *)
+		      (AUX to)
+		      (VP find
+			  (NP them)
+			  (PP in
+			      (NP rats))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Ellis)
+	  ,
+	  (NP Grindlay)
+	  and
+	  (NP Edwards))
+      *LRB*
+      (NP '52)
+      *RRB*)
+  (ADVP also)
+  (VP were
+      (ADJP unable
+	    (S (NP *)
+	       (AUX to)
+	       (VP find
+		   (NP them)
+		   (PP in
+		       (NP rats)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Nakamura)
+	*LRB*
+	(NP '58)
+	*RRB*)
+    (VP was
+	(ADJP unable
+	      (S (NP *)
+		 (AUX to)
+		 (VP demonstrate
+		     (NP their existence)
+		     ,
+		     (PP  (X either)
+			  by
+			  (NP (ADJP anatomic or physiologic)
+			      methods))
+		     ,
+		     (PP  in
+			  (NP dogs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The possibility
+	 (SBAR that
+	       (S (NP the absence or presence
+		      (PP of
+			  (NP these shunts)))
+		  (VP is
+		      (ADJP species-dependent)))))
+     (AUX is)
+     (ADVP therefore)
+     (VP inferred))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Certainly)
+      ,
+      (S (NP the mere fact
+	     (PP of
+		 (S (NP *) 
+		    (VP failing
+			(S (NP *)
+			   (AUX to)
+			   (VP demonstrate
+			       (NP them)
+			       (PP in
+				   (NP one
+				       or
+				       another species))))))))
+	 (AUX does)
+	 (NEG not)
+	 (VP  (ADVP conclusively)
+	      deny
+	      (NP their existence
+		  (PP in
+		      (NP that species))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP is
+	   ,
+	   (ADVP however)
+	   ,
+	   (ADJP  highly
+		  suggestive))
+       and
+       (VP agrees
+	   (ADVP well)
+	   (PP with
+	       (NP (NP our own findings)
+		   (SBAR (WHPP in
+			       (WHNP which))
+			 (S
+			  (NP we)
+			  (ADVP also)
+			  (VP failed
+			      (S (NP *)
+				 (AUX to)
+				 (VP demonstrate
+				     (NP  (VP  (ADVP normally)
+					       occurring)
+					  bronchial artery-pulmonary artery shunts)
+				     (PP in
+					 (NP (NP certain species)
+					     ,
+					     (NP  (ADVP especially)
+						  the dog)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP conclusion))
+   ,
+   (S (NP these findings)
+      (VP suggest
+	  (NP the need
+	      (PP for
+		  (NP a comparative physiology
+		      ,
+		      pathology
+		      ,
+		      and
+		      histology
+		      (PP of
+			  (NP mammalian lungs))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   ,
+   (S (NP  a (ADJP detailed) 
+	   interspecies
+	   survey
+	   (PP of
+	       (NP the incidence
+		   (PP of
+		       (NP 
+			(ADJP generalized) pulmonary
+			emphysema))
+		   (PP in
+		       (NP mammals)))))
+      (AUX would)
+      (VP be
+	  (ADJP interesting and pertinent))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      ,
+      (PP for
+	  (NP the
+	      present))
+      ,
+      (S (NP  great
+	      caution)
+	 (AUX should)
+	 (VP be
+	     (VP exercised
+		     
+		 (PP in
+		     (NP the choice
+			 (PP of
+			     (NP an experimental animal))
+			 (PP for
+			     (NP pulmonary studies))))))
+	 (SBAR if
+	       (S (NP they)
+		  (VP are
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (VP applied
+			    
+				 (PP to
+				     (NP man))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADVP especially
+	     so))
+   (SBAR if
+	 (S (NP the dog
+		,
+		cat or monkey)
+	    (VP are
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (VP used
+			   ,
+			   (PP in
+			       (NP view
+				   (PP of
+				       (NP their
+					   (ADJP marked) anatomical
+					   differences
+					   (PP from
+					       (NP man)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Finally)
+      ,
+      (S (NP it)
+	 (AUX is)
+	 (VP suggested
+	     (SBAR that
+		   (S (PP in
+			  (NP many respects))
+		      (S (NP the horse lung)
+			 (AUX may)
+			 (VP be
+			     (ADVP anatomically)
+			     (ADJP  more
+				    comparable
+				    (PP to
+					(NP that
+					    (PP of
+						(NP the human))))
+				    (PP than
+					(NP any
+					    other
+					    (VP  (ADVP presently)
+						 known)
+					    species))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (NP Summary))
+( (S
+   (NP The
+       main subgross anatomical
+       features
+       (PP of
+	   (NP the lungs
+	       (PP of
+		   (NP various mammals)))))
+   (AUX are)
+   (VP presented
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A tabulation
+       (PP of
+	   (NP these features)))
+   (VP permits
+       (NP the lungs)
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP grouped
+		    
+		  (PP into
+		      (NP three distinctive subgross types)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP Type 1)
+      ,
+      (AUX is)
+      (VP represented
+	    
+	  (PP by
+	      (NP the cow
+		  ,
+		  sheep
+		  ,
+		  and
+		  pig))))
+     ;
+     ;
+     (X (NP type 2)
+	,
+	,
+	(PP by
+	    (NP the dog
+		,
+		cat
+		,
+		and
+		monkey)))
+     ;
+     ;
+     (X (NP type 3)
+	,
+	,
+	(PP by
+	    (NP the horse))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Lobularity)
+      (VP is
+	  (ADJP extremely
+		well
+		developed))
+      (PP in
+	  (NP type 1)))
+     ;
+     ;
+     (X (ADJP absent)
+	(PP in
+	    (NP type 2)))
+     ;
+     ;
+     (X (ADJP imperfectly
+	      developed)
+	(PP in
+	    (NP type 3))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The pleura
+      and
+      interlobular septa)
+  (VP are
+      (ADJP thick))
+  (PP in
+      (NP types 1
+	  and
+	  3)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The pleura)
+      (VP is
+	  (ADJP  extremely
+		 thin))
+      (PP in
+	  (NP type 2)))
+     and
+     (S (NP septa)
+	(VP are
+	    (ADJP absent))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP Arterial supply
+	 (PP to
+	     (NP the pleura)))
+     (PP in
+	 (NP types 1
+	     and
+	     3))
+     (AUX is)
+     (VP provided
+	 
+	 (PP by
+	     (NP the bronchial artery))))
+    ,
+    and
+    (X (PP in
+	   (NP type 2))
+       ,
+       (PP by
+	   (NP the pulmonary artery))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP types 1
+	   ,
+	   2
+	   and
+	   3))
+   (S
+    (NP the bronchial artery)
+    (VP terminates
+	(PP in
+	    (NP (NP a capillary bed)
+		(VP shared
+		    (PP in
+			(NP common))
+		    (PP with
+			(NP the pulmonary artery))
+		    (PP at
+			(NP the level
+			    (PP of
+				(NP the distal bronchiole))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP type 3))
+     (S
+      (NP the bronchial artery)
+      (ADVP also)
+      (VP provides
+	  (NP blood)
+	  (PP (ADVP directly)
+	      to
+	      (NP the alveolar capillary bed)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     True terminal
+     bronchioles)
+    (VP comprise
+	(NP (NP the
+		(ADJP  most frequent)
+		form)
+	    (VP taken
+		(PP by
+		    (NP the distal airways))
+		(PP in
+		    (NP types 1
+			and
+			3)))))
+    ,
+    (SBAR although
+	  (S (NP small numbers
+		 (PP of
+		     (NP (ADJP   poorly
+				 developed)
+			 respiratory bronchioles)))
+	     (VP are
+		 (ADJP present)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP (ADJP  Well
+	       developed)
+	respiratory bronchioles)
+    ,
+    (PP on
+	(NP the other hand))
+    ,
+    (VP appear
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (NP (NP the only form)
+		   (VP taken
+		       (PP by
+			   (NP the distal airways))
+		       (PP in
+			   (NP type 2))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP type 1))
+     (S
+      (NP the pulmonary vein)
+      (VP  (ADVP closely)
+	   follows
+	   (NP the course
+	       (PP of
+		   (NP (NP the bronchus)
+		       and
+		       (NP the pulmonary artery)))
+	       (PP (PP from
+		       (NP the periphery))
+		   (PP to
+		       (NP the hilum)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX may)
+   (VP be
+       (ADVP due
+	     (PP to
+		 (NP (NP the heavy interlobular connective tissue barriers)
+		     (ADJP present))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP type 3))
+   ,
+   (S (NP this general relationship)
+      (AUX is)
+      (VP maintained
+	  (ADVP (ADVP peripherally)
+		but
+		(NEG not)
+		(ADVP centrally)))
+      (SBAR 
+       (WHADVP where)
+       (S (NP the pulmonary vein)
+	  (VP follows
+	      (NP a
+		  (ADJP more
+			independent) path
+		  (PP to
+		      (NP the hilum))))
+	  (PP as
+	      (S  (NP *) 
+		  (VP is
+		      (NP the case))
+		  (PP throughout
+		      (NP the lung))
+		  (PP in
+		      (NP type 2))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

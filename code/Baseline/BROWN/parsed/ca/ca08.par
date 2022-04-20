@@ -1,0 +1,2064 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Appointment
+      (PP of
+	  (NP (NP William S. Pfaff Jr.)
+	      ,
+	      (NP 41)
+	      ,))
+      (PP as
+	  (NP promotion manager
+	      (PP of
+		  (NP The Times-Picayune Publishing Company)))))
+  (AUX was)
+  (VP announced
+	 
+      (NP Saturday)
+      (PP by
+	  (NP (NP John F. Tims)
+	      ,
+	      (NP president
+		  (PP of
+		      (NP the company)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pfaff)
+   (VP succeeds
+       (NP (NP Martin Burke)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP resigned))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The new promotion manager)
+   (AUX has)
+   (VP been
+       (VP employed
+		 
+	   (PP by
+	       (NP the company))
+	   (PP  since
+		(NP (NP January)
+		    ,
+		    (NP 1946)
+		    ,))
+	   (PP as
+	       (NP a commercial artist
+		   (PP in
+		       (NP the advertising department)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP is
+	   (NP a native
+	       (PP of
+		   (NP New Orleans))))
+       and
+       (VP attended
+	   (NP (NP Allen Elementary school)
+	       ,
+	       (NP Fortier High school)
+	       and
+	       (NP Soule business college)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP (PP From
+	   (NP (NP June)
+	       ,
+	       (NP 1942)
+	       ,))
+       (PP until
+	   (NP (NP December)
+	       ,
+	       (NP 1945)
+	       ,)))
+   (S (NP Pfaff)
+      (VP served
+	  (PP in
+	      (NP the Army Air Corps)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (X While
+      (PP in
+	  (NP the service)))
+   (S (NP he)
+      (VP attended
+	  (NP radio school)
+	  (PP at
+	      (NP Scott Field
+		  (PP in
+		      (NP (NP Belleville)
+			  ,
+			  (NP Ill
+			      .))))))))
+  .)
+((S (PP Before
+	(S (NP *) 
+	   (VP entering
+	       (NP the service))))
+    ,
+    (S (NP Pfaff)
+       (PP for
+	   (NP five years))
+       (VP did
+	   (NP clerical work)
+	   (PP with
+	       (NP a
+		   general
+		   merchandising
+		   and
+		   wholesale firm
+		   (PP in
+		       (NP New Orleans)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (X (AUX is)
+	 (VP married
+	     (PP to
+		 (NP the
+		     (ADJP former)
+		     Audrey Knecht))))
+      and
+      (VP has
+	  (NP (NP a daughter)
+	      ,
+	      (NP Karol)
+	      ,
+	      (NP 13)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP reside
+       (PP at
+	   (NP 4911
+	       Miles Dr
+	       .))))
+  .)
+((NP Washington)
+ --)
+((S   
+  (S (NP Thousands
+	 (PP of
+	     (NP (ADJP bleacher-type) seats)))
+     (AUX are)
+     (VP being
+	 (VP erected
+	     ))
+     (PP (PP along
+	     (NP Pennsylvania Avenue))
+	 (PP between
+	     (NP (NP the Capitol)
+		 and
+		 (NP the White House))))
+     (PP for
+	 (NP the
+	     big inaugural
+	     parade
+	     (PP on
+		 (NP Jan. 20))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (VP Assuming
+	 (SBAR 0
+	       (S (NP the weather)
+		  (VP is
+		      (ADJP  (ADVP halfway)
+			     decent))
+		  (NP  that
+		       day))))
+     ,
+     (S (NP hundreds
+	    (PP of
+		(NP thousands
+		    (PP of
+			(NP persons)))))
+	(AUX will)
+	(VP mass)
+	(PP along
+	    (NP this thoroughfare))
+	(SBAR  as
+	       (S (NP (NP President John F. Kennedy)
+		      and
+		      (NP  (VP retiring)
+			   President Dwight D. Eisenhower))
+		  (VP (VP leave
+			  (NP Capitol Hill)
+			  (VP following
+			      (NP the oath-taking ceremonies)))
+		      and
+		      (VP ride
+			  (PP down
+			      (NP this
+				  historic ceremonial
+				  route))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Pennsylvania Avenue)
+      ,
+      (VP named
+	  (PP for
+	      (NP one
+		  (PP of
+		      (NP the
+			  original
+			  13 states)))))
+      ,)
+  (ADVP perhaps)
+  (VP is
+      (NEG not)
+      (NP the
+	  (ADJP  most impressive)
+	  street
+	  (PP in
+	      (NP the District
+		  (PP of
+		      (NP Columbia)))))
+      (PP from
+	  (NP a commercial standpoint))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP from
+	  (NP a historic viewpoint))
+      (S
+       (NP none)
+       (AUX can)
+       (VP approach
+	   (NP it))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((NP Many buildings))
+((SINV  (PP Within
+	    (NP view
+		(PP of
+		    (NP the avenue))))
+	(VP are)
+	(NP (NP some
+		(PP of
+		    (NP 
+		     (NP the United States government)
+		     's tremendous buildings)))
+	    ,
+	    plus
+	    (NP (NP shrines) and (NP monuments))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Of
+       (NP course))
+   ,
+   (S  
+    (NP (NP 1600
+	    Pennsylvania)
+	,
+	(NP the White House)
+	,)
+    (VP is
+	(NP the
+	    (ADJP  most famous)
+	    address
+	    (PP of
+		(NP the free world))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (PP Within
+       (NP an easy walk
+	   (PP from
+	       (NP Capitol Hill))))
+   (SBAR 
+    (WHADVP where)
+    (S (NP Pennsylvania Avenue)
+       (VP comes
+	   (ADVP together)
+	   (PP with
+	       (NP Constitution Avenue)))))
+   ,
+   (VP begins)
+   (NP (NP a series
+	   (PP of
+	       (NP (NP 
+		    great federal
+		    buildings))))
+       ,
+       (NP (NP (NP  some)
+	       (ADJP (NP a block)
+		     long))
+	   and
+	   (NP (NP all)
+	       (ADJP (NP (ADVP about)
+			 seven-stories)
+		     high)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Great chapters
+       (PP of
+	   (NP history)))
+   (AUX have)
+   (VP been
+       (VP recorded
+	   ))
+   (PP along
+       (NP (NP the avenue)
+	   ,
+	   (ADVP now)
+	   (ADJP (NP (ADVP about)
+		     169 years)
+		 old))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the early spring
+	     (PP of
+		 (NP 1913))))
+     (S
+      (NP  (NP a few hundred thousand) persons)
+      (VP turned
+	  (PRT out)
+	  (S (NP *)
+	     (AUX to)
+	     (VP watch
+		 (NP 5000 women)
+		 (VP parade))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP were
+	  (NP the suffragettes)))
+     and
+     (S (NP they)
+	(VP wanted
+	    (S (NP *)
+	       (AUX to)
+	       (VP vote)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the 1920 presidential election))
+     (S (S
+	 (NP they)
+	 (VP had
+	     (NP  that
+		  right)))
+	and
+	(S (NP many
+	       (PP of
+		   (NP them)))
+	   (AUX did)
+	   (VP vote)
+	   (PP for
+	       (NP the first time)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((NP Seats
+    (PP on
+	(NP square))))
+((SINV  
+   (PP Along
+       (NP (NP this avenue)
+	   (SBAR  
+	    (WHNP which)
+	    (S (NP T)
+	       (VP saw
+		   (NP  (VP marching)
+			soldiers
+			(PP from
+			    (NP the War
+				(PP Between
+				    (NP the States)))))
+		   (VP returning
+		       (PP in
+			   (NP 1865))))))))
+   (VP is)
+   (NP (NP the National Archives building)
+       (SBAR 
+	(WHADVP where)
+	(S (NP hundreds
+	       (PP of
+		   (NP thousands
+		       (PP of
+			   (NP 
+			    (NP this country)
+			    's
+			    (ADJP  most valuable)
+			    records)))))
+	   (AUX are)
+	   (VP kept
+	       )))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      (S (NP (NP the department
+		 of
+		 justice
+		 building)
+	     (SBAR-1 *pseudo-attach*))
+	 (AUX is)
+	 (VP located
+	     )
+	 (SBAR-1 
+	  (WHADVP where)
+	  (S (NP J. Edgar Hoover)
+	     (VP presides
+		 (PP over
+		     (NP the federal bureau
+			 (PP of
+			     (NP investigation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Street car tracks)
+       (VP-2 *pseudo-attach*))
+   (VP run
+       (PP down
+	   (NP the center
+	       (PP of
+		   (NP Pennsylvania)))))
+   ,
+   (VP-2 powered
+	 (PP with
+	     (NP (NP lines)
+		 (SBAR (WHNP that)
+		       (S  (NP T) 
+			   (VP are
+			       (ADJP underground))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Many spectators)
+    (AUX will)
+    (VP be
+	(VP occupying
+	    (NP (NP (NP seats)
+		    and
+		    (NP vantage points))
+		(VP bordering
+		    (NP Lafayette Square))
+		,
+		(PP opposite
+		    (NP the White House))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SINV 
+      (PP In
+	  (NP this historic square))
+      (VP are)
+      (NP several statues))
+     ,
+     but
+     (S  
+      (NP (NP the one)
+	  (SBAR (WHNP that)
+		(S  (NP T) 
+		    (VP stands
+			(PRT out)
+			(PP over
+			    (NP the others))))))
+      (VP is
+	  (NP that
+	      (PP of
+		  (NP (NP Gen. Andrew Jackson)
+		      ,
+		      (NP hero
+			  (PP of
+			      (NP the Battle
+				  (PP of
+				      (NP New Orleans)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (SINV  
+    (VP Moving
+	(PP past
+	    (NP (NP the
+		    presidential
+		    viewing
+		    stand)
+		and
+		(NP Lafayette Square))))
+    (AUX will)
+    (VP be)
+    (NP (PP at
+	    (ADJP least))
+	40
+	marching
+	units))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP  (ADVP About)
+	16,000
+	military members
+	(PP of
+	    (NP all branches
+		(PP of
+		    (NP the armed forces)))))
+   (AUX will)
+   (VP take
+       (NP part)
+       (PP in
+	   (NP the parade))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Division one
+       (PP of
+	   (NP the parade)))
+   (AUX will)
+   (VP be
+       (NP the service academies)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Division two)
+   (AUX will)
+   (VP include
+       (NP the representations
+	   (PP of
+	       (NP (NP (NP Massachusetts)
+		       and
+		       (NP Texas))
+		   ,
+		   (NP the respective states
+		       (PP (PP of
+			       (NP the President))
+			   and
+			   (PP of
+			       (NP Vice-President (NP L.B. Johnson))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Then)
+	 (AUX will)
+	 (VP come)
+	 (NP nine other states)
+	 (PP in
+	     (NP the order
+		 (PP of
+		     (NP their admission
+			 (PP to
+			     (NP the union)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (X (S (NP Division three)
+       (AUX will)
+       (VP be
+	   (VP headed
+	       
+	       (PP by
+		   (NP (NP the Marines)
+		       (VP followed
+			   (PP by
+			       (NP 12 states))))))))
+   ;
+   ;
+   (S (NP division four)
+      (AUX will)
+      (VP be
+	  (VP headed
+		 
+	      (PP by
+		  (NP (NP the Navy)
+		      ,
+		      (VP followed
+			  (PP by
+			      (NP 11 states))))))))
+   ;
+   ;
+   (X (NP division five)
+      ,
+      (PP by
+	  (NP (NP the Air Force)
+	      (VP followed
+		  (PP by
+		      (NP 11 states)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Division six)
+   (AUX will)
+   (VP be
+       (VP headed
+		 
+	   (PP by
+	       (NP (NP the Coast Guard)
+		   ,
+		   (VP followed
+		       (PP by
+			   (NP (NP the reserve forces
+				   (PP of
+				       (NP all services)))
+			       ,
+			       (NP five states)
+			       ,
+			       (NP Puerto Rico)
+			       ,
+			       (NP the Virgin Islands)
+			       ,
+			       (NP Guam)
+			       ,
+			       (NP American Samoa)
+			       ,
+			       (NP the trust territories)
+			       and
+			       (NP the Canal Zone)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP Jackson)
+     ,
+     (NP Miss
+	 .))
+ --)
+( 
+ (SBARQ (WHNP What)
+	(SQ  (AUX does)
+	     (NP 1961)
+	     (VP offer
+		 (NP T))
+	     (PP in
+		 (NP (ADJP political and governmental) developments
+		     (PP in
+			 (NP Mississippi))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S (PP  (ADVP Even)
+	 for
+	 (NP (NP those)
+	     (SBAR 
+	      (WHNP who)
+	      (S (NP T)
+		 (AUX have)
+		 (VP been
+		     (VP observing
+			 (NP the political scene)))
+		 (NP a long time)))))
+    ,
+    (S (NP no script
+	   (PP from
+	       (NP the past)))
+       (VP is
+	   (ADJP worth
+		 (ADVP  very
+			much)))
+       (PP in
+	   (S (NP *) 
+	      (VP gazing
+		  (PP into
+		      (NP 
+		       (NP the state)
+		       's
+		       immediate political
+		       future)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADVP largely)
+       (ADVP because
+	     (PP of
+		 (NP the unpredictability
+		     (PP of
+			 (NP (NP (NP the man)
+				 (SBAR 
+				  (WHNP who)
+				  (S (NP T)
+				     (VP (VP operates
+					     (NP the helm
+						 (PP of
+						     (NP the state government))))
+					 and
+					 (VP is
+					     (NP the elected leader
+						 (PP of
+						     (NP its two million inhabitants))))))))
+			     --
+			     (NP Gov. Ross Barnett))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Barnett)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP came
+	      (PP into
+		  (NP office))
+	      (PP with
+		  (NP no previous experience
+		      (PP in
+			  (NP public administration)))))))
+      ,)
+  (AUX has)
+  (VP surrounded
+      (NP himself)
+      (PP with
+	  (NP (NP confusion)
+	      (SBAR  
+	       (WHNP which)
+	       (S  (NP T) 
+		   (VP (CONJP  not
+			       only)
+		       keeps
+		       (X (NP his foes)
+			  (VP guessing)
+			  but
+			  (NP his friends)
+			  (ADVP as
+				well)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Consequently)
+      ,
+      (S (NP it
+	     (SBAR-1 *pseudo-attach*))
+	 (VP is
+	     (ADJP uncertain))
+	 (PP after
+	     (NP (ADVP nearly)
+		 12 months
+		 (PP in
+		     (NP office))))
+	 (SBAR-1 (WHNP  (ADVP just)
+			which direction)
+		 (S
+		  (NP the Barnett administration)
+		  (AUX will)
+		  (VP take
+		      (NP T) )
+		  (PP in
+		      (NP the coming year))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (AUX Could)
+     (VP be
+	 (NP scramble))))
+((S (NP Some)
+    (VP predict
+	(SBAR 0
+	      (S (NP the administration)
+		 (AUX will)
+		 (VP (VP settle
+			 (PRT down)
+			 (PP during
+			     (NP 1961)))
+		     and
+		     (VP iron
+			 (PRT out)
+			 (NP (NP the rough edges)
+			     (SBAR (WHNP which)
+				   (S
+				    (NP it)
+				    (AUX has)
+				    (VP had
+					(NP T) )
+				    (ADVP thus
+					  far))))))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP builtin) headache
+       (PP of
+	   (NP the Barnett regime)))
+   (ADVP thus
+	 far)
+   (AUX has)
+   (VP been
+       (NP the steady stream
+	   (PP of
+	       (NP (NP (NP job-seekers) and (NP others))
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (VP feel
+			   (SBAR 0
+				 (S (NP they)
+				    (AUX were)
+				    (VP given
+					(NP commitments)
+					(PP by
+					    (NP Barnett)))
+				    (PP at
+					(NP some stage
+					    (PP of
+						(NP his  eight-year quest
+						    (PP for
+							(NP 
+							 (NP the governor)
+							 's office))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP many)
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP predict
+		   (SBAR that
+			 (S (SBAR  (SINV  
+				    (AUX should)
+				    (NP Barnett)
+				    (VP decide
+					(S (NP *)
+					   (AUX to)
+					   (VP call
+					       (NP the Legislature)
+					       (ADVP back)
+					       (PP into
+						   (NP special session)))))))
+			    ,
+			    (S (NP it)
+			       (AUX will)
+			       (ADVP really)
+			       (VP throw
+				   (NP his administration)
+				   (PP into
+				       (NP a scramble))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Certainly)
+      (S (NP nobody)
+	 (AUX will)
+	 (VP predict
+	     (SBAR that
+		   (S (NP (NP the next time)
+			  (SBAR 0
+				(S (NP the lawmakers)
+				   (VP come
+				       (ADVP back)
+				       (ADVP together)))))
+		      (S (NP Barnett)
+			 (AUX will)
+			 (VP be
+			     (ADJP able
+				   (S (NP *)
+				      (AUX to)
+				      (VP enjoy
+					  (NP a re-enactment
+					      (PP of
+						  (NP (NP the (ADJP strange but successful)
+							  ``
+							  honeymoon
+							  '')
+						      (SBAR 0
+							    (S (NP he)
+							       (VP had)
+							       (PP in
+								   (NP the 1960 legislative session)))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP Barnett)
+	     (AUX does)
+	     (NEG n't)
+	     (VP call
+		 (NP a special session))
+	     (PP in
+		 (NP 1961))))
+   ,
+   (S (NP it)
+      (AUX will)
+      (VP be
+	  (NP (NP the first year
+		  (PP in
+		      (NP the last decade)))
+	      (SBAR that
+		    (S (NP the Legislature)
+		       (AUX has)
+		       (NEG not)
+		       (VP met
+			   (PP in
+			       (NP (ADJP regular or special) session)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The odds)
+   (VP favor
+       (NP (NP a special session)
+	   ,
+	   (ADVP (ADVP  more
+			(PP than
+			    (ADJP likely)))
+		 (ADVP early
+		       (PP in
+			   (NP the year)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Districts
+     issue))
+(  
+ (S (S (S (NP Legislators)
+	  (ADVP always)
+	  (VP get
+	      (ADJP restless
+		    (PP for
+			(NP a special session)))))
+       *LRB*
+       (S (NP (X whether
+		 (PP for
+		     (NP (NP the companionship)
+			 or
+			 (NP the
+			     $ 22.50
+			     (PP per
+				 (NP diem)))))))
+	  (VP is
+	      (NEG not)
+	      (ADJP certain)))
+       *RRB*)
+    and
+    (S (SBAR if
+	     (S (NP they)
+		(VP start
+		    (S (NP *) 
+		       (VP agitating)))))
+       .
+       (S
+	(NP Barnett)
+	(AUX is)
+	(NEG not)
+	(VP expected
+	     
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (ADJP able
+			 (S (NP *)
+			    (AUX to)
+			    (VP withstand
+				(NP the pressure))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The issue)
+	 (SBAR 
+	  (WHNP which)
+	  (S (NP T)
+	     (AUX may)
+	     (VP make
+		 (NP it)
+		 (ADJP necessary)
+		 (S (NP *)
+		    (AUX to)
+		    (VP have
+			(NP a session)))))))
+     (VP is
+	 (NP the
+	     (ADJP  (ADVP highly)
+		    sensitive)
+	     problem
+	     (PP of
+		 (S (NP *) 
+		    (VP cutting
+			(NP 
+			 (NP the state)
+			 's congressional districts)
+			(PP from
+			    (NP six))
+			(PP to
+			    (NP five)))
+		    (S (NP *)
+		       (AUX to)
+		       (VP eliminate
+			   (NP one congressional seat))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (X (S (NP eyes)
+	     (VP focused
+		 (PP on
+		     (NP (NP the
+			     third congressional
+			     district)
+			 ,
+			 (NP the
+			     historic
+			     Delta district)
+			 ,))))
+	  and
+	  (X   
+	   (NP Congressman Frank E. Smith)
+	   (PP as
+	       (NP (NP the one)
+		   (ADJP  most likely
+			  (S (NP *)
+			     (AUX to)
+			     (VP go))))))))
+   ,
+   (S (NP the redistricting battle)
+      (AUX will)
+      (VP put
+	  (PP to
+	      (NP a test))
+	  (NP (NP the longstanding power)
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP lawmakers
+		      (PP from
+			  (NP the Delta)))
+		  (AUX have)
+		  (VP held
+		      (NP T)
+		      (PP in
+			  (NP the Legislature)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mississippi)
+    's relations
+    (PP with
+	(NP the
+	    national Democratic
+	    party)))
+   (AUX will)
+   (VP be
+       (PP at
+	   (NP a crossroads)))
+   (PP during
+       (NP 1961))
+   ,
+   (PP with
+       (NP the
+	   first Democratic
+	   president
+	   (PP in
+	       (NP eight years))
+	   (PP in
+	       (NP the White House)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S  (NP *) 
+       (VP Split
+	   (ADVP badly)
+	   (PP during
+	       (NP the
+		   recent presidential
+		   election))
+	   (PP into
+	       (NP (ADJP   (ADVP almost
+				 equally)
+			   divided)
+		   camps
+		   (PP of
+		       (NP (NP party loyalists) and (NP independents)))))))
+   ,
+   (S (NP the Democratic party
+	  (PP in
+	      (NP Mississippi)))
+      (VP is
+	  (ADVP currently)
+	  (NP a wreck))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP there)
+	 (AUX has)
+	 (VP been
+	     (NP no effort
+		 (PP  since
+		      (NP the election))
+		 (S (NP *)
+		    (AUX to)
+		    (VP pull
+			(NP it)
+			(ADVP back)
+			(ADVP together)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (X (NP Future)
+    (ADJP  clouded)))
+((S (NP (NP Barnett)
+	,
+	(PP as
+	    (NP the titular head
+		(PP of
+		    (NP the Democratic party))))
+	,)
+    (ADVP apparently)
+    (AUX must)
+    (VP (VP make
+	    (NP the move
+		(S (NP *)
+		   (AUX to)
+		   (VP reestablish
+		       (NP relations
+			   (PP with
+			       (NP the
+				   national Democratic
+				   party)))))))
+	or
+	(VP see
+	    (NP a movement
+		(S-3 *pseudo-attach*))
+	    (VP come
+		(PP from
+		    (NP the loyalist ranks)))
+	    (S-3 (NP *)   
+		 (AUX to)
+		 (VP  (ADVP completely)
+		      bypass
+		      (NP him)
+		      (PP as
+			  (NP a party functionary)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP a Democratic administration))
+   ,
+   (S (NP party patronage)
+      (AUX would)
+      (ADVP normally)
+      (VP begin
+	  (S (NP *)
+	     (AUX to)
+	     (VP flow
+		 (PP to
+		     (NP Mississippi)))))
+      (SBAR if
+	    (S (NP it)
+	       (AUX had)
+	       (VP held
+		   (NP its Democratic solidarity))
+	       (PP in
+		   (NP the November election))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      ,
+      (S (S (NP the picture)
+	    (VP is
+		(ADJP clouded))
+	    )
+	 ,
+	 and
+	 (S  
+	  (NP (NP  (ADVP even)
+		   US
+		   Sens.
+		   James O. Eastland
+		   and
+		   John C. Stennis)
+	      ,
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP remained
+		      (ADJP loyal
+			    (PP to
+				(NP the ticket))))))
+	      ,)
+	  (VP are
+	      (ADJP uncertain
+		    (PP of
+			(NP their status)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Reports)
+   (VP are
+       (SBAR that
+	     (S (NP it
+		    (SBAR-2 *pseudo-attach*))
+		(VP is
+		    (ADJP more
+			  (PP than
+			      (ADJP probable))))
+		(SBAR-2 that
+		      (S (NP (NP the four congressmen
+				 (PP from
+				     (NP Mississippi)))
+			     (SBAR 
+			      (WHNP who)
+			      (S (NP T)
+				 (AUX did)
+				 (NEG not)
+				 (VP support
+				     (NP the party ticket)))))
+			 (AUX will)
+			 (VP be
+			     (VP stripped
+				 (PP of
+				     (NP (NP the usual patronage)
+					 (SBAR 
+					  (WHNP which)
+					  (S (NP T)
+					     (VP flows
+						 (PP to
+						     (NP congressmen)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP NP Baton Rouge)
+     ,
+     (NP La
+	 .))
+ --)
+(   
+ (S (NP The Gov. Jimmie H. Davis administration)
+    (VP appears
+	(S (NP *)
+	   (AUX to)
+	   (VP face
+	       (NP a difficult year))
+	   (PP in
+	       (NP 1961))))
+    ,
+    (PP with
+	(NP (NP 
+	     (NP the governor)
+	     's theme
+	     (PP of
+		 (NP (NP peace) and (NP harmony))))
+	    (VP subjected
+		(PP to
+		    (NP severe stresses))))))
+ .)	
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The year)
+   (AUX will)
+   (ADVP probably)
+   (VP start
+       (PRT out)
+       (PP with
+	   (X (NP segregation)
+	      (ADVP still)
+	      (NP the
+		  (ADJP  most troublesome)
+		  issue)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it)
+	 (AUX might)
+	 (VP give
+	     (NP way)
+	     (ADVP shortly)
+	     (PP to
+		 (NP (NP another vexing issue)
+		     --
+		     (NP that
+			 (PP of
+			     (NP finances
+				 (PP in
+				     (NP state government))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The transition
+       (PP (PP from
+	       (NP segregation))
+	   (PP to
+	       (NP finances))))
+   (AUX might)
+   (ADVP already)
+   (VP be
+       (PP in
+	   (NP progress)))
+   ,
+   (PP in
+       (NP the form
+	   (PP of
+	       (NP an administration proposal
+		   (S (NP *)
+		      (AUX to)
+		      (VP hike
+			  (NP the state sales
+			      tax)
+			  (PP from
+			      (NP 2
+				  (PP per
+				      (NP cent))))
+			  (PP to
+			      (NP 3
+				  (PP per
+				      (NP cent)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The administration)
+    (AUX has)
+    (VP said
+	(SBAR 0
+	      (S (NP  the sales
+		      tax proposal)
+		 (VP is
+		     (ADVP merely)
+		     (NP part
+			 (PP of
+			     (NP the segregation strategy))))
+		 ,
+		 (SBAR since
+		       (S (NP the revenues
+			      (PP from
+				  (NP the increase)))
+			  (AUX would)
+			  (VP be
+			      (VP dedicated
+		        
+				  (PP to
+				      (NP a grant
+					  (PP in
+					      (NP aid))
+					  program))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the tardiness
+	     (PP of
+		 (NP the administration))
+	     (PP in
+		 (S (NP *) 
+		    (VP making
+			(NP the dedication)))))
+	 (AUX has)
+	 (VP caused
+	     (S  (NP legislators)
+		 (AUX to)
+		 (VP suspect
+		     (SBAR 0
+			   (S (NP the tax bill)
+			      (AUX was)
+			      (VP related
+				  
+				  (ADVP more directly)
+				  (PP to
+				      (NP an (ADJP over-all) shortage
+					  (PP of
+					      (NP cash))))
+				  (PP than
+				      (PP to
+					  (NP segregation)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (X (NP Legislators)
+    (ADJP weary)))
+((S  (ADVP Indeed)
+     ,
+     (S (NP (NP 
+	     (NP the administration)
+	     's curious position
+	     (PP on
+		 (NP the sales
+		     tax))))
+	(VP was
+	    (NP a major factor
+		(PP in
+		    (S (NP *) 
+		       (VP contributing
+			   (PP to
+			       (NP its defeat)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The administration)
+   (AUX could)
+   (NEG not)
+   (VP say
+       (SBAR 
+	(WHADVP why)
+	(S (NP $ 28
+	       million)
+	   (AUX was)
+	   (VP needed
+		       
+	       (PP for
+		   (NP a grant-in-aid program)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The effectiveness
+      (PP of
+	  (NP the governor))
+      (PP in
+	  (S (NP *) 
+	     (VP clearing
+		 (PRT up)
+		 (NP some
+		     (PP of
+			 (NP (NP the inconsistencies)
+			     (VP revolving
+				 (PP about
+				     (NP the sales
+					 tax bill))))))))))
+  (AUX may)
+  (VP play
+      (NP a part))
+  (PP in
+      (S (NP *) 
+	 (VP determining
+	     (SBAR whether
+		   (S (NP it)
+		      (AUX can)
+		      (VP muster
+			  (NP the
+			      required two-thirds
+			      vote))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tax bill)
+   (AUX will)
+   (VP be
+       (ADVP up
+	     (PP for
+		 (NP reconsideration))))
+   (NP Wednesday)
+   (PP in
+       (NP the House))
+   (SBAR 
+    (WHADVP when)
+    (S (NP the Legislature)
+       (VP reconvenes))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Davis)
+   (AUX may)
+   (VP use
+       (NP the tax bill)
+       (PP as
+	   (NP (NP a means)
+	       (S (NP *)
+		  (AUX to)
+		  (VP effect
+		      (NP a transition
+			  (PP (PP from
+				  (NP special sessions
+				      (PP of
+					  (NP the Legislature))))
+			      (PP to
+				  (NP normalcy))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP it)
+	     (VP fails
+		 (S (NP *)
+		    (AUX to)
+		    (VP pass)))))
+   ,
+   (S (NP he)
+      (AUX can)
+      (VP (VP throw
+	      (PRT up)
+	      (NP his hands))
+	  and
+	  (VP say
+	      (SBAR 0
+		    (S (NP the Legislature)
+		       (AUX would)
+		       (NEG not)
+		       (VP support
+			   (NP him)
+			   (PP in
+			       (NP his efforts
+				   (S (NP *)
+				      (AUX to)
+				      (VP prevent
+					  (NP integration))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX could)
+   (VP terminate
+       (NP special sessions
+	   (PP of
+	       (NP the Legislature)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Actually)
+      ,
+      (S (NP Davis)
+	 (AUX would)
+	 (VP have
+	     (S (NP *)
+		(AUX to)
+		(VP toss
+		    (PRT in)
+		    (NP the towel)))
+	     (ADVP soon)
+	     (ADVP anyway))))  
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Many legislators)
+   (VP are
+       (ADVP already)
+       (ADJP weary and frustrated
+	     (PP over
+		 (NP the
+		     (NP (VP  (ADVP so-far)
+			      losing)
+			 battle
+			 (S (NP *)
+			    (AUX to)
+			    (VP block
+				(NP token integration)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP is
+	(NEG not)
+	(NP (NP the sort
+		(PP of
+		    (NP thing)))
+	    (SBAR 0
+		  (S (NP most politicos)
+		     (AUX would)
+		     (VP care
+			 (S (NP *)
+			    (AUX to)
+			    (VP acknowledge
+				(NP T) 
+				(ADVP publicly)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX would)
+   (VP like
+       (S (NP *)
+	  (AUX to)
+	  (VP convey
+	      (NP the notion
+		  (SBAR 0
+			(S
+			 (NP something)
+			 (AUX is)
+			 (VP being
+			     (VP done
+				 ))))))))
+   ,
+   (SBAR (ADVP even)
+	 though
+	 (S (NP it)
+	    (VP is
+		(NP (NP something)
+		    (SBAR 0
+			  (S
+			   (NP they)
+			   (VP know
+			       (S (NP T)
+				  (AUX to)
+				  (VP be
+				      (ADJP ineffectual)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Underlying concern))
+(  
+ (S (NP Passage
+	(PP of
+	    (NP the sales
+		tax measure)))
+    (AUX would)
+    (ADVP also)
+    (VP give
+	(NP Davis)
+	(NP (NP the means)
+	    (S (NP *)
+	       (AUX to)
+	       (VP effect
+		   (NP a transition))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX could)
+   (VP tell
+       (NP the Legislature)
+       (SBAR 0
+	     (S (NP they)
+		(AUX had)
+		(VP provided
+		    (NP (NP the (VP needed) funds)
+			(S (NP *)
+			   (AUX to)
+			   (VP carry
+			       (PRT on)
+			       (NP the battle)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S   Then
+       (S (NP he)
+	  (AUX could)
+	  (VP tell
+	      (NP them)
+	      (S (NP *)
+		 (AUX to)
+		 (VP go
+		     (ADVP home))))
+	  ,
+	  (SBAR while
+		(S (NP the administration)
+		   (VP continued
+		       (S (NP *)
+			  (AUX to)
+			  (VP wage
+			      (NP the battle)
+			      (PP with
+				  (NP (NP the
+					  $ 28
+					  million
+					  (PP in
+					      (NP extra revenues)))
+				      (SBAR 0
+					    (S (NP  the sales
+						    tax measure)
+					       (AUX would)
+					       (VP bring
+						   (NP T)
+						   (PRT in)
+						   (PP over
+						       (NP an eight months
+							   period))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (VP is
+       (ADJP difficult))
+   (S-3 (NP *)
+	(AUX to)
+	(VP be
+	    (ADJP certain
+		  (SBAR 
+		   (WHADVP how)
+		   (S (NP the administration)
+		      (VP views
+			  (NP  that
+			       $ 28
+			       million)))))))
+   ,
+   (SBAR since
+	 (S (NP the views
+		(PP of
+		    (NP one leader)))
+	    (AUX may)
+	    (NEG not)
+	    (VP be
+		(ADJP  the
+		       same
+		       (PP as
+			   (NP the views
+			       (PP of
+				   (NP another one)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR if
+	    (S (NP the administration)
+	       (AUX should)
+	       (VP find
+		   (X (SBAR 0
+			    (S (NP it)
+			       (AUX does)
+			       (NEG not)
+			       (VP need
+				   (NP the
+				       $ 28
+				       million)
+				   (PP for
+				       (NP a grant-in-aid program)))))
+		      ,
+		      (NP a
+			  (ADJP (NEG not)
+				unlikely) conclusion)
+		      ,))))
+      (S (NP it)
+	 (AUX could)
+	 (VP (ADVP very
+		   well)
+	     seek
+	     (NP (NP a way)
+		 (S (NP *)
+		    (AUX to)
+		    (VP use
+			(NP the money)
+			(PP for
+			    (NP other purposes))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX would)
+   (VP be
+       (PP in
+	   (NP perfect consonance
+	       (PP with
+		   (NP (NP the underlying concern
+			   (PP in
+			       (NP the administration)))
+		       --
+		       (NP the shortage
+			   (PP of
+			       (NP cash)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX could)
+   (VP become
+       (NP an acute problem))
+   (PP in
+       (NP the (ADJP coming) fiscal year)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP the administration)
+	     (AUX does)
+	     (NEG not)
+	     (VP succeed
+		 (PP in
+		     (S (NP *) 
+			(VP passing
+			    (NP (NP the sales
+				    tax bill)
+				,
+				or
+				(NP any other tax bill)
+				,)))))))
+   (S (NP it)
+      (AUX could)
+      (VP  (ADVP  very
+		  well)
+	   be
+	   (VP faced
+	       
+	       (NP this spring)
+	       (PP at
+		   (NP the fiscal session
+		       (PP of
+			   (NP the Legislature))))
+	       (PP with
+		   (NP an (ADJP interesting) dilemma))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP the constitution)
+	     (VP forbids
+		 (NP introduction
+		     (PP of
+			 (NP a tax bill))
+		     (PP at
+			 (NP a fiscal session))))))
+   ,
+   (S (NP the administration)
+      (AUX will)
+      (VP  either
+	   have
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP cut
+		      (PRT down)
+		      (NP expenses))
+		  or
+		  (VP inflate
+		      (NP its estimates
+			  (PP of
+			      (NP (VP anticipated)
+				  revenues)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Constant problem))
+((S  
+   (PP In
+       (NP either case))
+   ,
+   (S (NP it)
+      (AUX could)
+      (VP call
+	  (NP a special session
+	      (PP of
+		  (NP the Legislature)))
+	  (ADVP later
+		(PP in
+		    (NP 1961))))
+      (S (NP *)
+	 (AUX to)
+	 (VP make
+	     (NP another stab)
+	     (PP at
+		 (S (NP *) 
+		    (VP raising
+			(NP additional revenues)
+			(PP through
+			    (NP a tax raiser)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The prospect
+       (PP of
+	   (S (NP *) 
+	      (VP cutting
+		  (PRT back)
+		  (NP spending)))))
+   (VP is
+       (NP an
+	   unpleasant
+	   one
+	   (PP for
+	       (NP any governor)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP (NP one)
+	   (SBAR (WHNP that)
+		 (S  (NP most)
+		     (VP try
+			 (S (NP *)
+			    (AUX to)
+			    (VP avoid
+				(NP T) )))
+		     ,
+		     (ADVP  as
+			    long
+			    (PP as
+				(S (NP they)
+				   (AUX can)
+				   (VP see
+				       (NP an alternative approach
+					   (PP to
+					       (NP the problem))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR if
+	    (S (NP all alternatives)
+	       (AUX should)
+	       (VP be
+		   (VP  (ADVP clearly)
+			blocked
+			(PRT off)))))
+      ,
+      (S (NP it)
+	 (AUX can)
+	 (VP be
+	     (VP expected
+		 
+		 (SBAR 0
+		       (S (NP the Davis administration)
+			  (AUX will)
+			  (VP take
+			      (NP (NP steps)
+				  (S (NP *)
+				     (AUX to)
+				     (VP trim
+					 (NP spending)))))
+			  (PP at
+			      (NP the spring session
+				  (PP of
+				      (NP the state
+					  Legislature))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX might)
+   (VP be
+       (VP done
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP arouse
+		  (NP (NP those)
+		      (SBAR  
+		       (WHNP who)
+		       (S (NP T)
+			  (AUX have)
+			  (VP been
+			      (VP squeezed
+		      
+				  (PRT out)
+				  (PP by
+				      (NP the trims)))))))
+		  (S (NP *)
+		     (AUX to)
+		     (VP exert
+			 (NP pressure
+			     (PP on
+				 (NP the Legislature))))
+		     ,
+		     (SBAR so
+			   (S (NP it)
+			      (AUX would)
+			      (VP be
+				  (ADJP  more
+					 receptive
+					 (PP to
+					     (NP a tax proposal)))
+				  (ADVP later
+					(PP in
+					    (NP the year))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A constant problem)
+       (VP confronting
+	   (NP Davis)
+	   (PP on
+	       (NP any proposals
+		   (PP for
+		       (NP new taxes))))))
+   (AUX will)
+   (VP be
+       (NP the charge
+	   (PP by
+	       (NP his foes))
+	   (SBAR that
+		 (S (NP he)
+		    (AUX has)
+		    (NEG not)
+		    (VP tried
+			(S (NP *)
+			   (AUX to)
+			   (VP economize))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Any tax bill)
+   (ADVP also)
+   (AUX will)
+   (VP revive
+       (NP allegations
+	   (SBAR that
+		 (S (NP some
+			(PP of
+			    (NP his followers)))
+		    (AUX have)
+		    (VP been
+			(VP using
+			    (NP their administration affiliations)
+			    (ADVP imprudently)
+			    (S (NP *)
+			       (AUX to)
+			       (VP profit
+				   (NP themselves))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The new year)
+   (AUX might)
+   (VP see
+       (NP (NP some house-cleaning)
+	   ,
+	   (ADJP  either
+		  (ADJP genuine)
+		  or
+		  (ADJP token))
+	   ,
+	   (VP depending
+	       (PP upon
+		   (NP developments)))
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP give
+		  (NP Davis)
+		  (NP an opportunity
+		      (S (NP *)
+			 (AUX to)
+			 (VP combat
+			     (NP some
+				 (PP of
+				     (NP these criticisms)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

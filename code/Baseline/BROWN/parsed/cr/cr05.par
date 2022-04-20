@@ -1,0 +1,2610 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP Ambiguity))
+((S (NP Nothing
+	(PP in
+	    (NP English)))
+    (AUX has)
+    (VP been
+	(VP ridiculed
+	    (ADVP as
+		  much
+		  (PP as
+		      (NP the ambiguous use
+			  (PP of
+			      (NP words)))))))
+    ,
+    (SBAR unless
+	  (S (NP it)
+	     (VP be
+		 (NP the ambiguous use
+		     (PP of
+			 (NP sentences)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ben Franklin)
+   (VP said
+       ,
+       ``
+       (S (NP *)
+	  (VP (ADVP Clearly)
+	      spoken)
+	  ,
+	  (NP Mr. Fogg))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (VP explain
+       (NP English)
+       (PP by
+	   (NP Greek))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Richard Brinsley Sheridan)
+   (VP said
+       ,
+       ``
+       (S (NP I)
+	  (VP think
+	      (SBAR 0
+		    (S (NP the interpreter)
+		       (VP is
+			   (NP the
+			       (ADJP hardest
+				     (S (NP *)
+					(AUX to)
+					(VP be
+					    (VP understood))))
+			       (PP of
+				   (NP the two))))))))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (S (NP a
+	   (ADJP witty)
+	   American journalist)
+       (VP remarked
+	   (ADVP (NP over
+		     a century)
+		 ago)
+	   (NP (SBAR 
+	       (WHNP what)
+	       (S (NP T)
+		  (VP is
+		      (ADJP  even
+			     more
+			     true))
+		  (NP today)))
+	      ,
+	      ``
+	      (S (NP Many
+		     a writer)
+		 (VP seems
+		     (S (NP *)
+			(AUX to)
+			(VP think
+			    (SBAR 0
+				  (S (NP he)
+				     (VP is
+					 (ADVP never)
+					 (ADJP profound))
+				     (PP except
+					 (SBAR 
+					  (WHADVP when)
+					  (S (NP he)
+					     (AUX ca)
+					     (NEG n't)
+					     (VP understand
+						 (NP his own meaning)))))))))))
+	      ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP There)
+       (VP are
+	   (NP many types
+	       (PP of
+		   (NP ambiguity)))))
+    and
+    (S (NP many
+	   (PP of
+	       (NP them)))
+       (AUX have)
+       (VP been
+	   (VP described
+		 
+	       (PP by
+		   (NP rhetoricians))
+	       (PP under
+		   (NP such names
+		       (PP as
+			   (NP (NP amphibology)
+			       ,
+			       (NP parisology)
+			       ,
+			       and
+			       (NP other ologies)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP common parlance))
+     (S (NP they)
+	(AUX would)
+	(VP be
+	    (VP described
+		 
+		(PP as
+		    (NP (NP misses)
+			--
+			(NP (NP misinterpreters)
+			    ,
+			    (NP misunderstanders)
+			    ,
+			    (NP misdirectors)
+			    and
+			    (NP kindred misdeeds))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One species
+       (PP of
+	   (NP ambiguity)))
+   (VP tries
+       (S (NP *)
+	  (AUX to)
+	  (VP baffle)
+	  (PP by
+	      (S (NP *)
+		 (VP interweaving
+		     (NP repetition)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (X (AUX Did)
+	  (NP you))
+       or
+       (SQ (AUX did)
+	   (NP you)
+	   (NEG not)
+	   (VP say
+	       (SBAR (WHNP what)
+		     (S
+		      (NP I)
+		      (VP said
+			  (SBAR 0
+				(S (NP you)
+				   (VP said
+				       (NP T)))))))))
+       ,
+       (SBAR because
+	     (S (NP Jane)
+		(VP said
+		    (SBAR 0
+			  (S (NP you)
+			     (ADVP never)
+			     (VP said
+				 (SBAR (WHNP what)
+				       (S (NP I)
+					  (VP said
+					      (NP T)))))))))))
+   ''
+   ?
+   ?)  
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Another woman)
+    ,
+    (S (NP *)
+       (VP addressing
+	   (NP Christmas cards)))
+    ,
+    (VP said
+	(PP to
+	    (NP her
+		husband))
+	:
+	``
+	(S (S (S (S (NP We)
+		    (VP sent
+			(NP them)
+			(NP one))
+		    (NP  last year))
+		 but
+		 (S (NP they)
+		    (AUX did)
+		    (NEG n't)
+		    (VP send
+			(NP us)
+			(NP one))))
+	      ,
+	      so
+	      (S (NP they)
+		 (ADVP probably)
+		 (AUX wo)
+		 (NEG n't)
+		 (VP send
+		     (NP us)
+		     (NP one))
+		 (NP this year)
+		 (SBAR because
+		       (S (NP they)
+			  (AUX 'll)
+			  (VP think
+			      (SBAR 0
+				    (S (NP we)
+				       (AUX wo)
+				       (NEG n't)
+				       (VP send
+					   (NP them)
+					   (NP one))
+				       (SBAR because
+					     (S (NP they)
+						(VP did
+						    (NEG n't)
+						    (NP last year)))))))))))
+	   ,
+	   (SQ (SQ (AUX do)
+		   (NEG n't)
+		   (NP you)
+		   (VP think))
+	       ,
+	       or
+	       (SQ (AUX shall)
+		   (NP we))))
+	''
+	?))
+ ?)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Such ambiguous
+	   exercises)
+       (VP compound
+	   (NP confusion)
+	   (PP by
+	       (S (NP *)
+		  (VP making
+		      (NP it)
+		      (ADJP worse)
+		      (VP compounded))))))
+    ,
+    and
+    (S (NP they)
+       (AUX are)
+       (ADVP sometimes)
+       (VP expanded
+	   )
+       (PP until
+	   (S (NP the cream
+		  (PP of
+		      (NP the jest)))
+	      (VP sours)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Ambiguity
+	(PP of
+	    (NP a non-repetitious kind)))
+    (VP describes
+	(NP (NP the
+		dilemma)
+	    (SBAR 0
+		  (S (NP one
+			 girl)
+		     (VP found
+			 (NP herself)
+			 (PP in
+			     )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP I)
+       (VP 'm
+	   (ADJP terribly
+		 upset)))
+    ''
+    ,
+    (S (NP she)
+       (VP told
+	   (NP a girl-friend))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+	 (VP wrote
+	     (NP Bill)
+	     (PP in
+		 (NP my last letter)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP forget
+		(SBAR that
+		      (S (NP I)
+			 (AUX had)
+			 (VP told
+			     (NP him)
+			     (SBAR that
+				   (S (NP I)
+				      (AUX did)
+				      (NEG n't)
+				      (VP mean
+					  (S (NP *)
+					     (AUX to)
+					     (VP reconsider
+						 (NP my decision
+						     (S (NP *)
+							(NEG not)
+							(AUX to)
+							(VP change
+							    (NP my mind)))))))))))))))
+      --
+      and
+      (S (NP he)
+	 (VP seems
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (VP misunderstood
+			(NP me)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Evidently)
+    (S (NP Bill)
+       (VP was
+	   (NP another
+	       (PP of
+		   (NP (NP those men)
+		       (SBAR (WHNP who)
+			     (S (NP T)
+				(ADVP simply)
+				(AUX do)
+				(NEG n't)
+				(VP understand
+				    (NP women))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another case)
+   (VP involves
+       (NP (NP a newspaper reporter)
+	   (SBAR (WHNP who)
+		 (S (NP T)
+		    (VP tripped
+			(PRT up)
+			(NP a politician)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ ``
+ (S (NP Mr. Jones)
+    ,
+    (S (NP you)
+       (AUX may)
+       (VP recall
+	   (SBAR that
+		 (S (NP we)
+		    (VP printed
+			(NP last week)
+			(NP your denial
+			    (PP of
+				(S (NP *)
+				   (VP having
+				       (VP retracted
+					   (NP the contradiction
+					       (PP of
+						   (NP your original statement))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SQ (ADVP Now)
+     (SQ (AUX would)
+	 (NP you)
+	 (VP care
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (NP us)
+		    (VP say
+			(SBAR that
+			      (S (NP you)
+				 (AUX were)
+				 (VP misquoted
+				     )
+				 (PP in
+				     (NP regard
+					 (PP to
+					     (NP it))))))))))))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Questions
+	    (PP like
+		(NP this)))
+	,
+	(VP framed
+	    (PP in
+		(NP verbal fog)))
+	,)
+    (VP are
+	(ADVP perhaps)
+	(NP (NP the only kind)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (AUX have)
+		     (ADVP ever)
+		     (VP stumped
+			 (NP an experienced politician)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP recall
+       (NP (NP (NP Byron)
+	       's classic comment)
+	   :
+	   ``
+	   (S (NP I)
+	      (VP wish
+		  (SBAR 0
+			(S (NP he)
+			   (AUX would)
+			   (VP explain
+			       (NP his explanation))))))
+	   '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Similarly)
+    ,
+    (SBAR 
+     (WHADVP when)
+     (S (NP a reporter)
+	(ADVP once)
+	(VP questioned
+	    (NP Lincoln)
+	    (PP in
+		(NP cryptic fashion)))))
+    ,
+    (S (NP Lincoln)
+       (VP refused
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP any
+		      (ADJP further)
+		      statement))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP I)
+       (VP fear
+	   (NP (NP explanations)
+	       (ADJP explanatory
+		     (PP of
+			 (NP things))))
+	   (VP explained)))
+    ''
+    ,
+    (S (NP he)
+       (VP said))
+    ,
+    (S (NP *)
+       (VP leaving
+	   (NP (NP the biter)
+	       (X (VP bit)
+		  --
+		  and
+		  (ADJP bitter))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The obscurity
+	(PP of
+	    (NP politicians)))
+    (AUX may)
+    (NEG not)
+    (ADVP always)
+    (VP be
+	(ADJP  as
+	       innocent
+	       (PP as
+		   (S (NP it)
+		      (VP looks))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (NP Senator)
+    ''
+    ,
+    (SINV (VP said)
+	  (NP an interviewer))
+    ,
+    ``
+    (S (NP your constituents)
+       (AUX ca)
+       (NEG n't)
+       (VP understand
+	   (PP from
+	       (NP (NP your speech) (NP last night)))
+	   (SBAR 
+	    (WHADVP  just
+		     how)
+	    (S (NP you)
+	       (VP stand
+		   (PP on
+		       (NP the question)))))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (ADJP Good)
+      ''
+      !
+      !
+      (SINV (VP Replied)
+	    (NP the Senator)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It
+	  (S-1 *pseudo-attach*))
+      (VP took
+	  (NP me)
+	  (NP five hours))
+      (S-1 (NP *)
+	 (AUX to)
+	 (VP write
+	     (NP it)
+	     (NP that
+		 way))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The misplaced modifier)
+    (VP is
+	(NP (NP another species)
+	    (VP (ADVP more)
+		honored
+		(PP in
+		    (NP the observance
+			(PP of
+			    (NP obscurity))))
+		(PP than
+		    (PP in
+			(NP the breach)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This)
+    (VP creates
+	(NP an amusing effect))
+    (SBAR because
+	  (S (NP its position
+		 (PP in
+		     (NP a sentence)))
+	     (VP seems
+		 (S (NP *)
+		    (AUX to)
+		    (VP make
+			(NP it)
+			(VP apply
+			    (PP to
+				(NP the wrong word)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP A verse)
+	   (ADJP familiar
+		 (PP to
+		     (NP all grammarians))))
+       (VP is
+	   (NP the quatrain)))
+    :
+    ``
+    (S (NP I)
+       (VP saw
+	   (NP a man)
+	   (ADVP once)
+	   (VP beat
+	       (NP (NP his wife)
+		   (SBAR-2 *pseudo-attach*)
+		   ))
+	   (SBAR-2 *pseudo-attach*))
+       (SBAR-2 (WHADVP When)
+	    (PP on
+		(NP a drunken spree)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((SQ Now
+     (SQ (AUX can)
+	 (NP you)
+	 (VP tell
+	     (NP me)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP was
+			  (ADJP drunk)))))
+	 --
+	 (NP (NP The man)
+	     ,
+	     (NP his wife)
+	     ,
+	     or
+	     (NP me))))
+ ''
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The
+	    ``
+	    wooden-leg
+	    ''
+	    gag
+	    (PP of
+		(NP vaudeville)))
+	,
+	(NP another standby
+	    (PP of
+		(NP this sort)))
+	,)
+    (VP had
+	(NP endless variations)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP There)
+      (VP 's
+	  (NP (NP a man
+		  (PP-2 *pseudo-attach*))
+	      (VP-3 *pseudo-attach*))
+	  (ADVP outside))
+      (PP-2 with
+	    (NP (NP a wooden leg)
+		(VP-3 *pseudo-attach*)))
+      (VP-3 named
+	    (NP Smith)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ (WHNP What)
+	  (SQ (NP T)
+	      (VP 's
+		  (NP the name
+		      (PP of
+			  (NP his other leg))))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another stock vaudeville gag)
+   (VP ran
+       :
+       ``
+       (S (NP Mother)
+	  (VP is
+	      (NP home)
+	      (ADJP sick)
+	      (PP in
+		  (NP bed
+		      (PP-5 with
+			    (NP the doctor))))
+	      (PP-5 *pseudo-attach*)))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP radio)
+	(VP came
+	    (ADVP in))))
+    ,
+    (S (NP it)
+       (VP continued
+	   (NP the misplaced modifier)
+	   (PP in
+	       (NP its routines))
+	   (PP as
+	       (NP a standard device)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ (AUX Do)
+       (NP you)
+       (VP see
+	   (NP (NP that pretty girl)
+	       (VP standing
+		   (ADVP next
+			 (PP to
+			     (NP the car
+				 (PP-4 *pseudo-attach*)))))
+	       (PP-4 with
+		     (NP slacks)
+		     (ADVP on)))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+	 (VP see
+	     (NP the girl)))
+      but
+      (S (NP I)
+	 (AUX do)
+	 (NEG n't)
+	 (VP see
+	     (NP the car
+		 (PP with
+		     (NP slacks)
+		     (ADVP on))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP recent years))
+    (S (NP gagwriters)
+       (AUX have)
+       (VP discovered
+	   (NP this brand
+	       (PP of
+		   (NP blunder)))))
+    and
+    (ADVP thus)
+    (S (NP the misplaced modifier)
+       (AUX has)
+       (VP acquired
+	   (NP a new habitat
+	       (PP in
+		   (NP the gagline))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP one cartoon))
+    (S (NP a family)
+       (AUX is)
+       (VP shown
+		 
+	   (PP outside
+	       (NP a theater)))
+       (PP with
+	   (S (NP the head
+		  (PP of
+		      (NP the family)))
+	      (VP addressing
+		  (NP the doorman))
+	      :
+	      ``
+	      ((S (S (NP *)
+		     (VP Excuse
+			 (NP me)))
+		  ,
+		  but
+		  (S (SBAR 
+		      (WHADVP when)
+		      (S (NP we)
+			 (VP came
+			     (ADVP out))))
+		     (S (NP we)
+			(VP found
+			    (SBAR that
+				  (S (NP we)
+				     (AUX had)
+				     (VP left
+					 (NP (NP (NP my daughter)
+						 's handbag)
+					     and
+					     (NP (NP my wife) 's
+						 (X-6 *pseudo-attach*)))
+					 (X-6 behind)))))))))
+	      ''))))
+ .
+ )
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Journalism)
+   (VP supplies
+       (NP us)
+       (PP with
+	   (NP an endless run
+	       (PP of
+		   (NP such slips))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Not
+	  long
+	  ago)
+    (S (NP a newspaper)
+       (VP advised
+	   (NP (NP those)
+	       (VP taking
+		   (NP part)
+		   (PP in
+		       (NP a contest))))
+	   (SBAR that
+		 ``
+		 (S (NP snapshots)
+		    (AUX must)
+		    (VP be
+			(PP of
+			    (NP (NP a person)
+				(ADJP (NEG not)
+				      larger
+				      (PP than
+					  (NP A[fj] inches)))))))
+		 ''))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Classified ads)
+    (VP are
+	(ADVP also)
+	(ADJP chockfull
+	      (PP of
+		  (NP (ADJP misrelated)
+		      constructions)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Readers
+	(PP of
+	    (NP (NP the Reader)
+		's Digest)))
+    (VP are
+	(ADJP familiar
+	      (PP with
+		  (NP (NP (NP such items)
+			  (SBAR (WHNP which)
+				(S (NP T)
+				   (ADVP often)
+				   (VP appear
+				       (PP in
+					   (NP its lists
+					       (PP of
+						   (NP verbal slips))))))))
+		      ,
+		      (PP like
+			  (NP (NP the ad
+				  (PP in
+				      (NP a California paper)))
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP advertised
+					   ``
+					   (X (NP House)
+					      (PP for
+						  (NP rent)))
+					   .
+					   (S
+					    (NP View)
+					    (VP takes
+						(PP in
+						    (NP (NP five counties)
+							,
+							(NP two bedrooms)))))
+					   ''))))))))))
+ .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+((S (SBAR Since
+	  (S (NP brevity)
+	     (VP is
+		 (NP the soul
+		     (PP of
+			 (NP (NP ambiguity)
+			     (PP  as
+				  well
+				  as
+				  (NP wit))))))))
+    ,
+    (S (NP newspaper headlines)
+       (ADVP continually)
+       (VP provide
+	   (NP us)
+	   (PP with
+	       (NP amusing samples)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Officials)
+      (VP Meet
+	  (PP on
+	      (NP rubbish))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Many Shapes
+      (PP in
+	  (NP bathtubs)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Son and Daughter
+        (PP of
+	    (NP Local Couple)))
+    (VP Married))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Apart
+	  (PP from
+	      (NP  misplaced
+		   modifiers and headlinese)))
+    ,
+    (S (NP journalism)
+       (VP contributes
+	   (NP a wide variety
+	       (PP of
+		   (NP comic ambiguities))
+	       (PP in
+		   (NP both editorial and advertising matter))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP A weekly newspaper)
+       (VP reported
+	   (NP a local romance)))
+    :
+    ``
+    and
+    (S (S (NP the couple)
+	  (AUX were)
+	  (VP married)
+	  (NP (ADJP last)
+	      Saturday))
+       ,
+       (ADVP thus)
+       (S (NP *)
+	  (VP ending
+	      (NP (NP a friendship)
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (VP began)
+			   (PP in
+			       (NP their schooldays)))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An item
+	(PP in
+	    (NP the letters
+		column
+		(PP of
+		    (NP a newspaper)))))
+    (VP renewed
+	(NP a subscription))
+    ,
+    (S (NP *)
+       (VP adding
+	   :
+	   ``
+	   (S (NP I)
+	      (ADVP personally)
+	      (VP enjoy
+		  (NP your newspaper)
+		  (ADVP as
+			much
+			(PP as
+			    (NP my husband)))))
+	   '')))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Then)
+    (S (NP there)
+       (VP was
+	   (NP (NP (NP the caterer)
+		   's ad)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP read
+			    :
+			    ``
+			    (SQ (AUX are)
+				(NP you)
+				(VP (VP getting
+					(VP married))
+				    or
+				    (VP having
+					(NP an affair))))
+			    ?
+			    ?)))))))
+ ) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP have
+       (NP (NP complete facilities)
+	   (S (NP *)
+	      (AUX to)
+	      (VP accommodate
+		  (NP 200 people))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The newspaper)
+   (ADVP too)
+   (VP is
+       (NP the favorite habitat
+	   (PP of
+	       (NP the anatomical)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This slip)
+    (VP is
+	(ADJP so-called))
+    (SBAR because
+	  (S (NP its
+		 (ADJP semi-ambiguous)
+		 English)
+	     (ADVP always)
+	     (VP seems
+		 (S (NP *)
+		    (AUX to)
+		    (VP (VP refer
+			    (PP to
+				(NP (NP a person)
+				    's anatomy)))
+			but
+			(ADVP never)
+			(ADVP quite)
+			(VP means
+			    (SBAR (WHNP what)
+				  (S
+				   (NP it)
+				   (VP seems
+				       (S (NP *)
+					  (AUX to)
+					  (VP say
+					      (NP T)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP Samples)
+    :
+    (S (NP He)
+       (VP walked
+	   (ADVP in))
+       (PP upon
+	   (NP her invitation))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP kissed
+       (NP him)
+       (ADVP passionately))
+   (PP upon
+       (NP his reappearance)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP kissed
+       (NP her
+	   (X-1 *pseudo-attach*))
+       (X-1 back)))
+  .)
+(  END_OF_TEXT_UNIT)
+((SINV (NEG Not)
+       (PP without
+	   (NP good reason))
+       (AUX has)
+       (NP the anatomical)
+       (VP been
+	   (VP called
+	       (NP jocular journalese))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP news items))
+    (S (NP a man)
+       (AUX is)
+       (ADVP less often)
+       (VP shot
+	   (PP in
+	       (NP the body or head))
+	   (PP than
+	       (PP in
+		   (NP the suburbs))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (SBAR While
+	    (S (NP Henry Morgan)
+	       (AUX was)
+	       (VP escorting
+		   (NP Miss Vera Green)
+		   (PP from
+		       (NP the church social)))
+	       (NP last Saturday night)))
+      ,
+      (S (NP a savage dog)
+	 (VP (VP attacked
+		 (NP them))
+	     and
+	     (VP bit
+		 (NP Mr. Morgan)
+		 (PP-2 on
+		       (NP the public square)))
+	     (PP-2 *pseudo-attach*))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Such items)
+       (VP recall
+	   (NP (NP the California journalist)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP reported
+			    (NP (NP an accident)
+				(VP involving
+				    (NP a movie star)))))))))
+    :
+    ``
+    (S (NP (NP The area)
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S (NP Miss N
+			--)
+		    (AUX was)
+		    (VP injured
+			))))
+       (VP is
+	   (ADJP  spectacularly
+		  scenic)))
+    ''
+    .)
+ )
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The double meaning
+       (PP in
+	   (NP the anatomical)))
+   (VP made
+       (NP it)
+       (NP (NP a familiar vaudeville device)
+	   ,
+	   (PP as
+	       (PP in
+		   (NP the gags
+		       (PP of
+			   (NP (NP Weber)
+			       and
+			       (NP Fields)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP a witness
+	    (PP at
+		(NP court)))
+	(AUX was)
+	(VP asked
+		 
+	    (SBAR if
+		  (S (NP he)
+		     (AUX had)
+		     (VP been
+			 (VP kicked
+			     (PP-3 *pseudo-attach*)))
+		     (PP-3 in
+			   (NP the ensuing rumpus)))))))
+    ,
+    (S (NP he)
+       (VP replied
+	   ,
+	   ``
+	   (S (INTJ No)
+	      ,
+	      (S (NP it)
+		 (VP was
+		     (PP in
+			 (NP the stomach)))))
+	   '')))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Strangely
+	  enough)
+    ,
+    (S (NP this)
+       (ADVP always)
+       (VP brought
+	   (NP the house)
+	   (PRT down))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Apart
+	  (PP from
+	      (NP journalese and vaudeville gags)))
+    ,
+    (S (NP the anatomical)
+       (AUX is)
+       (ADVP also)
+       (VP found
+	     
+	   (PP in
+	       (NP jocular literature)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A conscientious girl)
+   (VP became
+       (NP the secretary
+	   (PP of
+	       (NP a doctor)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Her first day
+	 (PP at
+	     (NP work)))
+     (S (NP she)
+	(AUX was)
+	(VP puzzled
+        
+	    (PP by
+		(NP an entry
+		    (PP in
+			(NP (NP the doctor)
+			    's notes
+			    (PP on
+				(NP an emergency case)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP read
+       :
+       ``
+       (S (NP *)
+	  (VP Shot
+	      (PP in
+		  (NP the lumbar region))))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP a moment
+	    (PP of
+		(NP thought))))
+    ,
+    (S (NP her mind)
+       (VP cleared))
+    and
+    (S ,
+       (PP in
+	   (NP the interest
+	       (PP of
+		   (NP clarity))))
+       ,
+       (S (NP she)
+	  (VP typed
+	      (PP into
+		  (NP the record))
+	      :
+	      ``
+	      (S (NP *)
+		 (VP Shot
+		     (PP in
+			 (NP the woods))))
+	      ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP (NP many grammatical misconstructions)
+	       (ADJP other
+		     (PP than
+			 (NP  dangling
+			      modifiers and anatomicals))))
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP permit
+			(NP two different interpretations)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP the home
+	     (PP of
+		 (NP a gourmet))))
+     (S (NP the new maid)
+	(AUX was)
+	(VP instructed
+	     
+	    (PP in
+		(NP the fine points
+		    (PP of
+			(NP serving)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP I)
+       (VP want
+	   (S (NP the fish)
+	      (VP served
+		  (ADJP whole)
+		  ,
+		  (PP with
+		      (NP head and tail))))))
+    ''
+    ,
+    (S (NP the epicure)
+       (VP explained))
+    ,
+    ``
+    and
+    (S (NP *)  
+       (VP serve
+	   (NP it)
+	   (PP with
+	       (X (NP lemon)
+		  (PP in
+		      (NP mouth))))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The maid)
+   (VP demurred))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP That)
+       (VP 's
+	   (ADJP silly))
+       --
+       (X (NP lemon)
+	  (PP in
+	      (NP mouth))))
+    ''
+    ,
+    (S (NP she)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR since
+	  (S (NP the gourmet)
+	     (VP insisted
+		 (SBAR that
+		       (S (NP it)
+			  (AUX is)
+			  (VP done
+			      (NP  that
+				   way)
+			      (PP at
+				  (NP the
+				      (ADJP most fashionable)
+				      dinners))))))))
+    ,
+    (S (NP the girl)
+       (VP (ADVP reluctantly)
+	   agreed)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP So)
+    (S (S (NP she)
+	  (VP brought
+	      (NP the fish)
+	      (ADVP in)
+	      (ADJP whole)))
+       ,
+       and
+       (S (NP she)
+	  (VP carried
+	      (NP a lemon)
+	      (PP in
+		  (NP her mouth))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another specimen
+       (PP of
+	   (NP such double-entendre)))
+   (AUX is)
+   (VP illustrated
+	     
+       (PP by
+	   (NP a woman
+	       (PP in
+		   (NP a department store))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP said
+       (PP to
+	   (NP the saleslady))
+       ,
+       ``
+       (S (NP I)
+	  (VP want
+	      (NP (NP a dress)
+		  (S (NP *)
+		     (AUX to)
+		     (VP put
+			 (PRT on)
+			 (PP around
+			     (NP the house)))))))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The puzzled saleslady)
+    (VP inquired
+	,
+	``
+	(SBARQ (ADJP (WHADVP How)
+		     large)
+	       (SQ (VP is)
+		   (NP your house)
+		   ,
+		   (NP Madam)))
+	''
+	?
+	?)))
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This saleslady)
+    (X (VP was
+	   (NP a failure)
+	   (PP in
+	       (NP the dress department)))
+       and
+       (X (AUX was)
+	  (VP transferred
+		 
+	      (PP to
+		  (NP the shoe department))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP a customer)
+	(VP asked
+	    (PP for
+		(NP alligator shoes)))))
+    ,
+    (S (NP she)
+       (VP said
+	   ,
+	   ``
+	   (SBARQ (WHNP What
+			size)
+		  (SQ (VP is)
+		      (NP your alligator)
+		      (NP T)))
+	   ''
+	   ?
+	   ?))))
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The comic indefinite)
+   (VP comprises
+       (NP an extensive class
+	   (PP of
+	       (NP comedy)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One species)
+   (AUX is)
+   (VP restricted
+	     
+       (PP to
+	   (NP (NP statements)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP are
+			    (ADJP (CONJP neither)
+				  explicit nor precise))
+			(S (NP *)
+			   (VP regarding
+			       (NP a particular person
+				   ,
+				   place
+				   ,
+				   time or thing)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A woman)
+   (VP met
+       (NP a famous author)
+       (PP at
+	   (NP a literary tea))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (INTJ Oh)
+       ,
+       (S (NP I)
+	  (VP 'm
+	      (ADJP so
+		    delighted
+		    (S (NP *)
+		       (AUX to)
+		       (VP meet
+			   (NP you)))))))
+    ''
+    ,
+    (S (NP she)
+       (VP gushed)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It
+	  (SBAR-3 *pseudo-attach*))
+      (VP was
+	  (NP  only
+	      the other day))
+      (SBAR-3 that
+	    (S (NP I)
+	       (VP saw
+		   (NP something
+		       (PP of
+			   (NP yours))
+		       ,
+		       (PP about
+			   (NP something
+			       or
+			       other))
+		       ,)
+		   (PP in
+		       (NP some magazine))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This baffling lack
+       (PP of
+	   (NP distinct details)))
+   (VP recalls
+       (NP (NP the secretary)
+	   (SBAR (WHNP whose employer)
+		 (S (NP T)
+		    (X (X (AUX was)
+			  (VP leaving
+			      (NP the office)))
+		       and
+		       (VP told
+			   (NP her)
+			   (SBAR (WHNP what)
+				 (S (NP *)
+				    (AUX to)
+				    (VP answer
+					(NP T))
+				    (SBAR if
+					  (S (NP anyone)
+					     (VP called)
+					     (PP in
+						 (NP his absence)))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP I)
+       (AUX may)
+       (VP be
+	   (ADVP back)))
+    ''
+    ,
+    (S (NP he)
+       (VP explained))
+    ,
+    ``
+    and
+    (ADVP then
+	  again)
+    ,
+    (X (NP I)
+       (AUX may)
+       (NEG not))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The girl)
+   (VP nodded
+       (ADVP understandingly)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (X (INTJ Yes)
+       ,
+       (NP sir))
+    ''
+    ,
+    (S (NP she)
+       (VP said))
+    ,
+    ``
+    (SQ (VP is)
+	(NP that)
+	(ADJP definite))
+    ''
+    ?
+    ?))
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An old-fashioned mother)
+   (VP said
+       (PP to
+	   (NP her modern daughter))
+       ,
+       ``
+       (S (NP You)
+	  (AUX must)
+	  (VP have
+	      (VP gotten
+		  (ADVP in)))
+	  (ADVP quite
+		late)
+	  (NP last
+	      night)
+	  ,
+	  (NP dear))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ
+   (WHADVP Where)
+   (SQ (VP were)
+       (NP you)))
+  ''
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The daughter)
+   (VP replied
+       ,
+       ``
+       (S (INTJ Oh)
+	  ,
+	  (S (S (NP I)
+		(VP had
+		    (NP dinner)
+		    (PP with)))
+	     --
+	     (ADVP well)
+	     ,
+	     (S (S (NP you)
+		   (AUX do)
+		   (NEG n't)
+		   (VP know
+		       (NP him)))
+		but
+		(S (NP he)
+		   (VP 's
+		       (ADJP  awfully
+			      nice))))
+	     --)
+	  and
+	  (S (S (NP we)
+		(VP went
+		    (PP to
+			(NP a couple
+			    (PP of
+				(NP places))))))
+	     --
+	     (S (NP I)
+		(AUX do)
+		(NEG n't)
+		(VP suppose
+		    (SBAR 0
+			  (S (NP you)
+			     (AUX 've)
+			     (VP heard
+				 (PP of
+				     (NP them)))))))
+	     --)
+	  and
+	  (S (S (NP we)
+		(VP finished
+		    (PRT up)
+		    (PP at
+			(NP a
+			    cute
+			    little night club))))
+	     --
+	     (S (NP I)
+		(VP forget
+		    (NP the name
+			(PP of
+			    (NP it)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (WHADVP Why)
+    ,
+    (S (NP it)
+       (VP 's
+	   (ADJP  all
+		  right))
+       ,
+       (SQ (VP is)
+	   (NEG n't)
+	   (NP it))
+       ,
+       (NP Mother)))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her woolly-minded parent)
+   (VP agreed))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (X (PP Of
+	   (NP course))
+       ,
+       (NP dear))
+    ''
+    ,
+    (S (NP she)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP It)
+   (VP 's
+       (ADVP only)
+       (SBAR that
+	     (S (NP I)
+		(VP like
+		    (S (NP *)
+		       (AUX to)
+		       (VP know
+			   (SBAR 
+			    (WHADVP where)
+			    (S (NP you)
+			       (VP go)))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (ADJP (ADVP No
+		   less)
+	     ambiguous)
+       (VP was)
+       (NP the indefinity
+	   (PP of
+	       (NP (NP a certain clergyman)
+		   's sermon))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (NP Dearly
+	beloved)
+    ''
+    ,
+    (S (NP he)
+       (VP preached))
+    ,
+    ``
+    (S (SBAR unless
+	     (S (NP you)
+		(VP (VP repent
+			(PP of
+			    (NP your sins))
+			(PP in
+			    (NP a measure)))
+		    ,
+		    and
+		    (VP become
+			(ADJP converted
+			      (PP to
+				  (NP a degree)))))))
+       ,
+       (S (NP you)
+	  (AUX will)
+	  ,
+	  (S (NP I)
+	     (VP regret
+		 (S (NP *)
+		    (AUX to)
+		    (VP say))))
+	  ,
+	  (VP be
+	      (VP damned
+		    
+		  (PP to
+		      (NP a
+			  (ADJP more
+				or
+				less)
+			  extent))))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This clergyman)
+   (AUX should)
+   (VP have
+       (VP referred
+	   (PP to
+	       (NP (NP (NP Shakespeare)
+		       's dictum)
+		   :
+		   ``
+		   (S (NP So-so)
+		      (VP is
+			  (NP a
+			      (ADJP good
+				    ,
+				    (ADJP very
+					  good)
+				    ,
+				    (ADJP very
+					  excellent))
+			      maxim))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (ADVP yet)
+    (S (NP it)
+       (VP is
+	   (NEG not))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADJP but
+	     so-so)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Indefinite reference)
+    (ADVP also)
+    (VP carries
+	(NP (NP double-meaning)
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP an allusion
+		    (PP to
+			(NP one person or thing)))
+		(VP seems
+		    (S (NP *)
+		       (AUX to)
+		       (VP refer
+			   (PP to
+			       (NP another))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP A news item)
+       (VP described
+	   (NP the launching
+	       (PP of
+		   (NP a ship)))))
+    :
+    ``
+    (S (S (NP *)
+	  (VP Completing
+	      (NP the ceremony)))
+       ,
+       (S (NP the beautiful movie star)
+	  (VP smashed
+	      (NP a bottle
+		  (PP of
+		      (NP champagne)))
+	      (PP over
+		  (NP her stern)))
+	  (SBAR as
+		(S (NP she)
+		   (VP slid
+		       (ADVP gracefully)
+		       (PP down
+			   (NP the ways))
+		       (PP into
+			   (NP the sea)))))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NEG not)
+       (PP unlike
+	   (NP (NP (NP the order)
+		   (VP received
+		       (PP by
+			   (NP the sergeant
+			       (PP of
+				   (NP an army motor pool))))))
+	       :
+	       ``
+	       (X (NP Four trucks)
+		  (PP to
+		      (NP Fort Mason gym))
+		  ,
+		  (NP (NP 7:30)
+		      (NP tonight))
+		  ,
+		  (PP for
+		      (S (NP *)
+			 (VP hauling
+			     (NP girls)
+			     (PP to
+				 (NP dance))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The bodies)
+       (AUX must)
+       (VP be
+	   (VP cleaned
+	       )))
+    and
+    (X (NP seats)
+       (VP wiped
+	   (PRT off))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A politician)
+   (AUX was)
+   (VP approached
+	     
+       (PP by
+	   (NP (NP a man)
+	       (VP seeking
+		   (NP the office
+		       (PP of
+			   (NP (NP a
+				   minor public
+				   official)
+			       (SBAR (WHNP who)
+				     (S (NP T)
+					(AUX had)
+					(ADVP just)
+					(VP died)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SBARQ 
+     (WHNP What)
+     (SQ (VP are)
+	 (NP my chances
+	     (PP for
+		 (VP taking
+		     (NP (NP Joe)
+			 's place))))
+	 ))
+    ''
+    ?
+    ?
+    (S (NP He)
+       (VP asked)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SBAR If
+	  (S (NP you)
+	     (AUX can)
+	     (VP fix
+		 (NP it)
+		 (PRT up)
+		 (PP with
+		     (NP the undertaker)))))
+    ''
+    ,
+    (SINV (VP returned)
+	  (NP the politician))
+    ,
+    ``
+    (S (NP it)
+       (VP 's
+	   (ADJP  all
+		  right
+		  (PP with
+		      (NP me)))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The manager
+       (PP of
+	   (NP a movie theater)))
+   (VP received
+       (NP a telephone call)
+       (PP from
+	   (NP (NP a woman)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP was
+			    (ADJP  equally
+				   indefinite))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SBARQ 
+     (WHNP What)
+     (SQ (AUX have)
+	 (NP you)
+	 (VP got
+	     (NP T) 
+	     (ADVP on))
+	 (NP today)))
+    ''
+    ?
+    ?
+    (S (NP She)
+       (VP inquired)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (NP A blue suit)
+    ''
+    ,
+    (S (NP he)
+       (VP answered)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SBARQ (WHNP Who)
+	   (SQ (NP T)
+	       (VP 's
+		   (PP in
+		       (NP it)))))
+    ''
+    ?
+    ?
+    (S (NP She)
+       (VP continued)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP I)
+       (VP am))
+    ''
+    ,
+    (S (NP he)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP a short pause
+	   (PP for
+	       (NP reflection)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (INTJ Oh)
+    ''
+    ,
+    (SINV (VP said)
+	  (NP the woman))
+    ,
+    ``
+    (S (NP I)
+       (AUX 've)
+       (VP seen
+	   (NP that picture))
+       (ADVP already))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another brand
+       (PP of
+	   (NP indefinite reference)))
+   (VP arises
+       (PP out
+	   (PP of
+	       (NP the use
+		   (PP of
+		       (NP the double verb)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP a question)
+	(VP contains
+	    (NP two verbs))))
+    ,
+    (S (NP the response)
+       (AUX does)
+       (NEG not)
+       (VP make
+	   (ADJP clear)
+	   (SBAR
+	    (WHNP which
+		  (PP of
+		      (NP them)))
+	    (S (NP T)
+	       (AUX is)
+	       (VP being
+		   (VP answered
+		       )))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The moonlit night)
+       (AUX was)
+       (VP made
+	     
+	   (PP for
+	       (NP romance))))
+    ,
+    and
+    (S (NP he)
+       (AUX had)
+       (VP been
+	   (VP looking
+	       (PP at
+		   (NP her))
+	       (ADVP soulfully)))
+       (PP for
+	   (NP some time))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Finally)
+    (S (NP he)
+       (VP asked
+	   ,
+	   ``
+	   (SQ (AUX Do)
+	       (NP you)
+	       (VP object
+		   (PP to
+		       (NP petting))))
+	   ''
+	   ?
+	   ?))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (S (NP That)
+       (VP 's
+	   (NP (NP one
+		   thing)
+	       (SBAR 0
+		     (S (NP I)
+			(AUX 've)
+			(ADVP never)
+			(VP done
+			    (NP T)))))))
+    ''
+    ,
+    (S (NP she)
+       (VP said)
+       (ADVP promptly)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP thought
+	    (NP a moment))
+	,
+	(ADVP then)
+	(VP inquired
+	    ,
+	    ``
+	    (S (NP You)
+	       (VP mean
+		   (VP petted)))
+	    ''
+	    ?
+	    ?))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (INTJ No)
+    ''
+    ,
+    (S (NP she)
+       (VP smiled))
+    ,
+    ``
+    (S (NP *)
+       (VP objected))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Replies
+       (PP to
+	   (NP requests
+	       (PP for
+		   (NP character reference)))))
+   (VP are
+       (ADJP notorious
+	     (PP for
+		 (NP their evasive double-entendre)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP be
+       (ADJP hard
+	     (S (NP *)
+		(AUX to)
+		(VP find
+		    (NP (NP anything)
+			(ADJP  more
+			       equivocal
+			       (PP than
+				   :
+				   ``
+				   (S (NP I)
+				      (AUX can)
+				      (NEG not)
+				      (VP recommend
+					  (NP him)
+					  (ADVP too
+						highly)))
+				   ''))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Another
+	   (ADJP less ambiguous)
+	   case)
+       (VP read
+	   (PP as
+	       (S (NP *)
+		  (VP follows)))))
+    :
+    ``
+    (S (NP The bearer
+	   (PP of
+	       (NP this letter)))
+       (AUX has)
+       (VP served
+	   (NP me))
+       (PP for
+	   (NP two years))
+       (PP to
+	   (NP his complete satisfaction))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR If
+	  (S
+	   (NP you)
+	   (AUX are)
+	   (VP thinking
+	       (PP of
+		   (S (NP *)
+		      (VP giving
+			  (NP him)
+			  (NP a berth)))))))
+    ,
+    (S (NP *)  
+       (VP be
+	   (ADJP sure
+		 (S (NP *)
+		    (AUX to)
+		    (VP make
+			(NP it)
+			(NP a
+			    (ADJP wide)
+			    one)))))))
+ ''
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the comedy
+	    (PP of
+		(NP indefinite reference))))
+    ,
+    (S (NP it-wit)
+       (VP occupies
+	   (NP a prominent place))
+       (ADVP because
+	     (PP of
+		 (NP its frequent occurrence)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Ambiguity)
+    (VP arises)
+    (SBAR 
+     (WHADVP when)
+     (S (NP the pronoun
+	    (NP it))
+	(VP carries
+	    (NP a twofold reference)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two friends)
+   (AUX were)
+   (VP talking))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (VP said
+       ,
+       ``
+       (S (SBAR 
+	   (WHADVP When)
+	   (S (NP I)
+	      (VP get
+		  (NP a cold))))
+	  (S (S (NP I)
+		(VP buy
+		    (NP a bottle
+			(PP of
+			    (NP whiskey))
+			(PP for
+			    (NP it)))))
+	     ,
+	     and
+	     (S (PP within
+		    (NP a few hours))
+		(S (NP it)
+		   (AUX 's)
+		   (VP gone)))))
+       ''))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The speaker)
+       (VP referred
+	   (PP to
+	       (NP the whiskey))))
+    but
+    (S (NP his friend)
+       (VP thought
+	   (SBAR 0
+		 (S (NP he)
+		    (VP meant
+			(NP the cold)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP It-wit)
+    (VP is
+	(NP a misnomer)))
+ (SBAR because
+       (S (NP it)
+	  (VP covers
+	      (NP (NP slips)
+		  (PP  as
+		       well
+		       as
+		       (NP wit))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP An excited woman)
+       (AUX was)
+       (VP making
+	   (NP an emergency call)
+	   (PP over
+	       (NP the phone))))
+    :
+    ``
+    (S (NP Doctor)
+       ,
+       (S (NP *)   
+	  (ADVP please)
+	  (VP come
+	      (ADVP over))
+	  (ADVP right
+		away))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP My husband)
+   (VP is
+       (PP in
+	   (NP great pain))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

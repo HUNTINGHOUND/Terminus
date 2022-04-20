@@ -1,0 +1,2860 @@
+
+ 
+ 
+
+ 
+
+((NP (NP (CD 7-1)
+         (. .))
+     (NP (NNS Examples)
+         (PP (IN of)
+             (NP (NN binomial) (NNS experiments))))))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Some) (NNS experiments))
+    (AUX (VBP are))
+    (VP (VBN composed)
+        
+        (PP (IN of)
+            (NP (NNS repetitions)
+                (PP (IN of)
+                    (NP (JJ independent) (NNS trials)))))
+        (, ,)
+        (X (NP (DT each))
+           (PP (IN with)
+               (NP (CD two) (JJ possible) (NNS outcomes))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN binomial) (NN probability) (NN distribution))
+    (AUX (MD may))
+    (VP (VB describe)
+        (NP (NP (DT the) (NN variation))
+            (SBAR (WHNP (WP that))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ occurs)
+                         (NP (PP (IN from)
+                                 (NP (CD one) (NN set)
+                                     (PP (IN of)
+                                         (NP (NNS trials)
+                                             (PP (IN of)
+                                                 (NP
+                                                     (JJ such)
+                                                     (DT a) (NN binomial) (NN experiment)))))))
+                             (PP (TO to)
+                                 (NP (DT another))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP devote)
+        (NP (DT a) (NN chapter))
+        (PP (TO to)
+            (NP (DT the) (NN binomial) (NN distribution)))
+        (SBAR (CONJP (NEG (RB not))
+                     (RB only))
+              (SBAR (IN because)
+                    (S (NP (PRP it))
+                       (VP (VBZ is)
+                           (NP (DT a) (JJ mathematical) (NN model)
+                               (PP (IN for)
+                                   (NP (DT an) (JJ enormous) (NN variety)
+                                       (PP (IN of)
+                                           (NP (JJ real) (NN life) (NNS phenomena)))))))))
+              (, ,)
+              (CONJP (CC but)
+                     (RB also))
+              (SBAR (IN because)
+                    (S (NP (PRP it))
+                       (VP (VBZ has)
+                           (NP (NP (JJ important) (NNS properties))
+                               (SBAR (WHNP (WP that))
+                                     (S (NP (-NONE- T))
+                                        (VP (VBP recur)
+                                            (PP (IN in)
+                                                (NP (JJ many) (JJ other) (NN probability) (NNS models)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP begin)
+        (PP (IN with)
+            (NP (DT a) (JJ few) (NNS examples)
+                (PP (IN of)
+                    (NP (NN binomial) (NNS experiments)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Marksmanship) (NN example))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (ADJP (VBN trained)) (NN marksman))
+        (VP (VBG shooting)
+            (NP (NP (CD five) (NNS rounds))
+                (NP-1 (-NONE- *pseudo-attach*)))
+            (PP (IN at)
+                (NP (DT a) (NN target)))
+            (, ,)
+            (X (NP-1 (DT all)
+                     (PP (IN under)
+                         (NP (RB practically)
+                             (DT the) (JJ same) (NNS conditions)))))
+            (, ,)))
+    (AUX (MD may))
+    (VP (VB hit)
+        (NP (DT the) (NN bull's-eye))
+        (NP
+            (PP (PP (IN from)
+                    (NP (CD 0)))
+                (PP (TO to)
+                    (NP (CD 5))))
+            (NNS times))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (VP (VBN repeated))
+            (NNS sets)
+            (PP (IN of)
+                (NP (CD five) (NNS shots)))))
+    (S (NP (PRP$ his) (NNS numbers)
+           (PP (IN of)
+               (NP (NNS bull's-eyes))))
+       (VP (VBP vary))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBARQ
+        (WHNP (WP What))
+        (SQ (AUX (MD can))
+            (NP (PRP we))
+            (VP (VB say)
+                (NP (-NONE- T))
+                (PP (IN of)
+                    (NP (DT the) (NNS probabilities)
+                        (PP (IN of)
+                            (NP (DT the)
+                                (JJ different) (JJ possible)
+                                (NNS numbers)
+                                (PP (IN of)
+                                    (NP (NNS bull's-eyes))))))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Inheritance)
+     (PP (IN in)
+         (NP (NNS mice))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NNS litters)
+            (PP (IN of)
+                (NP (CD eight) (NNS mice)))
+            (PP (IN from)
+                (NP (JJ similar) (NNS parents)))))
+    (, ,)
+    (S (NP (DT the) (NN number)
+           (PP (IN of)
+               (NP (NNS mice)))
+           (PP (IN with)
+               (NP
+                   (ADJP (ADJP (JJ straight))
+                         (ADVP (RB instead)
+                               (PP (IN of)
+                                   (ADJP (JJ wavy)))))
+                   (NN hair))))
+       (VP (VBZ is)
+           (NP (DT an) (NN integer)
+               (PP (PP (IN from)
+                       (NP (CD 0)))
+                   (PP (TO to)
+                       (NP (CD 8))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBARQ
+        (WHNP (WDT What) (NNS probabilities))
+        (SQ
+            (AUX (MD should))
+            (NP (-NONE- T))
+            (VP (VB be)
+                (VP (VBN attached)
+                    
+                    (PP (TO to)
+                        (NP (DT these) (JJ possible) (NNS outcomes)))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NP (NNS Aces))
+     (-LRB- -LRB-)
+     (NP (NNS ones))
+     (-RRB- -RRB-)
+     (PP (IN with)
+         (NP (CD three) (NNS dice))))
+ (. .))
+ 
+
+ 
+
+((SBARQ
+        (SBAR
+              (WHADVP (WRB When))
+              (S (NP (CD three) (NNS dice))
+                 (AUX (VBP are))
+                 (VP (VBN tossed)
+                     (ADVP (RB repeatedly)))))
+        (, ,)
+        (SBARQ
+               (WHNP (WP what))
+               (SQ
+                   (VP (VBZ is))
+                   (NP (DT the) (NN probability)
+                       (SBAR (IN that)
+                             (S (NP (DT the) (NN number)
+                                    (PP (IN of)
+                                        (NP (NNS aces))))
+                                (VP (VBZ is)
+                                    (NP (NP (CD 0))
+                                        (-LRB- -LRB-)
+                                        (CC or)
+                                        (NP (CD 1))
+                                        (, ,)
+                                        (CC or)
+                                        (NP (CD 2))
+                                        (, ,)
+                                        (CC or)
+                                        (NP (CD 3))
+                                        (-RRB- -RRB-))))))
+                   (NP (-NONE- T)))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (JJ General) (NN binomial) (NN problem))
+ (. .))
+ 
+
+ 
+
+((S
+    (ADVP (RBR More) (RB generally))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB suppose)
+           (SBAR (SBAR (IN that)
+                       (S (NP (DT an) (NN experiment))
+                          (VP (VBZ consists)
+                              (PP (IN of)
+                                  (NP (DT a) (NN number)
+                                      (PP (IN of)
+                                          (NP (JJ independent) (NNS trials))))))))
+                 (, ,)
+                 (SBAR (IN that)
+                       (S (NP (DT each) (NN trial))
+                          (VP (VBZ results)
+                              (PP (IN in)
+                                  (NP (DT either)
+                                      (NP (DT a)
+                                          (`` ``)
+                                          (NN success)
+                                          ('' ''))
+                                      (CC or)
+                                      (NP (NP (DT a)
+                                              (`` ``)
+                                              (NN non-success)
+                                              ('' ''))
+                                          (-LRB- -LRB-)
+                                          (`` ``)
+                                          (NP (NN failure))
+                                          ('' '')
+                                          (-RRB- -RRB-)))))))
+                 (, ,)
+                 (CC and)
+                 (SBAR (IN that)
+                       (S (NP (DT the) (NN probability)
+                              (PP (IN of)
+                                  (NP (NN success))))
+                          (VP (VBZ remains)
+                              (ADJP (JJ constant)))
+                          (PP (PP (IN from)
+                                  (NP (NN trial)))
+                              (PP (TO to)
+                                  (NP (NN trial))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NP (DT the) (NNS examples))
+            (ADVP (IN above))))
+    (, ,)
+    (S
+       (NP (DT the) (NN occurrence)
+           (PP (IN of)
+               (NP (NP (DT a) (NN bull's-eye))
+                   (, ,)
+                   (NP (DT a) (ADJP (JJ straight-haired)) (NN mouse))
+                   (, ,)
+                   (CC or)
+                   (NP (DT an) (NN ace)))))
+       (AUX (MD could))
+       (VP (VB be)
+           (VP (VBN called)
+               
+               (NP (DT a)
+                   (`` ``)
+                   (NN success)
+                   ('' ''))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (ADJP (JJ general)))
+    (, ,)
+    (S (NP (NP (DT any) (NN outcome))
+           (SBAR (-NONE- 0)
+                 (S (NP (PRP we))
+                    (VP (VBP choose)
+                        (NP (-NONE- T))))))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN labeled)
+               (`` ``)
+               (NP (NN success))
+               ('' '')))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ major) (NN question)
+        (PP (IN in)
+            (NP (DT this) (NN chapter))))
+    (VP (VBZ is)
+        (: :)
+        (SBARQ
+               (WHNP (WP What))
+               (SQ
+                   (VP (VBZ is))
+                   (NP (DT the) (NN probability)
+                       (PP (IN of)
+                           (NP (ADVP (RB exactly))
+                               (NN X) (NNS successes)
+                               (PP (IN in)
+                                   (NP (NN N) (NNS trials))))))
+                   (NP (-NONE- T))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NNS Chapters) (CD 3)
+            (CC and)
+            (CD 4)))
+    (S
+       (NP (PRP we))
+       (VP (VBD answered)
+           (NP (NNS questions)
+               (PP (IN like)
+                   (NP (DT those)
+                       (PP (IN in)
+                           (NP (DT the) (NNS examples))))))
+           (, ,)
+           (PP (ADVP (RB usually))
+               (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VBG counting)
+                      (NP (NNS points))
+                      (PP (IN in)
+                          (NP (DT a) (NN sample) (NN space)))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Fortunately))
+    (, ,)
+    (S (NP (DT a) (JJ general) (NN formula)
+           (PP (IN of)
+               (NP (JJ wide) (NN applicability))))
+       (VP (VBZ solves)
+           (NP (DT all) (NNS problems)
+               (PP (IN of)
+                   (NP (DT this) (NN kind)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN Before)
+        (S (NP (-NONE- *))
+           (VP (VBG deriving)
+               (NP (DT this) (NN formula)))))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP explain)
+           (SBAR (WHNP (WP what))
+                 (S
+                    (NP (PRP we))
+                    (VP (VBP mean)
+                        (NP (-NONE- T))
+                        (PP (IN by)
+                            (`` ``)
+                            (NP (NNS problems)
+                                (PP (IN of)
+                                    (NP (DT this) (NN kind))))
+                            ('' ''))))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (NNS Experiments))
+       (AUX (VBP are))
+       (ADVP (RB often))
+       (VP (VBN composed)
+           
+           (PP (IN of)
+               (NP (JJ several) (JJ identical) (NNS trials)))))
+    (, ,)
+    (CC and)
+    (S (ADVP (RB sometimes))
+       (S (NP (NP (NNS experiments))
+              (NP (PRP themselves)))
+          (AUX (VBP are))
+          (VP (VBN repeated)
+              ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (DT the) (NN marksmanship) (NN example)))
+    (, ,)
+    (S (NP (DT a) (NN trial))
+       (VP (VBZ consists)
+           (PP (IN of)
+               (NP (`` ``)
+                   (NP (NP (CD one) (JJ round))
+                       (VP (NN shot)
+                           (PP (IN at)
+                               (NP (DT a) (NN target)))))
+                   ('' '')
+                   (PP (IN with)
+                       (X (NP (NN outcome))
+                          (NP (CC either)
+                              (NP (NP (CD one) (NN bull's-eye))
+                                  (-LRB- -LRB-)
+                                  (NP (NN success))
+                                  (-RRB- -RRB-))
+                              (CC or)
+                              (NP (NP (NN none))
+                                  (-LRB- -LRB-)
+                                  (NP (NN failure))
+                                  (-RRB- -RRB-))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Further))
+    (, ,)
+    (S (S (NP (DT an) (NN experiment))
+          (AUX (MD might))
+          (VP (VB consist)
+              (PP (IN of)
+                  (NP (CD five) (NNS rounds)))))
+       (, ,)
+       (CC and)
+       (S (NP (JJ several) (NNS sets)
+              (PP (IN of)
+                  (NP (CD five) (NNS rounds))))
+          (AUX (MD might))
+          (VP (VB be)
+              (VP (VBN regarded)
+                  
+                  (PP (IN as)
+                      (NP (NP (DT a) (NN super-experiment))
+                          (VP (VBN composed)
+                              (PP (IN of)
+                                  (NP (JJ several) (NNS repetitions)
+                                      (PP (IN of)
+                                          (NP (DT the) (ADJP (JJ five-round)) (NN experiment)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (CD three) (NNS dice))
+             (AUX (VBP are))
+             (VP (VBN tossed)
+                 )))
+    (, ,)
+    (S (S (NP (DT a) (NN trial))
+          (VP (VBZ is)
+              (NP (CD one) (NN toss)
+                  (PP (IN of)
+                      (NP (CD one) (NN die)))))
+          (CC and)
+          (S (NP (DT the) (NN experiment))
+             (AUX (VBZ is))
+             (VP (VBN composed)
+                 (PP (IN of)
+                     (NP (CD three) (NNS trials))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC Or)
+    (, ,)
+    (SBAR
+          (WHNP (WP what))
+          (S (NP (-NONE- T))
+             (VP (VBZ amounts)
+                 (PP (TO to)
+                     (NP (DT the) (JJ same) (NN thing))))))
+    (, ,)
+    (S (SBAR (IN if)
+             (S (NP (CD one) (NN die))
+                (AUX (VBZ is))
+                (VP (VBN tossed)
+                    (NP (CD three) (NNS times)))))
+       (, ,)
+       (S (S (NP (DT each) (NN toss))
+             (VP (VBZ is)
+                 (NP (DT a) (NN trial))))
+          (, ,)
+          (CC and)
+          (S (NP (DT the) (CD three) (NNS tosses))
+             (VP (VBP form)
+                 (NP (DT the) (NN experiment)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Mathematically))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD shall))
+       (NEG (RB not))
+       (VP (VB distinguish)
+           (NP (DT the) (NN experiment)
+               (PP (IN of)
+                   (S (NP (CD three) (NNS dice))
+                      (VP (VBD tossed)
+                          (ADVP (RB once))))))
+           (PP (IN from)
+               (NP (DT that)
+                   (PP (IN of)
+                       (S (NP (CD one) (NN die))
+                          (VP (VBD tossed)
+                              (NP (CD three) (NNS times))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT These) (NNS examples))
+       (VP (VBP are)
+           (ADJP (JJ illustrative)
+                 (PP (IN of)
+                     (NP (DT the) (NN use)
+                         (PP (IN of)
+                             (NP (NP (DT the) (NNS words))
+                                 (NP (`` ``)
+                                     (NP (NN trial))
+                                     ('' '')
+                                     (CC and)
+                                     (`` ``)
+                                     (NP (NN experiment))
+                                     ('' ''))))
+                         (PP (IN as)
+                             (S (NP (PRP they))
+                                (AUX (VBP are))
+                                (VP (VBN used)
+                                    )
+                                (PP (IN in)
+                                    (NP (DT this) (NN chapter))))))))))
+    (, ,)
+    (CC but)
+    (S (S (NP (PRP they))
+          (VP (VBP are)
+              (NP (ADJP (RB quite)
+                        (JJ flexible)) (NNS words))))
+       (CC and)
+       (S (NP (PRP it)
+              (S-1 (-NONE- *pseudo-attach*)))
+          (VP (VBZ is)
+              (ADVP (RB well)))
+          (S-1 (NP (-NONE- *))
+               (NEG (RB not))
+               (AUX (TO to))
+               (VP (VB restrict)
+                   (NP (PRP them))
+                   (ADVP (RB too)
+                         (RB narrowly)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Example) (CD 1))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Student) (NN football) (NNS managers))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (CD Ten) (NNS students))
+       (VP (VBP act)
+           (PP (IN as)
+               (NP (NNS managers)
+                   (PP (IN for)
+                       (NP (DT a) (NN high-school) (NN football) (NN team)))))))
+    (, ,)
+    (CC and)
+    (S (PP (IN of)
+           (NP (DT these) (NNS managers)))
+       (S
+          (NP (DT a) (NN proportion) (NN P))
+          (VP (VBP are)
+              (NP (ADJP (JJ licensed)) (NNS drivers))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT Each) (NNP Friday))
+    (S
+       (NP (CD one) (NN manager))
+       (AUX (VBZ is))
+       (VP (VBN chosen)
+           (PP (IN by)
+               (NP (NN lot)))
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VP (VB stay)
+                      (ADVP (RB late)))
+                  (CC and)
+                  (VP (VB load)
+                      (NP (DT the) (NN equipment))
+                      (PP (IN on)
+                          (NP (DT a) (NN truck)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN On)
+        (NP (CD three)
+            (NNPS Fridays)))
+    (S
+       (NP (DT the) (NN coach))
+       (AUX (VBZ has))
+       (VP (VBN needed)
+           (NP (DT a) (NN driver)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((SBARQ (S (NP (-NONE- *))
+           (VP (VBG Considering)
+               (NP (RB only)
+                   (DT these) (NNPS Fridays))))
+        (, ,)
+        (SBARQ
+               (WHNP (WP what))
+               (SQ
+                   (VP (VBZ is))
+                   (NP (DT the) (NN probability)
+                       (SBAR (IN that)
+                             (S (NP (DT the) (NN coach))
+                                (VP (VBD had)
+                                    (NP (NNS drivers)))
+                                (NP (DT all) (CD 3) (NNS times)))))
+                   (NP (-NONE- T)))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (ADVP (RB Exactly))
+     (CD 2) (NNS times))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 1) (NN time))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 0) (NNS times))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Discussion))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Note)
+        (SBAR (IN that)
+              (S (NP (EX there))
+                 (VP (VBP are)
+                     (NP (CD 3) (NNS trials)
+                         (PP (IN of)
+                             (NP (NN interest)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN trial))
+    (VP (VBZ consists)
+        (PP (IN of)
+            (S (NP (-NONE- *))
+               (VP (VBG choosing)
+                   (NP (DT a) (NN student) (NN manager))
+                   (PP (IN at)
+                       (NP (NN random))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (CD 2) (JJ possible) (NNS outcomes)
+        (PP (IN on)
+            (NP (DT each) (NN trial))))
+    (VP (VBP are)
+        (NP (`` ``)
+            (NP (NN driver))
+            ('' '')
+            (CC or)
+            (`` ``)
+            (NP (NN nondriver))
+            ('' ''))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN Since)
+          (S (NP (DT the) (NN choice))
+             (VP (VBZ is)
+                 (PP (IN by)
+                     (NP (NN lot))))
+             (NP (DT each) (NN week))))
+    (, ,)
+    (S (NP (DT the) (NNS outcomes)
+           (PP (IN of)
+               (NP (JJ different) (NNS trials))))
+       (VP (VBP are)
+           (ADJP (JJ independent)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS managers))
+    (VP (VBP stay)
+        (NP (DT the)
+            (JJ same)))
+    (, ,)
+    (SBAR (RB so)
+          (IN that)
+          (S (NP (-NONE- A[fj]))
+             (VP (VBZ is)
+                 (NP (DT the)
+                     (ADJP (JJ same)))
+                 (PP (IN for)
+                     (NP (DT all) (NNS weeks)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (ADVP (RB now))
+    (VP (VBP generalize)
+        (NP (DT these) (NNS ideas))
+        (PP (IN for)
+            (NP (JJ general) (NN binomial) (NNS experiments)))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (PP (IN For)
+           (S (NP (DT an) (NN experiment))
+              (AUX (TO to))
+              (VP (VB qualify)
+                  (PP (IN as)
+                      (NP (DT a) (NN binomial) (NN experiment))))))
+       (, ,)
+       (S (NP (PRP it))
+          (AUX (MD must))
+          (VP (VB have)
+              (NP (CD four) (NNS properties)))))
+    (: :)
+    (S (S (-LRB- -LRB-)
+          (NP (LS 1))
+          (-RRB- -RRB-)
+          (S (NP (EX there))
+             (AUX (MD must))
+             (VP (VB be)
+                 (NP (DT a) (ADJP (VBN fixed)) (NN number)
+                     (PP (IN of)
+                         (NP (NNS trials)))))))
+       (, ,)
+       (S (-LRB- -LRB-)
+          (NP (LS 2))
+          (-RRB- -RRB-)
+          (S (NP (DT each) (NN trial))
+             (AUX (MD must))
+             (VP (VB result)
+                 (PP (IN in)
+                     (NP (NP (DT a)
+                             (`` ``)
+                             (NN success)
+                             ('' ''))
+                         (CC or)
+                         (NP (DT a)
+                             (`` ``)
+                             (NN failure)
+                             ('' ''))))))
+          (-LRB- -LRB-)
+          (NP (DT a) (NN binomial) (NN trial))
+          (-RRB- -RRB-))
+       (, ,)
+       (S (-LRB- -LRB-)
+          (NP (LS 3))
+          (-RRB- -RRB-)
+          (S (NP (DT all) (NNS trials))
+             (AUX (MD must))
+             (VP (VB have)
+                 (NP (JJ identical) (NNS probabilities)
+                     (PP (IN of)
+                         (NP (NN success)))))))
+       (, ,)
+       (S (-LRB- -LRB-)
+          (NP (LS 4))
+          (-RRB- -RRB-)
+          (S (NP (DT the) (NNS trials))
+             (AUX (MD must))
+             (VP (VB be)
+                 (ADJP (JJ independent)
+                       (PP (IN of)
+                           (NP (DT each)
+                               (JJ other)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (ADVP (IN Below))
+    (S (NP (PRP we))
+       (VP (VBP use)
+           (NP (PRP$ our)
+               (JJR earlier)
+               (NNS examples)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB describe) (CC and) (VB illustrate)
+              (NP (DT these) (CD four) (NNS properties))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (ADVP (RB also))
+    (VP (VBP give)
+        (, ,)
+        (PP (IN for)
+            (NP (DT each) (NN property)))
+        (, ,)
+        (NP (NP (DT an) (NN example))
+            (SBAR
+                  (WHADVP (WRB where))
+                  (S (NP (DT the) (NN property))
+                     (VP (VBZ is)
+                         (ADJP (JJ absent))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN language) (CC and) (NN notation))
+        (VP (VBN introduced)))
+    (VP (VBP are)
+        (ADJP (JJ standard))
+        (PP (IN throughout)
+            (NP (DT the) (NN chapter)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 1))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (AUX (MD must))
+    (VP (VB be)
+        (NP (DT a) (ADJP (VBN fixed)) (NN number) (NN n)
+            (PP (IN of)
+                (NP (VP (VBN repeated))
+                    (NNS trials))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (PP (IN For)
+           (NP (DT the) (NN marksman)))
+       (, ,)
+       (S (NP (PRP we))
+          (VP (VBP study)
+              (NP (NP (NNS sets)
+                      (PP (IN of)
+                          (NP (CD five) (NNS shots))))
+                  (-LRB- -LRB-)
+                  (NP (-NONE- A[fj]))
+                  (-RRB- -RRB-)))))
+    (: ;)
+    (: ;)
+    (S (PP (IN for)
+           (NP (DT the) (NNS mice)))
+       (, ,)
+       (S (NP (PRP we))
+          (VP (VBP restrict)
+              (NP (NN attention))
+              (PP (TO to)
+                  (NP (NP (NNS litters)
+                          (PP (IN of)
+                              (NP (CD eight))))
+                      (-LRB- -LRB-)
+                      (NP (-NONE- A[fj]))
+                      (-RRB- -RRB-))))))
+    (: ;)
+    (: ;)
+    (CC and)
+    (S
+       (PP (IN for)
+           (NP (DT the) (NNS aces)))
+       (, ,)
+       (S (NP (PRP we))
+          (VP (VBP toss)
+              (NP (NP (CD three) (NNS dice))
+                  (-LRB- -LRB-)
+                  (NP (-NONE- A[fj]))
+                  (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Experiment)
+     (PP (IN without)
+         (NP (DT a) (ADJP (VBN fixed)) (NN number)
+             (PP (IN of)
+                 (NP (NNS trials))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Toss)
+        (NP (DT a) (NN die))
+        (PP (IN until)
+            (S (NP (DT an) (NN ace))
+               (VP (VBZ appears))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Here))
+    (S (NP (DT the) (NN number)
+           (PP (IN of)
+               (NP (NNS trials))))
+       (VP (VBZ is)
+           (NP (NP (DT a) (JJ random) (NN variable))
+               (, ,)
+               (NEG (RB not))
+               (NP (DT a) (ADJP (VBN fixed)) (NN number))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 2))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NN Binomial) (NNS trials))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Each)
+        (PP (IN of)
+            (NP (DT the) (NN N) (NNS trials))))
+    (VP (VBZ is)
+        (NP (RB either)
+            (NP (DT a) (NN success))
+            (CC or)
+            (NP (DT a) (NN failure)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (`` ``)
+        (NP (NN Success))
+        ('' '')
+        (CC and)
+        (`` ``)
+        (NP (NN failure))
+        ('' ''))
+    (VP (VBP are)
+        (ADVP (RB just))
+        (NP (JJ convenient) (NNS labels)
+            (PP (IN for)
+                (NP (DT the) (CD two) (NNS categories)
+                    (PP (IN of)
+                        (NP (NNS outcomes)))))))
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (PRP we))
+             (VP (VBP talk)
+                 (PP (IN about)
+                     (NP (NN binomial) (NNS trials)
+                         (PP (IN in)
+                             (NP (NN general)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS words))
+    (VP (VBP are)
+        (ADJP (RBR more)
+              (JJ expressive)
+              (PP (IN than)
+                  (NP (NNS labels)
+                      (PP (IN like)
+                          (NP (`` ``)
+                              (NP (NN A))
+                              ('' '')
+                              (CC and)
+                              (`` ``)
+                              (NP (NN not-A))
+                              ('' ''))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (PRP It)
+           (S-2 (-NONE- *pseudo-attach*)))
+       (VP (VBZ is)
+           (ADJP (JJ natural)))
+       (PP (IN from)
+           (NP
+               (NP (DT the) (NN marksman))
+               (POS 's) (NN viewpoint)))
+       (S-2 (NP (-NONE- *))
+            (AUX (TO to))
+            (VP (VB call)
+                (NP (DT a) (NN bull's-eye))
+                (NP (DT a) (NN success)))))
+    (, ,)
+    (CC but)
+    (S (PP (IN in)
+           (NP (DT the) (NNS mice)
+               (NN example)))
+       (S
+          (NP (PRP it)
+              (SBAR-3 (-NONE- *pseudo-attach*)))
+          (VP (VBZ is)
+              (ADJP (JJ arbitrary)))
+          (SBAR-3
+                  (WHNP (WDT which) (NN category))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ corresponds)
+                         (PP (TO to)
+                             (NP (JJ straight) (NN hair)
+                                 (PP (IN in)
+                                     (NP (DT a) (NN mouse)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN word)
+           (`` ``)
+           (NN binomial)
+           ('' ''))
+       (VP (VBZ means)
+           (X (NP (`` ``)
+                  (PP (IN of)
+                      (NP (CD two) (NNS names)))
+                  ('' '')
+                  (CC or)
+                  (`` ``)
+                  (PP (IN of)
+                      (NP (CD two) (NNS terms)))
+                  ('' '')))))
+    (, ,)
+    (CC and)
+    (S (S
+          (NP (DT both)
+              (NNS usages))
+          (VP (VBP apply)
+              (PP (IN in)
+                  (NP (PRP$ our) (NN work)))))
+       (: :)
+       (X (X (NP (DT the)
+                 (ADJP (JJ first)))
+             (PP (TO to)
+                 (NP (DT the) (NNS names)
+                     (PP (IN of)
+                         (NP (DT the) (CD two) (NNS outcomes)
+                             (PP (IN of)
+                                 (NP (DT a) (NN binomial) (NN trial))))))))
+          (, ,)
+          (CC and)
+          (X (NP (DT the) (NN second))
+             (PP (TO to)
+                 (NP (NP (DT the) (NNS terms)
+                         (NN P) (CC and) (-NONE- A[fj]))
+                     (SBAR (WHNP (WP that))
+                           (S (NP (-NONE- T))
+                              (VP (VBP represent)
+                                  (NP (DT the) (NNS probabilities)
+                                      (PP (IN of)
+                                          (NP (`` ``)
+                                              (NP (NN success))
+                                              ('' '')
+                                              (CC and)
+                                              (`` ``)
+                                              (NP (NN failure))
+                                              ('' '')))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Sometimes))
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (EX there))
+             (VP (VBP are)
+                 (NP (JJ many) (NNS outcomes)
+                     (PP (IN for)
+                         (NP (DT a) (JJ single) (NN trial)))))))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP group)
+           (NP (DT these) (NNS outcomes))
+           (PP (IN into)
+               (NP (CD two) (NNS classes)))
+           (, ,)
+           (PP (IN as)
+               (PP (IN in)
+                   (NP (NP (DT the) (NN example)
+                           (PP (IN of)
+                               (NP (DT the) (NN die))))
+                       (, ,)
+                       (SBAR
+                             (WHADVP (WRB where))
+                             (S (NP (PRP we))
+                                (AUX (VBP have))
+                                (VP (ADVP (RB arbitrarily))
+                                    (VBN constructed)
+                                    (NP (NP (DT the) (NNS classes))
+                                        (NP (`` ``)
+                                            (NP (NN ace))
+                                            ('' '')
+                                            (CC and)
+                                            (`` ``)
+                                            (NP (NN not-ace))
+                                            ('' ''))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Experiment)
+     (PP (IN without)
+         (NP (DT the) (ADJP (JJ two-class)) (NN property))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (PRP We))
+       (VP (VBP classify)
+           (NP (NNS mice))
+           (PP (IN as)
+               (ADJP (`` ``)
+                     (ADJP (JJ straight-haired))
+                     ('' '')
+                     (CC or)
+                     (`` ``)
+                     (ADJP (JJ wavy-haired))
+                     ('' '')))))
+    (, ,)
+    (CC but)
+    (S (NP (DT a) (JJ hairless) (NN mouse))
+       (VP (VBZ appears))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (PRP We))
+       (AUX (MD can))
+       (VP (VB escape)
+           (PP (IN from)
+               (NP (JJ such)
+                   (DT a) (NN difficulty)))
+           (PP (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VBG ruling)
+                      (PRT (IN out))
+                      (NP (DT the) (NN animal))
+                      (PP (IN as)
+                          (S (NP (-NONE- *))
+                             (NEG (RB not))
+                             (VP (VBG constituting)
+                                 (NP (DT a) (NN trial))))))))))
+    (, ,)
+    (CC but)
+    (S (NP (JJ such)
+           (DT a) (NN solution))
+       (VP (VBZ is)
+           (NEG (RB not))
+           (ADVP (RB always))
+           (ADJP (JJ satisfactory)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 3))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT All) (NNS trials))
+    (VP (VBP have)
+        (NP (JJ identical) (NNS probabilities)
+            (PP (IN of)
+                (NP (NN success))))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (DT Each) (NN die))
+       (VP (VBZ has)
+           (NP (NN probability) (-NONE- A[fj])
+               (PP (IN of)
+                   (S (NP (-NONE- *))
+                      (VP (VBG producing)
+                          (NP (DT an) (NN ace))))))))
+    (: ;)
+    (: ;)
+    (S (NP (DT the) (NN marksman))
+       (VP (VBZ has)
+           (NP (NP (NP (DT some) (NN probability) (NN p))
+                   (, ,)
+                   (NP (ADVP (RB perhaps))
+                       (CD 0.1)))
+               (, ,)
+               (PP (IN of)
+                   (S (NP (-NONE- *))
+                      (VP (VBG making)
+                          (NP (DT a) (NN bull's-eye)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Note)
+        (SBAR (IN that)
+              (S (NP (PRP we))
+                 (AUX (MD need))
+                 (NEG (RB not))
+                 (VP (VB know)
+                     (NP (DT the) (NN value)
+                         (PP (IN of)
+                             (NP (NN p)))))
+                 (, ,)
+                 (PP (IN for)
+                     (S (NP (DT the) (NN experiment))
+                        (AUX (TO to))
+                        (VP (VB be)
+                            (NP (NN binomial)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (NN Experiment))
+     (SBAR
+           (WHADVP (WRB where))
+           (S (NP (NN p))
+              (VP (VBZ is)
+                  (NEG (RB not))
+                  (ADJP (JJ constant))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN During)
+        (NP (DT a) (NN round)
+            (PP (IN of)
+                (NP (NN target) (NN practice)))))
+    (S (NP (DT the) (NN sun))
+       (VP (VP (VBZ comes)
+               (PP (IN from)
+                   (PP (IN behind)
+                       (NP (DT a) (NN cloud)))))
+           (CC and)
+           (VP (VBZ dazzles)
+               (NP (DT the) (NN marksman))
+               (, ,)
+               (S (NP (-NONE- *))
+                  (VP (VBG lowering)
+                      (NP (PRP$ his) (NN chance)
+                          (PP (IN of)
+                              (NP (DT a) (NN bull's-eye))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (CD 4))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS trials))
+    (VP (VBP are)
+        (ADJP (JJ independent))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (ADVP (RB Strictly))
+           (VBG speaking)))
+    (, ,)
+    (S (NP (DT this))
+       (VP (VBZ means)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN probability)
+                        (PP (IN for)
+                            (NP (DT each) (JJ possible) (NN outcome)
+                                (PP (IN of)
+                                    (NP (DT the) (NN experiment))))))
+                    (AUX (MD can))
+                    (VP (VB be)
+                        (VP (VBN computed)
+                            
+                            (PP (IN by)
+                                (S (NP (-NONE- *))
+                                   (VP (VBG multiplying)
+                                       (ADVP (RB together))
+                                       (NP (DT the) (NNS probabilities)
+                                           (PP (IN of)
+                                               (NP (DT the) (JJ possible) (NNS outcomes)
+                                                   (PP (IN of)
+                                                       (NP (DT the) (JJ single) (NN binomial) (NNS trials))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (PP (IN in)
+        (NP (DT the) (NP (JJ three-dice)) (NN example)))
+    (S (NP (NP (-NONE- A[fj]))
+           (, ,)
+           (NP (-NONE- A[fj]))
+           (, ,)
+           (CC and)
+           (NP (DT the) (NN independence) (NN assumption)))
+       (VP (VBP imply)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN probability)
+                        (SBAR (IN that)
+                              (S (NP (DT the) (CD three) (NN dice))
+                                 (VP (NN fall)
+                                     (NP (NP (NN ace))
+                                         (, ,)
+                                         (NP (NN not-ace))
+                                         (, ,)
+                                         (NP (NN ace)))
+                                     (PP (IN in)
+                                         (NP (DT that) (NN order)))))))
+                    (VP (VBZ is)
+                        (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Experimentally))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP expect)
+           (NP (NN independence)))
+       (SBAR
+             (WHADVP (WRB when))
+             (S (NP (DT the) (NNS trials))
+                (VP (VBP have)
+                    (NP (NN nothing)
+                        (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB do)
+                               (PP (IN with)
+                                   (NP (CD one)
+                                       (DT another)))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (NNS Examples))
+     (SBAR
+           (WHADVP (WRB where))
+           (S (NP (NN independence))
+              (VP (VBZ fails)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (DT A) (NN family)
+           (PP (IN of)
+               (NP (CD five))))
+       (VP (NNS plans)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB go)
+                  (ADVP (RB together))
+                  (PP (RB either)
+                      (PP (TO to)
+                          (NP (DT the) (NN beach)))
+                      (CC or)
+                      (PP (TO to)
+                          (NP (DT the) (NNS mountains))))))))
+    (, ,)
+    (CC and)
+    (S (NP (DT a) (NN coin))
+       (AUX (VBZ is))
+       (VP (VBN tossed)
+           )
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB decide)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP want)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB know)
+               (NP (NP (DT the) (NN number)
+                       (PP (IN of)
+                           (NP (NNS people))))
+                   (VP (VBG going)
+                       (PP (TO to)
+                           (NP (DT the) (NNS mountains)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT this) (NN experiment))
+             (AUX (VBZ is))
+             (VP (VBN viewed)
+                 
+                 (PP (IN as)
+                     (S (NP (-NONE- *))
+                        (VP (VBN composed)
+                            (PP (IN of)
+                                (NP (NP (CD five) (NN binomial) (NNS trials))
+                                    (, ,)
+                                    (NP (CD one)
+                                        (PP (IN for)
+                                            (NP (DT each) (NN member)
+                                                (PP (IN of)
+                                                    (NP (DT the) (NN family))))))))))))))
+    (, ,)
+    (S (NP (DT the) (NNS outcomes)
+           (PP (IN of)
+               (NP (DT the) (NNS trials))))
+       (VP (VBP are)
+           (ADVP (RB obviously))
+           (NEG (RB not))
+           (ADJP (JJ independent)))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Indeed))
+    (, ,)
+    (S (NP (DT the) (NN experiment))
+       (AUX (VBZ is))
+       (VP (ADVP (RB better))
+           (VBN viewed)
+           
+           (PP (IN as)
+               (S (NP (-NONE- *))
+                  (VP (VBG consisting)
+                      (PP (IN of)
+                          (NP (CD one) (NN binomial) (NN trial)
+                              (PP (IN for)
+                                  (NP (DT the) (JJ entire) (NN family)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN following))
+    (VP (VBZ is)
+        (NP (DT a)
+            (ADJP (RBR less)
+                  (JJ extreme))
+            (NN example)
+            (PP (IN of)
+                (NP (NN dependence))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Consider)
+        (NP (NP (NNS couples))
+            (VP (VBG visiting)
+                (NP (DT an) (NN art) (NN museum))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN person))
+    (VP (VBZ votes)
+        (PP (IN for)
+            (S (NP (CD one)
+                   (PP (IN of)
+                       (NP (DT a) (NN pair)
+                           (PP (IN of)
+                               (NP (NNS pictures))))))
+               (AUX (TO to))
+               (VP (VB receive)
+                   (NP (DT a) (JJ popular) (NN prize)))))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (S (NP (-NONE- *))
+              (VP (VBG Voting)
+                  (PP (IN for)
+                      (NP (CD one) (NN picture))))))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN called)
+               (`` ``)
+               (NP (NN success))
+               ('' ''))))
+    (, ,)
+    (X
+       (PP (IN for)
+           (NP (DT the) (JJ other)))
+       (`` ``)
+       (NP (NN failure))
+       ('' '')))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT An) (NN experiment))
+    (VP (VBZ consists)
+        (PP (IN of)
+            (NP (NP (DT the) (NN voting)
+                    (PP (IN of)
+                        (NP (CD one) (NN couple))))
+                (, ,)
+                (CC or)
+                (NP (CD two) (NNS trials))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NNS repetitions)
+            (PP (IN of)
+                (NP (DT the) (NN experiment)))
+            (PP (PP (IN from)
+                    (NP (NN couple)))
+                (PP (TO to)
+                    (NP (NN couple))))))
+    (, ,)
+    (S (NP (DT the) (NNS votes)
+           (PP (IN of)
+               (NP (DT the) (CD two) (NNS persons)
+                   (PP (IN in)
+                       (NP (DT a) (NN couple))))))
+       (ADVP (RB probably))
+       (VP (VBP agree)
+           (ADVP (RBR more) (RB often)
+                 (PP (IN than)
+                     (S (NP (NN independence))
+                        (AUX (MD would))
+                        (VP (VB imply))))))
+       (, ,)
+       (SBAR (IN because)
+             (S (NP (NP (NNS couples))
+                    (SBAR
+                          (WHNP (WP who))
+                          (S (NP (-NONE- T))
+                             (VP (VBP visit)
+                                 (NP (DT the) (NN museum))
+                                 (ADVP (RB together))))))
+                (VP (VBP are)
+                    (ADJP (RBR more)
+                          (JJ likely)
+                          (S (NP (-NONE- *))
+                             (AUX (TO to))
+                             (VP (VB have)
+                                 (NP (JJ similar) (NNS tastes))))
+                          (PP (IN than)
+                              (SINV
+                                    (VP (VBP are))
+                                    (NP (NP (DT a) (JJ random) (NN pair)
+                                            (PP (IN of)
+                                                (NP (NNS people))))
+                                        (VP (VBN drawn)
+                                            (PP (IN from)
+                                                (NP (DT the) (JJ entire) (NN population)
+                                                    (PP (IN of)
+                                                        (NP (NNS visitors)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Table) (CD 7-1))
+    (VP (VBZ illustrates)
+        (NP (DT the) (NN point))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN table))
+    (VP (VBZ shows)
+        (SBAR (IN that)
+              (S (NP (NP (CD 0.6)
+                         (PP (IN of)
+                             (NP (DT the) (NNS boys))))
+                     (CC and)
+                     (NP (CD 0.6)
+                         (PP (IN of)
+                             (NP (DT the) (NNS girls)))))
+                 (VP (VBP vote)
+                     (PP (IN for)
+                         (NP (NN picture)
+                             (NN A))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Therefore))
+    (, ,)
+    (PP (IN under)
+        (NP (JJ independent) (NN voting)))
+    (, ,)
+    (S (S (NP (NP (-NONE- A[fj]))
+              (CC or)
+              (NP (CD 0.36)
+                  (PP (IN of)
+                      (NP (DT the) (NNS couples)))))
+          (AUX (MD would))
+          (VP (VB cast)
+              (NP (CD two) (NNS votes)
+                  (PP (IN for)
+                      (NP (NN picture)
+                          (NN A))))))
+       (, ,)
+       (CC and)
+       (S
+          (NP (NP (-NONE- A[fj]))
+              (CC or)
+              (NP (CD 0.16)))
+          (AUX (MD would))
+          (VP (VB cast)
+              (NP (CD two) (NNS votes)
+                  (PP (IN for)
+                      (NP (NN picture) (NN B))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (PP (IN in)
+        (NP (ADJP (JJ independent))
+            (VBG voting)))
+    (, ,)
+    (S
+       (NP (NP (-NONE- A[fj]))
+           (CC or)
+           (NP (CD 0.52)
+               (PP (IN of)
+                   (NP (DT the) (NNS couples)))))
+       (AUX (MD would))
+       (VP (VB agree))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (NN Table) (CD 7-1))
+       (VP (VBZ shows)
+           (SBAR (IN that)
+                 (S (NP (NP (NP (-NONE- A[fj]))
+                            (CC or)
+                            (NP (CD 0.70)))
+                        (ADJP-4 (-NONE- *pseudo-attach*)))
+                    (VP (VBP agree))
+                    (, ,)
+                    (ADJP-4 (RB too)
+                            (JJ many)
+                            (PP (IN for)
+                                (NP (JJ independent) (NN voting)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN performance)
+        (PP (IN of)
+            (NP (DT an) (NN n-trial) (NN binomial) (NN experiment))))
+    (VP (VBZ results)
+        (PP (IN in)
+            (NP (DT some) (JJ whole) (NN number)
+                (PP (PP (IN from)
+                        (NP (CD 0)))
+                    (PP (IN through)
+                        (NP (NN N))))))
+        (PP (IN as)
+            (NP (DT the) (NN value)
+                (PP (IN of)
+                    (NP (DT the)
+                        (JJ random) (JJ variable)
+                        (NN X)))
+                (, ,)
+                (X
+                   (WHADVP (WRB where))
+                   (NP (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP want)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB study)
+               (NP (DT the) (NN probability) (NN function)
+                   (PP (IN of)
+                       (NP (DT this) (JJ random) (NN variable))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (NN example)))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP are)
+           (ADJP (VBN interested)
+                 (PP (IN in)
+                     (NP (NP (DT the) (NN number)
+                             (PP (IN of)
+                                 (NP (NNS bull's-eyes))))
+                         (, ,)
+                         (NEG (RB not))
+                         (SBAR
+                               (WHNP (WDT which) (NNS shots))
+                               (S (NP (-NONE- T))
+                                  (VP (VBD were)
+                                      (NP (NNS bull's-eyes))))))))
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (NN binomial) (NN experiment))
+    (AUX (MD can))
+    (VP (VB produce)
+        (NP (NP (JJ random) (NNS variables))
+            (ADJP (JJ other)
+                  (PP (IN than)
+                      (NP (DT the) (NN number)
+                          (PP (IN of)
+                              (NP (NNS successes)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (NN example)))
+    (, ,)
+    (S (S (NP (DT the) (NN marksman))
+          (VP (VBZ gets)
+              (NP (CD 5) (NNS shots))))
+       (, ,)
+       (CC but)
+       (S (NP (PRP we))
+          (VP (VBP take)
+              (NP (PRP$ his) (NN score))
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB be)
+                     (NP (NP (DT the) (NN number)
+                             (PP (IN of)
+                                 (NP (NNS shots)))
+                             (PP (IN before)
+                                 (NP (PRP$ his) (JJ first) (NN bull's-eye))))
+                         (, ,)
+                         (S (NP (DT that))
+                            (VP (VBZ is)))
+                         (, ,)
+                         (NP (NP (CD 0) (, ,) (CD 1) (, ,) (CD 2) (, ,) (CD 3) (, ,) (CD 4)
+                                 (-LRB- -LRB-)
+                                 (CC or)
+                                 (CD 5))
+                             (, ,)
+                             (SBAR (IN if)
+                                   (S (NP (PRP he))
+                                      (VP (VBZ gets)
+                                          (NP (DT no) (NN bull's-eye)))))
+                             (-RRB- -RRB-)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (S (S (NP (PRP we))
+          (AUX (VBP do))
+          (NEG (RB not))
+          (VP (VB score)
+              (NP (DT the) (NN number)
+                  (PP (IN of)
+                      (NP (NNS bull's-eyes))))))
+       (, ,)
+       (CC and)
+       (S (NP (DT the) (JJ random) (NN variable))
+          (VP (VBZ is)
+              (NEG (RB not))
+              (NP (DT the) (NN number)
+                  (PP (IN of)
+                      (NP (NNS successes))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN constancy)
+            (PP (IN of)
+                (NP (NN P))))
+        (CC and)
+        (NP (DT the) (NN independence)))
+    (VP (VBP are)
+        (NP (NP (DT the) (NNS conditions))
+            (ADJP
+                  (RBS most) (JJ likely)
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (VP (VB give)
+                         (NP (NN trouble)))
+                     (PP (IN in)
+                         (NP (NN practice))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (ADVP (RB Obviously))
+       (, ,)
+       (S (NP (ADJP (RB very)
+                    (JJ slight))
+              (NNS changes)
+              (PP (IN in)
+                  (NP (NN P))))
+          (AUX (VBP do))
+          (NEG (RB not))
+          (VP (VB change)
+              (NP (DT the) (NNS probabilities))
+              (ADVP (RB much)))))
+    (, ,)
+    (CC and)
+    (S (NP (DT a) (JJ slight) (NN lack)
+           (PP (IN of)
+               (NP (NN independence))))
+       (AUX (MD may))
+       (NEG (RB not))
+       (VP (VB make)
+           (NP (DT an) (JJ appreciable) (NN difference)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(-LRB-
+       (S
+          (PP (IN For)
+              (NP (NN instance)))
+          (, ,)
+          (S (NP (-NONE- *))
+             (VP (VB see)
+                 (NP (NP (NN Example) (CD 2)
+                         (PP (IN of)
+                             (NP (NN Section) (CD 5-5))))
+                     (, ,)
+                     (PP (IN on)
+                         (NP (JJ red) (NNS cards)
+                             (PP (IN in)
+                                 (NP (NNS hands)
+                                     (PP (IN of)
+                                         (NP (CD 5)))))))))))
+       (. .)
+       (-RRB- -RRB-))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN On)
+        (NP (DT the) (JJ other) (NN hand)))
+    (, ,)
+    (SBAR
+          (ADVP (RB even))
+          (WHADVP (WRB when))
+          (S (NP (DT the) (NN binomial) (NN model))
+             (AUX (VBZ does))
+             (NEG (RB not))
+             (VP (VB describe)
+                 (ADVP (RB well))
+                 (NP (NP (DT the) (JJ physical) (NN phenomenon))
+                     (VP (VBG being)
+                         (VP (VBN studied)))))))
+    (, ,)
+    (S (S (NP (DT the) (NN binomial) (NN model))
+          (AUX (MD may))
+          (ADVP (RB still))
+          (VP (VB be)
+              (VP (VBN used)
+                  
+                  (PP (IN as)
+                      (NP (DT a) (NN baseline)
+                          (PP (IN for)
+                              (NP (JJ comparative) (NNS purposes))))))))
+       (: ;)
+       (: ;)
+       (S (NP (DT that))
+          (VP (VBZ is)))
+       (, ,)
+       (S (NP (PRP we))
+          (AUX (MD may))
+          (VP (VB discuss)
+              (NP (DT the) (NN phenomenon))
+              (PP (IN in)
+                  (NP (NNS terms)
+                      (PP (IN of)
+                          (NP (PRP$ its) (NNS departures)
+                              (PP (IN from)
+                                  (NP (DT the) (NN binomial) (NN model)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB summarize)))
+    (: :)
+    (S (NP (DT A) (NN binomial) (NN experiment))
+       (VP (VBZ consists)
+           (PP (IN of)
+               (NP (NP (-NONE- A[fj]) (JJ independent) (NN binomial) (NNS trials))
+                   (, ,)
+                   (NP (DT all)
+                       (PP (IN with)
+                           (NP (DT the) (JJ same) (NN probability) (-NONE- A[fj])
+                               (PP (IN of)
+                                   (S (NP (-NONE- *))
+                                      (VP (VBG yielding)
+                                          (NP (DT a) (NN success)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN outcome)
+        (PP (IN of)
+            (NP (DT the) (NN experiment))))
+    (VP (VBZ is)
+        (NP (NN X) (NNS successes))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ random) (NN variable) (NN X))
+    (VP (VBZ takes)
+        (NP (NP (DT the) (NNS values)
+                (-NONE- A[fj])
+                (PP (IN with)
+                    (NP (NNS probabilities)
+                        (-NONE- A[fj]))))
+            (CC or)
+            (, ,)
+            (ADVP (JJR more)
+                  (NN briefly))
+            (NP
+                (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (AUX (MD shall))
+    (VP (VB find)
+        (NP (DT a) (NN formula)
+            (PP (IN for)
+                (NP (DT the) (NN probability)
+                    (PP (IN of)
+                        (NP (ADVP (RB exactly))
+                            (NN X) (NNS successes)))
+                    (PP (IN for)
+                        (NP (ADJP (VBN given))
+                            (NNS values)
+                            (PP (IN of)
+                                (NP (NP (NN P)) (CC and) (NP (NN N)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT each) (NN number)
+                 (PP (IN of)
+                     (NP (NNS successes)
+                         (NN X))))
+             (AUX (VBZ is))
+             (VP (VBN paired)
+                 
+                 (PP (IN with)
+                     (NP (PRP$ its) (NN probability)
+                         (PP (IN of)
+                             (NP (NN occurrence))))))))
+    (S (NP (NP (-NONE- A[fj]))
+           (, ,)
+           (NP (DT the) (NN set)
+               (PP (IN of)
+                   (NP (NNS pairs)
+                       (-NONE- A[fj]))))
+           (, ,))
+       (VP (VBZ is)
+           (NP (NP (DT a) (NN probability) (NN function))
+               (VP (VBD called)
+                   (NP (DT a) (NN binomial) (NN distribution)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (NN choice)
+           (PP (IN of)
+               (NP (NP (NN P)) (CC and) (NP (NN N)))))
+       (VP (VBZ determines)
+           (NP (DT the) (NN binomial) (NN distribution))
+           (ADVP (RB uniquely))))
+    (, ,)
+    (CC and)
+    (S (NP (JJ different) (NNS choices))
+       (ADVP (RB always))
+       (VP (VBP produce)
+           (NP (JJ different) (NNS distributions)))
+       (-LRB- -LRB-)
+       (S (PP (IN except)
+              (X
+                 (WHADVP (WRB when))
+                 (NP (-NONE- A[fj]))))
+          (: ;)
+          (: ;)
+          (S (ADVP (RB then))
+             (S (NP (DT the) (NN number)
+                    (PP (IN of)
+                        (NP (NNS successes))))
+                (VP (VBZ is)
+                    (ADVP (RB always))
+                    (NP (CD 0))))))
+       (-RRB- -RRB-)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN set)
+           (PP (IN of)
+               (NP (DT all) (NN binomial) (NNS distributions))))
+       (AUX (VBZ is))
+       (VP (VBN called)
+           
+           (NP (DT the) (NN family)
+               (PP (IN of)
+                   (NP (NN binomial) (NNS distributions))))))
+    (, ,)
+    (CC but)
+    (S (PP (IN in)
+           (NP (JJ general) (NNS discussions)))
+       (S
+          (NP (DT this) (NN expression))
+          (AUX (VBZ is))
+          (ADVP (RB often))
+          (VP (VBN shortened)
+              
+              (PP (TO to)
+                  (NP (`` ``)
+                      (NP (DT the) (NN binomial) (NN distribution))
+                      ('' '')
+                      (, ,)
+                      (CC or)
+                      (NP (ADVP (RB even))
+                          (`` ``)
+                          (DT the) (NN binomial)
+                          ('' '')
+                          (SBAR
+                                (WHADVP (WRB when))
+                                (S (NP (DT the) (NN context))
+                                   (VP (VBZ is)
+                                       (ADJP (JJ clear))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (S (NP (NN Binomial) (NNS distributions))
+       (AUX (VBD were))
+       (VP (VBN treated)
+           
+           (PP (IN by)
+               (NP (NNP James) (NNP Bernoulli))))
+       (NP (ADVP (IN about))
+           (CD 1700)))
+    (, ,)
+    (CC and)
+    (S (PP (IN for)
+           (NP (DT this) (NN reason)))
+       (S (NP (NN binomial) (NNS trials))
+          (AUX (VBP are))
+          (ADVP (RB sometimes))
+          (VP (VBN called)
+              (NP (NNP Bernoulli) (NNS trials))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (JJ Random) (NNS variables))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN binomial) (NN trial)
+        (PP (IN of)
+            (NP (DT a) (NN binomial) (NN experiment))))
+    (VP (VBZ produces)
+        (NP (DT either)
+            (CD 0)
+            (CC or)
+            (CD 1) (NN success))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Therefore))
+    (S (NP (DT each) (NN binomial) (NN trial))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN thought)
+               
+               (PP (IN of)
+                   (NP (-NONE- *)))
+               (PP (IN as)
+                   (S (NP (-NONE- *))
+                      (VP (VP (VBG producing)
+                              (NP (DT a) (NN value)
+                                  (PP (IN of)
+                                      (NP (NP (DT a) (JJ random) (NN variable))
+                                          (VP (VBN associated)
+                                              (PP (IN with)
+                                                  (NP (DT that) (NN trial))))))))
+                          (CC and)
+                          (VP (VBG taking)
+                              (NP (NP (DT the)
+                                      (NNS values) (CD 0)
+                                      (CC and)
+                                      (CD 1))
+                                  (, ,)
+                                  (PP (IN with)
+                                      (NP (NP (NNS probabilities)
+                                              (NN Q) (CC and) (NN P))
+                                          (ADVP (RB respectively)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ several) (NNS trials)
+        (PP (IN of)
+            (NP (DT a) (NN binomial) (NN experiment))))
+    (VP (VBP produce)
+        (NP (NP (NP (DT a)
+                    (JJ new) (JJ random)
+                    (NN variable) (NN X))
+                (, ,)
+                (NP (DT the) (JJ total) (NN number)
+                    (PP (IN of)
+                        (NP (NNS successes))))
+                (, ,))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ is)
+                         (NP (ADVP (RB just))
+                             (DT the) (NN sum)
+                             (PP (IN of)
+                                 (NP (NP (DT the) (JJ random) (NNS variables))
+                                     (VP (VBN associated)
+                                         (PP (IN with)
+                                             (NP (DT the) (JJ single) (NNS trials)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Example) (CD 2))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN marksman))
+    (VP (VBZ gets)
+        (NP (NP (CD two) (NNS bull's-eyes))
+            (, ,)
+            (NP (NP (CD one)
+                    (PP (IN on)
+                        (NP (PRP$ his) (JJ third) (NN shot))))
+                (CC and)
+                (NP (CD one)
+                    (PP (IN on)
+                        (NP (PRP$ his)
+                            (ADJP (JJ fifth)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS numbers)
+        (PP (IN of)
+            (NP (NNS successes)
+                (PP (IN on)
+                    (NP (DT the) (CD five) (JJ individual) (NNS shots))))))
+    (VP (VBP are)
+        (, ,)
+        (ADVP (RB then))
+        (, ,)
+        (NP (NP (CD 0)) (, ,) (NP (CD 0)) (, ,) (NP (CD 1)) (, ,) (NP (CD 0)) (, ,) (NP (CD 1)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN number)
+           (PP (IN of)
+               (NP (NNS successes)
+                   (PP (IN on)
+                       (NP (DT each) (NN shot))))))
+       (VP (VBZ is)
+           (NP (DT a) (NN value)
+               (PP (IN of)
+                   (NP (NP (DT a) (JJ random) (NN variable))
+                       (SBAR (WHNP (WP that))
+                             (S (NP (-NONE- T))
+                                (VP (VBZ has)
+                                    (NP (NNS values) (CD 0)
+                                        (CC or)
+                                        (CD 1))))))))))
+    (, ,)
+    (CC and)
+    (S (NP (EX there))
+       (VP (VBP are)
+           (NP (CD 5) (JJ such) (JJ random) (NNS variables))
+           (ADVP (RB here)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP$ Their) (NN sum))
+    (VP (VBZ is)
+        (NP (NP (NP (NN X))
+                (, ,)
+                (NP (DT the) (JJ total) (NN number)
+                    (PP (IN of)
+                        (NP (NNS successes))))
+                (, ,))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S
+                     (PP (IN in)
+                         (NP (DT this) (NN experiment)))
+                     (S (NP (-NONE- T))
+                        (VP (VBZ has)
+                            (NP (DT the) (NN value) (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

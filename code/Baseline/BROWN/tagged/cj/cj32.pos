@@ -1,0 +1,1534 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT many/JJ linguistic/JJ techniques/NNS ]
+for/IN reducing/VBG 
+[ the/DT amount/NN ]
+of/IN 
+[ dictionary/NN information/NN ]
+
+[ that/WDT ]
+have/VBP been/VBN proposed/VBN 
+[ all/DT ]
+organize/VBP 
+[ the/DT dictionary/NN 's/POS contents/NNS ]
+around/IN 
+[ prefixes/NNS ]
+,/, 
+[ stems/NNS ]
+,/, 
+[ suffixes/NNS ]
+,/, 
+[ etc/FW ]
+./. 
+==================================
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT significant/JJ reduction/NN ]
+in/IN 
+[ the/DT voume/NN ]
+of/IN 
+[ store/NN information/NN ]
+is/VBZ thus/RB realized/VBN ,/, especially/RB for/IN 
+[ a/DT ]
+highly/RB inflected/JJ 
+[ language/NN ]
+such/JJ as/IN 
+[ Russian/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ English/NNP ]
+
+[ the/DT reduction/NN ]
+in/IN 
+[ size/NN ]
+is/VBZ less/RBR striking/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT approach/NN ]
+requires/VBZ that/IN :/: (/( 
+[ 1/LS ]
+)/) 
+[ each/DT text/NN word/NN ]
+be/VB separated/VBN into/IN 
+[ smaller/JJR elements/NNS ]
+to/TO establish/VB 
+[ a/DT correspondence/NN ]
+between/IN 
+[ the/DT occurrence/NN ]
+and/CC 
+[ dictionary/NN entries/NNS ]
+,/, and/CC (/( 
+[ 2/LS ]
+)/) 
+[ the/DT information/NN ]
+retrieved/VBN from/IN 
+[ several/JJ entries/NNS ]
+in/IN 
+[ the/DT dictionary/NN ]
+be/VB synthesized/VBN into/IN 
+[ a/DT description/NN ]
+of/IN 
+[ the/DT particular/JJ word/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT logical/JJ scheme/NN ]
+used/VBN to/TO accomplish/VB 
+[ the/DT former/JJ influences/NNS ]
+
+[ the/DT placement/NN ]
+of/IN 
+[ information/NN ]
+in/IN 
+[ the/DT dictionary/NN file/NN ]
+./. 
+==================================
+
+[ Implementation/NN ]
+of/IN 
+[ the/DT latter/NN ]
+requires/VBZ 
+[ storage/NN ]
+of/IN 
+[ information/NN ]
+needed/VBN only/RB for/IN 
+[ synthesis/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+suggest/VBP 
+[ the/DT application/NN ]
+of/IN 
+[ certain/JJ data-processing/JJ techniques/NNS ]
+as/IN 
+[ a/DT solution/NN ]
+to/TO 
+[ the/DT problem/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC first/RB ,/, 
+[ we/PRP ]
+must/MD define/VB 
+[ two/CD terms/NNS ]
+so/IN that/IN 
+[ their/PRP$ meaning/NN ]
+will/MD be/VB clearly/RB understood/VBN :/: 
+[ form/NN ]
+--/: 
+[ any/DT unique/JJ sequence/NN ]
+of/IN 
+[ alphabetic/JJ characters/NNS ]
+
+[ that/WDT ]
+can/MD appear/VB in/IN 
+[ a/DT language/NN ]
+preceded/VBN and/CC followed/VBN by/IN 
+[ a/DT space/NN ]
+;/: ;/: 
+[ occurrence/NN ]
+--/: 
+[ an/DT instance/NN ]
+of/IN 
+[ a/DT form/NN ]
+in/IN 
+[ text/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+propose/VBP 
+[ a/DT method/NN ]
+for/IN selecting/VBG 
+[ only/JJ dictionary/NN information/NN ]
+required/VBN by/IN 
+[ the/DT text/NN ]
+being/VBG translated/VBN and/CC 
+[ a/DT means/NN ]
+for/IN passing/VBG 
+[ the/DT information/NN ]
+directly/RB to/TO 
+[ the/DT occurrences/NNS ]
+in/IN 
+[ text/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+accomplish/VBP 
+[ this/DT ]
+by/IN compiling/VBG 
+[ a/DT list/NN ]
+of/IN 
+[ text/NN forms/NNS ]
+as/IN 
+[ text/NN ]
+is/VBZ read/VBN by/IN 
+[ the/DT computer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT random-storage/JJ scheme/NN ]
+,/, based/VBN on/IN 
+[ the/DT spelling/NN ]
+of/IN 
+[ forms/NNS ]
+,/, provides/VBZ 
+[ an/DT economical/JJ way/NN ]
+to/TO compile/VB 
+[ this/DT text-form/NN list/NN ]
+./. 
+==================================
+
+[ Dictionary/NN forms/NNS ]
+found/VBN to/TO match/VB 
+[ forms/NNS ]
+in/IN 
+[ the/DT text/NN list/NN ]
+are/VBP marked/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT location/NN ]
+in/IN 
+[ the/DT computer/NN store/NN ]
+is/VBZ also/RB named/VBN for/IN 
+[ each/DT marked/JJ form/NN ]
+;/: ;/: 
+[ dictionary/NN information/NN ]
+about/IN 
+[ the/DT form/NN ]
+stored/VBN at/IN 
+[ this/DT location/NN ]
+can/MD be/VB retrieved/VBN directly/RB by/IN 
+[ occurrences/NNS ]
+of/IN 
+[ the/DT form/NN ]
+in/IN 
+[ text/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Finally/RB ,/, 
+[ information/NN ]
+is/VBZ retrieved/VBN from/IN 
+[ the/DT dictionary/NN ]
+as/IN required/VBN by/IN 
+[ stages/NNS ]
+of/IN 
+[ the/DT translation/NN process/NN ]
+--/: 
+[ the/DT grammatical/JJ description/NN ]
+for/IN 
+[ sentence-structure/JJ determination/NN ]
+,/, 
+[ equivalent-choice/JJ information/NN ]
+for/IN 
+[ semantic/JJ analysis/NN ]
+,/, and/CC 
+[ target-language/NN equivalents/NNS ]
+for/IN 
+[ output/NN construction/NN ]
+./. 
+==================================
+
+[ The/DT dictionary/NN ]
+is/VBZ 
+[ a/DT form/NN dictionary/NN ]
+,/, at/IN 
+[ least/RBS ]
+in/IN 
+[ the/DT sense/NN ]
+that/IN 
+[ complete/JJ forms/NNS ]
+are/VBP used/VBN as/IN 
+[ the/DT basis/NN ]
+for/IN 
+[ matching/VBG text/NN occurrences/NNS ]
+with/IN 
+[ dictionary/NN entries/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Also/RB ,/, 
+[ the/DT dictionary/NN ]
+is/VBZ divided/VBN into/IN at/IN 
+[ least/JJS two/CD parts/NNS ]
+:/: 
+[ the/DT list/NN ]
+of/IN 
+[ dictionary/NN forms/NNS ]
+and/CC 
+[ the/DT file/NN ]
+of/IN 
+[ information/NN ]
+
+[ that/WDT ]
+pertains/VBZ to/TO 
+[ these/DT forms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT more/RBR detailed/JJ description/NN ]
+of/IN 
+[ dictionary/NN operations/NNS ]
+--/: 
+[ text/NN lookup/NN ]
+and/CC 
+[ dictionary/NN modification/NN ]
+--/: gives/VBZ 
+[ a/DT clearer/JJR picture/NN ]
+./. 
+==================================
+
+[ Text/NN lookup/NN ]
+,/, as/IN 
+[ we/PRP ]
+will/MD describe/VB 
+[ it/PRP ]
+,/, consists/VBZ of/IN 
+[ three/CD steps/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT first/JJ ]
+is/VBZ compiling/VBG 
+[ a/DT list/NN ]
+of/IN 
+[ text/NN forms/NNS ]
+,/, assigning/VBG 
+[ an/DT information/NN cell/NN ]
+to/TO 
+[ each/DT ]
+,/, and/CC 
+[ replacing/VBG text/NN occurrences/NNS ]
+with/IN 
+[ the/DT information/NN cell/NN ]
+assigned/VBN to/TO 
+[ the/DT form/NN ]
+of/IN 
+[ each/DT occurrence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ this/DT step/NN ]
+
+[ the/DT computer/NN memory/NN ]
+is/VBZ separated/VBN into/IN 
+[ three/CD regions/NNS ]
+:/: 
+[ cells/NNS ]
+in/IN 
+[ the/DT W-region/NN ]
+are/VBP used/VBN for/IN 
+[ storage/NN ]
+of/IN 
+[ the/DT forms/NNS ]
+in/IN 
+[ the/DT text-form/NN list/NN ]
+;/: ;/: 
+[ cells/NNS ]
+in/IN 
+[ the/DT X-region/NN ]
+and/CC 
+[ Y/NNP region/NN ]
+are/VBP reserved/VBN as/IN 
+[ information/NN cells/NNS ]
+for/IN 
+[ text/NN forms/NNS ]
+./. 
+==================================
+When/WRB 
+[ an/DT occurrence/NN A[fj]/SYM ]
+is/VBZ isolated/VBN during/IN 
+[ text/NN reading/NN ]
+,/, 
+[ a/DT random/JJ memory/NN address/NN A[fj]/SYM ]
+,/, 
+[ the/DT address/NN ]
+of/IN 
+[ a/DT cell/NN ]
+in/IN 
+[ the/DT X-region/NN ]
+,/, is/VBZ computed/VBN from/IN 
+[ the/DT form/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Let/VB 
+[ A[fj]/SYM ]
+denote/VB 
+[ the/DT form/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ cell/NN A[fj]/SYM ]
+has/VBZ not/RB previously/RB been/VBN assigned/VBN as/IN 
+[ the/DT information/NN cell/NN ]
+of/IN 
+[ a/DT form/NN ]
+in/IN 
+[ the/DT text-form/NN list/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ now/RB assigned/VBN as/IN 
+[ the/DT information/NN cell/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT form/NN ]
+
+[ itself/PRP ]
+is/VBZ stored/VBN in/IN 
+[ the/DT next/JJ available/JJ cells/NNS ]
+of/IN 
+[ the/DT W-region/NN ]
+,/, beginning/VBG in/IN 
+[ cell/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT address/NN A[fj]/SYM ]
+and/CC 
+[ the/DT number/NN ]
+of/IN 
+[ cells/NNS ]
+required/VBN to/TO store/VB 
+[ the/DT form/NN ]
+are/VBP written/VBN in/IN 
+[ A[fj]/SYM ]
+;/: ;/: 
+[ the/DT information/NN cell/NN A[fj]/SYM ]
+is/VBZ saved/VBN to/TO represent/VB 
+[ the/DT text/NN occurrence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Text/NN reading/NN ]
+continues/VBZ with/IN 
+[ the/DT next/JJ occurrence/NN ]
+./. 
+==================================
+Let/VB 
+[ us/PRP ]
+assume/VB that/IN 
+[ A[fj]/SYM ]
+is/VBZ identical/JJ to/TO 
+[ the/DT form/NN ]
+of/IN 
+[ an/DT occurrence/NN A[fj]/SYM ]
+
+[ which/WDT ]
+preceded/VBD 
+[ A[fj]/SYM ]
+in/IN 
+[ the/DT text/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ this/DT situation/NN ]
+exists/VBZ ,/, 
+[ the/DT address/NN A[fj]/SYM ]
+will/MD equal/VB 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+was/VBD produced/VBN from/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+was/VBD assigned/VBN as/IN 
+[ the/DT information/NN cell/NN ]
+for/IN 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT routine/NN ]
+can/MD detect/VB that/IN 
+[ A[fj]/SYM ]
+is/VBZ identical/JJ to/TO 
+[ A[fj]/SYM ]
+by/IN comparing/VBG 
+[ A[fj]/SYM ]
+with/IN 
+[ the/DT form/NN ]
+stored/VBN at/IN 
+[ location/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT address/NN A[fj]/SYM ]
+is/VBZ stored/VBN in/IN 
+[ the/DT cell/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB ,/, as/IN in/IN 
+[ this/DT case/NN ]
+,/, 
+[ the/DT two/CD forms/NNS ]
+match/VBP ,/, 
+[ the/DT address/NN A[fj]/SYM ]
+is/VBZ saved/VBN to/TO represent/VB 
+[ the/DT occurrence/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Text/NN reading/NN ]
+continues/VBZ with/IN 
+[ the/DT next/JJ occurrence/NN ]
+./. 
+==================================
+
+[ A/DT third/JJ situation/NN ]
+is/VBZ possible/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT formula/NN ]
+for/IN computing/VBG 
+[ random/JJ addresses/NNS ]
+from/IN 
+[ the/DT form/NN ]
+of/IN 
+[ each/DT occurrence/NN ]
+will/MD not/RB give/VB 
+[ a/DT distinct/JJ address/NN ]
+for/IN 
+[ each/DT distinct/JJ form/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, when/WRB more/JJR than/IN 
+[ one/CD distinct/JJ form/NN ]
+leads/VBZ to/TO 
+[ a/DT particular/JJ cell/NN ]
+in/IN 
+[ the/DT X-region/NN ]
+,/, 
+[ a/DT chain/NN ]
+of/IN 
+[ information/NN cells/NNS ]
+must/MD be/VB created/VBN to/TO accommodate/VB 
+[ the/DT forms/NNS ]
+,/, 
+[ one/CD cell/NN ]
+in/IN 
+[ the/DT chain/NN ]
+for/IN 
+[ each/DT form/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ A[fj]/SYM ]
+leads/VBZ to/TO 
+[ an/DT address/NN A[fj]/SYM ]
+
+[ that/WDT ]
+is/VBZ equal/JJ to/TO 
+[ the/DT address/NN ]
+computed/VBN from/IN 
+[ A[fj]/SYM ]
+,/, even/RB though/IN 
+[ A[fj]/SYM ]
+does/VBZ not/RB match/VB 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT chain/NN ]
+of/IN 
+[ information/NN cells/NNS ]
+is/VBZ extended/VBN from/IN 
+[ A[fj]/SYM ]
+by/IN storing/VBG 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT next/JJ available/JJ cell/NN ]
+in/IN 
+[ the/DT Y-region/NN ]
+,/, 
+[ A[fj]/SYM ]
+,/, in/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cell/NN A[fj]/SYM ]
+becomes/VBZ 
+[ the/DT second/JJ information/NN cell/NN ]
+in/IN 
+[ the/DT chain/NN ]
+and/CC is/VBZ assigned/VBN as/IN 
+[ the/DT information/NN cell/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT third/JJ cell/NN ]
+can/MD be/VB added/VBN by/IN storing/VBG 
+[ the/DT address/NN ]
+of/IN 
+[ another/DT Y-cell/NNP ]
+in/IN 
+[ A[fj]/SYM ]
+;/: ;/: similarly/RB ,/, as/IN 
+[ many/JJ cells/NNS ]
+are/VBP added/VBN as/RB are/VBP required/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT information/NN cell/NN ]
+in/IN 
+[ the/DT chain/NN ]
+contains/VBZ 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT Y-cell/NN ]
+where/WRB 
+[ the/DT form/NN ]
+to/TO 
+[ which/WDT ]
+
+[ it/PRP ]
+is/VBZ assigned/VBN is/VBZ stored/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT cell/NN ]
+except/IN 
+[ the/DT last/JJ ]
+in/IN 
+[ the/DT chain/NN ]
+also/RB contains/VBZ 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT Y-cell/NN ]
+
+[ that/WDT ]
+is/VBZ 
+[ the/DT next/JJ element/NN ]
+of/IN 
+[ the/DT chain/NN ]
+;/: ;/: 
+[ the/DT absence/NN ]
+of/IN 
+[ such/JJ a/DT link/NN ]
+in/IN 
+[ the/DT last/JJ cell/NN ]
+indicates/VBZ 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT chain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB ,/, when/WRB 
+[ the/DT address/NN A[fj]/SYM ]
+is/VBZ computed/VBN from/IN 
+[ A[fj]/SYM ]
+,/, 
+[ the/DT cell/NN A[fj]/SYM ]
+and/CC 
+[ all/DT Y-cells/NNS ]
+in/IN 
+[ its/PRP$ chain/NN ]
+must/MD be/VB inspected/VBN to/TO determine/VB whether/IN 
+[ A[fj]/SYM ]
+is/VBZ already/RB in/IN 
+[ the/DT form/NN list/NN ]
+or/CC whether/IN 
+[ it/PRP ]
+should/MD be/VB added/VBN to/TO 
+[ the/DT form/NN list/NN ]
+and/CC 
+[ the/DT chain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT information/NN cell/NN ]
+for/IN 
+[ A[fj]/SYM ]
+has/VBZ been/VBN determined/VBN ,/, 
+[ it/PRP ]
+is/VBZ saved/VBN as/IN 
+[ a/DT representation/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Text/NN reading/NN ]
+continues/VBZ with/IN 
+[ the/DT next/JJ occurrence/NN ]
+./. 
+==================================
+
+[ Text/NN reading/NN ]
+is/VBZ terminated/VBN when/WRB 
+[ a/DT pre-determined/JJ number/NN ]
+of/IN 
+[ forms/NNS ]
+have/VBP been/VBN stored/VBN in/IN 
+[ the/DT text-form/NN list/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+initiates/VBZ 
+[ the/DT second/JJ step/NN ]
+of/IN 
+[ glossary/NN lookup/NN ]
+--/: connecting/VBG 
+[ the/DT information/NN cell/NN ]
+of/IN 
+[ forms/NNS ]
+in/IN 
+[ the/DT text-form/NN list/NN ]
+to/TO 
+[ dictionary/NN forms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT form/NN ]
+represented/VBN by/IN 
+[ the/DT dictionary/NN ]
+is/VBZ looked/VBN up/RB in/IN 
+[ the/DT text-form/NN list/NN ]
+./. 
+==================================
+
+[ Each/DT time/NN ]
+
+[ a/DT dictionary/NN form/NN ]
+matches/VBZ 
+[ a/DT text/NN form/NN ]
+,/, 
+[ the/DT information/NN cell/NN ]
+of/IN 
+[ the/DT matching/VBG text/NN form/NN ]
+is/VBZ saved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT number/NN ]
+of/IN 
+[ dictionary/NN forms/NNS ]
+skipped/VBD since/IN 
+[ the/DT last/JJ one/CD ]
+matched/VBN is/VBZ also/RB saved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT two/CD pieces/NNS ]
+of/IN 
+[ information/NN ]
+for/IN 
+[ each/DT dictionary/NN form/NN ]
+
+[ that/WDT ]
+is/VBZ matched/VBN by/IN 
+[ a/DT text/NN form/NN ]
+constitute/VBP 
+[ the/DT table/NN ]
+of/IN 
+[ dictionary/NN usage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ each/DT text/NN form/NN ]
+is/VBZ marked/VBN when/WRB matched/VBN with/IN 
+[ a/DT dictionary/NN form/NN ]
+,/, 
+[ the/DT text/NN forms/NNS ]
+not/RB contained/VBN in/IN 
+[ the/DT dictionary/NN ]
+can/MD be/VB identified/VBN when/WRB 
+[ all/DT dictionary/NN forms/NNS ]
+have/VBP been/VBN read/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT appropriate/JJ action/NN ]
+for/IN handling/VBG 
+[ these/DT forms/NNS ]
+can/MD be/VB taken/VBN at/IN 
+[ that/DT time/NN ]
+./. 
+==================================
+
+[ Each/DT dictionary/NN form/NN ]
+is/VBZ looked/VBN up/RB in/IN 
+[ the/DT text-form/NN list/NN ]
+by/IN 
+[ the/DT same/JJ method/NN ]
+used/VBN to/TO look/VB up/RP 
+[ a/DT new/JJ text/NN occurrence/NN ]
+in/IN 
+[ the/DT form/NN list/NN ]
+during/IN 
+[ text/NN reading/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT random/JJ address/NN A[fj]/SYM ]
+
+[ that/WDT ]
+lies/VBZ within/IN 
+[ the/DT X-region/NN ]
+of/IN 
+[ memory/NN ]
+mentioned/VBN earlier/RB is/VBZ computed/VBN from/IN 
+[ the/DT i-th/NN dictionary/NN form/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ cell/NN A[fj]/SYM ]
+is/VBZ 
+[ an/DT information/NN cell/NN ]
+,/, 
+[ it/PRP ]
+and/CC 
+[ any/DT information/NN cells/NNS ]
+in/IN 
+[ the/DT Y-region/NN ]
+
+[ that/WDT ]
+have/VBP been/VBN linked/VBN to/TO 
+[ A[fj]/SYM ]
+
+[ each/DT ]
+contain/VBP 
+[ an/DT address/NN ]
+in/IN 
+[ the/DT W-region/NN ]
+where/WRB 
+[ a/DT ]
+potentially/RB 
+[ matching/JJ form/NN ]
+is/VBZ stored/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT dictionary/NN form/NN ]
+is/VBZ compared/VBN with/IN 
+[ each/DT ]
+of/IN 
+[ these/DT text/NN forms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ a/DT match/NN ]
+is/VBZ found/VBN ,/, 
+[ an/DT entry/NN ]
+is/VBZ made/VBN in/IN 
+[ the/DT table/NN ]
+of/IN 
+[ dictionary/NN usage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ cell/NN A[fj]/SYM ]
+is/VBZ not/RB 
+[ an/DT information/NN cell/NN ]
+
+[ we/PRP ]
+conclude/VBP that/IN 
+[ the/DT i-th/NN dictionary/NN form/NN ]
+is/VBZ not/RB in/IN 
+[ the/DT text/NN list/NN ]
+./. 
+==================================
+
+[ These/DT two/CD steps/NNS ]
+essentially/RB complete/VBP 
+[ the/DT lookup/NN operation/NN ]
+./. 
+==================================
+
+[ The/DT final/JJ step/NN ]
+merely/RB uses/VBZ 
+[ the/DT table/NN ]
+of/IN 
+[ dictionary/NN usage/NN ]
+to/TO select/VB 
+[ the/DT dictionary/NN information/NN ]
+
+[ that/WDT ]
+pertains/VBZ to/TO 
+[ each/DT form/NN ]
+matched/VBN in/IN 
+[ the/DT text-form/NN list/NN ]
+,/, and/CC uses/VBZ 
+[ the/DT list/NN ]
+of/IN 
+[ information/NN cells/NNS ]
+recorded/VBN in/IN 
+[ text/NN order/NN ]
+to/TO attach/VB 
+[ the/DT appropriate/JJ information/NN ]
+to/TO 
+[ each/DT occurrence/NN ]
+in/IN 
+[ text/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT list/NN ]
+of/IN 
+[ text/NN forms/NNS ]
+in/IN 
+[ the/DT W-region/NN ]
+of/IN 
+[ memory/NN ]
+and/CC 
+[ the/DT contents/NNS ]
+of/IN 
+[ the/DT information/NN cells/NNS ]
+in/IN 
+[ the/DT X/NNP ]
+and/CC 
+[ Y-regions/NNS ]
+are/VBP no/RB longer/RB required/VBN ./. 
+==================================
+
+==================================
+==================================
+Only/RB 
+[ the/DT assignment/NN ]
+of/IN 
+[ the/DT information/NN cells/NNS ]
+is/VBZ important/JJ ./. 
+==================================
+
+[ The/DT first/JJ stage/NN ]
+of/IN 
+[ translation/NN ]
+after/IN 
+[ glossary/NN lookup/NN ]
+is/VBZ 
+[ structural/JJ analysis/NN ]
+of/IN 
+[ the/DT input/NN text/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT grammatical/JJ description/NN ]
+of/IN 
+[ each/DT occurrence/NN ]
+in/IN 
+[ the/DT text/NN ]
+must/MD be/VB retrieved/VBN from/IN 
+[ the/DT dictionary/NN ]
+to/TO permit/VB 
+[ such/JJ an/DT analysis/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT description/NN ]
+of/IN 
+[ this/DT process/NN ]
+will/MD serve/VB to/TO illustrate/VB how/WRB 
+[ any/DT type/NN ]
+of/IN 
+[ information/NN ]
+can/MD be/VB retrieved/VBN from/IN 
+[ the/DT dictionary/NN ]
+and/CC attached/VBN to/TO 
+[ each/DT text/NN occurrence/NN ]
+./. 
+==================================
+
+[ The/DT grammatical/JJ descriptions/NNS ]
+of/IN 
+[ all/DT forms/NNS ]
+in/IN 
+[ the/DT dictionary/NN ]
+are/VBP recorded/VBN in/IN 
+[ a/DT separate/JJ part/NN ]
+of/IN 
+[ the/DT dictionary/NN file/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT order/NN ]
+is/VBZ identical/JJ to/TO 
+[ the/DT ordering/NN ]
+of/IN 
+[ the/DT forms/NNS they/PRP ]
+describe/VBP ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ entries/NNS ]
+are/VBP being/VBG retrieved/VBN from/IN 
+[ this/DT file/NN ]
+,/, 
+[ the/DT table/NN ]
+of/IN 
+[ dictionary/NN usage/NN ]
+indicates/VBZ 
+[ which/WDT entries/NNS ]
+to/TO skip/VB and/CC 
+[ which/WDT entries/NNS ]
+to/TO store/VB in/IN 
+[ the/DT computer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT selection-rejection/JJ process/NN ]
+takes/VBZ 
+[ place/NN ]
+as/IN 
+[ the/DT file/NN ]
+is/VBZ read/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT entry/NN ]
+
+[ that/WDT ]
+is/VBZ selected/VBN for/IN 
+[ storage/NN ]
+is/VBZ written/VBN into/IN 
+[ the/DT next/JJ available/JJ cells/NNS ]
+of/IN 
+[ the/DT A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT address/NN ]
+of/IN 
+[ the/DT first/JJ cell/NN ]
+and/CC 
+[ the/DT number/NN ]
+of/IN 
+[ cells/NNS ]
+used/VBN is/VBZ written/VBN in/IN 
+[ the/DT information/NN cell/NN ]
+for/IN 
+[ the/DT form/NN ]
+./. 
+==================================
+(/( 
+[ The/DT address/NN ]
+of/IN 
+[ the/DT information/NN cell/NN ]
+is/VBZ also/RB supplied/VBN by/IN 
+[ the/DT table/NN ]
+of/IN 
+[ dictionary/NN usage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+)/) When/WRB 
+[ the/DT complete/JJ file/NN ]
+has/VBZ been/VBN read/VBN ,/, 
+[ the/DT grammatical/JJ descriptions/NNS ]
+for/IN 
+[ all/DT text/NN forms/NNS ]
+found/VBN in/IN 
+[ the/DT dictionary/NN ]
+have/VBP been/VBN stored/VBN in/IN 
+[ the/DT W-region/NN ]
+;/: ;/: 
+[ the/DT information/NN cell/NN ]
+assigned/VBN to/TO 
+[ each/DT text/NN form/NN ]
+contains/VBZ 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT grammatical/JJ description/NN ]
+of/IN 
+[ the/DT form/NN ]
+
+[ it/PRP ]
+represents/VBZ ./. 
+==================================
+
+==================================
+==================================
+Hence/RB ,/, 
+[ the/DT description/NN ]
+of/IN 
+[ each/DT text/NN occurrence/NN ]
+can/MD be/VB retrieved/VBN by/IN reading/VBG 
+[ the/DT list/NN ]
+of/IN 
+[ text-ordered/JJ information-cell/NN addresses/NNS ]
+and/CC outputting/VBG 
+[ the/DT description/NN ]
+indicated/VBN by/IN 
+[ the/DT information/NN cell/NN ]
+for/IN 
+[ each/DT occurrence/NN ]
+./. 
+==================================
+
+[ The/DT only/JJ requirements/NNS ]
+on/IN 
+[ dictionary/NN information/NN ]
+made/VBN by/IN 
+[ the/DT text-lookup/NN operation/NN ]
+are/VBP that/IN 
+[ each/DT form/NN ]
+represented/VBN by/IN 
+[ the/DT dictionary/NN ]
+be/VB available/JJ for/IN 
+[ lookup/NN ]
+in/IN 
+[ the/DT text-form/NN list/NN ]
+and/CC 
+[ that/DT information/NN ]
+for/IN 
+[ each/DT form/NN ]
+be/VB available/JJ in/IN 
+[ a/DT sequence/NN ]
+identical/JJ with/IN 
+[ the/DT sequence/NN ]
+of/IN 
+[ the/DT forms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+leaves/VBZ 
+[ the/DT ordering/NN ]
+of/IN 
+[ entries/NNS ]
+variable/JJ ./. 
+==================================
+
+==================================
+==================================
+(/( Here/RB 
+[ an/DT entry/NN ]
+is/VBZ 
+[ a/DT form/NN ]
+plus/IN 
+[ the/DT information/NN ]
+
+[ that/WDT ]
+pertains/VBZ to/TO 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+)/) 
+[ Two/CD ]
+
+[ very/RB useful/JJ ways/NNS ]
+for/IN modifying/VBG 
+[ a/DT form-dictionary/NN ]
+are/VBP 
+[ the/DT addition/NN ]
+to/TO 
+[ the/DT dictionary/NN ]
+of/IN 
+[ complete/JJ paradigms/NNS ]
+rather/RB than/IN 
+[ single/JJ forms/NNS ]
+and/CC 
+[ the/DT application/NN ]
+of/IN 
+[ a/DT single/JJ change/NN ]
+to/TO 
+[ more/JJR ]
+than/IN 
+[ one/CD dictionary/NN form/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT former/JJ ]
+is/VBZ intended/VBN to/TO decrease/VB 
+[ the/DT amount/NN ]
+of/IN 
+[ work/NN ]
+necessary/JJ to/TO extend/VB 
+[ dictionary/NN coverage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT latter/NN ]
+is/VBZ useful/JJ for/IN 
+[ modifying/VBG information/NN ]
+about/IN 
+[ some/DT ]
+or/CC 
+[ all/DT forms/NNS ]
+of/IN 
+[ a/DT word/NN ]
+,/, hence/RB reducing/VBG 
+[ the/DT work/NN ]
+required/VBN to/TO improve/VB 
+[ dictionary/NN contents/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Applying/VBG 
+[ the/DT techniques/NNS ]
+developed/VBN at/IN 
+[ Harvard/NNP ]
+for/IN generating/VBG 
+[ a/DT paradigm/NN ]
+from/IN 
+[ a/DT representative/JJ form/NN ]
+and/CC 
+[ its/PRP$ classification/NN ]
+,/, 
+[ we/PRP ]
+can/MD add/VB 
+[ all/DT forms/NNS ]
+of/IN 
+[ a/DT word/NN ]
+to/TO 
+[ the/DT dictionary/NN ]
+at/IN once/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT extension/NN ]
+of/IN 
+[ the/DT principle/NN ]
+would/MD permit/VB entering/VBG 
+[ a/DT grammatical/JJ description/NN ]
+of/IN 
+[ each/DT form/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Equivalents/NNS ]
+could/MD be/VB assigned/VBN to/TO 
+[ the/DT paradigm/NN ]
+either/CC at/IN 
+[ the/DT time/NN ]
+
+[ it/PRP ]
+is/VBZ added/VBN to/TO 
+[ the/DT dictionary/NN ]
+or/CC after/IN 
+[ the/DT word/NN ]
+has/VBZ been/VBN studied/VBN in/IN 
+[ context/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ one/PRP ]
+can/MD think/VB of/IN 
+[ a/DT dictionary/NN entry/NN ]
+as/IN 
+[ a/DT word/NN ]
+rather/RB than/IN 
+[ a/DT form/NN ]
+./. 
+==================================
+If/IN 
+[ all/DT forms/NNS ]
+of/IN 
+[ a/DT paradigm/NN ]
+are/VBP grouped/VBN together/RB within/IN 
+[ the/DT dictionary/NN ]
+,/, 
+[ a/DT considerable/JJ reduction/NN ]
+in/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ information/NN ]
+required/VBN is/VBZ possible/JJ ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT inflected/VBN forms/NNS ]
+of/IN 
+[ a/DT word/NN ]
+can/MD be/VB represented/VBN ,/, insofar/RB as/IN 
+[ regular/JJ inflection/NN ]
+allows/VBZ ,/, by/IN 
+[ a/DT stem/NN ]
+and/CC 
+[ a/DT set/NN ]
+of/IN 
+[ endings/NNS ]
+to/TO be/VB attached/VBN ./. 
+==================================
+
+==================================
+==================================
+(/( Indeed/RB ,/, 
+[ the/DT set/NN ]
+of/IN 
+[ endings/NNS ]
+can/MD be/VB replaced/VBN by/IN 
+[ the/DT name/NN ]
+of/IN 
+[ a/DT set/NN ]
+of/IN 
+[ endings/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+)/) 
+[ The/DT full/JJ forms/NNS ]
+can/MD be/VB derived/VBN from/IN 
+[ such/JJ information/NN ]
+just/RB prior/RB to/TO 
+[ the/DT lookup/NN ]
+of/IN 
+[ the/DT form/NN ]
+in/IN 
+[ the/DT text-form/NN list/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Similarly/RB ,/, if/IN 
+[ the/DT equivalents/NNS ]
+for/IN 
+[ the/DT forms/NNS ]
+of/IN 
+[ a/DT word/NN ]
+do/VBP not/RB vary/VB ,/, 
+[ the/DT equivalents/NNS ]
+need/MD be/VB entered/VBN only/RB once/RB with/IN 
+[ an/DT indication/NN ]
+that/IN 
+[ they/PRP ]
+apply/VBP to/TO 
+[ each/DT form/NN ]
+./. 
+==================================
+
+[ The/DT dictionary/NN system/NN ]
+is/VBZ in/IN 
+[ no/DT way/NN ]
+dependent/JJ upon/IN 
+[ such/JJ summarization/NN ]
+or/CC designed/VBN around/IN 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ irregularity/NN ]
+and/CC 
+[ variation/NN ]
+prevent/VBP summarizing/VBG ,/, 
+[ information/NN ]
+is/VBZ written/VBN in/IN 
+[ complete/JJ detail/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Entries/NNS ]
+are/VBP summarized/VBN only/RB when/WRB by/IN doing/VBG so/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ information/NN ]
+retained/VBN in/IN 
+[ the/DT dictionary/NN ]
+is/VBZ reduced/VBN and/CC 
+[ the/DT time/NN ]
+required/VBN for/IN 
+[ dictionary/NN operations/NNS ]
+is/VBZ decreased/VBN ./. 
+==================================
+==================================
+==================================

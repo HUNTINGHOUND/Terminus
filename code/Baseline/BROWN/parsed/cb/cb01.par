@@ -1,0 +1,2095 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Assembly session) 
+    (VP brought
+	(ADJP  much
+	       good)))
+  )
+(  
+ (S (NP (NP The General Assembly)
+	,
+	(SBAR 
+	 (WHNP which)
+	 (S (NP T)
+	    (VP adjourns)
+	    (NP today)))
+	,)
+    (AUX has)
+    (VP performed
+	(PP in
+	    (NP an atmosphere
+		(PP of
+		    (NP crisis and struggle)))))
+    (PP from
+	(NP (NP the day)
+	    (SBAR 0
+		  (S (NP it)
+		     (VP convened))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP faced
+       (ADVP immediately)
+       (PP with
+	   (NP a showdown
+	       (PP on
+		   (NP (NP the schools)
+		       ,
+		       (NP (NP an issue)
+			   (SBAR (WHNP which)
+				 (S (NP T)
+				    (AUX was)
+				    (VP met
+					(ADVP squarely)
+					(PP in
+					    (NP conjunction
+						(PP with
+						    (NP the governor))))
+					(PP with
+					    (NP a decision
+						(S (NP *)
+						   (NEG not)
+						   (AUX to)
+						   (VP risk
+						       (S (NP *)
+							  (VP abandoning
+							      (NP (ADJP public)
+								  education)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP followed
+       (NP (NP the (ADJP historic) appropriations and budget fight)
+	   ,
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S
+		  (NP the General Assembly)
+		  (VP decided
+		      (S (NP *)
+			 (AUX to)
+			 (VP tackle
+			     (NP executive powers)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The (ADJP final) decision)
+     (VP went
+	 (PP to
+	     (NP the executive))))
+    but
+    (S (NP a way
+	   (X-2 *pseudo-attach*))
+       (AUX has)
+       (VP been
+	   (VP opened))
+       (X-2 (PP for
+		(S (NP *)
+		   (VP strengthening
+		       (NP budgeting procedures))))
+	    and
+	    (S (NP *)
+	       (AUX to)
+	       (VP provide
+		   (NP legislators)
+		   (NP (NP information)
+		       (SBAR 0
+			     (S (NP they)
+				(VP need
+				    (NP T))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (ADJP Long-range) planning
+	    (PP of
+		(NP programs)))
+	and
+	(NP ways
+	    (S (NP *)
+	       (AUX to)
+	       (VP finance
+		   (NP them)))))
+    (AUX have)
+    (VP become
+	(NP musts))
+    (SBAR if
+	  (S (NP the state)
+	     (PP in
+		 (NP the
+		     (ADJP next)
+		     few years))
+	     (VP is
+		 (S (NP *)
+		    (AUX to)
+		    (VP avoid
+			(NP crisis-to-crisis government)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This session)
+    ,
+    (PP for
+	(NP instance))
+    ,
+    (AUX may)
+    (VP have
+	(VP insured
+	    (NP (NP a (ADJP financial) crisis)
+		(NP two years
+		    (PP from
+			(NP now)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP all
+	    the turmoil))
+    ,
+    (S (NP some (ADJP good) legislation)
+       (AUX was)
+       (VP passed
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Some
+	 (ADJP other)
+	 (ADJP good)
+	 bills)
+     (X (X (AUX were)
+	   (VP lost
+	     
+	       (PP in
+		   (NP the shuffle))))
+	and
+	(VP await
+	    (NP future action))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Certainly)
+    (S (NP all)
+       (AUX can)
+       (VP applaud
+	   (NP passage
+	       (PP of
+		   (NP (NP an auto title law)
+		       ,
+		       (NP the school bills)
+		       ,
+		       (NP the increase
+			   (PP in
+			       (NP teacher pensions)))
+		       ,
+		       (NP the ban
+			   (PP on
+			       (NP drag
+				   racing)))
+		       ,
+		       (NP acceptance
+			   (PP by
+			       (NP the state))
+			   (PP of
+			       (NP responsibility
+				   (PP for
+				       (NP maintenance
+					   (PP of
+					       (NP state roads
+						   (PP in
+						       (NP municipalities))))
+					   (PP at
+					       (NP the (ADJP same) rate
+						   (PP as
+						       (PP outside
+							   (NP city limits))))))))))
+		       ,
+		       (NP repeal
+			   (PP of
+			       (NP the college age limit law)))
+		       and
+		       (NP the road maintenance bond issue)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No action)
+   (AUX has)
+   (VP been
+       (VP taken
+	   ,
+	   (ADVP however)
+	   ,
+	   (PP (PP on
+		   (NP such (ADJP major)
+		       problems
+		       (PP as
+			   (NP (S (NP *)
+				  (VP ending
+				      (NP the fee system)))
+			       ,
+			       (NP penal reform)
+			       ,
+			       (NP modification
+				   (PP of
+				       (NP the county unit system)))))))
+	       and
+	       (PP in
+		   (NP (ADJP outright)
+		       banning
+		       (PP of
+			   (NP fireworks
+			       sales))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Only
+	a token start)
+    (AUX was)
+    (VP made
+	     
+	(PP in
+	    (S (NP *)
+	       (VP attacking
+		   (NP (NP the tax reappraisal question)
+		       and
+		       (NP its companion issue
+			   (PP of
+			       (S (NP *)
+				  (VP attracting
+				      (NP industry)
+				      (PP to
+					  (NP the state))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The legislature)
+   (VP expended
+       (ADJP most
+	     (PP of
+		 (NP its time)))
+       (PP on
+	   (NP the schools and appropriations questions))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Fortunately))
+ (S (NP it)
+    (VP spared
+	(NP us)
+	(PP from
+	    (NP the (ADJP usual) spate
+		(PP of
+		    (NP (NP (ADJP silly) resolutions)
+			(SBAR (WHNP which)
+			      (S (PP in
+				     (NP the past))
+				 (S (NP T)
+				    (AUX have)
+				    (VP made
+					(NP Georgia)
+					(VP look
+					    (PP like
+						(NP anything
+						    (PP but
+							``
+							(NP the (ADJP empire) 
+							    state
+							    (PP of
+								(NP the South)))
+							''))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP congratulate
+       (NP the (ADJP entire) membership)
+       (PP on
+	   (NP its record
+	       (PP of
+		   (NP (ADJP good) legislation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the interim
+	    (PP between
+		(NP (NP now)
+		    and
+		    (NP next year)))))
+    ,
+    (S (NP we)
+       (VP trust
+	   (SBAR 0
+		 (S (NP the House
+			and
+			Senate)
+		    (AUX will)
+		    (VP (VP put
+			    (NP their minds)
+			    (PP to
+				(S (NP *)
+				   (VP studying
+				       (NP (NP Georgia)
+					   's
+					   (ADJP very
+						 real)
+					   (ADJP economic
+						 ,
+						 fiscal
+						 and
+						 social)
+					   problems)))))
+			and
+			(VP come
+			    (PRT up)
+			    (PP with
+				(NP answers))
+			    (PP without
+				(NP all
+				    the (ADJP political) heroics)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP League)
+	(ADVP regularly)
+        (VP stands
+	    (PP on
+		(NP the side
+		    (PP of
+			(NP right))))))
+  )
+( 
+ (S (NP (NP The League
+	    (PP of
+		(NP Women Voters)))
+	,
+	(X (NP 40)
+	   (ADVP now)
+	   and
+	   (VP admitting
+	       (NP it)
+	       (ADVP proudly)))
+	,)
+    (AUX is)
+    (VP inviting
+	(NP (ADJP financial) contributions)
+	(PP in
+	    (NP the windup
+		(PP of
+		    (NP its fund drive))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP 's
+	(NP a (ADJP good) use
+	    (PP of
+		(NP money)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP These women)
+	(SBAR (WHNP whose organization)
+	      (S (NP T)
+		 (VP grew
+		     (PP out
+			 (PP of
+			     (NP the (ADJP old) suffrage movement)))))))
+    (AUX are)
+    (VP dedicated
+	  
+	(PP to
+	    (NP (NP Thomas Jefferson)
+		's dictum
+		(SBAR that
+		      (S (NP one)
+			 (AUX must)
+			 (VP (VP cherish
+			       
+				 (NP (NP the people)
+				     's spirit))
+			     but
+			     ``
+			     (VP Keep
+				 (ADJP alive)
+				 (NP their attention))
+			     '')))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S ``
+    (SBAR If
+	  (S (ADVP once)
+	     (S (NP they)
+		(VP become
+		    (ADJP inattentive
+			  (PP to
+			      (NP the (ADJP public) affairs)))))))
+    ''
+    ,
+    (S (NP Jefferson)
+       (VP said))
+    ,
+    ``
+    (S (NP (NP you)
+	   and
+	   (NP I)
+	   ,
+	   and
+	   (NP Congress)
+	   and
+	   (NP assemblies)
+	   ,
+	   (NP judges) 
+	   and 
+	   (NP governors)
+	   ,)
+       (AUX shall)
+       all 
+       (VP become
+	   (NP wolves)))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Newspapermen and politicians)
+       (ADVP especially)) 
+   (VP are
+       (ADJP aware
+	     (PP of
+		 (NP (NP (NP the (ADJP penetrating) attention)
+			 and
+			 (NP (ADJP expert) analysis))
+		     (SBAR 0
+			   (S
+			    (NP the league)
+			    (VP gives
+				(PP to
+				    (NP (ADJP public) affairs))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The league workers)
+   (VP (VP search
+	   (PRT out)
+	   (NP the pros and cons
+	       (PP of
+		   (NP the
+		       (ADJP most complex)
+		       issues))))
+       and
+       (VP make
+	   (NP them)
+	   (ADJP available
+		 (PP to
+		     (NP the public))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X (X The
+	  (ADJP harder))
+       (NP the choice)) 
+    ,
+    (S (X the
+	  (ADJP  more
+		 willing))
+       (S (NP the league)
+	  (VP is
+	      (S (NP *)
+		 (AUX to)
+		 (VP wade
+		     (PRT in)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S And
+    (S (NP the league)
+       (VP takes
+	   (NP a stand
+	       ,
+	       (PP with
+		   (NP (ADJP great) regularity))
+	       ,
+	       (PP on
+		   (NP the side
+		       (PP of
+			   (NP right))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Look
+	 (PP to
+	     (NP Coosa Valley))
+	 (PP for
+	     (NP industrial progress))))
+ )
+( (S (NP (NP Cities and counties)
+	 (VP interested
+	     (PP in
+		 (NP industrial development))))
+     (AUX would)
+     (VP do
+	 (ADVP well)
+	 (S-1 *pseudo-attach*))
+     (PP in
+	 (NP the months
+	     (ADJP ahead)))
+     (S-1 (NP *)
+	  (AUX to)
+	  (VP keep
+	      (NP their eyes)
+	      (VP peeled
+		  (PP toward
+		      (NP (NP the 13 northwest Georgia counties)
+			  (SBAR (WHNP that)
+				(S (NP T)  
+				   (VP are
+				       (NP members
+					   (PP of
+					       (NP the Coosa Valley Area 
+						   Planning
+						   and
+						   Development
+						   Commission))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *)
+       (VP Coupling
+	   (NP its own budget
+	       (PP of
+		   (NP $ 83,750)))
+	   (PP with
+	       (NP (NP a
+		       (NP $ 30,000)
+		       state grant)
+		   (VP authorized
+		       (PP by
+			   (NP Gov. Vandiver)))))))
+    ,
+    (S (NP the group)
+       (VP expects
+	   (S (NP *)
+	      (AUX to)
+	      (VP sign
+		  (NP a contract)
+		  (PP-2 *pseudo-attach*))
+	      (PP in
+		  (NP March))
+	      (PP-2 with
+		    (NP Georgia Tech
+			.))))))  
+ .)
+ 
+((S (ADVP Then))
+ (S (NP a (ADJP full-time) planning office)
+    (AUX will)
+    (VP be
+	(VP established
+	  
+	    (PP in
+		(NP Rome))
+	    (S (NP *)
+	       (AUX to)
+	       (VP work
+		   (PP with
+		       (NP a
+			   (ADJP five-member)
+			   (NP Georgia Tech) research staff))
+		   (PP for
+		       (NP development
+			   (PP of
+			       (NP an area planning
+				   and
+				   industrial development program)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The undertaking)
+   (VP has
+       (NP (ADJP abundant) promise)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP recognizes
+       (NP the fact
+	   (SBAR (SBAR that
+		       (S (NP (SBAR 
+			       (WHNP what)
+			       (S (NP T)
+				  (VP helps
+				      (NP one county)))))
+			  (VP helps
+			      (NP its neighbors))))
+		 and
+		 (SBAR that
+		       (S (PP by
+			      (S (NP *)  
+				 (VP banding
+				     (PRT together)
+				     (PP in
+					 (NP an (ADJP area-wide) effort)))))
+			  (S (NP (ADJP better) results)
+			     (AUX can)
+			     (VP be
+				 (VP accomplished
+				     ))
+			     (PP than
+				 (PP through
+				     (NP the (ADJP go-it-alone) approach))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Rusk idea) 
+     (VP strengthens
+	 (NP United States defense)))
+ )
+( 
+ (S (NP The (NP Rusk) belief
+	(PP in
+	    (NP balanced defense)))
+    ,
+    (S (NP *)
+       (VP replacing
+	   (NP the (NP Dulles)
+	       theory
+	       (PP of
+		   (NP (ADJP massive) retaliation)))))
+    ,
+    (VP removes
+	(NP (NP a (ADJP grave) danger)
+	    (SBAR that
+		  (S (NP T)  
+		     (AUX has)
+		     (VP existed))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (S (NP The danger)
+       (VP lay
+	   (NEG not)
+	   (PP in
+	       (S (NP *)
+		  (VP believing
+		      (SBAR that
+			    (S (NP our own A-bombs)
+			       (AUX would)
+			       (VP deter
+				   (NP (NP Russia)
+				       's use
+				       (PP of
+					   (NP hers)))))))))))
+    ;
+    ;
+    (S (NP that theory)
+       (VP was
+	   and
+	   is
+	   (ADJP sound))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The danger)
+   (VP lay
+       (PP in
+	   (NP the (ADJP American) delusion
+	       (SBAR that
+		     (S (NP (ADJP nuclear) deterrence)
+			(VP was
+			    (ADJP enough))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (NP *)
+	   (VP limiting
+	       (NP (ADJP American) strength)
+	       (ADVP too
+		     much)
+	       (PP to
+		   (NP (ADJP nuclear) strength)))))
+    ,
+    (S (NP this country)
+       (VP limited
+	   (NP its ability
+	       (S (NP *)
+		  (AUX to)
+		  (VP fight
+		      (NP any kind
+			  (PP of
+			      (NP war))
+			  (PP besides
+			      (NP a (ADJP nuclear) war)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This strategy)
+   (VP heightened
+       (NP the possibility
+	   (SBAR that
+		 (S (NP we)
+		    (AUX would)
+		    (VP have
+			(NP a (ADJP nuclear) war)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP also)
+   (VP weakened
+       (NP our (ADJP diplomatic) stance))
+   ,
+   (SBAR because
+	 (S (NP Russia)
+	    (AUX could)
+	    (ADVP easily)
+	    (VP guess
+		(SBAR 0
+		      (S (NP we)
+			 (AUX did)
+			 (NEG not)
+			 (VP desire
+			     (NP a (ADJP nuclear) war)
+			     (PP except
+				 (PP in
+				     (NP the (ADJP ultimate) extremity))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP left
+       (NP the Soviets)
+       (NP plenty
+	   (PP of
+	       (NP leeway
+		   (S (NP *)
+		      (AUX to)
+		      (VP start
+			  (NP (ADJP low-grade) brushfire aggressions)
+			  (PP with
+			      (NP (ADJP considerable) impunity)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (NP *)
+	   (VP (VP maintaining
+		   (NP the (ADJP nuclear) deterrent))
+	       ,
+	       but
+	       (VP gearing
+		   (NP (ADJP American) (ADJP military) forces)
+		   (S (NP *)
+		      (AUX to)
+		      (VP fight
+			  (NP (ADJP conventional) wars))
+		      (ADVP too))))))
+    ,
+    (S (NP Secretary
+	   (PP of
+	       (NP State))
+	   (NP Rusk))
+       (VP (VP junks
+	       (NP (NP bluff) and (NP (ADJP nuclear) brinkmanship)))
+	   and
+	   (VP builds
+	       (NP (NP (ADJP more)
+		       muscle)
+		   and
+		   (NP (ADJP greater)
+		       safety))
+	       (PP into
+		   (NP our (ADJP military) position))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP DeKalb budget) 
+     (VP shows
+	 (SBAR 0
+	       (S (NP county)
+		  (VP is
+		      (PP on
+			  (NP beam)))))))
+ )
+(  
+ (S (NP (NP DeKalb)
+	's budget
+	(PP for
+	    (NP 1961)))
+    (VP (VP is
+	    (NP a
+		record one))
+	and
+	(VP carries
+	    (PP with
+		(NP it))
+	    (NP the promise
+		(PP of
+		    (NP (NP no tax increase)
+			(S (NP T)  
+			   (AUX to)
+			   (VP make
+			       (NP it)
+			       (VP balance)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP includes
+       (NP (NP a raise
+	       (PP in
+		   (NP the county (ADJP minimum) wage)))
+	   ,
+	   (NP creation
+	       (PP of
+		   (NP several (ADJP new) jobs
+		       (PP at
+			   (NP the (ADJP executive) level)))))
+	   ,
+	   (NP financing
+	       (PP of
+		   (NP (ADJP beefed-up) (ADJP industrial)
+		       development efforts)))
+	   ,
+	   and
+	   (NP (VP increased)
+	       expenditures
+	       (PP for
+		   (NP (NP (ADJP essential) services)
+		       (ADJP such
+			     (PP as
+				 (NP (NP health and welfare)
+				     ,
+				     (NP fire protection)
+				     ,
+				     (NP sanitation) 
+				     and
+				     (NP road maintenance))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR That
+	      (S (NP such expansion)
+		 (AUX can)
+		 (VP be
+		     (VP obtained
+		     
+			 (PP without
+			     (NP a raise
+				 (PP in
+				     (NP taxes)))))))))
+    (VP is
+	(ADJP 
+	 due
+	 (PP to
+	     (NP growth
+		 (PP of
+		     (NP the tax digest)))
+	     and 
+	     (NP (ADJP sound) (ADJP fiscal)
+		 planning
+		 (PP on
+		     (NP the part
+			 (PP of
+			     (NP (NP (NP the board
+					 (PP of
+					     (NP commissioners)))
+				     ,
+				     (VP headed
+					 (PP by
+					     (NP (NP Chairman 
+						     (NP Charles O. Emmerich))
+						 (SBAR 
+						  (WHNP who)
+						  (S (NP T)
+						     (AUX is)
+						     (VP demonstrating
+							 (SBAR 
+							  that
+							  (S (NP (NP the (ADJP public) trust)
+								 (SBAR 0
+								       (S (NP he)
+									  (AUX was)
+									  (VP given
+									      (NP T)))))
+							     (AUX was)
+							     (VP (ADVP well)
+								 placed
+								 ))))))))))
+				 ,
+				 and
+				 (NP other county officials))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Somewhere) 
+     ,
+     (S (NP somebody)
+	(AUX is)
+	(VP bound
+	     
+	    (S (NP *)
+	       (AUX to)
+	       (VP love
+		   (NP us))))))
+ )
+( (S
+   (NP G. Mennen Williams)
+   (AUX is)
+   (VP learning
+       (NP the difficulties
+	   (PP of
+	       (NP diplomacy)))
+       (ADVP rapidly)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (S (NP *)
+	  (VP Touring
+	      (NP Africa)))
+       ,
+       (S (NP the
+	      (ADJP new)
+	      (NP U.S.) 
+	      (ADJP Assistant) Secretary
+	      (PP of
+		  (NP State)))
+	  (VP observed
+	      ``
+	      (S (NP Africa)
+		 (AUX should)
+		 (VP be
+		     (PP for
+			 (NP the Africans))))
+	      '')))
+    and
+    (S (NP the British)
+       (ADVP promptly)
+       (VP denounced
+	   (NP him)))) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Then)
+    (S (NP he)
+       (VP (VP arrived
+	       (PP in
+		   (NP Zanzibar)))
+	   and
+	   (VP found
+	       (NP (NP Africans)
+		   (VP carrying
+		       (NP (NP signs)
+			   (VP saying
+			       ``
+			       (S (NP (ADJP American) imperialists)
+				  ,
+				  (VP go
+				      (NP home)))
+			       ''))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP Chin)
+    (PRT up)
+    ,
+    (NP Soapy))
+ .)
+(  END_OF_TEXT_UNIT)
+(S (NP Power company) 
+   (VP backs
+       (NP confidence)
+       (PP with
+	   (NP dollars))))
+((S (NP Confidence
+	(PP in
+	    (NP (NP the state)
+		's (ADJP economic) future)))
+    (AUX is)
+    (VP reflected
+	  
+	(PP in
+	    (NP (NP the Georgia Power Company)
+		's record construction budget
+		(PP for
+		    (NP this year))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The firm)
+     (VP does
+	 (NP a (ADJP large) amount
+	     (PP of
+		 (NP research)))))
+    and
+    (S (NP its forecasts)
+       (VP have
+	   (NP meaning))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S
+  (NP It
+      (S-1 *pseudo-attach*))
+  (VP is
+      (ADJP good))
+  (S-1 (NP *)
+       (AUX to)
+       (VP know
+	   (SBAR that
+		 (S (NP Georgia)
+		    (AUX will)
+		    (VP continue
+			(S (NP *)
+			   (AUX to)
+			   (VP have
+			       (NP (ADJP sufficient) (ADJP electrical)
+				   power
+				   (S (CONJP not
+					     only)
+				      (S (NP *) 
+					 (AUX to)
+					 (VP meet
+					     (NP the demands
+						 (PP of
+						     (NP (ADJP normal) 
+							 growth)))))
+				      but
+				      (S (NP *)
+					 (AUX to)
+					 (VP encourage
+					     (NP a
+						 (ADJP more
+						       rapid) rate
+						 (PP of
+						     (NP industrialization)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Georgia)
+       's (ADJP mental) health program)
+   (VP received
+       (NP a
+	   (ADJP (ADVP badly)
+		 needed) 
+	   boost
+	   (PP-1 *pseudo-attach*))
+       (PP from
+	   (NP the General Assembly))
+       (PP-1 in
+	     (NP the form
+		 (PP of
+		     (NP a
+			 (NP $ 1,750,000)
+			 budget increase
+			 (PP for
+			     (NP the Milledgeville State Hospital))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Actually)
+    (S (NP it)
+       (VP amounts
+	   (PP to
+	       (NP $ 1,250,000
+		   (PP above
+		       (SBAR (WHNP what)
+			     (S (NP the institution)
+				(ADVP already)
+				(AUX is)
+				(VP receiving
+				    (NP T))))))))
+       ,
+       (VP considering
+	   (NP (NP the
+		   (ADJP additional) half-million
+		   dollars)
+	       (SBAR 0
+		     (S (NP Gov. Vandiver)
+			(VP allocated
+			    (NP T) 		
+			    (PP-2 *pseudo-attach*))
+			(NP last year)
+			(PP-2 from
+			      (NP the state surplus))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (NP Either way)
+    (S (NP it)
+       (VP (VP sounds
+	       (PP like
+		   (NP a (ADJP sizable) hunk
+		       (PP of
+			   (NP money)))))
+	   and
+	   (X (VP is)))) 
+    .)
+ ) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP (SBAR 
+	    (WHADVP  exactly
+		     how
+		     far)
+	    (S (NP it)
+	       (AUX will)
+	       (VP go
+		   (PP toward
+		       (S (NP *)
+			  (VP improving
+			      (NP conditions))))))))
+       (VP is
+	   (NP another question))
+       (SBAR because
+	     (S (NP there)
+		(VP is
+		    (NP (NP (ADVP so)
+			    much)
+			(SBAR (WHNP that)
+			      (S (NP T)  
+				 (VP needs
+				     (VP doing))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP The practice
+        (PP of
+	    (S (NP *)
+	       (VP charging
+		   (NP employes)
+		   (PP for
+		       (NP meals)))
+	       (SBAR whether
+		     (S (S (NP they)
+			   (VP eat
+		     
+			       (PP at
+				   (NP the hospital))))
+			or
+			(X (NEG not))))))) 
+    (AUX should)
+    (VP be
+	(VP abolished
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The work week
+        (PP of
+	    (NP (NP attendants)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP are
+			     (PP on
+				 (NP duty)))
+			 (NP 65
+			     hours
+			     and
+			     (ADJP more)
+			     (PP per
+				 (NP week))))))))
+    (AUX should)
+    (VP be
+	(VP reduced
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADJP More)
+	attendants
+	,
+	nurses and doctors)
+    (AUX should)
+    (VP be
+	(VP hired
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Patients)
+    (VP deserve
+	(NP (ADJP more)
+	    attention
+	    (PP than
+		(S (NP they)
+		   (AUX are)
+		   (VP getting))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (PP (ADVP Even) 
+	with
+	(NP the increase
+	    (PP in
+		(NP funds
+		    (PP for
+			(NP the
+			    (ADJP next) (ADJP fiscal)
+			    year))))))
+    ,
+    (S (NP Georgia)
+       (AUX will)
+       (VP be)
+       (VP spending
+	   (NP only
+	       around
+	       $ 3.15
+	       (PP (PP per
+		       (NP day))
+		   (PP per
+		       (NP patient)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP The (ADJP national) average)
+       (VP is
+	   (ADJP more
+		 (PP than
+		     (NP $ 4)))))
+    and
+    (S (NP that figure)
+       (AUX is)
+       (VP considered
+		 
+	   (PP by
+	       (NP experts
+		   (PP in
+		       (NP the (ADJP mental) health field))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (ADJP (ADVP too)
+			low))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Kansas)
+	,
+	(VP regarded
+	    (PP as
+		(NP tops
+		    (PP in
+			(NP the nation))))
+	    (PP in
+		(NP its treatment
+		    (PP of
+			(NP the
+			    (ADJP (ADVP mentally)
+				  ill))))))
+	,)
+    (VP spends
+	(NP $ 9
+	    (PP (PP per
+		    (NP day))
+		(PP per
+		    (NP patient))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Georgia)
+   (AUX has)
+   (VP made
+       (NP some reforms))
+   ,
+   (ADJP true)) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP intensive) treatment program)
+   (AUX is)
+   (VP working
+       (ADVP well)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (PP in
+	(NP (ADJP (ADVP so)
+		  many) 
+	    (ADJP other) 
+	    areas))
+    (S (NP we)
+       (ADVP still)
+       (AUX are)
+       (VP dragging)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP Considering
+	(NP (NP (SBAR
+		 (WHNP what)
+		 (S (NP T)
+		    (AUX is)
+		    (VP being
+			(VP done
+			    )))))
+	    (VP compared
+		(PP to
+		    (SBAR (WHNP what)
+			  (S (NP T)  
+			     (VP needs
+				 (S (NP *)
+				    (AUX to)
+				    (VP be
+					(VP done
+					    ))))))))))
+    ,
+    (S (NP it)
+       (VP behooves
+	   (NP the hospital management)
+	   (S (NP *)
+	      (AUX to)
+	      (VP do
+		  (NP some
+		      (ADJP mighty
+			    careful) 
+		      planning
+		      (PP toward
+			  (NP (VP making
+				  (NP the
+				      (ADJP best possible)
+				      use
+				      (PP of
+					  (NP (NP the increase)
+					      (VP granted)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The boost)
+   (VP is
+       (ADJP helpful but inadequate))) 
+  .)
+(  END_OF_TEXT_UNIT)
+((NP The end 
+     (PP of
+	 (NP Trujillo))))
+(  
+ (S (NP (NP Assassination)
+	,
+	(PP (ADVP even)
+	    of
+	    (NP a tyrant))
+	,)
+    (VP is
+	(ADJP repulsive
+	      (PP to
+		  (NP men
+		      (PP of
+			  (NP (ADJP good) conscience)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Rafael Trujillo)
+	,
+	(NP the
+	    (ADJP (ADVP often)
+		  blood-thirsty) 
+	    dictator
+	    (PP of
+		(NP the Dominican Republic))
+	    (PP for
+		(NP 31 years)))
+	,)
+    (ADVP perhaps)
+    (VP deserved
+	(NP his fate))
+    (PP in
+	(NP an (ADJP even-handed) appraisal
+	    (PP of
+		(NP history)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP (SBAR whether
+		 (S (NP the murder
+			(PP of
+			    (NP El Benefactor))
+			(PP in
+			    (NP Ciudad Trujillo)))
+		    (VP means
+			(NP freedom
+			    (PP for
+				(NP the people
+				    (PP of
+					(NP the (ADJP Caribbean)
+					    fiefdom)))))))))
+       (VP is
+	   (NP (NP a question)
+	       (SBAR that
+		     (S (NP T)  
+			(AUX can) 
+			(NEG not)
+			(ADVP now)
+			(VP be
+			    (VP answered
+				))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Trujillo)
+   (VP knew
+       (NP a (ADJP great) deal
+	   (PP about
+	       (NP assassination)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The responsibility
+	    (PP for
+		(NP scores
+		    (PP of
+			(NP deaths)))))
+	,
+	(VP including
+	    (NP the abduction and murder
+		(PP of
+		    (NP (NP Jesus Maria Galindez)
+			,
+			(NP a professor
+			    (PP at
+				(NP Columbia University
+				    (PP in
+					(NP New York)))))))))
+	,)
+    (AUX has)
+    (VP been
+	(VP laid
+	      
+	    (PP at
+		(NP his door)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX had)
+   (VP been
+       (VP involved
+		 
+	   (PP in
+	       (NP (ADJP countless) schemes
+		   (S (NP *)
+		      (AUX to)
+		      (VP do
+			  (PRT away)
+			  (PP with
+			      (NP (NP (ADJP democratic) leaders
+				      (PP in
+					  (NP (ADJP neighboring)
+					      countries)))
+				  (ADJP such
+					(PP as
+					    (NP President 
+						(NP Romulo Betancourt)
+						(PP of
+						    (NP Venezuela))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP was
+       (NP a sort
+	   (PP of
+	       (NP (ADJP poetic) justice))))
+   (SBAR-2 that
+	   (S (PP at
+		  (NP the time
+		      (PP of
+			  (NP his (ADJP own) demise))))
+	      (S (NP a (ADJP new) plot
+		     (S (NP *)
+			(AUX to)
+			(VP overthrow
+			    (NP the (ADJP Venezuelan) government))))
+		 ,
+		 (S (NP *)
+		    (VP (ADVP reportedly)
+			involving
+			(NP the use
+			    (PP of
+				(NP (ADJP Dominican) arms))
+			    (PP by
+				(NP (ADJP former)
+				    (ADJP Venezuelan) 
+				    Dictator 
+				    (NP Marcos Perez Jimenez))))))
+		 ,
+		 (AUX has)
+		 (VP been
+		     (VP uncovered
+			 and
+			 quashed))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP recent) history
+       (PP of
+	   (NP the Dominican Republic)))
+   (VP is
+       (NP an
+	   (ADJP (ADVP almost)
+		 classical) 
+	   study
+	   (PP of
+	       (NP (NP the way)
+		   (SBAR 
+		    (WHPP in
+			  (WHNP which))
+		    (S (NP (ADVP even)
+			   a
+			   (ADJP (ADVP professedly)
+				 benevolent) 
+			   dictatorship)
+		       (VP tends
+			   (S (NP *)
+			      (AUX to)
+			      (VP become
+				  (ADJP oppressive)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Unquestionably)
+    (S (NP Trujillo)
+       (VP did
+	   (NP some (ADJP good) things)
+	   (PP for
+	       (NP his country))))
+    :
+    (S (NP he)
+       (VP (VP improved
+	       (NP (NP (ADJP public) facilities)
+		   (ADJP such
+			 (PP as
+			     (NP roads and sanitation)))))
+	   ,
+	   (VP attracted
+	       (NP industry and investment))
+	   and
+	   (VP raised
+	       (NP the standard
+		   (PP of
+		       (NP living)))
+	       (ADVP notably)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP the price)
+       (VP was
+	   (NP the silence
+	       (PP of
+		   (NP the grave))
+	       (PP for
+		   (NP all criticism or opposition))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP El Benefactor)
+       's vanity)
+   (VP grew
+       (PP with
+	   (NP his (ADJP personal) wealth))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The jails)
+        (AUX were)
+        (VP filled
+	     
+	    (PP to
+		(NP overflowing))
+	    (PP with
+		(NP (NP (ADJP political) prisoners)
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (AUX had)
+			     (VP incurred
+				 (NP his displeasure))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP He)
+     (VP maintained
+	 (NP (NP (ADJP (ADVP amply)
+		       financed)
+		 lobbies
+		 (X (PP in
+			(NP the United States))
+		    and
+		    (ADVP elsewhere)))
+	     (SBAR 
+	      (WHNP which)
+	      (S (NP T)
+		 (VP (ADVP sycophantically)
+		     chanted
+		     (NP his praise)))))))
+    ,
+    and
+    (S (NP his influence)
+       (VP extended
+	   (PP (ADVP even)
+	       to
+	       (NP Congress)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Until
+	   (NP the (ADJP last) year
+	       or
+	       (ADVP so)))
+       (S (NP the profession
+	      (PP of
+		  (NP friendship
+		      (PP with
+			  (NP the United States)))))
+	  (AUX had)
+	  (VP been
+	      (NP an article
+		  (PP of
+		      (NP faith)))
+	      (PP with
+		  (NP Trujillo)))))
+    ,
+    and
+    (S (ADVP altogether
+	     too
+	     often)
+       (S (NP this profession)
+	  (AUX was)
+	  (VP accepted
+	      (ADVP here)
+	      (PP as
+		  (NP evidence
+		      (PP of
+			  (NP his (ADJP good) character))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Tardily)
+    (S (NP (NP the Government)
+	   (ADVP here)) 
+       (VP came
+	   (S (NP *)
+	      (AUX to)
+	      (VP understand
+		  (SBAR 
+		   (WHADVP how)
+		   (S (NP (NP this country)
+			  's own reputation)
+		      (AUX was)
+		      (VP tarnished
+		     
+			  (PP by
+			      (NP the association
+				  (PP with
+				      (NP repression))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Last year)
+    ,
+    (PP after
+	(S (NP Trujillo)
+	   (AUX had)
+	   (VP been
+	       (VP cited
+		 
+		   (PP for
+		       (NP (ADJP numerous) aggressions
+			   (PP in
+			       (NP the Caribbean))))))))
+    ,
+    (S (NP (NP the United States)
+	   and
+	   (NP many (ADJP other) members
+	       (PP of
+		   (NP the Organization
+		       (PP of
+			   (NP (ADJP American) States))))))
+       (VP broke
+	   (NP (ADJP diplomatic) relations
+	       (PP with
+		   (NP him))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((SINV (ADVP Thereupon)
+       (VP followed)
+       (NP a demonstration
+	   (SBAR that
+		 (S (NP tyranny)
+		    (VP knows
+			(NP no (ADJP ideological) confines))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Trujillo)
+       's dictatorship)
+   (AUX had)
+   (VP been
+       (PP along
+	   (NP (ADJP conservative
+		     ,
+		     right-wing)
+	       lines))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (PP after
+	(NP the censure))
+    (S (NP (NP he)
+	   and
+	   (NP his propaganda))
+       (VP started
+	   (S (NP *)
+	      (VP mouthing
+		  (NP (ADJP Communist) slogans))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP was
+	(NP (ADJP considerable) evidence
+	    (PP of
+		(NP a (ADJP tacit) rapprochement
+		    (PP with
+			(NP (NP Castro
+				(PP in
+				    (NP Cuba)))
+			    ,
+			    (ADVP previously) 
+			    (NP a bete noire
+				(PP to
+				    (NP Trujillo)))))))))
+    --
+    (ADVP thus)
+    (S (NP *)
+       (VP illustrating
+	   (NP the way
+	       (SBAR (WHPP in
+			   (WHNP which))
+		     (S (NP totalitarianism
+			    (PP of
+				(NP the right and left)))
+			(VP coalesces)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR (WHNP What)
+	      (S (NP T)
+		 (VP comes
+		     (PP after
+			 (NP Trujillo))))))
+    (VP is
+	(ADVP now)
+	(NP the puzzle)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The (ADJP Dominican) people)
+     (AUX have)
+     (VP known
+	 (NP (NP no (ADJP democratic) institutions)
+	     and
+	     (NP (ADJP precious
+		       little)
+		 freedom)))
+     (PP for
+	 (NP a generation)))
+    ,
+    and
+    (S (NP all (ADJP alternative) leadership)
+       (AUX has)
+       (VP been
+	   (VP suppressed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Perhaps)
+    (S (NP the army)
+       (AUX will)
+       (VP be
+	   (ADJP able
+		 (S (NP *)
+		    (AUX to)
+		    (VP maintain
+			(NP stability))))))
+    ,
+    but
+    (S (NP the vacuum
+	   (PP of
+	       (NP (ADJP free) institutions)))
+       (VP creates
+	   (NP a (ADJP great) danger))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Dominican Republic)
+   (AUX could)
+   (VP turn
+       (PP toward
+	   (NP (ADJP Communist-type) authoritarianism))
+       (ADVP as
+	     easily
+	     (PP as
+		 (PP toward
+		     (NP (ADJP Western) freedom))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Such
+	a twist)
+    (AUX would)
+    (VP be
+	(NP a tragedy
+	    (PP for
+		(NP (NP the (ADJP Dominican) people)
+		    ,
+		    (SBAR 
+		     (WHNP who)
+		     (S (NP T)
+			(VP deserve
+			    (S (NP *)
+			       (AUX to)
+			       (VP breathe
+				   (PP without
+				       (NP fear))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP For
+        (NP that reason))
+    (S (NP any (ADJP democratic) reform and effort
+	   (S (NP *)
+	      (AUX to)
+	      (VP bring
+		  (NP (ADJP genuine) (ADJP representative)
+		      government)
+		  (PP to
+		      (NP the Dominican Republic)))))
+       (AUX will)
+       (VP need
+	   (NP the
+	       (ADJP greatest)
+	       sympathy and help))))
+ .)
+(  END_OF_TEXT_UNIT)
+(NP Start 
+    (PP on
+	rapid transit))
+(  
+ (S (NP (NP (ADJP High-speed)
+	    buses
+	    (PP on
+		(NP the George Washington Memorial Parkway)))
+	,
+	(VP operating
+	    (PP between
+		(NP (NP (NP downtown
+			    (NP Washington))
+			and
+			(NP (NP Cabin John)
+			    ,
+			    (NP Glen Echo)
+			    and
+			    (NP Brookmont))))))
+	,)
+    (AUX would)
+    (VP constitute
+	(NP an (ADJP alluring) sample
+	    (PP of
+		(SBAR (WHNP what)
+		      (S (NP the
+			     (ADJP new)
+			     (NP National Capital Transportation Agency))
+			 (AUX can)
+			 (VP do
+			     (NP T)
+			     (PP for
+				 (NP this city)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S (NP *)
+	   (VP presenting
+	       (NP plans
+		   (PP for
+		       (NP such (ADJP express)
+			   buses)))
+	       (PP before
+		   (NP the Montgomery County Council)))))
+    ,
+    (S (NP (NP the administrator
+	       (PP of
+		   (NP the NCTA)))
+	   ,
+	   (NP C. Darwin Stolzenbach)
+	   ,)
+       (AUX was)
+       (VP (ADVP frankly)
+	   seeking
+	   (NP support
+	       (PP for
+		   (NP (NP the projects)
+		       (SBAR 0
+			     (S (NP his agency)
+				(AUX will)
+				(ADVP soon)
+				(VP be
+				    (VP launching
+					(NP T)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Such support)
+    (AUX should)
+    (NEG not)
+    (VP be
+	(ADJP difficult
+	      (S (NP *)
+		 (AUX to)
+		 (VP come 
+		     (PP by)))))
+    (SBAR if
+	  (S (NP (NP all
+		     the plans)
+		 (S (NP T)  
+		    (AUX to)
+		    (VP be
+			(VP presented
+		    
+			    (PP by
+				(NP the NCTA))))))
+	     (VP are
+		 (ADJP as
+		       attractive
+		       (PP as
+			   (NP this outline
+			       (PP of
+				   (NP (NP (ADJP express) buses)
+				       (VP coming
+					   (PP into
+					       (NP the (ADJP downtown) 
+						   area))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR Because
+	  (S (NP the buses)
+	     (AUX would)
+	     (NEG not)
+	     (VP stop
+		 (PP on
+		     (NP the parkway)))))
+    ,
+    (S (NP land
+	   (PP (PP for
+		   (NP bus stations))
+	       and
+	       (PP for
+		   (NP (NP parking
+			   areas)
+		       (ADJP nearby)))))
+       (AUX will)
+       (VP be
+	   (VP needed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The NCTA)
+    (VP is
+	(ADJP (ADVP well)
+	      advised
+	      (S (NP *)
+		 (AUX to)
+		 (VP seek
+		     (NP funds
+			 (PP for
+			     (NP this purpose)))
+		     (PP from
+			 (NP the (ADJP present) session
+			     (PP of
+				 (NP Congress)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2225 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP it)
+	 (AUX would)
+	 (NEG not)
+	 (VP be
+	     (ADJP  very
+		    satisfactory))
+	 (S (NP *)
+	    (AUX to)
+	    (VP leave
+		(NP our conclusions)
+		(PP at
+		    (NP (NP the point)
+			(VP  (ADVP just)
+			     reached)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Fortunately)
+      ,
+      (S (NP it
+	     (S-1 *pseudo-attach*))
+	 (VP is
+	     (ADJP possible))
+	 (S-1 (NP *)
+	    (AUX to)
+	    (VP be
+		(ADJP  (ADVP somewhat
+			     more)
+		       concrete and factual))
+	    (PP in
+		(S  (NP *)  
+		    (VP diagnosing
+			(NP the involvement
+			    (PP of
+				(NP values))
+			    (PP in
+				(NP education)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP this purpose))
+     (S
+      (NP we)
+      (ADVP now)
+      (VP draw
+	  (PP upon
+	      (NP data
+		  (PP (PP from
+			  (NP sociological and psychological studies
+			      (PP of
+				  (NP students
+				      (PP in
+					  (NP American colleges and universities))))))
+		      ,
+		      and
+		      (PP  (ADVP particularly)
+			   from
+			   (NP the Cornell Values Studies))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the latter research program))
+    ,
+    (S (NP information)
+       (VP is
+	   (ADJP available))
+       (PP (PP for
+	       (NP (NP 2,758 Cornell students)
+		   (VP surveyed
+		       (PP in
+			   (NP 1950)))))
+	   and
+	   (PP for
+	       (NP (NP 1,571 students)
+		   (VP surveyed
+		       (PP in
+			   (NP 1952))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Of
+	   (NP the latter sample))
+       ,
+       (S (NP 944 persons)
+	  (AUX had)
+	  (VP been
+	      (VP studied))
+	  (ADVP (NP two years)
+		earlier)))
+    ;
+    ;
+    (S (ADVP hence)
+       (S (NP changes
+	      (PP in
+		  (NP attitudes and values)))
+	  (AUX can)
+	  (VP be
+	      (VP analyzed
+		      
+		  (PP for
+		      (NP identical individuals))))
+	  (PP at
+	      (NP two points
+		  (PP in
+		      (NP time)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition))
+    ,
+    (S (NP the 1952 study)
+       (VP collected
+	   (NP comparable data)
+	   (PP from
+	       (NP 4,585 students
+		   (PP at
+		       (NP (NP (NP ten other colleges and universities)
+			       (VP scattered
+				   (PP across
+				       (NP the country))))
+			   :
+			   (NP (NP Dartmouth)
+			       ,
+			       (NP Harvard)
+			       ,
+			       (NP Yale)
+			       ,
+			       (NP Wesleyan)
+			       ,
+			       (NP North Carolina)
+			       ,
+			       (NP Fisk)
+			       ,
+			       (NP Texas)
+			       ,
+			       (NP University
+				   (PP of
+				       (NP California
+					   (PP at
+					       (NP Los Angeles)))))
+			       ,
+			       (NP Wayne)
+			       ,
+			       and
+			       (NP Michigan)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP find
+	,
+	(PP in
+	    (NP the first place))
+	,
+	(SBAR that
+	      (S (NP the students)
+		 (X  (VP (ADVP overwhelmingly)
+			 approve
+			 (PP of
+			     (NP 
+			      higher
+			      education)))
+		     ,
+		     (VP  (ADVP positively)
+			  evaluate
+			  (NP (NP the job)
+			      (SBAR 0
+				    (S (NP their own institution)
+				       (AUX is)
+				       (VP doing
+					   (NP T) )))))
+		     ,
+		     (X (AUX do)
+			(NEG not)
+			(VP accept
+			    (ADJP most
+				  (PP of
+				      (NP (NP the criticisms)
+					  (VP levelled
+					      (PP against
+						  (NP 
+						   higher
+						   education))
+					      (PP in
+						  (NP the public prints))))))))
+		     ,
+		     and
+		     ,
+		     (PP on
+			 (NP the whole))
+		     ,
+		     (VP approve
+			 (PP of
+			     (NP the way
+				 (SBAR 0
+				       (S (NP their university)
+					  (VP deals
+					      (PP with
+						  (NP value-problems and value inculcation)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (SBAR-2 *pseudo-attach*))
+      (VP is
+	  (NEG not)
+	  (NP our impression))
+      (SBAR-2 that
+	    (S (NP these evaluations)
+	       (VP are
+		   (NP  (ADVP naively)
+			uncritical resultants
+			(PP of
+			    (NP blissful ignorance)))))))
+     ;
+     ;
+     (S (ADVP rather)
+	,
+	(S (NP the generality
+	       (PP of
+		   (NP these students)))
+	   (VP find
+	       (NP their university experience)
+	       (ADJP congenial
+		     (PP to
+			 (NP their own sense
+			     (PP of
+				 (NP values)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Students)
+   (AUX are)
+   (ADVP approximately)
+   (VP  (ADVP equally)
+	divided
+	     
+	(PP between
+	    (NP (NP (NP those)
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (VP regard
+				 (NP vocational preparation)
+				 (PP as
+				     (NP the primary goal
+					 (PP of
+					     (NP an ideal education))))))))
+		and
+		(NP (NP those)
+		    (SBAR (WHNP who)
+			  (S (NP T)
+			     (VP chose
+				 (NP a
+				     general liberal
+				     education)))))))))
+  .)
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP 
+	 Other conceivable
+	 goals)
+	,
+	(ADJP such
+	      (PP as
+		  (NP (NP character-education)
+		      and
+		      (NP social adjustment))))
+	,)
+    (VP are
+	(PP of
+	    (NP secondary importance))
+	(PP to
+	    (NP them))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The ideal
+	(PP of
+	    (NP a liberal education)))
+    (VP impresses
+	(NP itself)
+	(PP upon
+	    (NP the students))
+	(ADVP more
+	      and
+	      more))
+    (SBAR  as
+	   (S (NP they)
+	      (VP move
+		  (PP through
+		      (NP college))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Even
+	    (PP in
+		(NP 
+		 such technical
+		 curricula
+		 (PP as
+		     (NP  engineering)))))
+      ,
+      (S (NP the senior)
+	 (VP is
+	     (ADJP  (ADVP much
+			  more)
+		    likely
+		    (PP than
+			(NP the freshman))
+		    (S (NP *)
+		       (AUX to)
+		       (VP choose
+			   ,
+			   (PP as
+			       (NP an
+				   ideal))
+			   ,
+			   (NP liberal
+			       education)
+			   (PP over
+			       (NP 
+				specific vocational
+				preparation))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the university milieu
+	    (PP (PP of
+		    (NP scholarship and research))
+		,
+		(PP of
+		    (NP social diversity))
+		,
+		(PP of
+		    (NP (NP new ideas)
+			and
+			(NP  varied
+			     and
+			     wide-ranging interests))))))
+    ,
+    (S (NP  ``
+	    socialization
+	    ''
+	    (PP into
+		(NP a campus culture)))
+       (ADVP apparently)
+       (VP means
+	   (NP 
+	    heightened
+	    appreciation
+	    (PP of
+		(NP the idea
+		    (PP of
+			(NP a liberal education))))
+	    (PP in
+		(NP the arts and sciences))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Students)
+    ' choices
+    (PP of
+	(NP 
+	 ideal educational
+	 goals)))
+   (VP are
+       (NEG not)
+       (ADJP arbitrary or whimsical)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a clear relationship
+	   (PP between
+	       (NP (NP their educational evaluations)
+		   and
+		   (NP their basic pattern
+		       (PP of
+			   (NP general values))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The selective and directional qualities
+	   (PP of
+	       (NP basic value-orientations)))
+       (VP are
+	   (ADVP clearly)
+	   (ADJP evident
+		 (PP in
+		     (NP these data)))))
+    :
+    (S (S (NP the
+	      ``
+	      success-oriented
+	      ''
+	      students)
+	  (VP choose
+	      (NP vocational preparation)))
+       ,
+       (S (NP the
+	      (ADJP  ``
+		     other-directed
+		     ''))
+	  (VP choose
+	      (NP (NP goals
+		      (PP of
+			  (NP social adjustment)))
+		  *LRB*
+		  (S  ``
+		      (NP *)  
+		      (VP getting
+			  (ADVP along)
+			  (PP with
+			      (NP people)))
+		      '')
+		  *RRB*)))
+       ,
+       (S (NP the
+	      ``
+	      intellectuals
+	      '')
+	  (VP choose
+	      (NP a liberal arts
+		  emphasis)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       same (VP patterned)
+       consistency)
+   (VP shows
+       (NP itself))
+   (PP in
+       (NP occupational choices)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP impressive consistency))
+   (PP between
+       (NP (NP 
+	    specific occupational
+	    preferences)
+	   and
+	   (NP
+	    (NP the student)
+	    's basic conception
+	    (PP  of
+		 (SBAR (WHNP what)
+		       (S  (NP T)
+			   (VP is
+			       (PP for
+				   (NP him))
+			       (NP a good way
+				   (PP of
+				       (NP life)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      ,
+      (ADJP contrary
+	    (PP to
+		(NP many popular assertions)))
+      ,
+      (S (NP (NP the goal-values)
+	     (VP chosen))
+	 (AUX do)
+	 (NEG not)
+	 (VP seem
+	     (PP to
+		 (NP us))
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP  (ADVP primarily)
+			 oriented
+			 (PP 
+			  (PP to
+			      (NP materialistic success))
+			  nor
+			  (PP to
+			      (NP mere conformity)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our students)
+   (VP want
+       (NP (NP occupations)
+	   (SBAR (WHNP that)
+		 (S (NP T)
+		    (VP permit
+			(NP them)
+			(S (S (NP *)
+			      (AUX to)
+			      (VP use
+				  (NP their talents and training)))
+			   ,
+			   (S (NP *)
+			      (AUX to)
+			      (VP be
+				  (ADJP creative and original)))
+			   ,
+			   (S (S (NP *)
+				 (AUX to)
+				 (VP work
+				     (PP with
+					 (NP-1 *pseudo-attach*))))
+			      and
+			      (S (NP *)
+				 (AUX to)
+				 (VP help
+				     (NP-1 *pseudo-attach*)))
+			      (NP-1 other people)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (ADVP also)
+   (VP want
+       (NP (NP money)
+	   ,
+	   (NP prestige)
+	   ,
+	   and
+	   (NP security))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S But
+	 (S (NP they)
+	    (VP are
+		(ADJP optimistic
+		      (PP about
+			  (NP their prospects))))
+	    (PP in
+		(NP these regards))))
+      ;
+      ;
+      (S (S (NP they)
+	    (VP set
+		(NP limits
+		    (PP to
+			(NP their aspirations)))))
+	 --
+	 (S (NP few)
+	    (VP aspire
+		(PP (PP to
+			(NP millions
+			    (PP of
+				(NP dollars))))
+		    or
+		    (PP to
+			(NP  ``
+			     imperial
+			     ''
+			     power and glory)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Within
+	(NP the fixed frame
+	    (PP of
+		(NP these aspirations))))
+    ,
+    (S (NP they)
+       (AUX can)
+       (VP afford
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP place
+		     (NP a high value)
+		     (PP on
+			 (NP the expressive and people-oriented aspects
+			     (PP of
+				 (NP occupation))))))
+	      and
+	      (S (NP *)
+		 (AUX to)
+		 (VP minimize
+		     (NP the instrumental-reward values
+			 (PP of
+			     (NP (NP power)
+				 ,
+				 (NP prestige)
+				 ,
+				 and
+				 (NP wealth))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Occupational choices)
+   (VP are
+       (ADVP also)
+       (ADJP (ADJP useful)
+	     --
+	     and
+	     (ADJP interesting)
+	     --)
+       (PP in
+	   (S  (NP *)
+	       (VP bringing
+		   (PRT out)
+		   (ADVP clearly)
+		   (SBAR that
+			 (S (NP values)
+			    (AUX do)
+			    (NEG not)
+			    (VP constitute
+				(NP the only component
+				    (PP in
+					(NP goals and aspirations)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (S (NP there)
+	 (VP is
+	     (ADVP also)
+	     (NP the
+		 ``
+		 face
+		 (PP of
+		     (NP reality))
+		 ''))
+	 (PP in
+	     (NP the form
+		 (PP of
+		     (NP 
+		      (NP the individual)
+		      's perceptions
+		      (PP (PP of
+			      (NP his own abilities and interests))
+			  ,
+			  (PP of
+			      (NP (NP the objective possibilities)
+				  (ADJP open
+					(PP to
+					    (NP him)))))
+			  ,
+			  (PP of
+			      (NP (NP the
+				      familial and other social
+				      pressures)
+				  (SBAR (WHPP to
+					      (WHNP which))
+					(S
+					 (NP he)
+					 (AUX is)
+					 (VP exposed
+					     ))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP find
+       (NP (NP  ``
+		reluctant recruits
+		'')
+	   (SBAR 
+	    (WHNP whose values)
+	    (S (NP T)
+	       (VP are
+		   (NEG not)
+		   (PP in
+		       (NP line
+			   (PP with
+			       (NP 
+				(NP their expected occupation)
+				's characteristics))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Students)
+      (VP develop
+	  (NP (NP occupational images)
+	      --
+	      (ADJP  (ADVP (NEG not)
+			   always)
+		     accurate
+		     or
+		     detailed)
+	      --)))
+     and
+     (S (NP they)
+	(VP try
+	    (S (NP *)
+	       (AUX to)
+	       (VP fit
+		   (NP their values)
+		   (PP to
+		       (NP the presumed characteristics
+			   (PP of
+			       (NP the imagined occupation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       purely
+       cognitive or informational problems)
+   (VP are
+       (ADVP often)
+       (ADJP acute)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (S (NP many reluctant recruits)
+	 (AUX are)
+	 (VP (VP yielding
+		 (PP to
+		     (NP social demands)))
+	     ,
+	     or
+	     (VP compromising
+		 (PP in
+		     (NP the face
+			 (PP (PP of
+				 (NP their own limitations
+				     (PP of
+					 (NP opportunity))))
+			     ,
+			     or
+			     (PP of
+				 (NP ability and performance)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (S (NP many
+		a creativity-oriented aspirant
+		(PP for
+		    (NP a career
+			(PP in
+			    (NP (NP architecture)
+				,
+				(NP drama)
+				,
+				or
+				(NP journalism))))))
+	    ,
+	    (VP resigns
+		(NP himself)
+		(PP to
+		    (NP a real estate business))))
+	 ;
+	 ;
+	 (S (NP (NP many
+		    a people-oriented student)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP dreams
+			     (PP of
+				 (NP the M.D.))))))
+	    (VP decides
+		(S (NP *)
+		   (AUX to)
+		   (VP enter
+		       (NP 
+			(NP his father)
+			's advertising agency)))))
+	 ;
+	 ;
+	 and
+	 (S (NP  many
+		 a hopeful incipient business executive)
+	    (VP decides
+		(SBAR 0
+		      (S (NP it
+			     (S-3 *pseudo-attach*))
+			 (VP were
+			     (ADJP better))
+			 (S-3 (NP *)
+			    (AUX to)
+			    (VP teach
+				(NP the theory
+				    (PP of
+					(NP business
+					    administration)))
+				(PP than
+				    (S (NP *)
+				       (AUX to)
+				       (VP practice
+					   (NP it))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The old ideal
+	  (PP of
+	      (NP the independent entrepreneur)))
+      (VP is
+	  (ADJP extant)))
+     --
+     but
+     (SINV (ADVP so)
+	   (VP is)
+	   (NP the recognition
+	       (SBAR that
+		     (S (NP the main chance)
+			(AUX may)
+			(VP be
+			    (PP in
+				(NP a corporate bureaucracy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP their views
+	    (PP on
+		(NP (NP dating)
+		    ,
+		    (NP courtship)
+		    ,
+		    (NP sex)
+		    ,
+		    and
+		    (NP family life)))))
+    ,
+    (S (NP our students)
+       (VP prefer
+	   (SBAR (WHNP what)
+		 (S
+		  (NP they)
+		  (AUX are)
+		  (VP expected
+			    
+		      (S (NP *)
+			 (AUX to)
+			 (VP prefer
+			     (NP T) ))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP them))
+    ,
+    (PP in
+	(NP the grim words
+	    (PP of
+		(NP a once-popular song))))
+    ,
+    (S (NP love and marriage)
+       (VP go
+	   (ADVP together)
+	   (PP like
+	       (NP a horse and carriage)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Their expressed standards)
+	(VP concerning
+	    (NP (NP sex roles)
+		,
+		(NP desirable age
+		    (PP for
+			(NP marriage)))
+		,
+		(NP characteristics
+		    (PP of
+			(NP an ideal mate)))
+		,
+		(NP (NP number
+			(PP of
+			    (NP children)))
+		    (ADJP desired)))))
+    (VP are
+	(ADJP congruent
+	      (PP with
+		  (NP the values and stereotypes
+		      (PP of
+			  (NP the preceding generation))))))
+    --
+    (PP minus
+	(NP compulsive rebellion)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (ADVP even)
+      (VP accept
+	  (NP the
+	      ``
+	      double standard
+	      ''
+	      (PP of
+		  (NP sex morality))))
+      (PP in
+	  (NP a double sense)))
+     ,
+     (S  i.e.
+	,
+	(S (NP both
+	       sexes)
+	   (VP agree
+	       (SBAR that
+		     (S (S (NP standards
+			       (PP for
+				   (NP men)))
+			   (VP differ
+			       (PP from
+				   (NP standards
+				       (PP for
+					   (NP women))))))
+			,
+			and
+			(S (NP women)
+			   (VP apply
+			       (PP to
+				   (NP both
+				       sexes))
+			       (NP (NP a standard)
+				   (ADJP different
+					 (PP from
+					     (NP (NP that)
+						 (VP  held
+						      (PP by
+							  (NP men)))))))))))))))
+  .)
+  
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP  ``
+	     Conservatism
+	     '')
+	and
+	(NP  ``
+	     traditionalism
+	     ''))
+    (VP seem
+	(VP implied
+	    (PP  by
+		 (SBAR (WHNP what)
+		       (S 
+			(AUX has)
+			(ADVP just)
+			(VP been
+			    (VP said))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP these terms)
+	 (VP are
+	     (ADJP treacherous))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the field
+	    (PP of
+		(NP political values))))
+    ,
+    (S (NP it
+	   (SBAR-4 *pseudo-attach*))
+       (VP is
+	   (ADVP certainly)
+	   (ADJP true))
+       (SBAR-4 that
+	     (S (NP students)
+		(VP are
+		    (X (X (NEG not)
+			  (ADJP radical))
+		       ,
+		       (X (NEG not)
+			  (NP rebels
+			      (PP against
+				  (NP (NP their parents)
+				      or
+				      (NP their peers)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR  as
+	     (S (NP they)
+		(VP go
+		    (PP through
+			(NP college)))))
+      ,
+      (S (NP the students)
+	 (VP tend
+	     (S (NP *)
+		(AUX to)
+		(VP bring
+		    (NP their political position)
+		    (PP in
+			(NP line
+			    (PP with
+				(NP (NP that)
+				    (ADJP prevalent
+					  (PP in
+					      (NP (NP the social groups)
+						  (SBAR (WHPP to
+							      (WHNP which))
+							(S
+							 (NP they)
+							 (VP belong)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Yet)
+	 (S (NP they)
+	    (AUX have)
+	    (VP accepted
+		(NP 
+		 most
+		 (PP of
+		     (NP the extant
+			 ``
+			 welfare state
+			 ''
+			 provisions
+			 (PP for
+			     (NP (NP health)
+				 ,
+				 (NP security)
+				 ,
+				 and
+				 (NP the regulation
+				     (PP of
+					 (NP economic affairs)))))))))))
+      ,
+      and
+      (S (NP they)
+	 (ADVP overwhelmingly)
+	 (VP approve
+	     (PP of
+		 (NP the traditional
+		     ``
+		     liberalism
+		     ''
+		     (PP of
+			 (NP the Bill
+			     (PP of
+				 (NP Rights)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP their faith
+	     (PP in
+		 (NP civil liberties)))
+	 (AUX is)
+	 (VP tested
+		 
+	     (PP against
+		 (NP strong pressures
+		     (PP of
+			 (NP social expediency))))
+	     (PP in
+		 (NP (NP specific issues)
+		     ,
+		     (NP  e.g.
+			 ,
+			 (NP suppression
+			     (PP of
+				 (NP  ``
+				      dangerous ideas
+				      '')))))))))
+     ,
+     (S (NP many)
+	(VP (VP waver)
+	    and
+	    (VP give
+		(ADVP in)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The students)
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP are
+		     (ADJP most willing
+			   (S (NP *)
+			      (AUX to)
+			      (VP acquiesce)
+			      (PP in
+				  (NP the suppression
+				      (PP of
+					  (NP civil liberties))))))))))
+    (VP are
+	(ADVP also)
+	(NP (NP those)
+	    (SBAR (WHNP who)
+		  (S (NP T)
+		     (VP are
+			 (ADJP most likely
+			       (S (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (ADJP prejudiced
+					   
+					     (PP against
+						 (NP minority groups)))))
+				  ,
+				  (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (ADJP conformist and traditionalistic))
+				     (PP in
+					 (NP 
+					  general social
+					  attitudes)))
+				  ,
+				  and
+				  (S (NP *)
+				     (AUX to)
+				     (VP lack
+					 (NP a basic faith
+					     (PP in
+						 (NP people)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP one)
+	      (VP looks
+		  (PP at
+		      (NP the existing evidence)))))
+    ,
+    (S (NP one)
+       (VP finds
+	   (NP (NP a correlation)
+	       ,
+	       (X  although
+		   (S (NP  only
+			   a
+			   slight
+			   one)))
+	       ,
+	       (PP between
+		   (NP (NP high grades)
+		       and
+		       (NP  ``
+			    libertarian
+			    ''
+			    values)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the correlation)
+	 (VP is
+	     (ADJP substantial))
+	 (PP  (ADVP only)
+	      among
+	      (NP upperclassmen))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP other words))
+    ,
+    (SBAR  as
+	   (S (NP students)
+	      (VP go
+		  (PP through
+		      (NP college)))))
+    ,
+    (S (NP (NP those)
+	   (SBAR (WHNP who)
+		 (S (NP T)
+		    (VP are
+			(ADJP most successful
+			      (ADVP academically))))))
+       (VP tend
+	   (S (NP *)
+	      (AUX to)
+	      (VP become
+		  (ADJP  more
+		       committed
+		       (PP to
+			   (NP a
+			       ``
+			       (NP Bill
+				   (PP of
+				       (NP Rights)))
+			       ''
+			       orientation))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP College
+	       (PP in
+		   (NP gross)))
+	   --
+	   (NP  just
+		the general experience)
+	   --)
+       (AUX may)
+       (VP have
+	   (NP  varying
+		effects)))
+    ,
+    but
+    (S (NP (NP the students)
+	   (SBAR (WHNP who)
+		 (S (NP T)
+		    (VP are
+			(ADJP successful)))))
+       (VP emerge
+	   (PP with
+	       (NP  (ADJP strengthened
+			  and
+			  clarified)
+		    democratic values)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This finding)
+   (VP is
+       (ADJP consistent
+	     (ADVP also)
+	     (PP with
+		 (NP the fact
+		     (SBAR that
+			   (S (NP student leaders)
+			      (VP are
+				  (ADJP  more
+					 likely
+					 (S (NP *)
+					    (AUX to)
+					    (VP be
+						(NP supporters
+						    (PP of
+							(NP (NP the values)
+							    (ADJP implicit
+								  (PP in
+								      (NP civil liberties))))))))
+					 (PP than
+					     (NP the other students)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (ADVP now)
+       (NP substantial evidence
+	   (PP from
+	       (NP several major studies
+		   (PP of
+		       (NP college students))))
+	   (SBAR that
+		 (S (NP the experience
+			(PP of
+			    (NP the college years)))
+		    (VP results
+			(PP in
+			    (NP a
+				certain
+				,
+				selective
+				homogenization
+				(PP of
+				    (NP attitudes and values))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(VP Detached
+	    (PP from
+		(NP their prior statuses
+		    and
+		    social groups)))
+	and
+	(NP *)
+	(VP exposed
+	    (PP to
+		(NP the pervasive stimuli
+		    (PP of
+			(NP the university milieu))))))
+    ,
+    (S (NP the students)
+       (VP tend
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP assimilate
+		     (NP a
+			 new common
+			 culture)))
+	      ,
+	      (S (NP *)
+		 (AUX to)
+		 (VP converge
+		     (PP toward
+			 (NP (NP norms)
+			     (ADJP characteristic
+				   (PP of
+				       (NP their
+					   own particular
+					   campus)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Furthermore)
+      ,
+      (PP in
+	  (NP certain respects))
+      ,
+      (S (NP there)
+	 (VP are
+	     (NP (NP norms)
+		 (ADJP common
+		       (PP to
+			   (NP colleges and universities
+			       (PP across
+				   (NP the country)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP instance))
+    ,
+    (S (NP college-educated people)
+       (ADVP consistently)
+       (VP show
+	   (ADVP up))
+       (PP in
+	   (NP study
+	       (PP after
+		   (NP study))))
+       (PP as
+	   (ADVP more often
+		 (PP than
+		     (NP others)))
+	   (NP supporters
+	       (PP of
+		   (NP (NP the Bill
+			   (PP of
+			       (NP Rights)))
+		       and
+		       (NP 
+			other democratic
+			rights and liberties)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The interesting thing
+       (PP in
+	   (NP this connection)))
+   (VP is
+       (SBAR that
+	     (S (NP (NP the norms)
+		    (SBAR (WHPP upon
+				(WHNP which))
+			  (S (NP students)
+			     (VP tend
+				 (S (NP *)
+				    (AUX to)
+				    (VP converge))))))
+		(VP include
+		    (NP toleration
+			(PP of
+			    (NP diversity))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP the extent
+	    (SBAR that
+		  (S (NP our sampling
+			 (PP of
+			     (NP the orientations
+				 (PP of
+				     (NP American college students)))))
+		     (PP in
+			 (NP the
+			     (NP years 1950
+				 and
+				 1952)))
+		     (AUX may)
+		     (VP be
+			 (ADJP (ADJP representative
+				     (PP of
+					 (NP our culture)))
+			       --
+			       and
+			       (ADJP  still
+				      valid
+				      (PP in
+					  (NP 1959)))
+			       --))))))
+    (S (NP we)
+       (AUX are)
+       (VP disposed
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP question
+		  (NP the summary characterization
+		      (PP of
+			  (NP the current generation)))
+		  (PP (PP as
+			  (ADJP silent
+				,
+				beat
+				,
+				apathetic))
+		      ,
+		      or
+		      (PP as
+			  (NP a mass
+			      (PP of
+				  (NP (NP other-directed conformists)
+				      (SBAR (WHNP who)
+					    (S (NP T)
+					       (AUX are)
+					       (VP guided
+						   (ADVP solely)
+						   (PP by
+						       (NP social radar))
+						   (PP without
+						       (NP benefit
+							   (PP of
+							       (NP inner gyroscopes)))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our data)
+   (VP indicate
+       (SBAR that
+	     (S (NP these students
+		    (PP of
+			(NP today)))
+		(X (X (AUX do)
+		      (ADVP basically)
+		      (VP accept
+			  (NP the existing institutions
+			      (PP of
+				  (NP the society)))))
+		   ,
+		   and
+		   (X  ,
+		       (PP in
+			   (NP the face
+			       (PP of
+				   (NP the realities
+				       (PP of
+					   (NP 
+					    complex and large-scale economic and political
+					    problems))))))
+		       ,
+		       (VP make
+			   (NP a wary and ambivalent delegation
+			       (PP of
+				   (NP trust)))
+			   (PP to
+			       (NP (NP those)
+				   (SBAR (WHNP who)
+					 (S (NP T)
+					    (VP occupy
+						(NP positions
+						    (PP of
+							(NP (VP legitimized)
+							    responsibility
+							    (PP for
+								(S  (NP *)
+								    (VP coping
+									(PP with
+									    (NP 
+									     such collective
+									     concerns))))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (PP In
+	    (NP a real sense))
+	(S
+	 (NP they)
+	 (VP are
+	     (ADVP admittedly)
+	     (ADJP conservative))))
+     ,
+     but
+     (S (NP their conservatism)
+	(VP incorporates
+	    (NP a traditionalized embodiment
+		(PP of
+		    (NP the original
+			``
+			radicalism
+			''
+			(PP of
+			    (NP 1776))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP we)
+	      (VP have
+		  (NP no measures
+		      (PP of
+			  (NP its strength or intensity))))))
+     ,
+     (S (NP the heritage
+	    (PP of
+		(NP the doctrine
+		    (PP of
+			(NP inalienable rights)))))
+	(AUX is)
+	(VP retained
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP they)
+	      (VP move
+		  (PP through
+		      (NP the college years)))))
+    (S (NP our young men and women)
+       (AUX are)
+       (VP  ``
+	    socialized
+	    ''
+	      
+	    (PP into
+		(NP a
+		    (ADJP broadly
+			  similar) culture)))
+       ,
+       (PP at
+	   (NP the level
+	       (PP of
+		   (NP personal behavior))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this sense))
+    (ADVP also)
+    ,
+    (S (NP they)
+       (VP are
+	   (ADVP surely)
+	   (NP conformists))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-5 *pseudo-attach*))
+   (VP is
+       (ADVP even)
+       (ADJP true))
+   (SBAR-5 that
+	 (S (NP some
+		(PP among
+		    (NP them)))
+	    (VP use
+		(NP (NP the sheer fact
+			(PP of
+			    (NP conformity)))
+		    --
+		    (S  ``
+			(NP everyone)
+			(VP does
+			    (NP it))
+			'')
+		    --)
+		(PP as
+		    (NP a criterion
+			(PP for
+			    (NP conduct))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the extent
+	     (PP of
+		 (NP ethical robotism)))
+	 (AUX is)
+	 (ADVP easily)
+	 (VP overestimated
+	     )))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Few students)
+   (VP are
+       (ADVP really)
+       (ADJP  so
+	      faceless
+	      (PP in
+		  (NP the not-so-lonely crowd
+		      (PP of
+			  (NP the swelling population
+			      (PP in
+				  (NP our institutions
+				      (PP of
+					  (NP 
+					   higher
+					   learning)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP it
+	     (SBAR-6 *pseudo-attach*))
+	 (AUX may)
+	 (VP be
+	     (ADVP well)
+	     (S (NP *)
+		(AUX to)
+		(VP recall)))
+	 (SBAR-6 that
+	       (S (NP (S (NP *)
+			 (AUX to)
+			 (VP say
+			     (NP  ``
+				  conformity
+				  ''))))
+		  (VP is
+		      ,
+		      (PP in
+			  (NP part))
+		      ,
+		      (NP another way
+			  (PP of
+			      (S  (NP *)
+				  (VP saying
+				      (NP  ``
+					   orderly human society
+					   ''))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the field
+	    (PP of
+		(NP religious beliefs and values))))
+    ,
+    (S (NP the college students)
+       (VP seem
+	   (S   (NP *)
+		(AUX to)
+		(ADVP faithfully)
+		(VP reflect
+		    (NP the surrounding culture))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their commitments)
+   (AUX are)
+   ,
+   (PP for
+       (NP the
+	   most
+	   part))
+   ,
+   (VP couched
+       (PP in
+	   (NP a familiar idiom))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Students)
+   (VP testify
+       (PP to
+	   (NP a felt need
+	       (PP for
+		   (NP (NP a religious faith)
+		       or
+		       (NP 
+			ultimate personal
+			philosophy)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Avowed atheists or freethinkers)
+   (VP are
+       (ADJP  so
+	      rare
+	      (PP as
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (NP a curiosity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The religious quest)
+      (VP is
+	  (ADVP often)
+	  (ADJP intense and deep)))
+     ,
+     and
+     (S (NP there)
+	(VP are
+	    (NP (NP students
+		    (PP on
+			(NP every campus)))
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (AUX are)
+			 (ADVP seriously)
+			 (VP wrestling
+			     (PP with
+				 (NP the
+				     (ADJP most profound)
+				     questions
+				     (PP of
+					 (NP meaning and value)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the same time))
+    ,
+    (S (NP a major proportion
+	   (PP of
+	       (NP these young men and women)))
+       (VP see
+	   (NP religion)
+	   (PP as
+	       (NP (NP a means
+		       (PP of
+			   (NP personal adjustment)))
+		   ,
+		   (NP an anchor
+		       (PP for
+			   (NP family life)))
+		   ,
+		   (NP a source
+		       (PP of
+			   (NP emotional security))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These personal and social goals)
+   (ADVP often)
+   (VP overshadow
+       (NP the goals
+	   (PP of
+	       (NP (NP intellectual clarity)
+		   ,
+		   and
+		   (NP spiritual transcendence))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       ``
+       cult
+       (PP of
+	   (NP adjustment))
+       '')
+   (AUX does)
+   (VP exist))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP exists
+	(PP alongside
+	    (NP the acceptance
+		(PP of
+		    (NP traditional forms
+			(PP of
+			    (NP (NP organized religion)
+				*LRB*
+				(NP (NP church)
+				    ,
+				    (NP (VP ordained)
+					personnel)
+				    ,
+				    (NP ritual)
+				    ,
+				    (NP dogma))
+				*RRB*))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Still
+	 another segment
+	 (PP of
+	     (NP the student population)))
+    (VP consists
+	(PP of
+	    (NP (NP those)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP seek
+			     ,
+			     (PP  in
+				  (SBAR (WHNP what)
+					(S
+					 (NP they)
+					 (VP regard
+					     (NP T) 
+					     (PP as
+						 (NP religion))))))
+			     ,
+			     (NP (NP intellectual clarity)
+				 ,
+				 (NP rational belief)
+				 ,
+				 and
+				 (NP ethical guidance and reinforcement)))))))))
+ .)
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our first impression
+       (PP of
+	   (NP the data)))
+   (VP was
+       (SBAR that
+	     (S (NP the students)
+		(VP were
+		    (ADJP (ADJP  surprisingly
+				 orthodox)
+			  and
+			  (ADJP   religiously
+				  involved)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP  second
+	     thought))
+    (S (NP we)
+       (AUX were)
+       (VP forced
+	      
+	   (S (NP *)
+	      (AUX to)
+	      (VP realize
+		  (SBAR (SBAR that
+			      (S (NP we)
+				 (VP have
+				     (NP (NP  very
+					      few reliable historical benchmarks)
+					 (SBAR (WHPP against
+						     (WHNP which))
+					       (S
+						(NP we)
+						(AUX might)
+						(VP compare
+						    (NP the present situation))))))))
+			,
+			and
+			(SBAR that
+			      (S (NP conclusions
+				     (SBAR that
+					   (S (NP present-day students)
+					      (VP are
+						  (ADJP  ``
+							 more
+							 ''
+							 or
+							 ``
+							 less
+							 ''
+							 religious)))))
+				 (AUX could)
+				 (NEG not)
+				 (VP be
+				     (VP defended
+		        
+					 (PP on
+					     (NP the basis
+						 (PP of
+						     (NP our data))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP we)
+	      (VP looked
+		  (ADVP more intently)
+		  (PP at
+		      (NP (NP the content
+			      (PP of
+				  (NP our belief)))
+			  and
+			  (NP the extent
+			      (PP of
+				  (NP religious participation))))))))
+    ,
+    (S (NP we)
+       (VP received
+	   (NP the impression
+	       (SBAR that
+		     (S (NP many
+			    (PP of
+				(NP (NP the religious convictions)
+				    (VP expressed
+					))))
+			(VP represented
+			    (NP a conventional acceptance
+				,
+				(PP of
+				    (NP low intensity))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S But
+	 ,
+	 (ADVP here
+	       again)
+	 ,
+	 (S (S (NP comparative benchmarks)
+	       (AUX are)
+	       (VP lacking))
+	    ,
+	    and
+	    (S (NP we)
+	       (AUX do)
+	       (NEG not)
+	       (VP know
+		   ,
+		   (PP in
+		       (NP any case))
+		   ,
+		   (SBAR 
+		    (WHNP what
+			  measure
+			  (PP of
+			      (NP profoundity and intensity)))
+		    (S (NP *)
+		       (AUX to)
+		       (VP expect
+			   (NP T)
+			   (PP from
+			       (NP 
+				(ADJP healthy
+				      ,
+				      young
+				      ,
+				      secure and
+				      relatively
+				      inexperienced)
+				persons)))))))))
+      ;
+      ;
+      (S (PP after
+	     (NP all))
+	 ,
+	 (S (NP feelings
+		(PP of
+		    (NP immortality and invulnerability)))
+	    (VP are
+		(NP standard illusions
+		    (PP of
+			(NP youth)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV Nor
+	 (VP are)
+	 (NP optimistic and socially-oriented themes)
+	 (ADJP (PP at
+		   (NP all))
+	       rare
+	       (PP in
+		   (NP the
+		       distinctive religious
+		       history
+		       (PP of
+			   (NP this country))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Kluckhohn)
+    (ADVP recently)
+    (AUX has)
+    (VP summarized
+	(NP (NP evidence)
+	    (VP regarding
+		(NP changes
+		    (PP in
+			(NP values))
+		    (PP during
+			(NP (NP a period
+				(PP of
+				    (NP years)))
+			    ,
+			    (NP (NP  (ADVP primarily)
+				     1935-1955)
+				,
+				but
+				(VP extending
+				    (ADVP much
+					  farther
+					  back)
+				    (PP in
+					(NP some instances)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A variety
+       (PP of
+	   (NP data)))
+   (AUX are)
+   (VP assembled
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP bear
+	      (PP upon
+		  (NP  such
+		       alleged
+		       changes
+		       (PP as
+			   (NP  (NP diminished
+				    puritan morality
+				    ,
+				    work-success ethic
+				    ,
+				    individualism
+				    ,
+				    achievement)
+				,
+				(NP (VP lessened)
+				    emphasis
+				    (PP on
+					(NP future-time orientation))
+				    (PP in
+					(NP favor
+					    (PP of
+						(NP (NP sociability)
+						    ,
+						    (NP moral relativism)
+						    ,
+						    (NP consideration and tolerance)
+						    ,
+						    (NP conformity)
+						    ,
+						    (NP 
+						     hedonistic present-time
+						     orientation))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP he)
+	      (VP (VP questions
+		      (NP (NP the extent and nature
+			      (PP of
+				  (NP the alleged revival
+				      (PP of
+					  (NP religion)))))
+			  and
+			  (NP the alleged increase
+			      (PP in
+				  (NP conformity)))))
+		  ,
+		  and
+		  (VP thinks
+		      (SBAR that
+			    (S (NP  ``
+				    hedonistic
+				    ''
+				    present-time
+				    orientation)
+			       (AUX does)
+			       (NEG not)
+			       (VP have
+				   (NP (NP the meaning)
+				       (VP  (ADVP usually)
+					    attributed
+					    (PP to
+						(NP it)))))))))))
+     ,
+     (S (NP he)
+	(AUX does)
+	(VP conclude
+	    (SBAR that
+		  (S (NP Americans)
+		     (X (X (ADVP increasingly)
+			   (VP enjoy
+			       (NP leisure)
+			       (PP without
+				   (NP guilt))))
+			,
+			(X (AUX do)
+			   (NEG not)
+			   (VP stress
+			       (NP achievement)
+			       (ADVP so
+				     much
+				     (PP as
+					 (ADVP formerly)))))
+			,
+			(VP are
+			    (ADJP (ADJP more
+					accepting
+					(PP of
+					    (NP group harmony
+						(PP as
+						    (NP a goal)))))
+				  ,
+				  (ADJP  more
+					 tolerant
+					 (PP of
+					     (NP diversity)))
+				  and
+				  (ADJP aware
+					(PP of
+					    (NP other cultures)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

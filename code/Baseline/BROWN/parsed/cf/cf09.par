@@ -1,0 +1,2241 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP gave
+	 (NP herself)
+	 (NP (NP a title)
+	     ,
+	     (NP Lady Diana Harrington))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP The New York D.A.)
+     (VP gave
+	 (NP her)
+	 (NP (NP another)
+	     ,
+	     (NP The Golden Girl
+		 (PP of
+		     (NP cafe society))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP Houston police)
+     (VP gave
+	 (NP her)
+	 (NP (NP a
+		 third
+		 ,
+		 (ADJP  less
+			flamboyant)
+		 ,
+		 title)
+	     ,
+	     (NP prostitute))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP Houston police)
+	 (VP have
+	     (NP the final say)
+	     (PP in
+		 (NP the matter)))
+	 (SBAR since
+	       (S (NP she)
+		  (VP died
+		      (ADVP there))
+		  (PP on
+		      (NP September 20 , 1960))))
+	 ,
+	 ``
+	 (NP (NP Diane Harris Graham)
+	     ,
+	     (NP 30)
+	     ,
+	     (ADJP D.O.A.)
+	     ,
+	     (X  (NP circumstances)
+		 --
+		 (ADJP unusual)))
+	 ''))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (PP (ADVP  Early)
+	  in
+	  (NP her life))
+      (S (NP she)
+	 (AUX had)
+	 (VP discovered
+	     (SBAR that
+		   (S (S (SBAR (WHADVP where)
+			       (S (NP there)
+				  (VP were
+				      (NP men))))
+			 ,
+			 (S (NP there)
+			    (VP was
+				(NP money))))
+		      ,
+		      and
+		      (SINV (PP with
+				(NP the two))
+			    (VP came)
+			    (NP (NP luxury) 
+				and 
+				(NP liquor))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP was
+	 (ADVP still)
+	 (PP in
+	     (NP the play
+		 (PP for
+		     (NP pay business)))))
+     (SBAR (WHADVP when)
+	   (S (NP she)
+	      (VP died)))
+     ,
+     (NP (NP a top trollop)
+	 (SBAR (WHNP who)
+	       (S (NP T)
+		  (AUX had)
+		  (VP given
+		      (NP (NP the world)
+			  's
+			  oldest
+			  profession)
+		      (NP one
+			  (PP of
+			      (NP its rare flashes
+				  (PP of
+				      (NP glamour))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (ADVP never)
+     (VP hid
+	 (NP the fact
+	     (SBAR that
+		   (S (NP she)
+		      (VP liked
+			  (S (NP *)
+			     (AUX to)
+			     (VP play))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Her neighbors
+	 (PP in
+	     (NP the
+		 expensive
+		 Houston apartment building)))
+     (VP told
+	 (NP reporters)
+	 (SBAR that
+	       (S (NP the ash-blonde beauty)
+		  (AUX had)
+		  (VP talked
+		      (PP at
+			  (NP times))
+		      (PP about
+			  (NP her past
+			      (PP as
+				  ``
+				  (NP the Golden Girl
+				      (PP of
+					  (NP the Mickey Jelke trial)))
+				  ''))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-1 *pseudo-attach*))
+    (VP was
+	(NP the trial
+	    (PP of
+		(NP (NP oleomargarine heir)
+		    (NP Minot
+			*LRB*
+			(NP Mickey)
+			*RRB*
+			Jelke)))
+	    (PP for
+		(NP compulsory prostitution))
+	    (PP in
+		(NP New York))))
+    (SBAR-1 (WHNP that)
+	    (S (NP T)
+	       (VP put
+		   (NP the spotlight)
+		   (PP on
+		       (NP the international play-girl))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP Jelke)
+      (ADVP later)
+      (VP served
+	  (NP 21 months))
+      (SBAR (WHADVP when)
+	    (S (NP he)
+	       (AUX was)
+	       (VP found
+		   (ADJP guilty
+			 (PP of
+			     (S  (NP *) 
+				 (VP masterminding
+				     (NP a ring
+					 (PP of
+					     (NP high-priced call girls)))))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP Diane)
+       (AUX was)
+       (VP needed
+	   (PP as
+	       (NP a material witness
+		   (PP in
+		       (NP the case))))))
+    and
+    (S (NP New York police)
+       (VP searched
+	   (NP three continents))
+       (PP before
+	   (S (NP they)
+	      (VP found
+		  (NP her)
+		  (PP (PP in
+			  (NP their own back yard))
+		      --
+		      (PP in
+			  (NP a swank hotel))
+		      ,
+		      (PP of
+			  (NP course))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX had)
+     (VP been
+	 (VP moving
+	     (PP in
+		 (NP cafe society))
+	     (PP as
+		 (NP (NP Lady Diana Harrington)
+		     ,
+		     (NP (NP a name)
+			 (SBAR (WHNP that)
+			       (S (NP T)
+				  (VP made
+				      (NP some
+					  (PP of
+					      (NP the gossip columns))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-2 *pseudo-attach*))
+     (VP was
+	 (SBAR (WHADVP when)
+	       (S (NP she)
+		  (AUX was)
+		  (VP seized
+		      (PP as
+			  (NP a material witness))))))
+     (SBAR-2 that
+	     (S (NP she)
+		(VP got
+		    (NP (NP the designation)
+			(SBAR 0
+			      (S (NP she)
+				 (VP liked
+				     (NP T) 
+				     (ADVP best)))) )))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Clad
+	      (PP in
+		  (NP (NP mink) 
+		      and 
+		      (NP diamonds)))))
+      ,
+      (S (NP she)
+	 (VP listened
+	     (PP to
+		 (S (NP Assistant District Attorney 
+			(NP Anthony Liebler))
+		    (VP describe
+			(NP her)
+			(PP to
+			    (NP the (VP arraigning) judge))))))
+	 :
+	 ``
+	 (S (NP This girl)
+	    (VP is
+		(NP the Golden Girl
+		    (PP of
+			(NP cafe society)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (PP In
+	  (NP 1951))
+      (S (NP she)
+	 (VP was
+	     (NP a prostitute))
+	 (PP in
+	     (NP New York County))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the spring
+	    and
+	    early summer
+	    (PP of
+		(NP that year))))
+    (S (NP she)
+       (VP met
+	   (NP (NP a
+		   wealthy foreign
+		   tycoon)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP took
+			    (NP her)
+			    (PP to
+				(NP (NP France)
+				    ,
+				    (SBAR (WHADVP where)
+					  (S (NP she)
+					     (ADVP later)
+					     (VP (VP met
+						     (NP a
+							 (ADJP  very
+								wealthy) man))
+						 and
+						 (VP toured
+						     (NP all Europe)
+						     (PP with
+							 (NP him)))))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (PP At
+	  (NP Deauville))
+      (S (NP she)
+	 (VP met
+	     (NP an Egyptian
+		 (PP by
+		     (NP the name
+			 (PP of
+			     (NP Pulley Bey))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP was
+	 (NP the official procurer)
+	 (PP for
+	     (NP (NP King Farouk)
+		 ,
+		 (ADVP now)
+		 (PP in
+		     (NP exile))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (VP was
+	     (PP in
+		 (NP Egypt))
+	     (PP during
+		 (NP the revolution)))
+	 and
+	 (VP had
+	     (NP passport difficulty))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP lied)
+     (SBAR  in
+	    order
+	    (S (NP *)
+	       (AUX to)
+	       (VP get
+		   (NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (S (NP We)
+     (AUX have)
+     (VP checked
+	 (NP her)
+	 (PP (PP in
+		 (NP different parts
+		     (PP of
+			 (NP  (NP Europe)
+			      and
+			      (NP Egypt)))))
+	     and
+	     (ADVP finally)
+	     (PP back
+		 (PP into
+		     (NP this country))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX has)
+     (VP been
+	 (VP acting
+	     (PP as
+		 (NP a prostitute)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Our information)
+      (VP is
+	  (SBAR that
+		(S (NP she)
+		   (VP gave
+		       (NP the proceeds
+			   (PP of
+			       (NP her acts)))
+		       (PP to
+			   (NP Jelke)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Diane)
+     (VP  (ADVP sobbingly)
+	  denied
+	  (NP this)
+	  (PP to
+	      (NP the court))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP That)
+      (VP 's
+	  (NP a lie)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (ADVP never)
+     (VP gave
+	 (NP that boy)
+	 (NP a cent)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (S (NP I)
+	   (VP am
+	       (NEG not)
+	       (NP a prostitute)))
+	,
+	and
+	(S (NP I)
+	   (VP had
+	       (NP  (ADVP only)
+		    one
+		    (ADJP very
+			  wealthy) boy friend))))
+     ''
+     ,
+     (S (NP she)
+        (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the course
+	    (PP of
+		(NP the trial))))
+    ,
+    (S (NP Jelke)
+       (VP backed
+	   (PRT up)
+	   (NP part
+	       (PP of
+		   (NP that statement))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (S (NP Diane)
+     (VP is
+	 (NP (NP the type
+		 (PP of
+		     (NP girl)))
+	     ''
+	     ,
+	     (S (NP Jelke)
+		(VP said))
+	     ,
+	     ``
+	     (SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX would)
+		 (NEG n't)
+		 (VP get
+		     (NP loving)
+		     --
+		     (PP  (ADVP even)
+			  on
+			  (NP her wedding night))
+		     --
+		     (SBAR unless
+			   (S (NP you)
+			      (VP piled
+				  (PRT up)
+				  (NP all
+				      your money)
+				  (PP in
+				      (NP the middle
+					  (PP of
+					      (NP the floor)))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP she)
+	 (VP seemed
+	     (S (NP *)
+		(AUX to)
+		(VP have
+		    (VP underestimated
+			(NP the number
+			    (PP of
+				(NP her
+				    ``
+				    boy friends
+				    '')))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP came
+	 (PP to
+	     (NP New York))
+	 (PP from
+	     (NP Detroit))
+	 (PP (PP as
+		 (NP a teenager))
+	     ,
+	     but
+	     (PP with
+		 (NP (NP a
+			 ``
+			 sponsor
+			 '')
+		     (ADVP instead
+			   (PP of
+			       (NP a chaperone))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP she)
+	   (VP told
+	       (NP it))))
+    ,
+    ``
+    (S (NP He)
+       (VP 's
+	   (NP (NP a rich boy friend)
+	       ,
+	       (NP (NP an old guy)
+		   (NP (ADVP about)
+		       60)))))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP was
+	 (NP Mary Lou Brew))
+     (ADVP then)
+     ,
+     (ADJP  (ADJP wide-eyed)
+	    ,
+	    but
+	    (NEG not)
+	    (ADJP naive)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX had)
+     (VP talked
+	 (NP her
+	     ``
+	     boy friend
+	     '')
+	 (PP into
+	     (S (NP *)
+		(VP sending
+		    (NP her)
+		    (PP to
+			(NP New York)))
+		(S (NP *)
+		   (AUX to)
+		   (VP take
+		       (NP a screen test)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The screen test)
+	(AUX was)
+	(ADVP never)
+	(VP made))
+     --
+     but
+     (S (NP Diane)
+	(AUX was)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (ADVP quickly)
+     (VP moved
+	 (PP into
+	     (NP cafe society)))
+     ,
+     (S  (NP *) 
+	 (VP  (ADVP possibly)
+	      easing
+	      (NP her conscience)
+	      (PP by
+		  (S  (NP *) 
+		      (VP talking
+			  (ADVP constantly)
+			  (PP of
+			      (NP her desire
+				  (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (PP in
+					     (NP show business))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP seemed
+	 (ADJP  so
+		anxious
+		(S (NP *)
+		   (AUX to)
+		   (VP go
+		       (PP on
+			   (NP the stage))))
+		(SBAR that
+		      (S (NP some
+			     (PP of
+				 (NP her friends
+				     (PP in
+					 (NP the cocktail circuit)))))
+			 (VP set
+			     (PRT up)
+			     (NP a practical joke)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP An ex-fighter)
+     (AUX was)
+     (VP introduced
+	 (PP to
+	     (NP her))
+	 (PP in
+	     (NP a bar))
+	 (PP as
+	     ``
+	     (NP (NP Mr. Warfield)
+		 ,
+		 (NP the famous producer))
+	     '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The phony producer)
+     (VP asked
+	 (NP her)
+	 (SBAR if
+	       (S (NP she)
+		  (AUX would)
+		  (VP like
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (PP in
+				 (NP one
+				     (PP of
+					 (NP his shows)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (AUX 'd)
+	 (VP love
+	     (S (NP *)
+		(AUX to)
+		(VP audition
+		    (PP for
+			(NP you))))))
+      ''
+      ,
+      (S (NP she)
+	 (VP gushed)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The audition)
+     (AUX was)
+     (VP held
+	 (ADVP (NP a few minutes)
+	       later)
+	 (PP in
+	     (NP (NP somebody)
+		 's apartment))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP thought
+	 (SBAR 0
+	       (S (NP she)
+		  (VP (VP had
+			  (NP great possibilities)
+			  (PP in
+			      (NP the ballet)))
+		      and
+		      (VP wanted
+			  (S (NP *)
+			     (AUX to)
+			     (VP show
+				 (NP the eminent producer)
+				 (SBAR (ADVP (WHADVP how)
+					     well)
+				       (S (NP she)
+					  (AUX could)
+					  (VP dance)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP After
+	 (NP a few minutes))
+     (S (NP he)
+	(VP said
+	    ,
+	    ``
+	    (S (NP I)
+	       (AUX ca)
+	       (NEG n't)
+	       (VP use
+		   (NP you))
+	       (SBAR if
+		     (S (NP you)
+			(VP dance
+			    (PP like
+				(NP that)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX 'd)
+     (VP like
+	 (S (NP *)
+	    (AUX to)
+	    (VP see
+		(NP you)
+		(VP dance
+		    (ADVP nude))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (ADVP hastily)
+	 complied))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Diane)
+     (VP loved
+	 (S (NP *)
+	    (AUX to)
+	    (VP dance
+		(PP in
+		    (NP the
+			nude)))))
+     ,
+     (NP (NP something)
+	 (SBAR 0
+	       (S (NP she)
+		  (VP was
+		      (S (NP *)
+			 (AUX to)
+			 (VP demonstrate
+			     (NP T) 
+			     (ADVP time
+				   and
+				   again)))))) ))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP developed
+	 (NP another quaint habit)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP  (ADVP Even)
+	 among
+	 (NP (NP the fast set)
+	     (SBAR (WHPP in
+			 (WHNP which))
+		   (S (NP she)
+		      (AUX was)
+		      (VP moving)))))
+    ,
+    (S (NP her method
+	   (PP for
+	       (S  (NP *) 
+		   (VP keeping
+		       (NP an escort)
+		       (PP from
+			   (S  (NP *) 
+			       (VP departing
+				   (ADVP  too
+					  early))))))))
+       (VP was
+	   (ADJP unique))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP the date)
+	      (AUX would)
+	      (VP try
+		  (S (NP *)
+		     (AUX to)
+		     (VP bid
+			 (NP her)
+			 (NP good-night)
+			 (PP at
+			     (NP the door)))))))
+     ,
+     (S (NP she)
+	(AUX would)
+	(VP tell
+	    (NP him)
+	    ,
+	    ``
+	    (S (SBAR  If
+		      (S (NP you)
+			 (VP go
+			     (ADVP home)
+			     (ADVP now))))
+	       ,
+	       (S (NP I)
+		  (AUX 'll)
+		  (VP scream)))
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP More often
+	  (PP than
+	      (NEG not)))
+    (S (NP he)
+       (AUX would)
+       (VP bow
+	   (PP to
+	       (NP the
+		   (ADJP inevitable))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (NP (NP One)
+	  (SBAR (WHNP who)
+		(S (NP T)
+		   (VP needed
+		       (NP no such threats)))))
+      (VP was
+	  (NP a French financier)))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP One
+	     (PP of
+		 (NP (NP the blonde)
+		     's yearnings)))
+	 (SBAR (WHNP that)
+	       (S (NP he)
+		  (VP satisfied
+		      (NP T)))))
+     (VP was
+	 (PP for
+	     (NP travel))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP She)
+	(VP wanted
+	    (S (NP *)
+	       (AUX to)
+	       (VP go
+		   (PP around
+		       (NP the world))))))
+     ,
+     but
+     (S (NP she)
+	(VP settled
+	    (PP for
+		(NP a French holiday)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP an anonymous interview
+	    (PP with
+		(NP a French newspaper))))
+    (S (NP the financier)
+       (VP told
+	   (PP of
+	       (S (NP *)
+		  (VP spending
+		      (NP several months)
+		      (PP with
+			  (NP her))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP Then)
+      (S (NP she)
+	 (VP went
+	     (PP to
+		 (NP (NP Deauville)
+		     (SBAR (WHADVP where)
+			   (S (NP she)
+			      (VP met
+				  (NP a member
+				      (PP of
+					  (NP a
+					      powerful Greek
+					      syndicate
+					      (PP of
+						  (NP gamblers)))))))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The Greek)
+	(ADVP evidently)
+	(VP fell
+	    (PP for
+		(NP her))))
+     ,
+     (S (NP  ``
+	     Monsieur X
+	     '')
+	(VP recounted))
+     ,
+     and
+     (S (S (NP *)
+	   (AUX to)
+	   (VP clinch
+	       (SBAR (WHNP what)
+		     (S (NP he)
+			(VP thought
+			    (NP T)
+			    (VP was
+				(NP an affair
+				    (PP in
+					(NP the making)))))))))
+	(S (NP he)
+	   (VP (VP gave
+		   (NP her)
+		   (NP (NP 100,000 francs)
+		       *LRB*
+		       (NP (ADVP about)
+			   $ 300)
+		       *RRB*))
+	       and
+	       (VP led
+		   (NP her)
+		   (PP to
+		       (NP the roulette tables)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX could)
+     (VP do
+	 (NP no wrong)
+	 (PP at
+	     (NP the tables)))
+     (NP that time))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP in
+	  (NP short order))
+      (S (NP the croupier)
+	 (AUX had)
+	 (VP pushed
+	     (NP several million francs)
+	     (NP her way))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADJP Smarter
+	    (PP than
+		(NP most
+		    gamblers)))
+      ,
+      (S (NP she)
+	 (VP (VP slipped
+		 (PP away
+		     (PP from
+			 (NP the casino))))
+	     ,
+	     (VP packed
+		 (NP her bag))
+	     and
+	     (VP took
+		 (NP the night train)
+		 (PP to
+		     (NP Paris))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  No
+	 one)
+    (ADVP ever)
+    (VP learned
+	(SBAR (WHNP what)
+	      (S (NP T)
+		 (VP happened
+		     (PP to
+			 (NP the Greek)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The luxury
+	(PP of
+	    (NP (NP (NP Paris)
+		    '
+		    (ADJP most fashionable)
+		    hotel)
+		,
+		(NP the George 5)
+		,
+		,)))
+    (VP bored
+	(NP the (ADJP beautifully-built) blonde))
+    ,
+    (SBAR  so
+	   (S (NP she)
+	      (VP high-tailed
+		  (NP it)
+		  (PP to
+		      (NP Rome))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (VP teamed
+	     (PRT up)
+	     (PP with
+		 (NP (NP another beauty)
+		     ,
+		     (SBAR (WHNP whose name)
+			   (S (NP T)
+			      (AUX has)
+			      (VP been
+				  (VP lost
+				      (PP to
+					  (NP history)))))))))
+	 ,
+	 and
+	 (VP commenced
+	     (PP with
+		 (NP (NP some fiddling)
+		     (SBAR (WHNP that)
+			   (S (NP T)
+			      (AUX would)
+			      (VP have
+				  (VP made
+				      (NP Nero)
+				      (ADJP envious))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+        (VP climax
+            (NP her Roman revels)))
+     ,
+     (S (NP she)
+	(AUX was)
+	(VP thrown
+	    (PP out
+		(PP of
+		    (NP the
+			swanky
+			Hotel Excelsior))))
+	(PP after
+	    (S (NP she)
+	       (AUX had)
+	       (VP run
+		   (ADVP naked)
+		   (PP through
+		       (NP its marble halls))
+		   (S  (NP *) 
+		       (VP screaming
+			   (PP for
+			       (NP help)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP was
+	(NP a rugged finish)
+	(PP  for
+	     (SBAR (WHNP what)
+		   (S  (NP T) 
+		       (AUX must)
+		       (VP have
+			   (VP been
+			       (NP a
+				   (ADJP  very
+					  interesting) night))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Discreet Italian
+	 police)
+     (VP described
+	 (NP it)
+	 (PP in
+	     (NP (NP a manner)
+		 (ADJP  typically
+			continental)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP There)
+      (AUX had)
+      (VP been
+	  (NP (NP a threesome
+		  (PP at
+		      (NP the party
+			  (PP in
+			      (NP (NP the suite)
+				  's bedroom)))))
+	      :
+	      (NP (NP (NP Miss Harrington)
+		      *LRB*
+		      (S (NP this)
+			 (VP was
+			     (NP (NP Diane)
+				 's choice
+				 (PP for
+				     (NP a Roman name)))))
+		      *RRB*)
+		  ,
+		  (NP (NP another woman)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (AUX has)
+			       (VP figured
+				   (PP in
+				       (NP other
+					   (ADJP very interesting)
+					   events))))))
+		  and
+		  (NP one
+		      (PP of
+			  (NP your
+			      (ADJP well-known) American
+			      actors)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP The actor)
+      (X (X (AUX had)
+	    (VP had
+		(NP (NP much)
+		    (S (NP *)
+		       (AUX to)
+		       (VP drink)))))
+	 and
+	 (VP  (ADVP apparently)
+	      became
+	      (ADJP  very
+		     violent))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The hotel staff)
+	,
+	(ADVP as
+	      well
+	      (PP as
+		  (NP residents
+		      (PP of
+			  (NP the Excelsior)))))
+	,)
+    (VP told
+	(NP us)
+	(SBAR 0
+	      (S (NP they)
+		 (VP saw
+		     (SBAR that
+			   (S (NP both
+				  ladies)
+			      (AUX were)
+			      (VP bleeding
+				  (PP from
+				      (NP scratches)))
+			      (PP as
+				  (S (NP they)
+				     (AUX were)
+				     (VP seen
+					 (S (NP *) 
+					    (VP fleeing
+						(PP down
+						    (NP the hall)))))))))))) ))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP They)
+      (AUX were)
+      (VP wearing
+	  (NP nothing
+	      (PP but
+		  (NP their scratches)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (AUX were)
+     (VP asked
+	 (S (NP *)
+	    (AUX to)
+	    (VP leave
+		(NP the hotel)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP No charges)
+     (AUX were)
+     (VP filed))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP The girls)
+    ,
+    (PP after
+	(S  (NP *) 
+	    (VP dressing)))
+    ,
+    (VP were
+	(ADJP indignant)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP You)
+	 (AUX ca)
+	 (NEG n't)
+	 (VP do
+	     (NP this)
+	     (PP to
+		 (NP us))))
+      ''
+      ,
+      (S (NP Diane)
+	 (VP screamed)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (VP are
+	  (NP Americans)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP the morning))
+    (S (NP she)
+       (VP found
+	   (NP rooms
+	       (PP  (ADVP directly)
+		    across
+		    (PP from
+			(NP the Excelsior)))
+	       (PP at
+		   (NP the
+		       (ADJP  equally
+			      luxurious)
+		       Hotel Ambassador))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the Ambassador
+	    (PP as
+		(NP headquarters))))
+    ,
+    (S (NP she)
+       (VP continued
+	   (S (NP *)
+	      (AUX to)
+	      (VP promote
+		  (NP good will)
+		  (ADVP abroad))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Of
+	   (NP course))
+       ,
+       (S (NP her benevolence)
+	  (AUX was)
+	  (VP limited
+	      (PP to
+		  (NP (NP those)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (AUX could)
+			       (VP afford
+				   (NP it)))))))))
+    ,
+    but
+    (ADVP then)
+    (S (NP there)
+       (VP is
+	   (NP a limit
+	       (PP to
+		   (SBAR (WHNP what)
+			 (S (NP one person)
+			    (AUX can)
+			    (VP do))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP this time))
+    (S (NP Diane)
+       (VP was
+	   (X (NP a (VP beguiling) lass
+		  (PP of
+		      (NP 19)))
+	      and
+	      (VP  (ADVP still)
+		   seeking
+		   (NP her place
+		       (PP in
+			   (NP the world))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP thought
+	 (SBAR 0
+	       (S (NP royal status)
+		  (AUX might)
+		  (VP come
+		      (NP her way)))))
+     (SBAR (WHADVP when)
+	   ,
+	   (SBAR while
+		 (S (NP she)
+		    (VP was
+			(ADVP still)
+			(PP in
+			    (NP Rome)))))
+	   ,
+	   (S (NP she)
+	      (VP met
+		  (NP (NP Pulley Bey)
+		      ,
+		      (NP a personal procurer
+			  (PP to
+			      (NP King Farouk
+				  (PP of
+				      (NP Egypt))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP A close friend
+	 (PP of
+	     (NP hers))
+	 (PP in
+	     (NP the Roman days)))
+     (VP described
+	 (NP it)
+	 (NP (NP this way)))
+     :
+     ``
+     (S (NP It)
+	(VP was
+	    (NP a strange relationship))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Pulley Bey)
+     (VP spoke
+	 (NP no English)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Diane)
+     (VP spoke
+	 (NP no Italian
+	     or
+	     French)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP had
+	(NP a hard time
+	    (S  (NP *)
+		(VP making
+		    (NP him)
+		    (VP understand
+			(SBAR that
+			      (S (NP it
+				     (SBAR-3 *pseudo-attach*))
+				 (VP was
+				     (NP Farouk))
+				 (SBAR-3 0
+					 (S (NP she)
+					    (VP wished
+						(S (NP *)
+						   (AUX to)
+						   (VP meet)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP Pulley Bey)
+	 (VP insisted
+	     (SBAR that
+		   (S (NP she)
+		      (VP bestow
+			  (NP her favors)
+			  (PP on
+			      (NP him)))))))
+      ''
+      ,
+      (S (NP the friend)
+	 (VP continued)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP seemed
+	 (SBAR  as
+		though
+		(S (NP she)
+		   (AUX were)
+		   (ADVP always)
+		   (VP auditioning)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP No believer
+	(PP in
+	    (NP the traditional devotion
+		(PP of
+		    (NP royal servitors)))))
+    ,
+    (S (NP the
+	   plump
+	   Pulley)
+       (VP (VP broke
+	       (NP the language barrier))
+	   and
+	   (VP lured
+	       (NP her)
+	       (PP to
+		   (NP (NP Cairo)
+		       (SBAR (WHADVP where)
+			     (S (NP she)
+				(VP waited)
+				(PP for
+				    (NP nine months))
+				,
+				(S  (NP *) 
+				    (VP  (ADVP vainly)
+					 hoping
+					 (S (NP *)
+					    (AUX to)
+					    (VP see
+						(NP Farouk)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Pulley)
+	(AUX had)
+	(VP set
+	    (NP her)
+	    (PRT up)
+	    (PP at
+		(NP the Semiramis Hotel))))
+     ,
+     but
+     (S (NP she)
+	(VP (VP grew
+		(ADJP impatient)
+		(S (NP *)
+		   (VP waiting
+		       (PP for
+			   (NP a royal reception)))))
+	    and
+	    (VP moved
+		(PP to
+		    (NP (NP a luxurious apartment)
+			(SBAR (WHPP to
+				    (WHNP which))
+			      (S (NP the royal pimp)
+				 (VP had
+				     (NP no key))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP picked
+	 (NP her
+	     own Middle-Eastern
+	     friends)
+	 (PP from
+	     (NP (NP the flock
+		     (PP of
+			 (NP ardent Egyptians)))
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP buzzed
+			      (PP around
+				  (NP her)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Tewfik Badrawi)
+	,
+	(NP Mohammed Gaafer)
+	and
+	(NP numerous other wealthy
+	    members
+	    (PP of
+		(NP Cairo society))))
+    (VP enjoyed
+	(NP her company)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (SINV (ADJP  So
+	       extensive
+	       (SBAR-4 *pseudo-attach*))
+	(VP became)
+	(NP her circle
+	    (PP of
+		(NP admirers)))
+	''
+	,
+	(S (NP Egyptian police)
+	   (VP said))
+	,
+	``
+	(SBAR-4 that
+	      (S (NP her escapades)
+		 (VP caused
+		     (NP distrust)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The roof)
+	(VP was
+	    (PP about
+		(ADJP ready
+		      (S (NP *)
+			 (AUX to)
+			 (VP fall
+			     (PP in
+				 (PP on
+				     (NP (NP Diane)
+					 's little world)))))))))
+     ,
+     but
+     (S (NP it
+	    (S-5 *pseudo-attach*))
+	(VP took
+	    (NP (NP nothing)
+		(ADJP less
+		      (PP than
+			  (NP the Egyptian revolution)))))
+	(S-5 (NP *)
+	     (AUX to)
+	     (VP bring
+		 (NP it)
+		 (PRT down)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP Farouk)
+	      (AUX was)
+	      (VP overthrown)))
+     ,
+     (S (NP police)
+	(VP picked
+	    (PRT up)
+	    (NP  (NP his personal pimp)
+		 ,
+		 (NP Pulley Bey)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (ADVP also)
+     (VP called
+	 (PP upon
+	     (NP Diane))
+	 (PP with
+	     (NP a request
+		 (PP for
+		     (NP a look
+			 (PP at
+			     (NP her passport))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The
+	     cagey
+	     Pulley Bey)
+	 ,
+	 (SBAR (WHNP who)
+	       (S (NP T)
+		  (VP spoke
+		      (NP no English))))
+	 ,)
+     (AUX had)
+     (VP taken
+	 (NP the passport))
+     (SBAR  so
+	    that
+	    (S (NP Diane)
+	       (AUX could)
+	       (NEG n't)
+	       (VP leave
+		   (NP the country)
+		   (PP without
+		       (NP his approval))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Officials)
+     (VP provided
+	 (NP (NP a temporary passport)
+	     ,
+	     (ADJP good
+		   (PP  (ADVP only)
+			for
+			(NP return
+			    (PP to
+				(NP the United States))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (SINV  And
+	  (SINV (VP return
+		    (PP to
+			(NP the United States)))
+		(NP she)
+		(AUX did)
+		,
+		(PP into
+		    (NP (NP (VP waiting)
+			    arms)
+			--
+			(NP the unromantic ones
+			    (PP of
+				(NP (NP the New York District Attorney)
+				    's office)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Held
+	      (PP as
+		  (NP a material witness
+		      (PP in
+			  (NP the compulsory prostitution trial
+			      (PP of
+				  (NP Mickey Jelke))))))))
+      ,
+      (S (NP the comely courtesan)
+	 (X (VP was
+		(ADJP unable
+		      (S (NP *)
+			 (AUX to)
+			 (VP raise
+			     (NP bail)))))
+	    and
+	    (X (AUX was)
+	       (VP committed
+		   (PP to
+		       (NP (NP (NP the Women)
+			       's House
+			       (PP of
+				   (NP Detention)))
+			   ,
+			   (NP a
+			       (ADJP  terribly
+				      overcrowded) prison))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-6 *pseudo-attach*))
+     (VP is
+	 (NP a tribute
+	     (PP to
+		 (NP her talents))))
+     (SBAR-6 that
+	     (S (NP she)
+		(VP was
+		    (ADJP able
+			  (S (NP *)
+			     (AUX to)
+			     (VP talk
+				 (NP the District Attorney)
+				 (PP into
+				     (S  (NP *) 
+					 (VP having
+					     (NP her)
+					     (VP removed
+						 (PP from
+						     (NP the prison))
+						 (PP to
+						     (NP a hotel room
+							 ,
+							 (PP with
+							     (S (NP her meals)
+								(VP taken
+								    (PP at
+									(NP (NP (NP Vesuvio)
+										's)
+									    ,
+									    (NP an
+										excellent Italian
+										restaurant)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Newspapers)
+     (PP at
+	 (NP the time))
+     (VP noted
+	 (SBAR that
+	       (S (NP the move)
+		  (VP indicated
+		      (SBAR that
+			    (S (NP she)
+			       (AUX was)
+			       (VP co-operating
+				   (PP with
+				       (NP the District Attorney))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the end
+	    (PP of
+		(NP the trial))))
+    (S (NP Diane)
+       (VP disappeared
+	   (PP from
+	       (NP New York)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (S-1 *pseudo-attach*))
+     (VP was
+	 (ADVP no
+	       longer)
+	 (ADJP fashionable))
+     (S-1 (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP seen
+		  (PP with
+		      (NP fabulous
+			  ``
+			  Lady Harrington
+			  ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP Several years)
+	  ago)
+    (S (NP she)
+       (VP married
+	   (NP (NP a Houston business man)
+	       ,
+	       (NP Robert Graham)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (ADVP later)
+     (VP divorced
+	 (NP (NP Graham)
+	     ,
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (AUX is)
+		      (VP believed
+			  (S (NP *)
+			     (AUX to)
+			     (VP have
+				 (VP moved
+				     (PP to
+					 (NP Bolivia)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Houston police)
+     (VP got
+	 (S (NP *)
+	    (AUX to)
+	    (VP know
+		(NP Diane))))
+     (ADVP (NP two years)
+	   ago)
+     (SBAR (WHADVP when)
+	   (S (NP the vice squad)
+	      (VP picked
+		  (NP her)
+		  (PRT up)
+		  (PP for
+		      (S  (NP *) 
+			  (VP questioning
+			      (PP about
+				  (NP a call girl ring)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Last
+	 May)
+    ,
+    (S (NP they)
+       (VP said))
+    ,
+    (S (NP she)
+       (VP admitted
+	   (S  (NP *) 
+	       (VP being
+		   (NP a prostitute))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The next time)
+	 (SBAR 0
+	       (S (NP the police)
+		  (VP saw
+		      (NP her)))) )
+     (S (NP she)
+	(VP was
+	    (ADJP dead))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP was
+	 (NP September 20 , 1960))
+     ,
+     (PP in
+	 (NP (NP a
+		 (ADJP  lavishly
+			decorated)
+		 apartment)
+	     (VP littered
+		 (PP with
+		     (NP liquor bottles))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX had)
+     (VP had
+	 (NP a party)
+	 (PP with
+	     (NP (NP a regular visitor)
+		 ,
+		 (NP Dr. William W. McClellan)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP McClellan)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX had)
+		 (ADVP once)
+		 (VP lost
+		     (NP his medical license)
+		     (ADVP temporarily)
+		     (PP on
+			 (NP a charge
+			     (PP of
+				 (NP drug addiction)))))))
+	,)
+    (VP was
+	(PP with
+	    (NP her)))
+    (SBAR (WHADVP when)
+	  (S (NP she)
+	     (VP died))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (X (X (AUX had)
+	   (VP been
+	       (PP in
+		   (NP the
+		       apartment ))
+	       (NP  two
+		    days)))
+	and
+	(VP was
+	    (ADJP hazy
+		  (PP  about
+		       (SBAR (WHNP what)
+			     (S  (NP T) 
+				 (AUX had)
+				 (VP happened)
+				 (PP during
+				     (NP that time)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP he)
+	      (VP realized
+		  (SBAR 0
+			(S (NP she)
+			   (VP was
+			       (ADJP dead)))))))
+     ,
+     (S (NP he)
+	(VP called
+	    (NP (NP two lawyers)
+		and
+		(ADVP then)
+		(NP the police)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP the police)
+	      (VP arrived)))
+     ,
+     (S (NP they)
+	(VP found
+	    (NP (NP McClellan)
+		and
+		(NP the two lawyers))
+	    (VP sitting
+		and
+		staring
+		(ADVP silently)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP The blonde)
+	    's nude body)
+	(VP was
+	    (PP in
+		(NP bed))))
+     ,
+     (S (NP (NP a green sheet)
+	    and
+	    (NP a pink blanket))
+	(VP covered
+	    (NP her))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Pictures
+	 (PP of
+	     (NP her
+		 (PP in
+		     (NP (ADJP more glamorous)
+			 days)))))
+     (VP were
+	 (PP on
+	     (NP the walls))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP An autopsy)
+     (VP disclosed
+	 (NP a large amount
+	     (PP of
+		 (NP morphine))
+	     (PP in
+		 (NP (NP Diane)
+		     's body)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Police)
+     (VP theorize
+	 (SBAR that
+	       (S (NP a combination
+		      (PP of
+			  (NP (NP dope)
+			      ,
+			      (NP drink) 
+			      and 
+			      (NP drugs))))
+		  (VP killed
+		      (NP her))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP think
+	     (SBAR that
+		   (S (ADVP maybe)
+		      (S (NP she)
+			 (VP wanted
+			     (NP it)
+			     (NP this way)))))))
+      ''
+      ,
+      (S (NP a vice squad cop)
+	 (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP A maid)
+      (VP told
+	  (NP us)
+	  (SBAR that
+		(S (NP she)
+		   (ADVP still)
+		   (VP bragged
+		       (PP about
+			   (S  (NP *) 
+			       (VP getting
+				   (NP (NP $ 50)
+				       (NP a date))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP She)
+	(VP was
+	    (PP on
+		(NP the junk))))
+     ,
+     and
+     (S (NP they)
+	(VP slide
+	    (ADVP fast))
+	(SBAR (WHADVP when)
+	      (S (NP that)
+		 (VP happens)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(ADJP least))
+    (S (NP she)
+       (ADVP never)
+       (VP knew
+	   (SBAR (WHNP what)
+		 (S (NP the bottom)
+		    (VP was
+			(PP like
+			    (NP T) )))))))
+ ''
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (VP am
+	 (NP a carpet salesman)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (VP work
+	 (PP for
+	     (NP one
+		 (PP of
+		     (NP the
+			 biggest
+			 chains
+			 (PP of
+			     (NP retail carpet houses))
+			 (PP in
+			     (NP the East))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP We)
+	(VP cater
+	    (ADVP mostly)
+	    (PP to
+		(NP nice people
+		    (PP in
+			(NP the
+			    $ 5-8,000
+			    annual income bracket))))))
+     and
+     (S (NP we)
+	(VP run
+	    (NP a string
+		(PP of
+		    (NP snazzy
+			,
+			neon-lit
+			,
+			chromium-plated suburban
+			stores))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX am)
+     (VP selling
+	 (NP (NP the stuff)
+	     (SBAR (WHPP of
+			 (WHNP which))
+		   (SINV (AUX is)
+			 (VP made)
+			 (NP one
+			     (PP of
+				 (NP (NP the
+					 Great American
+					 Dreams)
+				     --
+				     (NP wall-to-wall carpeting)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (NP  only
+	      one trouble
+	      (PP with
+		  (NP this
+		      big
+		      ,
+		      beautiful
+		      dream)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(SBAR (WHADVP where)
+	      (S (NP I)
+		 (VP sit))))
+    (S (NP it)
+       (VP looks
+	   (PP  (ADVP more)
+		like
+		(NP a nightmare)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP People)
+     (VP come
+	 (PP to
+	     (NP me))
+	 (PP with
+	     (NP confidence))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP They)
+     (VP depend
+	 (PP on
+	     (NP my
+		 (ADJP  supposedly
+			expert) knowledge
+		 (PP of
+		     (NP (NP a trade)
+			 (SBAR (WHPP of
+				     (WHNP which))
+			       (S (NP (NP they)
+				      (NP themselves))
+				  (VP know
+				      (NP little))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP I)
+	 (VP  (ADVP knowingly)
+	      abuse
+	      (NP their confidence))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

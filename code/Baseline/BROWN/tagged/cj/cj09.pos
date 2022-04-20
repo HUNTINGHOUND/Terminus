@@ -1,0 +1,1650 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ A/DT variety/NN ]
+of/IN 
+[ techniques/NNS ]
+have/VBP been/VBN directed/VBN toward/IN 
+[ the/DT isolation/NN ]
+and/CC 
+[ study/NN ]
+of/IN 
+[ blood/NN group/NN antibodies/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+include/VBP 
+[ low-temperature/JJ ethanol/NN ]
+(/( 
+[ Cohn/NNP ]
+)/) 
+[ fractionation/NN ]
+,/, 
+[ electrophoresis/NN ]
+,/, 
+[ ultracentrifugation/NN ]
+and/CC 
+[ column/NN chromatography/NN ]
+on/IN 
+[ ion/NN exchange/NN celluloses/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Modifications/NNS ]
+of/IN 
+[ the/DT last/JJ technique/NN ]
+have/VBP been/VBN applied/VBN by/IN 
+[ several/JJ groups/NNS ]
+of/IN 
+[ investigators/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Abelson/NNP ]
+and/CC 
+[ Rawson/NNP ]
+,/, using/VBG 
+[ a/DT stepwise/JJ elution/NN scheme/NN ]
+,/, fractionated/VBD 
+[ whole/JJ sera/NNS ]
+containing/VBG 
+[ ABO/NNP ]
+and/CC 
+[ Rh/NNP antibodies/NNS ]
+on/IN 
+[ diethylaminoethyl/NN DEAE/NNP cellulose/NN ]
+and/CC 
+[ carboxymethyl/NN cellulose/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Speer/NNP ]
+and/CC 
+[ coworkers/NNS ]
+,/, in/IN 
+[ a/DT similar/JJ study/NN ]
+of/IN 
+[ blood/NN group/NN antibodies/NNS ]
+of/IN 
+[ whole/JJ sera/NNS ]
+,/, used/VBD 
+[ a/DT series/NN ]
+of/IN 
+[ gradients/NNS ]
+for/IN 
+[ elution/NN ]
+from/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Fahey/NNP ]
+and/CC 
+[ Morrison/NNP ]
+used/VBD 
+[ a/DT single/JJ ]
+,/, 
+[ continuous/JJ gradient/NN ]
+at/IN 
+[ constant/JJ pH/NNP ]
+for/IN 
+[ the/DT fractionation/NN ]
+of/IN 
+[ anti-A/NNP ]
+and/CC 
+[ anti-B/NNP agglutinins/NNS ]
+from/IN 
+[ preisolated/VBN \*\*/SYM yg-globulin/NN samples/NNS ]
+./. 
+==================================
+In/IN 
+[ the/DT present/JJ work/NN whole/JJ sera/NNS ]
+have/VBP been/VBN fractionated/VBN by/IN 
+[ chromatography/NN ]
+on/IN 
+[ DEAE-cellulose/NNP ]
+using/VBG 
+[ single/JJ gradients/NNS ]
+similar/JJ to/TO 
+[ those/DT ]
+described/VBN by/IN 
+[ Sober/NNP ]
+and/CC 
+[ Peterson/NNP ]
+,/, and/CC 
+[ certain/JJ chemical/NN ]
+and/CC 
+[ serological/JJ properties/NNS ]
+of/IN 
+[ the/DT fractions/NNS ]
+containing/VBG 
+[ antibodies/NNS ]
+of/IN 
+[ the/DT ABO/NNP ]
+and/CC 
+[ Rh/NNP systems/NNS ]
+have/VBP been/VBN described/VBN ./. 
+==================================
+
+[ Materials/NNS ]
+and/CC 
+[ methods/NNS samples/NNS ]
+./. 
+==================================
+
+[ Serum/NN samples/NNS ]
+were/VBD obtained/VBN from/IN 
+[ normal/JJ group/NN ]
+
+[ A/NNP ]
+,/, 
+[ group/NN B/NNP ]
+and/CC 
+[ group/NN O/NNP donors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Three/CD ]
+of/IN 
+[ the/DT anti-Rh/NNP sera/NNS ]
+used/VBN were/VBD taken/VBN from/IN recently/RB sensitized/VBN 
+[ individuals/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/NN ]
+contained/VBD 
+[ complete/JJ antibody/NN ]
+and/CC had/VBD 
+[ a/DT titer/NN ]
+of/IN 
+[ 1/CD ]
+:/: 
+[ 512/CD ]
+in/IN 
+[ saline/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT second/NN ]
+contained/VBD 
+[ incomplete/JJ antibody/NN ]
+and/CC showed/VBD 
+[ titers/NNS ]
+of/IN 
+[ 1/CD ]
+:/: 
+[ 256/CD ]
+in/IN 
+[ albumin/NN ]
+and/CC 
+[ 1/CD ]
+:/: 
+[ 2048/CD ]
+by/IN 
+[ the/DT indirect/JJ Coombs/NNP test/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT third/JJ ]
+,/, containing/VBG 
+[ the/DT mixed/VBN type/NN ]
+of/IN 
+[ complete/JJ ]
+and/CC 
+[ incomplete/JJ antibodies/NNS ]
+,/, had/VBD 
+[ titers/NNS ]
+of/IN 
+[ 1/CD ]
+:/: 
+[ 256/CD ]
+in/IN 
+[ saline/NN ]
+,/, 
+[ 1/CD ]
+:/: 
+[ 512/CD ]
+in/IN 
+[ albumin/NN ]
+and/CC 
+[ 1/CD ]
+:/: 
+[ 1024/CD ]
+by/IN 
+[ the/DT indirect/JJ Coombs/NNP test/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ addition/NN one/CD serum/NN ]
+was/VBD obtained/VBN from/IN 
+[ a/DT donor/NN ]
+(/( 
+[ R.E./NNP ]
+)/) 
+[ who/WP ]
+had/VBD been/VBN sensitized/VBN 
+[ 6/CD years/NNS ]
+previously/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT serum/NN ]
+exhibited/VBD 
+[ titers/NNS ]
+of/IN 
+[ 1/CD ]
+:/: 
+[ 16/CD ]
+in/IN 
+[ albumin/NN ]
+and/CC 
+[ 1/CD ]
+:/: 
+[ 256/CD ]
+by/IN 
+[ the/DT indirect/JJ Coombs/NNP test/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT antibody/NN titers/NNS ]
+were/VBD determined/VBN by/IN 
+[ reaction/NN ]
+with/IN 
+[ homozygous/JJ A[fj]/SYM red/JJ cells/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Serological/JJ technique/NN ]
+./. 
+==================================
+
+[ Anti-A/NNP ]
+and/CC 
+[ anti-B/NNP activities/NNS ]
+were/VBD determined/VBN in/IN 
+[ fractions/NNS ]
+from/IN 
+[ the/DT sera/NNS ]
+of/IN 
+[ group/NN ]
+
+[ A/NNP ]
+,/, 
+[ group/NN B/NNP ]
+or/CC 
+[ group/NN O/NNP donors/NNS ]
+by/IN 
+[ the/DT following/VBG tube/NN agglutination/NN methods/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/CD drop/NN ]
+of/IN 
+[ each/DT sample/NN ]
+was/VBD added/VBN to/TO 
+[ one/CD drop/NN ]
+of/IN 
+[ a/DT 2/CD %/NN suspension/NN ]
+of/IN 
+[ group/NN A[fj]/SYM ]
+or/CC 
+[ group/NN B/NNP red/JJ cells/NNS ]
+in/IN 
+[ a/DT small/JJ A[fj]/SYM test/NN tube/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ several/JJ instances/NNS ]
+group/NN 
+[ O/NNP cells/NNS ]
+were/VBD also/RB used/VBN as/IN 
+[ controls/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT red/JJ cells/NNS ]
+were/VBD used/VBN within/IN 
+[ 2/CD days/NNS ]
+after/IN 
+[ donation/NN ]
+and/CC were/VBD washed/VBN with/IN 
+[ large/JJ amounts/NNS ]
+of/IN 
+[ saline/NN ]
+before/IN 
+[ use/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT mixtures/NNS ]
+of/IN 
+[ sample/NN ]
+plus/CC 
+[ cell/NN suspension/NN ]
+were/VBD allowed/VBN to/TO stand/VB at/IN 
+[ room/NN temperature/NN ]
+for/IN 
+[ 1/CD A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT tubes/NNS ]
+were/VBD then/RB centrifuged/VBN at/IN 
+[ 1000/CD rpm/NN ]
+for/IN 
+[ 1/CD min/NN ]
+and/CC examined/VBD macroscopically/RB for/IN 
+[ agglutination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT albumin/NN method/NN ]
+,/, 
+[ equal/JJ volumes/NNS ]
+of/IN 
+[ 30/CD %/NN bovine/NN albumin/NN ]
+,/, 
+[ sample/NN ]
+and/CC 
+[ 2/CD %/NN cells/NNS ]
+suspended/VBN in/IN 
+[ saline/NN ]
+were/VBD allowed/VBN to/TO stand/VB at/IN 
+[ room/NN temperature/NN ]
+for/IN 
+[ 1/CD hr/NN ]
+and/CC then/RB were/VBD centrifuged/VBN at/IN 
+[ 1000/CD rpm/NN ]
+for/IN 
+[ 1/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ All/DT samples/NNS ]
+were/VBD tested/VBN by/IN 
+[ both/PDT ]
+
+[ the/DT saline/NN ]
+and/CC 
+[ albumin/NN methods/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT activities/NNS ]
+of/IN 
+[ fractions/NNS ]
+of/IN 
+[ sera/NNS ]
+containing/VBG 
+[ Rh/NNP antibodies/NNS ]
+were/VBD tested/VBN by/IN 
+[ the/DT saline/NN ]
+,/, 
+[ albumin/NN ]
+and/CC 
+[ indirect/JJ Coombs/NNP techniques/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Homozygous/JJ ]
+and/CC 
+[ heterozygous/JJ A[fj]/SYM cells/NNS ]
+,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ homozygous/JJ ]
+and/CC 
+[ heterozygous/JJ A[fj]/SYM cells/NNS ]
+were/VBD used/VBN to/TO test/VB 
+[ each/DT sample/NN ]
+;/: ;/: however/RB ,/, in/IN 
+[ the/DT interest/NN ]
+of/IN 
+[ clarity/NN ]
+and/CC 
+[ conciseness/NN ]
+only/RB 
+[ the/DT results/NNS ]
+obtained/VBN with/IN 
+[ homozygous/JJ A[fj]/SYM ]
+and/CC 
+[ homozygous/JJ A[fj]/SYM cells/NNS ]
+will/MD be/VB presented/VBN here/RB ./. 
+==================================
+
+[ The/DT saline/NN ]
+and/CC 
+[ albumin/NN tests/NNS ]
+were/VBD performed/VBN as/IN described/VBN for/IN 
+[ the/DT ABO/NNP samples/NNS ]
+except/IN that/IN 
+[ the/DT mixture/NN ]
+was/VBD incubated/VBN for/IN 
+[ 1/CD hr/NN ]
+at/IN 
+[ 37-degrees-C/CD|NN|NP ]
+before/IN 
+[ centrifugation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT saline/JJ tubes/NNS ]
+were/VBD saved/VBN and/CC used/VBN for/IN 
+[ the/DT indirect/JJ Coombs/NNP test/NN ]
+in/IN 
+[ the/DT following/VBG manner/NN ]
+./. 
+==================================
+
+[ The/DT cells/NNS ]
+were/VBD washed/VBN 
+[ three/CD times/NNS ]
+with/IN 
+[ saline/NN ]
+,/, 
+[ anti-human/JJ serum/NN ]
+was/VBD added/VBN ,/, 
+[ the/DT cells/NNS ]
+were/VBD resuspended/VBN ,/, and/CC 
+[ the/DT mixture/NN ]
+was/VBD centrifuged/VBN at/IN 
+[ 1000/CD rpm/NN ]
+for/IN 
+[ 1/CD min/NN ]
+and/CC examined/VBD for/IN 
+[ agglutination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anti-human/JJ sera/NNS ]
+used/VBN were/VBD prepared/VBN by/IN injecting/VBG 
+[ whole/JJ human/NN serum/NN ]
+into/IN 
+[ rabbits/NNS ]
+./. 
+==================================
+
+[ Those/DT antisera/NN ]
+shown/VBN by/IN 
+[ immunoelectrophoresis/NN ]
+to/TO be/VB of/IN 
+[ the/DT ]
+``/`` 
+[ broad/JJ spectrum/NN ]
+''/'' 
+[ type/NN ]
+were/VBD selected/VBN for/IN 
+[ use/NN ]
+in/IN 
+[ the/DT present/JJ study/NN ]
+./. 
+==================================
+
+[ The/DT red/JJ cells/NNS ]
+for/IN 
+[ the/DT Rh/NNP antibody/NN tests/NNS ]
+were/VBD used/VBN within/IN 
+[ 3/CD days/NNS ]
+after/IN drawing/VBG except/IN for/IN 
+[ the/DT A[fj]/SYM cells/NNS ]
+,/, 
+[ which/WDT ]
+had/VBD been/VBN glycerolized/VBN and/CC stored/VBN at/IN 
+[ -20-degrees-C/CD|NN|NP ]
+for/IN approximately/RB 
+[ 1/CD year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT cells/NNS ]
+were/VBD thawed/VBN at/IN 
+[ 37-degrees-C/CD|NN|NP ]
+for/IN 
+[ 30/CD min/NN ]
+and/CC were/VBD deglycerolized/VBN by/IN alternately/RB centrifuging/VBG and/CC mixing/VBG with/IN descending/VBG 
+[ concentrations/NNS ]
+of/IN 
+[ glycerol/NN solutions/NNS ]
+(/( 
+[ 20/CD ]
+,/, 
+[ 18/CD ]
+,/, 
+[ 10/CD ]
+,/, 
+[ 8/CD ]
+,/, 
+[ 4/CD ]
+and/CC 
+[ 2/CD %/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cells/NNS ]
+were/VBD then/RB washed/VBN 
+[ three/CD times/NNS ]
+with/IN 
+[ saline/NN ]
+and/CC resuspended/VBD to/TO 
+[ 2/CD %/NN ]
+in/IN 
+[ saline/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Chromatography/NN ]
+./. 
+==================================
+
+[ Blood/NN samples/NNS ]
+were/VBD allowed/VBN to/TO clot/VB at/IN 
+[ room/NN temperature/NN ]
+for/IN 
+[ 3/CD hr/NN ]
+,/, centrifuged/VBN and/CC 
+[ the/DT serum/NN ]
+was/VBD removed/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT serum/NN ]
+was/VBD measured/VBN volumetrically/RB and/CC subsequently/RB dialyzed/VBN in/IN 
+[ the/DT cold/NN ]
+for/IN at/IN 
+[ least/JJS 24/CD hr/NN ]
+against/IN 
+[ three/CD ]
+to/TO 
+[ four/CD changes/NNS ]
+,/, approximately/RB 
+[ 750/CD ml/NN ]
+
+[ each/DT ]
+,/, of/IN ``/`` 
+[ starting/VBG buffer/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT buffer/NN ]
+,/, 
+[ pH/NNP 8.6/CD ]
+,/, was/VBD 
+[ 0.005/CD M/NNP ]
+in/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ 0.039/CD M/NN ]
+in/IN 
+[ tris/NNS ]
+(/( 
+[ hydroxymethyl/NN ]
+)/) 
+[ -aminometha/NN ]
+(/( 
+[ Tris/NNS ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+After/IN 
+[ dialysis/NN ]
+
+[ the/DT sample/NN ]
+was/VBD centrifuged/VBN and/CC 
+[ the/DT supernatant/JJ ]
+placed/VBN on/IN 
+[ a/DT A[fj]/SYM cm/NN column/NN ]
+of/IN 
+[ EEAE-cellulose/NN ]
+equilibrated/VBN with/IN 
+[ starting/VBG buffer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT DEAE-cellulose/NNP ]
+,/, containing/VBG 
+[ 0.78/CD mEq/NNP ]
+of/IN 
+[ N/NNP ]
+,/, was/VBD prepared/VBN in/IN 
+[ our/PRP$ laboratory/NN ]
+by/IN 
+[ the/DT method/NN ]
+of/IN 
+[ Peterson/NNP ]
+and/CC 
+[ Sober/NNP ]
+(/( 
+[ 7/CD ]
+)/) from/IN 
+[ powdered/VBN cellulose/NN ]
+,/, 
+[ 100/CD ]
+-/: 
+[ 230/CD mesh/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT small/JJ amount/NN ]
+of/IN 
+[ insoluble/NN material/NN ]
+
+[ which/WDT ]
+precipitated/VBD during/IN 
+[ dialysis/NN ]
+was/VBD suspended/VBN in/IN approximately/RB 
+[ 5/CD ml/NN ]
+of/IN 
+[ starting/VBG buffer/NN ]
+,/, centrifuged/VBN ,/, resuspended/VBN in/IN 
+[ 2.5/CD ml/NN ]
+of/IN 
+[ isotonic/JJ saline/NN ]
+and/CC tested/VBN for/IN 
+[ antibody/NN activity/NN ]
+./. 
+==================================
+
+[ The/DT chromatography/NN ]
+was/VBD done/VBN at/IN 
+[ 6-degrees-C/CD|NN|NP using/VBG gradient/NN elution/NN ]
+,/, essentially/RB according/VBG to/TO 
+[ Sober/NNP ]
+and/CC 
+[ Peterson/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT deep/JJ concave/JJ gradient/NN ]
+employed/VBN (/( 
+[ fig./NN 2/CD ]
+)/) was/VBD obtained/VBN with/IN 
+[ a/DT nine-chambered/JJ gradient/NN elution/NN device/NN ]
+(/( ``/`` 
+[ Varigrad/NNP ]
+''/'' ,/, 
+[ reference/NN ]
+(/( 
+[ 8/CD ]
+)/) )/) and/CC has/VBZ been/VBN described/VBN elsewhere/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT other/JJ ]
+,/, 
+[ a/DT shallow/JJ concave/JJ gradient/NN ]
+(/( 
+[ Fig./NN 1/CD ]
+)/) ,/, was/VBD produced/VBN with/IN 
+[ a/DT so-called/JJ ]
+``/`` 
+[ cone-sphere/JJ ]
+''/'' 
+[ apparatus/NN ]
+,/, 
+[ the/DT ]
+``/`` 
+[ cone/NN ]
+''/'' being/VBG 
+[ a/DT 2-liter/CD|NN Erlenmeyer/NN flask/NN ]
+and/CC 
+[ the/DT ]
+``/`` 
+[ sphere/NN ]
+,/, ''/'' 
+[ a/DT 2-liter/CD|NN round-bottom/JJ flask/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT ]
+initially/RB contained/VBN 
+[ 1700/CD ml/NN ]
+of/IN 
+[ buffer/NN ]
+;/: ;/: in/IN 
+[ the/DT sphere/NN ]
+was/VBD starting/VBG 
+[ buffer/NN ]
+and/CC in/IN 
+[ the/DT cone/NN ]
+was/VBD 
+[ final/JJ buffer/NN ]
+,/, 
+[ 0.50/CD M/NN ]
+in/IN 
+[ both/DT A[fj]/SYM ]
+and/CC 
+[ Tris/NNP ]
+,/, 
+[ pH/NNP 4.1/CD ]
+./. 
+==================================
+
+[ A/DT flow/NN rate/NN ]
+of/IN 
+[ 72/CD A[fj]/SYM ]
+was/VBD used/VBN and/CC 
+[ 12/CD ml/NN fractions/NNS ]
+were/VBD collected/VBN ./. 
+==================================
+
+==================================
+==================================
+Approximately/RB 
+[ 165/CD fractions/NNS ]
+were/VBD obtained/VBN from/IN 
+[ each/DT column/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+were/VBD read/VBN at/IN 
+[ 280/CD m/NN \*\*/SYM ym/NN ]
+in/IN 
+[ a/DT Beckman/NNP model/NN DU/NNP spectrophotometer/NN ]
+and/CC tested/VBN for/IN 
+[ antibody/NN activity/NN ]
+as/IN described/VBN above/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ Paper/NN electrophoresis/NN ]
+./. 
+==================================
+For/IN 
+[ protein/NN identification/NN ]
+,/, 
+[ fractions/NNS ]
+from/IN 
+[ the/DT column/NN ]
+were/VBD concentrated/VBN by/IN 
+[ pervaporation/NN ]
+against/IN 
+[ a/DT stream/NN ]
+of/IN 
+[ air/NN ]
+at/IN 
+[ 5-degrees-C/CD|NN ]
+or/CC by/IN 
+[ negative/JJ pressure/NN dialysis/NN ]
+in/IN 
+[ an/DT apparatus/NN ]
+
+[ which/WDT ]
+permitted/VBD 
+[ simultaneous/JJ concentration/NN ]
+of/IN 
+[ the/DT protein/NN ]
+and/CC 
+[ dialysis/NN ]
+against/IN 
+[ isotonic/JJ saline/NN ]
+./. 
+==================================
+
+==================================
+==================================
+During/IN 
+[ the/DT latter/NN procedure/NN ]
+
+[ the/DT temperature/NN ]
+was/VBD maintained/VBN at/IN 
+[ 2-degrees-C/CD|NN ]
+by/IN surrounding/VBG 
+[ the/DT apparatus/NN ]
+with/IN 
+[ ice/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Because/IN 
+[ negative/JJ pressure/NN dialysis/NN ]
+gave/VBD 
+[ better/JJR recovery/NN ]
+of/IN 
+[ proteins/NNS ]
+,/, permitted/VBN 
+[ detection/NN ]
+of/IN 
+[ proteins/NNS ]
+concentrated/VBN from/IN 
+[ very/RB dilute/JJ solutions/NNS ]
+and/CC was/VBD 
+[ a/DT gentler/JJR procedure/NN ]
+,/, 
+[ it/PRP ]
+was/VBD used/VBN in/IN 
+[ all/DT ]
+but/CC 
+[ the/DT earliest/JJS experiments/NNS ]
+./. 
+==================================
+
+[ Paper/NN electrophoresis/NN ]
+was/VBD carried/VBN out/IN on/IN 
+[ the/DT concentrated/VBN samples/NNS ]
+in/IN 
+[ a/DT Spinco/NNP model/NN R/NNP cell/NN ]
+using/VBG 
+[ barbital/NN buffer/NN ]
+,/, 
+[ pH/NNP 8.6/CD ]
+,/, 
+[ ionic/JJ strength/NN 0.075/CD ]
+,/, at/IN 
+[ room/NN temperature/NN ]
+on/IN 
+[ Whatman/NNP 3MM/NNP filter/NN paper/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Five/CD milliamperes/NNS ]
+were/VBD applied/VBN for/IN 
+[ 18/CD hr/NN ]
+,/, after/IN 
+[ which/WDT ]
+
+[ the/DT strips/NNS ]
+were/VBD stained/VBN with/IN 
+[ bromphenol/NN blue/NN ]
+and/CC 
+[ densitometry/NN ]
+was/VBD carried/VBN out/IN using/VBG 
+[ a/DT Spinco/NNP Analytrol/NNP ]
+./. 
+==================================
+When/WRB 
+[ paper/NN electrophoresis/NN ]
+was/VBD to/TO be/VB used/VBN for/IN 
+[ preparation/NN ]
+,/, 
+[ eight/CD strips/NNS ]
+of/IN 
+[ a/DT whole/JJ serum/NN sample/NN ]
+or/CC 
+[ a/DT chromatographic/JJ fraction/NN ]
+concentrated/VBN by/IN 
+[ negative/JJ pressure/NN dialysis/NN ]
+were/VBD run/VBN under/IN 
+[ the/DT conditions/NNS ]
+described/VBN above/IN ./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT run/NN ]
+,/, 
+[ the/DT strips/NNS ]
+in/IN 
+[ the/DT third/JJ ]
+and/CC 
+[ sixth/JJ positions/NNS ]
+in/IN 
+[ each/DT chamber/NN ]
+were/VBD dried/VBN ,/, stained/VBN for/IN 
+[ 1/CD hr/NN ]
+,/, washed/VBN and/CC dried/VBN ,/, while/IN 
+[ the/DT other/JJ strips/NNS ]
+were/VBD maintained/VBN in/IN 
+[ a/DT horizontal/JJ position/NN ]
+at/IN 
+[ 1-degree-C/CD|NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT unstained/JJ strips/NNS ]
+were/VBD then/RB marked/VBN ,/, using/VBG 
+[ the/DT stained/VBN ones/NNS ]
+as/IN 
+[ a/DT guide/NN ]
+,/, and/CC cut/VBD transversely/RB so/RB as/IN to/TO separate/VB 
+[ the/DT various/JJ protein/NN bands/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT strip/NN sections/NNS ]
+containing/VBG 
+[ a/DT given/VBN protein/NN ]
+were/VBD pooled/VBN ,/, eluted/VBN with/IN 
+[ 0.5/CD ml/NN ]
+of/IN 
+[ isotonic/JJ saline/NN ]
+,/, and/CC 
+[ the/DT eluates/NNS ]
+were/VBD tested/VBN for/IN 
+[ antibody/NN activity/NN ]
+./. 
+==================================
+
+[ Ultracentrifugation/NN ]
+./. 
+==================================
+
+[ Fractions/NNS ]
+from/IN 
+[ the/DT column/NN ]
+
+[ which/WDT ]
+were/VBD to/TO be/VB subjected/VBN to/TO 
+[ analytical/JJ ultracentrifugation/NN ]
+were/VBD concentrated/VBN by/IN 
+[ negative/JJ pressure/NN dialysis/NN ]
+and/CC dialyzed/VBD for/IN 
+[ 16/CD hr/NN ]
+in/IN 
+[ the/DT cold/NN ]
+against/IN at/IN 
+[ least/JJS 500/CD volumes/NNS ]
+of/IN 
+[ phosphate-buffered/NN saline/NN ]
+,/, 
+[ pH/NNP 7.2/CD ]
+,/, 
+[ ionic/JJ strength/NN 0.154/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+were/VBD then/RB centrifuged/VBN at/IN 
+[ 59,780/CD Pm/NN ]
+for/IN 
+[ 35/CD ]
+to/TO 
+[ 80/CD min/NN ]
+at/IN 
+[ 20-degrees-C/CD|NN ]
+in/IN 
+[ a/DT Spinco/NNP model/NN E/NNP ultracentrifuge/NN ]
+at/IN 
+[ a/DT protein/NN concentration/NN ]
+of/IN 
+[ 1.00/CD ]
+to/TO 
+[ 1.25/CD %/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Sedimentation/NN coefficients/NNS ]
+were/VBD computed/VBN as/IN 
+[ A[fj]/SYM values/NNS ]
+and/CC 
+[ relative/JJ amounts/NNS ]
+of/IN 
+[ the/DT various/JJ components/NNS ]
+were/VBD calculated/VBN from/IN 
+[ the/DT Schlieren/NNP patterns/NNS ]
+./. 
+==================================
+For/IN 
+[ preparative/JJ ultracentrifugation/NN ]
+,/, 
+[ fractions/NNS ]
+from/IN 
+[ the/DT column/NN ]
+were/VBD concentrated/VBN by/IN 
+[ negative/JJ pressure/NN dialysis/NN ]
+to/TO 
+[ volumes/NNS ]
+of/IN 
+[ 1/CD ml/NN ]
+or/CC 
+[ less/JJR ]
+,/, transferred/VBN to/TO 
+[ cellulose/NN tubes/NNS ]
+and/CC diluted/VBN to/TO 
+[ 12/CD ml/NN ]
+with/IN 
+[ isotonic/JJ saline/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ultracentrifugation/NN ]
+was/VBD then/RB carried/VBN out/IN in/IN 
+[ a/DT Spinco/NNP model/NN L/NN ultracentrifuge/NN ]
+at/IN 
+[ 40,000/CD rpm/NN ]
+for/IN 
+[ 125/CD ]
+to/TO 
+[ 150/CD min/NN ]
+,/, 
+[ refrigeration/NN being/NN ]
+used/VBN throughout/IN 
+[ the/DT run/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Successive/JJ 1-ml/CD fractions/NNS ]
+were/VBD then/RB drawn/VBN off/IN with/IN 
+[ a/DT hypodermic/JJ syringe/NN ]
+,/, starting/VBG at/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT tube/NN ]
+,/, and/CC tested/VBN for/IN 
+[ agglutinin/NN activity/NN ]
+./. 
+==================================
+
+[ Other/JJ methods/NNS ]
+will/MD be/VB described/VBN below/IN ./. 
+==================================
+
+[ Experimental/JJ ]
+and/CC results/NNS 
+[ The/DT insoluble/NN material/NN ]
+
+[ which/WDT ]
+precipitated/VBD during/IN 
+[ dialysis/NN ]
+against/IN 
+[ starting/VBG buffer/NN ]
+always/RB showed/VBD 
+[ intense/JJ agglutinin/NN activity/NN ]
+,/, regardless/RB of/IN 
+[ the/DT blood/NN group/NN ]
+of/IN 
+[ the/DT donor/NN ]
+./. 
+==================================
+With/IN either/RB of/IN 
+[ the/DT gradients/NNS ]
+described/VBN ,/, 
+[ chromatography/NN ]
+on/IN 
+[ DEAE-cellulose/NNP ]
+separated/VBD 
+[ agglutinins/NNS ]
+of/IN 
+[ the/DT ABO/NNP series/NN ]
+into/IN at/IN 
+[ least/JJS three/CD regions/NNS ]
+(/( 
+[ Figs./NNP 1/CD ]
+and/CC 
+[ 2/CD ]
+)/) :/: 
+[ one/CD ]
+of/IN extremely/RB 
+[ low/JJ anionic/JJ binding/NN capacity/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ low/JJ anionic/JJ binding/NN capacity/NN ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ high/JJ anionic/JJ binding/NN capacity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+have/VBP been/VBN labeled/VBN 
+[ Regions/NNS 1/CD ]
+,/, 
+[ 2/CD ]
+,/, and/CC 
+[ 4/CD ]
+,/, respectively/RB ,/, in/IN 
+[ Fig./NN 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT early/JJ part/NN ]
+of/IN 
+[ the/DT gradient/NN ]
+was/VBD flattened/VBN ,/, either/CC by/IN using/VBG 
+[ the/DT gradient/NN ]
+shown/VBN in/IN 
+[ Fig./NN 2/CD ]
+or/CC by/IN allowing/VBG 
+[ the/DT ]
+``/`` 
+[ cone-sphere/JJ ]
+''/'' 
+[ gradient/NN ]
+to/TO become/VB established/VBN more/RBR slowly/RB ,/, 
+[ Region/NN 2/CD activity/NN ]
+could/MD sometimes/RB be/VB separated/VBN into/IN 
+[ two/CD areas/NNS ]
+(/( 
+[ donors/NNS P.J./NNP ]
+and/CC 
+[ R.S./NNP ]
+,/, 
+[ Fig./NNP 1/CD ]
+and/CC 
+[ E.M./NNP ]
+,/, 
+[ Fig./NNP 2/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT latter/NN procedure/NN ]
+gave/VBD 
+[ rise/NN ]
+to/TO 
+[ a/DT small/JJ active/JJ protein/NN peak/NN ]
+(/( 
+[ Region/NN 1a/CD ]
+)/) between/IN 
+[ Regions/NNS 1/CD ]
+and/CC 
+[ 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ 2/CD ]
+of/IN 
+[ 15/CD experiments/NNS ]
+on/IN 
+[ whole/JJ serum/NN ]
+
+[ a/DT region/NN ]
+of/IN 
+[ agglutinin/NN activity/NN ]
+with/IN 
+[ intermediate/JJ anionic/JJ binding/NN capacity/NN ]
+was/VBD detected/VBN (/( 
+[ Region/NN 3/CD ]
+,/, 
+[ Fig./NN 1/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, after/IN 
+[ concentration/NN ]
+using/VBG 
+[ negative/JJ pressure/NN dialysis/NN ]
+,/, 
+[ agglutinin/NN activity/NN ]
+could/MD sometimes/RB be/VB detected/VBN in/IN 
+[ the/DT region/NN ]
+designated/VBN 
+[ 2a/CD ]
+(/( 
+[ donors/NNS P.J./NNP ]
+,/, 
+[ D/NNP.A./NN ]
+,/, and/CC 
+[ J.F./NNP ]
+,/, 
+[ Fig./NNP 1/CD ]
+)/) ./. 
+==================================
+Not/RB 
+[ all/PDT these/DT regions/NNS ]
+exhibited/VBD 
+[ equal/JJ agglutinating/VBG activity/NN ]
+,/, as/IN evidenced/VBN by/IN 
+[ titer/NN ]
+and/CC 
+[ the/DT extent/NN ]
+of/IN 
+[ the/DT active/JJ areas/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ all/DT cases/NNS ]
+,/, most/JJS of/IN 
+[ the/DT activity/NN ]
+lay/VBD in/IN 
+[ the/DT region/NN ]
+of/IN 
+[ high/JJ anionic/JJ binding/NN capacity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+was/VBD particularly/RB noticeable/JJ in/IN 
+[ group/NN ]
+
+[ A/NNP ]
+and/CC 
+[ group/NN B/NNP sera/NNS ]
+,/, in/IN 
+[ which/WDT cases/NNS activity/NN ]
+in/IN 
+[ Regions/NNS 1/CD ]
+and/CC 
+[ 2/CD ]
+was/VBD usually/RB not/RB detectable/JJ without/IN 
+[ prior/JJ concentration/NN ]
+and/CC occasionally/RB could/MD not/RB be/VB detected/VBN at/IN 
+[ all/DT ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+appeared/VBD to/TO be/VB 
+[ no/DT difference/NN ]
+in/IN 
+[ the/DT distribution/NN ]
+of/IN 
+[ anti-A/NNP ]
+and/CC 
+[ anti-B/NNP activity/NN ]
+in/IN 
+[ group/NN O/NNP serum/NN ]
+,/, though/IN in/IN 
+[ two/CD group/NN O/NNP donors/NNS ]
+(/( 
+[ J.F./NNP ]
+and/CC 
+[ E.M./NNP ]
+)/) only/RB 
+[ one/CD type/NN ]
+of/IN 
+[ agglutinin/NN ]
+was/VBD found/VBN in/IN 
+[ the/DT regions/NNS ]
+of/IN 
+[ low/JJ anionic/JJ binding/NN capacity/NN ]
+(/( 
+[ Figs./NNP 1/CD ]
+and/CC 
+[ 2/CD ]
+)/) ./. 
+==================================
+
+[ Several/JJ samples/NNS ]
+of/IN 
+[ citrated/VBN plasma/NN ]
+were/VBD fractionated/VBN in/IN 
+[ our/PRP$ laboratory/NN ]
+by/IN 
+[ Method/NN 6/CD ]
+of/IN 
+[ Cohn/NNP ]
+et/CC 
+[ al/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT fractions/NNS ]
+were/VBD tested/VBN for/IN 
+[ ABO/NNP agglutinin/NN activity/NN ]
+,/, using/VBG 
+[ fractions/NNS ]
+from/IN 
+[ group/NN AB/NNP plasma/NN ]
+as/IN 
+[ a/DT control/NN ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN expected/VBN ,/, most/RBS of/IN 
+[ the/DT activity/NN ]
+was/VBD found/VBN in/IN 
+[ Fraction/NNP A[fj]/SYM ]
+,/, with/IN 
+[ slight/JJ activity/NN ]
+seen/VBN in/IN 
+[ Fraction/NN 4-1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT sample/NN ]
+of/IN 
+[ Fraction/NNP A[fj]/SYM ]
+from/IN 
+[ group/NN O/NNP plasma/NN ]
+was/VBD dissolved/VBN in/IN 
+[ starting/VBG buffer/NN ]
+,/, dialyzed/VBN against/IN 
+[ this/DT buffer/NN ]
+and/CC subjected/VBN to/TO 
+[ chromatography/NN ]
+using/VBG 
+[ the/DT gradient/NN ]
+shown/VBN in/IN 
+[ Fig./NN 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+Once/RB again/RB ,/, 
+[ both/DT anti-A/NNP ]
+and/CC 
+[ anti-B/NNP activities/NNS ]
+were/VBD found/VBN in/IN 
+[ the/DT insoluble/JJ material/NN ]
+precipitated/VBN during/IN 
+[ dialysis/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Similarly/RB ,/, 
+[ both/DT ]
+
+[ types/NNS ]
+of/IN 
+[ antibodies/NNS ]
+were/VBD found/VBN in/IN 
+[ three/CD regions/NNS ]
+of/IN 
+[ the/DT chromatographic/JJ eluate/NN ]
+,/, having/VBG extremely/RB 
+[ low/JJ ]
+,/, 
+[ low/JJ ]
+,/, and/CC 
+[ high/JJ anionic/JJ binding/NN capacity/NN ]
+,/, respectively/RB (/( 
+[ Fig./NN 3/CD ]
+)/) ./. 
+==================================
+
+[ Chromatography/NN ]
+of/IN 
+[ whole/JJ sera/NNS ]
+revealed/VBD that/IN 
+[ the/DT areas/NNS ]
+of/IN 
+[ Rh/NNP antibody/NN activity/NN ]
+were/VBD generally/RB continuous/JJ and/CC 
+[ wide/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT incomplete/JJ antibody/NN activity/NN ]
+appeared/VBD in/IN 
+[ the/DT early/JJ part/NN ]
+of/IN 
+[ the/DT chromatogram/NN ]
+;/: ;/: 
+[ the/DT complete/JJ ]
+,/, in/IN 
+[ the/DT latter/NN part/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT serum/NN ]
+containing/VBG 
+[ the/DT mixed/VBN type/NN ]
+of/IN 
+[ complete/JJ ]
+and/CC 
+[ incomplete/JJ antibodies/NNS ]
+showed/VBD 
+[ activity/NN ]
+in/IN 
+[ both/DT ]
+
+[ regions/NNS ]
+(/( 
+[ Fig./NN 1/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ all/DT cases/NNS ]
+
+[ the/DT activity/NN ]
+against/IN 
+[ A[fj]/SYM cells/NNS ]
+was/VBD spread/VBN over/IN 
+[ a/DT wider/JJR area/NN ]
+than/IN that/IN with/IN 
+[ A[fj]/SYM cells/NNS ]
+,/, regardless/RB of/IN 
+[ the/DT type/NN ]
+of/IN 
+[ test/NN ]
+(/( 
+[ saline/NN ]
+,/, 
+[ albumin/NN ]
+,/, 
+[ indirect/JJ Coombs/NNP ]
+)/) used/VBD for/IN 
+[ comparison/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT insoluble/NN material/NN ]
+resulting/VBG from/IN 
+[ dialysis/NN ]
+against/IN 
+[ starting/VBG buffer/NN ]
+always/RB showed/VBD 
+[ strong/JJ activity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ fact/NN agglutination/NN ]
+of/IN 
+[ A[fj]/SYM cells/NNS ]
+in/IN 
+[ saline/NN ]
+could/MD be/VB produced/VBN by/IN 
+[ the/DT insoluble/JJ material/NN ]
+from/IN 
+[ sera/NNS ]
+containing/VBG ``/`` 
+[ only/JJ ]
+''/'' 
+[ incomplete/JJ antibody/NN activity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+was/VBD later/RB known/VBN to/TO be/VB 
+[ the/DT result/NN ]
+of/IN concentrating/VBG 
+[ the/DT minute/JJ amount/NN ]
+of/IN 
+[ complete/JJ antibody/NN ]
+found/VBN in/IN 
+[ these/DT sera/NNS ]
+;/: ;/: when/WRB 
+[ the/DT insoluble/JJ fraction/NN ]
+was/VBD suspended/VBN in/IN 
+[ a/DT volume/NN ]
+of/IN 
+[ saline/NN ]
+equal/JJ to/TO 
+[ that/DT ]
+of/IN 
+[ the/DT original/JJ serum/NN sample/NN ]
+,/, 
+[ no/DT complete/JJ antibody/NN activity/NN ]
+could/MD be/VB detected/VBN ./. 
+==================================
+==================================
+==================================

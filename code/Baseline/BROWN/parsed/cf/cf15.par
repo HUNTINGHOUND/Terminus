@@ -1,0 +1,1982 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP Poughkeepsie)
+	    ,
+	    (NP N.Y.)))
+    ,
+    ,
+    (PP in
+	(NP 1952))
+    ,
+    (S (NP a Roman Catholic hospital)
+       (VP presented
+	   (NP seven Protestant physicians)
+	   (PP with
+	       (NP (NP an ultimatum)
+		   (S (S (NP *)
+			 (AUX to)
+			 (VP quit
+			     (NP the Planned Parenthood Federation)))
+		      or
+		      (S (NP *)
+			 (AUX to)
+			 (VP resign
+			     (PP from
+				 (NP the hospital staff))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Three)
+	(VP agreed))
+     ,
+     but
+     (S (NP four)
+	(X (VP declined)
+	   and
+	   (X (AUX were)
+	      (VP suspended)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP a flood
+	    (PP of
+		(NP protests))))
+    ,
+    (S (NP they)
+       (AUX were)
+       (VP reinstated)
+       (PP at
+	   (NP the beginning
+	       (PP of
+		   (NP 1953))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The peace
+	   (PP of
+	       (NP the community)))
+       (AUX was)
+       (VP (ADVP badly)
+	   disturbed))
+    ,
+    and
+    (S (NP people
+	   (PP across
+	       (NP the nation)))
+       ,
+       (S  (NP *) 
+	   (VP reading
+	       (PP of
+		   (NP the incident))))
+       ,
+       (VP felt
+	   (ADJP uneasy))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP New York City))
+    (PP in
+	(NP 1958))
+    ,
+    (S (NP (NP the city)
+	   's Commissioner
+	   (PP of
+	       (NP Hospitals)))
+       (VP refused
+	   (S (NP *)
+	      (AUX to)
+	      (VP permit
+		  (NP a physician)
+		  (S  (NP *)
+		      (AUX to)
+		      (VP provide
+			  (NP a Protestant mother)
+			  (PP with
+			      (NP a contraceptive device)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (ADVP thereby)
+    (VP precipitated
+	(NP (NP (NP a bitter controversy)
+		(VP involving
+		    (NP (NP Protestants)
+			,
+			(NP Jews)
+			and
+			(NP Roman Catholics))))
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP continued)
+		     (PP for
+			 (NP two months))
+		     ,
+		     (PP until
+			 (S (NP (NP the city)
+				's Board
+				(PP of
+				    (NP Hospitals)))
+			    (VP lifted
+				(NP the ban
+				    (PP on
+					(NP birth-control therapy)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (ADVP (NP A year)
+	   later)
+     (PP in
+	 (NP (NP Albany)
+	     ,
+	     (NP N.Y.)))
+     ,
+     (S (NP a Roman Catholic hospital)
+        (VP barred
+            (NP an orthopedic surgeon))
+	(ADVP because
+	      (PP of
+		  (NP his connection
+		      (PP with
+			  (NP the Planned Parenthood Association)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Immediately)
+      ,
+      (S (NP the religious groups
+	     (PP of
+		 (NP the city)))
+	 (AUX were)
+	 (VP embroiled
+	     (PP in
+		 (NP an angry dispute
+		     (PP over
+			 (NP the (VP alleged) invasion
+			     (PP of
+				 (NP (NP a man)
+				     's right
+				     (PP to
+					 (NP freedom
+					     (PP of
+						 (NP (NP religious belief) 
+						     and 
+						     (NP conscience))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP These incidents)
+	,
+	(ADJP typical
+	      (PP of
+		  (NP many others)))
+	,)
+    (VP dramatize
+	(NP the (VP distressing) fact
+	    (SBAR that
+		  (S (NP no controversy)
+		     (PP during
+			 (NP the
+			     last
+			     several decades))
+		     (AUX has)
+		     (VP caused
+			 (NP more
+			     tension
+			     ,
+			     rancor 
+			     and 
+			     strife
+			     (PP among
+				 (NP religious groups
+				     (PP in
+					 (NP this country))))
+			     (PP than
+				 (NP the birth-control issue)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (AUX has)
+     (VP flared
+	 (PRT up)
+	 (ADVP periodically)
+	 (PP on
+	     (NP the front pages
+		 (PP of
+		     (NP newspapers))))
+	 (PP in
+	     (NP (NP communities)
+		 (VP divided
+		     (PP over
+			 (NP birth-prevention regulations
+			     (PP in
+				 (NP (NP municipal hospitals) 
+				     and 
+				     (NP  health and
+					  family-welfare agencies))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (AUX has)
+     (VP erupted
+	 (PP on
+	     (NP the national level))
+	 (PP in
+	     (NP the matter
+		 (PP of
+		     (S  (NP *) 
+			 (VP including
+			     (NP birth-control information and material)
+			     (PP in
+				 (NP foreign aid
+				     (PP to
+					 (NP underdeveloped countries)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP Where)
+	   (S (NP it)
+	      (AUX is)
+	      (NEG not)
+	      (ADVP actually)
+	      (VP erupting)))
+     ,
+     (S (NP it)
+	(VP rumbles
+	    and
+	    smolders
+	    (PP in
+		(NP sullen resentment))
+	    (PP like
+		(NP (NP a volcano)
+		    ,
+		    (ADJP ready
+			  (S (NP *)
+			     (AUX to)
+			     (VP explode
+				 (PP at
+				     (NP any moment))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The time
+	 (SBAR-1 *pseudo-attach*))
+     (AUX has)
+     (VP come)
+     (SBAR-1  for
+	      (S (NP citizens
+		     (PP of
+			 (NP all faiths)))
+		 (AUX to)
+		 (VP unite
+		     (PP in
+			 (NP  an effort
+			      (S (NP *)
+				 (AUX to)
+				 (VP remove
+				     (NP this (ADJP divisive and nettlesome) issue)
+				     (PP from
+					 (NP the (ADJP political and social) life
+					     (PP of
+						 (NP our nation))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The first step
+	 (PP toward
+	     (NP the goal)))
+     (VP is
+	 (NP the establishment
+	     (PP of
+		 (NP a new atmosphere
+		     (PP of
+			 (NP (NP mutual good
+				 will)
+			     and
+			     (NP friendly communication)))))
+	     (PP on
+		 (ADJP other
+		       (PP than
+			   (NP the polemical level)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Instead
+	    (PP of
+		(NP (NP emotional recrimination)
+		    ,
+		    (NP loaded phrases)
+		    and
+		    (NP sloganeering))))
+      ,
+      (S (NP we)
+	 (VP need
+	     (NP (NP  a
+		      dispassionate study
+		      (PP of
+			  (NP the facts)))
+		 ,
+		 (NP a
+		     better
+		     understanding
+		     (PP of
+			 (NP the opposite viewpoint)))
+		 and
+		 (NP a
+		     (ADJP  more
+			    serious) effort
+		     (S (NP *)
+			(AUX to)
+			(VP extend
+			    (NP the areas
+				(PP of
+				    (NP agreement))))
+			(PP until
+			    (S (NP a solution)
+			       (AUX is)
+			       (VP reached)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP  All
+	     too
+	     frequently)
+      ''
+      ,
+      (SINV (VP points
+		(PRT out))
+	    (NP (NP James O'Gara)
+		,
+		(NP (VP managing)
+		    editor
+		    (PP of
+			(NP Commonweal)))
+		,))
+      ``
+      (S (NP Catholics)
+	 (VP run
+	     (ADVP roughshod)
+	     (PP over
+		 (NP Protestant sensibilities))
+	     (PP in
+		 (NP this matter))
+	     ,
+	     (PP (PP by
+		     (NP failure
+			 (S (NP *)
+			    (AUX to)
+			    (VP consider
+				(NP the reasoning
+				    (PP behind
+					(NP the Protestant position)))))))
+		 and
+		 ,
+		 (ADVP particularly)
+		 ,
+		 (PP by
+		     (NP their jibes
+			 (PP at
+			     (NP the fact
+				 (SBAR that
+				       (S (NP Protestant opinion
+					      (PP on
+						  (NP birth control)))
+					  (AUX has)
+					  (VP changed)
+					  (PP in
+					      (NP recent decades))))))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP All
+	  too
+	  often)
+    (S (NP our language)
+       (VP is
+	   (ADJP  unduly
+		  harsh))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The second step)
+     (VP is
+	 (S (NP *)
+	    (AUX to)
+	    (VP recognize
+		(NP (NP (NP (NP the substantial agreement)
+			    --
+			    (VP  (ADVP frequently)
+				 blurred
+				 (PP by
+				     (NP (NP emotionalism)
+					 and
+					 (NP inaccurate newspaper reporting))))
+			    --)
+			(VP  (ADVP already)
+			     existing
+			     (PP between
+				 (NP Catholics and Non-Catholics))))
+		    (VP concerning
+			(NP the over-all objectives
+			    (PP of
+				(NP family planning)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Instead
+	    (PP of
+		(S (NP (NP Catholics)
+		       ')
+		   (VP being
+		       (VP obliged
+			   or
+			   (ADVP even)
+			   encouraged
+			   (S (NP *)
+			      (AUX to)
+			      (VP beget
+				  (NP the
+				      greatest possible
+				      number
+				      (PP of
+					  (NP offspring)))))))
+		   ,
+		   (PP as
+		       (S (NP many Non-Catholics)
+			  (VP imagine)))
+		   ,)))
+      (S (NP the ideal
+	     (PP of
+		 (NP responsible parenthood)))
+	 (AUX is)
+	 (VP stressed)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Family planning)
+     (AUX is)
+     (VP encouraged)
+     ,
+     (SBAR  so
+	    that
+	    (S (NP parents)
+	       (AUX will)
+	       (VP be
+		   (ADJP able
+			 (S (NP *)
+			    (AUX to)
+			    (VP provide
+				(ADVP properly)
+				(PP for
+				    (NP their offspring)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Pope Pius 12)
+    ,
+    (VP declared
+	(PP in
+	    (NP 1951))
+	(SBAR that
+	      (S (NP it
+		     (S-2 *pseudo-attach*))
+		 (VP is
+		     (ADJP possible))
+		 (S-2 (NP *)
+		      (AUX to)
+		      (VP be
+			  (ADJP exempt
+				(PP from
+				    (NP the normal obligation
+					(PP of
+					    (NP parenthood))))))
+		      (PP (PP for
+			      (NP a long time))
+			  and
+			  (ADVP even)
+			  (PP for
+			      (NP the whole duration
+				  (PP of
+				      (NP married life))))))
+		 ,
+		 (SBAR if
+		       (S (NP there)
+			  (VP are
+			      (NP (NP serious reasons)
+				  ,
+				  (ADJP such
+					(PP as
+					    (NP (NP those)
+						(VP  (ADVP often)
+						     mentioned
+						     (PP in
+							 (NP the
+							     (ADJP so-called medical
+								   ,
+								   eugenic
+								   ,
+								   economic and social)
+							     ``
+							     indications
+							     ''))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (VP means
+	 (SBAR that
+	       (S (NP such factors
+		      (PP as
+			  (NP (NP the health
+				  (PP of
+				      (NP (NP the parents)
+					  ,
+					  (NP  (ADVP particularly)
+					       the mother))))
+			      ,
+			      (NP their ability
+				  (S (NP *)
+				     (AUX to)
+				     (VP provide
+					 (NP their children)
+					 (PP with
+					     (NP the necessities
+						 (PP of
+						     (NP life)))))))
+			      ,
+			      (NP the degree
+				  (PP of
+				      (NP population density
+					  (PP of
+					      (NP a country)))))
+			      and
+			      (NP the shortage
+				  (PP of
+				      (NP  housing
+					   facilities))))))
+		  (AUX may)
+		  (ADVP legitimately)
+		  (VP be
+		      (VP taken
+			  (PP into
+			      (NP consideration))))
+		  (PP in
+		      (S  (NP *)
+			  (VP determining
+			      (NP the number
+				  (PP of
+				      (NP offspring))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP These)
+     (VP are
+	 (ADVP substantially)
+	 (NP (NP the same factors)
+	     (VP considered
+		 (PP by
+		     (NP Non-Catholics))
+		 (PP in
+		     (NP family planning))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The laws
+	 (PP of
+	     (NP many states)))
+     (VP permit
+	 (NP birth control)
+	 (PP  (ADVP only)
+	      for
+	      (NP medical reasons))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The Roman Catholic Church)
+    ,
+    (ADVP however)
+    ,
+    (VP sanctions
+	(NP a
+	    (ADJP much
+		  more
+		  liberal)
+	    policy
+	    (PP on
+		(NP family planning)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Catholics)
+	,
+	(NP Protestants)
+	and
+	(NP Jews))
+    (VP (VP are
+	    (PP in
+		(NP agreement))
+	    (PP over
+		(NP the objectives
+		    (PP of
+			(NP family planning)))))
+	,
+	but
+	(VP disagree
+	    (PP over
+		(NP (NP the methods)
+		    (S (NP T)  
+		       (AUX to)
+		       (VP be
+			   (VP used))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Roman Catholic Church)
+     (VP sanctions
+	 (ADVP only)
+	 (NP (NP  abstention)
+	     or
+	     (NP (NP the rhythm method)
+		 ,
+		 (ADVP also)
+		 (VP known
+		     (PP as
+			 (NP the use
+			     (PP of
+				 (NP the (ADJP infertile or safe) period)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The Church)
+	(VP considers
+	    (NP this)
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (NP (NP the method)
+		       (VP provided
+			   (PP by
+			       (NP (NP nature)
+				   and
+				   (NP its
+				       divine
+				       Author)))))))))
+     :
+     (S (NP It)
+	(VP involves
+	    (NP (NP no frustration
+		    (PP of
+			(NP (NP nature)
+			    's laws)))
+		,
+		but
+		(ADVP simply)
+		(NP an (ADJP intelligent and disciplined) use
+		    (PP of
+			(NP them)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the exception
+	    (PP of
+		(NP (NP the Roman Catholic)
+		    and
+		    (NP the Orthodox Catholic Churches)))))
+    ,
+    (S (NP most
+	   churches)
+       (VP make
+	   (NP no moral distinction
+	       (PP between
+		   (NP (NP rhythm)
+		       and
+		       (NP (ADJP mechanical or chemical) contraceptives)))))
+       ,
+       (S  (NP *) 
+	   (VP allowing
+	       (NP the couple free choice)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (NP a difference
+	     (PP in
+		 (NP theological belief))))
+     (SBAR (WHADVP where)
+	   (S (NP there)
+	      (VP seems
+		  (NP little chance
+		      (PP of
+			  (NP agreement)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The grounds
+	(PP for
+	    (NP (NP the Church)
+		's position)))
+    (VP are
+	(X  (X (ADJP Scriptural)
+	       *LRB*
+	       (NP Old Testament)
+	       *RRB*)
+	    ,
+	    (NP the teachings
+		(PP of
+		    (NP the fathers and doctors
+			(PP of
+			    (NP the
+				early
+				Church)))))
+	    ,
+	    (NP the unbroken tradition
+		(PP of
+		    (NP nineteen centuries)))
+	    ,
+	    (NP the decisions
+		(PP of
+		    (NP the
+			highest ecclesiastical
+			authority)))
+	    and
+	    (NP the natural law))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The latter)
+     (X (VP plays
+	    (NP a prominent role)
+	    (PP in
+		(NP Roman Catholic theology)))
+	and
+	(X (AUX is)
+	   (VP considered
+	       (ADJP decisive
+		     ,
+		     (PP  (ADVP entirely)
+			  apart
+			  (PP from
+			      (NP Scripture)))
+		     ,
+		     (PP in
+			 (S (NP *)  
+			    (VP determining
+				(NP the ethical character
+				    (PP of
+					(NP birth-prevention methods)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Roman Catholic natural-law tradition)
+     (VP regards
+	 (PP as
+	     (ADJP self-evident))
+	 (SBAR (SBAR that
+		     (S (NP the
+			    primary objective
+			    purpose
+			    (PP of
+				(NP the conjugal act)))
+			(VP is
+			    (NP procreation))))
+	       and
+	       (SBAR that
+		     (S (NP the fostering
+			    (PP of
+				(NP the mutual love
+				    (PP of
+					(NP the spouses)))))
+			(VP is
+			    (NP the (ADJP secondary and subjective) end)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This conclusion)
+    (AUX is)
+    (VP based
+	(PP on
+	    (NP (NP two propositions)
+		:
+		(SBAR (SBAR that
+			    (S (NP man)
+			       (PP by
+				   (NP the use
+				       (PP of
+					   (NP his reason))))
+			       (AUX can)
+			       (VP ascertain
+				   (NP (NP God
+					   (PP in
+					       (NP the universe)))
+				       's purpose))))
+		      and
+		      (SBAR that
+			    (S (NP God)
+			       (VP makes
+				   (ADVP known)
+				   (NP His purpose)
+				   (PP by
+				       (NP certain
+					   (VP  ``
+						given
+						'')
+					   physical arrangements))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP man)
+	 (AUX can)
+	 (ADVP readily)
+	 (VP deduce
+	     (SBAR that
+		   (S (NP the
+			  primary objective
+			  end
+			  (PP of
+			      (NP the conjugal act)))
+		      (VP is
+			  (NP (NP procreation)
+			      ,
+			      (NP the propagation
+				  (PP of
+				      (NP the race))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP man)
+	 (AUX may)
+	 (NEG not)
+	 (VP supplant or frustrate
+	     (NP (NP the physical arrangements)
+		 (VP established
+		     (PP by
+			 (NP (NP God)
+			     ,
+			     (SBAR (WHNP who)
+				   (S (PP through
+					  (NP the law
+					      (PP of
+						  (NP rhythm))))
+				      (S (NP T)
+					 (AUX has)
+					 (VP provided
+					     (NP a natural method
+						 (PP for
+						     (NP the control
+							 (PP of
+							     (NP conception))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *) 
+	 (VP Believing
+	     (SBAR that
+		   (S (NP God)
+		      (VP is
+			  (NP the Author
+			      (PP (PP of
+				      (NP this law))
+				  and
+				  (PP of
+				      (NP all laws
+					  (PP of
+					      (NP nature)))))))))))
+     ,
+     (S (NP Roman Catholics)
+	(VP believe
+	    (SBAR that
+		  (S (NP they)
+		     (AUX are)
+		     (VP obliged
+			 (S (NP *)
+			    (AUX to)
+			    (VP (VP obey
+				    (NP those laws))
+				,
+				(NEG not)
+				(VP frustrate or mock
+				    (NP them))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Let
+	  (NP it
+	      (SBAR-2 *pseudo-attach*))
+	  (AUX be)
+	  (VP granted)
+	  (ADVP then)
+	  (SBAR-2 that
+		(S (NP the theological differences
+		       (PP in
+			   (NP this area))
+		       (PP between
+			   (NP (NP Protestants)
+			       and
+			       (NP Roman Catholics))))
+		   (VP appear
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (ADJP irreconcilable))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP people)
+	 (VP differ
+	     (PP in
+		 (NP their religious beliefs))
+	     (PP on
+		 (NP scores
+		     (PP of
+			 (NP doctrines))))
+	     ,
+	     (PP without
+		 (S  (NP *) 
+		     (VP taking
+			 (PRT up)
+			 (NP arms)
+			 (PP against
+			     (NP (NP those)
+				 (SBAR (WHNP who)
+				       (S (NP T)
+					  (VP disagree
+					      (PP with
+						  (NP them)))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP Why)
+	(SQ  (VP is)
+	     (NP it)
+	     (ADJP  so
+		    different)
+	     (PP in
+		 (NP regard
+		     (PP to
+			 (NP birth control))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP is
+	(SBAR  because
+	       (S (NP each side)
+		  (AUX has)
+		  (VP sought
+		      (S (NP *)
+			 (AUX to)
+			 (VP (VP implement
+				 (NP its
+				     distinctive theological
+				     belief)
+				 (PP through
+				     (NP legislation)))
+			     and
+			     (ADVP thus)
+			     (VP  (ADVP indirectly)
+				  force
+				  (NP (NP its belief)
+				      ,
+				      or
+				      (NP (NP (PP at
+						  (ADJP least))
+					      the practical consequences)
+					  (ADVP thereof))
+				      ,)
+				  (PP upon
+				      (NP others))))))))))   
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP It
+	 (SBAR-1 *pseudo-attach*))
+     (VP is
+	 (ADVP always)
+	 (NP a temptation))
+     (SBAR-1  for
+	    (S (NP (NP a religious organization)
+		   ,
+		   (NP  (ADVP especially)
+			a
+			(ADJP powerful or dominant)
+			one)
+		   ,)
+	       (AUX to)
+	       (VP impose
+		   (PP through
+		       (NP the clenched fist
+			   (PP of
+			       (NP the law))))
+		   (NP its creedal viewpoint)
+		   (PP upon
+		       (NP others))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Both Roman Catholics
+	and
+	Protestants)
+    (AUX have)
+    (VP succumbed
+	(PP to
+	    (NP this temptation)))
+    (PP in
+	(NP the past)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)
+      (VP Consider
+	  (SBAR (WHNP what)
+		(S (NP T)
+		   (VP happened
+		       (PP during
+			   (NP (NP World War 1)
+			       ,
+			       ,
+			       (SBAR (WHADVP when)
+				     (S (NP the Protestant churches)
+					(VP united)
+					(S (NP *)
+					   (AUX to)
+					   (VP push
+					       (NP the Prohibition law)
+					       (PP through
+						   (NP Congress)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Many
+	 (PP of
+	     (NP them)))
+    (VP  (ADVP sincerely)
+	 believe
+	 (SBAR that
+	       (S (NP the use
+		      (PP of
+			  (NP liquor))
+		      (PP (PP in
+			      (NP any form))
+			  or
+			  (PP in
+			      (NP any degree))))
+		  (VP is
+		      (ADJP  (ADVP intrinsically)
+			     evil and sinful))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X  With
+	(NP (PP over
+		(NP four million))
+	    American men)
+	(ADVP away
+	      (PP at
+		  (NP war))))
+    ,
+    (S (NP Protestants)
+       (VP forced
+	   (NP their
+	       distinctive theological
+	       belief)
+	   (PP upon
+	       (NP the general public)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the return
+	    (PP of
+		(NP our soldiers))))
+    ,
+    (S (NP it
+	   (SBAR-3 *pseudo-attach*))
+       (ADVP soon)
+       (VP became
+	   (ADJP apparent))
+       (SBAR-3 that
+	       (S (NP the belief)
+		  (AUX was)
+		  (NEG not)
+		  (VP shared
+		      (PP by
+			  (NP the great majority
+			      (PP of
+				  (NP citizens)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The attempt
+	(S (NP *)
+	   (AUX to)
+	   (VP enforce
+	       (NP that belief))))
+    (VP ushered
+	(ADVP in)
+	(NP (NP a reign
+		(PP of
+		    (NP (NP bootleggers)
+			,
+			(NP racketeers)
+			,
+			(NP hijackers) 
+			and 
+			(NP gangsters))))
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (VP led
+			 (PP to
+			     (NP (NP a breakdown
+				     (PP of
+					 (NP law)))
+				 (ADJP unparalleled
+				       (PP in
+					   (NP our history)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The
+	 so-called
+	 ``
+	 noble
+	 experiment
+	 '')
+     (VP came
+	 (PP to
+	     (NP an inglorious end))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP  That
+	 (ADJP tumultuous
+	       ,
+	       painful and costly)
+	 experience)
+    (VP shows
+	(ADVP clearly)
+	(SBAR that
+	      (S (NP (NP a law)
+		     (VP expressing
+			 (NP a moral judgment)))
+		 (AUX can)
+		 (NEG not)
+		 (VP be
+		     (VP enforced))
+		 (SBAR (WHADVP when)
+		       (S (NP it)
+			  (VP has
+			      (NP little correspondence
+				  (PP with
+				      (NP the general view
+					  (PP of
+					      (NP society))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP That experience)
+     (VP holds
+	 (NP a lesson)
+	 (PP for
+	     (NP us
+		 all)))
+     (PP in
+	 (NP regard
+	     (PP to
+		 (NP birth control))))
+     (NP today))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Up
+	(PP to
+	    (NP the turn
+		(PP of
+		    (NP the century)))))
+    ,
+    (S (NP contraception)
+       (AUX was)
+       (VP condemned
+	   (PP by
+	       (NP all Christian churches))
+	   (PP as
+	       (ADJP immoral
+		     ,
+		     unnatural 
+		     and 
+		     (ADJP contrary
+			   (PP to
+			       (NP divine law))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (AUX was)
+     (ADVP generally)
+     (VP reflected
+	 (PP in
+	     (NP the civil laws
+		 (PP of
+		     (NP Christian countries))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP Today)
+      ,
+      (S (NP  the Roman Catholic
+	      and
+	      Orthodox Churches)
+	 (VP stand
+	     (ADVP virtually
+		   alone)
+	     (PP in
+		 (S  (NP *) 
+		     (VP holding
+			 (NP that conviction)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The
+	    various
+	    Lambeth Conferences)
+	,
+	(VP expressing
+	    (NP the Anglican viewpoint))
+	,)
+    (VP mirror
+	(NP (NP the gradual change)
+	    (SBAR (WHNP that)
+		  (S (NP T)
+		     (AUX has)
+		     (VP taken
+			 (NP place)
+			 (PP among
+			     (NP Protestants)))
+		     (ADVP generally))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1920))
+    ,
+    (S (NP the Lambeth Conference)
+       (VP (VP repeated
+	       (NP its 1908 condemnation
+		   (PP of
+		       (NP contraception))))
+	   and
+	   (VP issued
+	       ``
+	       (NP an emphatic warning
+		   (PP (PP against
+			   (NP the use
+			       (PP of
+				   (NP unnatural means))
+			       (PP for
+				   (NP the avoidance
+				       (PP of
+					   (NP conception))))))
+		       ,
+		       (PP (ADVP together)
+			   with
+			   (NP (NP (NP the grave dangers)
+				   --
+				   (ADJP physical
+					 ,
+					 moral
+					 ,
+					 and
+					 religious)
+				   --)
+			       (ADVP thereby)
+			       (VP incurred)))
+		       ,
+		       and
+		       (PP against
+			   (NP (NP the evils)
+			       (SBAR (WHNP which)
+				     (S (NP the extension
+					    (PP of
+						(NP such use)))
+					(S (NP T) 
+					   (VP threaten
+					       (NP the race)))))))))))))
+ ''
+ .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Denouncing
+	      (NP the view
+		  (SBAR that
+			(S (NP the sexual union)
+			   (VP is
+			       (NP an end
+				   (PP in
+				       (NP itself)))))))))
+      ,
+      (S (NP the Conference)
+	 (VP declared
+	     :
+	     ``
+	     (S (NP We)
+		(VP  (ADVP steadfastly)
+		     uphold
+		     (SBAR (WHNP what)
+			   (S (NP T)
+			      (AUX must)
+			      (ADVP always)
+			      (VP be
+				  (VP regarded
+				      (PP as
+					  (NP the (VP governing) considerations
+					      (PP of
+						  (NP Christian marriage)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  (NP One)
+	(VP is
+	    (NP (NP (NP the primary purpose)
+		    (SBAR (WHPP for
+				(WHNP which ))
+			  (S (NP marriage)
+			     (VP exists))))
+		,
+		(ADVP namely)
+		,
+		(NP the continuance
+		    (PP of
+			(NP the race))
+		    (PP through
+			(NP the gift and heritage
+			    (PP of
+				(NP children))))))))
+    ;
+    ;
+    (S (NP the
+	   other)
+       (VP is
+	   (NP the paramount importance
+	       (PP in
+		   (NP married life))
+	       (PP of
+		   (NP (ADJP deliberate and thoughtful) self-control))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Conference)
+     (VP called
+	 (PP for
+	     (NP a vigorous campaign
+		 (PP against
+		     (NP the (ADJP open or secret) sale
+			 (PP of
+			     (NP contraceptives))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1930))
+    ,
+    (S (NP the Lambeth Conference)
+       (ADVP again)
+       (VP (VP affirmed
+	       (S (NP the primary purpose
+		      (PP of
+			  (NP marriage)))
+		  (AUX to)
+		  (VP be
+		      (NP the procreation
+			  (PP of
+			      (NP children))))))
+	   ,
+	   but
+	   (VP conceded
+	       (SBAR that
+		     ,
+		     (PP in
+			 (NP certain limited
+			     circumstances))
+		     ,
+		     (S (NP contraception)
+			(AUX might)
+			(VP be
+			    (ADVP morally)
+			    (ADJP legitimate))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1958))
+    ,
+    (S (NP the Conference)
+       (VP endorsed
+	   (NP birth control)
+	   (PP as
+	       (NP (NP the responsibility)
+		   (VP laid
+		       (PP by
+			   (NP God))
+		       (PP on
+			   (NP (NP parents)
+			       (ADVP everywhere)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Many other Protestant
+	 denominations)
+     (VP preceded
+	 (NP the Anglicans)
+	 (PP in
+	     (NP such action))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP March)
+	    ,
+	    (NP 1931)))
+    ,
+    (S (NP (NP 22
+	       (PP out
+		   (PP of
+		       (NP 28))))
+	   members
+	   (PP of
+	       (NP a committee
+		   (PP of
+		       (NP the Federal Council
+			   (PP of
+			       (NP Churches)))))))
+       (VP ratified
+	   (NP artificial methods
+	       (PP of
+		   (NP birth control))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (PP As
+	  (PP to
+	      (NP the necessity
+		  ''
+		  ,
+		  (S (NP the committee)
+		     (VP declared))
+		  ,
+		  ``
+		  (PP for
+		      (NP some form
+			  (PP (PP of
+				  (NP effective control
+				      (PP of
+					  (NP (NP the size
+						  (PP of
+						      (NP the family)))
+					      and
+					      (NP the spacing
+						  (PP of
+						      (NP children)))))))
+			      ,
+			      and
+			      (ADVP consequently)
+			      (PP of
+				  (NP control
+				      (PP of
+					  (NP conception))))))))))
+      ,
+      (S (NP there)
+	 (AUX can)
+	 (VP be
+	     (NP no question))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP is
+	 (NP general agreement
+	     (ADVP also)
+	     (SBAR that
+		   (S (NP  sex union
+			   (PP between
+			       (NP husbands and wives))
+			   (PP as
+			       (NP an expression
+				   (PP of
+				       (NP mutual affection))))
+			   (PP without
+			       (NP relation
+				   (PP to
+				       (NP procreation)))))
+		      (VP is
+			  (ADJP right)))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Since
+	  (NP then))
+      ,
+      (S (NP many Protestant denominations)
+	 (AUX have)
+	 (VP made
+	     (NP (NP separate pronouncements)
+		 ,
+		 (SBAR (WHPP in
+			     (WHNP which))
+		       (S (NP they)
+			  (VP (CONJP not
+				     only)
+			      (VP approved
+				  (NP birth control))
+			      ,
+			      but
+			      (VP declared
+				  (S (NP it)
+				     (PP at
+					 (NP times))
+				     (AUX to)
+				     (VP be
+					 (NP a religious duty)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (SINV  (NP (SBAR (WHNP What)
+		  (S (NP T)
+		     (VP determines
+			 (NP the morality)))))
+	,
+	(S (NP they)
+	   (VP state))
+	,
+	(VP is
+	    (NP (NEG not)
+		(NP (NP the means)
+		    (VP used))
+		,
+		but
+		(NP the motive)))))
+( 
+ (S (PP In
+	(ADJP general))
+    ,
+    (S (NP (NP (NP the means)
+	       *LRB*
+	       (S  (NP *) 
+		   (VP excluding
+		       (NP abortion)))
+	       *RRB*)
+	   (SBAR (WHNP that)
+		 (S (NP T)
+		    (VP prove
+			(ADJP most effective)))))
+       (AUX are)
+       (VP considered
+	   (NP the
+	       (ADJP most ethical)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP This development)
+     (AUX is)
+     (VP reflected
+	 (PP in
+	     (NP (NP the action)
+		 (VP taken
+		     (PP in
+			 (NP (NP February)
+			     ,
+			     (NP 1961)))
+		     ,
+		     (PP by
+			 (NP the general board
+			     (PP of
+				 (NP (NP the National Council
+					 (PP of
+					     (NP Churches)))
+				     ,
+				     (NP the
+					 largest
+					 Protestant organization
+					 (PP in
+					     (NP the A[fj]))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The board)
+     (VP  approved
+	  and
+	  commended
+	  (NP the use
+	      (PP of
+		  (NP birth-control devices)))
+	  (PP as
+	      (NP a part
+		  (PP of
+		      (NP Christian responsibility
+			  (PP in
+			      (NP family planning))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP called
+	 (PP for
+	     (NP opposition
+		 (PP to
+		     (NP (NP (NP laws)
+			     and
+			     (NP institutional practices))
+			 (VP restricting
+			     (NP the information or availability
+				 (PP of
+				     (NP contraceptives))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The general board)
+    (VP declared
+	:
+	``
+	(S  (NP Most
+		(PP of
+		    (NP the Protestant churches)))
+	    (VP hold
+		(S (NP (NP contraception)
+		       and
+		       (NP periodic continence))
+		   (AUX to)
+		   (VP be
+		       (ADJP  morally
+			      right))
+		   (SBAR (WHADVP when)
+			 (S (NP the motives)
+			    (VP are
+				(ADJP right)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The
+	 general Protestant
+	 conviction)
+     (VP is
+	 (SBAR that
+	       (S (NP (NP motives)
+		      ,
+		      (ADVP rather
+			    (PP than
+				(NP methods)))
+		      ,)
+		  (VP form
+		      (NP the
+			  primary moral
+			  issue)))))
+     ,
+     (VP provided
+	 (SBAR 0
+	       (S (NP the methods)
+		  (AUX are)
+		  (VP limited
+		      (PP to
+			  (NP the prevention
+			      (PP of
+				  (NP conception)))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP An action)
+	 (ADVP once)
+	 (VP (VP  (ADVP universally)
+		  condemned
+		  (PP by
+		      (NP all Christian churches)))
+	     and
+	     (VP forbidden
+		 (PP by
+		     (NP the civil law)))))
+     (AUX is)
+     (ADVP now)
+     (VP (CONJP not
+		only)
+	 (VP approved
+	     (PP by
+		 (NP the overwhelming majority
+		     (PP of
+			 (NP Protestant denominations)))))
+	 ,
+	 (CONJP but
+		also)
+	 (VP deemed
+	     ,
+	     (PP at
+		 (NP certain times))
+	     ,
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (NP a
+			positive religious
+			duty))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP This viewpoint)
+     (AUX has)
+     (ADVP now)
+     (VP been
+	 (VP translated
+	     (PP into
+		 (NP action))
+	     (PP by
+		 (NP the majority
+		     (PP of
+			 (NP people
+			     (PP in
+				 (NP this country)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP  Repeated
+	 polls)
+    (AUX have)
+    (VP disclosed
+	(SBAR that
+	      (S (NP most
+		     married
+		     couples)
+		 (AUX are)
+		 (ADVP now)
+		 (VP using
+		     (NP contraceptives)
+		     (PP in
+			 (NP the practice
+			     (PP of
+				 (NP birth control)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP (NP all)
+	     (ADJP concerned
+		   (PP with
+		       (NP social-welfare legislation)))))
+     ,
+     (S (NP the significance
+	    (PP of
+		(NP this (ADJP radical and revolutionary) change
+		    (PP in
+			(NP the thought and habits
+			    (PP of
+				(NP the vast majority
+				    (PP of
+					(NP the American people)))))))))
+	(VP is
+	    (ADJP clear
+		  ,
+		  profound 
+		  and 
+		  far-reaching))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP (S (NP *) 
+	    (AUX To)
+	    (VP try
+		(S (NP *)
+		   (AUX to)
+		   (VP oppose
+		       (NP the
+			   general (ADJP religious and moral)
+			   conviction
+			   (PP of
+			       (NP such
+				   a majority)))
+		       (PP by
+			   (NP a legislative fiat)))))))
+     (AUX would)
+     (VP be
+	 (S (NP *)
+	    (AUX to)
+	    (VP invite
+		(NP (NP the same breakdown
+			(PP of
+			    (NP law and order)))
+		    (SBAR (WHNP that)
+			  (S (NP T)
+			     (AUX was)
+			     (VP occasioned
+				 (PP by
+				     (NP the
+					 (ADJP ill-starred)
+					 Prohibition experiment))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP brings
+	(NP us)
+	(PP to
+	    (NP the fact
+		(SBAR that
+		      (S (S (NP (NP the realities)
+				(SBAR 0
+				      (S (NP we)
+					 (AUX are)
+					 (VP dealing
+					     (PP with
+						 (NP T))))))
+			    (VP lie
+				(PP (NEG not)
+				    (PP in
+					(NP the field
+					    (PP of
+						(NP civil legislation))))
+				    ,
+				    but
+				    (PP in
+					(NP the realm
+					    (PP of
+						(NP (NP conscience) 
+						    and 
+						    (NP religion))))))))
+			 :
+			 (S (NP They)
+			    (VP are
+				(NP (NP moral judgments)
+				    and 
+				    (NP matters
+					(PP of
+					    (NP theological belief))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP Conscience) 
+	    and 
+	    (NP religion))
+	(AUX are)
+	(VP concerned
+	    (PP with
+		(NP private sin))))
+     :
+     (S (NP The civil law)
+	(AUX is)
+	(VP concerned
+	    (PP with
+		(NP public crimes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 confusion
+	 ,
+	 failure 
+	 and 
+	 anarchy)
+    (VP result)
+    (SBAR (WHADVP when)
+	  (S (NP the effort
+		 (S-4 *pseudo-attach*))
+	     (AUX is)
+	     (VP made)
+	     (S-4 (NP *)
+		  (AUX to)
+		  (VP impose
+		      (PP upon
+			  (NP the civil authority))
+		      (NP the impossible task
+			  (PP of
+			      (S  (NP *)
+				  (VP policing
+				      (NP private homes))
+				  (S (NP *)
+				     (AUX to)
+				     (VP preclude
+					 (NP the possibility
+					     (PP of
+						 (NP sin)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP Among
+	   (NP the chief victims
+	       (PP of
+		   (NP  such
+			an (ADJP ill-conceived) imposition))))
+       (AUX would)
+       (VP be)
+       (NP (NP religion)
+	   (NP itself)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

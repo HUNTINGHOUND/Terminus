@@ -1,0 +1,2168 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         E
+         *RRB*)
+     (S (PP In
+            (NP addition
+                (PP to
+                    (NP (NP the penalties)
+                        (VP provided
+                            (PP in
+                                (NP (NP Title 18)
+                                    ,
+                                    (NP United States Code)
+                                    ,
+                                    (NP Section 1001)
+                                    ,)))))))
+        (S (S (NP (NP any person)
+                  (ADJP guilty
+                        (PP of
+                            (NP any act))
+                        ,
+                        (PP as
+                            (S (NP *)
+                               (VP provided
+                                   (ADVP therein))))))
+              ,
+              (PP with
+                  (NP respect
+                      (PP to
+                          (NP any matter
+                              (PP under
+                                  (NP this Title))))))
+              ,
+              (AUX shall)
+              (VP forfeit
+                  (NP all rights))
+              (PP under
+                  (NP this Title)))
+           ,
+           and
+           ,
+           (S (SBAR if
+                    (S (NP payment)
+                       (AUX shall)
+                       (VP have
+                           (VP been
+                               (VP (VP made)
+                                   or
+                                   (VP granted))))))
+              ,
+              (S (NP the Commission)
+                 (AUX shall)
+                 (VP take
+                     (NP (ADJP such) 
+                         action
+                         (PP as
+                             (S (NP *)
+                                (AUX may)
+                                (VP be
+                                    (ADJP necessary
+                                          (S (NP *)
+                                             (AUX to)
+                                             (VP recover
+                                                 (NP the
+                                                     (ADJP same)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         F
+         *RRB*)
+     (S (PP In
+            (NP connection
+                (PP with
+                    (NP (NP (NP any claim)
+                            (VP decided
+                                (PP by
+                                    (NP the Commission))
+                                (ADJP pursuant
+                                      (PP to
+                                          (NP this Title)))))
+                        (SBAR (WHPP in
+                                    (WHNP which))
+                              (S (NP an award)
+                                 (AUX is)
+                                 (VP made)))))))
+        ,
+        (S (S (NP the Commission)
+              (AUX may)
+              ,
+              (PP upon
+                  (NP the 
+                      (ADJP written) 
+                      request
+                      (PP of
+                          (NP (NP the claimant)
+                              or
+                              (NP (NP any attorney)
+                                  (ADVP heretofore or hereafter)
+                                  (VP employed
+                                      (PP by
+                                          (NP (ADJP such 
+                                                    claimant)))))))))
+              ,
+              (VP determine and apportion
+                  (NP 
+                   (NP the 
+                       (ADJP just and reasonable) 
+                       attorney)
+                   's fees
+                   (PP for
+                       (NP (NP services)
+                           (VP rendered)
+                           (PP with
+                               (NP respect
+                                   (PP to
+                                       (NP (ADJP such 
+                                                 claim))))))))))
+           ,
+           but
+           (S (NP (NP the total amount
+                      (PP of
+                          (NP the fees)))
+                  (VP (ADVP so)
+                      determined))
+              (PP in
+                  (NP any case))
+              (AUX shall)
+              (NEG not)
+              (VP exceed
+                  (NP 10
+                      (PP per
+                          (NP centum
+                              (PP of
+                                  (NP (NP the total amount)
+                                      (VP paid
+                                          (ADJP pursuant
+                                                (PP to
+                                                    (NP the award))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (ADJP Written)
+	   evidence
+	   (SBAR that
+		 (S (NP (NP the claimant)
+			and
+			(NP any 
+			    (ADJP such) 
+			    attorney)
+			(AUX have)
+			(VP agreed
+			    (PP to
+				(NP the amount
+				    (PP of
+					(NP
+					 (NP the attorney)
+					 's fees)))))))))
+       (AUX shall)
+       (VP be
+	   (ADJP conclusive
+		 (PP upon
+		     (NP the Commission)))))
+    :
+    (S (NP *)
+       (VP Provided
+	   ,
+	   (ADVP however)
+	   ,
+	   (SBAR That
+		 (S (NP (NP the total amount
+			    (PP of
+				(NP the fees)))
+			(ADVP so)
+			(VP agreed
+			    (PRT upon)))
+		    (AUX does)
+		    (NEG not)
+		    (VP exceed
+			(NP 10
+			    (PP per
+				(NP centum
+				    (PP of
+					(NP (NP the total amount)
+					    (VP paid
+						(ADJP pursuant
+						      (PP to
+							  (NP the award)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP Any fee)
+          (VP (ADVP so)
+              determined))
+      (AUX shall)
+      (VP be
+          (VP entered
+              (PP as
+                  (NP a part
+                      (PP of
+                          (NP such award)))))))
+     ,
+     and
+     (S (NP payment
+            (ADVP thereof))
+        (AUX shall)
+        (VP be
+            (VP made
+                (PP by
+                    (NP the Secretary
+                        (PP of
+                            (NP the Treasury))))
+                (PP by
+                    (S (NP *)
+                       (VP deducting
+                           (NP the amount
+                               (ADVP thereof))
+                           (PP from
+                               (NP (NP the total amount)
+                                   (VP paid
+                                       (ADJP pursuant
+                                             (PP to
+                                                 (NP the award)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Any agreement
+       (PP to
+           (NP the contrary)))
+   (AUX shall)
+   (VP be
+       (ADJP unlawful and void)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Commission)
+   (AUX is)
+   (VP authorized
+       and
+       directed
+       (S (NP *)
+          (AUX to)
+          (VP mail
+              (PP to
+                  (NP each claimant
+                      (PP in
+                          (NP proceedings
+                              (PP before
+                                  (NP the Commission))))))
+              (NP notice
+                  (PP of
+                      (NP the provisions
+                          (PP of
+                              (NP this subsection)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (SBAR (WHNP Whoever
+		       ,
+		       (X (PP in
+			      (NP the United States))
+			  or
+			  (ADVP elsewhere)))
+		 ,
+		 (S  (NP T) 
+		     (VP (VP pays
+			     (NP-1 *pseudo-attach*))
+			 or
+			 (VP offers
+			     (S (NP *)
+				(AUX to)
+				(VP pay
+				    (NP-1 *pseudo-attach*))))
+			 ,
+			 or
+			 (VP promises
+			     (S (NP *)
+				(AUX to)
+				(VP pay
+				    (NP-1 *pseudo-attach*))))
+			 ,
+			 or
+			 (VP receives
+			     (NP-1 *pseudo-attach*)
+			     (PP on
+				 (NP account
+				     (PP of
+					 (NP (NP services)
+					     (X (VP rendered)
+						or
+						(S (NP *)
+						   (AUX to)
+						   (VP be
+						       (VP rendered)))))))))
+			 (PP in
+			     (NP connection
+				 (PP with
+				     (NP any 
+					 (ADJP such) 
+					 claim))))
+			 ,
+			 (NP-1 (NP compensation)
+			       (SBAR (WHNP which)
+				     ,
+				     (S (SBAR (WHADVP when)
+					      (S (NP *)
+						 (VP added
+						     (PP to
+							 (NP (NP any amount)
+							     (VP (ADVP previously)
+								 paid
+								 (PP on
+								     (NP account
+									 (PP of
+									     (NP (ADJP such)
+										 services))))))))))
+					,
+					(S (NP T)
+					   (AUX will)
+					   (VP exceed
+					       (NP (NP the amount
+						       (PP of
+							   (NP fees)))
+						   (VP (ADVP so)
+						       determined
+						       (PP by
+							   (NP the
+							       Commission)))))))))))))
+       ,
+       (X (X (AUX shall)
+	     (VP be
+		 (ADJP guilty
+		       (PP of
+			   (NP a misdemeanor)))))
+	  ,
+	  and
+	  ,
+	  (PP upon
+	      (NP conviction
+		  (ADVP thereof)))
+	  ,
+	  (X (AUX shall)
+	     (VP be
+		 (X (VP fined
+			(NEG not)
+			(NP (ADJP more)
+			    (PP than
+				(NP $ 5,000))))
+		    or
+		    (VP imprisoned
+			(NEG not)
+			(NP (ADJP more)
+			    (PP than
+				(NP twelve months))))
+		    ,
+		    or
+		    (NP both))))))
+    ,
+    and
+    (S (SBAR if
+	     (S (NP any 
+		    (ADJP such) 
+		    payment)
+		(AUX shall)
+		(VP have
+		    (VP been
+			(VP (VP made)
+			    or
+			    (VP granted))))))
+       ,
+       (S (NP the Commission)
+	  (AUX shall)
+	  (VP take
+	      (NP (ADJP such)
+		  action
+		  (PP as
+		      (S (NP *)
+			 (AUX may)
+			 (VP be
+			     (ADJP necessary
+				   (S (NP *)
+				      (AUX to)
+				      (VP recover
+					  (NP the
+					      (ADJP same))))))))))))
+    ,
+    and
+    ,
+    (S (PP in
+	   (NP addition
+	       (ADVP thereto)))
+       ,
+       (S (NP any 
+	      (ADJP such) 
+	      person)
+	  (AUX shall)
+	  (VP forfeit
+	      (NP all rights))
+	  (PP under
+	      (NP this Title)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         G
+         *RRB*)
+     (S (NP The Attorney General)
+        (AUX shall)
+        (VP assign
+            (NP (ADJP such) 
+                officers and employees
+                (PP of
+                    (NP the Department
+                        (PP of
+                            (NP Justice)))))
+	    (PP as
+		(S  (NP *)
+		    (AUX may)
+		    (VP be
+			(ADJP necessary
+			      (S (NP *)
+				 (AUX to)
+				 (VP represent
+				     (NP the United States)
+				     (ADVP as
+					   (PP to
+					       (NP any claims
+						   (PP of
+						       (NP the Government
+							   (PP of
+							       (NP the United States))))
+						   (PP with
+						       (NP (NP respect)
+							   (SBAR (WHPP to
+								       (WHNP which))
+								 (S (NP the Commission)
+								    (VP has
+									(NP jurisdiction)
+									(PP under
+									    (NP this title)))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Any
+            and
+            all payments)
+        (VP required
+            (S (NP *)
+               (AUX to)
+               (VP be
+                   (VP made
+                       (PP by
+                           (NP the Secretary
+                               (PP of
+                                   (NP the Treasury)))))))
+            (PP under
+                (NP this title))
+            (ADJP pursuant
+                  (PP to
+                      (NP (NP any award)
+                          (VP made
+                              (PP by
+                                  (NP the Commission))
+                              (PP to
+                                  (NP the Government
+                                      (PP of
+                                          (NP the United States))))))))))
+    (AUX shall)
+    (VP be
+        (VP covered
+            (PP into
+                (NP the Treasury))
+            (PP to
+                (NP the credit
+                    (PP of
+                        (NP (ADJP miscellaneous)
+                            receipts)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         H
+         *RRB*)
+     (S (NP The Commission)
+        (X (X (AUX shall)
+              (VP notify
+                  (NP all claimants)
+                  (PP of
+                      (NP the approval or denial
+                          (PP of
+                              (NP their claims))))
+                  ,
+                  (S (NP *)
+                     (VP stating
+                         (NP the reasons and grounds
+                             (ADVP therefor))))))
+           ,
+           and
+           (PP if
+               (S (NP *)
+                  (VP approved)))
+           ,
+           (X (AUX shall)
+              (VP notify
+                  (NP such claimants
+                      (PP of
+                          (NP (NP the amount)
+                              (SBAR (WHPP for
+                                          (WHNP which))
+                                    (S (NP (ADJP such)
+                                           claims)
+                                       (AUX are)
+                                       (VP approved
+                                           )))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Any claimant)
+         (SBAR
+          (WHNP whose claim)
+          (S (NP T)
+             (X (X (AUX is)
+                   (VP denied))
+                ,
+                or
+                (X (AUX is)
+                   (VP approved
+                       (PP for
+                           (NP (ADJP less)
+                               (PP than
+                                   (NP the 
+                                       (ADJP full) 
+                                       amount
+                                       (PP of
+                                           (NP (ADJP such)
+                                               claim))))))))))))
+     ,
+     (AUX shall)
+     (VP be
+         (VP entitled
+             ,
+             (PP under
+                 (NP (ADJP such) 
+                     regulations
+                     (PP as
+                         (S (NP the Commission)
+                            (AUX may)
+                            (VP prescribe)))))
+             ,
+             (PP to
+                 (NP a hearing
+                     (PP before
+                         (NP (NP the Commission)
+                             ,
+                             or
+                             (NP its
+                                 (ADJP (ADVP duly)
+                                       authorized)
+                                 representatives)))
+                     ,
+                     (PP with
+                         (NP respect
+                             (PP to
+                                 (NP (ADJP such)
+                                     claim)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Upon
+	(NP (ADJP such) 
+	    hearing))
+    ,
+    (S (NP the Commission)
+       (AUX may)
+       (VP affirm
+	   ,
+	   modify
+	   ,
+	   or
+	   revise
+	   (NP its 
+	       (ADJP former) 
+	       action)
+	   (PP with
+	       (NP respect
+		   (PP to
+		       (NP (ADJP such) 
+			   claim)))))
+       ,
+       (S (NP *)
+	  (VP including
+	      (NP a denial or reduction
+		  (PP in
+		      (NP (NP the amount)
+			  (ADVP theretofore)
+			  (VP allowed)))
+		  (PP with
+		      (NP respect
+			  (PP to
+			      (NP (ADJP such)
+				  claim)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The action
+       (PP of
+           (NP the Commission))
+       (PP in
+           (S (NP *)
+              (VP allowing
+                  or
+                  denying
+                  (NP any claim)
+                  (PP under
+                      (NP this title))))))
+   (AUX shall)
+   (VP be
+       (ADJP (ADJP final and conclusive
+                   (PP on
+                       (NP all questions
+                           (PP of
+                               (NP (NP law) 
+                                   and 
+                                   (NP fact))))))
+             and
+             (NEG not)
+             (ADJP subject
+                   (S (NP *)
+                      (AUX to)
+                      (VP review
+                          (PP (PP by
+                                  (NP (NP the Secretary
+                                          (PP of
+                                              (NP State)))
+                                      or
+                                      (NP any 
+                                          (ADJP other) 
+                                          official
+                                          ,
+                                          department
+                                          ,
+                                          agency
+                                          ,
+                                          or
+                                          establishment
+					  (PP of
+					      (NP the United States)))))
+                              or
+                              (PP by
+                                  (NP any court))
+			      (X (PP by
+				     (NP mandamus))
+				 or
+				 (ADVP otherwise)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         I
+         *RRB*)
+     (S (NP The Commission)
+        (AUX may)
+        (PP in
+            (NP its discretion))
+        (VP enter
+            (NP an award))
+        (PP with
+            (NP respect
+                (PP to
+                    (NP (NP one
+                            or
+                            (ADJP more)
+                            items)
+                        (VP deemed
+                            (S (NP *)
+                               (AUX to)
+                               (VP have
+                                   (VP been
+                                       (ADVP clearly)
+                                       (VP established
+                                           (PP in
+                                               (NP an 
+                                                   (ADJP individual) 
+                                                   claim)))))))))))
+        (SBAR while
+              (S  (NP *) 
+                  (VP deferring
+                      (NP  consideration 
+                           and 
+                           action
+                           (PP on
+                               (NP (ADJP other 
+                                         items)
+                                   (PP of
+                                       (NP the 
+                                           (ADJP same)
+                                           claim))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         J
+         *RRB*)
+     (S (NP The Commission)
+        (AUX shall)
+        (VP comply
+            (PP with
+                (NP the provisons
+                    (PP of
+                        (NP the Administrative Procedure Act
+                            (PP of
+                                (NP 1946)))))))
+        (PP except
+            (PP as
+                (S (NP *)
+                   (ADVP otherwise)
+                   (ADVP specifically)
+                   (VP provided
+                       (PP by
+                           (NP this title))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Sec. 5)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Commission)
+   (AUX shall)
+   ,
+   (X (ADJP as
+            soon
+            (PP as
+                (ADJP possible)))
+      ,
+      and
+      (PP in
+          (NP the order
+              (PP of
+                  (NP the making
+                      (PP of
+                          (NP (ADJP such) 
+                              awards)))))))
+   ,
+   (VP certify
+       (PP (PP to
+               (NP the Secretary
+                   (PP of
+                       (NP the Treasury))))
+           and
+           (PP to
+               (NP the Secretary
+                   (PP of
+                       (NP State)))))
+       (NP copies
+           (PP of
+               (NP (NP the awards)
+                   (VP made
+                       (PP in
+                           (NP favor
+                               (PP (PP of
+                                       (NP the Government
+                                           (PP of
+                                               (NP the United States))))
+                                   or
+                                   (PP of
+                                       (NP nationals
+                                           (PP of
+                                               (NP the United States)))))))
+                       (PP under
+                           (NP this Title))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Commission)
+    (AUX shall)
+    (VP certify
+        (PP to
+            (NP the Secretary
+                (PP of
+                    (NP State))))
+        ,
+        (PP upon
+            (NP his request))
+        ,
+        (NP copies
+            (PP of
+                (NP the 
+                    (ADJP formal) 
+                    submissions
+                    (PP of
+                        (NP (NP claims)
+                            (VP filed
+                                (ADJP pursuant
+                                      (PP to
+                                          (NP subsection
+                                              *LRB*
+                                              B
+                                              *RRB*
+                                              (PP of
+                                                  (NP Section 4
+                                                      (PP of
+                                                          (NP this Act))))))))))))
+            (PP for
+                (NP transmission
+                    (PP to
+                        (NP (NP the 
+                                (ADJP foreign) 
+                                government)
+                            (VP concerned))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Sec. 6)
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Commission)
+    (AUX shall)
+    (VP complete
+        (NP its affairs
+            (PP in
+                (NP connection
+                    (PP with
+                        (NP settlement
+                            (PP of
+                                (NP (NP United States-Yugoslav claims)
+                                    (VP arising
+                                        (PP under
+                                            (NP the Yugoslav Claims Agreement
+                                                (PP of
+                                                    (NP 1948))))))))))))
+        (NEG not)
+        (ADJP later
+              (PP than
+                  (NP (NP December 31) 
+                      ,
+                      (NP 1954)))))
+    :
+    :
+    (S (NP *)
+       (VP Provided
+	   ,
+	   (SBAR That
+		 (S (NP nothing
+			(PP in
+			    (NP this provision)))
+		    (AUX shall)
+		    (VP be
+			(VP construed
+			    (S (NP *)
+			       (AUX to)
+			       (VP limit
+				   (NP (NP the life
+					   (PP of
+					       (NP the Commission)))
+				       ,
+				       or
+				       (NP its authority
+					   (S (NP *)
+					      (AUX to)
+					      (VP act
+						  (PP on
+						      (NP (NP future agreements)
+							  (SBAR
+							   (WHNP which)
+							   (S (NP T)
+							      (AUX may)
+							      (VP be
+								  (VP effected
+								      (PP under
+									  (NP the provisions
+									      (PP of
+										  (NP this legislation)))))))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Sec. 7)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         A
+         *RRB*)
+     (S (ADJP Subject
+              (PP to
+                  (NP (NP the limitations)
+                      (ADVP hereinafter)
+                      (VP provided))))
+        ,
+        (S (NP the Secretary
+               (PP of
+                   (NP the Treasury)))
+           (AUX is)
+           (VP authorized
+               and
+               directed
+               (S (NP *)
+                  (AUX to)
+                  (VP pay
+                      ,
+                      (PP as
+                          (S (NP *)
+                             (VP prescribed
+                                 (PP by
+                                     (NP Section 8
+                                         (PP of
+                                             (NP this Title)))))))
+                      ,
+                      (NP (NP (NP an amount)
+                              (NEG not)
+                              (VP exceeding
+                                  (NP the principal
+                                      (PP of
+                                          (NP each award)))))
+                          ,
+                          plus
+                          (NP accrued
+                              interests
+                              (PP on
+                                  (NP (ADJP such)
+                                      awards
+                                      (PP as
+                                          (NP bear interest)))))))))
+           ,
+           (S (NP *)
+              (VP certified
+                  (ADJP pursuant
+                        (PP to
+                            (NP Section 5
+                                (PP of
+                                    (NP this Title))))))) 
+           ,
+           (PP in
+               (NP accordance
+                   (PP with
+                       (NP the award)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (ADJP Such) 
+            payments)
+        ,
+        and
+        (NP applications
+            (PP for
+                (NP (ADJP such)
+                    payments)))
+        ,)
+    (AUX shall)
+    (VP be
+        (VP made 
+            (PP in
+                (NP accordance
+                    (PP with
+                        (NP (ADJP such) 
+                            regulations
+                            (PP as
+                                (S (NP the Secretary
+                                       (PP of
+                                           (NP the Treasury)))
+                                   (AUX may)
+                                   (VP prescribe
+                                       (NP T)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         B
+         *RRB*)
+     (S (NP There
+	    (NP-1 *pseudo-attach*))
+        (AUX shall)
+        (VP be
+            (VP deducted
+                (PP from
+                    (NP the amount
+                        (PP of
+                            (NP (NP each payment)
+                                (VP made
+                                    (ADJP pursuant
+                                          (PP to
+                                              (NP subsection
+                                                  *LRB*
+                                                  C
+                                                  *RRB*
+                                                  (PP of
+                                                      (NP Section
+                                                          8))))))))))))
+        ,
+        (PP as
+            (NP reimbursement
+                (PP for
+                    (NP (NP the expenses)
+                        (VP incurred
+                            (PP by
+                                (NP the United States)))))))
+        ,
+        (NP-1 (NP an amount)
+            (ADJP equal
+                  (PP to
+                      (NP 5
+                          (PP per
+                              (NP centum
+                                  (PP of
+                                      (NP (ADJP such) 
+                                          payment))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP All amounts)
+       (VP (ADVP so)
+           deducted))
+   (AUX shall)
+   (VP be
+       (VP covered
+           (PP into
+               (NP the Treasury))
+           (PP to
+               (NP the credit
+                   (PP of
+                       (NP (ADJP miscellaneous) 
+                           receipts)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+         C
+         *RRB*)
+     (S (NP (NP Payments)
+            (VP made
+                (ADJP pursuant
+                      (PP to
+                          (NP this Title)))))
+        (AUX shall)
+        (VP be
+            (VP made
+                (ADVP only)
+                (PP to
+                    (NP (NP the person or persons)
+                        (SBAR (WHPP on
+                                    (WHNP behalf
+                                          (WHPP of
+                                                (WHNP whom))))
+                              (S (NP the award)
+                                 (AUX is)
+                                 (VP made
+                                     )))))))
+        ,
+        (PP except
+            (SBAR that
+                  --
+                  (S (S (NP *LRB*
+                            1
+                            *RRB*)
+                        (S (SBAR if
+                                 (S (NP (ADJP such) 
+                                        person)
+                                    (VP (VP is
+                                            (ADJP deceased))
+                                        or
+                                        (VP is
+                                            (PP under
+                                                (NP a 
+                                                    (ADJP legal)
+                                                    disability))))))
+                           ,
+                           (S (NP payment)
+                              (AUX shall)
+                              (VP be
+                                  (VP made
+                                      (PP to
+                                          (NP his 
+                                              (ADJP legal)
+                                              representative))))
+                              :
+                              (S (NP *)
+				 (VP Provided
+				     ,
+				     (SBAR That
+					   (S (SBAR if
+						    (S (S (NP the total award)
+							  (VP is
+							      (NEG not)
+							      (PP over
+								  (NP $ 500))))
+						       and
+						       (S (NP there)
+							  (VP is
+							      (NP no 
+								  (ADJP qualified) 
+								  executor or administrator)))))
+					      ,
+					      (S (NP payment)
+						 (AUX may)
+						 (VP be
+						     (VP made
+							 (PP to
+							     (NP (NP the person or persons)
+								 (VP found
+								     (PP by
+									 (NP the Comptroller General
+									     (PP of
+										 (NP the United States))))
+								     (S (NP *)
+									(AUX to)
+									(VP be
+									    (VP entitled
+										(ADVP thereto)))))))))
+						 ,
+						 (PP without
+						     (NP the necessity
+							 (PP of
+							     (NP compliance
+								 (PP with
+								     (NP the requirements
+									 (PP of
+									     (NP law))
+									 (PP with
+									     (NP respect
+										 (PP to
+										     (NP the administration
+											 (PP of
+											     (NP estates))))))))))))))))))))
+                     ;
+                     ;
+                     (S (NP *LRB*
+                            2
+                            *RRB*)
+                        (S (PP in
+                               (NP the case
+                                   (PP of
+                                       (NP (NP a partnership or corporation)
+                                           ,
+                                           (X (SBAR (WHNP the existence
+                                                          (WHPP of
+                                                                (WHNP which)))
+                                                    (S (NP T)
+                                                       (AUX has)
+                                                       (VP been
+                                                           (VP
+                                                            terminated))))
+                                              and
+                                              (PP on
+						  (SBAR (WHNP behalf
+							      (WHPP of
+								    (WHNP which)))
+							(S (NP an award)
+							   (AUX is)
+							   (VP made
+							       )))))))))
+                           ,
+                           (S (NP payment)
+                              (AUX shall)
+                              (VP be
+                                  (VP made
+                                      ,
+                                      (PP except
+                                          (PP as
+                                              (S (NP *)
+                                                 (VP provided
+                                                     (PP in
+                                                         (NP (NP paragraphs)
+                                                             (NP *LRB*
+                                                                 3
+                                                                 *RRB*
+                                                                 and
+                                                                 *LRB*
+                                                                 4
+                                                                 *RRB*)))))))
+                                      ,
+                                      (PP to
+                                          (NP (NP the person or persons)
+                                              (VP found
+                                                  (PP by
+                                                      (NP the Comptroller General
+                                                          (PP of
+                                                              (NP the United States))))
+                                                  (S (NP *)
+                                                     (AUX to)
+                                                     (VP be
+                                                         (VP entitled
+                                                             (ADVP thereto))))))))))))
+                     ;
+                     ;
+                     (S (NP *LRB*
+                            3
+                            *RRB*)
+                        (S (SBAR if
+                                 (S (NP a receiver or trustee
+                                        (PP for
+                                            (NP any 
+                                                (ADJP such) 
+                                                partnership or corporation)))
+                                    (X (X (AUX has)
+                                          (VP been
+                                              (ADVP duly)
+                                              (VP appointed
+                                                  (PP by
+                                                      (NP a court
+                                                          (PP of
+                                                              (NP (ADJP competent) 
+                                                                  jurisdiction))
+                                                          (PP in
+                                                              (NP the United States)))))))
+                                       and
+                                       (X (AUX has)
+					  (NEG not)
+					  (VP been
+					      (VP discharged
+						  (ADJP prior
+							(PP to
+							    (NP the date
+								(PP of
+								    (NP payment)))))))))))
+                           ,
+                           (S (NP payment)
+                              (AUX shall)
+                              (VP be
+                                  (VP made
+                                      (PP to
+                                          (NP such receiver or trustee))
+                                      (PP in
+                                          (NP accordance
+                                              (PP with
+                                                  (NP the order
+                                                      (PP of
+                                                          (NP the court)))))))))))
+                     ;
+                     ;
+                     (S (NP *LRB*
+                            4
+                            *RRB*)
+                        (S (SBAR if
+                                 (S (NP (NP a receiver or trustee
+                                            (PP for
+                                                (NP any 
+                                                    (ADJP such) 
+                                                    partnership or corporation)))
+                                        ,
+                                        (ADVP duly)
+                                        (VP appointed
+                                            (PP by
+                                                (NP a court
+                                                    (PP of
+                                                        (NP (ADJP competent) 
+                                                            jurisdiction))
+                                                    (PP in
+                                                        (NP the United States)))))
+                                        ,)
+                                    (VP (VP makes
+                                            (NP an assignment
+                                                (PP of
+                                                    (NP (NP (NP the claim)
+                                                            ,
+                                                            or
+                                                            (NP any part
+                                                                (ADVP thereof))
+                                                            ,)
+                                                        (SBAR (WHPP with
+                                                                    (NP respect)
+                                                                    (WHPP to
+                                                                          (WHNP which)))
+                                                              (S (NP an award)
+                                                                 (AUX is)
+                                                                 (VP made)))))))
+                                        ,
+                                        or
+                                        (VP makes
+                                            (NP an assignment
+                                                (PP of
+                                                    (NP (NP (ADJP such) 
+                                                            award)
+                                                        ,
+                                                        or
+                                                        (NP any part
+                                                            (ADVP thereof)))))))))
+                           ,
+                           (S (NP payment)
+                              (AUX shall)
+                              (VP be
+                                  (VP made
+                                      (PP to
+                                          (NP the assignee))))
+                              ,
+                              (PP as
+                                  (S (NP his interest)
+                                     (AUX may)
+                                     (VP appear))))))
+                     ;
+                     ;
+                     and
+                     (S (NP *LRB*
+                            5
+                            *RRB*)
+                        (S (PP in
+                               (NP the case
+                                   (PP of
+                                       (NP (NP any assignment
+                                               (PP of
+                                                   (NP (NP an award)
+                                                       ,
+                                                       or
+                                                       (NP any part
+                                                           (ADVP thereof)))))
+                                           ,
+                                           (SBAR 
+                                            (WHNP which)
+                                            (S (NP T)
+                                               (AUX is)
+                                               (VP (VP made
+                                                       (PP in
+                                                           (NP writing)))
+                                                   and
+                                                   (VP (ADVP duly)
+                                                       acknowledged
+                                                       and
+                                                       filed))))))))
+                           ,
+                           (S (PP after
+                                  (S (NP (ADJP such) 
+                                         award)
+                                     (AUX is)
+                                     (VP certified
+                                         (PP to
+                                             (NP the Secretary)))))
+                              (S (NP the Comptroller General
+                                     (PP of
+                                         (NP the United States)))
+                                 ,
+                                 (PP as
+                                     (S (NP the case)
+                                        (AUX may)
+                                        (VP be)))
+                                 ,
+                                 (AUX shall)
+                                 (VP find
+                                     (SBAR that
+                                           (S (NP any person)
+                                              (AUX is)
+                                              (VP entitled
+                                                  (PP to
+                                                      (NP any 
+                                                          (ADJP such) 
+                                                          payment)))
+					      ,
+					      (PP after
+						  (S (NP (ADJP such)
+							 payment)
+						     (AUX shall)
+						     (VP have
+							 (VP been
+							     (VP received
+								 (PP by
+								     (NP (ADJP such)
+									 person))))))))))))))
+		     ,
+		     (S (NP it)
+			(AUX shall)
+			(VP be
+			    (NP an 
+				(ADJP absolute) 
+				bar
+				(PP to
+				    (NP recovery
+					(PP by
+					    (NP any 
+						(ADJP other) 
+						person))))
+				(PP against
+				    (NP (NP the United States)
+					,
+					(NP its officers
+					    ,
+					    agents
+					    ,
+					    or
+					    employees)))))
+			(PP with
+			    (NP respect
+				(PP to
+				    (NP (ADJP such) 
+					payment))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *LRB*
+	  E
+	  *RRB*)
+      (S (NP (NP Any person)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP makes
+			  (NP application
+			      (PP for
+				  (NP any such payment)))))))
+	 (AUX shall)
+	 (VP be
+	     (VP held
+		 (S (NP *)
+		    (AUX to)
+		    (VP have
+			(VP consented
+			    (PP to
+				(NP all
+				    the provisions
+				    (PP of
+					(NP this Title)))))))))))
+   .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 F
+	 *RRB*)
+     (S (NP Nothing
+	    (PP in
+		(NP the Title)))
+	(AUX shall)
+	(VP be
+	    (VP construed
+		(PP as
+		    (NP the assumption
+			(PP of
+			    (NP any liability
+				(PP by
+				    (NP the United States))
+				(PP for
+				    (NP the payment
+					or
+					satisfaction
+					,
+					(PP (PP in
+						(NP whole))
+					    or
+					    (PP in
+						(NP part)))
+					,
+					(PP of
+					    (NP any claim))))))
+			(PP on
+			    (NP behalf
+				(PP of
+				    (NP any
+					(ADJP national)
+					(PP of
+					    (NP the United States))))))
+			(PP against
+			    (NP any foreign government))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Sec. 8
+      .)
+    )  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *LRB*
+	  A
+	  *RRB*)
+      (S (NP There
+	     (NP-2 *pseudo-attach*))
+	 (AUX are)
+	 (ADVP hereby)
+	 (VP created
+	     (PP in))
+	 (NP-2 (NP the Treasury
+		 (PP of
+		     (NP the United States)))
+	     (NP (NP *LRB*
+		     1
+		     *RRB*)
+		 (NP (NP a special fund)
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP known
+				(PP as
+				    (NP the Yugoslav Claims Fund)))))))
+	     ;
+	     ;
+	     and
+	     (NP *LRB*
+		 2
+		 *RRB*
+		 (NP (NP such other special
+			 funds)
+		     (PP as
+			 (S  (NP *)
+			     (AUX may)
+			     ,
+			     (PP in
+				 (NP the discretion
+				     (PP of
+					 (NP the Secretary
+					     (PP of
+						 (NP the Treasury))))))
+			     ,
+			     (VP be
+				 (VP required))))
+		     (NP (NP each)
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(NP (NP a claims
+					fund)
+				    (S (NP *)
+				       (AUX to)
+				       (VP be
+					   (VP known
+					       (PP by
+						   (NP the name
+						       (PP of
+							   (NP (NP the
+								   foreign
+								   government)
+							       (SBAR (WHNP which)
+								     (S (NP T) 
+									(AUX has)
+									(VP entered
+									    (PP into
+										(NP a settlement agreement
+										    (PP with
+											(NP the Government
+											    (PP of
+												(NP the United States)))))))
+									(PP as
+									    (S (NP *)
+									       (VP described
+										   (PP in
+										       (NP subsection
+											   *LRB*
+											   A
+											   *RRB*
+											   (PP of
+											       (NP Section 4
+												   (PP of
+												       (NP this Title)))))))))))))))))))))))))))
+   .)
+(X $) 
+(  END_OF_TEXT_UNIT)
+( (S (NP There
+	 (NP-3 *pseudo-attach*))
+     (AUX shall)
+     (VP be
+	 (VP covered
+	     (PP into
+		 (NP the Treasury))
+	     (PP to
+		 (NP the credit
+		     (PP of
+			 (NP the
+			     proper special
+			     fund))))))
+     (NP-3 (NP all funds)
+	 (ADVP hereinafter)
+	 (VP specified)))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP All payments)
+	    (VP authorized
+		(PP under
+		    (NP Section 7
+			(PP of
+			    (NP this Title))))))
+	(AUX shall)
+	(VP be
+	    (VP disbursed
+		(PP from
+		    (NP the proper fund
+			,))))
+	(PP as
+	    (S (NP the case)
+	       (AUX may)
+	       (VP be))))
+     ,
+     and
+     (S (NP (NP all amounts)
+	    (VP covered
+		(PP into
+		    (NP the Treasury))
+		(PP to
+		    (NP the credit
+			(PP of
+			    (NP the aforesaid funds))))))
+	(AUX are)
+	(ADVP hereby)
+	(ADVP permanently)
+	(VP appropriated
+	    (PP for
+		(NP the making
+		    (PP of
+			(NP (NP the payments)
+			    (VP authorized
+				(PP by
+				    (NP Section 7
+					(PP of
+					    (NP this Title))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *LRB*
+	  B
+	  *RRB*)
+      (S (NP The Secretary
+	     (PP of
+		 (NP the Treasury)))
+	 (AUX is)
+	 (VP  authorized
+	     and
+	     directed
+	     (S (NP *)
+		(AUX to)
+		(VP cover
+		    (PP into
+			--
+			(NP (NP (NP *LRB*
+				    1
+				    *RRB*)
+				(NP the Yugoslav Claims Fund))
+			    (NP-1 *pseudo-attach*)))
+		    (NP (NP (NP the sum
+				(PP of
+				    (NP $ 17,000,000)))
+			    (VP being
+				(NP (NP the amount)
+				    (VP paid
+					(PP by
+					    (NP the Government
+						(PP of
+						    (NP
+						     (NP the Federal People)
+						     's Republic
+						     (PP of
+							 (NP Yugoslavia))))))
+					(ADJP pursuant
+					      (PP to
+						  (NP the Yugoslav Claims Agreement
+						      (PP of
+							  (NP 1948)))))))))
+			 ;
+			 ;
+			 (NP-1 (NP *LRB*
+				 2
+				 *RRB*)
+			     (NP (NP a special fund)
+				 (VP created
+				     (PP for
+					 (NP that purpose))
+				     (ADJP pursuant
+					   (PP to
+					       (NP subsection
+						   *LRB*
+						   A
+						   *RRB*
+						   (PP of
+						       (NP this section)))))))))
+		    (NP (NP any amounts)
+			(ADVP hereafter)
+			(VP paid
+			    ,
+			    (PP in
+				(NP United States dollars))
+			    ,
+			    (PP by
+				(NP (NP a foreign government)
+				    (SBAR (WHNP which)
+					  (S (NP T) 
+					     (AUX has)
+					     (VP entered
+						 (PP into
+						     (NP a claims
+							 settlement agreement))
+						 (PP with
+						     (NP the Government
+							 (PP of
+							     (NP the United States)))))
+					     (PP as
+						 (S (NP *)
+						    (VP described
+							(PP in
+							    (NP subsection
+								*LRB*
+								A
+								*RRB*
+								(PP of
+								    (NP Section 4
+									(PP of
+									    (NP this Title))))))))))))))))))))
+   .)  
+(X $)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *LRB*
+	 C
+	 *RRB*)
+     (S (NP The Secretary
+	    (PP of
+		(NP the Treasury)))
+	(AUX is)
+	(VP authorized
+	    and
+	    directed
+	    (X (ADVP out
+		     (PP of
+			 (NP (NP the sums)
+			     (VP covered
+				 (PP into
+				     (NP any
+					 (PP of
+					     (NP the funds))))
+				 (ADJP pursuant
+				       (PP to
+					   (NP subsection
+					       *LRB*
+					       B
+					       *RRB*
+					       (PP of
+						   (NP this section)))))))))
+	       ,
+	       and
+	       (PP after
+		   (S (NP *)
+		      (VP making
+			  (NP (NP the deduction)
+			      (VP provided
+				  (PP for
+				      (PP in
+					  (NP Section 7
+					      *LRB*
+					      B
+					      *RRB*
+					      (PP of
+						  (NP this Title)))))))))))
+	    --
+	    (S (S (NP *LRB*   
+		     1
+		     *RRB*)
+		  (S (NP *)
+		     (AUX to)
+		     (VP make
+			 (NP payments
+			     (PP-2 *pseudo-attach*))
+			 (PP in
+			     (NP full))
+			 (PP-2 of
+			       (NP the principal
+				   (PP of
+				       (NP (NP awards
+					       (PP of
+						   (NP $ 1,000
+						       or
+						       less)))
+					   ,
+					   (VP certified
+					       (ADJP pursuant
+						     (PP to
+							 (NP Section 5  
+							     (PP of
+								 (NP this Title)))))))))))))
+	       ;
+	       ;
+	       (S (NP *LRB*
+		     2
+		     *RRB*)
+		  (S (NP *)
+		     (AUX to)
+		     (VP make
+			 (NP payments
+			     (PP of
+				 (NP $ 1,000))
+			     (PP on
+				 (NP the principal
+				     (PP of
+					 (NP (NP each award
+						 (PP of
+						     (NP (ADJP more
+							       (PP than))
+							 $ 1,000
+							 (PP in
+							     (NP principal amount)))))
+					     ,
+					     (VP certified
+						 (ADJP pursuant
+						       (PP to
+							   (NP Section 5
+							       (PP of
+								   (NP this Title))))))))))))))
+	       ;
+	       ;
+	       (S (NP *LRB*
+		     3
+		     *RRB*)
+		  (S (NP *)
+		     (AUX to)
+		     (VP make
+			 (NP additional payment
+			     (PP of
+				 (NP T)))
+			 (NEG not)
+			 (S (NP *)
+			    (AUX to)
+			    (VP exceed
+				(NP 25
+				    (PP per
+					(NP centum))
+				    (PP of
+					(NP the unpaid principal
+					    (PP of
+						(NP awards
+						    (PP in
+							(NP the principal amount
+							    (PP of
+								(NP (ADJP more
+									  (PP
+									   than))
+								    $ 1,000))))))))))))))
+	       ;
+	       ;
+	       (S (NP *LRB*
+		      4
+		      *RRB*)
+		  (S (PP after
+			 (S (NP *)
+			    (VP completing
+				(NP  (NP the payments)
+				     (VP prescribed
+					 (PP by
+					     (NP paragraphs
+						 *LRB*
+						 2
+						 *RRB*
+						 and
+						 *LRB*
+						 3
+						 *RRB*
+						 (PP of
+						     (NP this subsection)))))))))
+		     ,
+		     (S (NP *)
+			(AUX to)
+			(VP make
+			    (NP payments
+				(PP-3 *pseudo-attach*)
+				(PP-4 *pseudo-attach*))
+			    ,
+			    (PP (PP from
+				    (NP time))
+				(PP to
+				    (NP time)))
+			    (PP-3 in
+				  (NP ratable proportions))
+			    ,
+			    (PP-4 on
+				  (NP account
+				      (PP of
+					  (NP the unpaid principal
+					      (PP of
+						  (NP all awards
+						      (PP in
+							  (NP the principal amount
+							      (PP of
+								  (NP (ADJP more
+									    (PP
+									     than))
+								      $ 1,000)))))))))))))
+		  ,
+		  (S (NP *)
+		     (VP according
+			 (PP to
+			     (NP (NP the proportions)
+				 (SBAR (WHNP which)
+				       (S (NP the unpaid principal
+					      (PP of
+						  (NP such awards)))
+					  (VP bear
+					      (NP T)
+					      (PP to
+						  (NP the total amount
+						      (PP in
+							  (NP (NP the fund)
+							      (ADJP available
+								    (PP for
+									(NP distribution)
+									(PP at
+									    (NP (NP the time)
+										(SBAR 0
+										      (S (NP such payments)
+											 (AUX are)
+											 (VP made
+											     )))))))))))))))))))
+	       ;
+	       ;
+	       and
+	       (S (NP *LRB*
+		     5
+		     *RRB*)
+		  (S (PP after
+			 (S (NP payment)
+			    (AUX has)
+			    (VP been
+				(VP made
+				    (PP of
+					(NP the principal amounts
+					    (PP of
+						(NP all
+						    (PP OF
+							(NP such awards))))))))))
+		     ,
+		     (S (NP *)
+			(AUX to)
+			(VP make
+			    (NP pro rata payments)
+			    (PP on
+				(NP account
+				    (PP of
+					(NP accrued
+					    interest
+					    (PP on
+						(NP such awards
+						    (PP as
+							(S (NP *)
+							   (VP bear
+							       (NP
+								interest))))))))))))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *LRB*
+	  D
+	  *RRB*)
+      (S (NP The Secretary
+	     (PP of
+		 (NP the Treasury)))
+	 ,
+	 (PP upon
+	     (NP the concurrence
+		 (PP of
+		     (NP the Secretary
+			 (PP of
+			     (NP State))))))
+	 ,
+	 (AUX is)
+	 (VP authorized
+	     and
+	     directed
+	     ,
+	     (ADVP out
+		   (PP of
+		       (NP (NP the sum)
+			   (VP covered
+			       (PP into
+				   (NP the Yugoslav Claims Fund))
+			       (ADJP pursuant
+				     (PP to
+					 (NP subsection
+					     *LRB*
+					     B
+					     *RRB*
+					     (PP of
+						 (NP this section)))))))))
+	     ,
+	     (PP after
+		 (S (NP *)
+		    (VP completing
+			(NP the payments
+			    (PP of
+				(NP such funds)))
+			(ADJP pursuant
+			      (PP to
+				  (NP subsection
+				      *LRB*
+				      C
+				      *RRB*
+				      (PP of
+					  (NP this Section))))))))
+	     ,
+	     (S (NP *)
+		(AUX to)
+		(VP make
+		    (NP payment
+			(PP of
+			    (NP the balance
+				(PP of
+				    (NP (NP any sum)
+					(VP remaining
+					    (PP in
+						(NP such fund))))))))
+		    (PP to
+			(NP the Government
+			    (PP of
+				(NP
+				 (NP the Federal People)
+				 's Republic
+				 (PP of
+				     (NP Yugoslavia))))))
+		    (PP to
+			(NP (NP the extent)
+			    (VP required
+				(PP under
+				    (NP Article 1
+					*LRB*
+					C
+					*RRB*
+					(PP of
+					    (NP the Yugoslav Claims Agreement
+						(PP of
+						    (NP 1948))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP The Secretary
+	 (PP of
+	     (NP State)))
+     (AUX shall)
+     (VP certify
+	 (PP to
+	     (NP the Secretary
+		 (PP of
+		     (NP the Treasury))))
+	 (NP (NP the total cost
+		 (PP of
+		     (NP adjudication)))
+	     ,
+	     (NEG not)
+	     (VP borne
+		 (PP by
+		     (NP the claimants)))
+	     ,
+	     (ADJP attributable
+		   (PP to
+		       (NP the Yugoslav Claims Agreement
+			   (PP of
+			       (NP 1948))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Such certification)
+    (X (X (AUX shall)
+	  (VP be
+	      (ADJP (ADJP final)
+		    and
+		    (ADJP conclusive))))
+       and
+       (X (AUX shall)
+	  (NEG not)
+	  (VP be
+	      (ADJP subject
+		    (S (NP *)
+		       (AUX to)
+		       (VP review
+			   (PP by
+			       (NP any other official
+				   or
+				   department
+				   ,
+				   agency
+				   ,
+				   or
+				   establishment
+				   (PP of
+				       (NP the United States)))))))))))
+ .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Sec. 9
+      .)
+    )  
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (AUX is)
+     (ADVP hereby)
+     (VP authorized
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(VP appropriated
+		    ,
+		    (PP out
+			(PP of
+			    (NP (NP any money
+				    (PP in
+					(NP the Treasury)))
+				(NEG not)
+				(VP (ADVP otherwise)
+				    appropriated))))
+		    ,
+		    (NP such sums
+			(PP as
+			    (S  (NP *) 
+				(AUX may)
+				(VP be
+				    (ADJP necessary
+					  (S (NP *)
+					     (AUX to)
+					     (VP enable
+						 (NP the Commission)
+						 (S (NP *)
+						    (AUX to)
+						    (VP carry
+							(PRT out)
+							(NP its functions
+							    (PP under
+								(NP this
+								    Title)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2505 @@
+
+ 
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (JJ many) (JJ linguistic) (NNS techniques)
+            (PP (IN for)
+                (S (NP (-NONE- *))
+                   (VP (VBG reducing)
+                       (NP (DT the) (NN amount)
+                           (PP (IN of)
+                               (NP (NN dictionary) (NN information))))))))
+        (SBAR
+              (WHNP (WDT that))
+              (S (NP (-NONE- T))
+                 (AUX (VBP have))
+                 (VP (VBN been)
+                     (VP (VBN proposed)
+                         )))))
+    (DT all)
+    (VP (VBP organize)
+        (NP
+            (NP (DT the) (NN dictionary))
+            (POS 's) (NNS contents))
+        (PP (IN around)
+            (NP (NP (NNS prefixes))
+                (, ,)
+                (NP (NNS stems))
+                (, ,)
+                (NP (NNS suffixes))
+                (, ,)
+                (FW etc)
+                (. .)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ significant) (NN reduction)
+        (PP (IN in)
+            (NP (DT the) (NN voume)
+                (PP (IN of)
+                    (NP (NN store) (NN information))))))
+    (AUX (VBZ is))
+    (ADVP (RB thus))
+    (VP (VBN realized)
+        )
+    (, ,)
+    (PP (ADVP (RB especially))
+        (IN for)
+        (NP (NP (DT a)
+                (ADJP (ADVP (RB highly))
+                      (JJ inflected)) (NN language))
+            (ADJP (JJ such)
+                  (PP (IN as)
+                      (NP (NNP Russian)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (NNP English)))
+    (S (NP (DT the) (NN reduction)
+           (PP (IN in)
+               (NP (NN size))))
+       (VP (VBZ is)
+           (ADJP (RBR less)
+                 (JJ striking)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN approach))
+    (VP (VBZ requires)
+        (SBAR (IN that)
+              (: :)
+              (S (S (-LRB- -LRB-)
+                    (NP (LS 1))
+                    (-RRB- -RRB-)
+                    (S (NP (DT each) (NN text) (NN word))
+                       (AUX (VB be))
+                       (VP (VBN separated)
+                           
+                           (PP (IN into)
+                               (NP
+                                   (JJR smaller)
+                                   (NNS elements))))
+                       (S (NP (-NONE- *))
+                          (AUX (TO to))
+                          (VP (VB establish)
+                              (NP (DT a) (NN correspondence)
+                                  (PP (IN between)
+                                      (NP (NP (DT the) (NN occurrence)) (CC and) (NP (NN dictionary) (NNS entries)))))))))
+                 (, ,)
+                 (CC and)
+                 (S (-LRB- -LRB-)
+                    (NP (LS 2))
+                    (-RRB- -RRB-)
+                    (S (NP (NP (DT the) (NN information))
+                           (VP (VBN retrieved)
+                               (PP (IN from)
+                                   (NP (JJ several) (NNS entries)
+                                       (PP (IN in)
+                                           (NP (DT the) (NN dictionary)))))))
+                       (AUX (VB be))
+                       (VP (VBN synthesized)
+                           
+                           (PP (IN into)
+                               (NP (DT a) (NN description)
+                                   (PP (IN of)
+                                       (NP (DT the) (JJ particular) (NN word))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ logical) (NN scheme))
+        (VP (VBN used)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB accomplish)
+                   (NP (DT the) (JJ former))))))
+    (VP (NNS influences)
+        (NP (DT the) (NN placement)
+            (PP (IN of)
+                (NP (NN information)))
+            (PP (IN in)
+                (NP (DT the) (NN dictionary) (NN file))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Implementation)
+        (PP (IN of)
+            (NP (DT the) (NN latter))))
+    (VP (VBZ requires)
+        (NP (NN storage)
+            (PP (IN of)
+                (NP (NP (NN information))
+                    (VP (VBN needed)
+                        (ADVP (RB only))
+                        (PP (IN for)
+                            (NP (NN synthesis)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP suggest)
+        (NP (DT the) (NN application)
+            (PP (IN of)
+                (NP
+                    (JJ certain) (JJ data-processing)
+                    (NNS techniques))))
+        (PP (IN as)
+            (NP (DT a) (NN solution)
+                (PP (TO to)
+                    (NP (DT the) (NN problem)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (ADVP (RB first))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD must))
+       (VP (VB define)
+           (NP (NP (CD two) (NNS terms))
+               (NP-1 (-NONE- *pseudo-attach*)))
+           (SBAR (IN so)
+                 (IN that)
+                 (S (NP (PRP$ their) (NN meaning))
+                    (AUX (MD will))
+                    (VP (VB be)
+                        (VP (ADVP (RB clearly))
+                            (VBN understood)
+                            ))))
+           (: :)
+           (NP-1 (NP (NP (NN form))
+                     (: --)
+                     (NP (NP (DT any) (JJ unique) (NN sequence)
+                             (PP (IN of)
+                                 (NP (JJ alphabetic) (NNS characters))))
+                         (SBAR
+                               (WHNP (WDT that))
+                               (S (NP (-NONE- T))
+                                  (AUX (MD can))
+                                  (VP (VB appear)
+                                      (PP (IN in)
+                                          (NP (DT a) (NN language)))
+                                      (VP (VBN preceded)
+                                          (CC and)
+                                          (VBN followed)
+                                          (PP (IN by)
+                                              (NP (DT a) (NN space)))))))))
+                 (: ;)
+                 (: ;)
+                 (NP (NP (NN occurrence))
+                     (: --)
+                     (NP (DT an) (NN instance)
+                         (PP (IN of)
+                             (NP (DT a) (NN form)))
+                         (PP (IN in)
+                             (NP (NN text)))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (PRP We))
+    (VP (VBP propose)
+        (NP (NP (DT a) (NN method)
+                (PP (IN for)
+                    (S (NP (-NONE- *))
+                       (VP (VBG selecting)
+                           (NP (ADVP (JJ only))
+                               (NP (NN dictionary) (NN information))
+                               (VP (VBN required)
+                                   (PP (IN by)
+                                       (NP (NP (DT the) (NN text))
+                                           (VP (VBG being)
+                                               (VP (VBN translated)))))))))))
+            (CC and)
+            (NP (DT a) (NN means)
+                (PP (IN for)
+                    (S (NP (-NONE- *))
+                       (VP (VBG passing)
+                           (NP (DT the) (NN information))
+                           (PP (ADVP (RB directly))
+                               (TO to)
+                               (NP (DT the) (NNS occurrences)
+                                   (PP (IN in)
+                                       (NP (NN text))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP accomplish)
+        (NP (DT this))
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG compiling)
+                   (NP (DT a) (NN list)
+                       (PP (IN of)
+                           (NP (NN text) (NNS forms)))))
+               (SBAR (IN as)
+                     (S
+                        (NP (NN text))
+                        (AUX (VBZ is))
+                        (VP (VBN read)
+                            
+                            (PP (IN by)
+                                (NP (DT the) (NN computer))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (JJ random-storage) (NN scheme))
+        (, ,)
+        (VP (VBN based)
+            (PP (IN on)
+                (NP (DT the) (NN spelling)
+                    (PP (IN of)
+                        (NP (NNS forms))))))
+        (, ,))
+    (VP (VBZ provides)
+        (NP (NP (DT an) (JJ economical) (NN way))
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB compile)
+                   (NP (DT this) (NN text-form) (NN list)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (NN Dictionary) (NNS forms))
+        (VP (VBN found)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB match)
+                   (NP (NNS forms)
+                       (PP (IN in)
+                           (NP (DT the) (NN text) (NN list))))))))
+    (AUX (VBP are))
+    (VP (VBN marked)
+        ))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT A) (NN location)
+           (PP (IN in)
+               (NP (DT the) (NN computer) (NN store))))
+       (AUX (VBZ is))
+       (ADVP (RB also))
+       (VP (VBN named)
+           )
+       (PP (IN for)
+           (NP (DT each) (VP (JJ marked)) (NN form))))
+    (: ;)
+    (: ;)
+    (S (NP (NP (NN dictionary) (NN information)
+               (PP (IN about)
+                   (NP (DT the) (NN form))))
+           (VP (VBN stored)
+               (PP (IN at)
+                   (NP (DT this) (NN location)))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN retrieved)
+               (ADVP (RB directly))
+               (PP (IN by)
+                   (NP (NNS occurrences)
+                       (PP (IN of)
+                           (NP (DT the) (NN form)))
+                       (PP (IN in)
+                           (NP (NN text)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Finally))
+    (, ,)
+    (S (NP (NN information))
+       (AUX (VBZ is))
+       (VP (VBN retrieved)
+           
+           (PP (IN from)
+               (NP (DT the) (NN dictionary)))
+           (PP (IN as)
+               (S (NP (-NONE- *))
+                  (VP (VBN required)
+                      (PP (IN by)
+                          (NP (NP (NNS stages)
+                                  (PP (IN of)
+                                      (NP (DT the) (NN translation) (NN process))))
+                              (: --)
+                              (NP (NP (DT the) (JJ grammatical) (NN description)
+                                      (PP (IN for)
+                                          (NP (JJ sentence-structure) (NN determination))))
+                                  (, ,)
+                                  (NP (JJ equivalent-choice) (NN information)
+                                      (PP (IN for)
+                                          (NP (JJ semantic) (NN analysis))))
+                                  (, ,)
+                                  (CC and)
+                                  (NP (NN target-language) (NNS equivalents)
+                                      (PP (IN for)
+                                          (NP (NN output) (NN construction)))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN dictionary))
+    (VP (VBZ is)
+        (NP (DT a) (NN form) (NN dictionary)))
+    (, ,)
+    (PP
+        (PP (IN at)
+            (ADJP (RBS least)))
+        (IN in)
+        (NP (DT the) (NN sense)
+            (SBAR (IN that)
+                  (S (NP (JJ complete) (NNS forms))
+                     (AUX (VBP are))
+                     (VP (VBN used)
+                         
+                         (PP (IN as)
+                             (NP (DT the) (NN basis)
+                                 (PP (IN for)
+                                     (S (NP (-NONE- *))
+                                        (VP (VBG matching)
+                                            (NP (NN text) (NNS occurrences))
+                                            (PP (IN with)
+                                                (NP (NN dictionary) (NNS entries))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Also))
+    (, ,)
+    (S (NP (DT the) (NN dictionary))
+       (AUX (VBZ is))
+       (VP (VBN divided)
+           
+           (PP (IN into)
+               (NP (NP (PP (IN at)
+                           (ADJP (JJS least)))
+                       (CD two) (NNS parts))
+                   (: :)
+                   (NP (NP (DT the) (NN list)
+                           (PP (IN of)
+                               (NP (NN dictionary) (NNS forms))))
+                       (CC and)
+                       (NP (DT the) (NN file)
+                           (PP (IN of)
+                               (NP (NP (NN information))
+                                   (SBAR
+                                         (WHNP (WDT that))
+                                         (S (NP (-NONE- T))
+                                            (VP (VBZ pertains)
+                                                (PP (TO to)
+                                                    (NP (DT these) (NNS forms)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A)
+        (ADJP (RBR more)
+              (JJ detailed)) (NN description)
+        (PP (IN of)
+            (NP (NP (NN dictionary) (NNS operations))
+                (: --)
+                (NP (NP (NN text) (NN lookup)) (CC and) (NP (NN dictionary) (NN modification)))
+                (: --))))
+    (VP (VBZ gives)
+        (NP (DT a)
+            (JJR clearer)
+            (NN picture))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (NN Text) (NN lookup))
+        (, ,)
+        (PP (IN as)
+            (S (NP (PRP we))
+               (AUX (MD will))
+               (VP (VB describe)
+                   (NP (PRP it)))))
+        (, ,))
+    (VP (VBZ consists)
+        (PP (IN of)
+            (NP (CD three) (NNS steps)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (JJ first))
+    (VP (VBZ is)
+        (S (NP (-NONE- *))
+           (VP (VP (VBG compiling)
+                   (NP (DT a) (NN list)
+                       (PP (IN of)
+                           (NP (NN text) (NNS forms)))))
+               (, ,)
+               (VP (VBG assigning)
+                   (NP (DT an) (NN information) (NN cell))
+                   (PP (TO to)
+                       (NP (DT each))))
+               (, ,)
+               (CC and)
+               (VP (VBG replacing)
+                   (NP (NN text) (NNS occurrences))
+                   (PP (IN with)
+                       (NP (NP (DT the) (NN information) (NN cell))
+                           (VP (VBN assigned)
+                               (PP (TO to)
+                                   (NP (DT the) (NN form)
+                                       (PP (IN of)
+                                           (NP (DT each) (NN occurrence)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (PP (IN For)
+           (NP (DT this) (NN step)))
+       (S
+          (NP (DT the) (NN computer) (NN memory))
+          (AUX (VBZ is))
+          (VP (VBN separated)
+              
+              (PP (IN into)
+                  (NP (CD three) (NNS regions))))))
+    (: :)
+    (S (S (NP (NNS cells)
+              (PP (IN in)
+                  (NP (DT the) (NN W-region))))
+          (AUX (VBP are))
+          (VP (VBN used)
+              (PP (IN for)
+                  (NP (NN storage)
+                      (PP (IN of)
+                          (NP (DT the) (NNS forms)
+                              (PP (IN in)
+                                  (NP (DT the) (NN text-form) (NN list)))))))))
+       (: ;)
+       (: ;)
+       (S
+          (NP (NNS cells)
+              (PP (IN in)
+                  (NP (DT the) (NN X-region)
+                      (CC and)
+                      (NNP Y) (NN region))))
+          (AUX (VBP are))
+          (VP (VBN reserved)
+              
+              (PP (IN as)
+                  (NP (NN information) (NNS cells)
+                      (PP (IN for)
+                          (NP (NN text) (NNS forms)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT an) (NN occurrence) (-NONE- A[fj]))
+             (AUX (VBZ is))
+             (VP (VBN isolated)
+                 )
+             (PP (IN during)
+                 (NP (NN text) (NN reading)))))
+    (, ,)
+    (S (NP (NP (DT a) (JJ random) (NN memory) (NN address) (-NONE- A[fj]))
+           (, ,)
+           (NP (DT the) (NN address)
+               (PP (IN of)
+                   (NP (DT a) (NN cell)
+                       (PP (IN in)
+                           (NP (DT the) (NN X-region))))))
+           (, ,))
+       (AUX (VBZ is))
+       (VP (VBN computed)
+           
+           (PP (IN from)
+               (NP (DT the) (NN form)
+                   (PP (IN of)
+                       (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (-NONE- A[fj]))
+        (VP (VB denote)
+            (NP (DT the) (NN form)
+                (PP (IN of)
+                    (NP (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (NN cell) (-NONE- A[fj]))
+             (AUX (VBZ has))
+             (NEG (RB not))
+             (ADVP (RB previously))
+             (VP (VBN been)
+                 (VP (VBN assigned)
+                     
+                     (PP (IN as)
+                         (NP (DT the) (NN information) (NN cell)
+                             (PP (IN of)
+                                 (NP (DT a) (NN form)
+                                     (PP (IN in)
+                                         (NP (DT the) (NN text-form) (NN list)))))))))))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (VBZ is))
+       (ADVP (RB now))
+       (VP (VBN assigned)
+           
+           (PP (IN as)
+               (NP (DT the) (NN information) (NN cell)
+                   (PP (IN of)
+                       (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT The) (NN form))
+        (NP (PRP itself)))
+    (AUX (VBZ is))
+    (VP (VBN stored)
+        
+        (PP (IN in)
+            (NP (DT the)
+                (JJ next) (JJ available)
+                (NNS cells)
+                (PP (IN of)
+                    (NP (DT the) (NN W-region)))))
+        (, ,)
+        (VP (VBG beginning)
+            (PP (IN in)
+                (NP (NN cell) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NP (DT The) (NN address) (-NONE- A[fj]))
+           (CC and)
+           (NP (NP (DT the) (NN number)
+                   (PP (IN of)
+                       (NP (NNS cells))))
+               (VP (VBN required)
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB store)
+                          (NP (DT the) (NN form)))))))
+       (AUX (VBP are))
+       (VP (VBN written)
+           
+           (PP (IN in)
+               (NP (-NONE- A[fj])))))
+    (: ;)
+    (: ;)
+    (S (NP (DT the) (NN information) (NN cell) (-NONE- A[fj]))
+       (AUX (VBZ is))
+       (VP (VBN saved))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB represent)
+              (NP (DT the) (NN text) (NN occurrence))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Text) (NN reading))
+    (VP (VBZ continues)
+        (PP (IN with)
+            (NP (DT the) (JJ next) (NN occurrence)))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (PRP us))
+        (VP (VB assume)
+            (SBAR (IN that)
+                  (S (NP (-NONE- A[fj]))
+                     (VP (VBZ is)
+                         (ADJP (JJ identical)
+                               (PP (TO to)
+                                   (NP (DT the) (NN form)
+                                       (PP (IN of)
+                                           (NP (NP (DT an) (NN occurrence) (-NONE- A[fj]))
+                                               (SBAR
+                                                     (WHNP (WDT which))
+                                                     (S (NP (-NONE- T))
+                                                        (VP (VBD preceded)
+                                                            (NP (-NONE- A[fj]))
+                                                            (PP (IN in)
+                                                                (NP (DT the) (NN text)))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT this) (NN situation))
+             (VP (VBZ exists))))
+    (, ,)
+    (S (NP (DT the) (NN address) (-NONE- A[fj]))
+       (AUX (MD will))
+       (VP (VB equal)
+           (NP (NP (-NONE- A[fj]))
+               (SBAR
+                     (WHNP (WDT which))
+                     (S (NP (-NONE- T))
+                        (AUX (VBD was))
+                        (VP (VBN produced)
+                            
+                            (PP (IN from)
+                                (NP (-NONE- A[fj]))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (-NONE- A[fj]))
+             (AUX (VBD was))
+             (VP (VBN assigned)
+                 
+                 (PP (IN as)
+                     (NP (DT the) (NN information) (NN cell)
+                         (PP (IN for)
+                             (NP (-NONE- A[fj]))))))))
+    (, ,)
+    (S (NP (DT the) (NN routine))
+       (AUX (MD can))
+       (VP (VB detect)
+           (SBAR (IN that)
+                 (S (NP (-NONE- A[fj]))
+                    (VP (VBZ is)
+                        (ADJP (JJ identical)
+                              (PP (TO to)
+                                  (NP (-NONE- A[fj])))))))
+           (PP (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VBG comparing)
+                      (NP (-NONE- A[fj]))
+                      (PP (IN with)
+                          (NP (NP (DT the) (NN form))
+                              (VP (VBN stored)
+                                  (PP (IN at)
+                                      (NP (NN location) (-NONE- A[fj]))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN address) (-NONE- A[fj]))
+    (AUX (VBZ is))
+    (VP (VBN stored)
+        
+        (PP (IN in)
+            (NP (DT the) (NN cell) (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (WHADVP (WRB When))
+          (S (, ,)
+             (PP (IN as)
+                 (PP (IN in)
+                     (NP (DT this) (NN case))))
+             (, ,)
+             (S (NP (DT the) (CD two) (NNS forms))
+                (VP (VBP match)))))
+    (, ,)
+    (S (NP (DT the) (NN address) (-NONE- A[fj]))
+       (AUX (VBZ is))
+       (VP (VBN saved)
+           )
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB represent)
+              (NP (DT the) (NN occurrence) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Text) (NN reading))
+    (VP (VBZ continues)
+        (PP (IN with)
+            (NP (DT the) (JJ next) (NN occurrence)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ third) (NN situation))
+    (VP (VBZ is)
+        (ADJP (JJ possible))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN formula)
+        (PP (IN for)
+            (S (NP (-NONE- *))
+               (VP (VBG computing)
+                   (NP (JJ random) (NNS addresses))
+                   (PP (IN from)
+                       (NP (DT the) (NN form)
+                           (PP (IN of)
+                               (NP (DT each) (NN occurrence)))))))))
+    (AUX (MD will))
+    (NEG (RB not))
+    (VP (VB give)
+        (NP (DT a) (JJ distinct) (NN address))
+        (PP (IN for)
+            (NP (DT each) (JJ distinct) (NN form)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (SBAR (WHADVP (WRB when))
+          (S
+             (NP (ADJP (JJR more)
+                       (PP (IN than)
+                           (NP (CD one))))
+                 (JJ distinct) (NN form))
+             (VP (VBZ leads)
+                 (PP (TO to)
+                     (NP (DT a) (JJ particular) (NN cell)
+                         (PP (IN in)
+                             (NP (DT the) (NN X-region))))))))
+    (, ,)
+    (S (NP (NP (DT a) (NN chain)
+               (PP (IN of)
+                   (NP (NN information) (NNS cells))))
+           (NP-2 (-NONE- *pseudo-attach*)))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN created)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB accommodate)
+              (NP (DT the) (NNS forms))))
+       (, ,)
+       (NP-2 (CD one) (NN cell)
+             (PP (IN in)
+                 (NP (DT the) (NN chain)))
+             (PP (IN for)
+                 (NP (DT each) (NN form))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (-NONE- A[fj]))
+             (VP (VBZ leads)
+                 (PP (TO to)
+                     (NP (NP (DT an) (NN address) (-NONE- A[fj]))
+                         (SBAR
+                               (WHNP (WDT that))
+                               (S (NP (-NONE- T))
+                                  (VP (VBZ is)
+                                      (ADJP (JJ equal)
+                                            (PP (TO to)
+                                                (NP (NP (DT the) (NN address))
+                                                    (VP (VBN computed)
+                                                        (PP (IN from)
+                                                            (NP (-NONE- A[fj])))))))))))))))
+    (, ,)
+    (SBAR (ADVP (RB even))
+          (IN though)
+          (S (NP (-NONE- A[fj]))
+             (AUX (VBZ does))
+             (NEG (RB not))
+             (VP (VB match)
+                 (NP (-NONE- A[fj])))))
+    (, ,)
+    (S (NP (DT the) (NN chain)
+           (PP (IN of)
+               (NP (NN information) (NNS cells))))
+       (AUX (VBZ is))
+       (VP (VBN extended)
+           
+           (PP (IN from)
+               (NP (-NONE- A[fj])))
+           (PP (IN by)
+               (S (NP (-NONE- *))
+                  (VP (VBG storing)
+                      (NP (DT the) (NN address)
+                          (PP (IN of)
+                              (NP (NP (DT the)
+                                      (JJ next) (JJ available)
+                                      (NN cell)
+                                      (PP (IN in)
+                                          (NP (DT the) (NN Y-region))))
+                                  (, ,)
+                                  (NP (-NONE- A[fj]))
+                                  (, ,))))
+                      (PP (IN in)
+                          (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN cell) (-NONE- A[fj]))
+    (X (VP (VBZ becomes)
+           (NP (DT the) (JJ second) (NN information) (NN cell)
+               (PP (IN in)
+                   (NP (DT the) (NN chain)))))
+       (CC and)
+       (X
+          (AUX (VBZ is))
+          (VP (VBN assigned)
+              
+              (PP (IN as)
+                  (NP (DT the) (NN information) (NN cell)
+                      (PP (IN of)
+                          (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT A) (JJ third) (NN cell))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN added)
+               
+               (PP (IN by)
+                   (S (NP (-NONE- *))
+                      (VP (VBG storing)
+                          (NP (DT the) (NN address)
+                              (PP (IN of)
+                                  (NP (DT another) (NNP Y-cell))))
+                          (PP (IN in)
+                              (NP (-NONE- A[fj])))))))))
+    (: ;)
+    (: ;)
+    (S (ADVP (RB similarly))
+       (, ,)
+       (NP (ADJP (IN as)
+                 (JJ many)) (NNS cells)
+           (PP-1 (-NONE- *pseudo-attach*)))
+       (AUX (VBP are))
+       (VP (VBN added)
+           (PP-1 (RB as)
+                 (S (NP (-NONE- *))
+                    (AUX (VBP are))
+                    (VP (VBN required)
+                        ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN information) (NN cell)
+        (PP (IN in)
+            (NP (DT the) (NN chain))))
+    (VP (VBZ contains)
+        (NP (DT the) (NN address)
+            (PP (IN of)
+                (NP (NP (DT the) (NN Y-cell))
+                    (SBAR
+                          (WHADVP (WRB where))
+                          (S (NP (NP (DT the) (NN form))
+                                 (SBAR (WHPP (TO to)
+                                             (WHNP (WDT which)))
+                                       (S (NP (PRP it))
+                                          (AUX (VBZ is))
+                                          (VP (VBN assigned)
+                                              ))))
+                             (AUX (VBZ is))
+                             (VP (VBN stored)
+                                 ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT Each) (NN cell)
+           (PP (IN except)
+               (NP (DT the)
+                   (JJ last)
+                   (PP (IN in)
+                       (NP (DT the) (NN chain))))))
+       (ADVP (RB also))
+       (VP (VBZ contains)
+           (NP (DT the) (NN address)
+               (PP (IN of)
+                   (NP (NP (DT the) (NN Y-cell))
+                       (SBAR
+                             (WHNP (WDT that))
+                             (S (NP (-NONE- T))
+                                (VP (VBZ is)
+                                    (NP (DT the) (JJ next) (NN element)
+                                        (PP (IN of)
+                                            (NP (DT the) (NN chain))))))))))))
+    (: ;)
+    (: ;)
+    (S
+       (NP (DT the) (NN absence)
+           (PP (IN of)
+               (NP (JJ such)
+                   (DT a) (NN link)))
+           (PP (IN in)
+               (NP (DT the) (JJ last) (NN cell))))
+       (VP (VBZ indicates)
+           (NP (DT the) (NN end)
+               (PP (IN of)
+                   (NP (DT the) (NN chain)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (DT the) (NN address) (-NONE- A[fj]))
+             (AUX (VBZ is))
+             (VP (VBN computed)
+                 
+                 (PP (IN from)
+                     (NP (-NONE- A[fj]))))))
+    (, ,)
+    (S
+       (NP (NP (DT the) (NN cell) (-NONE- A[fj]))
+           (CC and)
+           (NP (DT all) (NNS Y-cells)
+               (PP (IN in)
+                   (NP (PRP$ its) (NN chain)))))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN inspected)
+               ))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB determine)
+              (SBAR (SBAR (IN whether)
+                          (S (NP (-NONE- A[fj]))
+                             (VP (VBZ is)
+                                 (ADVP (RB already))
+                                 (PP (IN in)
+                                     (NP (DT the) (NN form) (NN list))))))
+                    (CC or)
+                    (SBAR (IN whether)
+                          (S (NP (PRP it))
+                             (AUX (MD should))
+                             (VP (VB be)
+                                 (VP (VBN added)
+                                     (PP (TO to)
+                                         (NP (NP (DT the) (NN form) (NN list))
+                                             (CC and)
+                                             (NP (DT the) (NN chain)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN information) (NN cell)
+                 (PP (IN for)
+                     (NP (-NONE- A[fj]))))
+             (AUX (VBZ has))
+             (VP (VBN been)
+                 (VP (VBN determined)
+                     ))))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (VBZ is))
+       (VP (VBN saved)
+           
+           (PP (IN as)
+               (NP (DT a) (NN representation)
+                   (PP (IN of)
+                       (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Text) (NN reading))
+    (VP (VBZ continues)
+        (PP (IN with)
+            (NP (DT the) (JJ next) (NN occurrence)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NN Text) (NN reading))
+    (AUX (VBZ is))
+    (VP (VBN terminated)
+        )
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (DT a) (VP (JJ pre-determined)) (NN number)
+                 (PP (IN of)
+                     (NP (NNS forms))))
+             (AUX (VBP have))
+             (VP (VBN been)
+                 (VP (VBN stored)
+                     
+                     (PP (IN in)
+                         (NP (DT the) (NN text-form) (NN list))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ initiates)
+        (NP (DT the) (JJ second) (NN step)
+            (PP (IN of)
+                (NP (NN glossary) (NN lookup)))))
+    (: --)
+    (S (NP (-NONE- *))
+       (VP (VBG connecting)
+           (NP (DT the) (NN information) (NN cell)
+               (PP (IN of)
+                   (NP (NNS forms)
+                       (PP (IN in)
+                           (NP (DT the) (NN text-form) (NN list))))))
+           (PP (TO to)
+               (NP (NN dictionary) (NNS forms))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT Each) (NN form))
+        (VP (VBN represented)
+            (PP (IN by)
+                (NP (DT the) (NN dictionary)))))
+    (AUX (VBZ is))
+    (VP (VBN looked)
+        (PRT (RB up))
+        (PP (IN in)
+            (NP (DT the) (NN text-form) (NN list)))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT Each) (NN time)
+        (SBAR (-NONE- 0)
+              (S
+                 (NP (DT a) (NN dictionary) (NN form))
+                 (VP (VBZ matches)
+                     (NP (DT a) (NN text) (NN form))))))
+    (, ,)
+    (S (NP (DT the) (NN information) (NN cell)
+           (PP (IN of)
+               (NP (DT the) (VP (VBG matching)) (NN text) (NN form))))
+       (AUX (VBZ is))
+       (VP (VBN saved)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN number)
+            (PP (IN of)
+                (NP (NN dictionary) (NNS forms))))
+        (VP (VBD skipped)
+            (PP (IN since)
+                (S (NP (DT the)
+                       (JJ last)
+                       (CD one))
+                   (VP (VBN matched))))))
+    (AUX (VBZ is))
+    (ADVP (RB also))
+    (VP (VBN saved)
+        ))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT These) (CD two) (NNS pieces)
+        (PP (IN of)
+            (NP (NN information)))
+        (PP (IN for)
+            (NP (NP (DT each) (NN dictionary) (NN form))
+                (SBAR
+                      (WHNP (WDT that))
+                      (S (NP (-NONE- T))
+                         (AUX (VBZ is))
+                         (VP (VBN matched)
+                             
+                             (PP (IN by)
+                                 (NP (DT a) (NN text) (NN form)))))))))
+    (VP (VBP constitute)
+        (NP (DT the) (NN table)
+            (PP (IN of)
+                (NP (NN dictionary) (NN usage))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT each) (NN text) (NN form))
+             (AUX (VBZ is))
+             (VP (VBN marked)
+                 (SBAR (WHADVP (WRB when))
+                       (S (NP (-NONE- *))
+                          (VP (VBN matched))))
+                 (PP (IN with)
+                     (NP (DT a) (NN dictionary) (NN form))))))
+    (, ,)
+    (S (NP (NP (DT the) (NN text) (NNS forms))
+           (VP (NEG (RB not))
+               (VBN contained)
+               (PP (IN in)
+                   (NP (DT the) (NN dictionary)))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN identified)
+               ))
+       (SBAR
+             (WHADVP (WRB when))
+             (S (NP (DT all) (NN dictionary) (NNS forms))
+                (AUX (VBP have))
+                (VP (VBN been)
+                    (VP (VBN read)
+                        ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (JJ appropriate) (NN action)
+        (PP (IN for)
+            (S (NP (-NONE- *))
+               (VP (VBG handling)
+                   (NP (DT these) (NNS forms))))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN taken)
+            ))
+    (PP (IN at)
+        (NP (DT that) (NN time))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN dictionary) (NN form))
+    (AUX (VBZ is))
+    (VP (VBN looked)
+        (PRT (RB up))
+        (PP (IN in)
+            (NP (DT the) (NN text-form) (NN list)))
+        (PP (IN by)
+            (NP (NP (DT the) (JJ same) (NN method))
+                (VP (VBN used)
+                    (S (NP (-NONE- *))
+                       (AUX (TO to))
+                       (VP (VB look)
+                           (PRT (RP up))
+                           (NP (DT a) (JJ new) (NN text) (NN occurrence))
+                           (PP (IN in)
+                               (NP (DT the) (NN form) (NN list))))
+                       (PP (IN during)
+                           (NP (NN text) (NN reading)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT A) (JJ random) (NN address) (-NONE- A[fj]))
+        (SBAR
+              (WHNP (WDT that))
+              (S (NP (-NONE- T))
+                 (VP (VBZ lies)
+                     (PP (IN within)
+                         (NP (NP (DT the) (NN X-region)
+                                 (PP (IN of)
+                                     (NP (NN memory))))
+                             (VP (VBN mentioned)
+                                 (ADVP (RB earlier)))))))))
+    (AUX (VBZ is))
+    (VP (VBN computed)
+        
+        (PP (IN from)
+            (NP (DT the) (NN i-th) (NN dictionary) (NN form)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (NN cell) (-NONE- A[fj]))
+             (VP (VBZ is)
+                 (NP (DT an) (NN information) (NN cell)))))
+    (, ,)
+    (S (NP (NP (PRP it))
+           (CC and)
+           (NP (NP (DT any) (NN information) (NNS cells)
+                   (PP (IN in)
+                       (NP (DT the) (NN Y-region))))
+               (SBAR
+                     (WHNP (WDT that))
+                     (S (NP (-NONE- T))
+                        (AUX (VBP have))
+                        (VP (VBN been)
+                            (VP (VBN linked)
+                                
+                                (PP (TO to)
+                                    (NP (-NONE- A[fj])))))))))
+       (DT each)
+       (VP (VBP contain)
+           (NP (NP (DT an) (NN address)
+                   (PP (IN in)
+                       (NP (DT the) (NN W-region))))
+               (SBAR
+                     (WHADVP (WRB where))
+                     (S (NP (DT a)
+                            (VP (ADVP (RB potentially))
+                                (JJ matching)) (NN form))
+                        (AUX (VBZ is))
+                        (VP (VBN stored)
+                            )))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN dictionary) (NN form))
+    (AUX (VBZ is))
+    (VP (VBN compared)
+        
+        (PP (IN with)
+            (NP (DT each)
+                (PP (IN of)
+                    (NP (DT these) (NN text) (NNS forms)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT a) (NN match))
+             (AUX (VBZ is))
+             (VP (VBN found)
+                 )))
+    (, ,)
+    (S (NP (DT an) (NN entry))
+       (AUX (VBZ is))
+       (VP (VBN made)
+           
+           (PP (IN in)
+               (NP (DT the) (NN table)
+                   (PP (IN of)
+                       (NP (NN dictionary) (NN usage))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (NN cell) (-NONE- A[fj]))
+             (VP (VBZ is)
+                 (NEG (RB not))
+                 (NP (DT an) (NN information) (NN cell)))))
+    (S
+       (NP (PRP we))
+       (VP (VBP conclude)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN i-th) (NN dictionary) (NN form))
+                    (VP (VBZ is)
+                        (NEG (RB not))
+                        (PP (IN in)
+                            (NP (DT the) (NN text) (NN list)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT These) (CD two) (NNS steps))
+    (VP (ADVP (RB essentially))
+        (VBP complete)
+        (NP (DT the) (NN lookup) (NN operation))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ final) (NN step))
+    (VP (VP (ADVP (RB merely))
+            (VBZ uses)
+            (NP (DT the) (NN table)
+                (PP (IN of)
+                    (NP (NN dictionary) (NN usage))))
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB select)
+                   (NP (NP (DT the) (NN dictionary) (NN information))
+                       (SBAR
+                             (WHNP (WDT that))
+                             (S (NP (-NONE- T))
+                                (VP (VBZ pertains)
+                                    (PP (TO to)
+                                        (NP (NP (DT each) (NN form))
+                                            (VP (VBN matched)
+                                                (PP (IN in)
+                                                    (NP (DT the) (NN text-form) (NN list)))))))))))))
+        (, ,)
+        (CC and)
+        (VP (VBZ uses)
+            (NP (DT the) (NN list)
+                (PP (IN of)
+                    (NP (NP (NN information) (NNS cells))
+                        (VP (VBN recorded)
+                            (PP (IN in)
+                                (NP (NN text) (NN order)))))))
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB attach)
+                   (NP (DT the) (JJ appropriate) (NN information))
+                   (PP (TO to)
+                       (NP (DT each) (NN occurrence)
+                           (PP (IN in)
+                               (NP (NN text))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN list)
+            (PP (IN of)
+                (NP (NN text) (NNS forms)
+                    (PP (IN in)
+                        (NP (DT the) (NN W-region)
+                            (PP (IN of)
+                                (NP (NN memory))))))))
+        (CC and)
+        (NP (DT the) (NNS contents)
+            (PP (IN of)
+                (NP (DT the) (NN information) (NNS cells)
+                    (PP (IN in)
+                        (NP (DT the) (NNP X)
+                            (CC and)
+                            (NNS Y-regions)))))))
+    (AUX (VBP are))
+    (ADVP (RB no)
+          (RB longer))
+    (VP (VBN required)
+        ))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (ADVP (RB Only))
+        (DT the) (NN assignment)
+        (PP (IN of)
+            (NP (DT the) (NN information) (NNS cells))))
+    (VP (VBZ is)
+        (ADJP (JJ important))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ first) (NN stage)
+        (PP (IN of)
+            (NP (NN translation))))
+    (PP (IN after)
+        (NP (NN glossary) (NN lookup)))
+    (VP (VBZ is)
+        (NP (JJ structural) (NN analysis)
+            (PP (IN of)
+                (NP (DT the) (NN input) (NN text))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ grammatical) (NN description)
+        (PP (IN of)
+            (NP (DT each) (NN occurrence)
+                (PP (IN in)
+                    (NP (DT the) (NN text))))))
+    (AUX (MD must))
+    (VP (VB be)
+        (VP (VBN retrieved)
+            
+            (PP (IN from)
+                (NP (DT the) (NN dictionary)))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB permit)
+           (NP
+               (JJ such)
+               (DT an) (NN analysis)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (NN description)
+        (PP (IN of)
+            (NP (DT this) (NN process))))
+    (AUX (MD will))
+    (VP (VB serve)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB illustrate)
+               (SBAR
+                     (WHADVP (WRB how))
+                     (S (NP (DT any) (NN type)
+                            (PP (IN of)
+                                (NP (NN information))))
+                        (AUX (MD can))
+                        (VP (VB be)
+                            (VP (VP (VBN retrieved)
+                                    
+                                    (PP (IN from)
+                                        (NP (DT the) (NN dictionary))))
+                                (CC and)
+                                (VP (VBN attached)
+                                    (PP (TO to)
+                                        (NP (DT each) (NN text) (NN occurrence))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ grammatical) (NNS descriptions)
+        (PP (IN of)
+            (NP (DT all) (NNS forms)
+                (PP (IN in)
+                    (NP (DT the) (NN dictionary))))))
+    (AUX (VBP are))
+    (VP (VBN recorded)
+        (PP (IN in)
+            (NP (DT a) (JJ separate) (NN part)
+                (PP (IN of)
+                    (NP (DT the) (NN dictionary) (NN file)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN order))
+    (VP (VBZ is)
+        (ADJP (JJ identical)
+              (PP (TO to)
+                  (NP (DT the) (NN ordering)
+                      (PP (IN of)
+                          (NP (NP (DT the) (NNS forms))
+                              (SBAR (-NONE- 0)
+                                    (S (NP (PRP they))
+                                       (VP (VBP describe)
+                                           (NP (-NONE- T))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (NNS entries))
+             (AUX (VBP are))
+             (VP (VBG being)
+                 (VP (VBN retrieved)
+                     
+                     (PP (IN from)
+                         (NP (DT this) (NN file)))))))
+    (, ,)
+    (S (NP (DT the) (NN table)
+           (PP (IN of)
+               (NP (NN dictionary) (NN usage))))
+       (VP (VBZ indicates)
+           (SBAR (SBAR (WHNP (WDT which) (NNS entries))
+                       (S (NP (-NONE- *))
+                          (AUX (TO to))
+                          (VP (VB skip)
+                              (NP (-NONE- T)))))
+                 (CC and)
+                 (SBAR (WHNP (WDT which) (NNS entries))
+                       (S (NP (-NONE- *))
+                          (AUX (TO to))
+                          (VP (VB store)
+                              (NP (-NONE- T))
+                              (PP (IN in)
+                                  (NP (DT the) (NN computer))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (JJ selection-rejection) (NN process))
+    (VP (VBZ takes)
+        (NP (NN place))
+        (SBAR (IN as)
+              (S (NP (DT the) (NN file))
+                 (AUX (VBZ is))
+                 (VP (VBN read)
+                     )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT Each) (NN entry))
+        (SBAR
+              (WHNP (WDT that))
+              (S (NP (-NONE- T))
+                 (AUX (VBZ is))
+                 (VP (VBN selected)
+                     
+                     (PP (IN for)
+                         (NP (NN storage)))))))
+    (AUX (VBZ is))
+    (VP (VBN written)
+        
+        (PP (IN into)
+            (NP (DT the)
+                (JJ next) (JJ available)
+                (NNS cells)
+                (PP (IN of)
+                    (NP (DT the) (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN address)
+            (PP (IN of)
+                (NP (DT the) (JJ first) (NN cell))))
+        (CC and)
+        (NP (NP (DT the) (NN number)
+                (PP (IN of)
+                    (NP (NNS cells))))
+            (VP (VBN used))))
+    (AUX (VBZ is))
+    (VP (VBN written)
+        (PP (IN in)
+            (NP (DT the) (NN information) (NN cell)
+                (PP (IN for)
+                    (NP (DT the) (NN form)))))))
+ (. .))
+ 
+
+ 
+
+(-LRB-
+       (S (NP (DT The) (NN address)
+              (PP (IN of)
+                  (NP (DT the) (NN information) (NN cell))))
+          (AUX (VBZ is))
+          (ADV (RB also))
+          (VP (VBN supplied)
+              
+              (PP (IN by)
+                  (NP (DT the) (NN table)
+                      (PP (IN of)
+                          (NP (NN dictionary) (NN usage)))))))
+       (. .)
+       (-RRB- -RRB-))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (SBAR
+             (WHADVP (WRB When))
+             (S (NP (DT the) (JJ complete) (NN file))
+                (AUX (VBZ has))
+                (VP (VBN been)
+                    (VP (VBN read)
+                        ))))
+       (, ,)
+       (S (NP (DT the) (JJ grammatical) (NNS descriptions)
+              (PP (IN for)
+                  (NP (NP (DT all) (NN text) (NNS forms))
+                      (VP (VBN found)
+                          (PP (IN in)
+                              (NP (DT the) (NN dictionary)))))))
+          (AUX (VBP have))
+          (VP (VBN been)
+              (VP (VBN stored)
+                  
+                  (PP (IN in)
+                      (NP (DT the) (NN W-region)))))))
+    (: ;)
+    (: ;)
+    (S (NP (NP (DT the) (NN information) (NN cell))
+           (VP (VBN assigned)
+               (PP (TO to)
+                   (NP (DT each) (NN text) (NN form)))))
+       (VP (VBZ contains)
+           (NP (DT the) (NN address)
+               (PP (IN of)
+                   (NP (DT the) (JJ grammatical) (NN description)
+                       (PP (IN of)
+                           (NP (NP (DT the) (NN form))
+                               (SBAR (-NONE- 0)
+                                     (S
+                                        (NP (PRP it))
+                                        (VP (VBZ represents)
+                                            (NP (-NONE- T)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (S (NP (DT the) (NN description)
+           (PP (IN of)
+               (NP (DT each) (NN text) (NN occurrence))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN retrieved)
+               (PP (IN by)
+                   (S (NP (-NONE- *))
+                      (VP (VP (VBG reading)
+                              (NP (DT the) (NN list)
+                                  (PP (IN of)
+                                      (NP (JJ text-ordered) (NN information-cell) (NNS addresses)))))
+                          (CC and)
+                          (VP (VBG outputting)
+                              (NP (NP (DT the) (NN description))
+                                  (VP (VBN indicated)
+                                      (PP (IN by)
+                                          (NP (DT the) (NN information) (NN cell)
+                                              (PP (IN for)
+                                                  (NP (DT each) (NN occurrence)))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ only) (NNS requirements)
+            (PP (IN on)
+                (NP (NN dictionary) (NN information))))
+        (VP (VBN made)
+            (PP (IN by)
+                (NP (DT the) (NN text-lookup) (NN operation)))))
+    (VP (VBP are)
+        (SBAR (SBAR (IN that)
+                    (S (NP (NP (DT each) (NN form))
+                           (VP (VBN represented)
+                               (PP (IN by)
+                                   (NP (DT the) (NN dictionary)))))
+                       (VP (VB be)
+                           (ADJP (JJ available)
+                                 (PP (IN for)
+                                     (NP (NN lookup)
+                                         (PP (IN in)
+                                             (NP (DT the) (NN text-form) (NN list)))))))))
+              (CC and)
+              (SBAR (DT that)
+                    (S (NP (NN information)
+                           (PP (IN for)
+                               (NP (DT each) (NN form))))
+                       (VP (VB be)
+                           (ADJP (JJ available)
+                                 (PP (IN in)
+                                     (NP (NP (DT a) (NN sequence))
+                                         (ADJP (JJ identical)
+                                               (PP (IN with)
+                                                   (NP (DT the) (NN sequence)
+                                                       (PP (IN of)
+                                                           (NP (DT the) (NNS forms)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ leaves)
+        (NP (DT the) (NN ordering)
+            (PP (IN of)
+                (NP (NNS entries))))
+        (ADJP (JJ variable))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(-LRB-
+       (S (ADVP (RB Here))
+          (S (NP (DT an) (NN entry))
+             (VP (VBZ is)
+                 (NP (NP (DT a) (NN form))
+                     (IN plus)
+                     (NP (NP (DT the) (NN information))
+                         (SBAR
+                               (WHNP (WDT that))
+                               (S (NP (-NONE- T))
+                                  (VP (VBZ pertains)
+                                      (PP (TO to)
+                                          (NP (PRP it)))))))))))
+       (. .)
+       (-RRB- -RRB-))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (CD Two)
+        (ADJP (RB very)
+              (JJ useful))
+        (NNS ways)
+        (PP (IN for)
+            (S (NP (-NONE- *))
+               (VP (VBG modifying)
+                   (NP (DT a) (NN form-dictionary))))))
+    (VP (VBP are)
+        (NP (NP (DT the) (NN addition)
+                (PP (TO to)
+                    (NP (DT the) (NN dictionary)))
+                (PP (IN of)
+                    (NP (NP (JJ complete) (NNS paradigms))
+                        (ADVP (RB rather)
+                              (PP (IN than)
+                                  (NP (JJ single) (NNS forms)))))))
+            (CC and)
+            (NP (DT the) (NN application)
+                (PP (IN of)
+                    (NP (DT a) (JJ single) (NN change)))
+                (PP (TO to)
+                    (NP (ADJP (JJR more)
+                              (PP (IN than)
+                                  (NP (CD one))))
+                        (NN dictionary) (NN form)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (ADJP (JJ former)))
+    (AUX (VBZ is))
+    (VP (VBN intended)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB decrease)
+               (NP (NP (DT the) (NN amount)
+                       (PP (IN of)
+                           (NP (NN work))))
+                   (ADJP (JJ necessary)
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB extend)
+                                (NP (NN dictionary) (NN coverage))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN latter))
+    (VP (VBZ is)
+        (ADJP (JJ useful)
+              (PP (IN for)
+                  (S (NP (-NONE- *))
+                     (VP (VBG modifying)
+                         (NP (NN information)
+                             (PP (IN about)
+                                 (NP (DT some)
+                                     (CC or)
+                                     (DT all) (NNS forms)
+                                     (PP (IN of)
+                                         (NP (DT a) (NN word)))))))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (ADVP (RB hence))
+       (VP (VBG reducing)
+           (NP (NP (DT the) (NN work))
+               (VP (VBN required)
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB improve)
+                          (NP (NN dictionary) (NNS contents)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (VBG Applying)
+           (NP (NP (DT the) (NNS techniques))
+               (VP (VBN developed)
+                   (PP (IN at)
+                       (NP (NNP Harvard)))
+                   (PP (IN for)
+                       (S (NP (-NONE- *))
+                          (VP (VBG generating)
+                              (NP (DT a) (NN paradigm))
+                              (PP (IN from)
+                                  (NP (NP (DT a) (JJ representative) (NN form))
+                                      (CC and)
+                                      (NP (PRP$ its) (NN classification)))))))))))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD can))
+       (VP (VB add)
+           (NP (DT all) (NNS forms)
+               (PP (IN of)
+                   (NP (DT a) (NN word))))
+           (PP (TO to)
+               (NP (DT the) (NN dictionary)))
+           (PP (IN at)
+               (ADVP (RB once))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT An) (NN extension)
+        (PP (IN of)
+            (NP (DT the) (NN principle))))
+    (AUX (MD would))
+    (VP (VB permit)
+        (S (NP (-NONE- *))
+           (VP (VBG entering)
+               (NP (DT a) (JJ grammatical) (NN description)
+                   (PP (IN of)
+                       (NP (DT each) (NN form))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNS Equivalents))
+    (AUX (MD could))
+    (VP (VB be)
+        (VP (VBN assigned)
+            
+            (PP (TO to)
+                (NP (DT the) (NN paradigm)))))
+    (PP (CC either)
+        (PP (IN at)
+            (NP (NP (DT the) (NN time))
+                (SBAR (-NONE- 0)
+                      (S (NP (PRP it))
+                         (AUX (VBZ is))
+                         (VP (VBN added)
+                             
+                             (PP (TO to)
+                                 (NP (DT the) (NN dictionary))))))))
+        (CC or)
+        (PP (IN after)
+            (S (NP (DT the) (NN word))
+               (AUX (VBZ has))
+               (VP (VBN been)
+                   (VP (VBN studied)
+                       
+                       (PP (IN in)
+                           (NP (NN context)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (PRP one))
+       (AUX (MD can))
+       (VP (VB think)
+           (PP (IN of)
+               (NP (DT a) (NN dictionary) (NN entry)))
+           (PP (IN as)
+               (NP (NP (DT a) (NN word))
+                   (ADVP (RB rather)
+                         (PP (IN than)
+                             (NP (DT a) (NN form)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT all) (NNS forms)
+                 (PP (IN of)
+                     (NP (DT a) (NN paradigm))))
+             (AUX (VBP are))
+             (VP (VBN grouped)
+                 (ADVP (RB together))
+                 (PP (IN within)
+                     (NP (DT the) (NN dictionary))))))
+    (, ,)
+    (S (NP (DT a) (JJ considerable) (NN reduction)
+           (PP (IN in)
+               (NP (NP (DT the) (NN amount)
+                       (PP (IN of)
+                           (NP (NN information))))
+                   (VP (VBN required)))))
+       (VP (VBZ is)
+           (ADJP (JJ possible)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (NN example)))
+    (, ,)
+    (S (NP (DT the) (ADJP (VBN inflected)) (NNS forms)
+           (PP (IN of)
+               (NP (DT a) (NN word))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN represented)
+               (, ,)
+               (ADVP (RB insofar)
+                     (PP (IN as)
+                         (S (NP (JJ regular) (NN inflection))
+                            (VP (VBZ allows)))))
+               (, ,)
+               (PP (IN by)
+                   (NP (NP (DT a) (NN stem))
+                       (CC and)
+                       (NP (DT a) (NN set)
+                           (PP (IN of)
+                               (NP (NP (NNS endings))
+                                   (S (NP (-NONE- *))
+                                      (AUX (TO to))
+                                      (VP (VB be)
+                                          (VP (VBN attached)
+                                              ))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(-LRB-
+       (S (ADVP (RB Indeed))
+          (, ,)
+          (S (NP (DT the) (NN set)
+                 (PP (IN of)
+                     (NP (NNS endings))))
+             (AUX (MD can))
+             (VP (VB be)
+                 (VP (VBN replaced)
+                     
+                     (PP (IN by)
+                         (NP (DT the) (NN name)
+                             (PP (IN of)
+                                 (NP (DT a) (NN set)
+                                     (PP (IN of)
+                                         (NP (NNS endings)))))))))))
+       (. .)
+       (-RRB- -RRB-))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (DT The) (JJ full) (NNS forms))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN derived)
+            
+            (PP (IN from)
+                (NP (JJ such) (NN information)))))
+    (ADVP (ADVP (RB just))
+          (RB prior)
+          (PP (TO to)
+              (NP (DT the) (NN lookup)
+                  (PP (IN of)
+                      (NP (DT the) (NN form)))
+                  (PP (IN in)
+                      (NP (DT the) (NN text-form) (NN list)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Similarly))
+    (, ,)
+    (SBAR (IN if)
+          (S (NP (DT the) (NNS equivalents)
+                 (PP (IN for)
+                     (NP (DT the) (NNS forms)
+                         (PP (IN of)
+                             (NP (DT a) (NN word))))))
+             (AUX (VBP do))
+             (NEG (RB not))
+             (VP (VB vary))))
+    (, ,)
+    (S (NP (DT the) (NNS equivalents))
+       (AUX (MD need))
+       (VP (VB be)
+           (VP (VBN entered)
+               (ADVP (RB only))
+               (ADVP (RB once))
+               (PP (IN with)
+                   (NP (DT an) (NN indication)
+                       (SBAR (IN that)
+                             (S (NP (PRP they))
+                                (VP (VBP apply)
+                                    (PP (TO to)
+                                        (NP (DT each) (NN form))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN dictionary) (NN system))
+    (VP (VBZ is)
+        (X (PP (IN in)
+               (NP (DT no) (NN way)))
+           (ADJP (JJ dependent)
+                 (PP (IN upon)
+                     (NP (JJ such) (NN summarization))))
+           (CC or)
+           (VP (VBN designed)
+               (PP (IN around)
+                   (NP (PRP it)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR
+          (WHADVP (WRB When))
+          (S (NP (NP (NN irregularity)) (CC and) (NP (NN variation)))
+             (VP (VBP prevent)
+                 (NP (VBG summarizing)))))
+    (, ,)
+    (S (NP (NN information))
+       (AUX (VBZ is))
+       (VP (VBN written)
+           
+           (PP (IN in)
+               (NP (JJ complete) (NN detail))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NNS Entries))
+    (AUX (VBP are))
+    (VP (VBN summarized)
+        )
+    (ADVP (RB only))
+    (SBAR (WHADVP (WRB when))
+          (S (PP (IN by)
+                 (S (NP (-NONE- *))
+                    (VP (VBG doing)
+                        (ADVP (IN so)))))
+             (S (S
+                   (NP (NP (DT the) (NN amount)
+                           (PP (IN of)
+                               (NP (NN information))))
+                       (VP (VBN retained)
+                           (PP (IN in)
+                               (NP (DT the) (NN dictionary)))))
+                   (AUX (VBZ is))
+                   (VP (VBN reduced)
+                       ))
+                (CC and)
+                (S (NP (NP (DT the) (NN time))
+                       (VP (VBN required)
+                           (PP (IN for)
+                               (NP (NN dictionary) (NNS operations)))))
+                   (AUX (VBZ is))
+                   (VP (VBN decreased)
+                       ))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

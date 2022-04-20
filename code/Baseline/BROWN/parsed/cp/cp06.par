@@ -1,0 +1,2879 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP How)
+        (S ,
+           (S (NP he)
+              (VP wondered))
+           ,
+           (SQ  (AUX does)
+                (NP one)
+                (VP enjoy
+                    (NP (NP one)
+                        's
+                        spare time)))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP considered
+          (NP some interesting excursion)))
+     but
+     (S (NP he)
+        (VP was
+            (PP on
+                (NP the road)))
+        (NP every day)
+        (PP (PP from
+                (NP dawn))
+            (PP to
+                (NP dusk)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Then)
+         (S (NP there)
+            (VP was
+                (NP (NP (NP exercise)
+                        ,
+                        (NP (VP boating))
+                        and
+                        (NP (VP hiking)))
+                    ,
+                    (SBAR 
+                     (WHNP which)
+                     (S (NP T)
+                        (VP  (VP was
+                                 (CONJP (NEG not)
+                                        only)
+                                 (ADJP good
+                                       (PP for
+                                           (NP you))))
+                             (CONJP but
+                                    also)
+                             (VP made
+                                 (NP you
+                                     (ADJP  more
+                                            virile))))))))))
+      :
+      (S (NP the thought
+             (PP of
+                 (NP strenuous activity)))
+         (VP left
+             (NP him)
+             (ADVP exhausted))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Perhaps)
+      (NP golf)
+      ,
+      (PP with
+          (NP a fashionable companion))
+      --
+      but
+      (S (NP he)
+         (X (X (AUX 'd)
+               (VP lost
+                   (NP his clubs)))
+            ,
+            (X (AUX had)
+               (NEG n't)
+               (VP played)
+               (PP in
+                   (NP years))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX was)
+      (VP swimming)
+      (PP over
+          (PP at
+              (NP the Riverside Hotel))))
+     ,
+     but
+     (S (NP his skin)
+        (VP was
+            (ADJP  so
+                   white))
+        (SBAR 0
+              (S (NP he)
+                 (VP looked
+                     (PP like
+                         (NP the bottom
+                             (PP of
+                                 (NP a frog)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (X (ADVP Perhaps)
+         (NP a packing trip
+             (PP into
+                 (NP the Sierras))))
+      ,
+      (S  (NP *) 
+          (VP let
+              (S (NP his beard)
+                 (VP grow))))
+      --
+      but
+      (S (NP that)
+         (VP was
+             (ADJP  too
+                    stark))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX could)
+    ,
+    (S (NP he)
+       (VP thought))
+    ,
+    (VP take
+        (NP a long walk)
+        --
+        but
+        (WHADVP where)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The telephone)
+   (VP rang))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP You)
+        (VP missed
+            (NP it))
+        '')
+    ,
+    (S (NP
+        (NP Buzz)
+        's voice)
+       (VP said))
+    ,
+    (S  ``
+        (NP You)
+        (AUX should)
+        (VP have
+            (VP gone
+                (PP over
+                    (PP to
+                        (NP the Pagan Room)))
+                (PP with
+                    (NP us))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (INTJ Wow)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (NP Strippers)
+         ,
+         but
+         (ADJP scrumptious))
+     ,
+     and
+     (NP (NP Toodle Williams)
+         and
+         (NP her all-lesbian band)))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (X  ``
+        (INTJ Hi)
+        ,
+        (NP Buzz)
+        '')
+    ,
+    (S (NP Owen)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP (VP went
+              (PP over
+                  (PP to
+                      (NP the Willows))))
+          and
+          (VP dropped
+              (NP two notes))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP  ``
+           Tough
+           '')
+    ,
+    (S (NP Buzz)
+       (VP said))
+    ,
+    (S  ``
+        (S  (NP *) 
+            (VP Listen))
+        ,
+        (S (NP we)
+           (AUX 're)
+           (VP having
+               (NP a stag dinner)
+               (PP over
+                   (PP at
+                       (NP the Pagan Room))))
+           (PP on
+               (NP Friday)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Imagine
+           (NP a stag dinner
+               (PP with
+                   (NP Toodle Williams)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP laughed)
+       and
+       (VP laughed)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Owen)
+      (VP wanted
+          (S (NP *)
+             (AUX to)
+             (VP be
+                 (ADJP pleasant))))
+      (SBAR because
+            (S (NP Buzz)
+               (VP worked
+                   (NP (NP the territory)
+                       (ADJP next
+                             (PP to
+                                 (NP his))))))))
+     ,
+     but
+     (S (NP he)
+        (AUX had)
+        (NEG n't)
+        (VP come
+            (PP to
+                (NP Reno))
+            (PP for
+                (NP stag dinners)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  ``
+         Thanks
+         '')
+    ,
+    (S (NP Owen)
+       (VP said))
+    ,
+    ``
+    but
+    (S (S (NP Friday)
+          (VP is
+              (ADVP (NP a long way)
+                    off)))
+       and
+       (S (NP anything)
+          (AUX can)
+          (VP happen)))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Buzz)
+   (VP was
+       (NP (NP a tireless instigator)
+           (SBAR (WHNP who)
+                 (S (NP T)
+                    (ADVP never)
+                    (VP let
+                        (NP his victims)
+                        (VP rest)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP Owen)
+         (AUX was)
+         (ADVP finally)
+         (VP rid
+             (PP of
+                 (NP him)))))
+     ,
+     (S (NP there)
+        (VP was
+            (NP a timid rap)
+            (PP at
+                (NP the door)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (INTJ  ``
+           Yes
+           '')
+    ,
+    (S (NP Owen)
+       (VP called
+           (PRT out))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (INTJ  ``
+        Yes
+        '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (VP 'm
+            (NP Mrs. Gertrude Parker))
+        '')
+    ,
+    (S (NP a soft voice)
+       (VP explained))
+    ,
+    ``
+    And
+    (S (NP I)
+       (AUX 'd)
+       (VP like
+           (S (NP *)
+              (AUX to)
+              (VP talk
+                  (PP to
+                      (NP you)))
+              (PP for
+                  (NP a few minutes))))
+       ,
+       (S (NP *)
+          (VP please))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (INTJ Ahah)
+    ,
+    (S (NP he)
+       (VP thought))
+    ,
+    (NP a lush divorcee)
+    (PP at
+        (ADJP last)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)
+     (ADVP Probably)
+     (VP saw
+         (NP me)
+         (PP in
+             (NP the lobby))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP disappointed
+             
+       (S (NP *)
+          (AUX to)
+          (VP find
+              (S (NP a
+                     nervous
+                     ,
+                     scrawny
+                     woman
+                     (PP with
+                         (NP a big hat)))
+                 (VP standing
+                     (PP at
+                         (NP the door))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP frowned
+       (PP at
+           (NP his green pajamas
+               (PP with
+                   (NP the yellow moons))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+        (SBARQ 
+         (WHADVP How)
+         (SQ  (AUX do)
+              (NP you)
+              (VP do)))
+        ''
+        ?
+        ?)
+    (S
+     (NP She)
+     (VP said
+         ,
+         semi-professionally)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Our church)
+      (AUX is)
+      (VP sponsoring
+          (NP a group
+              (PP of
+                  (NP  (ADJP very
+                             courageous) women))
+              (PP up
+                  (PP in
+                      (NP Alaska))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (VP call
+          (NP them lay-sisters)))
+     and
+     (S (NP they)
+        (VP go
+            (PP among
+                (NP the Eskimos)))
+        (S (NP *)  
+           (VP making
+               (NP friends)))
+        and
+        (S  (NP *) 
+            (VP bringing
+                (NP the light)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP 're
+          (PP up
+              (ADVP there))
+          (PP in
+              (NP that freezing climate))))
+     and
+     (S (NP all
+            (PP of
+                (NP us)))
+        (VP have
+            (S (NP *)
+               (AUX to)
+               (VP try and help
+                   (NP them))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (INTJ Oh)
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP You)
+        (VP see)
+        '')
+    ,
+    (S (NP she)
+       (VP said)
+       ,
+       (S (NP *)  
+          (VP looking
+              (PP past
+                  (NP him))
+              (PP into
+                  (NP (NP the room)
+                      ,
+                      (SBAR 
+                       (WHADVP where)
+                       (S (NP the highball glasses)
+                          (VP sparkled
+                              (ADVP dully)
+                              (PP in
+                                  (NP the bright light)))))))))
+       ,)
+    (S  ``
+        (NP (NP you)
+            and
+            (NP I))
+        (AUX ca)
+        (NEG n't)
+        (VP understand
+            (NP (NP the many hardships)
+                (SBAR 0
+                      (S (NP they)
+                         (VP have
+                             (S (NP *)
+                                (AUX to)
+                                (VP undergo
+                                    (NP T) )))))))
+        ''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHADVP Why)
+    (SQ  (VP is)
+         (NP that)
+         ))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (ADVP apparently)
+   (AUX was)
+   (NEG n't)
+   (VP satisfied
+             
+       (PP with
+           (NP his reaction))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X  (ADJP Smug)
+     ,
+     (S (NP Owen)
+        (VP thought))
+     ,
+     (ADJP smug and sappy))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP a
+           slight nervous
+           twitch))
+   (PP in
+       (NP the region
+           (PP of
+               (NP her left eye)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP gave
+       (NP her)
+       (NP a
+           lewd
+           ,
+           winking
+           (NP effect))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SQ  ``
+         (AUX Have)
+         (NP you)
+         (ADVP ever)
+         (VP tried
+             (S   (NP *)
+                  (AUX to)
+                  (VP reason
+                      (PP with
+                          (NP an Eskimo)))))
+         ''
+         ?
+         ?)
+    (S
+     (NP She)
+     (VP asked
+         ,)
+     (S  (NP *) 
+         (VP winking
+             (ADVP wildly)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP They)
+      (VP are
+          (NP a
+              (ADJP very
+                    difficult) group
+              (PP of
+                  (NP people)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (AUX do)
+        (NEG n't)
+        (VP know
+            (ADJP much)
+            (PP about
+                (NP them)))
+        '')
+    ,
+    (S (NP Owen)
+       (VP admitted))
+    ,
+    ``
+    but
+    (S (NP I)
+       (VP suppose
+           (SBAR 0
+                 (S (S (NP they)
+                       (VP have
+                           (NP their own religion)))
+                    and
+                    (S (NP they)
+                       (ADVP probably)
+                       (VP resent
+                           (S (NP outsiders)
+                              (VP (VP coming
+                                      (PRT in))
+                                  and
+                                  (VP telling
+                                      (NP them)
+                                      (SBAR (SBAR (WHNP what)
+                                                  (S (NP *)
+                                                     (AUX to)
+                                                     (VP do
+                                                         (NP T) )))
+                                            and
+                                            (SBAR (WHNP what)
+                                                  (S (NP *)
+                                                     (NEG not)
+                                                     (AUX  
+                                                      to)
+                                                     (VP do
+                                                         (NP T) )))))))))))))
+    '')
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP smiled
+       (PP in
+           (NP a sickly-tolerant fashion))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP You)
+         (VP know))
+      ,
+      (S (NP that)
+         (VP 's
+             (ADJP  very
+                    interesting))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP People)
+    (AUX do)
+    (NEG n't)
+    (VP know
+        (SBAR (ADJP (WHADVP how)
+                    much)
+              (S (NP they)
+                 (VP give
+                     (ADVP away)
+                     (PP about
+                         (NP themselves)))
+                 (PP by
+                     (NP remarks
+                         (PP like
+                             (NP that))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (X (NP (NP The
+             (ADJP more)
+             canvassing)
+         (SBAR 0
+               (S (NP I)
+                  (VP do
+                      (NP T) ))))
+     ,
+     (S (NP the
+            (ADJP more))
+        (S (NP I)
+           (VP note
+               (SBAR (WHADVP how
+                             far)
+                     (S (NP 
+                         (ADJP most)
+                         people)
+                        (VP are
+                            (PP from
+                                (NP their
+                                    (ADJP personal)
+                                    God)))))))))
+  ''
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Forebearing))
+    ,
+    (S (NP Owen)
+       (VP kept
+           (NP his peace))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  (NP T)
+       (AUX would)
+       (VP happen
+           (ADJP next))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (SBAR  That
+                  (S (NP she)
+                     (VP was
+                         (ADVP out
+                               (PP for
+                                   (NP a touch)))))))
+       (VP was
+           (ADJP certain)))
+    ,
+    but
+    (SBARQ (WHADVP when)
+           (SQ  (AUX did)
+                (NP she)
+                (VP get
+                    (PP to
+                        (NP the pitch))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Several people)
+    (VP (VP passed
+            (PP in
+                (NP the hall)))
+        and
+        (VP stared))
+    (SBAR  as
+           (S (S (NP he)
+                 (ADVP slowly)
+                 (VP retreated)
+                 ,
+                 (S  (NP *) 
+                     (VP trying
+                         (S (NP *)
+                            (AUX to)
+                            (VP close
+                                (NP the door)
+                                (NP a little))))))
+              ,
+              and
+              (S (NP she)
+                 (ADVP slowly)
+                 (VP (VP leaned
+                         (PP toward
+                             (NP him)))
+                     and
+                     (VP raised
+                         (NP her voice)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBARQ  ``
+            (WHADVP How)
+            (SQ  (AUX did)
+                 (NP you)
+                 (VP get
+                     (PP by
+                         (NP the desk))))
+            ''
+            ?
+            ?)
+    (S
+     (NP He)
+     (VP asked
+         (ADVP curiously))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP 'm
+          (ADJP sure
+		(SBAR 0
+		      (S (NP the hotel)
+			 (AUX does)
+			 (NEG n't)
+			 (VP know
+			     (SBAR 0
+				   (S (NP you)
+				      (AUX 're)
+				      (VP (VP wandering
+					      (PP around
+						  (NP the corridors)))
+					  ,
+					  (VP knocking
+					      (PP on
+						  (NP 
+						   (NP strangers)
+						   ' doors)))
+					  and
+					  (VP talking
+					      (PRT down)
+					      (NP Eskimos)))))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (INTJ Oh)
+      ,
+      (S (NP I)
+         (ADVP just)
+         (VP come)
+         (ADVP once
+               (NP a week))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Every day)
+     (S
+      (NP I)
+      (VP visit
+          (NP a different hotel))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP feel
+       (SBAR 0
+             (S (NP it)
+                (VP 's
+                    (NP my duty))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (VP do
+        (NP this
+            work))
+    (PP  (ADVP all)
+         on
+         (NP my
+             (ADJP own)))
+    ,
+    (SBAR because
+          (S (S (NP I)
+                (VP understand
+                    (NP the difficulties)))
+             and
+             (S (NP I)
+                (VP want
+                    (S (NP *)
+                       (AUX to)
+                       (VP help
+                           (NP these lay-sisters))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+      (NP you)
+      (VP know
+          (SBAR 0
+                (S (S (NP these women)
+                      (VP go
+                          (PP  (ADVP all)
+                               through
+                               (NP Alaska))))
+                   ,
+                   and
+                   (S (NP they)
+                      (AUX do)
+                      (NEG n't)
+                      (VP have
+                          (NP the proper facilities)))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP travel
+       (PP in
+           (NP pairs))
+       (ADVP as
+             much
+             (PP as
+                 (NP (NP a hundred-and-fifty miles)
+                     (NP a day))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ  (AUX Do)
+        (NP you)
+        (VP have
+            (NP (NP any idea)
+                (SBAR (WHADVP how
+                              far)
+                      (S (NP I)
+                         (VP travel)
+                         (NP every day))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP have
+       (NP the
+           whole
+           Pacific Northwest)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Owen)
+      (VP was
+          (ADJP aware
+                (SBAR 0
+                      (S (NP he)
+                         (AUX was)
+                         (VP getting
+                             (ADJP overexcited
+                                 )))))))
+     but
+     (S (NP he)
+        (AUX could)
+        (NEG n't)
+        (VP help
+            (NP himself))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mrs. Gertrude Parker)
+   (VP drew
+       (ADVP back)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+        (NP That)
+        (VP 's
+            (ADVP hardly)
+            (NP a Christian approach))
+        '')
+    ,
+    (S (NP she)
+       (VP remonstrated)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (VP 're
+          (PP in
+              (NP the secular world))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX did)
+      (NEG n't)
+      (VP say
+          (SBAR 0
+                (S (NP it)
+                   (VP was
+                       (NP Christian))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX do)
+   (NEG n't)
+   (VP think
+       (SBAR 0
+             (S (NP you)
+                (AUX 'll)
+                (VP find
+                    (NP many active Christian salesmen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S   (CONJP Not
+             that)
+      (S (S (NP  religion)
+            (VP is
+                (NEG n't)
+                (NP big business)))
+         ;
+         ;
+         (S (NP those bibles and prayer books)
+            (VP make
+                (NP a lot
+                    (PP of
+                        (NP money)))
+                (PP for
+                    (NP (VP publishing
+                            (NP houses)))))))
+      ,
+      but
+      (S (NP they)
+         (AUX do)
+         (NEG n't)
+         (VP get
+             (NP top personnel))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Our key salesmen)
+   (VP are
+       (PP in
+           (NP appliances and cosmetics))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP God)
+        ,
+        (S (NP I)
+           (VP take
+               (NP it)))
+        ,
+        (VP plays
+            (NP no part)
+            (PP in
+                (NP this)))
+        '')
+    ,
+    (S (NP she)
+       (VP said
+           (ADVP waspishly))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+        (NP God)
+        (AUX does)
+        (NEG n't)
+        (VP have
+            (NP any appliance or cosmetics))
+        '')
+    ,
+    (S (NP he)
+       (VP said
+           (ADVP heatedly))
+       (SBAR  before
+              (S (NP he)
+                 (VP caught
+                     (NP himself))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP sounded
+           (ADJP silly)))
+    ;
+    ;
+    (SBARQ (WHADVP why)
+           (SQ   (NP *) 
+                 (VP go
+                     (PRT on)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (ADJP More)
+       people)
+      (AUX were)
+      (VP passing))
+     ;
+     ;
+     (S (NP he)
+        (VP had
+            (S (NP *)
+               (AUX to)
+               (VP find
+                   (NP some way
+                       (S (NP *)
+                          (AUX to)
+                          (VP close
+                              (NP this impossible conversation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (X  ``
+         And
+         (NP whiskey)
+         '')
+     ,
+     (S (NP she)
+        (VP said)
+        ,
+        (S (NP *)  
+           (VP (VP smiling)
+               and
+               (VP blinking
+                   (PP at
+                       (NP the highball glasses)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S  (NP *)
+          (AUX Do)
+          (NEG n't)
+          (VP forget
+              (NP whiskey)))
+     ;
+     ;
+     (S (NP it)
+        (VP 's
+            (NP (ADJP such)
+                a big seller))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP You)
+        (VP know)
+        '')
+    ,
+    (S (NP he)
+       (VP said)
+       ,
+       (S  (NP *) 
+           (VP getting
+               (NP a grip)
+               (PP on
+                   (NP himself)))))
+    ,
+    (S  ``
+        (NP I)
+        (VP think
+            (SBAR 0
+                  (S (NP you)
+                     (AUX 're)
+                     (VP going
+                         (S (NP *)
+                            (AUX to)
+                            (VP have
+                                (S (NP *)
+                                   (AUX to)
+                                   (VP excuse
+                                       (NP me)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP have
+       (NP an appointment)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (AUX can)
+        (VP imagine)
+        '')
+    ,
+    (S (NP she)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (X (ADVP Probably)
+      (ADVP down
+            (PP at
+                (NP the bar))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SQ But
+       (SBARQ 
+        (WHNP what)
+        (SQ  (AUX do)
+             (NP you)
+             (VP want
+                 (S (NP *)
+                    (AUX to)
+                    (VP do
+                        (NP T)
+                        (PP about
+                            (NP the lay-sisters))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX must)
+   (VP be
+       (VP freezing))
+   (ADVP up
+         there)
+   (ADVP now))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Ca)
+      (NEG n't)
+      (NP you)
+      (VP help
+          (NP them)))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  (NP *) 
+       (VP Leave
+           (NP a card or something)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX 'll)
+   (VP think
+       (NP it)
+       (PRT over)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (VP have
+            (NP no card))
+        '')
+    ,
+    (S (NP she)
+       (VP said
+           (ADVP bitterly))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX have)
+      (NEG n't)
+      (VP been
+	  (VP listening
+	      (PP to
+		  (SBAR (WHNP what)
+			(S (NP I)
+			   (AUX 've)
+			   (VP been
+			       (VP telling
+				   (NP you
+				       (NP T))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (ADVP only)
+    (VP hope
+        (SBAR 0
+              (S (NP my 
+                     (S (NP *)
+                        (VP talking
+                            (PP to
+                                (NP you)))))
+                 (AUX has)
+                 (VP helped
+                     (NP you)
+                     (NP a little))
+                 ,
+                 (ADVP anyway)
+                 ,)))
+    (SBAR because
+          (S (NP you)
+             (VP need
+                 (NP spiritual bucking-up)))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP looked
+       (ADJP crestfallen))
+   ,
+   (SBAR  as
+	 if
+	 (S (NP he)
+	    (AUX had)
+	    (ADVP somehow)
+	    (VP disappointed
+		(NP the whole human race)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP She)
+       (VP (VP stood
+               (ADVP indecisively)
+               (PP for
+                   (NP a moment)))
+           ,
+           (VP  (ADVP then)
+                walked
+                (PP down
+                    (NP the hall)))))
+    ;
+    ;
+    (S (NP he)
+       (VP heard
+           (S (NP her)
+              (VP knocking
+                  (PP on
+                      (NP another door)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP took
+          (NP him)
+          (NP  about
+               fifteen minutes))
+      (S (NP *)
+         (AUX to)
+         (VP calm
+             (NP himself))))
+     ;
+     ;
+     (S (ADVP then)
+        (S (NP he)
+           (VP realized
+               (SBAR 0
+                     (S (NP he)
+                        (VP was
+                            (ADJP hungry))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP showered)
+        ,
+        (VP shaved)
+        ,
+        (VP dressed)
+        and
+        (VP went
+            (ADVP down
+                  (PP to
+                      (NP the dining room)))
+            (PP for
+                (NP breakfast)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+         (NP the way))
+     (S
+      (NP he)
+      (VP stopped
+          (PP at
+              (NP the desk))
+          (S (NP *)
+             (AUX to)
+             (VP receive
+                 (NP his mail))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP a check
+               (PP from
+                   (NP his company)))
+           ,
+           and
+           (NP (NP the
+                   usual enthusiastic
+                   bulletins
+                   (PP on
+                       (NP new lines)))
+               (SBAR 0
+                     (S (NP they)
+                        (ADVP always)
+                        (VP issued
+                            (NP T) )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His lawyer)
+      (AUX had)
+      (VP sent
+          (NP him)
+          (NP a statement
+              (PP on
+                  (NP his overdue alimony)))))
+     ,
+     and
+     (S (NP there)
+        (VP was
+            (NP (NP a letter
+                    (PP from
+                        (NP the Collector
+                            (PP of
+                                (NP Internal Revenue)))))
+                (VP asking
+		    (S (NP him)
+                       (AUX to)
+                       (VP (VP stop
+                               (PP in
+                                   (NP his office)))
+                           and
+                           (VP explain
+                               (NP 
+                                (NP last year)
+                                's exemptions)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP ate
+           (NP breakfast)
+           (PP in
+               (NP a sullen mood))))
+    ,
+    but
+    (S (ADVP afterwards)
+       ,
+       (SBAR 
+        (WHADVP when)
+        (S (NP he)
+           (VP walked
+               (ADVP out)
+               (PP onto
+                   (NP Virginia Street)))))
+       ,
+       (S (NP he)
+          (VP felt
+              (VP braced)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP looked
+          (ADVP off
+                (PP to
+                    (NP the crest
+                        (PP of
+                            (NP (NP the Sierras)
+                                ,
+                                (ADJP  (ADVP still)
+                                       white-topped))))))))
+     ;
+     ;
+     (S (NP the glisten
+            (PP of
+                (NP the Truckee River)))
+        (VP made
+            (NP a wide spangle))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP felt
+       (ADVP suddenly)
+       (ADJP elated
+             ,
+             adventurous)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+        (NP (NP any luck)
+            (PP at
+                (NP all))))
+    (S (NP he)
+       (AUX could)
+       (ADVP easily)
+       (VP find
+           (NP a flowerpot))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+           (S (NP it)
+              (VP was
+                  (NP  (ADVP only)
+                       three
+                       o'clock))))
+     ,
+     (S (NP he)
+        (VP stopped
+            (PRT in)
+            (PP at
+                (NP the Golden Calf)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The tables)
+      (VP were
+          (NP all spinning)))
+     ,
+     (X (NP the dice)
+        (VP rattling))
+     ,
+     (X (NP the bar)
+        (VP crowded)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *)
+       (ADVP Just)
+       (AUX to)
+       (VP test
+           (NP himself)))
+    ,
+    (S (S (NP he)
+          (VP played
+              (NP roulette)
+              (PP for
+                  (NP quarters))
+              (PP on
+                  (NP (NP his old combination)
+                      ,
+                      (NP five
+                          and
+                          seventeen)
+                      ,))))
+       and
+       (S (PP within
+              (NP an hour))
+          ,
+          (S (NP he)
+             (AUX had)
+             (VP won
+                 ,
+                 (ADVP surprisingly)
+                 ,
+                 (NP twenty dollars))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The way)
+      (AUX was)
+      (VP opening
+          (PRT up)))
+     ;
+     ;
+     (S (SBAR 
+         (WHADVP when)
+         (S (NP the management)
+            (VP brought
+                (PRT around)
+                (NP champagne))))
+        ,
+        (S (NP the breakfast)
+           (VP settled
+               (NP its (S (NP *)
+                          (VP whirling
+                              (ADVP around)
+                              (PP in
+                                  (NP his stomach)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Golden Calf)
+   (AUX was)
+   (VP  (ADVP dimly)
+        lit
+             
+        (PP with
+            (NP shaded neon))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP were
+          (NP (ADJP more)
+              women
+              (PP than
+                  (NP men))))
+      (PP in
+          (NP the place)))
+     ,
+     but
+     (S (NP he)
+        (AUX could)
+        (NEG n't)
+        (VP find
+            (NP a flowerpot))))
+  .)
+(  END_OF_TEXT_UNIT) 
+( (S (NP (NP They)
+         (NP all))
+     (VP had
+         (NP the hard look
+             (PP of
+                 (NP (NP gamblers)
+                     (SBAR (SBAR (WHNP who)
+                                 (S (NP T)
+                                    (AUX had)
+                                    (VP stopped
+                                        (S (NP *)
+					   (VP dreaming)))))
+                           ,
+                           (SBAR (WHNP who)
+                                 (S (NP T)
+                                    (ADVP automatically)
+                                    (VP turned
+                                        (NP the cards))
+                                    ,
+                                    (S (NP *)
+                                       (ADVP hardly)
+                                       (VP caring
+                                           (SBAR
+                                            (WHNP what)
+                                            (S (NP T)
+                                               (VP showed
+                                                   (PRT up))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The mural
+       (PP around
+           (NP the wall)))
+   (VP depicted
+       (NP (NP (NP early settlers)
+               (PP in
+                   (NP  covered
+                        wagons)))
+           ,
+           (SBAR 
+            (WHNP who)
+            (S (NP T)
+               (VP appeared
+                   (VP  (ADVP much
+                              more)
+                        animated
+                        (PP than
+                            (NP the gamblers)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The women)
+    (VP had
+        (NP a
+            bright
+            shining
+            expectancy))
+    (SBAR  as
+           (S (NP they)
+              (VP (VP leaned
+                      (PRT out)
+                      (PP from
+                          (NP the wall)))
+                  and
+                  (VP gazed
+                      (ADVP splendidly)
+                      (PP into
+                          (NP the distance))))))
+    ,
+    (SBAR while
+          (S (NP the men)
+             (VP were
+                 (ADJP stern but hopeful)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP All)
+    ,
+    (PP of
+        (NP course))
+    ,
+    (PP except
+        (NP (NP the Donner party)
+            (SBAR (WHNP who)
+                  (S (NP T)
+                     (AUX were)
+                     (VP bent
+                          
+                         (PP on
+                             (S  (NP *)
+                                 (VP starving
+                                     (PP to
+                                         (NP death))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (VP wonder
+            (SBAR if
+                  (S (NP they)
+                     (AUX did)
+                     (VP eat
+                         (NP each
+                             (ADJP other)))
+                     (PP at
+                         (NP the end)))))
+        '')
+    ,
+    (S (NP Owen)
+       (VP mused)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP sat
+          (PRT down)
+          (ADVP next
+                (PP to
+                    (NP a heavily-upholstered blonde)))))
+     ,
+     but
+     (S (NP she)
+        (AUX was)
+        (VP cleaned
+                 
+            (PRT out))
+        (PP in
+            (NP twenty minutes))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (VP (VP sighed
+            (NP a dirty word))
+        and
+        (VP left)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Owen)
+   (AUX was)
+   (VP surprised
+             
+       (S (NP *)
+          (AUX to)
+          (VP see
+              (S (NP Mrs. Gertrude Parker)
+                 (VP playing
+                     (NP (NP the one-arm bandits)
+                         (SBAR (WHNP that)
+                               (S  (NP T) 
+                                   (AUX were)
+                                   (ADVP cunningly)
+                                   (VP arranged
+                         
+                                       (PP by
+                                           (NP the entrance))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (VP (VP sat
+              (PRT down))
+          and
+          (VP played
+              (NP two slots)
+              (PP at
+                  (ADVP once))))
+      ,
+      (S  (NP *) 
+          (VP looking
+              (ADJP grim))
+          ,
+	  (SBAR as
+		if
+		(S (NP *)
+		   (VP bested
+		       (PP by
+			   (NP mechanical devices)))))))
+     ,
+     and
+     (S (NP Owen)
+        (VP felt
+            (ADJP sorry
+                  (PP for
+                      (NP (NP the lay-sisters)
+                          (VP depending
+                              (PP on
+                                  (NP her support)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A dried-up cowboy)
+   (VP sat
+       (PRT down)
+       (PP next
+           (PP to
+               (NP him))))
+   (PP in
+       (NP 
+        (NP the blonde)
+        's place)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (ADJP (ADVP (NP a
+                       little)
+                   more)
+             authentic
+             (PP than
+                 (ADJP usual))))
+   (SBAR because
+         (S (NP he)
+            (VP smelled
+                (ADVP slightly)
+                (PP of
+                    (NP the stables))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP (SBAR (WHNP What)
+                  (S (NP you)
+                     (VP need
+                         (NP T) ))))
+        (VP is
+            (NP a steady martingale))
+        '')
+    ,
+    (S (NP the cowboy)
+       (VP announced)
+       (PP after
+           (S  (NP *)
+               (VP watching
+                   (S (NP Owen)
+                      (VP play)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX ca)
+      (NEG n't)
+      (VP build
+          (PP on
+              (NP your
+                  hit-and-miss
+                  five-seventeen))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBARQ  ``
+            (WHNP What)
+            (SQ  (AUX are)
+                 (NP you)
+                 (VP playing
+                     (? '')
+                     ))
+            ?
+            ?)
+    (S
+     (NP Owen)
+     (VP asked)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+        (NP I)
+        (AUX 'm)
+        (ADVP just)
+        (VP logging)
+        '')
+    ,
+    (S (NP the cowboy)
+       (VP explained)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+         (VP keep
+             (NP all
+                 (NP these plays)))
+         (PP in
+             (NP this little black book)))
+      ,
+      and
+      (S (NP I)
+         (VP watch
+             (PP over
+                 (NP a twelve-hour period)))
+         (S (NP *)
+            (AUX to)
+            (VP find
+                (PRT out)
+                (SBAR (WHNP what
+                            numbers)
+                      (S (NP T)
+                         (AUX are)
+                         (VP repeating)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP roulette)
+         (VP 's
+             (NEG not)
+             (NP my game))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX 'm)
+    (ADVP always)
+    (VP trying
+        (S (NP *)
+           (AUX to)
+           (VP find
+               (NP a (VP breaking) table)
+               (PP in
+                   (NP blackjack))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Incidentally)
+         ,
+         (S (NP I)
+            (VP 'm
+                (ADJP  (ADVP pretty)
+                       famous))
+            (PP in
+                (NP these parts))))
+      :
+      (S (NP I)
+         (AUX 'm)
+         (VP called
+             (NP The Wrangler))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (ADJP Nice
+         (S (NP *)
+            (AUX to)
+            (VP know
+                (NP you))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Do)
+      (NEG n't)
+      (NP you)
+      (VP have
+          (S (NP *)
+             (AUX to)
+             (VP spend
+                 (NP any time)
+                 (PP on
+                     (NP your ranch))))))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (INTJ Well)
+      ,
+      (PP of
+          (NP course))
+      (S
+       (NP I)
+       (VP do)))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (VP 'm
+        (PP with
+            (NP the Bar-H)))
+    ,
+    (S (NP *)  
+       (VP pushing
+           (NP (NP a horse)
+               (VP called
+                   (NP Sparky))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP He)
+         (VP 's
+             (NP my own horse)))
+      ,
+      and
+      (S (SBAR (WHNP what)
+               (S
+                (NP I)
+                (VP collect
+                    (NP T)
+                    (PP from
+                        (NP him)))))
+         (S
+          (NP I)
+          (VP use
+              (PP on
+                  (NP blackjack))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This Sparky)
+      (AUX can)
+      (VP rack
+          and
+          single-foot))
+     and
+     (S (NP he)
+        (VP 's
+            (NP the
+                fastest
+                thing
+                (PP in
+                    (NP Washoe County))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP figure
+       (S (SBAR if
+                (S (NP I)
+                   (AUX can)
+                   (VP get
+		       (S (NP any kind
+			      (PP of
+				  (NP publicity campaign)))
+			  (VP going)))))
+          ,
+          (S (S (NP I)
+                (AUX 'll)
+                (VP land
+                    (NP him)
+                    (PP on
+                        (NP TV))))
+             --
+             (X (S (NP you)
+                   (VP know))
+                ,
+                (NP one
+                    (PP of
+                        (NP those favorite horses
+                            (PP for
+                                (NP some Western hero))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (ADVP once)
+   (VP trained
+       (NP (NP a horse
+               (PP for
+                   (NP Hoot Gibson)))
+           ,
+           but
+           (NP nothing
+               (PP like
+                   (NP Sparky))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP 's
+           (NP a pinto)))
+    and
+    (S (NP he)
+       (VP photographs
+           (ADVP wonderfully))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Five)
+      (VP came
+          (ADVP up))
+      (SBAR while
+            (S (NP Owen)
+               (AUX was)
+               (VP listening
+                   (PP to
+                       (NP The Wrangler))))))
+     and
+     (S (S (NP he)
+           (VP neglected
+               (S (NP *)
+                  (AUX to)
+                  (VP play))))
+        ,
+        (NP a loss
+            (PP of
+                (NP ten dollars)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This)
+       (VP proved
+           (ADVP conclusively)
+           (SBAR that
+                 (S (NP The Wrangler)
+                    (VP was
+                        (NP a jinx))))))
+    ,
+    so
+    (S (NP he)
+       (VP walked
+           (PRT on)
+           (PP down
+               (PP to
+                   (NP (NP Hurrays)
+                       ,
+                       (NP an
+                           (VP  (ADVP even
+                                      more)
+                                glorified)
+                           (VP gambling)
+                           den
+                           (PP than
+                               (NP the Golden Calf)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+         (VP looked
+             (PP in
+                 (NP the back)))))
+     ,
+     (S (NP Mrs. Gertrude Parker)
+        (AUX was)
+        (VP marking
+            (NP keno cards))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His adventurous spirit)
+      (AUX had)
+      (VP waned))
+     ;
+     ;
+     (S (NP he)
+        (VP studied
+            (NP (NP the pistol exhibition)
+                (SBAR that
+                      (S (NP Hurrays)
+                         (VP featured
+                             (NP T)
+                             (PP as
+                                 (NP an added attraction)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP He)
+     (VP ogled
+         (NP a long redhead
+             (PP with
+                 (NP green eyes)))))
+    ,
+    but
+    (S (NP she)
+       (VP was
+           (NP (NP a shill)
+               (PP with
+                   (NP her money
+                       (PP in
+                           (NP front
+                               (PP of
+                                   (NP her))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP had
+          (NP no great prejudice)
+          (PP against
+              (NP shills))))
+     ;
+     ;
+     (S (NP it)
+        (ADVP just)
+        (VP seemed
+            (NP  such
+                 a dry run))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP was
+          (NP no cash)
+          (ADVP around)))
+     ;
+     ;
+     (S (NP everyone)
+        (AUX was)
+        (VP flipping
+            (NP silver dollars))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The management)
+   (VP (VP  (ADVP discreetly)
+            withdrew
+            (NP the green stuff)
+            (PP into
+                (NP the office)))
+       and
+       (VP gave
+           (NP the customers)
+           (NP (NP chips)
+               or
+               (NP  checks)
+               or
+               (NP premium points)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP read
+        (NP (NP a special announcement)
+            (SBAR 
+             (WHADVP whereby)
+             (S (NP Hurrays)
+                (AUX would)
+                (VP feature
+                    (NP (NP a special floorshow)
+                        (VP-2 *pseudo-attach*))
+                    (PP at
+                        (NP three A.M.))
+                    (VP-2 starring
+                          (NP (NP Adele
+                                  *LRB*
+                                  The Body
+                                  *RRB*
+                                  (NP Brenner))
+                              and
+                              (NP fourteen glamorous schoolgirls)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP wondered
+          (SBAR if
+                (S (NP he)
+                   (AUX might)
+                   (VP bag
+                       (NP a tourist))))))
+     ,
+     but
+     (S (NP they)
+        (VP looked
+            (VP frightened
+                (PP of
+                    (NP him))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP passed
+          (NP (NP two brides)
+              ,
+              (S (NP both)
+                 (VP wearing 
+                     (NP orchids)))
+              ,)))
+     and
+     (S (NP they)
+        (VP made
+            (NP him)
+            (VP feel
+                (ADJP (NP a
+                          little)
+                      sad)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Owen)
+   (VP found
+       (S (NP Buzz)
+          (VP watching
+              (NP chuck-a-luck)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Buzz)
+   (X (VP had
+          (PRT on)
+          (NP a Hawaiian shirt))
+      and
+      (X (AUX was)
+         (VP carrying
+             (NP (NP some sun-tan oil)
+                 and
+                 (NP dark glasses))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (ADJP  shorter
+              and
+              fatter
+              (PP than
+                  (NP (NP Owen)
+                      ,
+                      (SBAR 
+                       (WHNP who)
+                       (S (NP T)
+                          (VP felt
+                              (ADJP good))
+                          (S (NP *)
+                             (VP standing
+                                 (ADVP next
+                                       (PP to
+                                           (NP him))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP We)
+        (AUX 're)
+        (NP all)
+        (VP (VP going
+                (PP over
+                    (PP to
+                        (NP Lake Tahoe))))
+            and
+            (VP try
+                (NP our luck)
+                (PP at
+                    (NP Cal-Neva))))
+        '')
+    ,
+    (S (NP Buzz)
+       (VP explained)
+       ,
+       (S (NP *)
+          (VP (ADVP  still)
+              instigating))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (VP ran
+          (PP into
+              (NP (NP a guy
+                      (PP at
+                          (NP the Pagan Room)))
+                  (SBAR (WHNP who)
+                        (S (NP T)
+                           (VP guarantees
+                               (SBAR 0
+                                     (S (NP we)
+                                        (AUX can)
+                                        (VP beat
+                                            (NP the wheel)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP started
+            (PRT out)
+            (PP as
+                (NP a stickman)))
+        ,
+        (VP  (ADVP then)
+             became
+             (NP a pit boss)))
+    (PP until
+        (S (NP the Club)
+           (VP found
+               (S (NP him)
+                  (VP crossroading))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP knocking
+       (PRT down)
+       (NP checks))
+   (PP at
+       (NP faro)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP I)
+        (VP 'm
+            (ADJP allergic
+                  (PP to
+                      (NP Tahoe))))
+        '')
+    ,
+    (S (NP Owen)
+       (VP explained)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP Something
+       (PP about
+           (NP the pollen)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+     (INTJ Well)
+     ,
+     (INTJ okay)
+     ''
+     ,
+     (S (NP Buzz)
+        (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (AUX 'll)
+      (VP see
+          (NP you)
+          (ADVP around))
+      (ADVP later))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Owen)
+      (VP went
+          (PP over
+              (PP to
+                  (NP the crap table)))))
+     and
+     (S (NP the dice)
+        (VP were
+            (ADJP hot)))
+     ,
+     but
+     (S (NP he)
+        (AUX could)
+        (NEG n't)
+        (VP pyramid
+            (PP with
+                (NP any consecutive success)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBARQ  ``
+            (WHADVP How)
+            (SQ  (VP 's)
+                 (NP your luck)
+                 ,
+                 (NP honey))
+            ''
+            ?
+            ?)
+    (S
+     (NP (NP A short platinum blonde)
+         (PP in
+             (NP a (VP bursting) sun-suit)))
+     (VP addressed
+         (NP him))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (VP looked
+          (ADJP well-fed and prosperous)))
+     ,
+     but
+     (S (NP he)
+        (AUX did)
+        (NEG n't)
+        (VP get
+            (NP the impression
+                (SBAR 0
+                      (S (NP he)
+                         (AUX was)
+                         (VP being
+                             (VP propositioned))
+                         (NP (NP the way)
+                             (SBAR 0
+                                   (S
+                                    (NP he)
+                                    (AUX 'd)
+                                    (VP been
+                                        (VP hoping)))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX have)
+      (NEG n't)
+      (VP had
+          (NP any luck))
+      (SBAR since
+            (S (NP I)
+               (VP was
+                   (NP a baby)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP *) 
+        (VP Stake
+            (NP me))
+        '')
+    ,
+    (S (NP she)
+       (VP said))
+    ,
+    ``
+    and
+    (S  (NP *) 
+        (VP let
+            (NP me)
+            (PP at
+                (NP those dice)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX 'll)
+   (VP make
+       (NP them)
+       (VP dance
+           (NP the tango))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX 'll)
+   (VP (VP get
+           (NP it)
+           (PP in
+               (NP a hurry)))
+       and
+       (VP get
+           (NP it)
+           (PRT out))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  (NP *) 
+       (VP Let
+           (NP 's)
+           (VP (VP have
+                   (NP a drink))
+               and
+               (VP discuss
+                   (NP a merger)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR  ``
+           If
+           (S (NP you)
+              (VP go
+                  (ADJP broke)))
+           '')
+    ,
+    (S (NP she)
+       (VP said)
+       ,
+       (S  (NP *) 
+           (VP smiling
+               (PP up
+                   (PP at
+                       (NP him))))))
+    ,
+    (S  ``
+        (NP I)
+        (AUX 'll)
+        (VP leave
+            (NP you))
+        ''))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+        (NP *) 
+        (VP Sounds
+            (PP like
+                (NP real love)))
+        '')
+    ,
+    (S (NP Owen)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It)
+      (NP sort
+          (PP of))
+      (VP brings
+          (NP a lump)
+          (PP to
+              (NP my throat))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+        (NP My name)
+        (VP 's 
+            (NP Gisele))
+        '')
+    ,
+    (S (NP the blonde)
+       (VP said)
+       (PP after
+           (S (NP she)
+              (VP ordered
+                  (NP a Scotch))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP *)
+      (VP Named
+	  (PP after
+	      (NP the ballet))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP My mother)
+      (VP wanted
+          (S (NP *)
+             (AUX to)
+             (VP call
+                 (NP me)
+                 (NP Sylphide)))))
+     ,
+     but
+     (S (NP it)
+        (VP sounded
+            (ADJP too
+                  affected))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

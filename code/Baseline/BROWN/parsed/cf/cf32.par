@@ -1,0 +1,2251 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Her father)
+      ,
+      (NP James Upton)
+      ,)
+  (VP was
+      (NP  (NP the Upton)
+           (VP mentioned
+               (PP by
+                   (NP Hawthorne))
+               (PP in
+                   (NP the famous introduction
+                       (PP to
+                           (NP the Scarlet Letter))))
+               (PP as
+                   (NP one
+                       (PP of
+                           (NP (NP those)
+                               (SBAR (WHNP who)
+                                     (S (NP T)
+                                        (VP came
+                                            (PP into
+                                                (NP the old custom house)))
+                                        (S (NP *)
+                                           (AUX to)
+                                           (VP do
+                                               (NP business)
+                                               (PP with
+                                                   (NP him
+                                                       (PP as
+                                                           (NP the surveyor
+                                                               (PP of
+                                                                   (NP the port))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A gentleman
+            (PP of
+                (NP the old school)))
+        ,
+        (NP Mr. Upton))
+    (VP (VP possessed
+            (NP (NP intellectual power)
+                ,
+                (NP ample means)))
+        ,
+        and
+        (ADVP withal)
+        ,
+        (VP was
+            (NP a
+                devoted
+                Christian))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The daughter)
+   (VP profited
+       (PP from
+           (NP his interest
+               (PP in
+                   (NP (ADJP scientific and philosophical) subjects))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Her mother)
+   (ADVP also)
+   (VP was
+       (NP a person
+           (PP of
+               (NP (NP superior mind)
+                   and
+                   (NP broad interests))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP clear evidence
+           (SBAR that
+                 (S (NP Lucy)
+                    (PP from
+                        (NP childhood))
+                    (VP had
+                        (NP an unusual mind)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP possessed
+       (NP (NP an observant eye)
+           ,
+           (NP a retentive memory)
+           ,
+           and
+           (NP a critical faculty))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP she)
+	      (VP was
+		  (ADJP (NP nine years)
+			old))))
+     ,
+     (S (NP she)
+        (VP wrote
+            (NP a description
+                (PP of
+                    (NP (NP a store)
+                        (SBAR 0
+                              (S
+                               (NP she)
+                               (AUX had)
+                               (VP visited
+                                   (NP T) ))) ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP (VP named
+           (NP 48 items))
+       ,
+       and
+       (VP said
+           (SBAR 0
+                 (S (NP there)
+                    (VP were
+                        ``
+                        (NP (NP many more things)
+                            (SBAR (WHNP which)
+                                  (S (NP it
+					 (S-1 *pseudo-attach*))
+				     (AUX would)
+				     (VP take
+					 (ADVP too
+					       long))
+				     (S-1 (NP *)
+					  (AUX to)
+					  (VP write)))))
+                        ''))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP An essay
+           (PP on
+               ``
+               (NP Freedom)
+               ''))
+       (VP written
+           (PP at
+               (NP 10 years
+                   (PP of
+                       (NP age))))))
+   (VP quoted
+       (NP (NP the Declaration
+               (PP of
+                   (NP Independence)))
+           ,
+           (NP (NP the freedom)
+               (VP given
+                   (PP to
+                       (NP slaves))
+                   (PP in
+                       (NP Canada))))
+           ,
+           and
+           (NP the views
+               (PP of
+                   (NP George Washington))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Lucy Upton)
+      (AUX was)
+      (VP graduated
+             
+          (PP from
+              (NP the Salem High School)))
+      (SBAR (WHADVP when)
+	    (S (NP (NP few colleges)
+		   ,
+		   (NP (ADVP only)
+		       Oberlin
+		       and
+		       Elmira)
+		   ,)
+	       (VP were
+		   (ADJP open
+			 (PP to
+			     (NP women)))))))
+     ;
+     ;
+     and
+     (S (NP she)
+        (VP had
+            (NP (NP an appetite
+                    (PP for
+                        (NP  learning)))
+                (SBAR
+                 (WHNP that)
+                 (S (NP T)
+                    (AUX could)
+                    (NEG not)
+                    (VP be
+                        (VP denied))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A picture
+       (PP of
+           (NP her
+               (PP in
+                   (NP high school)))))
+   (VP comes
+       (PP from
+           (NP (NP a
+                   younger
+                   schoolmate)
+               ,
+               (NP (NP Albert S. Flint)
+                   ,
+                   (NP (NP friend
+                           (PP of
+                               (NP (NP her brother)
+                                   (NP Winslow))))
+                       ,
+                       and
+                       (ADVP later)
+                       ,
+                       (PP like
+                           (NP Winslow))
+                       ,
+                       (NP a noted astronomer)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP recalled
+       (NP Lucy)
+       ,
+       (PP as
+           ``
+           (NP (NP a
+                   (ADJP bright-looking) (ADJP black-eyed) young
+                   lady)
+               (SBAR (WHNP who)
+                     (S (NP T)
+                        (VP came
+                            (ADVP regularly)
+                            (PP through
+                                (NP 
+                                 (NP the boys)
+                                 ' study hall)))
+                        (S (NP *)
+                           (AUX to)
+                           (VP join
+                               (NP the class
+                                   (PP in
+                                       (NP Greek))
+				   (PP in
+				       (NP (NP the little recitation room)
+					   (ADVP beyond))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The study
+          (PP of
+              (NP Greek)))
+      (VP was
+          (NP the distinctive mark
+              (PP of
+                  (NP (NP boys)
+                      (VP destined
+                          (S (NP *)
+                             (AUX to)
+                             (VP go
+                                 (PP to
+                                     (NP college))))))))))
+     ,
+     and
+     (S (NP Lucy Upton)
+        (ADVP too)
+        (VP expected
+            (S (NP *)
+               (AUX to)
+               (VP (VP go
+                       (PP to
+                           (NP college)))
+                   and
+                   (VP take
+                       (NP (NP the
+                               full classical
+                               course)
+                           (VP offered
+                               (PP to
+                                   (NP men))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The death
+       (PP of
+           (NP her mother))
+       (PP in
+           (NP 1865)))
+   (VP prevented
+       (NP this)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP With
+	   (X (NP four younger children)
+	      (PP at
+		  (NP home))))
+       ,
+       (S (NP Lucy)
+          (VP stepped
+              (PP into
+                  (NP (NP her mother)
+		      's role)))))
+    ,
+    and
+    (S (PP  (ADVP even)
+	    after
+	    (S (NP the brothers and sisters)
+	       (AUX were)
+	       (VP grown)))
+       ,
+       (S (NP she)
+	  (VP was
+	      (NP (NP her father)
+		  's comfort
+		  and
+		  stay))
+	  (PP until
+	      (S (NP he)
+		 (VP died
+		     (PP in
+			 (NP 1879))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP But)
+      (ADVP  even
+             so)
+      (S (NP Lucy)
+         (AUX could)
+         (NEG not)
+         (VP give
+             (PRT up)
+             (NP her intellectual pursuits))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR (WHADVP When)
+	   (S (NP (NP her brother)
+		  (NP Winslow))
+	      (VP became
+		  (NP a student
+		      (PP at
+			  (NP Brown University))))
+	      (PP in
+		  (NP 1874))))
+     ,
+     (S (NP she)
+        (VP wrote
+            (NP him)
+            (PP about
+                (NP (NP a course
+                        (PP in
+                            (NP history)))
+                    (SBAR 0
+                          (S (NP he)
+                             (AUX was)
+                             (VP taking
+                                 (NP T)
+                                 (PP under
+                                     (NP Professor Diman)))))))
+            :
+            ``
+            (SBARQ (SBARQ (WHNP What)
+			  (SQ  (NP T)
+			       (VP is
+				   (NP (NP Prof. Diman)
+				       's definition
+				       (PP of
+					   (NP civilization))))))
+                   ,
+                   and
+                   (SQ (S  (NP *) 
+                           (VP take
+                               (NP the world
+                                   (ADVP through))))
+                       ,
+		       (SQ (SQ (VP is)
+			       (NP its progress)
+			       (ADVP  ever
+				      onward))
+			   ,
+			   or
+			   (SQ (AUX does)
+			       (NP it)
+			       (VP retrograde)
+			       (PP at
+				   (NP times)))))))))
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ (AUX Do)
+      (NP you)
+      (VP think
+	  (SBAR 0
+		(S (NP I)
+		   (AUX might)
+		   (ADVP profitably)
+		   (VP study
+		       (NP some
+			   (PP of
+			       (NP (NP the history)
+				   (SBAR 0
+					 (S (NP you)
+					    (AUX do) 
+					    (X (NP T)) )) ))))
+		   ,
+		   (ADVP perhaps)
+		   (PP (NP two weeks)
+		       behind
+		       (NP you))))))
+  .
+  '') 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (NP that)
+    (S (NP she)
+       (VP proceeded
+           (S (NP *)
+              (AUX to)
+              (VP do
+                  (NP T) )))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (X (ADVP  (NP Many years)
+	       later)
+	*LRB*
+	(PP on
+	    (NP (NP August 3)
+		, 
+		(NP 1915)))
+	*RRB*)
+     ,
+     (S (NP Lucy Upton)
+	(VP wrote
+	    (NP (NP (NP Winslow)
+		    's daughter)
+		(S  (NP *)
+		    (ADVP soon)
+		    (AUX to)
+		    (VP be
+			(VP graduated
+			    (PP from
+				(NP Smith College))))))
+	    :
+	    ``
+	    (S (SBAR  While
+		      (S (NP I)
+			 (VP love
+			     (NP (NP botany)
+				 (SBAR (WHNP which)
+				       ,
+				       (S (PP after
+					      (S  (NP *)
+						  (VP dabbling
+						      (PP in
+							  (NP T) ))
+						  (PP for
+						      (NP years))))
+					  ,
+					  (S (NP I)
+					     (VP studied
+						 (NP T) 
+						 (VP according
+						     (PP to
+							 (NP the methods
+							     (PP of
+								 (NP that day
+								     (ADVP (NP  (ADVP exactly)
+										forty
+										years)
+									   ago)
+								     (PP in
+									 (NP a summer school)))))))))))))))
+	       ,
+	       (S (NP it
+		      (S-1 *pseudo-attach*))
+		  (AUX must)
+		  (VP be
+		      (ADJP fascinating))
+		  (S-1 (NP *)
+		       (AUX to)
+		       (VP take
+			   (PRT up)
+			   (NP zoology)
+			   (PP in
+			       (NP (NP the way)
+				   (SBAR 0
+					 (S (NP you)
+					    (AUX are)
+					    (VP doing))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR (WHNP Whatever)
+	  (S (NP T)
+	     (VP was
+		 (NP the science))
+	     (PP in
+		 (NP the high school course))
+	     (PP for
+		 (NP the time being))))
+    ,
+    (S (NP that)
+       (VP was
+	   (NP my favorite study))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mathematics)
+   (VP came
+       (ADVP next)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Her study
+	 (PP of
+	     (NP history)))
+     (AUX was)
+     (ADVP persistently)
+     (VP pursued))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP read
+	 (NP  (NP (NP (NP Maitland)
+		      's
+		      Dark Ages)
+		  ,
+		  ``
+		  (SBAR (WHNP which)
+			(S (NP I)
+			   (VP enjoyed
+			       (NP T) 
+			       (ADVP  very
+				      much))))
+		  '')
+	      ;
+	      ;
+	      (NP La Croix
+		  (PP on
+		      (NP the Customs
+			  (PP of
+			      (NP the Middle Ages)))))
+	      ,
+	      (X (NP 16 chapters
+		     (PP of
+			 (NP Bryce)))
+		 ``
+		 and
+		 (S  (NP *) 
+		     (VP liked
+			 (NP it)
+			 (ADVP more
+			       and
+			       more)))
+		 '')
+	      ;
+	      ;
+	      (NP more
+		  chapters
+		  (PP of
+		      (NP Guizot)))
+	      ;
+	      ;
+	      (NP (NP (NP Lecky)
+		      and
+		      (NP Stanley))
+		  's
+		  (NP Eastern Church)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP discussed
+	 (PP in
+	     (NP her letters
+		 (PP to
+		     (NP Winslow))))
+	 (NP some
+	     (PP of
+		 (NP (NP the questions)
+		     (SBAR (WHNP that)
+			   (S (NP T)
+			      (VP came
+				  (PP to
+				      (NP her)))
+			      (SBAR  as
+				     (NP she)
+				     (VP studied
+					 (ADVP alone))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Lucy)
+	's correspondence
+	(PP with
+	    (NP brother
+		Winslow))
+	(PP during
+	    (NP his college days)))
+    (AUX was)
+    (NEG not)
+    (ADVP entirely)
+    (VP taken
+	(PRT up)
+	(PP with
+	    (NP academic studies))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP played
+	 (NP chess)
+	 (PP with
+	     (NP him))
+	 (PP by
+	     (NP postcard))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Also)
+      (S (NP (NP Lucy)
+	     and
+	     (NP Winslow))
+	 (VP had
+	     (NP (NP a private contest)
+		 (S (NP *)
+		    (AUX to)
+		    (VP see
+			(SBAR (WHNP which
+				    one)
+			      (S (NP T) 
+				 (AUX could)
+				 (VP make
+				     (NP the
+					 most
+					 words)
+				     (PP from
+					 (NP the letters
+					     (PP in
+						 ``
+						 (NP (ADVP importunately))
+						 ''))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (SBAR (WHNP Who)
+		 (S (NP T)
+		    (VP won))))
+       (AUX is)
+       (NEG not)
+       (VP revealed))
+    ,
+    but
+    (S (NP (NP (NP Winslow)
+	       's daughter)
+	   (NP Eleanor))
+       (VP says
+	   (SBAR 0
+		 (S (NP they)
+		    (VP got
+			(PP up
+			    (PP to
+				(NP 1,212 words)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (VP was
+	 (NP another family interest))
+     (ADVP also))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Winslow)
+    (VP had
+	(NP musical talents))
+    ,
+    (PP as
+	(SINV (VP had)
+	      (NP his father)
+	      (PP before
+		  (NP him)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP different times))
+     (S (NP he)
+	(VP served
+	    (PP (PP as
+		    (NP glee-club and choir leader))
+		and
+		(PP as
+		    (NP organist))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP it
+	     (SBAR-2 *pseudo-attach*))
+	 (VP was
+	     (NP Lucy Upton))
+	 (SBAR-2 (WHNP who)
+	       (S  (NP T) 
+		   (ADVP first)
+		   (VP started
+		       (NP the idea
+			   (PP of
+			       (NP a regular course
+				   (PP in
+				       (NP Music))
+				   (PP at
+				       (NP Spelman College))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Winslow Upton)
+    (PP after
+	(NP (NP graduation
+		(PP from
+		    (NP Brown University)))
+	    and
+	    (NP two years
+		(PP of
+		    (NP graduate study)))))
+    ,
+    (VP accepted
+	(NP a position
+	    (PP at
+		(NP the Harvard Observatory)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP For
+	    (NP three years))
+	(S (NP he)
+	   (AUX was)
+	   (VP connected
+	       (PP (PP with
+		       (NP the U.S. Naval Observatory))
+		   and
+		   (PP with
+		       (NP the U.S. Signal Corps))))))
+     ;
+     ;
+     and
+     (S (PP after
+	    (NP 1883))
+	,
+	(S  (NP *) 
+	    (VP was
+		(NP professor
+		    (PP of
+			(NP astronomy))))
+	    (PP at
+		(NP Brown University)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (NP The six expeditions)
+	    (S (NP *)
+	       (AUX to)
+	       (VP study
+		   (NP eclipses
+		       (PP of
+			   (NP the sun))))))
+	,
+	(SBAR (WHPP of
+		    (WHNP which))
+	      (S (NP he)
+		 (VP was
+		     (NP a member))))
+	,)
+    (VP took
+	(NP him)
+	(PP (PP to
+		(NP (NP Colorado)
+		    ,
+		    (NP Virginia)
+		    ,
+		    and
+		    (NP California)))
+	    (ADVP as
+		  well
+		  (PP as
+		      (PP (PP to
+			      (NP the South Pacific))
+			  and
+			  (PP to
+			      (NP Russia))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP (NP her father)
+	    's death))
+    ,
+    (S (NP (NP Lucy)
+	   and
+	   (NP her
+	       youngest
+	       sister))
+       (VP lived
+	   (PP for
+	       (NP a few years))
+	   (PP with
+	       (NP Winslow))
+	   (PP in
+	       (NP (NP Washington)
+		   ,
+		   (NP D.C .))))))
+ .) 
+(  
+ ``
+ (S (NP Their house)
+    ''
+    ,
+    (SINV (VP writes)
+	  (NP Albert S. Flint))
+    ,
+    ``
+    (VP was
+	(ADVP always)
+	(NP (NP a haven
+		(PP of
+		    (NP (NP hospitality)
+			and
+			(NP good cheer))))
+	    ,
+	    (ADJP  especially
+		   grateful
+		   (PP to
+		       (NP (NP one
+			       (PP like
+				   (NP myself)))
+			   (ADJP far
+				 (PP from
+				     (NP home)))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Lucy)
+     (VP was
+	 (NP a lively part
+	     (PP of
+		 (NP the household)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Moreover)
+      ,
+      (S (NP she)
+	 (VP had
+	     (NP (ADJP (ADJP physical)
+		       (ADVP as
+			     well
+			     (PP as
+				 (ADJP mental))))
+		 vigor))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Winslow)
+    ,
+    (PP   as
+	  (S (NP (NP his daughters)
+		 (NP (NP Eleanor)
+		     and
+		     (NP Margaret)))
+	     (VP recall)))
+    ,
+    (VP used
+	(S (NP *)
+	   (AUX to)
+	   (VP characterize
+	       (NP her)
+	       (PP as
+		   ``
+		   (NP our iron sister)
+		   '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP is
+	(NP reason
+	    (S (NP *)
+	       (AUX to)
+	       (VP suppose
+		   (SBAR that
+			 (S (NP Lucy)
+			    (AUX would)
+			    (VP have
+				(VP made
+				    (NP (NP a record)
+					(ADJP  as
+					       publicly
+					       distinguished
+					       (PP as
+						   (NP her brother))))))
+			    (SINV (AUX had)
+				  (NP it)
+				  (NEG not)
+				  (VP been
+				      (SBAR that
+					    (S (NP (NP her mother)
+						   's death)
+					       (VP occurred
+						   (SBAR   (ADVP just)
+							   as
+							   (S (NP she)
+							      (VP was
+								  (PP about
+								      (S (NP *)
+									 (AUX to)
+									 (VP enter
+									     (NP college)))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a matter
+	    (PP of
+		(NP fact))))
+    ,
+    (S (NP Albert S. Flint)
+       (VP expressed
+	   (NP his conviction
+	       (SBAR that
+		     (S  ``
+			 (NP (NP her physical strength)
+			     ,
+			     (NP her mental power)
+			     ,
+			     (NP her lively interest
+				 (PP in
+				     (NP all objects
+					 (PP about
+					     (NP her)))))
+			     and
+			     (NP her readiness
+				 (S (NP *)
+				    (AUX to)
+				    (VP serve
+					(NP her fellow beings)))))
+			 ''
+			 (AUX would)
+			 (VP have
+			     (VP led
+				 (NP her)
+				 ``
+				 (PP to
+				     (NP a distinguished career
+					 (PP amongst
+					     (NP the noted women
+						 (PP of
+						     (NP this country))))))
+				 ''))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (X While
+       (PP in
+	   (NP (NP Washington)
+	       ,
+	       (NP D.C.))))
+    ,
+    (S (NP Lucy Upton)
+       (VP held
+	   (NP positions
+	       (PP (PP in
+		       (NP the U.S. Census Office))
+		   ,
+		   and
+		   (PP in
+		       (NP the Pension Bureau)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP They)
+	(VP were
+	    (NEG not)
+	    (ADJP   sufficiently
+		    challenging))
+	(ADVP however))
+     ,
+     and
+     (S (NP she)
+	(VP resigned)
+	(PP in
+	    (NP 1887))
+	,
+	(S (NP *)
+	   (AUX to)
+	   (VP go
+	       (PP to
+		   (NP Germany))
+	       (PP with
+		   (NP (NP (NP her brother)
+			   (NP Winslow))
+		       and
+		       (NP his family)))
+	       (SBAR while
+		     (S (NP he)
+			(VP was
+			    (ADVP there)
+			    (PP on
+				(NP study)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP the months
+	    (PP in
+		(NP Europe))))
+    ,
+    (S (NP she)
+       (VP (VP returned
+	       (PP to
+		   (NP Boston)))
+	   and
+	   (VP became
+	       (ADJP active
+		     (PP in
+			 (NP church and community life)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR (WHNP What)
+	      (S (NP T)
+		 (AUX was)
+		 (VP called
+		     (NP an
+			 ``
+			 accidental meeting
+			 ''
+			 (PP with
+			     (NP Miss Packard))
+			 (PP in
+			     (NP Washington)))))))
+    (VP turned
+	(NP her attention)
+	(PP to
+	    (NP Spelman))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV  (ADVP Here)
+	  (SINV (VP was)
+		(NP (NP a cause)
+		    (SBAR 0
+			  (S (NP she)
+			     (VP believed
+				 (PP in
+				     (NP T) )))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (PP After
+	    (NP correspondence
+		(PP with
+		    (NP Miss Packard))))
+	and
+	(PP to
+	    (NP the joy
+		(PP of
+		    (NP (NP Miss Packard)
+			and
+			(NP Miss Giles))))))
+    ,
+    (S (NP she)
+       (VP came
+	   (PP to
+	       (NP Atlanta)))
+       ,
+       (PP in
+	   (NP the fall
+	       (PP of
+		   (NP 1888))))
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP help
+	      (SBAR (WHADVP wherever)
+		    (S  (NP *) 
+			(VP needed)))))
+       ,
+       (SBAR although
+	     (S (NP there)
+		(VP was
+		    (ADVP then)
+		    (NP no money)
+		    (ADJP available
+			  (S (NP *)
+			     (AUX to)
+			     (VP pay
+				 (NP her)
+				 (NP a salary)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP served
+	 (PP for
+	     (NP a number
+		 (PP of
+		     (NP years))))
+	 (PP without
+	     (NP pay
+		 (PP beyond
+		     (NP her travel and maintenance))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Her students)
+     (AUX have)
+     (VP spoken
+	 (PP (PP of
+		 (NP the exacting standards
+		     (PP of
+			 (NP scholarship))))
+	     and
+	     (PP of
+		 (NP (NP manners and conduct)
+		     (SBAR 0
+			   (S (NP she)
+			      (VP expected
+				  and
+				  achieved
+				  (NP T) 
+				  (PP from
+				      (NP the students)))))))
+	     ;
+	     ;
+	     (PP of
+		 (NP her
+		     ``
+		     great power
+		     (PP of
+			 (NP discernment))
+		     ''))
+	     ;
+	     ;
+	     (PP of
+		 (NP ``
+		     (NP her exquisiteness
+			 (PP of
+			     (NP dress)))
+		     ''
+		     ,
+		     ``
+		     (NP (NP her well-modulated voice)
+			 (SBAR (WHNP that)
+			       (S (NP T)
+				  (VP went
+				      (PP  (ADVP straight)
+					   to
+					   (NP the hearts
+					       (PP of
+						   (NP the hearers))))))))
+		     ''
+		     ;
+		     ;
+		     (NP her great love
+			 (PP of
+			     (NP (NP flowers) 
+				 and 
+				 (NP plants)
+				 and 
+				 (NP birds))))
+		     ;
+		     ;
+		     and
+		     (NP her close knowledge
+			 (PP of
+			     (NP individual students))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP She)
+       (VP drew
+	   (PP on
+	       (NP all
+		   her resources
+		   (PP of
+		       (NP (NP mind) 
+			   and 
+			   (NP heart))))))
+       (S (S (NP *)
+	     (AUX to)
+	     (VP help
+		 (NP them)))
+	  --
+	  (S (NP *)
+	     (AUX to)
+	     (VP make
+		 (NP them)
+		 (PP at
+		     (NP home))
+		 (PP in
+		     (NP the world))))))
+    ;
+    ;
+    and
+    (S (PP as
+	   (S (NP graduates)
+	      (ADVP gratefully)
+	      (VP recall)))
+       ,
+       (S (NP she)
+	  (VP drew
+	      (PP on
+		  (NP her purse)))
+	  (ADVP as
+		well))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Many
+	 a student)
+    (VP was
+	(ADJP able
+	      (S (NP *)
+		 (AUX to)
+		 (VP remain
+		     (PP at
+			 (NP Spelman)))
+		 ,
+		 (ADVP  (ADVP only)
+			because
+			(PP of
+			    (NP her unobtrusive help)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Under
+	(NP Miss Upton))
+    ,
+    (S (NP the work
+	   (PP of
+	       (NP the
+		   year 1909-10)))
+       (VP went
+	   (ADVP forward)
+	   (PP without
+	       (NP interruption)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP all))
+    ,
+    (S (NP she)
+       (X (X (AUX had)
+	     (VP come
+		 (PP to
+		     (NP Spelman Seminary))
+		 (PP in
+		     (NP 1888))))
+	  ,
+	  and
+	  (X (AUX had)
+	     (VP been
+		 (PP since
+		     (NP 1891))
+		 (PP except
+		     (PP for
+			 (NP one year)))
+		 ,
+		 (NP (NP Associate Principal)
+		     or
+		     (NP Dean)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP She)
+    (AUX had)
+    (VP taught
+	(NP classes
+	    (PP in
+		(NP (NP botany)
+		    ,
+		    (X (NP astronomy)
+		       *LRB*
+		       (PP with
+			   (NP the aid
+			       (PP of
+				   (NP a telescope))))
+		       *RRB*)
+		    ,
+		    (NP geometry)
+		    ,
+		    and
+		    (NP psychology))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Miss Upton)
+	and
+	(NP Miss Packard))
+    ,
+    (PP as
+	(NP a matter
+	    (PP of
+		(NP fact))))
+    ,
+    (VP had
+	(NP many tastes)
+	(PP in
+	    (NP common))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Both)
+	(VP had
+	    (NP (ADJP eager and inquiring) minds)))
+     ;
+     ;
+     and
+     (S (NP both)
+	(VP believed
+	    (SBAR that
+		  (S (NP  intellectual growth)
+		     (AUX must)
+		     (VP go
+			 (NP hand
+			     (PP in
+				 (NP hand)))
+			 (PP with
+			     (NP the development
+				 (PP of
+				     (NP (NP sturdy character)
+					 and
+					 (NP Christian zeal)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Both)
+     (VP loved
+	 (NP (NP the out-of-doors)
+	     ,
+	     (VP including
+		 (NP (NP mountain climbing)
+		     and 
+		     (NP horseback riding))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP 1890)
+	    (SBAR (WHADVP when)
+		  (S (NP the trip
+			 (PP to
+			     (NP (NP Europe)
+				 and
+				 (NP the Holy Land))))
+		     (AUX was)
+		     (VP arranged
+			 (PP for
+			     (NP Miss Packard)))))))
+    ,
+    (S (NP it
+	   (SBAR-1 *pseudo-attach*))
+       (VP was
+	   (NP Miss Upton))
+       (SBAR-1 (WHNP who)
+	     (S (NP T)
+		(VP (VP planned
+			(NP the trip))
+		    ,
+		    and
+		    (VP  ``
+			 (PP with
+			     (NP rare executive
+				 ability))
+			 ''
+			 bore
+			 (NP the brunt
+			     (PP of
+				 ``
+				 (NP the entire pilgrimage)))
+			 (PP from
+			     (NP beginning))
+			 (PP to
+			     (NP end))
+			 ''))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADJP  So
+	   strenuous
+	   (SBAR-2 *pseudo-attach*))
+    (S (NP it)
+       (VP was
+	   (ADVP physically))
+       ,
+       (PP with
+	   (NP its days
+	       (PP of
+		   (NP horseback
+		       riding
+		       (PP over
+			   (NP rough roads))))))
+       (SBAR-2 that
+	       (S (NP it)
+		  (VP seems
+		      (NP an amazing feat
+			  (PP of
+			      (NP endurance))
+			  (PP for
+			      (NP both 
+				  (NP Miss Packard)
+				  and
+				  (NP Miss Upton)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP they)
+	 (VP thrived
+	     (PP on
+		 (NP it)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP (NP the Fifteenth Anniversary)
+	    *LRB*
+	    (NP 1896)
+	    *RRB*))
+    (PP as
+	(S (NP *)  
+	   (ADVP already)
+	   (VP quoted)))
+    ,
+    (S (NP Miss Upton)
+       (VP projected
+	   (PP with
+	       (NP (NP force) and (NP eloquence)))
+	   (NP the Spelman
+	       (PP of
+		   (NP the Future)))
+	   (PP as
+	       (NP a college
+		   (PP of
+		       (NP first rank))
+		   ,
+		   (PP with
+		       (NP (ADJP expanding and unlimited) horizons)))))))
+ 
+    .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP (NP Dr. Wallace Buttrick)
+		 ,
+		 (ADJP wise
+		       (PP in
+			   (NP his judgment
+			       (PP of
+				   (NP people)))))
+		 ,)
+	     (VP declined
+		 (S (NP *)
+		    (AUX to)
+		    (VP have
+			(NP the Science Building)
+			(VP named
+			    (PP for
+				(NP him))))))))
+    ,
+    (S (NP he)
+       (VP wrote
+	   (NP Miss Tapley)
+	   *LRB*
+	   (NP (NP April 7) 
+	       , 
+	       (NP 1923))
+	   *RRB*
+	   ``
+	   (S (SBAR  If
+		     (S (NP you)
+			(AUX had)
+			(VP asked
+			    (NP me))))
+	      ,
+	      (S (NP I)
+		 (VP think
+		     (SBAR 0
+			   (S (NP I)
+			      (AUX would)
+			      (VP have
+				  (VP suggested
+				      (SBAR that
+					    (S (NP you)
+					       (VP name
+						   (NP the building)
+						   (PP for
+						       (NP Miss Upton)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP Her services
+	    (PP to
+		(NP the School)))
+	(PP for
+	    (NP many years))
+	(VP were
+	    (PP of
+		(NP a
+		    (ADJP  very
+			   high) character))))
+     ,
+     and
+     (S (NP I)
+	(AUX have)
+	(ADVP often)
+	(VP thought
+	    (SBAR that
+		  (S (NP one
+			 (PP of
+			     (NP the buildings)))
+		     (AUX should)
+		     (VP be
+			 (VP named
+			     (PP for
+				 (NP her)))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV  (ADJP Such)
+	(VP were)
+	(NP the qualities
+	    (PP of
+		(NP the Acting-President
+		    (PP of
+			(NP the Seminary)))))
+	(PP after
+	    (NP the death
+		(PP of
+		    (NP Miss Giles)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the meeting
+	    (PP of
+		(NP the Board
+		    (PP of
+			(NP Trustees))))))
+    ,
+    (PP on
+	(NP (NP March 3) 
+	    , 
+	    (NP 1910)))
+    ,
+    (S (NP Miss Upton)
+       (VP presented
+	   (NP the annual report
+	       (PP of
+		   (NP the President))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP noted
+	 (SBAR (SBAR that
+		     (S (NP no student)
+			(AUX had)
+			(VP been
+			    (VP withdrawn
+				(PP through
+				    (NP loss
+					(PP of
+					    (NP confidence))))))))
+		  ;
+		  ;
+		  (SBAR that
+			(S (NP the enrollment)
+			   (VP showed
+			       (NP an increase
+				   (PP of
+				       (NP  boarding
+					    students))
+				   (PP as
+				       (S  (NP *)
+					   (AUX was)
+					   (VP desired)))))))
+		  ;
+		  ;
+		  and
+		  (SBAR that
+			(S (NP (NP the year)
+			       's work)
+			   (AUX had)
+			   (VP gone
+			       (ADVP forward)
+			       (ADVP smoothly)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP urged
+	 (NP the importance
+	     (PP of
+		 (NP (ADJP more thorough)
+		     preparation
+		     (PP for
+			 (NP admission)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The raising
+	     (PP of
+		 (NP the
+		     $ 25,000
+		     Improvement Fund))
+	     (PP (NP  two days)
+		 before
+		 (S (NP the time limit)
+		    (VP expired))))
+	 ,
+	 and
+	 (NP (NP the spontaneous
+		 ``
+		 praise demonstration
+		 '')
+	     (VP held
+		 (ADVP afterward)
+		 (PP on
+		     (NP the campus))))
+	 ,)
+     (AUX were)
+     (VP reported
+	 (PP as
+	     (NP (NP events)
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (AUX had)
+			  (VP brought
+			      (NP happiness)
+			      (PP to
+				  (NP Miss Giles)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the Fund
+	    (PP in
+		(NP hand))))
+    ,
+    (S (S (NP the debt
+	      (PP on
+		  (NP the boilers)))
+	  (AUX had)
+	  (VP been
+	      (VP paid)))
+       ;
+       ;
+       (S (NP  Rockefeller
+	       and
+	       Packard Halls)
+	  (AUX had)
+	  (VP been
+	      (VP renovated)))
+       ;
+       ;
+       (S (NP walks)
+	  (VP laid))
+       ;
+       ;
+       and
+       (S (NP ground)
+	  (AUX had)
+	  (VP been
+	      (VP broken
+		  (PP for
+		      (NP (NP the superintendent)
+			  's home)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Miss Upton)
+     (VP spoke
+	 (ADVP gratefully)
+	 (PP of
+	     (NP (NP the response
+		     (PP of
+			 (NP (NP Spelman graduates)
+			     and
+			     (NP Negro friends)))
+		     (PP in
+			 (S  (NP *)
+			     (VP helping
+				 (S (NP *)
+				    (AUX to)
+				    (VP raise
+					(NP the Fund)))))))
+		 ,
+		 and
+		 (NP their continuing efforts
+		     (S (NP *)
+			(AUX to)
+			(VP raise
+			    (NP money)
+			    (PP for
+				(NP (VP  greatly
+					 needed)
+				    current expenses)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP spoke
+	 (ADVP also)
+	 (PP with
+	     (NP deep thankfulness
+		 (PP of
+		     (NP (NP the many individuals and agencies)
+			 (SBAR (WHNP whose interest and efforts
+				     (PP through
+					 (NP the years)))
+			       (S (NP T)
+				  (AUX had)
+				  (VP made
+				      (NP the work)
+				      (ADJP  so
+					     fruitful
+					     (PP in
+						 (NP results))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Two bequests)
+	 (NP-1 *pseudo-attach*))
+     (AUX were)
+     (VP recorded)
+     :
+     (NP-1 (NP one
+	       (PP of
+		   (NP $ 200))
+	       (PP under
+		   (NP the will
+		       (PP of
+			   (NP Mrs. Harriet A. Copp
+			       (PP of
+				   (NP Los Angeles)))))))
+	 ;
+	 ;
+	 and
+	 (NP one
+	     (PP of
+		 (NP $ 2,000))
+	     (PP under
+		 (NP the will
+		     (PP of
+			 (NP (NP Miss Celia L. Brett
+				 (PP of
+				     (NP (NP Hamilton)
+					 ,
+					 (NP New York))))
+			     ,
+			     (NP a friend
+				 (PP from
+				     (NP the early days))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Miss Upton)
+     (VP told
+	 (NP the Trustees)
+	 (SBAR that
+	       (S (NP the death
+		      (PP of
+			  (NP Miss Giles)))
+		  (VP was
+		      (NP  ``
+			   (NP the
+			       sorest
+			       grief)
+			   ''
+			   (SBAR 0
+				 (S (NP the Seminary)
+				    (AUX had)
+				    (ADVP ever)
+				    (VP been
+					(VP called
+					    (PP upon)
+					    (S (NP *)
+					       (AUX to)
+					       (VP bear))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The daughters
+	(PP of
+	    (NP Spelman)))
+    ,
+    (S (NP she)
+       (VP said))
+    ,
+    (AUX had)
+    (ADVP never)
+    (VP known
+	or
+	thought
+	(PP of
+	    (NP Spelman
+		(PP without
+		    (NP her))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP The removal
+		(PP of 
+		    (NP Miss Packard )))
+	    (ADVP (NP 18 years)
+		  earlier))
+	(AUX had)
+	(VP caused
+	    (NP them great sorrow)))
+     ,
+     but
+     (S (NP they)
+	(ADVP still)
+	(VP had
+	    (NP Miss Giles))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP the school)
+	 (VP was
+	     (AUX indeed)
+	     (ADJP bereft))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (ADVP Yet)
+      (S (NP Spelman)
+	 (X (VP has
+		(NP strong
+		    ,
+		    deep
+		    roots))
+	    ,
+	    and
+	    (X (AUX will)
+	       (VP live
+		   (PP for
+		       (NP the blessing
+			   (PP of
+			       (NP (NP generations)
+				   (S (NP *)
+				      (AUX to)
+				      (VP come)))))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP Miss Mary Jane Packard)
+	   ,
+	   (NP (NP Sophia)
+	       's half-sister)
+	   ,)
+       (VP became
+	   (ADJP ill))
+       (PP in
+	   (NP (NP March)
+	       ,
+	       (NP 1910))))
+    ;
+    ;
+    and
+    (S (SBAR (WHADVP when)
+	     (S (NP school)
+		(VP closed)))
+       ,
+       (S (NP she)
+	  (VP was
+	      (ADJP unable
+		    (S (NP *)
+		       (AUX to)
+		       (VP travel
+			   (PP to
+			       (NP Massachusetts)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP She)
+	(VP remained
+	    (PP in
+		(NP Atlanta)))
+	(PP through
+	    (NP (NP June)
+		and
+		(NP July))))
+     ;
+     ;
+     (S (NP she)
+	(VP died)
+	(PP on
+	    (NP August
+		sixth))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Before
+	(S  (NP *)
+	    (VP coming
+		(PP on
+		    (NP a visit
+			(PP to
+			    (NP Spelman)))))
+	    (PP in
+		(NP 1885))))
+    ,
+    (S (S (NP Miss Mary)
+	  (AUX had)
+	  (VP been
+	      (NP a successful teacher))
+	  (PP in
+	      (NP Worcester)))
+       ,
+       and
+       (S (NP her position)
+	  (ADVP there)
+	  (AUX was)
+	  (VP held
+	      (ADJP open)
+	      (PP for
+		  (NP her)))
+	  (PP for
+	      (NP a considerable period)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP she)
+	 (VP decided
+	     (S (NP *)
+		(AUX to)
+		(VP stay
+		    (PP at
+			(NP Spelman)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP She)
+       (VP helped
+	   (PP with
+	       (NP (NP  teaching)
+		   (ADVP as
+			 well
+			 (PP as
+			     (NP office work))))))
+       (PP for
+	   (NP a few years)))
+    --
+    (S (NP the catalogues)
+       (VP show
+	   (SBAR that
+		 (S (NP she)
+		    (VP had
+			(NP classes
+			    (PP in
+				(NP (NP geography)
+				    ,
+				    (NP rhetoric)
+				    and 
+				    (NP bookkeeping))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Soon)
+      (S (NP the office work)
+	 (VP claimed
+	     (NP all
+		 her time))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (AUX was)
+     (ADVP closely)
+     (VP associated
+	 (PP with
+	     (NP the Founders)))
+     (PP in
+	 (NP all
+	     their trials and hardships)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP (ADJP Quiet and energetic)
+	  ,
+	  (ADJP cheerful and calm))
+    ,
+    (S (NP she)
+       (ADVP too)
+       (VP was
+	   (NP a power
+	       (PP in
+		   (NP the development
+		       (PP of
+			   (NP the seminary))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Miss Giles)
+     (ADVP always)
+     (VP used
+	 (S (NP *)
+	    (AUX to)
+	    (VP refer
+		(PP to
+		    (NP her))
+		(PP as
+		    ``
+		    (NP Sister)
+		    '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP She)
+     (VP (VP served
+	     (PP as
+		 (NP secretary))
+	     (PP in
+		 (NP the Seminary office))
+	     (PP for
+		 (NP 25 years)))
+	 ,
+	 and
+	 (VP was
+	     (PP in
+		 (NP charge
+		     (PP of
+			 (NP (NP correspondence)
+			     ,
+			     (NP records)
+			     ,
+			     and
+			     (NP bookkeeping))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP The books
+	    (PP of
+		(NP the school)))
+	(VP hold
+	    (NP a memorial
+		(PP to
+		    (NP her)))))
+     ;
+     ;
+     and
+     (SINV  (ADVP so)
+	    (VP do)
+	    (NP the hearts
+		(PP (PP of
+			(NP students))
+		    and
+		    (PP of
+			(NP teachers))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Mary J. Packard)
+    ,
+    (SINV (VP states)
+	  (NP a Messenger editorial))
+    ,
+    (VP was
+	``
+	(ADJP efficient
+	      ,
+	      pains-taking
+	      ,
+	      self-effacing
+	      ,
+	      loving))
+    ,
+    (S (NP *)  
+       (VP radiating
+	   (NP the spirit
+	       (PP of
+		   (NP her Master))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP With
+	    (NP infinite patience))
+	(S (NP she)
+	   (VP responded
+	       (PP to
+		   (NP every call)))
+	   ,
+	   (ADVP  no matter
+		  (WHPP at
+			(WHNP what cost
+			      (PP to
+				  (NP herself)))))))
+     ,
+     and
+     (S (S (PP to
+	       (NP her))
+	   (S (NP all)
+	      (VP went)))
+	,
+	for
+	(S (NP she)
+	   (VP was
+	       (ADJP sure
+		     (S (NP *)
+			(AUX to)
+			(VP have
+			    (NP the needed information or word
+				(PP of
+				    (NP cheer))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

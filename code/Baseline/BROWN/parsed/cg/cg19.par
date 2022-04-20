@@ -1,0 +1,2232 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Today)
+	 (S
+	  (NP the private detective)
+	  (AUX will)
+	  (ADVP also)
+	  (VP (VP investigate
+		  (NP insurance claims))
+	      or
+	      (VP handle
+		  (NP divorce cases)))))
+      ,
+      but
+      (S (NP his primary function)
+	 (VP remains
+	     (NP (SBAR (WHNP what)
+		       (S
+			(NP it)
+			(AUX has)
+			(ADVP always)
+			(VP been
+			    (NP T) )))
+		 ,
+		 (S (NP *)
+		    (AUX to)
+		    (VP assist
+			(NP (NP those)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP have
+					 (NP money))))
+			    (PP in
+				(NP their unending struggle
+				    (PP with
+					(NP (NP those)
+					    (SBAR (WHNP who)
+						  (S (NP T)
+						     (VP have)
+						     (NEG not))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (PP from
+	   (NP this unpromising background)))
+   (SBAR that
+	 (S (NP the
+		(ADJP fictional)
+		(ADJP  private)
+		detective)
+	    (AUX was)
+	    (VP recruited
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP mythological)
+       private
+       eye)
+   (VP differs
+       (PP from
+	   (NP his counterpart
+	       (PP in
+		   (NP real life))))
+       (PP in
+	   (NP two essential ways))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the one hand))
+    ,
+    (S (NP he)
+       (X (X (AUX does)
+	     (NEG not)
+	     (VP work
+		 (PP for
+		     (NP a large agency))))
+	  ,
+	  but
+	  (VP is
+	      (ADVP almost
+		    always)
+	      (ADJP self-employed)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP a free-lance investigator))
+    ,
+    (S (NP the fictional detective)
+       (VP is
+	   (ADJP responsible
+		 (PP to
+		     (NP no one
+			 (PP but
+			     (NP (NP himself)
+				 and
+				 (NP his client)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP this reason))
+    ,
+    (S (NP he)
+       (VP appears
+	   (PP as
+	       (NP (NP an independent and self-reliant figure)
+		   ,
+		   (SBAR 
+		    (WHNP whose rugged individualism)
+		    (S (NP T)
+		       (AUX need)
+		       (NEG not)
+		       (VP be
+			   (VP pressed
+		  
+			       (PP into
+				   (NP the mold
+				       (PP of
+					   (NP a 9
+					       (PP to
+						   (NP 5))
+					       routine)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP On
+	   (NP the other hand))
+       ,
+       (S (NP the fictional detective)
+	  (AUX does)
+	  (NEG not)
+	  (VP (VP break
+		  (NP strikes))
+	      or
+	      (VP handle
+		  (NP divorce cases)))))
+    ;
+    ;
+    (S (NP no client)
+       (AUX would)
+       (ADVP ever)
+       (VP think
+	   (PP of
+	       (S  (NP *)
+		   (VP asking
+		       (NP him)
+		       (S (NP *)
+			  (AUX to)
+			  (VP do
+			      (NP such things)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (WHNP Whatever
+	    his original assignment)
+      ,
+      (S (NP the
+	     (ADJP fictional) private
+	     eye)
+	 (VP ends
+	     (PRT up)
+	     (PP by
+		 (S  (NP *)
+		     (VP investigating
+			 and
+			 solving
+			 (NP (NP a crime)
+			     ,
+			     (NP  (ADVP usually)
+				  a murder))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Operating
+	      (PP as
+		  (NP a one man police force))))
+      (PP in
+	  (NP fact
+	      (SBAR if
+		    (NEG not)
+		    (PP in
+			(NP name)))))
+      ,
+      (S (NP he)
+	 (VP is
+	     (PP at
+		 (NP once))
+	     (ADJP (ADJP  more
+			  independent)
+		   and
+		   (ADJP   more
+			   dedicated
+			   (PP than
+			       (NP (NP the police)
+				   (NP themselves))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP catches
+	(NP criminals))
+    (SBAR (CONJP (NEG not)
+		 merely)
+	  (SBAR because
+		(S (S (NP he)
+		      (AUX is)
+		      (VP paid
+		     
+			  (S (NP *)
+			     (AUX to)
+			     (VP do
+				 (ADVP so)
+				 (NP T)))))
+		   *LRB*
+		   (S (ADVP frequently)
+		      (S (NP he)
+			 (AUX does)
+			 (NEG not)
+			 (VP receive
+			     (NP a fee))
+			 (PP at
+			     (NP all))))
+		   *RRB*))
+	  ,
+	  but
+	  (SBAR because
+		(S (NP he)
+		   (VP enjoys
+		       (NP his work))))
+	  ,
+	  (SBAR because
+		(S (NP he)
+		   (ADVP firmly)
+		   (VP believes
+		       (SBAR 0
+			     (S (NP that murder)
+				(AUX must)
+				(VP be
+				    (VP punished
+					)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP the fictional detective)
+	 (VP is
+	     (ADJP  much
+		    more
+		    (PP than
+			(NP a simple businessman))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP is
+       ,
+       (ADVP first
+	     and
+	     foremost)
+       ,
+       (NP (NP a defender
+	       (PP of
+		   (NP public morals)))
+	   ,
+	   (NP a servant
+	       (PP of
+		   (NP society))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP this curious blend
+	   (PP of
+	       (NP (NP rugged individualism)
+		   and
+		   (NP public service)))))
+   (SBAR (WHNP which)
+	 (S (NP T)
+	    (VP accounts
+		(PP for
+		    (NP the great appeal
+			(PP of
+			    (NP the mythological detective))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP virtue
+	    (PP of
+		(NP (NP his self-reliance)
+		    ,
+		    (NP his individualism)
+		    and
+		    (NP his freedom
+			(PP from
+			    (NP external restraint)))))))
+    ,
+    (S (NP the private eye)
+       (VP is
+	   (NP a perfect embodiment
+	       (PP of
+		   (NP (NP the middle class conception
+			   (PP of
+			       (NP liberty)))
+		       ,
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP amounts
+			       (PP to
+				   (S (S (NP *)
+					 (VP doing
+					     (SBAR (WHNP what)
+						   (S
+						    (NP you)
+						    (VP please
+							(NP T) )))))
+				      and
+				      (S  (NP *) 
+					  (VP let
+					      (NP the devil)
+					      (VP take
+						  (NP the hindmost)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the same time))
+    ,
+    (SBAR (SBAR because
+		(S (NP the personal code
+		       (PP of
+			   (NP the detective)))
+		   (VP coincides
+		       (PP with
+			   (NP the legal dictates
+			       (PP of
+				   (NP his society)))))))
+	  ,
+	  (SBAR because
+		(S (NP he)
+		   (VP likes
+		       (S (NP *)
+			  (AUX to)
+			  (VP catch
+			      (NP criminals)))))))
+    ,
+    (S (NP he)
+       (VP is
+	   (PP in
+	       (NP middle class eyes))
+	   (NP a virtuous man))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP this way))
+    ,
+    (S (NP the private detective)
+       (VP gets
+	   (NP the
+	       (ADJP best)
+	       (PP of
+		   (NP two possible worlds))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP is
+	  (NP (NP an individualist)
+	      but
+	      (NP (NEG not)
+		  an anarchist))))
+     ;
+     ;
+     (S (NP he)
+	(VP is
+	    (NP (NP a public servant)
+		but
+		(NP  
+		 (NEG not)
+		 a cop)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(ADJP short))
+    ,
+    (S (NP the
+	   (ADJP fictional) private
+	   eye)
+       (VP is
+	   (NP a specialized version
+	       (PP of
+		   (NP (NP 
+			(NP Adam Smith)
+			's ideal entrepreneur)
+		       ,
+		       (NP (NP the man)
+			   (SBAR (WHNP whose private ambitions)
+				 (S (NP T)
+				    (AUX must)
+				    (ADVP always
+					  and
+					  everywhere)
+				    (VP promote
+					(NP the public welfare)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the mystery story))
+    ,
+    (PP as
+	(PP in
+	    (NP The Wealth
+		(PP of
+		    (NP Nations)))))
+    ,
+    (S (NP (NP individualism)
+	   and
+	   (NP the social good))
+       (VP are
+	   (NP two sides
+	       (PP of
+		   (NP the
+		       (ADJP same)
+		       (ADJP  benevolent)
+		       coin))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP is
+	  (NP  only
+	       one catch
+	       (PP to
+		   (NP this idyllic arrangement)))))
+     :
+     (S (NP Adam Smith)
+	(VP was
+	    (ADJP wrong))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (CONJP Not
+	     only)
+      (SINV  (AUX did)
+	     (NP the ideal entrepreneur)
+	     (NEG not)
+	     (VP produce
+		 (NP the
+		     (ADJP greatest)
+		     good)
+		 (PP for
+		     (NP the
+			 (ADJP greatest)
+			 number))))
+      ,
+      (S (NP he)
+	 (VP ended
+	     (PP (PP by
+		     (S  (NP *)
+			 (VP destroying
+			     (NP himself))))
+		 ,
+		 (PP by
+		     (S  (NP *)
+			 (VP giving
+			     (NP birth)
+			     (PP to
+				 (NP monopoly capitalism)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The rise
+	(PP of
+	    (NP the giant corporations))
+	(PP in
+	    (NP (NP (ADJP Western)
+		    Europe)
+		and
+		(NP the United States))))
+    (VP dates
+	(PP from
+	    (NP the
+		period 1880-1900))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      ,
+      (SBAR although
+	    (S (NP the roots
+		   (PP of
+		       (NP the mystery story))
+		   (PP in
+		       (NP serious literature)))
+	       (VP go
+		   (ADVP back)
+		   (ADVP as
+			 far
+			 (PP as
+			     (NP (NP Balzac)
+				 ,
+				 (NP Dickens)
+				 ,
+				 and
+				 (NP Poe)))))))
+      ,
+      (S (NP it)
+	 (VP was
+	     (NEG not)
+	     (PP until
+		 (NP the closing decades
+		     (PP of
+			 (NP the 19th century))))
+	     (SBAR that
+		   (S (NP the private detective)
+		      (VP became
+			  (NP an established figure)
+			  (PP in
+			      (NP popular fiction))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Sherlock Holmes)
+	,
+	(NP the ancestor
+	    (PP of
+		(NP all private eyes)))
+	,)
+    (AUX was)
+    (VP born
+	  
+	(PP during
+	    (NP the 1890s))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP the transformation
+	     (PP of
+		 (NP 
+		  (NP Adam Smith)
+		  's ideal entrepreneur))
+	     (PP into
+		 (NP a mythological detective)))
+	 (VP coincides
+	     (ADVP closely)
+	     (PP with
+		 (NP the decline
+		     (PP of
+			 (NP the real entrepreneur))
+		     (PP in
+			 (NP economic life)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Driven
+	 (PP from
+	     (NP the marketplace))
+	 (PP by
+	     (NP the course
+		 (PP of
+		     (NP history)))))
+     ,
+     (S (NP our hero)
+	(VP disguises
+	    (NP himself)
+	    (PP as
+		(NP a private detective)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The birth
+       (PP of
+	   (NP the myth)))
+   (VP compensates
+       (PP for
+	   (NP the death
+	       (PP of
+		   (NP the ideal))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Even
+	    (PP on
+		(NP the fictional level)))
+      ,
+      (ADVP however)
+      ,
+      (S (NP (NP the contradictions)
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (VP give
+			  (VP rise)
+			  (PP to
+			      (NP the mystery story))))))
+	 (AUX are)
+	 (NEG not)
+	 (VP  (ADVP fully)
+	      resolved
+	      )))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The individualism
+	   and
+	   public service
+	   (PP of
+	       (NP the private detective)))
+       (NP both)
+       (VP stem
+	   (PP from
+	       (NP his dedication
+		   (PP to
+		       (NP a personal code
+			   (PP of
+			       (NP conduct))))))))
+    :
+    (S (NP he)
+       (VP enforces
+	   (NP the law)
+	   (PP without
+	       (S  (NP *)
+		   (VP being
+		       (VP told
+			   (S (NP *)
+			      (AUX to)
+			      (VP do
+				  (ADVP so))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The private eye)
+      (VP is
+	  (ADVP therefore)
+	  (NP a moral man)))
+     ;
+     ;
+     but
+     (S (NP his morality)
+	(VP rests
+	    (PP upon
+		(NP that
+		    (PP of
+			(NP his society)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The basic premise
+       (PP of
+	   (NP all mystery stories)))
+   (VP is
+       (SBAR that
+	     (S (NP the distinction
+		    (PP between
+			(ADJP good and bad)))
+		(VP coincides
+		    (PP with
+			(NP the distinction
+			    (PP between
+				(ADJP legal and illegal)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Unfortunately)
+      ,
+      (S (NP this assumption)
+	 (AUX does)
+	 (NEG not)
+	 (VP  (ADVP always)
+	      hold
+	      (ADJP good))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP capitalism)
+	      (PP in
+		  (NP the 20th century))
+	      (AUX has)
+	      (VP become
+		  (ADJP  (ADVP increasingly)
+			 dependent
+			 (PP upon
+			     (NP force and violence))
+			 (PP for
+			     (NP its survival))))))
+    ,
+    (S (NP the private detective)
+       (AUX is)
+       (VP placed
+	    
+	   (PP in
+	       (NP a serious dilemma)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (SBAR If
+	    (S (NP he)
+	       (VP is
+		   (ADJP good))))
+	,
+	(S (NP he)
+	   (AUX may)
+	   (NEG not)
+	   (VP be
+	       (ADJP legal))))
+     ;
+     ;
+     (S (SBAR if
+	      (S (NP he)
+		 (VP is
+		     (ADJP legal))))
+	,
+	(S (NP he)
+	   (AUX may)
+	   (NEG not)
+	   (VP be
+	       (ADJP good)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP is
+	(NP the
+	    (ADJP gradual)
+	    unfolding
+	    and
+	    deepening
+	    (PP of
+		(NP this contradiction))
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (VP creates
+			 (NP the inner dialectic
+			     (PP of
+				 (NP the evolution
+				     (PP of
+					 (NP the mystery story)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the advent
+	    (PP of
+		(NP 
+		 (NP Sir Arthur Conan Doyle)
+		 's
+		 Sherlock Holmes))))
+    ,
+    (S (NP the development
+	   (PP of
+	       (NP the
+		   (ADJP modern) private
+		   detective)))
+       (VP begins)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Sherlock Holmes)
+      (VP is
+	  (ADVP (NEG not)
+		merely)
+	  (NP an individualist)))
+     ;
+     ;
+     (S (NP he)
+	(VP is
+	    (ADJP very
+		  close
+		  (S (NP *)
+		     (AUX to)
+		     (VP being
+			 (NP a mental case)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A brief list
+       (PP of
+	   (NP 
+	    (NP the great detective)
+	    's little idiosyncrasies)))
+   (AUX would)
+   (VP provide
+       (NP Dr. Freud)
+       (PP with
+	   (NP ample food
+	       (PP for
+		   (NP thought))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Holmes)
+      (AUX is)
+      (VP addicted
+	     
+	  (PP to
+	      (NP the use
+		  (PP of
+		      (NP (NP cocaine)
+			  and
+			  (NP 
+			   other refreshing
+			   stimulants)))))))
+     ;
+     ;
+     (S (NP he)
+	(VP is
+	    (ADJP prone
+		  (PP to
+		      (NP (NP semi-catatonic trances)
+			  (VP induced
+			      (PP by
+				  (NP the playing
+				      (PP of
+					  (NP the vioiln))))))))))
+     ;
+     ;
+     (S (NP he)
+	(VP is
+	    (NP (NP a recluse)
+		,
+		(NP an incredible egotist)
+		,
+		(NP a confirmed misogynist)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Holmes)
+   (VP rebels
+       (PP against
+	   (NP the social conventions
+	       (PP of
+		   (NP his day)))))
+   (PP (NEG not)
+       (PP on
+	   (ADJP moral))
+       (CONJP but
+	      rather)
+       (PP on
+	   (NP aesthetic grounds))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His eccentricity)
+   (VP begins
+       (PP as
+	   (NP a defense
+	       (PP against
+		   (NP boredom))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP was
+       (PP in
+	   (NP order
+	       (S (NP *)
+		  (AUX to)
+		  (VP avoid
+		      (NP the stuffy routine
+			  (PP of
+			      (NP middle class life))))))))
+   (SBAR-1 that
+	 (S (NP Holmes)
+	    (VP became
+		(NP a detective))
+	    (PP in
+		(NP the first place)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP he)
+	   (VP informs
+	       (NP Watson))))
+    ,
+    (S  ``
+	(NP My life)
+	(AUX is)
+	(VP spent
+		 
+	    (PP in
+		(NP one long effort
+		    (S (NP *)
+		       (AUX to)
+		       (VP escape
+			   (PP from
+			       (NP the commonplaces
+				   (PP of
+				       (NP existence)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These little problems)
+   (VP help
+       (S (NP me)
+	  (AUX to)
+	  (VP do
+	      (ADVP so)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Holmes)
+      (VP is
+	  (NP a public servant))
+      ,
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (ADJP sure))))
+     ;
+     ;
+     but
+     (S (NP (NP the society)
+	    (SBAR (WHNP which)
+		  (S (NP he)
+		     (VP serves
+			 (NP T) ))))
+	(VP bores
+	    (NP him)
+	    (PP to
+		(NP tears)))))
+  .)  
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The curious relationship
+	(PP between
+	    (NP (NP Holmes)
+		and
+		(NP Scotland Yard))))
+    (VP provides
+	(NP an important clue
+	    (PP to
+		(NP the
+		    (ADJP deeper)
+		    significance
+		    (PP of
+			(NP his eccentric behavior)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP he)
+	      (VP is
+		  (ADJP  perfectly
+			 willing
+			 (S (NP *)
+			    (AUX to)
+			    (VP cooperate
+				(PP with
+				    (NP Scotland Yard))))))))
+     ,
+     (S (NP Holmes)
+	(VP has
+	    (NP nothing 
+		(PP but
+		    (NP contempt)))
+	    (PP for
+		(NP the intelligence and mentality
+		    (PP of
+			(NP the police)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (PP for
+       (NP their part))
+   (AUX are)
+   (VP convinced
+	     
+       (SBAR that
+	     (S (NP Holmes)
+		(VP is
+		    (ADJP  (ADVP too)
+			   ``
+			   unorthodox
+			   ''
+			   and
+			   ``
+			   theoretical
+			   ''
+			   (S (NP *)
+			      (AUX to)
+			      (VP make
+				  (NP a good detective)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP Why)
+  (SQ  (AUX do)
+       (NP the police)
+       (VP find
+	   (NP Holmes
+	       (ADJP  ``
+		      unorthodox
+		      '')))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the face
+	    (PP of
+		(NP it))))
+    ,
+    (S (NP it)
+       (VP is
+	   (SBAR because
+		 (S (NP he)
+		    (VP employs
+			(NP (NP deductive techniques)
+			    (ADJP alien
+				  (PP to
+				      (NP official police routine))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Another
+	 ,
+	 (ADJP more
+	       interesting) explanation
+	 ,)
+    (AUX is)
+    (VP hinted
+	  
+	(PP at)
+	(PP by
+	    (NP Watson)))
+    (SBAR 
+     (WHADVP when)
+     (S (NP he)
+	(VP observes
+	    (PP on
+		(NP several occasions))
+	    (SBAR that
+		  (S (NP Holmes)
+		     (AUX would)
+		     (VP have
+			 (VP made
+			     (NP a magnificent criminal)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The great detective)
+   (VP  (ADVP modestly)
+	agrees))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Watson)
+    's insight)
+   (AUX is)
+   (VP verified
+	     
+       (PP by
+	   (NP the mysterious link
+	       (PP between
+		   (NP (NP Holmes)
+		       and
+		       (NP (NP his arch-opponent)
+			   ,
+			   (NP Dr. Moriarty))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The two men)
+   (VP resemble
+       (NP each
+	   (ADJP other))
+       (ADVP closely)
+       (PP in
+	   (NP (NP their
+		   cunning)
+	       ,
+	       (NP their egotism)
+	       ,
+	       (NP their relentlessness)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The first series
+       (PP of
+	   (NP Sherlock Holmes adventures)))
+   (VP ends
+       (PP with
+	   (S (NP (NP Holmes)
+		  and
+		  (NP Moriarty))
+	      (VP grappling
+		  (ADVP together))
+	      (PP on
+		  (NP the edge
+		      (PP of
+			  (NP a cliff))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX are)
+   (VP presumed
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP have
+	      (VP plunged
+		  (PP to
+		      (NP a common grave))))
+	  (PP in
+	      (NP this fatal embrace)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Linked
+	 (PP to
+	     (NP Holmes))
+	 (ADVP even
+	       (PP in
+		   (NP death))))
+     ,
+     (S (NP Moriarty)
+	(VP represents
+	    (NP (NP the alter-ego
+		    (PP of
+			(NP the great detective)))
+		,
+		(NP the image
+		    (PP of
+			(SBAR (WHNP what)
+			      (S (NP our hero)
+				 (AUX might)
+				 (VP have
+				     (VP become
+					 (NP T) )))
+			      (SINV (VP were)
+				    (NP he)
+				    (NEG not)
+				    (NP a public servant)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR Just
+	    as
+	    (S (NP (NP Holmes)
+		   (NP the eccentric))
+	       (VP stands
+		   (PP behind
+		       (NP (NP Holmes)
+			   (NP the detective))))))
+      ,
+      so
+      (S (NP (NP Holmes)
+	     (NP the potential criminal))
+	 (VP lurks
+	     (PP behind
+		 (NP both)))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the
+	    (ADJP modern)
+	    English
+	    ``
+	    whodunnit
+	    ''))
+    ,
+    (S (NP this insinuation
+	   (PP of
+	       (NP latent criminality
+		   (PP in
+		       (NP (NP the detective)
+			   (NP himself))))))
+       (AUX has)
+       (ADVP almost
+	     entirely)
+       (VP disappeared)))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP (NP Hercule Poirot)
+	    and
+	    (NP Lord Peter Whimsey))
+	*LRB*
+	(NP the respective creations
+	    (PP of
+		(NP (NP Agatha Christie)
+		    and
+		    (NP Dorothy Sayers))))
+	*RRB*)
+    (AUX have)
+    (VP retained
+	(NP (NP 
+	     (NP Holmes)
+	     ' egotism)
+	    but
+	    (NP (NEG not)
+		his zest
+		(PP for
+		    (NP life))
+		and
+		eccentric habits))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Poirot)
+	   and
+	   (NP his counterparts))
+       (VP are
+	   (NP  (ADJP perfectly
+		      respectable) people)))
+    ;
+    ;
+    (S (NP it
+	   (SBAR-2 *pseudo-attach*))
+       (VP is
+	   (ADJP true))
+       (SBAR-2 that
+	     (S (NP they)
+		(VP are
+		    (ADVP also)
+		    (ADJP  extremely
+			   dull))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Their dedication
+	 (PP to
+	     (NP the status
+		 quo)))
+     (AUX has)
+     (VP been
+	 (VP affirmed
+	  
+	     (PP at
+		 (NP the expense
+		     (PP of
+			 (NP the fascinating but dangerous individualism
+			     (PP of
+				 (NP a Sherlock Holmes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP 
+       (NP The latter)
+       's real descendents)
+      (VP were
+	  (ADJP unable
+		(S (NP *)
+		   (AUX to)
+		   (VP take
+		       (NP root))
+		   (PP in
+		       (NP England))))))
+     ;
+     ;
+     (S (NP they)
+	(VP (VP fled
+		(PP from
+		    (NP the Victorian parlor)))
+	    and
+	    (VP made
+		(NP their way)
+		(PP across
+		    (NP the
+			(ADJP stormy)
+			Atlantic))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the
+	    (ADJP American)
+	    ``
+	    (ADJP hardboiled)
+	    ''
+	    detective story
+	    (PP of
+		(NP the '20s and '30s))))
+    ,
+    (S (NP the spirit
+	   (PP of
+	       (NP the mad genius
+		   (PP from
+		       (NP Baker Street)))))
+       (VP lives
+	   (ADVP on))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Like
+	(NP Holmes))
+    ,
+    (S (NP the
+	   (ADJP American) private
+	   eye)
+       (VP rejects
+	   (NP the social conventions
+	       (PP of
+		   (NP his time))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  But
+     (PP unlike
+	 (NP Holmes))
+     ,
+     (S (NP he)
+	(VP feels
+	    (S (NP his society)
+	       (AUX to)
+	       (VP be
+		   (ADJP (CONJP (NEG not)
+				merely)
+			 (ADJP dull)
+			 (CONJP but
+				also)
+			 (ADJP corrupt)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Surrounded
+	 (PP by
+	     (NP crime and violence))
+	 (ADVP everywhere))
+     ,
+     (S (NP the
+	    (ADJP  ``
+		   hardboiled
+		   '')
+	    private
+	    eye)
+	(AUX can)
+	(VP retain
+	    (NP his purity)
+	    (PP  (ADVP only)
+		 through
+		 (NP a life
+		     (PP of
+			 (NP self-imposed isolation)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His alienation)
+      (VP is
+	  (ADJP  (ADVP far
+		       more)
+		 acute
+		 (PP than
+		     (NP 
+		      (NP Holmes)
+		      ')))))
+     ;
+     ;
+     (S (NP he)
+	(VP is
+	    (NP (NEG not)
+		(NP an
+		    (ADJP eccentric))
+		(CONJP but
+		       rather)
+		(NP an outcast)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP 
+	 (NP Rex Stout)
+	 's
+	 Nero Wolfe))
+    ,
+    (S (NP alienation)
+       (AUX is)
+       (VP represented
+		 
+	   (PP on
+	       (NP a
+		   (ADJP purely
+			 physical) plane)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Wolfe)
+    (VP (VP refuses
+	    (S  (NP *)  
+		(AUX to)
+		(VP  (ADVP ever)
+		     leave
+		     (NP his own house))))
+	,
+	and
+	(VP spends
+	    (ADJP most
+		  (PP of
+		      (NP his time)))
+	    (S (S (NP *)  
+		  (VP drinking
+		      (NP beer)))
+	       and
+	       (S (NP *)  
+		  (VP playing
+		      (PP with
+			  (NP orchids))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (ADJP (ADJP  More
+		    profound)
+	     and
+	     (ADJP  more
+		    disturbing))
+       ,
+       (ADVP however)
+       ,
+       (VP is
+	   (NP the moral isolation
+	       (PP of
+		   (NP 
+		    (NP Raymond Chandler)
+		    's
+		    Philip Marlowe)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP a society)
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP everything)
+		(VP is
+		    (PP for
+			(NP sale)))))))
+    ,
+    (S (NP Marlowe)
+       (VP is
+	   (NP (NP the only man)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(AUX can)
+			(NEG not)
+			(VP be
+			    (VP bought
+				))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His tough honesty)
+   (VP condemns
+       (NP him)
+       (PP to
+	   (NP a solitary and difficult existence))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP (VP Beaten)
+	 ,
+	 (VP bruised)
+	 and
+	 (VP exhausted))
+     ,
+     (S (NP he)
+	(VP pursues
+	    (NP the elusive killer)
+	    (PP through
+		(NP the demi-monde
+		    (PP of
+			(NP (NP high society)
+			    and
+			    (NP low morals))))))
+	,
+	(ADJP (ADVP always)
+	      alone)
+	,
+	(ADJP  (ADVP always)
+	       despised)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP the end))
+       ,
+       (S (S (NP he)
+	     (VP gets
+		 (NP his man)))
+	  ,
+	  but
+	  (S (NP no one)
+	     (VP seems
+		 (S (NP *)
+		    (AUX to)
+		    (VP care))))))
+    ;
+    ;
+    (S (NP virtue)
+       (VP is
+	   (NP its own and only reward))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP A similar tone
+        (PP of
+            (NP  underlying
+		 futility and despair)))
+    (VP (VP pervades
+	    (NP the spy thrillers
+		(PP of
+		    (NP Eric Ambler))))
+	and
+	(VP dominates
+	    (NP (NP the
+		    (ADJP  most famous
+			   (PP of
+			       (NP all American mystery stories))))
+		,
+		(NP (NP Dashiell Hammett)
+		    's
+		    The Maltese Falcon)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Sam Spade)
+      (VP joins
+	  (NP forces)
+	  (PP with
+	      (NP (NP a band
+		      (PP of
+			  (NP adventurers)))
+		  (PP in
+		      (NP search
+			  (PP of
+			      (NP a
+				  (ADJP priceless)
+				  (ADJP  jeweled)
+				  statue
+				  (PP of
+				      (NP a falcon))))))))))
+     ;
+     ;
+     but
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP the bird)
+	    (AUX is)
+	    (VP found
+		)
+	    (PP at
+		(ADJP last))))
+	,
+	(S (NP it)
+	   (VP turns
+	       (PRT out)
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (NP a fake)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP the detective)
+	 (AUX must)
+	 (VP save
+	     (NP his own skin)
+	     (PP by
+		 (S  (NP *)
+		     (VP informing
+			 (PP on
+			     (NP (NP (NP the girl)
+				     (SBAR 0
+					   (S
+					    (NP he)
+					    (VP loves
+						(NP T) ))))
+				 ,
+				 (SBAR 
+				  (WHNP who)
+				  (S (NP T)
+				     (VP is
+					 (ADVP also)
+					 (NP the real murderer))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP For
+	   (NP Sam Spade))
+       ,
+       (S (NP neither crime nor virtue)
+	  (VP pays)))
+    ;
+    ;
+    (S (ADVP moreover)
+       ,
+       (S (NP it
+	      (S-3 *pseudo-attach*))
+	  (VP is
+	      (ADJP  increasingly
+		     difficult))
+	  (S-3 (NP *)
+	     (AUX to)
+	     (VP distinguish
+		 (PP between
+		     (NP the two)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Because
+	(S (NP the private eye)
+	   (VP intends
+	       (S (NP *)
+		  (AUX to)
+		  (VP save
+		      (NP society))
+		  (PP in
+		      (NP spite
+			  (PP of
+			      (NP himself))))))))
+    ,
+    (S (NP he)
+       (ADVP invariably)
+       (VP finds
+	   (NP himself)
+	   (PP in
+	       (NP trouble
+		   (PP with
+		       (NP the police)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The latter)
+   (VP are
+       (ADJP either
+	     (ADJP  too
+		    stupid
+		    (S (NP *)
+		       (AUX to)
+		       (VP catch
+			   (NP the killer))))
+	     or
+	     (ADJP  too
+		    corrupt
+		    (S (NP *)
+		       (AUX to)
+		       (VP care))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP either case))
+    ,
+    (S (NP they)
+       (AUX do)
+       (NEG not)
+       (VP appreciate
+	   (NP 
+	    (NP the private detective)
+	    's zeal))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP (NP Perry Mason)
+	    and
+	    (NP Hamilton Burger))
+	,
+	(NP (NP Nero Wolfe)
+	    and
+	    (NP Inspector Cramer)))
+    (VP spend
+	(NP 
+	 (ADJP more)
+	 time)
+	(S  (NP *)
+	    (VP fighting
+		(NP each
+		    (ADJP other))))
+	(PP than
+	    (S (NP they)
+	       (VP do)
+	       (PP in
+		   (S  (NP *)
+		       (VP looking
+			   (PP for
+			       (NP the criminal)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Frequently
+	       enough)
+	 ,
+	 (S (NP the police)
+	    (VP are
+		(NP themselves)
+		(PP in
+		    (NP league
+			(PP with
+			    (NP the killer)))))))
+      ;
+      ;
+      (S (NP 
+	  (NP Dashiell Hammett)
+	  's
+	  Red Harvest)
+	 (VP provides
+	     (NP a classic example
+		 (PP of
+		     (NP this theme))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR 
+       (WHADVP  even
+		when)
+       (S (NP the police)
+	  (VP are
+	      (ADJP honest))))
+      ,
+      (S (NP they)
+	 (AUX do)
+	 (NEG not)
+	 (VP trust
+	     (NP the private eye))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP is
+       ,
+       (PP like
+	   (NP Phillip Marlowe))
+       ,
+       (ADJP   too
+	       alienated
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (ADJP reliable))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Finally)
+      ,
+      (PP in
+	  (NP The Maltese Falcon
+	      (PP among
+		  (NP others))))
+      ,
+      (S (S (NP the clash
+		(PP between
+		    (NP detective and police)))
+	    (AUX is)
+	    (VP carried
+	      
+		(PP to
+		    (NP its logical conclusion))))
+	 :
+	 (S (NP Sam Spade)
+	    (VP becomes
+		(NP the chief murder suspect)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (PP In
+	      (NP order
+		  (S (NP *)
+		     (AUX to)
+		     (VP exonerate
+			 (NP himself))))))
+    ,
+    (S (NP he)
+       (AUX is)
+       (VP compelled
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP find
+		  (NP (NP the real criminal)
+		      ,
+		      (SBAR 
+		       (WHNP who)
+		       (S (NP T)
+			  (VP happens
+			      (S (NP *)
+				 (AUX to)
+				 (VP be
+				     (NP his girl friend))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (SBAR (WHNP What)
+	       (S (NP T)
+		  (VP was
+		      (NP  (ADVP only)
+			   a vague suspicion))
+		  (PP in
+		      (NP the case
+			  (PP of
+			      (NP Sherlock Holmes)))))))
+     (ADVP now)
+     (VP appears
+	 (PP as
+	     (NP a direct accusation))))
+    :
+    (S (NP the private eye)
+       (VP is
+	   (PP in
+	       (NP danger
+		   (PP of
+		       (S  (NP *)
+			   (VP turning
+			       (PP into
+				   (NP his opposite))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP the growing contradiction
+	   (PP between
+	       (NP (NP individualism)
+		   and
+		   (NP public service)))
+	   (PP in
+	       (NP the mystery story)))
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP creates
+			(NP this fatal dilemma))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S  (NP *)
+	    (VP upholding
+		(NP his
+		    (ADJP own personal)
+		    code
+		    (PP of
+			(NP behavior))))))
+    ,
+    (S (NP the private detective)
+       (AUX has)
+       (VP placed
+	   (NP himself)
+	   (PP in
+	       (NP opposition
+		   (PP to
+		       (NP (NP a society)
+			   (SBAR (WHNP whose fabric)
+				 (S (NP T)
+				    (AUX is)
+				    (VP permeated
+					      
+					(PP with
+					    (NP crime and corruption))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP That society)
+   (VP responds
+       (PP by
+	   (S  (NP *)
+	       (VP condemning
+		   (NP the private eye)
+		   (PP as
+		       (NP (NP a threat
+			       (PP to
+				   (NP the status
+				       quo)))
+			   ,
+			   (NP a potential criminal))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	(S (NP the detective)
+	   (VP insists
+	       (PP upon
+		   (S  (NP *)
+		       (VP retaining
+			   (NP his personal standards)))))))
+    ,
+    (S (NP he)
+       (AUX must)
+       (ADVP now)
+       (VP do
+	   (ADJP so)
+	   (PP in
+	       (NP conscious defiance
+		   (PP of
+		       (NP his society)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX must)
+   ,
+   (PP in
+       (ADJP short))
+   ,
+   (VP (VP cease
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (NP a detective))))
+       and
+       (VP become
+	   (NP a rebel))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the other hand))
+    ,
+    (SBAR if
+	  (S (NP he)
+	     (VP wishes
+		 (S (NP *)
+		    (AUX to)
+		    (VP continue
+			(PP in
+			    (NP his chosen profession)))))))
+    ,
+    (S (NP he)
+       (AUX must)
+       (VP (VP abandon
+	       (NP his own code))
+	   and
+	   (VP sacrifice
+	       (NP his precious individualism)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dashiell Hammett)
+   (VP resolved
+       (NP this contradiction)
+       (PP by
+	   (S (S  (NP *)
+		  (VP ceasing
+		      (S (NP *)
+			 (AUX to)
+			 (VP write
+			     (NP mystery stories)))))
+	      and
+	      (S  (NP *) 
+		  (VP turning
+		      (PP to
+			  (NP other pursuits))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His successors)
+   (AUX have)
+   (VP adopted
+       (NP the opposite alternative)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (PP In
+	      (NP order
+		  (S (NP *)
+		     (AUX to)
+		     (VP save
+			 (NP the mystery story))))))
+    ,
+    (S (NP they)
+       (AUX have)
+       (VP converted
+	   (NP the private detective)
+	   (PP into
+	       (NP an organization man)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP first)
+       (PP of
+	   (NP two possible variations
+	       (PP on
+		   (NP this theme)))))
+   (AUX is)
+   (VP symbolized
+	     
+       (PP by
+	   (NP 
+	    (NP Mickey Spillane)
+	    's
+	    Mike Hammer))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP first glance))
+    ,
+    (S (NP this hero)
+       (VP seems
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (ADJP more
+			(ADVP rather
+			      (PP than
+				  (ADJP less)))
+			(PP of
+			    (NP an individualist))
+			(PP than
+			    (NP any
+				(PP of
+				    (NP his predecessors))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP Hammer))
+    ,
+    (S (NP nothing)
+       (AUX is)
+       (VP forbidden
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP kills
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP he)
+		(VP pleases))))
+	,
+	(VP takes
+	    (NP his women)
+	    (SBAR 
+	     (WHADVP where)
+	     (S (NP he)
+		(VP finds
+		    (NP them)))))
+	and
+	(VP  (ADVP always)
+	     acts
+	     (PP as
+		 (NP (NP judge
+			 ,
+			 jury and executioner)
+		     (VP rolled
+			 (PP into
+			     (NP one))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

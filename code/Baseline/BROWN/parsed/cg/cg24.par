@@ -1,0 +1,2173 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The President)
+    's personality)
+   (AUX would)
+   (VP have
+       (VP opened
+	   (NP that office)
+	   (PP to
+	       (NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP for
+	  (NP the first time))
+      (S
+       (NP a representative
+	   (PP of
+	       (NP the
+		   (ADJP highest)
+		   office
+		   (PP in
+		       (NP the land)))))
+       (AUX would)
+       (VP have
+	   (VP been
+	       (ADJP liable
+		     (PP to
+			 (NP the charge
+			     (SBAR that
+				   (S (NP he)
+				      (AUX had)
+				      (VP attempted
+					  (S (NP *)
+					     (AUX to)
+					     (VP make
+						 (NP it)
+						 (NP a successorship
+						     (PP by
+							 (NP inheritance)))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (NP testimony
+	   (PP to
+	       (NP (NP the deep respect)
+		   (SBAR (WHPP in
+			       (WHNP which))
+			 (S
+			  (NP Mr. Eisenhower)
+			  (AUX was)
+			  (VP held
+				    
+			      (PP by
+				  (NP members
+				      (PP of
+					  (NP all parties)))))))))))
+   (SBAR-1 that
+	 (S (NP (NP the moral considerations)
+		(VP raised
+		    (PP by
+			(NP his approach
+			    (PP to
+				(NP the matter))))))
+	    (VP were
+		(NEG not)
+		(S (NP *)
+		   (ADVP explicitly)
+		   (AUX to)
+		   (VP be
+		       (VP broached
+			   )))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP began
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (ADJP apparent))))
+   (PP in
+       (NP (NP a press conference)
+	   (VP held
+	       (PP during
+		   (NP the second illness))
+	       (SBAR (PP in
+			 (NP order))
+		     that
+		     (S (NP the consulting specialists)
+			(AUX might)
+			(VP clarify
+			    (NP 
+			     (NP the President)
+			     's condition)
+			    (PP for
+				(NP the nation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR if
+	    (S (NP Howard Rutstein)
+	       (VP felt
+		   (VP impelled
+		       (ADVP thereafter)
+		       (S (NP *)
+			  (AUX to)
+			  (VP formulate
+			      (NP the ethics
+				  (PP of
+				      (NP the medical profession)))))))))
+      ,
+      (S (NP his article
+	     (PP in
+		 (NP the Atlantic Monthly)))
+	 (VP accomplished
+	     (NP a good deal
+		 more))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP forced
+       (S (NP us)
+	  (AUX to)
+	  (VP fix
+	      (NP the responsibility
+		  (PP for
+		      (NP (NP the position)
+			  (SBAR 
+			   (WHPP in
+				 (WHNP which))
+			   (S (NP all medical commentators)
+			      (AUX had)
+			      (VP been
+				  (VP placed
+				      )))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The discussion
+       (PP of
+	   (NP professional ethics)))
+   (ADVP inevitably)
+   (VP reminded
+       (NP us)
+       (SBAR that
+	     (S (PP in
+		    (NP the historical perspective))
+		(S
+		 (NP 
+		  (NP the President)
+		  's decision)
+		 (AUX will)
+		 (ADVP finally)
+		 (VP clarify
+		     (NP itself)
+		     (PP as
+			 (NP a
+			     (ADJP moral
+				   ,
+				   (ADVP rather
+					 (PP than
+					     (NP a
+						 (ADJP medical))))
+				   ,)
+			     problem))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Because
+	(S (NP the responsibility
+	       (PP for
+		   (S  (NP *)
+		       (VP resolving
+			   (NP the issue)))))
+	   (VP lay
+	       (PP with
+		   (NP the President))
+	       ,
+	       (ADVP rather
+		     (PP than
+			 (PP with
+			     (NP his doctors))))
+	       ,)))
+    (S (NP nothing)
+       (VP raises
+	   (ADVP more surely)
+	   (PP for
+	       (NP us))
+	   (NP (NP the difficulties)
+	       (SBAR 0
+		     (S (NP simple goodness)
+			(VP faces
+			    (NP T) 
+			    (PP in
+				(S  (NP *)
+				    (VP dealing
+					(PP with
+					    (NP 
+					     (ADJP complex)
+					     (ADJP  moral)
+					     problems))
+					(PP under
+					    (NP political pressure))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  For
+     (S (NP the President)
+	(AUX had)
+	(VP dealt
+	    (PP with
+		(NP the matter))
+	    (ADVP humbly))
+	,
+	(PP  in
+	     (SBAR (WHNP what)
+		   (S
+		    (NP he)
+		    (VP conceived
+			(NP T)
+			(PP as
+			    (NP the democratic way))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the problem)
+	 (VP is
+	     (NP (NP one)
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (VP gives
+			      (NP us)
+			      (NP the measure
+				  (PP of
+				      (NP a man
+					  ,
+					  (ADVP rather
+						(PP than
+						    (NP (NP a group
+							    (PP of
+								(NP men)))
+							,
+							(PP whether
+							    (NP (NP a group
+								    (PP of
+									(NP doctors)))
+								,
+								(NP a group
+								    (PP of
+									(NP (NP party members)
+									    (VP assembled
+										(PP at
+										    (NP a dinner))
+										(S (NP *)
+										   (AUX to)
+										   (VP give
+										       (NP their opinion)))))))
+								,
+								or
+								(NP the masses
+								    (PP of
+									(NP the voters))))))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+
+((S (NP Any attempt
+	(S (NP *)
+	   (AUX to)
+	   (VP reconcile
+	       (NP this statement
+		   (PP of
+		       (NP the central issue)))
+	       (PP in
+		   (NP the campaign
+		       (PP of
+			   (NP 1956))))
+	       (PP with
+		   (NP the nature
+		       (PP of
+			   (NP (NP the man)
+			       (SBAR (WHNP who)
+				     (S (NP T)
+					(AUX could)
+					(NEG not)
+					(VP conceive
+					    (NP it)
+					    (PP as
+						(NP the central
+						    issue))))))))))))
+    (AUX will)
+    (PP at
+	(ADJP least))
+    (VP resolve
+	(NP our confusions
+	    (PP about
+		(NP the chaotic and misleading results
+		    (PP of
+			(NP the earnestness
+			    (PP of
+				(NP both
+				    (NP doctors)
+				    and
+				    (NP President))))))))
+	(PP in
+	    (NP (NP a situation)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (AUX should)
+			 (ADVP never)
+			 (VP have
+			     (VP arisen))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP (NP a response
+	       (PP to
+		   (NP the conflict
+		       (PP between
+			   (NP (NP political pressure)
+			       and
+			       (NP the moral intuition))))))
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP resulted
+			(PP in
+			    (NP attempts
+				(PP at
+				    (NP prediction))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV  (PP In
+	    (NP no other situation))
+	(AUX would)
+	(NP a group
+	    (PP of
+		(NP (NP doctors)
+		    ,
+		    (VP struggling
+			(ADVP competently)
+			(S (NP *)
+			   (AUX to)
+			   (VP improve
+			       (NP the life expectancy
+				   (PP of
+				       (NP (NP a man)
+					   (ADJP beloved
+						 (PP by
+						     (NP the world)))))))))
+		    ,)))
+	(VP be
+	    (VP subjected
+		     
+		(PP to
+		    (NP 
+		     (ADJP such merciless and persistent)
+		     questioning))
+		,
+		and
+		(PP before
+		    (S (NP they)
+		       (AUX were)
+		       (VP prepared
+		    
+			   (S (NP *)
+			      (AUX to)
+			      (VP demonstrate
+				  (NP (NP the kind
+					  (PP of
+					      (NP verbal precision)))
+				      (SBAR (WHNP which)
+					    (S (NP T)
+					       (ADVP alone)
+					       (AUX can)
+					       (VP clarify
+						   (PP for
+						       (NP mankind))
+						   (NP (NP the problems)
+						       (SBAR 0
+							     (S
+							      (NP it)
+							      (VP faces
+								  (NP T) ))))))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (SBAR though
+	    (S (NP we)
+	       (AUX can)
+	       (VP (VP look
+		       (ADVP back)
+		       (ADVP now))
+		   and
+		   (VP  see
+			(NP their errors)))))
+      ,
+      (S (NP we)
+	 (AUX can)
+	 (VP look
+	     (ADVP back)
+	     (ADVP also)
+	     (PP to
+		 (NP the ultimate error)))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP recurred
+	  (PP in
+	      (NP the press conferences))))
+     :
+     (S (NP
+	 (NP the President)
+	 's remarks
+	 (PP about
+	     (NP his running)))
+	(VP developed
+	    (NP (NP a singular tone)
+		,
+		(NP (NP one)
+		    (SBAR (WHNP which)
+			  (S
+			   (NP we)
+			   (VP find
+			       (NP T)
+			       (PP in
+				   (NP (NP few statements)
+				       (VP made
+					   (PP by
+					       (NP public individuals))
+					   (PP on
+					       (NP such
+						   a matter)))))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The press conference)
+   (VP became
+       (NP (NP a stage)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP betrayed
+			(NP the drift
+			    (PP of
+				(NP his private thinking)))
+			,
+			(ADVP rather
+			      (PP than
+				  (NP his convictions)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP commented
+       --
+       (S (ADVP thoughtfully)
+	  ,
+	  (S (NP a reporter)
+	     (VP told
+		 (NP us))))
+       --
+       (SBAR that
+	     (S (NP it)
+		(VP was
+		    (ADJP  ``
+			   (NEG not)
+			   too
+			   important
+			   (PP for
+			       (NP the individual))))
+		(SBAR 
+		 (WHADVP how)
+		 (S (NP he)
+		    (VP ends
+			(PRT up))))
+		''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP gave
+       (NP us)
+       (NP a simile))
+   (S (NP *)
+      (AUX to)
+      (VP explain
+	  (NP his admission
+	      (SBAR that
+		    (S (ADVP even
+			     (PP at
+				 (NP the
+				     (ADJP worst)
+				     period
+				     (PP of
+					 (NP his second illness)))))
+		       (S (S
+			   (NP it)
+			   (ADVP never)
+			   (VP occurred
+			       (PP to
+				   (NP him))
+			       (SBAR 0
+				     (S (NP there)
+					(VP was
+					    (NP any renewed question
+						(PP about
+						    (NP his running))))))))
+			  :
+			  (S (PP as
+				 (PP in
+				     (NP the Battle
+					 (PP of
+					     (NP the Bulge)))))
+			     ,
+			     (S (NP he)
+				(VP had
+				    (NP no fears)
+				    (PP about
+					(NP the outcome)))
+				(PP until
+				    (S (NP he)
+				       (VP read
+					   (NP the American newspapers)))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S Yet
+      (S (NP (NP the attitude)
+	     (SBAR that
+		   (S (NP the fate
+			  (PP of
+			      (NP the Presidency demands)))
+		      (PP in
+			  (NP such
+			      a situation)))))
+	 (VP is
+	     (ADJP  quite
+		    distinct
+		    (PP from
+			(NP (NP the simple courage)
+			    (SBAR (WHNP that)
+				  (S (NP T)
+				     (AUX can)
+				     (VP proceed
+					 (PP with
+					     (NP battles
+						 (S (NP *)
+						    (AUX to)
+						    (VP be
+							(VP fought
+							    ))))))
+				     ,
+				     (ADVP regardless
+					   (PP of
+					       (NP the consequences)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP this case))
+     (S (NP others)
+	(AUX should)
+	(NEG not)
+	(VP have
+	    (VP had
+		(S (NP *)
+		   (AUX to)
+		   (VP raise
+		       (NP the doubts and fears)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Presidency)
+   (VP demands
+       (NP an incisive awareness
+	   (PP of
+	       (NP the
+		   (ADJP larger)
+		   implications
+		   (PP of
+		       (NP the death
+			   (PP of
+			       (NP any incumbent)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (VP is
+       (PP of
+	   (NP the utmost importance
+	       (PP to
+		   (NP the people
+		       (PP (PP of
+			       (NP America))
+			   and
+			   (PP of
+			       (NP the world))))))))
+   (SBAR-2 
+    (WHADVP how)
+    (S (NP their governing President)
+       (VP  ``
+	    ends
+	    (PRT up)
+	    '')
+       (PP during
+	   (NP the four years
+	       (PP of
+		   (NP his term)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV (SBAR 
+	(WHADVP  (ADVP Only)
+		 when)
+	(S (S (NP that term)
+	      (AUX is)
+	      (VP ended
+		  ))
+	   and
+	   (S (NP he)
+	      (VP is
+		  (NP a private citizen))
+	      (ADVP again))))
+       (AUX can)
+       (NP he)
+       (VP be
+	   (VP permitted
+	        
+	       (NP (NP the freedom)
+		   and
+		   (NP the courage
+		       (S (NP *)
+			  (AUX to)
+			  (VP discount
+			      (NP the dangers
+				  (PP of
+				      (NP his death))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP  Ironically
+	   enough)
+    ,
+    (PP in
+	(NP this instance))
+    (S (NP such personal virtues)
+       (VP were
+	   (NP a luxury))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the national and international level))
+    ,
+    (ADVP then)
+    ,
+    (S (NP (SBAR 
+	    (WHNP what)
+	    (S (NP T)
+	       (VP is
+		   (NP the
+		       (ADJP highest)
+		       kind
+		       (PP of
+			   (NP morality))
+		       (PP for
+			   (NP the private citizen)))))))
+       (VP represents
+	   (NP an instance
+	       (PP of
+		   (NP political immorality))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP we)
+	 (VP had
+	     (NP the uneasy sense
+		 (SBAR that
+		       (S (NP the cleavage
+			      (PP between
+				  (NP (NP the
+					  (ADJP moral))
+				      and
+				      (NP the
+					  (ADJP political)))))
+			  (VP progressed
+			      (PP amid
+				  (NP (NP the events)
+				      (SBAR (WHNP which)
+					    (S (NP T)
+					       (VP concern
+						   (NP us)))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (S (NP the tone
+	     (PP of
+		 (NP (NP the editorials)
+		     (SBAR (WHNP which)
+			   (S (NP T)
+			      (VP greeted
+				  (NP
+				   (NP Mr. Eisenhower)
+				   's original announcement
+				   (PP of
+				       (NP his running)))))))))
+	 (AUX had)
+	 (VP been
+	     (ADJP  strangely
+		    disquieting))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP Neither
+	 (NP (NP the vibrant enthusiasm)
+	     (SBAR (WHNP which)
+		   (S (NP T)
+		      (VP bespeaks
+			  (NP 
+			   (NP a people)
+			   's intuitive sense
+			   (PP of
+			       (NP the fitness
+				   (PP of
+				       (NP things))))))
+		      (PP at
+			  (NP climactic moments)))))
+	 nor
+	 (NP (NP the vital argumentation)
+	     (VP betraying
+		 (NP its sense
+		     (SBAR that
+			   (S (NP (NP something)
+				  (ADJP significant))
+			      (AUX has)
+			      (VP transpired)))))))
+     (VP was
+	 (PP in
+	     (NP evidence))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nothing)
+   (VP testifies
+       (ADVP more clearly)
+       (PP to
+	   (NP that cleavage))
+       (PP than
+	   (NP (NP the peculiar editorial page)
+	       (VP appearing
+		   (PP in
+		       (NP (NP a July issue
+			       (PP of
+				   (NP Life Magazine)))
+			   ,
+			   (NP (NP the issue)
+			       (SBAR (WHNP which)
+				     (S (NP T)
+					(ADVP also)
+					(VP carried
+					    (NP the second announcement
+						(PP of
+						    (NP the candidacy))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The double editorial
+       (PP on
+	   (NP Two Aspects Of
+	       ``
+	       The U.S. Spirit
+	       '')))
+   (AUX was)
+   (ADVP subtly)
+   (VP calculated
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP suggest
+	      (NP a moral sanction
+		  (PP for
+		      (NP (NP gambles)
+			  (ADJP great
+				(ADVP as
+				      well
+				      (PP as
+					  (ADJP small))))))))))
+   ,
+   (S  (NP *)
+       (VP reflecting
+	   (NP popular approval
+	       (PP of
+		   (NP this questionable attitude
+		       (PP toward
+			   (NP the
+			       (ADJP highest)
+			       office
+			       (PP in
+				   (NP the land))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP (NP  ``
+	     The Moral Creed
+	     '')
+	and
+	(NP  ``
+	     The Will To Risk
+	     ''))
+    (VP live
+	(ADVP happily)
+	(ADVP together))
+    ,
+    (SBAR if
+	  (S (NP we)
+	     (AUX do)
+	     (NEG not)
+	     (VP examine
+		 (SBAR 
+		  (WHADVP where)
+		  (S (NP the line)
+		     (VP is
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(VP drawn
+				    ))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+	(NP I)
+	(AUX may)
+	(ADVP possibly)
+	(VP be
+	    (NP a
+		(ADJP greater)
+		risk
+		(PP than
+		    (SINV (VP is)
+			  (NP the normal person
+			      (PP of
+				  (NP my age)))))))
+	'')
+    ,
+    (S (NP the President)
+       (AUX had)
+       (VP said)
+       (PP on
+	   (NP February
+	       (ADJP 29th)
+	       (PP of
+		   (NP the election year)))))
+    ,
+    (S  (NP *) 
+	(VP ignoring
+	    (NP the fact
+		(SBAR that
+		      (S (NP no one
+			     (PP of
+				 (NP his age)))
+			 (AUX had)
+			 (ADVP ever)
+			 (VP lived
+			     (PRT out)
+			     (NP another term))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP My doctors)
+      (VP assure
+	  (NP me)
+	  (SBAR that
+		(S (NP this increased percentage
+		       (PP of
+			   (NP risk)))
+		   (VP is
+		       (NEG not)
+		       (ADJP great))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  But
+     (PP by
+	 (NP the time
+	     (SBAR 0
+		   (S
+		    (NP the risk)
+		    (AUX was)
+		    (VP doubled
+			)))))
+     ,
+     (S (NP events)
+	(AUX had)
+	(VP dismissed
+	    (PP from
+		(NP his mind))
+	    (NP both
+		(NP  increased percentages)
+		and
+		(NP a
+		    (ADJP  previously
+			   stated)
+		    intention
+		    (PP of
+			(S  (NP *)
+			    (VP considering
+				(ADVP carefully)
+				(NP anything
+				    (ADJP  more
+					   serious
+					   (PP than
+					       (NP a bout
+						   (PP of
+						       (NP influenza))))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV (ADVP Only
+	       infrequently)
+	 (AUX did)
+	 (NP the situation)
+	 (VP color
+	     (NP his thinking)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Ironically)
+      (S (NP (NP no president)
+	     (SBAR 0
+		   (S (NP we)
+		      (AUX have)
+		      (VP had
+			  (NP T) ))))
+	 (AUX would)
+	 (VP have
+	     (VP regretted
+		 (ADJP more
+		       (PP than
+			   (NP President Eisenhower)))
+		 (NP (NP the possibility)
+		     (SBAR (SBAR (WHPP to
+				       (WHNP which))
+				 (S (NP his own words)
+				    ,
+				    (PP in
+					(NP (NP the press conference)
+					    (VP held
+						(PP at
+						    (NP the beginning
+							(PP of
+							    (NP August)))))))
+				    ,
+				    (VP testified)))
+			   :
+			   (SBAR that
+				 (S (ADJP unable
+					  (PP as
+					      (S (NP he)
+						 (VP was
+						     (NP himself))))
+					  (S (NP *)
+					     (AUX to)
+					     (VP say
+						 (SBAR 0
+						       (S (NP his running)
+							  (VP was
+							      (ADJP best
+								    (PP for
+									(NP the country)))))))))
+				    ,
+				    (S (ADVP unconsciously)
+				       (S (NP he)
+					  (AUX had)
+					  (VP placed
+					      (NP his party)
+					      (PP before
+						  (NP his nation)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  So
+      (S (NP it)
+	 (VP is)
+	 (SBAR that
+	       (S (NP we)
+		  (VP relive
+		      (NP his opening statement
+			  (PP in
+			      (NP the first television address)))
+		      (PP with
+			  (NP the dramatic immediacy
+			      (PP of
+				  (NP the present)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP No consideration
+	   (PP of
+	       (NP risk)))
+       (VP urges
+	   (NP itself)
+	   (PP upon
+	       (NP him))
+	   (ADVP now)))
+    :
+    for
+    (S (NP this)
+       (VP is
+	   (SBAR (WHNP what)
+		 (S
+		  (NP the mind)
+		  (VP does
+		      (NP T)
+		      (PP with
+			  (NP (NP the ideas)
+			      (SBAR (WHPP on
+					  (WHNP which))
+				    (S
+				     (NP it)
+				     (AUX has)
+				     (NEG not)
+				     (ADVP properly)
+				     (VP focussed)))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S Yet
+	 (PP with
+	     (NP (NP a mind)
+		 (ADJP  less shallow
+			,
+			(PP if
+			    (ADJP  less
+				   sharp))
+			,
+			(PP than
+			    (NP some
+				(PP of
+				    (NP (NP the fortune-happy syndicates)
+					(SBAR (WHNP which)
+					      (S (NP T)
+						 (VP back
+						     (NP him)))))))))))
+	 ,
+	 (S (NP he)
+	    (VP feels
+		(SBAR (WHNP what)
+		      (S
+		       (NP he)
+		       (AUX can)
+		       (NEG not)
+		       (VP formulate
+			   (NP T) ))))))
+      ;
+      ;
+      and
+      (S (NP we)
+	 (VP watch
+	     (NP him)
+	     (PP amid
+		 (NP (NP the overtones)
+		     (SBAR (WHNP which)
+			   (S (NP T)
+			      (VP suggest
+				  (SBAR 0
+					(S (NP he)
+					   (AUX could)
+					   (ADVP never)
+					   (PP in
+					       (NP any conscience))
+					   (VP urge
+					       (NP a risk)
+					       (PP upon
+						   (NP the voters)))))))))))))
+   .)
+
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Moving
+	      (PP as
+		  (S (NP he)
+		     (VP is)))
+	      (PP into
+		  (NP (NP the phase
+			  (PP of
+			      (NP the campaign)))
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (VP demands
+				   (NP conviction
+				       (PP of
+					   (NP him))))))))))
+      ,
+      (S (NP he)
+	 (VP adopts
+	     (NP (NP a position)
+		 (SBAR (WHNP that)
+		       (S (NP T)
+			  (VP is
+			      (ADJP  morally
+				     indefensible))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP ascribes
+       (PP to
+	   (NP the mercy
+	       (PP of
+		   (NP God))))
+       (NP (NP the peace)
+	   (SBAR (WHNP which)
+		 (S (NP (NP this personal matter)
+			--
+			(S (NP the assurance
+			       (SBAR that
+				     (S (NP he)
+					(AUX can)
+					(ADVP physically)
+					(VP sustain
+					    (NP the burden
+						(PP of
+						    (NP the office)))
+					    (ADVP longer
+						  (PP than
+						      (S (NP any individual
+							     (PP in
+								 (NP the history
+								     (PP of
+									 (NP our nation)))))
+							 (AUX has)
+							 (VP been
+							     (ADJP able
+								   (S (NP *)
+								      (AUX to)
+								      (VP do
+									  ))))))))))))
+			--)
+		    (AUX has)
+		    (VP brought
+			(NP him)))))))
+  .)
+  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR (WHNP What)
+	  (S (NP T)
+	     (VP is
+		 (ADVP simply)
+		 (NP (NP an opinion)
+		     (VP formed
+			 (PP in
+			     (NP defiance
+				 (PP of
+				     (NP the laws
+					 (PP of
+					     (NP human probability)))))))))
+	     ,
+	     (SBAR (WHADVP whether
+			   or
+			   (NEG not))
+		   (S (NP it)
+		      (AUX is)
+		      (ADVP later)
+		      (VP confirmed
+			  )))
+	     ,))
+    (AUX has)
+    (VP become
+	(PP by
+	    (NP September
+		(PP of
+		    (NP the election year))))
+	(NP  ``
+	     a firm conviction
+	     '')))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP As
+	    (NP a means
+		(PP of
+		    (S  (NP *)
+			(VP silencing
+			    (NP (NP a discussion)
+				(SBAR (WHNP which)
+				      (S (NP T)
+					 (VP ought
+					     (S (AUX to)
+						(VP have
+						    (VP taken
+							(NP place)))))))))))))
+	,
+	(S (NP the statement)
+	   (VP is
+	       (NP an
+		   (ADJP effective)
+		   one))))
+     :
+     (S (NP we)
+	(VP sympathize
+	    (PP with
+		(NP (NP the universal confusion)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP gives
+				 (NP rise)
+				 (PP to
+				     (NP such convictions))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP it)
+	 (VP is
+	     (ADVP also)
+	     (NP the climax
+		 (PP to
+		     (NP one
+			 (PP of
+			     (NP the absorbing chapters
+				 (PP in
+				     (NP our
+					 (ADJP current)
+					 (ADJP  political)
+					 history))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S  (NP *)
+	    (VP assigning
+		(PP to
+		    (NP God))
+		(NP (NP the responsibility)
+		    (SBAR (WHNP which)
+			  (S (NP he)
+			     (VP learned
+				 (SBAR 0
+				       (S  (NP T) 
+					   (AUX could)
+					   (NEG not)
+					   (VP rest
+					       (PP with
+						   (NP his doctors))))))))))))
+    ,
+    (S (NP Eisenhower)
+       (VP gave
+	   (NP evidence
+	       (PP of
+		   (NP (NP that weakening
+			   (PP of
+			       (NP the moral intuition)))
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP was
+				    (S (NP *)
+				       (AUX to)
+				       (VP characterize
+					   (NP his administration))
+				       (PP in
+					   (NP the years
+					       (S (NP *)
+						  (AUX to)
+						  (VP follow))))))))))))))
+ .)
+ 
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP any other man))
+     (S
+      (NP this reassurance
+	  (PP to
+	      (NP the electorate)))
+      (AUX would)
+      (VP have
+	  (VP caused
+	      (NP us)
+	      (NP a
+		  (ADJP profound)
+		  (ADJP  moral)
+		  shock)))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP About
+	 (NP this man))
+     (S
+      (NP we)
+      (VP had
+	  (S (NP *)
+	     (AUX to)
+	     (VP think)))
+      (ADVP twice)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP knew
+       (SBAR that
+	     (S (NP it)
+		(VP was
+		    ,
+		    (PP as
+			(NP reassurance))
+		    ,
+		    (NP the ironic fruit
+			(PP of
+			    (NP a
+				(ADJP deeply
+				      moral) nature))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the fact)
+	 (VP remains
+	     (SBAR that
+		   (S (NP  (ADVP even)
+			   the unconscious acceptance
+			   (PP of
+			       (NP himself))
+			   (PP as
+			       (NP (NP a man
+				       (PP of
+					   (NP destiny)))
+				   (VP  (ADVP divinely)
+					protected))))
+		      (AUX must)
+		      (VP be
+			  (VP censored
+			       
+			      (PP in
+				  (NP (NP any man)
+				      (SBAR (WHNP who)
+					    (S (NP T)
+					       (VP evades
+						   (NP the responsibility
+						       (PP (PP for
+							       (NP his major decisions))
+							   ,
+							   and
+							   (ADVP thus)
+							   (PP for
+							       (S  (NP *)
+								   (VP imposing
+								       (NP his will)
+								       (PP on
+									   (NP the people)))))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP in
+	  (NP the context
+	      (PP of
+		  (NP (NP 
+		       (ADJP drifting)
+		       (ADJP  personal)
+		       utterances)
+		      (SBAR 0
+			    (S (NP we)
+			       (AUX have)
+			       (VP examined
+				   (NP T) )))))))
+      ,
+      (S (NP there)
+	 (VP was
+	     (NP occasional evidence
+		 (PP of
+		     (NP the origin
+			 (PP of
+			     (NP all
+				 such evasions))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP (NP the possibility)
+	    (SBAR that
+		  (S (NP he)
+		     (AUX had)
+		     (NEG not)
+		     (VP given
+			 (NP reconsideration)
+			 (PP to
+			     (NP (ADJP  so
+					weighty)
+				 a decision))))))
+	(VP seemed
+	    (S (NP *)
+	       (AUX to)
+	       (VP disconcert
+		   (NP his questioners))))))
+    ,
+    (S (NP Mr. Eisenhower)
+       (AUX was)
+       (VP known
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP (NP his characteristic statement
+			  (PP to
+			      (NP the press)))
+		      (SBAR that
+			    (S (NP he)
+			       (AUX was)
+			       (NEG not)
+			       (VP going
+				   (S (NP *)
+				      (AUX to)
+				      (VP talk
+					  (PP about
+					      (NP the matter)))
+				      (ADVP  any
+					     more)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Thinking)
+      (AUX had)
+      (VP stopped))
+     ;
+     ;
+     (S (NP it)
+	(VP was
+	    (NEG not)
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (VP resumed
+		       ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The portrait)
+	(SBAR (WHNP that)
+	      (S (NP T)
+		 (AUX had)
+		 (VP developed)
+		 ,
+		 (ADVP fragmentarily
+		       but
+		       consistently)
+		 ,)))
+    (VP was
+	(NP the portrait
+	    (PP of
+		(NP (NP a man)
+		    (SBAR (WHPP to
+				(WHNP whom))
+			  (S
+			   (NP serious thinking)
+			   (VP is
+			       (ADJP alien
+				     (ADVP enough
+					   (SBAR that
+						 (S (NP the making
+							(PP of
+							    (NP a decision)))
+						    (VP inhibits
+							,
+							(SBAR 
+							 (WHADVP when)
+							 (S (NP it)
+							    (AUX does)
+							    (NEG not)
+							    (VP forestall)))
+							,
+							(NP any ability
+							    (S (NP *)
+							       (AUX to)
+							       (VP review
+								   (NP the decision)
+								   (PP in
+								       (NP the light
+									   (PP of
+									       (NP new evidence))))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX does)
+   (NEG not)
+   (VP mean
+       (SBAR that
+	     (S (NP the decision
+		    (S (NP *)
+		       (AUX to)
+		       (VP run
+			   (PP for
+			       (NP office)))))
+		(AUX should)
+		(ADVP inevitably)
+		(VP have 
+		    (VP been
+			(VP revoked
+			    )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Instead)
+      (S (NP it)
+	 (VP means
+	     (SBAR that
+		   (S (NP (NP the thinking)
+			  (SBAR (WHPP in
+				      (WHNP which))
+				(S (NP decision)
+				   (VP issues)))
+			  (VP has
+			      (NP the power
+				  (S (NP *)
+				     (AUX to)
+				     (VP determine
+					 (NP the morality
+					     (PP of
+						 (NP the decision)))))))))))
+	 ,
+	 (S (PP as
+		(PP in
+		    (NP this instance)))
+	    (S (NP the pressure
+		   (PP for
+		       (NP  renewed
+			    practical or legislative attention
+			    (PP to
+				(NP (NP the constitutional problems)
+				    (SBAR 0
+					  (S (NP the decision)
+					     (AUX had)
+					     (VP uncovered
+						 (NP T) ))))))))
+	       (AUX might)
+	       (VP have
+		   (VP done))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Drifting
+	 (PP through
+	     (NP a third illness))
+	 ,
+	 (ADVP apparently
+	       (PP without
+		   (NP any provision
+		       (PP for
+			   (NP the handling
+			       (PP of
+				   (NP (NP a
+					   (ADJP major)
+					   (ADJP  national)
+					   emergency)
+				       (ADJP other
+					     (PP than
+						 (NP a talk
+						     (PP with
+							 (NP the vice-president)))))))))))))
+     ,
+     (S (NP Eisenhower)
+	(VP revealed
+	    (NP the
+		(ADJP  singularly
+		       static) quality
+		(PP of
+		    (NP his thinking))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Despite
+	(NP three warnings))
+    ,
+    (S (NP no sense
+	   (PP of
+	       (NP moral urgency)))
+       (VP impelled
+	   (NP him)
+	   (S (NP *)
+	      (AUX to)
+	      (VP distinguish
+		  (NP (NP his situation)
+		      ,
+		      and
+		      (ADVP thus)
+		      (NP his responsibilities)
+		      ,)
+		  (PP from
+		      (NP 
+		       (NP Wilson)
+		       's)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP contrast))
+    ,
+    (S (NP the energetic reaction
+	   (PP of
+	       (NP the leader))
+	   (PP to
+	       (NP (NP the full demands)
+		   (SBAR 0
+			 (S (NP his decision)
+			    (VP imposes
+				(NP T)
+				(PP upon
+				    (NP him))))))))
+       (VP (VP strengthens
+	       (NP the moral intuition))
+	   and
+	   (VP gives
+	       (NP us)
+	       (NP the measure
+		   (PP of
+		       (NP the man)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  (PP  (ADVP Only)
+	     by
+	     (NP means
+		 (PP of
+		     (NP an intensive preoccupation
+			 (PP with
+			     (NP (NP the detailed considerations)
+				 (VP following
+				     (PP from
+					 (NP any decision)))))))))
+	(AUX can)
+	(NP he)
+	(VP ensure
+	    (NP attention
+		(PP to
+		    (NP (NP the practical details)
+			(S (NP *)
+			   (AUX to)
+			   (VP be
+			       (VP dealt
+	  
+				   (PP with
+				        ))))))))
+	(SBAR if
+	      (S (NP the implications
+		     (PP of
+			 (NP immorality
+			     (PP in
+				 (NP the major decision)))))
+		 (VP are
+		     (ADVP effectively)
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (VP checked
+				)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the incessant struggle
+	    (PP with
+		(NP 
+		 (ADJP recalcitrant)
+		 (ADJP  political)
+		 fact))))
+    (S
+     (NP he)
+     (VP learns
+	 (S (S (NP *)
+	       (AUX to)
+	       (VP focus
+		   (NP the essence
+		       (PP of
+			   (NP a problem)))
+		   (PP in
+		       (NP the significant detail))))
+	    ,
+	    and
+	    (S (NP *)
+	       (AUX to)
+	       (VP articulate
+		   (NP (NP the distinctions)
+		       (SBAR (WHNP which)
+			     (S (NP T)
+				(VP clarify
+				    (NP the detail)
+				    (PP as
+					(ADJP significant))))))))
+	    ,))
+     (PP  with
+	  (SBAR (WHNP what)
+		(S  (NP T) 
+		    (VP is
+			(ADVP sometimes)
+			(NP astounding rapidity)))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Like
+	(NP Lincoln))
+    ,
+    (S (NP he)
+       (AUX can)
+       (VP distinguish
+	   (NP his relation
+	       (PP to
+		   (NP God)))
+	   (PP from
+	       (NP (NP the constitutional responsibilities)
+		   (SBAR 0
+			 (S
+			  (NP a questionable decision)
+			  (VP exacts
+			      (NP T) 
+			      (PP of
+				  (NP him))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Like
+	(NP Roosevelt))
+    ,
+    (S (NP he)
+       (AUX can)
+       (VP distinguish
+	   (NP (NP an attitude
+		   (PP toward
+		       (NP a Russian leader)))
+	       (SBAR 0
+		     (S
+		      (NP he)
+		      (AUX may)
+		      (VP share
+			  (NP T) 
+			  (PP with
+			      (NP a host
+				  (PP of
+				      (NP Americans))))))))
+	   (PP from
+	       (NP (NP the responsibilities)
+		   (SBAR 0
+			 (S (NP diplomatic convention)
+			    (AUX may)
+			    (VP impose
+				(NP T) 
+				(PP upon
+				    (NP him))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP chooses
+       (S (NP *)
+	  (AUX to)
+	  (VP subordinate
+	      (NP one)
+	      (PP to
+		  (NP the
+		      (ADJP other))))))
+   ,
+   (ADVP sometimes
+	 reluctantly)
+   ,
+   (S  (NP *) 
+       (VP accepting
+	   (NP criticism)
+	   (PP for
+	       (NP (NP the
+		       (ADJP lesser)
+		       immoralities)
+		   (SBAR 0
+			 (S (NP facts)
+			    (VP breed
+				(NP T) ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The very nature
+       (PP of
+	   (NP (NP a choice)
+	       (VP  so
+		    grounded
+		    (PP in
+			(NP distinction and fact))))))
+   (VP leads
+       (PP to
+	   (NP (NP the valid convictions)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP become
+			    (NP force
+				(PP of
+				    (NP will))))
+			(PP in
+			    (NP the manifest leader))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The capacity
+	    (PP for
+		(S  (NP *)
+		    (VP making
+			(NP (NP the distinctions)
+			    (SBAR (WHPP of
+					(WHNP which))
+				  (S (NP diplomacy)
+				     (VP is
+					 (ADJP compact)))))))))
+	,
+	and
+	(NP (NP the facility
+		(PP with
+		    (NP language)))
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (AUX can)
+		     (VP render
+			 (NP them)
+			 (PP into
+			     (NP validity)))
+		     (PP in
+			 (NP the eyes
+			     (PP of
+				 (NP other men))))))))
+    (VP are
+	(NP 
+	 (NP the leader)
+	 's means
+	 (PP for
+	     (S  (NP *)
+		 (VP transforming
+		     (NP the moral intuition)
+		     (PP into
+			 (NP moral leadership))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The making
+	(PP of
+	    (NP distinctions)))
+    ,
+    (PP like
+	(NP the perception
+	    (PP of
+		(NP (NP the great distinctions)
+		    (VP made)))))
+    ,
+    (VP is
+	(NP an
+	    (ADJP inordinately
+		  difficult) business)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP
+     (NP Lincoln)
+     's slow progress
+     (PP towards
+	 (NP (NP the several)
+	     (VP marking
+		 (NP his achievement)))))
+    (VP is
+	(ADVP even
+	      now)
+	(X (ADJP unrecognizable
+		 (PP as
+		     (ADJP such)))
+	   ,
+	   and
+	   (VP  (ADVP loosely)
+		interpreted
+		(PP as
+		    (NP the alternation
+			(PP of
+			    (NP inconsistency))
+			(PP with
+			    (NP vision))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR because
+	    (S (NP it
+		   (S-3 *pseudo-attach*))
+	       (VP is
+		   (NP the function
+		       (PP of
+			   (NP the mind))))
+	       (S-3 (NP *)
+		  (AUX to)
+		  (VP turn
+		      (NP the one)
+		      (PP into
+			  (NP the
+			      (ADJP other))))
+		  (PP by
+		      (NP means
+			  (PP of
+			      (NP (NP the capacities)
+				  (SBAR (WHPP with
+					      (WHNP which))
+					(S (NP words)
+					   (VP endow
+					       (NP it)))))))))))
+      ,
+      (S (NP we)
+	 (AUX do)
+	 (NEG not)
+	 (ADVP unwisely)
+	 (VP examine
+	     (NP the type
+		 (PP of
+		     (NP (NP distinction)
+			 ,
+			 (PP in
+			     (NP the sphere
+				 (PP of
+				     (NP politics))))
+			 ,
+			 (SBAR (WHPP on
+				     (WHNP which))
+			       (S (NP decisions)
+				  (VP hang)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV (X  (ADVP Only
+		   recently)
+	     ,
+	     and
+	     (ADVP perhaps)
+	     (SBAR because
+		   (S (NP a television debate)
+		      (AUX can)
+		      (ADVP so
+			    effectively)
+		      (VP dramatize
+			  (NP 
+			   (NP President Kennedy)
+			   's extraordinary mastery
+			   (PP of
+			       (NP detail))))))
+	     ,)
+	 (AUX have)
+	 (NP (NP the abilities)
+	     (SBAR (WHPP on
+			 (WHNP which))
+		   (S (NP the capacity
+			  (PP for
+			      (S  (NP *)
+				  (VP making
+				      (NP distinctions)))))
+		      (VP depend))))
+	 (VP begun
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP  clearly
+			   discernible))
+		(PP at
+		    (NP the level
+			(PP of
+			    (NP politics)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP his recent evaluation
+	       (PP of
+		   (NP 
+		    (NP Kennedy)
+		    's potentialities
+		    (PP for
+			(NP leadership))))))
+       ,
+       (S (NP Walter Lippmann)
+	  (AUX has)
+	  (VP cited
+	      (NP (NP the
+		      ``
+		      precision
+		      ''
+		      (PP of
+			  (NP his mind)))
+		  ,
+		  (NP his
+		      ``
+		      immense command
+		      ''
+		      (PP of
+			  (NP factual detail)))
+		  ,
+		  and
+		  (NP his
+		      ``
+		      instinct
+		      (PP for
+			  (NP the crucial point))
+		      ''))
+	      (PP as
+		  (ADJP impressive
+			(PP in
+			    (NP the
+				(ADJP extreme))))))))
+    ;
+    ;
+    and
+    (S (NP it
+	   (SBAR-4 *pseudo-attach*))
+       (VP is
+	   (ADVP surely)
+	   (ADJP clear))
+       (SBAR-4 that
+	     (S (NP the
+		    (ADJP first)
+		    (PP of
+			(NP these)))
+		(VP is
+		    (NP the result
+			(PP of
+			    (NP (NP the way)
+				(SBAR (WHPP in
+					    (WHNP which))
+				      (S
+				       (NP 
+					(NP the individual)
+					's command
+					(PP of
+					    (NP language)))
+				       (VP interacts
+					   (PP with
+					       (NP the
+						   (ADJP other)
+						   two)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

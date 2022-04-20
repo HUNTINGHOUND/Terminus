@@ -1,0 +1,2272 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (NP Enrique Jorda)
+	 ,
+	 (NP conductor
+	     and
+	     musical director
+	     (PP of
+		 (NP the San Francisco Symphony)))
+	 ,)
+     (AUX will)
+     (VP fulfill
+	 (NP (ADJP two more) guest
+	     conducting
+	     engagements
+	     (PP in
+		 (NP Europe))))
+     (PP before
+	 (S   (NP *) 
+	      (VP returning
+		  (NP home)
+		  (S (NP *)
+		     (AUX to)
+		     (VP open
+			 (NP 
+			  (NP the symphony)
+			  's Golden Anniversary season)))))))
+    ,
+    (S (NP it)
+       (AUX was)
+       (VP announced
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The guest assignments)
+   (AUX are)
+   (VP scheduled
+	     
+       (PP for
+	   (NP November 14
+	       and
+	       18)))
+   ,
+   (PP with
+       (NP (NP the Orchestra Sinfonica Siciliana
+	       (PP in
+		   (NP Palermo)))
+	   and
+	   (NP the Orchestra
+	       (PP of
+		   (NP Radio  Cologne))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The season
+       (PP in
+	   (NP San Francisco)))
+   (AUX will)
+   (VP open
+       (PP with
+	   (NP a
+	       special
+	       Gala Concert
+	       (PP on
+		   (NP November 22))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP his (ADJP five-month) visit
+	   (ADVP abroad)))
+   ,
+   (S (NP Jorda)
+      (ADVP recently)
+      (VP conducted
+	  (NP (NP the Orchestre Philharmonique De Bordeau
+		  (PP in
+		      (NP France)))
+	      ,
+	      and
+	      (NP the Santa Cecilia Orchestra
+		  (PP in
+		      (NP Rome)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (S (NP *) 
+	  (VP announcing
+	      (NP 
+	       (NP Jorda)
+	       's return))))
+   ,
+   (S (NP the orchestra)
+      (ADVP also)
+      (VP announced
+	  (SBAR that
+		(S (NP the sale
+		       (PP of
+			   (NP single tickets
+			       (PP for
+				   (NP the 50th anniversary season)))))
+		   (AUX will)
+		   (VP start)
+		   (PP at
+		       (NP the Sherman Clay box office))
+		   (PP on
+		       (NP Wednesday)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Guest performers and conductors)
+   (PP during
+       (NP the (ADJP coming) season))
+   (AUX will)
+   (VP include
+       (NP (NP many renowned artists)
+	   (SBAR  
+	    (WHNP who)
+	    (S (NP T)
+	       (VP began
+		   (NP their careers)
+		   (S (NP *) 
+		      (VP playing
+			  (PP with
+			      (NP the orchestra)))))))
+	   ,
+	   (VP including
+	       (NP (NP (NP violinists)
+		       (NP  
+			(NP Yehudi Menuhin)
+			,
+			(NP Isaac Stern)
+			,
+			(NP Ruggiero Ricci)
+			and
+			(NP David Abel)))
+		   ;
+		   ;
+		   (NP (NP pianists)
+		       (NP (NP Leon Fleisher)
+			   ,
+			   (NP Ruth Slenczynka)
+			   and
+			   (NP Stephen Bishop)))
+		   and
+		   (NP (NP conductor)
+		       (NP Earl Bernard Murray)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP The Leningrad Kirov Ballet)
+	 ,
+	 (SBAR  
+	  (WHNP which)
+	  (S (NP T)
+	     (VP opened
+		 (NP a series
+		     (PP of
+			 (NP performances))))
+	     (NP Friday night)
+	     (PP at
+		 (NP the Opera House))))
+	 ,)
+     (VP is
+	 ,
+	 (S (NP I)
+	    (VP think))
+	 ,
+	 (NP (NP the
+		 finest
+		 ``
+		 classical
+		 ''
+		 ballet company)
+	     (SBAR 0
+		   (S
+		    (NP I)
+		    (AUX have)
+		    (ADVP ever)
+		    (VP seen))))))
+    ,
+    and
+    (S (NP (NP the production
+	       (PP of
+		   (NP the Petipa-Tschaikowsky
+		       ``
+		       Sleeping Beauty
+		       '')))
+	   (SBAR (WHPP with
+		       (WHNP which))
+		 (S
+		  (NP it)
+		  (VP began
+		      (NP the series)))))
+       (VP is
+	   (NP (NP  (ADVP incomparably)
+		    the
+		    (ADJP finest))
+	       (SBAR 0
+		     (S (NP I)
+			(AUX have)
+			(ADVP ever)
+			(VP had
+			    (NP the pleasure
+				(PP of
+				    (S (NP *) 
+				       (VP witnessing)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This work)
+   (VP is
+       (NP no favorite
+	   (PP of
+	       (NP mine)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(S
+ (NP I)
+ (VP am
+     (ADJP prepared
+	   (S (NP *)
+	      (AUX to)
+	      (VP demonstrate
+		  (PP at
+		      (ADVP anytime))
+		  (SBAR (SBAR that
+			      (S (NP it)
+				 (VP represents
+				     (NP the spirit
+					 (PP of
+					     (NP  
+					      (ADJP Imperial)
+					      Russia)))
+				     (PP in
+					 (NP its
+					     (ADJP  most vulgar
+						    ,
+						    infantile
+						    ,
+						    and
+						    reactionary)
+					     aspect)))))
+			;
+			;
+			(SBAR that
+			      (S (NP its persistent use
+				     (PP by
+					 (NP ballet companies
+					     (PP of
+						 (NP the Soviet regime)))))
+				 (VP indicates
+				     (SBAR that
+					   (S (NP that old spirit)
+					      (VP is
+						  (ADJP  just
+							 as
+							 stultifying alive
+							 (NP today)
+							 (PP as
+							     (S (NP it)
+								(ADVP ever)
+								(VP was))))))))))
+			;
+			;
+			(SBAR that
+			      (S (NP its presentation
+				     (PP in
+					 (NP this country)))
+				 (VP is
+				     (NP part
+					 (PP of
+					     (NP a capitalist plot
+						 (S (NP *)
+						    (AUX to)
+						    (VP boobify
+							(NP the American people)))))))))
+			;
+			;
+			(SBAR that
+			      (S (S  (NP its choreography)
+				     (VP is
+					 (ADJP undistinguished)))
+				 and
+				 (X (NP its score)
+				    (NP a shapeless assemblage
+					(PP of
+					    (NP self-plagiarisms)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP All
+	  (PP of
+	      (NP this)))
+      (VP is
+	  (ADJP true)))
+     and
+     (S (NP all
+	    (PP of
+		(NP it)))
+	(VP is
+	    (ADJP  (ADVP totally)
+		   meaningless))
+	(PP in
+	    (NP the face
+		(PP of
+		    (NP the Kirov 's
+			(ADJP  (ADVP utterly)
+			       captivating) presentation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   (ADJP Precise))
+( (S (S
+      (NP The reasons
+	  (PP for
+	      (NP this enchantment)))
+      (VP are
+	  (ADJP numerous)))
+     ,
+     but
+     (S  
+      (NP  most
+	   (PP of
+	       (NP them)))
+      (VP end
+	  (PP in
+	      (NP  (NP ``
+		       ova
+		       '')
+		   ,
+		   (NP  ``
+			eva
+			'')
+		   ,
+		   or
+		   (NP  ``
+			aya
+			''))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP other words))
+   ,
+   (S (NP no
+	  (ADJP  (ADVP merely)
+		 male) creature)
+      (AUX can)
+      (VP resist
+	  (NP that corps de ballet))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP seems
+	   (S (NP *)
+	      (AUX to)
+	      (VP have
+		  (VP been
+		      (VP chosen
+			  (PP (ADVP exclusively)
+			      from
+			      (NP (NP the winners
+				      (PP of
+					  (NP beauty contests)))
+				  --
+				  (NP  
+				   (NP Miss Omsk)
+				   ,
+				   (NP Miss Pinsk)
+				   ,
+				   (NP Miss Stalingr))))))))))
+    (S (INTJ oops)
+       ,
+       (S  (NP *) 
+	   (VP skip
+	       (NP it)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP These qualities
+	  (ADVP alone))
+      ,
+      (ADVP however)
+      ,
+      (AUX would)
+      (NEG not)
+      (VP account
+	  (PP for
+	      (NP their success))))
+     ,
+     and
+     (S (NP it)
+	(VP took
+	    (NP me)
+	    (NP a while))
+	(S (NP *)
+	   (AUX to)
+	   (VP discover
+	       (NP (NP the crowning virtue)
+		   (SBAR 
+		    (WHNP that)
+		    (S (NP T)
+		       (VP completes
+			   (NP 
+			    (NP this company)
+			    's collective personality)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP a kind
+	   (PP of
+	       (NP (NP friendliness and frankness
+		       (PP of
+			   (NP address))
+		       (PP toward
+			   (NP the audience)))
+		   (SBAR (WHNP which)
+			 (S (NP we)
+			    (AUX have)
+			    (VP been
+				(VP led
+		     
+				    (S (NP *)
+				       (AUX to)
+				       (VP believe
+					   (SBAR 0
+						 (S  (NP T) 
+						     (VP was
+							 (ADJP peculiar
+							       (PP to
+								   (NP the American ballet)))))))))))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (INTJ Oh-the-pain-of-it)
+   ,
+   (NP (NP that convention
+	   (PP of
+	       (NP Russian ballet)))
+       (SBAR 
+	(WHADVP whereby)
+	(S (NP the girls)
+	   (VP convey
+	       (NP the idea
+		   (SBAR that
+			 (S (NP they)
+			    (VP are
+				all
+				(NP (NP the daughters
+					(PP of
+					    (NP (ADJP impoverished)
+						Grand Dukes)))
+				    (VP driven
+					(PP to
+					    (NP the stage))
+					(PP out
+					    (PP of
+						(NP filial
+						    piety)))))))))))))
+   ,
+   (VP is
+       (ADJP  (ADVP totally)
+	      absent
+	      (PP from
+		  (NP the Kirov)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP (ADVP all
+		   the
+		   more)
+	     remarkable))
+   (SBAR because
+	 (S (NP the Kirov)
+	    (VP is
+		(PP to
+		    (NP ballet))
+		(SBAR (WHNP what)
+		      (S
+		       (NP Senator Goldwater)
+		       (VP is
+			   (NP T) 
+			   (PP to
+			       (NP American politics)))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      ,
+      (ADVP obviously)
+      ,
+      (S (NP (PP at
+		 (ADJP least))
+	     some things)
+	 (AUX have)
+	 (VP changed
+	     (PP for
+		 (NP the
+		     (ADJP better))))
+	 (PP in
+	     (NP Russia))
+	 (ADVP so
+	       far
+	       (PP as
+		   (S (NP the ballet)
+		      (AUX is)
+		      (VP concerned
+			  ))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Irina Kolpakova)
+      ,
+      (NP the Princess Aurora
+	  (PP of
+	      (NP 
+	       (NP Friday)
+	       's performance)))
+      ,)
+  (AUX would)
+  (VP be
+      (NP a change
+	  (PP for
+	      (NP the
+		  (ADJP better)))))
+  (ADVP anywhere)
+  ,
+  (PP at
+      (NP any time))
+  ,
+  (NP (X no matter)
+      (SBAR 
+       (WHNP who)
+       (S (NP T)
+	  (AUX had)
+	  (VP had
+	      (NP the role))
+	  (ADVP before)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP She)
+      (VP is
+	  (NP (NP the
+		  (ADJP  most beautiful)
+		  thing)
+	      (SBAR 0
+		    (S
+		     (NP you)
+		     (ADVP ever)
+		     (VP laid
+			 (NP eyes)
+			 (PP on
+			     (NP T) )))))))
+     ,
+     and
+     (S (NP her dancing)
+	(VP has
+	    (NP (NP a feminine suavity
+		    ,
+		    lightness
+		    ,
+		    sparkle
+		    ,
+		    and
+		    refinement)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP are
+			(ADVP simply)
+			(ADJP incomparable))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Hit))
+((S (S  
+      (NP (NP Alla Sizova)
+	  ,
+	  (SBAR  
+	   (WHNP who)
+	   (S (NP T)
+	      (VP seems
+		  (S (NP *)
+		     (AUX to)
+		     (VP have
+			 (VP made
+			     (NP a special hit)))
+		     (PP in
+			 (NP the East))))))
+	  ,)
+      (VP was
+	  (ADJP delightful)
+	  (PP as
+	      (NP  the lady
+		   Bluebird))))
+     and
+     (S  
+      (NP (NP her partner)
+	  ,
+	  (NP Yuri Soloviev)
+	  ,)
+      (VP was
+	  (ADJP (ADJP  (ADVP wonderfully)
+		       virile
+		       ,
+		       acrobatic
+		       ,
+		       and
+		       poetic)
+		(X all
+		   (PP at
+		       (NP the same time))))
+	  ,
+	  (PP in
+	      (NP a tradition
+		  (PP  
+		   (NEG not)
+		   unlike
+		   (NP that
+		       (PP of
+			   (NP Nijinsky)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (S (NP (NP (NP Vladilen Semenov)
+	      ,
+	      (NP a fine
+		  ``
+		  danseur noble
+		  ''))
+	  ;
+	  ;
+	  (NP (NP Konstantin Shatilov)
+	      ,
+	      (NP a great character dancer))
+	  ;
+	  ;
+	  and
+	  (NP (NP Inna Zubkovskaya)
+	      ,
+	      (NP an
+		  excellent
+		  Lilac Fairy)
+	      ,))
+      (VP were
+	  (NP  other (ADJP outstanding)
+	       members
+	       (PP of
+		   (NP the cast)))))
+   ,
+   but
+   (S (NP every member
+	  (PP of
+	      (NP the cast)))
+      (VP was
+	  (ADJP magnificent))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The production)
+      ,
+      (VP designed
+	  (PP by
+	      (NP Simon Virsaladze)))
+      ,)
+  (VP was
+      (ADJP (ADJP (ADVP completely)
+		  traditional) 
+	    but 
+	    (ADJP traditional
+		  (PP in
+		      (NP the right way))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (X (X (AUX was)
+	  (VP done
+		 
+	      (PP with
+		  (NP great taste))))
+       ,
+       (VP was
+	   (ADJP big and spacious)
+	   ,
+	   (ADJP (ADJP sumptuous
+		       (PP as
+			   (NP the dreams
+			       (PP of
+				   (NP any peasant))))
+		       (PP in
+			   (NP its courtly costumes)))
+		 ,
+		 but
+		 (ADJP sumptuous
+		       (PP in
+			   (NP a
+			       muted
+			       ,
+			       pastel-like
+			       style))
+		       ,
+		       (PP with
+			   (NP 
+			    rich
+			    ,
+			    quiet
+			    harmonies
+			    (PP of
+				(NP color))
+			    (PP (PP between
+				    (NP (NP the costumes)
+					(NP themselves)))
+				and
+				(PP between
+				    (NP (NP the costumes)
+					and
+					(NP the scenery)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Evegeni Dubovskoi)
+    (VP conducted
+	(NP (NP an
+		(ADJP  (ADVP exceptionally)
+		       large) orchestra)
+	    ,
+	    (NP (NP (NP one)
+		    (VP containing
+			(NP excellent soloists)))
+		--
+		(S  
+		 (NP the violin solos
+		     (PP by
+			 (NP (NP the concertmaster)
+			     ,
+			     (NP Guy Lumia)
+			     ,)))
+		 (VP were
+		     (ADJP  (ADVP especially)
+			    fine)))
+		--
+		but
+		(NP (NP one)
+		    (SBAR (WHPP in
+				(WHNP which))
+			  (S (NP (NP the core
+				     (PP of
+					 (NP (VP traveling)
+					     players)))
+				 and
+				 (NP the body
+				     (PP of
+					 (NP (NP men)
+					     (VP added
+						 (ADVP locally))))))
+			     (AUX had)
+			     (NEG not)
+			     (VP had
+				 (NP time
+				     (S (NP *)
+					(AUX to)
+					(VP achieve
+					    (NP much unity))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mail orders
+       (PP-1 *pseudo-attach*))
+   (AUX are)
+   (ADVP now)
+   (VP being
+       (VP received
+	   ))
+   (PP-1 for
+	 (NP (NP the series
+		 (PP of
+		     (NP concerts)))
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP given
+		     
+			(NP this season)
+			(PP under
+			    (NP the auspices
+				(PP of
+				    (NP the San Francisco Chamber Music Society))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The season)
+   (AUX will)
+   (VP open
+       (PP at
+	   (NP the
+	       new
+	       Hall
+	       (PP of
+		   (NP Flowers))))
+       (PP in
+	   (NP Golden Gate Park))
+       (PP on
+	   (NP November 20))
+       (PP at
+	   (NP 8:30 p.m.))
+       (PP with
+	   (NP a concert
+	       (PP by
+		   (NP the Mills Chamber Players))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP  (ADJP Sustaining)
+	    members)
+       (AUX may)
+       (VP sign
+	   (PRT up)
+	   (PP at
+	       (NP $ 25))
+	   (PP for
+	       (NP the (ADJP ten-concert) season))))
+    ;
+    ;
+    (S (NP (ADJP annual) members)
+       (AUX may)
+       (VP attend
+	   (PP for
+	       (NP $ 16)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP  (ADJP Participating)
+	 members)
+    (AUX may)
+    (VP attend
+	(NP (NP five
+		(PP of
+		    (NP the concerts))
+		(PP for
+		    (NP $ 9)))
+	    *LRB*
+	    (NEG not)
+	    (NP all ten concerts
+		(PP as
+		    (S  (NP *) 
+			(AUX was)
+			(VP  (ADVP erroneously)
+			     announced
+			     )
+			(ADVP earlier)
+			(PP in
+			    (NP The Chronicle)))))
+	    *RRB*)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mail orders
+	  (PP for
+	      (NP the season)))
+      and
+      (NP orders
+	  (PP for
+	      (NP single tickets
+		  (PP at
+		      (NP $ 2))))))
+  ,
+  (AUX may)
+  (VP be
+      (VP addressed
+	     
+	  (PP to
+	      (NP (NP the society)
+		  ,
+		  (NP 1044
+		      Chestnut Street)
+		  ,
+		  (NP San Francisco 9))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP San Francisco firemen)
+   (VP busied
+       (NP themselves)
+       (NP last week)
+       (PP with
+	   (NP their
+	       annual voluntary
+	       task
+	       (PP of
+		   (S (NP *) 
+		      (VP fixing
+			  (PRT up)
+			  (NP toys)
+			  (PP for
+			      (NP distribution
+				  (PP to
+				      (NP needy children)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Fire Fighters Local 798)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (AUX is)
+	  (VP sponsoring
+	      (NP the toy program))
+	  (PP for
+	      (NP the
+		  (ADJP 12th straight)
+		  year))))
+      ,)
+  (VP issued
+      (NP a call
+	  (PP for
+	      (S (NP San Franciscans)
+		 (AUX to)
+		 (VP turn
+		     (PRT in)
+		     (NP (NP (VP discarded)
+			     toys)
+			 ,
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (AUX will)
+			     (VP be
+				 (VP repaired
+		 
+				     (PP by
+					 (NP (ADJP off-duty) firemen)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Toys)
+   (AUX will)
+   (NEG not)
+   (VP be
+       (VP collected
+		 
+	   (PP at
+	       (NP firehouses))))
+   (NP this year))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX will)
+   (VP be
+       (VP accepted
+		 
+	   (PP (PP at
+		   (NP all branches
+		       (PP of
+			   (NP the Bay View Federal Savings
+			       and
+			       Loan Association))))
+	       ,
+	       (PP at
+		   (NP a collection center
+		       (PP in
+			   (NP the center
+			       (PP of
+				   (NP the Stonestown mall))))))
+	       ,
+	       and
+	       (PP at
+		   (NP (NP the Junior Museum)
+		       ,
+		       (NP  (NP 16th
+				Street)
+			    and
+			    (NP Roosevelt Way))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP the collection centers))
+   ,
+   (S (NP toys)
+      (AUX will)
+      (VP be
+	  (VP taken
+		  
+	      (PP to
+		  (NP (NP a warehouse
+			  (PP at
+			      (NP 198 Second street)))
+		      ,
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP they)
+			  (AUX will)
+			  (VP be
+			      (VP  (VP repaired
+				       )
+				   and
+				   (VP made
+				       (ADJP ready
+					     (PP for
+						 (NP distribution))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Any needy family)
+       (VP living
+	   (PP in
+	       (NP San Francisco))))
+   (AUX can)
+   (VP obtain
+       (NP toys)
+       (PP by
+	   (S  (NP *) 
+	       (VP (VP writing
+		       (PP to
+			   (NP (NP Christmas Toys)
+			       ,
+			       (NP 676 Howard street)
+			       ,
+			       (NP San Francisco 5))))
+		   ,
+		   and
+		   (VP listing
+		       (NP (NP 
+			    (NP the parent)
+			    's name and address)
+			   and
+			   (NP the age and sex
+			       (PP of
+				   (NP each child
+				       (PP in
+					   (NP the family))
+				       (PP between
+					   (NP the ages
+					       (PP of
+						   (NP (NP 1)
+						       and
+						       (NP 12)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Requests)
+   (AUX must)
+   (VP be
+       (VP mailed
+		 
+	   (PRT in)))
+   (PP by
+       (NP December 5)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (ADJP Famed) cellist)
+      (NP Pablo Casals))
+  (VP (VP took
+	  (NP his instrument)
+	  (PP to
+	      (NP the East Room
+		  (PP of
+		      (NP the White House))))
+	  (NP yesterday))
+      and
+      (VP charmed
+	  (NP the staff)
+	  (PP with
+	      (NP a (ADJP two-hour) rehearsal)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP getting
+       (NP the feel
+	   (PP of
+	       (NP the room)))
+       (PP for
+	   (NP a concert
+	       (NP  tomorrow
+		    night)
+	       (PP for
+		   (NP Puerto Rico Governor (NP Luis Munoz Marin)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (NP President Kennedy)
+     's invitation
+     (PP to
+	 (NP the (ADJP Spanish-born) master)))
+    (VP said
+	,
+	``
+	(S (NP We)
+	   (VP feel
+	       (SBAR 0
+		     (S (NP your performance)
+			(PP as
+			    (NP one
+				(PP of
+				    (NP 
+				     (NP the world)
+				     's
+				     greatest
+				     artists))))
+			(AUX would)
+			(VP lend
+			    (NP distinction)
+			    (PP to
+				(NP the entertainment
+				    (PP of
+					(NP our guests)))))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (NP A
+	      good
+	      many seasons))
+      (S (NP I)
+	 (AUX 've)
+	 (VP been
+	     (VP looking
+		 (PP at
+		     (NP the naughty stuff
+			 (PP on
+			     (NP television))))))))
+     ,
+     so
+     (S (NP the other night)
+	(S
+	 (NP I)
+	 (VP thought
+	     (SBAR 0
+		   (S (NP I)
+		      (VP ought) 
+		      (S (NP *)
+			 (AUX to)
+			 (VP see
+			     (SBAR 
+			      (WHADVP how)
+			      (S (NP immorality)
+				 (AUX is)
+				 (VP doing)
+				 (PP on
+				     (NP the other side
+					 (PP of
+					     (NP the fence))))
+				 (PP in
+				     (NP movies))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP all))
+   ,
+   (S (NP
+       (NP this year)
+       's movies)
+      (VP are
+	  (NP 
+	   (NP next year)
+	   's television shows))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   So
+   (S (NP I)
+      (VP went
+	  (S (NP *)
+	     (AUX to)
+	     (VP see
+		 (NP  ``
+		      La Dolce Vita
+		      ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX has)
+   (VP been
+       (VP billed
+		 
+	   (PP as
+	       (NP a (ADJP towering) monument
+		   (PP to
+		       (NP immorality)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  All
+	 the sins
+	 (PP of
+	     (NP ancient
+		 Rome)))
+    (AUX are)
+    (VP said
+	    
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP collected
+		       
+		   (PP into
+		       (NP this (ADJP three-hour) film)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP that)
+	     (VP 's
+		 (NP (NP all)
+		     (SBAR 0
+			   (S (NP the Romans)
+			      (VP did
+				  (NP T))))))))
+   ,
+   (S (NP it)
+      (VP 's
+	  (NP a surprise)
+	  (PP to
+	      (NP me)))
+      (SBAR that
+	    (S (NP Rome)
+	       (VP fell
+		   )))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP television))
+   ,
+   (S (NP  ``
+	   La Dolce Vita
+	   '')
+      (VP seems
+	  (ADJP  as
+		 harmless
+		 (PP as
+		     (NP a Gray Line tour
+			 (PP of
+			     (NP North Beach))
+			 (PP at
+			     (NP night))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX can)
+   (NEG not)
+   (VP imagine
+       (NP (NP a single scene)
+	   (SBAR 
+	    (WHNP that)
+	    (S (NP T)
+	       (AUX is)
+	       (NEG n't)
+	       (VP done
+		 
+		   (PP in
+		       (NP a
+			   (ADJP  far
+				  naughtier)
+			   manner)))
+	       (PP on
+		   (NP TV))
+	       (NP every week))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP believe
+       (SBAR 0
+	     (S (NP TV watchers)
+		(AUX will)
+		(VP be
+		    (VP bored
+			))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+	 La Dolce Vita
+	 '')
+    (VP has
+	(NP none
+	    (PP of
+		(NP the (ADJP senseless) brutality or sadism
+		    (PP of
+			(NP the (ADJP average) TV Western)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP   Week
+	    in
+	    ,
+	    week
+	    out)
+    ,
+    (S (NP there)
+       (VP is
+	   (NP more
+	       sex
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP seen
+			  )))))
+       (PP in
+	   (NP  ``
+		The Adventures
+		(PP Of
+		    (NP (NP Ozzie)
+			And
+			(NP Harriet)))
+		''))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP more
+	   decadence))
+   (PP on
+       (NP  ``
+	    77
+	    Sunset Strip
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP  (ADJP more
+		  obvious) nymphomaniacs))
+   (PP on
+       (NP any private-eye series)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP another respect))
+   ,
+   (S (NP television viewers)
+      (AUX will)
+      (VP feel
+	  (PP (ADVP right)
+	      at
+	      (NP home)))
+      (SBAR because
+	    (S (NP  most
+		    (PP of
+			(NP the actors)))
+	       (VP are
+		   (NP unknowns))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP the exception
+	   (PP of
+	       (NP (NP Lex Barker)
+		   and
+		   (NP Anita Ekberg)))))
+   ,
+   (S (NP the credits)
+      (VP are
+	  (ADJP  as
+		 unfamiliar
+		 (PP as
+		     (S (NP you)
+			(AUX 'll)
+			(VP find
+			    (PP on
+				(NP the Robert Herridge Theater)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Most
+	(PP of
+	    (NP the emphasis)))
+    (AUX has)
+    (VP been
+	(VP placed
+	    (PP on
+		(NP a
+		    ``
+		    wild party
+		    ''
+		    (PP at
+			(NP a seaside villa)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Producer Fellini)
+    (AUX should)
+    (VP have
+	(VP looked
+	    (PP at
+		(NP some
+		    (PP of
+			(NP (NP the
+				old silent
+				films)
+			    (SBAR 
+			     (WHADVP where)
+			     (S (NP they)
+				(ADVP really)
+				(VP had
+				    (NP parties)))))))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Dolce Vita get-together)
+    (VP boasted
+	(NP (NP (NP a strip tease)
+		*LRB*
+		(VP carried
+		    (ADVP as
+			  far
+			  (PP as
+			      (NP a black slip))))
+		*RRB*)
+	    ;
+	    ;
+	    (NP (NP (NP a lady
+			(PP-1 *pseudo-attach*))
+		    (ADJP drunk)
+		    (PP-1 on
+			  (NP her hands and knees)))
+		(SBAR 
+		 (WHNP who)
+		 (S (NP T)
+		    (VP carries
+			(NP the hero)
+			(ADVP around)
+			(PP on
+			    (NP her
+				back)))
+		    (SBAR while
+			  (S (NP he)
+			     (VP throws
+				 (NP pillow feathers)
+				 (PP in
+				     (NP her face))))))))
+	    ;
+	    ;
+	    (NP a frigid beauty)
+	    ,
+	    and
+	    (NP three silly fairies))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (S (NP *) 
+       (VP Put
+	   (NP them
+	       all)
+	   (ADVP together)))
+    and
+    (S (NP they)
+       (VP spell
+	   (PRT out)
+	   (NP (NP (NP the
+		       only (ADJP four-letter)
+		       word)
+		   (SBAR 0
+			 (S
+			  (NP I)
+			  (AUX can)
+			  (VP think
+			      (PP of
+				  (NP T) )))))
+	       :
+	       (NP (ADJP dull))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Apparently)
+      (S (NP Fellini)
+	 (VP caught
+	     (NP the crowd)
+	     (SBAR 
+	      (WHADVP when)
+	      (S (NP its parties)
+		 (AUX had)
+		 (VP begun
+		     (S (NP *)
+			(AUX to)
+			(VP pall))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)  
+( (S  (NP (X What)
+	  a swinging group)
+      (S (NP they)
+	 (AUX must)
+	 (VP have
+	     (VP been
+		 (NP T)))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP they)
+	     (ADVP first)
+	     (VP started
+		 (S (NP *)  
+		    (VP entertaining)))))))
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+( (S (PP As
+	 (NP A moral shocker))
+     (S
+      (NP it)
+      (VP is
+	  (NP a dud))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP this)
+	 (AUX does)
+	 (NEG n't)
+	 (VP detract
+	     (PP from
+		 (NP its merit
+		     (PP as
+			 (NP an
+			     (ADJP (ADJP interesting)
+				   ,
+				   (X  if
+				       (NEG not)
+				       (ADJP great))
+				   ,)
+			     film)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The Chronicle)
+    's Paine Knickerbocker)
+   (VP summed
+       (NP it)
+       (PRT up)
+       (ADVP neatly)
+       :
+       ``
+       (S (S (NP This)
+	     (VP is
+		 (NP (NP a long picture)
+		     and
+		     (NP a
+			 controversial
+			 one))))
+	  ,
+	  but
+	  (S (ADVP basically)
+	     (S (NP it)
+		(VP is
+		    (NP a
+			(ADJP moral
+			      ,
+			      enthralling and heartbreaking)
+			description
+			(PP of
+			    (NP (NP humans)
+				(SBAR  
+				 (WHNP who)
+				 (S (NP T)
+				    (AUX have)
+				    (VP become
+					(ADJP unlinked
+					      (PP from
+						  (NP life)))
+					(PP as
+					    (S  (ADVP perhaps)
+						(S (NP Rome)
+						   (AUX has)
+						   (X (PP from
+							  (NP her
+							      traditional (ADJP political
+										,
+										cultural
+										and
+										religious)
+							      glories))))))))))))))))
+       ''))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (SBAR 
+       (WHADVP when)
+       (S (NP they)
+	  (VP sell
+	      (NP it)
+	      (PP to
+		  (NP television)))
+	  (PP in
+	      (NP a couple
+		  (PP of
+		      (NP years))))))
+      ,
+      (S (NP it)
+	 (AUX can)
+	 (VP be
+	     (VP shown
+		     
+		 (PP without
+		     (NP  editing))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Tonight)
+      (S (NP  Atlantic Monthly editor
+	      (NP Edward Weeks))
+	 (VP moderates
+	     (NP a round table
+		 (PP of
+		     (NP four Russian writers))))
+	 (PP in
+	     (NP a discussion
+		 (PP of
+		     (NP Soviet literature))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (PP Among
+       (NP (NP the subjects)
+	   (VP discussed)))
+   (AUX will)
+   (VP be)
+   (NP Russian restrictions
+       (PP on
+	   (NP poets and writers
+	       (PP in
+		   (NP the USSR)))))
+   *LRB*
+   (X (NP Channel 9)
+      (PP at
+	  (NP 9:30)))
+   *RRB*)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Person
+      (PP To
+	  (NP Person)))
+  (VP ventilates
+      (NP the home lives
+	  (PP of
+	      (NP (NP (NP Johnny Mercer)
+		      and
+		      (NP Joan Collins))
+		  --
+		  (NP both
+		      (PP in
+			  (NP Southern California)))))))
+  *LRB*
+  (X (NP Channel 5)
+     (PP at
+	 (NP 10:30)))
+  *RRB*))
+( 
+ (S (NP KQED Summer Music Festival)
+    (VP features
+	(NP a live concert
+	    (PP by
+		(NP the Capello De Musica))))
+    *LRB*
+    (X (NP Channel 9)
+       (PP at
+	   (NP 8:30)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP NBC)
+   (VP plans
+       (NP a new series
+	   (PP of
+	       (NP (NP (NP (NP three  long programs)
+			   (VP exploring
+			       (NP 
+				(NP America)
+				's scientific plans)))
+		       (VP titled
+			   (NP  ``
+				Threshold
+				'')))
+		   ,
+		   (S (NP *)
+		      (AUX to)
+		      (VP start
+			  (PP in
+			      (NP the fall)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP  ``
+	   Science
+	   (PP In
+	       (NP Action))
+	   '')
+      ,
+      (NP 
+       (NP San Francisco)
+       's venerable television program)
+      ,)
+  (AUX will)
+  (VP be
+      (VP seen
+	     
+	  (PP in
+	      (NP Hong Kong))
+	  (NP this fall)
+	  (PP in
+	      (NP (NP four languages)
+		  :
+		  (NP (NP Mandarin)
+		      ,
+		      (NP Cantonese)
+		      ,
+		      (NP Chiuchow)
+		      and
+		      (NP English))))))
+  ,
+  (VP according
+      (PP to
+	  (NP a tip
+	      (PP from
+		  (NP Dr. Robert C. Miller))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S   And
+       (S (NP you)
+	  (VP think
+	      (SBAR 0
+		    (S (NP you)
+		       (VP have
+			   (NP language problems)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The week)
+   (VP went
+       (ADVP along)
+       (ADVP briskly
+	     enough)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP bought
+       (NP a
+	   new
+	   little foreign bomb)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP a British bomb)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((ADJP (ADJP  Very
+	      austere)
+       yet
+       (ADJP racy)) 
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADJP  very
+	      chic))
+   (S-1 (NP *)
+      (AUX to)
+      (VP drive
+	  (NP foreign cars))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP With
+	    (NP a foreign car))
+	(S
+	 (NP you)
+	 (AUX must)
+	 (VP wear
+	     (NP a cap))))
+     --
+     (S (NP it)
+	(VP has
+	    (NP a leather band)
+	    (PP in
+		(NP the back)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX must)
+   (ADVP also)
+   (VP wear
+       (NP a car coat)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The wardrobe
+       (PP for
+	   (NP a foreign bomb)))
+   (VP is
+       (ADJP  (NP a
+		  little)
+	      expensive)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP we)
+	 (AUX could)
+	 (NEG n't)
+	 (ADVP really)
+	 (VP get
+	     (PRT along))
+	 (PP without
+	     (NP it))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (SBARQ 
+       (WHADVP Where)
+       (SQ  (AUX do)
+	    (NP you)
+	    (VP put
+		(NP the lighter fluid))
+	    ,
+	    (INTJ ha)
+	    ,
+	    (INTJ ha)))
+      ''
+      ?
+      ?
+      (SINV 
+       (VP Asked)
+       (NP the gas station man)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The present crop
+       (PP of
+	   (NP small cars)))
+   (AUX is)
+   (VP enriching
+       (NP American humor)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gas station people)
+   (VP are
+       (ADJP  very
+	      debonair
+	      (PP about
+		  (NP small cars)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP I)
+	 (VP drove
+	     (NP a car
+		 (PP with
+		     (NP tail fins))))))
+     ,
+     (S (NP I)
+	(VP had
+	    (NP (ADJP plenty) status))
+	(PP at
+	    (NP the wind-and-water oases))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP My car)
+   (VP gulped
+       (NP 20 gallons)
+       (PP without
+	   (S  (NP *) 
+	       (VP  (ADVP even)
+		    wiping
+		    (NP its mouth))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This
+       excellent foreign
+       bomb)
+   (VP takes
+       (NP  (ADVP only)
+	    six)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP I)
+	 (VP had
+	     (NP my big job
+		 (PP with
+		     (NP (NP the double headlights) 
+			 and 
+			 (NP yards
+			     (PP of
+				 (NP chrome)))))))))
+     ,
+     (S (NP the gas people)
+	(VP were
+	    (ADJP happy
+		  (S (NP *)
+		     (AUX to)
+		     (VP see
+			 (NP me)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (X  
+    (NP Tires)
+    (ADJP OK))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ     (NP *)  
+	  (VP Check
+	      (NP the oil and water))
+	  ,
+	  (NP sir))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ''
+   (S (NP They)
+      (VP polished
+	  (NP the windshield)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP had
+       (NP a (ADJP loving) touch)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The man)
+   (VP stuck
+       (NP the nozzle)
+       (PP in
+	   (NP the gas tank))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (SBARQ  
+       (WHNP What
+	     kind
+	     (PP of
+		 (NP car)))
+       (SQ    
+	(VP is)
+	(NP it)
+	(NP T)))
+      ''
+      ?
+      ?
+      (S
+       (NP He)
+       (VP asked
+	   (ADVP gloomily))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It)
+      (VP is
+	  (NP (NP a
+		  (ADJP British)
+		  Austin)
+	      ,
+	      (NP (NP the
+		      (ADJP smallest))
+		  (SBAR 0
+			(S (NP they)
+			   (VP make
+			       (NP T) )))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ  (NP *)  
+	(VP Get
+	    (NP much mileage)))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (NP (ADVP About)
+       35)
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The gas station man)
+   (VP sighed
+       (ADVP unhappily)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+    
+   (S (NP (SBAR (WHNP What)
+		(S (NP I)
+		   (ADVP always)
+		   (VP say
+		       (NP T) ))))
+      (VP is
+	  (X (WHNP what)
+	     (SBAR if
+		   (S (NP somebody)
+		      (VP clobbers
+			  (NP you
+			      (PP in
+				  (NP a little car
+				      (PP like
+					  (NP that)))))))))))
+   ?
+   ?)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Crunch)
+   ,
+   (NP that)
+   (VP 's
+       (NP (NP all)
+	   (SBAR 0
+		 (S (NP she)
+		    (VP wrote
+			''
+			(NP T)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX will)
+      (VP die
+	  (ADJP rich)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP That)
+	 (AUX will)
+	 (VP be
+	     (NP $ 1.80)))
+      ''
+      ,
+      (SINV (VP said)
+	    (NP the gas station man)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP The windshield)
+      (VP looks
+	  (ADJP  (ADVP pretty)
+		 clean)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (INTJ Ah)
+   ,
+   (NP the (ADJP fair-weather) friends
+       (PP of
+	   (NP yesteryear))))
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP I)
+	 (VP wheeled
+	     (ADVP about))
+	 ,
+	 (ADJP  finned
+		(ADJP fore
+		      and
+		      aft))))
+     ,
+     (S (NP I)
+	(VP was
+	    (NP the darling
+		(PP of
+		    (NP the doormen))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Dollar bills)
+      (VP skidded
+	  (PP off
+	      (NP my hands))))
+   and
+   (S (NP they)
+      (VP tipped
+	  (NP their caps)
+	  (ADVP politely))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP a small bomb))
+   ,
+   (S (NP I)
+      (VP tuck
+	  (NP it)
+	  (PP between
+	      (NP Cadillacs)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP (NP The last doorman)
+	  (SBAR 
+	   (WHNP that)
+	   (S (NP T)
+	      (VP saw
+		  (NP me)
+		  (VP do
+		      (NP 
+		       that))))))
+      (AUX should)
+      (VP calm
+	  (NP himself)))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP High blood pressure)
+   (AUX can)
+   (VP get
+       (NP the
+	   (ADJP best))
+       (PP of
+	   (NP any
+	       (PP of
+		   (NP us))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

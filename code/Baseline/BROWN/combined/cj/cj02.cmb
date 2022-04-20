@@ -1,0 +1,2497 @@
+
+ 
+ 
+
+ 
+
+(
+ (S (NP (NN Abstract) (NNS Experiments))
+    (AUX (VBD were))
+    (VP (VBN made)
+        
+        (PP (IN on)
+            (NP (DT an) (JJ electric) (NN arc))))
+    (S (NP (-NONE- *))
+       (VP (VBG applying)
+           (NP (NP (DT a) (JJ porous) (NN graphite) (NN anode))
+               (VP (VBN cooled)
+                   (PP (IN by)
+                       (NP (NP (DT a) (VBG transpiring) (NN gas))
+                           (-LRB- -LRB-)
+                           (NP (NN Argon))
+                           (-RRB- -RRB-))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (NP (DT the) (NN energy))
+           (VP (VBN transferred)
+               (PP (IN from)
+                   (NP (DT the) (NN arc)))
+               (PP (TO to)
+                   (NP (DT the) (NN anode)))))
+       (AUX (VBD was))
+       (VP (ADVP (RB partly))
+           (VBN fed)
+           (ADVP (RB back))
+           (PP (IN into)
+               (NP (DT the) (NN arc))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (AUX (VBD was))
+    (VP (VBN shown))
+    (SBAR-1 (IN that)
+            (S (PP (IN by)
+                   (NP (JJ proper) (NN anode) (NN design)))
+               (S
+                  (NP (DT the) (JJ net) (NN energy) (NN loss)
+                      (PP (IN of)
+                          (NP (DT the) (NN arc)))
+                      (PP (TO to)
+                          (NP (DT the) (NN anode))))
+                  (AUX (MD could))
+                  (VP (VB be)
+                      (VP (VBN reduced)
+                          
+                          (PP (TO to)
+                              (NP (ADVP (RB approximately))
+                                  (CD 15) (NN %)
+                                  (PP (IN of)
+                                      (NP (DT the) (JJ total) (NN arc) (NN energy)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (ADJP (JJ detailed)) (NN energy) (NN balance)
+        (PP (IN of)
+            (NP (DT the) (NN anode))))
+    (AUX (VBD was))
+    (VP (VBN established)
+        ))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN anode) (NN ablation))
+    (AUX (MD could))
+    (VP (VB be)
+        (VP (VBN reduced)
+            
+            (PP (TO to)
+                (NP (DT a) (JJ negligible) (NN amount))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN dependence)
+        (PP (IN of)
+            (NP (DT the) (NN arc) (NN voltage)))
+        (PP (IN upon)
+            (NP (DT the) (NN mass) (NN flow) (NN velocity)
+                (PP (IN of)
+                    (NP (DT the) (VBG transpirating) (NN gas))))))
+    (AUX (VBD was))
+    (VP (VBN investigated)
+        
+        (PP (IN for)
+            (NP (JJ various) (NN arc) (NNS lengths) (CC and) (NNS currents)
+                (PP (IN between)
+                    (NP (NP (CD 100)
+                            (NNP Amp))
+                        (CC and)
+                        (NP (CD 200) (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (S
+          (NP (JJ Qualitative) (NNS observations))
+          (AUX (VBD were))
+          (VP (VBN made)))
+       (CC and)
+       (S (NP (ADJP (JJ high-speed)) (NN motion) (NNS pictures))
+          (AUX (VBD were))
+          (VP (VBN taken))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB study)
+           (NP (NN flow) (NNS phenomena)
+               (PP (IN in)
+                   (NP (DT the) (NN arc))))
+           (PP (IN at)
+               (NP (JJ various) (NN mass) (NN flow) (NNS velocities))))))
+ (. .))
+ 
+
+ 
+
+((NP (NN Introduction)))
+ 
+
+((S
+    (NP (NP (DT The) (JJ high) (NN heat) (NNS fluxes))
+        (VP (VBG existing)
+            (PP (IN at)
+                (NP (DT the) (NN electrode) (NNS surfaces)
+                    (PP (IN of)
+                        (NP (JJ electric) (NNS arcs)))))))
+    (VP (VBP necessitate)
+        (NP (JJ extensive) (NN cooling)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB prevent)
+                   (NP (NN electrode) (NN ablation)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN cooling) (NNS requirements))
+    (VP (VBP are)
+        (ADJP (ADVP (RB particularly))
+              (JJ severe))
+        (PP (IN at)
+            (NP (DT the) (NN anode)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP
+            (ADJP (JJ free-burning)) (JJ electric)
+            (NNS arcs)))
+    (, ,)
+    (PP (IN for)
+        (NP (NN instance)))
+    (, ,)
+    (S (NP (ADVP (RB approximately))
+           (CD 90) (NN %)
+           (PP (IN of)
+               (NP (DT the) (JJ total) (NN arc) (NN power))))
+       (AUX (VBZ is))
+       (VP (VBN transferred)
+           
+           (PP (TO to)
+               (NP (DT the) (NN anode))))
+       (S (NP (-NONE- *))
+          (VP (VBG giving)
+              (NP (NN rise))
+              (PP (TO to)
+                  (NP (JJ local) (NN heat) (NNS fluxes)
+                      (PP (IN in)
+                          (NP (NN excess)
+                              (PP (IN of)
+                                  (NP (-NONE- A[fj])))))
+                      (PP (IN as)
+                          (S (NP (-NONE- *))
+                             (VP (VBN measured)
+                                 (PP (IN by)
+                                     (NP (DT the) (NNS authors))))))))))
+       (: --)
+       (S (NP (DT the) (JJ exact) (NN value))
+          (VP (VBG depending)
+              (PP (IN on)
+                  (NP (DT the) (NN arc) (NN atmosphere)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN plasma) (NNS generators)
+            (PP (PP (RB as)
+                    (ADJP (RB currently)
+                          (RB commercially)
+                          (JJ available)
+                          (PP (IN for)
+                              (NP (JJ industrial) (NN use)))))
+                (CC or)
+                (PP (IN as)
+                    (NP (JJ high) (NN temperature) (NN research) (NNS tools))))))
+    (ADVP (RB often))
+    (S (NP (JJR more)
+           (PP (IN than)
+               (NP (CD 50) (NN %)
+                   (PP (IN of)
+                       (NP (DT the) (JJ total) (NN energy) (NN input))))))
+       (AUX (VBZ is))
+       (VP (VBG being)
+           (VP (VBN transferred)
+               
+               (PP (TO to)
+                   (NP (DT the) (NN cooling) (NN medium)
+                       (PP (IN of)
+                           (NP (DT the) (NN anode)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The)
+            (JJR higher)
+            (NN heat) (NN transfer) (NNS rates)
+            (PP (IN at)
+                (NP (DT the) (NN anode))))
+        (VP (VBN compared)
+            (PP (IN with)
+                (NP (DT those)
+                    (PP (IN at)
+                        (NP (DT the) (NN cathode)))))))
+    (AUX (MD can))
+    (VP (VB be)
+        (VP (VBN explained)
+            
+            (PP (IN by)
+                (NP (NP (DT the) (JJ physical) (NNS phenomena))
+                    (VP (VBG occurring)
+                        (PP (IN in)
+                            (NP (ADJP (JJ|RB free)
+                                      (VBG burning))
+                                (NNS arcs)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (NN plasma) (NNS generators)))
+    (S (NP (DT the)
+           (VP (JJ superimposed))
+           (VP (VBN forced))
+           (NN convection))
+       (AUX (MD may))
+       (VP (VB modify)
+           (NP (DT the) (NN picture))
+           (ADVP (RB somewhat)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN heat) (NN transfer)
+        (PP (TO to)
+            (NP (DT the) (NN anode))))
+    (VP (VBZ is)
+        (PP (JJ due)
+            (PP (TO to)
+                (NP (NP (DT the) (VBG following) (NNS effects))
+                    (: :)
+                    (NP (LS 1)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP
+     (NP (NP (NN Heat)
+             (PP (IN of)
+                 (NP (NN condensation))))
+         (-LRB- -LRB-)
+         (NP (NN work) (NN function))
+         (-RRB- -RRB-))
+     (CC plus)
+     (NP (JJ kinetic) (NN energy)
+         (PP (IN of)
+             (NP (NP (DT the) (NNS electrons))
+                 (VP (VBG impinging)
+                     (PP (IN on)
+                         (NP (DT the) (NN anode))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN energy) (NN transfer))
+    (VP (VBZ depends)
+        (PP (IN on)
+            (NP (NP (DT the) (NN current))
+                (, ,)
+                (NP (DT the) (NN temperature)
+                    (PP (IN in)
+                        (NP (DT the) (NN arc) (NN column))))
+                (, ,)
+                (NP (DT the) (NN anode) (NN material))
+                (, ,)
+                (CC and)
+                (NP (DT the) (NNS conditions)
+                    (PP (IN in)
+                        (NP (DT the) (NN anode) (NN sheath))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 2))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Heat) (NN transfer)
+     (PP (PP (IN by)
+             (NP (JJ molecular) (NN conduction)))
+         (ADVP (RB as)
+               (RB well)
+               (PP (IN as)
+                   (PP (IN by)
+                       (NP (NN radiation)
+                           (PP (IN from)
+                               (NP (DT the) (NN arc) (NN column)))))))))
+ (. .))
+ 
+
+ 
+
+((S (NP (DT The) (NN heat) (NN transfer)
+        (PP (TO to)
+            (NP (DT the) (NN anode)))
+        (PP (IN in)
+            (NP (ADJP (RB free)
+                      (VBG burning))
+                (NNS arcs))))
+    (AUX (VBZ is))
+    (VP (VBN enhanced)
+        
+        (PP (IN by)
+            (NP (NP (DT a) (JJ hot) (NN gas) (NN jet))
+                (VP (VBG flowing)
+                    (PP (IN from)
+                        (NP (DT the) (NN cathode)))
+                    (PP (IN towards)
+                        (NP (DT the) (NN anode)))
+                    (PP (IN with)
+                        (NP (NNS velocities)
+                            (PP (IN up)
+                                (NP (-NONE- A[fj]))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This) (NN phenomenon))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (ADVP (RB experimentally))
+            (VBN investigated)
+            
+            (PP (IN in)
+                (NP (NN detail)))
+            (PP (IN by)
+                (NP (NP (NNP Maecker))
+                    (-LRB- -LRB-)
+                    (NP (NN Ref.) (CD 1))
+                    (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN pressure) (NN gradient))
+        (VP (VBG producing)
+            (NP (DT the) (NN jet))))
+    (VP (VBZ is)
+        (ADJP (JJ due)
+              (PP (TO to)
+                  (NP (NP (DT the) (NN nature)
+                          (PP (IN of)
+                              (NP (DT the) (JJ magnetic) (NN field)
+                                  (PP (IN in)
+                                      (NP (DT the) (NN arc))))))
+                      (-LRB- -LRB-)
+                      (NP (JJ rapid) (NN decrease)
+                          (PP (IN of)
+                              (NP (NN current) (NN density)))
+                          (PP (PP (IN from)
+                                  (NP (NN cathode)))
+                              (PP (TO to)
+                                  (NP (DT the) (NN anode)))))
+                      (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (S (NP (DT the) (NN flow) (NNS conditions)
+           (PP (IN at)
+               (NP (DT the) (NN anode)
+                   (PP (IN of)
+                       (NP (ADJP (RB free)
+                                 (VBG burning))
+                           (NNS arcs))))))
+       (VP (VBP resemble)
+           (NP (DT those)
+               (PP (IN near)
+                   (NP (DT a) (NN stagnation) (NN point)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-2 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (ADJP (JJ apparent)))
+    (PP (PP (IN from)
+            (NP (DT the)
+                (JJ above)))
+        (CC and)
+        (PP (IN from)
+            (NP (JJ experimental) (NN evidence))))
+    (SBAR-2 (IN that)
+            (S (NP (DT the) (NN cooling) (NNS requirements)
+                   (PP (IN for)
+                       (NP (DT the) (NN anode)
+                           (PP (IN of)
+                               (NP (ADJP (RB free)
+                                         (VBG burning))
+                                   (NNS arcs))))))
+               (VP (VBP are)
+                   (ADJP (JJ large)))
+               (S (NP (-NONE- *))
+                  (VP (VBN compared)
+                      (PP (IN with)
+                          (NP (DT those)
+                              (PP (IN for)
+                                  (NP (DT the) (NN cathode))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (S (NP (DT The) (NN gas) (NN flow)
+           (PP (IN through)
+               (NP (DT a) (NN plasma) (NN generator))))
+       (AUX (MD will))
+       (VP (VB modify)
+           (NP (DT these) (NNS conditions))))
+    (: ;)
+    (: ;)
+    (S (ADVP (RB however))
+       (, ,)
+       (S (NP (DT the) (NN anode))
+          (VP (VBZ is)
+              (ADVP (RB still))
+              (NP (NP (DT the) (NN part))
+                  (VP (VBG receiving)
+                      (NP (DT the)
+                          (JJS largest)
+                          (NN heat) (NN flux))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S
+    (NP (DT An) (NN attempt)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB improve)
+               (NP (NP (DT the) (NN life)
+                       (PP (IN of)
+                           (NP (DT the) (NNS anodes))))
+                   (CC or)
+                   (NP (DT the) (NN efficiency)
+                       (PP (IN of)
+                           (NP (DT the) (NN plasma) (NNS generators))))))))
+    (AUX (MD must))
+    (, ,)
+    (ADVP (RB therefore))
+    (, ,)
+    (VP (VB aim)
+        (PP (IN at)
+            (NP (DT a) (NN reduction)
+                (PP (IN of)
+                    (NP (DT the) (NN anode) (NN loss)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (ADJP (VBG following)) (NNS possibilities)
+        (PP-1 (-NONE- *pseudo-attach*)))
+    (VP (VBP exist)
+        (PP-1 (IN for)
+              (S (NP (-NONE- *))
+                 (VP (VBG achieving)
+                     (NP (DT this))))))
+    (: :)
+    (NP (LS 1)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (DT The) (NN use)
+     (PP (IN of)
+         (NP (NP (JJ high) (NNS voltages))
+             (CC and)
+             (NP (JJ low) (NNS currents))))
+     (PP (IN by)
+         (NP (JJ proper) (NN design)))
+     (S (NP (-NONE- *))
+        (AUX (TO to))
+        (VP (VB reduce)
+            (NP (NN electron) (NN heat) (NN transfer)
+                (PP (TO to)
+                    (NP (DT the) (NN anode))))
+            (PP (IN for)
+                (NP (DT a) (ADJP (VBN given)) (NN power) (NN output))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 2))
+ (. .))
+ 
+
+ 
+
+(
+ (NP (JJ Continuous) (NN motion)
+     (PP (IN of)
+         (NP (DT the) (NN arc) (NN contact) (NN area)
+             (PP (IN at)
+                 (NP (DT the) (NN anode)))))
+     (PP (IN by)
+         (NP (NP (NN flow))
+             (CC or)
+             (NP (JJ magnetic) (NNS forces)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (LS 3))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NN Feedback)
+     (PP (IN of)
+         (NP (NP (DT the) (NN energy))
+             (VP (VBN transferred)
+                 (PP (TO to)
+                     (NP (DT the) (NN anode))))))
+     (PP (IN by)
+         (S (NP (-NONE- *))
+            (VP (VBG applying)
+                (NP (NN gas) (NN transpiration)
+                    (PP (IN through)
+                        (NP (DT the) (NN anode))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ third) (NN method))
+    (AUX (VBD was))
+    (, ,)
+    (PP (TO to)
+        (NP (PRP$ our) (NN knowledge)))
+    (, ,)
+    (VP (ADVP (RB successfully))
+        (VBN applied)
+        (PP (IN for)
+            (NP (DT the) (JJ first) (NN time)))
+        (PP (IN by)
+            (NP (NP (NP (NNP C.) (NNP Sheer))
+                    (CC and)
+                    (NP (NNS co-workers)))
+                (-LRB- -LRB-)
+                (NP (NN Ref.) (CD 2))
+                (-RRB- -RRB-)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN purpose)
+        (PP (IN of)
+            (NP (DT the) (JJ present) (NN study))))
+    (VP (VBZ is)
+        (S (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB study)
+                  (NP (DT the) (JJ thermal) (NNS conditions))))
+           (CC and)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB establish)
+                  (NP (NP (DT an) (NN energy) (NN balance)
+                          (PP (IN for)
+                              (NP (DT a) (ADJP (NN transpiration)
+                                        (VBN cooled))
+                                  (NN anode))))
+                      (ADVP (RB as)
+                            (RB well)
+                            (PP (IN as)
+                                (NP (DT the) (NN effect)
+                                    (PP (IN of)
+                                        (NP (VBG|NN blowing)))
+                                    (PP (IN on)
+                                        (NP (DT the) (NN arc) (NN voltage))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (NN Gas) (NN injection)
+            (PP (IN through)
+                (NP (DT a) (JJ porous) (NN anode))))
+        (-LRB- -LRB-)
+        (NP (NN transpiration) (NN cooling))
+        (-RRB- -RRB-))
+    (VP (CONJP (RB not)
+               (RB only))
+        (VP (VBZ feeds)
+            (ADVP (RB back))
+            (NP (NP (DT the) (NN energy))
+                (VP (VBN transferred)
+                    (TO to)
+                    (NP (DT the) (NN anode))))
+            (PP (IN by)
+                (NP (DT the)
+                    (ADJP (JJ above)
+                          (VBN mentioned))
+                    (NNS processes))))
+        (, ,)
+        (CC but)
+        (RB also)
+        (VP (VBZ modifies)
+            (NP (DT the) (NNS conditions)
+                (PP (IN in)
+                    (NP (NP (DT the) (NN arc))
+                        (NP (PRP itself))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (ADJP (JJ detailed)) (NN study)
+        (PP (IN of)
+            (NP (DT this) (JJ latter) (NN phenomenon))))
+    (AUX (VBD was))
+    (NEG (RB not))
+    (VP (VBN attempted)
+        
+        (PP (IN in)
+            (NP (DT this) (NN paper)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Argon))
+    (AUX (VBD was))
+    (VP (VBN used)
+        
+        (PP (IN as)
+            (NP (DT a) (NN blowing) (NN gas))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB exclude)
+           (NP (DT any) (NNS effects)
+               (PP (IN of)
+                   (NP (NP (NN dissociation))
+                       (CC or)
+                       (NP (JJ chemical) (NN reaction))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN anode) (NN material))
+    (VP (VBD was)
+        (NP (JJ porous) (NN graphite))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (VBN Sintered)
+        (JJ porous) (NNS metals))
+    (AUX (MD should))
+    (VP (VB be)
+        (ADJP (JJ usable)))
+    (PP (IN in)
+        (NP (NN principle))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (JJ technical) (NNS difficulties))
+       (VP (VBP arise)
+           (PP (IN by)
+               (NP (VBG melting)
+                   (PP (IN at)
+                       (NP
+                           (JJ local) (JJ hot)
+                           (NNS spots))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ experimental) (NN arrangement)
+        (PP (IN as)
+            (S (NP (-NONE- *))
+               (VP (VBN described)
+                   (ADVP (RB below))))))
+    (AUX (VBZ is))
+    (VP (VBN based)
+        
+        (PP (IN on)
+            (NP (DT the) (NN geometry)
+                (PP (IN of)
+                    (NP (ADJP (RB free)
+                              (VBG burning))
+                        (NNS arcs)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (JJ direct) (NNS comparisons))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN drawn)
+               
+               (PP (IN with)
+                   (NP (NP (ADJP (RB free)
+                                 (VBG burning))
+                           (NNS arcs))
+                       (SBAR
+                             (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (AUX (VB have))
+                                (VP (VBN been)
+                                    (VP (VBN studied)
+                                        
+                                        (PP (IN in)
+                                            (NP (NN detail)))
+                                        (PP (IN during)
+                                            (NP (DT the) (JJ past) (NNS years) (CC and) (NNS decades)))
+                                        (PP (IN by)
+                                            (NP (NP (JJ numerous) (NNS investigators))
+                                                (-LRB- -LRB-)
+                                                (NP (NN Ref.) (CD 3))
+                                                (-RRB- -RRB-)))))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (JJ Experimental) (NN apparatus)))
+ 
+
+((S
+    (NP (NNS Figures)
+        (NP (CD 1)
+            (PP (TO to)
+                (NP (CD 3)))))
+    (VP (VBP show)
+        (NP (ADJP (JJ photographic) (CC and) (JJ schematic)) (NNS views)
+            (PP (PP (IN of)
+                    (NP (DT the) (NN test) (NN stand)))
+                (CC and)
+                (PP (IN of)
+                    (NP (CD two) (JJ different) (NNS models)
+                        (PP (IN of)
+                            (NP (DT the) (NN anode) (NN holder)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN cathode))
+    (VP (VBD consisted)
+        (PP (IN of)
+            (NP (NP (DT a) (CD 14) (NN '') (NN diameter)
+                    (VBN thoriated)
+                    (NN tungsten) (NN rod))
+                (VP (VBN attached)
+                    (PP (TO to)
+                        (NP (DT a) (ADJP (NN water)
+                                  (VBN cooled))
+                            (NN copper) (NN tube))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN tube))
+    (AUX (MD could))
+    (VP (VB be)
+        (VP (VBN adjusted)
+            
+            (PP (IN in)
+                (NP (PRP$ its) (JJ axial) (NN direction)))
+            (PP (IN by)
+                (NP (DT an) (JJ electric) (NN drive)))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB establish)
+           (NP (DT the) (VP (VBN required)) (NN electrode) (NN spacing)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN anode)
+        (PP (IN in)
+            (NP (NN figure) (CD 2))))
+    (AUX (VBD was))
+    (VP (VBN mounted)
+        
+        (PP (IN by)
+            (NP (NNS means)
+                (PP (IN of)
+                    (NP (NP (DT the) (NN anode) (NN holder))
+                        (SBAR
+                              (WHNP (WDT which))
+                              (S (NP (-NONE- T))
+                                 (AUX (VBD was))
+                                 (VP (VBN attached)
+                                     
+                                     (PP (TO to)
+                                         (NP (DT a) (NN steel) (NN plug) (CC and) (NN disk))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (VBG transpiring) (NN gas))
+        (VP (VBN ejected)
+            (PP (IN from)
+                (NP (DT the) (NN anode)))))
+    (VP (VBD formed)
+        (NP (NP (DT a) (NN jet))
+            (VP (VBD directed)
+                (ADVP (RB axially))
+                (PP (IN towards)
+                    (NP (DT the) (NN cathode)
+                        (ADVP (IN below))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NN Inflow)
+        (PP (IN of)
+            (NP (NN air)))
+        (PP (IN from)
+            (NP (DT the) (ADJP (VBG surrounding)) (NN atmosphere))))
+    (AUX (VBD was))
+    (VP (VBN prevented)
+        
+        (PP (IN by)
+            (NP (NP (DT the) (CD two) (NNS disks))
+                (VP (VBN shown)
+                    (PP (IN in)
+                        (NP (NN figure) (CD 2))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NN Argon))
+    (AUX (VBD was))
+    (ADVP (RB also))
+    (VP (VBN blown)
+        
+        (PP (IN at)
+            (NP (NP (JJ low) (NNS velocities))
+                (-LRB- -LRB-)
+                (NP (JJ mass) (NN flow) (NN rate) (-NONE- A[fj]))
+                (-RRB- -RRB-)))
+        (PP (IN through)
+            (NP (NP (DT a) (NN tube))
+                (ADJP (JJ coaxial)
+                      (PP (IN with)
+                          (NP (DT the) (NN cathode)))))))
+    (PP (IN as)
+        (NP (DT an) (JJ additional) (NN precaution)
+            (PP (IN against)
+                (NP (NN contamination)
+                    (PP (IN of)
+                        (NP (DT the) (NN arc)))
+                    (PP (IN by)
+                        (NP (NN air))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN anode))
+    (VP (VBD consisted)
+        (PP (IN of)
+            (NP (NP (DT a) (CD 12) (NN inch) (NN diameter) (JJ porous) (NN graphite) (NN plug))
+                (, ,)
+                (ADJP (NP (CD 14) (NN inch))
+                      (JJ long))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN graphite))
+    (VP (VBD was)
+        (NP (NP (NNP National) (NNP Carbon) (NNP NC) (CD 60))
+            (, ,)
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ has)
+                         (NP (NP (DT a) (NN porosity)
+                                 (PP (IN of)
+                                     (NP (CD 50) (NN %))))
+                             (CC and)
+                             (NP (DT an) (JJ average) (NN pore) (NN size)
+                                 (PP (IN of)
+                                     (NP (CD 30)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (JJ small) (NN pore) (NN size))
+    (AUX (VBD was))
+    (VP (VBN required)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB ensure)
+               (NP (NN uniformity)
+                   (PP (IN of)
+                       (NP (NP (DT the) (NN flow))
+                           (VP (VBG leaving)
+                               (NP (DT the) (NN anode))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NN anode) (NN plug))
+        (-LRB- -LRB-)
+        (NP (NN Figure) (CD 2))
+        (-RRB- -RRB-))
+    (AUX (VBD was))
+    (VP (VBN inserted)
+        
+        (PP (IN into)
+            (NP (DT a) (NN carbon) (NN anode) (NN holder)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (VBN shielded) (NN thermocouple))
+    (AUX (VBD was))
+    (VP (VBN used)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB measure)
+               (NP (DT the) (JJ upstream) (NN temperature)
+                   (PP (IN of)
+                       (NP (DT the) (VBG transpiring) (NN gas))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (VBD was))
+    (VP (VBN exposed)
+        
+        (PP (TO to)
+            (NP (DT a) (JJ high) (NN velocity) (NN gas) (NN jet)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN plug))
+        (CC and)
+        (NP (DT a) (NN tube)
+            (PP (IN with)
+                (NP (NNS holes)
+                    (PP (IN in)
+                        (NP (PRP$ its) (JJ cylindrical) (NNS walls)))))))
+    (VP (VBD divided)
+        (NP (DT the) (NN chamber)
+            (PP (IN above)
+                (NP (DT the) (JJ porous) (NN plug))))
+        (PP (IN into)
+            (NP (CD two) (NNS parts)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN arrangement))
+    (VP (VBD had)
+        (NP (DT the) (NN purpose)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB prevent)
+                   (NP
+                       (ADJP (VBN heated))
+                       (NN gas))
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB reach)
+                          (NP (DT the) (NN thermocouple))
+                          (PP (IN by)
+                              (NP (NN natural) (NN convection))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (CD Two) (NNS pyrometers))
+        (VP (VBN shown)
+            (PP (IN in)
+                (NP (NP (NN figure) (CD 1)
+                        (CC and)
+                        (CD 2))
+                    (-LRB- -LRB-)
+                    (NP (NNP Pyrometer) (NNP Instrument) (NNP Co)
+                        (. .)
+                        (NN Model) (CD 95))
+                    (-RRB- -RRB-)))))
+    (VP (VBD served)
+        (PP (IN for)
+            (NP (JJ simultaneous) (NN measurement)
+                (PP (IN of)
+                    (NP (NP (DT the) (NN anode) (NN surface) (NN temperature))
+                        (CC and)
+                        (NP (DT the) (NN temperature) (NN distribution)
+                            (PP (IN along)
+                                (NP (DT the) (NN anode) (NN holder))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (CD Three) (NNS thermocouples))
+    (AUX (VBD were))
+    (VP (VBN placed)
+        
+        (PP (IN at)
+            (NP (JJ different) (NNS locations)
+                (PP (IN in)
+                    (NP (NP (DT the) (NN aluminum) (NN disk))
+                        (VP (VBG surrounding)
+                            (NP (DT the) (NN anode) (NN holder))))))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB determine)
+           (NP (PRP$ its) (NN temperature)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT Another) (NN anode) (NN holder))
+        (VP (VBN used)
+            (PP (IN in)
+                (NP (DT the) (NNS experiments)))))
+    (AUX (VBZ is))
+    (VP (VBN shown)
+        
+        (PP (IN in)
+            (NP (NN figure) (CD 3)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (DT this) (NN design)))
+    (S (S
+          (NP (DT the) (NN anode) (NN holder))
+          (VP (VBZ is)
+              (ADJP (NN water)
+                    (VBN cooled))))
+       (CC and)
+       (S (NP (DT the) (NN heat) (NNS losses)
+              (PP (IN by)
+                  (NP (NN conduction)
+                      (PP (IN from)
+                          (NP (DT the) (NN anode))))))
+          (AUX (VBD were))
+          (VP (VBN determined)
+              
+              (PP (IN by)
+                  (S (NP (-NONE- *))
+                     (VP (VBG measuring)
+                         (NP (DT the) (NN temperature) (NN rise)
+                             (PP (IN of)
+                                 (NP (DT the) (NN coolant)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB reduce)
+           (NP (NN heat) (NN transfer)
+               (PP (PP (IN from)
+                       (NP (DT the) (JJ hot) (NN gas)))
+                   (PP (TO to)
+                       (NP (DT this) (NN anode) (NN holder)
+                           (PP (IN outside)
+                               (NP (DT the) (NN regime)
+                                   (PP (IN of)
+                                       (NP (DT the) (NN arc)))))))))))
+    (, ,)
+    (S (NP (DT a) (NN carbon) (NN shield))
+       (AUX (VBD was))
+       (VP (VBN attached)
+           
+           (PP (TO to)
+               (NP (DT the) (NN surface))))
+       (S (NP (-NONE- *))
+          (VP (VBG providing)
+              (NP (DT an) (NN air) (NN gap)
+                  (PP (IN of)
+                      (NP (CD 116) (NN inch))))
+              (PP (IN between)
+                  (NP (NP (DT the) (NN plate))
+                      (CC and)
+                      (NP (DT the) (NN surface)
+                          (PP (IN of)
+                              (NP (DT the) (NN anode) (NN holder))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN addition)))
+    (, ,)
+    (S (NP (DT the) (JJ inner) (NN surface)
+           (PP (IN of)
+               (NP (DT the) (NN carbon) (NN shield))))
+       (AUX (VBD was))
+       (VP (VBN covered)
+           
+           (PP (IN with)
+               (NP (NN aluminum) (NN foil)))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB reduce)
+           (NP (NN radiation)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNS Temperatures)
+        (PP (PP (IN of)
+                (NP (DT the) (NN shield)))
+            (CC and)
+            (PP (IN of)
+                (NP (DT the) (NN surface)
+                    (PP (IN of)
+                        (NP (DT the) (ADJP (JJ water-cooled)) (NN anode) (NN holder)))))))
+    (AUX (VBD were))
+    (VP (VBN measured)
+        
+        (PP (IN by)
+            (NP (NNS thermocouples))))
+    (S (NP (-NONE- *))
+       (AUX (TO to))
+       (VP (VB account)
+           (PP (IN for)
+               (NP (NP (NN heat))
+                   (VP (VP (VBN received)
+                           (PP (IN by)
+                               (NP (DT the) (NN coolant))))
+                       (CC but)
+                       (VP (NEG (RB not))
+                           (VBG originating)
+                           (PP (IN from)
+                               (NP (DT the) (NN anode) (NN plug))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN argon) (NN flow)
+        (PP (IN from)
+            (NP (JJ commercial) (NNS bottles))))
+    (AUX (VBD was))
+    (VP (VP (VBN regulated)
+            
+            (PP (IN by)
+                (NP (DT a) (NN pressure) (NN regulator))))
+        (CC and)
+        (VP (VBN measured)
+            (PP (IN with)
+                (NP (DT a) (NN gas) (NN flow) (NN rator))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN power) (NN source))
+    (VP (VBD was)
+        (NP (DT a) (JJ commercial) (NN D.C.) (NN rectifier))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN At)
+        (NP (CD 100)
+            (NNP Amp)))
+    (S (NP (DT the) (ADJP (CD 360) (NN cycle)) (NN ripple))
+       (VP (VBD was)
+           (NP (NP (JJR less)
+                   (PP (IN than)
+                       (NP (CD 0.5) (NN V))))
+               (-LRB- -LRB-)
+               (NP (NN peak)
+                   (PP (TO to)
+                       (NP (NN peak))))
+               (-RRB- -RRB-))
+           (PP (IN with)
+               (NP (DT a) (JJ resistive) (NN load))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN current))
+    (AUX (VBD was))
+    (VP (VP (VBN regulated)
+            
+            (PP (IN by)
+                (NP (NNS means)
+                    (PP (IN of)
+                        (NP (DT a) (JJ variable) (NN resistor))))))
+        (CC and)
+        (VP (VBN measured)
+            (PP (IN with)
+                (NP (DT a) (ADJP (CD 50) (NN mV)) (NN shunt) (CC and) (NN millivoltmeter))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN arc) (NN voltage))
+    (AUX (VBD was))
+    (VP (VBN measured)
+        
+        (PP (IN with)
+            (NP (NP (DT a) (NN voltmeter))
+                (SBAR
+                      (WHNP (WP$ whose) (NNS terminals))
+                      (S (NP (-NONE- T))
+                         (AUX (VBD were))
+                         (VP (VBN connected)
+                             
+                             (PP (TO to)
+                                 (NP (DT the) (NN anode) (CC and) (NN cathode) (NNS holders))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (ADVP (IN Because)
+          (PP (IN of)
+              (NP (DT the) (VBG falling) (NN characteristic)
+                  (PP (IN of)
+                      (NP (DT the) (NN rectifier))))))
+    (, ,)
+    (S (NP (DT no) (NN ballast) (NN resistor))
+       (AUX (VBD was))
+       (VP (VBN required)
+           
+           (PP (IN for)
+               (NP (NN stability)
+                   (PP (IN of)
+                       (NP (NN operation))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ high) (NN frequency) (NN starter))
+    (AUX (VBD was))
+    (VP (VBN used)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (PP (RP start)
+               (NP (DT the) (NN arc))))))
+ (. .))
+ 
+
+ 
+
+(
+ (NP (NP (NP (JJ Experimental) (NN procedure))
+         (CC and)
+         (NP (NN error) (NN analysis)))
+     (NP (LS 1)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (ADJP (NN Transpiration)
+           (VBN cooled))
+     (NN anode)
+     (PP (IN with)
+         (NP (NN carbon) (NN anode) (NN holder))))
+ )
+ 
+
+((S
+    (NP (NP (DT The) (NN anode) (NN holder))
+        (VP (VBN shown)
+            (PP (IN in)
+                (NP (NN figure) (CD 2)))))
+    (AUX (VBD was))
+    (VP (VBN designed)
+        
+        (PP (IN with)
+            (X (NP (CD two) (NNS goals))
+               (PP (IN in)
+                   (NP (NN mind)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN heat) (NNS losses)
+           (PP (IN of)
+               (NP (DT the) (NN holder))))
+       (VP (VBD were)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (VP (VBN reduced)
+                      (ADVP (RB as)
+                            (RB far)
+                            (PP (IN as)
+                                (ADJP (JJ possible)))))))))
+    (CC and)
+    (S (NP (PRP they))
+       (AUX (MD should))
+       (VP (VB be)
+           (ADJP (JJ such)
+                 (SBAR (IN that)
+                       (S (NP (DT an) (JJ accurate) (NN heat) (NN balance))
+                          (AUX (MD can))
+                          (VP (VB be)
+                              (VP (VBN made)
+                                  ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (PP (IN In)
+              (NP (NN order)))
+          (S (NP (-NONE- *))
+             (AUX (TO to))
+             (VP (VB reduce)
+                 (NP (DT the) (NN number)
+                     (PP (IN of)
+                         (NP (JJ variable) (NNS parameters)))))))
+    (, ,)
+    (S (NP (DT all) (NNS experiments))
+       (AUX (VBD were))
+       (VP (VBN made)
+           
+           (PP (IN with)
+               (NP (NP (DT a) (JJ constant) (NN arc) (NN length)
+                       (PP (IN of)
+                           (NP (CD 0.5) (NN ''))))
+                   (CC and)
+                   (NP (DT a) (NN current)
+                       (PP (IN of)
+                           (NP (CD 100) (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN argon) (NN flow)
+        (PP (IN through)
+            (NP (DT the) (JJ porous) (NN anode))))
+    (AUX (VBD was))
+    (VP (VBN varied)
+        (ADVP (RB systematically))
+        (PP (IN between)
+            (NP (NP (-NONE- A[fj])) (CC and) (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ lower) (NN limit))
+    (AUX (VBD was))
+    (VP (VBN determined)
+        
+        (PP (IN by)
+            (NP (DT the) (NN fact)
+                (SBAR (SBAR (IN that)
+                            (S (PP (IN for)
+                                   (NP
+                                       (JJR smaller)
+                                       (NN flow) (NNS rates)))
+                               (S (NP (DT the) (NN arc))
+                                  (VP (VBD started)
+                                      (S (NP (-NONE- *))
+                                         (AUX (TO to))
+                                         (VP (VB strike)
+                                             (PP (PP (TO to)
+                                                     (NP (DT the) (NN anode) (NN holder)))
+                                                 (ADVP (RB instead)
+                                                       (PP (IN of)
+                                                           (PP (TO to)
+                                                               (NP (DT the) (JJ porous) (NN graphite) (NN plug))))))))))))
+                      (CC and)
+                      (SBAR (IN that)
+                            (S (NP (PRP it))
+                               (VP (VBD became)
+                                   (ADJP (RB highly)
+                                         (JJ unstable))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ upper) (NN limit))
+    (AUX (VBD was))
+    (VP (VBN determined)
+        
+        (PP (IN by)
+            (NP (NP (DT the) (NN difficulty)
+                    (PP (IN of)
+                        (S (NP (-NONE- *))
+                           (VP (VBG measuring)
+                               (NP (DT the) (JJ characteristic) (NN anode) (NN surface) (NN temperature))))))
+                (-LRB- -LRB-)
+                (S (NP (-NONE- *))
+                   (VP (VB see)
+                       (ADVP (RB below))))
+                (-RRB- -RRB-))))
+    (SBAR (IN since)
+          (S (NP (ADVP (RB only))
+                 (DT a) (JJ small) (NN region)
+                 (PP (IN of)
+                     (NP (DT the) (NN anode))))
+             (AUX (VBD was))
+             (VP (VBN struck)
+                 
+                 (PP (IN by)
+                     (NP (DT the) (NN arc)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT This) (NN region))
+        (SBAR
+              (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (VP (VBD had)
+                     (NP (DT a)
+                         (JJR higher)
+                         (NN temperature)
+                         (PP (IN than)
+                             (NP (DT the) (NN rest)
+                                 (PP (IN of)
+                                     (NP (DT the) (NN anode) (NN surface))))))))))
+    (VP (VBD changed)
+        (NP (NP (NN size)) (CC and) (NP (NN location)))
+        (ADVP (RB continuously))))
+ (. .))
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (DT each) (NN mass) (NN flow) (NN rate)))
+    (S
+       (NP (DT the) (NN arc) (NN voltage))
+       (AUX (VBD was))
+       (VP (VBN measured)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB measure)
+           (NP (DT the) (NN surface) (NN temperature)
+               (PP (IN of)
+                   (NP (DT the) (NN anode) (NN plug))))))
+    (, ,)
+    (S (NP (DT the) (NN surface))
+       (AUX (VBD was))
+       (VP (VBN scanned)
+           
+           (PP (IN with)
+               (NP (DT a) (NN pyrometer))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN As)
+        (S (NP (PRP it))
+           (VP (VBD turned)
+               (PRT (RP out)))))
+    (, ,)
+    (S (NP (DT a)
+           (ADJP (RB very)
+                 (JJ hot)) (NN region))
+       (VP (VBD occurred)
+           (PP (IN on)
+               (NP (DT the) (NN plug))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP$ Its) (NN temperature))
+    (AUX (VBD was))
+    (VP (VBN denoted)
+        
+        (PP (IN by)
+            (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN size)
+        (PP (IN of)
+            (NP (DT this) (JJ hot) (NN region))))
+    (AUX (VBD was))
+    (VP (VBN estimated)
+        
+        (PP (IN by)
+            (NP (NN eye)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN rest)
+        (PP (IN of)
+            (NP (DT the) (NN surface))))
+    (VP (VBD had)
+        (NP (NP (DT a) (NN temperature))
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBD decreased))
+                     (PP (IN towards)
+                         (NP (DT the) (JJ outer) (NN diameter)
+                             (PP (IN of)
+                                 (NP (DT the) (NN plug))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ mean) (NN temperature)
+        (PP (IN of)
+            (NP (DT this) (NN region))))
+    (AUX (VBD was))
+    (VP (VBN approximated)
+        
+        (PP (IN by)
+            (NP (NP (DT the) (NN temperature))
+                (VP (VBN measured)
+                    (ADVP (RB halfways)
+                          (PP (IN between)
+                              (NP (NP (DT the) (NN edge)
+                                      (PP (IN of)
+                                          (NP (DT the) (JJ hot) (NN spot))))
+                                  (CC and)
+                                  (NP (DT the) (NN rim)
+                                      (PP (IN of)
+                                          (NP (DT the) (NN plug))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (VBD was))
+    (VP (VBN denoted)
+        
+        (PP (IN by)
+            (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (JJ mean) (NN temperature)
+           (PP (IN of)
+               (NP (DT the) (NN surface))))
+       (AUX (VBD was))
+       (ADVP (RB then))
+       (VP (VBN computed)
+           (VP (VBG according)
+               (PP (TO to)
+                   (NP (DT the) (VBG following) (NN relation))))))
+    (: :)
+    (NP (NP (-NONE- A[fj]))
+        (SBAR
+              (WHADVP (WRB where))
+              (S (NP (NN x))
+                 (VP (VBZ is)
+                     (NP (NP (DT the) (NN fraction)
+                             (PP (IN of)
+                                 (NP (DT the) (NN plug) (NN area))))
+                         (VP (VBN covered)
+                             (PP (IN by)
+                                 (NP (DT the) (JJ hot) (NN spot))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (VBG Assuming)
+           (NP (JJ thermal) (NN equilibrium)
+               (PP (IN between)
+                   (NP (NP (DT the) (NN anode) (NN surface))
+                       (CC and)
+                       (NP (DT the) (VBG transpiring) (NN argon)))))))
+    (, ,)
+    (S (NP (DT the) (NN gas) (NN enthalpy) (NN rise)
+           (PP (IN through)
+               (NP (DT the) (NN anode))))
+       (AUX (VBD was))
+       (VP (VBN calculated)
+           (VP (VBG according)
+               (PP (TO to)
+                   (NP (NP (DT the) (NN relation) (-NONE- A[fj]))
+                       (SBAR
+                             (WHADVP (WRB whereby))
+                             (S (NP (DT the) (NN specific) (NN heat)
+                                    (PP (IN of)
+                                        (NP (NN argon))))
+                                (AUX (VBD was))
+                                (VP (VBN taken)
+                                    
+                                    (PP (IN as)
+                                        (NP (-NONE- A[fj]))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN calculation))
+    (VP (VBZ results)
+        (PP (IN in)
+            (NP (NP (DT an) (NN enthalpy) (NN rise))
+                (SBAR
+                      (WHNP (WDT which))
+                      (S (NP (-NONE- T))
+                         (VP (VBZ is)
+                             (ADJP (RB somewhat)
+                                   (JJ high)))
+                         (SBAR (IN because)
+                               (S (NP (PRP it))
+                                  (VP (VBZ assumes)
+                                      (NP (NP (DT a) (NN mass) (NN flow))
+                                          (VP (ADVP (RB equally))
+                                              (VBN distributed)
+                                              (PP (IN over)
+                                                  (NP (DT the) (NN plug) (NN cross) (NN section))))))
+                                  (SBAR (IN whereas)
+                                        (S (PP (IN in)
+                                               (NP (NN reality)))
+                                           (S
+                                              (NP (DT the) (NN mass) (NN velocity))
+                                              (AUX (VBZ is))
+                                              (VP (VBN expected)
+                                                  
+                                                  (S (NP (-NONE- *))
+                                                     (AUX (TO to))
+                                                     (VP (VB be)
+                                                         (ADJP (JJR smaller)))
+                                                     (PP (IN in)
+                                                         (NP (DT the) (NNS regions)
+                                                             (PP (IN of)
+                                                                 (NP
+                                                                     (JJR higher)
+                                                                     (NNS temperatures))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (JJ upstream) (NN gas) (NN temperature))
+        (VP (VBN measured)
+            (PP (IN with)
+                (NP (NP (DT the) (NN thermocouple))
+                    (VP (VBN shown)
+                        (PP (IN in)
+                            (NP (NN figure) (CD 2))))))))
+    (VP (VBD was)
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (-NONE- A[fj]) (NNS values))
+    (AUX (VBP are))
+    (VP (VBN listed)
+        
+        (PP (IN in)
+            (NP (NN Table) (CD 1))))
+    (ADVP (RB together)
+          (PP (IN with)
+              (NP (DT the) (VBN measured) (NN surface) (NNS temperatures) (CC and) (NN arc) (NNS voltages)))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Simultaneously)
+          (PP (IN with)
+              (NP (DT the) (NN anode) (NN surface) (NN temperature) (CC and) (NN voltage) (NNS measurements))))
+    (S (NP (NN pyrometer) (NNS readings))
+       (AUX (VBD were))
+       (VP (VBN taken)
+           (PP (IN along)
+               (NP (DT the) (JJ cylindrical) (NN surface)
+                   (PP (IN of)
+                       (NP (DT the) (NN carbon) (NN anode) (NN holder))))))
+       (PP (IN as)
+           (S (NP (-NONE- *))
+              (VP (VBN indicated)
+                  (PP (IN on)
+                      (NP (NN figure) (CD 2))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Some)
+        (PP (IN of)
+            (NP (DT these) (NNS temperatures))))
+    (AUX (VBP are))
+    (VP (VBN plotted)
+        
+        (PP (IN in)
+            (NP (NN figure) (CD 4)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP They))
+    (VP (VBD showed)
+        (NP (DT no) (ADJP (VBN marked)) (NN dependence)
+            (PP (IN on)
+                (NP (DT the) (NN flow) (NN rate)))))
+    (PP (IN within)
+        (NP (DT the) (NN accuracy)
+            (PP (IN of)
+                (NP (DT these) (NNS measurements))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (NP (DT the) (JJ dotted) (NN line))
+           (VP (VBN shown)
+               (PP (IN in)
+                   (NP (NN figure) (CD 4)))))
+       (AUX (VBD was))
+       (VP (VBN taken)
+           
+           (PP (IN as)
+               (ADJP (JJ typical)
+                     (PP (IN for)
+                         (NP (DT the) (NN temperature) (NN distribution)
+                             (PP (IN for)
+                                 (NP (DT all) (NN blowing) (NNS rates))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS thermocouples)
+        (PP (IN in)
+            (NP (NP (DT the) (NN aluminum) (NN disk))
+                (VP (VBN shown)
+                    (PP (IN in)
+                        (NP (NN figure) (CD 2)))))))
+    (VP (VBD indicated)
+        (NP (DT an) (NN equilibrium) (NN temperature)
+            (PP (IN of)
+                (NP (DT the) (NN surface)
+                    (PP (IN of)
+                        (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN temperature))
+    (AUX (VBD was))
+    (VP (VBN taken)
+        
+        (PP (IN as)
+            (NP (NP (JJ environmental) (NN temperature))
+                (SBAR (WHPP (TO to)
+                            (WHNP (WDT which)))
+                      (S (NP (DT the) (NN anode) (NN holder))
+                         (AUX (VBD was))
+                         (VP (VBN exposed)
+                             )
+                         (ADVP (RB as)
+                               (RB far)
+                               (PP (IN as)
+                                   (S (NP (NN radiation))
+                                      (AUX (VBZ is))
+                                      (VP (VBN concerned)
+                                          ))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (PRP It))
+    (VP (VBZ is)
+        (ADJP (RB sufficiently)
+              (JJ small)
+              (S (NP (-NONE- *))
+                 (VP (VBN compared)
+                     (PP (IN with)
+                         (NP (DT the) (NN surface) (NN temperature)
+                             (PP (IN of)
+                                 (NP (DT the) (NN anode) (NN holder)))))))
+              (, ,)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB make)
+                     (NP (NP (DT the) (NN energy) (NN flux))
+                         (VP (VBN radiated)
+                             (PP (IN from)
+                                 (NP (DT the) (NN environment)))
+                             (PP (IN toward)
+                                 (NP (DT the) (NN anode) (NN holder)))))
+                     (ADJP (JJ negligible)))
+                 (PP (IN within)
+                     (NP (DT the) (NN accuracy)
+                         (PP (IN of)
+                             (NP (DT the) (JJ present) (NNS measurements)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN reflection)
+        (PP (IN of)
+            (NP (NP (NN radiation))
+                (VP (VP (VBG originating)
+                        (PP (IN from)
+                            (NP (DT the) (NN anode) (NN holder))))
+                    (CC and)
+                    (VP (VBN reflected)
+                        (ADVP (RB back))
+                        (PP (TO to)
+                            (NP (PRP it)))
+                        (PP (IN by)
+                            (NP (DT the) (VP (VBG surrounding)) (NN metal) (NNS surfaces))))))))
+    (AUX (MD should))
+    (ADVP (RB also))
+    (VP (VB be)
+        (ADJP (JJ small)))
+    (ADVP (RB because)
+          (PP (IN of)
+              (NP (DT the) (JJ peculiar) (NN characteristic)
+                  (PP (PP (IN of)
+                          (NP (DT the) (NN metal) (NNS surfaces)))
+                      (CC and)
+                      (PP (IN of)
+                          (NP (DT the) (NN specific) (NN geometry))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (JJ total) (NN heat) (NN loss)
+        (PP (IN through)
+            (NP (DT the) (NN anode) (NN holder))))
+    (VP (VBD included)
+        (ADVP (RB also))
+        (NP (NP (DT the) (NN heat))
+            (VP (VBN conducted)
+                (PP (IN through)
+                    (NP (DT the) (NN base)
+                        (PP (IN of)
+                            (NP (DT the) (JJ cylindrical) (NN piece)))))
+                (PP (IN into)
+                    (NP (DT the) (JJ adjacent) (NN metal) (NNS parts)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (VBD was))
+    (VP (VBN calculated)
+        
+        (PP (IN from)
+            (NP (DT the) (NN temperature) (NN gradient) (-NONE- A[fj])))
+        (PP (IN at)
+            (NP (-NONE- A[fj]) (NN inch)))
+        (PP (IN as)
+            (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ total) (NN heat) (NN flux)
+        (PP (IN from)
+            (NP (DT the) (JJ porous) (NN plug)))
+        (PP (IN into)
+            (NP (DT the) (NN plug) (NN holder))))
+    (VP (VBZ is)
+        (ADVP (RB thereby))
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN temperature) (NN distribution)
+        (PP (IN of)
+            (NP (NN figure) (CD 4))))
+    (VP (VBZ gives)
+        (NP (-NONE- A[fj]))
+        (PP (IN for)
+            (NP (DT all) (NN blowing) (NNS rates))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBG assuming)
+           (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN temperature) (JJ dependent) (NN value)
+        (PP (IN of)
+            (NP (-NONE- **) (SYM ye))))
+    (AUX (VBD was))
+    (VP (VBN taken)
+        
+        (PP (IN from)
+            (NP (NN Ref.) (CD 7)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN radiation) (NN loss)
+        (PP (IN from)
+            (NP (DT the) (NN anode) (NN surface))))
+    (AUX (VBD was))
+    (VP (VBN computed)
+        (VP (VBG according)
+            (PP (TO to)
+                (NP (NP (-NONE- A[fj]))
+                    (SBAR
+                          (WHADVP (WRB where))
+                          (S (NP (-NONE- A[fj]))
+                             (VP (VBZ is)
+                                 (NP (DT the) (NN mean)
+                                     (PP (IN of)
+                                         (NP (NP (DT the) (JJ fourth) (NNS powers)
+                                                 (PP (IN of)
+                                                     (NP (NP (DT the) (NNS temperatures))
+                                                         (NP (NP (-NONE- A[fj])) (CC and) (NP (-NONE- A[fj]))))))
+                                             (VP (VBN calculated)
+                                                 (ADVP (RB analogously))
+                                                 (PP (TO to)
+                                                     (NP (NN equation)
+                                                         (-LRB- -LRB-)
+                                                         (CD 1)
+                                                         (-RRB- -RRB-)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

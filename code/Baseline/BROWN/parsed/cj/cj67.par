@@ -1,0 +1,2088 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(
+  (S  
+   (NP (NP Anglo-Saxon
+	   and
+	   Greek epic)
+       (NP each))
+   (VP provide
+       (PP on
+	   (NP two occasions))
+       (NP a
+	   (ADJP  seemingly
+		 authentic) account
+	   (PP of
+	       (NP the narration
+		   (PP of
+		       (NP verse))
+		   (PP in
+		       (NP the heroic age)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (NP Hrothgar)
+     's court bard)
+    (VP (VP sings
+	    (PP of
+		(NP the encounters
+		    (PP at
+			(NP Finnsburg))))
+	    *LRB*
+	    (NP lines 1068
+		-
+		1159)
+	    *RRB*)
+	,
+	and
+	(VP improvises
+	    (NP the tale
+		(PP of
+		    (NP 
+		     (NP Beowulf)
+		     's exploits)))
+	    (PP in
+		(NP a complimentary comparison
+		    (PP of
+			(NP the Geatish visitor))
+		    (PP with
+			(NP Sigemund))))
+	    *LRB*
+	    (NP lines 871
+		-
+		892)
+	    *RRB*)))
+ ;
+ ;
+ )
+((S (NP (NP Alcinous)
+	'
+	court bard)
+    (VP (VP sings
+	    (PP of
+		(NP the discovered adultery
+		    (PP of
+			(NP (NP Ares)
+			    and
+			    (NP Aphrodite)))))
+	    *LRB*
+	    (NP Odyssey 8 266-366)
+	    *RRB*)
+	,
+	and
+	(VP takes
+	    (PRT up)
+	    (NP a tale
+		(PP of
+		    (NP Odysseus)))
+	    (SBAR while
+		  (S (NP the Ithacan wanderer)
+		     (VP listens
+			 (PP on
+			     (NP T)))))
+	    *LRB*
+	    (NP Odyssey 8 499-520)
+	    *RRB*)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Nothing
+	   (PP in
+	       (NP all
+		   this)))
+       (VP is
+	   (ADJP autobiographical)))
+    :
+    (PP unlike
+	(NP the poets
+	    (PP of
+		(NP (NP Deor)
+		    and
+		    (NP Widsith)))))
+    ,
+    (S (NP the poet
+	   (PP of
+	       (NP Beowulf)))
+       (AUX is)
+       (NEG not)
+       (VP concerned
+		 
+	   (PP with
+	       (NP his own identity))))
+    ;
+    ;
+    (S  
+     (NP (NP the poet
+	     (PP of
+		 (NP The Odyssey)))
+	 ,
+	 (VP reputed
+	     (ADJP blind))
+	 ,)
+     (VP reveals
+	 (NP himself)
+	 (NEG not
+	      (PP at
+		  (NP all)))
+	 (PP in
+	     (VP singing
+		 (PP of
+		     (NP (NP the blind minstrel)
+			 (NP Demodocus))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR Since
+	 (S (NP none
+		(PP of
+		    (NP these glimpses
+			(PP of
+			    (NP  poetizing
+				 (PP without
+				     (NP writing)))))))
+	    (AUX is)
+	    (VP intended
+		 
+		(S (NP *)
+		   (AUX to)
+		   (VP incorporate
+		       (NP a signature)
+		       (PP into
+			   (NP the epic matter)))))))
+   ,
+   (S (NP there)
+      (VP is
+	  (NP prima-facie evidence
+	      (SBAR that
+		    (S (NP (NP (NP Beowulf)
+			       and
+			       (NP the Homeric poems))
+			   (NP each))
+		       (VP derive
+			   (PP from
+			       (NP an oral tradition)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (SBAR That
+	     (S (NP  such
+		     a tradition)
+		(VP lies
+		    (PP behind
+			(NP (NP The Iliad)
+			    and
+			    (NP The Odyssey))))
+		,
+		(PP at
+		    (ADJP least))
+		,)))
+   (VP is
+       (ADJP hard))
+   (S (NP *)
+      (AUX to)
+      (VP deny)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Milman Parry)
+      (X (VP (ADVP rigorously)
+	     defended
+	     (NP the observation
+		 (SBAR that
+		       (S (NP the
+			      (ADJP extant)
+			      Homeric poems)
+			  (VP are
+			      (ADJP  largely
+				     formulaic))))))
+	 ,
+	 and
+	 (X (AUX was)
+	    (VP led
+	 
+		(S (NP *)
+		   (AUX to)
+		   (VP postulate
+		       (SBAR that
+			     (S (NP they)
+				(AUX could)
+				(VP be
+				    (VP shown
+					(ADJP  entirely
+					       formulaic)))
+				(SBAR if
+				      (S (NP the complete corpus
+					     (PP of
+						 (NP Greek epic)))
+					 (VP survived
+					     )))))))))))
+     ;
+     ;
+     (S (NP he)
+	(ADVP further)
+	(VP (VP reasoned
+		(SBAR that
+		      (S (NP frequent formulas
+			     (PP in
+				 (NP epic verse)))
+			 (VP indicate
+			     (NP oral composition)))))
+	    ,
+	    and
+	    (VP assumed
+		(NP the
+		    (ADVP  slightly
+			  less
+			  likely) corollary
+			  (SBAR that
+				(S (NP oral epic)
+				   (AUX is)
+				   (VP inclined
+				        
+				       (PP towards
+					   (NP the use
+					       (PP of
+						   (NP formulas))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP (VP Proceeding
+	       (PP from
+		   (NP 
+		    (NP Parry)
+		    's conclusions)))
+	   and
+	   (VP adopting
+	       (NP one
+		   (PP of
+		       (NP his schemata))))))
+    ,
+    (S (NP (NP Francis P. Magoun)
+	   ,
+	   (NP Jr.)
+	   ,)
+       (VP argues
+	   (SBAR that
+		 (S (NP Beowulf)
+		    (ADVP likewise)
+		    (AUX was)
+		    (VP created
+			 
+			(PP from
+			    (NP a legacy
+				(PP of
+				    (NP (NP oral formulas)
+					(VP  inherited
+					     and
+					     extended
+					     (PP by
+						 (NP bards
+						     (PP of
+							 (NP successive generations))))))))))))))
+    ,
+    and
+    (S (NP the thesis)
+       (VP is
+	   (ADJP striking and compelling))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP a fresh inspection)
+	 (AUX will)
+	 (VP indicate
+	     (NP one crucial amendment)))
+      :
+      (S (NP (NP Beowulf)
+	     and
+	     (NP the Homeric poems))
+	 (VP are
+	     (NEG not)
+	     (PP at
+		 (NP all))
+	     (ADJP formulaic
+		   (PP to
+		       (NP the same extent))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP The bondage)
+	  (ADJP endurable
+		(PP by
+		    (NP an oral poet))))
+      (VP is
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (VP estimated
+		   
+		     (PP  only
+			  by
+			  (NP a
+			      (ADJP  very
+				     skilful) oral
+			      poet)))))))
+     ,
+     but
+     (S (NP it)
+	(VP appears
+	    (ADJP safe))
+	(S (NP *)
+	   (AUX to)
+	   (VP assume
+	       (SBAR that
+		     (S (NP no sustained narrative
+			    (PP in
+				(NP rhyme))
+			    ,)
+			(AUX could)
+			(VP be
+			    (VP composed
+				 
+				(PP without
+				    (NP extreme difficulty))))
+			(PP  even
+			     in
+			     (NP a language
+				 (PP of
+				     (NP many terminal inflections))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Assonance)
+   (VP seems
+       (NP  
+	(ADJP  nearly
+	       as
+	       severe)
+	a curb))
+   ,
+   (SBAR although
+	 (S (PP in
+		(NP a celebrated passage))
+	    (S (NP William
+		   (PP of
+		       (NP Malmesbury)))
+	       (VP declares
+		   (SBAR that
+			 (S (NP (NP A Song
+				    (PP Of
+					(NP Roland))))
+			    (AUX was)
+			    (VP intoned
+				)
+			    (PP before
+				(S (NP the battle)
+				   (VP commenced
+				       (PP at
+					   (NP Hastings))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP The Anglo-Saxon alliterative line)
+	   and
+	   (NP the Homeric hexameter))
+       (ADVP probably)
+       (VP imposed
+	   (ADVP less
+		 (PP of
+		     (NP a restraint)))))
+    ;
+    ;
+    (S (NP the verse
+	   (PP (PP of
+		   (NP Beowulf))
+	       or
+	       (PP of
+		   (NP (NP The Iliad)
+		       and
+		       (NP The Odyssey)))))
+       (VP (VP was
+	       (NEG not)
+	       (ADJP easy)
+	       (S (NP *)
+		  (AUX to)
+		  (VP create)))
+	   but
+	   (VP was
+	       (NEG not)
+	       (ADJP impossible
+		     (PP for
+			 (NP (NP poets)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (AUX had)
+				      (VP developed
+					  (NP their talents)
+					  (ADVP perforce)
+					  (PP in
+					      (S (NP *)  
+						 (VP earning
+						     (NP a livelihood))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP certain aids)
+	 (VP were
+	     (ADJP valuable
+		   and
+		   (ADVP quite
+			 credibly)
+		   necessary
+		   (PP for
+		       (S (NP *)  
+			  (VP reciting
+			      (NP long stretches
+				  (PP of
+				      (NP verse)))
+			      (PP without
+				  (NP a pause)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The poet
+	    (PP in
+		(NP a written tradition)))
+	(SBAR (WHNP who)
+	      (S (NP T)  
+		 (ADVP generally)
+		 (ADVP never)
+		 (VP blots
+		     (NP a line)))))
+    (AUX may)
+    (ADVP once
+	  (PP in
+	      (NP a while)))
+    (VP  pause 
+	and 
+	polish
+	(PP without
+	    (NP (VP incurring
+		    (NP blame))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the oral poet)
+	 (AUX can)
+	 (NEG not)
+	 (VP pause))
+      ;
+      ;
+      (S (NP he)
+	 (AUX must)
+	 (VP improvise
+	     (ADVP continuously)
+	     (PP with
+		 (NP no apparent effort)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  Even
+	   though
+	   (S (NP the bondage
+		  (PP of
+		      (NP his verse)))
+	      (VP is
+		  (NEG not)
+		  (ADJP  so
+			 great
+			 (PP as
+			     (S (NP the writing poet)
+				(AUX can)
+				(VP manage)))))))
+    ,
+    (S (NP it)
+       (VP is
+	   (ADVP still)
+	   (ADJP great
+		 enough
+		 (PP for
+		     (S (NP him)
+			(ADVP often)
+			(AUX to)
+			(VP be
+			    (ADVP seriously)
+			    (VP impeded
+				 
+				(SBAR unless
+				      (S (NP he)
+					 (VP has
+					     (NP aids)
+					     (S (NP *)
+						(AUX to)
+						(VP facilitate
+						    (NP rapid composition))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Germanic poet)
+      (VP had
+	  (NP such aids)
+	  (PP in
+	      (NP (NP the kennings)
+		  ,
+		  (SBAR 
+		   (WHNP which)
+		   (S (NP T)
+		      (VP provided
+			  (PP for
+			      (NP the difficulties
+				  (PP of
+				      (NP alliteration)))))))))))
+     ;
+     ;
+     (S (NP the Homeric poet)
+	(VP had
+	    (NP (NP epithets)
+		,
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP provided
+			(PP for
+			    (NP (VP recurring)
+				needs
+				(PP in
+				    (NP the hexameter)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Either poet)
+   (AUX could)
+   (ADVP quickly
+	 and
+	 easily)
+   (VP select
+       (NP (NP words or phrases)
+	   (S (NP *)
+	      (AUX to)
+	      (VP supply
+		  (NP his immediate requirements))
+	      (SBAR as
+		    (S (NP he)
+		       (VP chanted
+			   (PRT out)
+			   (NP his lines)))))))
+   ,
+   (SBAR because
+	 (S (NP (NP the kennings)
+		and
+		(NP the epithets))
+	    (VP made
+		(ADJP possible)
+		(NP the construction
+		    (PP of
+			(NP systems
+			    (PP of
+				(NP numerous synonyms
+				    (PP for
+					(NP the
+					    chief common and proper
+					    nouns)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Other synonyms)
+      (AUX could)
+      (PP of
+	  (NP course))
+      (VP serve
+	  (NP the same function)))
+     ,
+     and
+     (PP for
+	 (NP the sake
+	     (PP of
+		 (NP ease))))
+     (S
+      (NP I)
+      (AUX shall)
+      (VP (VP speak
+	      (PP of
+		  (NP (NP kennings) 
+		      and 
+		      (NP epithets)))
+	      (PP in
+		  (NP the
+		      (ADJP widest
+			    and
+			    loosest)
+		      possible
+		      sense)))
+	  ,
+	  and
+	  (VP name
+	      ,
+	      (PP for
+		  (NP example))
+	      ,
+	      (NP Gar-Dene)
+	      (NP a kenning
+		  (PP for
+		      (NP the Danes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Verbal and adverbial elements)
+       (ADVP too)
+       (VP participated
+	   (PP in
+	       (NP each epic diction))))
+    ,
+    but
+    (S (NP it
+	   (S-2 *pseudo-attach*))
+       (VP is
+	   (PP for
+	       (NP the
+		   present))
+	   (ADJP sufficient))
+       (S-2 (S (NP *)
+	     (AUX to)
+	     (VP mark
+		 (NP the
+		     large nominal and adjectival
+		     supply
+		     (PP of
+			 (NP semantic near-equivalents)))))
+	  ,
+	  and
+	  (S (NP *)
+	     (AUX to)
+	     (VP designate
+		 (NP the members
+		     (PP of
+			 (NP any system
+			     (PP of
+				 (NP equivalents)))))
+		 (PP as
+		     (NP basic formulas
+			 (PP of
+			     (NP the poetic language)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Limited
+	   (PP to
+	       (NP a few thousand lines
+		   (PP of
+		       (NP heroic verse
+			   (PP in
+			       (NP Anglo-Saxon))
+			   (PP as
+			       (PP in
+				   (NP the
+				       (ADJP other)
+				       Germanic dialects)))))))))
+    ,
+    (S (NP we)
+       (AUX can)
+       (NEG not)
+       (VP say
+	   (SBAR (WHADVP how
+			 frequently)
+		 (S (NP the kennings
+			(PP in
+			    (NP Beowulf)))
+		    (VP recurred
+			(PP in
+			    (NP contemporary epic
+				(PP on
+				    (NP the same soil))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP we)
+	 (AUX can)
+	 (VP say
+	     (SBAR that
+		   (S (SBAR since
+			    (S (NP a writing poet
+				   ,
+				   (PP with
+				       (NP leisure
+					   (PP before
+					       (NP him))))
+				   ,)
+			       (AUX would)
+			       (VP seem
+				   (ADJP unlikely
+					 (S (NP *)
+					    (AUX to)
+					    (VP invent
+						(NP (NP a technique)
+						    (VP based
+							(PP upon
+							    (NP frequent and substantial circumlocution))))))))))
+		      ,
+		      (S (NP the kennings
+			     (PP like
+				 (NP the epithets)))
+			 (AUX must)
+			 (ADVP reasonably)
+			 (VP be
+			     (VP ascribed
+				  
+				 (PP to
+				     (NP an oral tradition))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP One
+	  (PP of
+	      (NP the
+		  (ADJP greatest)
+		  Homerists
+		  (PP of
+		      (NP our time)))))
+      ,
+      (NP Frederick M. Combellack)
+      ,)
+  (VP argues
+      (SBAR that
+	    (S (SBAR 
+		(WHADVP when)
+		(S (NP it)
+		   (AUX is)
+		   (VP assumed
+		        
+		        (SBAR 0
+			      (S (NP (NP The Iliad)
+				     and
+				     (NP The Odyssey))
+				 (VP are
+				     (NP oral poems)))))))
+	       ,
+	       (S (NP (NP the
+			  postulated single
+			  redactor)
+		      (VP called
+			  (NP Homer)))
+		  (AUX can)
+		  (NEG not)
+		  (VP be)
+		  (VP either
+		      (VP credited
+			  (PP with
+			      (NP-3 *pseudo-attach*)))
+		      or
+		      (VP denied
+			  (NP-3 *pseudo-attach*))
+		      (NP-3 originality
+			  (PP in
+			      (NP choice
+				  (PP of
+				      (NP phrasing)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Any example
+       (PP of
+	   (NP grand or exquisite diction)))
+   (X (X (AUX may)
+	 (VP have
+	     (VP been
+		 (VP created
+	        
+		     (PP by
+			 (NP (NP the poet)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (VP compiled
+					  (NP numerous lays)
+					  (PP into
+					      (NP (NP the two works)
+						  (SBAR 0
+							(S (NP we)
+							   (VP possess
+							       (NP T)))))))))))))))
+      or
+      (X (AUX may)
+	 (VP be
+	     (ADVP due
+		   (PP to
+		       (NP one
+			   (PP of
+			       (NP his
+				   (ADJP  completely
+					  unknown) fellow-craftsmen))))))))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The quest
+	   (PP of
+	       (NP the
+		   (ADJP historical)
+		   Homer)))
+       (VP is
+	   (ADJP likely)
+	   (ADVP never)
+	   (S (NP *)
+	      (AUX to)
+	      (VP have
+		  (NP further success)))))
+    ;
+    ;
+    (S (NP no individual word
+	   (PP in
+	       (NP (NP The Iliad)
+		   or
+		   (NP The Odyssey))))
+       (AUX can)
+       (VP be
+	   (VP credited
+		 
+	       (PP to
+		   (NP any one man)))))
+    ;
+    ;
+    (S (NP no
+	   (ADJP  strikingly
+		 effective) element
+	   (PP of
+	       (NP speech))
+	   (PP in
+	       (NP the extant poems)))
+       (AUX can)
+       (PP with
+	   (NP assurance))
+       (VP be
+	   (VP said
+	       (NEG not)
+	       (S (NP *)
+		  (AUX to)
+		  (VP have
+		      (VP been
+			  (NP a commonplace
+			      (PP in
+				  (NP (NP the
+					  (ADJP vaster)
+					  epic corpus)
+				      (SBAR (WHNP that)
+					    (S (NP T)
+					       (AUX may)
+					       (VP have
+						   (VP existed))
+					       (PP at
+						   (NP the beginning
+						       (PP of
+							   (NP the first millennium
+							       (PP before
+								   (NP Christ))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This observation)
+   (VP is
+       (PP of
+	   (NP interest
+	       (PP (CONJP (NEG not)
+			  only)
+		   (PP to
+		       (NP students
+			   (PP of
+			       (NP Homeric poetry))))
+		   but
+		   (PP to
+		       (NP students
+			   (PP of
+			       (NP Anglo-Saxon poetry))))
+		   (ADVP as
+			 well))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP the extent
+	    (SBAR that
+		  (S (NP a tale)
+		     (AUX is)
+		     (VP  (ADVP twice)
+			  told
+			  )))))
+    ,
+    (S (NP its final author)
+       (AUX must)
+       (VP be
+	   (ADJP suspect))
+       ,
+       (SBAR although
+	     (S (NP plagiarism
+		    (PP in
+			(NP an oral tradition)))
+		(VP is
+		     
+		    (NP  less
+			 a misdemeanor
+			 (PP than
+			     (NP the standard modus dicendi))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP Combellack)
+     (VP argues
+	 (ADVP further)
+	 (SBAR-4 *pseudo-attach*)))
+    ,
+    and
+    (S (ADVP here)
+       (S (NP he)
+	  (VP makes
+	      (NP his main point)
+	      (SBAR-4 *pseudo-attach*))))
+    ,
+    (SBAR-4 that
+	  (S (SBAR once
+		   (S (NP (NP The Iliad)
+			  and
+			  (NP The Odyssey))
+		      (AUX are)
+		      (VP thought
+			  (NP (NP formulaic poems)
+			      (VP composed
+				  (PP for
+				      (NP (NP an audience)
+					  (VP accustomed
+					      (PP to
+						  (NP formulaic poetry))))))))))
+	     ,
+	     (S (NP Homeric critics)
+		(AUX are)
+		(VP deprived
+		    (PP of
+			(NP (NP an entire domain)
+			    (SBAR 0
+				  (S
+				   (NP they)
+				   (ADVP previously)
+				   (VP found 
+				       (NP T) 
+				       (ADJP arable)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP (NP a few
+		(ADJP important))
+	    and
+	    (NP a few more unimportant exceptions)))
+    ,
+    (S (NP no expression)
+       (AUX can)
+       (VP be
+	   (VP deemed
+	       (NP (X le mot juste))
+	       (PP for
+		   (NP its context))))
+       ,
+       (SBAR because
+	     (S (NP each)
+		(VP was
+		    (ADVP  very
+			   probably)
+		    (NP (NP the only expression)
+			(SBAR (WHNP that)
+			      (S (NP (NP long-established practice) 
+				     and 
+				     (NP ease
+					 (PP of
+					     (NP rapid recitation))))
+				 (AUX would)
+				 (VP allow
+				     (NP T))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP  Words
+	     or
+	     phrases)
+	(SBAR (WHNP that)
+	      (S (NP connoisseurs)
+		 (AUX have)
+		 (VP admired
+		     (NP T)
+		     (PP as
+			  
+			 (ADJP handsome or ironic or humorous)))))) 
+    (AUX must)
+    (ADVP therefore)
+    (VP (VP lose
+	    (NP merit))
+	and
+	(VP become
+	    (VP regarded
+		(PP as
+		    (NP (NP 
+			 mere inevitable
+			 time-servers)
+			,
+			(ADJP (ADVP sometimes)
+			      (ADJP accurate)
+			      and
+			      (ADVP sometimes)
+			      (NEG not))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This observation)
+   (ADVP too)
+   (AUX may)
+   (VP have
+       (NP reference
+	   (PP to
+	       (NP Anglo-Saxon poetry)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (PP To
+	 (NP the extent
+	     (SBAR that
+		   (S (NP a language)
+		      (VP is
+			  (ADJP formulaic))))))
+     ,
+     (S (NP its individual components)
+	(AUX must)
+	(VP be
+	    (VP regarded
+	      
+		(PP as
+		    (ADJP  no
+			   more
+			   distinguished
+			   (PP than
+			       (NP other cliches))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP W.F. Bryan)
+      (VP suggests
+	  (SBAR that
+		(S (NP certain kennings
+		       (PP in
+			   (NP Beowulf)))
+		   (AUX were)
+		   (VP selected
+		       (ADVP sometimes)
+		       (PP for
+			   (NP appropriateness))
+		       and
+		       (ADVP sometimes)
+		       (PP for
+			   (NP ironic inappropriateness)))))))
+     ,
+     but
+     (S (NP  such
+	     a view)
+	(AUX would)
+	(VP appear
+	    (ADJP untenable)
+	    (SBAR unless
+		  (S (NP it)
+		     (AUX is)
+		     (VP denied
+			  
+			 (SBAR that
+			       (S (NP the language
+				      (PP of
+					  (NP Beowulf)))
+				  (VP is
+				      (ADJP formulaic))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+	    (S (NP (NP the master
+		       (PP of
+			   (NP scops)))
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (VP was
+				(ADJP most responsible
+				      (PP for
+					  (NP the poem)))))))
+	       (ADVP ever)
+	       (VP used
+		   (NP (NP kennings)
+		       (SBAR (WHNP that)
+			     (S (NP T)
+				(VP were
+				    (ADJP traditional))))))))
+      ,
+      (S (NP he)
+	 (AUX was)
+	 (ADVP (PP at
+		   (ADJP least))
+	       partly)
+	 (VP (VP deprived
+		 (PP of
+		     (NP free will)))
+	     and
+	     (NEG not)
+	     (VP inclined
+		 (PP towards
+		     (NP shrewd and sophisticated misuse
+			 (PP of
+			     (NP speech elements))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR Once
+	   (S (NP many significant phrases)
+	      (AUX are)
+	      (VP found
+	 
+		  (PP (PP in
+			  (NP theory))
+		      or
+		      (PP in
+			  (NP recurrent practice)))
+		  (S (NP *)
+		     (AUX to)
+		     (VP provide
+			 (PP for
+			     (NP prosodic necessity)))))))
+     ,
+     (S (NP they)
+	(VP are
+	    (NEG not)
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (VP defended
+		        
+		       (PP for
+			   (NP their semantic properties
+			       (PP in
+				   (NP (VP isolated)
+				       contexts))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-5 *pseudo-attach*))
+   (VP is
+       (ADJP false))
+   (S-5 (NP *)
+      (AUX to)
+      (VP be
+	  (ADJP certain
+		(PP of
+		    (S (NP *)  
+		       (VP having
+			   (VP discovered
+			       (PP in
+				   (NP the language
+				       (PP of
+					   (NP Beowulf))))
+			       (NP such effects
+				   (PP as
+				       (NP intentional irony)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      ,
+      (SBAR if
+	    (S (NP the argument)
+	       (AUX is)
+	       (VP turned
+		   (ADVP awry))))
+      ,
+      (S (NP there)
+	 (AUX may)
+	 (VP be
+	     (VP found
+		  
+		 (NP a great deal)
+		 (PP in
+		     (NP 
+		      (NP Bryan)
+		      's view))))
+	 ,
+	 (PP after
+	     (NP all))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A formulaic element)
+   (AUX need)
+   (NEG not)
+   (VP be
+       (VP held
+	   (ADJP meaningless)))
+   (SBAR  (ADVP merely)
+	  because
+	  (S (NP it)
+	     (AUX was)
+	     (VP selected
+		  
+		 (PP with
+		     (NP little conscious reflection))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Time-servers)
+    ,
+    (SBAR though
+	  (S (NP the periphrastic expressions)
+	     (VP are)))
+    ,
+    (S (NP they)
+       (AUX may)
+       (ADVP nevertheless)
+       (VP be
+	   (ADJP handsome or ironic or humorous))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A long evolution
+	  (PP in
+	      (NP an oral tradition)))
+      (VP caused
+	  (NP the poetic language
+	      (PP of
+		  (NP the heroic age)))
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (VP based
+		     
+		     (PP upon
+			 (NP (NP formulas)
+			     (SBAR (WHNP that)
+				   (S (NP T)
+				      (VP show
+					  (NP the important qualities
+					      (PP of
+						  (NP things)))))))))))))
+     ,
+     and
+     (S (NP these formulas)
+	(VP are
+	    (ADVP therefore)
+	    (ADJP (ADVP (ADVP potentially)
+			(ADVP rather
+			      (PP than
+				  (ADVP always)
+				  (ADVP actually))))
+		  accurate))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP True)
+    ,
+    (S (NP we)
+       (AUX do)
+       (NEG not)
+       (VP know
+	   (SBAR 
+	    (WHADVP how)
+	    (S (NP they)
+	       (AUX were)
+	       (VP regarded
+		   )
+	       (PP in
+		   (NP their day))))))
+    ,
+    but
+    (S (NP we)
+       (AUX need)
+       (NEG not)
+       (VP believe
+	   (S (NP the epic audience)
+	      (AUX to)
+	      (VP have
+		  (VP been
+		      (ADJP  more
+			     insensitive
+			     (PP to
+				 (NP the formulas))
+			     (PP than
+				 (NP (NP the numerous scholars
+					 (PP of
+					     (NP modern times)))
+				     (SBAR (WHNP who)
+					   (S (NP T)
+					      (AUX have)
+					      (VP (VP read
+						      (NP Germanic
+							  or
+							  Homeric poetry))
+						  (NP all
+						      their lives)
+						  and
+						  (ADVP still)
+						  (VP found
+						      (NP much)
+						      (S (NP *)
+							 (AUX to)
+							 (VP admire))
+						      (PP in
+							  (NP occasional occurrences
+							      (PP of
+								  (NP the
+								      (ADJP most familiar)
+								      phrases)))))))))))))))
+       
+       ))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Nouns and adjectives
+	  (PP in
+	      (NP a written tradition)))
+      (AUX are)
+      (VP chosen
+        
+	  (PP for
+	      (NP the nonce))))
+     ;
+     ;
+     (S (PP in
+	    (NP an oral tradition))
+	(S
+	 (NP they)
+	 (X (X (AUX may)
+	       (VP be
+		   (VP chosen
+		 
+		       (PP for
+			   (NP the entire epic corpus)))))
+	    ,
+	    and
+	    (VP tend
+		(PP towards
+		    (NP (NP idealization)
+			(ADVP rather
+			      (PP than
+				  (NP distinctive delineation))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Reliance)
+       (VP is
+	   (ADVP therefore)
+	   (NEG not)
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP placed
+		    
+		      (PP upon
+			  (NP the archaeological particulars
+			      (PP in
+				  (NP an oral poem)))))))))
+    ;
+    ;
+    (S (NP no-one)
+       (NP today)
+       (AUX would)
+       (VP hope
+	   (S (NP *)
+	      (AUX to)
+	      (VP discover
+		  (NP (NP the unmistakable ruins
+			  (PP of
+			      (NP Heorot)))
+		      or
+		      (NP the palace
+			  (PP of
+			      (NP Priam)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A ship
+       (PP at
+	   (NP dry-dock)))
+   (AUX could)
+   (VP be
+       (VP called
+	    
+	   (NP (NP a foamy-necked floater
+		   (PP in
+		       (NP Anglo-Saxon)))
+	       or
+	       (NP a swift ship
+		   (PP in
+		       (NP Greek)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S   (SBAR (WHADVP (ADVP Even)
+		    when)
+	    (X (ADJP defenseless
+		     (PP of
+			 (NP weapons)))))
+      (S (NP the Danes)
+	 (AUX would)
+	 (VP be
+	     (NP Gar-Dene))
+	 *LRB*
+	 (PP as
+	     (S (NP their king)
+		(VP is
+		    (NP Hrothgar))))
+	 *RRB*)
+      and
+      (S (NP Priam)
+	 (AUX would)
+	 (VP be
+	     (NP EUMMELIHS))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Achilles)
+    ,
+    (PP like
+	(NP Siegfried
+	    (PP in
+		(NP The Nibelungenlied))))
+    ,
+    (X (VP is
+	   (ADVP potentially)
+	   (NP the
+	       (ADJP swiftest)
+	       (PP of
+		   (NP men))))
+       and
+       (X (AUX may)
+	  (ADVP accordingly)
+	  (VP be
+	      (VP called
+		  (ADJP swift-footed)
+		  (SBAR  even
+			 (WHADVP when)
+			 (S (NP he)
+			    (VP stands
+				(ADJP idle)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP Coriolanus))
+     (S
+      (NP the agnomen
+	  (PP of
+	      (NP Marcius)))
+      (AUX is)
+      (VP used
+	  (ADVP deliberately and pointedly)))
+     ,
+     but
+     (S (NP (NP the Homeric epithets)
+	    and
+	    (NP the Anglo-Saxon kennings))
+	(X (X (AUX are)
+	      (VP used
+		  (ADVP casually)))
+	   and
+	   (VP recall
+	       (PP to
+		   (NP the hearer))
+	       ``
+	       (NP (NP a familiar story or situation)
+		   or
+		   (NP a useful or pleasant quality
+		       (PP of
+			   (NP the referent))))
+	       ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The epic language)
+      (VP was
+	  (NEG not)
+	  (ADVP entirely)
+	  (NP the servant
+	      (PP of
+		  (NP the poet)))))
+     ;
+     ;
+     (S (NP it)
+	(VP was
+	    (ADVP partly)
+	    (NP his master))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP
+	(NP The poet)
+	's intentions)
+       (VP are
+	   (ADJP difficult
+		 (S (NP *)
+		    (AUX to)
+		    (VP discern)))
+	   and
+	   ,
+	   (PP except
+	       (PP to
+		   (NP biographers)))
+	   ,
+	   (ADJP unimportant)))
+    ;
+    ;
+    (S  
+     (NP the language)
+     ,
+     (ADVP however)
+     ,
+     (VP is
+	 (NP a proper object
+	     (PP of
+		 (NP scrutiny)))))
+    ,
+    and
+    (S (NP the effects
+	   (PP of
+	       (NP the language)))
+       (VP are
+	   (ADJP palpable
+		 even
+		 if
+		 (ADVP sometimes)
+		 inevitable))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP Beowulf)
+	 and
+	 (NP the Homeric poems))
+     (VP appear
+	 (NP oral compositions)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP they)
+	 (AUX are)
+	 (VP written
+	     ))
+      ;
+      ;
+      (S (PP at
+	     (NP some stage
+		 (PP in
+		     (NP their evolution))))
+	 (S
+	  (NP they)
+	  (AUX were)
+	  (VP transcribed
+	      ))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Albert B. Lord)
+      (VP suggests
+	  (SBAR that
+		(S (NP the Homeric poems)
+		   (AUX were)
+		   (VP dictated
+		     
+		       (PP to
+			   (NP a scribe))
+		       (PP by
+			   (NP (NP a minstrel)
+			       (SBAR (WHNP who)
+				     (S (NP T)
+					(X (VP held
+					       (PP in
+						   (NP his mind))
+					       (NP (NP the poems)
+						   (VP  (ADVP fully)
+							matured)))
+					   but
+					   (X (AUX did)
+					      (NEG not)
+					      (NP himself)
+					      (VP possess
+						  (NP (NP the knowledge
+							  (PP of
+							      (NP writing)))
+						      (SBAR since
+							    (S (NP it)
+							       (AUX would)
+							       (VP be
+								   (ADJP useless)
+								   (PP to
+								       (NP his guild))))))))))))))))))
+     ,
+     and
+     (S (NP Magoun)
+	(VP argues
+	    (SBAR that
+		  (S (NP (NP the Beowulf poet)
+			 and
+			 (NP Cynewulf))
+		     (AUX may)
+		     (VP have
+			 (VP dictated
+			     (NP their verse)
+			     (PP in
+				 (NP the same fashion)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This explanation)
+   (X (VP is
+	  (ADJP attractive))
+      ,
+      but
+      (X (AUX is)
+	 (VP vitiated
+	   
+	     (PP (PP at
+		     (ADJP least))
+		 in
+		 (NP part))
+	     (PP by
+		 (NP the observation
+		     (SBAR that
+			   (S (NP Cynewulf)
+			      ,
+			      (SBAR though
+				    (S (NP he)
+				       (VP used
+					   (NP kennings)
+					   (PP in
+					       (NP the traditional manner)))))
+			      ,
+			      (VP was
+				  (NP (NP a literate man)
+				      (SBAR (WHNP who)
+					    (S
+					     (NP four times)
+					     (S (NP T)
+						(VP inscribed
+						    (NP his name)
+						    (PP by
+							(NP runes))
+						    (PP into
+							(NP his works))))))))))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP Cynewulf)
+	    (VP was
+		(ADJP literate))))
+   ,
+   (S (NP the Beowulf poet)
+      (AUX may)
+      (VP have
+	  (VP been)
+	  (ADVP also)))
+   ,
+   and
+   (SINV (ADVP so)
+	 (AUX may)
+	 (NP the final redactor
+	     (PP of
+		 (NP (NP The Iliad)
+		     and
+		     (NP The Odyssey))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP lieu
+	    (PP of
+		(NP the amanuensis
+		    (PP to
+			(NP the (ADJP blind or illiterate) bard))))))
+    ,
+    (S (NP one)
+       (AUX may)
+       (VP conceive
+	   (PP of
+	       (NP (NP a man)
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (VP (VP heard
+				    (NP a vast store
+					(PP of
+					    (NP oral poetry)))
+				    (VP recited))
+				,
+				and
+				(VP became
+				    (ADJP  intimately
+					   familiar
+					   (PP with
+					       (NP the established aids
+						   (PP to
+						       (NP  poetizing))))))
+				,
+				and
+				(NP himself)
+				 (VP wrote
+				     (NP (NP his own compositions)
+					 or
+					 (NP his edition
+					     (PP of
+						 (NP the compositions
+						     (PP of
+							 (NP the past)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Other theories
+	  (PP of
+	      (NP origin)))
+      (VP are
+	  (ADJP compatible
+		(PP with
+		    (NP the formulaic theory)))))
+     :
+     (S (NP Beowulf)
+	(AUX may)
+	(VP contain
+	    (NP a design
+		(PP for
+		    (NP terror)))))
+     ,
+     and
+     (S (NP The Iliad)
+	(AUX may)
+	(VP have
+	    (NP (NP a vast hysteron-proteron pattern)
+		(VP answering
+		    (PP to
+			(NP (NP a ceramic pattern)
+			    (VP produced
+				(PP during
+				    (NP the Geometric Period
+					(PP in
+					    (NP pottery))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The account
+      (PP of
+	  (NP  the growth
+	      and
+	      final transcription
+	      (PP of
+		  (NP these epics)))))
+  (VP rests
+      (ADVP partly)
+      ,
+      (ADVP however)
+      ,
+      (PP upon
+	  (NP (NP the degree)
+	      (SBAR (WHPP to
+			  (WHNP which))
+		    (S
+		     (NP they)
+		     (VP were
+			 (ADJP formulaic))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Carl Eduard Schmidt)
+       (VP counted
+	   (NP (NP 1804 different lines)
+	       (VP repeated
+		   (ADVP exactly)
+		   (PP in
+		       (NP the two Homeric poems))))))
+    ,
+    and
+    (PP by
+	(S (NP *)  
+	   (VP increasing
+	       (NP this figure)
+	       (SBAR so
+		     as
+		     (S (NP *)
+			(AUX to)
+			(VP include
+			    (NP (NP lines)
+				(VP repeated
+				    (PP with
+					(NP (ADJP  very
+						   slight) modifications))))))))))
+    (S
+     (NP he)
+     (VP counted
+	 (NP (NP 2118 different lines)
+	     (VP used
+		 (NP a total
+		     (PP of
+			 (NP 5612 times))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP one line
+	     (PP in
+		 (NP five))
+	     (PP from
+		 (NP (NP The Iliad)
+		     and
+		     (NP The Odyssey))))
+	 (VP is
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP found
+			(ADVP somewhere
+			      else
+			      (PP in
+				  (NP the two poems)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ratio)
+   (VP is
+       (ADJP  thoroughly
+	     remarkable))
+   ,
+   (SBAR because
+	 (S (NP the lines)
+	    (VP are
+		(ADJP  so
+		       long)
+		--
+		(ADJP  half
+		       again
+		       as
+		       long
+		       (PP as
+			   (NP those
+			       (PP of
+				   (NP Beowulf)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Anglo-Saxon poetry)
+      (VP appears
+	  (S (NP *)
+	     (AUX to)
+	     (VP have
+		 (NP no comparable amount
+		     (PP of
+			 (NP repetition)))))))
+     ;
+     ;
+     (S (NP there)
+	(VP is
+	    (NP no reason
+		(S (NP *)
+		   (AUX to)
+		   (VP think
+		       (SBAR that
+			     (S (NP the scop)
+				(VP  used
+				     and
+				     re-used
+				     (NP (NP whole lines)
+					 and
+					 even
+					 (NP lengthy passages))
+				     (PP after
+					 (NP the manner
+					     (PP of
+						 (NP his Homeric colleague)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP In
+       (S (NP *)  
+	  (VP determining
+	      (SBAR (NP the extent
+			(WHPP to
+			      (WHNP which)))
+		    (S (NP any poem)
+		       (VP is
+			   (ADJP formulaic)))))))
+   (S (NP it
+	  (S-6 *pseudo-attach*))
+      (VP is
+	  (ADJP idle)
+	  ,
+	  (ADVP however)
+	  ,)
+      (S-6 (NP *)
+	   (AUX to)
+	   (VP inspect
+	       (NP nothing
+		   (PP besides
+		       (NP (NP lines)
+			   (VP repeated
+			       (PP in
+				   (NP their entirety))))))))
+      ,
+      (SBAR for
+	    (S (NP a stock
+		   (PP of
+		       (NP line-fragments)))
+	       (AUX would)
+	       (VP be
+		   (ADJP sufficient
+			 (S (NP *)
+			    (AUX to)
+			    (VP permit
+				(S (NP the poet)
+				   (AUX to)
+				   (VP extemporize
+				       (PP with
+					   (NP deftness))))))))
+	       (SBAR if
+		     (S (NP they)
+			(VP provided
+		 
+			    (PP for
+				(NP prosodic needs)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  (ADJP closest)
+	  scrutiny)
+      (AUX is)
+      (VP owed
+        
+	  (PP to
+	      (NP (NP the Anglo-Saxon kennings)
+		  and
+		  (NP the Homeric epithets))))
+      ;)
+     ;
+     (S (SBAR if
+	      (S (NP any words or phrases)
+		 (VP are
+		     (ADJP formulaic))))
+	,
+	(S (NP they)
+	   (AUX will)
+	   (VP be))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Iliad)
+   (VP has
+       (NP (NP two words
+	       (PP for
+		   (NP the shield)))
+	   ,
+	   (NP ASPIS and SAKOS))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2473 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Temperature
+	(PP of
+	    (NP the wash and rinse waters)))
+    (AUX is)
+    (VP maintained
+	 
+	(PP at
+	    (NP (NP 85
+		    -
+		    90-degrees-F)
+		*LRB*
+		(NP 29
+		    -
+		    32-degrees-C)
+		*RRB*))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The top rolls)
+   (AUX are)
+   (VP loaded
+        
+       (PP with
+	   (NP 40 lbs.))))
+  .)
+( 
+ (S (S (NP  Sixty lbs.
+	    loading)
+       (VP is
+	   (ADJP possible)))
+    but
+    (S (NP 40 lbs.)
+       (VP is
+	   (ADJP adequate))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP  The suds
+	    box drain)
+       (AUX is)
+       (VP arranged
+	 
+	   (PP at
+	       (NP the start))
+	   (S (NP *)
+	      (AUX to)
+	      (VP deliver
+		  (PP into
+		      (NP the
+			  raised main
+			  drain pipe))
+		  *LRB*
+		  (ADVP thus)
+		  (S (NP *)  
+		     (VP returning
+			 (NP suds)
+			 (PP to
+			     (NP soap box))))
+		  *RRB*))))
+    and
+    (S (NP the machine)
+       (AUX is)
+       (VP started
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The 160-ml. bath)
+	(VP containing
+	    (NP the calculated amount
+		(PP of
+		    (NP detergent)))))
+    (AUX is)
+    (VP applied
+	(ADVP slowly and directly)
+	(PP to
+	    (NP the running specimen))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Washing)
+   (AUX is)
+   (VP continued
+        
+       (PP for
+	   (NP 30 minutes))
+       or
+       (PP for
+	   (NP (NP a period
+		   (PP of
+		       (NP time)))
+	       (ADJP sufficient)
+	       (S (NP *)
+		  (AUX to)
+		  (VP allow
+		      (NP 100 nips or passes
+			  (PP through
+			      (NP the squeeze rolls)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the conclusion
+	    (PP of
+		(NP the washing))))
+    ,
+    (S (NP 8 liters
+	   (PP of
+	       (NP water
+		   (PP at
+		       (NP (NP 90-degrees-F)
+			   *LRB*
+			   (NP 32 *
+			       0C.)
+			   *RRB*)))))
+       (AUX are)
+       (VP (ADVP automatically)
+	   metered
+	    
+	   (PP (PP from
+		   (NP the rinse reservoir))
+	       (PP to
+		   (NP the washing tubs)))
+	   ,
+	   (NP 4 liters)
+	   (PP to
+	       (NP each tub)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This operation)
+   (VP requires
+       (NP  (PP (PP from
+		    (NP 10))
+		(PP to
+		    (NP 12)))
+	    minutes)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+	 (NP the rinsing operation))
+     (S (NP the volume
+	    (PP in
+		(NP the tubs)))
+	(VP  (ADVP gradually)
+	     increases
+	     (PP until
+		 (S (NP overflow
+			(PP from
+			    (NP the main drain)))
+		    (VP begins))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP this point))
+     (S
+      (NP the drains)
+      (AUX are)
+      (VP readjusted
+	   
+	  (SBAR  so
+		 that
+		 (S (S (NP the suds
+			   box drain)
+		       (AUX will)
+		       (VP discharge
+			
+			   (PP (ADVP directly)
+			       into
+			       (NP the waste line))))
+		    and
+		    (S (NP the main tub drain)
+		       (AUX is)
+		       (VP set
+			    
+			   (PP at
+			       (NP the 2-12 mark
+				   (PP on
+				       (NP the drain gauge)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP all
+	     (PP of
+		 (NP the rinse water)))
+	 (AUX has)
+	 (VP passed
+	     (PP (PP from
+		     (NP the reservoir))
+		 (PP to
+		     (NP the tubs))))))
+     (S
+      (NP the main drains)
+      (AUX are)
+      (VP lowered
+	   
+	  (S (NP *)
+	     (AUX to)
+	     (VP permit
+		 (NP complete draining
+		     (PP of
+			 (NP the tubs))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The run)
+   (VP is
+       (ADJP complete))
+   (SBAR 
+    (WHADVP when)
+    (S (NP all
+	   the water)
+       (AUX has)
+       (VP drained
+	   (PRT off)
+	   (PP into
+	       (NP the waste line))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP this procedure))
+    (S (NP
+	rinsing)
+       (VP progresses
+	   (PP in
+	       (NP two stages))
+	   ,
+	   (X (NP first
+		  (PP by
+		      (NP dilution))
+		  (PP until
+		      (NP (NP the time)
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP the drains)
+			      (AUX are)
+			      (VP separated
+				  ))))))
+	      and
+	      (ADVP thereafter
+		    (PP by
+			(NP displacement
+			    (PP of
+				(NP the soil-bearing liquor))
+			    (PP by
+				(NP clean rinse water))
+			    ,
+			    (SBAR since
+				  (S (NP (NP soiled liquor)
+					 (VP squeezed
+					     (PP from
+						 (NP the specimens))
+					     (PP at
+						 (NP the nip))))
+				     (VP passes
+					 (PP (ADVP directly)
+					     to
+					     (NP waste
+						 (PP from
+						     (NP the suds box drains))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This method
+       (PP of
+	   (NP rinsing)))
+   (VP appears
+       (S (NP *)
+	  (AUX to)
+	  (VP produce
+	      (NP maximum cleansing)
+	      (PP with
+		  (NP minimum soil redeposition))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP  Suggested
+      evaluation and classification)
+ )
+(  
+ (S (NP Evaluation)
+    (AUX may)
+    (VP be
+	(VP made
+	      
+	    (PP on
+		(NP  either
+		     a
+		     (ADJP soil-removal)
+		     or
+		     a grease-removal basis))
+	    (PP as
+		(S (NP *)  
+		   (VP desired))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A reflectance-measuring instrument)
+   (AUX may)
+   (VP be
+       (ADJP desirable)
+       (S (NP *)
+	  (AUX to)
+	  (VP measure
+	      (NP cleaning))))
+   ,
+   (SBAR whereas
+	 (S (NP Soxhlet extraction)
+	    (VP is
+		(ADJP necessary
+		      (S (NP *)
+			 (AUX to)
+			 (VP measure
+			     (NP grease removal))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP (NP Purpose)
+     and
+     (NP scope)) 
+ )
+( (S
+   (NP This test method)
+   (AUX is)
+   (VP intended
+        
+       (PP for
+	   (S (NP *)  
+	      (VP determining
+		  (NP (NP the dimensional changes
+			  (PP of
+			      (NP (NP  
+				   (VP woven)
+				   or
+				   (VP knitted)
+				   fabrics)
+				  ,
+				  (VP made
+				      (PP of
+					  (NP (NP fibers)
+					      (ADJP other
+						    (PP than
+							(NP wool)))))))))
+		      ,
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (VP expected))
+			 (SBAR 
+			  (WHADVP when)
+			  (S (NP the cloth)
+			     (AUX is)
+			     (VP subjected
+			       
+				 (PP to
+				     (NP (NP (VP laundering)
+					     procedures)
+					 (VP  (ADVP commonly)
+					      used
+					      (PP in
+						  (NP (NP the commercial laundry)
+						      and
+						      (NP the home))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Four washing test procedures)
+       (VP-1 *pseudo-attach*))
+   (X (X (AUX are)
+	 (VP established
+	     ))
+      ,
+      (VP-1 varying
+	    (PP in
+		(NP severity))
+	    (PP (PP from
+		    (ADJP  very
+			   severe))
+		(PP to
+		    (ADJP  very
+			   mild))))
+      ,
+      and
+      (X (AUX are)
+	 (VP intended
+	 
+	     (S (NP *)
+		(AUX to)
+		(VP cover
+		    (NP the range
+			(PP of
+			    (NP practical washing))
+			(PP (PP from
+				(NP commercial procedure))
+			    (PP to
+				(NP hand washing))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Five drying test procedures)
+   (AUX are)
+   (VP established
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP cover
+	      (NP the range
+		  (PP of
+		      (NP (NP drying techniques)
+			  (VP used
+			      (PP in
+				  (NP (NP the home)
+				      and
+				      (NP commercial laundry)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Three methods
+	(PP for
+	    (S (NP *)  
+	       (VP determining
+		   (NP the dimensional restorability characteristics)))))
+    (AUX are)
+    (VP established
+	 
+	(PP for
+	    (NP (NP those textiles)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP require
+			     (NP restoration
+				 (PP by
+				     (S (NP *)  
+					(VP (VP ironing)
+					    or
+					    (VP wearing))))))
+			 (PP after
+			     (NP  laundering))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These tests)
+    (X (X (AUX are)
+	  (NEG not)
+	  (VP accelerated
+	      ))
+       and
+       (X (AUX must)
+	  (VP be
+	      (VP repeated
+	        
+		  (S (NP *)
+		     (AUX to)
+		     (VP evaluate
+			 (NP dimensional changes
+			     (PP after
+				 (NP (VP repeated)
+				     launderings))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Table 1)
+    ,
+    (VP summarizes
+	(NP all
+	    (PP of
+		(NP (NP the various washing
+			,
+			drying
+			,
+			and
+			restoration procedures)
+		    (ADJP available))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The person)
+	(VP using
+	    (NP these tests)))
+    (AUX must)
+    (VP determine
+	(SBAR
+	 (WHNP which combination
+	       (PP of
+		   (NP procedures)))
+	 (S (NP T)
+	    (VP is
+		(ADJP practical
+		      (PP for
+			  (NP any specific item))))
+	    (SBAR (PP in
+		      (NP order))
+		  (S (NP *)
+		     (AUX to)
+		     (VP evaluate
+			 (NP the dimensional changes
+			     (PP of
+				 (NP textile fabrics or garments))))
+		     (PP after
+			 (NP (NP  laundering
+				  procedures)
+			     (VP  (ADVP commonly)
+				  used
+				  (PP in
+				      (NP (NP the home)
+					  or
+					  (NP commercial laundry))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-1 *pseudo-attach*))
+   (VP is
+       (ADJP possible))
+   (S-1 (NP *)
+      (AUX to)
+      (VP identify
+	  (NP the test procedure)
+	  (ADVP completely)
+	  (PP with
+	      (NP (NP a code)
+		  (VP consisting
+		      (PP of
+			  (NP (NP a Roman Numeral)
+			      ,
+			      (NP a letter)
+			      ,
+			      and
+			      (NP an Arabic number)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    (S  
+     (NP  Test
+	  3
+	  ,
+	  E 1)
+     (VP refers
+	 (PP to
+	     (NP (NP a specimen)
+		 (SBAR (WHNP which)
+		       (S (NP T)
+			  (X (X (AUX has)
+				(VP been
+				    (VP washed
+				   
+					(PP by
+					    (NP (NP procedure
+						    ``
+						    3
+						    *LRB*
+						    '')
+						*LRB*
+						(PP at
+						    (NP 160-degrees-F))
+						*RRB*))
+					(PP for
+					    (NP a total
+						(PP of
+						    (NP 60 minutes
+							(PP in
+							    (NP the machine)))))))))
+			     ,
+			     (X (AUX has)
+				(VP been
+				    (VP dried
+				      
+					(PP in
+					    (NP a tumble dryer))
+					(PP by
+					    (NP procedure
+						``
+						E
+						'')))))
+			     and
+			     (X (AUX has)
+				(VP been
+				    (VP subjected
+				      
+					(PP to
+					    (NP restorative forces))
+					(PP on
+					    (NP the Tension Presser))
+					(PP by
+					    (NP procedure
+						``
+						1
+						'')))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP Principle))
+( (S
+   (NP A specimen or garment)
+   (AUX is)
+   (VP (VP washed
+        
+	   (PP in
+	       (NP a
+		   (ADJP cylindrical)
+		   (VP reversing)
+		   wash wheel)))
+       ,
+       (VP dried)
+       and
+       (VP subjected
+	   (PP to
+	       (NP restorative forces))
+	   (X (WHADVP where)
+	      (ADJP necessary)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Temperature) 
+       and 
+       (NP time
+	   (PP of
+	       (NP agitation
+		   (PP in
+		       (NP the wash wheel))))))
+   (AUX are)
+   (VP varied)
+   (S (NP *)
+      (AUX to)
+      (VP obtain
+	  (NP different degrees
+	      (PP of
+		  (NP severity))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Drying procedures) 
+       and 
+       (NP application
+	   (PP of
+	       (NP restorative force procedures))))
+   (AUX are)
+   (VP varied)
+   (S (NP *)
+      (AUX to)
+      (VP conform
+	  (PP with
+	      (NP end-use handling
+		  (PP during
+		      (NP home
+			  or
+			  commercial laundering)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Distances)
+	(VP marked
+	    (PP on
+		(NP the specimen))
+	    (PP in
+		(NP (NP  warp
+			 and
+			 filling
+			 directions)
+		    *LRB*
+		    or
+		    (NP (NP wales) 
+			and 
+			(NP courses))
+		    (PP for
+			(NP (VP knitted)
+			    fabrics))
+		    *RRB*))))
+    (AUX are)
+    (VP measured)
+    (PP before and after
+	(NP laundering)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Apparatus and materials wash wheel)
+     --
+     (NP cylindrical wash wheel
+	 (PP of
+	     (NP the reversing type))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The wheel)
+	*LRB*
+	(NP cage)
+	*RRB*)
+    (VP is
+	(NP (NP (NP 20
+		    to
+		    24 inches)
+		inside
+		diameter)
+	    and
+	    (NP (NP (NP 20)
+		    to
+		    24 inches)
+		inside
+		length))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP three fins)
+	   (NP (NP each)
+	       (ADJP  approximately
+		      (NP three inches)
+		      wide))
+	   (VP extending
+	       (NP the full length
+		   (PP of
+		       (NP the inside
+			   (PP of
+			       (NP the wheel)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One fin)
+   (AUX is)
+   (VP located
+        
+       (NP every 120-degrees
+	   (PP around
+	       (NP the inside diameter
+		   (PP of
+		       (NP the wheel)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The wash wheel)
+   (VP rotates
+       (PP at
+	   (NP a speed
+	       (PP of
+		   (NP 30 revolutions
+		       (PP per
+			   (NP minute))))))
+       ,
+       (S (NP *)  
+	  (VP making
+	      (NP five
+		  to
+		  ten revolutions))
+	  (PP before
+	      (S  (NP *) 
+		  (VP reversing))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The water inlets)
+      (VP are
+	  (ADJP large
+		enough
+		(S (NP *)
+		   (AUX to)
+		   (VP permit
+		       (S (NP *)  
+			  (VP filling
+			      (NP the wheel)
+			      (PP to
+				  (NP an eight-inch level))
+			      (PP in
+				  (NP (ADJP less
+					    (PP than
+						(NP two)))
+				      minutes)))))))))
+     ,
+     and
+     (S (NP the outlet)
+	(VP is
+	    (ADJP large
+		  enough
+		  (S (NP *)
+		     (AUX to)
+		     (VP permit
+			 (NP discharge
+			     (PP of
+				 (NP this same amount
+				     (PP of
+					 (NP water))))
+			     (PP in
+				 (NP (ADJP less
+					   (PP than
+					       (NP two)))
+				     minutes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The machine)
+   (AUX is)
+   (VP equipped
+        
+       (PP with
+	   (NP a pipe
+	       (PP for
+		   (S (NP *)  
+		      (VP injecting
+			  (NP (NP live steam)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP is
+					   (ADJP capable
+						 (PP of
+						     (S (NP *)  
+							(VP raising
+							    (NP the temperature
+								(PP of
+								    (NP water
+									(PP at
+									    (NP an eight-inch level))))
+								(NP (NP 
+								     from
+								     110-degrees
+								     to
+								     140-degrees-F)
+								    *LRB*
+								    (NP 38 *
+									0
+									to
+									60 *
+									0C.)
+								    *RRB*)))
+							(PP in
+							    (NP (ADJP less
+								      (PP than
+									  (NP two)))
+								minutes))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The machine)
+   (AUX shall)
+   (VP contain
+       (NP an opening
+	   (PP for
+	       (NP the insertion
+		   (PP of
+		       (NP  a thermometer
+			    or
+			    (ADJP other equivalent)
+			    equipment
+			    (PP for
+				(S (NP *)  
+				   (VP determining
+				       (NP the temperature
+					   (PP of
+					       (NP the water))))
+				   (PP during
+				       (NP the washing and rinsing procedures)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP equipped
+        
+       (PP with
+	   (NP (NP an outside water gauge)
+	       (SBAR (WHNP that)
+		     (S (NP T)
+			(AUX will)
+			(VP indicate
+			    (NP the level
+				(PP of
+				    (NP the water))
+				(PP in
+				    (NP the wheel))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A
+	    domestic automatic
+	    washer)
+	(SBAR (WHNP that)
+	      (S (NP T)
+		 (AUX will)
+		 (VP give
+		     (NP equivalent results)))))
+    (AUX may)
+    (VP be
+	(VP used
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The wash wheel)
+   (VP is
+       (NP (NP the equipment)
+	   (VP preferred
+	       (PP for
+		   (NP the test))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (VP Pressing)
+	 equipment)
+     --
+     (NP (NP flat-bed press)
+	 (VP measuring
+	     (NP (NP 24 inches
+		     (PP by
+			 (NP 50 inches)))
+		 or
+		 (ADJP larger)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Any flat-bed press)
+	(ADJP capable
+	      (PP of
+		  (S (NP *)  
+		     (VP pressing
+			 (NP (NP a
+				 specimen)
+			     (ADJP (NP  22
+					inches)
+				   square)))))))
+    (AUX may)
+    (VP be
+	(VP used
+	     
+	    (PP as
+		(NP an alternative)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The flat-bed press)
+    (AUX is)
+    (VP maintained
+	 
+	(PP at
+	    (NP (NP a temperature)
+		(ADJP (NEG not)
+		      less
+		      (PP than
+			  (NP (NP 275-degrees-F)
+			      *LRB*
+			      (NP 135 *
+				  0C
+				  .)
+			      *RRB*)))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Dryer)
+     --
+     (NP (NP dryer
+	     (PP of
+		 (NP the rotary tumble type)))
+	 ,
+	 (VP (VP having
+		 (NP (NP a cylindrical basket)
+		     (PP (PP (NP approximately
+				 30 inches)
+			     in
+			     (NP diameter))
+			 and
+			 (PP (NP 24 inches)
+			     in
+			     (NP length)))))
+	     and
+	     (VP rotating
+		 (PP at
+		     (NP  approximately
+			  35 r.p.m.))))))
+ .)
+(  
+ (S (NP The dryer)
+    (AUX is)
+    (VP provided
+		 
+	(PP with
+	    (NP a means
+		(PP of
+		    (S (NP *)  
+		       (VP maintaining
+			   (NP (NP a drying temperature
+				   (PP of
+				       (NP (NP 120-degrees
+					       -
+					       160-degrees-F)
+					   *LRB*
+					   (NP 49 *
+					       0 - 71 *
+					       &0C.)
+					   *RRB*)))
+			       ,
+			       (VP measured
+				   (PP in
+				       (NP the exhaust vent))
+				   (ADJP as
+					 close
+					 (PP as
+					     (ADJP possible))
+					 (PP to
+					     (NP the drying chamber))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Screen drying racks
+     --
+     (NP (NP 16-mesh screening)
+	 *LRB*
+	 (NP Saran)
+	 or
+	 (NP Velon)
+	 *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Drying room
+     --
+     (NP facilities
+	 (PP for
+	     (NP  drip
+		 -
+		 or
+		 line-drying))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Extractor
+     --
+     (NP centrifugal extractor
+	 (PP of
+	     (NP the
+                 (ADJP laundry-type)))
+	 (PP with
+	     (NP (NP a perforated basket)
+		 ,
+		 (ADJP   approximately
+			 (NP 11 inches)
+			 deep
+			 (PP by
+			     (PP (NP 17 inches)
+				 in
+				 (NP diameter))))))
+	 ,
+	 (PP with
+	     (NP an operating speed
+		 (PP of
+		     (NP  approximately
+			 1,500 r.p.m.))))))
+ .)
+(  
+ (NP (NP Pen and ink)
+     ,
+     (ADJP indelible)
+     --
+     or
+     (NP 
+      other suitable
+      marking device.))
+ (NP (VP measuring)
+     scale
+     --))
+(  END_OF_TEXT_UNIT)
+(  (NP (NP Soap)
+       ,
+       (NP neutral chip)
+       --
+       (NP fed
+	   .
+	   Spec. 566
+	   or
+	   A[fj]))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Softener
+     --
+     (X e.g.) 
+     (NP (NP sodium metaphosphate)
+	 or
+	 (NP sodium hexametaphosphate))
+     *LRB*
+     (SBAR if
+	   (S (NP *)  
+	      (VP needed
+		  (PP in
+		      (NP hard water areas)))))
+     *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Detergent)
+     ,
+     (ADJP synthetic)
+     --
+     (NP alkylarysulfonate type))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Flatiron)
+     ,
+     (ADJP electric)
+     --
+     (NP (NP  approximately
+	      3 lb
+	      .
+	      tension presser)
+	 --
+	 (VP consisting
+	     (PP of
+		 (NP (NP a padded ironing board)
+		     (SBAR (WHPP from
+				 (WHNP which))
+			   (SINV (VP extend)
+				 (NP  clamping
+				      members)
+				 (PP on
+				     (NP all four sides)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two
+       (PP of
+	   (NP the clamps)))
+   (AUX are)
+   (VP fixed
+        
+       (PP to
+	   (NP the edges
+	       (PP of
+		   (NP the board)))))
+   (SBAR whereas
+	 (S (NP two clamps)
+	    (VP travel
+		 
+		(PP on
+		    (NP guide rails
+			(PP opposite
+			    (NP the fixed clamps))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The movable clamps)
+   (VP travel
+       (PP on
+	   (NP (NP carriages)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(X (VP ride
+			       (NP the rails))
+			   and
+			   (X (AUX are)
+			      (VP drawn
+				 
+				  (PP by
+				      (NP dead-weight loading)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sets
+       (PP of
+	   (NP weights)))
+   (AUX are)
+   (VP provided
+        
+       (SBAR  so
+	      that
+	      (S (NP the load)
+		 (AUX can)
+		 (VP be
+		     (VP selected
+			  
+			 (PP in
+			     (NP the range
+				 (PP of
+				     (NP 12
+					 to
+					 4 pounds))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A perforated aluminum plate)
+	,
+	(VP used
+	    (S (NP *)
+	       (AUX to)
+	       (VP provide
+		   (NP the drying surface))))
+	,)
+    (AUX is)
+    (VP heated
+	 
+	(PP by
+	    (NP means
+		(PP of
+		    (NP a flatiron))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A special template)
+       (AUX is)
+       (VP furnished
+	 
+	   (PP with
+	       (NP the apparatus)))
+       (S (NP *)
+	  (AUX to)
+	  (VP enable
+	      (S (NP *)  
+		 (VP marking
+		     (NP a specimen)
+		     (PP for
+			 (NP (NP a central measuring area)
+			     and
+			     (NP the fabric extensions
+				 (PP to
+				     (NP the clamps))))))))))
+    *LRB*
+    (S (NP *)  
+       (VP see
+	   (NP Fig. 2)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP  Knit
+	  shrinkage gauge)
+     --
+     (VP consisting
+	 (PP of
+	     (NP a set
+		 (PP of
+		     (NP (NP 20 mounting pins)
+			 (VP set
+			     (PP in
+				 (NP guides
+				     (PP in
+					 (NP radial slots))))))))))
+     *LRB*
+     (NP Fig. 1)
+     *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each pin)
+   (AUX is)
+   (VP  (ADVP individually)
+	sprung
+	 
+	(PP to
+	    (NP (NP a tensioning member)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (AUX is)
+			 (VP driven
+			     (ADVP outwardly)
+			     (PP in
+				 (NP the slot)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The springs)
+   (VP have
+       (NP an extension
+	   (PP of
+	       (NP 1 inch)))
+       (PP at
+	   (NP A[fj] tension))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tensioning members)
+   (VP have
+       (NP a common drive)
+       (SBAR  so
+	      that
+	      (S (NP the application
+		     (PP of
+			 (NP restorative force)))
+		 (VP takes
+		     (NP place)
+		     (ADVP simultaneously)
+		     (PP in
+			 (NP all directions))
+		     (PP in
+			 (NP the plane
+			     (PP of
+				 (NP the test specimen)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The minimum diameter
+	   (PP of
+	       (NP the pin frame
+		   (PP in
+		       (NP the collapsed state)))))
+       (VP is
+	   (NP 11 inches)))
+    and
+    (S (NP the maximum diameter
+	   (PP in
+	       (NP (NP the
+		       (ADJP  freely
+			      extended)
+		       state)
+		   *LRB*
+		   (ADJP unloaded)
+		   *RRB*)))
+       (VP is
+	   (NP 14 inches))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The surface
+       (PP of
+	   (NP the apparatus))
+       (PP in
+	   (NP contact
+	       (PP with
+		   (NP the test specimen)))))
+   (VP is
+       (ADJP uncluttered)
+       and
+       (VP polished
+	   (ADVP so
+		 (PP as
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (ADJP  as
+				   friction-free
+				   (PP as
+				       (ADJP possible))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Test specimens)
+ )
+(  
+ (S (NP The preparation
+	(PP of
+	    (NP test specimens)))
+    (AUX will)
+    (VP vary)
+    (S (NP *)  
+       (VP depending
+	   (PP upon
+	       (NP (NP the type
+		       (PP of
+			   (NP dimensional restorability procedure)))
+		   *LRB*
+		   (SBAR if
+			 (NP any))
+		   *RRB*
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (VP used
+			      ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Three specimens
+       (PP for
+	   (NP (NP each sample)
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP tested
+			  ))))))
+   (AUX are)
+   (VP required)
+   (SBAR (PP in
+	     (NP order))
+	 (S (NP *)
+	    (AUX to)
+	    (VP arrive
+		(PP at
+		    (NP a satisfactory average
+			(PP of
+			    (NP performance))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP  especially
+	      true
+	      (PP for
+		  (NP knitted fabrics)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Specimens)
+   (AUX are)
+   (VP (VP allowed
+        
+	   (S (NP *)
+	      (AUX to)
+	      (VP reach
+		  (NP moisture equilibrium
+		      (PP with
+			  (NP a standard atmosphere
+			      (PP of
+				  (NP A[fj] and A[fj]))))))))
+       and
+       then
+       (VP laid
+	   (PRT out)
+	   (PP without
+	       (NP tension))
+	   (PP on
+	       (NP a flat
+		   ,
+		   (VP polished)
+		   surface))
+	   ,
+	   (S (NP care)
+	      (VP being
+		  (VP taken
+		      (SBAR that
+			    (S (NP the fabric)
+			       (VP is
+				   (ADJP free
+					 (PP from
+					     (NP (NP wrinkles) 
+						 or 
+						 (NP creases)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Fabrics)
+	(SBAR (WHNP that)
+	      (S (NP T)
+		 (VP are
+		     (ADJP  badly
+			    distorted)
+		     (PP in
+			 (NP their unlaundered state)))
+		 
+		 (ADVP due
+		       (PP to
+			   (NP faulty finishing))))))
+    (AUX may)
+    (VP give
+	(NP 
+	 deceptive dimensional
+	 change results))
+    (SBAR (WHADVP when
+		  (S (NP *)  
+		     (VP laundered
+			 (PP by
+			     (NP any procedure)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (ADVP also)
+   (VP holds
+       (ADJP true)
+       (SBAR if
+	     (S (NP restorative forces)
+		(AUX are)
+		(VP applied
+		    )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Therefore)
+      ,
+      (S (NP it)
+	 (AUX is)
+	 (VP recommended
+	     (SBAR that
+		   (S (PP in
+			  (NP such cases))
+		      (S
+		       (NP the sample)
+		       (AUX be)
+		       (VP replaced
+			   ))))
+	     ,
+	     or
+	     (SBAR if
+		   (S (NP *)  
+		      (VP used)))
+	     ,
+	      (SBAR 0
+		    (S (NP the results
+			   (PP of
+			       (NP dimensional change
+				   or
+				   dimensional restorability tests)))
+		       (AUX be)
+		       (VP considered
+	    
+			   (PP as
+			       (ADJP indicative
+				     only))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Generally)
+      ,
+      (S (NP it
+	     (S-3 *pseudo-attach*))
+	 (VP is
+	     (ADJP necessary))
+	 (S-3 (S (NP *)
+	       (AUX to)
+	       (VP mark
+		   (NP distances)
+		   (PP on
+		       (NP a specimen
+			   *LRB*
+			   or
+			   garment
+			   *RRB*))
+		   (PP in
+		       (NP both
+			   (ADVP lengthwise and widthwise)
+			   directions))))
+	    and
+	    (S (NP *)
+	       (AUX to)
+	       (VP measure
+		   (PP before and after
+		       (NP  laundering)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The distances)
+    (AUX may)
+    (VP be
+	(VP marked
+	     
+	    (PP with
+		(NP (NP indelible ink)
+		    and
+		    (NP a fine-point pen)))
+	    ,
+	    (PP by
+		(S (NP *)  
+		   (VP sewing
+		       (NP fine threads)
+		       (PP into
+			   (NP the fabric)))))
+	    ,
+	    or
+	    (PP by
+		(NP a
+		    (VP  (ADVP specially)
+			 designed)
+		    stamping machine)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The marked distances)
+   (VP are
+       (ADJP parallel
+	     (PP to
+		 (NP the respective yarns)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Usually)
+      ,
+      (X (NP the
+	     (ADJP greater))
+	 (NP (NP the original distances)
+	     (VP marked)))
+      ,
+      (SINV (NP the
+		(ADJP greater))
+	    (AUX will)
+	    (VP be)
+	    (NP the accuracy
+		(PP of
+		    (NP the test)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Distances
+       (PP of
+	   (NP (ADJP less
+		     (PP than))
+	       10 inches)))
+   (AUX are)
+   (NEG not)
+   (VP recommended
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (VP Woven)
+	 fabrics)
+     (S (NP *)
+	(AUX to)
+	(VP be
+	    (VP (VP dried
+		    (PP by
+			(NP procedure b)))
+		*LRB*
+		(VP  flat-bed
+		     pressed)
+		*RRB*
+		or
+		(VP restored
+		    (PP by
+			(NP (NP procedure 3)
+			    *LRB*
+			    (NP hand ironing)
+			    *RRB*))))))
+     :)
+ )
+( (S (NP The specimen
+	 (PP of
+	     (NP fabric)))
+     (VP is
+	 (NP (NP a rectangle)
+	     (PP at
+		 (ADJP least)
+		 (NP 22
+		     (PP by)
+		     (NP 22 inches)))))
+     ,
+     (PP except
+	 (PP for
+	     (NP (NP cloth)
+		 (ADJP narrower
+		       (PP than
+			   (NP 22 inches)))
+		 ,
+		 (SBAR (WHPP in
+			     (WHNP which case))
+		       (S
+			(NP the specimen)
+			(VP is
+			    (NP the entire width
+				(PP of
+				    (NP the fabric))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Three distances)
+	,
+	(NP each
+	    (NP (PP at
+		    (ADJP least))
+		18 inches))
+	,)
+    (AUX are)
+    (VP  (VP measured)
+	 and
+	 (VP marked
+	     (PRT off)
+	     (NP parallel
+		 (PP to
+		     (NP each
+			 (PP of
+			     (NP the warp
+				 and
+				 filling
+				 directions))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The distances)
+   (VP are
+       (NP (PP at
+	       (ADJP least))
+	   two inches
+	   (PP from
+	       (NP any edge
+		   (PP of
+		       (NP the specimen)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP  Woven
+	  or
+	  warp knitted fabrics)
+     (S (NP *)
+	(AUX to)
+	(VP be
+	    (VP subjected
+		 
+		(PP to
+		    (NP (NP restorative procedure
+			    1)
+			*LRB*
+			(NP tension presser)
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each specimen)
+   (VP is
+       (NP (PP at
+	       (ADJP least))
+	   25 inches
+	   (PP by
+	       (NP 25 inches)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Place
+	(NP (NP the template)
+	    *LRB*
+	    (NP Fig. 2)
+	    *RRB*)
+	(PP on
+	    (NP the fabric))
+	(SBAR (SBAR  so
+		     that
+		     (S (NP the sides
+			    (PP of
+				(NP (NP the 10 inch square)
+				    (VP cut
+					(PRT out)
+				   
+					(PP of
+					    (NP the template))))))
+			(VP are
+			    (ADJP parallel
+				  (PP to
+				      (NP (NP the warp
+					      and
+					      filling
+					      (PP for
+						  (NP (VP woven)
+						      fabrics)))
+					  ,
+					  or
+					  (NP the wales and courses
+					      (PP for
+						  (NP (VP knitted)
+						      fabrics)))))))))
+	      ,
+	      and
+	      (SBAR  so
+		     that
+		     (S (NP the same amount
+			    (PP of
+				(NP fabric)))
+			(VP extends
+			    (PP beyond
+				(NP the edges
+				    (PP of
+					(NP the template))))
+			    (PP on
+				(NP all sides))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)  
+      (VP (VP Mark
+	      (NP the specimen)
+	      (PP at
+		  (NP the outer edges
+		      (PP of
+			  (NP the template))))
+	      (PP with
+		  (NP (NP pen)
+		      and
+		      (NP indelible ink))))
+	  ;
+	  ;
+	  (ADVP also)
+	  (VP place
+	      (NP three dots)
+	      (PP on
+		  (NP the specimen))
+	      (PP at
+		  (NP each side
+		      (PP of
+			  (NP the 10 inch square))))
+	      ,
+	      (NP one dot
+		  (PP at
+		      (NP midpoint)))
+	      ,
+	      and
+	      (NP one
+		  (PP at
+		      (NP  approximately
+			   12 inch
+			   (PP from
+			       (NP each corner))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (VP (VP Measure)
+     and
+     (VP record)) 
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (ADJP Circular)
+	 (VP knitted)
+	 fabrics)
+     (S (NP *)
+	(AUX to)
+	(VP be
+	    (VP subjected
+		 
+		(PP to
+		    (NP (NP restorative procedure
+			    2)
+			,
+			*LRB*
+			(VP knit
+			    (NP shrinkage gauge))
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each specimen)
+   (VP is
+       (ADJP (NP  approximately
+		  16 inches)
+	     square)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The markings)
+       (VP consist
+	   (PP of
+	       (NP (NP a
+		       (VP  (ADVP centrally)
+			    located)
+		       (NP 10 inch diameter)
+		       measuring
+		       circle)
+		   and
+		   (NP a 14 inch diameter circle
+		       (PP of
+			   (NP (NP 20 dots)
+			       (VP  (ADVP equidistantly)
+				    spaced))))))))
+    *LRB*
+    (S (NP *)  
+       (VP See
+	   (NP Figure 1)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP Garments)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Critical measurements
+       (PP in
+	   (NP (ADJP length and width) directions)))
+   (AUX should)
+   (VP be
+       (VP taken
+	    
+	   (PP before and after
+	       (NP (NP washing)
+		   ,
+		   (VP drying)
+		   ,
+		   and
+		   (NP restorative procedures))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Procedure washing
+     --)
+ (S (NP The washing procedures)
+    (AUX are)
+    (VP summarized
+	     
+	(PP in
+	    (NP Table 2))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Place
+	(NP the specimen)
+	(PP in
+	    (NP the wash wheel))
+	(PP with
+	    (NP 
+	     sufficient other similar
+	     fabric
+	     (S (NP *)
+		(AUX to)
+		(VP make
+		    (NP a dry load
+			(PP of
+			    (NP A[fj] pounds)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *)   
+    (VP (VP Start
+	    (NP the wash wheel))
+	and
+	(VP note
+	    (NP the time))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *)  
+       (ADVP Immediately)
+       (VP add
+	   (NP water
+	       (PP at
+		   (NP (NP 100
+			   -
+			   105-degrees-F)
+		       *LRB*
+		       38 -
+		       43 *
+		       0C.
+		       *RRB*)))
+	   (PP to
+	       (NP the wheel))
+	   (PP to
+	       (NP a level
+		   (PP of
+		       (NP A[fj] inches))))))
+    ;
+    ;
+    (S (NP this level)
+       (AUX will)
+       (VP be
+	   (VP increased
+	       (PP by
+		   (NP condensed steam))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP this water level)
+	(AUX has 
+	     (VP been
+		 (VP reached
+		     )))))
+    ,
+    (S  (NP *) 
+	(VP inject
+	    (NP steam)
+	    (PP into
+		(NP the wheel)))
+	(PP until
+	    (S (NP the temperature)
+	       (VP reaches
+		   (NP (NP that)
+		       (VP shown
+			   (PP in
+			       (NP Column B
+				   (PP of
+				       (NP Table 2)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP (VP Add
+	    (NP (NP sufficient soap)
+		*LRB*
+		and
+		(NP (NP softener)
+		    (SBAR if
+			  (S (NP *)  
+			     (VP required
+				 (S (NP *)
+				    (AUX to)
+				    (VP counteract
+					(NP hard water)))))))
+		*RRB*
+		(S (NP *)
+		   (AUX to)
+		   (VP furnish
+		       (NP a
+			   (ADJP good)
+			   running
+			   suds)))))
+	,
+	or
+	(SBAR if
+	      (S (NP *)  
+		 (VP desired)))
+	(VP use
+	    (NP a synthetic detergent))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Test 1
+     ,
+     --)
+ )
+( 
+ (S (NP *)  
+    (VP (VP Stop
+	    (NP the wash wheel))
+	(PP at
+	    (NP the end
+		(PP of
+		    (NP (NP the time)
+			(VP shown
+			    (PP in
+				(NP Column
+				    A
+				    (PP of
+					(NP Table 2)))))))))
+	,
+	and
+	(VP drain)))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP (VP Refill
+	    (NP the machine)
+	    (PP to
+		(NP a level
+		    (PP of
+			(NP A[fj] inches))))
+	    (PP with
+		(NP water
+		    (PP at
+			(NP (NP 100
+				-
+				109-degrees-F)
+			    *LRB*
+			    *LRB*
+			    (NP 38 -
+				43 *
+				0 C.)
+			    *RRB*)))))
+	and
+	(VP start
+	    (NP the machine))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Inject
+	(NP steam)
+	,
+	(SBAR if
+	      (ADJP necessary))
+	,
+	(S (NP *)
+	   (AUX to)
+	   (VP reach
+	       (NP (NP the temperature)
+		   (VP shown
+		       (PP in
+			   (NP Column D
+			       (PP of
+				   (NP Table 2))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      (S (NP *)  
+	 (VP stop
+	     (NP the machine))
+	 (PP at
+	     (NP the end
+		 (PP of
+		     (NP (NP the time)
+			 (VP shown
+			     (PP in
+				 (NP Column C
+				     (PP of
+					 (NP Table 2)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This procedure)
+   (AUX is)
+   (VP repeated
+       (PP for
+	   (NP the second rinse))
+       ,
+       (S (NP *)  
+	  (VP using
+	      (NP (NP the temperatures and time)
+		  (VP shown
+		      (PP in
+			  (NP Columns
+			      F and E
+			      (PP of
+				  (NP Table 2))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Tests 2
+     ,
+     3
+     ,
+     ,
+     ,
+     and
+     4)
+ .)
+(  END_OF_TEXT_UNIT)
+(  --
+   (S  (NP *) 
+       (VP Run
+	   (NP the machine)
+	   (ADVP continuously))
+       (PP until
+	   (NP completion
+	       (PP of
+		   (NP the test)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Drain
+	(PRT off)
+	(NP the soap solution
+	    (PP of
+		(NP the suds
+		    cycle))))
+    (PP at
+	(NP such
+	    a time
+	    (SBAR that
+		  (S (NP the wheel)
+		     (AUX has)
+		     (VP become
+			 (ADJP  substantially
+				empty
+				(PP of
+				    (NP soap and water))))))))
+    (PP at
+	(NP the end
+	    (PP of
+		(NP (NP the time)
+		    (VP shown
+			(PP in
+			    (NP Column
+				A
+				(PP of
+				    (NP Table 2)))))
+		    ,
+		    ,
+		    (VP measured
+			(PP from
+			    (NP the time
+				(SBAR 0
+				      (S
+				       (NP the wash wheel)
+				       (AUX was)
+				       (VP started
+					   )))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Refill
+	(NP the machine)
+	(PP to
+	    (NP a level
+		(PP of
+		    (NP A[fj] inches))))
+	(PP with
+	    (NP water
+		(PP at
+		    (NP (NP 100
+			    -
+			    109-degrees-F)
+			*LRB*
+			(NP 38 -
+			    43 *
+			    0C
+			    .)
+			*RRB*))))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP this water level)
+	(AUX has)
+	(VP been
+	    (VP reached
+		))))
+    ,
+    (S (NP *)  
+       (VP inject
+	   (NP steam))
+       (PP until
+	   (S (NP the temperature)
+	      (VP is
+		  (NP (NP that)
+		      (VP shown
+			  (PP in
+			      (NP Column A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Drain
+	(PP off
+	    (NP the water)))
+    (PP at
+	(NP such
+	    a time
+	    (SBAR that
+		  (S (NP the wheel)
+		     (AUX has)
+		     (VP become
+			 (ADJP  substantially
+				empty
+				(PP of
+				    (NP water))))
+		     (PP at
+			 (NP the end
+			     (PP of
+				 (NP the sum
+				     (PP of
+					 (NP (NP the times)
+					     (VP shown
+						 (PP in
+						     (NP Columns
+							 A and C)))
+					     ,
+					     (VP measured
+						 (PP from
+						     (NP the time
+							 (SBAR 0
+							       (S
+								(NP the wash wheel)
+								(AUX was)
+								(VP started
+								    )))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP *)  
+      (ADVP Immediately)
+      (VP refill
+	  (PP to
+	      (NP a level
+		  (PP of
+		      (NP A[fj] inches))))
+	  (PP with
+	      (NP water
+		  (PP at
+		      (NP (NP 100
+			      -
+			      109-degrees-F)
+			  *LRB*
+			  (NP 38 -
+			      43 *
+			      0C)
+			  *RRB*))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP this water level)
+	(AUX has)
+	(VP been
+	    (VP reached
+		))))
+    (S  (NP *) 
+	(VP inject
+	    (NP steam))
+	(PP until
+	    (S (NP the temperature)
+	       (VP is
+		   (NP (NP that)
+		       (VP shown
+			   (PP in
+			       (NP Column A[fj])))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Drain
+	(PRT off)
+	(NP the water))
+    (PP at
+	(NP such
+	    a time
+	    (SBAR that
+		  (S (NP the wheel)
+		     (AUX has)
+		     (VP become
+			 (ADJP  substantially
+				empty
+				(PP of
+				    (NP water))))
+		     (PP at
+			 (NP the end
+			     (PP of
+				 (NP the sum
+				     (PP of
+					 (NP (NP the times)
+					     (VP shown
+						 (PP in
+						     (NP Columns
+							 A
+							 ,
+							 C
+							 ,
+							 and
+							 E)))
+					     ,
+					     (VP measured
+						 (PP from
+						     (NP the time
+							 (SBAR 0
+							       (S
+								(NP the wash wheel)
+								(AUX was)
+								(VP started
+								    )))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

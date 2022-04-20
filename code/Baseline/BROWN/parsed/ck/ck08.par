@@ -1,0 +1,2604 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Rousseau)
+   (VP is
+       (ADJP  so
+	     persuasive
+	     (SBAR that
+		   (S (NP Voltaire)
+		      (AUX is)
+		      (VP (ADVP almost)
+			  convinced
+			   
+			  (SBAR that
+				(S (NP he)
+				   (AUX should)
+				   (VP burn
+				       (NP his books))
+				   ,
+				   (ADVP too)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR while
+	    (S (NP the two men)
+	       (AUX are)
+	       (VP riding
+		   (PP into
+		       (NP (NP the country)
+			   ,
+			   (SBAR 
+			    (WHADVP where)
+			    (S (NP they)
+			       (AUX are)
+			       (VP going
+				   (PP to
+				       (NP dinner))))))))))
+      ,
+      (S (NP they)
+	 (AUX are)
+	 (VP attacked
+	      
+	     (PP in
+		 (NP the dark
+		     (PP of
+			 (NP the forest))))
+	     (PP by
+		 (NP a band
+		     (PP of
+			 (NP (NP thieves)
+			     ,
+			     (SBAR 
+			      (WHNP who)
+			      (S (NP T)
+				 (VP strip
+				     (NP them)
+				     (PP of
+					 (NP (NP everything)
+					     ,
+					     (VP including
+						 (ADJP most
+						       (PP of
+							   (NP their clothes))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S (NP You)
+	 (AUX must)
+	 (VP be
+	     (NP a
+		 (ADJP  very
+			learned) man)))
+      ''
+      ,
+      (SINV (VP says)
+	    (NP Voltaire)
+	    (PP to
+		(NP one
+		    (PP of
+			(NP the bandits))))))
+   .)
+(  END_OF_TEXT_UNIT)
+((NP  ``
+      A learned man
+      '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The bandit)
+   (VP laughs
+       (PP in
+	   (NP his face))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Voltaire)
+	 (VP perseveres)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP goes
+       (PP to
+	   (NP (NP the chief)
+	       (NP himself)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+    (SBARQ 
+     (WHPP At
+	   (WHNP what university))
+     (SQ  (AUX did)
+	  (NP you)
+	  (VP study)))
+    ''
+    ?
+    ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP asks))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP refuses
+       (S (NP *)
+	  (AUX to)
+	  (VP believe
+	      (SBAR that
+		    (S (NP the bandit chief)
+		       (VP  (ADVP never)
+			    attended
+			    (NP a
+				(ADJP higher)
+				institution))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S (NP *)   
+	 (AUX To)
+	  (VP have
+	      (VP become
+		  (ADJP  so
+			 corrupt))))
+      ''
+      ,
+      (S (NP he)
+	 (VP says))
+      ,
+      ``
+      (ADVP surely)
+      (S (NP you)
+	 (AUX must)
+	 (VP have
+	     (VP studied
+		 (NP many arts and sciences))))
+      '')
+   .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The chief)
+      ,
+      (VP annoyed
+	  (PP by
+	      (NP these questions)))
+      ,)
+  (VP (VP knocks
+	  (NP Voltaire)
+	  (PRT down))
+      and
+      (VP shouts
+	  (PP at
+	      (NP him))
+	  (SBAR that
+		(S (NP he)
+		   (VP (CONJP (NEG not)
+			      only)
+		       (VP  never
+			    went
+			    (PP to
+				(NP any school)))
+		       ,
+		       but
+		       (ADVP never
+			     even)
+		       (VP learned
+			   (SBAR (WHADVP how)
+				 (S (NP *)
+				    (AUX to)
+				    (VP read))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (ADVP finally)
+	 (S (NP the two bedraggled men)
+	    (VP reach
+		(NP 
+		 (NP their friend)
+		 's home)))))
+     ,
+     (S (NP
+	 (NP Voltaire)
+	 's fears)
+	(AUX are)
+	(ADVP once
+	      again)
+	(VP aroused
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR For
+	 (S (NP it)
+	    (VP is
+		(NP (NP (ADVP such)
+			a distinguished place
+			,
+			(PP with
+			    (NP (NP such fine works
+				    (PP of
+					(NP art)))
+				and
+				(NP such
+				    a big library))))
+		    ,
+		    (SBAR that
+			  (S (NP there)
+			     (AUX can)
+			     (VP be
+				 (NP little doubt
+				     but
+				     (SBAR that
+					   (S (NP the owner)
+					      (AUX has)
+					      (VP become
+						  (ADJP depraved)
+						  (PP by
+						      (NP all
+							  this culture))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP 
+	 (NP Voltaire)
+	 's surprise))
+    ,
+    (ADVP however)
+    ,
+    (S (NP their host)
+       (VP (VP gives
+	       (NP them)
+	       (NP (NP fresh clothes)
+		   (S (NP *)
+		      (AUX to)
+		      (VP put
+			  (ADVP on)))))
+	   ,
+	   (VP opens
+	       (NP his purse)
+	       (S (NP *)
+		  (AUX to)
+		  (VP lend
+		      (NP them)
+		      (NP money))))
+	   and
+	   (VP sits
+	       (NP them)
+	       (ADVP down)
+	       (PP before
+		   (NP a good dinner))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (PP (ADVP Immediately)
+	  after
+	  (NP dinner))
+      ,
+      (ADVP however)
+      ,
+      (S (NP Rousseau)
+	 (VP asks
+	     (PP for
+		 (NP  still
+		     another favor)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Could)
+      (NP he)
+      (VP have
+	  (NP (NP pen) 
+	      and 
+	      (NP paper)))
+      ,
+      (X please))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP is
+       (PP in
+	   (NP (NP a hurry)
+	       (S (NP *)
+		  (AUX to)
+		  (VP write
+		      (NP another essay
+			  (PP against
+			      (NP culture)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such)
+   (VP was
+       (NP (NP the impromptu)
+	   (SBAR (SBAR that
+		       (S (NP Voltaire)
+			  (VP gave
+			      (PP to
+				  (NP howls
+				      (PP of
+					  (NP laughter))))
+			      (PP at
+				  (NP Sans Souci)))))
+		 and
+		 (SBAR (WHNP that)
+		       (S   (NP T) 
+			   (AUX was)
+			   (ADVP soon)
+			   (VP circulated
+	   
+			       (PP in
+				   (NP manuscript))
+			       (PP throughout
+				   (NP the literary circles
+				       (PP of
+					   (NP Europe))))
+			       ,
+			       (S (NP *)
+				  (AUX to)
+				  (VP be
+				      (VP printed
+					  (ADVP sometime
+						later)
+					  ,
+					  but
+					  (PP with
+					      (S (NP the name
+						     (PP of
+							 (NP (NP Timon
+								 (PP of
+								     (NP Athens)))
+							     ,
+							     (NP the famous misanthrope)
+							     ,)))
+						 (VP substituted
+        
+						     (PP for
+							 (NP that
+							     (PP of
+								 (NP Rousseau)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (ADJP (WHADVP How)
+       cruel)
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(   (X But
+       (PP at
+	   (NP the same time))
+       (ADJP (WHADVP how)
+	     understandable))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ
+   (WHADVP How)
+   (SQ  (AUX could)
+	(NP (NP the
+		(ADJP rich))
+	    ,
+	    (SBAR (WHPP for
+			(WHNP whom))
+		  (S (NP life)
+		     (AUX was)
+		     (VP made
+		 
+			 (ADJP  so
+				simple))))
+	    ,)
+	(ADVP ever)
+	(VP understand
+	    (NP (NP (NP the subterfuges)
+		    ,
+		    (NP the lies)
+		    ,
+		    (NP the frauds)
+		    ,
+		    (NP the errors
+			,
+			sins
+			and
+			even crimes))
+		(SBAR (WHPP to
+			    (WHNP which))
+		      (S
+		       (NP the
+			   (ADJP poor))
+		       (AUX were)
+		       (VP driven
+	      
+			   (PP in
+			       (NP their efforts
+				   (S (NP *)
+				      (AUX to)
+				      (VP overcome
+					  (NP (NP the great advantages)
+					      (SBAR 0
+						    (S (NP the rich)
+						       (VP had
+							   (NP T)
+							   (PP in
+							       (NP the race
+								   (PP of
+								       (NP life)))))))))))))))))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP How)
+	,
+	(PP for
+	    (NP example))
+	,
+	(SQ (AUX could)
+	    (NP a Voltaire)
+	    (VP understand
+		(NP (NP the strange predicament)
+		    (SBAR (WHPP in
+				(WHNP which))
+			  (S (NP a Rousseau)
+			     (AUX would)
+			     (VP find
+				 (NP himself)
+				 (SBAR (WHADVP when)
+				       ,
+				       (PP  soon
+					    after
+					    (NP the furor
+						(PP of
+						    (NP his
+							(ADJP first)
+							Discourse))))
+				       ,
+				       (S (NP he)
+					  (VP acquired
+					      (NP  still
+						   another title
+						   (PP to
+						       (NP fame)))))))))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+( (NP This time
+      (PP as
+	  (NP a musician)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (PP As
+        (NP a composer))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR  Ever
+	   since
+	   (S (NP he)
+	      (AUX had)
+	      (ADVP first)
+	      (VP begun
+		  (S (S (NP *)
+			(AUX to)
+			(VP study
+			    (NP music)))
+		     and
+		     (S (NP *)
+			(AUX to)
+			(VP teach
+			    (NP it)))))))
+    ,
+    (S (NP Rousseau)
+       (AUX had)
+       (VP dreamed
+	   (PP of
+	       (S (NP *)  
+		  (VP piercing
+		      (PP through
+			  (S (NP *)
+			     (AUX to)
+			     (VP fame)))
+		      (PP as
+			  (NP the result
+			      (PP of
+				  (NP a successful opera))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP his facility
+	     (PP in
+		 (NP this genre)))
+	 (VP was)
+	 (NEG not
+	      (ADJP great))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP his efforts)
+	     (S (NP *)
+		(AUX to)
+		(VP get
+		    (NP a performance)
+		    (PP for
+			(NP his Gallant Muses)))))
+	 (VP  (ADVP invariably)
+	      failed)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X And
+      (PP for
+	  (NP good reasons)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His operatic music)
+   (VP had
+       (NP little merit)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (ADVP then)
+      (NP one day)
+      ,
+      (SBAR while
+	    (PP on
+		(NP 
+		 (NP a week)
+		 's visit
+		 (PP to
+		     (NP the country home
+			 (PP of
+			     (NP a
+				 retired Swiss
+				 jeweler)))))))
+      ,
+      (S (NP Rousseau)
+	 (VP amused
+	     (NP the company)
+	     (PP with
+		 (NP (NP a few little melodies)
+		     (SBAR 0
+			   (S
+			    (NP he)
+			    (AUX had)
+			    (VP written
+				(NP T))))
+		     ,
+		     (SBAR (WHPP to
+				 (WHNP which))
+			   (S
+			    (NP he)
+			    (VP attached
+				(NP no great importance))))))))) 
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX was)
+    (VP (ADVP really)
+	amazed
+	 
+	(S (NP *)
+	   (AUX to)
+	   (VP discover
+	       (NP the other guests)
+	       (ADJP so
+		     excited
+		     (PP about
+			 (NP these
+			     (ADJP delicate)
+			     little songs)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S  (NP *) 
+	  (VP Put
+	      (NP a few
+		  such songs)
+	      (ADVP together)))
+      ''
+      ,
+      (S (NP they)
+	 (VP urged
+	     (NP him))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S  (NP *) 
+	  (VP String
+	      (NP them)
+	      (PP onto
+		  (NP some sort
+		      (PP of
+			  (NP little plot))))))
+      ,
+      and
+      (S (NP you)
+	 (AUX 'll)
+	 (VP have
+	     (NP a delightful operetta))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX did)
+   (NEG n't)
+   (VP believe
+       (NP them)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  ``
+	Nonsense
+	'')
+    ,
+    (S (NP he)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP This)
+      (VP is
+	  (NP (NP the sort
+		  (PP of
+		      (NP stuff)))
+	      (SBAR 0
+		    (S (NP I)
+		       (VP   write
+			     and
+			     then
+			     (VP throw
+				 (ADVP away))
+			     (NP T)))))))
+   ''
+   !) (!)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (INTJ Heaven)
+   (INTJ forbid)
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (VP Cried)
+   (NP (NP the ladies)
+       ,
+       (VP enchanted
+	   (PP by
+	       (NP his music)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX must)
+      (VP make
+	  (NP an opera)
+	  (PP out
+	      (PP of
+		  (NP this material)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP they)
+	 (AUX would)
+	 (NEG n't)
+	 (VP leave
+	     (PP off)
+	     (VP (VP arguing) 
+		 and 
+		 (VP pleading)))
+	 (PP until
+	     (S (NP he)
+		(AUX had)
+		(VP promised)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (INTJ Oh)
+    ,
+    (NP (NP the irony)
+	and
+	(NP the bitterness)
+	(PP of
+	    (NP it))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR That
+	  (PP after
+	      (NP all
+		  his years
+		  (PP of
+		      (NP effort
+			  (S (NP *)
+			     (AUX to)
+			     (VP become
+				 (NP a composer))))))))
+    ,
+    (S (NP he)
+       (AUX should)
+       (ADVP now)
+       ,
+       (ADVP now
+	     (SBAR 
+	      (WHADVP when)
+	      (S (NP he)
+		 (AUX was)
+		 (ADVP still)
+		 (VP  (ADVP stoutly)
+		      replying
+		      (PP to
+			  (NP the critics
+			      (PP of
+				  (NP his Discourse
+				      (PP on
+					  (NP the Arts
+					      and
+					      Sciences))))))))))
+       ,
+       (VP (VP be
+	       (ADJP  so
+		      close
+		      (PP to
+			  (NP a success
+			      (PP in
+				  (NP music))))))
+	   and
+	   (VP have
+	       (S (NP *)
+		  (AUX to)
+		  (VP reject
+		      (NP it)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S Or
+      (PP at
+	  (ADJP least))
+      (S  (NP *) 
+	  (VP appear
+	      (S (NP *)
+		 (AUX to)
+		 (VP reject
+		     (NP it))))))
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  (X But
+      (SBARQ 
+       (WHNP what
+	     else)
+       (SQ  (AUX could)
+	    (NP he)
+	    (VP do
+		(NP T)))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP You)
+       (AUX could)
+       (NEG n't)
+       (VP (PP on
+	       (NP the one hand))
+	   (VP decry
+	       (NP the arts))
+	   and
+	   (PP at
+	       (NP the same time))
+	   (VP practice
+	       (NP them))))
+    ,
+    (SQ (AUX could)
+	(NP you)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (X Well)
+       ,
+       (INTJ yes)
+       ,
+       (ADVP perhaps)
+       (PP in
+	   (NP literature))
+       ,
+       (SBAR since
+	     (S (NP you)
+		(AUX could)
+		(VP argue
+		    (SBAR that
+			  (S (NP you)
+			     (X (X (AUX could)
+				   (NEG n't)
+				   (VP keep
+				       (ADJP silent
+					     (PP about
+						 (NP your feelings
+						     (PP against
+							 (NP
+							  literature)))))))
+				and
+				(X (ADVP so)
+				   (AUX were)
+				   (VP involved)
+				   (PP in
+				       (NP spite
+					   (PP of
+					       (NP yourself))))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X But
+      (ADVP now)
+      (NP music)
+      (ADVP too))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (INTJ No)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP That)
+    (AUX would)
+    (VP be
+	(NP  too
+	     much)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP the fault)
+	 ,
+	 (PP of
+	     (NP course))
+	 ,
+	 (VP was
+	     (NP 
+	      (NP Rameau)
+	      's))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The fault)
+   (VP was
+       (NP (NP 
+	    (NP Rameau)
+	    's)
+	   and
+	   (NP that
+	       (PP of
+		   (NP the whole culture
+		       (PP of
+			   (NP this Parisian age))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   For
+   (S (NP it)
+      (VP was
+	  (NP (NP 
+	       (NP Rameau)
+	       's type
+	       (PP of
+		   (NP music)))
+	      (SBAR (WHNP that)
+		    (S (NP he)
+		       (AUX had)
+		       (VP been
+			   (VP trying
+		 
+			       (S (NP *)
+				  (AUX to)
+				  (VP write
+				      (NP T)))))))
+	      ,
+	      and
+	      (SBAR (WHNP that)
+		    (S (NP he)
+		       (AUX could)
+		       (NEG n't)
+		       (VP write
+			   (NP T)))))))) 
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP These little songs)
+  ,
+  (ADVP however)
+  ,
+  (VP were
+      (NP (NP sweet nothings
+	      (PP from
+		  (NP the heart)))
+	  ,
+	  (NP tender memories
+	      (PP of
+		  (NP his childhood)))
+	  ,
+	  (NP (NP little melodies)
+	      (SBAR (WHNP that)
+		    (S (NP anyone)
+		       (AUX could)
+		       (VP hum
+			   (NP T))))
+	      and
+	      (SBAR (WHNP that)
+		    (S  (NP T) 
+			(AUX would)
+			(VP make
+			    (NP one)
+			    (VP want
+				(S (NP *)
+				   (AUX to)
+				   (VP weep))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (X But
+      (INTJ no))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX could)
+   (NEG n't)
+   (VP appear
+       (PP as
+	   (NP a composer)))
+   (ADVP now))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP That glory)
+      ,
+      (VP craved
+	  (PP for
+	      (ADJP  so
+		     long)))
+      ,)
+  (AUX was)
+  (ADVP now)
+  (VP forbidden
+       
+      (PP to
+	  (NP him))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Still)
+      ,
+      (PP  just
+	   for
+	   (NP the ladies))
+      ,
+      and
+      (PP  just
+	   for
+	   (NP this
+	       once))
+      ,
+      (PP for
+	  (NP this one weekend
+	      (PP in
+		  (NP the country))))
+      ,
+      (S (NP he)
+	 (AUX would)
+	 (VP make
+	     (NP a little piece)
+	     (PP out
+		 (PP of
+		     (NP his melodies))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The ladies)
+      (AUX were)
+      (VP delighted
+	  ))
+     and
+     (S (NP Jean Jacques)
+	(AUX was)
+	(VP applauded
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP everyone)
+	 (VP went
+	     (S (NP *)
+		(AUX to)
+		(VP work)
+		(S (NP *)
+		   (AUX to)
+		   (VP learn
+		       (NP (NP the parts)
+			   (SBAR (WHNP which)
+				 (S
+				  (NP he)
+				  (VP wrote
+				      (NP T))))))))))) 
+   .)    
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (ADVP then)
+      ,
+      (PP after
+	  (S (NP the little operetta)
+	     (AUX had)
+	     (VP been
+		 (VP given
+		      
+		     (NP its feeble amateur rendering)))))
+      ,
+      (S (NP everyone)
+	 (VP insisted
+	     (SBAR that
+		   (S (NP it)
+		      (VP was
+			  (ADJP  too
+				good
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (ADJP lost)
+				       (ADVP forever)))))))
+	     ,
+	     and
+	     (SBAR that
+		   (S (NP the Royal Academy
+			  (PP of
+			      (NP Music)))
+		      (AUX must)
+		      (ADVP now)
+		      (VP have
+			  (NP the manuscript)
+			  (SBAR (PP in
+				    (NP order))
+				(S (NP *)
+				   (AUX to)
+				   (VP give
+				       (NP it)
+				       (NP (NP the
+					       (ADJP  really
+						      first-rate) performance)
+					   (SBAR 0
+						 (S
+						  (NP it)
+						  (VP merited
+						      (NP T)))))))))))))) 
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Rousseau)
+   (VP was
+       (ADJP aware
+	     (SBAR that
+		   (S (NP he)
+		      (AUX must)
+		      (VP seem
+			  (PP like
+			      (NP a hypocrite)))
+		      ,
+		      (S (NP *)  
+			 (VP (VP standing
+				 (ADVP there))
+			     and
+			     (VP arguing
+				 (SBAR that
+				       (S (NP he)
+					  (AUX could)
+					  (NEG not)
+					  (VP (ADVP possibly)
+					      permit
+					      (NP a public performance))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ladies)
+   (ADVP especially)
+   (AUX could)
+   (NEG n't)
+   (VP understand
+       (SBAR
+	(WHNP what)
+	(S (NP T)
+	   (VP troubled
+	       (NP him))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP A contradiction)
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (INTJ Bah)
+    ,
+    (SBARQ 
+     (WHNP what)
+     (S (NP T)
+	(VP was
+	    (NP a contradiction
+		(PP in
+		    (NP (NP one)
+			's
+			life)))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Every woman)
+   (AUX has)
+   (VP had
+       (NP the experience
+	   (PP of
+	       (S (NP *)  
+		  (VP (VP saying
+			  (NEG no)
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP she)
+			      (VP meant
+				  (X yes)))))
+		      ,
+		      and
+		      (VP saying
+			  (X yes)
+			  (SBAR 
+			   (WHADVP when)
+			   (S (NP she)
+			      (VP meant
+				  (NEG no)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Rousseau)
+    (VP had
+	(S (NP *)
+	   (AUX to)
+	   (VP admit
+	       (SBAR that
+		     (S (SBAR though
+			      (S (NP he)
+				 (AUX could)
+				 (NEG n't)
+				 (VP agree
+				     (PP to
+					 (NP a public performance)))))
+			,
+			(S (NP he)
+			   (AUX would)
+			   (ADVP indeed)
+			   ,
+			   (PP  just
+				for
+				(NP his
+				    own private
+				    satisfaction))
+			   ,
+			   (VP  (ADVP dearly)
+				love
+				(S (NP *)
+				   (AUX to)
+				   (VP know
+				       (SBAR 
+					(WHADVP how)
+					(S (NP his work)
+					   (AUX would)
+					   (VP sound)
+					   (SBAR (WHADVP when)
+						 (S (NP *)  
+						    (VP done
+							(PP by
+							    (NP professional musicians))
+							and
+							(PP by
+							    (NP trained voices)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP I)
+       (AUX 'd)
+       (ADVP simply)
+       (VP like
+	   (S (NP *)
+	      (AUX to)
+	      (VP know
+		  (SBAR if
+			(S (NP it)
+			   (VP is
+			       (ADJP  as
+				      good
+				      (PP as
+					  (S (NP you
+						 kind people)
+					     (VP seem
+						 (S (NP *)
+						    (AUX to)
+						    (VP think)))))))))))))
+    ''
+    ,
+    (S (NP he)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Duclos)
+      ,
+      (NP the historian)
+      ,)
+  (VP pointed
+      (PRT out)
+      (PP to
+	  (NP Jean Jacques))
+      (SBAR that
+	    (S (NP this)
+	       (VP was
+		   (ADJP impossible))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The musicians
+       (PP of
+	   (NP the Royal Opera)))
+   (AUX would)
+   (NEG not)
+   (VP rehearse
+       (NP a work)
+       (S  (NP *)  
+	   (ADVP merely)
+	   (AUX to)
+	   (VP see
+	       (SBAR 
+		(WHADVP how)
+		(S (NP it)
+		   (AUX would)
+		   (VP sound)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *)  
+    (ADVP Merely)
+    (AUX to)
+    (VP satisfy
+	(NP 
+	 (NP the author)
+	 's curiosity)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Rousseau)
+   (VP agreed))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP he)
+	 (VP recalled
+	     (SBAR that
+		   (S (NP Rameau)
+		      (AUX had)
+		      (ADVP once)
+		      (VP had
+			  (NP a private performance
+			      (PP of
+				  (NP his opera Armide)))
+			  ,
+			  (PP behind
+			      (NP closed doors))
+			  ,
+			  (PP  just
+			       for
+			       (NP himself
+				   (ADVP alone)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Duclos)
+   (VP understood
+       (SBAR
+	(WHNP what)
+	(S (NP T)
+	   (AUX was)
+	   (VP bothering
+	       (NP Rousseau))
+	   :
+	   (SBAR that
+		 (S (NP the writer
+			(PP of
+			    (NP the Prosopopoeia
+				(PP of
+				    (NP Fabricius)))))
+		    (AUX should)
+		    (ADVP now)
+		    (VP become
+			(ADJP known
+			      (PP as
+				  (NP the writer
+				      (PP of
+					  (NP an
+					      (ADJP amusing)
+					      little operetta))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP That)
+   (AUX would)
+   (ADVP certainly)
+   (VP be
+       (ADJP paradoxical)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Duclos)
+	 (VP thought
+	     (SBAR 0
+		   (S (NP he)
+		      (VP saw
+			  (NP a way
+			      (ADVP out))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S  (NP *) 
+	  (VP Let
+	      (NP me)
+	      (VP do
+		  (NP the submitting
+		      (PP to
+			  (NP the Royal Academy))))))
+      ''
+      ,
+      (S (NP he)
+	 (VP suggested)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP Your name)
+      (AUX will)
+      (ADVP never)
+      (VP appear))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No one)
+   (AUX will)
+   (VP (ADVP even)
+       suspect
+       (SBAR that
+	     (S (NP it)
+		(VP is
+		    (NP your work))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (PP To
+	  (NP that))
+      (S (NP Rousseau)
+	 (AUX could)
+	 (VP agree
+	     )))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (X But
+      (ADVP now)
+      (NP (WHNP what)
+	  crazy twists and turns
+	  (PP of
+	      (NP his emotions))))
+   !)
+(!)
+(  END_OF_TEXT_UNIT)
+(  
+ (ADJP Afraid
+       (PP at
+	   (NP one
+	       and
+	       the same time))
+       (SBAR (SBAR that
+		   (S (S (NP his work)
+			 (AUX might)
+			 (VP be
+			     (VP turned
+				 (PRT down))))
+		      --
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (AUX would)
+			  (VP be
+			      (NP a blow
+				  (PP to
+				      (NP his pride))))
+			  (SBAR  even
+				 though
+				 (S (NP no one)
+				    (VP knew
+					(SBAR 0
+					      (S (NP he)
+						 (VP was
+						     (NP the author)))))))))
+		      --))
+	     and
+	     (SBAR (SBAR that
+			 (S (NP the work)
+			    (AUX would)
+			    (VP be
+				(VP accepted
+				    )))))
+	     ,
+	     and
+	     then
+	     (SBAR that
+		   (S (NP his violent feelings
+			  (PP in
+			      (NP the matter)))
+		      (AUX would)
+		      (ADVP certainly)
+		      (VP betray
+		    
+			  (SBAR (ADVP (WHADVP how)
+				      deeply)
+				(SINV (VP concerned)
+				      (NP he)
+				      (AUX was)
+				      (PP in
+					  (NP spite
+					      (PP of
+						  (NP himself)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (X And
+       (SBAR (ADJP (WHADVP how)
+		   anxious)
+	     (S (NP this lover
+		    (PP of
+			(NP obscurity)))
+		(VP was
+		    (PP for
+			(NP applause))))))
+    !)
+(!)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (ADVP thus)
+      (VP torn
+	  (PP between
+	      (NP (NP his desire
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (VP known
+				 (PP as
+				     (NP the composer
+					 (PP of
+					     (NP a successful opera))))))))
+		  and
+		  (NP the necessity
+		      (PP of
+			  (S (NP *)  
+			     (VP remaining
+				 (ADJP true
+				       (PP to
+					   (NP his proclaimed desire
+					       (PP for
+						   (NP anonymity))))))))))))
+      ,
+      (S (NP Rousseau)
+	 (VP suffered
+	     (PP through
+		 (NP several painful weeks)))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All
+       these emotions)
+   (AUX were)
+   (VP screwed
+        
+       (PP up
+	   (PP to
+	       (NP new heights))))
+   (SBAR (WHADVP when)
+	 (S ,
+	    (PP after
+		(NP (NP acceptance)
+		    and
+		    (NP the first rehearsals)))
+	    ,
+	    (S (NP there)
+	       (VP ensued
+		   (NP (NP such
+			   a buzz
+			   (PP of
+			       (NP excitement))
+			   (PP among
+			       (NP Parisian music lovers)))
+		       (SBAR  that
+			     (S (NP Duclos)
+				(VP had
+				    (S (NP *)
+				       (AUX to)
+				       (VP come
+					   (VP running
+					       (PP to
+						   (NP Rousseau))
+					       (S (NP *)
+						  (AUX to)
+						  (VP inform
+						      (NP him)
+						      (SBAR (SBAR that
+								  (S (NP the news)
+								     (AUX had)
+								     (VP reached
+									 (NP the superintendent
+									     (PP of
+										 (NP 
+										  (NP the King)
+										  's amusements))))))
+							    ,
+							    and
+							    (SBAR that
+								  (S (NP he)
+								     (AUX was)
+								     (ADVP now)
+								     (VP
+								      demanding
+								      (SBAR that
+									    (S (NP the work)
+									       (AUX be)
+									       (VP offered
+										   (ADJP first)
+										   (PP at
+										       (NP the royal summer palace
+											   (PP of
+											       (NP Fontainebleau)))))))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP *)  
+    (VP Imagine
+	(NP the honor
+	    (PP of
+		(NP it)))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHNP What)
+    (S (NP T)
+       (VP was
+	   (NP your answer))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jean Jacques)
+   (VP asked)
+   ,
+   (S (NP *)  
+      (VP striving
+	  (S (NP *)
+	     (AUX to)
+	     (VP appear
+		 (ADJP unimpressed))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (S (NP I)
+	 (VP refused))
+      ''
+      ,
+      (S (NP Duclos)
+	 (VP said)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHNP What
+	  else)
+    (SQ  (AUX could)
+	 (NP I)
+	 (VP do
+	     (NP T))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Monsieur De Cury)
+   (AUX was)
+   (VP incensed
+       )
+   ,
+   (PP of
+       (NP course)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP I)
+	 (VP said
+	     (SBAR 0
+		   (S (NP I)
+		      (AUX would)
+		      (ADVP first)
+		      (VP have
+			  (S (NP *)
+			     (AUX to)
+			     (VP get
+				 (NP 
+				  (NP the author)
+				  's permission)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP I)
+	 (VP was
+	     (ADJP certain
+		   (SBAR 0
+			 (S (NP he)
+			    (AUX would)
+			    (VP refuse)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP (WHADVP How)
+	  infuriating)
+    (S (NP all
+	   this)
+       (VP was)))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP Why)
+	(SQ (AUX had)
+	    (NEG not)
+	    (NP this success)
+	    (VP come
+		(PP to
+		    (NP him)))
+	    (PP before
+		(S (NP he)
+		   (AUX had)
+		   (VP plunged
+		       (PP into
+			   (NP his Discourse)))))
+	    ,
+	    and
+	    (PP before
+		(S (NP he)
+		   (AUX had)
+		   (VP committed
+		       (NP himself)
+		       (PP to
+			   (NP a life
+			       (PP of
+				   (NP (NP austerity) 
+				       and 
+				       (NP denial))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (ADVP Now)
+       ,
+       (SBAR 
+	(WHADVP when)
+	(S (NP (NP everything)
+	       (NP-1 *pseudo-attach*))
+	   (AUX was)
+	   (VP opening
+	       (PRT up)
+	       (PP to
+		   (NP him)))
+	   --
+	   (NP-1  even
+		  the court
+		  (PP of
+		      (NP Louis 15))
+		  !)))
+       --
+       (S (NP he)
+	  (VP had
+	      (NP *)
+	      (S (AUX to)
+		 (VP play
+		     (NP a role
+			 (PP of
+			     (NP self-effacement))))))))
+    !
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Back and forth)
+      (S (NP Duclos)
+	 (VP had
+	     (S (NP *)
+		(AUX to)
+		(VP go
+		    ,
+		    (PP (PP between
+			    (NP (NP M. De Cury)
+				and
+				(NP Jean Jacques)))
+			and
+			(PP between
+			    (NP (NP the Duke D'Aumont)
+				and
+				(NP Jean Jacques
+				    (ADVP again))))))))
+	 ,
+	 (SBAR as
+	       (S (NP (NP his little operetta)
+		      ,
+		      (NP The Village Soothsayer))
+		  ,
+		  (SBAR though
+			(ADJP  still
+			       unperformed))
+		  ,
+		  (VP took
+		      (PP on
+			  (NP  ever
+			      (ADJP more)
+			      importance)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (PP of
+	  (NP course))
+      (S (NP the news
+	     (PP of
+		 (SBAR (WHNP who)
+		       (S (NP the composer)
+			  (VP was
+			      (NP T))))))
+	 (AUX did)
+	 (ADVP finally)
+	 (VP begin
+	     (S (NP *)
+		(AUX to)
+		(VP get
+		    (PP around))))
+	 (PP among
+	     (NP his
+		 (ADJP closest)
+		 friends))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP they)
+	 ,
+	 (ADVP naturally)
+	 ,
+	 (VP kept
+	     (NP his secret)
+	     (ADVP well)))
+      ,
+      and
+      (S (NP the public
+	     (PP at
+		 (ADJP large)))
+	 (VP knew
+	     (ADVP only)
+	     (PP of
+		 (NP a great excitement
+		     (PP in
+			 (NP  
+			  (ADJP musical)
+			  and
+			  court circles)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP (WHADVP How)
+	  titillating)
+    (S (NP it)
+       (VP was
+	   (S (NP *)
+	      (AUX to)
+	      (VP go
+		  (PP among
+		      (NP (NP people)
+			  (SBAR (WHNP who)
+				(S (NP T)
+				   (AUX did)
+				   (NEG not)
+				   (VP know
+				       (NP him
+					   (PP as
+					       (NP the composer))))))
+			  ,
+			  but
+			  (SBAR 
+			   (WHNP who)
+			   (S (NP T)
+			      (VP talked
+				  (PP in
+				      (NP the
+					  (ADJP most
+						glowing)
+					  terms))
+				  (PP of
+				      (NP the promise
+					  (PP of
+					      (NP the piece))))
+				  (PP after
+				      (S (NP *)  
+					 (VP having
+					     (VP heard
+						 (NP the first rehearsals)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP The furor)
+        (VP was
+            (NP such
+		(SBAR that
+		      (S (NP (NP people)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (AUX could)
+				      (NEG not)
+				      (ADVP possibly)
+				      (VP have
+					  (VP squirmed
+					      (NP their way)
+					      (PP into
+						  (NP the rehearsals)))))))
+			 (AUX were)
+			 (VP pretending
+			     (SBAR (SBAR that
+					 (S (NP they)
+					    (VP were
+						(ADJP intimate
+						      (PP with
+							  (NP the whole
+							      affair))))))
+				   and
+				   (SBAR that
+					 (S (NP it)
+					    (AUX would)
+					    (VP be
+						(ADJP sensational)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP *)  
+	 (VP listening
+	     (PP to
+		 (NP such
+		     a
+		     conversation)))
+	 (NP  one
+	      morning)
+	 (SBAR while
+	       (S (NP *)  
+		  (VP taking
+		      (NP a cup
+			  (PP of
+			      (NP chocolate)))
+		      (PP in
+			  (NP a cafe))))))
+      ,
+      (S (NP Rousseau)
+	 (VP found
+	     (NP himself)
+	     (VP bathed
+		 (PP in
+		     (NP perspiration)))
+	     ,
+	     (S (NP *)  
+		(VP (VP trembling
+			(SBAR lest
+			      (S (NP his authorship)
+				 (VP become
+				     (ADJP known)))))
+		    ,
+		    and
+		    (PP at
+			(NP the same time))
+		    (VP dreaming
+			(PP of
+			    (NP (NP the startling effect)
+				(SBAR 0
+				      (S
+				       (NP he)
+				       (AUX would)
+				       (VP make 
+					   (NP T))
+				       (SBAR if
+					     (S (NP he)
+						(AUX should)
+						(VP proclaim
+						    (NP himself
+							(PP-2 *pseudo-attach*))
+						    (ADVP suddenly)
+						    (PP-2 as
+							  (NP the composer)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP felt
+       (NP himself)
+       (ADVP now)
+       ,
+       (PP as
+	   (S (NP (NP he)
+		  (NP himself))
+	      (VP says
+		  (PP in
+		      (NP his Confessions)))))
+       ,
+       (PP at
+	   (NP a crucial point
+	       (PP of
+		   (NP his life))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP that)
+	 (VP was
+	     (SBAR (WHADVP why)
+		   ,
+		   (S (PP on
+			  (NP the day
+			      (PP of
+				  (NP the performance))))
+		      ,
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP a carriage
+			      (PP from
+				  (NP the royal stables)))
+			  (VP called
+			      (S (NP *)
+				 (AUX to)
+				 (VP take
+				     (NP him)
+				     (PP to
+					 (NP the palace)))))))
+		      ,
+		      (S (NP he)
+			 (AUX did)
+			 (NEG not)
+			 (VP bother
+			     (S (NP *)
+				(AUX to)
+				(VP shave)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the contrary))
+    ,
+    (S (NP he)
+       (AUX was)
+       (VP pleased
+	    
+	   (SBAR that
+		 (S (NP his face)
+		    (VP showed
+			(NP a neglect
+			    (PP of
+				(NP several days)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Seeing
+	   (NP him)
+	   (PP in
+	       (NP that condition))
+	   ,
+	   and
+	   (PP about
+	       (S (NP *)
+		  (AUX to)
+		  (VP enter
+		      (NP (NP the hall)
+			  (SBAR 
+			   (WHADVP where)
+			   (S (NP (NP the King)
+				  ,
+				  (NP the Queen)
+				  ,
+				  (NP the
+				      whole royal
+				      family)
+				  and
+				  (NP all
+				      the members
+				      (PP of
+					  (NP the
+					      (ADJP highest)
+					      aristocracy))))
+			      (AUX would)
+			      (VP be
+				  (ADJP present))))))))))
+    ,
+    (S  
+     (NP (NP Grimm)
+	 and
+	 (NP the Abbe Raynal)
+	 and
+	 (NP others))
+     (VP tried
+	 (S (NP *)
+	    (AUX to)
+	    (VP stop
+		(NP him))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (S (NP You)
+     (AUX ca)
+     (NEG n't)
+     (VP go
+	 (ADVP in)
+	 (NP that way)))
+  ''
+     !
+     !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP cried))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ (WHADVP Why)
+	  (NEG not))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jean Jacques)
+   (VP asked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHNP Who)
+    (S (NP T)
+       (AUX is)
+       (VP going
+	   (S (NP *)
+	      (AUX to)
+	      (VP stop
+		  (NP me))))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX have)
+      (NEG n't)
+      (VP dressed
+	  (PP for
+	      (NP the occasion))))
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP pointed
+       (PRT out)
+       (PP to
+	   (NP him))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP I)
+       (AUX 'm)
+       (VP dressed
+	   (PP as
+	       (S (NP I)
+		  (ADVP always)
+		  (VP am)))))
+    ''
+    ,
+    (S (NP Rousseau)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (ADVP  Neither
+	(ADVP better)
+	nor
+	(ADVP worse))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (PP At
+	(NP home))
+    ,
+    (INTJ yes)
+    ''
+    ,
+    (S (NP they)
+       (VP argued)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (S But
+     (ADVP here)
+     (S (NP you)
+	(VP are
+	    (PP in
+		(NP the palace)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP 's
+	(NP the King)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X And
+      (NP Madame De Pompadour))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (SBAR If
+	  (S (NP they)
+	     (VP are
+		 (ADVP here))))
+    ,
+    then
+    (ADVP surely)
+    (S (NP I)
+       (VP have
+	   (NP the right
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (ADVP here))))))
+    ''
+    ,
+    (S (NP Rousseau)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (X And
+     (NP 
+      (ADJP  even
+	     more)
+      right))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBAR Since
+       (S (NP I)
+	  (VP am
+	      (NP the composer))))
+ ''
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (X But
+     (PP in
+	 (NP such
+	     a slovenly condition)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHNP What)
+    (S (NP T)
+       (VP is
+	   (ADJP slovenly)
+	   (PP about
+	       (NP me)))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Rousseau)
+   (VP asked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+  (SQ (VP Is)
+      (NP it
+	  (ADVP because
+		(PP of
+		    (NP my slovenliness))))
+      (SBAR that
+	    (S (NP  hair)
+	       (VP grows
+		   (PP on
+		       (NP my face))))))
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Surely)
+      (S (NP it)
+	 (AUX would)
+	 (VP grow
+	     (ADVP there)
+	     (SBAR whether
+		   (S (NP I)
+		      (VP washed
+			  (NP myself)))
+		   (X or
+		      (NEG not))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADVP (NP A hundred years)
+	  ago)
+    (S (NP I)
+       (AUX would)
+       (VP have
+	   (VP worn
+	       (NP a beard)
+	       (PP with
+		   (NP pride))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP those
+	     (PP without
+		 (NP beards)))
+	 (AUX would)
+	 (VP have
+	     (VP stood
+		 (ADVP out)
+		 (PP as
+		     (NEG not)
+		     (VP dressed
+			 (PP for
+			     (NP the occasion))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP times)
+	 (AUX have)
+	 (VP changed))
+      ,
+      and
+      (S (NP I)
+	 (AUX must)
+	 (VP pretend
+	     (SBAR 0
+		   (S (NP that hair)
+		      (AUX does)
+		      (NEG n't)
+		      (VP grow
+			  (PP on
+			      (NP my face))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP That)
+    (VP 's
+	(NP the fashion)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP fashion)
+	 (VP is
+	     (NP the real king))
+	 (ADVP here)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X (NEG Not)
+      (NP Louis 15)
+      ,
+      ,)
+   (SBAR since
+	 (S (NP  even
+		he)
+            (VP obeys)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      ,
+      (SBAR if
+	    (S (NP you)
+	       (AUX do)
+	       (NEG n't)
+	       (VP mind)))
+      ,
+      (S (NP I)
+	 (AUX should)
+	 (VP like
+	     (S (NP *)
+		(AUX to)
+		(VP hear
+		    (NP my own piece)
+		    (VP performed))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (PP of
+	  (NP course))
+      (PP behind
+	  (NP his boldness))
+      (S
+       (NP he)
+       (AUX did)
+       (NEG n't)
+       (VP feel
+	   (ADJP bold)
+	   (PP at
+	       (NP all)))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP trembled
+       (SBAR lest
+	     (S (NP his piece)
+		(AUX should)
+		(VP fail)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (X And
+       (NP this
+	   (PP in
+	       (NP addition
+		   (PP to
+		       (NP (NP his usual fear
+			       (PP of
+				   (S (NP *)  
+				      (VP being
+					  (PP among
+					      (NP people
+						  (PP of
+						      (NP high society))))))))
+			   ,
+			   (NP his fear
+			       (PP of
+				   (S  (NP *) 
+				       (VP making
+					   (NP some inane or inappropriate remark)))))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((X  And
+     (ADJP  even
+	    deeper
+	    (PP than
+		(NP that)))
+     :)
+    (NP (NP his fear)
+	(SBAR lest
+	      (S (PP in
+		     (NP this closed hall))
+		 (S
+		  (NP he)
+		  (AUX should)
+		  (ADVP suddenly)
+		  (VP itch
+		      (S (NP *)
+			 (AUX to)
+			 (VP relieve
+			     (NP himself))))))))
+    .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (AUX Could)
+      (NP he)
+      (VP walk
+	  (ADVP out))
+      (PP in
+	  (NP the midst
+	      (PP of
+		  (NP his piece)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X (ADVP Here)
+      ,
+      (PP before
+	  (NP the court)))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (PP Before
+     (NP the King))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

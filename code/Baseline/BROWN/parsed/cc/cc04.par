@@ -1,0 +1,2289 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The Theatre-by-the-Sea)
+	,
+	(NP Matunuck)
+	,)
+    (VP presents
+	``
+	(NP King
+	    (PP Of
+		(NP Hearts))
+	    ''
+	    (PP by
+		(NP (NP Jean Kerr)
+		    and
+		    (NP Eleanor Brooke))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (VP Directed
+	(PP by
+	    (NP Michael Murray)))
+    ;
+    ;
+    (NP settings
+	(PP by
+	    (NP William David Roberts))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((X (NP The cast)
+   :))
+(  
+ (S (NP Producer John Holmes)
+    (AUX has)
+    (VP chosen
+	(NP a delightful comedy
+	    (PP for
+		(NP 
+		 (NP his season)
+		 's opener
+		 (PP at
+		     (NP Matunuck))))
+	    (PP in
+		(NP 
+		 (NP Jean Kerr)
+		 's
+		 ``
+		 King
+		 (PP Of
+		     (NP Hearts))
+		 '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The dialogue)
+       (VP is
+	   (ADJP (ADJP sharp)
+		 ,
+		 (ADJP witty) 
+		 and
+		 (ADJP candid))
+	   --
+	   (NP (NP  typical
+		    ``
+		    (S  (NP *) 
+			(AUX do)
+			(NEG n't)
+			(VP eat
+			    (NP the daisies)))
+		    ''
+		    material
+		    --)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX has)
+		   (VP stamped
+		       (NP the author)
+		       (PP throughout
+			   (NP her books and plays))))))))
+    ,
+    and
+    (S (NP it)
+       (VP was
+	   (ADJP obvious))
+       (SBAR that
+	     (S (NP the Theatre-by-the-Sea audience)
+		(VP liked
+		    (NP it))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The story)
+   (VP is
+       (PP of
+	   (NP (NP (NP a famous strip cartoonist)
+		   ,
+		   (NP an arty individual))
+	       ,
+	       (SBAR 
+		(WHNP whose specialty)
+		(S (NP T)
+		   (VP is
+		       (NP the American boy))))
+	       and
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP adopts
+		       (NP a
+			   (ADJP 10-year-old))
+		       (S (NP *)
+			  (AUX to)
+			  (VP provide
+			      (NP him)
+			      (PP with
+				  (NP fresh idea material)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (SBAR 
+	(WHADVP when)
+	(S (NP his troubles)
+	   (VP begin))))
+   ,
+   (S|X (NEG not)
+	(NP *)
+	(AUX to)
+	(VP mention
+	    (NP (NP a fledgling artist)
+		(SBAR (WHNP who)
+		      (S
+		       (NP he)
+		       (VP hires
+			   (NP T))))
+		,
+		and
+		(SBAR 
+		 (WHNP who)
+		 (S (NP T)
+		    (VP turns
+			(PP out
+			    (S (NP *)
+			       (AUX to)
+			       (VP have
+				   (NP ideas
+				       (PP of
+					   (NP his
+					       (ADJP own)))
+				       ,
+				       (PP with
+					   (NP particular respect
+					       (PP to
+						   (NP 
+						    (NP the hero)
+						    's sweetheart-secretary)))))))))))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP John Heffernan)
+	 ,
+	 (VP playing
+	     (NP (NP Larry Larkin)
+		 ,
+		 (NP the cartoonist)))
+	 ,)
+     (VP carries
+	 (NP the show)
+	 (PP in
+	     (NP marvelous fashion))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His portrayal
+       (PP of
+	   (NP an
+	       edgy head-in-the-clouds
+	       artist)))
+   (VP is
+       (ADJP  (ADVP virtually)
+	      flawless)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX may)
+   (VP be
+       (ADJP unfortunate))
+   ,
+   (ADVP perhaps)
+   ,
+   (PP from
+       (NP the standpoint
+	   (PP of
+	       (NP (NP David Hedison)
+		   ,
+		   (NP 
+		    (NP Providence)
+		    's contribution
+		    (PP to
+			(NP Hollywood)))
+		   ,
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (AUX is)
+		       (VP appearing)
+		       (PP by
+			   (NP special arrangement
+			       (PP with
+				   (NP  
+				    20th
+				    Century-Fox)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (NEG Not)
+       (SBAR that
+	     (S (NP Mr. Hedison)
+		(AUX does)
+		(NEG not)
+		(VP make
+		    (NP the
+			(ADJP most)
+			(PP of
+			    (NP his role)))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP does)
+   ,
+   and
+   (ADJP more))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the book)
+	 (AUX is)
+	 (VP written
+	      
+	     (PP around
+		 (NP a
+		     (ADVP somewhat)
+		     dizzy cartoonist))))
+      ,
+      and
+      (S (NP it)
+	 (VP has
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (NP that way))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A word)
+    (AUX should)
+    (VP be
+	(VP said
+	    (PP for
+		(NP (NP Gary Morgan)
+		    ,
+		    (NP (NP a Broadway youngster)
+			(SBAR (WHNP who)
+			      ,
+			      (S (PP as
+				     (NP the adopted son))
+				 ,
+				 (S  (NP T) 
+				     (VP makes
+					 (NP life
+					     (ADJP miserable
+						   (PP (PP for
+							   (NP (NP  nearly
+								    everybody)
+							       and
+							       (NP Larkin
+								   (PP in
+								       (NP particular))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (PP for
+	  (NP (NP his playmate)
+	      ,
+	      (NP Francis Coletta
+		  (PP of
+		      (NP West Warwick)))
+	      ,
+	      (SBAR (WHNP who)
+		    (S (NP T)
+		       (VP has
+			   (NP (NP a bit part)
+			       ,
+			       (NP Billy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the whole))
+    ,
+    (S (NP audiences)
+       (AUX will)
+       (VP like
+	   (NP this performance))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP is
+	  (NP a tremendous book)
+	  ,
+	  (ADJP lively)
+	  ,
+	  (VP  (ADVP constantly)
+	       moving)))
+     ,
+     and
+     (S (NP the Matunuck cast)
+	(VP does
+	    (ADVP well
+		  (PP by
+		      (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Newport Playhouse)
+   (VP presents
+       (NP ``
+	   (NP Epitaph
+	       (PP For
+		   (NP George Dillon)))
+	   ''
+	   (PP by
+	       (NP (NP John Osborne)
+		   and
+		   (NP Anthony Creighton)))
+	   ,
+	   (VP directed
+	       (PP by
+		   (NP Wallace Gray))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((X (NP The cast)
+   :))
+(  
+ (S (NP The
+	angriest young
+	man
+	(PP in
+	    (NP Newport last night)))
+    (VP was
+	(PP at
+	    (NP (NP the Playhouse)
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S  ``
+		     (NP Epitaph
+			 (PP For
+			     (NP George Dillon)))
+		     ''
+		     (VP opened)
+		     (SBAR as
+			   (S (NP the jazz festival)
+			      (VP closed)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  For
+     (S (NP the hero
+	    (PP of
+		(NP this work
+		    (PP by
+			(NP (NP John Osborne)
+			    and
+			    (NP Anthony Creighton))))))
+	(VP is
+	    (NP (NP a chap)
+		(VP embittered
+		    (PP by
+			(NP more
+			    (PP than
+				(NP the lack
+				    (PP of
+					(NP beer))
+				    (PP during
+					(NP a jam session)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP 's
+	 (ADJP mad
+	       (PP at
+		   (NP (NP a world)
+		       (SBAR 0
+			     (S
+			      (NP he)
+			      (AUX did)
+			      (NEG not)
+			      (VP make
+				  (NP T))))))))) 
+  
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Furthermore)
+      ,
+      (S (NP he)
+	 (VP 's
+	     (NP (NP something
+		     (PP of
+			 (NP a scoundrel)))
+		 ,
+		 (NP (NP an artist)
+		     (SBAR (WHNP whose mind and feelings)
+			   (S (NP T)
+			      (VP are
+				  (NP (ADVP all)
+				      finger-tips)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (PP in
+	   (NP contrast
+	       (PP to
+		   (NP (NP the family)
+		       (SBAR (WHPP with
+				   (WHNP whom))
+			     (S
+			      (NP he)
+			      (VP boards)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP (CONJP (NEG not)
+	      only)
+       (VP (VP think)
+	   and
+	   (VP feel)
+	   (NP cliches))
+       but
+       (VP live
+	   (NP cliches))
+       (ADVP as
+	     well)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (PP into
+	   (NP (NP this household)
+	       ,
+	       (NP (NP one)
+		   (VP eroded
+		       (PP by
+			   (NP (NP irritations)
+			       (SBAR (WHNP that)
+				     (S (NP T)  
+					(AUX have)
+					(VP tortured
+					    (NP the souls)
+					    (PP out
+						(PP of
+						    (NP its
+							people))))))))))))
+       ,
+       (SBAR that
+	     (S (NP George Dillon)
+		(VP enters)
+		(PP at
+		    (NP the beginning
+			(PP of
+			    (NP the play))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An unsuccessful playwright and actor)
+    ,
+    (S (NP he)
+       (VP has
+	   (NP faith)
+	   only
+	   (PP (PP in
+		   (NP himself))
+	       and
+	       (PP in
+		   (NP (NP a talent)
+		       (SBAR 0
+			     (S (NP he)
+				(VP is)
+				(NEG not
+				     (ADJP sure
+					   (SBAR 0
+						 (S (NP T)
+						    (VP exists))))))))))))) 
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP the end
+	    (PP of
+		(NP the third act))))
+    ,
+    (S (NP the artist)
+       (VP is
+	   (ADJP dead)))
+    but
+    (S (NP (NP the body)
+	   (NP-1 *pseudo-attach*))
+       (VP lingers
+	   (ADVP on))
+       ,
+       (NP-1 a shell
+	   (PP among
+	       (NP other shells)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP (ADVP (NEG Not)
+		   altogether)
+	     a successful play)
+	 ,
+	 (NP  ``
+	     Epitaph
+	     (PP For
+		 (NP George Dillon))
+	     ''))
+     (VP overcomes
+	 (PP through
+	     (NP sheer vitality and power))
+	 (SBAR (WHNP what)
+	       (S (PP in
+		      (NP a
+			  (ADJP lesser)
+			  work))
+		  (S (NP T)
+		     (AUX might)
+		     (VP be
+			 (ADJP crippling)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP is
+	  (ADJP  (ADVP awfully)
+		 talky))
+      ,
+      (PP for
+	  (NP instance)))
+     ,
+     and
+     (S (NP (NEG not)
+	    all
+	    (PP of
+		(NP the talk)))
+	(VP is
+	    (ADJP  (ADVP terribly)
+		   impressive))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it)
+	 (VP strikes
+	     (NP sparks))
+	 (PP on
+	     (NP occasion)))
+      and
+      (S (NP their light)
+	 (VP causes
+	     (NP all
+		 else)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP forgotten
+			))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP (NP a
+	       fine second
+	       act)
+	   ,
+	   (PP as
+	       (NP an example))
+	   ,
+	   (NP (NP one)
+	       (SBAR (WHPP in
+			   (WHNP which))
+		     (S (NP Samuel Groom
+			    ,
+			    (PP as
+				(NP Dillon))
+			    ,)
+			(VP has
+			    (NP an opportunity)
+			    (S (NP *)
+			       (AUX to)
+			       (VP blaze
+				   (ADVP away)
+				   (PP in
+				       (NP one impassioned passage
+					   (PP after
+					       (NP another)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP an
+	   exciting young
+	   actor
+	   (S (NP *)
+	      (AUX to)
+	      (VP watch)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (SINV (PP  Just
+	      as
+	      (ADJP exciting)
+	      but
+	      (PP in
+		  (NP a
+		      more technically
+		      proficient way)))
+	 (VP is)
+	 (NP (NP Laura Stuart)
+	     ,
+	     (SBAR (WHNP whose complete control
+			 (PP of
+			     (NP her
+				 every movement)))
+		   (S (NP T) 
+		      (VP is
+			  (ADJP lovely
+				(S (NP *)
+				   (AUX to)
+				   (VP watch))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Miss Stuart)
+    (VP is
+	(ADJP  as
+	       (ADVP intensely)
+	       vibrant
+	       (PP as
+		   (S (NP one)
+		      (AUX could)
+		      (VP wish))))
+	,
+	(ADVP almost)
+	(NP (NP an icy shriek)
+	    (VP threatening
+		(S (NP *)
+		   (AUX to)
+		   (VP explode))
+		(PP at
+		    (NP any moment))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      (ADJP fine)
+      (SINV (VP are)
+	    (NP (NP Sue Lawless
+		    ,
+		    (PP as
+			(NP a mother
+			    (ADJP (ADJP  more
+					 protective and belligerent
+					 (PP than
+					     (NP a female spider)))
+				  and
+				  (ADJP  just
+					 as
+					 destructive))))
+		    ,)
+		(NP Harold Cherry
+		    ,
+		    (PP as
+			(NP her scratchy spouse))
+		    ,)
+		and
+		(NP Hildy Weissman
+		    ,
+		    (PP as
+			(NP a vegetable
+			    (PP in
+				(NP human form))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Wallace Gray)
+   (AUX has)
+   (VP directed
+       (NP a difficult play)
+       (ADVP here)
+       ,
+       (ADVP (ADVP usually)
+	     well)
+       ,
+       but
+       (PP with
+	   (NP  just
+		a bit
+		too
+		much physical movement
+		(PP in
+		    (NP the first act)))
+	   (PP for
+	       (NP my taste)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Still)
+      ,
+      (S (NP his finale)
+	 (AUX is)
+	 (VP put
+	     (PRT together)
+	     (PP with
+		 (NP (NP taste)
+		     and
+		     (NP a
+			 (ADJP most sensitive)
+			 projection
+			 (PP of
+			     (NP (NP that pale sustenance)
+				 ,
+				 (NP despair)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Warwick Musical Theater)
+    (VP presents
+	``
+	(NP (SBARQ (WHADVP Where)
+		   (SQ (VP 's)
+		       (NP Charley))
+		   ?
+		   ?
+		   '')
+	    (X (PP With
+		   (NP music and lyrics
+		       (PP by
+			   (NP Frank Loesser))))
+	       ,
+	       (VP directed
+		   (PP by
+		       (NP Christopher Hewett)))
+	       ,
+	       choreography
+		   (PP by
+		       (NP Peter Conlow))
+	       ,
+	       (NP musical direction
+		   (PP by
+		       (NP Samuel Matlowsky)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ ( (NP The cast)
+    :)
+ (S (S (NP Everybody)
+       (VP fell
+	   (PP in
+	       (NP love)
+	       (PP with
+		   (NP Amy))
+	       (ADVP again)))
+       (NP last night)
+       (PP at
+	   (NP the Warwick Musical Theater)))
+    ,
+    and
+    (S (NP Shelley Berman)
+       (VP was
+	   (S (NP *)
+	      (AUX to)
+	      (VP blame)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP One
+	   (PP of
+	       (NP the
+		   finest soft
+		   shoe tunes)))
+       (VP (ADVP ever)
+	   invented)
+       ,
+       ``
+       (NP (ADVP Once
+		 (PP In
+		     (NP Love
+			 (PP With
+			     (NP Amy))))))
+       '')
+   (VP is
+       (ADVP also)
+       ,
+       (PP of
+	   (NP course))
+       ,
+       (NP one
+	   (PP of
+	       (NP the
+		   (ADJP (ADVP most tantalizingly)
+			 persistent)
+		   (PP of
+		       (NP light love lyrics
+			   (S (NP *)
+			      (AUX to)
+			      (VP come
+				  (PP out
+				      (PP of
+					  (NP 
+					   American musical
+					   comedy)))
+				  (PP in
+				      (NP our era)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S   (ADVP So)
+      (S (NP the audience last night)
+	 (VP (VP was
+		 (NP all ears and eyes)
+		 (PP  just
+		      after
+		      (NP Act 2)))
+	     ,
+	     (VP got
+		 (NP (NP a rousing opening chorus)
+		     ,
+		     (NP  ``
+			  (SBARQ (WHADVP Where)
+				 (SQ (VP 's)
+				     (NP Charley)))
+			  ?
+			  ?
+			  '')))))
+      ,
+      and
+      (S (NP Berman)
+	 (VP sifted
+	     (PRT out)
+	     (ADVP all
+		   alone)
+	     (PP on
+		 (NP the stage)))
+	 (PP with
+	     (NP (NP the ambling chords
+		     and
+		     beat
+		     (PP of
+			 (NP the song)))
+		 (S  (NP *) 
+		     (VP  (ADVP just)
+			  whispering
+			  (PP into
+			      (NP being))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (PP  (ADVP greatly)
+	    to
+	    (NP 
+	     (NP Berman)
+	     's credit)))
+   (SBAR that
+	 (S (NP he)
+	    (VP made
+		(NP no attempt
+		    (S (NP *)
+		       (AUX to)
+		       (VP outdo
+			   (NP Ray Bolger))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP dropped
+	   (NP (NP his
+		   earlier
+		   and
+		   delightful hamming)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP is
+		       (PP about
+			   (NP the only way
+			       (S (NP *)
+				  (AUX to)
+				  (VP handle
+				      (NP (NP the old war horse)
+					  (VP called
+					      (NP  ``
+						   (NP Charley)
+						   's Aunt
+						   ''))))))))))))
+       ,
+       and
+       (VP let
+	   (NP himself)
+	   (VP go
+	       (PP with
+		   (NP (ADJP  
+			as
+			appealing)
+		       an
+		       ``
+		       Amy
+		       ''
+		       (PP as
+			   (S (NP anybody)
+			      (AUX could)
+			      (VP ask)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP brief))
+    ,
+    (S (NP Berman)
+       (VP played
+	   (NP himself)
+	   and
+	   (NEG not)
+	   (NP Bolger))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The big audience)
+    (VP started
+	(VP applauding))
+    (ADVP even)
+    (PP before
+	(S (NP he)
+	   (AUX had)
+	   (VP finished))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The whole production)
+     (NP this week)
+     (VP is
+	 (ADJP (ADJP fresh) 
+	       and 
+	       (ADJP lively))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The costumes)
+   (VP are
+       (NP stunning evocations
+	   (PP of
+	       (NP the voluminous gowns and picture hats
+		   (PP of
+		       (NP the Gibson Girl days)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ballet work)
+   (VP is
+       (PP on
+	   (NP the nose)))
+   ,
+   (ADVP especially)
+   (PP in
+       (NP the opening number
+	   (PP by
+	       (NP  ``
+		    The New Ashmolean Marching Society
+		    and
+		    Students
+		    '
+		    Conservatory Band
+		    ''))
+	   ,
+	   (PP along
+	       (PP with
+		   (NP a
+		       fiery and sultry Brazilian
+		       fantasia)
+		   (ADVP later))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Berman)
+	,
+	(SBAR (WHNP whose fame)
+	      (S (NP T)
+		 (AUX has)
+		 (VP rested
+		     (PP in
+			 (NP recent years))
+		     (PP on
+			 (NP his skills
+			     (PP as
+				 (NP a night club monologist)))))))
+	,)
+    (VP proved
+	(NP himself)
+	(PP (ADVP very
+		  much)
+	    at
+	    (NP home))
+	(PP in
+	    (NP musical comedy))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP Sparrow-size Virginia Gibson)
+	 ,
+	 (PP with
+	     (NP (NP (VP sparkling)
+		     blue eyes)
+		 and
+		 (NP a cheerful smile)))
+	 ,)
+     (VP made
+	 (NP a
+	     (ADJP  (ADVP suitably)
+		    perky)
+	     Amy))
+     ,
+     (SBAR while
+	   (S (NP (NP Melisande Congdon)
+		  ,
+		  (PP as
+		      (NP the real aunt))
+		  ,)
+	      (VP was
+		  (ADJP  (ADVP positively)
+			 monumental
+			 (PP in
+			     (NP the
+				 (ADJP  very
+					best)
+				 Gibson Girl manner)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP All)
+       (VP told))
+    ,
+    (S  (NP ``
+	    (SBARQ (WHADVP Where)
+		   (SQ (VP 's)
+		       (NP Charley)))
+	    ?
+	    ?
+	    '')
+	(VP Ought
+	    (NEG not)
+	    (S (AUX to)
+	       (VP be
+		   (VP missed
+		       ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP has
+       (NP (NP a fast pace)
+	   ,
+	   (NP excellent music)
+	   ,
+	   (NP expert direction)
+	   ,
+	   and
+	   (NP (CONJP (NEG not)
+		      only)
+	       (NP a good comedian)
+	       ,
+	       but
+	       (NP (NP an appealing person
+		       (PP in
+			   (NP his own right)))
+		   ,
+		   (NP Mr. Berman))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Broadway Theater League
+	(PP of
+	    (NP Rhode Island)))
+    (VP presents
+	(NP 
+	 (NP C. Edwin Knill)
+	 's
+	 and
+	 (NP Martin Tahse)
+	 's production
+	 (PP of
+	     ``
+	     (NP Fiorello)
+	     !
+	     ''))
+	(PP At
+	    (NP Veterans Memorial Auditorium))))
+ !
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The book)
+      (VP is
+	  (PP by
+	      (NP (NP Jerome Weidman)
+		  and
+		  (NP George Abbott)))))
+     ,
+     (X  (NP music)
+	 (PP by
+	     (NP Jerry Bock)))
+     ,
+     (X (NP lyrics)
+	(PP by
+	    (NP Sheldon Harnick)))
+     ,
+     (X (NP choreography)
+	(PP by
+	    (NP Peter Gennaro)))
+     ,
+     (X (NP (NP scenery)
+	    ,
+	    (NP costumes)
+	    and
+	    (NP lighting))
+	(PP by
+	    (NP William
+		and
+		Jean Eckart)))
+     ,
+     (X (NP musical direction)
+	(PP by
+	    (NP Jack Elliott)))
+     ,
+     and
+     (S (NP the production)
+	(AUX was)
+	(VP directed
+	     
+	    (PP by
+		(NP Mr. Abbott)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The cast)
+   :)
+(  
+ (S (NP This)
+    (VP is
+	(NP one
+	    (PP of
+		(NP the
+		    (ADJP happier)
+		    events
+		    (PP of
+			(NP the season)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP The company)
+	   (SBAR (WHNP which)
+		 (S (NP T)
+		    (VP (VP performed
+			    (NP the Pulitzer Prize
+				musical)
+			    (ADVP here)
+			    (NP  last
+				 night))
+			and
+			(X (AUX will)
+			   (VP repeat
+			       (NP it)
+			       (ADVP twice))
+			   (NP today))))))
+       (VP is
+	   (ADJP full
+		 (PP of
+		     (NP bounce)))))
+    ,
+    (S (NP the politicians)
+       (VP are
+	   (PP in
+	       (NP fine voice))))
+    ,
+    (S (NP the chorines)
+       (VP evoke
+	   (NP happy memories)))
+    ,
+    and
+    (S (NP the Little Flower)
+       (VP rides
+	   (S (NP *)
+	      (AUX to)
+	      (VP break
+		  (NP a lance)))
+	   (ADVP again))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP I)
+       (VP saw
+	   ``
+	   (NP Fiorello)
+	   !
+	   ''
+	   (VP Performed
+	       (PP in
+		   (NP New York))
+	       (PP by
+		   (NP the original cast)))))
+    and
+    (S (NP I)
+       (VP think
+	   (SBAR 0
+		 (S (NP this company)
+                    (VP is
+                        (NP every bit
+			    (ADJP  as
+				   good))
+			,
+			and
+			(ADVP perhaps)
+			(ADJP better)))))))
+ !
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Certainly)
+      (PP in
+	  (NP the matter
+	      (PP of
+		  (NP principals))))
+      (S
+       (NP there)
+       (VP is
+	   (NP (NP nothing)
+	       (VP lacking)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Bob Carroll)
+       (AUX may)
+       (NEG not)
+       (VP bear
+	   (NP (ADJP quite
+		     as
+		     close)
+	       a physical resemblance
+	       (PP to
+		   (NP LaGuardia))
+	       (PP as
+		   (S (NP Tom Bosley)
+		      (VP does))))))
+    ,
+    but
+    (S (NP I)
+       (AUX was)
+       (VP amazed
+	    
+	   (PP at
+	       (NP (NP the way)
+		    (SBAR 0
+			  (S (NP he)
+			     (VP became
+				 (ADVP (ADVP more)
+				       and
+				       (ADVP more))
+				 (NP Fiorello)
+				 (PP as
+				     (S (NP the evening)
+					(VP progressed)))
+				 ,
+				 (PP until
+				     (S (NP one)
+					(VP had
+					    (S (NP *)
+					       (AUX to)
+					       (VP (VP catch
+						       (NP  (NP one)
+							    's
+							    self)
+						       (PRT up))
+						   and
+						   (VP remember
+						       (SBAR that
+							     (S (NP this)
+								(VP was
+								    (NEG n't)
+								    (ADVP really)
+								    (NP LaGuardia)
+								    (VP come
+									back
+									(PP among
+									    (NP us))
+									(ADVP again)))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP Rudy Bond)
+	 (VP was
+	     (ADJP  (ADVP simply)
+		    grand)
+	     (PP as
+		 (NP (NP Ben)
+		     ,
+		     (NP the
+			 (ADJP distraught)
+			 Republican Party district chieftain))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP (NP Paul Lipson)
+	     ,
+	     (PP as
+		 (NP (NP Morris)
+		     ,
+		     (NP (NP the
+			     (ADJP faithful)
+			     one)
+			 (SBAR (WHNP who)
+			       (S  (NP T) 
+				   (ADVP never)
+				   (VP gets
+				       (NP home
+					   (PP to
+					       (NP 
+						(NP his Shirley)
+						's dinner)))))))
+		     ,)))
+	 (VP was
+	     (ADJP fine)
+	     ,
+	     (ADVP too))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(PP for
+	    (NP the ladies)))
+    ,
+    (S (NP they)
+       (VP were
+	   (ADJP full
+		 (PP of
+		     (NP (NP charm)
+			 ,
+			 and
+			 (NP sincerity)
+			 ,
+			 and
+			 (NP deep and abiding affection
+			     (PP for
+				 (NP this
+				     hurrying driving
+				     ,
+				     honest
+				     ,
+				     little man)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Charlotte Fairchild)
+   (VP was
+       (ADJP excellent)
+       (PP as
+	   (NP (NP the
+		   (ADJP loyal)
+		   Marie)
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP became
+		       (NP the
+			   (ADJP second)
+			   Mrs. LaGuardia)))))))
+   ,
+   (S  (NP *) 
+       (VP (VP singing)
+	   and
+	   (VP acting)
+	   (PP with
+	       (NP remarkable conviction)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Jen Nelson)
+	,
+	(PP as
+	    (NP (NP Thea)
+		,
+		(NP his first wife)))
+	,)
+    (VP managed
+	(S (NP *)
+	   (AUX to)
+	   (VP make
+	       (NP that short role)
+	       (ADJP impressive)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP (NP  (ADJP little)
+		  Zeme North)
+	     ,
+	     (NP a Dora
+		 (PP with
+		     (NP real spirit and verve)))
+	     ,)
+	 (VP was
+	     (ADJP fascinating))
+	 (SBAR whether
+	       (S (NP she)
+		  (AUX was)
+		  (VP (VP singing
+			  (PP of
+			      (NP her love
+				  (PP for
+				      (NP (NP Floyd)
+					  ,
+					  (NP (NP the cop)
+					      (SBAR (WHNP who)
+						    (S (NP T)
+						       (VP (VP becomes
+							       (NP sewer commissioner))
+							   and
+							   then
+							   (X (AUX is)
+							      (VP promoted
+        
+								  (PP into
+								      (NP garbage)))))))))))))
+		      ,
+		      or
+		      (VP (ADVP just)
+			  dancing
+			  (S (NP *)
+			     (AUX to)
+			     (VP display
+				 (NP her exuberant feelings)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Such fascinating
+	   novelties
+	   (PP in
+	       (NP the score))
+	   (PP as
+	       (NP the fugual treatment
+		   (PP of
+		       ``
+		       (PP On
+			   (NP The Side
+			       (PP Of
+				   (NP The Angels))))
+		       ''
+		       and
+		       ``
+		       (NP Politics And Poker)
+		       ''))))
+       (AUX were)
+       (VP handled
+	   (ADVP splendidly)))
+    ,
+    and
+    (S (NP I)
+       (VP thought
+	    (SBAR 0
+		  (S (NP (NP Rudy Bond)
+			 and
+			 (NP his band
+			     (PP of
+				 (NP tuneful ward-heelers))))
+		     (VP made
+			 (NP  ``
+			      Little Tin Box
+			      '')
+			 (ADVP even
+			       better
+			       (PP than
+				   (S (NP it)
+				      (AUX was)
+				      (VP done
+				    
+					  (PP by
+					      (NP the New York cast)))))))))))
+    ;
+    ;
+    (S (NP all
+	   the words
+	   (PP of
+	       (NP its clever lyrics)))
+       (VP came
+	   (PP through)
+	   (PP with
+	       (NP perfect clarity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The party
+       (PP at
+	   (NP 
+	    (NP Floyd)
+	    's penthouse)))
+   (VP gave
+       (NP the
+	   ``
+	   chorines
+	   '')
+       (NP a chance
+	   (PP for
+	       (NP a nostalgic frolic
+		   (PP through
+		       (NP (NP all
+			       those hackneyed routines)
+			   (SBAR (WHNP which)
+				 (S (NP T)
+				    (AUX have)
+				    (VP become
+					(NP a
+					    classic choreographic
+					    statement
+					    (PP of
+						(NP 
+						 (NP the era)
+						 's nonsense)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP (NP 
+	  (NP LaGuardia)
+	  's multi-lingual rallies)
+	 ,
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP he)
+	     (AUX is)
+	     (VP running
+		 (PP for
+		     (NP Congress)))))
+	 ,)
+     (X (X (AUX are)
+	   (VP  (ADVP well)
+		staged
+		))
+	,
+	and
+	(VP wind
+	    (PRT up)
+	    (PP in
+		(NP (NP a
+			(ADJP wild)
+			Jewish folk-dance)
+		    (SBAR (WHNP that)
+			  (S (NP T)  
+			     (VP is
+				 (NP (ADJP (ADVP really)
+					   great) musical
+				       theater)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Martin Tahse)
+   (AUX has)
+   (VP established
+       (NP  quite
+	   a reputation
+	   (PP for
+	       (NP himself))
+	   (PP as
+	       (NP a successful stager
+		   (PP of
+		       (NP (VP touring)
+			   productions)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Not
+	a corner)
+        (AUX has)
+	(VP been
+	    (ADVP visibly)
+	    (VP cut
+		))
+	(PP in
+	    (NP this one)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The sets)
+      (VP are
+	  (ADJP  (ADVP remarkably)
+		 elaborate
+		 (PP for
+		     (NP (NP a road-show)
+			 (SBAR (WHNP that)
+			       (S (NP T)  
+				  (AUX does)
+				  (NEG n't)
+				  (VP pause
+				      (ADVP long)
+				      (PP in
+					  (NP any one place))))))))))
+     ,
+     and
+     (S (NP they)
+	(AUX are)
+	(VP devised
+	     
+	    (ADVP so
+		  (SBAR that
+			(S (NP they)
+			   (VP shift)
+			   (PP with
+			       (NP a minimum
+				   (PP of
+				       (NP (NP interruption)
+					   or
+					   (NP obtrusiveness)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP Several times)
+      (ADVP recently)
+      (S 
+       (NP I)
+       (AUX have)
+       (VP wondered
+	   (SBAR whether
+		 (S (NP shows)
+		    (AUX were)
+		    (VP being
+			(VP staged
+		       
+			    (PP for
+				(NP the sake
+				    (PP of
+					(NP the script))))
+			    or
+			    (ADVP just)
+			    (S (NP *)
+			       (AUX to)
+			       (VP entertain
+				   (NP the audience)
+				   (PP with
+				       (NP the spectacle
+					   (PP of
+					       (S (NP (NP scenery)
+						      (VP being
+							  (VP shifted
+							      (PP  right
+								   in
+								   (NP front
+								       (PP of
+									   (NP their eyes))))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (VP 'm
+	(ADJP glad
+	      (S (NP *)
+		 (AUX to)
+		 (VP say
+		     (SBAR 0
+			   (S (NP there)
+			      (VP 's
+				  (NP none
+				      (PP of
+					  (NP that distraction))))
+			      (PP in
+				  (NP this
+				      ``
+				      Fiorello
+				       !
+				      '')))))))))
+ !
+ *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP It)
+       (AUX has)
+       (ADVP all)
+       (VP been
+	   (VP done
+	     
+	       (PP in
+		   (NP superb style)))))
+    ,
+    and
+    (S (NP the result)
+       (VP is
+	   (NP (NP a show)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(VP deserves
+			    (NP the support
+				(PP of
+				    (NP (NP every person
+					    (ADVP hereabouts))
+					(SBAR 
+					 (WHNP who)
+					 (S (NP T)
+					    (VP enjoys
+						(NP 
+						 (ADJP good musical)
+						 theater))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Loew)
+    's theater)
+   (VP presents
+       (NP (NP ``
+	       (S (WHADVP Where)
+		  (S (NP The Boys)
+		     (VP Are)))
+	       '')
+	   ,
+	   (NP (NP an MGM picture)
+	       (VP (VP produced
+		       (PP by
+			   (NP Joe Pasternak)))
+		   and
+		   (VP directed
+		       (PP by
+			   (NP Henry Levin)))
+		   (PP from
+		       (NP a screenplay
+			   (PP by
+			       (NP George Wells)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP The cast)
+   :)
+(  
+ (S  (SBAR Since
+	   (S (NP (NP the hero)
+		  ,
+		  (NP a
+		      sterling
+		      and
+		      upright
+		      fellow)
+		  ,)
+	      (VP is
+		  (NP a
+		      (ADJP rich)
+		      Brown senior))))
+     ,
+     (SBAR while
+	   (S (NP two Yalies)
+	      (AUX are)
+	      (VP cast
+		     
+		  (PP as
+		      (NP virtual rapists)))))
+     ,
+     (S (NP I)
+	(VP suppose
+	    (SBAR 0
+		  (S (NP I)
+		     (AUX should)
+		     (VP disqualify
+			 (NP myself
+			     (PP from
+				 (S (NP *)  
+				    (VP sitting
+					(PP in
+					    (NP judgment
+						(PP on
+						    (NP ``
+							(S (WHADVP Where)
+							   (S (NP The Boys)
+							      (VP Are)))
+							'')))))))))))))
+     ,
+     but
+     (S (NP I)
+	(AUX shall)
+	(VP do
+	    (NP nothing
+		(PP of
+		    (NP the sort))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Instead)
+      --
+      and
+      (NEG not)
+      (ADVP just)
+      (S (NP *)
+	 (AUX to)
+	 (VP prove
+	     (NP my objectivity)))
+      --
+      (S (NP I)
+	 (VP hasten
+	     (S (NP *)
+		(AUX to)
+		(VP report
+		    (SBAR (SBAR that
+				(S (NP it)
+				   (VP 's
+				       (NP (NP a
+					       (ADJP (ADVP highly)
+						     amusing) film)
+					   (SBAR (WHNP which)
+						 (S  (NP T) 
+						     (ADVP probably)
+						     (VP does
+							 (NP a
+							     (ADJP (ADVP fairly)
+								   accurate) job
+							     (PP of
+								 (S  (NP *) 
+								     (VP reporting
+									 (PP on
+									     (NP
+									      the Easter vacation shenanigans
+									      (PP of
+										  (NP collegians))
+									      (PP down
+										  (PP in
+										      (NP Fort Lauderdale))))))))))))))))
+			  ,
+			  and
+			  (SBAR that
+				(S (NP it)
+				   (VP seems
+				       (S (NP *)
+					  (AUX to)
+					  (VP come
+					      (PP to
+						  (NP grips))
+					      (ADVP quite
+						    honestly)
+					      (PP with
+						  (NP (NP (NP the moral problem)
+							  (SBAR (WHNP that)
+								(S (NP T)  
+								   (ADVP most commonly)
+								   (VP vexes
+								       (NP
+									youngsters
+									(PP in
+									    (NP this age group)))))))
+						      --
+						      (S (NP that)
+							 (VP is
+							     (S (NP *)
+								(AUX to)
+								(VP say))
+							     ,))
+						      (NP sex))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The answers)
+	 (SBAR 0
+	       (S (NP the girls)
+		  (VP give
+		      (NP T)))))
+     (VP struck
+	 (NP me)
+	 (PP as
+	     (ADJP (ADJP (ADVP reasonably)
+			 varied)
+		   and
+		   (ADJP (ADVP healthily)
+			 individual)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR If
+	 (S (NP most
+		(PP of
+		    (NP them)))
+	    (VP were
+		(NEG n't)
+		(ADVP exactly)
+		(ADJP specific))))
+   --
+   (INTJ well)
+   ,
+   (S (NP that)
+      (VP 's
+	  (NP (NP the way)
+	      (SBAR 0
+		    (S
+		     (NP it)
+		     (VP is
+			 (PP in
+			     (NP life))))))))
+   ,
+   (S (NP I)
+      (VP guess)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP at
+	  (ADJP least))
+      (S (NP it)
+	 (VP 's)
+	 (VP reassuring
+	     (S (NP *)
+		(AUX to)
+		(VP see
+		    (NP (NP some teenagers)
+			(SBAR (WHNP who)
+			      (S (S (NP T)
+				    (AUX do)
+				    (NEG n't)
+				    (VP profess
+					(S (NP *)
+					   (AUX to)
+					   (VP know
+					       (NP all
+						   the answers)))))
+				 and
+				 (S (NP T)  
+				    (AUX are)
+				    (VP thinking
+					(PP about
+					    (NP their problems)))
+				    (ADVP instead))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP ``
+	 (S  (WHADVP Where) 
+	     (S (NP The Boys)
+		(VP Are)) 
+	     ''))
+     (ADVP also)
+     (VP has
+	 (NP (NP a juvenile bounce)
+	     (SBAR that
+		   (S (NP T)  
+		      (VP makes
+			  (PP for
+			      (NP a refreshing venture
+				  (PP in
+				      (NP comedy))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP some sharp and whipping lines)
+	   and
+	   (NP (NP some
+		   hilariously
+		   funny situations)
+	       --
+	       (NP (NP the
+		       (ADJP best
+			     (PP of
+				 (NP the latter))))
+		   (S  (NP *) 
+		       (VP being
+			   (NP a mass impromptu plunge
+			       (PP into
+				   (NP (NP a nightclub tank)
+				       (SBAR 
+					(WHADVP where)
+					(S (NP a
+					       ``
+					       mermaid
+					       '')
+					   (AUX is)
+					   (VP performing)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP Most
+	 (PP of
+	     (NP the female faces)))
+     (VP are
+	 (ADJP new)
+	 ,
+	 or
+	 (PP at
+	     (ADJP least))
+	 (ADJP (NEG not)
+	       too
+	       familiar)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+  (S (NP Dolores Hart)
+     ,
+     (VP is
+	 (ADJP charming
+	       (PP in
+		   (NP a leading role)))
+	 ,
+	 and
+	 (ADJP  (ADVP quite)
+		believable)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP was
+       (ADJP delighted)
+       (PP with
+	   (NP (NP 
+		(NP Paula Prentiss)
+		' comedy performance)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP was
+		       (ADJP  as
+			     fresh and unstilted
+			     (PP as
+				 (S (NP  (NP one)
+					 's
+					 (ADJP highest)
+					 hopes)
+				    (AUX might)
+				    (VP ask)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A couple
+	   (PP of
+	       (NP the males)))
+       (NP-1 *pseudo-attach*))
+   (VP made
+       (NP good comedy)
+       ,
+       (ADVP too))
+   --
+   (NP-1 (NP Jim Hutton)
+       and
+       (NP Frank Gorshin)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (NP The only performance)
+	    (SBAR (WHNP which))
+	    (S (NP T)
+	       (VP was
+		   (ADJP  (ADVP too)
+			  soft)
+		   (PP for
+		       (NP me)))))
+	(VP was
+	    (NP that
+		(PP of
+		    (NP Yvette Mimieux)))))
+     ,
+     but
+     (SBAR since
+	   (S (NP someone)
+	      (VP had
+		  (S (NP *)
+		     (AUX to)
+		     (VP become
+			 (NP the victim
+			     (PP of
+				 (NP despoilers))))))
+	      ,
+	      (ADVP just)
+	      (S (NP *)
+		 (AUX to)
+		 (VP emphasize
+		     (SBAR that
+			   (S (NP such things)
+			      (AUX do)
+			      (VP happen)
+			      (PP at
+				  (NP these fracases))))))))
+     ,
+     (S (NP I)
+	(VP suppose
+	    (SBAR 0
+		  (S (NP this)
+		     (VP was
+			 (NP (NP the attitude)
+			     (SBAR 0
+				   (S (NP the part)
+				      (VP called
+					  (PP for)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX must)
+   (VP say
+       ,
+       (ADVP however)
+       ,
+       (SBAR that
+	     (S (NP I)
+		(VP preferred
+		    (NP (NP the acting)
+			(SBAR (WHNP that)
+			      (S (NP T)  
+				 (VP had
+				     (NP something
+					 (PP of
+					     (NP a biting edge)))
+				     (PP to
+					 (NP it)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP To
+	(NP (NP anyone)
+	    (SBAR (WHNP who)
+		  (S (NP T)
+		     (VP remembers
+			 (NP Newport)
+			 (PP at
+			     (NP its
+				 (NP (ADJP less
+					   (PP than
+					       (NP maximum)))
+				      violence))))))))
+    ,
+    (S (NP this view
+	   (WHPP of
+		 (SBAR (WHNP what)
+		       (S (NP the boys and girls)
+			  (VP do
+			      (NP T)
+			      (PP in
+				  (NP the springtime))
+			      (PP before
+				  (S (NP they)
+				     (VP wing
+					 (ADVP north)
+					 (PP for
+					     (NP the Jazz Festival))))))))))
+       (VP ought
+	   (S (NP *)  
+	      (AUX to)
+	      (VP prove
+		  (ADJP entertaining)))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The second feature)
+      ,
+      ``
+      (NP The Price 
+	  (PP Of
+	      (NP Silence)))
+      ''
+      ,)
+    (VP is
+	(NP (NP a British detective story)
+	    (SBAR (WHNP that)
+		  (S  (NP T) 
+		      (AUX will)
+		      (VP talk
+			  (NP your head)
+			  (PRT off)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

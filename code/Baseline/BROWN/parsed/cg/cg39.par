@@ -1,0 +1,2405 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP Harold Arlen)
+	 (VP returned
+	     (PP to
+		 (NP California)))
+	 (PP in
+	     (NP the winter
+		 (PP of
+		     (NP 1944))))))
+     ,
+     (S (NP it)
+	(VP was
+	    (S (NP *)
+	       (AUX to)
+	       (VP take
+		   (PRT up)
+		   (ADVP again)
+		   (NP (NP a collaboration
+			   (PP with
+			       (NP Johnny Mercer)))
+		       ,
+		       (VP begun
+			   (NP some years
+			       (PP before)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The film)
+	(SBAR 0
+	      (S (NP they)
+		 (VP did
+		     (NP T) )
+		 (PP after
+		     (NP his return)))))
+    (VP was
+	(NP (NP an inconsequential bit
+		(PP of
+		    (NP nothing)))
+	    (VP titled
+		(NP (NP Out
+			(PP Of
+			    (NP This World)))
+		    ,
+		    (NP a satire
+			(PP on
+			    (NP the Sinatra bobby-soxer craze))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The twist)
+   (VP lay
+       (PP in
+	   (S  (NP *)  
+	       (VP using
+		   (NP 
+		    (NP Bing Crosby)
+		    's voice)
+		   (PP on
+		       (NP the sound track)))
+	       (SBAR while
+		     (S (NP (NP leading man)
+			    (NP Eddie Bracken))
+			(VP mouthed
+			    (NP the words))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP If
+	(NP nothing
+	    else))
+    ,
+    (S (NP (NP (PP at
+		   (ADJP least))
+	       two good songs)
+	   (NP-1 *pseudo-attach*))
+       (VP came
+	   (ADVP  out
+		  (PP of
+		      (NP the project))))
+       ,
+       (NP-1 (NP  ``
+		  (PP Out
+		      (PP Of
+			  (NP This World)))
+		  '')
+	     and
+	     (NP  ``
+		  (S (NP June)
+		     (VP Comes
+			 (ADVP Around)
+			 (NP Every Year)))
+		  ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  Though
+	    (S (NP they)
+	       (AUX would)
+	       (VP produce
+		   (NP some
+		       (ADJP very
+			     memorable and lasting) songs))))
+     ,
+     (S (NP (NP Arlen)
+	    and
+	    (NP Mercer))
+	(AUX were)
+	(NEG not)
+	(VP given
+	    (NP strong material
+		(S (NP *)
+		   (AUX to)
+		   (VP work
+		       (PP on)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their first collaboration)
+   (VP came
+       (ADJP close)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Early
+	    (PP in
+		(NP 1941)))
+      (S (NP they)
+	 (AUX were)
+	 (VP assigned
+	        
+	     (PP to
+		 (NP (NP a script)
+		     (VP titled
+			 (NP Hot Nocturne)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP (VP purported
+	      (S (NP *)
+		 (AUX to)
+		 (VP be
+		     (NP a
+			 (ADJP (ADVP reasonably)
+			       serious) attempt
+			 (PP at
+			     (NP (NP a treatment
+				     (PP of
+					 (NP jazz musicians)))
+				 ,
+				 (NP (NP their aims)
+				     ,
+				     (NP their problems)
+				     --
+				     (NP the tug-of-war
+					 (PP between
+					     (NP (NP the
+						     (ADJP  ``
+							    pure
+							    ''))
+						 and
+						 (NP the
+						     (ADJP  ``
+							    commercial
+							    '')))))
+				     --)))))))
+	  and
+	  (VP seemed
+	      (NP a promising vehicle))))
+     ,
+     for
+     (S (NP the two men)
+	(VP shared
+	    (NP a common interest
+		(PP in
+		    (NP jazz))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Johnny Mercer)
+   (ADVP practically)
+   (VP grew
+       (PRT up)
+       (PP with
+	   (NP the sound
+	       (PP of
+		   (NP (NP jazz)
+		       and
+		       (NP the blues)))
+	       (PP in
+		   (NP his ears))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX was)
+   (VP born
+	     
+       (PP in
+	   (NP (NP Savannah)
+	       ,
+	       (NP Georgia)
+	       ,))
+       (PP in
+	   (NP 1909))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP His father)
+	,
+	(NP George A.
+	    Mercer)
+	,)
+    (AUX was)
+    (VP descended
+	  
+	(PP from
+	    (NP (NP an
+		    (ADJP honored)
+		    (ADJP  Southern)
+		    family)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (AUX could)
+			 (VP trace
+			     (NP its ancestry)
+			     (ADVP back
+				   (PP to
+				       (NP (NP one
+					       Hugh Mercer)
+					   ,
+					   (SBAR 
+					    (WHNP who)
+					    (S (NP T)
+					       (AUX had)
+					       (VP emigrated
+						   (PP from
+						       (NP Scotland)))
+					       (PP in
+						   (NP 1747))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The lyricist)
+    's father)
+   (VP was
+       (NP (NP a lawyer)
+	   (SBAR
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX had)
+	       (VP branched
+		   (PRT out)
+		   (PP into
+		       (NP real estate))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP His second wife)
+	,
+	(NP Lillian)
+	,)
+    (VP was
+	(NP the mother
+	    (PP of
+		(NP John H. Mercer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP the age
+	    (PP of
+		(NP six))))
+    (S (NP (ADJP young)
+	   Johnny)
+       (VP indicated
+	   (SBAR that
+		 (S (NP he)
+		    (VP had
+			(NP the call)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP One day)
+    (S
+     (NP he)
+     (VP (VP followed
+	     (NP (NP the Irish Jasper Greens)
+		 ,
+		 (NP the town band)
+		 ,)
+	     (PP to
+		 (NP a picnic)))
+	 and
+	 (VP spent
+	     (NP the entire day)
+	     (S (NP *)
+		(VP listening))))
+     ,
+     (SBAR while
+	   (S (NP his family)
+	      (VP spent
+		  (NP the day)
+		  (S (NP *)
+		     (VP looking)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The disappearance)
+   (VP caused
+       (NP his family)
+       (S (NP *)
+	  (AUX to)
+	  (VP assign
+	      (NP a full-time maid)
+	      (PP to
+		  (S  (NP *)
+		      (VP keeping
+			  (NP an eye)
+			  (PP on
+			      (NP the boy)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (NP one afternoon)
+      (S (NP Mrs. Mercer)
+	 (VP met
+	     (NP her)))
+	;
+	;
+      (S (NP both)
+	 (VP were
+	     (ADVP obviously)
+	     (PP on
+		 (NP the way
+		     (PP to
+			 (NP the Mercer home)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The mother)
+    (VP inquired
+	,
+	(SQ  ``
+	     (SBARQ (WHADVP Where)
+		    (SQ  (VP 's)
+			 (NP Johnny)))
+	     ,
+	     and
+	     (SBARQ (WHADVP why)
+		    (SQ  (AUX did)
+			 (NP you)
+			 (VP leave
+			     (NP him))))
+	     '')))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP There)
+	(VP was
+	    (NP (NP nothing
+		    else)
+		(SBAR 0
+		      (S (NP I)
+			 (AUX could)
+			 (VP do
+			     (NP T) )))))
+	'')
+    ,
+    (S (NP the maid)
+       (VP answered)
+       ,
+       (S (NP *)
+	  (VP satisfied
+	      (PP with
+		  (NP a
+		      (ADJP (ADVP rather)
+			    vague) explanation))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Mrs. Mercer)
+	 (VP demanded
+	     (ADJP more))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The maid)
+    (ADVP then)
+    (VP told
+	(NP her)
+	,
+	(SBAR  ``
+	       Because
+	       (S (NP he)
+		  (VP fired
+		      (NP me)))
+	       '')))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP With
+	(S (NP her son)
+	   (VP evidencing
+	       (NP (ADJP  so
+			  strong)
+		   a musical bent))))
+    (S (NP his mother)
+       (AUX could)
+       (VP do
+	   (X (NP little
+		  else)
+	      but
+	      (VP get
+		  (NP him)
+		  (VP started
+		      (PP on
+			  (NP the study
+			      (PP of
+				  (NP music))))))))
+       --
+       (SBAR though
+	     (S (NP she)
+		(VP waited
+		    (PP until
+			(S (NP he)
+			   (VP was
+			       (NP ten)))))))
+       --
+       (S (S  (NP *) 
+	      (VP beginning
+		  (PP with
+		      (NP the piano))))
+	  and
+	  (S (NP *)  
+	     (VP following
+		 (NP that)
+		 (PP with
+		     (NP the trumpet)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Young Mercer)
+   (VP showed
+       (NP a remarkable lack
+	   (PP of
+	       (NP aptitude
+		   (PP for
+		       (NP both
+			   instruments)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Still)
+      ,
+      (S (NP he)
+	 (X (X (AUX did)
+	       (VP like
+		   (NP music making)))
+	    and
+	    (VP  (ADVP even)
+		 sang
+		 (PP in
+		     (NP the chapel choir
+			 (PP of
+			     (NP (NP (NP the Woodberry Forest School)
+				     ,
+				     (PP near
+					 (NP (NP Orange)
+					     ,
+					     (NP Virginia)))
+				     ,)
+				 (SBAR 
+				  (WHADVP where)
+				  (S (NP he)
+				     (X (VP sounded
+					    (ADJP fine))
+					but
+					(X (AUX did)
+					   (NEG not)
+					   (VP matriculate)
+					   (ADVP too
+						 well)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+	 (VP was
+	     (NP fifteen))))
+     (S (NP John H. Mercer)
+	(VP turned
+	    (PRT out)
+	    (NP (NP his first song)
+		,
+		(NP (NP a
+			(ADJP jazzy)
+			little thing)
+		    (SBAR 0
+			  (S (NP he)
+			     (VP called
+				 (NP T) 
+				 (NP  ``
+				      (S (NP Sister
+					     Susie)
+					 ,
+					 (S  (NP *) 
+					     (VP Strut
+						 (NP Your Stuff))))
+				      '')))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP  his scholarship
+		   and
+		   formal musicianship)
+	      (VP were
+		  (NEG not)
+		  (NP (NP all)
+		      (SBAR 0
+			    (S
+			     (NP they)
+			     (AUX might)
+			     (VP have
+				 (VP been
+				     (NP T) ))))))))
+    ,
+    (S (NP Mercer)
+       (VP demonstrated
+	   (PP at
+	       (NP an early age))
+	   (SBAR that
+		 (S (NP he)
+		    (AUX was)
+		    (VP gifted
+			 
+			(PP with
+			    (NP a remarkable ear
+				(PP for
+				    (NP rhythm and dialect))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP his playmates
+	    (PP in
+		(NP Savannah))))
+    ,
+    (S (NP Mercer)
+       (AUX had)
+       (VP picked
+	   (PRT up)
+	   ,
+	   (PP along
+	       (PP with
+		   (NP a
+		       (ADJP soft)
+		       (ADJP  Southern)
+		       dialect)))
+	   ,
+	   (NP traces
+	       (ADVP also)
+	       (PP of
+		   (NP the Gullah dialects
+		       (PP of
+			   (NP Africa))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such speech differences)
+   (VP made
+       (NP him
+	   (ADJP  (ADVP acutely)
+		  aware
+		  (PP of
+		      (NP the richness and expressivness
+			  (PP of
+			      (NP language))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the summers))
+    ,
+    (SBAR while
+	  (S (NP he)
+	     (VP was
+		 (ADVP still)
+		 (PP in
+		     (NP school)))))
+    ,
+    (S (NP Mercer)
+       (VP worked
+	   (PP for
+	       (NP 
+		(NP his father)
+		's firm))
+	   (PP as
+	       (NP a messenger boy)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP generally)
+   (VP took
+       (ADVP well
+	     (PP into
+		 (NP the autumn)))
+       (SBAR  for
+	      (S (NP the firm)
+		 (AUX to)
+		 (VP recover
+		     (PP from
+			 (NP 
+			  (NP the summer)
+			  's help)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (AUX 'd)
+      (VP (VP give
+	      (NP him)
+	      (NP (NP things
+		      (S (NP *)
+			 (AUX to)
+			 (VP deliver)))
+		  ,
+		  (NP (NP letters)
+		      ,
+		      (NP checks)
+		      ,
+		      (NP deeds)
+		      and
+		      (NP  things
+			   (PP like
+			       (NP that))))))
+	  ''
+	  ,
+	  (SINV (VP remembers)
+		(NP (NP his half-brother)
+		    (NP Walter))
+		,
+		(PP  (ADVP still)
+		     in
+		     (NP the real estate business
+			 (PP in
+			     (NP Savannah)))))
+	  ,
+	  ``
+	  and
+	  (VP learn
+	      (ADVP (NP days)
+		    later)
+	      (SBAR that
+		    (S (NP he)
+		       (AUX 'd)
+		       (ADVP absent-mindedly)
+		       (VP stuffed
+			   (NP them)
+			   (PP into
+			       (NP his pocket))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP There)
+      (S (NP they)
+	 (VP stayed)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This
+	(ADJP (ADVP rather)
+	      detached) attitude
+	(PP toward
+	    (NP 
+	     (NP life)
+	     's encumbrances)))
+    (AUX has)
+    (VP seemed
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (NP the dominant trait
+		   (PP in
+		       (NP 
+			(NP Mercer)
+			's personality))))
+	   (ADVP  ever
+		  since))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP is
+	   ,
+	   (ADVP however)
+	   ,
+	   (NP (NP a disarming disguise)
+	       ,
+	       or
+	       (NP  (ADVP perhaps)
+		    a shield))))
+    ,
+    for
+    (SINV (CONJP  not
+		  only)
+	  (AUX has)
+	  (NP Mercer)
+	  (VP proved
+	      (S (NP himself)
+		 (AUX to)
+		 (VP be
+		     (NP (NP one
+			     (PP of
+				 (NP the few great lyricists
+				     (PP over
+					 (NP the years)))))
+			 ,
+			 (CONJP but
+				also)
+			 (NP (NP one)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (AUX can)
+				      (VP function
+					  (ADVP remarkably))
+				      (PP under
+					  (NP pressure)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (X (X (AUX has)
+	  (ADVP also)
+	  (VP enjoyed
+	      (NP a successful career
+		  (PP as
+		      (NP an entertainer)))
+	      *LRB*
+	      (S (NP his records)
+		 (AUX have)
+		 (VP sold
+		     (PP in
+			 (NP the millions))))
+	      *RRB*))
+       and
+       (VP is
+	   (NP a sharp businessman))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP has
+       (ADVP also)
+       (NP an extraordinary conscience)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1927))
+    (S (S (NP
+	   (NP his father)
+	   's business)
+	  (VP collapsed))
+       ,
+       and
+       ,
+       (S (ADVP rather
+		(PP than
+		    (S  (NP *) 
+			(VP go
+			    (NP bankrupt)))))
+	  ,
+	  (S (NP Mercer senior)
+	     (VP turned
+		 (NP his firm)
+		 (PRT over)
+		 (PP to
+		     (NP a bank))
+		 (PP for
+		     (NP liquidation)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP died)
+    (PP before
+	(S (NP he)
+	   (AUX could)
+	   (ADVP completely)
+	   (VP pay
+	       (PRT off)
+	       (NP his debts)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP (NP Some years)
+	  later)
+    (S (NP (NP the bank)
+	   (VP handling
+	       (NP the Mercer liquidation)))
+       (VP received
+	   (NP a check
+	       (PP for
+		   (NP (NP $ 300,000)
+		       ,
+		       (ADVP enough
+			     (S (NP *)
+				(AUX to)
+				(VP clear
+				    (PRT up)
+				    (NP the debt))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The check)
+      (AUX had)
+      (VP been
+	  (VP mailed
+		 
+	      (PP from
+		  (NP Chicago)))))
+     ,
+     (S (NP the envelope)
+	(VP bore
+	    (NP no return address)))
+     ,
+     and
+     (S (NP the check)
+	(AUX was)
+	(NEG not)
+	(VP signed
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP That)
+	(VP 's
+	    (NP Johnny))
+	'')
+    ,
+    (SINV (VP sighed)
+	  (NP the bank president))
+    ,
+    (X  ``
+	(NP the best-hearted boy
+	    (PP in
+		(NP the world)))
+	,
+	but
+	(ADJP absent-minded)
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP
+	  (NP Mercer)
+	  's explanation)
+	 (VP was
+	     (ADJP simple)))
+      :
+      (S  ``
+	  (NP I)
+	  (VP (VP made
+		  (PRT out)
+		  (NP the check))
+	      and
+	      (VP carried
+		  (NP it)
+		  (ADVP around)
+		  (NP a few days)
+		  (ADJP unsigned)))
+	  --
+	  (S (PP in
+		 (NP case))
+	     (S
+	      (NP I)
+	      (VP lost
+		  (NP it))))
+	  ''))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+	 (VP remembered
+	     (SBAR that
+		   (S (NP he)
+		      (AUX might)
+		      (VP have
+			  (VP (NEG not)
+			      signed
+			      (NP the check))))))))
+     ,
+     (S (NP Mercer)
+	(VP made
+	    (PRT out)
+	    (NP another)
+	    (PP for
+		(NP the same amount)))
+	,
+	(S  (NP *) 
+	    (VP instructing
+		(NP the bank)
+		(S (NP *)
+		   (AUX to)
+		   (VP destroy
+		       (NP the
+			   (ADJP other)))
+		   --
+		   (ADVP especially
+			 (SBAR if
+			       (S (NP he)
+				  (AUX had)
+				  (VP happened
+				      (S (NP *)
+					 (AUX to)
+					 (VP have
+					     (VP (ADVP absent-mindedly)
+						 signed
+						 (NP both
+						     (PP of
+							 (NP them)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the family business)
+	(VP failed)))
+    ,
+    (S (S (NP Mercer)
+	  (VP left
+	      (NP school)))
+       and
+       (S (PP on
+	      (NP 
+	       (NP his mother)
+	       's urging))
+	  --
+	  for
+	  (S (NP she)
+	     (VP hoped
+		 (SBAR that
+		       (S (NP he)
+			  (AUX would)
+			  (VP become
+			      (NP an actor))))))
+	  --
+	  (S (NP he)
+	     (VP joined
+		 (NP a
+		     (ADJP local)
+		     little theater group))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the troupe)
+	 (VP (VP traveled
+		 (PP to
+		     (NP New York))
+		 (S (NP *)
+		    (AUX to)
+		    (VP participate
+			(PP in
+			    (NP a one-act-play competition)))))
+	     --
+	     and
+	     (VP won)
+	     --)))
+     (S (NP Mercer)
+	,
+	(ADVP instead
+	      (PP of
+		  (S  (NP *)
+		      (VP returning
+			  (PP with
+			      (NP the rest
+				  (PP of
+				      (NP the company))))
+			  (PP in
+			      (NP triumph))))))
+	,
+	(VP remained
+	    (PP in
+		(NP New York)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX had)
+      (VP talked
+	  (NP one
+	      other member
+	      (PP of
+		  (NP the group)))
+	  (S (NP *)
+	     (AUX to)
+	     (VP stay
+		 (PP with
+		     (NP him))))))
+     ,
+     but
+     (S (NP that friend)
+	(AUX had)
+	(VP (VP tired
+		(PP of
+		    (S  (NP *)
+			(NEG not)
+			(VP eating
+			    (ADVP regularly)))))
+	    and
+	    (VP returned
+		(PP to
+		    (NP Savannah))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Mercer)
+	 (VP hung
+	     (ADVP on))
+	 ,
+	 (S (NP *)  
+	    (VP living
+		,
+		(PP after
+		    (NP a fashion))
+		,
+		(PP in
+		    (NP a Greenwich Village
+			fourth-flight walk-up))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  ``
+	(NP The place)
+	(VP had
+	    (NP (NP no sink or washbasin)
+		,
+		(NP  (ADVP only)
+		     a bathtub)))
+	'')
+    ,
+    (S (NP his mother)
+       (VP discovered)
+       (SBAR 
+	(WHADVP when)
+	(S (NP she)
+	   (VP visited
+	       (NP him))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP Johnny)
+	 (VP insisted
+	     (PP on
+		 (S  (NP *)
+		     (VP cooking
+			 (NP a chicken dinner))
+		     (PP in
+			 (NP my honor))))))
+      --
+      (S (NP he)
+	 (AUX 's)
+	 (ADVP always)
+	 (VP been
+	     (NP a good cook)))
+      --
+      and
+      (S (NP I)
+	 (AUX 'll)
+	 (ADVP never)
+	 (VP forget
+	     (S (NP him)
+		(VP cleaning
+		    (NP the chicken)
+		    (PP in
+			(NP the tub)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A story)
+	,
+	(ADJP (NP no doubt)
+	      apocryphal
+	      ,
+	      for
+	      (S (NP (NP Mercer)
+		     (NP himself))
+		 (VP denies
+		     (NP it))))
+	,)
+    (VP has
+	(NP (NP him)
+	    (VP sporting
+		(NP a monacle)
+		(PP in
+		    (NP those Village days))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Though
+	(NP  (ADVP merely)
+	     clear glass))
+    ,
+    (S (NP it)
+       (VP was
+	   (NP a distinctive trade mark
+	       (PP for
+		   (NP (NP an aspiring actor)
+		       (SBAR (WHNP who)
+			     (S (NP T)
+				(VP hoped
+				    (S (NP *)
+				       (AUX to)
+				       (VP imprint
+					   (NP himself)
+					   (PP upon
+					       (NP the memories
+						   (PP of
+						       (NP producers)))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One day)
+    (PP in
+	(NP a bar))
+    ,
+    (PP so
+	(S (NP the legend)
+	   (VP goes)))
+    ,
+    (S (NP someone)
+       (VP (VP put
+	       (NP a beer stein)
+	       (PP with
+		   (NP  (ADJP too
+			      much) force))
+	       (PP on
+		   (NP the monacle)))
+	   and
+	   (VP broke
+	       (NP it)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The
+	    innocent malfeasant)
+	,
+	(VP filled
+	    (PP with
+		(NP (NP that supreme sense
+			(PP of
+			    (NP honor)))
+		    (VP found
+			(PP in
+			    (NP bars))))))
+	,)
+    (VP (VP insisted
+	    (PP upon
+		(S  (NP *)
+		    (VP replacing
+			(NP the destroyed monacle)))))
+	--
+	and
+	(VP did
+	    ,
+	    (PP over
+		(NP the protests
+		    (PP of
+			(NP the former owner))))
+	    --
+	    (PP with
+		(NP a square monacle)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mercer)
+   (AUX is)
+   (VP supposed
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP have
+	      (VP refused
+		  (NP it)))
+	  (PP with
+	      ,
+	      (S  ``
+		  (NP (NP Anyone)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP wears
+				   (NP a square monacle)))))
+		  (AUX must)
+		  (VP be
+		      (ADJP affected)
+		      )
+		  '')))))
+  !)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Everett Miller)
+	   ,
+	   (NP  (ADVP then)
+		assistant director
+		(PP for
+		    (NP (NP the Garrick Gaieties)
+			,
+			(NP a Theatre Guild production)
+			,))))
+       (VP needed
+	   (NP a lyricist
+	       (PP for
+		   (NP (NP a song)
+		       (SBAR 0
+			     (S
+			      (NP he)
+			      (AUX had)
+			      (VP written
+				  (NP T) ))))))))
+     ;
+     ;
+     (S (NP he)
+	(ADVP just)
+	(VP happened
+	    (S (NP *)
+	       (NEG not)
+	       (AUX to)
+	       (VP need
+		   (NP any actor))
+	       (PP at
+		   (NP the moment))))
+	,
+	(ADVP however)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP him))
+     (S
+      (NP Mercer)
+      (VP produced
+	  (NP the lyric
+	      (PP to
+		  (NP (NP   ``
+			    (X (PP Out
+				   (PP Of
+				       (NP Breath)))
+			       (ADJP Scared 
+				     (PP To
+					 (NP Death))
+				     (PP Of
+					 (NP You))))
+			    '')
+		      ,
+		      (VP introduced
+			  (PP in
+			      (NP that
+				  (ADJP  most successful
+					 (PP of
+					     (NP all
+						 the Gaieties)))))
+			  ,
+			  (PP by
+			      (NP Sterling Holloway)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This 1930 edition)
+   (ADVP also)
+   (VP had
+       (NP songs
+	   (PP-2 *pseudo-attach*))
+       (PP in
+	   (NP it))
+       (PP-2 (PP by
+		 (NP (NP Vernon Duke)
+		     and
+		     (NP Ira Gershwin)))
+	     ,
+	     (PP by
+		 (NP (NP E.Y. Harburg)
+		     and
+		     (NP Duke)))
+	     ,
+	     and
+	     (PP by
+		 (NP Harry Myers)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Entrance
+	(PP into
+	    (NP such stellar song
+		writing
+		company)))
+    (VP encouraged
+	(NP the burgeoning song writer)
+	(S (NP *)
+	   (AUX to)
+	   (VP take
+	       (NP (NP a wife)
+		   ,
+		   (NP (NP Elizabeth Meehan)
+		       ,
+		       (NP a dancer
+			   (PP in
+			       (NP the Gaieties)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Mercers)
+      (VP took
+	  (PRT up)
+	  (NP residence))
+      (PP in
+	  (NP Brooklyn)))
+     ,
+     and
+     (S (NP Mercer)
+	(VP found
+	    (NP (NP a regular job
+		    (PP in
+			(NP Wall Street)))
+		(VP  ``
+		     misplacing
+		     (NP stocks and bonds)
+		     '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+	 (VP heard
+	     (SBAR that
+		   (S (NP Paul Whiteman)
+		      (AUX was)
+		      (VP looking
+			  (PP for
+			      (NP singers
+				  (S (NP *)
+				     (AUX to)
+				     (VP replace
+					 (NP the Rhythm Boys)))))))))))
+     ,
+     (S (NP Mercer)
+	(VP (VP applied)
+	    and
+	    (VP got
+		(NP the job)
+		,
+		(X  ``
+		    not
+		    (PP for
+			(NP my voice)
+			,
+			(S (NP I)
+			   (VP 'm
+			       (ADJP sure)))
+			,)
+		    but
+		    (SBAR because
+			  (S (NP I)
+			     (AUX could)
+			     (VP write
+				 (NP songs and material))
+			     (ADVP generally)))
+		    '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP While
+	(PP with
+	    (NP the Whiteman band)))
+    (S (NP Mercer)
+       (VP met
+	   (NP Jerry Arlen))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP had
+	  (ADVP yet)
+	  (S (NP *)
+	     (AUX to)
+	     (VP meet
+		 (NP Harold Arlen)))))
+     ,
+     for
+     (S  (SBAR although
+	       (S (NP they)
+		  (AUX had)
+		  (VP  ``
+		       collaborated
+		       ''
+		       (PP on
+			   (NP  ``
+				(NP Satan)
+				's Li'l Lamb
+				'')))))
+	 ,
+	 (S (NP (NP Mercer)
+		and
+		(NP Harburg))
+	    (AUX had)
+	    (VP worked
+		(PP from
+		    (NP (NP a lead sheet)
+			(SBAR 0
+			      (S
+			       (NP the composer)
+			       (AUX had)
+			       (VP furnished
+				   (NP them)
+				   (NP T) )))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The lyric)
+    ,
+    (S (NP Mercer)
+       (VP remembers))
+    ,
+    (AUX was)
+    (VP tailored
+	  
+	(S (NP *)
+	   (AUX to)
+	   (VP fit
+	       (NP the unusual melody)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mercer)
+    's Whiteman association)
+   (VP brought
+       (NP him)
+       (PP into
+	   (NP contact
+	       (PP with
+		   (NP (NP Hoagy Carmichael)
+		       ,
+		       (SBAR 
+			(WHNP whose
+			      ``
+			      Snowball
+			      '')
+			(S (NP Mercer)
+			   (VP relyriced
+			       (NP T)
+			       (PP as
+				   (NP (NP  ``
+					    Lazybones
+					    '')
+				       ,
+				       (SBAR (WHPP in
+						   (WHNP which form))
+					     (S
+					      (NP it)
+					      (VP (VP became
+						      (NP a hit))
+						  and
+						  (VP marked
+						      (NP the real beginning
+							  (PP of
+							      (NP 
+							       (NP Mercer)
+							       's song-writing career))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (? 
+   (S (PP After
+	  (S  (NP *)
+	      (VP leaving
+		  (NP Whiteman))))
+      ,
+      (S (NP Mercer)
+	 (VP joined
+	     (NP the Benny Goodman band)
+	     (PP as
+		 (NP a vocalist))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the help
+	    (PP of
+		(NP Ziggy Elman
+		    ,
+		    (ADVP also
+			  (PP in
+			      (NP the band)))
+		    ,))))
+    (S (NP he)
+       (VP transformed
+	   (NP a
+	       (ADJP traditional)
+	       Jewish melody)
+	   (PP into
+	       (NP (NP a popular song)
+		   ,
+		   (NP  ``
+			(S And
+			   (S (NP The Angels)
+			      (VP Sing)))
+			''))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The countrywide success
+	(PP of
+	    (NP (NP  ``
+		     Lazybones
+		     '')
+		and
+		(NP  ``
+		     (S And
+			(S (NP The Angels)
+			   (VP Sing)))
+		     ''))))
+    (AUX could)
+    (ADVP only)
+    (VP lead
+	(PP to
+	    (NP (NP Hollywood)
+		,
+		(SBAR (WHADVP where)
+		      (S  ,
+			  (PP besides
+			      (NP Harold Arlen))
+			  ,
+			  (S (NP Mercer)
+			     (VP collaborated
+				 (PP with
+				     (NP (NP Harry Warren)
+					 ,
+					 (NP Jimmy Van Heusen)
+					 ,
+					 (NP Richard Whiting)
+					 ,
+					 (NP Walter Donaldson)
+					 ,
+					 (NP Jerome Kern)
+					 ,
+					 and
+					 (NP Arthur Schwartz)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mercer)
+   (AUX has)
+   (ADVP also)
+   (VP written
+       (NP both music and lyrics)
+       (PP for
+	   (NP several songs))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX may)
+      (VP be
+	  (NP the only song writer
+	      (S (NP *)
+		 (ADVP ever)
+		 (AUX to)
+		 (VP have
+		     (VP collaborated
+			 (PP with
+			     (NP a secretary
+				 (PP of
+				     (NP the U.S. Treasury))))))))))
+     ;
+     ;
+     (S (NP he)
+	(VP collaborated
+	    (PP on
+		(NP a song))
+	    (PP with
+		(NP (NP William Hartman Woodin)
+		    ,
+		    (SBAR 
+		     (WHNP who)
+		     (S (NP T)
+			(VP was
+			    (NP Secretary
+				(PP of
+				    (NP the Treasury))))
+			,
+			(NP 1932-33))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP Johnny Mercer)
+	     and
+	     (NP Harold Arlen))
+	 (VP began
+	     (NP their collaboration))
+	 (PP in
+	     (NP 1940))))
+     ,
+     (S (NP Mercer)
+	,
+	(PP like
+	    (NP Arlen))
+	,
+	(VP had
+	    (NP several substantial film songs)
+	    (PP to
+		(NP his credit)))
+	,
+	(PP among
+	    (NP them)
+	    (NP (NP (NP  ``
+			 (INTJ Hooray
+			       (PP For
+				   (NP Hollywood)))
+			 '')
+		    ,
+		    (NP  ``
+			 (S (S  (NP *) 
+				(VP Ride))
+			    ,
+			    (NP Tenderfoot)
+			    ,
+			    (S  (NP *) 
+				(VP Ride)))
+			 '')
+		    ,
+		    (NP  ``
+			 (SQ  (AUX Have)
+			      (NP You)
+			      (VP Got
+				  (NP Any Castles))
+			      ,
+			      (NP Baby)
+			      ?)
+			 '')
+		    ,
+		    and
+		    (NP  ``
+			 (ADJP  Too
+				Marvelous
+				(PP For
+				    (NP Words)))
+			 ''))
+		*LRB*
+		(NP all
+		    (PP with
+			(NP Richard Whiting)))
+		*RRB*))
+	      ;
+	      ;
+	(S (PP with
+	       (NP Harry Warren))
+	   (S (NP he)
+	      (VP did
+		  (NP (NP  ``
+			   The Girl Friend
+			   (PP Of
+			       (NP The Whirling Dervish))
+			   '')
+		      ,
+		      (NP  ``
+			   (INTJ Jeepers)
+			   (INTJ Creepers)
+			   '')
+		      ,
+		      and
+		      (NP  ``
+			   (S (NP You)
+			      (AUX Must)
+			      (VP Have
+				  (VP Been
+				      (NP A Beautiful Baby))))
+			   '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mercer)
+    's lyrics)
+   (AUX are)
+   (VP characterized
+	     
+       (PP by
+	   (NP (NP an unerring ear
+		   (PP for
+		       (NP rhythmic nuances)))
+	       ,
+	       (NP (NP a puckish sense
+		       (PP of
+			   (NP humor)))
+		   (VP expressed
+		       (PP in
+			   (NP language))
+		       (PP with
+			   (NP a colloquial flair))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Though
+	(ADJP (ADJP versatile)
+	      and
+	      (ADJP  capable
+		     (PP of
+			 (S  (NP *)
+			     (VP turning
+				 (PRT out)
+				 (NP a ballad lyric)
+				 (PP with
+				     (NP the
+					 (ADJP best
+					       (PP of
+						   (NP them)))))))))))
+    ,
+    (S (NP
+	(NP Mercer)
+	's forte)
+       (VP is
+	   (NP a
+	       (ADJP highly
+		     polished)
+	       (ADJP quasi-folk) wit))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP His
+	(ADJP casual)
+	,
+	(ADJP dreamlike)
+	working methods)
+    ,
+    (ADVP often
+	  (PP as
+	      (NEG not))
+	  (PP in
+	      (NP absentia)))
+    ,
+    (VP were
+	(NP an abrupt change
+	    (PP from
+		(NP 
+		 (NP Harburg)
+		 's))))
+    ,
+    (SBAR  so
+	   that
+	   (S (NP Arlen)
+	      (VP had
+		  (S (NP *)
+		     (AUX to)
+		     (VP adjust
+			 (ADVP again)
+			 (PP to
+			     (NP another approach
+				 (PP to
+				     (NP collaboration))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP were
+       (NP times
+	   (SBAR that
+		 (S (NP he)
+		    (VP worked
+			(PP with
+			    (NP both
+				lyricists)))
+		    (ADVP simultaneously))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Speaking
+	      (PP of
+		  (NP his work
+		      (PP with
+			  (NP Johnny Mercer))))))
+      ,
+      (S (NP Arlen)
+	 (VP says
+	     ,
+	     (S  ``
+		 (NP Our working habits)
+		 (VP were
+		     (ADJP strange))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (S (NP we)
+	      (VP got
+		  (NP a script)))
+	   and
+	   (S (NP the spots
+		  (PP for
+		      (NP the songs)))
+	      (AUX were)
+	      (VP blocked
+		  (PRT out)))))
+    ,
+    (S (NP we)
+       (AUX 'd)
+       (VP get
+	   (ADVP together)
+	   (PP for
+	       (NP an hour
+		   or
+		   so)))
+       (NP every day)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR While
+	(S (NP Johnny)
+	   (VP made
+	       (NP himself)
+	       (ADJP comfortable))
+	   (PP on
+	       (NP the couch))))
+    ,
+    (S (NP I)
+       (AUX 'd)
+       (VP play
+	   (NP the tunes)
+	   (PP for
+	       (NP him)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP has
+       (NP a
+	   (ADJP  (ADVP wonderfully)
+		  retentive) memory)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP  After
+	   (S (NP I)
+	      (AUX would)
+	      (VP finish
+		  (S (NP *)
+		     (VP playing
+			 (NP the songs))))))
+    ,
+    (S (NP he)
+       (AUX 'd)
+       (ADVP just)
+       (VP go
+	   (ADVP away))
+       (PP without
+	   (NP a comment))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP I)
+      (AUX would)
+      (NEG n't)
+      (VP hear
+	  (PP from
+	      (NP him)))
+      (PP for
+	  (NP a couple
+	      (PP of
+		  (NP weeks)))))
+     ,
+     (S (ADVP then)
+	(S (NP he)
+	   (AUX 'd)
+	   (VP come
+	       (ADVP around)
+	       (PP with
+		   (NP the completed lyric))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Arlen)
+       (VP is
+	   (NP one
+	       (PP of
+		   (NP (NP the few
+			   *LRB*
+			   (NP  (ADVP possibly)
+				the
+				(ADJP only))
+			   *RRB*
+			   composer)
+		       (SBAR 0
+			     (S (NP Mercer)
+				(AUX has)
+				(VP been
+				    (ADJP able
+					  (S (NP *)
+					     (AUX to)
+					     (VP work
+						 (PP with
+						     (NP T) 
+						     ))
+					     (ADVP so
+						   closely)))))))))))
+    ,
+    (PP for
+	(S (NP they)
+	   (VP held
+	       (NP their meetings))
+	   (PP in
+	       (NP 
+		(NP Arlen)
+		's study)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  ``
+	(NP Some guys)
+	(VP bothered
+	    (NP me))
+	'')
+    ,
+    (S (NP Mercer)
+       (AUX has)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+	 (AUX could)
+	 (NEG n't)
+	 (VP write
+	     (PP with
+		 (NP them
+		     (PP in
+			 (NP the same room
+			     (PP with
+				 (NP me))))))))
+      ,
+      but
+      (S (NP I)
+	 (AUX could)
+	 (PP with
+	     (NP Harold))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP is
+	  (ADVP probably)
+	  (NP our
+	      (ADJP  most original)
+	      composer)))
+     ;
+     ;
+     (S (NP he)
+	(ADVP often)
+        (VP uses
+	    (NP (NP  (ADJP very
+			   odd) rhythms)
+		,
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP makes
+			(NP it)
+			(ADJP (ADJP difficult)
+			      ,
+			      and
+			      (ADJP challenging)
+			      ,)
+			(PP for
+			    (NP the lyric writer)))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  While
+	  (S (NP (NP Arlen)
+		 and
+		 (NP Mercer))
+	     (VP collaborated
+		 (PP on
+		     (NP Hot Nocturne)))))
+    ,
+    (S (NP Mercer)
+       (VP worked
+	   (ADVP also)
+	   (PP with
+	       (NP Arthur Schwartz))
+	   (PP on
+	       (NP (NP another film)
+		   ,
+		   (NP Navy Blues))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Arlen)
+    ,
+    (ADVP too)
+    ,
+    (VP worked
+	(PP on
+	    (NP other projects))
+	(PP at
+	    (NP the same time))
+	(PP with
+	    (NP (NP old friend)
+		(NP Ted Koehler)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Besides
+	(S  (NP *)
+	    (VP doing
+		(NP (NP a single song)
+		    ,
+		    (NP  ``
+			 (SBAR 
+			  (WHADVP When)
+			  (S (NP The Sun)
+			     (VP Comes
+				 (PRT Out))))
+			 '')
+		    ,))))
+    (S (NP they)
+       (VP worked
+	   (PP on
+	       (NP the
+		   (ADJP ambitious)
+		   American-Negro Suite
+		   ,
+		   (PP for
+		       (NP voices and piano))
+		   ,))
+	   (ADVP as
+		 well
+		 (PP as
+		     (NP songs
+			 (PP for
+			     (NP films))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The American-Negro Suite)
+   (VP is
+       (PP in
+	   (NP a sense))
+       (NP an extension
+	   (PP of
+	       (NP the Cotton Club songs))))
+   (SBAR (PP in)
+	 that
+	 (S (NP it)
+	    (VP is
+		(NP a collection
+		    (PP of
+			(NP Negro songs))))
+	    ,
+	    (PP  not
+		 (PP for
+		     (NP a night club))
+		 ,
+		 but
+		 (PP for
+		     (NP the concert stage))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The work)
+   (VP had
+       (NP its beginning)
+       (PP in
+	   (NP 1938))
+       (PP with
+	   (NP (NP an
+		   (ADJP eight-bar)
+		   (ADJP  musical)
+		   strain)
+	       (SBAR (WHPP to
+			   (WHNP which))
+		     (S
+		      (NP Koehler)
+		      (VP set
+			  (NP (NP the words)
+			      (NP  ``
+				   (S (S (NP There)
+					 (AUX 'll)
+					 (VP be
+					     (NP no
+						 (ADJP more)
+						 work)))
+				     ;
+				     ;
+				     (S (NP there)
+					(AUX 'll)
+					(VP be
+					    (NP no
+						(ADJP more)
+						worry))))
+				   '')))
+		      ,
+		      (S  (NP *) 
+			  (VP matching
+			      (NP the spiritual feeling
+				  (PP of
+				      (NP the jot)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP grew
+       (PP into
+	   (NP (NP the song)
+	       (NP  ``
+		    (S (NP Big Time)
+		       (VP Comin
+			   '))
+		    '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP By
+	 (NP September 1940))
+     (S
+      (NP the Suite)
+      (AUX had)
+      (VP developed
+	  (PP into
+	      (NP a collection
+		  (PP of
+		      (NP (NP six songs)
+			  ,
+			  (NP  ``
+			       (NP four spirituals)
+			       ,
+			       (NP a dream)
+			       ,
+			       and
+			       (NP a lullaby)
+			       ''))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The Negro composer)
+	(NP Hall Johnson))
+    (VP (VP studied
+	    (NP the American-Negro Suite))
+	and
+	(VP said
+	    (PP of
+		(NP it))
+	    ,
+	    (S  ``
+		(PP Of
+		    (NP (NP all
+			    the many songs)
+			(VP (VP written
+				(PP by
+				    (NP white composers)))
+			    and
+			    (VP employing
+				(SBAR
+				 (WHNP what)
+				 (S (NP T)
+				    (VP claims
+					(S (NP *)
+					   (AUX to)
+					   (VP be
+					       (NP a Negroid idiom
+						   (PP in
+						       (NP both
+							   words and music))))))))))))
+		,
+		(S (NP these six songs
+		       (PP by
+			   (NP (NP Harold Arlen)
+			       and
+			       (NP Ted Koehler))))
+		   (ADVP easily)
+		   (VP stand
+		       (ADVP far
+			     out
+			     (PP above
+				 (NP the rest)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP  (ADVP Thoroughly)
+	   modern
+	   (PP in
+	       (NP treatment)))
+    ,
+    (S (NP they)
+       (VP (VP are
+	       (PP at
+		   (NP the same time))
+	       ,
+	       (ADJP full
+		     (PP of
+			 (NP (NP simple sincerity)
+			     (SBAR (WHNP which)
+				   (S (NP T)
+				      (VP  (ADVP invariably)
+					   characterizes
+					   (NP 
+					    (ADJP genuine)
+					    Negro folk-music))))))))
+	   and
+	   (VP are
+	       (PP by
+		   (NP no means))
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP confused
+			    
+			  (PP with
+			      (NP (NP the average
+				      '
+				      Broadway Spirituals
+				      ')
+				  (SBAR (WHNP which)
+					(S (NP T)
+					   (VP depend
+					       (PP for
+						   (NP their racial flavor)
+						   (PP upon
+						       (NP sundry allusions
+							   (PP to
+							       (NP (NP the
+								       '
+								       (INTJ Amen)
+								       Corner
+								       ')
+								   ,
+								   (NP  '
+									judgement Day
+									,
+									')
+								   (NP 
+								    (NP Gabriel)
+								    's Horn)
+								   ,
+								   and
+								   (NP a frustrated devil)))
+							   --
+							   (PP with
+							       (NP (NP a few random hallelujahs)
+								   (VP thrown
+								       (PP in)
+								       (PP for
+									   (NP good measure))))))))))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

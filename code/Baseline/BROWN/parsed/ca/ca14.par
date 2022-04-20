@@ -1,0 +1,2285 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP Philadelphia)
+     ,
+     (NP Jan. 23))
+ --)
+((S  
+   (NP (NP Nick Skorich)
+       ,
+       (NP the line coach
+	   (PP for
+	       (NP the football champion
+		   Philadelphia Eagles)))
+       ,)
+   (AUX was)
+   (VP elevated
+       (NP today)
+       (PP to
+	   (NP head coach))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Skorich)
+    (VP received
+	(NP a (ADJP three-year) contract)
+	(PP at
+	    (NP (NP a salary)
+		(VP believed
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (NP (NP (PP between
+				       (NP (NP $ 20,000)
+					   and
+					   (NP $ 25,000))))
+			       (NP a year)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP succeeds
+       (NP (NP Buck Shaw)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP retired)
+	       (PP at
+		   (NP the end
+		       (PP of
+			   (NP last season)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The appointment)
+   (AUX was)
+   (VP announced
+       )
+   (PP at
+       (NP (NP a news conference)
+	   (SBAR (WHPP at
+		       (WHNP which))
+		 (S
+		  (NP Skorich)
+		  (VP said
+		      (SBAR 0
+			    (S (NP he)
+			       (AUX would)
+			       (VP retain
+				   (NP (NP two members
+					   (PP of
+					       (NP 
+						(NP Shaw)
+						's staff)))
+				       --
+				       (NP (NP Jerry Williams)
+					   and
+					   (NP Charlie Gauer))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Williams)
+   (VP is
+       (NP a defensive coach)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Gauer)
+   (VP works
+       (PP with
+	   (NP the ends))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S
+ (NP Choice)
+ (AUX was)
+ (VP expected
+     )))
+((S (NP The selection)
+    (AUX had)
+    (VP been
+	(VP expected
+	    )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Skorich)
+   (AUX was)
+   (VP considered
+	     
+       (NP the logical choice))
+   (PP after
+       (S (NP the club)
+	  (VP gave
+	      (NP Norm Van Brocklin)
+	      (NP permission
+		  (S (NP *)
+		     (AUX to)
+		     (VP seek
+			 (NP the head
+			     coaching
+			     job
+			     (PP with
+				 (NP (NP the Minnesota Vikings)
+				     ,
+				     (NP the
+					 newest
+					 National Football League entry)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Van Brocklin)
+      ,
+      (NP (NP the quarterback)
+	  (SBAR  
+	   (WHNP who)
+	   (S (NP T)
+	      (VP led
+		  (NP the Eagles)
+		  (PP to
+		      (NP the title))))))
+      ,)
+  (AUX was)
+  (VP signed
+	 
+      (PP by
+	  (NP the Vikings)))
+  (NP  last
+       Wednesday))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Philadelphia)
+    (VP permitted
+	(S  (NP him)
+	    (AUX to)
+	    (VP seek
+		(NP a
+		    (ADJP better)
+		    connection))))
+    (PP after
+	(S (NP he)
+	   (AUX had)
+	   (VP refused
+	       (S (NP *)
+		  (AUX to)
+		  (VP reconsider
+		      (NP his decision
+			  (S (NP *)
+			     (AUX to)
+			     (VP end
+				 (NP his career
+				     (PP as
+					 (NP a player))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (X (NP Skorich)
+	  (PP at
+	      (NP the helm))))
+   ,
+   (S (NP the Eagles)
+      (AUX are)
+      (VP expected
+	      
+	  (S (NP *)
+	     (AUX to)
+	     (VP put
+		 (NP 
+		  (ADJP more)
+		  emphasis)
+		 (PP on
+		     (NP  (NP running)
+			  ,
+			  (ADVP rather
+				(PP than
+				    (NP  passing))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the past))
+     (S
+      (NP the club)
+      (VP depended
+	  (ADVP largely)
+	  (PP on
+	      (NP 
+	       (NP Van Brocklin)
+	       's aerials)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S   
+  (NP Skorich)
+  ,
+  (ADVP however)
+  ,
+  (VP is
+      (NP a strong advocate
+	  (PP of
+	      (NP (NP a balanced attack)
+		  --
+		  (VP split
+		      (PP between
+			  (NP (NP running) and (NP passing)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Coach)
+    (VP played)
+    (NP 3 years)))
+(  
+ (S  
+  (NP (NP Skorich)
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP is
+	      (ADJP (NP 39 years)
+		    old))))
+      ,)
+  (VP (VP played
+	  (NP football)
+	  (PP at
+	      (NP Cincinnati University)))
+      and
+      (ADVP then)
+      (VP had
+	  (NP a
+	      (ADJP three-year) professional
+	      career
+	      (PP as
+		  (NP a lineman
+		      (PP under
+			  (NP Jock Sutherland))
+		      (PP with
+			  (NP the Pittsburgh Steelers))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An injury)
+   (VP forced
+       (NP Skorich)
+       (S (NP *)
+	  (AUX to)
+	  (VP quit)
+	  (PP after
+	      (NP the 1948 season)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP began
+       (NP his coaching career)
+       (PP at
+	   (NP Pittsburgh Central Catholic High School)))
+   (PP in
+       (NP 1949)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP remained
+       (ADVP there)
+       (PP for
+	   (NP four years)))
+   (PP before
+       (S (NP *) 
+	  (VP moving
+	      (PP to
+		  (NP Rensselaer Polytechnic Institute
+		      (PP in
+			  (NP (NP Troy)
+			      ,
+			      (NP N. Y
+				  .)))))))))
+  .)   
+( (S
+   (NP He)
+   (VP was
+       (ADVP there)
+       (NP one season))
+   (PP before
+       (S (NP *) 
+	  (VP rejoining
+	      (NP the Steelers)
+	      (PP as
+		  (NP an assistant coach))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (ADVP (NP Four years)
+	   later)
+     (S (NP he)
+	(VP resigned
+	    )
+	(S (NP *)
+	   (AUX to)
+	   (VP take
+	       (NP a similar job
+		   (PP with
+		       (NP the Green Bay Packers)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Eagles)
+   (VP signed
+       (NP him)
+       (PP for
+	   (NP 
+	    (NP Shaw)
+	    's staff)))
+   (PP in
+       (NP 1959)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Skorich)
+   (VP began
+       (NP his new job)
+       (ADVP auspiciously))
+   (NP today))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP a ceremony
+	   (PP in
+	       (NP the reception room
+		   (PP of
+		       (NP Mayor Richardson Dilworth))))))
+   ,
+   (S (NP the Eagles)
+      (AUX were)
+      (VP honored
+	      
+	  (PP for
+	      (S (NP *) 
+		 (VP winning
+		     (NP the championship)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Shaw)
+      and
+      (NP Skorich))
+  (VP headed
+      (NP (NP a group
+	      (PP of
+		  (NP (NP players)
+		      ,
+		      (NP coaches)
+		      and
+		      (NP team officials))))
+	  (SBAR 
+	   (WHNP who)
+	   (S (NP T)
+	      (NP (VP received
+		      (NP an engrossed copy
+			  (PP of
+			      (NP an official city citation))))
+		  and
+		  (NP a pair
+		      (PP of
+			  (NP (NP 
+			       (ADJP silver)
+			       cufflinks)
+			      (VP shaped
+				  (PP like
+				      (NP a football))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP the announcement
+	   (PP of
+	       (NP a
+		   ``
+		   special achievement award
+		   ''
+		   (PP to
+		       (NP William A.
+			   *LRB*
+			   *LRB*
+			   Bill
+			   *RRB*
+			   Shea))))))
+   ,
+   (S (NP the awards
+	  list)
+      (AUX was)
+      (VP completed
+	  )
+      (NP yesterday)
+      (PP for
+	  (NP 
+	   (NP Sunday night)
+	   's
+	   thirty-eighth annual
+	   dinner and show
+	   (PP of
+	       (NP the New York Chapter
+		   ,
+		   (NP Baseball Writers)
+		   '
+		   Association
+		   (PP of
+		       (NP America))))
+	   ,
+	   (PP at
+	       (NP the Waldorf-Astoria Hotel))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Shea)
+      ,
+      (NP the chairman
+	  (PP of
+	      (NP 
+	       (NP Mayor Wagner)
+	       's
+	       Baseball Committee)))
+      ,)
+  (AUX will)
+  (VP be
+      (VP joined
+	     
+	  (PP on
+	      (NP the dais))
+	  (PP by
+	      (NP (NP (NP Warren Spahn)
+		      ,
+		      (NP the southpaw
+			  pitching
+			  ace
+			  (PP of
+			      (NP the Milwaukee Braves))))
+		    ;
+		    ;
+		    (NP (NP Frank Graham)
+			,
+			(NP the Journal-American sports
+			    columnist))
+		    ;
+		    ;
+		    (NP (NP Bill Mazeroski)
+			,
+			(NP the World Series hero
+			    (PP of
+				(NP the Pittsburgh Pirates))))
+		    ,
+		    and
+		    (NP (NP Casey Stengel)
+			,
+			(NP the former manager
+			    (PP of
+				(NP the Yankees)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Stengel)
+   (AUX will)
+   (VP receive
+       (NP the Ben Epstein Good Guy Award)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mazeroski)
+      ,
+      (SBAR  
+       (WHNP whose homer)
+       (S (NP T)
+	  (VP beat
+	      (NP the Yankees))
+	  (PP in
+	      (NP the final series game))))
+      ,)
+  (AUX will)
+  (VP receive
+      (NP the Babe Ruth Award))
+  (PP as
+      (NP the outstanding player
+	  (PP in
+	      (NP the 1960 world series)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Graham)
+   (X (X (AUX will)
+	 (VP be
+	     (VP recognized
+		 
+		 (PP for
+		     (NP his meritorious service
+			 (PP to
+			     (NP baseball)))))))
+      and
+      (X  
+       (AUX will)
+       (VP get
+	   (NP the William J. Slocum Memorial Award)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (PP  To
+	(NP Spahn))
+   (AUX will)
+   (VP go)
+   (NP the Sid Mercer Memorial Award
+       (PP as
+	   (NP the chapter)
+	    's player
+	    (PP of
+		(NP the year)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Show)
+    (VP follows
+	(NP ceremonies)))
+  )
+( (S
+   (NP A crowd
+       (PP of
+	   (NP 1,400)))
+   (AUX is)
+   (VP expected
+	     
+       (PP for
+	   (NP (NP the ceremonies)
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX will)
+		   (VP be
+		       (VP followed
+		  
+			   (PP by
+			       (NP (NP the show)
+				   (SBAR (WHPP in
+					       (WHNP which))
+					 (S
+					  (NP the writers)
+					  (AUX will)
+					  (VP lampoon
+					      (NP baseball personalities))
+					  (PP in
+					      (NP (NP skit)
+						  , 
+						  (NP dance)
+						  and 
+						  (NP song)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The
+	   (ADJP 53-year-old)
+	   Shea)
+       ,
+       (NP a prominent corporation lawyer
+	   (PP with
+	       (NP a sports
+		   background)))
+       ,)
+   (AUX is)
+   (ADVP generally)
+   (VP recognized
+        
+       (PP as
+	   (NP (NP the man)
+	       (ADJP  most responsible
+		      (PP for
+			  (NP the imminent return
+			      (PP of
+				  (NP a National League club))
+			      (PP to
+				  (NP New York)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Named
+	  (PP by
+	      (NP Mayor Wagner))
+	  (ADVP (NP three years)
+		ago)
+	  (S (NP *)
+	     (AUX to)
+	     (VP head
+		 (NP (NP a committee)
+		     (SBAR (WHNP that)
+			   (S (NP T)  
+			      (VP included
+				  (NP (NP James A. Farley)
+				      ,
+				      (NP Bernard Gimbel)
+				      and
+				      (NP Clint Blume))))))))))
+   ,
+   (S (NP Shea)
+      (VP worked
+	  (ADVP relentlessly))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His goal)
+   (VP was
+       (S (NP *)
+	  (AUX to)
+	  (VP obtain
+	      (NP a National League team)
+	      (PP for
+		  (NP this city))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The departure
+      (PP of
+	  (NP (NP the Giants)
+	      and
+	      (NP the Dodgers)))
+      (PP to
+	  (NP California)))
+  (VP left
+      (NP New York)
+      (PP with
+	  (NP  (ADVP only)
+	       the Yankees))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Despite
+       (NP countless barriers and disappointments))
+   ,
+   (S (NP Shea)
+      (VP moved
+	  (ADVP forward))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP he)
+	 (VP was
+	     (ADJP unable
+		   (S (NP *)
+		      (AUX to)
+		      (VP bring
+			  (PRT about)
+			  (NP immediate expansion)))))))
+     ,
+     (S (NP he)
+	(VP sought
+	    (S (NP *)
+	       (AUX to)
+	       (VP convince
+		   (NP another National League club)
+		   (S (NP *)
+		      (AUX to)
+		      (VP move
+			  (ADVP here))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP that)
+	 (VP failed)))
+     ,
+     (S (NP he)
+	(VP enlisted
+	    (NP 
+	     (NP Branch Rickey)
+	     's aid)
+	    (PP in
+		(NP the formation
+		    (PP of
+			(NP (NP a
+				third major
+				league)
+			    ,
+			    (NP the Continental)))
+		    ,
+		    (PP with
+			(NP (NP New York)
+			    (PP as
+				(NP the key franchise)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Continental League)
+      (ADVP never)
+      (VP got
+	  (PP off
+	      (NP the ground))))
+     ,
+     but
+     (S (PP after
+	    (NP two years))
+	(S
+	 (NP it)
+	 (VP forced
+	     (NP the existing majors)
+	     (S (NP *)
+		(AUX to)
+		(VP expand))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (X (NP Flushing stadium)
+     (PP in
+	 (NP works)))
+  )
+( (S
+   (NP The New York franchise)
+   (AUX is)
+   (VP headed
+	     
+       (PP by
+	   (NP Mrs. Charles Shipman Payson))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A
+	  (ADJP big-league) municipal
+	  stadium
+	  (PP at
+	      (NP Flushing Meadow Park)))
+      (VP is
+	  (PP in
+	      (NP the works))))
+     ,
+     and
+     (S (SBAR once
+	      (S (NP the lease)
+		 (AUX is)
+		 (VP signed
+		     )))
+	(S (NP the local club)
+	   (AUX will)
+	   (VP be
+	       (VP (ADVP formally)
+		   recognized
+		    
+		   (PP by
+		       (NP Commissioner Ford C. Frick)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Shea)
+    's efforts)
+   (VP figure
+       (ADVP prominently)
+       (PP in
+	   (NP the new stadium))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Shea)
+      and
+      (NP (NP his wife)
+	  ,
+	  (NP Nori)
+	  ,))
+  (VP make
+      (NP their home)
+      (PP at
+	  (NP (NP Sands Point)
+	      ,
+	      (NP L.
+		  I
+		  .)))))
+ .)
+((S  
+  (NP (NP (NP Bill Jr.)
+	  ,
+	  (NP 20))
+      ,
+      (NP (NP Kathy)
+	  ,
+	  (NP 15))
+      ,
+      and
+      (NP (NP Patricia)
+	  ,
+	  (NP 9)
+	  ,))
+  (VP round
+      (PRT out)
+      (NP the Shea family)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Shea)
+   (AUX was)
+   (VP born
+       )
+   (PP in
+       (NP Manhattan)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP attended
+       (NP New York University))
+   (PP before
+       (S  (NP *) 
+	   (VP switching
+	       (PP to
+		   (NP Georgetown University
+		       (PP in
+			   (NP Washington))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP played
+	(NP basketball))
+    (ADVP there)
+    (SBAR while
+	  (S (NP *) 
+	     (VP working
+		 (PP toward
+		     (NP a law degree))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Later)
+      ,
+      (S (NP Shea)
+	 (VP owned
+	     and
+	     operated
+	     (NP (NP the Long Island Indians)
+		 ,
+		 (NP a minor league professional football team)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (NP the lawyer
+	   (PP for
+	       (NP 
+		(NP Ted Collins)
+		'
+		(ADJP old)
+		Boston Yankees
+		(PP in
+		    (NP the National Football League)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All)
+   (VP was
+       (ADJP quiet))
+   (PP in
+       (NP the office
+	   (PP of
+	       (NP (NP the Yankees)
+		   and
+		   (NP the
+		       (ADJP local)
+		       National Leaguers)))))
+   (NP yesterday))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP Friday))
+   ,
+   (S (NP (NP Roger Maris)
+	  ,
+	  (NP (NP the Yankee outfielder)
+	      and
+	      (NP winner
+		  (PP of
+		      (NP 
+		       (NP the American League)
+		       's (ADJP most-valuable-player) award))))
+	  ,)
+      (AUX will)
+      (VP meet
+	  (PP with
+	      (NP (NP Roy Hamey)
+		  ,
+		  (NP the general manager))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Maris)
+   (VP is
+       (PP in
+	   (NP line
+	       (PP for
+		   (NP a big raise))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Arnold Palmer)
+      and
+      (NP Sam Snead))
+  (AUX will)
+  (VP be
+      (PP among
+	  (NP (NP those)
+	      (ADJP honored
+		    (PP at
+			(NP the national awards
+			    dinner
+			    (PP of
+				(NP the Metropolitan Golf Writers Association))))
+		    (NP tonight))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dinner)
+   (AUX will)
+   (VP be
+       (VP held
+		 
+	   (PP at
+	       (NP the Hotel Pierre)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Palmer)
+	  ,
+	  (NP 
+	   (NP golf)
+	   's leading money-winner
+	   (PP in
+	       (NP 1960)))
+	  ,)
+      and
+      (NP Snead))
+  (AUX will)
+  (VP be
+      (VP saluted
+	     
+	  (PP as
+	      (NP the winning team
+		  (PP in
+		      (NP the Canada Cup matches
+			  (NP  last
+			       June)
+			  (PP in
+			      (NP Dublin)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Deane Beman)
+	  ,
+	  (NP the National Amateur champion)
+	  ,)
+      and
+      (NP (NP all
+	      the metropolitan district champions)
+	  ,
+	  (VP including
+	      (NP (NP Bob Gardner)
+		  ,
+		  (NP the amateur title-holder)
+		  ,))))
+  (ADVP also)
+  (AUX will)
+  (VP receive
+      (NP awards)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The writers)
+    ' Gold Tee Award)
+   (AUX will)
+   (VP go
+       (PP to
+	   (NP John McAuliffe
+	       (PP of
+		   (NP (NP (NP Plainfield)
+			   ,
+			   (NP N.J.)
+			   ,)
+		       and
+		       (NP (NP Palm Beach)
+			   ,
+			   (NP Fla.)
+			   ,))))))
+   (PP for
+       (NP his sponsorship
+	   (PP of
+	       (NP charity tournaments)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Horton Smith
+	  (PP of
+	      (NP Detroit)))
+      ,
+      (NP a former president
+	  (PP of
+	      (NP the Professional Golfers Association)))
+      ,)
+  (AUX will)
+  (VP receive
+      (NP the Ben Hogan Trophy)
+      (PP for
+	  (NP his comeback
+	      (VP following
+		  (NP a recent illness))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The principal speaker)
+   (AUX will)
+   (VP be
+       (NP (NP Senator Stuart Symington)
+	   ,
+	   (NP Democrat
+	       (PP of
+		   (NP Missouri))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP (NP 
+	     (NP Golf)
+	     's golden boy))
+	(NP Arnold Palmer))
+    (AUX has)
+    (VP been
+	(NP a blazing figure
+	    (PP in
+		(NP golf))))
+    (PP over
+	(NP the
+	    (ADJP past)
+	    twelve months)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP won
+       (NP (NP the Masters)
+	   ,
+	   (NP the United States Open)
+	   and
+	   (NP a record $
+	       80,738
+	       (PP in
+		   (NP prize money))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (X (X (AUX was)
+	 (VP heralded
+	     (PP as
+		 (NP  ``
+		      Sportsman
+		      (PP of
+			  (NP the Year))
+		      ''))
+	     (PP by
+		 (NP Sports Illustrated))))
+      ,
+      and
+      (X  (NP last night)
+	  (AUX was)
+	  (VP acclaimed
+	        
+	      (PP in
+		  (NP Rochester))
+	      (PP as
+		  (NP (NP the
+			  ``
+			  Professional Athlete
+			  (PP of
+			      (NP the Year))
+			  '')
+		      ,
+		      (NP (NP a distinction)
+			  (SBAR (WHNP that)
+				(S (NP T)  
+				   (VP earned
+				       (PP for
+					   (NP him))
+				       (NP the
+					   $ 10,000
+					   (ADJP diamond-studded)
+					   Hickok Belt)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP he)
+	 (ADVP also)
+	 (VP achieved
+	     (NP (NP something)
+		 (SBAR (WHNP that)
+		       (S (NP T)  
+			  (VP endeared
+			      (NP him)
+			      (PP to
+				  (NP (NP every duffer)
+				      (SBAR 
+				       (WHNP who)
+				       (S   (NP T) 
+					    (ADVP ever)
+					    (VP flubbed
+						(NP a shot)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP  
+      (NP A couple
+	  (PP of
+	      (NP weeks)))
+      ago)
+     ,
+     (S (NP he)
+	(VP scored
+	    (NP a
+		(ADJP monstrous)
+		12)
+	    (PP on
+		(NP a (ADJP par-5) hole)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP made
+       (NP him)
+       (ADJP human)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP it)
+	 (ADVP also)
+	 (VP stayed
+	     (NP the hands
+		 (PP of
+		     (NP (NP thousands
+			     (PP of
+				 (NP  (ADJP brooding)
+				      incompetents)))
+			 (SBAR 
+			  (WHNP who)
+			  (S (NP T)
+			     (AUX were)
+			     (VP meditating
+				 (NP the abandonment
+				     (PP of
+					 (NP (NP a sport)
+					     (SBAR 
+					      (WHNP whose frustrations)
+					      (S (NP T)
+						 (AUX were)
+						 (VP driving
+						     (NP them)
+						     (PP  to
+							  (NP despair)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP  such
+		   a paragon
+		   (PP of
+		       (NP perfection))
+		   (PP as
+		       (NP Palmer)))
+	      (AUX could)
+	      (VP commit
+		  (NP  such
+		       a scoring sacrilege))))
+    ,
+    (S (NP there)
+       (VP was
+	   (NP (NP hope)
+	       (VP left
+		   (PP for
+		       (NP all)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (NP  neither
+	    (NP a spirit
+		(PP of
+		    (NP self-sacrifice)))
+	    nor
+	    (NP a yen
+		(S (NP *)
+		   (AUX to)
+		   (VP encourage
+		       (NP the
+			   (ADJP downtrodden)))))))
+   (SBAR (WHNP that)
+	 (S (NP T)  
+	    (VP motivated
+		(NP Arnold)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (ADVP merely)
+	became
+	(ADJP  victimized
+	       (PP by
+		   (NP (NP a form
+			   (PP of
+			       (NP athletics)))
+		       (SBAR (WHNP that)
+			     (S  (NP T) 
+				 (VP (VP respects
+					 (NP no one))
+				     and
+				     (VP aggravates
+					 (NP all))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP 
+       (NP The world)
+       's
+       best
+       golfer)
+      ,
+      (VP shooting
+	  (PP below
+	      (NP par)))
+      ,)
+  (VP came
+      (PP to
+	  (NP the last hole
+	      (PP of
+		  (NP the opening round
+		      (PP of
+			  (NP the Los Angeles open))))))
+      (PP with
+	  (NP every intention
+	      (PP of
+		  (S (NP *) 
+		     (VP delivering
+			 (NP a final crusher))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP boomed
+       (NP a (ADJP 280-yard) drive)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP (NP the pixies)
+	     and
+	     (NP the zombies))
+	 (VP took
+	     (PRT over))
+	 (SBAR while
+	       (S (NP the banshees)
+		  (VP wailed)
+		  (PP in
+		      (NP the distance))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP No margin
+     (PP for
+	 (NP error))))
+(   
+ (S  
+   (PP On
+       (NP the narrow fairway
+	   (PP of
+	       (NP a (ADJP 508-yard) hole))))
+   ,
+   (S (NP Arnold)
+      (VP whipped
+	  (PP into
+	      (NP his second shot)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ball)
+   (VP went
+       (ADVP off)
+       (PP in
+	   (NP (NP a majestic arc)
+	       ,
+	       (NP an (ADJP out-of-bounds) slice)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP tried
+	   (ADVP again))
+       and
+       (VP  (ADVP once
+		  more)
+	    sliced
+	    (PP out
+		(PP of
+		    (NP bounds))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP hooked
+       (NP the
+	   next
+	   two)
+       (PP (PP out
+	       (PP of
+		   (NP bounds)))
+	   (PP on
+	       (NP the opposite side)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP It
+	     (SBAR-1 *pseudo-attach*))
+	 (VP is
+	     (ADJP possible))
+	 (SBAR-1 that
+	       (S (NP I)
+		  (VP over-corrected))))
+      ''
+      ,
+      (S (NP he)
+	 (VP said
+	     (ADVP ruefully))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each
+       (PP of
+	   (NP the four wayward shots)))
+   (VP cost
+       (NP him)
+       (NP two strokes)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP So)
+   (S (NP he)
+      (VP wound
+	  (PRT up)
+	  (PP with
+	      (NP a dozen)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP (NP It)
+	     (NP-2 *pseudo-attach*))
+	 (VP was
+	     (NP a nice round figure))
+	 ,
+	 (NP-2 that 12))
+      ''
+      ,
+      (S (NP he)
+	 (VP said)
+	 (SBAR  as
+		(S (NP he)
+		   (VP headed
+		       (PP for
+			   (NP the clubhouse)))
+		   ,
+		   (S  (NP *) 
+		       (NEG not)
+		       (VP    (ADVP too
+				    much)
+			      perturbed))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP the standpoint
+	   (PP of
+	       (NP the army
+		   (PP of
+		       (NP duffers))))))
+   ,
+   (ADVP however)
+   ,
+   (S (NP this)
+      (VP was
+	  (ADVP easily)
+	  (NP (NP the
+		  (ADJP  most heartening)
+		  exhibition)
+	      (SBAR 0
+		    (S
+		     (NP they)
+		     (AUX had)
+		     (VP had
+			 (NP T) )
+		     (SBAR since
+			   (S (NP Ben Hogan)
+			      (VP (VP fell
+				      (PP upon
+					  (NP evil ways))
+				      (PP during
+					  (NP his heyday)))
+				  and
+				  (VP scored
+				      (NP an 11)
+				      (PP in
+					  (NP the Texas open))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The idol
+      (PP of
+	  (NP the hackers)))
+  ,
+  (PP of
+      (NP course))
+  ,
+  (VP is
+      (NP (NP Ray Ainsley)
+	  ,
+	  (SBAR 
+	   (WHNP who)
+	   (S (NP T)
+	      (VP achieved
+		  (NP a 19))
+	      (PP in
+		  (NP the United States Open)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their secondary hero)
+   (VP is
+       (NP (NP (NP another pro)
+	       ,
+	       (NP Willie Chisholm))
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP (VP drank
+		       (NP his lunch)
+		       (PP during
+			   (NP another Open)))
+		   and
+		   (VP tried
+		       (S (NP *)
+			  (AUX to)
+			  (VP blast
+			      (NP his way)
+			      (PP out
+				  (PP of
+				      (NP a (ADJP rock-strewn) gully))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Willie)
+    's partner)
+   (VP was
+       (NP (NP Long Jim Barnes)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (VP tried
+		   (S (NP *)
+		      (AUX to)
+		      (VP keep
+			  (NP count)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Stickler
+    (PP for
+	(NP rules))))
+(   
+ (SBARQ  ``
+	 (ADJP (WHADVP How)
+	       many)
+	 (SQ  (VP is)
+	      (NP that)
+	      ,
+	      (NP Jim))
+	 '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV 
+   (VP Asked)
+   (NP Willie)
+   (PP at
+       (NP one stage
+	   (PP of
+	       (NP his excavation project)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (NP Thirteen)
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP Long Jim)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (INTJ Nae)
+      ,
+      (NP man)
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP Willie))
+      ,
+      ``
+      (S (NP ye)
+	 (AUX must)
+	 (VP be
+	     (VP countin
+		 '
+		 (NP the echoes))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP had
+       (NP a 16)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Palmer)
+    's dozen)
+   (AUX were)
+   (VP  (ADVP honestly)
+	earned
+	))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV   Nor
+	  (VP were)
+	  (NP there)
+	  (NP any rules
+	      (S (NP *)
+		 (AUX to)
+		 (VP save
+		     (NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP there)
+	     (AUX had)
+	     (VP been)))
+   ,
+   (S (NP he)
+      (AUX would)
+      (VP have
+	  (VP found
+	      (NP a loophole)))
+      ,
+      (SBAR because
+	    (S (NP Arnold)
+	       (VP is
+		   (NP (NP one golfer)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP knows
+			       (NP the code)
+			       (ADVP as
+				     thoroughly
+				     (PP as
+					 (NP (NP the man)
+					     (SBAR 
+					      (WHNP who)
+					      (S (NP T)
+						 (VP wrote
+						     (NP the book))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This knowledge)
+   (AUX has)
+   (VP come
+       (PRT in)
+       (ADJP handy))
+   ,
+   (ADVP too))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His first shot)
+   (PP in
+       (NP the
+	   Open))
+   (NP  last
+	year)
+   (VP landed
+       (PP in
+	   (NP (NP a brook)
+	       (SBAR (WHNP that)
+		     (S  (NP T) 
+			 (VP flowed
+			     (PP along
+				 (NP the right side
+				     (PP of
+					 (NP the fairway)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The ball)
+   (VP floated
+       (ADVP downstream)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A spectator)
+   (VP (VP picked
+	   (PRT up)
+	   (NP the ball))
+       and
+       (VP handed
+	   (NP it)
+	   (PP to
+	       (NP (NP a small boy)
+		   ,
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (VP dropped
+			   (NP this
+			       (ADJP  (ADVP suddenly)
+				      hot) potato)
+			   (PP in
+			       (NP a
+				   (ADJP  very
+					  playable) lie))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Arnold)
+   (VP sent
+       (PP for
+	   (NP (NP Joe Dey)
+	       ,
+	       (NP the executive secretary
+		   (PP of
+		       (NP the golf association)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Joe)
+   (ADVP naturally)
+   (VP ruled
+       (SBAR that
+	     (S (NP a ball)
+		(VP be
+		    (VP dropped
+			  
+			(PP from
+			    (PP  alongside
+				 (NP (NP the spot)
+				     (SBAR 
+				      (WHADVP where)
+				      (S (NP it)
+					 (AUX had)
+					 (ADVP originally)
+					 (VP entered
+					     (NP the stream)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP knew
+	     (NP it)
+	     (ADVP all
+		   along)))
+      ''
+      ,
+      (SINV  
+       (VP confessed)
+       (NP Arnold)
+       (PP with
+	   (NP a grin)))
+      ,
+      ``
+      but
+      (S (NP I)
+	 (VP  (ADVP just)
+	      happened
+	      (S (NP *)
+		 (AUX to)
+		 (VP think
+		     (SBAR (ADJP (WHADVP how
+					 much)
+				 nicer)
+			   (S (NP it)
+			      (AUX would)
+			      (VP be)
+			      (S (NP *)
+				 (AUX to)
+				 (VP drop
+				     (NP one)
+				     (PP (ADVP way)
+					 up
+					 (ADVP there))))))))))
+      '')
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP (NP a
+		 serious young
+		 man)
+	     (SBAR 
+	      (WHNP who)
+	      (S (NP T)
+		 (VP plays
+		     (NP golf)
+		     (PP with
+			 (NP a serious intensity)))))))
+     ,
+     (S (NP Palmer)
+	(VP has
+	    (NP  
+	     such
+	     an inherent sense
+	     (PP of
+		 (NP humor))
+	     (SBAR that
+		   (S (NP it)
+		      (VP (VP relieves
+			      (NP the strain))
+			  and
+			  (VP keeps
+			      (NP his nerves)
+			      (PP from
+				  (S (NP *) 
+				     (VP jangling
+					 (PP like
+					     (NP banjo strings)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S   Yet
+       (S (NP he)
+	  (VP remains
+	      (NP the
+		  fiercest
+		  (PP of
+		      (NP competitors))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX 'll)
+   (VP  (ADVP even)
+	bull
+	(ADVP  head-on)
+	(PP into
+	    (NP the rules)))
+   (SBAR 
+    (WHADVP when)
+    (S (NP he)
+       (VP is
+	   (ADJP sure
+		 (SBAR 0
+		       (S (NP he)
+			  (VP 's
+			      (ADJP right)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP That)
+     (VP 's
+	 (SBAR 
+	  (WHADVP how)
+	  (S (NP he)
+	     (ADVP first)
+	     (VP won
+		 (NP the Masters))
+	     (PP in
+		 (NP 1958))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP happened
+       (PP on
+	   (NP (NP the  twelfth hole)
+	       ,
+	       (NP a
+		   155-yarder)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP
+   (NP Arnold)
+   's iron
+   shot
+   (PP from
+       (NP the tee)))
+  (VP burrowed
+      (PP into
+	  (NP (NP (NP the bunker)
+		  (VP guarding
+		      (NP the green)))
+	      ,
+	      (NP (NP an embankment)
+		  (SBAR (WHNP that)
+			(S (NP T)  
+			   (AUX had)
+			   (VP become
+			       (ADJP soft and spongy)
+			       (PP from
+				   (NP the rains))))))
+	      ,)))
+  (S  (NP *) 
+      (ADVP thereby)
+      (VP bringing
+	  (NP local rules)
+	  (PP into
+	      (NP force)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  (NP Ruling
+       (PP from
+	   (NP on
+	       high))))
+(  
+ (SQ  ``
+      (NP I)
+      (AUX can)
+      (VP remove
+	  (NP the ball))
+      ,
+      (SQ (AUX ca)
+	  (NEG n't)
+	  (NP I))
+      '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV 
+   (VP Asked)
+   (NP Palmer)
+   (PP of
+       (NP an official)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (INTJ No)
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP the official)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (AUX must)
+      (VP play
+	  (NP it)
+	  (SBAR 
+	   (WHADVP where)
+	   (S (NP it)
+	      (VP lies)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP You)
+	 (VP 're
+	     (ADJP wrong)))
+      ''
+      ,
+      (SINV  
+       (VP said)
+       (NP (NP Arnold)
+	   ,
+	   (NP (NP a man)
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP knows
+		       (NP the rules))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP I)
+	 (AUX 'll)
+	 (VP do
+	     (PP as
+		 (S (NP you)
+		    (VP say)))))
+      ,
+      but
+      (S (NP I)
+	 (AUX 'll)
+	 (ADVP also)
+	 (VP (VP play
+		 (NP a provisional ball))
+	     and
+	     (VP get
+		 (NP a ruling)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP scored
+       (X (X  (NP a 4)
+	      (PP for
+		  (NP the embedded ball)))
+	  ,
+	  (X (NP a 3)
+	     (PP with
+		 (NP the
+		     provisional
+		     one))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The golfing fathers)
+   (VP ruled
+       (PP in
+	   (NP his favor))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP So)
+   (S (NP he)
+      (VP (VP picked
+	      (PRT up)
+	      (NP a stroke)
+	      (PP with
+		  (NP the provisional ball)))
+	  and
+	  (VP won
+	      (NP the tournament)
+	      (PP by
+		  (NP the margin
+		      (PP of
+			  (NP that stroke))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Until
+       (ADVP (NP a few weeks)
+	     ago))
+   ,
+   (ADVP however)
+   ,
+   (S (NP Arnold Palmer)
+      (VP was
+	  (NP (NP some (ADJP god-like) creature)
+	      (SBAR 
+	       (WHNP who)
+	       (S (NP T)
+		  (VP had
+		      (NP nothing)
+		      (PP in
+			  (ADJP common
+				(PP with
+				    (NP the duffers)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP after
+	  (NP that 12
+	      (PP at
+		  (NP Los Angeles))))
+      (S
+       (NP he)
+       (VP became
+	   (NP (NP one
+		   (PP of
+		       (NP the boys)))
+	       ,
+	       (NP a
+		   (ADJP bigger)
+		   hero
+		   (PP than
+		       (S (NP he)
+			  (ADVP ever)
+			  (AUX had)
+			  (VP been)
+			  (ADVP before))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP A formula
+	  (S (NP *)
+	     (AUX to)
+	     (VP supply
+		 (NP players)
+		 (PP for
+		     (NP the
+			 new
+			 Minneapolis Vikings)))))
+      and
+      (NP the problem
+	  (PP of
+	      (S (NP *) 
+		 (VP increasing
+		     (NP the 1961 schedule)
+		     (PP to
+			 (NP fourteen games)))))))
+  (AUX will)
+  (VP be
+      (VP discussed
+	   
+	  (PP by
+	      (NP National Football League owners))
+	  (PP at
+	      (NP a meeting
+		  (PP at
+		      (NP the Hotel Warwick))))))
+  (NP today))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  Other items
+       (PP on
+	   (NP the agenda))
+       (PP during
+	   (NP (NP the meetings)
+	       ,
+	       (SBAR  
+		(WHNP which)
+		(S (NP T)
+		   (AUX are)
+		   (VP expected
+		    
+		       (S (NP *)
+			  (AUX to)
+			  (VP continue
+			      (PP through
+				  (NP Saturday)))))))
+	       ,)))
+  (VP concern
+      (NP (NP television)
+	  ,
+	  (NP rules
+	      changes)
+	  ,
+	  (NP 
+	   (NP professional football)
+	   's hall
+	   (PP of
+	       (NP fame)))
+	  ,
+	  (NP 
+	   (NP players)
+	   ' benefits)
+	  and
+	  (NP constitutional amendments))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The owners)
+   (AUX would)
+   (VP like
+       (S (NP each club
+	      (PP in
+		  (NP the (ADJP fourteen-team) league)))
+	  (AUX to)
+	  (VP play
+	      (NP (NP a (ADJP home-and-home) series
+		      (PP with
+			  (NP teams
+			      (PP in
+				  (NP its division)))))
+		  ,
+		  plus
+		  (NP two games
+		      (PP against
+			  (NP teams
+			      (PP in
+				  (NP the other division))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP this)
+	 (AUX would)
+	 (VP require
+	     (NP a lengthening
+		 (PP of
+		     (NP the season))
+		 (PP (PP from
+			 (NP thirteen))
+		     (PP to
+			 (NP fourteen weeks)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Pete Rozelle)
+      ,
+      (NP the league commissioner)
+      ,)
+  (VP pointed
+      (PRT out)
+      :
+      ``
+      (S (NP We)
+	 (AUX 'll)
+	 (VP (VP have
+		 (X (X (NP the problem
+			   (PP of
+			       (NP baseball)))
+		       (PP at
+			   (NP one end)))
+		    and
+		    (X (NP weather)
+		       (PP at
+			   (NP the
+			       other)))))))
+      ''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nine
+       (PP of
+	   (NP 
+	    (NP the league)
+	    's teams)))
+   (VP (VP play
+	   (PP in
+	       (NP baseball parks)))
+       and
+       (VP  (ADVP therefore)
+	    face
+	    (NP an (ADJP early-season) conflict
+		(PP in
+		    (NP dates))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

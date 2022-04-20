@@ -1,0 +1,2227 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A variety
+       (PP of
+           (NP techniques)))
+   (AUX have)
+   (VP been
+       (VP directed
+           (PP toward
+               (NP the isolation and study
+                   (PP of
+                       (NP blood group antibodies)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These)
+    (VP include
+        (NP (NP  low-temperature ethanol
+                 *LRB*
+                 Cohn
+                 *RRB*
+                 fractionation)
+            ,
+            (NP electrophoresis)
+            ,
+            (NP ultracentrifugation) 
+            and 
+            (NP column chromatography
+                (PP on
+                    (NP ion exchange celluloses))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Modifications
+       (PP of
+           (NP the last technique)))
+   (AUX have)
+   (VP been
+       (VP applied
+                 
+           (PP by
+               (NP several groups
+                   (PP of
+                       (NP investigators)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Abelson)
+      and
+      (NP Rawson))
+  ,
+  (S (NP *)  
+     (VP using
+         (NP a stepwise elution scheme)))
+  ,
+  (VP fractionated
+      (NP (NP whole sera)
+          (VP containing
+              (NP ABO
+                  and
+                  Rh antibodies)))
+      (PP on
+          (NP (NP diethylaminoethyl DEAE cellulose) and (NP carboxymethyl cellulose)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Speer)
+      and
+      (NP coworkers))
+  ,
+  (PP in
+      (NP a similar study
+          (PP of
+              (NP blood group antibodies
+                  (PP of
+                      (NP whole sera))))))
+  ,
+  (VP used
+      (NP a series
+          (PP of
+              (NP gradients)))
+      (PP for
+          (NP elution
+              (PP from
+                  (NP A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Fahey)
+      and
+      (NP Morrison))
+  (VP used
+      (NP a
+          single
+          ,
+          continuous
+          gradient
+          (PP at
+              (NP  
+	       constant
+               pH)))
+      (PP for
+          (NP the fractionation
+              (PP of
+                  (NP (ADJP anti-A
+                            and
+                            anti-B) agglutinins))
+              (PP from
+                  (NP (VP preisolated)
+                      ** yg-globulin samples))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the present work))
+   (S (S (NP whole sera)
+         (AUX have)
+         (VP been
+             (VP fractionated
+               
+                 (PP by
+                     (NP chromatography
+                         (PP on
+                             (NP DEAE-cellulose))))
+                 (S (NP *) 
+                    (VP using
+                        (NP (NP single gradients)
+                            (ADJP similar
+                                  (PP to
+                                      (NP (NP those)
+                                          (ADJP described
+                                                (PP by
+                                                    (NP (NP Sober)
+                                                        and
+                                                        (NP
+                                                         Peterson)))))))))))))
+      ,
+      and
+      (S (NP certain (ADJP chemical
+                           and
+                           serological) properties
+                           (PP of
+                               (NP (NP the fractions)
+                                   (VP containing
+                                       (NP antibodies
+                                           (PP of
+                                               (NP the ABO
+                                                   and
+                                                   Rh
+                                                   systems)))))))
+         (AUX have)
+         (VP been
+             (VP described
+                 )))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Materials and methods samples)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Serum samples)
+   (AUX were)
+   (VP obtained
+             
+       (PP from
+           (NP normal group
+               A
+               ,
+               group
+               B
+               and
+               group O donors))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Three
+        (PP of
+            (NP (NP the anti-Rh sera)
+                (VP used))))
+    (AUX were)
+    (VP taken
+                 
+        (PP from
+            (NP (VP  recently
+                     sensitized)
+                individuals))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One)
+   (VP (VP contained
+           (NP complete antibody))
+       and
+       (VP had
+           (NP a titer
+               (PP of
+		   (NP (NP 1 : 512)
+		       (PP in
+			   (NP saline))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The second)
+   (VP (VP contained
+           (NP incomplete antibody))
+       and
+       (VP showed
+           (NP titers
+               (PP of
+                   (NP (NP (NP 1 : 256)
+                           (PP in
+                               (NP albumin)))
+                       and
+                       (NP  (NP 1 : 2048)
+                            (PP by
+                                (NP the
+				    indirect
+                                    Coombs test)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The
+          (ADJP third))
+      ,
+      (VP containing
+          (NP the mixed type
+              (PP of
+                  (NP (ADJP complete and incomplete) antibodies))))
+      ,)
+  (VP had
+      (NP titers
+          (PP of
+              (NP (NP (NP 1 : 256)
+                      (PP in
+                          (NP saline)))
+                  ,
+                  (NP (NP 1 : 512)
+                      (PP in
+                          (NP albumin)))
+                  and
+                  (NP (NP 1 : 1024)
+                      (PP by
+                          (NP the
+			      indirect
+                              Coombs test))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP addition))
+   (S (NP  one
+           serum)
+      (AUX was)
+      (VP obtained
+           
+          (PP from
+              (NP (NP (NP a donor)
+		      *LRB*
+		      (NP R.E.)
+		      *RRB*)
+                  (SBAR  
+                   (WHNP who)
+                   (S (NP T)
+                      (AUX had)
+                      (VP been
+                          (VP sensitized))
+                      (ADVP (NP 6 years)
+                            previously))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This serum)
+   (VP exhibited
+       (NP titers
+           (PP of
+               (NP (NP (NP 1 : 16)
+                       (PP in
+                           (NP albumin)))
+                   and
+                   (NP (NP 1 : 256)
+                       (PP by
+                           (NP the
+			       indirect
+                               Coombs test))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These antibody titers)
+   (AUX were)
+   (VP determined
+             
+       (PP by
+           (NP reaction
+               (PP with
+                   (NP homozygous A[fj] red cells))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Serological technique)
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (ADJP Anti-A
+            and
+            anti-B) activities)
+  (AUX were)
+  (VP determined
+         
+      (PP in
+          (NP fractions))
+      (PP from
+          (NP the sera
+              (PP of
+                  (NP group
+                      A
+                      ,
+                      group
+                      B
+                      or
+                      group O donors))))
+      (PP by
+          (NP the (ADJP following) tube agglutination methods))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One drop
+       (PP of
+           (NP each sample)))
+   (AUX was)
+   (VP added
+             
+       (PP to
+           (NP one drop
+               (PP of
+                   (NP a 2 % suspension
+                       (PP of
+                           (NP group A[fj] or group
+                               B red cells))))
+               (PP in
+                   (NP a small A[fj] test tube))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP several instances))
+   (S  (NP group O cells)
+       (AUX were)
+       (ADVP also)
+       (VP used
+             
+	   (PP as
+	       (NP controls)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The red cells)
+   (X (X (AUX were)
+         (VP used
+              
+             (PP within
+                 (PP (NP 2 days)
+                     after
+                     (NP donation)))))
+      and
+      (X  
+       (AUX were)
+       (VP washed
+           
+           (PP with
+               (NP large amounts
+                   (PP of
+                       (NP saline)))))
+       (PP before
+           (NP use)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The mixtures
+       (PP of
+           (NP 
+            (NP sample) 
+            plus 
+            (NP cell suspension))))
+   (AUX were)
+   (VP allowed
+ 
+       (S (NP *)
+          (AUX to)
+          (VP stand
+              (PP at
+                  (NP room temperature))
+              (PP for
+                  (NP 1 A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tubes)
+   (AUX were)
+   (ADVP then)
+   (VP (VP centrifuged
+        
+           (PP at
+               (NP 1000 rpm))
+           (PP for
+               (NP 1 min)))
+       and
+       (VP examined
+           (ADVP macroscopically)
+           (PP for
+               (NP agglutination)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP the albumin method))
+   ,
+   (S  
+    (NP (NP equal volumes
+            (PP of
+                (NP (NP 30 % bovine albumin)
+                    ,
+                    (NP sample)
+                    and
+                    (NP 2 % cells))))
+        (VP suspended
+            (PP in
+                (NP saline))))
+    (X (X (AUX were)
+          (VP allowed
+          
+              (S (NP *)
+                 (AUX to)
+                 (VP stand
+                     (PP at
+                         (NP room temperature))
+                     (PP for
+                         (NP 1 hr))))))
+       and
+       (ADVP then)
+       (X  
+        (AUX were)
+        (VP centrifuged
+           
+            (PP at
+                (NP 1000 rpm))
+            (PP for
+		(NP 1 A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All samples)
+   (AUX were)
+   (VP tested
+             
+       (PP by
+           (NP both
+               the saline and albumin methods))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The activities
+        (PP of
+            (NP fractions
+                (PP of
+                    (NP (NP sera)
+                        (VP containing
+                            (NP Rh antibodies)))))))
+    (AUX were)
+    (VP tested
+         
+        (PP by
+            (NP the (ADJP saline
+                          ,
+                          albumin
+                          and
+                          indirect
+                          Coombs) techniques))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP  (NP (ADJP Homozygous and heterozygous)
+              A[fj] cells)
+          ,
+          (NP A[fj])
+          and
+          (NP (ADJP homozygous and heterozygous) A[fj] cells))
+     (AUX were)
+     (VP used
+         
+         (S (NP *)
+            (AUX to)
+            (VP test
+                (NP each sample)))))
+    ;
+    ;
+    (S  (ADVP however)
+        ,
+        (PP in
+            (NP the interest
+                (PP of
+                    (NP (NP clarity) and (NP conciseness)))))
+        (S (NP  (NP only
+                    the results)
+                (VP obtained
+                    (PP with
+                        (NP (NP homozygous A[fj])
+                            and
+                            (NP homozygous A[fj] cells)))))
+           (AUX will)
+           (VP be)
+           (VP presented
+               (ADVP here)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The saline and albumin tests)
+   (AUX were)
+   (VP performed
+             
+       (PP as
+           (S (NP *) 
+              (VP described
+                  (PP for
+                      (NP the ABO samples))))))
+   (PP except
+       (SBAR that
+             (S (NP the mixture)
+                (AUX was)
+                (VP incubated
+                          
+                    (PP for
+                        (NP 1 hr))
+                    (PP at
+                        (NP 37-degrees-C)))
+                (PP before
+                    (NP centrifugation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The saline tubes)
+   (AUX were)
+   (VP (VP saved)
+       and
+       (VP used
+           (PP for
+               (NP the
+		   indirect
+                   Coombs test))
+           (PP in
+               (NP the following manner)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The cells)
+      (AUX were)
+      (VP washed
+          (NP three times)
+          (PP with
+              (NP saline))))
+     ,
+     (S (NP anti-human serum)
+        (AUX was)
+        (VP added
+            ))
+     ,
+     (S (NP the cells)
+        (AUX were)
+        (VP resuspended
+            ))
+     ,
+     and
+     (S (NP the mixture)
+        (AUX was)
+        (VP (VP centrifuged
+             
+                (PP at
+                    (NP 1000 rpm))
+                (PP for
+                    (NP 1 min)))
+            and
+            (VP examined
+                (PP for
+                    (NP agglutination))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The anti-human sera)
+       (VP used))
+   (AUX were)
+   (VP prepared
+             
+       (PP by
+           (S (NP *) 
+              (VP injecting
+                  (NP whole human serum)
+                  (PP into
+                      (NP rabbits)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Those antisera)
+       (VP shown
+           (PP by
+               (NP immunoelectrophoresis))
+           (S (NP *)
+              (AUX to)
+              (VP be
+                  (PP of
+                      (NP the
+                          ``
+                          broad spectrum
+                          ''
+                          type))))))
+   (AUX were)
+   (VP selected
+             
+       (PP for
+           (NP use
+               (PP in
+                   (NP the present study))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The red cells
+       (PP for
+           (NP the Rh antibody tests)))
+   (AUX were)
+   (VP used
+             
+       (PP within
+           (PP (NP 3 days)
+	       after
+	       (S (NP *)  
+		  (VP drawing)))))
+   (PP except
+       (PP for
+           (NP (NP the A[fj] cells)
+               ,
+               (SBAR 
+                (WHNP which)
+                (S (NP T)
+                   (AUX had)
+                   (VP been
+                       (VP (VP glycerolized)
+                           and
+                           (VP stored
+                               at
+                               (NP  -
+                                    20-degrees-C)
+                               (PP for
+                                   (NP  approximately
+                                        1 year)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP These cells)
+    (X (X (AUX were)
+          (VP thawed
+                 
+              (PP at
+                  (NP 37-degrees-C))
+              (PP for
+                  (NP 30 min))))
+       and
+       (X   
+        (AUX were)
+        (VP deglycerolized
+              
+            (PP by
+		(S (NP *)
+		   (VP (ADVP alternately)
+		       (VP centrifuging)
+		       and
+		       (VP mixing
+			   (PP with
+			       (NP (NP  (ADJP descending)
+					concentrations
+					(PP of
+					    (NP glycerol solutions)))
+				   *LRB*
+				   (NP 20 ,
+				       18 ,
+				       10 ,
+				       8 ,
+				       4
+				       and
+				       2 %)
+				   *RRB*))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cells)
+   (AUX were)
+   (ADVP then)
+   (VP (VP washed
+           (NP three times)
+           (PP with
+               (NP saline)))
+       and
+       (VP resuspended
+           (PP to
+               (NP 2 %))
+           (PP in
+               (NP saline)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Chromatography)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Blood samples)
+      (AUX were)
+      (VP (VP allowed
+             
+              (S (NP *)
+                 (AUX to)
+                 (VP clot
+                     (PP at
+                         (NP room temperature))
+                     (PP for
+                         (NP 3 hr)))))
+          ,
+          (VP centrifuged)))
+     and
+     (S (NP the serum)
+        (AUX was)
+        (VP removed
+            )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The serum)
+    (AUX was)
+    (VP (VP measured
+            (ADVP volumetrically))
+        and
+        (ADVP subsequently)
+	(VP dialyzed
+            (PP in
+                (NP the cold))
+            (PP for
+                (NP (PP at
+                        (ADJP least))
+                    24 hr))
+            (PP against
+                (NP  (NP three
+			 (PP to
+			     (NP four)))
+		     changes
+		     ,
+		     (NP (ADVP approximately)
+			 750 ml
+			 each)
+		     ,
+		     (PP of
+			 ``
+			 (NP starting
+			     buffer)
+			 ''))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP This buffer)
+      ,
+      (NP pH 8.6)
+      ,)
+  (VP (VP was
+          (NP 0.005
+              M)
+          (PP in
+              (NP A[fj])))
+      and
+      (X  (NP 0.039 M)
+          (PP in
+              (NP tris
+                  *LRB*
+                  hydroxymethyl
+                  *RRB*
+                  -
+                  aminometha
+                  *LRB*
+                  Tris
+                  *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP After
+         (NP dialysis))
+     (S (S
+         (NP the sample)
+         (AUX was)
+         (VP centrifuged
+             ))
+        and
+        (S (NP the
+               supernatant)
+           (VP placed
+               (PP on
+                   (NP a A[fj] cm column
+                       (PP of
+                           (NP (NP EEAE-cellulose)
+                               (VP equilibrated
+                                   (PP with
+                                       (NP  starting
+                                            buffer)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP The DEAE-cellulose)
+      ,
+      (VP containing
+          (NP 0.78
+              mEq
+              (PP of
+                  (NP N))))
+      ,)
+  (AUX was)
+  (VP prepared
+       
+      (PP in
+          (NP our laboratory))
+      (PP by
+          (NP (NP the method
+                  (PP of
+                      (NP (NP Peterson)
+                          and
+                          (NP Sober))))
+              *LRB*
+              (NP 7)
+              *RRB*))
+      (PP from
+          (NP (NP (VP powdered)
+                  cellulose)
+              ,
+              (NP 100 -
+                  230 mesh)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The small amount
+            (PP of
+                (NP insoluble material)))
+        (SBAR  
+         (WHNP which)
+         (S (NP T)
+            (VP precipitated)
+            (PP during
+                (NP dialysis)))))
+    (AUX was)
+    (VP (VP suspended
+          
+            (PP in
+                (NP  (ADVP approximately)
+                     5 ml
+                     (PP of
+                         (NP  starting
+                              buffer)))))
+        ,
+        (VP centrifuged)
+        ,
+        (VP resuspended
+            (PP in
+                (NP 2.5 ml
+                    (PP of
+                        (NP isotonic saline)))))
+        and
+        (VP tested
+            (PP for
+                (NP antibody activity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The chromatography)
+   (AUX was)
+   (VP done
+             
+       (PP at
+           (NP 6-degrees-C))
+       (S (NP *) 
+          (VP using
+              (NP gradient elution)))
+       ,
+       (VP (ADVP essentially)
+           according
+           (PP to
+               (NP (NP Sober)
+                   and
+                   (NP Peterson))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP (NP The
+              deep concave
+              gradient)
+          (VP employed))
+      *LRB*
+      (NP fig. 2)
+      *RRB*)
+  (X (X (AUX was)
+        (VP obtained
+       
+            (PP with
+                (NP (NP  a (ADJP nine-chambered) gradient elution device)
+                    *LRB*
+                    (NP ``
+			(NP Varigrad)
+			''
+			,
+			(NP reference
+			    *LRB*
+			    8
+			    *RRB*))
+                    *RRB*))))
+     and
+     (X  
+      (AUX has)
+      (VP been
+          (VP described
+              (ADVP elsewhere))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The
+          other)
+      ,
+      (NP a
+          shallow concave
+          gradient)
+      *LRB*
+      (NP Fig. 1)
+      *RRB*
+      ,)
+  (AUX was)
+  (VP produced
+      (PP with
+          (NP a
+              (ADJP so-called)
+              ``
+              cone-sphere
+              ''
+              apparatus))
+      ,
+      (S (S (NP the
+                ``
+                cone
+                '')
+            (VP being
+                (NP a (ADJP 2-liter) Erlenmeyer flask)))
+         and
+         (X (NP the
+                ``
+                sphere
+                ,
+                '')
+            (NP a
+                (ADJP 2-liter) round-bottom
+                flask)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Each)
+      (ADVP initially)
+      (VP  contained
+           (NP 1700 ml
+               (PP of
+                   (NP buffer)))))
+   ;
+   ;
+   (SINV (SINV  
+          (PP in
+              (NP the sphere))
+          (AUX was)
+          (NP  starting
+               buffer))
+         and
+         (SINV  
+          (PP in
+              (NP the cone))
+          (VP was)
+          (NP (NP final buffer)
+              ,
+              (NP (NP 0.50 M
+                      (PP in
+                          (NP both 
+                              (NP A[fj])
+                              and
+                              (NP Tris))))
+                  ,
+                  (NP pH 4.1))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A flow rate
+          (PP of
+              (NP 72 A[fj])))
+      (AUX was)
+      (VP used
+          ))
+     and
+     (S (NP 12 ml fractions)
+        (AUX were)
+        (VP collected
+            )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Approximately
+         165 fractions)
+    (AUX were)
+    (VP obtained
+             
+        (PP from
+            (NP each column))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX were)
+   (VP (VP read
+             
+           (PP at
+               (NP 280 m ** ym))
+           (PP in
+               (NP a Beckman model DU spectrophotometer)))
+       and
+       (VP tested
+           (PP for
+               (NP antibody activity))
+           (PP as
+               (S (NP *)  
+                  (VP described
+                      (ADVP above)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Paper electrophoresis)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP protein identification))
+   ,
+   (S (NP fractions
+          (PP from
+              (NP the column)))
+      (AUX were)
+      (VP concentrated
+             
+          (PP (PP by
+                  (NP pervaporation
+                      (PP against
+                          (NP a stream
+                              (PP of
+                                  (NP air))))
+                      (PP at
+                          (NP 5-degrees-C))))
+	      or
+	      (PP by
+		  (NP negative pressure dialysis
+		      (PP in
+			  (NP (NP an apparatus)
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (VP permitted
+				      (NP  simultaneous
+					   (NP concentration
+					       (PP of
+						   (NP the protein)))
+					   and
+					   (NP dialysis
+					       (PP against
+						   (NP isotonic saline)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP During
+         (NP the latter procedure))
+     (S
+      (NP the temperature)
+      (AUX was)
+      (VP maintained
+           
+          (PP at
+              (NP 2-degrees-C))
+          (PP by
+              (S (NP *) 
+                 (VP surrounding
+                     (NP the apparatus)
+                     (PP with
+                         (NP ice))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Because
+          (S (NP negative pressure dialysis)
+             (VP (VP gave
+                     (NP 
+		      better
+                      recovery
+                      (PP of
+                          (NP proteins))))
+                 ,
+                 (VP permitted
+                     (NP detection
+                         (PP of
+                             (NP (NP proteins)
+                                 (VP  concentrated
+                                      (PP from
+                                          (NP  (ADJP very
+                                                     dilute) solutions)))))))
+                 and
+                 (VP was
+                     (NP a
+			 gentler
+                         procedure)))))
+   ,
+   (S (NP it)
+      (AUX was)
+      (VP used
+             
+          (PP in
+              (NP  all
+                  (PP but
+                      (NP the
+			  earliest
+                          experiments)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Paper electrophoresis)
+   (AUX was)
+   (VP carried
+             
+       (PRT out)
+       (PP on
+           (NP the (VP concentrated) samples))
+       (PP in
+	   (NP a Spinco model R cell))
+       (S (NP *)
+	  (VP using
+	      (NP (NP barbital buffer)
+		  ,
+		  (NP (NP pH 8.6)
+		      ,
+		      (NP (NP ionic strength)
+			  (NP 0.075)))
+		  ,)))
+       (PP at
+           (NP room temperature))
+       (PP on
+           (NP Whatman 3MM filter paper))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP Five milliamperes)
+   (AUX were)
+   (VP applied
+             
+       (PP for
+	   (NP 18 hr)))
+   ,
+   (SBAR (WHPP after
+	       (WHNP which))
+	 (S (S (NP the strips)
+	       (AUX were)
+	       (VP stained
+                 
+		   (PP with
+		       (NP bromphenol blue))))
+	    and
+	    (S (NP densitometry)
+	       (AUX was)
+	       (VP carried
+		   (PRT out)
+		   (S (NP *) 
+		      (VP using
+			  (NP a Spinco Analytrol))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP paper electrophoresis)
+         (VP was
+             (S (NP *)
+                (AUX to)
+                (VP be
+                    (VP used
+                             
+                        (PP for
+                            (NP preparation))))))))
+     ,
+     (S (NP eight strips
+            (PP of
+                (NP (NP a whole serum sample)
+                    or
+                    (NP (NP a chromatographic fraction)
+                        (VP concentrated
+                            (PP by
+                                (NP negative pressure dialysis)))))))
+        (AUX were)
+        (VP run
+            (PP under
+                (NP (NP the conditions)
+                    (VP described
+                        (ADVP above)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP the end
+           (PP of
+               (NP the run))))
+   ,
+   (S (NP the strips
+          (PP in
+              (NP the (ADJP third and sixth) positions
+                  (PP in
+                      (NP each chamber)))))
+      (AUX were)
+      (VP (VP dried)
+          ,
+          (VP stained
+              (PP for
+                  (NP 1 hr)))
+          ,
+          (VP washed)
+          and
+          (VP dried))
+      ,
+      (SBAR while
+            (S (NP the other strips)
+               (AUX were)
+               (VP maintained
+                   
+                   (PP in
+                       (NP a horizontal position))
+                   (PP at
+                       (NP 1-degree-C)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (ADJP unstained) strips)
+   (AUX were)
+   (ADVP then)
+   (VP (VP marked
+           ,
+           (S (NP *) 
+              (VP using
+                  (NP the  (ADJP stained) ones)
+                  (PP as
+                      (NP a guide)))))
+       ,
+       and
+       (VP cut
+           (ADVP transversely)
+           (SBAR   so
+                   as
+                   (S (NP *)
+                      (AUX to)
+                      (VP separate
+                          (NP the various protein bands)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP The strip sections)
+           (VP containing
+               (ADVP a given protein)))
+       (AUX were)
+       (VP (VP pooled
+               )
+           ,
+           (VP eluted
+               (PP with
+                   (NP 0.5 ml
+                       (PP of
+                           (NP isotonic saline)))))))
+    ,
+    and
+    (S (NP the eluates)
+       (AUX were)
+       (VP tested
+            
+           (PP for
+               (NP antibody activity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP Ultracentrifugation)
+   .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Fractions
+            (PP from
+                (NP the column)))
+        (SBAR  
+         (WHNP which)
+         (S (NP T)
+            (VP were
+                (S (NP *)
+                   (AUX to)
+                   (VP be
+                       (VP subjected
+                             
+                           (PP to
+                               (NP analytical ultracentrifugation)))))))))
+    (AUX were)
+    (VP (VP concentrated
+         
+            (PP by
+                (NP negative pressure dialysis)))
+        and
+        (VP dialyzed
+            (PP for
+                (NP 16 hr))
+            (PP in
+                (NP the cold))
+            (PP against
+                (NP (PP at
+                        (ADJP least))
+                    500 volumes
+                    (PP of
+                        (NP (NP (ADJP phosphate-buffered) saline)
+                            ,
+			    (NP (NP pH 7.2)
+				,
+				(NP  (NP ionic strength)
+				     (NP 0.154))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX were)
+   (ADVP then)
+   (VP centrifuged
+        
+       (PP at
+           (NP 59,780 Pm))
+       (PP for
+           (NP (NP 35
+                   (PP to
+                       (NP 80)))
+               min))
+       (PP at
+           (NP 20-degrees-C))
+       (PP in
+           (NP a Spinco model E ultracentrifuge))
+       (PP at
+           (NP a protein concentration
+               (PP of
+                   (NP 1.00
+                       (PP to
+                           (NP 1.25 %))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Sedimentation coefficients)
+      (AUX were)
+      (VP computed
+           
+          (PP as
+              (NP A[fj] values))))
+     and
+     (S (NP relative amounts
+            (PP of
+                (NP the various components)))
+        (AUX were)
+        (VP calculated
+             
+            (PP from
+                (NP the Schlieren patterns)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP preparative ultracentrifugation))
+   ,
+   (S (NP fractions
+          (PP from
+              (NP the column)))
+      (AUX were)
+      (VP (VP concentrated
+              (PP by
+                  (NP negative pressure dialysis))
+              (PP to
+                  (NP volumes
+                      (PP of
+                          (NP (NP 1 ml)
+                              or
+                              (ADJP less))))))
+          ,
+          (VP transferred
+              (PP to
+                  (NP cellulose tubes)))
+          and
+          (VP diluted
+              (PP to
+                  (NP 12 ml))
+              (PP with
+                  (NP isotonic saline))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ultracentrifugation)
+   (AUX was)
+   (ADVP then)
+   (VP carried
+        
+       (PRT out)
+       (PP in
+           (NP a Spinco model L ultracentrifuge))
+       (PP at
+           (NP 40,000 rpm))
+       (PP for
+           (NP (NP 125
+                   (PP to
+                       (NP 150)))
+               min))
+       ,
+       (S (NP refrigeration)
+          (AUX being)
+          (VP used
+              (PP throughout
+                  (NP the run))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADJP Successive)
+        1-ml fractions)
+    (AUX were)
+    (ADVP then)
+    (VP (VP drawn
+            
+            (ADVP off)
+            (PP with
+                (NP a hypodermic syringe))
+            ,
+            (S (NP *) 
+               (VP starting
+                   (PP at
+                       (NP the top
+                           (PP of
+                               (NP the tube)))))))
+        ,
+        and
+        (VP tested
+            (PP for
+                (NP agglutinin activity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Other methods)
+   (AUX will)
+   (VP be
+       (VP described
+           (ADVP below))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (X  
+   (ADJP Experimental)
+   and
+   (NP results))
+  )
+((S (NP (NP The insoluble material)
+        (SBAR  (WHNP which)
+               (S (NP T)
+                  (VP precipitated
+                      (PP during
+                          (NP dialysis))
+                      (PP against
+                          (NP  starting
+                               buffer))))))
+    (ADVP always)
+    (VP showed
+        (NP intense agglutinin activity))
+    ,
+    (ADVP regardless
+          (PP of
+              (NP the blood group
+                  (PP of
+                      (NP the donor))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP either
+           (PP of
+               (NP (NP the gradients)
+                   (VP described)))))
+   ,
+   (S (NP chromatography
+          (PP on
+              (NP DEAE-cellulose)))
+      (VP separated
+          (NP agglutinins
+              (PP of
+                  (NP the ABO series)))
+          (PP into
+              (NP (NP (NP (PP at
+                              (ADJP least))
+                          three regions)
+                      *LRB*
+                      (NP Figs. 1
+                          and
+                          2)
+                      *RRB*)
+                  :
+                  (NP (NP one
+                          (PP of
+                              (NP 
+                               (ADJP extremely
+                                     low) anionic
+                               binding capacity)))
+                      ,
+                      (NP one
+                          (PP of
+                              (NP 
+                               low anionic
+                               binding capacity)))
+                      and
+                      (NP one
+                          (PP of
+                              (NP 
+                               high anionic
+                               binding capacity)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX have)
+   (VP been
+       (VP labeled
+                 
+           (NP (NP Regions 1
+                   ,
+                   2
+                   ,
+                   and
+                   4)
+               ,
+               (ADVP respectively)
+               ,)
+           (PP in
+               (NP Fig. 1)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP the early part
+           (PP of
+               (NP the gradient)))
+       (AUX was)
+       (VP flattened
+           ,
+           (PP  either
+                (PP by
+                    (S (NP *) 
+                       (VP using
+                           (NP (NP the gradient)
+                               (VP shown
+                                   (PP in
+                                       (NP Fig. 2)))))))
+                or
+                (PP by
+                    (S (NP *) 
+                       (VP allowing
+                           (NP the
+                               ``
+                               cone-sphere
+                               ''
+                               gradient)
+                           (S (NP *)
+                              (AUX to)
+                              (VP become
+                                  (ADJP established)
+                                  (ADVP more slowly)))))))
+           ,)))
+   (S (NP  Region 2
+           activity)
+      (AUX could)
+      (ADVP sometimes)
+      (VP be
+          (VP separated
+               
+              (PP into
+                  (NP (NP two areas)
+                      *LRB*
+                      (NP (NP (NP donors
+				  (NP (NP P.J.)
+				      and
+				      (NP R.S.)))
+                              ,
+                              (NP Fig. 1))
+                          and
+                          (NP (NP E.M.)
+                              ,
+                              (NP Fig. 2)))
+                      *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The latter procedure)
+    (VP gave
+        (NP rise)
+	(PP to
+	    (NP a
+		small active
+		protein peak
+		*LRB*
+		(NP Region 1a)
+		*RRB*
+		(PP between
+		    (NP Regions 1
+			and
+			2))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 2
+           (PP of
+               (NP 15 experiments
+                   (PP on
+                       (NP whole serum))))))
+   (S (NP (NP a region
+              (PP of
+                  (NP agglutinin activity))
+              (PP with
+                  (NP 
+                   intermediate anionic
+                   binding capacity)))
+          (NP-1 *pseudo-attach*))
+      (AUX was)
+      (VP detected
+          )
+      *LRB*
+      (NP-1 (NP Region 3)
+            ,
+            (NP Fig. 1))
+      *RRB*))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (PP after
+          (NP concentration
+              (S  (NP *) 
+                  (VP using
+                      (NP negative pressure dialysis)))))
+      ,
+      (S (NP agglutinin activity)
+         (AUX could)
+         (ADVP sometimes)
+         (VP be
+             (VP detected
+                 
+                 (PP in
+                     (NP (NP (NP the region)
+                             (VP designated
+                                 (NP 2a)))
+                         *LRB*
+                         (NP (NP donors
+                                 (NP (NP P.J.)
+                                     ,
+                                     (NP D)
+                                     ,
+                                     and
+                                     (NP J.F.)))
+                             ,
+                             (NP Fig. 1))
+                         *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Not
+         all
+	 these regions)
+    (VP exhibited
+        (NP equal
+            agglutinating
+            activity))
+    ,
+    (PP as
+        (S (NP *) 
+           (VP evidenced
+               (PP by
+                   (NP (NP titer)
+                       and
+                       (NP the extent
+                           (PP of
+                               (NP the active areas)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP all cases))
+   ,
+   (S (NP  most
+           (PP of
+               (NP the activity)))
+      (VP lay
+          (PP in
+              (NP the region
+                  (PP of
+                      (NP 
+                       high anionic
+                       binding capacity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADJP  particularly
+              noticeable)
+       (PP in
+           (NP (NP group
+                   A
+                   and
+                   group B sera)
+               ,
+               (SBAR 
+                (WHPP in
+                      (WHNP which cases))
+                (S (NP activity
+                       (PP in
+                           (NP Regions 1
+                               and
+                               2)))
+                   (X (VP was
+                          (ADVP usually)
+                          (ADJP (NEG not)
+                                detectable)
+                          (PP without
+                              (NP prior concentration)))
+                      and
+                      (X  (ADVP occasionally)
+                          (AUX could)
+                          (NEG not)
+                          (VP be
+                              (VP detected
+                           
+                                  (PP at
+                                      (NP all))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP appeared
+        (S (NP *)
+           (AUX to)
+           (VP be
+               (NP no difference
+                   (PP in
+                       (NP the distribution
+                           (PP of
+                               (NP (ADJP anti-A
+                                         and
+                                         anti-B) activity))
+                           (PP in
+                               (NP group O serum))))))))
+    ,
+    (SBAR though
+          (S (S (PP in
+                    (NP (NP two group O donors)
+                        *LRB*
+                        (NP (NP J.F.)
+                            and
+                            (NP E.M.))
+                        *RRB*))
+                (S (NP  only
+                        one type
+                        (PP of
+                            (NP agglutinin)))
+                   (AUX was)
+                   (VP found
+                 
+                       (PP in
+                           (NP the regions
+                               (PP of
+                                   (NP 
+                                    low anionic
+                                    binding capacity)))))))
+             *LRB*
+             (NP Figs. 1
+                 and
+                 2)
+             *RRB*)))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP Several samples
+        (PP of
+            (NP (VP citrated)
+                plasma)))
+    (AUX were)
+    (VP fractionated
+         
+        (PP in
+            (NP our laboratory))
+        (PP by
+            (NP Method 6
+                (PP of
+                    (NP Cohn
+                        et
+                        al))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These fractions)
+   (AUX were)
+   (VP tested
+             
+       (PP for
+           (NP ABO agglutinin activity)))
+   ,
+   (S (NP *) 
+      (VP using
+          (NP fractions
+              (PP from
+                  (NP group AB plasma)))
+          (PP as
+              (NP a control)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (S  (NP *)  
+           (VP expected)))
+   ,
+   (S  (NP most
+           (PP of
+               (NP the activity)))
+       (AUX was)
+       (VP found
+               
+           (PP in
+               (NP Fraction A[fj])))
+       ,
+       (PP with
+           (S (NP slight activity)
+              (VP seen
+                  (PP in
+                      (NP Fraction 4-1)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A sample
+       (PP of
+           (NP Fraction A[fj]))
+       (PP from
+           (NP group O plasma)))
+   (AUX was)
+   (VP (VP dissolved
+             
+           (PP in
+               (NP  starting
+                    buffer)))
+       ,
+       (VP dialyzed
+           (PP against
+               (NP this buffer)))
+       and
+       (VP subjected
+           (PP to
+               (NP (NP chromatography)
+                   (VP using
+                       (NP (NP the gradient)
+                           (VP shown
+                               (PP in
+                                   (NP Fig. 2))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Once
+            again)
+      ,
+      (S (NP  (ADJP both (ADJP anti-A)
+                    and
+                    (ADJP anti-B)) activities)
+         (AUX were)
+         (VP found
+                 
+             (PP in
+                 (NP (NP the insoluble material)
+                     (VP precipitated
+                         (PP during
+                             (NP dialysis))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Similarly)
+         ,
+         (S (NP  both
+                 types
+                 (PP of
+                     (NP antibodies)))
+            (AUX were)
+            (VP found
+                 
+                (PP in
+                    (NP (NP three regions
+                            (PP of
+                                (NP the chromatographic eluate)))
+                        ,
+                        (VP having
+                            (NP  
+                             (ADJP  (ADJP extremely
+                                          low)
+                                    ,
+                                    (ADJP low)
+                                    ,
+                                    and
+                                    (ADJP high ))
+                             anionic
+                             binding capacity)
+                            ,
+                            (ADVP respectively)))))))
+     *LRB*
+     (NP Fig. 3)
+     *RRB*)
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Chromatography
+       (PP of
+           (NP whole sera)))
+   (VP revealed
+       (SBAR that
+             (S (NP the areas
+                    (PP of
+                        (NP Rh antibody activity)))
+                (VP were
+                    (ADVP generally)
+                    (ADJP continuous and wide))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The incomplete antibody activity)
+      (VP appeared
+          (PP in
+              (NP the early part
+                  (PP of
+                      (NP the chromatogram))))))
+     ;
+     ;
+     (X (NP the
+            (ADJP complete))
+        ,
+        (PP in
+            (NP the latter part))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (NP The serum)
+	   (VP containing
+	       (NP the (ADJP mixed) type
+		   (PP of
+		       (NP (ADJP complete and incomplete) antibodies)))))
+       (VP showed
+	   (NP activity
+	       (PP in
+		   (NP both
+		       regions)))))
+    *LRB*
+    (NP Fig. 1)
+    *RRB*)
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP all cases))
+     (S (NP the activity
+	    (PP against
+		(NP A[fj] cells)))
+	(AUX was)
+	(VP spread
+		 
+	    (PP over
+		(NP a
+		    wider
+		    area
+		    (PP than
+			(NP that
+			    (PP with
+				(NP A[fj] cells)))))))
+	,
+	(ADVP regardless
+	      (PP of
+		  (NP (NP the type
+			  (PP of
+			      (NP test)))
+		      *LRB*
+		      (ADJP  saline
+			     ,
+			     albumin
+			     ,
+			     indirect
+			     Coombs)
+		      *RRB*
+		      (VP used
+			  (PP for
+			      (NP comparison))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The insoluble material)
+	(VP resulting
+	    (PP from
+		(NP dialysis
+		    (PP against
+			(NP  starting
+			     buffer))))))
+    (ADVP always)
+    (VP showed
+	(NP strong activity)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP In
+       (NP fact))
+   (S (NP agglutination
+	  (PP of
+	      (NP A[fj] cells))
+	  (PP in
+	      (NP saline)))
+      (AUX could)
+      (VP be
+	  (VP produced
+	    
+	      (PP by
+		  (NP the insoluble material
+		      (PP from
+			  (NP (NP sera)
+			      (VP containing
+				  (NP 
+				   ``
+				   only
+				   ''
+				   incomplete
+				   antibody activity))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (AUX was)
+      (ADVP later)
+      (VP known
+        
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (NP the result
+		     (PP of
+			 (S (NP *) 
+			    (VP concentrating
+				(NP (NP the minute amount
+					(PP of
+					    (NP complete antibody)))
+				    (VP found
+					(PP in
+					    (NP these sera))))))))))))
+     ;
+     ;
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP the insoluble fraction)
+	    (AUX was)
+	    (VP suspended
+		(PP in
+		    (NP (NP a volume
+			    (PP of
+				(NP saline)))
+			(ADJP equal
+			      (PP to
+				  (NP that
+				      (PP of
+					  (NP the original serum sample))))))))))
+	,
+	(S (NP no complete antibody activity)
+	   (AUX could)
+	   (VP be
+	       (VP detected
+		   )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

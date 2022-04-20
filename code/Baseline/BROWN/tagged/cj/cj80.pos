@@ -1,0 +1,1558 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ A/DT gyro-stabilized/JJ platform/NN system/NN ]
+,/, using/VBG 
+[ restrained/VBN gyros/NNS ]
+,/, is/VBZ well/RB suited/VBN for/IN 
+[ automatic/JJ leveling/NN ]
+because/IN of/IN 
+[ the/DT characteristics/NNS ]
+of/IN 
+[ the/DT gyro-platform-servo/JJ combination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT restrained/VBN gyro-stabilized/JJ platform/NN ]
+with/IN 
+[ reasonable/JJ response/NN characteristics/NNS ]
+operates/VBZ with/IN 
+[ an/DT approximate/JJ equation/NN ]
+of/IN 
+[ motion/NN ]
+,/, neglecting/VBG 
+[ transient/JJ effects/NNS ]
+,/, as/IN follows/VBZ :/: 
+[ A[fj]/SYM ]
+where/WRB 
+[ U/NN ]
+is/VBZ 
+[ a/DT torque/NN ]
+applied/VBN about/IN 
+[ the/DT output/NN axis/NN ]
+of/IN 
+[ the/DT controlling/VBG gyro/NN ]
+./. 
+==================================
+
+[ The/DT platform/NN angle/NN \*\*/SYM yf/NN ]
+is/VBZ 
+[ the/DT angle/NN ]
+about/IN 
+[ which/WDT ]
+
+[ the/DT gyro/NN ]
+is/VBZ controlling/VBG ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ normally/RB termed/VBN 
+[ the/DT gyro/NN input/NN axis/NN ]
+,/, 
+[ 90-degrees/NNS ]
+away/RB from/IN 
+[ the/DT gyro/NN output/NN ]
+or/CC 
+[ \*\*/SYM yj/NN axis/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT gyro/NN angular/JJ momentum/NN ]
+is/VBZ defined/VBN by/IN 
+[ H/NN ]
+./. 
+==================================
+Thus/RB if/IN 
+[ the/DT gyro/NN ]
+and/CC 
+[ platform-controller/NN combination/NN ]
+maintains/VBZ 
+[ the/DT platform/NN ]
+with/IN 
+[ zero/CD angular/JJ deviation/NN ]
+about/IN 
+[ the/DT \*\*/SYM yf/NN axis/NN ]
+,/, 
+[ the/DT system/NN ]
+can/MD be/VB rotated/VBN with/IN 
+[ an/DT angular/JJ velocity/NN A[fj]/SYM ]
+if/IN 
+[ a/DT torque/NN ]
+is/VBZ supplied/VBN to/TO 
+[ the/DT gyro/NN output/NN axis/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ assumed/VBN that/IN 
+[ the/DT gyros/NNS ]
+are/VBP designed/VBN with/IN 
+[ electrical/JJ torquers/NNS ]
+so/IN that/IN 
+[ a/DT torque/NN ]
+can/MD be/VB applied/VBN about/IN 
+[ their/PRP$ output/NN axes/NNS ]
+./. 
+==================================
+In/IN 
+[ the/DT system/NN ]
+shown/VBN in/IN 
+[ Fig./NN 7-1/CD ]
+,/, 
+[ the/DT accelerometer/NN output/NN ]
+is/VBZ amplified/VBN and/CC 
+[ the/DT resulting/VBG voltage/NN ]
+is/VBZ applied/VBN to/TO 
+[ the/DT gyro/NN output-axis/NN torquer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT torque/NN ]
+causes/VBZ 
+[ the/DT entire/JJ system/NN ]
+to/TO rotate/VB about/IN 
+[ the/DT \*\*/SYM yf/NN axis/NN ]
+,/, since/IN 
+[ the/DT response/NN ]
+to/TO 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT polarities/NNS ]
+are/VBP correct/JJ ,/, 
+[ the/DT platform/NN ]
+rotates/VBZ in/IN 
+[ such/PDT a/DT direction/NN ]
+as/IN to/TO reduce/VB 
+[ the/DT accelerometer/NN output/NN ]
+to/TO 
+[ zero/CD ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ the/DT accelerometer/NN output/NN ]
+is/VBZ decreasing/VBG ,/, 
+[ the/DT torque/NN ]
+applied/VBN to/TO 
+[ the/DT gyro/NN output/NN axis/NN decreases/VBZ ]
+and/CC ,/, therefore/RB ,/, 
+[ the/DT rate/NN ]
+decreases/VBZ ./. 
+==================================
+
+==================================
+==================================
+Finally/RB ,/, when/WRB 
+[ the/DT accelerometer/NN output/NN ]
+is/VBZ 
+[ zero/CD ]
+,/, 
+[ the/DT entire/JJ system/NN ]
+remains/VBZ 
+[ stationary/JJ ]
+,/, and/CC 
+[ the/DT platform/NN ]
+is/VBZ ,/, by/IN 
+[ definition/NN ]
+,/, leveled/VBN ./. 
+==================================
+
+[ A/DT mathematical/JJ block/NN diagram/NN ]
+for/IN 
+[ the/DT leveling/NN system/NN ]
+is/VBZ shown/VBN in/IN 
+[ Fig./NN 7-2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT platform/NN ]
+is/VBZ initially/RB off/IN 
+[ level/NN ]
+by/IN 
+[ the/DT angle/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT angle/NN ]
+generated/VBN by/IN 
+[ the/DT platform/NN servo/NN \*\*/SYM yf/NN ]
+multiplied/VBN by/IN 
+[ G/NN ]
+is/VBZ 
+[ the/DT effective/JJ acceleration/NN ]
+acting/VBG on/IN 
+[ the/DT accelerometer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT scale/NN factor/NN ]
+of/IN 
+[ the/DT accelerometer/NN ]
+(/( 
+[ A[fj]/SYM ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT voltage/NN A[fj]/SYM ]
+is/VBZ amplified/VBN by/IN 
+[ A[fj]/SYM ]
+and/CC applied/VBD to/TO 
+[ the/DT gyro/NN torquer/NN ]
+with/IN 
+[ scale/NN factor/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Finally/RB ,/, 
+[ the/DT gyro-stabilized/JJ platform/NN characteristic/NN ]
+is/VBZ represented/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT system/NN ]
+as/IN indicated/VBN in/IN 
+[ Fig./NN 7-2/CD ]
+is/VBZ fundamental/JJ and/CC 
+[ simple/JJ ]
+because/IN 
+[ the/DT transient/JJ effects/NNS ]
+of/IN 
+[ both/PDT ]
+
+[ the/DT platform/NN servo/NN ]
+and/CC 
+[ the/DT accelerometer/NN ]
+have/VBP been/VBN neglected/VBN ./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ these/DT factors/NNS ]
+included/VBD ,/, 
+[ an/DT upper/JJ limit/NN ]
+is/VBZ placed/VBN on/IN 
+[ the/DT allowable/JJ loop/NN gain/NN ]
+by/IN 
+[ stability/NN considerations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ this/DT type/NN ]
+of/IN 
+[ system/NN ]
+,/, 
+[ a/DT high/JJ loop/NN gain/NN ]
+is/VBZ desirable/JJ because/IN 
+[ it/PRP ]
+provides/VBZ 
+[ a/DT fast/JJ response/NN time/NN ]
+./. 
+==================================
+When/WRB 
+[ the/DT frequency/NN response/NN characteristics/NNS ]
+of/IN 
+[ practical/JJ components/NNS ]
+are/VBP considered/VBN ,/, 
+[ their/PRP$ effect/NN ]
+on/IN 
+[ stability/NN ]
+does/VBZ not/RB present/RB 
+[ the/DT most/RBS serious/JJ limit/NN ]
+on/IN 
+[ the/DT system/NN loop/NN gain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT time/NN ]
+required/VBN for/IN 
+[ the/DT system/NN ]
+to/TO reach/VB 
+[ a/DT level/NN position/NN ]
+is/VBZ approximately/RB inversely/RB proportional/JJ to/TO 
+[ the/DT servo/JJ loop/NN gain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT cutoff/JJ frequency/NN ]
+for/IN 
+[ input/NN accelerations/NNS ]
+is/VBZ approximately/RB proportional/JJ to/TO 
+[ the/DT servo/JJ loop/NN gain/NN ]
+;/: ;/: 
+[ i.e./FW ]
+,/, 
+[ high/JJ loop/NN gain/NN ]
+causes/VBZ 
+[ the/DT system/NN ]
+to/TO respond/VB to/TO 
+[ horizontal/JJ components/NNS ]
+of/IN 
+[ accelerations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT problem/NN ]
+usually/RB determines/VBZ 
+[ the/DT lower/JJR limit/NN ]
+of/IN 
+[ loop/NN gain/NN ]
+rather/RB than/IN 
+[ response/NN time/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+must/MD be/VB noticed/VBN in/IN 
+[ Fig./NN 7-1/CD ]
+that/IN 
+[ the/DT accelerometer/NN ]
+responds/VBZ to/TO 
+[ any/DT input/NN acceleration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT equation/NN relating/VBG input/NN acceleration/NN ]
+to/TO 
+[ output/NN platform/NN angle/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ practice/NN ]
+,/, 
+[ the/DT preflight/NN leveling/NN process/NN ]
+takes/VBZ 
+[ place/NN ]
+with/IN 
+[ the/DT system/NN ]
+mounted/VBN in/IN 
+[ the/DT airframe/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT system/NN ]
+is/VBZ arranged/VBN for/IN 
+[ automatic/JJ leveling/NN ]
+,/, 
+[ the/DT platform/NN angles/NNS ]
+respond/VBP to/TO 
+[ any/DT horizontal/JJ components/NNS ]
+of/IN 
+[ acceleration/NN ]
+acting/VBG on/IN 
+[ the/DT accelerometers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+are/VBP 
+[ many/JJ such/JJ components/NNS ]
+of/IN 
+[ acceleration/NN present/NN ]
+due/IN to/TO 
+[ the/DT effect/NN ]
+of/IN 
+[ wind/NN gusts/NNS ]
+,/, 
+[ engine/NN noise/NN ]
+,/, 
+[ turbulence/NN ]
+around/IN 
+[ the/DT vehicle/NN ]
+,/, 
+[ etc./FW ]
+./. 
+[ One/CD ]
+of/IN 
+[ the/DT greatest/JJS problems/NNS ]
+associated/VBN with/IN 
+[ automatic/JJ leveling/NN ]
+is/VBZ establishing/VBG 
+[ a/DT true/JJ level/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ high-level/JJ acceleration/NN noise/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/CD solution/NN ]
+to/TO 
+[ the/DT problem/NN ]
+is/VBZ to/TO operate/VB with/IN 
+[ a/DT low/JJ loop/NN gain/NN ]
+and/CC to/TO include/VB 
+[ low-pass/JJ filters/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT technique/NN ]
+causes/VBZ 
+[ the/DT system/NN ]
+to/TO respond/VB only/RB to/TO 
+[ low/JJ frequency/NN acceleration/NN components/NNS ]
+such/JJ as/IN 
+[ the/DT platform/NN tilt/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ a/DT lower/JJR loop/NN gain/NN ]
+and/CC 
+[ low-pass/JJ filtering/NN ]
+increases/VBZ 
+[ the/DT response/NN time/NN ]
+,/, 
+[ a/DT practical/JJ compromise/NN ]
+must/MD be/VB reached/VBN ./. 
+==================================
+
+[ One/CD ]
+of/IN 
+[ the/DT most/RBS desirable/JJ solutions/NNS ]
+is/VBZ achieved/VBN by/IN 
+[ the/DT use/NN ]
+of/IN 
+[ a/DT non-linear/JJ amplifier/NN ]
+for/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT amplifier/NN ]
+is/VBZ designed/VBN so/RB that/IN 
+[ its/PRP$ gain/NN ]
+is/VBZ large/JJ for/IN 
+[ accelerometer/NN signals/NNS ]
+above/IN 
+[ a/DT certain/JJ threshold/NN level/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Below/IN 
+[ this/DT level/NN ]
+,/, 
+[ the/DT amplifier/NN gain/NN A[fj]/SYM ]
+is/VBZ 
+[ proportional/JJ ]
+and/CC is/VBZ of/IN 
+[ small/JJ value/NN ]
+,/, in/IN 
+[ order/NN ]
+to/TO provide/VB 
+[ adequate/JJ noise/NN filtering/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT effect/NN ]
+is/VBZ that/IN 
+[ the/DT platform/NN ]
+returns/VBZ from/IN 
+[ an/DT off-level/JJ position/NN ]
+at/IN 
+[ a/DT rapid/JJ rate/NN ]
+until/IN 
+[ it/PRP ]
+is/VBZ nearly/RB 
+[ level/NN ]
+,/, at/IN 
+[ which/WDT point/NN ]
+
+[ the/DT platform/NN ]
+is/VBZ controlled/VBN by/IN 
+[ a/DT proportional/JJ servo/NN ]
+with/IN 
+[ low/JJ enough/JJ frequency/NN response/NN ]
+so/RB that/IN 
+[ the/DT noise/NN ]
+has/VBZ 
+[ little/JJ effect/NN ]
+on/IN 
+[ the/DT leveling/NN process/NN ]
+./. 
+==================================
+When/WRB 
+[ the/DT system/NN ]
+is/VBZ on/IN 
+[ automatic/JJ leveling/NN ]
+,/, 
+[ the/DT gyro/NN drift/NN ]
+is/VBZ canceled/VBN by/IN 
+[ the/DT output/NN ]
+of/IN 
+[ the/DT leveling/NN system/NN ]
+(/( 
+[ amplifier/NN A[fj]/SYM ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT platform/NN ]
+actually/RB tilts/VBZ off/IN 
+[ level/NN ]
+so/RB that/IN 
+[ the/DT accelerometer/NN output/NN ]
+,/, when/WRB amplified/VBN by/IN 
+[ A[fj]/SYM ]
+,/, will/MD supply/VB 
+[ the/DT correct/JJ current/NN ]
+to/TO 
+[ the/DT gyro/NN torquer/NN ]
+to/TO cancel/VB 
+[ the/DT gyro/NN drift/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT amount/NN ]
+of/IN 
+[ platform/NN dip/NN ]
+required/VBN depends/VBZ upon/IN 
+[ the/DT scale/NN factors/NNS ]
+of/IN 
+[ the/DT system/NN ]
+./. 
+==================================
+
+[ 7-3/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Practical/JJ leveling/NN considerations/NNS ]
+./. 
+==================================
+
+[ The/DT automatic/JJ leveling/NN system/NN ]
+described/VBN in/IN 
+[ this/DT section/NN ]
+is/VBZ readily/RB adaptable/JJ to/TO 
+[ a/DT gyro-stabilized/JJ platform/NN ]
+consisting/VBG of/IN 
+[ three/CD integrating/VBG gyros/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT system/NN ]
+requires/VBZ 
+[ some/DT switching/NN ]
+of/IN 
+[ flight/NN equipment/NN circuits/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ the/DT leveling/NN operation/NN ]
+can/MD be/VB maintained/VBN and/CC controlled/VBN remotely/RB with/IN 
+[ no/DT mechanical/JJ ]
+or/CC 
+[ optical/JJ contact/NN ]
+with/IN 
+[ the/DT platform/NN ]
+./. 
+==================================
+
+[ This/DT leveling/NN system/NN ]
+will/MD hold/VB 
+[ the/DT platform/NN on-level/NN ]
+,/, automatically/RB ,/, as/RB long/RB as/IN 
+[ the/DT system/NN ]
+is/VBZ actuated/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT useful/JJ by-product/NN ]
+of/IN 
+[ this/DT system/NN ]
+is/VBZ that/IN 
+[ the/DT information/NN ]
+necessary/JJ to/TO set/VB 
+[ the/DT gyro/NN drift/NN biases/NNS ]
+is/VBZ available/JJ from/IN 
+[ the/DT currents/NNS ]
+necessary/JJ to/TO hold/VB 
+[ the/DT system/NN ]
+in/IN 
+[ level/NN ]
+./. 
+==================================
+
+[ The/DT leveling/NN process/NN ]
+can/MD be/VB accomplished/VBN manually/RB ,/, and/CC 
+[ the/DT results/NNS ]
+are/VBP as/RB satisfactory/JJ as/IN 
+[ those/DT ]
+obtained/VBN with/IN 
+[ automatic/JJ equipment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT process/NN ]
+consists/VBZ in/IN turning/VBG 
+[ the/DT platform/NN ]
+manually/RB until/IN 
+[ the/DT outputs/NNS ]
+of/IN 
+[ both/DT ]
+
+[ accelerometers/NNS ]
+are/VBP 
+[ zero/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT turning/NN ]
+is/VBZ accomplished/VBN by/IN 
+[ applying/VBG voltage/NN ]
+to/TO 
+[ the/DT gyro/NN torquers/NNS ]
+described/VBN above/IN ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ brief/NN ]
+,/, 
+[ the/DT human/NN ]
+replaces/VBZ 
+[ amplifier/NN A[fj]/SYM ]
+in/IN 
+[ Figs./NN 7-1/CD ]
+and/CC 
+[ 7-2/CD ]
+./. 
+==================================
+
+[ Manual/JJ leveling/NN ]
+requires/VBZ 
+[ an/DT appropriate/JJ display/NN ]
+of/IN 
+[ the/DT accelerometer/NN outputs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ high/JJ accuracy/NN ]
+is/VBZ required/VBN in/IN 
+[ preflight/NN leveling/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ usually/RB necessary/JJ to/TO integrate/VB or/CC doubly/RB integrate/VB 
+[ the/DT accelerometer/NN outputs/NNS ]
+(/( 
+[ this/DT ]
+also/RB minimizes/VBZ 
+[ the/DT noise/NN problem/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ integration/NN ]
+,/, 
+[ the/DT effect/NN ]
+of/IN 
+[ a/DT small/JJ acceleration/NN ]
+(/( or/CC 
+[ small/JJ platform/NN tilt/NN angle/NN ]
+)/) can/MD be/VB seen/VBN after/IN 
+[ a/DT time/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ skill/NN ]
+is/VBZ required/VBN on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ an/DT operator/NN ]
+to/TO level/VB 
+[ a/DT platform/NN ]
+to/TO 
+[ any/DT degree/NN ]
+of/IN 
+[ accuracy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Also/RB ,/, 
+[ it/PRP ]
+requires/VBZ 
+[ more/JJR time/NN ]
+as/IN compared/VBN to/TO 
+[ the/DT automatic/JJ approach/NN ]
+./. 
+==================================
+
+[ Manual/JJ leveling/NN ]
+is/VBZ inconvenient/JJ if/IN 
+[ the/DT platform/NN ]
+must/MD be/VB maintained/VBN accurately/RB level/JJ for/IN 
+[ any/DT prolonged/VBN period/NN ]
+of/IN 
+[ time/NN ]
+./. 
+==================================
+
+[ The/DT operator/NN ]
+must/MD continually/RB supply/VB 
+[ the/DT correct/JJ amount/NN ]
+of/IN turning/VBG 
+[ current/JJ ]
+to/TO 
+[ the/DT gyro/NN torquers/NNS ]
+so/RB that/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ gyro/NN drift/NN ]
+is/VBZ canceled/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT process/NN ]
+is/VBZ especially/RB difficult/JJ since/IN 
+[ gyro/NN ]
+drifting/NN is/VBZ typically/RB random/JJ ./. 
+==================================
+
+[ 7-4/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Platform/NN heading/NN ]
+./. 
+==================================
+
+[ Platform/NN heading/NN ]
+consists/VBZ of/IN orienting/VBG 
+[ the/DT sensitive/JJ axis/NN ]
+of/IN 
+[ the/DT accelerometers/NNS ]
+parallel/RB to/TO 
+[ the/DT desired/VBN coordinate/NN system/NN ]
+of/IN 
+[ the/DT navigator/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ simpler/JJR terms/NNS ]
+,/, 
+[ it/PRP ]
+amounts/VBZ to/TO pointing/VBG 
+[ the/DT platform/NN ]
+in/IN 
+[ the/DT proper/JJ direction/NN ]
+./. 
+==================================
+For/IN purely/RB 
+[ inertial/JJ navigators/NNS ]
+,/, 
+[ two/CD techniques/NNS ]
+are/VBP available/JJ to/TO accomplish/VB 
+[ the/DT platform/NN heading/NN ]
+:/: 
+[ Use/NN ]
+of/IN 
+[ external/JJ ]
+or/CC 
+[ surveying/VBG equipment/NN ]
+to/TO establish/VB 
+[ proper/JJ heading/NN ]
+;/: ;/: 
+[ Use/NN ]
+of/IN 
+[ the/DT characteristics/NNS ]
+of/IN 
+[ the/DT platform/NN components/NNS ]
+for/IN 
+[ an/DT indication/NN ]
+of/IN 
+[ true/JJ heading/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT choice/NN ]
+of/IN 
+[ the/DT heading/NN technique/NN ]
+is/VBZ dependent/JJ upon/IN 
+[ the/DT accuracy/NN requirements/NNS ]
+,/, 
+[ field/NN conditions/NNS ]
+,/, and/CC 
+[ the/DT time/NN ]
+available/JJ to/TO accomplish/VB 
+[ the/DT heading/NN ]
+./. 
+==================================
+
+[ 7-5/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ External/JJ determination/NN ]
+of/IN 
+[ heading/NN ]
+--/: 
+[ surveying/VBG technique/NN ]
+./. 
+==================================
+With/IN 
+[ the/DT gyro-stabilized/JJ platform/NN ]
+leveled/VBD ,/, 
+[ it/PRP ]
+can/MD be/VB headed/VBN in/IN 
+[ the/DT proper/JJ direction/NN ]
+by/IN using/VBG 
+[ surveying/VBG techniques/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT platform/NN accelerometers/NNS ]
+must/MD be/VB slightly/RB modified/VBN for/IN 
+[ this/DT procedure/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Before/IN 
+[ the/DT accelerometers/NNS ]
+are/VBP mounted/VBN on/IN 
+[ the/DT platform/NN ]
+,/, 
+[ the/DT direction/NN ]
+of/IN 
+[ their/PRP$ sensitive/JJ axis/NN ]
+must/MD be/VB accurately/RB determined/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT mirror/NN ]
+is/VBZ mounted/VBN on/IN 
+[ each/DT accelerometer/NN ]
+so/RB that/IN 
+[ the/DT plane/NN ]
+of/IN 
+[ the/DT mirror/NN ]
+is/VBZ perpendicular/JJ to/TO 
+[ the/DT sensitive/JJ axis/NN ]
+of/IN 
+[ the/DT unit/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Transit/NN ]
+./. 
+==================================
+
+[ A/DT precision/NN transit/NN ]
+is/VBZ set/VBN up/IN so/RB that/IN 
+[ it/PRP ]
+is/VBZ aligned/VBN with/IN 
+[ respect/NN ]
+to/TO 
+[ true/JJ north/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+can/MD be/VB done/VBN to/TO 
+[ a/DT high/JJ degree/NN ]
+of/IN 
+[ accuracy/NN ]
+by/IN existing/VBG 
+[ surveying/NN techniques/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ the/DT transit/NN ]
+set/VBN up/IN ,/, 
+[ a/DT mirror/NN ]
+on/IN 
+[ one/CD ]
+of/IN 
+[ the/DT accelerometers/NNS ]
+is/VBZ sighted/VBN and/CC 
+[ the/DT platform/NN ]
+is/VBZ turned/VBN until/IN 
+[ it/PRP ]
+is/VBZ aligned/VBN ./. 
+==================================
+
+[ The/DT sighting/NN procedure/NN ]
+includes/VBZ 
+[ the/DT use/NN ]
+of/IN 
+[ a/DT fixture/NN ]
+for/IN 
+[ the/DT transit/NN ]
+to/TO project/VB 
+[ a/DT beam/NN ]
+of/IN 
+[ light/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ darkened/VBN by/IN 
+[ crossed/VBN hairs/NNS ]
+,/, on/IN 
+[ the/DT accelerometer/NN mirror/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT platform/NN ]
+is/VBZ aligned/VBN ,/, 
+[ the/DT reflected/VBN image/NN ]
+of/IN 
+[ the/DT crossed/VBN hairs/NNS ]
+can/MD be/VB seen/VBN exactly/RB superimposed/VBN upon/IN 
+[ the/DT original/JJ crossed/VBN hairs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT images/NNS ]
+can/MD easily/RB be/VB aligned/VBN with/IN 
+[ a/DT high/JJ degree/NN ]
+of/IN 
+[ accuracy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT platform/NN ]
+is/VBZ turned/VBN as/IN required/VBN by/IN supplying/VBG 
+[ currents/NNS ]
+to/TO 
+[ the/DT appropriate/JJ gyro/NN torquers/NNS ]
+./. 
+==================================
+Although/IN 
+[ this/DT technique/NN ]
+is/VBZ 
+[ simple/JJ ]
+and/CC 
+[ satisfactory/JJ ]
+,/, 
+[ one/CD practical/JJ difficulty/NN ]
+does/VBZ exist/VB :/: 
+[ the/DT direction/NN ]
+of/IN 
+[ true/JJ north/NN ]
+must/MD be/VB known/VBN for/IN 
+[ each/DT launch/NN point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ this/DT difficulty/NN ]
+is/VBZ not/RB too/RB serious/JJ if/IN 
+[ it/PRP ]
+is/VBZ realized/VBN that/IN 
+[ a/DT surveying/VBG team/NN ]
+can/MD establish/VB 
+[ a/DT true/JJ north/NN base/NN line/NN ]
+with/IN 
+[ a/DT few/JJ days/NNS '/POS work/NN ]
+./. 
+==================================
+In/IN 
+[ many/JJ installations/NNS ]
+,/, 
+[ the/DT inertial/JJ platform/NN ]
+is/VBZ raised/VBN off/IN 
+[ the/DT ground/NN ]
+
+[ a/DT considerable/JJ height/NN ]
+when/WRB 
+[ it/PRP ]
+is/VBZ mounted/VBN in/IN 
+[ the/DT vehicle/NN ]
+before/IN 
+[ flight/NN ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ this/DT situation/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ difficult/JJ to/TO sight/VB in/IN on/IN 
+[ the/DT platform/NN ]
+with/IN 
+[ surveying/VBG|NN equipment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT platform/NN ]
+is/VBZ not/RB too/RB high/JJ off/IN 
+[ the/DT ground/NN ]
+,/, 
+[ a/DT transit/NN ]
+can/MD be/VB mounted/VBN on/IN 
+[ a/DT stand/NN ]
+to/TO raise/VB 
+[ it/PRP ]
+up/IN to/TO 
+[ the/DT platform/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Obviously/RB ,/, 
+[ the/DT heading/NN accuracy/NN ]
+is/VBZ lessened/VBN by/IN 
+[ such/JJ techniques/NNS ]
+since/IN 
+[ errors/NNS ]
+are/VBP introduced/VBN because/RB of/IN 
+[ motion/NN ]
+of/IN 
+[ the/DT stand/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Autocollimator/NN ]
+./. 
+==================================
+
+[ The/DT transit/NN ]
+can/MD be/VB replaced/VBN by/IN 
+[ an/DT autocollimator/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT instrument/NN ]
+provides/VBZ 
+[ an/DT electrical/JJ signal/NN proportional/JJ ]
+to/TO 
+[ the/DT angular/JJ deviations/NNS ]
+of/IN 
+[ the/DT platform/NN ]
+and/CC can/MD be/VB used/VBN to/TO automatically/RB hold/VB 
+[ the/DT platform/NN ]
+on/IN 
+[ true/JJ heading/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT electrical/JJ signal/NN ]
+from/IN 
+[ the/DT autocollimator/NN ]
+is/VBZ amplified/VBN and/CC supplied/VBN to/TO 
+[ the/DT Z-gyro/NN torquer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT polarity/NN ]
+is/VBZ correct/JJ ,/, 
+[ the/DT platform/NN ]
+will/MD turn/VB until/IN 
+[ the/DT heading/NN error/NN angle/NN ]
+is/VBZ 
+[ zero/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Information/NN ]
+is/VBZ also/RB available/JJ from/IN 
+[ this/DT autocollimator/NN system/NN ]
+to/TO set/VB 
+[ the/DT drift/NN bias/NN ]
+for/IN 
+[ the/DT Z-axis/NN gyro/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT Z/NN gyro/NN ]
+is/VBZ drifting/VBG ,/, 
+[ a/DT current/NN ]
+generated/VBN by/IN 
+[ the/DT autocollimator/NN ]
+is/VBZ delivered/VBN to/TO 
+[ the/DT gyro/NN torquer/NN ]
+to/TO cancel/VB 
+[ the/DT drift/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT drift/NN error/NN ]
+is/VBZ systematic/JJ ,/, 
+[ it/PRP ]
+can/MD be/VB canceled/VBN with/IN 
+[ a/DT bias/NN circuit/NN ]
+
+[ which/WDT ]
+can/MD be/VB arranged/VBN and/CC adjusted/VBN to/TO supply/VB 
+[ the/DT required/VBN ]
+
+[ compensating/VBG current/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Electrical/JJ pickoffs/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ possible/JJ to/TO locate/VB 
+[ an/DT angular/JJ electrical/JJ pickoff/NN ]
+,/, 
+[ which/WDT ]
+will/MD indicate/VB 
+[ the/DT angular/JJ deviation/NN ]
+between/IN 
+[ the/DT true/JJ heading/NN direction/NN ]
+and/CC 
+[ the/DT platform/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Essentially/RB ,/, 
+[ the/DT stator/NN ]
+or/CC 
+[ reference/NN portion/NN ]
+of/IN 
+[ the/DT pickoff/NN ]
+is/VBZ established/VBN with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT true/JJ heading/NN direction/NN ]
+,/, and/CC 
+[ the/DT platform/NN ]
+is/VBZ turned/VBN 
+[ either/DT ]
+manually/RB or/CC automatically/RB until/IN 
+[ the/DT angular/JJ electrical/JJ pickoff/NN signal/NN ]
+is/VBZ reduced/VBN to/TO 
+[ zero/CD ]
+./. 
+==================================
+
+[ 7-6/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Gyrocompass/NN heading/NN ]
+./. 
+==================================
+
+[ Gyrocompass/NN alignment/NN ]
+is/VBZ 
+[ an/DT automatic/JJ heading/NN system/NN ]
+
+[ which/WDT ]
+depends/VBZ upon/IN 
+[ the/DT characteristic/NN ]
+of/IN 
+[ one/CD gyro/NN ]
+to/TO establish/VB 
+[ true/JJ heading/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT case/NN ]
+of/IN 
+[ a/DT ]
+purely/RB 
+[ inertial/JJ autonavigator/NN ]
+consisting/VBG of/IN 
+[ three/CD restrained/VBN gyros/NNS ]
+,/, 
+[ a/DT coordinate/JJ system/NN ]
+is/VBZ used/VBN where/WRB 
+[ the/DT sensitive/JJ axis/NN ]
+of/IN 
+[ the/DT X/NN accelerometer/NN ]
+is/VBZ parallel/JJ to/TO 
+[ the/DT east-west/JJ direction/NN ]
+at/IN 
+[ the/DT base/NN point/NN ]
+,/, and/CC 
+[ the/DT Y/NN accelerometer/NN sensitive/JJ axis/NN ]
+is/VBZ parallel/JJ to/TO 
+[ the/DT north-south/JJ direction/NN ]
+at/IN 
+[ the/DT base/NN point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT accelerometers/NNS ]
+are/VBP mounted/VBN rigidly/RB on/IN 
+[ the/DT platform/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, if/IN 
+[ one/CD accelerometer/NN ]
+is/VBZ properly/RB aligned/VBN ,/, 
+[ the/DT other/JJ ]
+is/VBZ also/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT input/NN axis/NN ]
+of/IN 
+[ the/DT appropriate/JJ gyros/NNS ]
+are/VBP parallel/JJ to/TO 
+[ the/DT sensitive/JJ direction/NN ]
+of/IN 
+[ the/DT accelerometers/NNS ]
+./. 
+==================================
+
+[ Figure/NN 7-3/CD ]
+shows/VBZ 
+[ a/DT platform/NN system/NN ]
+with/IN 
+[ the/DT gyro/NN vectors/NNS ]
+arranged/VBN as/IN described/VBN above/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT platform/NN ]
+is/VBZ leveled/VBN and/CC properly/RB headed/VBN ,/, so/RB that/IN 
+[ the/DT X-gyro/NN input/NN axis/NN ]
+is/VBZ parallel/JJ to/TO 
+[ the/DT east-west/JJ direction/NN ]
+and/CC 
+[ the/DT Y-gyro/NN input/NN axis/NN ]
+is/VBZ parallel/JJ to/TO 
+[ the/DT north-south/JJ direction/NN ]
+./. 
+==================================
+
+[ The/DT input/NN axis/NN ]
+of/IN 
+[ the/DT X/NN gyro/NN ]
+,/, when/WRB pointing/VBG in/IN 
+[ the/DT east-west/JJ direction/NN ]
+,/, is/VBZ always/RB perpendicular/JJ to/TO 
+[ the/DT spin/NN axis/NN ]
+of/IN 
+[ earth/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT platform/NN ]
+is/VBZ not/RB properly/RB headed/VBN ,/, 
+[ the/DT X-gyro/NN input/NN axis/NN ]
+will/MD see/VB 
+[ a/DT component/NN ]
+of/IN 
+[ the/DT earth/NN 's/POS rotation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT sensing/NN ]
+of/IN 
+[ this/DT rotation/NN ]
+by/IN 
+[ the/DT X/NN gyro/NN ]
+can/MD be/VB utilized/VBN to/TO direct/VB 
+[ the/DT platform/NN ]
+into/IN 
+[ proper/JJ heading/NN ]
+./. 
+==================================
+In/IN 
+[ Fig./NN 7-4/CD ]
+,/, 
+[ the/DT input/NN axis/NN ]
+of/IN 
+[ the/DT three-axis/JJ platform/NN ]
+is/VBZ shown/VBN at/IN 
+[ some/DT point/NN ]
+on/IN 
+[ the/DT earth/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT point/NN ]
+is/VBZ at/IN 
+[ a/DT latitude/NN \*\*/SYM yl/NN ]
+,/, and/CC 
+[ the/DT platform/NN ]
+is/VBZ at/IN 
+[ an/DT error/NN ]
+in/IN heading/VBG 
+[ east/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT earth/NN ]
+is/VBZ spinning/VBG at/IN 
+[ an/DT angular/JJ velocity/NN \*\*/SYM zq/NN ]
+equal/JJ to/TO 
+[ one/CD revolution/NN ]
+per/IN 
+[ 24/CD hr/NN ]
+./. 
+==================================
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT platform/NN ]
+is/VBZ level/JJ ,/, 
+[ \*\*/SYM ]
+[ ye/NN ]
+is/VBZ 
+[ a/DT rotation/NN ]
+about/IN 
+[ the/DT Z/NN axis/NN ]
+of/IN 
+[ the/DT platform/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ the/DT earth/NN ]
+is/VBZ rotating/VBG and/CC 
+[ the/DT unleveled/VBN gyro-stabilized/JJ platform/NN ]
+is/VBZ fixed/VBN with/IN 
+[ respect/NN ]
+to/TO 
+[ a/DT reference/NN ]
+in/IN 
+[ space/NN ]
+,/, 
+[ an/DT observer/NN ]
+on/IN 
+[ the/DT earth/NN ]
+will/MD see/VB 
+[ the/DT platform/NN ]
+rotating/VBG (/( with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT earth/NN ]
+)/) ./. 
+==================================
+==================================
+==================================

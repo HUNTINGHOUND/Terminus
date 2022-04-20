@@ -1,0 +1,2331 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (NP (NP 7-1
+	  .)
+      (NP Examples
+	  (PP of
+	      (NP binomial experiments)))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some experiments)
+   (AUX are)
+   (VP composed
+	     
+       (PP of
+	   (NP repetitions
+	       (PP of
+		   (NP independent trials))))
+       ,
+       (X (NP each)
+	  (PP with
+	      (NP two possible outcomes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The binomial probability distribution)
+   (AUX may)
+   (VP describe
+       (NP (NP the variation)
+	   (SBAR (WHNP that)
+		 (S (NP T)  
+		    (VP occurs
+			(NP (PP from
+				(NP one set
+				    (PP of
+					(NP trials
+					    (PP of
+						(NP  
+						 such
+						 a binomial experiment))))))
+			    (PP to
+				(NP another)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP devote
+       (NP a chapter)
+       (PP to
+	   (NP the binomial distribution))
+       (SBAR (CONJP (NEG not)
+		    only)
+	     (SBAR because
+		   (S (NP it)
+		      (VP is
+			  (NP a mathematical model
+			      (PP for
+				  (NP an enormous variety
+				      (PP of
+					  (NP real life phenomena))))))))
+	     ,
+	     (CONJP but
+		    also)
+	     (SBAR because
+		   (S (NP it)
+		      (VP has
+			  (NP (NP important properties)
+			      (SBAR (WHNP that)
+				    (S  (NP T) 
+					(VP recur
+					    (PP in
+						(NP many other probability models))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP begin
+       (PP with
+	   (NP a few examples
+	       (PP of
+		   (NP binomial experiments))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Marksmanship example)
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A (ADJP trained) marksman)
+      (VP shooting
+	  (NP (NP five rounds)
+	      (NP-1 *pseudo-attach*))
+	  (PP at
+	      (NP a target))
+	  ,
+	  (X (NP-1 all
+		   (PP under
+		       (NP  practically
+			    the same conditions))))
+	  ,))
+  (AUX may)
+  (VP hit
+      (NP the bull's-eye)
+      (NP  
+       (PP (PP from
+	       (NP 0))
+	   (PP to
+	       (NP 5)))
+       times)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (VP repeated)
+	   sets
+	   (PP of
+	       (NP five shots))))
+   (S (NP his numbers
+	  (PP of
+	      (NP bull's-eyes)))
+      (VP vary)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What)
+  (SQ  (AUX can) 
+       (NP we)
+       (VP say
+	   (NP T)
+	   (PP of
+	       (NP the probabilities
+		   (PP of
+		       (NP the
+			   different possible
+			   numbers
+			   (PP of
+			       (NP bull's-eyes)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Inheritance
+      (PP in
+	  (NP mice)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP litters
+	   (PP of
+	       (NP eight mice))
+	   (PP from
+	       (NP similar parents))))
+   ,
+   (S (NP the number
+	  (PP of
+	      (NP mice))
+	  (PP with
+	      (NP  
+	       (ADJP (ADJP straight)
+		     (ADVP instead
+			   (PP of
+			       (ADJP wavy))))
+	       hair)))
+      (VP is
+	  (NP an integer
+	      (PP (PP from
+		      (NP 0))
+		  (PP to
+		      (NP 8)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What probabilities)
+  (SQ  
+   (AUX should)
+   (NP T) 
+   (VP be
+       (VP attached
+			 
+	   (PP to
+	       (NP these possible outcomes))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP Aces)
+       *LRB*
+       (NP ones)
+       *RRB*
+       (PP with
+	   (NP three dice)))
+   .)
+(  END_OF_TEXT_UNIT)
+( (SBARQ   
+   (SBAR 
+    (WHADVP When)
+    (S (NP three dice)
+       (AUX are)
+       (VP tossed
+	   (ADVP repeatedly))))
+   ,
+   (SBARQ  
+    (WHNP what)
+    (SQ  
+     (VP is)
+     (NP the probability
+	 (SBAR that
+	       (S (NP the number
+		      (PP of
+			  (NP aces)))
+		  (VP is
+		      (NP (NP 0)
+			  *LRB*
+			  or
+			  (NP 1)
+			  ,
+			  or
+			  (NP 2)
+			  ,
+			  or
+			  (NP 3)
+			  *RRB*)))))
+     (NP T))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP General binomial problem)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP More generally)
+   ,
+   (S  (NP *) 
+       (VP suppose
+	   (SBAR (SBAR that
+		       (S (NP an experiment)
+			  (VP consists
+			      (PP of
+				  (NP a number
+				      (PP of
+					  (NP independent trials)))))))
+		 ,
+		 (SBAR that
+		       (S (NP each trial)
+			  (VP results
+			      (PP in
+				  (NP either
+				      (NP a
+					  ``
+					  success
+					  '')
+				      or
+				      (NP (NP a
+					      ``
+					      non-success
+					      '')
+					  *LRB*
+					  ``
+					  (NP failure)
+					  ''
+					  *RRB*))))))
+		 ,
+		 and
+		 (SBAR that
+		       (S (NP the probability
+			      (PP of
+				  (NP success)))
+			  (VP remains
+			      (ADJP constant))
+			  (PP (PP from
+				  (NP trial))
+			      (PP to
+				  (NP trial)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP the examples)
+	   (ADVP above)))
+   ,
+   (S  
+    (NP the occurrence
+	(PP of
+	    (NP (NP a bull's-eye)
+		,
+		(NP a (ADJP straight-haired) mouse)
+		,
+		or
+		(NP an ace))))
+    (AUX could)
+    (VP be
+	(VP called
+	      
+	    (NP a
+		``
+		success
+		'')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (ADJP general))
+     ,
+     (S (NP (NP any outcome)
+	    (SBAR 0
+		  (S (NP we)
+		     (VP choose
+			 (NP T) ))))
+	(AUX may)
+	(VP be
+	    (VP labeled
+		``
+		(NP success)
+		''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The major question
+	(PP in
+	    (NP this chapter)))
+    (VP is
+	:
+	(SBARQ  
+	 (WHNP What)
+	 (SQ  
+	  (VP is)
+	  (NP the probability
+	      (PP of
+		  (NP  (ADVP exactly)
+		       X successes
+		       (PP in
+			   (NP N trials)))))
+	  (NP T)))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP Chapters 3
+	  and
+	  4))
+  (S
+   (NP we)
+   (VP answered
+       (NP questions
+	   (PP like
+	       (NP those
+		   (PP in
+		       (NP the examples)))))
+       ,
+       (PP  (ADVP usually)
+	    by
+	    (S (NP *) 
+	       (VP counting
+		   (NP points)
+		   (PP in
+		       (NP a sample space))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Fortunately)
+      ,
+      (S (NP a general formula
+	     (PP of
+		 (NP wide applicability)))
+	 (VP solves
+	     (NP all problems
+		 (PP of
+		     (NP this kind))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Before
+       (S (NP *) 
+	  (VP deriving
+	      (NP this formula))))
+   ,
+   (S (NP we)
+      (VP explain
+	  (SBAR (WHNP what)
+		(S
+		 (NP we)
+		 (VP mean
+		     (NP T)
+		     (PP by
+			 ``
+			 (NP problems
+			     (PP of
+				 (NP this kind)))
+			 '')))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Experiments)
+      (AUX are)
+      (ADVP often)
+      (VP composed
+	     
+	  (PP of
+	      (NP several identical trials))))
+     ,
+     and
+     (S  (ADVP sometimes)
+	 (S (NP (NP experiments)
+		(NP themselves))
+	    (AUX are)
+	    (VP repeated
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the marksmanship example))
+   ,
+   (S (NP a trial)
+      (VP consists
+	  (PP of
+	      (NP ``
+		  (NP (NP one round)
+		      (VP shot
+			  (PP at
+			      (NP a target))))
+		  ''
+		  (PP with
+		      (X (NP outcome)
+			 (NP either
+			     (NP (NP one bull's-eye)
+				 *LRB*
+				 (NP success)
+				 *RRB*)
+			     or
+			     (NP (NP none)
+				 *LRB*
+				 (NP failure)
+				 *RRB*)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Further)
+      ,
+      (S (S (NP an experiment)
+	    (AUX might)
+	    (VP consist
+		(PP of
+		    (NP five rounds))))
+	 ,
+	 and
+	 (S (NP several sets
+		(PP of
+		    (NP five rounds)))
+	    (AUX might)
+	    (VP be
+		(VP regarded
+		    
+		    (PP as
+			(NP (NP a super-experiment)
+			    (VP composed
+				(PP of
+				    (NP several repetitions
+					(PP of
+					    (NP the (ADJP five-round) experiment))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP three dice)
+	     (AUX are)
+	     (VP tossed
+		 )))
+   ,
+   (S (S (NP a trial)
+	 (VP is
+	     (NP one toss
+		 (PP of
+		     (NP one die))))
+	 and
+	 (S (NP the experiment)
+	    (AUX is)
+	    (VP composed
+		(PP of
+		    (NP three trials)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  Or
+      ,
+      (SBAR  
+       (WHNP what)
+       (S (NP T)
+	  (VP amounts
+	      (PP to
+		  (NP the same thing)))))
+      ,
+      (S (SBAR if
+	       (S (NP one die)
+		  (AUX is)
+		  (VP tossed
+		      (NP three times))))
+	 ,
+	 (S (S (NP each toss)
+	       (VP is
+		   (NP a trial)))
+	    ,
+	    and
+	    (S (NP the three tosses)
+	       (VP form
+		   (NP the experiment))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Mathematically)
+      ,
+      (S (NP we)
+	 (AUX shall)
+	 (NEG not)
+	 (VP distinguish
+	     (NP the experiment
+		 (PP of
+		     (S   (NP three dice)
+			  (VP tossed
+			      (ADVP once)))))
+	     (PP from
+		 (NP that
+		     (PP of
+			 (S (NP one die)
+			    (VP tossed
+				(NP three times)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP These examples)
+      (VP are
+	  (ADJP illustrative
+		(PP of
+		    (NP the use
+			(PP of
+			    (NP (NP the words)
+				(NP ``
+				    (NP trial)
+				    ''
+				    and
+				    ``
+				    (NP experiment)
+				    '')))
+			(PP as
+			    (S (NP they)
+			       (AUX are)
+			       (VP used
+				   )
+			       (PP in
+				   (NP this chapter)))))))))
+     ,
+     but
+     (S (S (NP they)
+	   (VP are
+	       (NP  (ADJP quite
+			  flexible) words)))
+	and
+	(S (NP it
+	       (S-1 *pseudo-attach*))
+	   (VP is
+	       (ADVP well))
+	   (S-1  (NP *) 
+		 (NEG not)
+		 (AUX to)
+		 (VP restrict
+		     (NP them)
+		     (ADVP too
+			   narrowly))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Example 1)
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Student football managers)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Ten students)
+      (VP act
+	  (PP as
+	      (NP managers
+		  (PP for
+		      (NP a high-school football team))))))
+     ,
+     and
+     (S (PP of
+	    (NP these managers))
+	(S
+	 (NP a proportion P)
+	 (VP are
+	     (NP (ADJP licensed) drivers)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Each Friday)
+     (S
+      (NP one manager)
+      (AUX is)
+      (VP chosen
+	  (PP by
+	      (NP lot))
+	  (S (NP *)
+	     (AUX to)
+	     (VP (VP stay
+		     (ADVP late))
+		 and
+		 (VP load
+		     (NP the equipment)
+		     (PP on
+			 (NP a truck))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP three
+	   Fridays))
+   (S
+    (NP the coach)
+    (AUX has)
+    (VP needed
+	(NP a driver))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBARQ  (S  (NP *)  
+	      (VP Considering
+		  (NP  only
+		      these Fridays)))
+	  ,
+	  (SBARQ 
+	   (WHNP what)
+	   (SQ  
+	    (VP is)
+	    (NP the probability
+		(SBAR that
+		      (S (NP the coach)
+			 (VP had
+			     (NP drivers))
+			 (NP all 3 times))))
+	    (NP T))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP (ADVP Exactly)
+      2 times)
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 1 time)
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 0 times)
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Discussion)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Note
+	  (SBAR that
+		(S (NP there)
+		   (VP are
+		       (NP 3 trials
+			   (PP of
+			       (NP interest))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each trial)
+   (VP consists
+       (PP of
+	   (S (NP *) 
+	      (VP choosing
+		  (NP a student manager)
+		  (PP at
+		      (NP random)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 2 possible outcomes
+       (PP on
+	   (NP each trial)))
+   (VP are
+       (NP ``
+	   (NP driver)
+	   ''
+	   or
+	   ``
+	   (NP nondriver)
+	   '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (NP the choice)
+	     (VP is
+		 (PP by
+		     (NP lot)))
+	     (NP each week)))
+   ,
+   (S (NP the outcomes
+	  (PP of
+	      (NP different trials)))
+      (VP are
+	  (ADJP independent))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP The managers)
+   (VP stay
+       (NP the
+	   same))
+   ,
+   (SBAR  so
+	  that
+	  (S (NP A[fj])
+	     (VP is
+		 (NP the
+		     (ADJP same))
+		 (PP for
+		     (NP all weeks))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP now)
+   (VP generalize
+       (NP these ideas)
+       (PP for
+	   (NP general binomial experiments))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (S (NP an experiment)
+	     (AUX to)
+	     (VP qualify
+		 (PP as
+		     (NP a binomial experiment)))))
+      ,
+      (S (NP it)
+	 (AUX must)
+	 (VP have
+	     (NP four properties))))
+     :
+     (S (S *LRB*
+	   (NP 1)
+	   *RRB*
+	   (S (NP there)
+	      (AUX must)
+	      (VP be
+		  (NP a (ADJP fixed) number
+		      (PP of
+			  (NP trials))))))
+	,
+	(S  *LRB*
+	    (NP 2)
+	    *RRB*
+	    (S (NP each trial)
+	       (AUX must)
+	       (VP result
+		   (PP in
+		       (NP (NP a
+			       ``
+			       success
+			       '')
+			   or
+			   (NP a
+			       ``
+			       failure
+			       '')))))
+	    *LRB*
+	    (NP a binomial trial)
+	    *RRB*)
+	,
+	(S  *LRB*
+	    (NP 3)
+	    *RRB*
+	    (S (NP all trials)
+	       (AUX must)
+	       (VP have
+		   (NP identical probabilities
+		       (PP of
+			   (NP success))))))
+	,
+	(S  *LRB*
+	    (NP 4)
+	    *RRB*
+	    (S (NP the trials)
+	       (AUX must)
+	       (VP be
+		   (ADJP independent
+			 (PP of
+			     (NP each
+				 other))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP Below)
+   (S (NP we)
+      (VP use
+	  (NP our
+	      earlier
+	      examples))
+      (S (NP *)
+	 (AUX to)
+	 (VP describe and illustrate
+	     (NP these four properties)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP also)
+   (VP give
+       ,
+       (PP for
+	   (NP each property))
+       ,
+       (NP (NP an example)
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP the property)
+	       (VP is
+		   (ADJP absent)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The language and notation)
+       (VP introduced))
+   (VP are
+       (ADJP standard)
+       (PP throughout
+	   (NP the chapter))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 1)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX must)
+   (VP be
+       (NP a (ADJP fixed) number n
+	   (PP of
+	       (NP (VP repeated)
+		   trials)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP For
+	  (NP the marksman))
+      ,
+      (S (NP we)
+	 (VP study
+	     (NP (NP sets
+		     (PP of
+			 (NP five shots)))
+		 *LRB*
+		 (NP A[fj])
+		 *RRB*))))
+     ;
+     ;
+     (S (PP for
+	    (NP the mice))
+	,
+	(S (NP we)
+	   (VP restrict
+	       (NP attention)
+	       (PP to
+		   (NP (NP litters
+			   (PP of
+			       (NP eight)))
+		       *LRB*
+		       (NP A[fj])
+		       *RRB*)))))
+     ;
+     ;
+     and
+     (S  
+      (PP for
+	  (NP the aces))
+      ,
+      (S (NP we)
+	 (VP toss
+	     (NP (NP three dice)
+		 *LRB*
+		 (NP A[fj])
+		 *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Experiment
+      (PP without
+	  (NP a (ADJP fixed) number
+	      (PP of
+		  (NP trials)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Toss
+	  (NP a die)
+	  (PP until
+	      (S (NP an ace)
+		 (VP appears)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      (S (NP the number
+	     (PP of
+		 (NP trials)))
+	 (VP is
+	     (NP (NP a random variable)
+		 ,
+		 (NEG not)
+		 (NP a (ADJP fixed) number)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 2)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Binomial trials)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each
+       (PP of
+	   (NP the N trials)))
+   (VP is
+       (NP  either
+	    (NP a success)
+	    or
+	    (NP a failure))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP ``
+	(NP Success)
+	''
+	and
+	``
+	(NP failure)
+	'')
+    (VP are
+	(ADVP just)
+	(NP convenient labels
+	    (PP for
+		(NP the two categories
+		    (PP of
+			(NP outcomes))))))
+    (SBAR 
+     (WHADVP when)
+     (S (NP we)
+	(VP talk
+	    (PP about
+		(NP binomial trials
+		    (PP in
+			(NP general))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These words)
+   (VP are
+       (ADJP  more
+	      expressive
+	      (PP than
+		  (NP labels
+		      (PP like
+			  (NP ``
+			      (NP A)
+			      ''
+			      and
+			      ``
+			      (NP not-A)
+			      '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It
+	  (S-2 *pseudo-attach*))
+      (VP is
+	  (ADJP natural))
+      (PP from
+	  (NP 
+	   (NP the marksman)
+	   's viewpoint))
+      (S-2 (NP *)
+	   (AUX to)
+	   (VP call
+	       (NP a bull's-eye)
+	       (NP a success))))
+     ,
+     but
+     (S (PP in
+	    (NP the mice
+		example))
+	(S
+	 (NP it
+	     (SBAR-3 *pseudo-attach*))
+	 (VP is
+	     (ADJP arbitrary))
+	 (SBAR-3 
+	  (WHNP which category)
+	  (S (NP T)
+	     (VP corresponds
+		 (PP to
+		     (NP straight hair
+			 (PP in
+			     (NP a mouse))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The word
+	  ``
+	  binomial
+	  '')
+      (VP means
+	  (X (NP ``
+		 (PP of
+		     (NP two names))
+		 ''
+		 or
+		 ``
+		 (PP of
+		     (NP two terms))
+		 ''))))
+     ,
+     and
+     (S (S
+	 (NP  both
+	      usages)
+	 (VP apply
+	     (PP in
+		 (NP our work))))
+	:
+	(X (X (NP the
+		  (ADJP first))
+	      (PP to
+		  (NP the names
+		      (PP of
+			  (NP the two outcomes
+			      (PP of
+				  (NP a binomial trial)))))))
+	   ,
+	   and
+	   (X (NP the second)
+	      (PP to
+		  (NP (NP the terms
+			  P and A[fj])
+		      (SBAR (WHNP that)
+			    (S  (NP T) 
+				(VP represent
+				    (NP the probabilities
+					(PP of
+					    (NP ``
+						(NP success)
+						''
+						and
+						``
+						(NP failure)
+						''))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Sometimes)
+      (SBAR 
+       (WHADVP when)
+       (S (NP there)
+	  (VP are
+	      (NP many outcomes
+		  (PP for
+		      (NP a single trial))))))
+      ,
+      (S (NP we)
+	 (VP group
+	     (NP these outcomes)
+	     (PP into
+		 (NP two classes))
+	     ,
+	     (PP as
+		 (PP in
+		     (NP (NP the example
+			     (PP of
+				 (NP the die)))
+			 ,
+			 (SBAR 
+			  (WHADVP where)
+			  (S (NP we)
+			     (AUX have)
+			     (VP  (ADVP arbitrarily)
+				  constructed
+				  (NP (NP the classes)
+				      (NP ``
+					  (NP ace)
+					  ''
+					  and
+					  ``
+					  (NP not-ace)
+					  '')))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Experiment
+      (PP without
+	  (NP the (ADJP two-class) property)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (VP classify
+	  (NP mice)
+	  (PP as
+	      (ADJP ``
+		    (ADJP straight-haired)
+		    ''
+		    or
+		    ``
+		    (ADJP wavy-haired)
+		    ''))))
+     ,
+     but
+     (S (NP a hairless mouse)
+	(VP appears)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (AUX can)
+      (VP escape
+	  (PP from
+	      (NP  such
+		   a difficulty))
+	  (PP by
+	      (S (NP *) 
+		 (VP ruling
+		     (PRT out)
+		     (NP the animal)
+		     (PP as
+			 (S  (NP *)  
+			     (NEG not)
+			     (VP constituting
+				 (NP a trial)))))))))
+     ,
+     but
+     (S (NP  such
+	     a solution)
+	(VP is
+	    (NEG not)
+	    (ADVP always)
+	    (ADJP satisfactory))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 3)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All trials)
+   (VP have
+       (NP identical probabilities
+	   (PP of
+	       (NP success)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Each die)
+      (VP has
+	  (NP probability A[fj]
+	      (PP of
+		  (S (NP *) 
+		     (VP producing
+			 (NP an ace)))))))
+     ;
+     ;
+     (S (NP the marksman)
+	(VP has
+	    (NP (NP (NP some probability p)
+		    ,
+		    (NP  (ADVP perhaps)
+			 0.1))
+		,
+		(PP of
+		    (S (NP *) 
+		       (VP making
+			   (NP a bull's-eye))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Note
+	 (SBAR that
+	       (S (NP we)
+		  (AUX need)
+		  (NEG not)
+		  (VP know
+		      (NP the value
+			  (PP of
+			      (NP p))))
+		  ,
+		  (PP for
+		      (S (NP the experiment)
+			 (AUX to)
+			 (VP be
+			     (NP binomial))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Experiment)
+      (SBAR 
+       (WHADVP where)
+       (S (NP p)
+	  (VP is
+	      (NEG not)
+	      (ADJP constant)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP a round
+	   (PP of
+	       (NP target practice))))
+   (S (NP the sun)
+      (VP (VP comes
+	      (PP from
+		  (PP behind
+		      (NP a cloud))))
+	  and
+	  (VP dazzles
+	      (NP the marksman)
+	      ,
+	      (S (NP *) 
+		 (VP lowering
+		     (NP his chance
+			 (PP of
+			     (NP a bull's-eye)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 4)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The trials)
+   (VP are
+       (ADJP independent)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S  (NP *)  
+	(VP (ADVP Strictly)
+	    speaking))
+    ,
+    (S (NP this)
+       (VP means
+	   (SBAR that
+		 (S (NP the probability
+			(PP for
+			    (NP each possible outcome
+				(PP of
+				    (NP the experiment)))))
+		    (AUX can)
+		    (VP be
+			(VP computed
+			        
+			    (PP by
+				(S (NP *) 
+				   (VP multiplying
+				       (ADVP together)
+				       (NP the probabilities
+					   (PP of
+					       (NP the possible outcomes
+						   (PP of
+						       (NP the single binomial trials)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (PP in
+	  (NP the (NP three-dice) example))
+      (S (NP (NP A[fj])
+	     ,
+	     (NP A[fj])
+	     ,
+	     and
+	     (NP the independence assumption))
+	 (VP imply
+	     (SBAR that
+		   (S (NP the probability
+			  (SBAR that
+				(S (NP the three dice)
+				   (VP fall
+				       (NP (NP ace)
+					   ,
+					   (NP not-ace)
+					   ,
+					   (NP ace))
+				       (PP in
+					   (NP that order))))))
+		      (VP is
+			  (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Experimentally)
+      ,
+      (S (NP we)
+	 (VP expect
+	     (NP independence))
+	 (SBAR 
+	  (WHADVP when)
+	  (S (NP the trials)
+	     (VP have
+		 (NP nothing
+		     (S (NP *)
+			(AUX to)
+			(VP do
+			    (PP with
+				(NP one
+				    another))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Examples)
+      (SBAR 
+       (WHADVP where)
+       (S (NP independence)
+	  (VP fails))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A family
+	   (PP of
+	       (NP five)))
+       (VP plans
+	   (S (NP *)
+	      (AUX to)
+	      (VP go
+		  (ADVP together)
+		  (PP either
+		      (PP to
+			  (NP the beach))
+		      or
+		      (PP to
+			  (NP the mountains)))))))
+    ,
+    and
+    (S (NP a coin)
+       (AUX is)
+       (VP tossed
+	   )
+       (S (NP *)
+	  (AUX to)
+	  (VP decide))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP want
+       (S (NP *)
+	  (AUX to)
+	  (VP know
+	      (NP (NP the number
+		      (PP of
+			  (NP people)))
+		  (VP going
+		      (PP to
+			  (NP the mountains))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP this experiment)
+	 (AUX is)
+	 (VP viewed
+		 
+	     (PP as
+		 (S (NP *) 
+		    (VP composed
+			(PP of
+			    (NP (NP five binomial trials)
+				,
+				(NP one
+				    (PP for
+					(NP each member
+					    (PP of
+						(NP the family)))))))))))))
+     ,
+     (S (NP the outcomes
+	    (PP of
+		(NP the trials)))
+	(VP are
+	    (ADVP obviously)
+	    (NEG not)
+	    (ADJP independent))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP the experiment)
+	 (AUX is)
+	 (VP  (ADVP better)
+	      viewed
+	  
+	      (PP as
+		  (S (NP *) 
+		     (VP consisting
+			 (PP of
+			     (NP one binomial trial
+				 (PP for
+				     (NP the entire family))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The following)
+   (VP is
+       (NP a
+	   (ADJP  less
+		  extreme)
+	   example
+	   (PP of
+	       (NP dependence)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Consider
+	  (NP (NP couples)
+	      (VP visiting
+		  (NP an art museum)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each person)
+   (VP votes
+       (PP for
+	   (S (NP one
+		  (PP of
+		      (NP a pair
+			  (PP of
+			      (NP pictures)))))
+	      (AUX to)
+	      (VP receive
+		  (NP a popular prize))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP (S  (NP *)  
+	       (VP Voting
+		   (PP for
+		       (NP one picture)))))
+       (AUX may)
+       (VP be
+	   (VP called
+	       ``
+	       (NP success)
+	       '')))
+    ,
+    (X  
+     (PP for
+	 (NP the other))
+     ``
+     (NP failure)
+     ''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An experiment)
+   (VP consists
+       (PP of
+           (NP (NP the voting
+                   (PP of
+                       (NP one couple)))
+               ,
+               or
+               (NP two trials)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP repetitions
+	   (PP of
+	       (NP the experiment))
+	   (PP (PP from
+		   (NP couple))
+	       (PP to
+		   (NP couple)))))
+   ,
+   (S (NP the votes
+	  (PP of
+	      (NP the two persons
+		  (PP in
+		      (NP a couple)))))
+      (ADVP probably)
+      (VP agree
+	  (ADVP more often
+		(PP than
+		    (S (NP independence)
+		       (AUX would)
+		       (VP imply)))))
+      ,
+      (SBAR because
+	    (S (NP (NP couples)
+		   (SBAR  
+		    (WHNP who)
+		    (S (NP T)
+		       (VP visit
+			   (NP the museum)
+			   (ADVP together)))))
+	       (VP are
+		   (ADJP  more
+			  likely
+			  (S (NP *)
+			     (AUX to)
+			     (VP have
+				 (NP similar tastes)))
+			  (PP than
+			      (SINV  
+			       (VP are)
+			       (NP (NP a random pair
+				       (PP of
+					   (NP people)))
+				   (VP drawn
+				       (PP from
+					   (NP the entire population
+					       (PP of
+						   (NP visitors))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Table 7-1)
+   (VP illustrates
+       (NP the point)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The table)
+   (VP shows
+       (SBAR that
+	     (S (NP (NP 0.6
+			(PP of
+			    (NP the boys)))
+		    and
+		    (NP 0.6
+			(PP of
+			    (NP the girls))))
+		(VP vote
+		    (PP for
+			(NP picture
+			    A)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (PP under
+	  (NP independent voting))
+      ,
+      (S (S (NP (NP A[fj])
+		or
+		(NP 0.36
+		    (PP of
+			(NP the couples))))
+	    (AUX would)
+	    (VP cast
+		(NP two votes
+		    (PP for
+			(NP picture
+			    A)))))
+	 ,
+	 and
+	 (S  
+	  (NP (NP A[fj])
+	      or
+	      (NP 0.16))
+	  (AUX would)
+	  (VP cast
+	      (NP two votes
+		  (PP for
+		      (NP picture B)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (PP in
+	  (NP (ADJP independent)
+	      voting))
+      ,
+      (S  
+       (NP (NP A[fj])
+	   or
+	   (NP 0.52
+	       (PP of
+		   (NP the couples))))
+       (AUX would)
+       (VP agree)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP Table 7-1)
+	 (VP shows
+	     (SBAR that
+		   (S (NP (NP (NP A[fj])
+			      or
+			      (NP 0.70))
+			  (ADJP-4 *pseudo-attach*))
+		      (VP agree)
+		      ,
+		      (ADJP-4 too
+			      many
+			      (PP for
+				  (NP independent voting))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each performance
+       (PP of
+	   (NP an n-trial binomial experiment)))
+   (VP results
+       (PP in
+	   (NP some whole number
+	       (PP (PP from
+		       (NP 0))
+		   (PP through
+		       (NP N)))))
+       (PP as
+	   (NP the value
+	       (PP of
+		   (NP the
+		       random variable
+		       X))
+	       ,
+	       (X  
+		(WHADVP where)
+		(NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP want
+       (S (NP *)
+	  (AUX to)
+	  (VP study
+	      (NP the probability function
+		  (PP of
+		      (NP this random variable)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S (NP we)
+      (VP  are
+	   (ADJP interested
+		 (PP in
+		     (NP (NP the number
+			     (PP of
+				 (NP bull's-eyes)))
+			 ,
+			 (NEG not)
+			 (SBAR 
+			  (WHNP which shots)
+			  (S (NP T)
+			     (VP were
+				 (NP bull's-eyes)))))))
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A binomial experiment)
+   (AUX can)
+   (VP produce
+       (NP (NP random variables)
+	   (ADJP other
+		 (PP than
+		     (NP the number
+			 (PP of
+			     (NP successes))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S (S (NP the marksman)
+	 (VP gets
+	     (NP 5 shots)))
+      ,
+      but
+      (S (NP we)
+	 (VP take
+	     (NP his score)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (NP (NP the number
+			    (PP of
+				(NP shots))
+			    (PP before
+				(NP his first bull's-eye)))
+			,
+			(S (NP that)
+			   (VP is))
+			,
+			(NP   (NP 0 , 1 , 2 , 3 , 4
+				  *LRB*
+				  or
+				  5)
+			      ,
+			      (SBAR if
+				    (S (NP he)
+				       (VP gets
+					   (NP no bull's-eye))))
+			      *RRB*))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (S (NP we)
+	    (AUX do)
+	    (NEG not)
+	    (VP score
+		(NP the number
+		    (PP of
+			(NP bull's-eyes)))))
+	 ,
+	 and
+	 (S (NP the random variable)
+	    (VP is
+		(NEG not)
+		(NP the number
+		    (PP of
+			(NP successes)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The constancy
+	  (PP of
+	      (NP P)))
+      and
+      (NP the independence))
+  (VP are
+      (NP (NP the conditions)
+	  (ADJP  
+	   most likely
+	   (S (NP *)
+	      (AUX to)
+	      (VP give
+		  (NP trouble))
+	      (PP in
+		  (NP practice)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Obviously)
+	 ,
+	 (S (NP  (ADJP very
+		       slight)
+		 changes
+		 (PP in
+		     (NP P)))
+	    (AUX do)
+	    (NEG not)
+	    (VP change
+		(NP the probabilities)
+		(ADVP much))))
+     ,
+     and
+     (S (NP a slight lack
+	    (PP of
+		(NP independence)))
+	(AUX may)
+	(NEG not)
+	(VP make
+	    (NP an appreciable difference))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  
+    (PP For
+	(NP instance))
+    ,
+    (S  (NP *) 
+	(VP see
+	    (NP (NP Example 2
+		    (PP of
+			(NP Section 5-5)))
+		,
+		(PP on
+		    (NP red cards
+			(PP in
+			    (NP hands
+				(PP of
+				    (NP 5))))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP On
+      (NP the other hand))
+  ,
+  (SBAR 
+   (ADVP even)
+   (WHADVP when)
+   (S (NP the binomial model)
+      (AUX does)
+      (NEG not)
+      (VP describe
+	  (ADVP well)
+	  (NP (NP the physical phenomenon)
+	      (VP being
+		  (VP studied))))))
+  ,
+  (S (S (NP the binomial model)
+	(AUX may)
+	(ADVP still)
+	(VP be
+	    (VP used
+		    
+		(PP as
+		    (NP a baseline
+			(PP for
+			    (NP comparative purposes)))))))
+     ;
+     ;
+     (S (NP that)
+	(VP is))
+     ,
+     (S (NP we)
+	(AUX may)
+	(VP discuss
+	    (NP the phenomenon)
+	    (PP in
+		(NP terms
+		    (PP of
+			(NP its departures
+			    (PP from
+				(NP the binomial model))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP summarize))
+     :
+     (S (NP A binomial experiment)
+	(VP consists
+	    (PP of
+		(NP (NP A[fj] independent binomial trials)
+		    ,
+		    (NP all
+			(PP with
+			    (NP the same probability A[fj]
+				(PP of
+				    (S (NP *) 
+				       (VP yielding
+					   (NP a success))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The outcome
+       (PP of
+	   (NP the experiment)))
+   (VP is
+       (NP X successes)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The random variable X)
+   (VP takes
+       (NP (NP the values
+	       A[fj]
+	       (PP with
+		   (NP probabilities
+		       A[fj])))
+	   or
+	   ,
+	   (ADVP  more
+		  briefly)
+	   (NP 
+	    A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX shall)
+   (VP find
+       (NP a formula
+	   (PP for
+	       (NP the probability
+		   (PP of
+		       (NP  (ADVP exactly)
+			    X successes))
+		   (PP for
+		       (NP  (ADJP given)
+			    values
+			    (PP of
+				(NP (NP P) and (NP N))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP each number
+	     (PP of
+		 (NP successes
+		     X)))
+	 (AUX is)
+	 (VP paired
+		 
+	     (PP with
+		 (NP its probability
+		     (PP of
+			 (NP occurrence)))))))
+     (S (NP (NP A[fj])
+	    ,
+	    (NP the set
+		(PP of
+		    (NP pairs
+			A[fj])))
+	    ,)
+	(VP is
+	    (NP (NP a probability function)
+		(VP called
+		    (NP a binomial distribution))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The choice
+	   (PP of
+	       (NP (NP P) and (NP N))))
+       (VP determines
+	   (NP the binomial distribution)
+	   (ADVP uniquely)))
+    ,
+    and
+    (S (NP different choices)
+       (ADVP always)
+       (VP produce
+	   (NP different distributions))
+       *LRB*
+       (S (PP except
+	      (X  
+	       (WHADVP when)
+	       (NP A[fj])))
+	  ;
+	  ;
+	  (S (ADVP then)
+	     (S (NP the number
+		    (PP of
+			(NP successes)))
+		(VP is
+		    (ADVP always)
+		    (NP 0)))))
+       *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The set
+	  (PP of
+	      (NP all binomial distributions)))
+      (AUX is)
+      (VP called
+	     
+	  (NP the family
+	      (PP of
+		  (NP binomial distributions)))))
+     ,
+     but
+     (S (PP in
+	    (NP general discussions))
+	(S
+	 (NP this expression)
+	 (AUX is)
+	 (ADVP often)
+	 (VP shortened
+	      
+	     (PP to
+		 (NP ``
+		     (NP the binomial distribution)
+		     ''
+		     ,
+		     or
+		     (NP (ADVP even)
+			 ``
+			 the binomial
+			 ''
+			 (SBAR 
+			  (WHADVP when)
+			  (S (NP the context)
+			     (VP is
+				 (ADJP clear)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Binomial distributions)
+      (AUX were)
+      (VP treated
+		 
+	  (PP by
+	      (NP James Bernoulli)))
+      (NP (ADVP about)
+	  1700))
+   ,
+   and
+   (S (PP for
+	  (NP this reason))
+      (S (NP binomial trials)
+	 (AUX are)
+	 (ADVP sometimes)
+	 (VP called
+	     (NP Bernoulli trials)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Random variables)
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each binomial trial
+       (PP of
+	   (NP a binomial experiment)))
+   (VP produces
+       (NP either
+	   0
+	   or
+	   1 success)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      (S (NP each binomial trial)
+	 (AUX can)
+	 (VP be
+	     (VP thought
+		  
+		 (PP of
+		     (NP *) )
+		 (PP as
+		     (S  (NP *) 
+			 (VP (VP producing
+				 (NP a value
+				     (PP of
+					 (NP (NP a random variable)
+					     (VP associated
+						 (PP with
+						     (NP that trial)))))))
+			     and
+			     (VP taking
+				 (NP (NP the
+					 values 0
+					 and
+					 1)
+				     ,
+				     (PP with
+					 (NP (NP probabilities
+						 Q and P)
+					     (ADVP respectively))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The several trials
+       (PP of
+	   (NP a binomial experiment)))
+   (VP produce
+       (NP (NP (NP a
+		   new random
+		   variable X)
+	       ,
+	       (NP the total number
+		   (PP of
+		       (NP successes)))
+	       ,)
+	   (SBAR 
+	    (WHNP which)
+	    (S (NP T)
+	       (VP is
+		   (NP  (ADVP just)
+			the sum
+			(PP of
+			    (NP (NP the random variables)
+				(VP associated
+				    (PP with
+					(NP the single trials))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP Example 2)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The marksman)
+   (VP gets
+       (NP (NP two bull's-eyes)
+	   ,
+	   (NP (NP one
+		   (PP on
+		       (NP his third shot)))
+	       and
+	       (NP one
+		   (PP on
+		       (NP his
+			   (ADJP fifth))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The numbers
+       (PP of
+	   (NP successes
+	       (PP on
+		   (NP the five individual shots)))))
+   (VP are
+       ,
+       (ADVP then)
+       ,
+       (NP (NP 0) , (NP 0) , (NP 1) , (NP 0) , (NP 1))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The number
+	  (PP of
+	      (NP successes
+		  (PP on
+		      (NP each shot)))))
+      (VP is
+	  (NP a value
+	      (PP of
+		  (NP (NP a random variable)
+		      (SBAR (WHNP that)
+			    (S  (NP T) 
+				(VP has
+				    (NP values 0
+					or
+					1)))))))))
+     ,
+     and
+     (S (NP there)
+	(VP are
+	    (NP 5 such random variables)
+	    (ADVP here))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their sum)
+   (VP is
+       (NP (NP (NP X)
+	       ,
+	       (NP the total number
+		   (PP of
+		       (NP successes)))
+	       ,)
+	   (SBAR 
+	    (WHNP which)
+	    (S  
+	     (PP in
+		 (NP this experiment))
+	     (S (NP T)
+		(VP has
+		    (NP the value A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

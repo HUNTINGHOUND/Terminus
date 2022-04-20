@@ -1,0 +1,1665 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Scientists/NNS ]
+say/VB that/IN 
+[ the/DT world/NN ]
+and/CC 
+[ everything/NN ]
+in/IN 
+[ it/PRP ]
+are/VBP based/VBN on/IN 
+[ mathematics/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Without/IN 
+[ math/NN ]
+
+[ the/DT men/NNS ]
+
+[ who/WP ]
+are/VBP continually/RB seeking/VBG 
+[ the/DT causes/NNS ]
+of/IN and/CC 
+[ the/DT reasons/NNS ]
+for/IN 
+[ the/DT many/JJ things/NNS ]
+
+[ that/WP ]
+make/VBP 
+[ the/DT world/NN ]
+go/VB 
+[ 'round/RB ]
+would/MD not/RB have/VB 
+[ any/DT means/NNS ]
+of/IN analyzing/VBG ,/, standardizing/VBG ,/, and/CC communicating/VBG 
+[ the/DT things/NNS they/PRP ]
+discover/VBP and/CC learn/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ Math/NN ]
+and/CC 
+[ the/DT formulas/NNS ]
+
+[ that/WP ]
+allow/VBP 
+[ it/PRP ]
+to/TO be/VB applied/VBN to/TO 
+[ different/JJ problems/NNS ]
+are/VBP ,/, therefore/RB ,/, essential/JJ to/TO 
+[ any/DT scientific/JJ endeavor/NN ]
+./. 
+==================================
+
+[ Hot/JJ ]
+rodding/NN is/VBZ 
+[ a/DT science/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+'s/VBZ not/RB 
+[ a/DT science/NN ]
+as/RB involved/JJ as/IN determining/VBG 
+[ what/WP ]
+makes/VBZ 
+[ the/DT earth/NN ]
+rotate/VB on/IN 
+[ its/PRP$ axis/NN ]
+or/CC building/VBG 
+[ a/DT rocket/NN ]
+or/CC putting/VBG 
+[ a/DT satellite/NN ]
+into/IN 
+[ orbit/NN ]
+but/CC 
+[ it/PRP ]
+is/VBZ ,/, nevertheless/RB ,/, 
+[ a/DT science/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC because/IN 
+[ science/NN ]
+is/VBZ based/VBN on/IN 
+[ mathematics/NNS ]
+does/VBZ n't/RB mean/VB that/IN 
+[ a/DT hot/JJ rodder/NN ]
+must/MD necessarily/RB be/VB 
+[ a/DT mathematician/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT guy/NN ]
+can/MD be/VB 
+[ an/DT active/JJ ]
+and/CC 
+[ successful/JJ hot/JJ rodder/NN ]
+for/IN 
+[ years/NNS ]
+without/IN becoming/VBG even/RB remotely/RB involved/JJ with/IN 
+[ mathematical/JJ problems/NNS ]
+;/: ;/: however/RB ,/, 
+[ he/PRP ]
+will/MD have/VB 
+[ a/DT clearer/JJR understanding/NN ]
+of/IN 
+[ what/WP ]
+
+[ he/PRP ]
+is/VBZ doing/VBG and/CC 
+[ the/DT chances/NNS ]
+are/VBP 
+[ he/PRP ]
+will/MD be/VB more/RBR successful/JJ if/IN 
+[ he/PRP ]
+understands/VBZ 
+[ the/DT few/JJ formulas/NNS ]
+
+[ that/WP ]
+apply/VBP to/TO rodding/NN ./. 
+==================================
+
+[ A/DT mathematical/JJ formula/NN ]
+is/VBZ 
+[ nothing/NN ]
+more/JJR than/IN 
+[ a/DT pattern/NN ]
+for/IN solving/VBG 
+[ a/DT specific/JJ problem/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+places/VBZ 
+[ the/DT various/JJ factors/NNS ]
+involved/VBN in/IN 
+[ the/DT problem/NN ]
+in/IN 
+[ their/PRP$ correct/JJ order/NN ]
+in/IN 
+[ relation/NN ]
+to/TO 
+[ each/DT other/JJ ]
+so/IN that/IN 
+[ the/DT influence/NN ]
+of/IN 
+[ factors/NNS ]
+on/IN 
+[ each/DT other/JJ ]
+can/MD be/VB computed/VBN ./. 
+==================================
+
+[ The/DT first/JJ step/NN ]
+in/IN using/VBG 
+[ a/DT formula/NN ]
+is/VBZ to/TO insert/VB 
+[ the/DT numerical/JJ values/NNS ]
+of/IN 
+[ the/DT factors/NNS ]
+involved/VBN in/IN 
+[ their/PRP$ correct/JJ positions/NNS ]
+in/IN 
+[ the/DT formula/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+changes/VBZ 
+[ the/DT formula/NN ]
+to/TO 
+[ an/DT ]
+``/`` 
+[ equation/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT equation/NN ]
+is/VBZ used/VBN for/IN 
+[ the/DT mathematical/JJ process/NN ]
+of/IN solving/VBG 
+[ the/DT problem/NN ]
+./. 
+==================================
+
+[ Equations/NNS ]
+for/IN rodding/NN 
+[ formulas/NNS ]
+are/VBP not/RB complicated/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+involve/VBP 
+[ only/JJ simple/NN mathematics/NNS ]
+
+[ that/WP ]
+are/VBP taught/VBN in/IN 
+[ grammar/NN school/NN arithmetic/NN classes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ it/PRP ]
+is/VBZ essential/JJ that/IN 
+[ the/DT various/JJ mathematical/JJ symbols/NNS ]
+used/VBN in/IN 
+[ the/DT equations/NNS ]
+be/VB understood/VBN so/IN that/IN 
+[ the/DT mathematical/JJ processes/NNS ]
+can/MD be/VB done/VBN properly/RB and/CC in/IN 
+[ their/PRP$ correct/JJ order/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+indicate/VBP 
+[ simple/JJ division/NN ]
+,/, 
+[ multiplication/NN ]
+,/, 
+[ subtraction/NN ]
+,/, and/CC 
+[ addition/NN ]
+./. 
+==================================
+
+[ The/DT symbol/NN ]
+for/IN 
+[ division/NN ]
+is/VBZ 
+[ a/DT straight/JJ line/NN ]
+
+[ that/WP ]
+separates/VBZ 
+[ two/CD numbers/NNS ]
+placed/VBD 
+[ one/CD ]
+above/IN 
+[ the/DT other/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT lower/JJR number/NN ]
+is/VBZ always/RB divided/VBN into/IN 
+[ the/DT upper/JJ number/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT symbol/NN ]
+for/IN 
+[ multiplication/NN ]
+is/VBZ ``/`` 
+[ \*\*/SYM b/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ used/VBN to/TO separate/VB 
+[ two/CD ]
+or/CC 
+[ more/JJR numbers/NNS ]
+in/IN 
+[ a/DT row/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Numbers/NNS ]
+to/TO be/VB multiplied/VBN together/RB may/MD be/VB multiplied/VBN in/IN 
+[ any/DT order/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT result/NN ]
+will/MD be/VB 
+[ the/DT same/JJ ]
+regardless/RB of/IN 
+[ the/DT order/NN ]
+used/VBN ./. 
+==================================
+
+[ The/DT symbol/NN ]
+for/IN 
+[ subtraction/NN ]
+is/VBZ 
+[ the/DT standard/JJ minus/JJ sign/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ nothing/NN ]
+more/JJR than/IN 
+[ a/DT dash/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+separates/VBZ 
+[ two/CD ]
+or/CC 
+[ more/JJR numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT number/NN ]
+on/IN 
+[ the/DT right/NN ]
+of/IN 
+[ the/DT symbol/NN ]
+is/VBZ always/RB subtracted/VBN from/IN 
+[ the/DT number/NN ]
+on/IN 
+[ the/DT left/NN ]
+of/IN 
+[ the/DT symbol/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB more/JJR than/IN 
+[ two/CD figures/NNS ]
+are/VBP separated/VBN by/IN 
+[ subtraction/NN symbols/NNS ]
+
+[ the/DT subtraction/NN ]
+must/MD be/VB carried/VBN out/IN from/IN 
+[ the/DT left/NN ]
+to/TO 
+[ right/NN ]
+if/IN 
+[ the/DT result/NN ]
+is/VBZ to/TO be/VB correct/JJ ./. 
+==================================
+For/IN 
+[ example/NN ]
+,/, for/IN 
+[ the/DT problem/NN A[fj]/SYM ]
+,/, 
+[ 10/CD ]
+from/IN 
+[ 25/CD equals/VBZ 15/CD ]
+,/, then/RB 
+[ 6/CD ]
+from/IN 
+[ 15/CD ]
+equals/VBZ 
+[ 9/CD ]
+./. 
+==================================
+
+[ Addition/NN ]
+is/VBZ indicated/VBN by/IN 
+[ the/DT +/SYM symbol/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT symbol/NN ]
+is/VBZ used/VBN to/TO separate/VB 
+[ two/CD ]
+or/CC 
+[ more/JJR numbers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Numbers/NNS ]
+separated/VBN by/IN 
+[ addition/NN symbols/NNS ]
+may/MD be/VB placed/VBN in/IN 
+[ any/DT order/NN ]
+./. 
+==================================
+When/WRB solving/VBG 
+[ an/DT equation/NN ]
+
+[ that/WP ]
+involves/VBZ 
+[ division/NN ]
+as/RB well/RB as/IN 
+[ other/JJ steps/NNS ]
+,/, do/VB 
+[ all/DT the/DT division/NN steps/NNS ]
+first/RB to/TO reduce/VB 
+[ those/DT parts/NNS ]
+of/IN 
+[ the/DT equation/NN ]
+to/TO 
+[ their/PRP$ numerical/JJ value/NN ]
+./. 
+==================================
+
+[ Multiplication/NN ]
+,/, 
+[ subtraction/NN ]
+,/, and/CC 
+[ addition/NN ]
+can/MD then/RB be/VB accomplished/VBN as/IN 
+[ they/PRP ]
+appear/VB in/IN 
+[ the/DT equation/NN ]
+by/IN starting/VBG at/IN 
+[ the/DT left/JJ end/NN ]
+of/IN 
+[ the/DT equation/NN ]
+and/CC working/VBG toward/IN 
+[ the/DT right/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Completing/VBG 
+[ the/DT division/NN ]
+first/RB also/RB includes/VBZ 
+[ those/DT division/NN parts/NNS ]
+
+[ that/WP ]
+require/VBP 
+[ multiplication/NN ]
+,/, 
+[ subtraction/NN ]
+,/, or/CC 
+[ addition/NN steps/NNS ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+would/MD be/VB reduced/VBN by/IN multiplying/VBG 
+[ 8/CD times/CC 6/CD ]
+and/CC then/RB dividing/VBG 
+[ the/DT product/NN ]
+by/IN 
+[ 12/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT part/NN ]
+of/IN 
+[ the/DT equation/NN ]
+would/MD then/RB become/VB 
+[ 4/CD ]
+./. 
+==================================
+For/IN 
+[ use/NN ]
+in/IN 
+[ formulas/NNS ]
+,/, 
+[ fractions/NNS ]
+should/MD be/VB converted/VBN to/TO 
+[ their/PRP$ decimal/NN equivalents/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT easiest/JJS way/NN ]
+to/TO do/VB 
+[ this/DT ]
+is/VBZ with/IN 
+[ a/DT conversion/NN chart/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Charts/NNS ]
+for/IN 
+[ this/DT purpose/NN ]
+are/VBP available/JJ from/IN 
+[ many/JJ sources/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+are/VBP included/VBN in/IN 
+[ all/DT types/NNS ]
+of/IN 
+[ mathematical/JJ handbooks/NNS ]
+and/CC 
+[ they/PRP ]
+are/VBP stamped/VBN on/IN 
+[ some/DT types/NNS ]
+of/IN 
+[ precision/NN ]
+measuring/NN 
+[ instruments/NNS ]
+./. 
+==================================
+
+[ The/DT various/JJ mathematical/JJ processes/NNS ]
+can/MD be/VB simplified/VBN by/IN carrying/VBG 
+[ the/DT results/NNS ]
+to/TO only/RB 
+[ two/CD ]
+or/CC 
+[ three/CD decimal/JJ places/NNS ]
+./. 
+==================================
+Shortening/VBG 
+[ the/DT results/NNS ]
+in/IN 
+[ this/DT manner/NN ]
+will/MD not/RB have/VB 
+[ any/DT detrimental/JJ effect/NN ]
+on/IN 
+[ the/DT accuracy/NN ]
+of/IN 
+[ the/DT final/JJ result/NN ]
+./. 
+==================================
+
+[ Some/DT formulas/NNS ]
+contain/VBP ``/`` 
+[ constants/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT constant/NN ]
+is/VBZ 
+[ a/DT number/NN ]
+
+[ that/WP ]
+remains/VBZ 
+[ the/DT same/JJ ]
+regardless/RB of/IN 
+[ the/DT other/JJ numbers/NNS ]
+used/VBN in/IN 
+[ the/DT formula/NN ]
+and/CC 
+[ the/DT resultant/JJ equation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT number/NN ]
+without/IN 
+[ which/WDT ]
+
+[ the/DT equation/NN ]
+can/MD not/RB be/VB solved/VBN correctly/RB ./. 
+==================================
+Rodding/NN 
+[ formulas/NNS ]
+apply/VBP to/TO 
+[ many/JJ phases/NNS ]
+of/IN 
+[ the/DT sport/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT answers/NNS they/PRP ]
+give/VBP can/MD often/RB pave/VB 
+[ the/DT way/NN ]
+to/TO 
+[ performance/NN increases/NNS ]
+and/CC ,/, quite/RB often/RB ,/, are/VBP necessary/JJ for/IN 
+[ completing/VBG entry/NN blanks/NNS ]
+for/IN 
+[ different/JJ events/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ it/PRP ]
+is/VBZ needed/VBN ,/, 
+[ one/CD formula/NN ]
+is/VBZ as/RB important/JJ as/IN 
+[ another/DT ]
+./. 
+==================================
+However/RB ,/, 
+[ some/DT formulas/NNS ]
+are/VBP used/VBN more/RBR than/IN 
+[ others/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+'ll/MD take/VB 
+[ them/PRP ]
+in/IN 
+[ the/DT general/JJ order/NN ]
+of/IN 
+[ their/PRP$ popularity/NN ]
+./. 
+==================================
+
+[ Engine/NN displacement/NN ]
+
+[ A/DT rodder/NN ]
+should/MD be/VB able/JJ to/TO compute/VB 
+[ the/DT displacement/NN ]
+of/IN 
+[ his/PRP$ engine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Displacement/NN ]
+is/VBZ sometimes/RB referred/VBN to/TO as/IN ``/`` 
+[ swept/JJ volume/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Most/JJS entry/NN blanks/NNS ]
+for/IN 
+[ competitive/JJ events/NNS ]
+require/VBP 
+[ engine/NN displacement/NN information/NN ]
+because/IN of/IN 
+[ class/NN restrictions/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ good/JJ to/TO be/VB able/JJ to/TO compute/VB 
+[ displacement/NN ]
+so/IN that/IN 
+[ changes/NNS ]
+in/IN 
+[ it/PRP ]
+resulting/VBG from/IN boring/NN and/CC stroking/NN can/MD be/VB computed/VBN ./. 
+==================================
+
+[ Factors/NNS ]
+involved/VBN in/IN 
+[ the/DT displacement/NN formula/NN ]
+are/VBP 
+[ the/DT bore/JJ diameter/NN ]
+of/IN 
+[ the/DT engine/NN 's/POS cylinders/NNS ]
+,/, 
+[ the/DT length/NN ]
+of/IN 
+[ the/DT piston/NN stroke/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ cylinders/NNS ]
+in/IN 
+[ the/DT engine/NN ]
+,/, and/CC 
+[ a/DT constant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT constant/NN ]
+is/VBZ ,/, 
+[ which/WDT ]
+is/VBZ one-quarter/NN of/IN 
+[ 3.1416/CD ]
+,/, 
+[ another/DT constant/NN ]
+known/VBN as/IN ``/`` 
+[ pi/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Pi/NN ]
+is/VBZ used/VBN in/IN 
+[ formulas/NNS ]
+concerned/VBN with/IN 
+[ the/DT dimensions/NNS ]
+of/IN 
+[ circles/NNS ]
+./. 
+==================================
+Actually/RB ,/, 
+[ the/DT engine/NN displacement/NN formula/NN ]
+is/VBZ 
+[ the/DT standard/JJ formula/NN ]
+for/IN computing/VBG 
+[ the/DT volume/NN ]
+of/IN 
+[ a/DT cylinder/NN ]
+of/IN 
+[ any/DT type/NN ]
+with/IN 
+[ an/DT added/VBN factor/NN ]
+
+[ that/WP ]
+represents/VBZ 
+[ the/DT number/NN ]
+of/IN 
+[ cylinders/NNS ]
+in/IN 
+[ the/DT engine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cross-sectional/JJ area/NN ]
+of/IN 
+[ the/DT cylinders/NNS ]
+is/VBZ determined/VBN and/CC then/RB 
+[ the/DT volume/NN ]
+of/IN 
+[ the/DT individual/JJ cylinders/NNS ]
+is/VBZ computed/VBN by/IN multiplying/VBG 
+[ the/DT area/NN ]
+by/IN 
+[ the/DT stroke/NN length/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ the/DT equivalent/NN ]
+of/IN 
+[ the/DT length/NN ]
+of/IN 
+[ the/DT cylinders/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Multiplying/VBG 
+[ the/DT result/NN ]
+by/IN 
+[ the/DT number/NN ]
+of/IN 
+[ cylinders/NNS ]
+in/IN 
+[ the/DT engine/NN ]
+gives/VBZ 
+[ the/DT engine/NN 's/POS total/JJ displacement/NN ]
+./. 
+==================================
+
+[ The/DT formula/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Dimensions/NNS ]
+in/IN 
+[ inches/NN ]
+,/, and/CC 
+[ fractions/NNS ]
+of/IN 
+[ inches/NN ]*/NN
+will/MD give/VB 
+[ the/DT displacement/NN ]
+in/IN 
+[ cubic/JJ inches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Dimensions/NNS ]
+in/IN 
+[ centimeters/NNS ]
+and/CC 
+[ fractions/NNS ]
+of/IN 
+[ centimeters/NNS ]
+will/MD give/VB 
+[ the/DT displacement/NN ]
+in/IN 
+[ cubic/JJ centimeters/NNS ]
+(/( 
+[ cc/NN ]
+./. 
+==================================
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ One/CD inch/NN ]
+equals/VBZ 
+[ 2.54/CD centimeters/NNS ]
+:/: 
+[ one/CD cubic/JJ inch/NN ]
+equals/VBZ 
+[ 16.38/CD cubic/JJ centimeters/NNS ]
+./. 
+==================================
+For/IN 
+[ example/NN ]
+,/, let/VB 
+[ 's/PRP ]
+consider/VB 
+[ a/DT standard/JJ 283/CD cubic/JJ inch/NN Chevy/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT engines/NNS ]
+have/VBP 
+[ a/DT cylinder/NN diameter/NN ]
+of/IN 
+[ 3-78/CD inches/NNS ]
+and/CC 
+[ a/DT stroke/NN length/NN ]
+of/IN 
+[ 3/CD inches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT formula/NN ]
+,/, with/IN 
+[ the/DT fractions/NNS ]
+converted/VBN to/TO 
+[ decimals/NNS ]
+,/, becomes/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+To/TO arrive/VB at/IN 
+[ the/DT answer/NN ]
+,/, multiply/VB 
+[ the/DT numbers/NNS ]
+together/RB by/IN starting/VBG at/IN 
+[ the/DT left/NN ]
+of/IN 
+[ the/DT group/NN ]
+and/CC working/VBG to/TO 
+[ the/DT right/NN ]
+./. 
+==================================
+
+[ The/DT different/JJ steps/NNS ]
+will/MD look/VB like/IN 
+[ this/DT ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Compression/NN ratio/NN ]
+
+[ A/DT cylinder/NN 's/POS compression/NN ratio/NN ]
+is/VBZ computed/VBN by/IN comparing/VBG 
+[ the/DT cylinder/NN 's/POS volume/NN ]
+,/, or/CC 
+[ its/PRP$ displacement/NN ]
+,/, with/IN 
+[ the/DT total/JJ volume/NN ]
+of/IN 
+[ the/DT cylinder/NN ]
+and/CC 
+[ its/PRP$ combustion/NN chamber/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Cylinder/NN volume/NN ]
+can/MD be/VB determined/VBN mathematically/RB but/CC 
+[ combustion/NN chamber/NN volume/NN ]
+must/MD be/VB measured/VBN with/IN 
+[ a/DT liquid/NN ]
+./. 
+==================================
+
+[ Cylinder/NN volume/NN ]
+is/VBZ determined/VBN in/IN exactly/RB 
+[ the/DT same/JJ manner/NN ]
+as/IN for/IN 
+[ the/DT displacement/NN formula/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+To/TO measure/VB 
+[ the/DT volume/NN ]
+of/IN 
+[ one/CD ]
+of/IN 
+[ the/DT combustion/NN chambers/NNS ]
+in/IN 
+[ the/DT cylinder/NN head/NN ]
+,/, install/VB 
+[ the/DT valves/NNS ]
+and/CC 
+[ spark/NN plug/NN ]
+in/IN 
+[ the/DT chamber/NN ]
+and/CC support/VB 
+[ the/DT head/NN ]
+so/IN that/IN 
+[ its/PRP$ gasket/NN surface/NN ]
+is/VBZ level/JJ ./. 
+==================================
+
+==================================
+==================================
+Then/RB pour/VB 
+[ water/NN ]
+or/CC 
+[ light/JJ oil/NN ]
+from/IN 
+[ a/DT graduated/JJ beaker/NN ]
+into/IN 
+[ the/DT chamber/NN ]
+to/TO fill/VB 
+[ the/DT chamber/NN ]
+to/TO 
+[ its/PRP$ gasket/NN surface/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Do/VB not/RB overfill/VB 
+[ the/DT chamber/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ possible/JJ with/IN 
+[ water/NN ]
+and/CC 
+[ other/JJ liquids/NNS ]
+
+[ that/WP ]
+have/VBP 
+[ a/DT high/JJ surface/NN tension/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Such/DT liquids/NNS ]
+will/MD rise/VB to/TO 
+[ a/DT considerable/JJ height/NN ]
+above/IN 
+[ the/DT surface/NN ]
+around/IN 
+[ the/DT chamber/NN ]
+before/IN 
+[ they/PRP ]
+will/MD flow/VB out/IN of/IN 
+[ the/DT chamber/NN ]
+./. 
+==================================
+
+[ The/DT amount/NN ]
+of/IN 
+[ liquid/NN ]
+poured/VBN into/IN 
+[ the/DT chamber/NN ]
+is/VBZ determined/VBN by/IN subtracting/VBG 
+[ the/DT quantity/NN ]
+still/RB in/IN 
+[ the/DT beaker/NN ]
+when/WRB 
+[ the/DT chamber/NN ]
+is/VBZ full/JJ from/IN 
+[ the/DT original/JJ quantity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Most/JJS beakers/NNS ]
+are/VBP graduated/VBN in/IN 
+[ cubic/JJ centimeters/NNS ]
+(/( 
+[ cc./NNS ]
+)/) ,/, making/VBG 
+[ it/PRP ]
+necessary/JJ to/TO convert/VB 
+[ the/DT result/NN ]
+to/TO 
+[ cubic/JJ inches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ the/DT displacement/NN ]
+of/IN 
+[ the/DT cylinder/NN ]
+can/MD be/VB converted/VBN to/TO 
+[ cubic/JJ centimeters/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT compression/NN ratio/NN ]
+arrived/VBN at/RP with/IN 
+[ the/DT formula/NN ]
+will/MD be/VB 
+[ the/DT same/JJ ]
+regardless/RB of/IN whether/IN 
+[ cubic/JJ inches/NNS ]
+or/CC 
+[ cubic/JJ centimeters/NNS ]
+are/VBP used/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT only/JJ precaution/NN ]
+is/VBZ that/IN 
+[ all/DT volumes/NNS ]
+used/VBN in/IN 
+[ the/DT formula/NN ]
+be/VB quoted/VBN in/IN 
+[ the/DT same/JJ terms/NNS ]
+./. 
+==================================
+
+[ The/DT volume/NN ]
+of/IN 
+[ the/DT cylinder/NN ]
+opening/NN in/IN 
+[ the/DT head/NN gasket/NN ]
+must/MD be/VB computed/VBN by/IN multiplying/VBG 
+[ its/PRP$ area/NN ]
+in/IN 
+[ square/JJ inches/NNS ]
+by/IN 
+[ the/DT gasket/NN 's/POS thickness/NN ]
+in/IN 
+[ thousandths/NNS ]
+of/IN 
+[ an/DT inch/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Sometimes/RB 
+[ it/PRP ]
+is/VBZ necessary/JJ to/TO roughly/RB calculate/VB 
+[ the/DT square/JJ inch/NN area/NN ]
+of/IN 
+[ the/DT opening/NN ]
+but/CC 
+[ the/DT calculation/NN ]
+can/MD usually/RB be/VB made/VBN with/IN 
+[ sufficient/JJ accuracy/NN ]
+that/IN 
+[ it/PRP ]
+wo/MD n't/RB affect/VB 
+[ the/DT final/JJ computation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT volume/NN ]
+of/IN 
+[ the/DT opening/NN ]
+is/VBZ added/VBN to/TO 
+[ the/DT combustion/NN chamber/NN volume/NN ]
+./. 
+==================================
+
+[ Another/DT thing/NN ]
+
+[ that/WP ]
+must/MD be/VB taken/VBN into/IN 
+[ consideration/NN ]
+is/VBZ 
+[ the/DT volume/NN ]
+of/IN 
+[ the/DT area/NN ]
+between/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT piston/NN ]
+and/CC 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT cylinder/NN block/NN ]
+when/WRB 
+[ the/DT piston/NN ]
+is/VBZ in/IN 
+[ top/JJ dead/JJ center/NN position/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Compute/VB 
+[ this/DT volume/NN ]
+by/IN measuring/VBG 
+[ the/DT distance/NN ]
+from/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT block/NN ]
+to/TO 
+[ the/DT piston/NN head/NN ]
+as/RB accurately/RB as/IN 
+[ possible/JJ ]
+with/IN 
+[ a/DT depth/NN micrometer/NN ]
+or/CC 
+[ some/DT other/JJ precision/NN measuring/JJ|VBG device/NN ]
+and/CC then/RB multiply/VB 
+[ the/DT area/NN ]
+of/IN 
+[ the/DT cylinder/NN ]
+by/IN 
+[ the/DT depth/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT formula/NN ]
+for/IN 
+[ this/DT step/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT volume/NN ]
+is/VBZ added/VBN to/TO 
+[ the/DT total/JJ volume/NN ]
+of/IN 
+[ the/DT combustion/NN chamber/NN ]
+and/CC 
+[ head/NN gasket/NN opening/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT total/NN ]
+of/IN 
+[ these/DT three/CD volumes/NNS ]
+is/VBZ 
+[ the/DT ]
+``/`` 
+[ final/JJ combustion/NN chamber/NN volume/NN ]
+''/'' ./. 
+==================================
+After/IN 
+[ the/DT factors/NNS ]
+just/RB described/VBN have/VB been/VBN computed/VBN ,/, 
+[ they/PRP ]
+are/VBP applied/VBN to/TO 
+[ the/DT following/JJ formula/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+For/IN 
+[ an/DT example/NN let/NN 's/PRP dream/NN ]
+up/RP 
+[ an/DT engine/NN ]
+
+[ that/WP ]
+has/VBZ 
+[ a/DT final/JJ combustion/NN chamber/NN volume/NN ]
+of/IN 
+[ 5/CD cubic/JJ inches/NNS ]
+and/CC 
+[ a/DT cylinder/NN volume/NN ]
+of/IN 
+[ 45/CD cubic/JJ inches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Applying/VBG 
+[ these/DT figures/NNS ]
+to/TO 
+[ the/DT formula/NN ]
+
+[ we/PRP ]
+get/VBP 
+[ the/DT equation/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT compression/NN ratio/NN ]
+is/VBZ 
+[ 10/CD ]
+to/TO 
+[ 1/CD ]
+./. 
+==================================
+
+[ This/DT method/NN ]
+of/IN 
+[ computing/VBG compression/NN ratio/NN ]
+can/MD not/RB be/VB used/VBN accurately/RB for/IN 
+[ engines/NNS ]
+
+[ that/WP ]
+have/VBP 
+[ pistons/NNS ]
+with/IN 
+[ either/DT domed/JJ ]
+or/CC irregularly/RB shaped/JJ 
+[ heads/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Any/DT irregularity/NN ]
+on/IN 
+[ the/DT piston/NN heads/NNS ]
+will/MD make/VB 
+[ it/PRP ]
+impossible/JJ ,/, with/IN 
+[ normal/JJ means/NNS ]
+,/, to/TO determine/VB 
+[ the/DT final/JJ combustion/NN chamber/NN volume/NN ]
+because/IN 
+[ the/DT volume/NN ]
+displaced/VBN by/IN 
+[ the/DT piston/NN heads/NNS ]
+can/MD not/RB be/VB readily/RB computed/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT only/JJ way/NN ]
+to/TO determine/VB 
+[ the/DT final/JJ combustion/NN chamber/NN volume/NN ]
+when/WRB 
+[ such/DT pistons/NNS ]
+are/VBP used/VBN is/VBZ by/IN measuring/VBG 
+[ it/PRP ]
+with/IN 
+[ liquid/NN ]
+while/IN 
+[ the/DT cylinder/NN head/NN ]
+is/VBZ bolted/VBN to/TO 
+[ the/DT cylinder/NN block/NN ]
+and/CC 
+[ the/DT piston/NN ]
+is/VBZ in/IN 
+[ top/JJ dead/JJ center/NN position/NN ]
+./. 
+==================================
+
+[ Gear/NN ratio/NN ]
+--/: 
+[ speed/NN relationships/NNS ]
+
+[ There/EX ]
+are/VBP 
+[ four/CD versions/NNS ]
+of/IN 
+[ the/DT formula/NN ]
+
+[ that/WP ]
+involves/VBZ 
+[ the/DT relationships/NNS ]
+of/IN 
+[ car/NN speed/NN ]
+,/, 
+[ engine/NN speed/NN ]
+,/, 
+[ rear/JJ axle/NN gear/NN ratio/NN ]
+,/, and/CC 
+[ rear/JJ tire/NN size/NN ]
+./. 
+==================================
+
+==================================
+==================================
+By/IN using/VBG 
+[ the/DT appropriate/JJ version/NN ]
+
+[ any/DT one/CD ]
+of/IN 
+[ these/DT factors/NNS ]
+can/MD be/VB determined/VBN for/IN 
+[ any/DT combination/NN ]
+of/IN 
+[ the/DT other/JJ three/CD ]
+./. 
+==================================
+To/TO simplify/VB 
+[ the/DT formulas/NNS ]
+
+[ a/DT representative/JJ symbol/NN ]
+is/VBZ substituted/VBN for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT factors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+are/VBP 
+[ MPH/NNP ]
+for/IN 
+[ Car/NN speed/NN ]
+,/, for/IN 
+[ Engine/NN crankshaft/NN speed/NN ]
+,/, for/IN 
+[ Rear/JJ axle/NN gear/NN ratio/NN ]
+,/, for/IN 
+[ Tire/NN size/NN ]
+./. 
+==================================
+
+[ Tire/NN size/NN ]
+can/MD be/VB determined/VBN in/IN 
+[ several/JJ ways/NNS ]
+but/CC 
+[ the/DT one/NN ]
+
+[ that/WP ]
+is/VBZ 
+[ the/DT easiest/JJS ]
+and/CC as/IN accurate/JJ as/IN 
+[ any/DT ]
+is/VBZ by/IN measuring/VBG 
+[ the/DT effective/NN radius/NN ]
+of/IN 
+[ a/DT wheel/NN ]
+and/CC 
+[ tire/NN assembly/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ done/VBN by/IN measuring/VBG 
+[ the/DT distance/NN ]
+from/IN 
+[ the/DT surface/NN ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT tire/NN ]
+is/VBZ resting/VBG to/TO 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT rear/JJ axle/NN shaft/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT tire/NN ]
+must/MD be/VB inflated/VBN to/TO 
+[ its/PRP$ normal/JJ hot/JJ operating/JJ pressure/NN ]
+and/CC 
+[ the/DT car/NN ]
+must/MD be/VB loaded/VBN to/TO 
+[ its/PRP$ operating/JJ weight/NN ]
+when/WRB 
+[ this/DT measurement/NN ]
+is/VBZ made/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT measurement/NN ]
+must/MD be/VB in/IN 
+[ inches/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Any/DT fraction/NN ]
+of/IN 
+[ an/DT inch/NN ]
+involved/VBN in/IN 
+[ the/DT measurement/NN ]
+must/MD be/VB converted/VBN to/TO 
+[ a/DT decimal/NN equivalent/NN ]
+to/TO simplify/VB 
+[ the/DT mathematics/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ tire/NN size/NN ]
+is/VBZ measured/VBN in/IN 
+[ this/DT manner/NN ]
+
+[ a/DT constant/NN ]
+of/IN 
+[ 168/CD ]
+is/VBZ used/VBN in/IN 
+[ the/DT formula/NN ]
+./. 
+==================================
+To/TO determine/VB 
+[ car/NN speed/NN ]
+for/IN 
+[ a/DT given/VBN combination/NN ]
+of/IN 
+[ engine/NN speed/NN ]
+,/, 
+[ gear/NN ratio/NN ]
+,/, and/CC 
+[ tire/NN size/NN ]
+,/, 
+[ the/DT formula/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ an/DT engine/NN speed/NN ]
+of/IN 
+[ 5000/CD rpm/NN ]
+,/, 
+[ a/DT gear/NN ratio/NN ]
+of/IN 
+[ 4.00/CD ]
+to/TO 
+[ 1/CD ]
+,/, and/CC 
+[ a/DT tire/NN radius/NN ]
+of/IN 
+[ 13/CD inches/NN ]
+,/, 
+[ the/DT equation/NN ]
+would/MD look/VB like/IN 
+[ this/DT ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+To/TO determine/VB 
+[ engine/NN speed/NN ]
+for/IN 
+[ a/DT given/VBN combination/NN ]
+of/IN 
+[ the/DT other/JJ three/CD factors/NNS ]
+
+[ the/DT formula/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Using/VBG 
+[ the/DT same/JJ figures/NNS ]
+as/IN for/IN 
+[ the/DT previous/JJ example/NN ]
+,/, 
+[ the/DT equation/NN ]
+becomes/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+To/TO determine/VB 
+[ the/DT rear/JJ axle/NN gear/NN ratio/NN ]
+for/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ the/DT other/JJ three/CD factors/NNS ]
+,/, 
+[ the/DT formula/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Using/VBG 
+[ the/DT figures/NNS ]
+from/IN 
+[ the/DT previous/JJ examples/NNS ]
+,/, 
+[ the/DT equation/NN ]
+becomes/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+==================================
+==================================

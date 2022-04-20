@@ -1,0 +1,2292 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP he)
+	      (AUX had)
+	      (VP done
+		  (PP on
+		      (NP his first Imperial sortie)))
+	      (ADVP (NP a year
+			and
+			a
+			half)
+		    before)))
+    ,
+    (S (NP Lewis)
+       (VP trekked
+	   (ADJP southeast)
+	   (PP through
+	       (NP Red Russia))
+	   (PP to
+	       (NP Kamieniec)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (PP Thence
+       (S (NP he)
+	  (VP pushed
+	      (ADVP farther
+		    (ADJP south)
+		    (PP than
+			(S (NP he)
+			   (AUX had)
+			   (ADVP ever)
+			   (VP been
+			       (PP before)))))
+	      (PP into
+		  (NP (NP (NP Podolia)
+			  and
+			  (NP Nogay Tartary))
+		      or
+		      (NP the Yedisan))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP There)
+      ,
+      (PP along
+	  (NP the east bank
+	      (PP of
+		  (NP the Southern Bug))))
+      ,
+      (PP opposite
+	  (NP the hamlet
+	      (PP of
+		  (NP Zhitzhakli))))
+      (ADVP (NP a few miles)
+	    north
+	    (PP of
+		(NP the Black Sea)))
+      ,
+      (S (NP he)
+	 (VP arrived
+	     (PP at
+		 (NP General Headquarters
+		     (PP of
+			 (NP the Russian Army)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP June 19 ,
+	    1788))
+    ,
+    (S (NP he)
+       (AUX had)
+       (VP presented
+	   (NP himself)
+	   (PP to
+	       (NP (NP (NP its Commander
+			   (PP in
+			       (NP Chief)))
+		       ,
+		       (NP the Governor
+			   (PP of
+			       (NP the Southern Provinces)))
+		       ,
+		       (NP the Director
+			   (PP of
+			       (NP the War College))))
+		   --
+		   (NP The Prince))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Catherine)
+    's first war
+    (PP against
+	(NP the Grand Turk)))
+   (AUX had)
+   (VP ended
+       (PP in
+	   (NP 1774))
+       (PP with
+	   (NP (NP a peace treaty)
+	       (ADJP  quite
+		      favorable
+		      (PP to
+			  (NP her)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP By
+       (NP 1783))
+   (S (NP her legions)
+      (X (X (AUX had)
+	    (VP managed
+		(S (NP *)
+		   (AUX to)
+		   (VP annex
+		       (NP the Crimea)))
+		(PP amid
+		    (NP scenes
+			(PP of
+			    (NP wanton cruelty))))))
+	 and
+	 (X  (ADVP now)
+	     ,
+	     (PP in
+		 (NP this second combat
+		     (PP with
+			 (NP the Crescent))))
+	     ,
+	     (AUX were)
+	     (VP aiming
+		 (PP at
+		     (NP suzerainty
+			 (PP over
+			     (NP all
+				 (PP of
+				     (NP 
+				      (NP the Black Sea)
+				      's northern shoreline)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Through
+	   (ADJP most
+		 (PP of
+		     (NP 1787))))
+       (S (NP operations
+	      (PP on
+		  (NP both
+		      sides)))
+	  (AUX had)
+	  (VP been
+	      (ADJP lackadaisical))))
+    ;
+    ;
+    (S (NP those
+	   (PP of
+	       (NP 1788)))
+       (AUX were)
+       (VP going
+	   (S (NP *)
+	      (AUX to)
+	      (VP prove
+		  (ADJP decisive))))
+       ,
+       (SBAR though
+	     (S (NP many
+		    (PP of
+			(NP their details)))
+		(VP are
+		    (ADJP obscure))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP consolidate
+	    (SBAR (WHNP what)
+		  (S
+		   (NP her Navy)
+		   (AUX had)
+		   (VP won
+		       (NP T) )))))
+     ,
+     (S (NP the Czarina)
+	(VP was
+	    (ADJP fortunate
+		  (SBAR that
+			(S  ,
+			    (PP for
+				(NP the first time
+				    (PP in
+					(NP Russian history))))
+			    ,
+			    (S (NP her land forces)
+			       (VP enjoyed
+				   (NP absolute unity
+				       (PP of
+					   (NP command))))
+			       (PP under
+				   (NP her favorite Giaour)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Potemkin)
+   (AUX was)
+   (VP directing
+       (NP this conflict))
+   (PP (PP on
+	   (NP three fronts))
+       :
+       (PP (PP in
+	       (NP the Caucasus))
+	   ;
+	   ;
+	   (PP (PP along
+		   (NP the Danube))
+	       and
+	       (PP among
+		   (NP the Carpathians))
+	       ,
+	       (PP in
+		   (NP alliance
+		       (PP with
+			   (NP 
+			    (NP the Emperor Joseph)
+			    's armies)))))
+	   ;
+	   ;
+	   and
+	   (PP in
+	       (NP the misty marshlands
+		   and
+		   shallow coastal
+		   waters
+		   (PP of
+		       (NP (NP (NP Nogay Tartary)
+			       and
+			       (NP Taurida))
+			   ,
+			   (VP including
+			       (NP the Crimean peninsula)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Here)
+	 (S (NP the war)
+	    (AUX would)
+	    (VP flame
+		(PP to
+		    (NP its focus)))))
+      ,
+      and
+      (S (ADVP here)
+	 (S (NP Lewis Littlepage)
+	    (AUX had)
+	    (VP come))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP 
+	 (NP Potemkin)
+	 's
+	 Army
+	 (PP of
+	     (NP Ekaterinoslav)))
+	,
+	(VP totaling
+	    ,
+	    (S (NP it)
+	       (AUX was)
+	       (VP claimed
+		   ))
+	    ,
+	    (NP (NP 40,000 regular troops)
+		and
+		(NP 6,000 irregulars
+		    (PP of
+			(NP the Cossack Corps)))))
+	,)
+    (X (X (AUX had)
+	  (VP invested
+	      (NP (NP 
+		   (NP Islam)
+		   's principal stronghold
+		   (PP on
+		       (NP the north shore
+			   (PP of
+			       (NP the Black Sea)))))
+		  ,
+		  (NP the fortress town
+		      (PP of
+			  (NP Oczakov)))
+		  ,)))
+       and
+       (X (AUX was)
+	  (VP preparing
+	      (S (NP *)
+		 (AUX to)
+		 (VP test
+		     (NP the Turk)
+		     (PP by
+			 (NP land and sea))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP a sojourn
+	    (PP of
+		(NP (ADJP  slightly
+			   more
+			   (PP than
+			       (NP three)))
+		    months))))
+    (S (NP Chamberlain Littlepage)
+       (AUX could)
+       (VP see
+	   (NP action)
+	   (PP on
+	       (NP both
+		   elements)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP his second
+	    (PP in
+		(NP command))))
+    (S
+     (NP The Prince)
+     (VP had
+	 (NP (NP Marshal Repnin)
+	     ,
+	     (NP one-time Ambassador
+		 (PP to
+		     (NP Poland)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Repnin)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (VP had
+		     (NP (NP a
+			     (ADJP rather
+				   narrow) face)
+			 ,
+			 (NP longish nose)
+			 ,
+			 (NP high forehead)
+			 ,
+			 and
+			 (NP  arching
+			      brows)
+			 ,)))))
+    (VP looked
+	(PP like
+	    (NP a
+		quizzical
+		Mephistopheles))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Some people)
+       (VP thought
+	   (SBAR 0
+		 (S (NP he)
+		    (VP lacked
+			(NP both ability and character))))))
+    ,
+    but
+    (S (NP most)
+       (VP agreed
+	   (SBAR that
+		 (S (NP he)
+		    (VP was
+			(ADJP (ADJP noble
+				    (PP in
+					(NP appearance)))
+			      and
+			      ,
+			      (PP for
+				  (NP a Russian))
+			      ,
+			      (ADJP humane))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Marshal)
+   (VP came
+       (S (NP *)
+	  (AUX to)
+	  (VP know
+	      (NP Littlepage)
+	      (ADVP quite
+		    well)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP General Headquarters))
+     (S
+      (NP the newcomer)
+      (PP in
+	  (NP turn))
+      (VP got
+	  (S (NP *)
+	     (AUX to)
+	     (VP know
+		 (NP others))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP (NP the Neapolitan)
+	       ,
+	       (NP Ribas)
+	       ,
+	       (NP a capable conniver))
+	   (SBAR (SBAR (WHNP whose father)
+		       (S (NP T)
+			  (AUX had)
+			  (VP been
+			      (NP a blacksmith))))
+		 but
+		 (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (AUX had)
+		     (VP fawned
+			 (NP his way)
+			 (PP up
+			     (NP the ladder
+				 (PP of
+				     (NP 
+				      (NP Catherine)
+				      's
+				      and
+				      (NP Potemkin)
+				      's favor)))))
+		     (PP till
+			 (S (NP he)
+			    (X (VP was
+				   now
+				   (NP a brigadier))
+			       *LRB*
+			       and
+			       (X (AUX would)
+				  (NP one day)
+				  (VP be
+				      (NP  (NP the daggerman)
+					   (VP designated
+					       (S (NP *)
+						  (AUX to)
+						  (VP do
+						      (PRT in)
+						      (NP Czar Paul 1))
+						  ,
+						  ,
+						  (PP after
+						      (S (NP *)
+							 (VP traveling
+							     (PP (NP all
+								     the way)
+								 to
+								 (NP
+								  Naples)))
+							 (S (NP *)
+							    (AUX to)
+							    (VP procure
+								(NP  just
+								     the right stiletto))))))))))
+			       *RRB*)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Then)
+      (S (NP there)
+	 (VP were
+	     (NP the
+		 distinguished foreign
+		 volunteers))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (SINV (VP Representing
+	    (NP the Emperor))
+	(AUX were)
+	(NP (NP (NP the Prince De Ligne)
+		,
+		(ADVP still
+		      (ADJP  as
+			     impetuous
+			     (PP as
+				 (NP a youth
+				     (PP of
+					 (NP twenty)))))))
+	    ;
+	    ;
+	    and
+	    (NP (NP General
+		    the Count Pallavicini)
+		,
+		(NP founder
+		    (PP of
+			(NP the Austrian branch
+			    (PP of
+				(NP that
+				    celebrated Italian
+				    house)))))
+		,
+		(NP (NP a courtier)
+		    (SBAR 0
+			  (S (NP Littlepage)
+			     (AUX could)
+			     (VP have
+				 (VP met
+				     (NP T)
+				     (PP at
+					 (NP Madrid))
+				     (PP in
+					 (NP December
+					     ,
+					     1780))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP From
+	   (NP Milan))
+       (VP came)
+       (NP (NP the
+	       young
+	       Chevalier De Litta)
+	   ,
+	   (NP an officer
+	       (PP in
+		   (NP the service
+		       (PP of
+			   (NP Malta)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SINV (PP Out
+	   (PP of
+	       (NP Saxony)))
+       (VP rode)
+       (NP (NP the Prince
+	       (PP of
+		   (NP Anhalt-Bernburg)))
+	   ,
+	   (NP (NP one
+		   (PP of
+		       (NP 
+			(NP the Czarina)
+			's cousins)))
+	       and
+	       (NP a lieutenant general
+		   (PP in
+		       (NP her armies))))
+	   ,
+	   (NP (NP a
+		   (ADJP frank
+			 ,
+			 sensitive
+			 ,
+			 popular)
+		   soldier)
+	       (SBAR
+		(WHNP whose kindnesses)
+		(S (NP Littlepage)
+		   (AUX would)
+		   ``
+		   (ADVP always)
+		   (VP recall
+		       (NP T)
+		       (PP with
+			   (NP the
+			       sincerest
+			       gratitude)))
+		   '')))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Though
+	   (S
+	    (NP  Catherine)
+	    (AUX was)
+	    (VP vexed
+	     
+		(PP at
+		    (NP the number
+			(PP of
+			    (NP (NP French officers)
+				(VP streaming
+				    (PP to
+					(NP the Turkish standard))))))))))
+     ,
+     (S (NP there)
+	(VP were
+	    (NP several)
+	    (PP under
+		(NP her
+		    (ADJP own)))
+	    ,
+	    (ADJP such
+		  (PP as
+		      (NP (NP the Prince De Nassau)
+			  ;
+			  ;
+			  (NP (NP (NP the
+				      (ADJP energetic Parisian))
+				  ,
+				  (NP Roger De Damas)
+				  ,
+				  (NP (NP three year 's)
+				      (NP Littlepage)
+				      's junior))
+			      ,
+			      (SBAR 
+			       (WHPP to
+				     (WHNP whom))
+			       (S (NP Nassau)
+				  (AUX had)
+				  (VP taken
+				      (NP a liking)))))
+			  ;
+			  ;
+			  and
+			  (NP (NP the artillerist)
+			      ,
+			      (NP Colonel Prevost)
+			      ,
+			      (SBAR (WHNP whom)
+				    (S
+				     (NP the Count De Segur)
+				     (AUX had)
+				     (VP persuaded
+					 (NP T) 
+					 (S (NP *)
+					    (AUX to)
+					    (VP lend
+						(NP his technical skills)
+						(PP to
+						    (NP Nassau))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP England)
+   (VP contributed
+       (NP (NP  (NP a young subaltern)
+		(VP named
+		    (NP Newton)))
+	   and
+	   (NP (NP (NP the naval architect)
+		   (NP Samuel Bentham))
+	       ,
+	       (NP brother
+		   (PP to
+		       (NP the economist)))
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (PP for
+		       (NP 
+			(NP his colonel)
+			's commission))
+		   (S (NP T)
+		      (AUX was)
+		      (VP proving
+			  (NP a godsend
+			      (PP to
+				  (NP the Russian fleet)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (PP From
+	   (NP America))
+       (VP were)
+       (NP the Messrs. Littlepage
+	   and
+	   Jones))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lewis)
+   (AUX had)
+   (VP expected
+       (S (NP *)
+	  (AUX to)
+	  (VP report
+	      (PP at
+		  once)
+	      (PP to
+		  (NP 
+		   (NP Jones)
+		   's
+		   and
+		   (NP Nassau)
+		   's naval command post))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP arrival
+	    (PP at
+		(NP headquarters))))
+    (S (NP he)
+       (AUX had)
+       ,
+       however
+       --
+       (PP in
+	   (NP 
+	    (NP King Stanislas)
+	    ' words
+	    (PP to
+		(NP Glayre))))
+       --
+       ``
+       (VP found
+	   (NP such favor)
+	   (PP with
+	       (NP Pe Potemkin)))
+       (SBAR that
+	     (S (NP he)
+		(X (VP made
+		       (NP him)
+		       (NP his aide-de-camp))
+		   and
+		   (PP up
+		       (PP to
+			   (NP now)))
+		   (X (AUX does)
+		      (NEG not)
+		      (VP want
+			  (NP him)
+			  (S (NP *)
+			     (AUX to)
+			     (VP go
+				 (VP join
+				     (NP Paul Jones)))))))))))
+ .
+ '') 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S So
+     (PP of
+	 (NP course))
+     (S (NP he)
+	(VP stayed
+	    (ADJP put))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Having
+	      (VP done
+		  (ADVP so))))
+      ,
+      (S (NP he)
+	 (VP began
+	     (S (NP *)
+		(AUX to)
+		(VP experience
+		    (NP all
+			the frustrations
+			(PP of
+			    (NP (NP others)
+				(SBAR (WHNP who)
+				      (S (NP T)
+					 (VP attempted
+					     (S (NP *)
+						(AUX to)
+						(VP (VP get
+							(PP along)
+							(PP with
+							    (NP Serenissimus)))
+						    and
+						    (VP do
+							(NP a job)
+							(PP at
+							    (NP the same time))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (S
+	 (NP 
+	  (NP The Prince)
+	  's perceptions)
+	 (VP were
+	     (ADJP quick)))
+	and
+	(X (NP his energy)
+	   (ADJP monstrous)))
+     ,
+     but
+     (S (NP these qualities)
+	(AUX were)
+	(VP sapped
+	        
+	    (PP by
+		(NP (NP an Oriental lethargy)
+		    and
+		    (NP a policy
+			(PP of
+			    (S  (NP *)
+				(VP letting
+				    (S (NP nothing)
+				       (VP interfere
+					   (PP with
+					       (NP personal passions)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP headquarters))
+    --
+    (ADVP sufficiently
+	  far
+	  (PP from
+	      (NP the firing line))
+	  (S (NP *)
+	     (AUX to)
+	     (VP make
+		 (NP you)
+		 (VP forget
+		     (ADVP occasionally)
+		     (SBAR that
+			   (S (NP you)
+			      (VP were
+				  (PP in
+				      (NP a war)))))))))
+    --
+    (S (NP Lewis)
+       (VP found
+	   (SBAR that
+		 (S (S (NP (NP the Commander
+			       (PP in
+				   (NP Chief)))
+			   's only desk)
+		       (VP was
+			   (NP his knees)))
+		    *LRB*
+		    and
+		    (X (NP his only comb)
+		       ,
+		       (NP his fingers))
+		    *RRB*)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An entire theater)
+   (AUX had)
+   (VP been
+       (VP set
+		 
+	   (PRT up)
+	   (PP for
+	       (NP his diversion))
+	   ,
+	   (PP with
+	       (NP a
+		   200-man Italian
+		   orchestra
+		   (PP under
+		       (NP the
+			   well-known
+			   Sarti)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP 
+	     (NP the
+		 great
+		 one)
+	     's personal quarters)
+	    ,
+	    (NP a portable house)
+	    ,))
+    (S (NP  almost
+	    every evening)
+       (VP saw
+	   (NP an elegant banquet or reception))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lewis)
+   (AUX could)
+   (VP (VP let
+	   (NP his eye)
+	   (VP caress
+	       (NP (NP 
+		    (NP The Prince)
+		    's divan)
+		   ,
+		   (VP covered
+		       (PP with
+			   (NP a
+			       (ADJP rose-pink and silver) Turkish
+			       cloth))))))
+       ,
+       or
+       (VP admire
+	   (NP (NP (NP the lovely tapis)
+		   ,
+		   (VP interwoven
+		       (PP with
+			   (NP gold)))
+		   ,)
+	       (SBAR 
+		(WHNP that)
+		(S (NP T)
+		   (VP spread
+		       (PP across
+			   (NP the floor)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Filigreed perfume boxes)
+   (VP exuded
+       (NP the aromas
+	   (PP of
+	       (NP Araby)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SINV (PP Around
+	   (NP the billiard tables))
+       (VP were)
+       (ADVP always)
+       (NP (NP (PP at
+		   (ADJP least))
+	       a couple
+	       (PP of
+		   (NP dozen)))
+	   beribboned generals))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP At
+	 (NP dinner))
+     (S
+      (NP the courses)
+      (AUX were)
+      (VP carried
+	   
+	  (PRT in)
+	  (PP by
+	      (NP (NP tall cuirassiers
+		      (PP in
+			  (NP (NP red capes)
+			      and
+			      (NP (NP black fur caps)
+				  (VP topped
+				      (PP with
+					  (NP tufts
+					      (PP of
+						  (NP feathers)))))))))
+		  ,
+		  (VP marching
+		      (PP in
+			  (NP pairs))
+		      (PP like
+			  (NP guards
+			      (PP from
+				  (NP a stage tragedy))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Among
+	(NP (NP the visitors)
+	    (VP arriving
+		(NP every
+		    now and then))))
+    (S (NP there)
+       (VP were
+	   ,
+	   (PP of
+	       (NP course))
+	   ,
+	   (NP women))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (SBAR if
+	    (S (NP Serenissimus)
+	       (VP (VP made
+		       (NP the sign
+			   (PP of
+			       (NP the Cross)))
+		       (PP with
+			   (NP his right hand)))
+		   ,
+		   and
+		   (VP meant
+		       (NP it)))))
+      ,
+      (S (PP with
+	     (NP his left))
+	 (S
+	  (NP he)
+	  (VP beckoned
+	      (ADVP lewdly)
+	      (PP to
+		  (NP (NP any lady)
+		      (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP happened
+				   (S (NP *)
+				      (AUX to)
+				      (VP catch
+					  (NP his eye))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Usually)
+      (S (NP Lewis)
+	 (AUX would)
+	 (VP find
+	     (PP at
+		 (NP headquarters))
+	     (NP one
+		 or
+		 more
+		 (PP of
+		     (NP 
+		      (NP The Prince)
+		      's various nieces))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Right
+	    now)
+      (S (NP he)
+	 (VP found
+	     (NP (NP Sophie De Witt)
+		 ,
+		 (NP (NP  that
+			  magnificent young
+			  matron)
+		     (SBAR 0
+			   (S
+			    (NP he)
+			    (AUX had)
+			    (VP spotted
+				(NP T)
+				(PP at
+				    (NP Kamieniec)))
+			    (ADVP (NP four years)
+				  ago))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The Prince)
+      (VP took
+	  (NP her)
+	  (PP with
+	      (NP him))
+	  (PP on
+	      (NP every tour
+		  (PP around
+		      (NP the area))))))
+     ,
+     and
+     (S (NP it)
+	(AUX was)
+	(VP rumored
+	    (SBAR 0
+		  (S (NP he)
+		     (AUX was)
+		     (VP utilizing
+			 (NP her knowledge
+			     (PP of
+				 (NP Constantinople))))
+		     (PP as
+			 (NP part
+			     (PP of
+				 (NP his espionage network)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP One evening)
+    (S
+     (NP he)
+     (VP passed
+	 (PP around
+	     (NP the banquet table))
+	 (NP (NP a crystal cup)
+	     (ADJP full
+		   (PP of
+		       (NP diamonds)))))
+     ,
+     (S  (NP *) 
+	 (VP requesting
+	     (S (NP every female guest)
+		(AUX to)
+		(VP select
+		    (NP one)
+		    (PP as
+			(NP a souvenir))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP a lady)
+	 (VP chanced
+	     (S (NP *)
+		(AUX to)
+		(VP soil
+		    (NP a pair
+			(PP of
+			    (NP evening slippers))))))))
+     ,
+     (S (NP Brigadier Bauer)
+	(AUX was)
+	(VP dispatched
+		 
+	    (PP to
+		(NP Paris))
+	    (PP for
+		(NP replacements)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR if
+	    (S (NP The Prince)
+	       (X (VP fancied
+		      (NP women))
+		  and
+		  (X (AUX was)
+		     (VP fascinated
+		 
+			 (PP by
+			     (NP foreigners)))))))
+      ,
+      (S (NP he)
+	 (AUX could)
+	 (VP be
+	     (NP (NP haughtiness)
+		 (VP personified)))
+	 (PP to
+	     (NP his subordinates))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX had)
+   (VP collared
+       (NP one
+	   (PP of
+	       (NP his generals)))
+       (PP in
+	   (NP public))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP His coat)
+	(VP trimmed
+	    (PP in
+		(NP sable))))
+    ,
+    (NP (NP diamond stars
+	    (PP of
+		(NP the Orders
+		    (PP of
+			(NP Saints Andrew
+			    or
+			    George)))))
+	(ADJP agleam))
+    ,
+    (S (NP he)
+       (VP was
+	   (ADVP often)
+	   (ADJP prone
+		 (S (NP *)
+		    (AUX to)
+		    (VP sit
+			(ADVP sulkily)
+			,
+			(NP (NP eye)
+			    (ADJP downcast))
+			,
+			(PP in
+			    (NP a Scheherazade trance))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP this)
+	 (VP happened)))
+     ,
+     (S (NP everything)
+	(VP stopped)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP Littlepage)
+	   (VP noted)))
+    :
+    (S  ``
+	(NP A complete picture
+	    (PP of
+		(NP Prince Potemkin)))
+	(AUX may)
+	(VP be
+	    (VP had
+		(PP in
+		    (NP his 1788 operations))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP stays
+	    (ADJP inactive)
+	    (PP for
+		(NP half
+		    the summer))
+	    (PP in
+		(NP front
+		    (PP of
+			(NP (NP Oczakov)
+			    ,
+			    (NP a
+				quite
+				second-rate spot)
+			    ,)))))
+	(VP begins
+	    (S (NP *)
+	       (AUX to)
+	       (VP besiege
+		   (NP it)
+		   (ADVP formally))
+	       (PP  only
+		    during
+		    (NP the autumn rains))))
+	,
+	and
+	finally
+	(VP carries
+	    (NP it)
+	    (PP by
+		(NP assault))
+	    (PP in
+		(NP the heart
+		    (PP of
+			(NP winter)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP 's
+	(NP (NP (NP a man)
+		(SBAR (SBAR (WHNP who)
+			    (S (NP T)
+			       (VP (VP (ADVP never)
+				       goes
+				       (PP by
+					   (NP the ordinary road)))
+				   but
+				   (VP  (ADVP still)
+					arrives
+					(PP at
+					    (NP his goal))))))
+		      ,
+		      (SBAR 
+		       (WHNP who)
+		       (S (NP T)
+			  (ADVP gratuitously)
+			  (VP gets
+			      (NP himself)
+			      (PP into
+				  (NP difficulty)))
+			  (PP in
+			      (NP order
+				  (S (NP *)
+				     (AUX to)
+				     (VP get
+					 (PP out
+					     (PP of
+						 (NP it)))
+					 (PP with
+					     (NP eclat))))))))))
+	    ,
+	    (PP in
+		(NP a word))
+	    (NP (NP a man)
+		(SBAR (WHNP who)
+		      (S (NP T)
+			 (VP creates
+			     (NP monsters)
+			     (PP for
+				 (NP himself)))
+			 (PP in
+			     (NP order
+				 (S (NP *)
+				    (AUX to)
+				    (VP appear
+					(NP a Hercules)
+					(PP in
+					    (S  (NP *)
+						(VP destroying
+						    (NP them))))))))))))))
+ ''
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S   (NP *)
+	 (AUX To)
+	 (VP help
+	     (S (NP him)
+		(VP do
+		    (ADVP so)))))
+    (S (NP The Prince)
+       (AUX had)
+       (VP conferred
+	   (NP control
+	       (PP of
+		   (NP his land forces)))
+	   (PP on
+	       (NP (NP a soldier)
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (VP was
+				(ADJP different
+				      (PP from
+					  (NP him))))
+			    (PP in
+				(NP (NP  (ADJP almost
+					       every) respect
+					       (PP save
+						   (NP one)))
+				    :
+				    (S (NP both)
+				       (VP were
+					   (NP eccentrics
+					       (PP of
+						   (NP the
+						       purest
+						       ray serene))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Alexander Vasilievitch Suvorov)
+	,
+	(ADVP now
+	      (PP in
+		  (NP (NP his fifty-ninth year)
+		      *LRB*
+		      (NP (NP ten years)
+			  (NP Potemkin)
+			  's senior)
+		      *RRB*)))
+	,)
+    (VP was
+	(NP (NP a
+		thin
+		,
+		worn-faced
+		person
+		(PP of
+		    (NP (ADJP less
+			      (PP than
+				  (NP medium)))
+			height)))
+	    (SBAR (WHNP who)
+		  (S (NP T)
+		     (VP looked
+			 (PP like
+			     (NP a professor
+				 (PP of
+				     (NP botany))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP had
+       (NP (NP a small mouth
+	       (PP with
+		   (NP deep furrows
+		       (PP on
+			   (NP either side)))))
+	   ,
+	   (NP a
+	       large flat
+	       nose)
+	   ,
+	   and
+	   (NP 
+	    (VP penetrating) blue
+	    eyes))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His gray hair)
+      (VP was
+	  (ADJP thin)))
+     ,
+     (S (NP his face)
+	(VP beginning
+	    (S (NP *)
+	       (AUX to)
+	       (VP attract
+		   (NP a swarm
+		       (PP of
+			   (NP wrinkles))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP was
+       (ADJP ugly)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP
+	  (NP Suvorov)
+	  's face)
+	 (VP was
+	     also
+	     (NP a theater
+		 (PP of
+		     (NP vivacity)))))
+      ,
+      and
+      (S (NP  his
+	      tough
+	      ,
+	      stooping
+	      little frame)
+	 (VP was
+	     (NP (NP briskness)
+		 (VP embodied)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP Like
+	    (NP all Russians))
+	(S
+	 (NP he)
+	 (VP was
+	     (NP an emotional man))))
+     ,
+     and
+     (S (PP in
+	    (NP him))
+	(S
+	 (NP the emotions)
+	 (VP warred))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADJP Kind
+	  (PP by
+	      (NP nature)))
+    ,
+    (S (NP he)
+       (ADVP never)
+       (VP refused
+	   (NP (NP charity
+		   (PP to
+		       (NP a beggar)))
+	       or
+	       (NP help
+		   (PP to
+		       (NP (NP anyone)
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (VP asked
+					(NP him)
+					(PP for
+					    (NP it))))))))))
+       *LRB*
+       (PP as
+	   (S (NP Lewis)
+	      (AUX would)
+	      (NP  one
+		   day)
+	      (VP discover)))
+       *RRB*))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP he)
+	 (AUX was)
+	 (ADVP perpetually)
+	 (VP engaged
+	    
+	     (PP in
+		 (NP a battle
+		     (S (NP *)
+			(AUX to)
+			(VP command
+			    (NP his own temper))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP Littlepage)
+	(AUX was)
+	(VP introduced
+	    )))
+    ,
+    (SBAR if
+	  (S (NP the General)
+	     (VP behaved
+		 (PP as
+		     (ADJP usual)))))
+    ,
+    (S (NP the newcomer)
+       (VP faced
+	   (NP a staccato salvo
+	       (PP of
+		   (NP (NP queries)
+		       :
+		       (NP (NP origin
+			       ?
+			       ?)
+			   (NP Age
+			       ?
+			       ?)
+			   (NP Mission
+			       ?
+			       ?)
+			   (NP Current status
+			       ?
+			       ?)))))))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Woe)
+   (VP betide
+       (NP the interviewee))
+   (SBAR if
+	 (S (NP he)
+	    (VP answered
+		(ADVP vaguely)
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Suvorov)
+    's contempt
+    (PP for
+	(NP don't-know's)))
+   (VP was
+       (ADJP proverbial))
+	;
+	;
+   (ADJP better
+	 (S (NP *)
+	    (AUX to)
+	    (VP give
+		(NP an asinine answer)))
+	 (PP than
+	     (NP none
+		 (PP at
+		     (NP all))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP *)
+     (VP Despising
+	 (NP luxuries
+	     (PP of
+		 (NP any sort))
+	     (PP for
+		 (NP a soldier))))
+     ,
+     (S (NP he)
+	(VP slept
+	    (PP on
+		(NP a pile
+		    (PP of
+			(NP hay))))
+	    (PP with
+		(NP his cloak
+		    (PP as
+			(NP blanket)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP rose
+	   (PP at
+	       (NP 4:00 A.M.))
+	   (NP the year round))
+       and
+       (VP was
+	   (ADJP apt
+		 (S (NP *)
+		    (AUX to)
+		    (VP stride
+			(PP through
+			    (NP camp)))
+		    (S  (NP *) 
+			(VP crowing
+			    (PP like
+				(NP a cock))
+			    (S (NP *)
+			       (AUX to)
+			       (VP wake
+				   (NP his men))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His breakfast)
+      (VP was
+	  (NP tea)))
+     ;
+     ;
+     (S (NP his dinner)
+	(VP fell
+	    (PP (ADVP anywhere)
+		(PP from
+		    (NP nine))
+		(PP to
+		    (NP noon)))))
+     ;
+     ;
+     (S (NP his supper)
+	(VP was
+	    (NP nothing))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (AUX had)
+       (NEG n't)
+       (VP (VP worn
+	       (NP a watch))
+	   or
+	   (VP carried
+	       (NP pocket money)
+	       (PP for
+		   (NP years))))
+       (SBAR because
+	     (S (NP he)
+		(VP disliked
+		    (NP both)))))
+    ,
+    but
+    (S (SINV (ADJP highest
+		   (PP among
+		       (NP his hates)))
+	     (VP were)
+	     (NP  looking
+		  glasses))
+       :
+       (S (NP he)
+	  (AUX had)
+	  (VP (VP snatched
+		  (NP one)
+		  (PP from
+		      (NP 
+		       (NP an officer)
+		       's grasp)))
+	      and
+	      (VP smashed
+		  (NP it)
+		  (PP to
+		      (NP smithereens)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP kept
+	   (NP several pet birds))
+       and
+       (VP liked
+	   (NP cats)
+	   (ADVP well
+		 enough
+		 (SBAR that
+		       (S (SBAR if
+				(S (NP one)
+				   (VP crept
+				       (ADVP by)
+				       )))
+			  ,
+			  (S (NP he)
+			     (AUX would)
+			     (VP mew
+				 (PP at
+				     (NP it))
+				 (PP in
+				     (NP friendly fashion))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (VP Passing)
+	dogs)
+    (AUX were)
+    (VP greeted
+	  
+	(PP with
+	    (NP a cordial bark))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S Yet
+      (S (NP (NP General Suvorov)
+	     --
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (AUX had)
+		      (ADVP never)
+		      (VP forgotten
+			  (S  (NP *)
+			      (VP hearing
+				  (S (NP his
+					 (ADJP adored)
+					 Czarina)
+				     (VP declare
+					 (SBAR that
+					       (S (NP all
+						      (ADJP truly
+							    great) men)
+						  (VP had
+						      (NP
+						       oddities)))))))))))
+	     --)
+	 (VP was
+	     (ADJP mad
+		   (ADVP  only
+			  north
+			  ,
+			  northwest)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX had)
+      (VP come
+	  (S (NP *)
+	     (AUX to)
+	     (VP learn
+		 (SBAR that
+		       (S (NP a reputation
+			      (PP for
+				  (NP peculiarity)))
+			  (VP allowed
+			      (NP mere field officers)
+			      (NP a certain leeway
+				  (PP at
+				      (NP Court))))))))))
+     ;
+    ;
+    (S (PP in
+	   (NP camp))
+       (S
+	(NP he)
+	(VP knew
+	    (SBAR 0
+		  (S (NP it)
+		     (VP won
+			 (NP you)
+			 (NP the affection
+			     (PP of
+				 (NP your men))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX had)
+   (ADVP accordingly)
+   (VP cultivated
+       (NP eccentricity)
+       (PP to
+	   (NP the point
+	       (PP of
+		   (NP second nature))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Underneath)
+    ,
+    (S (NP he)
+       (VP remained
+	   (NP one
+	       (PP of
+		   (NP the
+		       best-educated
+		       Russians
+		       (PP of
+			   (NP his day))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (X (VP dabbled
+	   (PP in
+	       (NP verse)))
+       ,
+       (X (AUX could)
+	  (VP get
+	      (ADVP along)
+	      (ADVP well)
+	      (PP among
+		  (ADJP most
+			(PP of
+			    (NP the European languages))))))
+       ,
+       and
+       (VP was
+	   (ADJP fluent
+		 (PP in
+		     (NP (NP French)
+			 and
+			 (NP German)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX had)
+   (ADVP also)
+   (VP mastered
+       (NP the Cossack tongue)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP those little men
+	    (PP with
+		(NP (NP the short whiskers)
+		    ,
+		    (NP shaven polls)
+		    ,
+		    and
+		    (NP top knots)))))
+    (S (NP Suvorov)
+       (VP reserved
+	   (NP a special esteem))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Potemkin)
+    --
+    (PP as
+	(S (NP King Stanislas)
+	   (VP (VP knew)
+	       ,
+	       and
+	       (VP  (ADVP presently)
+		    informed
+		    (NP Littlepage)))))
+    --
+    (VP looked
+	(PP on
+	    (NP the Cossacks))
+	(PP as
+	    (NP geopolitical tools))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+	(NP Serenissimus))
+    (S (NP such tribes
+	   (PP as
+	       (NP (NP the Cossacks
+		       (PP of
+			   (NP the Don)))
+		   or
+		   (NP (NP (NP those ex-bandits)
+			   (NP the Zaporogian Cossacks))
+		       *LRB*
+		       (SBAR (WHPP in
+				   (WHNP whose islands
+					 (PP along
+					     (NP the
+						 lower
+						 Dnieper))))
+			     (S (NP (NP the Polish novelist)
+				    (NP Sienkiewicz))
+				(AUX would)
+				(NP one day)
+				(VP place
+				    (NP (PP With
+					    (NP Fire And Sword))))))
+		       *RRB*))))
+       (VP were
+	   (ADVP just)
+	   (NP elements
+	       (PP for
+		   (NP (VP enforced)
+		       resettlement
+		       (PP in
+			   ,
+			   (S  (NP *) 
+			       (VP say))
+			   ,
+			   (NP (NP Bessarabia)
+			       ,
+			       (SBAR (WHADVP where)
+				     (S ,
+					(PP as
+					    (NP  ``
+						 the
+						 (ADJP faithful)
+						 (PP of
+						     (NP the Black Sea borders))
+						 ''))
+					,
+					(S (NP he)
+					   (AUX could)
+					   (VP use
+					       (NP their presence)
+					       (PP as
+						   (NP  (VP bargaining)
+							points))
+					       (PP in
+						   (NP 
+						    (NP the Czarina)
+						    's territorial claims
+						    (PP against
+							(NP Turkey))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Suvorov)
+   (VP saw
+       (PP in
+	   (NP these scimitar-wielding skirmishers))
+       (NP  not
+	    (NP demographic units)
+	    but
+	    (NP military men
+		(PP of
+		    (NP a high potential))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP knew
+       (WHADVP how
+	       (S (NP *)
+		  (AUX to)
+		  (VP channel
+		      (NP their exuberant disorderliness))
+		  (PP so
+		      (PP as
+			  (S (NP *)
+			     (AUX to)
+			     (VP transform
+				 (NP them)
+				 (PP from
+				     (NP mere plunderers))
+				 (PP into
+				     (NP A-1 guerrilla fighters))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (ADVP always)
+   (VP kept
+       (NP a few)
+       (PP on
+	   (NP his personal staff))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (ADVP often)
+    (VP donned
+	(NP (NP their tribal costumes)
+	    ,
+	    (ADJP such
+		  (PP as
+		      (NP (NP the one)
+			  (VP featuring
+			      (NP (NP (NP a
+					  tall
+					  ,
+					  black
+					  sheepskin hat)
+				      (SBAR (PP from
+						(NP the top
+						    (WHPP of
+							  (WHNP which))))
+					    (SINV (VP dangled)
+						  (NP (NP a little red bag)
+						      (VP ornamented
+							  (PP by
+							      (NP a chain
+								  (PP of
+								      (NP worsted lace and tassels)))))))))
+				     ;
+				     ;
+				     (NP 
+				      (ADJP broad red)
+				      stripes
+				      (PP down
+					  (NP the trouser leg)))
+				     ;
+				     ;
+				     (NP (NP 
+					  (ADJP broader)
+					  leather belt
+					  (PP round
+					      (NP the waist)))
+					 ,
+					 (VP holding
+					     (NP cartridges and light sabre)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Suvorov)
+   (VP played
+       (NP parent)
+       (PP (CONJP  not
+		   just)
+	   (PP to
+	       (NP his Cossacks))
+	   but
+	   (PP to
+	       (NP all
+		   his troops)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (ADVP probably)
+       (PP at
+	   (NP this period)))
+   (SBAR that
+	 (S (NP Littlepage)
+	    (VP got
+		(NP his
+		    first good
+		    look
+		    (PP at
+			(NP the
+			    ordinary
+			    Russian soldier)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP These illiterate boors)
+	(VP conscripted
+	    (PP from
+		(NP villages
+		    (PP (NP all)
+			across
+			(NP 
+			 (NP the Czarina)
+			 's empire))))))
+    (VP had
+	,
+	(S (NP Suvorov)
+	   (AUX may)
+	   (VP have
+	       (VP told
+		   (NP Lewis))))
+	,
+	(NP (NP (NP  just
+		     two things)
+		(SBAR 0
+		      (S
+		       (NP a commander)
+		       (AUX could)
+		       (VP count
+			   (PP on
+			       (NP T) )))))
+	    :
+	    (NP (NP physical fitness)
+		and
+		(NP personal courage)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP their levies)
+	(VP came
+	    (S (NP *)
+	       (VP shambling
+		   (PP into
+		       (NP camp)))))))
+    ,
+    (S (NP they)
+       (VP were
+	   (NP all elbows
+	       ,
+	       hair
+	       ,
+	       and
+	       beard))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP emerged
+	(PP as
+	    (NP (NP interchangeable cogs
+		    (PP in
+			(NP a faulty but formidable machine)))
+		:
+		(X (VP shaved
+		       (ADJP (ADVP nearly)
+			     naked))
+		   ,
+		   (NP (NP hair)
+		       (VP queued))
+		   ,
+		   (ADJP greatcoated)
+		   ,
+		   (ADJP jackbooted)
+		   ,
+		   and
+		   (ADJP best
+			 (PP of
+			     (NP all)))
+		   --
+		   (PP in
+		       (NP the opinion
+			   (PP of
+			       (NP (NP the British professional)
+				   ,
+				   (NP Major Semple-Lisle)))))
+		   --
+		   (S  ``
+		       (NP their minds)
+		       (AUX are)
+		       (NEG not)
+		       (VP estranged
+		 
+			   (PP from
+			       (NP the paths
+				   (PP of
+				       (NP obedience))))
+			   (PP by
+			       (NP (NP those smatterings
+				       (PP of
+					   (NP knowledge)))
+				   (SBAR (WHNP which)
+					 (S (NP T)
+					    (VP  only
+						 serve
+						 (S (NP *)
+						    (AUX to)
+						    (VP lead
+							(PP to
+							    (NP insubordination and mutiny))))))))))
+		       ''))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

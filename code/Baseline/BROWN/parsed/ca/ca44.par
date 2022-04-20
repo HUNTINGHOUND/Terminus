@@ -1,0 +1,2235 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Every library borrower)
+       ,
+       or
+       (PP at
+	   (ADJP least))
+       (NP (NP those)
+	   (SBAR 
+	    (WHNP whose taste)
+	    (S (NP T)
+	       (VP goes
+		   (PP beyond
+		       (NP the (ADJP five-cent) fiction rentals))))))
+       ,)
+   (VP knows
+       (SBAR (WHNP what)
+	     (S
+	      (NP it)
+	      (VP is
+		  (NP T))
+	      (S (NP *)
+		 (AUX to)
+		 (VP hear
+		     (NP the librarian)
+		     (VP say
+			 (ADVP apologetically)
+			 ,
+			 ``
+			 (S (S (NP I)
+			       (VP 'm
+				   (ADJP sorry)))
+			    ,
+			    but
+			    (S (NP we)
+			       (AUX do)
+			       (NEG n't)
+			       (VP have
+				   (NP that book)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX would)
+      (NEG n't)
+      (VP be
+	  (NP much demand
+	      (PP for
+		  (NP it)))))
+     ,
+     (S (NP I)
+	(VP 'm
+	    (ADJP afraid))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (PP Behind
+       (NP (NP this reply)
+	   ,
+	   and
+	   (NP its many variations)
+	   ,))
+   (VP is)
+   (NP (NP the (ADJP ever-present) budget problem)
+       (SBAR 0
+	     (S
+	      (NP (NP all libraries)
+		  (PP-1 *pseudo-attach*))
+	      (AUX must)
+	      (VP face
+		  (NP T) )
+	      ,
+	      (PP-1 (PP from
+		      (NP the
+			  (ADJP largest)))
+		  (PP to
+		      (NP the
+			  (ADJP smallest))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (WHNP What
+	  (PP-2 *pseudo-attach*))
+    (S (NP *)
+       (AUX to)
+       (VP buy
+	   (NP T)))
+    (PP-2 out
+	  (PP of
+	      (NP 
+	       (NP the year)
+	       's grist
+	       (PP of
+		   (NP (ADVP nearly)
+		       15,000 book titles))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (WHNP What)
+    (S (NP *)
+       (AUX to)
+       (VP buy
+	   (NP T) 
+	   (PP (PP for
+		   (NP adult and child readers))
+	       ,
+	       (PP for
+		   (NP lovers
+		       (PP of
+			   (NP (NP fiction) and (NP nonfiction)))))
+	       ,
+	       (PP for
+		   (NP (NP a clientele)
+		       (SBAR  
+			(WHNP whose wants)
+			(S (NP T)
+			   (VP are
+			       (ADJP  incredibly
+				      diversified))))))))
+       ,
+       (SBAR 
+	(WHADVP when)
+	(S (NP your budget)
+	   (VP is
+	       (ADJP  pitifully
+		      small))))))
+ ?
+ ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Most
+    library budgets)
+   (VP are
+       (ADJP  hopelessly
+	      inadequate)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A
+	  (ADJP  startlingly
+		 high) percentage)
+      (AUX do)
+      (NEG not)
+      (VP exceed
+	  (NP (NP $ 500
+		  (ADVP annually))
+	      ,
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (VP includes
+		      (NP 
+		       (NP the librarian)
+		       's salary)))))))
+     ,
+     and
+     (S (NP (ADVP (NEG not)
+		  even)
+	    the New York Public)
+	(VP has
+	    (NP enough money
+		(S (NP *)
+		   (AUX to)
+		   (VP meet
+		       (NP its needs)))))
+	--
+	(X (NP this)
+	   (PP in
+	       (NP 
+		(NP the world)
+		's
+		richest
+		city)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The plight
+       (PP of
+	   (NP a small community library)))
+   (VP is
+       (ADJP  proportionately
+	      worse)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Confronted
+	     (PP with
+		 (NP this situation))))
+     ,
+     (NP 
+      most
+      libraries)
+     (VP  either
+	  (VP (VP endure
+		  (NP the severe limitations
+		      (PP of
+			  (NP their budgets))))
+	      and
+	      (VP do
+		  (SBAR (WHNP what)
+			(S
+			 (NP they)
+			 (AUX can)
+			 (X (NP T))))
+		  (PP  with
+		       (SBAR (WHNP what)
+			     (S
+			      (NP they)
+			      (VP have
+				  (NP T) ))))))
+	  ,
+	  or
+	  else
+	  (VP depend
+	      (PP on
+		  (NP the bounty
+		      (PP of
+			  (NP (NP patrons)
+			      and
+			      (NP local governments)))))
+	      (S (NP *)
+		 (AUX to)
+		 (VP supplement
+		     (NP their annual funds))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP some parts
+	   (PP of
+	       (NP the country))))
+   ,
+   (ADVP however)
+   ,
+   (S (NP (NP a (ADJP co-operative) movement)
+	  (SBAR-2 *pseudo-attach*))
+      (AUX has)
+      (VP begun
+	  (S (NP *)
+	     (AUX to)
+	     (VP grow)))
+      ,
+      (PP under
+	  (NP the wing
+	      (PP of
+		  (NP state governments))))
+      ,
+      (SBAR-2 (WHADVP whereby)
+	      (S  ,
+		  (PP with
+		      (NP the financial help
+			  (PP of
+			      (NP the state))))
+		  ,
+		  (S (NP libraries)
+		     (VP share
+			 (NP their book resources)
+			 (PP on
+			     (NP a (ADJP county-wide or regional) basis))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP New York State)
+   (VP has
+       (NP (SBAR
+	    (WHNP what)
+	    (S (NP T)
+	       (VP is
+		   (ADVP probably)
+		   (NP the
+		       (ADJP  most advanced)
+		       (PP of
+			   (NP these (ADJP co-operative) systems))))))
+	   ,
+	   (ADJP    so
+		    well
+		    developed
+		    (SBAR that
+			  (S (NP it)
+			     (AUX has)
+			     (VP become
+				 (NP (NP a model)
+				     (SBAR for
+					   (S (NP others)
+					      (AUX to)
+					      (VP follow)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Because
+	  (S (NP it)
+	     (VP is
+		 (NP (ADJP  so
+			    large)
+		     a state))
+	     ,
+	     (PP with
+		 (NP (ADJP marked) contrasts
+		     (PP in
+			 (NP population density))))))
+   ,
+   (S (NP the organization
+	  (PP of
+	      (NP the (NP New York)
+		  co-operative)))
+      (VP offers
+	  (NP a cross-section
+	      (PP of
+		  (SBAR 
+		   (WHADVP how)
+		   (S (NP the plan)
+		      (VP works))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV 
+   (PP At
+       (NP one extreme))
+   (VP are)
+   (NP the systems
+       (PP of
+	   (NP (NP (ADJP upper)
+		   New York State)
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (NP libraries
+		       (PP in
+			   (NP (ADJP  (NP two)
+				      or
+				      (ADJP more))
+			       counties)))
+		   (VP combine
+		       (S (NP *)
+			  (AUX to)
+			  (VP serve
+			      (NP a
+				  large
+				  ,
+				  (ADJP sparsely
+					populated)
+				  area))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV 
+   (PP At
+       (NP the
+	   other))
+   (VP are)
+   (NP (NP organizations
+	   (PP like
+	       (NP the
+		   (VP  newly
+			formed)
+		   Nassau Library System)))
+       ,
+       (PP  
+	(PP in
+	    (NP a (ADJP high-density) area))
+	,
+	(PP with
+	    (NP (NP ample resources)
+		and
+		(NP a
+		    (VP   rapidly
+			  growing)
+		    territory
+		    (S (NP *)
+		       (AUX to)
+		       (VP serve))))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+((S  
+  (NP  Both
+       (NP these types)
+       ,
+       and
+       (NP those
+	   (PP in
+	       (ADVP between)))
+       ,)
+  (VP are
+      (PP in
+	  (NP existence))
+      (PP by
+	  (NP reason
+	      (PP of
+		  (NP (NP a legislative interest
+			  (PP in
+			      (NP libraries)))
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (VP began
+			      (PP at
+				  (NP Albany))
+			      (ADVP as
+				    early
+				    (PP as
+					(NP 1950)))
+			      ,
+			      (PP with
+				  (NP the creation
+				      (PP by
+					  (NP the legislature))
+				      (PP of
+					  (NP (NP county library systems)
+					      (VP financed
+						  (PP by
+						      (NP county governments))
+						  (PP with
+						      (NP (ADJP matching) funds
+							  (PP from
+							      (NP the state))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP was
+	  (NP a step
+	      (PP in
+		  (NP the right direction)))))
+     ,
+     but
+     (S (NP it
+	    (S-1 *pseudo-attach*))
+	(VP took
+	    (NP (NP an additional act)
+		(VP passed
+		    (PP in
+			(NP 1958)))))
+	(S-1 (NP *)
+	     (AUX to)
+	     (VP establish
+		 (ADVP fully)
+		 (NP the thriving systems
+		     (PP of
+			 (NP today)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP Under
+       (NP this law))
+   (S (NP annual grants)
+      (AUX are)
+      (VP given
+	   
+	  (PP to
+	      (NP systems))
+	  (PP in
+	      (NP substantial amounts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An
+       earlier
+       difficulty)
+   (AUX was)
+   (VP overcome
+	     
+       (PP by
+	   (S (NP *)
+	      (VP making
+		  (NP it
+		      (SBAR-2 *pseudo-attach*))
+		  (ADJP clear)
+		  (SBAR-2 that
+			  (S (NP individual libraries
+				 (PP in
+				     (NP any area)))
+			     (AUX might)
+			     (VP join
+				 or
+				 (NEG not)
+				 ,
+				 (PP as
+				     (S (NP they)
+					(VP saw
+					    (NP fit))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some library boards)
+   (VP are
+       (ADJP wary
+	     (PP of
+		 (NP the plan)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A
+	  large
+	  ,
+	  (ADJP well-stocked)
+	  library)
+      ,
+      (VP surrounded
+	  (PP in
+	      (NP a county))
+	  (PP by
+	      (NP 
+	       smaller
+	       ones)))
+      ,)
+  (AUX may)
+  (VP feel
+      (SBAR that
+	    (S (NP the demands
+		   (PP on
+		       (NP its resources)))
+	       (VP are
+		   (ADJP likely
+			 (S (NP *)
+			    (AUX to)
+			    (VP be
+				(ADJP  too
+				       great)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A small library)
+   (AUX may)
+   (VP (VP cherish
+	   (NP (NP its independence)
+	       and
+	       (NP  (ADJP established)
+		    ways)))
+       ,
+       and
+       (VP resist
+	   (S  (NP *) 
+	       (VP joining
+		   (PP in
+		       (NP (NP a cooperative movement)
+			   (SBAR 
+			    (WHNP that)
+			    (S   (NP T) 
+				 (ADVP sometimes)
+				 (VP seems
+				     (ADJP radical)
+				     (PP to
+					 (NP 
+					  older
+					  members
+					  (PP of
+					      (NP the board))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Within
+       (NP a system))
+   ,
+   (ADVP however)
+   ,
+   (S (NP the autonomy
+	  (PP of
+	      (NP each member library)))
+      (AUX is)
+      (VP preserved
+	  )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The local community)
+      (VP maintains
+	  (NP responsibility
+	      (PP for
+		  (NP the financial support
+		      (PP of
+			  (NP its own library program
+			      ,
+			      facilities
+			      ,
+			      and
+			      services)))))))
+     ,
+     but
+     (S (NP (NP 
+	     wider
+	     resources)
+	    and
+	    (NP additional services))
+	(VP become
+	    (ADJP available))
+	(PP through
+	    (NP membership
+		(PP in
+		    (NP a system))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP All services)
+   (AUX are)
+   (VP given
+	     
+       (PP without
+	   (NP cost
+	       (PP to
+		   (NP members))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV  
+  (ADJP  So
+	 obvious)
+  (VP are)
+  (NP these advantages)
+  (SBAR that
+	(S (S (NP  (ADVP nearly)
+		   95
+		   (PP per
+		       (NP cent))
+		   (PP of
+		       (NP the population
+			   (PP of
+			       (NP New York State)))))
+	      (ADVP now)
+	      (VP has
+		  (NP access
+		      (PP to
+			  (NP a system)))))
+	   ,
+	   and
+	   (S (NP enthusiastic librarians)
+	      (VP foresee
+		  (NP (NP the day)
+		      ,
+		      (ADJP (NEG not)
+			    too
+			    distant)
+		      ,
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP all
+			      the libraries
+			      (PP in
+				  (NP the state)))
+			  (AUX will)
+			  (VP belong
+			      (PP to
+				  (NP a co-op)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP set
+	    (PRT up)
+	    (NP a (ADJP co-operative) library system)))
+     ,
+     (S (S (NP the law)
+	   (VP requires
+	       (NP a central book collection
+		   (PP of
+		       (NP 100,000 nonfiction volumes)))
+	       (PP as
+		   (NP the nucleus))))
+	,
+	and
+	(S (NP the system)
+	   (AUX is)
+	   (VP organized
+	     
+	       (PP around
+		   (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The collection)
+      (AUX may)
+      (VP be
+	  (PP in
+	      (NP an  (VP existing) library))))
+     ,
+     or
+     (S (NP it)
+	(AUX may)
+	(VP be
+	    (VP built
+		 
+		(PRT up)
+		(PP in
+		    (NP a central collection))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Each system)
+      (VP develops
+	  (ADVP differently)
+	  ,
+	  (VP according
+	      (PP to
+		  (NP (NP the area)
+		      (SBAR 0
+			    (S (NP it)
+			       (VP serves
+				   (NP T)))))))))
+     ,
+     but
+     (S (NP the universal goal)
+	(VP is
+	    (S (NP *)
+	       (AUX to)
+	       (VP pool
+		   (NP the resources
+		       (PP of
+			   (NP a given area)))
+		   (PP for
+		       (NP maximum efficiency)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The basic state grant)
+      (VP is
+	  (NP thirty cents
+	      (PP for
+		  (NP (NP each person)
+		      (VP served))))))
+   ,
+   and
+   (S (NP there)
+      (VP is
+	  (NP (NP a
+		  (ADJP further)
+		  book incentive grant)
+	      (SBAR 
+	       (WHNP that)
+	       (S (NP T)
+		  (VP provides
+		      (NP an
+			  extra
+			  twenty cents)
+		      (PP up
+			  (PP to
+			      (NP fifty cents
+				  (PP per
+				      (NP capita))))))
+		  ,
+		  (SBAR if
+			(S (NP a library)
+			   (VP spends
+			       (NP a certain number
+				   (PP of
+				       (NP dollars))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP Nassau County)
+	   ,
+	   (PP for
+	       (NP example))
+	   ,
+	   (NP the
+	       (ADJP  heavily
+		      settled)
+	       Long Island suburb
+	       (PP of
+		   (NP New York City)))
+	   ,))
+   (S (NP the system)
+      (AUX is)
+      (VP credited
+	  (PP by
+	      (NP the state))
+	  (PP with
+	      (S (NP *) 
+		 (VP serving
+		     (NP (NP one million persons)
+			 ,
+			 (NP (NP a figure)
+			     (SBAR 
+			      (WHNP that)
+			      (S (NP T)
+				 (AUX has)
+				 (VP doubled)
+				 (PP  since
+				      (NP 1950))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP This system)
+   ,
+   (PP by
+       (NP virtue
+	   (PP of
+	       (NP its variety and size))))
+   ,
+   (VP offers
+       (NP an inclusive view
+	   (PP of
+	       (NP the plan
+		   (PP in
+		       (NP operation)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Nassau system)
+   (VP recognizes
+       (SBAR that
+	     (S (NP its major task)
+		(VP it
+		    (S (NP *)
+		       (AUX to)
+		       (VP broaden
+			   (NP reference service))))
+		,
+		(PP (X  what)
+		    with
+		    (NP (NP the constant expansion
+			    (PP of
+				(NP (NP education) and (NP knowledge))))
+			,
+			and
+			(NP the pressure
+			    (PP of
+				(NP population growth))
+			    (PP in
+				(NP a metropolitan area)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The need)
+    (VP is
+	(PP for
+	    (NP reference works
+		(PP of
+		    (NP a
+			(ADJP  more
+			       specialized)
+			nature
+			(PP than
+			    (S (NP (NP individual libraries)
+				   ,
+				   (ADJP adequate
+					 (S (NP *)
+					    (AUX to)
+					    (VP satisfy
+						(NP everyday needs))))
+				   ,)
+			       (AUX could)
+			       (VP afford
+				   (NP *) )))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Nassau)
+   (AUX is)
+   (ADVP currently)
+   (VP building
+       (NP (NP a central collection
+	       (PP of
+		   (NP reference materials)))
+	   (SBAR-2 *pseudo-attach*))
+       (PP in
+	   (NP its Hempstead headquarters))
+       ,
+       (X (SBAR-2 
+	   (WHNP which)
+	   (S (NP T)
+	      (AUX will)
+	      (VP reach
+		  (NP its goal
+		      (PP of
+			  (NP 100,000 volumes))))
+	      (PP by
+		  (NP 1965)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The major part
+	  (PP of
+	      (NP this collection)))
+      (VP is
+	  (PP in
+	      (NP the central headquarters building))))
+     ,
+     and
+     (S (NP the remainder)
+	(AUX is)
+	(VP divided
+	    (PP among
+		(NP (NP five libraries
+			(PP in
+			    (NP the system)))
+		    (VP designated
+			(PP as
+			    (NP subject centers))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Basic reference tools)
+      (VP are
+	  (NP the backbone
+	      (PP of
+		  (NP the collection)))))
+     ,
+     but
+     (S (NP there)
+	(VP is
+	    (ADVP also)
+	    (NP (NP specialization
+		    (PP in
+			(NP (NP science) and (NP technology))))
+		,
+		(NP an  (VP indicated) weakness
+		    (PP in
+			(NP local libraries)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP microfilm))
+   ,
+   (S (NP headquarters)
+      (ADVP also)
+      (VP has
+	  (NP (NP a file
+		  (PP of
+		      (NP the New York Times
+			  (PP (PP from
+				  (NP its founding
+				      (PP in
+					  (NP 1851))))
+			      (PP to
+				  (NP the present day))))))
+	      ,
+	      (ADVP as
+		    well
+		    (PP as
+			(NP   (ADJP bound)
+			      volumes
+			      (PP of
+				  (NP important periodicals)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The entire headquarters collection)
+   (VP is
+       (ADJP available
+	     (PP to
+		 (NP the patrons
+		     (PP of
+			 (NP all members))))
+	     (PP on
+		 (NP interlibrary loans)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Headquarters)
+   (VP gets
+       (NP (ADVP about)
+	   100 requests))
+   (NP every day))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP connected
+	     
+       (PP by
+	   (NP teletype))
+       (PP with
+	   (NP (NP the State Library
+		   (PP in
+		       (NP Albany)))
+	       ,
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (AUX will)
+		   (VP supply
+		       (NP (NP any book)
+			   (SBAR-3 *pseudo-attach*))
+		       (PP to
+			   (NP a system))
+		       (SBAR-3 (WHNP that)
+			       (S (NP (NP the system)
+				      (NP itself))
+				  (AUX can)
+				  (NEG not)
+				  (VP provide
+				      (NP T) ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The books)
+   (AUX are)
+   (VP carried
+	     
+       (ADVP around)
+       (PP by
+	   (NP truck))
+       (PP in
+	   (NP canvas bags
+	       (PP from
+		   (NP headquarters))))
+       (PP to
+	   (NP the other libraries))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each subject center library)
+   (AUX was)
+   (VP chosen
+       (ADVP because
+	     (PP of
+		 (NP (NP its (VP demonstrated) strength
+			 (PP in
+			     (NP a particular area)))
+		     ,
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP headquarters)
+			 (AUX could)
+			 (ADVP then)
+			 (VP build
+			     (PP upon
+				 (NP T) )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP East Meadow)
+      (VP has
+	  (NP (NP philosophy)
+	      ,
+	      (NP psychology)
+	      ,
+	      and
+	      (NP religion))))
+     ;
+     ;
+     (S (NP Freeport)
+	(VP houses
+	    (NP (NP social science)
+		,
+		(NP pure science)
+		,
+		and
+		(NP language))))
+     ;
+     ;
+     (S (NP  
+	 (NP history)
+	 ,
+	 (NP biography)
+	 ,
+	 and
+	 (NP education))
+	(AUX are)
+	(VP centered
+	   
+	    (PP in
+		(NP Hempstead))))
+     ;
+     ;
+     (S (NP Levittown)
+	(AUX has)
+	(NP (NP  (ADJP applied)
+		 science)
+	    ,
+	    (NP business)
+	    ,
+	    and
+	    (NP literature)))
+     ;
+     ;
+     (SBAR while
+	   (S (NP Hewlett-Woodmere)
+	      (VP is
+		  (NP the repository
+		      (PP of
+			  (NP (NP art)
+			      ,
+			      (NP music)
+			      ,
+			      and
+			      (NP foreign languages))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reference coordinator
+       (PP at
+	   (NP headquarters)))
+   (ADVP also)
+   (VP  (VP serves
+	    (PP as
+		(NP a consultant)))
+	,
+	and
+	(VP is
+	    (ADJP available
+		  (S (NP *)
+		     (AUX to)
+		     (VP work
+			 (PP with
+			     (NP the local librarian))
+			 (PP in
+			     (S  (NP *) 
+				 (VP helping
+				     (S (NP *)
+					(AUX to)
+					(VP strengthen
+					    (NP local reference service))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This kind
+       (PP of
+	   (NP cooperation)))
+   (VP is
+       (NEG not)
+       (ADJP  wholly
+	      new))
+   ,
+   (PP of
+       (NP course)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Public libraries
+	  (PP in
+	      (NP Nassau County)))
+      (AUX have)
+      (VP been
+	  (VP lending
+	      (NP books)
+	      (PP to
+		  (NP each
+		      other))
+	      (PP by
+		  (NP mail))))
+      (PP for
+	  (NP a
+	      quarter-century)))
+     ,
+     but
+     (S (NP the system)
+	(VP enables
+	    (NP this process)
+	    (S (NP *)
+	       (AUX to)
+	       (VP operate
+		   (PP on
+		       (NP an
+			   (ADJP (ADJP organized)
+				 and
+				 (ADJP (ADVP far
+					     more)
+				       comprehensive))
+			   basis)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Local libraries)
+   (VP find
+       ,
+       (ADVP too)
+       ,
+       (SBAR that
+	     (S (NP the new plan)
+		(VP saves
+		    (NP tax dollars))
+		(SBAR because
+		      (S (S (NP books)
+			    (AUX can)
+			    (VP be
+				(VP bought
+				     
+				    (PP through
+					(NP the system)))))
+			 ,
+			 and
+			 (S (SBAR since
+				  (S (NP the system)
+				     (VP buys
+		      
+					 (PP in
+					     (NP bulk)))))
+			    (S (NP it)
+			       (VP is
+				   (ADJP able
+					 (S (NP *)
+					    (AUX to)
+					    (VP obtain
+						(NP 
+						 larger
+						 discounts
+						 (PP than
+						     (S (NP *)  
+							(AUX would)
+							(VP be
+							    (ADJP available
+								  (PP to
+								      (NP an individual library)))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The system)
+   (VP passes
+       (ADVP on)
+       (NP these savings)
+       (PP to
+	   (NP its members))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Further
+    money)
+   (AUX is)
+   (VP saved
+	     
+       (PP through
+	   (NP economy
+	       (PP in
+		   (NP (NP bookkeeping)
+		       and
+		       (NP clerical detail)))
+	       (PP as
+		   (NP the result
+		       (PP of
+			   (NP central billing))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Books)
+   (VP are
+       (NEG not)
+       (NP the only resource
+	   (PP of
+	       (NP the system)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Schools) and (NP community groups))
+   (VP  (VP turn
+	    (PP to
+		(NP the headquarters film library))
+	    (PP for
+		(NP (NP (ADJP documentary
+			      ,
+			      art
+			      ,
+			      and
+			      experimental) films)
+		    (S (NP *)
+		       (AUX to)
+		       (VP show
+			   (NP T)
+			   (PP at
+			       (NP (NP libraries)
+				   (SBAR 
+				    (WHNP that)
+				    (S (NP T)
+				       (VP sponsor
+					   (NP local programs)))))))))))
+	(X   ,
+	     and
+	     (PP to
+		 (NP organizations
+		     (PP in
+			 (NP member communities)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The
+	  (ADJP  most recent)
+	  film catalogue)
+      ,
+      (ADJP available
+	    (PP at
+		(NP each library)))
+      ,)
+  (VP lists
+      (NP (NP 110 titles
+	      (PP (ADVP presently)
+		  in
+		  (NP the collection)))
+	  ,
+	  (SBAR (WHNP  any
+		       (WHPP of
+			     (WHNP which)))
+		(S  (NP T)
+		    (AUX may)
+		    (VP be
+			(VP borrowed
+	  
+			    (PP without
+				(NP charge)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This catalogue)
+   (VP lists
+       (ADVP separately)
+       (NP (NP films)
+	   (ADJP suitable
+		 (PP for
+		     (NP (NP children)
+			 ,
+			 (NP  young
+			      adults)
+			 ,
+			 or
+			 (NP adults))))))
+   ,
+   (SBAR although
+	 (S (NP (NP some classics)
+		(ADJP-4 *pseudo-attach*))
+	    (VP cut
+		(PP across
+		    (NP age groups)))
+	    ,
+	    (ADJP-4 such
+		    (PP as
+			(NP ``
+			    (NP Nanook 
+				(PP Of
+				    (NP The North)))
+			    ''
+			    ,
+			    ``
+			    (NP (NP The Emperor)
+				's
+				(NP Nightingale))
+			    ''
+			    ,
+			    and
+			    ``
+			    (NP The Red Balloon)
+			    ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Workshops)
+   (AUX are)
+   (VP conducted
+	     
+       (PP by
+	   (NP 
+	    (NP the system)
+	    's (ADJP audio-visual) consultant))
+       (PP for
+	   (NP the staffs
+	       (PP of
+		   (NP member libraries)))))
+   ,
+   (S (NP *) 
+      (VP teaching
+	  (NP them)
+	  (NP the effective use
+	      (PP of
+		  (NP film))
+	      (PP as
+		  (NP a library service))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The system)
+       (VP (ADVP well)
+	   understands
+	   (SBAR that
+		 (S (NP one
+			(PP of
+			    (NP its primary responsibilities)))
+		    (VP is
+			(S (NP *)
+			   (AUX to)
+			   (VP bring
+			       (NP (NP children) and (NP books))
+			       (ADVP together))))))))
+    ;
+    ;
+    (S  (ADVP consequently)
+	(S (NP
+	    an
+	    (ADJP experienced)
+	    (NP children)
+	    's librarian
+	    (PP at
+		(NP headquarters)))
+	   (VP conducts
+	       (NP (NP a guidance program)
+		   (VP designed
+		       (S (NP *)
+			  (AUX to)
+			  (VP promote
+			      (NP (ADJP well-planned) library activities))))))
+	   ,
+	   (S (NP *) 
+	      (VP cooperating
+		  (PP with
+		      (NP 
+		       (NP the children)
+		       's librarians
+		       (PP in
+			   (NP member libraries))))
+		  (PP by
+		      (NP means
+			  (PP of
+			      (NP (NP individual conferences)
+				  ,
+				  (NP workshops)
+				  ,
+				  and
+				  (NP frequent visits))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Headquarters)
+   (AUX has)
+   (ADVP also)
+   (VP set
+       (PRT up)
+       (NP a
+	   central juvenile
+	   book-review and book-selection center))
+   ,
+   (S (NP *)
+      (AUX to)
+      (VP provide
+	  (NP 
+	   (ADJP better)
+	   methods
+	   (PP of
+	       (NP (NP purchasing) and (NP selection)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sample copies
+       (PP of
+	   (NP new books)))
+   (VP are
+       (PP on
+	   (NP display)))
+   (PP at
+       (NP (NP headquarters)
+	   ,
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP librarians)
+	       (AUX may)
+	       (VP evaluate
+		   (NP them)
+		   (PP (PP by
+			   (NP themselves))
+		       or
+		       (PP in
+			   (NP workshop groups)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Story hours)
+      ,
+      (NP pre-school programs)
+      ,
+      (NP activities
+	  (PP with
+	      (NP community agencies)))
+      ,
+      and
+      (NP lists
+	  (PP of
+	      (NP  (ADJP recommended)
+		   reading))))
+  (VP are
+      all
+      (PP in
+	  (NP the province
+	      (PP of
+		  (NP 
+		   (NP the children)
+		   's consultant))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Headquarters
+       (PP of
+	   (NP the Nassau system)))
+   (VP is
+       (NP an
+	   (ADJP  increasingly
+		  busy) place))
+   (NP these days)
+   ,
+   (S (NP *) 
+      (VP threatening
+	  (S (NP *)
+	     (AUX to)
+	     (VP expand
+		 (PP beyond
+		     (NP its boundaries)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP addition
+	      (PP to
+		  (NP (NP the interlibrary loan service)
+		      and
+		      (NP 
+		       (NP the children)
+		       's program)))))
+      ,
+      (S (NP headquarters)
+	 (VP has
+	     (NP (NP a public relations
+		     director)
+		 (SBAR  
+		  (WHNP who)
+		  (S (NP T)
+		     (VP seeks
+			 (S (NP *)
+			    (AUX to)
+			    (VP get
+				(NP wider
+				    grassroots
+				    support
+				    (PP for
+					(NP quality library service))
+				    (PP in
+					(NP the county))))))))))))
+     ;
+     ;
+     (S (NP it)
+	(VP prepares
+	    (NP (NP cooperative displays)
+		*LRB*
+		(NP (NP posters)
+		    ,
+		    (NP booklists)
+		    ,
+		    (NP brochures)
+		    ,
+		    and
+		    (NP 
+		     other promotional
+		     material))
+		*RRB*)
+	    (PP for
+		(NP use
+		    (PP in
+			(NP member libraries))))))
+     ;
+     ;
+     (S (NP it)
+	(VP maintains
+	    (NP a central exhibit collection))
+	(S (NP *)
+	   (AUX to)
+	   (VP share
+	       (NP (NP displays)
+		   (VP  (ADVP already)
+			created
+			and
+			used)))))
+     ;
+     ;
+     and
+     (S (NP it)
+	(VP publishes
+	    (NP (NP (NP Sum
+			(PP And
+			    (NP Substance))) 
+		    ,
+		    (NP a monthly newsletter)
+		    ,)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (VP reports
+			(NP 
+			 (NP the system)
+			 's activities)
+			(PP to
+			    (NP the staffs and trustees
+				(PP of
+				    (NP member libraries)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The system)
+	 (NP itself))
+     (AUX is)
+     (VP governed
+	  
+	 (PP by
+	     (NP (NP a board
+		     (PP of
+			 (NP trustees)))
+		 ,
+		 (VP  (ADVP geographically)
+		      representing
+		      (NP its membership))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP (PP In
+	   (NP Nassau))
+       ,
+       (PP as
+	   (PP in
+	       (NP other systems))))
+   ,
+   (S (NP the (ADJP long-range) objective)
+      (VP is
+	  (S (NP *)
+	     (AUX to)
+	     (VP bring
+		 (NP the maximum service
+		     (PP of
+			 (NP libraries)))
+		 (S (NP *)
+		    (AUX to)
+		    (VP bear
+			(PP (PP on
+				(NP the schools))
+			    ,
+			    and
+			    (PP on
+				(NP adult education
+				    (PP in
+					(ADJP general))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Librarians)
+      ,
+      (NP (NP a patient breed
+	      (PP of
+		  (NP (NP men) and (NP women))))
+	  (SBAR  
+	   (WHNP who)
+	   (S (NP T)
+	      (AUX have)
+	      (VP borne
+		  (NP much)
+		  (PP with
+		      (NP dedication))))))
+      ,)
+  (AUX can)
+  (VP begin
+      (S (NP *)
+	 (AUX to)
+	 (VP see
+	     (NP results))))
+  (NP today))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Library use)
+      (AUX is)
+      (VP multiplying
+	  (ADVP daily)))
+     ,
+     and
+     (S (NP the bulk
+	    (PP of
+		(NP the newcomers)))
+	(VP are
+	    (NP (NP   those
+		      (ADJP maligned)
+		      Americans)
+		,
+		(NP the teen-agers)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP  To
+	(NP them)
+	(ADVP especially))
+   (S  
+    (NP the librarians)
+    ,
+    (PP with
+	(NP the help
+	    (PP of
+		(NP co-ops))))
+    ,
+    (VP hope
+	(SBAR 0
+	      (S (NP they)
+		 (AUX will)
+		 (ADVP never)
+		 (VP have
+		     (S (NP *)
+			(AUX to)
+			(VP say
+			    ,
+			    ``
+			    (S (S (NP I)
+				  (VP 'm
+				      (ADJP sorry)))
+			       ,
+			       (S (NP we)
+				  (AUX do)
+				  (NEG n't)
+				  (VP have
+				      (NP that book))))
+			    ''))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP Today)
+    ,
+    (ADVP more
+	  (PP than
+	      (ADVP ever
+		    before)))
+    ,
+    (S (NP the survival
+	   (PP of
+	       (NP our free society)))
+       (VP depends
+	   (PP upon
+	       (NP (NP the citizen)
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (VP is
+			   (ADJP  both
+				  (ADJP informed)
+				  and
+				  (ADJP concerned))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The great advances
+	   (PP-3 *pseudo-attach*))
+       (VP made
+	   (PP in
+	       (NP recent years)))
+       (PP-3 (PP in
+		 (NP Communist strength))
+	     and
+	     (PP in
+		 (NP our own capacity
+		     (S (NP *)
+			(AUX to)
+			(VP destroy))))))
+   (VP require
+       (NP an (ADJP educated) citizenry
+	   (PP in
+	       (NP the Western world)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The need
+       (PP for
+	   (NP lifetime reading)))
+   (VP is
+       (ADJP apparent)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Education)
+      (X (X (AUX must)
+	    (NEG not)
+	    (VP be
+		(VP limited
+		 
+		    (PP to
+			(NP our youth)))))
+	 but
+	 (X  
+	  (AUX must)
+	  (VP be
+	      (NP a (VP continuing) process
+		  (PP through
+		      (NP our entire lives)))))))
+     ,
+     for
+     (S (NP it
+	    (SBAR-4 *pseudo-attach*))
+	(VP is
+	    (PP (ADVP only)
+		through
+		(NP knowledge)))
+	(SBAR-4 that
+		(S (NP we)
+		   ,
+		   (PP as
+		       (NP a nation))
+		   ,
+		   (AUX can)
+		   (VP cope
+			  
+		       (PP with
+			   (NP (NP the dangers)
+			       (SBAR 
+				(WHNP that)
+				(S (NP T)
+				   (VP threaten
+				       (NP our society)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The desire and ability
+      (S (NP *)
+	 (AUX to)
+	 (VP read)))
+  (VP are
+      (NP important aspects
+	  (PP of
+	      (NP our cultural life)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP We)
+    (AUX can)
+    (NEG not)
+    (VP consider
+	(NP ourselves)
+	(ADJP educated))
+    (SBAR (SBAR if
+		(S (NP we)
+		   (AUX do)
+		   (NEG not)
+		   (VP read)))
+	  ;
+	  ;
+	  (SBAR if
+		(S (NP we)
+		   (VP are
+		       (NEG not)
+		       (ADJP discriminating
+			     (PP in
+				 (NP our reading))))))
+	  ;
+	  ;
+	  (SBAR if
+		(S (NP we)
+		   (AUX do)
+		   (NEG not)
+		   (VP know
+		       (SBAR (WHADVP how)
+			     (S (NP *)
+				(AUX to)
+				(VP use
+				    (SBAR (WHNP what)
+					  (S
+					   (NP we)
+					   (AUX do)
+					   (VP read
+					       (NP T) )))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX must)
+    (NEG not)
+    (VP permit
+	(NP our society)
+	(S (NP *)
+	   (AUX to)
+	   (VP become
+	       (NP a slave
+		   (PP to
+		       (NP the scientific age))))
+	   ,
+	   (PP as
+	       (S (NP *) 
+		  (AUX might)
+		  (ADVP well)
+		  (VP happen
+		      (PP without
+			  (NP (NP the (ADJP cultural and spiritual) restraint)
+			      (SBAR 
+			       (WHNP that)
+			       (S (NP T)
+				  (VP comes
+				      (PP from
+					  (NP the development
+					      (PP of
+						  (NP the human mind))))
+				      (PP through
+					  (NP (NP wisdom)
+					      (VP absorbed
+						  (PP from (NP the (ADJP written) word))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A fundamental source
+       (PP of
+	   (NP knowledge)))
+   (PP in
+       (NP the world))
+   (NP today)
+   (VP is
+       (NP (NP the book)
+	   (VP found
+	       (PP in
+		   (NP our libraries))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP progress
+		  (PP-5 *pseudo-attach*))
+	      (AUX has)
+	      (VP been
+		  (VP made))
+	      (PP-5 in
+		    (NP (NP America)
+			's system
+			(PP of
+			    (NP libraries))))))
+     (S (NP it)
+	(ADVP still)
+	(VP falls
+	    (ADJP short
+		  (PP of
+		      (SBAR (WHNP what)
+			    (S (NP T) 
+			       (AUX is)
+			       (VP required)
+			       (SBAR if
+				     (S (NP we)
+					(VP are
+					    (S (NP *)
+					       (AUX to)
+					       (VP maintain
+						   (NP (NP the standards)
+						       (SBAR 
+							(WHNP that)
+							(S (NP T)
+							   (AUX are)
+							   (VP needed
+							       (PP for
+								   (NP an
+								       (ADJP informed)
+								       America))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The problem)
+   (VP grows
+       (PP in
+	   (NP intensity)))
+   (NP each year)
+   (SBAR  as
+	  (S (NP (NP 
+		  (NP man)
+		  's knowledge)
+		 ,
+		 and
+		 (NP his capacity
+		     (S (NP *)
+			(AUX to)
+			(VP translate
+			    (NP such knowledge)
+			    (PP to
+				(NP the (ADJP written) word)))))
+		 ,)
+	     (VP continue
+		 (S (NP *)
+		    (AUX to)
+		    (VP expand))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The inadequacy
+       (PP of
+	   (NP our library system)))
+   (AUX will)
+   (VP become
+       (ADJP critical))
+   (SBAR unless
+	 (S (NP we)
+	    (VP act
+		(ADVP vigorously)
+		(S (NP *)
+		   (AUX to)
+		   (VP correct
+		       (NP this condition)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP There)
+    (VP are
+	,
+	(PP for
+	    (NP example))
+	,
+	(NP (NP   (ADVP approximately)
+		  25,000,000 people
+		  (PP in
+		      (NP this country))
+		  (PP with
+		      (NP no public library service)))
+	    and
+	    (NP  (ADVP about)
+		 50,000,000
+		 (PP with
+		     (NP inadequate service))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP college libraries))
+   ,
+   (S (NP 57
+	  (PP per
+	      (NP cent))
+	  (PP of
+	      (NP the total number
+		  (PP of
+		      (NP books)))))
+      (AUX are)
+      (VP owned
+	      
+	  (PP by
+	      (NP 124
+		  (PP of
+		      (NP (NP 1,509 institutions)
+			  (VP surveyed
+			      (NP last year)
+			      (PP by
+				  (NP the U.S. Office
+				      (PP of
+					  (NP Education))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP (ADVP over)
+	     66
+	     (PP per
+		 (NP cent))
+	     (PP of
+		 (NP the elementary schools
+		     (PP with
+			 (NP (NP (NP 150)
+				 or
+				 (ADJP more))
+			     pupils)))))
+	 (AUX do)
+	 (NEG not)
+	 (VP have
+	     (NP any library)
+	     (PP at
+		 (NP all)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP every aspect
+	   (PP of
+	       (NP (NP service)
+		   --
+		   (PP (PP to
+			   (NP the public))
+		       ,
+		       (PP to
+			   (NP children
+			       (PP in
+				   (NP schools))))
+		       ,
+		       (PP to
+			   (NP (NP colleges) and (NP universities))))
+		   --))))
+   (S (NP the library
+	  (PP of
+	      (NP today)))
+      (AUX is)
+      (VP failing
+	  (S (NP *)
+	     (AUX to)
+	     (VP render
+		 (NP (VP (ADVP vitally)
+			 needed)
+		     services))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 public understanding and support)
+    (AUX can)
+    (VP provide
+	(NP that service)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP is
+	(NP one
+	    (PP of
+		(NP the main reasons
+		    (PP (PP for
+			    (NP (NP National Library Week)
+				,
+				(NP April 16-22)
+				,))
+			and
+			(PP for
+			    (NP (NP its theme)
+				:
+				``
+				(NP (S (PP For
+					   (NP a
+					       richer
+					       ,
+					       fuller
+					       life))
+				       ,
+				       (S  (NP *) 
+					   (VP read))))
+				''))))))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

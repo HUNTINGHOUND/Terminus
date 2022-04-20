@@ -1,0 +1,1682 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ There/EX ]
+are/VBP 
+[ more/JJR stems/NNS ]
+per/IN 
+[ item/NN ]
+in/IN 
+[ Athabascan/NNP ]
+,/, 
+[ which/WDT ]
+expresses/VBZ 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT Athabascan/NNP languages/NNS ]
+have/VBP undergone/VBN 
+[ somewhat/RB more/JJR change/NN ]
+in/IN diverging/VBG from/IN 
+[ proto-Athabascan/NN ]
+than/IN 
+[ the/DT Yokuts/NNP languages/NNS ]
+from/IN 
+[ proto-Yokuts/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+may/MD be/VB because/IN 
+[ the/DT Athabascan/NNP divergence/NN ]
+began/VBD earlier/RB ;/: ;/: or/CC again/RB because/IN 
+[ the/DT Athabascan/NNP languages/NNS ]
+spread/VBD over/IN 
+[ a/DT very/RB ]
+
+[ much/RB larger/JJR territory/NN ]
+(/( including/VBG 
+[ three/CD ]
+wholly/RB separated/VBN 
+[ areas/NNS ]
+)/) ;/: ;/: or/CC 
+[ both/DT ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT differentiation/NN ]
+,/, however/RB ,/, is/VBZ not/RB very/RB much/RB greater/JJR ,/, as/RB shown/VBN by/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ Athabascan/NNP ]
+shows/VBZ 
+[ 3.46/CD stems/NNS ]
+per/IN 
+[ meaning/NN slot/NN ]
+as/IN against/IN 
+[ 2.75/CD ]
+for/IN 
+[ Yokuts/NNP ] 
+,/, with/IN 
+[ a/DT ]
+slightly/RB 
+[ greater/JJR number/NN ]
+of/IN 
+[ languages/NNS ]
+represented/VBN in/IN 
+[ our/PRP$ sample/NN ]
+:/: 
+[ 24/CD ]
+as/IN against/IN 
+[ 21/CD ]
+./. 
+==================================
+
+==================================
+==================================
+(/( On/IN 
+[ deduction/NN ]
+of/IN 
+[ one-eighth/NN ]
+from/IN 
+[ 3.46/CD ]
+,/, 
+[ the/DT stem/NN item/NN rate/NN ]
+becomes/VBZ 
+[ 3.03/CD ]
+against/IN 
+[ 2.75/CD ]
+in/IN 
+[ equivalent/JJ number/NN ]
+of/IN 
+[ languages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+)/) 
+[ These/DT general/JJ facts/NNS ]
+are/VBP mentioned/VBN to/TO make/VB clear/JJ that/IN 
+[ the/DT total/JJ situation/NN ]
+in/IN 
+[ the/DT two/CD families/NNS ]
+is/VBZ similar/JJ enough/RB to/TO warrant/VB 
+[ comparison/NN ]
+./. 
+==================================
+
+[ The/DT greatest/JJS difference/NN ]
+in/IN 
+[ the/DT two/CD sets/NNS ]
+of/IN 
+[ figures/NNS ]
+is/VBZ due/JJ to/TO 
+[ differences/NNS ]
+in/IN 
+[ the/DT two/CD sets/NNS ]
+of/IN 
+[ lists/NNS ]
+used/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT differences/NNS ]
+in/IN 
+[ turn/NN result/VBP ]
+from/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ my/PRP$ Yokuts/NNP vocabularies/NNS ]
+were/VBD built/VBN up/IN of/IN 
+[ terms/NNS ]
+selected/VBN mainly/RB to/TO insure/VB 
+[ unambiguity/NN ]
+of/IN 
+[ English/NNP meaning/NN ]
+between/IN 
+[ illiterate/JJ informants/NNS ]
+and/CC 
+[ myself/PRP ]
+,/, within/IN 
+[ a/DT compact/JJ ]
+and/CC 
+[ uniform/JJ territorial/JJ area/NN ]
+,/, but/CC that/IN 
+[ Hoijer/NNP 's/POS vocabulary/NN ]
+is/VBZ based/VBN on/IN 
+[ Swadesh/NNP 's/POS second/JJ glottochronological/JJ list/NN ]
+
+[ which/WDT ]
+aims/VBZ at/IN eliminating/VBG 
+[ all/DT items/NNS ]
+
+[ which/WDT ]
+might/MD be/VB culturally/RB or/CC geographically/RB determined/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Swadesh/NNP ]
+in/IN 
+[ short/JJ ]
+was/VBD trying/VBG to/TO develop/VB 
+[ a/DT basic/NN list/NN ]
+
+[ that/WDT ]
+was/VBD universal/JJ ;/: ;/: 
+[ I/PRP ]
+,/, 
+[ one/CD ]
+
+[ that/WDT ]
+was/VBD specifically/RB adapted/VBN to/TO 
+[ the/DT San/NNP Joaquin/NNP Valley/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT result/NN ]
+is/VBZ that/IN 
+[ I/PRP ]
+included/VBD 
+[ 70/CD animal/NN names/NNS ]
+,/, but/CC 
+[ Swadesh/NNP ]
+only/RB 
+[ 4/CD ]
+;/: ;/: and/CC somewhat/RB similarly/RB for/IN 
+[ plants/NNS ]
+,/, 
+[ 16/CD ]
+as/IN against/IN 
+[ 4/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Swadesh/NNP ]
+,/, and/CC therefore/RB 
+[ Hoijer/NNP ]
+,/, felt/VBD compelled/VBN to/TO omit/VB 
+[ all/DT terms/NNS ]
+denoting/VBG 
+[ species/NNS ]
+or/CC even/RB 
+[ genera/NN ]
+(/( 
+[ ox/NN ]
+,/, 
+[ vulture/NN ]
+,/, 
+[ salmon/NN ]
+,/, 
+[ yellow/JJ pine/NN ]
+,/, 
+[ manzanita/NN ]
+)/) ;/: ;/: 
+[ their/PRP$ classes/NNS ]
+of/IN 
+[ animal/NN ]
+and/CC 
+[ plant/NN terms/NNS ]
+are/VBP restricted/VBN to/TO 
+[ generalizations/NNS ]
+or/CC 
+[ recurrent/JJ parts/NNS ]
+(/( 
+[ fish/NN ]
+,/, 
+[ bird/NN ]
+,/, 
+[ tree/NN ]
+,/, 
+[ grass/NN ]
+,/, 
+[ horn/NN ]
+,/, 
+[ tail/NN ]
+,/, 
+[ bark/NN ]
+,/, 
+[ root/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT groups/NNS ]
+are/VBP therefore/RB really/RB non-comparable/JJ in/IN 
+[ content/NN ]
+as/RB well/RB as/IN in/IN 
+[ size/NN ]
+./. 
+==================================
+
+[ Other/JJ classes/NNS ]
+are/VBP included/VBN only/RB by/IN 
+[ myself/PRP ]
+(/( 
+[ interrogatives/NNS ]
+,/, 
+[ adverbs/NNS ]
+)/) or/CC only/RB by/IN 
+[ Swadesh/NNP ]
+and/CC 
+[ Hoijer/NNP ]
+(/( 
+[ pronouns/NNS ]
+,/, 
+[ demonstratives/NNS ]
+)/) ./. 
+==================================
+
+[ What/WP ]
+
+[ we/PRP ]
+have/VBP left/VBN as/RB reasonably/RB 
+[ comparable/JJ ]
+are/VBP 
+[ four/CD classes/NNS ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ body/NN parts/NNS ]
+and/CC 
+[ products/NNS ]
+,/, 
+[ which/WDT ]
+with/IN 
+[ a/DT ]
+proportionally/RB nearly/RB even/RB 
+[ representation/NN ]
+(/( 
+[ 51/CD terms/NNS ]
+out/IN of/IN 
+[ 253/CD ]
+,/, 
+[ 25/CD ]
+out/IN of/IN 
+[ 100/CD ]
+)/) come/VB out/RB with/IN nearly/RB even/RB ratios/NNS ;/: ;/: 
+[ 2.6/CD ]
+and/CC 
+[ 2.7/CD ]
+;/: ;/: (/( 
+[ 2/LS ]
+)/) 
+[ Nature/NN ]
+(/( 
+[ 29/CD terms/NNS ]
+against/IN 
+[ 17/CD ]
+)/) ,/, ratios/NNS 
+[ 3.3/CD ]
+versus/FW 
+[ 4.1/CD ]
+;/: ;/: (/( 
+[ 3/LS ]
+)/) 
+[ adjectives/NNS ]
+(/( 
+[ 16/CD ]
+,/, 
+[ 15/CD terms/NNS ]
+)/) ,/, ratios/NNS 
+[ 3.9/CD ]
+versus/FW 
+[ 4.7/CD ]
+;/: ;/: (/( 
+[ 4/LS ]
+)/) 
+[ verbs/NNS ]
+(/( 
+[ 9/CD ]
+,/, 
+[ 22/CD terms/NNS ]
+)/) ,/, ratios/NNS 
+[ 4.0/CD ]
+versus/FW 
+[ 3.4/CD ]
+./. 
+==================================
+
+[ It/PRP ]
+will/MD be/VB seen/VBN that/IN where/WRB 
+[ the/DT scope/NN ]
+is/VBZ similar/JJ ,/, 
+[ the/DT Athabascan/NNP ratios/NNS ]
+come/VB out/RB 
+[ somewhat/RB higher/JJR ]
+(/( as/IN indeed/RB 
+[ they/PRP ]
+ought/MD to/TO with/IN 
+[ a/DT total/JJ ratio/NN ]
+of/IN 
+[ 2.8/CD ]
+as/IN against/IN 
+[ 3.5/CD ]
+or/CC 
+[ 4/CD ]
+:/: 
+[ 5/CD ]
+)/) except/IN for/IN 
+[ verbs/NNS ]
+,/, where/WRB alone/RB 
+[ the/DT Athabascan/NNP ratio/NN ]
+is/VBZ lower/JJR ./. 
+==================================
+
+[ This/DT exception/NN ]
+may/MD be/VB connected/VBN with/IN 
+[ Hoijer/NNP 's/POS use/NN ]
+of/IN 
+[ a/DT much/JJ higher/JJR percentage/NN ]
+of/IN 
+[ verbs/NNS ]
+:/: 
+[ 22/CD %/NN ]
+of/IN 
+[ his/PRP$ total/JJ list/NN ]
+as/IN against/IN 
+[ 3.5/CD %/NN ]
+in/IN 
+[ mine/PRP ]
+./. 
+==================================
+Or/CC 
+[ the/DT exception/NN ]
+may/MD be/VB due/JJ to/TO 
+[ a/DT particular/JJ durability/NN ]
+peculiar/JJ to/TO 
+[ the/DT Athabascan/NNP verb/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ More/JJR word/NN class/NN ratios/NNS ]
+determined/VBN in/IN 
+[ more/JJR languages/NNS ]
+will/MD no/RB doubt/VB ultimately/RB answer/VB 
+[ the/DT question/NN ]
+./. 
+==================================
+
+[ 5/LS ]
+./. 
+==================================
+If/IN 
+[ word/NN classes/NNS ]
+differ/VBP in/IN 
+[ their/PRP$ resistance/NN ]
+or/CC 
+[ liability/NN ]
+to/TO stem/VB 
+[ replacement/NN ]
+within/IN 
+[ meaning/NN slot/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ conceivable/JJ that/IN 
+[ individual/JJ meanings/NNS ]
+also/RB differ/VBP with/IN 
+[ fair/JJ consistence/NN ]
+trans-lingually/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Hoijer/NNP 's/POS Athabascan/NNP ]
+and/CC 
+[ my/PRP$ Yokuts/NNP ]
+share/VBP 
+[ 71/CD identical/JJ meanings/NNS ]
+(/( with/IN 
+[ allowance/NN ]
+for/IN 
+[ several/JJ near-synonyms/NNS ]
+like/IN 
+[ stomach-belly/NN ]
+,/, 
+[ big-large/NN ]
+,/, 
+[ long-far/NN ]
+,/, 
+[ many-much/NN ]
+,/, 
+[ die-dead/NN ]
+,/, 
+[ say-speak/NN ] 
+)/) ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ Yokuts/NNP ]
+,/, 
+[ I/PRP ]
+tabulated/VBD 
+[ these/DT 71/CD items/NNS ]
+in/IN 
+[ five/CD columns/NNS ]
+,/, according/VBG as/IN 
+[ they/PRP ]
+were/VBD expressed/VBN by/IN 
+[ 1/CD ]
+,/, 
+[ 2/CD ]
+,/, 
+[ 3/CD ]
+,/, 
+[ 4/CD ]
+,/, and/CC more/RBR than/IN 
+[ 4/CD stems/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT totals/NNS ]
+for/IN 
+[ these/DT five/CD categories/NNS ]
+are/VBP not/RB too/RB uneven/JJ ,/, namely/RB 
+[ 20/CD ]
+,/, 
+[ 15/CD ]
+,/, 
+[ 11/CD ]
+,/, 
+[ 16/CD ]
+,/, 
+[ 9/CD ]
+respectively/RB ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ Athabascan/NNP ]
+,/, with/IN 
+[ a/DT greater/JJR range/NN ]
+of/IN 
+[ stems/NNS ]
+,/, 
+[ the/DT first/JJ two/CD ]
+of/IN 
+[ five/CD corresponding/JJ columns/NNS ]
+were/VBD identical/JJ ,/, 
+[ 1/CD ]
+and/CC 
+[ 2/CD stems/NNS ]
+;/: ;/: 
+[ the/DT three/CD others/NNS ]
+had/VBD to/TO be/VB spread/VBN somewhat/RB ,/, and/CC are/VBP headed/VBN respectively/RB 
+[ A[fj]/SYM ]
+;/: ;/: 
+[ A[fj]/SYM ]
+;/: ;/: and/CC 
+[ A[fj]/SYM stems/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+While/IN 
+[ the/DT particular/JJ limits/NNS ]
+of/IN 
+[ these/DT groupings/NNS ]
+may/MD seem/VB artificially/RB 
+[ arbitrary/JJ ]
+,/, 
+[ they/PRP ]
+do/VBP fairly/RB express/VB 
+[ a/DT corresponding/JJ grouping/NN ]
+of/IN 
+[ more/RBR variable/JJ material/NN ]
+,/, and/CC 
+[ they/PRP ]
+eventuate/VBP also/RB in/IN 
+[ five/CD classes/NNS ]
+,/, along/IN 
+[ a/DT similar/JJ scale/NN ]
+,/, containing/VBG approximately/RB 
+[ equal/JJ numbers/NNS ]
+of/IN 
+[ cases/NNS ]
+,/, namely/RB 
+[ 19/CD ]
+,/, 
+[ 14/CD ]
+,/, 
+[ 15/CD ]
+,/, 
+[ 11/CD ]
+,/, 
+[ 12/CD ]
+in/IN 
+[ Athabascan/NNP ]
+./. 
+==================================
+When/WRB now/RB 
+[ we/PRP ]
+count/VBP 
+[ the/DT frequency/NN ]
+of/IN 
+[ the/DT 71/CD items/NNS ]
+in/IN 
+[ the/DT two/CD language/NN families/NNS ]
+appearing/VBG in/IN 
+[ the/DT same/JJ column/NN ]
+or/CC 
+[ grade/NN ]
+,/, or/CC 
+[ one/CD column/NN ]
+or/CC 
+[ grade/NN ]
+apart/RB ,/, or/CC 
+[ two/CD ]
+or/CC 
+[ three/CD ]
+or/CC 
+[ four/CD ]
+,/, 
+[ we/PRP ]
+find/VBP 
+[ these/DT differences/NNS ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ This/DT distribution/NN ]
+can/MD be/VB summarized/VBN by/IN averaging/VBG 
+[ the/DT distance/NN ]
+in/IN 
+[ grades/NNS ]
+apart/RB :/: 
+[ A[fj]/SYM ]
+;/: ;/: 
+[ which/WDT ]
+,/, divided/VBN by/IN 
+[ A[fj]/SYM ]
+gives/VBZ 
+[ a/DT mean/NN ]
+of/IN 
+[ 1.07/CD grades/NNS ]
+apart/RB ./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT distribution/NN ]
+of/IN 
+[ the/DT 71/CD items/NNS ]
+were/VBD wholly/RB concordant/JJ in/IN 
+[ the/DT two/CD families/NNS ]
+,/, 
+[ the/DT distance/NN ]
+would/MD of/IN 
+[ course/NN ]
+be/VB 
+[ 0/CD ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ it/PRP ]
+were/VBD wholly/RB random/JJ and/CC 
+[ unrelated/JJ ]
+,/, 
+[ it/PRP ]
+would/MD be/VB 
+[ 2.0/CD ]
+,/, assuming/VBG 
+[ the/DT five/CD classes/NNS ]
+were/VBD equal/JJ in/IN 
+[ n/NN ]
+,/, 
+[ which/WDT ]
+approximately/RB 
+[ they/PRP ]
+are/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT actual/JJ mean/NN ]
+of/IN 
+[ 1.07/CD ]
+being/VBG about/IN halfway/RB between/IN 
+[ 0/CD ]
+of/IN 
+[ complete/JJ correlation/NN ]
+and/CC 
+[ 2.0/CD ]
+of/IN 
+[ no/DT correlation/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ evident/JJ that/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT pretty/RB fair/JJ degree/NN ]
+of/IN 
+[ similarity/NN ]
+in/IN 
+[ the/DT behavior/NN ]
+even/RB of/IN 
+[ particular/JJ individual/JJ items/NNS ]
+of/IN 
+[ meaning/NN ]
+as/IN regards/VBZ 
+[ long-term/JJ stem/NN displacement/NN ]
+./. 
+==================================
+
+[ 6/CD ]
+./. 
+==================================
+In/IN 
+[ 1960/CD ]
+,/, 
+[ David/NNP D./NNP Thomas/NNP ]
+published/VBD 
+[ Basic/NNP Vocabulary/NNP ]
+In/IN 
+[ some/DT Mon-Khmer/NNP Languages/NNP ]
+(/( 
+[ AL/NNP 2/CD ]
+,/, 
+[ No./NN 3/CD ]
+,/, 
+[ pp./NNS 7/CD ]
+-/: 
+[ 11/CD ]
+)/) ,/, 
+[ which/WDT ]
+compares/VBZ 
+[ 8/CD Mon-Khmer/NNP languages/NNS ]
+with/IN 
+[ the/DT I-E/NNP language/NN data/NN|NNS ]
+on/IN 
+[ which/WDT ]
+
+[ Swadesh/NNP ]
+based/VBD 
+[ the/DT revised/JJ retention/NN rate/NN ]
+(/( 
+[ A[fj]/SYM ]
+)/) in/IN 
+[ place/NN ]
+of/IN 
+[ original/JJ ]
+(/( 
+[ A[fj]/SYM ]
+)/) ,/, and/CC 
+[ his/PRP$ ]
+revised/JJ 
+[ 100/CD word/NN basic/JJ glottochronological/JJ list/NN ]
+in/IN 
+[ Towards/NNP Greater/NNP Accuracy/NNP ]
+(/( 
+[ IJAL/NNP 21/CD ]
+:/: :/: 
+[ 121/CD ]
+-/: 
+[ 137/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ Thomas/NNP '/POS findings/NNS ]
+are/VBP ,/, first/RB ,/, ``/`` that/IN 
+[ the/DT individual/JJ items/NNS ]
+vary/VBP greatly/RB and/CC unpredictably/RB in/IN 
+[ their/PRP$ persistence/NN ]
+''/'' ;/: ;/: but/CC ,/, 
+[ second/JJ ]
+,/, ``/`` that/IN 
+[ the/DT semantic/JJ groups/NNS ]
+are/VBP surprisingly/RB unvarying/VBG in/IN 
+[ their/PRP$ average/JJ persistence/NN ]
+''/'' (/( as/IN between/IN 
+[ M-K/NNP ]
+and/CC 
+[ I-E/NNP ]
+)/) ./. 
+==================================
+
+[ His/PRP$ first/JJ conclusion/NN ]
+,/, on/IN 
+[ behavior/NN ]
+of/IN 
+[ individual/JJ items/NNS ]
+,/, is/VBZ negative/JJ ,/, whereas/IN 
+[ mine/JJ ]
+(/( on/IN 
+[ Ath./NNP ]
+and/CC 
+[ Yok./NNP ]
+)/) was/VBD partially/RB positive/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ second/JJ conclusion/NN ]
+,/, on/IN 
+[ semantic/JJ word/NN classes/NNS ]
+,/, agrees/VBZ with/IN 
+[ mine/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT second/JJ conclusion/NN ]
+,/, independently/RB arrived/VBD at/IN by/IN 
+[ independent/JJ study/NN ]
+of/IN 
+[ material/NN ]
+from/IN 
+[ two/CD pairs/NNS ]
+of/IN 
+[ language/NN families/NNS ]
+as/IN 
+[ different/JJ ]
+and/CC 
+[ remote/JJ ]
+from/IN 
+[ one/NN another/DT ]
+as/IN 
+[ these/DT four/CD ]
+are/VBP ,/, can/MD not/RB be/VB ignored/VBN ./. 
+==================================
+
+[ Thomas/NNP ]
+also/RB presents/VBZ 
+[ a/DT simple/JJ equation/NN ]
+for/IN deriving/VBG 
+[ an/DT index/NN ]
+of/IN 
+[ persistence/NN ]
+,/, 
+[ which/WDT ]
+weights/VBZ not/RB only/RB 
+[ the/DT number/NN ]
+of/IN 
+[ stems/NNS ]
+(/( '/'' 
+[ roots/NNS '/POS ]
+)/) per/IN 
+[ meaning/NN ]
+,/, but/CC 
+[ their/PRP$ relative/JJ frequency/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ his/PRP$ persistence/JJ values/NNS ]
+for/IN 
+[ some/DT stem/NN frequencies/NNS ]
+per/IN 
+[ meaning/NN ]
+are/VBP :/: stem/VB 
+[ identical/JJ ]
+in/IN 
+[ 8/CD languages/NNS ]
+,/, 
+[ 100/CD %/NN ]
+;/: ;/: 
+[ stem/NN frequencies/NNS 7/CD ]
+and/CC 
+[ 1/CD ]
+,/, 
+[ 86/CD %/NN ]
+;/: ;/: 
+[ stem/NN frequencies/NNS 4/CD ]
+and/CC 
+[ 4/CD ]
+,/, 
+[ 64/CD %/NN ]
+;/: ;/: 
+[ stem/NN frequencies/NNS 4/CD ]
+,/, 
+[ 3/CD ]
+,/, and/CC 
+[ 1/CD ]
+,/, 
+[ 57/CD %/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ formula/NN ]
+will/MD have/VB to/TO be/VB weighed/VBN ,/, may/MD be/VB altered/VBN or/CC improved/VBN ,/, and/CC 
+[ it/PRP ]
+should/MD be/VB tested/VBN on/IN 
+[ additional/JJ bodies/NNS ]
+of/IN 
+[ material/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ consideration/NN ]
+of/IN 
+[ the/DT frequency/NN ]
+of/IN 
+[ stems/NNS ]
+per/IN 
+[ constant/JJ meaning/NN ]
+seems/VBZ to/TO be/VB established/VBN as/IN having/VBG 
+[ significance/NN ]
+in/IN 
+[ comparative/JJ situations/NNS ]
+with/IN 
+[ diachronic/JJ ]
+and/CC 
+[ classificatory/JJ relevance/NN ]
+;/: ;/: and/CC 
+[ Gleason/NNP ]
+presumably/RB is/VBZ on/IN 
+[ the/DT way/NN ]
+with/IN 
+[ a/DT further/JJR contribution/NN ]
+in/IN 
+[ this/DT area/NN ]
+./. 
+==================================
+As/IN to/TO 
+[ relative/JJ frequencies/NNS ]
+of/IN competing/VBG 
+[ roots/NNS ]
+(/( 
+[ 7/CD ]
+-/: 
+[ 1/CD vs./FW 4/CD ]
+-/: 
+[ 4/CD ]
+,/, 
+[ etc./FW ]
+)/) ,/, 
+[ Thomas/NNP ]
+with/IN 
+[ his/PRP$ ]
+
+[ '/POS  weighting/NN ]
+'/'' seems/VBZ to/TO be/VB 
+[ the/DT first/JJ ]
+to/TO have/VB considered/VBN 
+[ the/DT significance/NN ]
+
+[ this/DT ]
+might/MD have/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT problem/NN ]
+needs/VBZ 
+[ further/JJR exploration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+was/VBD at/IN 
+[ least/JJS conscious/NN ]
+of/IN 
+[ the/DT distinction/NN ]
+in/IN 
+[ my/PRP$ full/JJ Yokuts/NNP presentation/NN ]
+
+[ that/WDT ]
+awaits/VBZ 
+[ publication/NN ]
+,/, in/IN 
+[ which/WDT ]
+,/, in/IN 
+[ listing/NN ]
+'/'' 
+[ Two-Stem/JJ Meanings/NNS '/POS ]
+,/, 
+[ I/PRP ]
+set/VBD off/RP by/IN asterisks/NNS 
+[ those/DT forms/NNS ]
+in/IN 
+[ which/WDT N/NNP ]
+of/IN 
+[ stem/NN B/NNP ]
+was/VBD 
+[ A[fj]/SYM ]
+of/IN 
+[ stem/NN A3/CD ]
+,/, 
+[ the/DT unasterisked/JJ ones/NNS ]
+standing/VBG for/IN 
+[ A[fj]/SYM ]
+;/: ;/: or/CC under/IN '/'' 
+[ Four/CD Stems/NNS '/POS ]
+,/, 
+[ I/PRP ]
+set/VBD off/RB by/IN 
+[ asterisks/NNS cases/NNS ]
+where/WRB 
+[ the/DT combined/VBN N/NNP ]
+of/IN 
+[ stems/NNS A[fj]/SYM ]
+was/VBD 
+[ Af./NNP 7/CD ]
+./. 
+==================================
+
+[ These/DT findings/NNS ]
+,/, and/CC 
+[ others/NNS ]
+
+[ which/WDT ]
+will/MD in/IN 
+[ time/NN ]
+be/VB developed/VBN ,/, will/MD affect/VB 
+[ the/DT method/NN ]
+of/IN 
+[ glottochronological/JJ inquiry/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ adjectival/JJ meanings/NNS ]
+show/VBP relatively/RB 
+[ low/JJ retentiveness/NN ]
+of/IN 
+[ stems/NNS ]
+,/, as/IN 
+[ I/PRP ]
+am/VBP confident/JJ will/MD prove/VB to/TO be/VB 
+[ the/DT case/NN ]
+in/IN 
+[ most/JJS languages/NNS ]
+of/IN 
+[ the/DT world/NN ]
+,/, why/WRB should/MD 
+[ our/PRP$ basic/JJ lists/NNS ]
+include/VBP 
+[ 15/CD ]
+per/IN 
+[ cent/NN ]
+of/IN 
+[ these/DT unstable/JJ forms/NNS ]
+,/, but/CC only/RB 
+[ 8/CD ]
+per/IN 
+[ cent/NN ]
+of/IN 
+[ animals/NNS ]
+and/CC 
+[ plants/NNS ]
+
+[ which/WDT ]
+replace/VBP much/RB more/RBR slowly/RB ?/. ?/. 
+==================================
+Had/VBD 
+[ Hoijer/NNP ]
+substituted/VBN for/IN 
+[ his/PRP$ 15/CD adjectival/JJ slots/NNS 15/CD good/JJ animal/NN ]
+and/CC 
+[ plant/NN items/NNS ]
+,/, 
+[ his/PRP$ rate/NN ]
+of/IN 
+[ stem/NN replacement/NN ]
+would/MD have/VB been/VBN lower/JJR and/CC 
+[ the/DT age/NN ]
+of/IN 
+[ Athabascan/NNP language/NN separation/NN ]
+smaller/JJR ./. 
+==================================
+
+==================================
+==================================
+And/CC irrespective/RB of/IN 
+[ the/DT outcome/NN ]
+in/IN 
+[ centuries/NNS ]
+elapsed/VBN since/IN 
+[ splitting/NN ]
+,/, 
+[ calculations/NNS ]
+obviously/RB carry/VB more/RBR concordant/JJ and/CC 
+[ comparable/JJ meaning/NN ]
+if/IN 
+[ they/PRP ]
+deal/VBP with/IN 
+[ the/DT most/RBS stable/JJ units/NNS ]
+than/IN with/IN variously/RB 
+[ unstable/JJ ones/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ evident/JJ that/IN 
+[ Swadesh/NNP ]
+has/VBZ not/RB only/RB had/VBD 
+[ much/JJ experience/NN ]
+with/IN 
+[ basic/JJ vocabulary/NN ]
+in/IN 
+[ many/JJ languages/NNS ]
+but/CC has/VBZ acquired/VBN 
+[ great/JJ tact/NN ]
+and/CC 
+[ feeling/NN ]
+for/IN 
+[ the/DT expectable/JJ behavior/NN ]
+of/IN 
+[ lexical/JJ items/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Why/WRB then/RB 
+[ this/DT urge/NN ]
+to/TO include/VB 
+[ unstable/JJ items/NNS ]
+in/IN 
+[ his/PRP$ basic/JJ list/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ the/DT urge/NN ]
+to/TO obtain/VB 
+[ a/DT list/NN ]
+as/IN 
+[ free/JJ ]
+of/IN 
+[ geographical/JJ ]
+and/CC 
+[ cultural/JJ conditioning/NN ]
+as/IN 
+[ possible/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC why/WRB 
+[ that/DT insistence/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ the/DT hope/NN ]
+of/IN attaining/VBG 
+[ a/DT list/NN ]
+of/IN 
+[ items/NNS ]
+of/IN 
+[ universal/JJ occurrence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ it/PRP ]
+is/VBZ becoming/VBG increasingly/RB evident/JJ that/IN 
+[ such/JJ a/DT hope/NN ]
+is/VBZ 
+[ a/DT snare/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Not/RB that/IN 
+[ such/JJ a/DT list/NN ]
+can/MD not/RB be/VB constructed/VBN ;/: ;/: but/CC 
+[ the/DT nearer/JJR ]
+
+[ it/PRP ]
+comes/VBZ to/TO 
+[ attaining/VBG universality/NN ]
+,/, 
+[ the/DT less/RBR significant/JJ ]
+will/MD 
+[ it/PRP ]
+be/VB linguistically/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Its/PRP$ terms/NNS ]
+will/MD tend/VB to/TO be/VB labile/JJ or/CC 
+[ vague/JJ ]
+,/, and/CC 
+[ they/PRP ]
+will/MD fit/VB 
+[ actual/JJ languages/NNS ]
+more/RBR and/CC more/RBR badly/RB ./. 
+==================================
+
+[ The/DT practical/JJ operational/JJ problem/NN ]
+of/IN 
+[ lexicostatistics/NNS ]
+is/VBZ 
+[ the/DT establishment/NN ]
+of/IN 
+[ a/DT basic/JJ list/NN ]
+of/IN 
+[ items/NNS ]
+of/IN 
+[ meaning/NN ]
+against/IN 
+[ which/WDT ]
+
+[ the/DT particular/JJ forms/NNS ]
+or/CC 
+[ terms/NNS ]
+of/IN 
+[ languages/NNS ]
+can/MD be/VB matched/VBN as/IN 
+[ the/DT medium/NN ]
+of/IN 
+[ comparison/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT most/RBS important/JJ quality/NN ]
+of/IN 
+[ the/DT meanings/NNS ]
+is/VBZ that/IN 
+[ they/PRP ]
+should/MD be/VB as/RB definable/JJ as/IN 
+[ possible/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ proportion/NN ]
+as/IN 
+[ meanings/NNS ]
+are/VBP concrete/JJ ,/, 
+[ we/PRP ]
+can/MD better/RB rely/VB on/IN 
+[ their/PRP$ ]
+being/VBG 
+[ insulated/. ]
+and/CC 
+[ distinctive/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT elephant/NN ]
+or/CC 
+[ a/DT fox/NN ]
+or/CC 
+[ a/DT swan/NN ]
+or/CC 
+[ a/DT cocopalm/NN ]
+or/CC 
+[ a/DT banana/NN ]
+possess/VBP in/IN unusually/RB 
+[ high/JJ degree/NN ]
+
+[ this/DT quality/NN ]
+of/IN 
+[ obvious/JJ ]
+,/, 
+[ common-sense/JJ ]
+,/, 
+[ indubitable/JJ identity/NN ]
+,/, as/IN do/VB 
+[ an/DT eye/NN ]
+or/CC 
+[ tooth/NN ]
+or/CC 
+[ nail/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+isolate/VBP out/RB easily/RB ,/, naturally/RB ,/, and/CC unambiguously/RB from/IN 
+[ the/DT continuum/NN ]
+of/IN 
+[ nature/NN ]
+and/CC 
+[ existence/NN ]
+;/: ;/: and/CC 
+[ they/PRP ]
+should/MD be/VB given/VBN 
+[ priority/NN ]
+in/IN 
+[ the/DT basic/JJ list/NN ]
+as/RB long/RB as/IN 
+[ they/PRP ]
+continue/VBP to/TO show/VB 
+[ these/DT qualities/NNS ]
+./. 
+==================================
+With/IN 
+[ the/DT universal/JJ list/NN ]
+as/IN 
+[ his/PRP$ weapon/NN ]
+,/, 
+[ Swadesh/NNP ]
+has/VBZ extended/VBN 
+[ his/PRP$ march/NN ]
+of/IN 
+[ conquest/NN ]
+farther/RB and/CC farther/RB into/IN 
+[ the/DT past/NN ]
+,/, 
+[ eight/CD ]
+,/, 
+[ ten/CD ]
+,/, 
+[ twelve/CD millennia/NNS ]
+back/RB ./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ he/PRP ]
+has/VBZ proclaimed/VBN 
+[ greater/JJR ]
+or/CC 
+[ less/JJR affiliation/NN ]
+between/IN 
+[ all/DT Western/NNP hemisphere/NN languages/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT ]
+of/IN 
+[ this/DT ]
+may/MD prove/VB to/TO be/VB true/JJ ,/, or/CC even/RB considerable/JJ of/IN 
+[ it/PRP ]
+,/, whether/IN by/IN 
+[ genetic/JJ ramification/NN ]
+or/CC by/IN 
+[ diffusion/NN ]
+and/CC 
+[ coalescence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ the/DT farther/RBR out/RP ]
+
+[ he/PRP ]
+moves/VBZ ,/, 
+[ the/DT thinner/NN ]
+will/MD be/VB 
+[ his/PRP$ hold/NN ]
+on/IN 
+[ conclusive/JJ evidence/NN ]
+,/, and/CC 
+[ the/DT larger/JJR the/DT speculative/JJ component/NN ]
+in/IN 
+[ his/PRP$ inferences/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+has/VBZ traversed/VBN 
+[ provinces/NNS ]
+and/CC 
+[ kingdoms/NNS ]
+,/, but/CC 
+[ he/PRP ]
+has/VBZ not/RB consolidated/VBN 
+[ them/PRP ]
+behind/IN 
+[ him/PRP ]
+,/, nor/CC does/VBZ 
+[ he/PRP ]
+control/VB 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+has/VBZ announced/VBN 
+[ results/NNS ]
+on/IN 
+[ Hokan/NNP ]
+,/, 
+[ Penutian/NNP ]
+,/, 
+[ Uto-Aztecan/NNP ]
+,/, and/CC almost/RB 
+[ all/DT other/JJ American/NNP families/NNS ]
+and/CC 
+[ phyla/NN ]
+,/, and/CC has/VBZ diagrammed/VBN 
+[ their/PRP$ degree/NN ]
+of/IN 
+[ interrelation/NN ]
+;/: ;/: but/CC 
+[ he/PRP ]
+has/VBZ not/RB worked/VBN out/RB by/IN 
+[ lexicostatistics/NNS one/CD ]
+comprehensively/RB 
+[ complete/JJ classification/NN ]
+of/IN even/RB 
+[ a/DT single/JJ family/NN ]
+other/JJ than/IN 
+[ Salish/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT ]
+is/VBZ 
+[ his/PRP$ privilege/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT remote/JJ ]
+,/, 
+[ cloudy/JJ ]
+,/, 
+[ possible/JJ ]
+has/VBZ 
+[ values/NNS ]
+of/IN 
+[ its/PRP$ own/JJ ]
+--/: 
+[ values/NNS ]
+of/IN 
+[ scope/NN ]
+,/, 
+[ stimulus/NN ]
+,/, 
+[ potential/NN ]
+,/, and/CC 
+[ imagination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ there/EX ]
+is/VBZ also/RB 
+[ a/DT firm/JJ aspect/NN ]
+to/TO 
+[ lexicostatistics/NNS ]
+:/: 
+[ the/DT aspect/NN ]
+of/IN learning/VBG 
+[ the/DT internal/JJ organization/NN ]
+of/IN 
+[ obvious/JJ natural/JJ genetic/JJ groups/NNS ]
+of/IN 
+[ languages/NNS ]
+as/RB well/RB as/IN 
+[ their/PRP$ ]
+more/RBR remote/JJ and/CC 
+[ elusive/JJ external/JJ links/NNS ]
+;/: ;/: of/IN 
+[ classification/NN first/JJ ]
+,/, with/IN 
+[ elapsed/VBN age/NN ]
+merely/RB 
+[ a/DT by-product/NN ]
+;/: ;/: of/IN acquiring/VBG 
+[ evidential/JJ knowledge/NN ]
+of/IN 
+[ what/WP ]
+happened/VBD in/IN 
+[ Athabascan/NNP ]
+,/, in/IN 
+[ Yokuts/NNP ]
+,/, in/IN 
+[ Uto-Aztecan/NNP ]
+in/IN 
+[ the/DT last/JJ few/JJ thousand/CD years/NNS ]
+as/RB well/RB as/IN forecasting/VBG 
+[ what/WP ]
+more/RBR anciently/RB may/MD have/VB happened/VBD between/IN 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+involves/VBZ 
+[ step-by-step/JJ progress/NN ]
+,/, and/CC 
+[ such/JJ ]
+will/MD have/VB to/TO be/VB 
+[ the/DT day-by-day/JJ work/NN ]
+of/IN 
+[ lexicostatistics/NNS ]
+as/IN 
+[ a/DT growing/VBG body/NN ]
+of/IN 
+[ scientific/JJ inquiry/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN of/IN 
+[ the/DT founders/NNS ]
+of/IN 
+[ glottochronology/NN Swadesh/NNP ]
+has/VBZ escaped/VBN 
+[ our/PRP$ steady/JJ ]
+plodding/NN ,/, and/CC 
+[ Lees/NNP ]
+has/VBZ repudiated/VBN 
+[ his/PRP$ own/JJ share/NN ]
+in/IN 
+[ the/DT founding/NN ]
+,/, 
+[ that/DT ]
+is/VBZ 
+[ no/DT reason/NN ]
+why/WRB 
+[ we/PRP ]
+should/MD swerve/VB ./. 
+==================================
+
+[ 8/CD ]
+./. 
+==================================
+
+[ There/EX ]
+is/VBZ 
+[ no/DT apparent/JJ reason/NN ]
+why/WRB 
+[ we/PRP ]
+should/MD feel/VB bound/VBN by/IN 
+[ Swadesh/NNP 's/POS rules/NNS ]
+and/CC 
+[ procedure/NN ]
+since/IN 
+[ his/PRP$ predilections/NNS ]
+and/CC 
+[ aims/NNS ]
+have/VBP grown/VBN so/RB vast/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+seems/VBZ 
+[ time/NN ]
+to/TO consider/VB 
+[ a/DT revision/NN ]
+of/IN 
+[ operational/JJ procedures/NNS ]
+for/IN 
+[ lexicostatistic/JJ studies/NNS ]
+on/IN 
+[ a/DT more/RBR humble/JJ ]
+,/, 
+[ solid/JJ ]
+,/, and/CC limited/JJ 
+[ basis/NN ]
+./. 
+==================================
+
+[ I/PRP ]
+would/MD propose/VB ,/, first/RB ,/, 
+[ an/DT abandonment/NN ]
+of/IN 
+[ attempts/NNS ]
+at/IN 
+[ a/DT universal/JJ lexical/JJ list/NN ]
+,/, as/RB intrinsically/RB 
+[ unachievable/JJ ]
+,/, and/CC operationally/RB inadequate/JJ in/IN 
+[ proportion/NN ]
+as/IN 
+[ it/PRP ]
+is/VBZ achieved/VBN ./. 
+==================================
+
+[ I/PRP ]
+would/MD propose/VB ,/, 
+[ next/JJ ]
+,/, as/IN 
+[ the/DT prime/JJ requirement/NN ]
+for/IN 
+[ constitution/NN ]
+of/IN 
+[ new/JJ basic/JJ lists/NNS ]
+,/, 
+[ items/NNS whose/WP$ forms/NNS ]
+show/VBP as/IN high/RB 
+[ an/DT empirical/JJ retention/NN rate/NN ]
+as/IN 
+[ possible/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+would/MD be/VB 
+[ no/DT conceivable/JJ sense/NN ]
+in/IN going/VBG to/TO 
+[ the/DT opposite/JJ extreme/NN ]
+of/IN selecting/VBG 
+[ items/NNS whose/WP$ forms/NNS ]
+are/VBP 
+[ the/DT most/RBS unstable/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT attempted/VBN  middle/JJ course/NN ]
+might/MD lead/VB to/TO 
+[ devices/NNS ]
+like/IN 
+[ a/DT 5000-word/JJ alphabetized/VBN dictionary/NN ]
+from/IN 
+[ which/WDT ]
+
+[ every/DT fiftieth/JJ word/NN ]
+was/VBD selected/VBN ./. 
+==================================
+==================================
+==================================

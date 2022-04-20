@@ -1,0 +1,1851 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+When/WRB 
+[ Mickey/NNP Charles/NNP Mantle/NNP ]
+,/, 
+[ the/DT New/NNP York/NNP Yankees/NNP '/POS man/NN ]
+of/IN 
+[ muscle/NN ]
+,/, drives/VBZ 
+[ a/DT home/NN ]
+run/VBN 
+[ 450/CD feet/NNS ]
+into/IN 
+[ the/DT bleachers/NNS ]
+,/, 
+[ his/PRP$ feat/NN touches/NNS ]
+upon/IN 
+[ the/DT sublime/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ Roger/NNP Eugene/NNP Maris/NNP ]
+,/, 
+[ Mantle/NNP 's/POS muscular/JJ teammate/NN ]
+,/, 
+[ powers/VBZ four/CD home/NN runs/NNS ]
+in/IN 
+[ a/DT double-header/NN ]
+,/, 
+[ his/PRP$ performance/NN ]
+merits/VBZ 
+[ awe/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC when/WRB 
+[ tiny/JJ ]
+,/, 
+[ 145-pound/CD Albert/NNP Gregory/NNP Pearson/NNP ]
+of/IN 
+[ the/DT Los/NNP Angeles/NNP Angels/NNP ]
+,/, 
+[ who/WP ]
+once/RB caught/VBD 
+[ three/CD straight/JJ fly/NN balls/NNS ]
+in/IN 
+[ center/NN field/NN ]
+because/IN ,/, as/IN 
+[ a/DT teammate/NN ]
+explained/VBD ,/, ``/`` 
+[ the/DT other/JJ team/NN ]
+thought/VBD 
+[ no/DT one/CD ]
+was/VBD out/IN 
+[ there/EX ]
+''/'' ,/, hits/VBZ 
+[ seven/CD home/NN ]
+runs/NNS in/IN 
+[ four/CD months/NNS ]
+(/( 
+[ three/CD ]
+more/RBR than/IN 
+[ his/PRP$ total/NN ]
+in/IN 
+[ 1958/CD ]
+,/, 
+[ 1959/CD ]
+,/, and/CC 
+[ 1960/CD ]
+)/) ,/, 
+[ his/PRP$ achievement/NN borders/NNS ]
+on/IN 
+[ the/DT ridiculous/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ Baseball/NN 1961/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT year/NN home/NN runs/NNS ]
+ranged/VBD from/IN 
+[ the/DT sublime/NN ]
+to/TO 
+[ the/DT ridiculous/JJ ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ the/DT year/NN ]
+when/WRB (/( 
+[ 1/LS ]
+)/) 
+[ amiable/JJ Jim/NNP Gentile/NNP ]
+of/IN 
+[ the/DT Baltimore/NNP Orioles/NNP ]
+ambled/VBD to/TO 
+[ the/DT plate/NN ]
+in/IN 
+[ consecutive/JJ innings/NN ]
+with/IN 
+[ the/DT bases/NNS ]
+loaded/VBN and/CC ,/, in/IN 
+[ unprecedented/JJ style/NN ]
+,/, delivered/VBD 
+[ consecutive/JJ grand-slam/JJ home/NN runs/NNS ]
+;/: ;/: (/( 
+[ 2/LS ]
+)/) 
+[ Willie/NNP Mays/NNP ]
+of/IN 
+[ the/DT San/NNP Francisco/NNP Giants/NNP ]
+borrowed/VBD 
+[ a/DT teammate/NN 's/POS bat/NN ]
+and/CC became/VBD 
+[ the/DT ninth/JJ big/JJ leaguer/NN ]
+to/TO stroke/VB 
+[ four/CD home/NN runs/NNS ]
+in/IN 
+[ a/DT game/NN ]
+;/: ;/: (/( 
+[ 3/LS ]
+)/) 
+[ the/DT Milwaukee/NNP Braves/NNP ]
+tied/VBD 
+[ a/DT major-league/JJ record/NN ]
+with/IN 
+[ fourteen/CD home/NN ]
+runs/NNS in/IN 
+[ three/CD games/NNS ]
+and/CC lost/VBN 
+[ two/CD ]
+of/IN 
+[ them/PRP ]
+;/: ;/: and/CC (/( 
+[ 4/LS ]
+)/) 
+[ catcher/NN Johnny/NNP Blanchard/NNP ]
+of/IN 
+[ the/DT New/NNP York/NNP Yankees/NNP ]
+matched/VBD 
+[ a/DT record/NN ]
+with/IN 
+[ home/NN runs/NNS ]
+in/IN 
+[ four/CD successive/JJ times/NNS ]
+at/IN 
+[ bat/NN ]
+,/, 
+[ two/CD ]
+of/IN 
+[ them/PRP ]
+as/IN 
+[ a/DT pinch-hitter/NN ]
+./. 
+==================================
+
+[ Pitchers/NNS ]
+grumble/VBP about/IN 
+[ lively/JJ balls/NNS ]
+and/CC 
+[ lively/JJ bats/NNS ]
+,/, 
+[ the/DT shrinking/VBG strike/NN zone/NN ]
+,/, and/CC 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT knock-down/JJ pitch/NN ]
+is/VBZ now/RB illegal/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Experts/NNS ]
+point/VBP to/TO 
+[ the/DT thinning/VBG ]
+of/IN 
+[ pitching/NN talent/NN ]
+in/IN 
+[ the/DT American/NNP League/NNP ]
+caused/VBD by/IN 
+[ expansion/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Whatever/WDT ]
+
+[ the/DT reasons/NNS ]
+,/, not/RB in/IN 
+[ 30/CD years/NNS ]
+has/VBZ 
+[ a/DT single/JJ season/NN ]
+produced/VBD 
+[ such/JJ thunderous/JJ assaults/NNS ]
+upon/IN 
+[ the/DT bureau/NN ]
+of/IN 
+[ baseball/NN records/NNS ]
+,/, 
+[ home-run/NN division/NN ]
+./. 
+==================================
+Of/IN 
+[ all/DT the/DT records/NNS ]
+in/IN 
+[ peril/NN ]
+,/, 
+[ one/NN ]
+stands/VBZ apart/RB ,/, 
+[ dramatic/JJ ]
+in/IN 
+[ its/PRP$ ]
+making/VBG ,/, 
+[ dramatic/JJ ]
+in/IN 
+[ its/PRP$ endurance/NN ]
+,/, and/CC now/RB ,/, doubly/RB dramatic/JJ in/IN 
+[ its/PRP$ jeopardy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+,/, of/IN 
+[ course/NN ]
+,/, is/VBZ 
+[ baseball/NN 's/POS most/JJS remarkable/JJ mark/NN ]
+:/: 
+[ The/DT 60/CD home/NN runs/NNS ]
+hit/VBN in/IN 
+[ 1927/CD ]
+by/IN 
+[ the/DT incorrigible/JJ epicure/NN ]
+,/, 
+[ the/DT incredible/JJ athlete/NN ]
+,/, 
+[ George/NNP Herman/NNP ]
+(/( 
+[ Babe/NNP ]
+)/) 
+[ Ruth/NNP ]
+of/IN 
+[ the/DT Yankees/NNP ]
+./. 
+==================================
+Since/IN 
+[ 1927/CD ]
+,/, fewer/JJR than/IN 
+[ a/DT dozen/NN men/NNS ]
+have/VBP made/VBN 
+[ serious/JJ runs/NNS ]
+at/IN 
+[ Babe/NNP Ruth/NNP 's/POS record/NN ]
+and/CC 
+[ each/DT ]
+,/, in/IN 
+[ turn/NN ]
+,/, has/VBZ been/VBN thwarted/VBN ./. 
+==================================
+
+[ What/WP ]
+ultimately/RB frustrated/VBD 
+[ every/DT challenger/NN ]
+was/VBD 
+[ Ruth/NNP 's/POS amazing/JJ September/NNP surge/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT final/JJ month/NN ]
+of/IN 
+[ the/DT 1927/CD season/NN ]
+,/, 
+[ he/PRP ]
+hit/VBD 
+[ seventeen/CD home/NN runs/NNS ]
+,/, 
+[ a/DT closing/VBG spurt/NN ]
+never/RB matched/VBN ./. 
+==================================
+
+[ Double/JJ threat/NN ]
+:/: Always/RB ,/, in/IN 
+[ the/DT abortive/JJ attacks/NNS ]
+upon/IN 
+[ Ruth/NNP 's/POS record/NN ]
+,/, 
+[ one/CD man/NN ]
+alone/RB --/: 
+[ a/DT Jimmy/NNP Foxx/NNP ]
+(/( 
+[ 58/CD ]
+in/IN 
+[ 1932/CD ]
+)/) or/CC 
+[ a/DT Hank/NNP Greenberg/NNP ]
+(/( 
+[ 58/CD ]
+in/IN 
+[ 1938/CD ]
+)/) or/CC 
+[ a/DT Hack/NNP Wilson/NNP ]
+(/( 
+[ 56/CD ]
+in/IN 
+[ 1930/CD ]
+)/) --/: made/VBD 
+[ the/DT bid/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC now/RB ,/, for/IN 
+[ the/DT first/JJ time/NN ]
+since/IN 
+[ Lou/NNP Gehrig/NNP ]
+(/( with/IN 
+[ 47/CD home/NN runs/NNS ]
+)/) spurred/VBD 
+[ Ruth/NNP ]
+on/RP in/IN 
+[ 1927/CD ]
+,/, 
+[ two/CD men/NNS ]
+playing/VBG for/IN 
+[ the/DT same/JJ team/NN ]
+have/VB zeroed/VBN in/RP on/IN 
+[ 60/CD ]
+./. 
+==================================
+
+[ Their/PRP$ names/NNS ]
+are/VBP 
+[ Mantle/NNP ]
+and/CC 
+[ Maris/NNP ]
+,/, 
+[ their/PRP$ team/NN ]
+is/VBZ 
+[ the/DT Yankees/NNP ]
+,/, and/CC 
+[ their/PRP$ threat/NN ]
+is/VBZ real/JJ ./. 
+==================================
+After/IN 
+[ 108/CD games/NNS ]
+in/IN 
+[ 1927/CD ]
+,/, 
+[ Ruth/NNP ]
+had/VBD 
+[ 35/CD home/NN runs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+After/IN 
+[ 108/CD games/NNS ]
+in/IN 
+[ 1961/CD ]
+,/, 
+[ Mickey/NNP Mantle/NNP ]
+has/VBZ 
+[ 43/CD ]
+,/, 
+[ Roger/NNP Maris/NNP 41/CD ]
+./. 
+==================================
+
+==================================
+==================================
+Extend/VB 
+[ Mantle/NNP 's/POS ]
+and/CC 
+[ Maris/NNP 's/POS present/JJ paces/NNS ]
+over/IN 
+[ the/DT full/JJ 1961/CD schedule/NN ]
+of/IN 
+[ 162/CD games/NNS ]
+,/, and/CC ,/, mathematically/RB ,/, 
+[ each/DT ]
+will/MD hit/VB more/RBR than/IN 
+[ 60/CD home/NN runs/NNS ]
+./. 
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT great/JJ edge/NN ]
+
+[ the/DT two/CD Yankees/NNP ]
+have/VBP going/VBG for/IN 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO 
+[ better/VB Ruth/NNP 's/POS mark/NN ]
+,/, neither/NN needs/VBZ 
+[ a/DT spectacular/JJ September/NNP flourish/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ All/DT Mantle/NNP needs/VBZ ]
+is/VBZ 
+[ eight/CD more/JJR home/NN runs/NNS ]
+in/IN 
+[ August/NNP ]
+and/CC 
+[ ten/CD ]
+in/IN 
+[ September/NNP ]
+,/, and/CC 
+[ he/PRP ]
+will/MD establish/VB 
+[ a/DT new/JJ record/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ Ruth/NNP 's/POS day/NN ]
+--/: and/CC until/IN 
+[ this/DT year/NN ]
+--/: 
+[ the/DT schedule/NN ]
+was/VBD 
+[ 154/CD games/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Baseball/NN commissioner/NN Ford/NNP Frick/NNP ]
+has/VBZ ruled/VBN that/IN 
+[ Ruth/NNP 's/POS record/NN ]
+will/MD remain/VB official/JJ unless/IN 
+[ it/PRP ]
+is/VBZ broken/VBN in/IN 
+[ 154/CD games/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+)/) ``/`` Even/RB on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ 154/CD games/NNS ]
+,/, 
+[ this/DT ]
+is/VBZ 
+[ the/DT ideal/JJ situation/NN ]
+''/'' ,/, insists/VBZ 
+[ Hank/NNP Greenberg/NNP ]
+,/, now/RB 
+[ vice-president/NN ]
+of/IN 
+[ the/DT Chicago/NNP White/NNP Sox/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ It/PRP ]
+has/VBZ to/TO be/VB easier/JJR with/IN 
+[ two/CD ]
+of/IN 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+How/WRB can/MD 
+[ you/PRP ]
+walk/VB 
+[ Maris/NNP ]
+to/TO get/VB to/TO 
+[ Mantle/NNP ]
+''/'' ?/. ?/. 
+==================================
+
+[ Roommates/NNS ]
+:/: 
+[ Neither/DT Mantle/NNP ]
+nor/CC 
+[ Maris/NNP ]
+,/, understandably/RB ,/, will/MD predict/VB 
+[ 60/CD home/NN ]
+runs/NNS for/IN 
+[ himself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+Although/IN 
+[ both/DT ]
+concede/VBP 
+[ they/PRP ]
+would/MD like/VB to/TO hit/VB 
+[ 60/CD ]
+,/, 
+[ they/PRP ]
+stick/VBP primarily/RB to/TO 
+[ the/DT baseball/NN player/NN 's/POS standard/JJ quote/NN ]
+:/: ``/`` 
+[ The/DT important/JJ thing/NN ]
+is/VBZ to/TO win/VB 
+[ the/DT pennant/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ one/CD thing/NN ]
+is/VBZ for/IN 
+[ certain/JJ ]
+:/: 
+[ There/EX ]
+is/VBZ 
+[ no/DT dissension/NN ]
+between/IN 
+[ Mantle/NNP ]
+,/, 
+[ the/DT American/NNP League/NNP 's/POS Most/JJS Valuable/NNP Player/NNP ]
+in/IN 
+[ 1956/CD ]
+and/CC 
+[ 1957/CD ]
+,/, and/CC 
+[ Maris/NNP ]
+,/, 
+[ the/DT MVP/NNP ]
+in/IN 
+[ 1960/CD ]
+./. 
+==================================
+
+[ Each/DT ]
+enjoys/VBZ seeing/VBG 
+[ the/DT other/JJ hit/VB home/NN runs/NNS ]
+(/( ``/`` 
+[ I/PRP ]
+hope/VBP 
+[ Roger/NNP ]
+hits/VBZ 
+[ 80/CD ]
+''/'' ,/, 
+[ Mantle/NNP ]
+says/VBZ )/) ,/, and/CC 
+[ each/DT ]
+enjoys/VBZ even/RB more/RBR seeing/VBG 
+[ himself/PRP ]
+hit/VB 
+[ home/NN runs/NNS ]
+(/( ``/`` and/CC 
+[ I/PRP ]
+hope/VBP 
+[ I/PRP ]
+hit/VBP 
+[ 81/CD ]
+''/'' )/) ./. 
+==================================
+
+[ The/DT sluggers/NNS ]
+get/VBP along/RP so/RB well/RB in/IN 
+[ fact/NN ]
+,/, that/IN with/IN 
+[ their/PRP$ families/NNS ]
+at/IN 
+[ home/NN ]
+for/IN 
+[ the/DT summer/NN ]
+(/( 
+[ Mantle/NNP 's/POS ]
+in/IN 
+[ Dallas/NNP ]
+,/, 
+[ Maris/NNP 's/POS ]
+in/IN 
+[ Kansas/NNP City/NNP ]
+)/) ,/, 
+[ they/PRP ]
+are/VBP rooming/VBG together/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+,/, 
+[ Maris/NNP ]
+,/, and/CC 
+[ Bob/NNP Cerv/NNP ]
+,/, 
+[ a/DT utility/NN outfielder/NN ]
+,/, share/VBP 
+[ an/DT apartment/NN ]
+in/IN 
+[ Jamaica/NNP ]
+,/, 
+[ Long/NNP Island/NNP ]
+,/, not/RB far/RB from/IN 
+[ New/NNP York/NNP International/NNP Airport/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT three/CD pay/VBP $/$ 251/CD ]
+
+[ a/DT month/NN ]
+for/IN 
+[ four/CD rooms/NNS ]
+(/( 
+[ kitchen/NN ]
+,/, dining/VBG 
+[ room/NN ]
+,/, living/VBG 
+[ room/NN ]
+,/, and/CC 
+[ bedroom/NN ]
+)/) ,/, with/IN 
+[ air-conditioning/NN ]
+and/CC 
+[ new/JJ modern/NN furniture/NN ]
+./. 
+==================================
+
+[ Mantle/NNP ]
+and/CC 
+[ Cerv/NNP ]
+use/VBP 
+[ the/DT twin/JJ beds/NNS ]
+in/IN 
+[ the/DT bedroom/NN ]
+;/: ;/: 
+[ Maris/NNP ]
+sleeps/VBZ on/IN 
+[ a/DT green/JJ studio/NN couch/NN ]
+in/IN 
+[ the/DT living/VBG room/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+divide/VBP up/RP 
+[ the/DT household/NN chores/NNS ]
+:/: 
+[ Cerv/NNP ]
+does/VBZ most/RBS of/IN 
+[ the/DT cooking/NN ]
+(/( 
+[ breakfast/NN ]
+and/CC 
+[ sandwich/NN snacks/NNS ]
+,/, with/IN 
+[ dinner/NN ]
+out/RB )/) ,/, 
+[ Mantle/NNP ]
+supplies/VBZ 
+[ the/DT transportation/NN ]
+(/( 
+[ a/DT white/JJ 1961/CD Oldsmobile/NNP convertible/NN ]
+)/) ,/, and/CC 
+[ Maris/NNP ]
+drives/VBZ 
+[ the/DT 25-minute/CD course/NN ]
+from/IN 
+[ the/DT apartment/NN house/NN ]
+to/TO 
+[ Yankee/NNP Stadium/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+,/, 
+[ Maris/NNP ]
+,/, and/CC 
+[ Cerv/NNP ]
+probably/RB share/VBP 
+[ one/CD ]
+
+[ major-league/JJ record/NN ]
+already/RB :/: Among/IN 
+[ them/PRP ]
+,/, 
+[ they/PRP ]
+have/VBP 
+[ fifteen/CD children/NNS ]
+--/: 
+[ eight/CD ]
+for/IN 
+[ Cerv/NNP ]
+,/, 
+[ four/CD ]
+for/IN 
+[ Mantle/NNP ]
+,/, and/CC 
+[ three/CD ]
+for/IN 
+[ Maris/NNP ]
+./. 
+==================================
+As/IN 
+[ roommates/NNS ]
+,/, 
+[ teammates/NNS ]
+,/, and/CC 
+[ home-run/JJ mates/NNS ]
+,/, 
+[ Mantle/NNP ]
+,/, 
+[ 29/CD ]
+,/, 
+[ who/WP ]
+broke/VBD in/RP with/IN 
+[ the/DT Yankees/NNP ten/CD years/NNS ]
+ago/RB ,/, and/CC 
+[ Maris/NNP ]
+,/, 
+[ 26/CD ]
+,/, 
+[ who/WP ]
+came/VBD to/TO 
+[ the/DT Yankees/NNP ]
+from/IN 
+[ Kansas/NNP City/NNP two/CD years/NNS ]
+ago/RB ,/, have/VBP strikingly/RB 
+[ similar/JJ backgrounds/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+were/VBD 
+[ scholastic/JJ stars/NNS ]
+in/IN 
+[ football/NN ]
+,/, 
+[ basketball/NN ]
+,/, and/CC 
+[ baseball/NN ]
+(/( 
+[ Mantle/NNP ]
+in/IN 
+[ Commerce/NNP ]
+,/, 
+[ Okla./NNP ]
+,/, 
+[ Maris/NNP ]
+in/IN 
+[ Fargo/NNP ]
+,/, 
+[ N.D./NNP ]
+)/) ;/: ;/: as/IN 
+[ halfbacks/NNS ]
+,/, 
+[ both/DT ]
+came/VBD close/RB to/TO 
+[ playing/VBG football/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Oklahoma/NNP ]
+(/( ``/`` Sometimes/RB in/IN 
+[ the/DT minors/NNS ]
+''/'' ,/, 
+[ Maris/NNP ]
+recalls/VBZ ,/, ``/`` 
+[ I/PRP ]
+wished/VBD 
+[ I/PRP ]
+had/VBD gone/VBN to/TO 
+[ Oklahoma/NNP ]
+''/'' )/) ./. 
+==================================
+To/TO 
+[ an/DT extent/NN ]
+,/, 
+[ the/DT two/CD ]
+even/RB look/VBP alike/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+have/VBP 
+[ blue/JJ eyes/NNS ]
+and/CC 
+[ short/JJ blond/JJ hair/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+are/VBP 
+[ 6/CD feet/NNS ]
+tall/JJ and/CC weigh/VBP between/IN 
+[ 195/CD ]
+and/CC 
+[ 200/CD pounds/NNS ]
+,/, but/CC 
+[ Mantle/NNP ]
+,/, incredibly/RB 
+[ muscular/JJ ]
+(/( 
+[ he/PRP ]
+has/VBZ 
+[ a/DT 17-12-inch/JJ neck/NN ]
+)/) ,/, looks/VBZ 
+[ bigger/JJR ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ their/PRP$ huge/JJ backs/NNS ]
+and/CC 
+[ overdeveloped/JJ shoulders/NNS ]
+,/, 
+[ both/DT ]
+must/MD have/VB 
+[ their/PRP$ clothes/NNS ]
+made/VBN to/TO 
+[ order/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Maris/NNP ]
+purchases/VBZ 
+[ $/$ 100/CD suits/NNS ]
+from/IN 
+[ Simpson/NN ]
+'s/VBZ in/IN 
+[ New/NNP York/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+,/, more/RBR concerned/VBN with/IN 
+[ dress/NN ]
+,/, buys/VBZ 
+[ his/PRP$ suits/NNS four/CD ]
+at/IN 
+[ a/DT time/NN ]
+at/IN 
+[ Neiman-Marcus/NNP ]
+in/IN 
+[ Dallas/NNP ]
+and/CC pays/VBZ as/RB much/JJ as/IN 
+[ $/$ 250/CD each/DT ]
+./. 
+==================================
+
+[ Light/JJ reading/NN ]
+:/: Neither/CC 
+[ Mantle/NNP ]
+nor/CC 
+[ Maris/NNP ]
+need/MD fear/VB being/VBG classified/VBN 
+[ an/DT intellectual/NN ]
+,/, but/CC lately/RB 
+[ Mantle/NNP ]
+has/VBZ shown/VBN 
+[ unusual/JJ devotion/NN ]
+to/TO 
+[ an/DT intellectual/JJ opus/NN ]
+,/, 
+[ Henry/NNP Miller/NNP 's/POS ]
+``/`` 
+[ Tropic/NNP ]
+of/IN 
+[ Cancer/NNP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+so/RB appreciated/VBD 
+[ Miller/NNP 's/POS delicate/JJ literary/JJ style/NN ]
+that/IN 
+[ he/PRP ]
+broadened/VBD 
+[ teammates/NNS '/POS minds/NNS ]
+by/IN reading/VBG 
+[ sensitive/JJ passages/NNS ]
+aloud/RB during/IN 
+[ road/NN trips/NNS ]
+./. 
+==================================
+
+[ Mantle/NNP ]
+is/VBZ not/RB normally/RB given/VBN to/TO 
+[ public/JJ speaking/VBG ]
+--/: or/CC ,/, for/IN 
+[ that/DT matter/NN ]
+,/, to/TO 
+[ private/JJ ]
+speaking/VBG ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ What/WP ]
+do/VBP 
+[ you/PRP ]
+and/CC 
+[ Mickey/NNP ]
+talk/VB about/IN at/IN 
+[ home/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ A/DT reporter/NN ]
+asked/VBD 
+[ Maris/NNP ]
+recently/RB ./. 
+==================================
+``/`` To/TO tell/VB 
+[ you/PRP ]
+
+[ the/DT truth/NN ]
+''/'' ,/, 
+[ Maris/NNP ]
+said/VBD ,/, ``/`` 
+[ Mickey/NNP ]
+do/VBP n't/RB talk/VB much/RB ''/'' ./. 
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ no/DT surprising/JJ trait/NN ]
+for/IN 
+[ a/DT ballplayer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ What/WP ]
+is/VBZ surprising/JJ and/CC 
+[ pleasant/JJ ]
+is/VBZ that/IN 
+[ Mantle/NNP ]
+and/CC 
+[ Maris/NNP ]
+,/, under/IN 
+[ constant/JJ pressure/NN ]
+from/IN 
+[ writers/NNS ]
+and/CC 
+[ photographers/NNS ]
+,/, are/VBP trying/VBG to/TO be/VB cooperative/JJ ./. 
+==================================
+Of/IN 
+[ the/DT two/CD ]
+,/, 
+[ Mantle/NNP ]
+is/VBZ by/IN 
+[ nature/NN ]
+
+[ the/DT less/RBR outgoing/JJ ]
+,/, 
+[ Maris/NNP ]
+
+[ the/DT more/RBR outspoken/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ last/JJ week/NN ]
+,/, when/WRB 
+[ a/DT reporter/NN ]
+was/VBD standing/VBG near/IN 
+[ Mantle/NNP 's/POS locker/NN ]
+,/, 
+[ Mickey/NNP ]
+walked/VBD up/RP and/CC volunteered/VBD 
+[ an/DT anecdote/NN ]
+./. 
+==================================
+``/`` See/VB 
+[ that/DT kid/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD ,/, pointing/VBG to/TO 
+[ a/DT dark-haired/JJ 11-year-old/JJ boy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ That/DT ]
+'s/VBZ (/( 
+[ Yogi/NNP ]
+)/) 
+[ Berra/NNP 's/POS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+'ll/MD never/RB forget/VB 
+[ one/CD time/NN ]
+
+[ I/PRP ]
+struck/VBD out/RP 
+[ three/CD times/NNS ]
+,/, dropped/VBD 
+[ a/DT fly/NN ball/NN ]
+,/, and/CC 
+[ we/PRP ]
+lost/VBD 
+[ the/DT game/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+came/VBD back/RB ,/, sitting/VBG by/IN 
+[ my/PRP$ locker/NN ]
+,/, feeling/VBG 
+[ real/JJ low/JJ ]
+,/, and/CC 
+[ the/DT kid/NN ]
+walks/VBZ over/IN to/TO 
+[ me/PRP ]
+,/, looks/VBZ up/RP ,/, and/CC says/VBZ :/: '/'' 
+[ You/PRP ]
+stunk/VBD '/'' ''/'' ./. 
+==================================
+
+[ Maris/NNP ]
+,/, in/IN talking/VBG to/TO 
+[ reporters/NNS ]
+,/, tries/VBZ to/TO answer/VB 
+[ all/DT questions/NNS ]
+candidly/RB and/CC fully/RB ,/, but/CC on/IN 
+[ rare/JJ occasions/NNS ]
+,/, 
+[ he/PRP ]
+shuns/VBZ 
+[ newsmen/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` When/WRB 
+[ I/PRP ]
+'ve/VBP made/VBN 
+[ a/DT dumb/JJ play/NN ]
+''/'' ,/, 
+[ he/PRP ]
+says/VBZ ,/, ``/`` 
+[ I/PRP ]
+do/VBP n't/RB want/VB to/TO talk/VB to/TO 
+[ anyone/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+'m/VBP angry/JJ ''/'' ./. 
+==================================
+By/IN 
+[ his/PRP$ own/JJ confession/NN ]
+,/, 
+[ Maris/NNP ]
+is/VBZ 
+[ an/DT angry/JJ young/JJ man/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Benched/VB ] 
+at/IN 
+[ Tulsa/NNP ]
+in/IN 
+[ 1955/CD ]
+,/, 
+[ he/PRP ]
+told/VBD 
+[ manager/NN Dutch/NNP Meyer/NNP ]
+:/: ``/`` 
+[ I/PRP ]
+ca/MD n't/RB play/VB for/IN 
+[ you/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+Send/VB 
+[ me/PRP ]
+where/WRB 
+[ I/PRP ]
+can/MD play/VB ''/'' ./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ Meyer/NNP ]
+sent/VBD 
+[ him/PRP ]
+to/TO 
+[ Reading/NNP ]
+,/, 
+[ Pa/NNP ]
+./. 
+==================================
+./. 
+==================================
+
+==================================
+==================================
+)/) 
+[ Benched/NNP ]
+at/IN 
+[ Indianapolis/NNS ]
+in/IN 
+[ 1956/CD ]
+,/, 
+[ he/PRP ]
+told/VBD 
+[ manager/NN Kerby/NNP Farrell/NNP ]
+:/: ``/`` 
+[ I/PRP ]
+'m/VBP not/RB learning/VBG 
+[ anything/NN ]
+on/IN 
+[ the/DT bench/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Play/VB 
+[ me/PRP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ Farrell/NNP ]
+did/VBD --/: and/CC 
+[ Maris/NNP ]
+led/VBD 
+[ the/DT team/NN ]
+to/TO 
+[ victory/NN ]
+in/IN 
+[ the/DT Little/NNP World/NNP Series/NNP ]
+./. 
+==================================
+)/) ``/`` 
+[ That/DT ]
+'s/VBZ 
+[ the/DT way/NN ]
+
+[ I/PRP ]
+am/VBP ''/'' ,/, 
+[ he/PRP ]
+says/VBZ ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ I/PRP ]
+tell/VBP 
+[ people/NNS ]
+
+[ what/WP ]
+
+[ I/PRP ]
+think/VBP ./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ you/PRP ]
+'re/VBP 
+[ a/DT good/JJ ballplayer/NN ]
+,/, 
+[ you/PRP ]
+'ve/VBP got/VBD to/TO get/VB 
+[ mad/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+Give/VB 
+[ me/PRP ]
+
+[ a/DT team/NN ]
+of/IN 
+[ nine/CD angry/JJ men/NNS ]
+and/CC 
+[ I/PRP ]
+'ll/MD give/VB 
+[ you/PRP ]
+
+[ a/DT team/NN ]
+of/IN 
+[ nine/CD gentlemen/NNS ]
+and/CC 
+[ we/PRP ]
+'ll/MD beat/VB 
+[ you/PRP ]
+
+[ nine/CD ]
+out/IN of/IN 
+[ ten/CD times/NNS ]
+''/'' ./. 
+==================================
+
+[ Idols/NNS '/POS idols/NNS ]
+:/: 
+[ One/CD good/JJ indication/NN ]
+of/IN 
+[ the/DT two/CD men/NNS 's/POS personalities/NNS ]
+is/VBZ 
+[ the/DT way/NN ]
+
+[ they/PRP ]
+reacted/VBD to/TO meeting/VBG 
+[ their/PRP$ own/JJ heroes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Maris/NNP 's/POS ]
+was/VBD 
+[ Ted/NNP Williams/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` When/WRB 
+[ I/PRP ]
+was/VBD 
+[ a/DT kid/NN ]
+''/'' ,/, 
+[ Maris/NNP ]
+told/VBD 
+[ a/DT sportswriter/NN last/JJ week/NN ]
+,/, ``/`` 
+[ I/PRP ]
+used/VBD to/TO follow/VB 
+[ Williams/NNP ]
+
+[ every/DT day/NN ]
+in/IN 
+[ the/DT box/NN score/NN ]
+,/, just/RB to/TO see/VB whether/CC 
+[ he/PRP ]
+got/VBD 
+[ a/DT hit/NN ]
+or/CC not/RB ''/'' ./. 
+==================================
+``/`` When/WRB 
+[ you/PRP ]
+came/VBD up/IN to/TO 
+[ the/DT majors/NNS ]
+,/, did/VBD 
+[ you/PRP ]
+seek/VB out/RP 
+[ Williams/NNP ]
+for/IN 
+[ advice/NN ]
+''/'' ?/. ?/. 
+==================================
+``/`` Are/VBP 
+[ you/PRP ]
+kidding/VBG ''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+Said/VBD 
+[ Maris/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ You/PRP ]
+'re/VBP afraid/JJ to/TO talk/VB to/TO 
+[ a/DT guy/NN ]
+
+[ you/PRP ]
+idolize/VBP ''/'' ./. 
+==================================
+
+[ Mantle/NNP 's/POS hero/NN ]
+was/VBD 
+[ Joe/NNP DiMaggio/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` When/WRB 
+[ Mickey/NNP ]
+went/VBD to/TO 
+[ the/DT Yankees/NNP ]
+''/'' ,/, says/VBZ 
+[ Mark/NNP Freeman/NNP ]
+,/, 
+[ an/DT ex-Yankee/NN pitcher/NN ]
+
+[ who/WP ]
+sells/VBZ 
+[ mutual/JJ funds/NNS ]
+in/IN 
+[ Denver/NNP ]
+,/, ``/`` 
+[ DiMaggio/NNP ]
+still/RB was/VBD playing/VBG and/CC 
+[ every/DT day/NN Mickey/NNP ]
+would/MD go/VB by/IN 
+[ his/PRP$ locker/NN ]
+,/, just/RB aching/VBG for/IN 
+[ some/DT word/NN ]
+of/IN 
+[ encouragement/NN ]
+from/IN 
+[ this/DT great/JJ man/NN ]
+,/, 
+[ this/DT hero/NN ]
+of/IN 
+[ his/PRP$ ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ DiMaggio/NNP ]
+never/RB said/VBD 
+[ a/DT word/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+crushed/VBD 
+[ Mickey/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+told/VBD 
+[ me/PRP ]
+
+[ he/PRP ]
+vowed/VBD right/RB then/RB that/IN if/IN 
+[ he/PRP ]
+ever/RB got/VBD to/TO be/VB 
+[ a/DT star/NN ]
+,/, 
+[ this/DT ]
+never/RB would/MD be/VB said/VBD of/IN 
+[ him/PRP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+has/VBZ kept/VBN 
+[ the/DT vow/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Among/IN 
+[ all/DT the/DT Yankees/NNPS ]
+,/, 
+[ he/PRP ]
+is/VBZ 
+[ the/DT veteran/NN ]
+most/RBS friendly/JJ to/TO 
+[ rookies/NNS ]
+./. 
+==================================
+
+[ Neither/DT Mantle/NNP ]
+nor/CC 
+[ Maris/NNP ]
+is/VBZ totally/RB devoted/VBN to/TO 
+[ baseball/NN ]
+above/IN 
+[ all/DT ]
+else/NN ./. 
+==================================
+
+==================================
+==================================
+If/IN laying/VBG 
+[ ties/NNS ]
+on/IN 
+[ a/DT railroad/NN track/NN ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+once/RB did/VBD for/IN 
+[ $/$ 1/CD ]
+
+[ an/DT hour/NN ]
+,/, paid/VBD more/JJR than/IN playing/VBG 
+[ right/JJ field/NN ]
+for/IN 
+[ the/DT Yankees/NNP ]
+,/, 
+[ Maris/NNP ]
+would/MD lay/VB 
+[ ties/NNS ]
+on/IN 
+[ a/DT railroad/NN track/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN working/VBG in/IN 
+[ a/DT zinc/NN mine/NN ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+once/RB did/VBD for/IN 
+[ 87-12/CD cents/NNS ]
+
+[ an/DT hour/NN ]
+,/, paid/VBD more/JJR than/IN playing/VBG 
+[ center/NN field/NN ]
+for/IN 
+[ the/DT Yankees/NNP ]
+,/, 
+[ Mantle/NNP ]
+would/MD work/VB in/IN 
+[ a/DT zinc/NN mine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC since/IN 
+[ railroading/VBG ]
+and/CC 
+[ mining/VBG ]
+are/VBP not/RB 
+[ the/DT highest/JJS paid/VBN arts/NNS ]
+,/, 
+[ Mantle/NNP ]
+and/CC 
+[ Maris/NNP ]
+concentrate/VBP on/IN 
+[ baseball/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+try/VBP to/TO play/VB 
+[ baseball/NN ]
+
+[ the/DT best/JJS they/PRP ]
+can/MD ./. 
+==================================
+
+[ Each/DT ]
+is/VBZ 
+[ a/DT complete/JJ ballplayer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+,/, beyond/IN 
+[ any/DT question/NN ]
+,/, can/MD do/VB more/RBR 
+[ things/NNS ]
+well/RB ./. 
+==================================
+
+==================================
+==================================
+(/( ``/`` 
+[ One/NN ]
+of/IN 
+[ the/DT reasons/NNS they/PRP ]
+get/VBP along/RP 
+[ fine/RB ]
+''/'' ,/, says/VBZ 
+[ a/DT sportswriter/NN ]
+
+[ who/WP ]
+is/VBZ friendly/JJ with/IN 
+[ the/DT two/CD men/NNS ]
+,/, ``/`` is/VBZ 
+[ that/DT ]
+
+[ both/DT ]
+realize/VBP 
+[ Mantle/NNP ]
+is/VBZ 
+[ head-and-shoulders/NN ]
+above/IN 
+[ Maris/NNP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+)/) Hitting/VBG ,/, 
+[ Mantle/NNP ]
+has/VBZ 
+[ an/DT immediate/JJ advantage/NN ]
+because/IN 
+[ he/PRP ]
+bats/VBZ 
+[ both/DT left-handed/JJ ]
+and/CC 
+[ right-handed/JJ ]
+,/, 
+[ Maris/NNP ]
+only/RB left-handed/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+
+[ both/DT ]
+possess/VBP near/IN 
+[ classic/JJ stances/NNS ]
+,/, dug/VBN in/IN firmly/RB ,/, 
+[ arms/NNS ]
+high/JJ ,/, set/VBN for/IN 
+[ fierce/JJ swings/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mantle/NNP ]
+is/VBZ considerably/RB better/RB hitting/VBG for/IN 
+[ average/JJ ]
+(/( ,/, 
+[ fourth/JJ ]
+in/IN 
+[ the/DT league/NN ]
+,/, to/TO for/IN 
+[ Maris/NNP ]
+so/RB far/RB 
+[ this/DT year/NN ]
+)/) ./. 
+==================================
+
+[ Both/DT ]
+are/VBP 
+[ good/JJ bunters/NNS ]
+:/: 
+[ Maris/NNP ]
+once/RB beat/VBD out/RP 
+[ eighteen/CD ]
+of/IN 
+[ nineteen/CD ]
+in/IN 
+[ the/DT minor/JJ leagues/NNS ]
+;/: ;/: 
+[ Mantle/NNP ]
+is/VBZ 
+[ a/DT master/NN ]
+at/IN dragging/VBG 
+[ a/DT bunt/NN ]
+toward/IN 
+[ first/JJ base/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+have/VBP 
+[ brilliant/JJ speed/NN ]
+:/: 
+[ Mantle/NNP ]
+was/VBD timed/VBN from/IN 
+[ home/NN plate/NN ]
+(/( batting/VBG 
+[ left-handed/JJ ]
+)/) to/TO 
+[ first/JJ base/NN ]
+in/IN 
+[ 3.1/CD seconds/NNS ]
+,/, faster/RB than/IN 
+[ any/DT other/JJ major/JJ leaguer/NN ]
+;/: ;/: 
+[ Maris/NNP ]
+ran/VBD 
+[ the/DT 100-yard/CD dash/NN ]
+in/IN 
+[ ten/CD seconds/NNS ]
+in/IN 
+[ high/JJ school/NN ]
+and/CC once/RB won/VBD 
+[ a/DT race/NN ]
+against/IN 
+[ Luis/NNP Aparicio/NNP ]
+,/, 
+[ the/DT swift/JJ ]
+,/, 
+[ base-stealing/JJ shortstop/NN ]
+of/IN 
+[ the/DT White/NNP Sox/NNP ]
+./. 
+==================================
+
+[ Both/DT ]
+are/VBP good/JJ ,/, daring/VBG 
+[ fielders/NNS ]
+:/: 
+[ Mantle/NNP ]
+covers/VBZ 
+[ more/JJR ground/NN ]
+;/: ;/: 
+[ Maris/NNP 's/POS throwing/VBG arm/NN ]
+is/VBZ stronger/JJR ./. 
+==================================
+Yet/RB with/IN 
+[ all/DT their/PRP$ skills/NNS ]
+,/, 
+[ the/DT appeal/NN ]
+of/IN 
+[ Mantle/NNP ]
+and/CC 
+[ Maris/NNP ]
+in/IN 
+[ 1961/CD ]
+comes/VBZ down/RP to/TO 
+[ one/CD basic/NN ]
+:/: 
+[ The/DT home/NN run/NN ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN 
+[ this/DT ultimate/JJ weapon/NN ]
+,/, 
+[ the/DT two/CD Yankees/NNP ]
+may/MD have/VB saved/VBN 
+[ baseball/NN ]
+from/IN 
+[ its/PRP$ dullest/JJS season/NN ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ American/NNP League/NNP expansion/NN ]
+created/VBD ,/, inevitably/RB ,/, 
+[ weaker/JJR teams/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Only/RB 
+[ two/CD teams/NNS ]
+in/IN 
+[ each/DT league/NN ]
+(/( 
+[ the/DT Yankees/NNP ]
+and/CC 
+[ Detroit/NNP ]
+,/, 
+[ the/DT Dodgers/NNP ]
+and/CC 
+[ Cincinnati/NNP ]
+)/) are/VBP battling/VBG for/IN 
+[ first/JJ place/NN ]
+./. 
+==================================
+Appropriately/RB ,/, 
+[ the/DT emphasis/NN ]
+on/IN 
+[ the/DT home/NN run/NN ]
+,/, at/IN 
+[ a/DT peak/NN ]
+
+[ this/DT year/NN ]
+,/, came/VBD into/IN being/VBG at/IN 
+[ baseball/NN 's/POS lowest/JJS moment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ 1920/CD ]
+,/, as/IN 
+[ the/DT startling/JJ news/NN ]
+that/IN 
+[ the/DT 1919/CD White/NNP Sox/NNP ]
+had/VBD conspired/VBN to/TO lose/VB 
+[ the/DT World/NNP Series/NNP ]
+leaked/VBD out/RP ,/, 
+[ fans/NNS ]
+grew/VBD disillusioned/VBN and/CC disinterested/JJ in/IN 
+[ baseball/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Something/NN ]
+was/VBD needed/VBN to/TO revive/VB 
+[ interest/NN ]
+;/: ;/: 
+[ the/DT something/NN ]
+was/VBD 
+[ the/DT home/NN run/NN ]
+./. 
+==================================
+==================================
+==================================

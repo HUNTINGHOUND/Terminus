@@ -1,0 +1,2100 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The many linguistic techniques
+	    (PP for
+		(S (NP *) 
+		   (VP reducing
+		       (NP the amount
+			   (PP of
+			       (NP dictionary information)))))))
+	(SBAR 
+	 (WHNP that)
+	 (S (NP T)
+	    (AUX have)
+	    (VP been
+		(VP proposed
+		    )))))
+    all
+    (VP organize
+	(NP 
+	 (NP the dictionary)
+	 's contents)
+	(PP around
+	    (NP (NP prefixes)
+		,
+		(NP stems)
+		,
+		(NP suffixes)
+		,
+		etc
+		.))))
+ .)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A significant reduction
+       (PP in
+	   (NP the voume
+	       (PP of
+		   (NP store information)))))
+   (AUX is)
+   (ADVP thus)
+   (VP realized
+       )
+   ,
+   (PP  (ADVP especially)
+	for
+	(NP (NP a
+		(ADJP  (ADVP highly)
+		       inflected) language)
+	    (ADJP such
+		  (PP as
+		      (NP Russian))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP English))
+     (S (NP the reduction
+	    (PP in
+		(NP size)))
+	(VP is
+	    (ADJP  less
+		   striking))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This approach)
+    (VP requires
+	(SBAR that
+	      :
+	      (S (S  *LRB*
+		     (NP 1)
+		     *RRB*
+		     (S (NP each text word)
+			(AUX be)
+			(VP separated
+	      
+			    (PP into
+				(NP 
+				 smaller
+				 elements)))
+			(S (NP *)
+			   (AUX to)
+			   (VP establish
+			       (NP a correspondence
+				   (PP between
+				       (NP (NP the occurrence) and (NP dictionary entries))))))))
+		 ,
+		 and
+		 (S *LRB*
+		    (NP 2)
+		    *RRB*
+		    (S (NP (NP the information)
+			   (VP retrieved
+			       (PP from
+				   (NP several entries
+				       (PP in
+					   (NP the dictionary))))))
+		       (AUX be)
+		       (VP synthesized
+	        
+			   (PP into
+			       (NP a description
+				   (PP of
+				       (NP the particular word)))))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP The logical scheme)
+       (VP used
+	   (S (NP *)
+	      (AUX to)
+	      (VP accomplish
+		  (NP the former)))))
+   (VP influences
+       (NP the placement
+	   (PP of
+	       (NP information))
+	   (PP in
+	       (NP the dictionary file)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Implementation
+       (PP of
+	   (NP the latter)))
+   (VP requires
+       (NP storage
+	   (PP of
+	       (NP (NP information)
+		   (VP needed
+		       (ADVP only)
+		       (PP for
+			   (NP synthesis))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP suggest
+       (NP the application
+	   (PP of
+	       (NP 
+		certain data-processing
+		techniques)))
+       (PP as
+	   (NP a solution
+	       (PP to
+		   (NP the problem))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (ADVP first)
+      ,
+      (S (NP we)
+	 (AUX must)
+	 (VP define
+	     (NP (NP two terms)
+		 (NP-1 *pseudo-attach*))
+	     (SBAR  so
+		    that
+		    (S (NP their meaning)
+		       (AUX will)
+		       (VP be
+			   (VP  (ADVP clearly)
+				understood
+				))))
+	     :
+	     (NP-1 (NP (NP form)
+		       --
+		       (NP (NP any unique sequence
+			       (PP of
+				   (NP alphabetic characters)))
+			   (SBAR 
+			    (WHNP that)
+			    (S (NP T)
+			       (AUX can)
+			       (VP appear
+				   (PP in
+				       (NP a language))
+				   (VP preceded
+				       and
+				       followed
+				       (PP by
+					   (NP a space))))))))
+		 ;
+		 ;
+		 (NP (NP occurrence)
+		     --
+		     (NP an instance
+			 (PP of
+			     (NP a form))
+			 (PP in
+			     (NP text))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP propose
+	(NP (NP a method
+		(PP for
+		    (S  (NP *) 
+			(VP selecting
+			    (NP (ADVP only)
+				(NP  dictionary information)
+				(VP required
+				    (PP by
+					(NP (NP the text)
+					    (VP being
+						(VP translated))))))))))
+	    and
+	    (NP a means
+		(PP for
+		    (S (NP *) 
+		       (VP passing
+			   (NP the information)
+			   (PP (ADVP directly)
+			       to
+			       (NP the occurrences
+				   (PP in
+				       (NP text)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP accomplish
+       (NP this)
+       (PP by
+	   (S (NP *) 
+	      (VP compiling
+		  (NP a list
+		      (PP of
+			  (NP text forms))))
+	      (SBAR  as
+		     (S 
+		      (NP text)
+		      (AUX is)
+		      (VP read
+	      
+			  (PP by
+			      (NP the computer)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP A random-storage scheme)
+      ,
+      (VP based
+	  (PP on
+	      (NP the spelling
+		  (PP of
+		      (NP forms)))))
+      ,)
+  (VP provides
+      (NP (NP an economical way)
+	  (S (NP *)
+	     (AUX to)
+	     (VP compile
+		 (NP this text-form list))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Dictionary forms)
+       (VP found
+	   (S (NP *)
+	      (AUX to)
+	      (VP match
+		  (NP forms
+		      (PP in
+			  (NP the text list)))))))
+   (AUX are)
+   (VP marked
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A location
+	  (PP in
+	      (NP the computer store)))
+      (AUX is)
+      (ADVP also)
+      (VP named
+	  )
+      (PP for
+	  (NP each (VP marked) form)))
+     ;
+     ;
+     (S (NP (NP dictionary information
+		(PP about
+		    (NP the form)))
+	    (VP stored
+		(PP at
+		    (NP this location))))
+	(AUX can)
+	(VP be
+	    (VP retrieved
+		(ADVP directly)
+		(PP by
+		    (NP occurrences
+			(PP of
+			    (NP the form))
+			(PP in
+			    (NP text))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Finally)
+      ,
+      (S (NP information)
+	 (AUX is)
+	 (VP retrieved
+	      
+	     (PP from
+		 (NP the dictionary))
+	     (PP as
+		 (S  (NP *)  
+		     (VP required
+			 (PP by
+			     (NP (NP stages
+				     (PP of
+					 (NP the translation process)))
+				 --
+				 (NP (NP the grammatical description
+					 (PP for
+					     (NP sentence-structure determination)))
+				     ,
+				     (NP equivalent-choice information
+					 (PP for
+					     (NP semantic analysis)))
+				     ,
+				     and
+				     (NP target-language equivalents
+					 (PP for
+					     (NP output construction))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dictionary)
+   (VP is
+       (NP a form dictionary))
+   ,
+   (PP  
+    (PP at
+	(ADJP least))
+    in
+    (NP the sense
+	(SBAR that
+	      (S (NP complete forms)
+		 (AUX are)
+		 (VP used
+			      
+		     (PP as
+			 (NP the basis
+			     (PP for
+				 (S  (NP *)  
+				     (VP matching
+					 (NP text occurrences)
+					 (PP with
+					     (NP dictionary entries)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Also)
+      ,
+      (S (NP the dictionary)
+	 (AUX is)
+	 (VP divided
+	      
+	     (PP into
+		 (NP (NP (PP at
+			     (ADJP least))
+			 two parts)
+		     :
+		     (NP (NP the list
+			     (PP of
+				 (NP dictionary forms)))
+			 and
+			 (NP the file
+			     (PP of
+				 (NP (NP information)
+				     (SBAR 
+				      (WHNP that)
+				      (S (NP T)
+					 (VP pertains
+					     (PP to
+						 (NP these forms))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP A
+      (ADJP  more
+	     detailed) description
+      (PP of
+	  (NP (NP dictionary operations)
+	      --
+	      (NP (NP text lookup) and (NP dictionary modification))
+	      --)))
+  (VP gives
+      (NP a
+	  clearer
+	  picture)))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP (NP Text lookup)
+	 ,
+	 (PP as
+	     (S (NP we)
+		(AUX will)
+		(VP describe
+		    (NP it))))
+	 ,)
+     (VP consists
+	 (PP of
+	     (NP three steps))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       first)
+   (VP is
+       (S  (NP *)
+	   (VP (VP compiling
+		   (NP a list
+		       (PP of
+			   (NP text forms))))
+	       ,
+	       (VP assigning
+		   (NP an information cell)
+		   (PP to
+		       (NP each)))
+	       ,
+	       and
+	       (VP replacing
+		   (NP text occurrences)
+		   (PP with
+		       (NP (NP the information cell)
+			   (VP assigned
+			       (PP to
+				   (NP the form
+				       (PP of
+					   (NP each occurrence))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP For
+	    (NP this step))
+	(S
+	 (NP the computer memory)
+	 (AUX is)
+	 (VP separated
+	   
+	     (PP into
+		 (NP three regions)))))
+     :
+     (S (S (NP cells
+	       (PP in
+		   (NP the W-region)))
+	   (AUX are)
+	   (VP used
+	       (PP for
+		   (NP storage
+		       (PP of
+			   (NP the forms
+			       (PP in
+				   (NP the text-form list))))))))
+	;
+	;
+	(S  
+	 (NP cells
+	     (PP in
+		 (NP the X-region
+		     and
+		     Y region)))
+	 (AUX are)
+	 (VP reserved
+	     
+	     (PP as
+		 (NP information cells
+		     (PP for
+			 (NP text forms))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP an occurrence A[fj])
+       (AUX is)
+       (VP isolated
+	   )
+       (PP during
+	   (NP text reading))))
+   ,
+   (S (NP (NP a random memory address A[fj])
+	  ,
+	  (NP the address
+	      (PP of
+		  (NP a cell
+		      (PP in
+			  (NP the X-region)))))
+	  ,)
+      (AUX is)
+      (VP computed
+	  
+	  (PP from
+	      (NP the form
+		  (PP of
+		      (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Let
+	 (NP A[fj])
+	 (VP denote
+	     (NP the form
+		 (PP of
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP cell A[fj])
+	     (AUX has)
+	     (NEG not)
+	     (ADVP previously)
+	     (VP been
+		 (VP assigned
+		      
+		     (PP as
+			 (NP the information cell
+			     (PP of
+				 (NP a form
+				     (PP in
+					 (NP the text-form list))))))))))
+   ,
+   (S (NP it)
+      (AUX is)
+      (ADVP now)
+      (VP assigned
+	      
+	  (PP as
+	      (NP the information cell
+		  (PP of
+		      (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The form)
+	 (NP itself))
+     (AUX is)
+     (VP stored
+	  
+	 (PP in
+	     (NP the
+		 next available
+		 cells
+		 (PP of
+		     (NP the W-region))))
+	 ,
+	 (VP beginning          
+	     (PP in
+		 (NP cell A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP The address A[fj])
+	 and
+	 (NP (NP the number
+		 (PP of
+		     (NP cells)))
+	     (VP required
+		 (S (NP *)
+		    (AUX to)
+		    (VP store
+			(NP the form))))))
+     (AUX are)
+     (VP written
+	 
+	 (PP in
+	     (NP A[fj]))))
+    ;
+    ;
+    (S (NP the information cell A[fj])
+       (AUX is)
+       (VP saved)
+       (S (NP *)
+	  (AUX to)
+	  (VP represent
+	      (NP the text occurrence)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Text reading)
+   (VP continues
+       (PP with
+	   (NP the next occurrence))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Let
+	 (NP us)
+	 (VP assume
+	     (SBAR that
+		   (S (NP A[fj])
+		      (VP is
+			  (ADJP identical
+				(PP to
+				    (NP the form
+					(PP of
+					    (NP (NP an occurrence A[fj])
+						(SBAR 
+						 (WHNP which)
+						 (S (NP T)
+						    (VP preceded
+							(NP A[fj])
+							(PP in
+							    (NP the text))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP this situation)
+	 (VP exists)))
+     ,
+     (S (NP the address A[fj])
+	(AUX will)
+	(VP equal
+	    (NP (NP A[fj])
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (AUX was)
+		    (VP produced
+			    
+			(PP from
+			    (NP A[fj])))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP A[fj])
+	     (AUX was)
+	     (VP assigned
+		  
+		 (PP as
+		     (NP the information cell
+			 (PP for
+			     (NP A[fj])))))))
+   ,
+   (S (NP the routine)
+      (AUX can)
+      (VP detect
+	  (SBAR that
+		(S (NP A[fj])
+		   (VP is
+		       (ADJP identical
+			     (PP to
+				 (NP A[fj]))))))
+	  (PP by
+	      (S (NP *)  
+		 (VP comparing
+		     (NP A[fj])
+		     (PP with
+			 (NP (NP the form)
+			     (VP stored
+				 (PP at
+				     (NP location A[fj])))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The address A[fj])
+   (AUX is)
+   (VP stored
+	     
+       (PP in
+	   (NP the cell A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR (WHADVP When)
+	 (S ,
+	    (PP as
+		(PP in
+		    (NP this case)))
+	    ,
+	    (S (NP the two forms)
+	       (VP match))))
+   ,
+   (S (NP the address A[fj])
+      (AUX is)
+      (VP saved
+	  )
+      (S (NP *)
+	 (AUX to)
+	 (VP represent
+	     (NP the occurrence A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Text reading)
+   (VP continues
+       (PP with
+	   (NP the next occurrence))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A third situation)
+   (VP is
+       (ADJP possible)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The formula
+       (PP for
+	   (S (NP *)
+	      (VP computing
+		  (NP random addresses)
+		  (PP from
+		      (NP the form
+			  (PP of
+			      (NP each occurrence))))))))
+   (AUX will)
+   (NEG not)
+   (VP give
+       (NP a distinct address)
+       (PP for
+	   (NP each distinct form))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (SBAR (WHADVP when)
+	    (S  
+	     (NP (ADJP more
+		       (PP than
+			   (NP one)))
+		 distinct form)
+	     (VP leads
+		 (PP  to
+		      (NP a particular cell
+			  (PP in
+			      (NP the X-region)))))))
+      ,
+      (S (NP (NP a chain
+		 (PP of
+		     (NP information cells)))
+	     (NP-2 *pseudo-attach*))
+	 (AUX must)
+	 (VP be
+	     (VP created))
+	 (S (NP *)
+	    (AUX to)
+	    (VP accommodate
+		(NP the forms)))
+	 ,
+	 (NP-2 one cell
+	       (PP in
+		   (NP the chain))
+	       (PP for
+		   (NP each form)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP A[fj])
+	     (VP leads
+		 (PP to
+		     (NP (NP an address A[fj])
+			 (SBAR 
+			  (WHNP that)
+			  (S (NP T)
+			     (VP is
+				 (ADJP equal
+				       (PP to
+					   (NP (NP the address)
+					       (VP computed
+						   (PP from
+						       (NP A[fj]))))))))))))))
+   ,
+   (SBAR  (ADVP even)
+	  though
+	  (S (NP A[fj])
+	     (AUX does)
+	     (NEG not)
+	     (VP match
+		 (NP A[fj]))))
+   ,
+   (S (NP the chain
+	  (PP of
+	      (NP information cells)))
+      (AUX is)
+      (VP extended
+	       
+	  (PP from
+	      (NP A[fj]))
+	  (PP by
+	      (S (NP *)
+		 (VP storing
+		     (NP the address
+			 (PP of
+			     (NP (NP the
+				     next available
+				     cell
+				     (PP in
+					 (NP the Y-region)))
+				 ,
+				 (NP A[fj])
+				 ,)))
+		     (PP in
+			 (NP A[fj]))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cell A[fj])
+   (X (VP becomes
+	  (NP the second information cell
+	      (PP in
+		  (NP the chain))))
+      and
+      (X  
+       (AUX is)
+       (VP assigned
+	       
+	   (PP as
+	       (NP the information cell
+		   (PP of
+		       (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A third cell)
+       (AUX can)
+       (VP be
+	   (VP added
+	     
+	       (PP by
+		   (S (NP *)  
+		      (VP storing
+			  (NP the address
+			      (PP of
+				  (NP another Y-cell)))
+			  (PP in
+			      (NP A[fj]))))))))
+    ;
+    ;
+    (S (ADVP similarly)
+       ,
+       (NP  (ADJP as
+		  many) cells
+		  (PP-1 *pseudo-attach*))
+       (AUX are)
+       (VP added
+	   (PP-1 as
+		 (S  (NP *) 
+		     (AUX are)
+		     (VP required
+			 ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each information cell
+       (PP in
+	   (NP the chain)))
+   (VP contains
+       (NP the address
+	   (PP of
+	       (NP (NP the Y-cell)
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP (NP the form)
+			   (SBAR (WHPP to
+				       (WHNP which))
+				 (S (NP it)
+				    (AUX is)
+				    (VP assigned
+					))))
+		       (AUX is)
+		       (VP stored
+			   ))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Each cell
+	  (PP except
+	      (NP the
+		  last
+		  (PP in
+		      (NP the chain)))))
+      (ADVP also)
+      (VP contains
+	  (NP the address
+	      (PP of
+		  (NP (NP the Y-cell)
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (VP is
+			      (NP the next element
+				  (PP of
+				      (NP the chain)))))))))))
+     ;
+     ;
+     (S  
+      (NP the absence
+	  (PP of
+	      (NP  such
+		   a link))
+	  (PP in
+	      (NP the last cell)))
+      (VP indicates
+	  (NP the end
+	      (PP of
+		  (NP the chain))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (SBAR 
+       (WHADVP when)
+       (S (NP the address A[fj])
+	  (AUX is)
+	  (VP computed
+	       
+	      (PP from
+		  (NP A[fj])))))
+      ,
+      (S  
+       (NP (NP the cell A[fj])
+	   and
+	   (NP all Y-cells
+	       (PP in
+		   (NP its chain))))
+       (AUX must)
+       (VP be
+	   (VP inspected
+	       ))
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      (SBAR (SBAR whether
+			  (S (NP A[fj])
+			     (VP is
+				 (ADVP already)
+				 (PP in
+				     (NP the form list)))))
+		    or
+		    (SBAR whether
+			  (S (NP it)
+			     (AUX should)
+			     (VP be
+				 (VP added
+				     (PP to
+					 (NP (NP the form list)
+					     and
+					     (NP the chain))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the information cell
+	     (PP for
+		 (NP A[fj])))
+	 (AUX has)
+	 (VP been
+	     (VP determined
+		 ))))
+     ,
+     (S (NP it)
+	(AUX is)
+	(VP saved
+	     
+	    (PP as
+		(NP a representation
+		    (PP of
+			(NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Text reading)
+   (VP continues
+       (PP with
+	   (NP the next occurrence))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Text reading)
+   (AUX is)
+   (VP terminated
+       )
+   (SBAR 
+    (WHADVP when)
+    (S (NP a (VP pre-determined) number
+	   (PP of
+	       (NP forms)))
+       (AUX have)
+       (VP been
+	   (VP stored
+		     
+	       (PP in
+		   (NP the text-form list)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP initiates
+       (NP the second step
+	   (PP of
+	       (NP glossary lookup))))
+   --
+   (S  (NP *)
+       (VP connecting
+	   (NP the information cell
+	       (PP of
+		   (NP forms
+		       (PP in
+			   (NP the text-form list)))))
+	   (PP to
+	       (NP dictionary forms)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Each form)
+       (VP represented
+	   (PP by
+	       (NP the dictionary))))
+   (AUX is)
+   (VP looked
+       (PRT up)
+       (PP in
+	   (NP the text-form list))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Each time
+	 (SBAR 0
+	       (S
+		(NP a dictionary form)
+		(VP matches
+		    (NP a text form)))))
+     ,
+     (S (NP the information cell
+	    (PP of
+		(NP the  (VP matching) text form)))
+	(AUX is)
+	(VP saved
+	    )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The number
+	   (PP of
+	       (NP dictionary forms)))
+       (VP skipped
+	   (PP  since
+		(S (NP the
+		       last
+		       one)
+		   (VP matched)))))
+   (AUX is)
+   (ADVP also)
+   (VP saved
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP These two pieces
+        (PP of
+            (NP information))
+	(PP for
+	    (NP (NP each dictionary form)
+		(SBAR  
+		 (WHNP that)
+		 (S (NP T)
+		    (AUX is)
+		    (VP matched
+			 
+			(PP by
+			    (NP a text form))))))))
+    (VP constitute
+	(NP the table
+	    (PP of
+		(NP dictionary usage)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP each text form)
+	     (AUX is)
+	     (VP marked
+		 (SBAR (WHADVP when)
+		       (S  (NP *)  
+			   (VP matched)))
+		 (PP with
+		     (NP a dictionary form)))))
+   ,
+   (S (NP (NP the text forms)
+	  (VP (NEG not)
+	      contained
+	      (PP in
+		  (NP the dictionary))))
+      (AUX can)
+      (VP be
+	  (VP identified
+	      ))
+      (SBAR 
+       (WHADVP when)
+       (S (NP all dictionary forms)
+	  (AUX have)
+	  (VP been
+	      (VP read
+		  ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The appropriate action
+	(PP for
+	    (S  (NP *)
+		(VP handling
+		    (NP these forms)))))
+    (AUX can)
+    (VP be
+	(VP taken
+	    ))
+    (PP at
+	(NP that time)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each dictionary form)
+   (AUX is)
+   (VP looked
+       (PRT up)
+       (PP in
+	   (NP the text-form list))
+       (PP by
+	   (NP (NP the same method)
+	       (VP used
+		   (S (NP *)
+		      (AUX to)
+		      (VP look
+			  (PRT up)
+			  (NP a new text occurrence)
+			  (PP in
+			      (NP the form list)))
+		      (PP during
+			  (NP text reading))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A random address A[fj])
+	(SBAR  
+	 (WHNP that)
+	 (S (NP T)
+	    (VP lies
+		(PP within
+		    (NP (NP the X-region
+			    (PP of
+				(NP memory)))
+			(VP mentioned
+			    (ADVP earlier))))))))
+    (AUX is)
+    (VP computed
+	 
+	(PP from
+	    (NP the i-th dictionary form))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP cell A[fj])
+	     (VP is
+		 (NP an information cell))))
+   ,
+   (S (NP (NP it)
+	  and
+	  (NP (NP any information cells
+		  (PP in
+		      (NP the Y-region)))
+	      (SBAR 
+	       (WHNP that)
+	       (S (NP T)
+		  (AUX have)
+		  (VP been
+		      (VP linked
+		     
+			  (PP to
+			      (NP A[fj]))))))))
+      each
+      (VP contain
+	  (NP (NP an address
+		  (PP in
+		      (NP the W-region)))
+	      (SBAR 
+	       (WHADVP where)
+	       (S (NP a
+		      (VP  (ADVP potentially)
+			   matching) form)
+		  (AUX is)
+		  (VP stored
+		      )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dictionary form)
+   (AUX is)
+   (VP compared
+	     
+       (PP with
+	   (NP each
+	       (PP of
+		   (NP these text forms))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP a match)
+	 (AUX is)
+	 (VP found
+	     )))
+     ,
+     (S (NP an entry)
+	(AUX is)
+	(VP made
+	     
+	    (PP in
+		(NP the table
+		    (PP of
+			(NP dictionary usage)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP cell A[fj])
+	     (VP is
+		 (NEG not)
+		 (NP an information cell))))
+   (S
+    (NP we)
+    (VP conclude
+	(SBAR that
+	      (S (NP the i-th dictionary form)
+		 (VP is
+		     (NEG not)
+		     (PP in
+			 (NP the text list))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These two steps)
+   (VP  (ADVP essentially)
+	complete
+	(NP the lookup operation)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The final step)
+   (VP (VP  (ADVP merely)
+	    uses
+            (NP the table
+                (PP of
+                    (NP dictionary usage)))
+	    (S (NP *)
+	       (AUX to)
+	       (VP select
+		   (NP (NP the dictionary information)
+		       (SBAR 
+			(WHNP that)
+			(S (NP T)
+			   (VP pertains
+			       (PP to
+				   (NP (NP each form)
+				       (VP matched
+					   (PP in
+					       (NP the text-form list))))))))))))
+       ,
+       and
+       (VP uses
+	   (NP the list
+	       (PP of
+		   (NP (NP information cells)
+		       (VP recorded
+			   (PP in
+			       (NP text order))))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP attach
+		  (NP the appropriate information)
+		  (PP to
+		      (NP each occurrence
+			  (PP in
+			      (NP text)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The list
+	  (PP of
+	      (NP text forms
+		  (PP in
+		      (NP the W-region
+			  (PP of
+			      (NP memory)))))))
+      and
+      (NP the contents
+	  (PP of
+	      (NP the information cells
+		  (PP in
+		      (NP the X
+			  and
+			  Y-regions))))))
+  (AUX are)
+  (ADVP no
+	longer)
+  (VP required
+      ))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 the assignment
+	 (PP of
+	     (NP the information cells)))
+    (VP is
+	(ADJP important)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The first stage
+       (PP of
+	   (NP translation)))
+   (PP after
+       (NP glossary lookup))
+   (VP is
+       (NP structural analysis
+	   (PP of
+	       (NP the input text)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The grammatical description
+       (PP of
+	   (NP each occurrence
+	       (PP in
+		   (NP the text)))))
+   (AUX must)
+   (VP be
+       (VP retrieved
+		 
+	   (PP from
+	       (NP the dictionary))))
+   (S (NP *)
+      (AUX to)
+      (VP permit
+	  (NP  
+	   such
+	   an analysis))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A description
+       (PP of
+	   (NP this process)))
+   (AUX will)
+   (VP serve
+       (S (NP *)
+	  (AUX to)
+	  (VP illustrate
+	      (SBAR 
+	       (WHADVP how)
+	       (S (NP any type
+		      (PP of
+			  (NP information)))
+		  (AUX can)
+		  (VP be
+		      (VP (VP retrieved
+			        
+			      (PP from
+				  (NP the dictionary)))
+			  and
+			  (VP attached
+			      (PP to
+				  (NP each text occurrence)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The grammatical descriptions
+       (PP of
+	   (NP all forms
+	       (PP in
+		   (NP the dictionary)))))
+   (AUX are)
+   (VP recorded
+       (PP in
+	   (NP a separate part
+	       (PP of
+		   (NP the dictionary file))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The order)
+   (VP is
+       (ADJP identical
+	     (PP to
+		 (NP the ordering
+		     (PP of
+			 (NP (NP the forms)
+			     (SBAR 0
+				   (S (NP they)
+				      (VP describe
+					  (NP T) ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP entries)
+	 (AUX are)
+	 (VP being
+	     (VP retrieved
+		  
+		 (PP from
+		     (NP this file))))))
+     ,
+     (S (NP the table
+	    (PP of
+		(NP dictionary usage)))
+	(VP indicates
+	    (SBAR (SBAR (WHNP which entries)
+			(S (NP *)
+			   (AUX to)
+			   (VP skip
+			       (NP T))))
+		  and
+		  (SBAR (WHNP which entries)
+			(S (NP *)
+			   (AUX to)
+			   (VP store
+			       (NP T)
+			       (PP in
+				   (NP the computer)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This selection-rejection process)
+    (VP takes
+	(NP place)
+	(SBAR  as
+	       (S (NP the file)
+		  (AUX is)
+		  (VP read
+		      )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Each entry)
+	(SBAR  
+	 (WHNP that)
+	 (S (NP T)
+	    (AUX is)
+	    (VP selected
+	       
+		(PP for
+		    (NP storage))))))
+    (AUX is)
+    (VP written
+	 
+	(PP into
+	    (NP the
+		next available
+		cells
+		(PP of
+		    (NP the A[fj]))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The address
+	  (PP of
+	      (NP the first cell)))
+      and
+      (NP (NP the number
+	      (PP of
+		  (NP cells)))
+	  (VP used)))
+  (AUX is)
+  (VP written
+      (PP in
+	  (NP the information cell
+	      (PP for
+		  (NP the form))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP The address
+	  (PP of
+	      (NP the information cell)))
+      (AUX is)
+      (ADV also)
+      (VP supplied
+	     
+	  (PP by
+	      (NP the table
+		  (PP of
+		      (NP dictionary usage))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (SBAR 
+	(WHADVP When)
+	(S (NP the complete file)
+	   (AUX has)
+	   (VP been
+	       (VP read
+		   ))))
+       ,
+       (S (NP the grammatical descriptions
+	      (PP for
+		  (NP (NP all text forms)
+		      (VP found
+			  (PP in
+			      (NP the dictionary))))))
+	  (AUX have)
+	  (VP been
+	      (VP stored
+	        
+		  (PP in
+		      (NP the W-region))))))
+    ;
+    ;
+    (S (NP (NP the information cell)
+	   (VP assigned
+	       (PP to
+		   (NP each text form))))
+       (VP contains
+	   (NP the address
+	       (PP of
+		   (NP the grammatical description
+		       (PP of
+			   (NP (NP the form)
+			       (SBAR 0
+				     (S
+				      (NP it)
+				      (VP represents
+					  (NP T) )))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (S (NP the description
+	     (PP of
+		 (NP each text occurrence)))
+	 (AUX can)
+	 (VP be
+	     (VP retrieved
+		 (PP by
+		     (S (NP *)  
+			(VP (VP reading
+				(NP the list
+				    (PP of
+					(NP text-ordered information-cell addresses))))
+			    and
+			    (VP outputting
+				(NP (NP the description)
+				    (VP indicated
+					(PP by
+					    (NP the information cell
+						(PP for
+						    (NP each occurrence))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The only requirements
+	   (PP on
+	       (NP dictionary information)))
+       (VP made
+	   (PP by
+	       (NP the text-lookup operation))))
+   (VP are
+       (SBAR (SBAR that
+		   (S (NP (NP each form)
+			  (VP represented
+			      (PP by
+				  (NP the dictionary))))
+		      (VP be
+			  (ADJP available
+				(PP for
+				    (NP lookup
+					(PP in
+					    (NP the text-form list))))))))
+	     and
+	     (SBAR that
+		   (S (NP  information
+			   (PP for
+			       (NP each form)))
+		      (VP be
+			  (ADJP available
+				(PP in
+				    (NP (NP a sequence)
+					(ADJP identical
+					      (PP with
+						  (NP the sequence
+						      (PP of
+							  (NP the forms))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP leaves
+       (NP the ordering
+	   (PP of
+	       (NP entries)))
+       (ADJP variable)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (ADVP Here)
+      (S (NP an entry)
+	 (VP is
+	     (NP (NP a form)
+		 plus
+		 (NP (NP the information)
+		     (SBAR 
+		      (WHNP that)
+		      (S (NP T)
+			 (VP pertains
+			     (PP to
+				 (NP it))))))))))
+   .
+   *RRB*) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  Two
+	 (ADJP  very
+		useful)
+	 ways
+	 (PP for
+	     (S (NP *) 
+		(VP modifying
+		    (NP a form-dictionary)))))
+    (VP are
+	(NP (NP the addition
+		(PP to
+		    (NP the dictionary))
+		(PP of
+		    (NP (NP complete paradigms)
+			(ADVP rather
+			      (PP than
+				  (NP single forms))))))
+	    and
+	    (NP the application
+		(PP of
+		    (NP a single change))
+		(PP to
+		    (NP (ADJP more
+			      (PP than
+				  (NP one)))
+			dictionary form))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP former))
+   (AUX is)
+   (VP intended
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP decrease
+	      (NP (NP the amount
+		      (PP of
+			  (NP work)))
+		  (ADJP necessary
+			(S (NP *)
+			   (AUX to)
+			   (VP extend
+			       (NP dictionary coverage)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The latter)
+    (VP is
+	(ADJP useful
+	      (PP for
+		  (S (NP *)  
+		     (VP modifying
+			 (NP information
+			     (PP about
+				 (NP some
+				     or
+				     all forms
+				     (PP of
+					 (NP a word))))))))))
+    ,
+    (S  (NP *)
+	(ADVP hence)
+	(VP reducing
+	    (NP (NP the work)
+		(VP required
+		    (S (NP *)
+		       (AUX to)
+		       (VP improve
+			   (NP dictionary contents))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Applying
+	     (NP (NP the techniques)
+		 (VP developed
+		     (PP at
+			 (NP Harvard))
+		     (PP for
+			 (S  (NP *) 
+			     (VP generating
+				 (NP a paradigm)
+				 (PP from
+				     (NP (NP a representative form)
+					 and
+					 (NP its classification))))))))))
+     ,
+     (S (NP we)
+	(AUX can)
+	(VP add
+	    (NP all forms
+		(PP of
+		    (NP a word)))
+	    (PP to
+		(NP the dictionary))
+	    (PP at
+		(ADVP once)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP An extension
+	(PP of
+	    (NP the principle)))
+    (AUX would)
+    (VP permit
+	(S (NP *) 
+	   (VP entering
+	       (NP a grammatical description
+		   (PP of
+		       (NP each form)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Equivalents)
+   (AUX could)
+   (VP be
+       (VP assigned
+		 
+	   (PP to
+	       (NP the paradigm))))
+   (PP either
+       (PP at
+	   (NP (NP the time)
+	       (SBAR 0
+		     (S (NP it)
+			(AUX is)
+			(VP added
+			       
+			    (PP to
+				(NP the dictionary)))))))
+       or
+       (PP after
+	   (S (NP the word)
+	      (AUX has)
+	      (VP been
+		  (VP studied
+		    
+		      (PP in
+			  (NP context))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (S (NP one)
+	 (AUX can)
+	 (VP think
+	     (PP of
+		 (NP a dictionary entry))
+	     (PP as
+		 (NP (NP a word)
+		     (ADVP rather
+			   (PP than
+			       (NP a form))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  If
+	  (S (NP all forms
+		 (PP of
+		     (NP a paradigm)))
+	     (AUX are)
+	     (VP grouped
+		 (ADVP together)
+		 (PP within
+		     (NP the dictionary)))))
+   ,
+   (S (NP a considerable reduction
+	  (PP in
+	      (NP (NP the amount
+		      (PP of
+			  (NP information)))
+		  (VP required))))
+      (VP is
+	  (ADJP possible))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S (NP the (ADJP inflected) forms
+	  (PP of
+	      (NP a word)))
+      (AUX can)
+      (VP be
+	  (VP represented
+	      ,
+	      (ADVP insofar
+		    (PP as
+			(S (NP regular inflection)
+			   (VP allows))))
+	      ,
+	      (PP by
+		  (NP (NP a stem)
+		      and
+		      (NP a set
+			  (PP of
+			      (NP (NP endings)
+				  (S (NP *)
+				     (AUX to)
+				     (VP be
+					 (VP attached
+					     ))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  (ADVP Indeed)
+       ,
+       (S (NP the set
+	      (PP of
+		  (NP endings)))
+	  (AUX can)
+	  (VP be
+	      (VP replaced
+		   
+		  (PP by
+		      (NP the name
+			  (PP of
+			      (NP a set
+				  (PP of
+				      (NP endings))))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The full forms)
+    (AUX can)
+    (VP be
+	(VP derived
+		 
+	    (PP from
+		(NP such information))))
+    (ADVP (ADVP just)
+	  prior
+	  (PP to
+	      (NP the lookup
+		  (PP of
+		      (NP the form))
+		  (PP in
+		      (NP the text-form list))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Similarly)
+      ,
+      (SBAR if
+	    (S (NP the equivalents
+		   (PP for
+		       (NP the forms
+			   (PP of
+			       (NP a word)))))
+	       (AUX do)
+	       (NEG not)
+	       (VP vary)))
+      ,
+      (S (NP the equivalents)
+	 (AUX need)
+	 (VP be
+	     (VP entered
+		 (ADVP only)
+		 (ADVP once)
+		 (PP with
+		     (NP an indication
+			 (SBAR that
+			       (S (NP they)
+				  (VP apply
+				      (PP to
+					  (NP each form)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The dictionary system)
+   (VP is
+       (X (PP in
+	      (NP no way))
+	  (ADJP dependent
+		(PP upon
+		    (NP such summarization)))
+	  or
+	  (VP designed
+	      (PP around
+		  (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP (NP irregularity) and (NP variation))
+       (VP prevent
+	   (NP summarizing))))
+   ,
+   (S (NP information)
+      (AUX is)
+      (VP written
+	      
+	  (PP in
+	      (NP complete detail)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Entries)
+    (AUX are)
+    (VP summarized
+	)
+    (ADVP only)
+    (SBAR (WHADVP when)
+	  (S (PP by
+		 (S (NP *) 
+		    (VP doing
+			(ADVP so))))
+	     (S (S  
+		 (NP (NP the amount
+			 (PP of
+			     (NP information)))
+		     (VP retained
+			 (PP in
+			     (NP the dictionary))))
+		 (AUX is)
+		 (VP reduced
+		     ))
+		and
+		(S (NP (NP the time)
+		       (VP required
+			   (PP for
+			       (NP dictionary operations))))
+		   (AUX is)
+		   (VP decreased
+		       ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2171 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP How
+	  else)
+  (SQ  (AUX can)
+       (NP one)
+       (VP explain
+	   ,
+	   (PP for
+	       (NP example))
+	   ,
+	   (S (S (NP *)  
+		 (VP allowing
+		     (NP the survival
+			 (PP of
+			     (NP (NP (NP the right
+					 (S (NP *)
+					    (AUX to)
+					    (VP amortize
+						(NP (NP bond discount) and (NP premium)))))
+				     *LRB*
+				     (NP (NP section 381)
+					 *LRB*
+					 (NP c)
+					 *RRB*
+					 *LRB*
+					 (NP 9)
+					 *RRB*)
+				     *RRB*)
+				 ,
+				 but
+				 (NEG not)
+				 (NP the right
+				     (S (NP *)
+					(AUX to)
+					(VP amortize
+					    (NP bond issue expenses)))))))))
+	      ;
+	      ;
+	      or
+	      (S  (NP *)  
+		  (VP allowing
+		      (NP (NP (NP a deduction
+				  (PP for
+				      (NP payment
+					  (PP of
+					      (NP (NP certain obligations
+						      (PP of
+							  (NP a transferor)))
+						  (VP assumed
+						      (PP in
+							  (NP the reorganization))))))))
+			      *LRB*
+			      (NP (NP section 381)
+				  *LRB*
+				  (NP c)
+				  *RRB*
+				  *LRB*
+				  (NP 16)
+				  *RRB*)
+			      *RRB*)
+			  ,
+			  but
+			  (NEG not)
+			  (NP a deduction
+			      (PP for
+				  (NP (NP theft losses)
+				      (VP (VP sustained
+					      (PP by
+						  (NP a transferor))
+					      (ADVP prior
+						    (PP to
+							(NP a reorganization))))
+					  but
+					  (VP discovered
+					      (PP after
+						  (NP it)))))))))))
+	   ;
+	   ;
+	   or
+	   (S  (NP *)  
+	       (VP requiring
+		   (S (NP a transferor)
+		      (AUX to)
+		      (VP carry
+			  (PRT over)
+			  (NP its method
+			      (PP of
+				  (NP depreciation)))))))
+	       *LRB*
+	       (NP section 381
+		   *LRB*
+		   (NP c)
+		   *RRB*
+		   *LRB*
+		   (NP 6)
+		   *RRB*)
+	       *RRB*
+	   ,
+	   but
+	   (NEG not)
+	   (S  (NP *) 
+	       (VP allowing
+		   (NP rapid amortization
+		       (PP of
+			   (NP (NP emergency facilities)
+			       (VP transferred
+				   (PP in
+				       (NP a reorganization))))))))
+	       ;
+	       ;
+	   or
+	   (S  (NP *)  
+	       (VP allowing
+		   (NP survival
+		       (PP of
+			   (NP (NP (NP a dividend carryover
+				       (PP to
+					   (NP a
+					       personal
+					       holding
+					       company)))
+				   *LRB*
+				   (NP (NP section 381)
+				       *LRB*
+				       (NP c)
+				       *RRB*
+				       *LRB*
+				       (NP 14)
+				       *RRB*)
+				   *RRB*)
+			       ,
+			       but
+			       (NEG not)
+			       (NP carryover
+				   (PP of
+				       (NP excess tax credits
+					   (PP for
+					       (NP foreign taxes)))))))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP These items)
+      ,
+      and
+      (NP  most
+	   (PP of
+	       (NP (NP the others)
+		   (VP listed
+		       (ADVP above)))))
+      ,)
+  (VP seem
+      (ADJP  quite
+	     comparable
+	     (PP to
+		 (NP (NP items)
+		     (SBAR
+		      (WHNP whose right
+			    (PP of
+				(NP survival)))
+		      (S (NP T)
+			 (AUX is)
+			 (VP provided
+		 
+			     (PP for
+				 (NP *) )
+			     (PP in
+				 (NP section 381))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX does)
+   (NEG not)
+   (VP seem
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (NP any reasonable basis
+		  (PP for
+		      (NP distinction)))
+	      (PP  either
+		   (PP in
+		       (NP terms
+			   (PP of
+			       (NP the nature
+				   (PP of
+				       (NP the tax attribute))))))
+		   or
+		   (PP in
+		       (NP terms
+			   (PP of
+			       (NP tax-avoidance possibilities)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP respect
+	   (PP to
+	       (NP (NP items)
+		   (ADJP such
+			 (PP as
+			     (NP these)))))))
+   (S (NP the provisions
+	  (PP of
+	      (NP (NP section 381)
+		  *LRB*
+		  (NP c)
+		  *RRB*)))
+      ,
+      (S  (NP *)  
+	  (VP viewed
+	      (PP in
+		  (NP historical perspective))))
+      ,
+      (VP suggest
+	  (NP (NP a rule)
+	      (VP requiring
+		  (NP survival)
+		  ,
+		  (SBAR whether
+			(S (NP the items)
+			   (VP are
+			       (ADJP beneficial or detrimental
+				     (PP to
+					 (NP the (VP surviving) corporation)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP  To
+	(NP this extent))
+   (S (NP some stretching
+	  (PP of
+	      (NP the literal meaning
+		  (PP of
+		      (NP the Committee Report)))))
+      (VP seems
+	  (ADJP justified))
+      ,
+      (SBAR since
+	    (S (NP the literal meaning)
+	       (VP conflicts
+		   (PP with
+		       (NP (NP the clear implication)
+			   ,
+			   (X if
+			      (NEG not)
+			      (NP the language))
+			   ,
+			   (PP of
+			       (NP the statute)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (AUX is)
+   (NEG not)
+   (VP contended
+       )
+   (SBAR-1 that
+	   (S (NP section 381)
+	      (AUX should)
+	      (VP prescribe
+		  (NP the survival
+		      (PP of
+			  (NP all
+			      (PP of
+				      
+				  (NP 
+				   (NP the transferor)
+				   's tax attributes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP  Such
+	    an interpretation)
+       (AUX could)
+       (NEG not)
+       (VP be
+	   (VP justified
+	        
+	       (PP by
+		   (NP a construction
+		       (PP of
+			   (NP the statute))
+		       (ADVP alone))))))
+    ;
+    ;
+    (S (NP it)
+       (AUX would)
+       (ADVP certainly)
+       (VP violate
+	   (NP (NP the intention
+		   (PP of
+		       (NP Congress)))
+	       (PP as
+		   (S (NP *)
+		      (VP expressed
+			  (PP in
+			      (NP the Committee Report))))))))
+    ;
+    ;
+    and
+    (S (PP in
+	   (NP (NP (PP at
+		       (ADJP least))
+		   one instance)
+	       ,
+	       (VP involving
+		   (NP refund claims))
+	       ,))
+       (S (NP it)
+	  (AUX might)
+	  (VP be
+	      (ADJP contrary
+		    (PP to
+			(NP another provision
+			    (PP of
+				(NP the United States Code)))))))))  
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Refund claims))
+(  
+ (S (NP Section 203
+	(PP of
+	    (NP the United States Code)))
+    (VP voids
+	(NP an assignment
+	    (PP of
+		(NP a claim
+		    (PP against
+			(NP the Government))))))
+    (SBAR  unless
+	   (S  (NP *)  
+	       (VP made
+		   )
+	       (PP after
+		   (S (S (NP it)
+			 (AUX has)
+			 (VP been
+			     (VP allowed
+				 )))
+		      ,
+		      (S (NP (NP the amount)
+			     (ADJP due))
+			 (AUX has)
+			 (VP been
+			     (VP ascertained
+				 )))
+		      ,
+		      and
+		      (S (NP a warrant
+			     (PP for
+				 (NP its payment)))
+			 (AUX has)
+			 (VP been
+			     (VP issued
+				 ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP it)
+	      (VP were
+		  (NEG not)
+		  (PP for
+		      (NP judicial development
+			  (PP of
+			      (NP certain exceptions)))))))
+    ,
+    (S (NP this section)
+       (AUX would)
+       (VP prohibit
+	   (NP a suit
+	       (PP for
+		   (NP refund))
+	       (PP by
+		   (NP an (VP acquiring) corporation))
+	       (PP for
+		   (NP (NP taxes)
+		       (VP  paid
+			    (PP by
+				(NP a transferor corporation)))))))
+       ,
+       (SBAR  (ADVP even)
+	      though
+	      (S (NP the reorganization)
+		 (VP meets
+		     (NP the requirements
+			 (PP of
+			     (NP  (NP section 381)
+				  *LRB*
+				  (NP a)))))))))
+ .)
+( ( S
+      (NP A
+	  (VP  (ADVP clearly)
+	       recognized) exception)
+   (VP is
+       (NP a statutory merger or consolidation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP The (ADJP leading) case)
+	 ,
+	 (NP Seaboard Air Line Railway
+	     (PP v.
+		 (NP United States)))
+	 ,)
+     (VP held
+	 (SBAR that
+	       (S (NP the transferee)
+		  (AUX could)
+		  (VP sue
+		      (PP for
+			  (NP a refund
+			      (PP of
+				  (NP (NP taxes)
+				      (VP paid
+					  (PP by
+					      (NP the transferor))))))))))))
+    ,
+    and
+    (S (NP it)
+       (AUX has)
+       (VP been
+	   (ADVP consistently)
+	   (VP followed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Court)
+   (VP said
+       (SBAR 0
+	     (S (NP the purpose
+		    (PP of
+			(NP the section)))
+		(VP was
+		    (ADVP principally)
+		    (S (S (NP *)
+			  (AUX to)
+			  (VP spare
+			      (NP the Government)
+			      (NP the embarrassment and trouble
+				  (PP of
+				      (S  (NP *) 
+					  (VP dealing
+					      (PP with
+						  (NP (NP several parties)
+						      ,
+						      (NP (NP one
+							      (PP of
+								  (NP them)))
+							  (NP a stranger
+							      (PP to
+								  (NP the claim))))))))))))
+		       ,
+		       and
+		       (S (NP *)
+			  (AUX to)
+			  (VP prevent
+			      (NP traffic
+				  (PP in
+				      (NP (NP claims
+					      ,)
+					  (NP (ADVP particularly)
+					      tenuous claims)
+					  ,
+					  (PP against
+					      (NP the Government)))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP  Neither
+	  reason)
+     ,
+     (SINV  
+      (VP said)
+      (NP the Court))
+     ,
+     (VP applied
+	 (PP to
+	     (NP the case
+		 (PP at
+		     (NP hand))))))
+     ;
+    ;
+    (S  (ADVP furthermore)
+	,
+	(S (NP Congress)
+	   (AUX could)
+	   (NEG not)
+	   (VP be
+	       (VP presumed
+		 
+		   (S (NP *)
+		      (AUX to)
+		      (VP have
+			  (VP intended
+			      (S (NP *)
+				 (AUX to)
+				 (VP obstruct
+				     (NP (NP mergers)
+					 (VP approved
+					     (PP by
+						 (NP the states))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Other exceptions)
+   (VP are
+       (NP (NP assignments
+	       (PP for
+		   (NP the benefit
+		       (PP of
+			   (NP creditors)))))
+	   ,
+	   (NP corporate dissolutions)
+	   ,
+	   (NP transfers
+	       (PP by
+		   (NP descent)))
+	   ,
+	   or
+	   (NP transfers
+	       (PP by
+		   (NP subrogation))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Exceptions)
+   (AUX are)
+   (ADVP often)
+   (VP classified
+	     
+       (PP as
+	   (NP transfers
+	       (PP by
+		   (NP  ``
+			operation
+			(PP of
+			    (NP law))
+			''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A (ADJP tax-free) reorganization)
+       (VP  
+	(NEG not)
+	complying
+	(PP with
+	    (NP the merger or consolidation statutes
+		(PP of
+		    (NP (NP the states)
+			(VP involved)))))))
+   (VP is
+       (ADJP difficult
+	     (S (NP *)
+		(AUX to)
+		(VP fit
+		    (PP into
+			(NP an
+			    (NP  ``
+				 operation
+				 (PP of
+				     (NP law
+					 '')))
+			    mold)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP it)
+	      (VP is
+		  (PP in
+		      (NP some ways))
+		  (ADJP comparable
+			(PP to
+			    (NP (NP a voluntary sale
+				    (PP of
+					(NP assets))
+				    (PP for
+					(NP cash)))
+				,
+				(SBAR 
+				 (WHPP to
+				       (WHNP which))
+				 (S (NP section 203)
+				    (ADVP quite
+					  clearly)
+				    (VP applies)))))))))
+     ,
+     (S (NP  the courts
+	     and
+	     Treasury)
+	(AUX have)
+	(VP held
+	    (SBAR that
+		  (S (NP  (VP acquiring)
+			  corporations)
+		     (PP in
+			 (NP several types
+			     (PP of
+				 (NP non-taxable reorganizations))))
+		     (AUX may)
+		     (VP sue
+			 (PP for
+			     (NP refund
+				 (PP of
+				     (NP (NP taxes)
+					 (VP paid
+					     (PP by
+						 (NP transferors)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A recent case
+       (PP in
+	   (NP point)))
+   (VP is
+       (NP (NP Mitchell Canneries
+	       (PP v.
+		   (NP United States)))
+	   ,
+	   (SBAR (WHPP in
+		       (WHNP which))
+		 (S
+		  (NP a claim
+		      (PP against
+			  (NP the Government)))
+		  (AUX was)
+		  (VP transferred
+		      (ADVP first)
+		      (PP from
+			  (NP a corporation))
+		      (PP (PP to
+			      (NP (NP a partnership)
+				  ,
+				  (SBAR 
+				   (WHNP whose partners)
+				   (S (NP T)
+				      (VP were
+					  (NP former stockholders))))
+				  ,))
+			  and
+			  (ADVP then)
+			  (PP to
+			      (NP (NP another corporation)
+				  (VP formed
+				      (PP by
+					  (NP the partners))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Holding
+	     (NP (NP the final corporation)
+		 (ADJP  entitled 
+			(S (NP *)
+			   (AUX to)
+			   (VP sue
+			       (PP on
+				   (NP the claim))))))))
+     ,
+     (S (NP the Court)
+	(VP cited
+	    (NP  the Seaboard
+		 ,
+		 Novo Trading
+		 ,
+		 and
+		 Roomberg cases)
+	    (PP for
+		(NP the proposition
+		    (SBAR that
+			  ``
+			  (S (NP transfers
+				 (PP (PP by
+					 (NP operation
+					     (PP of
+						 (NP law))))
+				     or
+				     (PP in
+					 (NP conjunction
+					     (PP with
+						 (NP changes
+						     (PP of
+							 (NP corporate structure))))))))
+			     (VP are
+				 (NEG not)
+				 (NP (NP assignments)
+				     (VP prohibited
+					 (PP by
+					     (NP the statute))))))
+			  ''))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP an
+	       (ADJP earlier)
+	       case)
+	   ,
+	   (NP Kingan
+	       &
+	       Co.
+	       (PP v.
+		   (NP United States)))
+	   ,))
+   (S (NP an American corporation)
+      (AUX was)
+      (VP formed
+	  
+	  (PP for
+	      (NP the purpose
+		  (PP of
+		      (S (NP *)
+			 (VP (VP acquiring
+				 (NP the stock
+				     (PP of
+					 (NP a British corporation)))
+				 (PP in
+				     (NP exchange
+					 (PP for
+					     (NP its own
+						 stock)))))
+			     and
+			     (ADVP then)
+			     (VP liquidating
+				 (NP the British corporation))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The anti-assignment statute)
+   (AUX was)
+   (VP held
+	     
+       (S  (NP *)
+	   (NEG not)
+	   (AUX to)
+	   (VP prevent
+	       (NP the American corporation)
+	       (PP from
+		   (S (NP *)
+		      (VP suing
+			  (PP for
+			      (NP a refund
+				  (PP of
+				      (NP (NP taxes)
+					  (VP paid
+					      (PP by
+						  (NP the British corporation))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The transaction)
+    (ADVP presumably)
+    (AUX would)
+    (VP have
+	(VP (VP qualified
+		(PP (PP under
+			(NP (NP section 368)
+			    *LRB*
+			    (NP a)
+			    *RRB*
+			    *LRB*
+			    (NP 1)
+			    *RRB*)
+			(PP as
+			    (NP a contractual reorganization)
+			    ,
+			    (VP followed
+				(PP by
+				    (NP a
+					section 332
+					liquidation)))))
+		    ,
+		    but
+		    (PP (NEG not)
+			under
+			(NP (NP section 368)
+			    *LRB*
+			    (NP a)
+			    *RRB*
+			    *LRB*
+			    (NP 1)
+			    *RRB*)
+			(PP as
+			    (NP a statutory merger
+				(PP of
+				    (NP consolidation))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The Court)
+   ,
+   (ADVP nevertheless)
+   ,
+   (VP (VP relied
+	   (PP on
+	       (NP the Seaboard case)))
+       and
+       (ADVP also)
+       (VP mentioned
+	   (SBAR that
+		 (S (NP the shareholders
+			(PP of
+			    (NP the two corporations)))
+		    (VP were
+			(ADJP  the
+			       same)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP substance))
+   ,
+   (SINV  
+    (VP said)
+    (NP the Court))
+   ,
+   (S (NP there)
+      (VP was
+	  (NP no transfer
+	      (PP of
+		  (NP equitable title))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Treasury)
+   (VP (VP arrives
+	   (PP at
+	       (NP  (ADVP substantially)
+		    the same conclusion)))
+       ,
+       but
+       (VP skirts
+	   (NP the problem
+	       (PP of
+		   (NP section 203
+		       (PP of
+			   (NP the United States Code))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Revenue Ruling 54-17)
+   (VP provides
+       (SBAR that
+	     (S (SBAR   if
+			(S (NP (NP the corporation)
+			       (SBAR (WHPP against
+					   (WHNP which))
+				     (S (NP a tax)
+					(AUX was)
+					(VP assessed
+					    ))))
+			   (AUX has)
+			   (ADVP since)
+			   (VP  been
+				(VP liquidated
+				      
+				    (PP by
+					(NP merger
+					    (PP with
+						(NP a successor corporation))))))))
+		,
+		(S (NP a claim
+		       (PP for
+			   (NP refund)))
+		   (AUX should)
+		   (VP be
+		       (VP filed
+	        
+			   (PP by
+			       (NP the successor))
+			   (PP (PP in
+				   (NP the name
+				       (PP-1 *pseudo-attach*)))
+			       and
+			       (PP on
+				   (NP behalf
+				       (PP-1 of
+					     (NP (NP the corporation)
+						 (SBAR 
+						  (WHNP which)
+						  (S (NP T)
+						     (VP paid
+							 (NP the tax)))))))))
+			   ,
+			   (VP followed
+			       (PP by
+				   (NP the name
+				       (PP of
+					   (NP the successor corporation))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Proper evidence
+       (PP of
+	   (NP the liquidation and succession)))
+   (AUX must)
+   (ADVP also)
+   (VP be
+       (VP filed
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (SBAR  If
+	     (S (NP the succession)
+		(VP is
+		    (NP a matter
+			(PP of
+			    (NP public record))))))
+      ,
+      (S  
+       (NP certificates
+	   (PP of
+	       (NP (NP the Secretaries
+		       (PP of
+			   (NP State)))
+		   or
+		   (NP (NP other public officials)
+		       (VP having
+			   (NP custody
+			       (PP of
+				   (NP the documents))))))))
+       (AUX will)
+       (VP suffice)))
+     ;
+     ;
+     (S (SBAR if
+	      (S (NP the succession)
+		 (VP is
+		     (NEG not)
+		     (PP of
+			 (NP record)))))
+	,
+	(S (NP (NP all documents)
+	       (VP (VP relating
+		       (PP to
+			   (NP such succession)))
+		   (VP (ADVP properly)
+		       certified)))
+	   ,
+	   ,
+	   (AUX are)
+	   (VP required
+	       ))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The former proof)
+      (VP seems
+	  (ADJP applicable
+		(PP to
+		    (NP a statutory merger or consolidation)))))
+     ,
+     (X  (NP the latter)
+	 (PP to
+	     (NP a contractual acquisition))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Ruling)
+   (AUX would)
+   (NEG not)
+   ,
+   (ADVP however)
+   ,
+   (VP apply
+       (PP to
+	   (NP an acquisition
+	       (PP of
+		   (NP assets))
+	       (PP for
+		   (NP cash))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP A recent Ruling)
+   ,
+   (ADJP (ADVP although)
+	 (ADVP rather)
+	 confusing)
+   ,
+   (VP cites
+       and
+       follows
+       (NP Rev. Rul. 54-17)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Ruling)
+   (VP suggests
+       (ADVP also)
+       (SBAR that
+	     (S (NP it)
+		(VP applies
+		    (PP to
+			(NP  either
+			     a statutory or contractual reorganization)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (S (NP a successor corporation
+	     (PP in
+		 (NP a C reorganization)))
+	 (VP appears
+	     (ADJP  entitled
+		    (S (NP *)
+		       (AUX to)
+		       (VP sue
+			   (PP for
+			       (NP a refund
+				   (PP of
+				       (NP (NP taxes)
+					   (VP paid
+					       (PP by
+						   (NP the (VP merged) corporation))))))))))
+	     (PP despite
+		 (NP section 203)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP a B reorganization)
+	   ,
+	   (VP followed
+	       (PP by
+		   (NP a
+		       section 332
+		       liquidation)))))
+   ,
+   (S (NP (NP those cases)
+	  (SBAR  
+	   (WHNP which)
+	   (S (NP T)
+	      (VP hold
+		  (SBAR  that
+			 (S (NP section 203)
+			    (VP is
+				(ADJP inapplicable
+				      (PP to
+					  (NP transfers
+					      (PP in
+						  (NP liquidation))))))))))))
+      (VP appear
+	  (S (NP *)
+	     (AUX to)
+	     (VP permit
+		 (NP the successor corporation)
+		 (S (NP *)
+		    (AUX to)
+		    (VP sue
+			(PP for
+			    (NP refund
+				(PP of
+				    (NP (NP taxes)
+					(VP paid
+					    (PP by
+						(NP the transferor))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP fact))
+   ,
+   (S (NP (NP a cash purchase
+	      (PP of
+		  (NP 
+		   (NP a corporation)
+		   's stock)))
+	  (VP followed
+	      (PP by
+		  (NP liquidation))))
+      (AUX might)
+      (ADVP also)
+      (VP be
+	  (NP  an effective way
+	       (S (NP *)
+		  (AUX to)
+		  (VP transfer
+		      (NP a claim
+			  (PP for
+			      (NP refund)))))))
+      (SBAR if
+	    (S (NP the Kimbell-Diamond doctrine)
+	       (AUX is)
+	       (NEG not)
+	       (VP applied
+		   (S (NP *)
+		      (AUX to)
+		      (VP eliminate
+			  (NP the intermediate step))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These results)
+   (VP appear
+       (ADJP sound)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S  (NP *)  
+	      (VP stated
+		  (PP in
+		      (NP (NP Seaboard)
+			  and
+			  (NP 
+			   numerous other
+			   cases))))))
+   ,
+   (S (NP the two primary reasons
+	  (PP for
+	      (NP the enactment
+		  (PP of
+		      (NP section 203
+			  (PP of
+			      (NP the United States Code)))))))
+      (VP were
+	  (S (S (NP *)
+		(AUX to)
+		(VP prevent
+		    (NP the Government)
+		    (PP from
+			(S (NP *)
+			   (VP having
+			       (S (NP *)
+				  (AUX to)
+				  (VP deal
+				      (PP with
+					  (NP  (ADJP more
+						     (PP than
+							 (NP one)))
+					       claimant)))))))))
+	     and
+	     (S (NP *)
+		(AUX to)
+		(VP prevent
+		    (NP the assignment
+			(PP of
+			    (NP meretricious claims))
+			(PP on
+			    (NP a contingent-fee basis)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The cases)
+   (AUX have)
+   (VP allowed
+       (NP transfer
+	   (PP of
+	       (NP claims))))
+   (SBAR if
+	 (S (NP beneficial ownership)
+	    (AUX is)
+	    (NEG not)
+	    (VP changed
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The first reason)
+   (AUX would)
+   (ADVP never)
+   (VP apply
+       (PP to
+	   (NP (NP (NP a reorganization transfer)
+		   (SBAR  
+		    (WHNP which)
+		    (S (NP T)
+		       (VP meets
+			   (NP the conditions
+			       (PP of
+				   (NP (NP section 381)
+				       *LRB*
+				       (NP a)
+				       *RRB*)))))))
+	       ,
+	       (SBAR  
+		(WHNP which)
+		(S (NP T)
+		   (VP is
+		       (NP (NP the only type)
+			   (PP  (ADVP presently)
+				under
+				(NP discussion))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Section 381)
+      *LRB*
+      (NP a)
+      *RRB*)
+  (VP applies
+      (PP (ADVP only)
+	  to
+	  (NP (NP a transfer
+		  (PP by
+		      (NP liquidation))
+		  (PP of
+		      (NP (NP a subsidiary)
+			  (VP owned
+			      (PP to
+				  (NP the extent
+				      (PP of
+					  (NP (PP at
+						  (ADJP least))
+					      80
+					      per
+					      cent))))))))
+	      ,
+	      (NP a statutory merger or consolidation)
+	      ,
+	      (NP an acquisition
+		  (PP of
+		      (NP  (ADVP substantially)
+			   all
+			   (NP 
+			    (NP a corporation)
+			    's assets)))
+		  (PP  (ADVP solely)
+		       in
+		       (NP exchange
+			   (PP for
+			       (NP voting stock)))))
+	      ,
+	      or
+	      (NP a change
+		  (PP of
+		      (NP (NP identity)
+			  ,
+			  (NP form)
+			  ,
+			  or
+			  (NP place
+			      (PP of
+				  (NP organization))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP  (ADVP virtually)
+	      every case))
+     (S (S
+	 (NP the transferor corporation)
+	 (AUX is)
+	 (VP liquidated
+	     ))
+	,
+	and
+	(S (NP its former stockholders)
+	   (VP either
+	       (VP own
+		   (NP-3 *pseudo-attach*)
+		   (ADVP outright))
+	       ,
+	       or
+	       (VP have
+		   (NP a (VP continuing) stock interest)
+		   (PP in
+		       ,
+		       (NP-3 (NP the assets)
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (VP gave
+				     (NP rise)
+				     (PP to
+					 (NP the tax))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP these circumstances))
+     (S
+      (NP the possibility
+	  (PP of
+	      (NP (ADJP multiple or conflicting) claims)))
+      (VP is
+	  (ADJP  (ADVP exceedingly)
+		 remote))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Furthermore)
+      ,
+      (PP in
+	  (NP a C reorganization))
+      (S (NP the (VP continuing) interest
+	     (PP of
+		 (NP stockholders
+		     (PP of
+			 (NP (NP the corporation)
+			     (SBAR  
+			      (WHNP which)
+			      (S (NP T)
+				 (VP paid
+				     (NP the tax)))))))))
+	 (AUX must)
+	 (VP be
+	     (ADJP greater
+		   (PP than
+		       (S  (NP *) 
+			   (VP is
+			       (ADJP necessary))
+			   (PP in
+			       (NP (NP a statutory merger)
+				   ,
+				   (SBAR (WHPP to
+					       (WHNP which))
+					 (S
+					  (NP the statute)
+					  (VP is
+					      (ADVP clearly)
+					      (ADJP inapplicable))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (SINV   Nor
+	  (VP is)
+	  (NP it
+	      (SBAR-4 *pseudo-attach*))
+	  (ADJP (PP at
+		    (NP all))
+		likely)
+	  (SBAR-4 that
+		  (S (NP a
+			 (ADJP ``
+			       desperate
+			       '')
+			 claim
+			 (PP against
+			     (NP the Government)))
+		     (AUX will)
+		     (VP be
+			 (VP assigned
+			    
+			     (PP on
+				 (NP a (ADJP contingent-fee) basis))
+			     (PP in
+				 (NP the guise
+				     (PP of
+					 (NP a (ADJP tax-free) reorganization)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP the transferor)
+	     (VP has
+		 (NP (NP substantial assets)
+		     (ADJP other
+			   (PP than
+			       (NP the claim)))))))
+   ,
+   (S (NP it
+	  (S-5 *pseudo-attach*))
+      (VP seems
+	  (ADJP reasonable))
+      (S-5 (NP *)
+	 (AUX to)
+	 (VP assume
+	     (SBAR 0
+		   (S (NP no corporation)
+		      (AUX would)
+		      (VP be
+			  (ADJP willing
+				(S (NP *)
+				   (AUX to)
+				   (VP acquire
+				       (NP all
+					   (PP of
+					       (NP its properties))))
+				   (PP in
+				       (NP the dim hope
+					   (PP of
+					       (S  (NP *)
+						   (VP collecting
+						       (NP a claim
+							   (PP for
+							       (NP refund
+								   (PP of
+								       (NP taxes)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP  such
+		  an unlikely transaction)
+	     (VP were
+		 (S (NP *)
+		    (AUX to)
+		    (VP take
+			(NP place))))))
+   ,
+   (S (NP it)
+      (AUX would)
+      (ADVP more logically)
+      (VP be
+	  (VP accomplished
+		 
+	      (PP by
+		  (NP (NP a stock purchase)
+		      ,
+		      (VP followed
+			  (PP by
+			      (NP the prosecution
+				  (PP of
+				      (NP the claim))
+				  (PP by
+				      (NP the wholly-owned subsidiary)))))
+		      ,
+		      (VP followed
+			  (PP by
+			      (NP liquidation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the rare case
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP (NP
+		    (NP a corporation)
+		    's
+		    only substantial
+		    asset)
+		   ,
+		   or
+		   (NP its
+		       (ADJP most important)
+		       one)
+		   ,)
+	       (VP is
+		   (NP a claim
+		       (PP for
+			   (NP refund))))))))
+   ,
+   (ADVP perhaps)
+   (S (NP its transfer)
+      (AUX should)
+      (NEG not)
+      (VP be
+	  (VP permitted
+	      ))
+      ,
+      (SBAR whether
+	    (S (NP the reorganization)
+	       (VP takes
+		   (NP the form
+		       (PP (PP of
+			       (NP a statutory merger))
+			   or
+			   (PP of
+			       (NP the acquisition
+				   (PP of
+				       (NP assets))
+				   (PP for
+				       (NP stock)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP It
+	  (SBAR-6 *pseudo-attach*))
+      (VP appears
+	  ,
+	  (ADVP then)
+	  ,
+	  (SBAR-6 that
+		(S (SBAR although
+			 (S (NP the matter)
+			    (AUX is)
+			    (NEG not)
+			    (VP dealt
+			    
+				(PP with
+				    (NP *) )
+				(PP in
+				    (NP (NP section 381)
+					*LRB*
+					(NP c)
+					*RRB*)))))
+		   ,
+		   (S (NP a successor corporation
+			  (PP in
+			      (NP a reorganization
+				  (PP of
+				      (NP (NP a type)
+					  (VP specified
+					      (PP in
+						  (NP (NP section 381)
+						      *LRB*
+						      (NP a)
+						      *RRB*))))))))
+		      (VP   is
+			    (ADJP entitled
+				  (S (NP *)
+				     (AUX to)
+				     (VP sue
+					 (PP for
+					     (NP refund
+						 (PP of
+						     (NP (NP taxes)
+							 (VP paid
+							     (PP by
+								 (NP a transferor corporation)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Section 203
+	(PP of
+	    (NP the United States Code)))
+    (AUX has)
+    (VP been
+	(VP interpreted
+	    (PP as
+		(S  (NP *)  
+		    (NEG not)
+		    (VP applying
+			(PP to
+			    (NP (NP claims
+				    (PP against
+					(NP the Government)))
+				(VP transferred
+				    (PP in
+					(NP tax-free reorganizations)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The successor corporations)
+    (AUX have)
+    (VP been
+	(VP held
+		     
+	    (ADJP entitled
+		  (S (NP *)
+		     (AUX to)
+		     (VP sue
+			 (PP on
+			     (NP such claims))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Other tax attributes
+        (PP of
+            (NP the transferor)))
+    )
+( (S
+   (NP There)
+   (VP are
+       (NP (NP certain tax attributes
+	       (PP of
+		   (NP a corporation)))
+	   (SBAR 
+	    (WHNP whose nature and effect)
+	    (S (NP T)
+	       (AUX might)
+	       (VP depend
+		   (PP on
+		       (NP the facts
+			   (PP of
+			       (NP (NP the particular reorganization)
+				   (VP involved)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP For
+      (NP example))
+  ,
+  (S  
+   (NP (NP (NP property)
+	   (VP  ``
+		used
+		(PP in
+		    (NP the trade or business
+			''
+			(PP of
+			    (NP a transferor corporation))))))
+       ,
+       (SBAR  as
+	      (S  (NP *)  
+		  (VP defined
+		      (PP in
+			  (NP section 1231)))))
+       ,)
+   (ADVP presumably)
+   (AUX would)
+   (NEG not)
+   (VP retain
+       (NP its special status))
+   (VP following
+       (NP a non-taxable reorganization))
+   (SBAR if
+	 (S (NP it)
+	    (AUX is)
+	    (NEG not)
+	    (VP  (ADVP so)
+		 used
+		 (PP in
+		     (NP the business
+			 (PP of
+			     (NP the (VP acquiring) corporation)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S  
+  (NP The parent
+      (PP of
+	  (NP (NP a group)
+	      (VP filing
+		  (NP (VP consolidated) returns)))))
+  (AUX might)
+  (VP be
+      (VP (VP treated
+	        
+	      (PP (PP as
+		      (NP the same corporation)
+		      (VP following
+			  (NP (NP a reorganization)
+			      (VP defined
+				  (PP in
+				      (NP (NP section 368)
+					  *LRB*
+					  (NP a)
+					  *RRB*
+					  *LRB*
+					  (NP 1)
+					  *RRB*))))))
+		  ,
+		  but
+		  (PP as
+		      (NP a different corporation)
+		      (PP for
+			  (NP this purpose))
+		      (PP after
+			  (NP a tax-free acquisition
+			      (PP by
+				  (NP (NP another corporation)
+				      (SBAR 
+				       (WHNP which)
+				       (S (NP T)
+					  (AUX had)
+					  (NEG not)
+					  ,
+					  (PP for
+					      (NP example))
+					  ,
+					  (VP elected
+					      (S (NP *)
+						 (AUX to)
+						 (VP file
+						     (NP (VP consolidated) returns
+							 (PP with
+							     (NP its own subsidiaries))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Similar considerations)
+    (ADVP presumably)
+    (VP made
+	(NP it
+	    (S-7 *pseudo-attach*))
+	(ADJP difficult)
+	(S-7 (NP *)
+	     (AUX to)
+	     (VP prescribe
+		 (NP a general rule))
+	     (SBAR 
+	      (WHADVP where)
+	      (S (NP the
+		     (VP (VP acquired)
+			 and
+			 (VP acquiring))
+		     corporations)
+		 (VP have
+		     (NP different methods
+			 (PP of
+			     (NP (NP (NP accounting)
+				     *LRB*
+				     (NP (NP section 381)
+					 *LRB*
+					 (NP c)
+					 *RRB*
+					 *LRB*
+					 (NP 4)
+					 *RRB*)
+				     *RRB*)
+				 or
+				 (NP (NP depreciation)
+				     *LRB*
+				     (NP (NP section 381)
+					 *LRB*
+					 (NP c)
+					 *RRB*
+					 *LRB*
+					 (NP 6)
+					 *RRB*)
+				     *RRB*)))))))
+	     )))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Other sections
+      (PP of
+	  (NP the 1954
+	      Internal Revenue Code)))
+  (VP provide
+      (PP for
+	  (NP survival
+	      (PP of
+		  (NP  certain
+		       (PP of
+			   (NP 
+			    (NP a transferor)
+			    's tax attributes))))
+	      (VP following
+		  (NP a tax-free reorganization))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Section 362)
+      (VP requires
+	  (NP carryover
+	      (PP of
+		  (NP 
+		   (NP the transferor corporation)
+		   's basis)))
+	  (PP for
+	      (NP (NP property)
+		  (VP transferred)))))
+     ,
+     and
+     (S (NP section 1223)
+	(VP provides
+	    (PP for
+		(S (NP *) 
+		   (VP tacking
+		       (PRT on)
+		       (NP 
+			(NP the transferor)
+			's holding period
+			(PP for
+			    (NP such property)))
+		       (PP to
+			   (NP that
+			       (PP of
+				   (NP the transferee))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Section 169)
+    (VP permits
+	(NP (NP a person)
+	    (VP acquiring
+		(NP grain-storage facilities)))
+	(S (NP *)
+	   (AUX to)
+	   (VP elect
+	       (S (NP *)
+		  (AUX to)
+		  (VP continue
+		      (NP amortization))
+		  (PP over
+		      (NP a 60-month period)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP a similar privilege)
+	 (AUX was)
+	 (NEG not)
+	 (VP  (ADVP specifically)
+	      provided
+	      
+	      (PP in
+		  (NP section 168))
+	      (PP for
+		  (NP (NP a person)
+		      (VP acquiring
+			  (NP emergency facilities)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Attributes)
+      (ADJP similar
+	    (PP to
+		(NP a loss carryover))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX may)
+   (VP be
+       (NP (NP certain items)
+	   (SBAR (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (VP are
+			 (ADJP  quite
+				similar
+				(PP to
+				    (NP a net
+					operating
+					loss carryover
+					or
+					operating
+					deficit))))))
+		 and
+		 (SBAR 
+		  (WHNP whose right
+			(S (NP *)
+			   (AUX to)
+			   (VP survive
+			       (NP a reorganization))))
+		  (S  (NP T) 
+		      (AUX should)
+		      (ADVP perhaps)
+		      (VP be
+			  (ADJP subject
+				(PP to
+				    (NP (NP the conditions)
+					(ADJP applicable
+					      (PP to
+						  (NP those items)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S  (NP *) 
+       (VP suppose
+	   (SBAR 0
+		 (S (NP (NP another excess profits
+			    tax)
+			(ADJP similar
+			      (PP to
+				  (NP prior laws))))
+		    (AUX is)
+		    (VP enacted
+			)
+		    ,
+		    (S  (NP *)  
+			(VP providing
+			    (PP for
+				(NP carryover
+				    (PP of
+					(NP excess profits
+					    credits)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This carryover right)
+   (VP has
+       (NP a number
+	   (PP of
+	       (NP things)))
+       (PP in
+	   (NP common)
+	   (PP with
+	       (NP a net
+		   operating
+		   loss carryover)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP is
+	  (NP (NP an averaging device)
+	      (VP intended
+		  (S (NP *)
+		     (AUX to)
+		     (VP ease
+			 (NP the tax burden
+			     (PP of
+				 (NP (VP fluctuating)
+				     income)))))))))
+     ;
+     ;
+     (S (NP it)
+	(VP is
+	    (NP (NP a tax benefit)
+		(SBAR 
+		 (WHNP which)
+		 (S (NP T)
+		    (AUX might)
+		    (VP be
+			(PP of
+			    (NP substantial value))
+			(PP to
+			    (NP (NP a corporation)
+				(SBAR 
+				 (WHNP which)
+				 (S (NP T)
+				    (VP expects
+					(S (NP *)
+					   (AUX to)
+					   (VP have
+					       (NP a
+						   high excess
+						   profits
+						   tax)))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Under
+       (NP the 1939
+	   Code))
+   (S
+    (NP this item)
+    (AUX was)
+    (VP (VP permitted
+	 
+	    (S (NP *)
+	       (AUX to)
+	       (VP survive
+		   (NP a tax-free reorganization))
+	       (PP in
+		   (NP the Stanton Brewery case))))
+	,
+	but
+	(X (ADVP only)
+	   (PP over
+	       (NP the dissent
+		   (PP of
+		       (NP (NP Judge Learned Hand)
+			   ,
+			   (SBAR 
+			    (WHNP who)
+			    (S (NP T)
+			       (VP wrote
+				   (NP the majority opinion))
+			       (PP in
+				   (NP (NP the Sansome case)
+				       ,
+				       (NP (NP a (ADJP leading) case)
+					   (VP requiring
+					       (NP carryover
+						   (PP of
+						       (NP (NP earnings) and (NP profits))))
+					       (PP in
+						   (NP a non-taxable reorganization))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (NP this type
+		 (PP of
+		     (NP item)))
+	     (VP was
+		 (NEG not)
+		 (PP in
+		     (NP the statute)))
+	     (SBAR 
+	      (WHADVP when)
+	      (S (NP section 381)
+		 (AUX was)
+		 (VP enacted
+		     )
+		 (PP in
+		     (NP 1954))))))
+   ,
+   (S (NP one)
+      (AUX can)
+      (NEG not)
+      (VP say
+	  (PP with
+	      (NP certainty))
+	  (SBAR (WHNP what effect)
+		(S
+		 (NP the enactment
+		     (PP of
+			 (NP that section)))
+		 (AUX should)
+		 (VP have
+		     (NP T) ))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP respect
+	   (PP to
+	       (NP this type
+		   (PP of
+		       (NP item))))))
+   ,
+   (S (NP one)
+      (AUX might)
+      (ADVP properly)
+      (VP apply
+	  (NP the language
+	      (PP of
+		  (NP (NP the Committee Report)
+		      ,
+		      (VP quoted
+			  (ADVP above))
+		      ,
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (VP cautions
+			      (PP against
+				  (S  (NP *) 
+				      (VP using
+					  (NP section 381)
+					  (PP as
+					      (NP a basis
+						  (PP for
+						      (S (NP *) 
+							 (VP treating
+							     (NP (NP other tax attributes)
+								 (VP (NEG not)
+								     mentioned
+								     (ADVP therein))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Actually)
+     ,
+     (S (NP there)
+	(AUX do)
+	(NEG not)
+	(ADVP presently)
+	(VP appear
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (NP (NP items
+			   (PP in
+			       (NP the statute)))
+		       (ADJP comparable
+			     (PP to
+				 (NP a net
+				     operating
+				     loss carryover)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Probably)
+      (S (NP the primary reason
+	     (PP for
+		 (NP special treatment
+		     (PP of
+			 (NP a net
+			     operating
+			     loss carryover)))))
+	 (VP is
+	     (NP (NP the unique opportunity)
+		 (SBAR 0
+		       (S
+			(NP it)
+			(VP presents
+			    (NP T))))
+		 (PP for
+		     (NP tax avoidance))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

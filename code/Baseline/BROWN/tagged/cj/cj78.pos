@@ -1,0 +1,1591 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ High-gain/JJ ]
+,/, 
+[ photoelectronic/JJ image/NN intensification/NN ]
+is/VBZ applied/VBN under/IN 
+[ conditions/NNS ]
+of/IN 
+[ low/JJ incident/JJ light/NN levels/NNS ]
+whenever/WRB 
+[ the/DT integration/NN time/NN ]
+required/VBN by/IN 
+[ a/DT sensor/NN ]
+or/CC 
+[ recording/VBG|NN instrument/NN ]
+exceeds/VBZ 
+[ the/DT limits/NNS ]
+of/IN 
+[ practicability/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Examples/NNS ]
+of/IN 
+[ such/JJ situations/NNS ]
+are/VBP (/( aerial/JJ )/) 
+[ night/NN reconnaissance/NN ]
+,/, 
+[ the/DT recording/NN ]
+of/IN 
+[ radioactive/JJ tracers/NNS ]
+in/IN 
+[ live/JJ body/NN tissues/NNS ]
+,/, 
+[ special/JJ radiography/NN ]
+in/IN 
+[ medical/JJ ]
+or/CC 
+[ industrial/JJ applications/NNS ]
+,/, 
+[ track/NN recording/NN ]
+of/IN 
+[ high/JJ energy/NN particles/NNS ]
+,/, 
+[ etc./FW ]
+./. 
+[ High-gain/JJ photoelectronic/JJ image/NN intensification/NN ]
+may/MD be/VB achieved/VBN by/IN 
+[ several/JJ methods/NNS ]
+;/: ;/: 
+[ some/DT ]
+of/IN 
+[ these/DT ]
+are/VBP listed/VBN below/IN :/: (/( 
+[ A/LS ]
+)/) 
+[ Cascading/VBG single/JJ stages/NNS ]
+by/IN 
+[ coupling/VBG lens/NN systems/NNS ]
+,/, (/( 
+[ B/LS ]
+)/) 
+[ Channel-type/NN ]
+,/, 
+[ secondary/JJ emission/NN image/NN intensifier/NN ]
+,/, (/( 
+[ C/LS ]
+)/) 
+[ Image/NN intensifier/NN ]
+based/VBN upon/IN 
+[ the/DT ]
+``/`` 
+[ multipactor/NN ]
+''/'' 
+[ principle/NN ]
+,/, (/( 
+[ D/LS ]
+)/) 
+[ Transmission/NN secondary/JJ electron/NN multiplication/NN image/NN intensifiers/NNS ]
+(/( 
+[ TSEM/NN tubes/NNS ]
+)/) ,/, (/( 
+[ E/LS ]
+)/) 
+[ Cascading/NN ]
+of/IN 
+[ single/JJ stages/NNS ]
+,/, enclosed/VBN in/IN 
+[ one/CD common/JJ envelope/NN ]
+./. 
+==================================
+
+[ Cascading/VBG single/JJ stages/NNS ]
+by/IN 
+[ coupling/VBG lens/NN systems/NNS ]
+is/VBZ rather/RB inefficient/JJ as/IN 
+[ the/DT lens/NN systems/NNS ]
+limit/VBP 
+[ the/DT obtainable/JJ gain/NN ]
+quite/RB severely/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Channel-type/NN image/NN intensifiers/NNS ]
+are/VBP capable/JJ of/IN achieving/VBG 
+[ high-gain/JJ values/NNS ]
+;/: ;/: 
+[ they/PRP ]
+suffer/VBP ,/, however/RB ,/, from/IN 
+[ an/DT ]
+inherently/RB 
+[ low/JJ resolution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Image/NN intensifiers/NNS ]
+based/VBN upon/IN 
+[ the/DT multipactor/NN principle/NN ]
+appear/VBP to/TO hold/VB 
+[ promise/NN ]
+as/RB far/RB as/IN 
+[ obtainable/JJ resolution/NN ]
+is/VBZ concerned/VBN ./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ the/DT unavoidable/JJ low-duty/JJ cycle/NN ]
+restricts/VBZ 
+[ the/DT effective/JJ gain/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ TSEM/NN tubes/NNS ]
+have/VBP been/VBN constructed/VBN showing/VBG 
+[ high/JJ gain/NN ]
+and/CC 
+[ resolution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ electrostatic/JJ focus/NN ]
+,/, important/JJ for/IN 
+[ many/JJ applications/NNS ]
+,/, has/VBZ not/RB been/VBN realized/VBN for/IN 
+[ these/DT devices/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Resolution/NN limitations/NNS ]
+with/IN 
+[ electrostatic/JJ focus/NN ]
+might/MD be/VB anticipated/VBN due/RB to/TO 
+[ chromatic/JJ aberrations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Furthermore/RB ,/, 
+[ the/DT thin/JJ film/NN dynodes/NNS ]
+appear/VBP to/TO have/VB 
+[ a/DT natural/JJ diameter/NN limitation/NN ]
+wherever/WRB 
+[ a/DT mesh/NN support/NN ]
+can/MD not/RB be/VB tolerated/VBN ./. 
+==================================
+Cascaded/VBN 
+[ single/JJ stages/NNS ]
+enclosed/VBN by/IN 
+[ a/DT common/JJ envelope/NN ]
+have/VBP been/VBN constructed/VBN with/IN 
+[ high/JJ gain/NN ]
+and/CC 
+[ high/JJ resolution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT tubes/NNS ]
+may/MD differ/VB 
+[ both/DT ]
+in/IN 
+[ the/DT choice/NN ]
+of/IN 
+[ the/DT electron/NN optical/JJ system/NN ]
+and/CC in/IN 
+[ the/DT design/NN ]
+of/IN 
+[ the/DT coupling/NN members/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT electron/NN optical/JJ system/NN ]
+may/MD be/VB either/RB 
+[ a/DT magnetic/JJ ]
+or/CC 
+[ electrostatic/JJ one/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT magnification/NN ]
+may/MD be/VB smaller/JJR ,/, 
+[ equal/JJ ]
+,/, or/CC larger/JJR than/IN 
+[ unity/NN ]
+./. 
+==================================
+
+[ An/DT electrostatic/JJ system/NN ]
+suffers/VBZ generally/RB from/IN 
+[ image/NN plane/NN curvature/NN ]
+leading/VBG to/TO defocusing/VBG in/IN 
+[ the/DT peripheral/JJ image/NN region/NN ]
+if/IN 
+[ a/DT flat/JJ viewing/VBG screen/NN ]
+(/( or/CC 
+[ interstage/NN coupler/NN ]
+)/) is/VBZ utilized/VBN ,/, while/IN 
+[ a/DT magnetic/JJ system/NN ]
+requires/VBZ 
+[ accurate/JJ adjustment/NN ]
+of/IN 
+[ the/DT solenoid/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ heavy/JJ and/CC 
+[ bulky/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ it/PRP ]
+will/MD be/VB discussed/VBN later/RB ,/, 
+[ peripheral/JJ ]
+defocusing/VBG can/MD be/VB improved/VBN on/IN by/IN utilizing/VBG 
+[ curved/JJ fiber/NN couplers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+should/MD be/VB noted/VBN ,/, however/RB ,/, that/IN 
+[ the/DT paraxial/JJ resolution/NN ]
+is/VBZ quite/RB similar/JJ for/IN 
+[ both/DT electron/NN optical/JJ systems/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ felt/VBN that/IN 
+[ fiber-coupled/JJ double/NN ]
+-/: (/( and/CC 
+[ multi/NNS ]
+-/: )/) 
+[ stage/NN image/NN intensifiers/NNS ]
+will/MD gain/VB 
+[ considerable/JJ importance/NN ]
+in/IN 
+[ the/DT future/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Therefore/RB ,/, 
+[ we/PRP ]
+shall/MD consider/VB in/IN 
+[ this/DT paper/NN ]
+
+[ the/DT theoretical/JJ gain/NN ]
+and/CC 
+[ resolution/NN capabilities/NNS ]
+of/IN 
+[ such/JJ tubes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT luminous/JJ efficiency/NN ]
+and/CC 
+[ resolution/NN ]
+of/IN 
+[ single/JJ stages/NNS ]
+,/, 
+[ fiber/NN couplers/NNS ]
+,/, and/CC finally/RB of/IN 
+[ the/DT composite/JJ tube/NN ]
+will/MD be/VB computed/VBN ./. 
+==================================
+
+[ It/PRP ]
+will/MD be/VB shown/VBN theoretically/RB that/IN 
+[ the/DT high/JJ image/NN intensification/NN ]
+obtainable/JJ with/IN 
+[ such/PDT a/DT tube/NN ]
+and/CC 
+[ contact/NN photography/NN ]
+permits/VBZ 
+[ the/DT utilization/NN ]
+of/IN extremely/RB 
+[ low/JJ incident/NN light/NN levels/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ device/NN ]
+and/CC 
+[ quantum/NN noise/NN ]
+,/, associated/VBN with/IN 
+[ such/JJ low/JJ input/NN levels/NNS ]
+,/, will/MD be/VB described/VBN ./. 
+==================================
+After/IN 
+[ these/DT theoretical/JJ considerations/NNS ]
+,/, 
+[ constructional/JJ details/NNS ]
+of/IN 
+[ a/DT fiber-coupled/JJ ]
+,/, 
+[ double-stage/JJ X-ray/NN image/NN intensifier/NN ]
+will/MD be/VB discussed/VBN ./. 
+==================================
+
+==================================
+==================================
+Measured/VBN 
+[ performance/NN characteristics/NNS ]
+for/IN 
+[ this/DT experimental/JJ tube/NN ]
+will/MD be/VB listed/VBN ./. 
+==================================
+
+[ The/DT conclusion/NN ]
+shall/MD be/VB reached/VBN 
+[ that/DT fiber-coupled/JJ ]
+,/, 
+[ double-stage/JJ tubes/NNS ]
+represent/VBP 
+[ a/DT sensible/NN ]
+and/CC 
+[ practical/JJ approach/NN ]
+to/TO 
+[ high-gain/JJ image/NN intensification/NN ]
+./. 
+==================================
+
+[ Basic/JJ design/NN ]
+of/IN 
+[ a/DT fiber-coupled/JJ ]
+,/, 
+[ double-stage/JJ image/NN intensifier/NN ]
+
+[ The/DT tube/NN design/NN ]
+
+[ which/WDT ]
+forms/VBZ 
+[ the/DT basis/NN ]
+of/IN 
+[ the/DT theoretical/JJ discussion/NN ]
+shall/MD be/VB described/VBN now/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT electron/NN optical/JJ system/NN ]
+(/( see/VB 
+[ fig./NN 14-1/CD ]
+)/) is/VBZ based/VBN in/IN 
+[ principle/NN ]
+on/IN 
+[ the/DT focusing/NN action/NN ]
+of/IN 
+[ concentric/JJ spherical/JJ cathode/NN ]
+and/CC 
+[ anode/NN surfaces/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT inner/JJ ]
+(/( 
+[ anode/NN ]
+)/) 
+[ sphere/NN ]
+is/VBZ pierced/VBN ,/, elongated/VBN into/IN 
+[ a/DT cup/NN ]
+,/, and/CC terminated/VBN by/IN 
+[ the/DT phosphor/NN screen/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT photoelectrons/NNS ]
+emitted/VBN from/IN 
+[ a/DT circular/JJ segment/NN ]
+of/IN 
+[ the/DT cathode/NN sphere/NN ]
+are/VBP focused/VBN by/IN 
+[ the/DT positive/JJ lens/NN action/NN ]
+of/IN 
+[ the/DT two/CD concentric/JJ spheres/NNS ]
+,/, 
+[ pass/VBP ]
+through/IN 
+[ the/DT ]
+(/( negative/JJ )/) 
+[ lens/NN ]
+formed/VBN by/IN 
+[ the/DT anode/NN aperture/NN ]
+,/, and/CC impinge/VBP upon/IN 
+[ the/DT cathodoluminescent/JJ viewing/NN screen/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cylindrical/JJ focusing/NN electrode/NN ]
+permits/VBZ 
+[ adjustment/NN ]
+of/IN 
+[ the/DT positive/JJ lens/NN part/NN ]
+by/IN varying/VBG 
+[ the/DT focusing/NN potential/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT anode/NN potential/NN ]
+codetermines/VBZ 
+[ the/DT gain/NN ]
+,/, 
+[ G/NN ]
+,/, and/CC 
+[ magnification/NN ]
+,/, 
+[ M/NN ]
+,/, of/IN 
+[ the/DT stage/NN ]
+./. 
+==================================
+
+[ Both/PDT ]
+
+[ the/DT photocathode/NN ]
+and/CC 
+[ the/DT image/NN plane/NN ]
+of/IN 
+[ such/PDT an/DT electrode/NN configuration/NN ]
+are/VBP curved/VBN concave/JJ as/IN seen/VBN from/IN 
+[ the/DT anode/NN aperture/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT field-flattening/JJ property/NN ]
+of/IN 
+[ the/DT biconcave/JJ fiber/NN coupler/NN ]
+can/MD be/VB utilized/VBN to/TO alleviate/VB 
+[ the/DT peripheral/JJ resolution/NN losses/NNS ]
+resulting/VBG with/IN 
+[ a/DT flat/JJ phosphor-screen/NN ]
+or/CC 
+[ coupling/VBG member/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT same/JJ reason/NN ]
+,/, 
+[ the/DT output/NN fiber/NN plate/NN ]
+is/VBZ planoconcave/JJ ,/, 
+[ its/PRP$ ]
+exposed/VBN 
+[ flat/JJ side/NN permitting/VBG contact/NN photography/NN ]
+if/IN 
+[ a/DT permanent/JJ record/NN ]
+is/VBZ desired/VBN ./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ it/PRP ]
+will/MD be/VB shown/VBN later/RB ,/, 
+[ the/DT field-flattening/JJ properties/NNS ]
+of/IN 
+[ the/DT interstage/NN ]
+and/CC 
+[ output/NN fiber/NN coupler/NN ]
+comprise/VBP indeed/RB 
+[ the/DT main/JJ advantage/NN ]
+of/IN 
+[ such/PDT a/DT design/NN ]
+./. 
+==================================
+
+[ The/DT second/JJ photocathode/NN ]
+and/CC 
+[ both/DT phosphor/NN surfaces/NNS ]
+are/VBP deposited/VBN on/IN 
+[ the/DT fiber/NN plate/NN substrates/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT photocathode/NN sensitivities/NNS S/NN ]
+,/, 
+[ phosphor/NN efficiencies/NNS P/NN ]
+,/, and/CC 
+[ anode/NN potentials/NNS V/NN ]
+of/IN 
+[ the/DT individual/JJ stages/NNS ]
+shall/MD be/VB distinguished/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ subscripts/NNS 1/CD ]
+,/, and/CC 
+[ 2/CD ]
+,/, in/IN 
+[ the/DT text/NN ]
+,/, where/WRB required/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+
+[ stages/NNS ]
+are/VBP assumed/VBN to/TO have/VB 
+[ unity/NN magnification/NN ]
+./. 
+==================================
+
+[ Theoretical/JJ discussion/NN ]
+of/IN 
+[ flux/NN gain/NN flux/NN gain/NN ]
+of/IN 
+[ a/DT single/JJ stage/NN ]
+
+[ The/DT luminous/JJ gain/NN ]
+of/IN 
+[ a/DT single/JJ stage/NN ]
+with/IN 
+[ A[fj]/SYM ]
+(/( 
+[ flux/NN gain/NN ]
+)/) is/VBZ ,/, to/TO 
+[ a/DT first/JJ approximation/NN ]
+,/, given/VBN by/IN 
+[ the/DT product/NN ]
+of/IN 
+[ the/DT photocathode/NN sensitivity/NN S/NN ]
+(/( 
+[ amp/NN lumen/NN ]
+)/) ,/, 
+[ the/DT anode/NN potential/NN V/NN ]
+(/( 
+[ volts/NNS ]
+)/) ,/, and/CC 
+[ the/DT phosphor/NN conversion/NN efficiency/NN P/NN ]
+(/( 
+[ lumen/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ general/NN ]
+,/, 
+[ P/NN ]
+is/VBZ 
+[ a/DT function/NN ]
+of/IN 
+[ V/NN ]
+and/CC 
+[ the/DT current/JJ density/NN ]
+,/, but/CC 
+[ it/PRP ]
+shall/MD here/RB be/VB assumed/VBN as/IN 
+[ a/DT constant/NN ]
+./. 
+==================================
+
+[ The/DT luminous/JJ efficiency/NN A[fj]/SYM ]
+of/IN 
+[ a/DT photocathode/NN ]
+depends/VBZ on/IN 
+[ the/DT maximum/JJ radiant/JJ sensitivity/NN A[fj]/SYM ]
+and/CC on/IN 
+[ the/DT spectral/JJ distribution/NN ]
+of/IN 
+[ the/DT incident/NN light/NN A[fj]/SYM ]
+by/IN 
+[ the/DT relation/NN ]
+:/: 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+is/VBZ normalized/VBN 
+[ radiant/JJ photocathode/NN sensitivity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A[fj]/SYM ]
+is/VBZ 
+[ standard/JJ visibility/NN function/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT luminous/JJ flux/NN gain/NN ]
+of/IN 
+[ a/DT single/JJ stage/NN ]
+is/VBZ given/VBN by/IN :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT input/NN light/NN distribution/NN ]
+falls/VBZ beyond/IN 
+[ the/DT visible/JJ range/NN ]
+,/, 
+[ A[fj]/SYM ]
+as/IN expected/VBN ,/, since/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Such/JJ cases/NNS ]
+are/VBP not/RB considered/VBN here/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Efficiency/NN ]
+of/IN 
+[ fiber/NN couplers/NNS ]
+
+[ The/DT efficiency/NN ]
+of/IN 
+[ fiber/NN optics/NNS plates/NNS ]
+depends/VBZ on/IN 
+[ four/CD factors/NNS ]
+:/: (/( 
+[ A/LS ]
+)/) 
+[ numerical/JJ aperture/NN ]
+(/( 
+[ N.A./NN ]
+)/) ;/: ;/: (/( 
+[ B/LS ]
+)/) 
+[ end/NN ]
+(/( 
+[ Fresnel/NNP reflection/NN ]
+)/) 
+[ losses/NNS ]
+(/( 
+[ R/NN ]
+)/) ;/: ;/: (/( 
+[ C/NN ]
+)/) 
+[ internal/JJ losses/NNS ]
+(/( 
+[ I.L./NN ]
+)/) ;/: ;/: (/( 
+[ D/NN ]
+)/) 
+[ packing/VBG efficiency/NN ]
+(/( 
+[ F.R/NN ]
+./. 
+==================================
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT numerical/JJ aperture/NN ]
+of/IN 
+[ the/DT fibers/NNS ]
+is/VBZ given/VBN by/IN :/: 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT angle/NN A[fj]/SYM ]
+is/VBZ measured/VBN in/IN 
+[ the/DT medium/NN ]
+of/IN 
+[ index/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Settled/VBN 
+[ phosphors/NNS ]
+,/, as/RB generally/RB used/VBN in/IN 
+[ image/NN intensifiers/NNS ]
+,/, have/VBP 
+[ low/JJ optical/JJ contact/NN ]
+with/IN 
+[ the/DT substrate/NN surface/NN ]
+,/, hence/RB 
+[ A[fj]/SYM ]
+shall/MD be/VB assumed/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT numerical/JJ aperture/NN ]
+should/MD be/VB in/IN 
+[ general/JJ close/NN ]
+to/TO 
+[ unity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT condition/NN ]
+can/MD be/VB satisfied/VBN ,/, 
+[ e.g./FW ]
+,/, with/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+or/CC 
+[ equivalent/JJ glass/NN combinations/NNS ]
+./. 
+==================================
+
+[ A/DT ]
+sufficiently/RB 
+[ good/JJ approximation/NN ]
+for/IN determining/VBG 
+[ the/DT end/NN reflection/NN losses/NNS R/NN ]
+can/MD be/VB obtained/VBN from/IN 
+[ the/DT angle/NN independent/JJ Fresnel/NNP formula/NN ]
+:/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ phosphor/NN ]
+to/TO 
+[ fiber/NN ]
+and/CC 
+[ fiber/NN ]
+to/TO 
+[ air/NN surfaces/NNS ]
+,/, and/CC assuming/VBG 
+[ A[fj]/SYM ]
+,/, 
+[ we/PRP ]
+obtain/VBP 
+[ A[fj]/SYM percent/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT value/NN ]
+may/MD be/VB reduced/VBN to/TO 
+[ 4.6/CD percent/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT ]
+(/( very/RB thin/JJ )/) 
+[ glass/NN layer/NN ]
+of/IN 
+[ index/NN 1.5/CD ]
+./. 
+==================================
+
+==================================
+==================================
+Hence/RB ,/, 
+[ the/DT A[fj]/SYM factor/NN ]
+for/IN 
+[ the/DT output/NN fiber/NN coupler/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+As/IN 
+[ the/DT index/NN ]
+of/IN 
+[ refraction/NN ]
+of/IN 
+[ photosensitive/JJ surfaces/NNS ]
+of/IN 
+[ the/DT SbCs-type/JJ lies/VBZ ]
+around/IN 
+[ 2/CD ]
+,/, 
+[ the/DT Fresnel/NNP losses/NNS ]
+at/IN 
+[ the/DT fiber-photocathode/NN interface/NN ]
+are/VBP about/IN 
+[ 0.5/CD percent/NN ]
+and/CC 
+[ the/DT A[fj]/SYM factor/NN ]
+for/IN 
+[ the/DT interstage/NN coupler/NN ]
+is/VBZ 
+[ 0.95/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+might/MD be/VB anticipated/VBN that/IN 
+[ multiple/JJ coatings/NNS ]
+will/MD reduce/VB 
+[ end/NN reflection/NN losses/NNS ]
+even/RB further/RB ./. 
+==================================
+
+[ The/DT internal/JJ losses/NNS ]
+are/VBP due/IN to/TO 
+[ absorption/NN ]
+and/CC 
+[ the/DT small/JJ ]
+but/CC 
+[ finite/JJ losses/NNS ]
+suffered/VBN in/IN 
+[ the/DT numerous/JJ internal/JJ reflections/NNS ]
+due/IN to/TO 
+[ deviations/NNS ]
+from/IN 
+[ the/DT ]
+prescribed/VBN ,/, 
+[ cylindrical/JJ fiber/NN cross-section/NN ]
+and/CC 
+[ minute/NN imperfections/NNS ]
+of/IN 
+[ the/DT core-jacket/JJ interface/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT losses/NNS ]
+depend/VBP on/IN 
+[ fiber/NN diameter/NN ]
+and/CC 
+[ length/NN ]
+,/, 
+[ absorption/NN coefficient/NN ]
+,/, 
+[ the/DT mean/JJ value/NN ]
+of/IN 
+[ the/DT loss/NN ]
+per/IN 
+[ internal/JJ reflection/NN ]
+and/CC 
+[ last/JJ ]
+,/, but/CC not/RB 
+[ least/JJS ]
+,/, on/IN 
+[ the/DT angular/JJ distribution/NN ]
+of/IN 
+[ the/DT incident/JJ light/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Explicit/JJ expressions/NNS ]
+(/( 
+[ integral/NN averages/NNS ]
+)/) are/VBP given/VBN in/IN 
+[ the/DT literature/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Lacking/VBG 
+[ reliable/JJ data/NNS ]
+for/IN 
+[ some/DT ]
+of/IN 
+[ the/DT variables/NNS ]
+,/, 
+[ we/PRP ]
+are/VBP relying/VBG on/IN 
+[ experimental/JJ data/NNS ]
+of/IN about/IN 
+[ 20/CD percent/NN internal/JJ losses/NNS ]
+for/IN 
+[ 14-inch/JJ long/JJ ]
+,/, 
+[ small/JJ ]
+(/( 
+[ 5/CD ]
+-/: 
+[ 10/CD M/NN ]
+)/) 
+[ diameter/NN fibers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+relatively/RB 
+[ high/JJ value/NN ]
+is/VBZ probably/RB due/IN to/TO 
+[ the/DT small/JJ fiber/NN diameters/NNS ]
+increasing/VBG 
+[ the/DT number/NN ]
+of/IN 
+[ internal/JJ reflections/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ we/PRP ]
+are/VBP considering/VBG here/RB relatively/RB 
+[ small/JJ diameter/NN ]
+(/( 
+[ 1/CD ]
+-/: 
+[ 1.5/CD inches/NNS ]
+)/) 
+[ fiber/NN plates/NNS ]
+,/, 
+[ their/PRP$ average/JJ thickness/NN ]
+can/MD be/VB kept/VBN below/IN 
+[ 14/CD inch/NN ]
+and/CC 
+[ their/PRP$ internal/JJ losses/NNS ]
+may/MD be/VB assumed/VBN as/IN 
+[ 15/CD percent/NN ]
+(/( per/IN 
+[ plate/NN ]
+)/) ./. 
+==================================
+
+[ The/DT packing/NN efficiency/NN ]
+,/, 
+[ F.R./NN ]
+,/, of/IN 
+[ fiber/NN plates/NNS ]
+did/VBD not/RB receive/VB 
+[ much/JJ attention/NN ]
+in/IN 
+[ the/DT literature/NN ]
+,/, probably/RB as/IN 
+[ it/PRP ]
+is/VBZ high/JJ for/IN 
+[ the/DT larger/JJR fibers/NNS ]
+generally/RB used/VBN ,/, until/IN rather/RB recently/RB ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ circular/JJ fibers/NNS ]
+in/IN 
+[ a/DT ]
+closely/RB packed/VBN 
+[ hexagonal/JJ array/NN ]
+,/, 
+[ the/DT packing/VBG efficiency/NN ]
+is/VBZ given/VBN by/IN :/: 
+[ A[fj]/SYM ]
+where/WRB 
+[ A[fj]/SYM ]
+,/, and/CC 
+[ 0.906/CD ]
+is/VBZ 
+[ the/DT ratio/NN ]
+of/IN 
+[ the/DT area/NN ]
+of/IN 
+[ a/DT circle/NN ]
+to/TO 
+[ that/DT ]
+of/IN 
+[ the/DT circumscribed/JJ hexagon/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT small/JJ diameter/NN fibers/NNS ]
+now/RB technically/RB feasible/JJ and/CC required/VBN for/IN about/IN 
+[ 100/CD A[fj]/SYM resolution/NN ]
+,/, 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cladding/NN thickness/NN ]
+is/VBZ about/IN 
+[ 0.5/CD M/NN ]
+,/, hence/RB ,/, 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+Thus/RB ,/, 
+[ the/DT efficiency/NN \*\*/SYM yt/NN couplers/NNS ]
+is/VBZ given/VBN by/IN --/: 
+[ A[fj]/SYM ]
+or/CC approximately/RB 
+[ 50/CD percent/NN ]
+
+[ each/DT ]
+./. 
+==================================
+
+[ It/PRP ]
+must/MD be/VB remembered/VBN that/IN 
+[ the/DT fiber/NN plates/NNS ]
+replace/VBP 
+[ a/DT glass/NN window/NN ]
+and/CC 
+[ a/DT ]
+(/( 
+[ mica/NN ]
+)/) 
+[ membrane/NN ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ an/DT optical/JJ output/NN lens/NN system/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT efficiency/NN A[fj]/SYM ]
+of/IN 
+[ an/DT A[fj]/SYM lens/NN ]
+at/IN 
+[ the/DT magnification/NN A[fj]/SYM ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Neglecting/VBG 
+[ absorption/NN ]
+,/, 
+[ the/DT end/NN losses/NNS ]
+of/IN 
+[ the/DT coupling/VBG membrane/NN ]
+and/CC 
+[ the/DT output/NN window/NN A[fj]/SYM ]
+would/MD be/VB 
+[ 6/CD percent/NN ]
+and/CC 
+[ 8/CD percent/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, 
+[ the/DT combined/VBN efficiency/NN ]
+of/IN 
+[ the/DT elements/NNS ]
+replaced/VBN by/IN 
+[ the/DT two/CD fiber/NN plates/NNS ]
+(/( with/IN 
+[ a/DT combined/VBN efficiency/NN ]
+of/IN 
+[ 0.25/CD ]
+)/) is/VBZ 
+[ 0.043/CD ]
+or/CC about/IN 
+[ six/CD times/NNS ]
+less/JJR than/IN that/IN of/IN 
+[ the/DT two/CD fiber/NN plates/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Gain/NN ]
+of/IN 
+[ fiber/NN ]
+coupled/VBD 
+[ image/NN intensifiers/NNS ]
+Including/VBG 
+[ the/DT brightness/NN gain/NN A[fj]/SYM due/IN ]
+to/TO 
+[ the/DT A[fj]/SYM area/NN demagnification/NN ]
+,/, 
+[ the/DT overall/JJ gain/NN ]
+of/IN 
+[ a/DT fiber/NN ]
+coupled/VBN 
+[ double/JJ stage/NN image/NN intensifier/NN ]
+is/VBZ :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ obvious/JJ that/IN 
+[ the/DT careful/JJ choice/NN ]
+of/IN 
+[ photocathode/NN ]
+
+[ which/WDT ]
+maximizes/VBZ 
+[ A[fj]/SYM ]
+for/IN 
+[ a/DT given/VBN input/NN E/NN ]
+(/( in/IN 
+[ the/DT case/NN ]
+of/IN 
+[ the/DT second/JJ stage/NN ]
+,/, for/IN 
+[ the/DT first/JJ phosphor/NN screen/NN emission/NN ]
+)/) is/VBZ very/RB important/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT same/JJ consideration/NN ]
+should/MD govern/VB 
+[ the/DT choice/NN ]
+of/IN 
+[ the/DT second-stage/JJ phosphor/NN screen/NN ]
+for/IN matching/VBG with/IN 
+[ the/DT spectral/JJ sensitivity/NN ]
+of/IN 
+[ the/DT ultimate/JJ sensor/NN ]
+(/( 
+[ e.g./FW ]
+,/, 
+[ photographic/JJ emulsion/NN ]
+)/) ./. 
+==================================
+
+[ We/PRP ]
+have/VBP evaluated/VBN 
+[ the/DT ]
+``/`` 
+[ matching/JJ integrals/NNS ]
+''/'' for/IN 
+[ two/CD types/NNS ]
+of/IN 
+[ photocathodes/NNS ]
+(/( 
+[ S-11/NN ]
+and/CC 
+[ S-20/NN ]
+)/) and/CC 
+[ three/CD types/NNS ]
+of/IN 
+[ light/NN input/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT input/NN light/NN distributions/NNS ]
+considered/VBN are/VBP 
+[ P-11/NN ]
+and/CC 
+[ P-20/NN phosphor/NN emission/NN ]
+and/CC 
+[ the/DT so-called/JJ ]
+``/`` 
+[ night/NN light/NN ]
+''/'' (/( 
+[ N.L./NN ]
+)/) as/IN given/VBN by/IN 
+[ H.W./NNP Babcock/NNP ]
+and/CC 
+[ J.J./NNP Johnson/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT integrals/NNS ]
+(/( in/IN 
+[ units/NNS ]
+)/) are/VBP listed/VBN in/IN 
+[ table/NN 14-1/CD ]
+,/, below/IN ./. 
+==================================
+
+[ Theoretical/JJ discussion/NN ]
+of/IN 
+[ paraxial/JJ device/NN resolution/NN resolution/NN limitations/NNS ]
+in/IN 
+[ a/DT single/JJ stage/NN ]
+
+[ The/DT resolution/NN limitations/NNS ]
+for/IN 
+[ a/DT single/JJ stage/NN ]
+are/VBP given/VBN by/IN 
+[ the/DT inherent/JJ resolution/NN ]
+of/IN 
+[ the/DT electron/NN optical/JJ system/NN ]
+as/RB well/RB as/IN 
+[ the/DT resolution/NN capabilities/NNS ]
+of/IN 
+[ the/DT cathodoluminescent/JJ viewing/NN screen/NN ]
+./. 
+==================================
+
+[ The/DT resolution/NN capabilities/NNS ]
+of/IN 
+[ an/DT electrostatic/JJ system/NN ]
+depend/VBP on/IN 
+[ both/PDT ]
+
+[ the/DT choice/NN ]
+of/IN 
+[ magnification/NN ]
+and/CC 
+[ chromatic/JJ aberrations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+has/VBZ been/VBN stated/VBN previously/RB that/IN 
+[ a/DT ]
+minifying/VBG 
+[ electrostatic/JJ system/NN ]
+yields/VBZ 
+[ a/DT lower/JJR resolution/NN ]
+than/IN 
+[ a/DT magnifying/VBG system/NN ]
+or/CC 
+[ a/DT system/NN ]
+with/IN 
+[ unity/NN magnification/NN ]
+./. 
+==================================
+Furthermore/RB ,/, 
+[ the/DT chromatic/JJ aberrations/NNS ]
+depend/VBP on/IN 
+[ the/DT chosen/VBN high/JJ voltage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ general/JJ ]
+,/, 
+[ a/DT high/JJ anode/NN voltage/NN ]
+reduces/VBZ 
+[ chromatic/JJ aberrations/NNS ]
+and/CC thus/RB increases/VBZ 
+[ the/DT obtainable/JJ resolution/NN ]
+./. 
+==================================
+
+[ The/DT luminous/JJ gain/NN ]
+of/IN 
+[ the/DT discussed/VBN tube/NN ]
+was/VBD calculated/VBN from/IN 
+[ Eq./NNP ]
+(/( 
+[ 6/CD ]
+)/) for/IN 
+[ the/DT 16/CD possible/JJ combinations/NNS ]
+of/IN 
+[ S-11/NN ]
+and/CC 
+[ S-20/NN photocathodes/NNS ]
+and/CC 
+[ P-11/NN ]
+and/CC 
+[ P-20/NN phosphor/NN screens/NNS ]
+,/, for/IN 
+[ night/NN light/NN ]
+and/CC 
+[ P-20/NN light/NN input/NN ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ The/DT P-20/NN input/NN ]
+is/VBZ of/IN 
+[ interest/NN ]
+because/IN 
+[ it/PRP ]
+corresponds/VBZ roughly/RB to/TO 
+[ the/DT light/NN emission/NN ]
+of/IN 
+[ conventional/JJ X-ray/NN fluorescent/JJ screens/NNS ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT following/VBG efficiencies/NNS ]
+obtained/VBN from/IN 
+[ JEDEC/NN ]
+and/CC 
+[ RCA/NN specifications/NNS ]
+were/VBD used/VBN :/: 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT following/VBG table/NN ]
+(/( 
+[ 14-2/CD ]
+)/) 
+[ lists/VBZ ]
+
+[ the/DT ]
+(/( luminous/JJ )/) 
+[ gain/NN values/NNS ]
+computed/VBN according/VBG to/TO 
+[ Eq./NN ]
+(/( 
+[ 6/CD ]
+)/) with/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ The/DT possibility/NN ]
+of/IN 
+[ a/DT space/NN charge/NN blowup/NN ]
+of/IN 
+[ the/DT screen/NN crossover/NN ]
+of/IN 
+[ the/DT elementary/JJ electron/NN bundles/NNS ]
+has/VBZ been/VBN pointed/VBN out/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ obvious/JJ that/IN 
+[ such/PDT an/DT influence/NN ]
+can/MD only/RB be/VB expected/VBN in/IN 
+[ the/DT final/JJ stage/NN ]
+of/IN 
+[ an/DT image/NN intensifier/NN ]
+at/IN rather/RB 
+[ high/JJ output/NN levels/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Space/NN charge/NN influences/NNS ]
+will/MD also/RB decrease/VB at/IN 
+[ increased/VBN voltages/NNS ]
+./. 
+==================================
+
+[ Electrostatic/JJ systems/NNS ]
+of/IN 
+[ the/DT pseudo-symmetric/JJ type/NN ]
+have/VBP been/VBN tested/VBN for/IN 
+[ resolution/NN capabilities/NNS ]
+by/IN 
+[ applying/VBG electronography/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT resolution/NN ]
+of/IN 
+[ 70/CD ]
+-/: 
+[ 80/CD line-pairs/NN ]
+per/IN 
+[ millimeter/NN ]
+appears/VBZ to/TO be/VB feasible/JJ ./. 
+==================================
+
+[ The/DT inherent/JJ resolution/NN ]
+of/IN 
+[ a/DT cathodoluminescent/JJ phosphor/NN screen/NN ]
+decreases/VBZ with/IN increasingly/RB 
+[ aggregate/JJ thickness/NN ]
+(/( with/IN 
+[ increasing/VBG anode/NN voltage/NN ]
+)/) ,/, decreases/VBZ with/IN 
+[ decreasing/VBG porosity/NN ]
+(/( thus/RB 
+[ the/DT advantage/NN ]
+of/IN 
+[ cathodophoretic/JJ phosphor/NN deposition/NN ]
+)/) and/CC might/MD be/VB impaired/VBN by/IN 
+[ the/DT ]
+normally/RB used/VBN 
+[ aluminum/NN mirror/NN ]
+./. 
+==================================
+Thus/RB ,/, in/IN 
+[ general/JJ ]
+,/, 
+[ elementary/JJ light/NN optical/JJ effects/NNS ]
+,/, 
+[ light/NN scatter/NN ]
+,/, and/CC 
+[ electron/NN scatter/NN ]
+determine/VBP 
+[ the/DT obtainable/JJ resolution/NN limit/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+should/MD be/VB noted/VBN 
+[ that/DT photoluminescence/NN ]
+,/, due/IN to/TO ``/`` 
+[ Bremsstrahlung/NN ]
+''/'' generated/VBN within/IN 
+[ the/DT viewing/NN screen/NN ]
+by/IN 
+[ electron/NN impact/NN ]
+,/, appears/VBZ to/TO be/VB important/JJ only/RB if/IN 
+[ anode/NN voltages/NNS ]
+in/IN 
+[ excess/NN ]
+of/IN 
+[ 30/CD KV/NN ]
+are/VBP utilized/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+has/VBZ been/VBN stated/VBN that/IN settled/VBN 
+[ cathodoluminescent/JJ phosphor/NN screens/NNS ]
+may/MD have/VB 
+[ a/DT limiting/VBG resolution/NN ]
+of/IN 
+[ 60/CD A[fj]/SYM ]
+at/IN 
+[ high/JJ voltage/NN values/NNS ]
+of/IN approximately/RB 
+[ 20/CD A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ the/DT further/JJR discussion/NN ]
+,/, 
+[ we/PRP ]
+shall/MD thus/RB assume/VB 
+[ an/DT electron/NN optical/JJ resolution/NN ]
+of/IN 
+[ 80/CD A[fj]/SYM ]
+and/CC 
+[ phosphor/NN screen/NN resolution/NN ]
+of/IN 
+[ 60/CD A[fj]/SYM ]
+./. 
+==================================
+==================================
+==================================

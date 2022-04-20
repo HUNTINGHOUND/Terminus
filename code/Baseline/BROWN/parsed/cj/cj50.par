@@ -1,0 +1,2163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  (X (ADVP Unfortunately)
+	 ,
+	 (ADVP however)
+	 ,
+	 and
+	 (PP for
+	     (NP (NP reasons)
+		 (S   (NP *)  
+		      (AUX to)
+		      (VP be
+			  (VP discussed
+		       
+			      (PP in
+				  (NP the (ADJP following) chapter))))))))
+      ,
+      (S (NP no rate relationships)
+	 (AUX can)
+	 (VP be
+	     (VP made
+		 (ADJP  (ADVP completely)
+			nondiscriminatory)))
+	 (ADVP as
+	       long
+	       (PP as
+		   (S (NP  all
+			   or
+			   some
+			   (PP of
+			       (NP the rates)))
+		      (AUX must)
+		      (VP be
+			  (VP set
+	       
+			      (PP above
+				  (NP marginal costs))))
+		      (SBAR (PP in
+				(NP order))
+			    (S (NP *)
+			       (AUX to)
+			       (VP yield
+				   (NP adequate revenues)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP this fact)
+	 (AUX may)
+	 (VP explain
+	     (NP some
+		 (PP of
+		     (NP the disagreements
+			 (PP among
+			     (NP the experts))
+			 (PP as
+			     (PP to
+				 (NP the
+				     (ADJP  more
+					    rational) formulas
+				     (PP for
+					 (NP the apportionment
+					     (PP of
+						 (NP total costs))
+					     (PP among
+						 (NP different units
+						     (PP of
+							 (NP service)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(
+ (S  
+  (NP (NP One such disagreement)
+      ,
+      (SBAR  
+       (WHNP which)
+       (S (NP T)
+	  (AUX will)
+	  (VP receive
+	      (NP attention))
+	  (PP in
+	      (NP this next chapter))))
+      ,)
+  (VP concerns
+      (NP the question
+	  (SBAR (SBAR whether
+		      (S (NP rates
+			     (PP for
+				 (NP different kinds
+				     (PP of
+					 (NP service)))))
+			 ,
+			 (SBAR  in
+				order
+			       (S (NP *)
+				  (AUX to)
+				  (VP avoid
+				      (NP the attribute
+					  (PP of
+					      (NP discrimination))))))
+			 ,
+			 (AUX must)
+			 (VP be
+			     (VP made
+				 (ADJP  (ADVP directly)
+					proportional
+					(PP to
+					    (NP marginal costs)))))))
+		,
+		or
+		(SBAR whether
+		      (S (NP they)
+			 (AUX should)
+			 (VP be
+			     (VP based
+				 (ADVP instead)
+				 (PP on
+				     (NP differences
+					 (PP in
+					     (NP marginal costs))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      ,
+      (S (NP the choice)
+	 (VP is
+	     (NP that
+		 (PP between
+		     (NP the horns
+			 (PP of
+			     (NP a dilemma))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP Two major types
+	  (PP of
+	      (NP (VP  (ADVP fully)
+		       distributed)
+		  cost analysis)))
+      (NP (NP 1
+	      .)
+	  (NP The double-step type))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (PP Despite
+      (NP an ambiguity
+	  (ADVP  due
+		 (PP to
+		     (NP its failure
+			 (S  (NP *) 
+			     (ADVP clearly)
+			     (AUX to)
+			     (VP define
+				 ``
+				 (NP relative costs)
+				 '')))))))
+  ,
+  (S (NP the  above exposition
+	 (PP of
+	     (NP (VP  (ADVP fully)
+		      distributed
+		      )
+		 costing)))
+     (VP goes
+	 (ADVP (ADVP about)
+	       as
+	       far
+	       (PP as
+		   (S (NP one)
+		      (AUX can)
+		      (VP go))))
+	 (PP toward
+	     (S (NP *) 
+		(VP expressing
+		    (NP the basic philosophy
+			(PP of
+			    (NP the practice)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP For
+      (NP  (ADJP more
+		 explicit) expositions))
+  ,
+  (S (NP one)
+     (AUX must)
+     (VP distinguish
+	 (NP different types
+	     (PP of
+		 (NP analyses))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP all means))
+   (S (NP the
+	  (ADJP most important)
+	  distinction)
+      (VP is
+	  (NP that
+	      (PP between
+		  (NP (NP (NP those total-cost apportionments)
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (VP superimpose
+				  (NP a distribution
+				      (PP of
+					  (NP  (ADJP (ADVP admittedly)
+						     unallocable) cost residues)))
+				  (PP on
+				      (NP estimates
+					  (PP of
+					      (NP (ADJP incremental or marginal) costs))))))))
+		      ,
+		      and
+		      (NP (NP those other apportionments)
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (VP recognize
+				  (NP no difference
+				      (PP between
+					  (NP (NP true cost allocation)
+					      and
+					      (NP 
+					       mere total-cost
+					       distribution))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The
+      (ADJP first
+	    ,
+	    or
+	    double-step
+	    ,
+	    )
+      type)
+  (AUX might)
+  (ADVP also)
+  (VP be
+      (VP called
+	   
+	  (NP the
+	      ``
+	      railroad type
+	      '')))
+  (ADVP because
+	(PP of
+	    (NP its application
+		(PP to
+		    (NP (NP railroads)
+			*LRB*
+			and
+			(NP other transportation agencies)
+			*RRB*))
+		(PP by
+		    (NP the Cost Section
+			(PP of
+			    (NP the Interstate Commerce Commission))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Cost Section)
+    (VP distinguishes
+	(PP between
+	    (NP (NP (ADJP  *LRB*
+			   (ADVP directly)
+			   *RRB*
+			   variable) costs)
+		and
+		(NP constant costs)))
+	(PP in
+	    (NP (NP a manner)
+		(VP noted
+		    (PP in
+			(NP the (ADJP preceding) chapter)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The variable costs
+       (ADVP alone))  
+   (AUX are)
+   (VP assigned
+	     
+       (PP to
+	   (NP the different units
+	       (PP of
+		   (NP freight traffic))))
+       (PP as
+	   (S  (NP *)
+	       (VP representing
+		   (NP ``
+		       (NP 
+			(ADJP long-run) (ADJP out-of-pocket)
+			costs)
+		       ''
+		       --
+		       (NP a term
+			   (PP with
+			       (NP (NP a meaning)
+				   (ADVP here)
+				   (ADJP (NEG not)
+					 (ADVP distinctly)
+					 different
+					 (PP from
+					     (NP that
+						 (PP of
+						     (NP 
+						      (NP the economist)
+						      's
+						      ``
+						      long-run marginal
+						      costs
+						      ''))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (VP remains
+	(NP (NP a residue
+		(PP of
+		    (NP (NP total costs)
+			,
+			or
+			(NP total
+			    ``
+			    revenue requirements
+			    ''))))
+	    (SBAR (WHNP which)
+		  ,
+		  (S (SBAR since
+			   (S (NP it)
+			      (AUX is)
+			      (VP found
+		      
+				  (S (NP *)
+				     (AUX to)
+				     (VP behave
+					 (SBAR  as
+						if
+						(S (NP it)
+						   (VP were
+						       (ADJP constant))
+						   (PP over
+						       (NP substantial variations
+							   (PP in
+							       (NP traffic density)))))))))))
+		     ,
+		     (S  (NP T) 
+			 (VP is
+			     (ADJP  (ADVP strictly)
+				    unallocable
+				    (PP on
+					(NP a cost-finding basis))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Nevertheless)
+      ,
+      (SBAR because
+	    (S (NP the Cost Section)
+	       (AUX has)
+	       (VP felt
+		   (ADJP impelled
+			 (S (NP *)
+			    (AUX to)
+			    (VP make
+				(NP some kind
+				    (PP of
+					(NP a distribution
+					    (PP of
+						(NP total costs)))))))))))
+      ,
+      (S (NP it)
+	 (AUX has)
+	 (VP apportioned
+	     (NP (NP this residue)
+		 ,
+		 (SBAR (WHNP which)
+		       (S (NP it)
+			  (ADVP sometimes)
+			  (VP calls
+			      (NP T) 
+			      ``
+			      (NP burden)
+			      '')))
+		 ,)
+	     (PP among
+		 (NP the units
+		     (PP of
+			 (NP carload traffic))))
+	     (PP on
+		 (NP (NP a basis)
+		     *LRB*
+		     (ADJP  (ADVP partly)
+			    (ADJP ton)
+			    ,
+			    (ADVP partly)
+			    (ADJP ton-mile))
+		     *RRB*
+		     (SBAR  
+		      (WHNP which)
+		      (S (NP T)
+			 (VP is
+			     (ADVP concededly)
+			     (ADJP  quite
+				    arbitrary))
+			 (PP from
+			     (NP the standpoint
+				 (PP of
+				     (NP cost determination)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP recent years))
+   ,
+   (S (NP (NP this burden)
+	  *LRB*
+	  (SBAR  
+	   (WHNP which)
+	   (S (NP T)
+	      (VP includes
+		  (NP allowances
+		      (PP for
+			  (NP revenue deficiencies
+			      (PP (PP in
+				      (NP the passenger business))
+				  and
+				  (PP in
+				      (NP less-than-carload freight traffic)))))))))
+	  ! 
+	  ! 
+	  *RRB*)
+      (AUX has)
+      (VP amounted
+	  (PP to
+	      (NP (ADVP about)
+		  one
+		  third
+		  (PP of
+		      (NP (NP those total revenue requirements)
+			  (SBAR (WHNP which)
+				(S
+				 (NP the carload freight business)
+				 (VP  is
+				      (ADJP supposed
+					    (S (NP *)
+					       (AUX to)
+					       (VP be
+						   (VP called
+			        
+						       (PP upon
+							   (NP *) )
+						       (S (NP *)
+							  (AUX to)
+							  (VP meet
+							      (NP T) ))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+  
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (NP this book)
+	     (VP  is
+		  (ADJP concerned
+			(ADVP  (ADVP only)
+			       incidentally)
+			(PP with
+			    (NP railroad rates)))
+		  )))
+   ,
+   (S (NP it)
+      (AUX will)
+      (NEG not)
+      (VP attempt
+	  (S (NP *)
+	     (AUX to)
+	     (VP analyze
+		 (NP (NP the methods)
+		     (SBAR (WHPP by
+				 (WHNP which))
+			   (S (NP the staff
+				  (PP of
+				      (NP the Interstate Commerce Commission)))
+			      (AUX has)
+			      (VP (VP estimated
+				      (NP out-of-pocket costs))
+				  and
+				  (VP apportioned
+				      (NP residue costs)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (VP Suffice)
+   (NP it)
+   (S (NP *)
+      (AUX to)
+      (VP say
+	  (SBAR that
+		(S (NP the usefulness
+		       (PP of
+			   (NP the latter apportionment)))
+		   (VP is
+		       (ADJP questionable)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP in
+	  (NP any event))
+      ,
+      (S (NP full credit)
+	 (AUX should)
+	 (VP be
+	     (VP given
+		 
+		 (PP to
+		     (NP the Cost Section))))
+	 (PP for
+	     (NP its (ADVP express
+			   and
+			   overt) recognition
+			   (PP of
+			       (NP (NP (NP a vital distinction)
+				       (VP  (ADVP too
+						  often)
+					    ignored
+					    (PP in
+						(NP utility-cost analyses))))
+				   :
+				   (ADVP namely)
+				   ,
+				   (NP that
+				       (PP between
+					   (NP (NP (NP a cost allocation)
+						   (VP designed
+						       (S (NP *)
+							  (AUX to)
+							  (VP reflect
+							      (NP the actual behavior
+								  (PP of
+								      (NP costs))
+								  (PP in
+								      (NP response
+									  (PP to
+									      (NP changes
+										  (PP in
+										      (NP rates
+											  (PP of
+											      (NP output))
+											  (PP of
+											      (NP different classes
+												  (PP of
+												      (NP utility service)))))))))))))))
+				 ;
+				 ;
+				 and
+				 (NP (NP a mere cost apportionment)
+				     (SBAR 
+				      (WHNP which)
+				      (S  (NP T) 
+					  (ADVP somehow)
+					  (VP spreads
+					      (PP among
+						  (NP the classes and units
+						      (PP of
+							  (NP service))))
+					      (NP (NP (ADVP even)
+						      those costs)
+						  (SBAR 
+						   (WHNP that)
+						   (S (NP T)
+						      (VP are
+							  (ADJP  (ADVP strictly)
+								 unallocable))
+						      (PP from
+							  (NP the standpoint
+							      (PP of
+								  (NP specific cost determination))))))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 2
+	   .)
+       (NP The single-step type)))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP turn
+       (ADVP now)
+       (PP to
+	   (NP (NP (NP a type
+		       (PP of
+			   (NP (VP  (ADVP fully)
+				    distributed)
+			       cost analysis)))
+		   (SBAR (WHNP which)
+			 (S  (NP T)  
+			     ,
+			     (PP unlike
+				 (NP the
+				     ``
+				     railroad type
+				     ''))
+			     ,
+			     (VP draws
+				 (NP no distinction
+				     (PP between
+					 (NP (NP cost allocation) and (NP cost apportionment))))))))
+	       :
+	       (NP the single-step type)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX might)
+   (VP be
+       (VP called
+		 
+	   (NP the
+	       ``
+	       public utility
+	       ''
+	       type)))
+   (ADVP because
+	 (PP of
+	     (NP (NP the considerable use)
+		 (SBAR (WHPP to
+			     (WHNP which))
+		       (S
+			(NP it)
+			(AUX has)
+			(VP been
+			    (VP put
+				))
+			(PP in
+			    (NP gas
+				and
+				electric utility rate cases))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      (S (NP no attempt
+	     (S-1 *pseudo-attach*))
+	 (AUX is)
+	 (VP made
+	     )
+	 ,
+	 (S-1  (ADVP first)
+	       (S (NP *)
+		  (AUX to)
+		  (VP determine
+		      (NP (ADJP out-of-pocket or marginal) costs)))
+	       and
+	       (ADVP then)
+	       (S (NP *)
+		  (AUX to)
+		  (VP superimpose
+		      (PP on
+			  (NP these costs))
+		      (NP (VP   ``
+				(ADVP reasonably)
+				distributed
+				'')
+			  residues
+			  (PP of
+			      (NP total costs))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Instead)
+      ,
+      (S (NP all
+	     (PP of
+		 (NP the total costs)))
+	 (AUX are)
+	 (VP treated
+	      
+	     (PP as
+		 (NP variable costs)))
+	 ,
+	 (SBAR although
+	       (S (NP these costs)
+		  (AUX are)
+		  (VP divided
+		 
+		      (PP into
+			  (NP (NP costs)
+			      (SBAR 
+			       (WHNP that)
+			       (S (NP T)
+				  (AUX are)
+				  (VP deemed
+		 
+				      (S (NP *)
+					 (AUX to)
+					 (VP be
+					     (NP functions
+						 (PP of
+						     (NP different variables)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (SBAR whereas
+	    (S (PP in
+		   (NP Interstate Commerce Commission parlance))
+	       (S  ``
+		   (NP variable cost)
+		   ''
+		   (VP means
+		       (NP (NP a cost)
+			   (VP deemed
+			       (S (NP *)
+				  (AUX to)
+				  (VP vary
+				      (PP in
+					  (NP direct proportion
+					      (PP to
+						  (NP changes
+						      (PP in
+							  (NP rate
+							      (PP of
+								  (NP output))))))))))))))))
+      ,
+      (S (PP in
+	     (NP (NP the type
+		     (PP of
+			 (NP analysis)))
+		 (PP  (ADVP now)
+		      under
+		      (NP review))))
+	 (S  ``
+	     (NP variable cost)
+	     ''
+	     (AUX has)
+	     (VP been
+		 (VP used
+		     
+		     (ADVP more broadly)
+		     ,
+		     (SBAR so
+			   as
+			   (S (NP *)
+			      (AUX to)
+			      (VP cover
+				  (NP (NP costs)
+				      (SBAR (WHNP which)
+					    (S  ,
+						(SBAR while
+						      (S  (NP *) 
+							  (VP *
+							      (NP a function
+								  (PP of
+								      (NP (NP some one
+									      variable)
+									  *LRB*
+									  (ADJP such
+										(PP as
+										    (NP (NP output
+											    (PP of
+												(NP energy)))
+											,
+											or
+											(NP number
+											    (PP of
+												(NP customers))))))
+									  *RRB*))))))
+						,
+						(S (NP T)
+						   (VP are
+						       (NEG not)
+						       (ADVP necessarily)
+						       (NP a linear function))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP *) 
+	     (VP  (ADVP already)
+		  noted
+		  (PP in
+		      (NP an
+			  earlier
+			  paragraph)))))
+   ,
+   (S (NP the
+	  (ADJP more
+		familiar) cost analyses
+	  (PP of
+	      (NP (NP utility enterprises) or (NP utility systems))))
+      (VP divide
+	  (NP the total costs)
+	  (PP among
+	      (NP a number
+		  (PP of
+		      (NP (NP major classes
+			      (PP of
+				  (NP service)))
+			  ,
+			  (ADJP such
+				(PP as
+				    (NP (NP 
+					 (ADJP residential
+					       ,
+					       commercial
+					       ,
+					       industrial)
+					 power)
+					,
+					(NP street lighting)
+					,
+					etc
+					.))))))))))
+  .)
+( (S
+   (NP This
+       ``
+       grand division
+       '')
+   (VP permits
+       (NP many costs)
+       (S (S  (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP assigned
+		     
+		      (PP in
+			  (NP their entirety))
+		      (PP to
+			  (NP (NP some one class)
+			      ,
+			      (ADJP such
+				    (PP as
+					(NP street lighting))))))))
+	  ,
+	  or
+	  (S (PP at
+		 (ADJP least))
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP excluded
+			(ADVP completely)
+			(PP from
+			    (NP some important class or classes)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP 
+    High-tension industrial
+    power service)
+   ,
+   (PP for
+       (NP example))
+   ,
+   (AUX would)
+   (NEG not)
+   (VP be
+       (VP charged
+	       
+	   (PP with
+	       (NP any share
+		   (PP of
+		       (NP the maintenance costs or capital costs
+			   (PP of
+			       (NP the low-tension distribution lines)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  But
+	 (S (NP the major portions
+		(PP of
+		    (NP the total costs
+			(PP of
+			    (NP a utility business)))))
+	    (VP are
+		(ADJP common or joint
+		      (PP to
+			  (NP all
+			      ,
+			      or
+			      nearly
+			      all
+			      ,
+			      classes
+			      (PP of
+				  (NP customers))))))))
+     ;
+     ;
+     and
+     (S (NP these costs)
+	(X (X (AUX must)
+	      (ADVP somehow)
+	      (VP be
+		  (VP apportioned
+		 
+		      (PP among
+			  (NP the various classes)))))
+	   and
+	   (ADVP then)
+	   (X  
+	    (AUX must)
+	    (ADVP somehow)
+	    (VP be
+		(VP reapportioned
+	       
+		    (PP among
+			(NP the units
+			    (PP of
+				(NP service))))))))
+	(SBAR  in
+	       order
+	      (S (NP *)
+		 (AUX to)
+		 (VP report
+		     (NP (NP unit costs)
+			 (SBAR 
+			  (WHNP that)
+			  (S (NP T)
+			     (AUX can)
+			     (VP serve
+				 (PP as
+				     (NP tentative measures
+					 (PP of
+					     (NP reasonable rates)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP The general basis)
+       (SBAR (WHPP on
+		   (WHNP which))
+	     (S (NP these common costs)
+		(AUX are)
+		(VP assigned
+	        
+		    (PP to
+			(NP (VP  (ADVP differently)
+				 measured
+				 )
+			    units
+			    (PP of
+				(NP service))))))))
+   (AUX will)
+   (VP be
+       (VP illustrated
+	    
+	   (PP by
+	       (NP the (ADJP following)
+		   (ADJP (ADVP highly)
+			 simplified)
+		   problem
+		   (PP of
+		       (NP an electric-utility cost analysis)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP before
+	  (S (NP *)
+	     (VP turning
+		 (PP to
+		     (NP this example)))))
+      ,
+      (S (NP we)
+	 (AUX must)
+	 (VP distinguish
+	     (NP (NP two subtypes
+		     (PP of
+			 (NP analysis)))
+		 ,
+		 (SBAR (WHNP  both
+			      (WHPP of
+				    (WHNP which)))
+		       (S (NP T) 
+			  (VP belong
+			      (PP (PP to
+				      (NP the single-step type))
+				  (ADVP rather
+					(PP than
+					    (PP to
+						(NP the double-step type))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP the first subtype))
+  ,
+  (S  
+   (NP the analyst)
+   *LRB*
+   (S  (NP *)  
+       (VP following
+	   (NP the practice
+	       (PP of
+		   (NP railroad analysis))))
+       (PP in
+	   (NP this particular respect)))
+   *RRB*
+   (VP distributes
+       (NP (NP both 
+	       (NP total
+		   operating
+		   costs) and 
+	       (NP total annual capital costs))
+	   *LRB*
+	   (VP including
+	       (NP an allowance
+		   (PP for
+		       (NP ``
+			   (NP cost
+			       (PP of
+				   (NP capital)))
+			   ''
+			   or
+			   ``
+			   (NP fair rate
+			       (PP of
+				   (NP return)))
+			   ''))))
+	   *RRB*)
+       (PP among
+	   (NP the different classes and units
+	       (PP of
+		   (NP service)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      ,
+      (S (NP an apportionment
+	     ,
+	     (ADVP say)
+	     ,
+	     (PP of
+		 (NP $ 5,000,000
+		     (PP of
+			 (NP the total costs
+			     (PP-2 *pseudo-attach*)))))
+	     (PP-2 to
+		 (NP residential service
+		     (PP as
+			 (NP a class)))))
+	 (AUX would)
+	 (VP include
+	     (NP an allowance
+		 (PP of
+		     (NP  (ADVP perhaps)
+			  6
+			  per
+			  cent)))
+	     (PP as
+		 (NP the cost
+		     (PP  of
+			  (SBAR (WHNP whatever capital)
+				(S (NP T) 
+				   (AUX is)
+				   (VP deemed
+					  
+				       (S (NP *)
+					  (AUX to)
+					  (VP have
+					      (VP been
+						  (VP devoted
+							 
+						      (PP to
+							  (NP the service
+							      (PP of
+								  (NP the residential consumers)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP in
+	  (NP (NP the second subtype)
+	      ,
+	      (SBAR (WHNP which)
+		    (S
+		     (NP I)
+		     (VP take
+			 (S (NP T)
+			    (AUX to)
+			    (VP be
+				(NP (NP the one)
+				    (VP (ADVP more frequently)
+					applied)))))))))
+      ,
+      (S  
+       (NP (ADVP only)
+	   (NP the operating expenses)
+	   and
+	   (NEG not)
+	   (NP (NP the
+		   ``
+		   cost
+		   (PP of
+		       (NP capital))
+		   '')
+	       or
+	       ``
+	       (NP fair return)
+	       ''))
+       (AUX are)
+       (VP apportioned
+	   (ADVP directly)
+	   (PP among
+	       (NP the various classes
+		   (PP of
+		       (NP service)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (S  (NP *)
+      (AUX To)
+      (VP be
+	  (ADJP sure)))
+  ,
+  (S (NP (NP the capital investments
+	     (PP in
+		 (NP-3 *pseudo-attach*)))
+	 *LRB*
+	 or
+	 ,
+	 (ADVP alternatively)
+	 ,
+	 (NP the
+	     (VP estimated)
+	     ``
+	     fair
+	     values
+	     ''
+	     (PP of
+		 (NP-3 *pseudo-attach*)))
+	 *RRB*
+	 (NP-3 the plant and equipment))
+     (AUX are)
+     (VP apportioned
+	      
+	 (PP among
+	     (NP the different classes)))
+     ,
+     (SBAR  as
+	    (SINV  
+	     (VP are)
+	     (ADVP also)
+	     (NP (NP the gross revenues)
+		 (VP received
+		     (PP from
+			 (NP the sales
+			     (PP of
+				 (NP the different services))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP  any
+	      (VP resulting)
+	      excess
+	      (PP of
+		  (NP (NP revenues)
+		      (VP received
+			  (PP from
+			      (NP a (ADJP given) class
+				  (PP of
+				      (NP service)))))))
+	      (PP over
+		  (NP (NP the operating costs)
+		      (VP imputed
+			  (PP to
+			      (NP this class))))))
+	 (AUX is)
+	 (VP reported
+	  
+	     (PP as
+		 (NP (NP a
+			 ``
+			 return
+			 '')
+		     (VP realized
+			 (PP on
+			     (NP (NP the capital investment)
+				 (VP attributed
+				     (PP to
+					 (NP the same service)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      ,
+      (PP during
+	  (NP (NP any (ADJP given) year)))
+      (SBAR (SBAR  *LRB*
+		   (NP A)
+		   *RRB*
+		   (SBAR if
+			 (S (NP the revenues
+				(PP from
+				    (NP the residential service)))
+			    (VP are
+				(NP $ 7,000,000)))))
+	    ,
+	    (SBAR  *LRB*
+		   (NP B)
+		   *RRB*
+		   (SBAR if
+			 (S (NP (NP the operating expenses)
+				(VP imputed
+				    (PP to
+					(NP this class
+					    (PP of
+						(NP service))))))
+			    (VP come
+				(PP to
+				    (NP $ 5,000,000))))))
+	    ,
+	    and
+	    (SBAR  *LRB*
+		   (NP C)
+		   *RRB*
+		   (SBAR if
+			 (S (NP (NP the net investment
+				    (PP in
+					(NP-4 *pseudo-attach*)))
+				*LRB*
+				or
+				(NP value
+				    (PP of
+					(NP-4 *pseudo-attach*)))
+				*RRB*
+				(NP-4 (NP the plant and equipment)
+				      (VP deemed
+					  (VP   devoted
+						(PP to
+						    (NP this service))))))
+			    (VP amounts
+				(PP to
+				    (NP $ 30,000,000)))))))
+      ,
+      (S (NP the cost analyst)
+	 (AUX will)
+	 (VP report
+	     (SBAR that
+		   (S (NP  residential service)
+		      ,
+		      (PP in
+			  (NP the aggregate))
+		      ,
+		      (AUX has)
+		      (VP yielded
+			  (NP a return
+			      (PP of
+				  (NP (NP $ 2,000,000)
+				      or
+				      (NP 6-23
+					  per
+					  cent))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Other services)
+   (AUX will)
+   (VP show
+       (NP (NP different rates
+	       (PP of
+		   (NP return)))
+	   ,
+	   (NP (NP (NP some)
+		   (ADJP (ADVP probably)
+			 much
+			 lower))
+	       and
+	       (NP (NP some)
+		   (ADJP higher))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP (NP obvious reasons
+	       (PP of
+		   (NP convenience))
+	       (PP for
+		   (NP this practice
+		       (PP of
+			   (S (NP *) 
+			      (VP excluding
+				  ``
+				  (NP cost
+				      (PP of
+					  (NP capital)))
+				  ''
+				  (PP from
+				      (NP the direct apportionment
+					  (PP of
+					      (NP annual costs))
+					  (PP among
+					      (NP the different classes
+						  (PP of
+						      (NP service))))))))))))
+	   --
+	   (ADVP notably)
+	   ,
+	   (NP the avoidance
+	       (PP of
+		   (NP the controversial question
+		       (SBAR 
+			(WHNP what rate
+			      (PP of
+				  (NP return)))
+			(S (NP T)
+			   (AUX should)
+			   (VP be
+			       (VP held
+		     
+				   (S (NP *)
+				      (AUX to)
+				      (VP constitute
+					  (NP ``
+					      (NP cost
+						  (PP of
+						      (NP capital)))
+					      ''
+					      or
+					      ``
+					      (NP fair rate
+						  (PP of
+						      (NP return)))
+					      '')))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the practice)
+	 (VP is
+	     (ADJP likely
+		   (S (NP *)
+		      (AUX to)
+		      (VP be
+			  (ADJP misleading))))))
+      ,
+      (SBAR since
+	    (S (NP it)
+	       (AUX may)
+	       (VP seem
+		   (S (NP *)
+		      (AUX to)
+		      (VP support
+			  (NP a conclusion
+			      (SBAR that
+				    (S  ,
+					(ADVP as
+					      long
+					      (PP as
+						  (S (NP the revenues
+							 (PP from
+							     (NP any class
+								 (PP of
+								     (NP service)))))
+						     (VP cover
+							 (NP (NP the
+								 (VP imputed)
+								 operating
+								 expenses)
+							     plus
+							     (NP (NP some return
+								     (PP on
+									 (NP capital investment)))
+								 ,
+								 (ADJP  (WHADVP however)
+									low)))))))
+					,
+					(S (NP the rates
+					       (PP of
+						   (NP charge))
+					       (PP for
+						   (NP this service)))
+					   (VP are
+					       (ADJP compensatory))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADJP  Needless
+	  (S (NP *)
+	     (AUX to)
+	     (VP say)))
+   ,
+   (S (NP any such inference)
+      (AUX would)
+      (VP be
+	  (ADJP  quite
+		 unwarranted))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP (NP the reason)
+	   (VP  (ADVP just)
+		suggested)))
+   ,
+   (S (NP I)
+      (AUX shall)
+      (VP assume
+	  (NP the use
+	      (PP of
+		  (NP the first subtype
+		      (PP of
+			  (NP (VP  (ADVP fully)
+				   distributed)
+			      cost apportionment))))))
+      (PP in
+	  (NP the (ADJP following) (ADJP simplified) example))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP That)
+      (VP is
+	  (S (NP *)
+	     (AUX to)
+	     (VP say))))
+     ,
+     (S (NP an allowance
+	    (PP for
+		``
+		(NP cost
+		    (PP of
+			(NP capital)))
+		''))
+	(AUX will)
+	(VP be
+	    (VP assumed
+		    
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (VP included
+			   (ADVP directly)
+			   (PP in
+			       (NP the cost apportionment)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Three-part analysis
+    (PP of
+	(NP the costs
+	    (PP of
+		(NP an electric utility business))))))
+((S
+  (SBAR  In
+	 order
+	 (S (NP *)
+	    (AUX to)
+	    (VP simplify
+		(NP the exposition
+		    (PP of
+			(NP a
+			    typical
+			    (VP (ADVP fully)
+				apportioned)
+			    cost analysis))))))
+  ,
+  (S (NP *)
+     (VP let
+	 (NP us)
+	 (VP assume
+	     (NP the application
+		 (PP of
+		     (NP the analysis))
+		 (PP to
+		     (NP (NP an electric utility company)
+			 (VP supplying
+			     (NP a single city)
+			     (PP with
+				 (NP (NP power)
+				     (VP generated
+					 (PP by
+					     (NP its
+						 own steam-generation
+						 plant)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Let
+	 (NP us)
+	 (ADVP also)
+	 (VP assume
+	     (NP the existence
+		 (PP of
+		     (NP (NP  (ADVP only)
+			      one class or type
+			      (PP of
+				  (NP service)))
+			 ,
+			 (SBAR (WHNP  all
+				      (WHPP of
+					    (WHNP which)))
+			       (S  (NP T)
+				   (AUX is)
+				   (VP supplied
+		  
+				       (PP at
+					   (NP the same voltage
+					       ,
+					       phase
+					       ,
+					       etc.))
+				       (PP to
+					   (NP  
+					    (ADJP residential
+						  ,
+						  commercial
+						  ,
+						  and
+						  industrial) customers)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This latter assumption)
+   (AUX will)
+   (VP permit
+       (S (NP us)
+	  (AUX to)
+	  (VP center
+	      (NP attention)
+	      (PP on
+		  (NP (NP the
+			  (ADJP  most controversial)
+			  aspect
+			  (PP of
+			      (NP modern public utility cost analysis)))
+		      --
+		      (NP the distinction
+			  (PP among
+			      (NP (NP costs)
+				  (SBAR 
+				   (WHNP that)
+				   (S (NP T)
+				      (VP are
+					  (NP functions
+					      (PP of
+						  (NP (NP outputs
+							  (PP of
+							      (NP the same service)))
+						      (VP measured
+							  (PP along
+							      (NP different dimensions))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP the company
+		 (PP under
+		     (NP review)))
+	     (AUX is)
+	     (VP supplying
+		 (SBAR (WHNP what)
+		       (S
+			(NP we)
+			(AUX are)
+			(ADVP here)
+			(VP regarding
+			    (NP T)
+			    (PP as
+				(NP  (ADVP only)
+				     one kind
+				     (PP of
+					 (NP service))))))))))
+   ,
+   (S (NP we)
+      (AUX might)
+      (VP suppose
+	  (SBAR (SBAR that
+		      (S (NP the problem
+			     (PP of
+				 (NP total cost apportionment)))
+			 (AUX would)
+			 (VP be
+			     (ADJP  very
+				    simple))))
+		;
+		;
+		(ADVP indeed)
+		,
+		(SBAR that
+		      (S (NP it)
+			 (AUX would)
+			 (VP be
+			     (VP limited
+				    
+				 (PP to
+				     (NP (NP a finding
+					     (PP of
+						 (NP the total
+						     annual
+						     operating
+						     and
+						     capital costs
+						     (PP of
+							 (NP the business)))))
+					 ,
+					 (VP followed
+					     (PP by
+						 (NP a calculation
+						     (PP of
+							 (NP this total))
+						     (PP in
+							 (NP terms
+							     (PP of
+								 (NP annual cost
+								     (PP per
+									 (NP kilowatt-hour
+									     (PP of
+										 (NP consumption)))))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP fact))
+   ,
+   (ADVP however)
+   ,
+   (S (NP the problem)
+      (VP is
+	  (NEG not)
+	  (ADJP  so
+		 simple))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   For
+   (S (NP a statement
+	  (PP of
+	      (NP costs
+		  (PP per
+		      (NP kilowatt-hour)))))
+      (AUX would)
+      (VP ignore
+	  (NP the fact
+	      (SBAR that
+		    (S (NP many
+			   (PP of
+			       (NP these costs)))
+		       (VP are
+			   (NEG not)
+			   (NP a function
+			       (PP of
+				   (NP kilowatt-hour output
+				       *LRB*
+				       or
+				       consumption
+				       *RRB*
+				       (PP of
+					   (NP energy))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A recognition
+       (PP of
+	   (NP multiple cost functions)))
+   (AUX is)
+   (ADVP therefore)
+   (VP required
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The
+	  simplest
+	  division)
+      ,
+      and
+      (NP (NP the one)
+	  (VP (ADVP  most frequently)
+	      used
+	      *LRB*
+	      (PP with
+		  (NP subdivisions))
+	      *RRB*
+	      (PP in
+		  (NP gas
+		      and
+		      electric rate cases))))
+      ,)
+  (VP is
+      (NP a threefold division
+	  (PP of
+	      (NP the total
+		  operating
+		  and
+		  capital costs))
+	  (PP into
+	      (NP ``
+		  (NP customer costs)
+		  ''
+		  ,
+		  (NP  ``
+		       energy
+		       ''
+		       or
+		       ``
+		       volumetric costs
+		       '')
+		  ,
+		  and
+		  (NP  ``
+		       demand
+		       ''
+		       or
+		       ``
+		       capacity
+		       ''
+		       costs))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP this threefold division
+		  (PP of
+		      (NP costs)))
+	      (VP were
+		  (S (NP *)
+		     (AUX to)
+		     (VP have
+			 (NP its counterpart)
+			 (PP in
+			     (NP the actual rates
+				 (PP of
+				     (NP charge))
+				 (PP for
+				     (NP service)))))))
+	      ,
+	      (SBAR  as
+		     (S (NP it)
+			(ADVP actually)
+			(AUX does)
+			(VP have)
+			(PP in
+			    (NP some rates))))))
+    ,
+    (S  (NP there)
+	(AUX would)
+	(VP result
+	    (NP a three-part rate
+		(PP for
+		    (NP any one class
+			(PP of
+			    (NP service))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP example))
+   ,
+   (S (NP the monthly bill
+	  (PP of
+	      (NP a residential consumer)))
+      (AUX might)
+      (VP be
+	  (NP (NP the sum
+		  (PP of
+		      (NP (NP a
+			      $ 1
+			      customer charge)
+			  ,
+			  (NP a
+			      $ 5
+			      charge
+			      (PP for
+				  (NP 250 kilowatt-hours
+				      (PP of
+					  (NP energy))
+				      (PP at
+					  (PP per
+					      (NP kilowatt-hour))))))
+			  ,
+			  and
+			  (NP a
+			      $ 2
+			      charge
+			      (PP for
+				  (NP a maximum demand
+				      (PP of
+					  (NP 2 kilowatts
+					      (PP during
+						  (NP the month))
+					      (PP at
+						  (NP the rate
+						      (PP of
+							  (NP $ 1
+							      (PP per
+								  (NP kilowatt))))))))))))))
+	      --
+	      (NP a total bill
+		  (PP of
+		      (NP $ 8))
+		  (PP for
+		      (NP that month)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  But
+     (S (NP our present interest)
+	(VP lies
+	    (PP (PP in
+		    (NP the measurement
+			(PP of
+			    (NP costs
+				(PP of
+				    (NP service))))))
+		,
+		and
+		(ADVP (ADVP only)
+		      indirectly)
+		(PP in
+		    (NP (NP rates)
+			(SBAR 
+			 (WHNP that)
+			 (S (NP T)
+			    (X (AUX may)
+			       or
+			       (AUX may)
+			       (NEG not))
+			    (VP be
+				(VP designed
+			    
+				    (S (NP *)
+				       (AUX to)
+				       (VP cover
+					   (NP these costs)))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *)
+	(VP Let
+	    (NP us)
+	    (ADVP therefore)
+	    (VP consider
+		(NP each
+		    (PP of
+			(NP the three types
+			    (PP of
+				(NP cost)))))
+		(PP in
+		    (NP turn))))
+	,
+	(S  (NP *)  
+	    (VP recognizing
+		(SBAR that
+		      (S (NP this (ADJP simplified) classification)
+			 (AUX is)
+			 (VP used
+			     )
+			 (PP  (ADVP only)
+			      for
+			      (NP illustrative purposes)))))))
+     ;
+     ;
+     (S (NP costs)
+	(ADVP actually)
+	(VP vary
+	    (PP in
+		(NP   (ADJP (ADVP much
+				  more)
+			    complex) ways)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP (NP 1
+	   .)
+       (NP   The customer
+	     costs
+	     )))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP These)
+    (VP are
+	(NP (NP those operating and capital costs)
+	    (VP found
+		(S (NP *)
+		   (AUX to)
+		   (VP vary
+		       (PP with
+			   (NP number
+			       (PP of
+				   (NP customers)))))
+		   (ADVP regardless
+			 ,
+			 or
+			 almost
+			 regardless
+			 ,
+			 (PP of
+			     (NP power consumption))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (VP Included
+       (PP as
+	   (NP a minimum)))
+   (AUX are)
+   (NP (NP the costs
+	   (PP of
+	       (NP  (NP metering)
+		    and
+		    (NP  billing))))
+       (ADVP along
+	     (PP  with
+		  (SBAR (WHNP whatever
+			      other expenses)
+			(S
+			 (NP the company)
+			 (AUX must)
+			 (VP incur
+			     (NP T) )
+			 (PP in
+			     (S (NP *)
+				(VP taking
+				    (PRT on)
+				    (NP another consumer))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These minimum costs)
+   (AUX may)
+   (VP come
+       (PP to
+	   (NP (NP $ 1
+		   (PP per
+		       (NP month)))
+	       ,
+	       (ADJP more
+		     or
+		     less))))
+   ,
+   (PP for
+       (NP 
+	(ADJP residential and small commercial)
+	customers))
+   ,
+   (SBAR although
+	 (S (NP they)
+	    (VP are
+		(ADJP (ADVP substantially)
+		      higher))
+	    (PP for
+		(NP (NP 
+		     large industrial
+		     users)
+		    ,
+		    (SBAR 
+		     (WHNP who)
+		     (S (NP T)
+			(VP require
+			    (NP  (ADJP more
+				       costly) connections
+				       and
+				       metering
+				       devices)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  While
+	  (S (NP costs
+		 (PP on
+		     (NP this order)))
+	     (AUX are)
+	     (ADVP sometimes)
+	     (VP  (ADVP separately)
+		  charged
+		  
+		  (PP for
+		      (NP *) ))
+	     (PP in
+		 (NP (ADJP residential and commercial) rates))
+	     ,
+	     (PP in
+		 (NP the form
+		     (PP of
+			 (NP a mere
+			     ``
+			     service charge
+			     ''))))))
+   ,
+   (S (NP they)
+      (AUX are)
+      (ADVP more frequently)
+      (VP  (ADVP wholly or partly)
+	   covered
+	   (PP by
+	       (NP (NP a minimum charge)
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (VP entitles
+			   (NP the consumer)
+			   (PP to
+			       (NP a
+				   (ADJP  very
+					  small) amount
+				   (PP of
+				       (NP (NP gas) or (NP
+							electricity))))))
+		       (PP with
+			   (NP no
+			       further
+			       payment)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the
+	     (ADJP (ADVP really)
+		   controversial) aspect
+	     (PP of
+		 (NP customer-cost imputation)))
+	 (VP arises
+	     (ADVP because
+		   (PP of
+		       (NP 
+			(NP the cost analyst)
+			's frequent practice
+			(PP of
+			    (S (NP *)
+			       (VP including
+				   ,
+				   (NP (NP
+					(CONJP  (NEG not)
+						just)
+					(NP (NP those costs)
+					    (SBAR  
+					     (WHNP that)
+					     (S (NP T)
+						(AUX can)
+						(VP be
+						    (VP  (ADVP definitely)
+							 earmarked
+		     
+							 (PP as
+							     (S   (NP *) 
+								  (VP incurred
+								      (PP for
+									  (NP the benefit
+									      (PP of
+										  (NP specific customers))))))))))))
+					(CONJP but
+					       also)
+					(NP a substantial fraction
+					    (PP of
+						(NP the annual maintenance and capital costs
+						    (PP of
+							(NP the
+							    (ADJP secondary
+								  *LRB*
+								  low-voltage
+								  *RRB*)
+							    distribution system))))))
+				       --
+				       (NP (NP a fraction)
+					   (ADJP equal
+						 (PP to
+						     (NP the
+							 (ADJP estimated) annual
+							 costs
+							 (PP of
+							     (NP a hypothetical system
+								 (PP of
+								     (NP minimum capacity))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

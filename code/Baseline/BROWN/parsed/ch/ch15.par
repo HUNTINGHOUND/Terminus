@@ -1,0 +1,2471 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+        (NP the entrance side
+            (PP of
+                (NP the shelter))))
+    ,
+    (S (NP each roof beam)
+       (AUX is)
+       (VP rested
+           (PP on
+               (NP the
+                   (ADJP inside)
+                   4 inches
+                   (PP of
+                       (NP the block wall)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP outside)
+       4-inch
+       space)
+   (AUX is)
+   (VP filled
+       (PP by
+           (NP mortaring blocks
+               (PP on
+                   (NP edge))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 
+       (ADJP wooden) 
+       bracing
+       (PP between
+           (NP the roof beams)))
+   (AUX is)
+   (VP placed
+       (ADJP flush
+             (PP with
+                 (NP the inside
+                     (PP of
+                         (NP the wall)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mortar)
+   (AUX is)
+   (VP poured
+       (PP between
+           (NP (NP this bracing)
+               and
+               (NP the 4-inch blocks
+                   (PP on
+                       (NP edge))))))
+   (S (NP *)
+      (AUX to)
+      (VP complete
+          (NP the wall thickness
+              (PP for
+                  (NP radiation shielding))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S *LRB*
+      (PP For
+          (NP details))
+      (S  (NP *) 
+          (VP see
+              (NP (NP inset)
+                  ,
+                  (NP fig. 5))))
+      .
+      *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The
+            (ADJP first)
+            one
+            or
+            two roof boards)
+        (VP *LRB*
+            (VP marked
+                (NP ``
+                    E
+                    '')
+                (PP in
+                    (NP fig. 6)))
+            *RRB*))
+    (AUX are)
+    (VP slipped
+        (PP into
+            (NP place))
+        (PP across
+            (NP the roof beams))
+        ,
+        (PP from
+            (NP (ADJP outside)
+                the shelter))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These boards)
+   (AUX are)
+   (VP nailed
+       (PP to
+           (NP the roof beams)))
+   (PP by
+       (S (NP *)
+          (VP reaching
+              (ADVP up)
+              (PP through
+                  (NP the 
+                      (ADJP open) 
+                      space
+                      (PP between
+                          (NP the beams))))
+              ,
+              (PP from
+                  (NP (ADJP inside)
+                      the shelter))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Concrete blocks)
+   (AUX are)
+   (VP (VP passed
+           (PP between
+               (NP the beams)))
+       and
+       (VP put)
+       (PP on
+           (NP the boards))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The roof blocks)
+   (X (VP are
+           (PP in
+               (NP two layers)))
+       and
+       (X (AUX are)
+          (NEG not)
+          (VP mortared
+              (ADVP together)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Work
+       (PP on
+           (NP the roof)))
+   (VP continues
+       (PP in
+           (NP this way))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 
+       (ADJP last) 
+       roof boards)
+   (AUX are)
+   (VP covered
+       (PP with
+           (NP blocks)))
+   (PP from
+       (NP (ADJP outside)
+           the shelter)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP the roof blocks)
+             (NP-1 *pseudo-attach*))
+         (VP are
+             (NP-1 all)
+             (PP in
+                 (NP place)))))
+     ,
+     (S (NP the
+            (ADJP final 
+                  rows)
+            (PP of
+                (NP wall blocks)))
+        (AUX are)
+        (VP mortared
+            (PP into
+                (NP position)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The structure)
+   (VP is
+       (ADJP complete)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+	 (NP fig. 7))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Building plans)
+    (VP are
+        (PP on
+            (NP page 21))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP (ADJP Solid) 
+            concrete blocks)
+        ,
+        (ADJP (ADVP relatively)
+              heavy and dense)
+        ,)
+    (AUX are)
+    (VP used
+        (PP for
+            (NP this shelter))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP These blocks)
+       (AUX are)
+       (VP sold
+           (PP in
+               (NP various sizes)))
+    (SBAR so
+	  (S (NP it)
+	     (ADVP seldom)
+	     (VP is
+		 (ADJP necessary
+		       (S (NP *)
+			  (AUX to)
+			  (VP cut
+			      (NP a block)
+			      (S (NP *)
+				 (AUX to)
+				 (VP fit)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Solid) 
+       blocks)
+   (AUX are)
+   (VP recommended)
+   (SBAR because
+         (S (NP (ADJP hollow) 
+                blocks)
+            (AUX would)
+            (VP have
+                (S (NP *)
+                   (AUX to)
+                   (VP be
+                       (VP filled
+                           (PP with
+                               (NP concrete))))))
+            (S (NP *)
+               (AUX to)
+               (VP give
+                   (NP (ADJP effective) 
+                       protection))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Bricks)
+   (VP are
+       (NP an alternative)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP they)
+          (AUX are)
+          (VP used)))
+   ,
+   (S (NP the walls and roof)
+      (AUX should)
+      (VP be
+          (ADJP (NP 10 inches)
+                thick))
+      (S (NP *)
+         (AUX to)
+         (VP give
+             (NP the 
+                 (ADJP same) 
+                 protection
+                 (PP as
+                     (NP the 8-inch 
+                         (ADJP solid) 
+                         concrete 
+                         blocks)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The illustrations
+       (PP in
+           (NP fig. 8)))
+   (VP show
+       (SBAR (WHADVP how)
+             (S (NP *)
+                (AUX to)
+                (VP lay
+                    (NP a concrete block wall))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP More
+              detailed)
+        instructions)
+    (AUX may)
+    (VP be
+        (VP obtained
+            (PP from
+                (NP your 
+                    (ADJP local)
+                    building supply houses and craftsmen)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Other)
+        sources
+        (PP of
+            (NP information)))
+    (VP include
+        (NP (NP (NP the National Concrete Masonry Association)
+                ,
+                (NP (NP 38
+                        South Dearborn Street)
+                    ,
+                    (NP (NP Chicago)
+                        ,
+                        (NP Ill.))))
+            ,
+            (NP (NP the Portland Cement Association)
+                ,
+                (NP (NP 33
+                        West Grand Avenue)
+                    ,
+                    (NP (NP Chicago)
+                        ,
+                        (NP Ill.))))
+            ,
+            and
+            (NP (NP the Structural Clay Products Association)
+                ,
+                (NP (NP Washington)
+                    ,
+                    (NP D.C.)))))
+ .)
+ ((NP (ADJP Aboveground)
+     double-wall
+     shelter))
+    ((S
+     (NP An
+         (ADJP outdoor
+               ,
+               aboveground)
+         fallout shelter)
+     (ADVP also)
+     (AUX may)
+     (VP be
+         (VP built
+             (PP with
+                 (NP concrete blocks))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S *LRB*
+     (NP *)
+     (VP See
+         (NP (NP fig. 9)
+             ,
+             (NP double-wall shelter)))
+     .
+     *RRB*))
+(  END_OF_TEXT_UNIT)
+((S (NP
+     (ADJP Most)
+     people)
+    (AUX would)
+    (VP have
+        (S (NP *)
+           (AUX to)
+           (VP hire
+               (NP a contractor))))
+    (S (NP *)
+       (AUX to)
+       (VP build
+           (NP this shelter))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Plans)
+   (VP are
+       (PP on
+           (NP pages 22
+               and
+               23))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This shelter)
+   (AUX could)
+   (VP be
+       (VP built
+           (PP in
+               (NP (NP regions)
+                   (SBAR (SBAR 
+                          (WHADVP where)
+                          (S (NP (NP water) 
+                                 or
+                                 (NP rock))
+                             (VP is
+                                 (ADJP close
+                                       (PP to
+                                           (NP the surface))))
+                             ,
+                             (S (NP *)
+                                (VP making
+                                    (NP it)
+                                    (ADJP impractical
+                                          (S (NP *)
+                                             (AUX to)
+                                             (VP build
+                                                 (NP an 
+                                                     (ADJP underground)
+                                                     shelter))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two walls
+       (PP of
+           (NP concrete blocks)))
+   (AUX are)
+   (VP constructed
+       (ADJP (NP (PP at
+                     (NP (ADJP least)))
+                 20 inches)
+             apart)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The space
+       (PP between
+           (NP them)))
+   (AUX is)
+   (VP filled
+       (PP with
+           (NP (ADJP pit-run) 
+               gravel or earth))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The walls)
+    (AUX are)
+    (VP held
+        (ADVP together)
+        (PP with
+            (NP (NP metal ties)
+                (VP placed
+                    (PP in
+                        (NP the 
+                            (ADJP wet) 
+                            mortar))
+                    (PP as
+                        (S (NP the walls)
+                           (AUX are)
+                           (VP built
+                               ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The roof)
+        (VP shown
+            (ADVP here))
+        (NP *LRB*
+            (NP fig. 9)
+            *RRB*))
+    (VP is
+        (NP a 6-inch slab
+            (PP of
+                (NP (NP  (ADJP reinforced)
+                         concrete)
+                    ,
+                    (VP covered
+                        (PP with
+                            (NP (PP at
+                                    (NP (ADJP least)))
+                                20 inches
+                                (PP of
+                                    (NP (ADJP pit-run) 
+                                        gravel))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP An 
+            (ADJP alternate) 
+            roof)
+        ,
+        (ADVP perhaps)
+        (PP (ADJP more)
+            within
+            (NP do-it-yourself reach)))
+    ,
+    (AUX could)
+    (VP be
+        (VP constructed
+            (PP of
+                (NP (NP 
+                     (ADJP heavy)
+                     (ADJP wooden)
+                     roof beams)
+                    ,
+                    (VP overlaid
+                        (PP with
+                            (NP (NP boards) 
+                                and 
+                                (NP waterproofing)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP have
+       (S (NP *)
+          (AUX to)
+          (VP be
+              (VP covered
+                  (PP with
+                      (NP (PP at
+                              (NP (ADJP least)))
+                          28 inches
+                          (PP of
+                              (NP (ADJP pit-run) 
+                                  gravel)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The materials
+       (PP for
+           (NP a double-wall shelter)))
+   (AUX would)
+   (VP cost
+       (NP about
+           $ 700)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Contractors)
+    ' charges)
+   (AUX would)
+   (VP be
+       (ADJP additional)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The shelter)
+   (AUX would)
+   (VP provide
+       (NP (ADJP almost
+                 absolute) 
+           fallout protection)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Pre-shaped)
+    metal shelter))
+(  
+ (S (NP (NP (ADJP Pre-shaped)
+	    corrugated
+	    metal
+	    sections)
+	or
+	(NP (ADJP pre-cast) 
+	    concrete))
+        (AUX can)
+        (VP be
+            (VP used
+                      
+                (PP for
+                    (NP (NP shelters)
+                        (PP either
+                            above or below
+                            (NP ground)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP are
+       (ADJP (ADVP particularly)
+             suitable
+             (PP for
+                 (NP (NP regions)
+                     (SBAR 
+                      (WHADVP where)
+                      (S (NP (NP water)
+                             or 
+                             (NP rock))
+                         (VP is
+                             (ADJP close
+                                   (PP to
+                                       (NP the surface)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP form
+        (NP (ADJP effective) 
+            fallout shelters))
+    (SBAR (WHADVP when)
+          (S (NP *)
+             (VP mounded
+                 (PRT over)
+                 (PP with
+                     (NP earth)))))
+    ,
+    (PP as
+        (S (NP *)
+           (VP shown
+               (PP in
+                   (NP figure 10))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Materials
+       (PP for
+           (NP this shelter)))
+   (AUX would)
+   (VP cost
+       (NP about
+           $ 700)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A contractor)
+    (ADVP probably)
+    (AUX would)
+    (VP be
+        (VP required
+            (S-2 *pseudo-attach*)))
+    (S-2 (NP *)
+       (AUX to)
+       (VP help
+           (VP build
+               (NP it)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His charges)
+   (AUX would)
+   (VP be
+       (VP added
+           (PP to
+               (NP the cost
+                   (PP of
+                       (NP materials)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This shelter
+        ,
+        (PP as
+            (S  (NP *) 
+                (VP shown
+                    (PP on
+                        (NP page 24)))))
+        ,)
+    (AUX would)
+    (VP provide
+        (NP (ADJP almost
+                  absolute)
+            protection
+            (PP from
+                (NP fallout radiation)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP An 
+            (ADJP alternate) 
+            hatchway entrance)
+        ,
+        (VP shown
+            (PP on
+                (NP page 25)))
+        ,)
+    (AUX would)
+    (VP reduce
+        (NP the cost
+            (PP of
+                (NP materials)))
+        (ADVP (NP $ 50
+                  (PP to
+                      (NP $ 100))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The National Lumber Manufacturers Association)
+        ,
+        (NP (NP Washington)
+            ,
+            (NP D.C.))
+        ,)
+    (AUX is)
+    (VP developing
+        (NP plans
+            (S (NP *)
+               (AUX to)
+               (VP utilize
+                   (NP (ADJP specially
+                             treated)
+                       lumber)
+                   (PP for
+                       (NP (ADJP underground) 
+                           shelter construction)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The Structural Clay Products Institute)
+        ,
+        (NP (NP Washington)
+            ,
+            (NP D.C.))
+        ,)
+    (AUX is)
+    (VP working
+        (S (NP *)
+           (AUX to)
+           (VP develop
+               (NP (NP brick and clay products)
+                   (ADJP suitable
+                         (PP for
+                             (NP shelter construction))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Underground) 
+    concrete shelter))
+( 
+ (S
+  (NP An
+      (ADJP underground)
+      reinforced concrete shelter)
+  (AUX can)
+  (VP be
+      (VP built
+	  (PP by
+	      (NP a contractor))
+	  (PP for
+	      (NP about
+		  $ 1,000
+		  (PP to
+		      (NP $ 1,500))))))
+  ,
+  (S (NP *)
+     (VP depending
+         (PP on
+             (NP the type
+                 (PP of
+                     (NP entrance)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The shelter)
+       (VP shown))
+   (AUX would)
+   (VP provide
+       (NP (ADJP almost
+                 absolute)
+           fallout protection)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The illustration)
+        (NP *LRB*
+            fig. 11
+            *RRB*))
+    (VP shows
+        (NP this shelter
+            (PP with
+                (NP the roof
+                    (X (PP at
+                           (NP ground level))
+                       and
+                       (VP mounded
+                           (PRT over))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 
+       (ADJP same) 
+       shelter)
+   (AUX could)
+   (VP be
+       (VP built
+           (PP (PP into
+                   (NP an embankment))
+               or
+               (PP below
+                   (NP ground level))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Plans
+        (PP for
+            (NP the shelter
+                ,
+                (PP with
+                    (NP either
+                        a stairway or hatchway entrance))))
+        ,)
+    (AUX are)
+    (VP shown
+        (PP on
+            (NP pages 26
+                and
+                27))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP Another type
+             (PP of
+                 (NP shelter)))
+         (SBAR
+          (WHNP which)
+          (S (NP T)
+             (VP gives
+                 (NP (ADJP excellent) 
+                     fallout protection)))))
+     (AUX can)
+     (VP be
+         (VP built
+             (PP as
+                 (NP an added room
+                     (PP to
+                         (NP the basement
+                             (PP of
+                                 (NP a home
+                                     (PP under
+                                         (NP construction)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP add
+       (NP about
+           $ 500)
+       (PP to
+           (NP the total cost
+               (PP of
+                   (NP the home))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The shelter)
+       (VP illustrated
+           (PP in
+               (NP figure 12))))
+   (AUX is)
+   (VP based
+       (PP on
+	   (NP (NP 
+		(ADJP such)
+		a room)
+	       (VP built
+		   (PP in
+		       (NP a 
+			   (ADJP new) 
+			   home
+			   (PP in
+			       (NP the 
+				   (NP (NP Washington)
+				       ,
+				       (NP D.C.))
+				   area))))
+		   (PP in
+		       (NP the Spring
+			   (PP of
+			       (NP 1959)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP (ADJP Important)
+	   considerations)
+       (ADJP common
+	     (PP to
+		 (NP each type
+		     (PP of
+			 (NP shelter))))))
+   (VP are
+       :
+       (NP (NP (NP 1)
+	       .
+	       (NP Arrangement
+		   (PP of
+		       (NP the entrance)))
+	       .)
+	   (NP (NP 2)
+	       .
+	       (NP Ventilation)
+	       .)
+	   (NP (NP 3)
+	       .
+	       (NP Radio reception)
+	       .)
+	   (NP (NP 4)
+	       .
+	       (NP Lighting)
+	       .)))))
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The entrance)
+   (AUX must)
+   (VP have
+       (NP (PP at
+	       (NP (ADJP least)))
+	   one right-angle turn)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Radiation)
+   (VP scatters
+       (ADVP somewhat)
+       (PP like
+	   (NP light))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some)
+   (AUX will)
+   (VP go
+       (PP around
+	   (NP a corner))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The rest)
+   (VP continues
+       (PP in
+	   (NP a 
+	       (ADJP straight) 
+	       line))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Therefore)
+     ,
+     (S (NP (ADJP sharp) 
+	    turns
+	    (PP in
+		(NP a shelter entrance)))
+	(AUX will)
+	(VP reduce
+	    (NP radiation intensity
+		(PP inside
+		    (NP the shelter))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ventilation)
+   (AUX is)
+   (VP provided
+       (PP in
+	   (NP a concrete block basement shelter))
+       (PP (PP by
+	       (NP vents
+		   (PP in
+		       (NP the wall))))
+	   and
+	   (PP by
+	       (NP the 
+		   (ADJP open) 
+		   entrance)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A blower)
+   (AUX may)
+   (VP be
+       (VP installed))
+   (S (NP *)
+      (AUX to)
+      (VP increase
+	  (NP comfort))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A blower)
+   (VP is
+       (ADJP essential
+	     (PP (PP for
+		     (NP the double-wall shelter))
+		 and
+		 (PP for
+		     (NP the 
+			 (ADJP underground)
+			 shelters))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX should)
+   (VP provide
+       (NP (NEG not)
+	   (ADJP less)
+	   (PP than
+	       (NP 5 
+		   (ADJP cubic) 
+		   feet
+		   (PP per
+		       (NP minute))
+		   (PP of
+		       (NP air))
+		   (PP per
+		       (NP person)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Vent pipes)
+       (ADVP also)
+       (VP are
+	   (ADJP necessary))
+       (PP *LRB*
+	   as
+	   (S  (NP *) 
+	       (VP shown
+		   (PP in
+		       (NP figs. 9
+			   ,
+			   10
+			   ,
+			   and
+			   11))))
+	   *RRB*))
+    ,
+    but
+    (S (NP filters)
+       (VP are
+	   (NEG not))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Radio reception)
+   (AUX is)
+   (VP cut
+       (PRT down)
+       (PP by
+	   (NP (NP the shielding)
+	       (ADJP necessary
+		     (S (NP *)
+			(AUX to)
+			(VP keep
+			    (ADVP out)
+			    (NP radiation))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP As
+	   soon
+	   (PP as
+	       (S (NP the shelter)
+		  (AUX is)
+		  (VP completed))))
+     (S (NP a radio reception check)
+	(AUX must)
+	(VP be
+	    (VP made
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP probably)
+   (AUX will)
+   (VP be
+       (ADJP necessary))
+   (S (NP *)
+      (AUX to)
+      (VP install
+	  (NP an 
+	      (ADJP outside)
+	      antenna))
+      ,
+      (ADVP particularly)
+      (S (NP *)
+	 (AUX to)
+	 (VP receive
+	     (NP CONELRAD broadcasts)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lighting)
+   (VP is
+       (NP an 
+	   (ADJP important) 
+	   consideration)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP
+     (ADJP Continuous 
+	   (ADJP low-level))
+     lighting)
+    (AUX may)
+    (VP be
+	(VP provided
+	    (PP in
+		(NP the shelter))
+	    (PP by
+		(NP means
+		    (PP of
+			(NP (NP a
+				(ADJP 4-cell)
+				(ADJP hot-shot)
+				battery)
+			    (SBAR (WHPP to
+					(WHNP which))
+				  (SINV (AUX is)
+					(VP wired)
+					(NP a
+					    (ADJP 150-milliampere)
+					    (ADJP flashlight-type)
+					    bulb))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Tests)
+    (AUX have)
+    (VP shown
+	(SBAR that
+	      (S (NP (ADJP such)
+		     a device
+		     ,
+		     (PP with
+			 (NP a 
+			     (ADJP fresh) 
+			     battery))
+		     ,)
+		 (AUX will)
+		 (VP furnish
+		     (NP light)
+		     (ADVP continuously)
+		     (PP for
+			 (NP (PP at
+				 (NP (ADJP least)))
+			     10 days)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP a 
+	    (ADJP spare) 
+	    battery))
+    ,
+    (S (NP a source
+	   (PP of
+	       (NP light))
+	   (PP for
+	       (NP 2 weeks
+		   or
+		   more)))
+       (AUX would)
+       (VP be
+	   (VP assured
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A flashlight
+	or
+	(ADJP electric)
+	lantern)
+    (ADVP also)
+    (AUX should)
+    (VP be
+	(ADJP available
+	      (PP for
+		  (NP (NP those periods)
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP a
+			      (ADJP brighter)
+			      light)
+			  (AUX is)
+			  (VP needed
+			     (NP T)   ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP There)
+    (AUX should)
+    (VP be
+	(NP a
+	    (ADJP regular)
+	    (ADJP electrical)
+	    outlet
+	    (PP in
+		(NP the shelter))))
+    (PP as
+	  (S (NP power)
+	     (AUX may)
+	     (VP continue
+		 (PP in
+		     (NP many areas))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP (ADJP Other)
+    considerations)
+.)
+( 
+ --
+    (S (PP If
+	   (S (NP there)
+	      (VP are
+		  (NP outside windows))
+	      (PP in
+		  (NP (NP the basement corner)
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP you)
+			  (VP build
+			      (NP a shelter))))))))
+       ,
+       (S (NP they)
+	  (AUX should)
+	  (VP be
+	      (VP shielded
+		  (PP as
+		      (S  (NP *) 
+			  (VP shown
+			      (PP in
+				  (NP (NP the Appendix)
+				      ,
+				      (NP page 29))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Other) 
+       basement windows)
+   (AUX should)
+   (VP be
+       (VP blocked))
+   (SBAR 
+    (WHADVP when)
+    (S (NP an emergency)
+       (VP threatens))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Basement walls)
+	(SBAR that
+	      (S  (NP T) 
+		  (VP project
+		      (PP above
+			  (NP the ground))))))
+    (AUX should)
+    (VP be
+	(VP shielded
+	    (PP as
+		(S  (NP *) 
+		    (VP shown
+			(PP in
+			    (NP (NP the Appendix)
+				,
+				(NP page 29)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP these shelters))
+     (S
+      (NP the entrance)
+      (AUX should)
+      (VP be
+	  (NEG not)
+	  (ADJP more
+		(PP than
+		    (NP 2 feet))
+		wide))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Bunks)
+	,
+	or
+	(NP (NP materials)
+	    (S (NP *)
+	       (AUX to)
+	       (VP build
+		   (NP them))))
+	,)
+    (AUX may)
+    (VP have
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP put
+			     
+		   (PP inside
+		       (NP the enclosure))))))
+    (PP before
+	(S (NP the shelter walls)
+	   (AUX are)
+	   (VP completed
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The basement or 
+       (ADJP belowground) 
+       shelters)
+   (ADVP also)
+   (AUX will)
+   (VP serve
+       (PP for
+	   (NP tornado or hurricane protection))))
+  .)
+(  END_OF_TEXT_UNIT) 
+((S (NP 3)
+   .
+   (S  (NP *)
+       (VP Living
+	   (PP in
+	       (NP a shelter))))))
+((S (NP The radioactivity
+       (PP of
+	   (NP fallout)))
+   (VP decays
+       (ADVP rapidly))
+   (PP at
+       (NP (ADJP first)))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Forty-nine hours
+	 (PP after
+	     (NP an
+		 (ADJP atomic) 
+		 burst)))
+     (S (NP the radiation intensity)
+	(VP is
+	    (ADVP only)
+	    (NP about
+		1 percent
+		(PP of
+		    (SBAR (WHNP what)
+			  (S (NP it)
+			     (VP was
+				 (NP T)
+				 (ADVP (NP an hour
+					   (PP after
+					       (NP the explosion))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP the radiation)
+        (AUX may)
+        (VP be
+            (ADJP so
+		  intense
+		  (PP at
+		      (NP the start))
+		  (SBAR that
+			(S (NP one percent)
+			   (AUX may)
+			   (VP be
+			       (ADJP (ADVP extremely)
+				     dangerous))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Therefore)
+     ,
+     (S (NP (NP (ADJP civil)
+		defense instructions)
+	    (VP received
+		(PP (PP over
+			(NP CONELRAD))
+		    or
+		    (PP by
+			(NP (ADJP other) 
+			    means)))))
+	(AUX should)
+	(VP be
+	    (VP followed
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP  A 
+	(ADJP battery-powered) 
+	radio)
+   (VP is
+       (ADJP essential)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Radiation instruments)
+       (ADJP suitable
+	     (PP for
+		 (NP home use))))
+   (X (VP are
+	   (ADJP available))
+       ,
+       and
+       (X (AUX would)
+	  (VP be
+	      (PP of
+		  (NP value
+		      (PP in
+			  (S (NP *)
+			     (VP locating
+				 (NP (NP that portion
+					 (PP of
+					     (NP the home)))
+				     (SBAR
+				      (WHNP which)
+				      (S (NP T)
+					 (VP offers
+					     (NP the
+						 (ADJP best)
+						 protection
+						 (PP against
+						     (NP fallout radiation))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a possibility
+	   (SBAR that
+		 (S (NP (ADJP battery-powered)
+			radios)
+		    (PP with
+			(NP (ADJP built-in) 
+			    radiation meters))
+		    (AUX may)
+		    (VP become
+			(ADJP available)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One instrument)
+   (ADVP thus)
+   (AUX would)
+   (VP serve
+       (NP both
+	   purposes)))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Your
+       (ADJP local)
+       (ADJP civil)
+       defense)
+   (X (X (AUX will)
+	 (VP gather
+	     (NP its 
+		 (ADJP own) 
+		 information)))
+      and
+      (X (AUX will)
+	 (VP receive
+	     (NP (ADJP broad) 
+		 information)
+	     (PP from
+		 (NP State
+		     and
+		     (ADJP Federal) 
+		     sources))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX will)
+   (VP tell
+       (NP you)
+       (ADJP as
+	     soon
+	     (ADJP as
+		   possible))
+       :
+       (SBAR (SBAR (WHADVP How
+			   long)
+		   (S (NP *)
+		      (AUX to)
+		      (VP stay
+			  (PP in
+			      (NP your shelter)))))
+	     ;
+	     ;
+	     (SBAR 
+	      (WHADVP How
+		      soon)
+	      (S (NP you)
+		 (AUX may)
+		 (VP go
+		     (ADVP outdoors))))
+	     ;
+	     ;
+	     (SBAR 
+	      (WHADVP How
+		      long)
+	      (S (NP you)
+		 (AUX may)
+		 (VP stay
+		     (ADVP outside)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX should)
+   (VP be
+       (VP prepared
+	   (S (S (NP *)
+		 (AUX to)
+		 (VP stay
+		     (PP in
+			 (NP your shelter))
+		     (ADVP (ADJP full) 
+			   time)
+		     (PP for
+			 (NP (PP at
+				 (NP (ADJP least)))
+			     several days))))
+	      and
+	      (S (NP *)
+		 (AUX to)
+		 (VP make
+		     (NP it)
+		     (NP your home)
+		     (PP for
+			 (X (NP 14 days)
+			    or
+			    (ADJP longer)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A checklist
+	(PP in
+	    (NP (NP the Appendix)
+		(NP *LRB*
+		    *LRB*
+		    page 30
+		    *RRB*))))
+    (VP tells
+	(SBAR
+	 (WHNP what)
+	 (S (NP T)
+	    (AUX is)
+	    (VP needed
+		)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Families
+       (PP with
+	   (NP children)))
+   (AUX will)
+   (VP have
+       (NP (ADJP particular) 
+	   problems)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX should)
+   (VP provide
+       (PP for
+	   (NP (ADJP simple)
+	       recreation))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX should)
+      (VP be
+	  (NP a task
+	      (PP for
+		  (NP everyone)))))
+     and
+     (S (NP these tasks)
+	(AUX should)
+	(VP be
+	    (VP rotated
+		))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Part
+       (PP of
+	   (NP the family)))
+   (AUX should)
+   (VP be
+       (VP sleeping))
+   (SBAR while
+	 (S (NP the rest)
+	    (VP is
+		(ADJP awake)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP *) 
+	 (AUX To)
+	 (VP break
+	     (NP the monotony)))
+      (S (NP it)
+	 (AUX may)
+	 (VP be
+	     (ADJP necessary))
+	 (S (NP *)
+	    (AUX to)
+	    (VP invent
+		(NP (NP tasks)
+		    (SBAR that
+			  (S (NP T)
+			     (AUX will)
+			     (VP keep
+				 (NP the family)
+				 (ADJP busy)))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Records)
+       (ADJP such
+	     (PP as
+		 (NP diaries))))
+   (AUX can)
+   (VP be
+       (VP kept
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The survival
+       (PP of
+	   (NP the family)))
+   (AUX will)
+   (VP depend
+       (ADVP largely)
+       (PP on
+	   (NP (NP information)
+	       (VP received
+		   (PP by
+		       (NP radio)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A record
+       (PP-1 *pseudo-attach*))
+   (AUX should)
+   (VP be
+       (VP kept))
+   (PP-1 of
+	 (NP (NP the information and instructions)
+	     ,
+	     (VP including
+		 (NP the time and date
+		     (PP of
+			 (NP broadcast)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Family rationing)
+   (ADVP probably)
+   (AUX will)
+   (VP be
+       (ADJP necessary)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Blowers)
+   (AUX should)
+   (VP be
+       (VP operated
+	   (ADVP periodically)
+	   (PP on
+	       (NP a 
+		   (ADJP regular) 
+		   schedule)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX will)
+   (VP come
+       (NP (NP a time
+	       (PP in
+		   (NP a basement shelter)))
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP the radiation)
+	       (AUX has)
+	       (VP decayed
+		   (ADJP enough
+			 (S (NP *)
+			    (AUX to)
+			    (VP allow
+				(NP use
+				    (PP of
+					(NP the
+					    (ADJP whole) 
+					    basement))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (NP (ADJP as
+		  much)
+	    time
+	    (ADJP as
+		  possible))
+	(AUX should)
+	(VP be
+	    (VP spent
+		(PP within
+		    (NP the shelter))))
+	(S (NP *)
+	   (AUX to)
+	   (VP hold
+	       (NP radiation exposure)
+	       (PP to
+		   (NP a minimum))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The housekeeping problems
+	(PP of
+	    (S (NP *)
+	       (VP living
+		   (PP in
+		       (NP a shelter))))))
+    (AUX will)
+    (VP begin)
+    (ADJP as
+	  soon
+	  (PP as
+	      (S (NP the shelter)
+		 (AUX is)
+		 (VP occupied)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Food)
+	,
+	(NP (ADJP medical) 
+	    supplies)
+	,
+	(NP utensils)
+	,
+	and
+	(NP equipment))
+    ,
+    (PP if
+	(S  (NP *)
+	    (NEG not)
+	    (ADVP already)
+	    (VP stored
+		(PP in
+		    (NP the shelter)))))
+    ,
+    (AUX must)
+    (VP be
+	(ADVP quickly)
+	(VP (VP gathered
+		(PRT up))
+	    and
+	    (VP carried
+		(PP into
+		    (NP it))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP the family)
+	   (AUX has)
+	   (VP settled
+	       (PP in
+		   (NP the shelter)))))
+    ,
+    (S (NP the housekeeping rules)
+       (AUX should)
+       (VP be
+	   (VP spelled
+	       (PRT out)
+	       (PP by
+		   (NP the adult
+		       (PP in
+			   (NP charge))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sanitation
+       (PP in
+	   (NP the confines
+	       (PP of
+		   (NP the family shelter)))))
+   (AUX will)
+   (VP require
+       (NP much thought and planning)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Provision
+	   (PP for
+	       (NP emergency toilet facilities)))
+        and
+       (NP disposal
+	   (PP of
+	       (NP (ADJP human) 
+		   wastes))))
+   (AUX will)
+   (VP be
+       (NP an 
+	   (ADJP unfamiliar) 
+	   problem)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A 
+	   (ADJP covered)
+	   container)
+       (ADJP such
+	     (PP as
+		 (NP a kitchen garbage pail))))
+   (AUX might)
+   (VP do
+       (PP as
+	   (NP a toilet))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A 10-gallon garbage can
+	,
+	(PP with
+	    (NP a
+		(ADJP (ADVP tightly)
+		      fitting)
+		cover))
+	,)
+    (AUX could)
+    (VP be
+	(VP used
+	    (S (NP *)
+	       (AUX to)
+	       (VP keep
+		   (NP the wastes)))))
+    (PP until
+	(S (NP it)
+	   (VP is
+	       (ADJP safe
+		     (S (NP *)
+			(AUX to)
+			(VP leave
+			    (NP the shelter))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Water rationing)
+   (X (X (AUX will)
+	 (VP be
+	     (ADJP difficult)))
+      and
+      (X (AUX should)
+	 (VP be
+	     (VP planned
+		 (ADVP carefully))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP portable)
+       (ADJP electric)
+       heater)
+   (VP is
+       (ADJP advisable
+	     (PP for
+		 (NP shelters
+		     (PP in
+			 (NP (ADJP cold)
+			     climates)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX would)
+   (VP take
+       (NP the chill)
+       (PP from
+	   (NP the shelter)))
+   (PP in
+       (NP the beginning)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Even)
+     (SBAR if
+	   (S (NP the 
+		  (ADJP electric) 
+		  power)
+	      (VP fails
+		  (PP after
+		      (NP an attack)))))
+     ,
+     (S (NP (NP any time)
+	    (SBAR that
+		  (S (NP the heater)
+		     (AUX has)
+		     (VP been
+			 (VP used
+			     (NP T))))))
+	(AUX will)
+	(VP make
+	    (NP the shelter)
+	    (ADJP (NP that
+		      much)
+		  more
+		  comfortable))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Body heat
+	(PP in
+	    (NP the 
+		(ADJP close) 
+		quarters)))
+    (AUX will)
+    (VP help
+	(VP keep
+	    (PRT up)
+	    (NP the temperature))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Warm) 
+	clothing and bedding)
+    ,
+    (PP of
+	(NP course))
+    ,
+    (VP are
+	(ADJP essential)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Open-flame) 
+       heating or cooking)
+   (AUX should)
+   (VP be
+       (VP avoided
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A flame)
+   (AUX would)
+   (VP use
+       (PRT up)
+       (NP air)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some families)
+   (ADVP already)
+   (AUX have)
+   (VP held
+       (NP weekend rehearsals
+	   (PP in
+	       (NP their home shelters))))
+   (S (S (NP *)
+	 (AUX to)
+	 (VP learn
+	     (NP the problems))
+	 and)
+      (S (NP *)
+	 (AUX to)
+	 (VP determine
+	     (PP for
+		 (NP themselves))
+	     (SBAR
+	      (WHNP what supplies)
+	      (S (NP they)
+		 (AUX would)
+		 (VP need
+		     (NP T))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP 4)
+     .
+     (S (PP If
+	    (S (NP an attack)
+	       (VP finds
+		   (NP you)
+		   (PP without
+		       (NP a
+			   (ADJP prepared) 
+			   shelter)))))
+	(S (S (NP Few areas)
+	      ,
+	      (X if
+		 (NP any))
+	      ,
+	      (VP are
+		  (ADJP as
+			good
+			(PP as
+			    (NP (ADJP prepared)
+				shelters)))))
+	   but
+	   (S (NP they)
+	      (VP are
+		  (ADJP worth
+			(S (NP *)
+			   (VP knowing
+			       (PP about)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A family dwelling
+       (PP without
+	   (NP a basement)))
+   (VP provides
+       (NP some
+	   (ADJP natural) 
+	   shielding
+	   (PP from
+	       (NP fallout radiation)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+	 (NP the ground floor))
+     (S
+      (NP the radiation)
+      (AUX would)
+      (VP be
+	  (NP (NP about
+		  half)
+	      (SBAR (WHNP what)
+		    (S (NP it)
+		       (VP is
+			   (NP T)
+			   (ADJP outside))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP best)
+       protection)
+   (AUX would)
+   (VP be
+       (PP on
+	   (NP the ground floor))
+       (PP in
+	   (NP the 
+	       (ADJP central)
+	       part
+	       (PP of
+		   (NP the house))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A 
+       (ADJP belowground) 
+       basement)
+   (AUX can)
+   (VP cut
+       (NP the fallout radiation)
+       (PP to
+	   (NP  one-tenth
+		(PP of
+		    (NP the outside level))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP safest)
+       place)
+   (VP is
+       (NP (NP the basement corner)
+	   (ADJP (ADJP least
+		       exposed
+		       (PP to
+			   (NP windows)))
+		 and
+		 (ADJP deepest
+		       (PP below
+			   (NP ground)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP If
+       (S (NP there)
+	  (VP is
+	      (NP time
+		  (PP after
+		      (NP the warning))))))
+   ,
+   (S (NP the basement shielding)
+      (AUX could)
+      (VP be
+	  (VP improved
+	      (ADVP substantially)
+	      (PP by
+		  (S (NP *)
+		     (VP blocking
+			 (NP windows)
+			 (PP with
+			     (NP (NP bricks)
+				 ,
+				 (NP dirt)
+				 ,
+				 (NP books)
+				 ,
+				 (NP magazines)
+				 ,
+				 or
+				 (NP 
+				  (ADJP other)
+				  (ADJP heavy)
+				  material))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP (NP 5)
+     .
+     (NP Shelter
+	 (PP in
+	     (NP apartment buildings)))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Large) 
+	apartment buildings
+	(PP of
+	    (NP (NP masonry)
+		or 
+		(NP concrete))))
+    (VP provide
+	(NP 
+	 (ADJP better)
+	 (ADJP natural)
+	 shelter
+	 (PP than
+	     (NP the 
+		 (ADJP usual) 
+		 family dwellings)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 
+	 (ADJP general)))
+    ,
+    (S (NP (ADJP such)
+	   apartments)
+       (VP afford
+	   (NP 
+	    (ADJP more)
+	    protection
+	    (PP than
+		(NP 
+		 (ADJP smaller)
+		 buildings))))
+       (SBAR because
+	     (S (S (NP their walls)
+		   (VP are
+		       (ADJP thick)))
+		and
+		(S (NP there)
+		   (VP is
+		       (NP (ADJP more)
+			   space)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The 
+	(ADJP central)
+	area
+	(PP of
+	    (NP the ground floor
+		(PP of
+		    (NP a
+			(ADJP (ADVP heavily)
+			      constructed)
+			apartment building
+			,
+			(PP with
+			    (NP concrete floors))
+			,)))))
+    (AUX should)
+    (VP provide
+	(NP 
+	 (ADJP more)
+	 fallout protection
+	 (PP than
+	     (NP the 
+		 (ADJP ordinary) 
+		 basement
+		 (PP of
+		     (NP a family dwelling)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The basement
+	(PP of
+	    (NP (ADJP such)
+		an apartment building)))
+    (AUX may)
+    (VP provide
+	(NP as
+	    much 
+	    (ADJP natural) 
+	    protection
+	    (PP as
+		(NP (NP the
+			(ADJP (ADVP specially)
+			      constructed)
+			concrete block shelter)
+		    (VP recommended
+			(PP for
+			    (NP the basement
+				(PP of
+				    (NP a family dwelling))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 
+       (ADJP Federal) 
+       Government)
+   (AUX is)
+   (VP aiding
+       (NP (ADJP local)
+	   governments
+	   (PP in
+	       (NP several places)))
+       (S (NP *)
+	  (AUX to)
+	  (VP survey
+	      (NP 
+	       (ADJP residential
+		     ,
+		     commercial and industrial)
+	       buildings)
+	      (S (NP *)
+		 (AUX to)
+		 (VP determine
+		     (X (SBAR (WHNP what fallout protection)
+			      (S
+			       (NP they)
+			       (AUX would)
+			       (VP provide
+				   (NP T))))
+			,
+			and
+			(PP for
+			    (NP (WHADVP how
+					many)
+				people)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The problem
+       (PP for
+	   (NP the city apartment dweller)))
+   (VP is
+       (ADVP primarily)
+       (S (NP *)
+	  (AUX to)
+	  (VP plan
+	      (NP the use
+		  (PP of
+		      (NP  existing
+			   space)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Such planning)
+   (AUX will)
+   (VP require
+       (NP the cooperation
+	   (PP (PP of
+		   (NP (ADJP other)
+		       occupants))
+	       and
+	       (PP of
+		   (NP the apartment management))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2154 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ (AUX Must)
+     (NP Berlin)
+     (VP remain
+	 (ADJP divided)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S (NP The inference
+	 (SBAR-1 *pseudo-attach*))
+     (AUX has)
+     (VP been
+	 (VP (ADVP too
+		   widely)
+	     accepted))
+     (SBAR-1 that
+	     (S (SBAR because
+		      (S (NP the Communists)
+			 (AUX have)
+			 (VP succeeded
+			     (PP in
+				 (S (NP *)
+				    (VP building
+					(NP barricades
+					    (PP across
+						(NP Berlin)))))))))
+		(S (NP the (ADJP free) world)
+		   (AUX must)
+		   (VP acquiesce
+		       (PP in
+			   (NP dismemberment
+			       (PP of
+				   (NP that (ADJP living) city)))))))))
+  
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (ADVP So
+	  far
+	  (PP as
+	      (S (NP the record)
+		 (AUX is)
+		 (VP concerned
+		     ))))
+    ,
+    (S (NP the (ADJP Western) powers)
+       (X (X (AUX have)
+	     (NEG not)
+	     (VP acquiesced))
+	  and
+	  (X (AUX should)
+	     (NEG not)
+	     (VP do
+		 (ADVP so))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR Though
+	  (S (NP Walter Ulbricht)
+	     ,
+	     (PP by
+		 (NP grace
+		     (PP of
+			 (NP (ADJP Soviet) tanks))))
+	     ,
+	     (AUX may)
+	     (VP be
+		 (NP (ADJP head) man
+		     (PP in
+			 (NP East Germany))))))
+    ,
+    (S (NP that)
+       (AUX does)
+       (NEG not)
+       (VP give
+	   (NP him)
+	   (NP any right
+	       (S (S (NP *)
+		     (AUX to)
+		     (VP usurp
+			 (NP the government
+			     (PP of
+				 (NP East Berlin)))))
+		  or
+		  (S (NP *)
+		     (AUX to)
+		     (VP absorb
+			 (NP that
+			     semi-city)
+			 (PP into
+			     (NP the (ADJP Soviet) zone))))))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The wartime protocol
+	(PP of
+	    (NP September 12 ,
+		1944))
+	,)
+    (VP designated  
+	(NP (NP a
+		(ADJP special)
+		``
+		(NP Greater Berlin)
+		''
+		area)
+	    ,
+	    (VP comprising
+		(NP the (ADJP entire) city))
+	    ,)
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (PP under
+		   (NP (ADJP joint) occupation))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(                
+ (S (NP It)
+    (VP was
+	(NEG not)
+	(NP a part
+	    (PP of
+		(NP any one
+		    (PP of
+			(NP the three
+			    *LRB*
+			    later
+			    four
+			    *RRB*
+			    zones
+			    (PP for
+				(NP occupation
+				    (PP by
+					(NP (ADJP Soviet
+						  ,
+						  American
+						  ,
+						  British
+						  ,
+						  and
+						  French)
+					    troops)
+					(ADVP respectively)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP the Berlin blockade and airlift))
+    ,
+    (S (NP the Council
+	   (PP of
+	       (NP Foreign Ministers)))
+       (PP in
+	   (NP 1949))
+       (VP declared
+	   (NP a purpose
+	       ``
+	       (S (NP *)
+		  (AUX to)
+		  (VP mitigate
+		      (NP the effects
+			  (PP of
+			      (NP the
+				  (ADJP present) (ADJP administrative)
+				  division
+				  (PP (PP of
+					  (NP Germany))
+				      and
+				      (PP of
+					  (NP Berlin))))))))
+	       ''))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (PP For
+        (NP some time))
+    (S (NP the Communists)
+       (VP honored
+	   (NP the distinction
+	       (PP between
+		   (NP (NP the (ADJP Soviet) zone
+			   (PP of
+			       (NP Germany)))
+		       and
+		       (NP the (ADJP Soviet) sector
+			   (PP of
+			       (NP Berlin))))))
+	   (PP by
+	       (S (NP *)
+		  (VP promulgating
+		      (ADVP separately)
+		      (NP the laws
+			  (PP for
+			      (NP the two areas)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Then)
+    (S (NP they)
+       (VP (VP moved
+	       (NP offices
+		   (PP of
+		       (NP the (ADJP East German) puppet 
+			   government)))
+	       (PP into
+		   (NP East Berlin)))
+	   and
+	   (VP began
+	       (ADVP illegally)
+	       (S (NP *)
+		  (AUX to)
+		  (VP treat
+		      (NP it)
+		      (PP as
+			  (NP the capital
+			      (PP of
+				  (NP East Germany))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR That
+	      (S (NP (NP this)
+		     and
+		     (NP the closing
+			 (PP of
+			     (NP the East Berlin-West Berlin border))))
+		 (AUX have)
+		 (NEG not)
+		 (VP been
+		     (VP accepted
+		     
+			 (PP by
+			     (NP the (ADJP Western) governments)))))))
+    (VP appears
+	(PP in
+	    (NP (NP notes)
+		(SBAR (WHNP which)
+		      (S (NP (NP Britain)
+			     ,
+			     (NP France)
+			     ,
+			     and
+			     (NP the United States))
+			 (VP sent
+			     (NP T) 
+			     (PP to
+				 (NP Moscow)))
+			 (PP after
+			     (NP (NP the latter)
+				 's (ADJP gratuitous) 
+				 protest
+				 (PP over
+				     (NP a visit
+					 (PP of
+					     (NP (NP Chancellor (NP Adenauer))
+						 and
+						 (NP (ADJP other)
+						     (ADJP West German) 
+						     officials)))
+					 (PP to
+					     (NP West Berlin))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Chancellor)
+    (VP (VP had
+	    (NP (ADJP as
+		      much
+		      (PP-1 *pseudo-attach*))
+		business)
+	    (ADVP there)
+	    (PP-1 as
+		  (X (NP Ulbricht)    
+		     (VP had)
+		     (PP in
+			 (NP East Berlin)))))
+	--
+	and
+	(VP was
+	    (ADVP certainly)
+	    (ADJP less
+		  provocative
+		  (PP than
+		      (NP the
+			  (ADJP juvenile) (ADJP sound-truck)
+			  taunts
+			  (PP of
+			      (NP Gerhard Eisler))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The 
+	(ADJP British
+	      and
+	      other) 
+	replies
+	(PP to
+	    (NP that (NP Moscow) note)))
+    (VP pointed
+	(PRT out)
+	(NP efforts
+	    (PP of
+		(NP the (ADJP Communist) authorities))
+	    ``
+	    (S (NP *)
+	       (AUX to)
+	       (VP integrate
+		   (NP East Berlin)
+		   (PP into
+		       (NP East Germany))
+		   (PP by
+		       (S (NP *)
+			  (VP (VP isolating
+				  (NP it
+				      (PP from
+					  (NP the outside))))
+			      and
+			      (VP attempting
+				  (S (NP *)
+				     (AUX to)
+				     (VP make
+					 (NP it)
+					 (NP the capital
+					     (PP of
+						 (NP East Germany)))))))))))
+	    '')))
+ .)
+
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP insisted
+       (PP on
+	   (NP the
+	       ``
+	       (ADJP fundamental) fact
+	       ''
+	       (SBAR that
+		     ``
+		     (S (NP the whole
+			    (PP of
+				(NP Berlin)))
+			(VP has
+			    (NP a (ADJP quadripartite) status)))
+		     '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADVP far
+	     (PP from
+		 (S (NP *)
+		    (VP acknowledging
+			or
+			recognizing
+			(NP those efforts)
+			(PP as
+			    (NP an (ADJP accomplished) fact))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP remains
+       ,
+       (PP of
+	   (NP course))
+       ,
+       (NP the question
+	   (PP of
+	       (SBAR (WHNP what)
+		     (S (NP the West)
+			(AUX can)
+			(VP do
+			    (NP T)
+			    (PP beyond
+				(NP (ADJP diplomatic) protest)))
+			(S (NP *)
+			   (AUX to)
+			   (VP prevent
+			       (NP the (ADJP illegal) efforts)
+			       (PP from
+				   (S (NP *)
+				      (VP becoming
+					  (NP (ADJP accomplished)
+					      facts))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP One ground
+	(PP of
+	    (NP action)))
+    (ADVP certainly)
+    (VP exists)
+    (SBAR (WHADVP when)
+	  (S (NP fusillades
+		 (PP of
+		     (NP (ADJP stray) shots)))
+	     (VP go
+		 (PRT over)
+		 (PP into
+		     (NP West Berlin)))
+	     (PP as
+		 (S (NP Communist
+			``
+			vopos
+			'')
+		    (VP try
+			(S (NP *)
+			   (AUX to)
+			   (VP gun
+			       (PRT down)
+			       (NP (VP fleeing)
+				   (ADJP unarmed) residents)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Another)
+   (VP remained)
+   (SBAR (WHADVP when)
+	 (S (NP an (NP American Army) car)
+	    (AUX was)
+	    (VP recovered
+		(PP but
+		    (PP with
+			(NP a (ADJP broken) glass)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The glass)
+     (AUX may)
+     (VP seem
+	 (ADJP trivial)))
+    but
+    (S (NP (ADJP Communist) (ADJP official) hooliganism)
+       (VP feeds
+	   (PP on
+	       (NP such incidents)))
+       (SBAR unless
+	     (S (NP they)
+		(AUX are)
+		(VP redressed
+		    )))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *) 
+       (VP Remembering
+	   (NP (NP the (ADJP step-by-step) fate
+		   (PP of
+		       (NP Danzig)))
+	       and
+	       (NP the (ADJP West German) misgivings
+		   (PP about
+		       (NP  ``
+			    salami
+			    ''
+			    tactics))))))
+    ,
+    (S (NP it) 
+       (VP is
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP hoped
+		      (SBAR that
+			    (S (NP the dispatch
+				   (PP of
+				       (NP General Clay))
+				   (PP to
+				       (NP West Berlin))
+				   (PP as
+				       (NP (NP President Kennedy)
+					   's representative)))
+			       (AUX will)
+			       (VP mark
+				   (NP a stiffening
+				       (PP of
+					   (NP response
+					       (PP (CONJP not
+							  only)
+						   (PP to
+						       (NP (ADJP future) 
+							   indignities and
+							   aggressions))
+						   (CONJP but
+							  also)
+						   (PP to
+						       (NP (NP some)
+							   (SBAR (WHNP that)
+								 (S (NP T)  
+                                                                    (AUX have)
+                                                                    (VP passed))))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((NP Prairie National Park)) 
+( 
+ (S (NP Thousands
+	(PP of
+	    (NP (NP buffalo)
+		*LRB*
+		(S ``
+		   (NP bison)
+		   ''
+		   (S (NP they)
+		      (AUX will)
+		      (ADVP never)
+		      (VP be
+			  (NP T)  
+			  (PP to
+			      (NP the man
+				  (PP on
+				      (NP the street)))))))
+		*RRB*)))
+    (VP grazing 
+	(PP like
+	    (NP a
+		(ADJP mobile) (ADJP brown)
+		throw-rug))
+	(PP upon
+	    (NP the
+		(ADJP rolling)
+		,
+		(ADJP dusty-green)
+		grassland))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A horizon) 
+	(ADJP even
+	      and
+	      seamless))
+    ,
+    (VP binding
+	(NP the
+	    (ADJP vast) (ADJP sun-bleached)
+	    dome
+	    (PP of
+		(NP sky)))
+	(PP to
+	    (NP earth))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP That picture
+	(PP of
+	    (NP the (ADJP American) prairie)))
+    (VP is
+	(ADJP as
+	      (ADVP indelibly)
+	      fixed
+	      (PP in
+		  (NP the memory
+		      (PP of
+			  (NP (NP those)
+			      (SBAR (WHNP who)
+				    (S (NP T)
+				       (AUX have)
+				       (VP studied
+					   (NP the conquest
+					       (PP of
+						   (NP the (ADJP American)
+						       continent))))))))))
+	      (PP as
+		  (NP (NP any
+			  (ADJP later)
+			  cinema image
+			  (PP of
+			      (NP the West)))
+		      (VP made
+			  (PP in
+			      (NP (ADJP live-oak) canyons
+				  (PP near
+				      (NP Hollywood))))))))))
+   
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S For
+     (S (NP it
+	    (SBAR-1 *pseudo-attach*))
+	(VP was
+	    (NP (NP the millions
+		    (PP of
+			(NP (NP buffalo) and (NP prairie chicken))))
+		and
+		(NP the (ADJP endless) seas
+		    (PP of
+			(NP grass)))))
+	(SBAR-1 (WHNP that)
+		(S (NP T)  
+		   (VP symbolized
+		       (PP for
+			   (NP a (ADJP whole) generation
+			       (PP of
+				   (NP Americans))))
+		       (NP (NP the (ADJP abundant) supply)
+			   (SBAR (WHNP that)
+				 (S (NP T)  
+				    (VP was
+					(S (NP *)
+					   (AUX to)
+					   (VP take
+					       (NP many
+						   (PP of
+						       (NP them)))
+					       (ADVP westward))))
+				    (SBAR 
+				     (WHADVP when)
+				     (S (NP the (NP Ohio)
+					    and
+					    (NP Mississippi) valleys)
+					(VP began
+					    (S (NP *)
+					       (AUX to)
+					       (VP fill)))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The National Park Service)
+   (ADVP now)
+   (VP proposes
+       (S (NP *)
+	  (AUX to)
+	  (VP preserve
+	      (NP an area
+		  (PP in
+		      (NP (NP Pottawatomie County)
+			  ,
+			  (NP (ADJP northeast)
+			      (NP Kansas))))))
+	  ,
+	  (PP as
+	      (NP a
+		  ``
+		  (NP Prairie National Park)
+		  '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP There)
+    (S (NP the buffalo)
+       (AUX would)
+       (VP roam
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP seen
+		 
+		      (PP (PP as
+			      (NP a tapestry))
+			  ,
+			  (NEG not)
+			  (PP as
+			      (NP (ADJP moth-eaten)
+				  zoo specimens)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Wooded) stream valleys
+       (PP in
+	   (NP the folds
+	       (PP of
+		   (NP earth)))))
+   (AUX would)
+   (VP be
+       (VP saved
+	   )))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Grasslands)
+    (AUX would)
+    (VP extend)
+    ,
+    (X (ADJP (ADJP unfenced)
+	     ,
+	     (ADJP unplowed)
+	     ,
+	     (ADJP unbroken
+		   (PP by
+		       (NP silo or barn))))
+       --
+       (PP as
+	   (S (NP the (ADJP first) settlers)
+	      (VP saw
+		  (NP them))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Park Service)
+   (VP makes
+       (NP an
+	   (ADJP impressive) (ADJP ecological and statistical)
+	   case
+	   (PP for
+	       (S (NP *)
+		  (VP creating
+		      (NP this (ADJP new) park)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP American) history)
+   (AUX should)
+   (VP clinch
+       (NP the case))
+   (SBAR 
+    (WHADVP when)
+    (S (NP Congress)
+       (AUX is)
+       (VP asked
+		     
+	   (S (NP *)
+	      (AUX to)
+	      (VP approve))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Whisky 
+      (PP on
+	  (NP the air)))
+ )
+( (S
+   (NP A (NP Philadelphia) distiller)
+   (AUX is)
+   (ADVP currently)
+   (VP breaching
+       (NP the (ADJP customary) prohibition
+	   (PP against
+	       (NP (ADJP hard-liquor) advertising
+		   (PP on
+		       (NP TV and radio)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP *)
+       (VP Starting
+	   (PP with
+	       (NP (NP (ADJP small) stations)
+		   not    
+		   (NP members
+		       (PP of
+			   (NP the National Association
+			       (PP of
+				   (NP Broadcasters)))))))))
+    ,
+    (S (NP the firm)
+       (ADVP apparently)
+       (AUX is)
+       (VP seeking
+	   (S (NP *)
+	      (AUX to)
+	      (VP break
+		  (PRT down)
+		  (NP the (ADJP anti-liquor) barriers
+		      (PP in
+			  (NP (ADJP major-market) stations)))))))) 
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Probably)
+    (S (NP the
+	   (ADJP best)
+	   answer
+	   (PP to
+	       (NP this kind
+		   (PP of
+		       (NP (VP entering)
+			   wedge)))))
+       (VP is
+	   (NP (NP (ADJP congressional) action)
+	       (VP requiring     
+		   (S (NP the Federal Communications Commission)
+		      (AUX to)
+		      (VP ban
+			  (NP such advertising)
+			  (PP through
+			      (NP its licensing power)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The National Association
+	    (PP of
+		(NP Broadcasters)))
+	code)
+    (VP (ADVP specifically)
+	bars
+	(NP (ADJP hard-liquor) commercials)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (ADJP Past) polls
+       (PP of
+	   (NP (ADJP public) opinion)))
+   (VP show
+       (NP (ADJP popular) favor
+	   (PP for
+	       (NP this policy)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (ADVP Even)
+	the Distilled Spirits Institute)
+     (AUX has)
+     (ADVP long)
+     (VP had
+	 (NP a (ADJP specific) prohibition)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP Why)
+	(SQ ,
+	    then  
+	    ,
+	    (PP with
+		(NP (NP these (ADJP voluntary) barricades)
+		    and
+		    (NP (NP some state laws)
+			(VP barring
+			    (NP liquor ads)))))
+	    ,
+	    (SQ (VP is)
+		(NP it
+		    (S-2 *pseudo-attach*))
+		(ADJP necessary)
+		(S-2 (NP *)
+		     (AUX to)
+		     (VP seek
+			 (NP (ADJP congressional) action))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SBAR (ADVP Simply)
+       (SBAR because
+	     (S (NP the (ADJP subverting) action
+		    (PP (PP of
+			    (NP (NP firms)
+				(SBAR (WHNP that)
+				      (S (NP T)  
+					 (VP are
+					     (NEG not)
+					     (NP members
+						 (PP of
+						     (NP the Distilled Spirits
+							 Institute))))))))
+			and
+			(PP of
+			    (NP (NP radio and TV stations)
+				(SBAR (WHNP that)
+				      (S (NP T)  
+					 (VP are
+					     (NEG not)
+					     (NP members
+						 (PP of
+						     (NP the NAB))))))))))
+		(VP tends
+		    (S (NP *)
+		       (AUX to)
+		       (VP spread))))))
+ 
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+((S (ADVP Soon)
+    (S (NP some members
+	   (PP of
+	       (NP the two industry groups)))
+       (ADVP doubtless)
+       (AUX will)
+       (VP want
+	   (S (NP *)
+	      (AUX to)
+	      (VP amend
+		  (NP their codes)
+		  (PP on
+		      (NP grounds
+			  (SBAR that
+				(S (ADVP otherwise)
+				   (S (NP they)
+				      (AUX will)
+				      (VP suffer
+					  (ADVP unfairly)
+					  (PP from
+					      (NP the efforts
+						  (PP of
+						      (NP (ADJP non-code) 
+							  competitors)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR Although
+	  (S (NP (NP the (ADJP false) glamour)
+		 (VP surrounding
+		     (NP bourbon
+			 or
+			 other whisky commercials)))
+	     (VP is
+		 (ADVP possibly)
+		 (ADJP (ADVP no
+			     more)
+		       fatuous
+		       (PP than
+			   (NP (NP the pseudo-sophistication)
+			       (SBAR (WHPP with
+					   (WHNP which))
+				     (S (S (NP TV soft-drinks)
+					   (AUX are)
+					   (VP downed
+					       ))
+					or
+					(X (NP toothpaste) 
+					   (VP applied))))))))))
+    ,
+    (S (NP there)
+       (VP is
+	   (NP a (ADJP sad) difference
+	       (PP between
+		   (S (S (NP *)
+			 (VP enticing
+			     (NP a viewer)
+			     (PP into
+				 (S (NP *)
+				    (VP sipping
+					(NP Oopsie-Cola))))))
+		      and
+		      (S (NP *)
+			 (VP gulling
+			     (NP him)
+			     (PP into
+				 (S (NP *)
+				    (VP downing
+					(NP bourbon))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A law)
+   (AUX is)
+   (VP needed
+       ))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (NP New York) 
+    :
+    (NP (NP Democrats)
+	' choice))
+  )
+( 
+ (S (NP (VP Registered)
+	Democrats
+	(PP in
+	    (NP New York City)))
+    (NP this year)
+    (VP have
+	(NP the opportunity
+	    (S (NP *)
+	       (AUX to)
+	       (VP elect
+		   (NP (NP (NP their party)
+			   's candidates
+			   (PP for
+			       (NP (NP Mayor)
+				   and
+				   (NP 
+				    (ADJP other) (ADJP municipal)
+				    posts))))
+		       and
+		       (NP (NP the men)
+			   (SBAR (WHNP who)
+				 (S (NP T)
+				    (AUX will)
+				    (VP run
+					(NP their party organization)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the (ADJP central) contest)
+	    ,
+	    (NP that
+		(PP for
+		    (NP Mayor)))))
+    ,
+    (S (NP they)
+       (AUX may)
+       (VP have
+	   (VP found
+	       (NP some (ADJP pertinent) points)
+	       (PP in
+		   (SBAR (WHNP what)
+			 (S (NP each faction)
+			    (AUX has)
+			    (VP said
+				(NP T) 
+				(PP about
+				    (NP the
+					(ADJP other)))))))))))
+ 
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mayor (NP Robert F. Wagner))
+    (AUX must)
+    ,
+    (PP as
+	(S (NP his opponents)
+	   (VP demand)))
+    ,
+    (VP assume
+	(NP responsibility
+	    (PP for
+		(NP his performance
+		    (PP in
+			(NP office)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR While
+	  (S (NP all citizens)
+	     (VP share
+		 (PP in
+		     (NP blame
+			 (PP for
+			     (NP (ADJP lax) (ADJP municipal)
+				 ethics)))))))
+    (S (NP the (NP Wagner) regime)
+       (AUX has)
+       (VP seen
+	   (NP (ADJP serious) problems
+	       (PP in
+		   (NP (NP the schools)
+		       ,
+		       (NP law enforcement)
+		       and 
+		       (NP (ADJP fiscal) policies)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Mayor)
+   (AUX is)
+   (VP finding
+       (NP it
+	   (S-1 *pseudo-attach*))
+       (ADJP awkward)
+       (S-1 (NP *)
+	    (AUX to)
+	    (VP campaign
+		(PP against
+		    (NP his (ADJP own) record))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP State Controller (NP Arthur Levitt))
+    , 
+    (PP on
+	(NP the other hand))
+    ,
+    (AUX can)
+    (NEG not)
+    (VP (ADVP effectively)
+	deny
+	(SBAR
+	 that
+	 (S (NP he)
+	    (AUX has)
+	    (VP chosen
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (NP the candidate
+			   (PP of
+			       (NP (NP those party leaders)
+				   (SBAR (WHNP who)
+					 (S (NP T)
+					    (PP as
+						(NP a rule))
+					    (AUX have)
+					    (VP shown
+						(NP (ADJP livelier)
+						    interest
+						    (PP in
+							(NP (ADJP political)
+							    power))
+						    (PP than
+							(PP in
+							    (NP (NP the city)
+								's welfare)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP They)
+    ,
+    (ADVP too)
+    ,
+    (VP have
+	(NP links)
+	(PP with
+	    (NP 
+	     (NP the city)
+	     's ills))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Both
+	 men)
+     (AUX are)
+     (VP known
+        
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(ADJP honest and public-spirited)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Mayor Wagner)
+	's shortcomings)
+    (AUX have)
+    (ADVP perhaps)
+    (VP been
+	(VP (ADVP more mercilessly)
+	    exposed
+	    (PP than 
+		(NP those
+		    (PP of
+			(NP (NP Mr. Levitt)
+			    (SBAR (WHNP who)
+				  (S (NP T)
+				     (VP left
+					 (NP an impression
+					     (PP of
+						 (NP (ADJP quiet) competence)))
+					 (PP in
+					     (NP his
+						 (ADJP more
+						       protected)
+						 state post))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(NP Mayor))
+    ,
+    (S (NP Mr. Levitt)
+       (AUX might)
+       (VP turn
+	   (PRT out)
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (ADJP (ADVP more)
+			independent
+			(PP than
+			    (S (NP some
+				   (PP of
+				       (NP his (ADJP leading)
+					   supporters)))
+			       (AUX would)
+			       (VP like)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP His election)
+    ,
+    (PP on
+	(NP the (ADJP other) hand))
+    ,
+    (AUX would)
+    (ADVP unquestionably)
+    (VP strengthen
+	(NP the
+	    ``
+	    regulars
+	    '')))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mr. Wagner)
+     (X (AUX might)
+	or
+	(X (AUX might)
+	   (NEG not))) 
+     (VP be
+	 (NP a
+	     ``
+	     (ADJP new)
+	     ''
+	     Mayor))
+     (PP in
+	 (NP this (ADJP third) term))
+     ,
+     (ADVP now
+	   (SBAR that
+		 (S (NP he)
+		    (VP is
+			(ADJP free
+			      (PP of
+				  (NP the pressure
+				      (PP of
+					  (NP (NP those party leaders)
+					      (SBAR (WHNP whom)
+						    (S (NP he)
+						       (VP calls
+							   (NP T) 
+							   ``
+							   (NP bosses)
+							   '')))))))))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP are
+       ,
+       (PP of
+	   (NP course))
+       ,
+       (NP (NP the (ADJP same) people)
+	   (SBAR (WHNP whose support)
+		 (S (NP he)
+		    (AUX has)
+		    (ADVP only
+			  now)
+		    (VP rejected
+			(NP T) 
+			(S (NP *)
+			   (AUX to)
+			   (VP seek
+			       (NP the (ADJP independent) vote)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP his reelection)
+       (AUX would)
+       (VP strengthen
+	   (NP (NP (NP the
+		       (ADJP liberal)
+		       Democrats)
+		   and
+		   (NP the labor unions))
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP back
+			    (NP him))))))))
+ 
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP this choice)
+	     (VP is
+		 (ADJP (ADVP less)
+		       exciting
+		       (PP than
+			   (S (NP New York Democrats)
+			      (AUX may)
+			      (VP wish)))))))
+    ,
+    (S (NP it)
+       (ADVP nevertheless)
+       (AUX must)
+       (VP be
+	   (VP made
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The vote)
+   (ADVP still)
+   (VP gives
+       (NP citizens)
+       (NP a voice
+	   (PP in
+	       (NP the operation
+		   (PP of
+		       (NP (NP their government)
+			   and
+			   (NP their party))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP (ADJP Little) war) 
+     ,
+     (NP (ADJP big) test))
+ )
+(
+ (S
+  (NP Both Mr. K
+      's)
+  (AUX have)
+  (ADVP so
+	far)
+  (VP continued
+      (S (NP *)
+	 (AUX to)
+	 (VP (VP speak
+		 (ADVP softly))
+	     and
+	     (VP carry
+		 (NP (ADJP big) sticks))
+	     (PP over
+		 (NP Laos))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP President Kennedy)
+	,
+	(ADVP already)
+	(ADVP (ADVP (NP two (ADJP quiet) demands)
+		    down))
+	,)
+    (ADVP still)
+    (NP-2 *pseudo-attach*)
+    (VP refused
+	(NP-2 Thursday)
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP drawn
+		 
+		   (PP into
+		       (S (NP *)
+			  (VP delivering
+			      (NP a (ADJP public) ultimatum)
+			      (PP to
+				  (NP Moscow))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (PP at
+	(NP the same time))
+    (S (NP he)
+       (VP moved
+	   (NP his (ADJP helicopter-borne) marines
+	       (PP to
+		   (NP (ADVP within)
+		       an hour
+		       (PP of
+			   (NP the fighting))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S And
+    (S (NP (NP Secretary Rusk)
+	   ,
+	   (ADVP en route
+		 (PP to
+		     (NP Bangkok)))
+	   ,)
+       (ADVP doubtless)
+       (AUX is)
+       (VP trying
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP emergency arrangements
+		      (PP for
+			  (NP the (ADJP possible) entry
+			      (PP of
+				  (NP (ADJP Australian
+					    or
+					    Thai)
+				      SEATO forces))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP Mr. Kennedy))
+    ,
+    (S (NP (S (NP *)
+	      (VP (VP speaking
+		      (ADVP softly))
+		  and
+		  (VP carrying
+		      (NP a (ADJP sizable) stick)))))
+       (AUX is)
+       (VP making
+	   (NP the
+	       (ADJP best))
+	   (PP of
+	       (NP a (ADJP bad) situation)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The
+	(ADJP new)
+	President)
+    (VP is
+	(PP in
+	    (NP (NP no position)
+		(S (NP *)
+		   (AUX to)
+		   (VP start
+		       (PRT out)
+		       (NP his dealings
+			   (PP with
+			       (NP Moscow)))
+		       (PP by
+			   (S (NP *)
+			      (VP issuing
+				  (NP (ADJP callable) bluffs))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP He)
+        (AUX must)
+        (VP show)
+	(PP at
+	    (NP the outset))
+	(SBAR that
+	      (S (NP he)
+		 (VP means
+		     (NP (ADVP exactly) 
+			 (SBAR (WHNP what)
+			       (S (NP he)
+				  (VP says
+				      (NP T)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (PP In
+        (NP this case))
+    (S
+     (NP he)
+     (AUX has)
+     (VP put
+	 (NP the alternatives)
+	 (ADVP clearly)
+	 (PP to
+	     (NP Mr. Khrushchev))
+	 (PP for
+	     (NP the (ADJP third) time)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP his press conference))
+    (S (NP Mr. Kennedy)
+       (VP said
+	   ,
+	   ``
+	   (S (NP (NP All)
+		  (SBAR 0
+			(S (NP we)
+			   (VP want
+			       (NP T))
+			   (PP in
+			       (NP Laos)))))
+	      (VP is
+		  (NP (NP (NP peace)
+			  not
+			  (NP war))
+		      (NP (NP a
+			      (ADJP (ADVP truly)
+				    neutral) government)
+			  not
+			  (NP a (ADJP cold) war pawn)))))
+	   '')))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP At
+        (NP the scene))
+    (S
+     (NP he)
+     (VP has
+	 (ADVP just
+	       as
+	       clearly)
+	 (VP shown
+	     (NP his (ADJP military) strength
+		 (PP in
+		     (NP (ADJP unprovocative but ready) position)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (SBAR Since
+	  (S (S (NP Laos)
+		(VP is
+		    (PP of
+			(NP (ADVP (NEG no)
+				  more)
+			    (ADJP (ADVP purely)
+				  military)
+			    value))
+		    (PP to
+			(NP (NP Moscow)
+			    (NP itself)))))
+	     (PP than
+		 (X (NP it)
+		    (VP is) 
+		    (PP to
+			(NP Washington))))))
+    ,
+    (S (NP this approach)
+       (AUX might)
+       (VP be
+	   (VP expected
+	       (S (NP *)
+		  (AUX to)
+		  (VP head
+		      (PRT off)
+		      (NP Mr. Khrushchev))
+		  (PP for
+		      (NP the moment)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (ADVP because
+	  (PP of
+	      (NP the (ADJP peculiar) nature
+		  (PP of
+		      (NP the (ADJP military) situation
+			  (PP in
+			      (NP Laos)))))))
+    ,
+    (S (NP the Soviet leader)
+       (AUX must)
+       (VP be
+	   (VP tempted
+	       (S (NP *)
+		  (AUX to)
+		  (VP let
+		      (NP things)
+		      (VP ride)))))
+       --
+       (NP (NP a course)
+	   (SBAR (WHNP that)
+		 (S (NP T)  
+		    (X (X (AUX would)
+			  (VP appear
+			      (S (NP *)
+				 (AUX to)
+				 (VP cost
+				     (NP him)
+				     (NP little)
+				     (PP on
+					 (NP the spot))))))
+		       ,
+		       but
+		       (X (AUX would)
+			  (VP bog
+			      (NP Washington)
+			      (PP in
+				  (NP a (ADJP tactical)
+				      mess))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As 
+	(S (NP wars)
+	   (VP go)))
+    ,
+    (S (NP Laos)
+       (VP is
+	   (NP an
+	       (ADJP (ADVP extremely)
+		     little) one))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Casualties)
+   (AUX have)
+   (VP been
+       (VP running
+	   (NP (NP (ADVP about)
+		   a dozen men)
+	       (NP a day)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The (ADJP hard) core
+	(PP of
+	    (NP the (ADJP pro-Communist) (ADJP rebel) force)))
+    (VP numbers
+	(NP (ADJP only
+		  some 2,000) (ADJP tough) Viet Minh guerrilla fighters)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (S (NP (PP for
+	       (S (NP (NP the United States)
+		      and
+		      (NP its SEATO allies))
+		  (AUX to)
+		  (VP attempt
+		      (AUX to)
+		      (VP shore
+			  (PRT up)
+			  (NP a
+			      (ADJP (ADJP (ADVP less)
+					  tough)
+				    ,
+				    (ADJP (ADVP less)
+					  combat-tested))
+			      government army)
+			  (PP in
+			      (NP (ADJP monsoon-shrouded
+					,
+					road-shy
+					,
+					guerrilla-th'-wisp)
+				  terrain)))))))
+       (VP is
+	   (NP (NP a risk)
+	       (VP (NEG not)
+		   savored
+		   (PP by
+		       (NP Pentagon planners)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S But
+    (SBAR if
+	  (S (NP anything)
+	     (AUX can)
+	     (VP bring
+		 (ADVP home
+		       (PP to
+			   (NP Mr. Khrushchev)))
+		 (NP the idea
+		     (SBAR that
+			   (S (NP he)
+			      (AUX will)
+			      (NEG not)
+			      (ADVP really)
+			      (VP get
+				  (NP (ADJP much) enjoyment)
+				  (PP from
+				      (S (NP *)
+					 (VP watching
+					     (NP this 
+						 Braddock-against-the-Indians 
+						 contest)))))))))))
+    ,
+    (S (NP it)
+       (AUX will)
+       (ADVP probably)
+       (VP be
+	   (NP (NP the fact
+		   (SBAR that
+			 (S (NP SEATO forces)
+			    (VP are
+				(ADJP ready
+				      (S (NP *)
+					 (AUX to)
+					 (VP attempt
+					     (NP it))))))))
+	       --
+	       plus
+	       (NP the fact
+		   (SBAR that
+			 (S (NP Moscow)
+			    (VP has
+				(NP (NP something)
+				    (S (NP *)
+				       (AUX to)
+				       (VP lose
+					   (NP T)
+					   (PP from
+					       (S (NP *)
+						  (VP closing
+						      (PRT off)
+						      (NP disarmament
+							  and
+							  (ADJP other)
+							  (ADJP bigger)
+							  negotiations
+							  (PP with
+							      (NP Washington)))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S (ADVP Fortunately)
+    (S (NP both
+	   (NP the Republicans)
+	   and
+	   (NP (NP America)
+	       's
+	       (ADJP chief)
+	       (ADJP Western) allies))
+       (ADVP now)
+       (AUX are)
+       (VP joined
+	 
+	   (PP behind
+	       (NP the
+		   (NP (ADJP neutral)
+		       Laos)
+		   aim
+		   (PP of
+		       (NP the President)))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Actually)
+    (S (NP it
+	   (S-3 *pseudo-attach*))
+       (AUX would)
+       (VP be
+	   (ADJP (ADVP more)
+		 accurate))
+       (S-3 (NP *)
+	    (AUX to)
+	    (VP say
+		(SBAR that
+		      (S (NP the leader
+			     (PP of
+				 (NP the alliance)))
+			 (ADVP now)
+			 (AUX has)
+			 (VP swung
+			     (PP (ADVP fully)
+				 behind
+				 (NP the (ADJP British) policy
+				     (PP of
+					 (S (NP *)
+					    (VP seeking
+						(S (NP *)
+						   (AUX to)
+						   (VP achieve
+						       (NP a
+							   (ADJP neutral)
+							   (NP Laos))))
+						(PP via
+						    (NP the (ADJP international)
+							bargaining table))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-4 *pseudo-attach*))
+   (VP is
+       (ADJP ironic))
+   (SBAR-4 that
+	   (S (NP Washington)
+	      (AUX is)
+	      (VP having
+		  (S (NP *)
+		     (AUX to)
+		     (VP struggle
+			 (ADVP so)
+			 (PP for
+			     (NP (NP a concept)
+				 (SBAR (WHNP that)
+				       (S (PP for
+					      (NP six years))
+					  (S (NP it)
+					     (VP bypassed
+						 (NP T)
+						 (PP as
+						     (ADJP unreasonable))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The State Department)
+     (VP (ADVP tacitly)
+	 rejected
+	 (NP the
+	     (NP (ADJP neutral)
+		 Laos)
+	     idea))
+     (PP after
+	 (NP the Geneva conference
+	     (PP of
+		 (NP 1954)))))
+    ,
+    and
+    (S (NP last year)
+       (S (NP Washington)
+	  (VP backed
+	      (NP (NP the (ADJP rightist) coup)
+		  (SBAR (WHNP that)
+			(S (NP T)  
+			   (VP ousted
+			       (NP (ADJP neutral)
+				   Premier (NP Souvanna Phouma))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S But
+    (PP since
+	(NP last fall))
+    (S
+     (NP the United States)
+     (X (X (AUX has)
+	   (VP been
+	       (VP moving
+		   (PP toward
+		       (NP a (ADJP pro-neutralist) position)))))
+	and
+	(X (ADVP now)
+	   (VP is
+	       (ADJP ready
+		     (S (NP *)
+			(AUX to)
+			(VP back
+			    (NP the (ADJP British) plan
+				(PP for
+				    (NP (NP a cease-fire)
+					(VP (VP patrolled
+						(PP by
+						    (NP (ADJP outside)
+							observers)))
+					    and
+					    (VP followed
+						(PP by
+						    (NP a conference
+							(PP of
+							    (NP (ADJP interested)
+								powers)))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The road
+	(PP to
+	    (NP a
+		(ADJP guaranteed-neutral)
+		,
+		(ADJP coup-proof)
+		(NP Laos))))
+    (NP-1 *pseudo-attach*)
+    (VP is
+	(NP-1 today)
+	(ADJP (ADVP almost)
+	      as
+	      difficult
+	      (PP as
+		  (NP warfare
+		      (PP on
+			  (NP (NP that nation)
+			      's terrain)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (PP (PP for
+	    (NP the safety
+		(PP of
+		    (NP Southeast Asia))))
+	,
+	and
+	(PP for
+	    (NP the sake
+		(PP of
+		    (NP (NP the (ADJP Laotian) people)
+			--
+			(SBAR (WHNP who)
+			      (S (NP T)
+				 (AUX would)
+				 (NEG not)
+				 (VP be
+				     (ADJP well-ruled 
+					   (PP by
+					       (NP (NP either (ADJP militant)
+						       minority)
+						   (VP (ADVP now)
+						       engaged
+						       (PP in
+							   (NP the fighting)))))))))
+			--)))))
+    (S (NP this
+	   (ADJP last) (ADJP big)
+	   effort
+	   (S (NP *)
+	      (AUX to)
+	      (VP seal
+		  (NP that country)
+		  (PP from
+		      (NP the (ADJP cold) war)))))
+       (VP had
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP made
+		      ))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The world)
+   (VP awaits
+       (NP (NP Mr. Khrushchev)
+	   's choice
+	   (PP of
+	       (NP alternatives)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP A vote 
+      (PP for
+	  (NP educational TV)))
+ )
+( 
+ (S (NP (NP The Senate)
+	's
+	(ADJP overwhelming
+	      *LRB*
+	      (ADJP 64-13)
+	      *RRB*)
+	vote
+	(S (NP *)
+	   (AUX to)
+	   (VP support
+	       (NP (ADJP (ADVP locally)
+			 controlled)
+		   educational TV
+		   efforts))))
+    (AUX should)
+    (VP be
+	(VP emulated
+	    
+	    (PP in
+		(NP the
+		    (ADJP lower)
+		    house)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (ADVP Twice
+	  previously)
+    (S (S (NP the Senate)
+	  (AUX has)
+	  (VP approved
+	      (NP (NP measures)
+		  (VP backing
+		      (NP ETV)))))
+       and
+       (S (NP the House)
+	  (AUX has)
+	  (VP let
+	      (NP them)
+	      (VP die)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    (NP this year)
+    (S (NP prospects)
+       (AUX may)
+       (VP be
+	   (ADJP better))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The House communications
+	subcommittee)
+    (AUX is)
+    (VP expected
+	  
+	(S (NP *)
+	   (AUX to)
+	   (VP report
+	       (PRT out)
+	       (NP (NP a (ADJP good) bill)
+		   (VP calling
+		       (PP for
+			   (S (NP the states) 
+			      (AUX to)
+			      (VP match
+				  (NP (ADJP federal) funds))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP This year)
+       's Senate measure)
+   (AUX would)
+   (VP provide
+       (NP (NP each state)
+	   and
+	   (NP the District
+	       (PP of
+		   (NP Columbia))))
+       (PP with
+	   (NP (NP $ 1,000,000)
+	       (S (NP T)  
+		  (AUX to)
+		  (VP be
+		      (VP used
+		     
+			  (PP in
+			      (NP support
+				  (PP of
+				      (NP (ADJP private)
+					  ,
+					  state
+					  ,
+					  or
+					  (ADJP municipal)
+					  ETV efforts)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The funds)
+   (AUX would)
+   (VP be
+       (VP used
+		 
+	   (PP (PP for
+		   (NP equipment))
+	       ,
+	       not
+	       (PP for
+		   (NP (NP land)
+		       ,
+		       (NP buildings)
+		       ,
+		       or
+		       (NP operation)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The
+	    (ADJP relatively
+		  few)
+	    communities)
+	(SBAR (WHNP that)
+	      (S (NP T)  
+		 (VP have
+		     (NP (ADJP educational) stations)))))
+    (AUX have)
+    (VP found
+	(NP them
+	    (PP of
+		(NP (ADJP considerable) value)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S But
+    ,
+    (S (NP *)
+       (VP lacking
+	   (NP money
+	       (PP from
+		   (NP (ADJP commercial) sponsors)))))
+    ,
+    (S (NP the stations)
+       (AUX have)
+       (VP had
+	   (NP difficulties)
+	   (S (NP *) 
+	      (VP (VP meeting
+		      (NP expenses))
+		  or
+		  (VP improving
+		      (NP their service)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Other communities)
+	--
+	(NP (NP the ones)
+	    (S (NP T)  
+	       (AUX to)
+	       (VP be
+		   (VP aided
+		       (ADVP most)
+		       (PP by
+			   (NP the Senate bill))))))
+	--)
+    (AUX have)
+    (VP had
+	(NP difficulty)
+	(S (NP *)
+	   (VP starting
+	       (NP such stations)))
+	(ADVP because
+	      (PP of
+		  (NP the
+		      (ADJP high) (ADJP initial)
+		      cost
+		      (PP of
+			  (NP equipment)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

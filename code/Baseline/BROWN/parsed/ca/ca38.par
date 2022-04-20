@@ -1,0 +1,2239 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The Masters golf tournament)
+    (VP proved
+	(NP  last
+	     Monday)
+	(SBAR (WHNP what)
+	      (S
+	       (NP it)
+	       (AUX can)
+	       (VP do
+		   (NP T)
+		   (PP to
+		       (NP (NP the
+			       strongest
+			       men)
+			   and
+			   (NP the
+			       staunchest
+			       nerves))))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP Gary Player)
+	   ,
+	   (NP the
+	       small
+	       ,
+	       trim
+	       South African)
+	   ,)
+       (VP was
+	   (NP the eventual winner)))
+    ,
+    but
+    (S (PP in
+	   (NP all
+	       his 25 years))
+       (S (NP he)
+	  (ADVP never)
+	  (VP spent
+	      (NP a
+		  (ADJP more
+			harrowing) afternoon)
+	      (SBAR as
+		    (S (NP he)
+		       (VP waited
+			   (PP for
+			       (S (NP the victory)
+				  (AUX to)
+				  (VP drop
+				      (PP in
+					  (NP his lap)))))))))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Arnold Palmer)
+	,
+	(NP the defending champion)
+	,)
+    (VP lost
+	(NP his title))
+    (PP on
+	(NP the 72nd hole))
+    (PP after
+	(NP a few minutes
+	    (PP of
+		(NP (NP misfortune)
+		    (SBAR (WHNP that)
+			  (S (NP T)
+			     (VP left
+				 (NP (NP  (ADVP even)
+					  his fellow pros)
+				     (VP gaping
+					 (PP in
+					     (NP disbelief)))))))))))
+    )
+ .)
+(  END_OF_TEXT_UNIT)
+( (S   ``
+       (S (SBAR 
+	   (WHADVP  (ADVP Just)
+		    when)
+	   (S (NP you)
+	      (VP think
+		  (SBAR 0
+			(SINV (NP you)
+			      (AUX have)
+			      (NP it)
+			      (VP licked))))))
+	  ,
+	  (S (NP this golf course)
+	     (AUX can)
+	     (VP (VP get
+		     (ADVP up))
+		 and
+		 (VP bite
+		     (NP you)))))
+       ''
+       ,
+       (S (NP Player)
+	  (AUX had)
+	  (VP said
+	      (NP one afternoon)
+	      (ADVP midway
+		    (PP through
+			(NP the tournament))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP that)
+	 (VP is
+	     (SBAR
+	      (WHNP  (ADVP just)
+		     what)
+	      (S (NP T)
+		 (VP happened
+		     (PP on
+			 (NP the
+			     last
+			     few holes))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The Augusta National Golf Club Course)
+    (VP (VP got
+	    (ADVP up))
+	and
+	(VP bit
+	    (NP both 
+		(NP Player)
+		and
+		(NP Palmer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    (VP was
+	(S (NP the
+	       (ADJP first))
+	   (AUX to)
+	   (VP feel
+	       (NP its teeth)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP *)
+	   (VP playing
+	       (NP a
+		   splendid
+		   first
+		   nine holes)
+	       (PP in
+		   (NP (NP 34)
+		       --
+		       (NP two strokes
+			   (PP under
+			       (NP par)))
+		       --))
+	       (PP on
+		   (NP this fifth and final day
+		       (PP of
+			   (NP the tournament)))
+		   *LRB*
+		   (S (NP
+		       (NP Sunday)
+		       's fourth round)
+		      (AUX had)
+		      (VP been
+			  (VP washed
+		  
+			      (PRT out)
+			      (PP by
+				  (NP a violent rainstorm))))
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP it)
+			  (AUX was)
+			  (VP  (ADVP only)
+			       half
+			       completed
+			       ))))
+		   *RRB*))))
+    ,
+    (S (NP
+	(NP Player)
+	's game)
+       (VP  (ADVP rapidly)
+	    fell
+	    (PP to
+		(NP pieces)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP bogeyed
+	(NP the
+	    10th)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(NP a journey
+	    (PP through
+		(NP (NP woods) and (NP stream)))))
+    (S
+     (NP he)
+     (VP double-bogeyed
+	 (NP the
+	     13th))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP bogeyed
+	    (NP the
+		15th)
+	    (PP by
+		(S (NP *)
+		   (VP missing
+		       (NP a short putt)))))
+	and
+	(ADVP finally)
+	(VP scrambled
+	    (PP through
+		(NP the
+		    last
+		    three holes))
+	    (PP without
+		(NP 
+		 further
+		 mishap))
+	    (PP for
+		(NP (NP a
+			(ADJP 2-over-par)
+			74)
+		    and
+		    (NP a 72-hole total
+			(PP of
+			    (NP 280))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (NP he)
+	      (VP (VP signed
+		      (NP his scorecard))
+		  and
+		  (VP walked
+		      (PP off
+			  (NP the course))))))
+     ,
+     (S (NP Player)
+	(VP was
+	    (PP  (ADVP almost)
+		 in
+		 (NP tears)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX could)
+    (VP read
+	(PP on
+	    (NP the nearby scoreboard))
+	(SBAR that
+	      (S (NP Palmer)
+		 ,
+		 (ADVP  by
+			then
+			(S (NP *)
+			   (VP playing
+			       (NP the 15th hole))))
+		 ,
+		 (AUX was)
+		 (VP leading
+		     (NP him)
+		     (PP by
+			 (NP a stroke)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Palmer)
+    (X (X (AUX had)
+	  (VP started
+	      (NP the
+		  round)
+	      (NP four strokes
+		  (PP behind
+		      (NP Player)))))
+       ,
+       and
+       (X (PP at
+	      (NP one point
+		  (PP in
+		      (NP the afternoon))))
+	  (AUX had)
+	  (VP trailed
+	      (PP by
+		  (ADJP as
+			many
+			(PP as
+			    (NP six strokes))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP all
+	     (SBAR 0
+		   (S (NP he)
+		      (VP had
+			  (S (NP *)
+			     (AUX to)
+			     (VP do
+				 (NP T)))))))
+	 (AUX was)
+	 (VP finish
+	     (PP in
+		 (NP even par)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP collect
+		(NP (NP the trophy)
+		    and
+		    (NP the
+			biggest
+			single
+			paycheck
+			(PP in
+			    (NP golf))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP Palmer)
+	(VP hit
+	    (NP a
+		good
+		straight
+		drive)
+	    (PP up
+		(NP the fairway)))
+	(PP on
+	    (NP the 72nd hole))))
+    ,
+    (S (NP he)
+       (VP seemed
+	   (S (NP *)
+	      (AUX to)
+	      (VP have
+		  (NP (NP the championship)
+		      (VP won)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP (NP the seven-iron shot)
+	     (SBAR 0
+		   (S (NP he)
+		      (VP used
+			  (NP T)
+			  (S (NP *)
+			     (AUX to)
+			     (VP approach
+				 (NP the green)))))))
+	 (VP (VP strayed
+		 (PP into
+		     (NP a bunker)))
+	     and
+	     (VP lodged
+		 (PP in
+		     (NP a slight depression))))))
+   .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S   (PP In
+	  (S (NP *)
+	     (VP trying
+		 (S (NP *)
+		    (AUX to)
+		    (VP hit
+			(NP it)
+			(ADVP out)
+			(PP with
+			    (NP a sand wedge)))))))
+      (S (NP Palmer)
+	 (VP bounced
+	     (NP the ball)
+	     (PP (PP over
+		     (NP the
+			 green))
+		 ,
+		 (PP past
+		     (NP spectators))
+		 and
+		 (PP down
+		     (NP the slope)
+		     (PP toward
+			 (NP a TV tower)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Afterwards)
+      ,
+      (S (NP Palmer)
+	 (VP told
+	     (NP (NP Charlie Coe)
+		 ,
+		 (NP his last-round partner)
+		 ,)
+	     (SBAR that
+		   (S (NP he)
+		      (VP  (ADVP simply)
+			   played
+			   (NP the hole)
+			   (ADVP too
+				 fast)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP He)
+       (AUX did)
+       (VP seem
+	   (ADJP hasty)
+	   (PP on
+	       (NP his second and third shots))))
+    ,
+    but
+    then
+    (S (NP there)
+       (VP was
+	   (NP an agonizing wait
+	       (PP of
+		   (NP several minutes))))
+       (SBAR while
+	     (S (NP Coe)
+		(VP (ADVP graciously)
+		    putted
+		    (ADVP out))
+		,
+		(S (NP *)
+		   (VP giving
+		       (NP Palmer)
+		       (NP (NP a chance)
+			   (S (NP *)
+			      (AUX to)
+			      (VP recover
+				  (NP (NP his composure)
+				      ,
+				      (SBAR (WHNP which)
+					    (S (NP he)
+					       (AUX had)
+					       (VP (ADVP quite
+							 visibly)
+						   lost)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the
+	     shaken
+	     Palmer)
+	 (ADVP finally)
+	 (AUX did)
+	 (VP hit
+	     (NP his fourth shot))))
+     ,
+     (S (NP he)
+	(VP overshot
+	    (NP the hole)
+	    (PP by
+		(NP 15 feet)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Palmer)
+       (AUX was)
+       (ADVP now)
+       (VP putting
+	   (PP (ADVP merely)
+	       for
+	       (NP a tie))))
+    ,
+    and
+    (S (NP (NP Player)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX was)
+	       (VP (VP sitting
+		       (PP beside
+			   (NP his wife)))
+		   and
+		   (VP watching
+		       (NP it
+			   all)
+		       (PP on
+			   (NP television))
+		       (PP in
+			   (NP 
+			    (NP Tournament Chairman Clifford Roberts)
+			    ' clubhouse apartment))))))
+	   ,)
+       (VP stared
+	   (PP in
+	       (NP amazement)))
+       (SBAR (WHADVP when)
+	     (S (NP Palmer)
+		(VP missed
+		    (NP the putt))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP 
+	(NP Palmer)
+	's 281
+	(PP for
+	    (NP the four rounds
+		(PP at
+		    (NP Augusta)))))
+       (VP was
+	   (ADVP (NP a
+		     comfortable
+		     four strokes)
+		 ahead
+		 (PP of
+		     (NP the
+			 (ADJP  next
+				closest)
+			 pro)))))
+    ,
+    but
+    (S (NP it)
+       (VP was
+	   (ADJP (ADVP barely)
+		 good
+		 enough
+		 (PP for
+		     (NP a second-place tie
+			 (PP with
+			     (NP Coe))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The
+	    lean
+	    and
+	    leathery
+	    Oklahoma amateur)
+	,
+	(SBAR (WHNP who)
+	      (S (NP T)
+		 (AUX has)
+		 (VP been
+		     (VP playing
+			 (NP topnotch tournament golf)
+			 (PP for
+			     (NP many years))))))
+	,)
+    (VP (VP refused
+	    (S (NP *)
+	       (AUX to)
+	       (VP let
+		   (NP the Masters jitters)
+		   (VP overtake
+		       (NP him)))))
+	and
+	(VP closed
+	    (NP the tournament)
+	    (PP with
+		(NP his
+		    (ADJP second straight)
+		    69)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S (NP *) 
+    (VP End)
+    (PP at
+	(NP seven))))
+(  
+ (S (PP Until
+	(NP 
+	 late
+	 last
+	 Saturday afternoon))
+    (S (NP Palmer)
+       (AUX had)
+       (VP played
+	   (NP seven consecutive rounds
+	       (PP of
+		   (NP golf))
+	       (X-1 *pseudo-attach*))
+	   (PP at
+	       (NP the Masters))
+	   --
+	   (X-1 (X (NP four)
+		   (NP last year))
+		and
+		(X (NP three)
+		   (X this)))
+	   --
+	   (PP without
+	       (S (NP *)
+		  (ADVP ever)
+		  (VP being
+		      (PP  out
+			   (PP of
+			       (NP first place)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (S (NP evening)
+		 (VP approached))
+	      and
+	      (S (NP Palmer)
+		 (VP finished
+		     (NP his Saturday round)
+		     (PP with
+			 (NP a
+			     disappointing
+			     (ADJP one-over-par)
+			     73))))))
+     ,
+     (S (S (NP this remarkable record)
+	   (VP was
+	       (ADVP still)
+	       (ADJP intact)))
+	,
+	(NP thanks
+	    (PP to
+		(NP his Thursday
+		    and
+		    Friday rounds
+		    (PP of
+			(NP (NP 68)
+			    and
+			    (NP 69))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP His three-round total
+	(PP of
+	    (NP 210)))
+    (VP was
+	(ADJP (NP three strokes)
+	      better
+	      (PP than
+		  (NP (NP the
+			  (ADJP next best)
+			  score)
+		      ,
+		      (NP a 213
+			  (PP by
+			      (NP (NP Bill Collins)
+				  ,
+				  (NP (NP the
+					  tall
+					  and
+					  deliberate
+					  Baltimorean
+					  (SBAR (WHNP who)
+						(S (NP T)
+						   (AUX had)
+						   (VP been
+						       (VP playing
+							   (ADVP very
+								 well)
+							   (ADVP  (NP all winter)
+								  long)))))))))))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Palmer)
+	 (VP knew
+	     ,
+	     (SBAR as
+		   (SINV (AUX did)
+			 (NP everybody
+			     else
+			     (PP at
+				 (NP Augusta)))))
+	     ,
+	     (SBAR that
+		   (S (NP his streak)
+		      (VP was
+			  (PP about
+			      (S (NP *)
+				 (AUX to)
+				 (VP be
+				     (VP broken))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP (NP Half
+	    an hour)
+	after
+	(S (NP he)
+	   (VP finished
+	       (NP his round))))
+    ,
+    (S (NP Player)
+       (VP holed
+	   (PRT out)
+	    
+	   (PP at
+	       (NP the 18th green))
+	   (PP with
+	       (NP (NP a 69)
+		   and
+		   (NP (NP a three-round total
+			   (PP of
+			       (NP 206)))
+		       ,
+		       (ADVP (NP four strokes)
+			     ahead
+			     (PP of
+				 (NP Palmer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP  More
+	  (PP than
+	      (NP a streak)))
+     (AUX had)
+     (VP ended))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S   (SBAR Long
+	      after
+	      (S (NP (NP the erratic climate)
+		     and
+		     (NP the
+			 (ADJP washed-out)
+			 final
+			 round
+			 (PP on
+			     (NP Sunday))))
+		 (AUX have)
+		 (VP become
+		     (NP meteorological footnotes))))
+	,
+	(S (NP the 1961
+	       Masters)
+	   (AUX will)
+	   (VP be
+	       (VP remembered
+		    
+		   (PP as
+		       (NP the scene
+			   (PP of
+			       (NP the mano
+				   a
+				   mano
+				   (PP between
+				       (NP (NP Arnold Palmer)
+					   and
+					   (NP Gary Player)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Unlike
+	(NP 
+	 most such
+	 sports
+	 rivalries))
+    ,
+    (S (NP it)
+       (VP appeared
+	   (S (NP *)
+	      (AUX to)
+	      (VP have
+		  (VP developed
+		      (ADVP almost
+			    spontaneously)))))
+       ,
+       (SBAR although
+	     (S (NP this)
+		(VP was
+		    (ADVP (NEG not)
+			  exactly)
+		    (NP the case))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the winter tour)
+	 (VP began
+	     (PP at
+		 (NP Los Angeles))
+	     (NP last
+		 January))))
+     (S (NP there)
+	(VP was
+	    (NP (NP no one
+		    (PP in
+			(NP sight)))
+		(S (NP *)
+		   (AUX to)
+		   (VP challenge
+		       (NP 
+			(NP Palmer)
+			's towering prestige)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As if
+	  (S (NP *)
+	     (AUX to)
+	     (VP confirm
+		 (NP his stature))))
+    ,
+    (S (NP he)
+       (ADVP quickly)
+       (VP won
+	   (NP three
+	       (PP of
+		   (NP the
+		       first
+		       eight
+		       tournaments))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    (VP won
+	(NP (ADVP only)
+	    one)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (S (SBAR as
+		  (S (NP the tour)
+		     (VP reached
+			 (NP Pensacola)
+			 (ADVP (NP a month)
+			       ago))))
+	    ,
+	    (S (S (NP Player)
+		  (AUX was)
+		  (VP leading
+		      (NP Palmer)
+		      (PP in
+			  (NP official winnings))
+		      (PP by
+			  (NP a few hundred dollars))))
+	       ,
+	       and
+	       (S (NP the rest
+		      (PP of
+			  (NP the field)))
+		  (VP was
+		      (NP somewhere
+			  (PP off
+			      (PP in
+				  (NP nowhere))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP On
+	   (NP the final round
+	       (PP at
+		   (NP Pensacola))))
+       ,
+       (S (NP the luck
+	      (PP of
+		  (NP the draw)))
+	  (VP paired
+	      (NP (NP Palmer)
+		  and
+		  (NP Player))
+	      (PP in
+		  (NP the same threesome)))))
+    and
+    ,
+    (S (SBAR although
+	     (S (NP it)
+		(VP was
+		    (PP (ADVP far)
+			from
+			(ADJP obvious)))
+		(PP at
+		    (NP the time))))
+       ,
+       (S (NP the gallery)
+	  (AUX was)
+	  (VP treated
+	     
+	      (PP to
+		  (NP (NP the first chapter)
+		      (SBAR (WHPP of
+				  (WHNP what))
+			    (S (NP T)
+			       (VP promises
+				   (S (NP *)
+				      (AUX to)
+				      (VP be
+					  (NP one
+					      (PP of
+						  (NP the
+						      (ADJP most exciting)
+						      duels
+						      (PP in
+							  (NP sport))
+						      (PP for
+							  (NP (NP a long time)
+							      (S (NP *)
+								 (AUX to)
+								 (VP
+								  come))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP On
+	   (NP that
+	       final
+	       Sunday
+	       (PP at
+		   (NP Pensacola))))
+       (S (NP neither
+	      (NP Palmer)
+	      nor
+	      (NP Player))
+	  (AUX was)
+	  (VP leading
+	      (NP the tournament))))
+    and
+    ,
+    (S (SBAR as
+	     (S (NP it)
+		(VP turned
+		    (PRT out))))
+       ,
+       (S (NP neither)
+	  (VP won
+	      (NP it)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP (SBAR (WHNP whichever
+			 (PP of
+			     (NP these two)))
+		   (S (NP T)
+		      (VP finished
+			  (ADVP ahead
+				(PP of
+				    (NP the
+					other)))))))
+	 (AUX would)
+	 (VP be
+	     (NP the
+		 undisputed
+		 financial
+		 leader
+		 (PP of
+		     (NP the tour))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    (ADVP immediately)
+    (VP proved
+	(SBAR 0
+	      (S (NP he)
+		 (AUX was)
+		 (NEG not)
+		 (PP in
+		     (NP the
+			 (ADJP least)))
+		 (VP awed
+		     (PP by
+			 (NP the  dramatic proximity
+			     (PP of
+				 (NP Palmer)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP outplayed
+	    (NP Palmer)
+	    (PP  all
+		 around
+		 (NP the course)))
+	and
+	(VP finished
+	    (PP with
+		(NP a
+		    tremendous
+		    65
+		    (PP to
+			(NP 
+			 (NP Palmer)
+			 's 71)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thereafter)
+      ,
+      (PP until
+	  (NP the Masters))
+      ,
+      (S (NP Player)
+	 (VP (VP  (ADVP gradually)
+		  increased
+		  (NP his lead
+		      (PP over
+			  (NP Palmer))
+		      (PP in
+			  (NP winnings))))
+	     and
+	     (VP added
+		 (NP one more tournament victory)
+		 (PP at
+		     (NP Miami))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP they)
+	 (VP reached
+	     (NP Augusta))
+	 (NP last week)))
+     ,
+     (S (ADVP together)
+	(S (NP they)
+	   (AUX had)
+	   (VP won
+	       (NP five
+		   (PP of
+		       (NP the 13 tournaments
+			   (PP to
+			       (NP date)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP  Instant rivalry))
+(  
+ (S (PP On
+	(NP (NP Thursday)
+	    ,
+	    (NP the first day
+		(PP of
+		    (NP the Masters)))))
+    ,
+    (S (NP the contest
+	   (PP between
+	       (NP (NP Palmer)
+		   and
+		   (NP Player))))
+       (VP developed
+	   (ADVP instantly))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP It)
+    (VP was
+	(NP (NP a
+		dismal
+		,
+		drizzly
+		day)
+	    but
+	    (NP (NP a
+		    good
+		    one)
+		(SBAR (WHPP on
+			    (WHNP which))
+		      (S (NP *)
+			 (AUX to)
+			 (VP score
+			     (PP over
+				 (NP the Augusta National course)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	(ADJP usually
+	      skiddy) greens)
+    (VP were
+	(ADJP  moist
+	       and
+	       soft))
+    ,
+    (SBAR so
+	  (S (NP the golfers)
+	     (VP were
+		 (ADJP able
+		       (S (NP *)
+			  (AUX to)
+			  (VP (VP strike
+				  (NP their approach shots)
+				  (ADVP boldly)
+				  (PP at
+				      (NP the flag-stick)))
+			      and
+			      (VP putt
+				  (ADVP firmly)
+				  (PP toward
+				      (NP the hole)))
+			      (PP without
+				  (NP (ADJP too
+					    much)
+				      worry
+				      (PP about
+					  (NP the consequences)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP 
+     (NP Palmer)
+     's
+     (ADJP 4-under-par)
+     68)
+    (VP got
+	(NP him)
+	(PP off
+	    (PP to
+		(NP (NP an early lead)
+		    ,
+		    (SBAR (WHNP which)
+			  (S
+			   (NP he)
+			   (VP shared
+			       (NP T) 
+			       (PP with
+				   (NP Bob Rosburg))))))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP Player)
+	 (VP was
+	     (NP (ADVP only)
+		 one stroke
+		 (ADVP back))
+	     ,
+	     (PP with
+		 (NP a 69)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Even)
+      so
+      ,
+      (S (NP it
+	     (SBAR-2 *pseudo-attach*))
+	 (VP was
+	     (ADVP still)
+	     (NEG not)
+	     (ADJP clear)
+	     (PP to
+		 (NP many
+		     (PP in
+			 (NP (NP the enormous horde
+				 (PP of
+				     (NP spectators)))
+			     --
+			     (NP (ADVP unquestionably)
+				 the
+				 largest
+				 golf crowd
+				 (ADVP ever))
+			     --)))))
+	 (SBAR-2 that
+		 (S (NP this tournament)
+		    (VP was
+			(S (NP *)
+			   (AUX to)
+			   (VP be
+			       ,
+			       (ADVP essentially)
+			       ,
+			       (NP a match
+				   (PP between
+				       (NP (NP Palmer)
+					   and
+					   (NP Player)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP A
+	lot
+	(PP of
+	    (NP people)))
+    (AUX were)
+    (ADVP still)
+    (VP thinking
+	(PP about
+	    (NP (NP (NP Jack Nicklaus)
+		    ,
+		    (NP (NP the
+			    spectacular
+			    young
+			    amateur)
+			,
+			(SBAR 
+			 (WHNP who)
+			 (S (NP T)
+			    (VP had
+				(NP a 70))))))
+		;
+		;
+		or
+		(NP (NP Ken Venturi)
+		    ,
+		    (SBAR 
+		     (WHNP who)
+		     (S (NP T)
+			(X (VP had
+			       (NP a
+				   (ADJP  somewhat
+					  shaky)
+				   72))
+			   but
+			   (X (AUX was)
+			      (VP bound
+				   
+				  (S (NP *)
+				     (AUX to)
+				     (VP do
+					 better))))))))
+		;
+		;
+		or
+		(NP (NP Rosburg)
+		    ,
+		    (SBAR (WHNP whose
+				accurate
+				short
+				game
+				and
+				supersensitive putter)
+			  (S (NP T)
+			     (AUX can)
+			     (VP overcome
+				 (NP  so
+				      many
+				      (PP of
+					  (NP 
+					   (NP Augusta)
+					   's treacheries)))))))
+		;
+		;
+		or
+		(ADVP even)
+		(NP (NP old
+			Byron Nelson)
+		    ,
+		    (SBAR 
+		     (WHNP whose
+			   excellent
+			   71)
+		     (S (NP T)
+			(VP made
+			    (NP one)
+			    (VP wonder
+				(SBAR if
+				      (S (NP he)
+					 (AUX had)
+					 (VP solved
+					     (NP the geriatric aspects
+						 (PP of
+						     (NP
+						      golf)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   *LRB*
+    (S (PP On
+	   (NP Thursday))
+       (S (NP nobody
+	      (PP except
+		  (NP Charlie Coe)))
+	  (AUX was)
+	  (VP thinking
+	      (PP of
+		  (NP Charlie Coe)))))
+    .
+    *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP On
+	(NP (NP Friday)
+	    ,
+	    (NP a day
+		(PP as
+		    (ADJP  cloudless
+			   and
+			   lovely
+			   (SBAR as
+				 (S (NP Thursday)
+				    (AUX had)
+				    (VP been
+					(ADJP  gray
+					       and
+					       ugly)))))))))
+    ,
+    (S (NP the plot
+	   (PP of
+	       (NP the tournament)))
+       (VP came
+	   (ADVP clearly)
+	   (PP into
+	       (NP focus)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Rosburg)
+       (AUX had)
+       (VP started
+	   (ADVP early
+		 (PP in
+		     (NP the day)))))
+    ,
+    and
+    (S (PP by
+	   (NP the time
+	       (SBAR 0
+		     (S (NP (NP (NP Palmer)
+				and
+				(NP Player))
+			    (VP-3 *pseudo-attach*))
+			(VP were
+			    (PP on
+				(NP the course)))
+			--
+			(VP-3 separated
+			      ,
+			      (SBAR as
+				    (S (NP they)
+				       (AUX were)
+				       (VP destined
+					   (S (NP *)
+					      (AUX to)
+					      (VP be
+						  (PP for
+						      (NP the rest
+							  (PP of
+							      (NP the weekend)))))))))
+			      ,
+			      (PP by
+				  (NP (ADVP about)
+				      half
+				      (PP an
+					  (NP hour)))))
+			--))))
+       (S (NP they)
+	  (AUX could)
+	  (VP see
+	      (PP on
+		  (NP (NP the numerous scoreboards)
+		      (VP spotted
+			  (PP around
+			      (NP the course)))))
+	      (SBAR that
+		    (S (NP (NP Rosburg)
+			   ,
+			   (SBAR 
+			    (WHNP who)
+			    (S (NP T)
+			       (VP ended
+				   (PP with
+				       (NP a 73)))))
+			   ,)
+		       (AUX was)
+		       (NEG not)
+		       (VP having
+			   (NP a good day))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (NP Player)
+	      (VP began
+		  (NP his second round)
+		  (PP in
+		      (NP a twosome
+			  (PP with
+			      (NP  amateur
+				   Bill Hyndman)))))))
+     ,
+     (S (NP his share
+	    (PP of
+		(NP the gallery)))
+	(VP was
+	    (NEG not)
+	    (ADJP  conspicuously
+		   large)
+	    (PP for
+		(NP a contender)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Player)
+    (VP (VP began
+	    (PP with
+		(NP a birdie
+		    (PP on
+			(NP the first hole)))))
+	,
+	(VP added
+	    (NP (NP five straight pars)
+		and
+		then
+		(NP another birdie
+		    (PP at
+			(NP the
+			    9th)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the
+	    back
+	    nine))
+    (S (NP he)
+       (VP began
+	   (S (NP *)
+	      (AUX to)
+	      (VP acquire
+		  (NP the tidal wave
+		      (PP of
+			  (NP (NP a gallery)
+			      (SBAR (WHNP that)
+				    (S (NP T)
+				       (VP stayed
+					   (PP with
+					       (NP him)))
+				       (NP the rest
+					   (PP of
+					       (NP the tournament)))))))))))))
+ .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP He)
+       (VP birdied
+	   (NP (NP the
+		   13th)
+	       ,
+	       (NP the
+		   15th)
+	       and
+	       (NP the
+		   18th))))
+    --
+    (NP (NP (NP five birdies)
+	    ,
+	    (NP one bogey)
+	    and
+	    (NP 12 pars))
+	(PP for
+	    (NP a 68))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (S (S (NP *)
+	   (VP Starting
+	       (PP (NP  half
+			(PP an
+			    (NP hour)) )
+		   behind
+		   (NP Player))
+	       (PP in
+		   (NP company
+		       (PP with
+			   (NP British Open Champion (NP Kel Nagle))))))) 
+	,
+	(S (NP Palmer)
+	   (VP birdied
+	       (NP (NP the 2nd)
+		   ,
+		   (NP the
+		       9th)
+		   ,
+		   (NP the
+		       13th)
+		   and
+		   (NP the
+		       16th)))))
+     --
+     (NP (NP (NP four birdies)
+	     ,
+	     (NP one bogey)
+	     and
+	     (NP 13 pars))
+	 (PP for
+	     (NP a 69))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The roar
+	   (PP of
+	       (NP 
+		(NP Palmer)
+		's gallery)))
+       (SBAR as
+	     (S (NP he)
+		(VP sank
+		    (NP a thrilling putt))))
+       (AUX would)
+       (VP roll
+	   (ADVP out)
+	   (PP across
+	       (NP the parklike landscape
+		   (PP of
+		       (NP Augusta))))))
+    ,
+    (S (ADVP only)
+       (S (NP *)
+	  (AUX to)
+	  (VP be
+	      (VP answered
+		  (ADVP (NP moments)
+			later)
+		  (PP by
+		      (NP the roar
+			  (PP of
+			      (NP 
+			       (NP Player)
+			       's gallery))
+			  (PP for
+			      (NP a similar triumph)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP (NP (NP one point)
+		(ADJP late
+		      (PP in
+			  (NP the day))))
+	    ,
+	    (SBAR 
+	     (WHADVP when)
+	     (S (NP Palmer)
+		(AUX was)
+		(VP lining
+		    (PRT up)
+		    (NP a 25-foot putt)
+		    (PP on
+			(NP the
+			    16th)))))))
+    ,
+    (S (NP a thunderous cheer
+	   (PP from
+	       (NP the direction
+		   (PP of
+		       (NP the 18th green)))))
+       (VP  (ADVP unmistakably)
+	    announced
+	    (SBAR that
+		  (S (NP Player)
+		     (AUX had)
+		     (VP birdied
+			 (NP the final hole)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP Without
+	   (NP  so
+		much
+		(PP as
+		    (NP (NP (NP a grimace)
+			    or
+			    (NP a gesture))
+			(S (NP *)
+			   (AUX to)
+			   (VP show
+			       (SBAR that
+				     (S (NP he)
+					(AUX had)
+					(VP noticed)
+					*LRB*
+					(SBAR although
+					      (S (NP he)
+						 (ADVP later)
+						 (VP admitted
+						     (SBAR that
+							   (S (NP he)
+							      (AUX
+							       had))))))
+					*RRB*))))))))
+       (S (NP Palmer)
+	  (VP proceeded
+	      (S (NP *)
+		 (AUX to)
+		 (VP sink
+		     (NP his 25-footer))))))
+    ,
+    and
+    (S (NP his gallery)
+       (VP sent
+	   (NP its explosive vocalization)
+	   (VP rolling
+	       (ADVP back)
+	       (PP along
+		   (NP the intervening fairways))
+	       (PP in
+		   (NP reply))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP The boldness
+     (PP of
+	 (NP champions))))
+( (S (NP (NP Anyone)
+	 (SBAR (WHNP who)
+	       (S (NP *)
+		  (ADVP now)
+		  (VP doubted
+		      (SBAR that
+			    (S (NP a personal duel)
+			       (VP was
+				   (PP under
+				       (NP way)))))))))
+     (VP had
+	 (ADVP only)
+	 (S (NP *)
+	    (AUX to)
+	    (VP watch
+		(SBAR 
+		 (WHADVP how)
+		 (S (NP these
+			(ADJP exceptionally
+			      gifted) golfers)
+		    (AUX were)
+		    (VP playing
+			(NP this
+			    (ADJP most difficult)
+			    golf course))))))))
+  .)     
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP It
+	(SBAR-1 *pseudo-attach*))
+    (VP is
+	(ADJP  almost
+	       axiomatic))
+    (SBAR-1 that
+	    (S (NP (NP golfers)
+		   (SBAR (WHNP who)
+			 (S (NP T)
+			    (VP dominate
+				(NP the game
+				    (PP of
+					(NP golf)))
+				(PP for
+				    (NP any period
+					(PP of
+					    (NP time))))))))
+	       (VP attack
+		   (NP their shots)
+		   (PP with
+		       (NP (NP a vehemence)
+			   (VP bordering
+			       (PP on
+				   (NP violence)))))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The bad luck)
+	 (SBAR (WHNP that)
+	       (S (NP T)
+		  (AUX can)
+		  (ADVP so
+			often)
+		  (VP mar
+		      (NP a well-played round
+			  (PP of
+			      (NP golf)))))))
+     (AUX is)
+     (VP  (ADVP simply)
+	  overpowered
+	  and
+	  obliterated
+	  (PP by
+	      (NP the contemptuous boldness
+		  (PP of
+		      (NP these champions))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Bob Jones)
+    (VP played
+	(NP that way)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP Byron Nelson)
+       (AUX did))
+    ,
+    (S (NP Hogan)
+       (AUX did)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S And
+     (NP last week
+	 (PP at
+	     (NP the Masters)))
+     (S (NP (NP Palmer)
+	    and
+	    (NP Player))
+	(AUX did)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (S (NP the third round
+		     (PP of
+			 (NP the tournament)))
+		 (VP began
+		     (PP on
+			 (NP Saturday))))
+	      and
+	      (S (NP the duel)
+		 (AUX was)
+		 (VP resumed
+	      
+		     (PP in
+			 (NP earnest))))))
+     ,
+     (S (NP it
+	    (SBAR-2 *pseudo-attach*))
+	(VP was
+	    (NP 
+	     (NP Player)
+	     's 
+	     superior 
+	     aggressiveness))
+	(SBAR-2 (WHNP that)
+		(S (NP T)
+		   (VP carried
+		       (NP him)
+		       (PP into
+			   (NP the lead)))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This day)
+    (S (NP Palmer)
+       (AUX had)
+       (VP started
+	   (ADVP first))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (SBAR As
+	   (S (NP Player)
+	      (VP stepped
+		  (PP on
+		      (NP the first tee)))))
+     (S
+      (NP he)
+      (VP knew
+	  (SBAR that
+		(S (NP Palmer)
+		   (X (X (AUX had)
+			 (VP birdied
+			     (NP the
+				 first
+				 two holes)))
+		      and
+		      (ADVP already)
+		      (VP was
+			  (NP 2
+			      (PP under
+				  (NP par)))
+			  (PP for
+			      (NP the day)))))))))
+ . )  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    (ADVP immediately)
+    (VP proceeded
+	(S (NP *)
+	   (AUX to)
+	   (VP follow
+	       (NP suit)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP fact))
+    ,
+    (S (NP he)
+       (VP went
+	   (ADVP on)
+	   (S (NP *)
+	      (AUX to)
+	      (VP birdie
+		  (NP the
+		      6th and 8th)
+		  (ADVP as
+			well))))
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP go
+	      (NP 4
+		  (PP under
+		      (NP par)))
+	      (PP for
+		  (NP the
+		      first
+		      eight holes))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP
+	  (NP Player)
+	  's real test)
+	 (VP came
+	     (PP on
+		 (NP (NP the ninth hole)
+		     ,
+		     (NP (NP a downhill dogleg
+			     (PP to
+				 (NP the
+				     (ADJP left))))
+			 (VP measuring
+			     (NP 420 yards))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP He)
+       (VP hit
+	   (NP a poor tee shot)))
+    ,
+    (S (NP *)
+       (VP pulling
+	   (NP it)
+	   (ADVP off)
+	   (PP into
+	       (NP (NP the pine woods)
+		   (VP separating
+		       (NP the 9th and first fairways)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S   (S (NP *)
+	 (VP Having
+	     (VP hit
+		 (NP one
+		     (PP of
+			 (NP the trees)))))) 
+      ,
+      (S (NP the ball)
+	 (VP came
+	     (S (NP *)
+		(AUX to)
+		(VP rest
+		    (ADJP (NEG not)
+			  more
+			  (PP than
+			      (ADVP (NP 160 yards)
+				    out))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    then
+    (VP had
+	(NP the choice
+	    (PP of
+		(S (NP *)
+		   (VP (VP (VP punching
+			       (NP the ball)
+			       (PP  (ADVP safely)
+				    out
+				    (PP of
+					(NP the woods)))
+			       (PP to
+				   (NP the 9th fairway)))
+			   and
+			   (VP settling
+			       (PP for
+				   (NP a
+				       bogey 5))))
+		       ,
+		       or
+		       (VP gambling)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The latter)
+    (VP involved
+	(S (S (NP *)
+	      (VP hitting
+		  (NP a
+		      full
+		      four-wood)
+		  (PP out
+		      (PP (PP to
+			      (NP the first fairway))
+			  and
+			  (PP toward
+			      (NP the clubhouse))))))
+	   ,
+	   (S (NP *)
+	      (VP hoping
+		  (S (NP *)
+		     (AUX to)
+		     (VP slice
+			 (NP it)
+			 (ADVP back)
+			 (PP to
+			     (NP the
+				 (VP  deeply
+				      bunkered)
+				 9th green)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (AUX was)
+	 (VP hitting
+	     (NP the ball)
+	     (ADVP well)))
+      ''
+      ,
+      (S (NP Player)
+	 (VP said
+	     (ADVP later)))
+      ,
+      ``
+      (S and
+	 (S (NP I)
+	    (VP felt
+		(ADJP strong)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP you)
+	(AUX 're)
+	(VP playing
+	    (PP like
+		(NP that)))))
+    (S (NP you)
+       (AUX 'd)
+       (ADVP better)
+       (VP attack))
+    '')
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Player)
+    (VP (VP attacked
+	    (PP with
+		(NP his
+		    four-wood)))
+	and
+	(VP hit
+	    (NP (NP a shot)
+		(SBAR that
+		      (S (NP (NP few)
+			     (SBAR (WHNP who)
+				   (S (NP T)
+				      (VP saw
+					  (NP it)))))
+			 (AUX will)
+			 (ADVP ever)
+			 (VP forget)))))))
+ .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP It)
+    (VP (VP struck
+	    (NP the 9th green)
+	    (PP on
+		(NP the fly)))
+	and
+	(VP stopped
+	    (PP  (ADVP just)
+		 off
+		 (NP the edge)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP From
+	(NP there))
+    (S (NP he)
+       (VP (VP chipped
+	       (ADVP back))
+	   and
+	   (VP sank
+	       (NP his putt)
+	       (PP for
+		   (NP a
+		       par 4))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Palmer)
+    ,
+    (ADVP meanwhile)
+    ,
+    (AUX had)
+    (VP been
+	(VP having
+	    (NP his troubles))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP They)
+    (VP started
+	(PP on
+	    (NP (NP the 4th hole)
+		,
+		(NP a 220-yard par-3)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP On
+	    (NP this day))
+	(S
+	 (NP the wind)
+	 (AUX had)
+	 (VP switched
+	     (NP 180-degrees)
+	     (PP (PP from
+		     (NP the northwest))
+		 (PP to
+		     (NP the southeast))))))
+     ,
+     and
+     (S (NP  (ADVP nearly
+		   every)
+	     shot
+	     (PP on
+		 (NP the course)))
+	(VP was
+	    (ADJP different
+		  (PP from
+		      (NP the
+			  previous
+			  few days))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP At
+	   (NP the 4th tee))
+       (S (NP Palmer)
+	  (VP chose
+	      (S (NP *)
+		 (AUX to)
+		 (VP hit
+		     (NP a
+			 one-iron))
+		 (SBAR 
+		  (WHADVP when)
+		  (S (NP a
+			 three-wood)
+		     (VP was
+			 (NP the proper club))))))))
+    ,
+    (S so
+       (S (NP he)
+	  (VP put
+	      (NP the ball)
+	      (PP in
+		  (NP a bunker
+		      (PP in
+			  (NP front
+			      (PP of
+				  (NP the green))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP His
+	    bogey 4
+	    (PP on
+		(NP this hole)))
+	and
+	(NP subsequent bogeys
+	    (PP at
+		(NP (NP 5)
+		    and
+		    (NP 7)))))
+    (PP along
+	(PP with
+	    (NP a birdie
+		(PP at
+		    (NP 8)))))
+    (VP brought
+	(NP him)
+	(ADVP back
+	      (N to
+		 (NP  even
+		      par)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(   (S (S (NP *)
+	  (VP Starting
+	      (NP the
+		  second
+		  nine)))
+       ,
+       (S (NP Palmer)
+	  (VP (VP was
+		  (ADVP already)
+		  (PP (NP four strokes)
+		      behind
+		      (NP Player)))
+	      and
+	      (VP knew
+		  (NP it)))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

@@ -1,0 +1,2262 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A philosopher)
+   (AUX may)
+   (VP point
+       (PRT out)
+       (SBAR that
+	     (S (NP the troubles
+		    (PP of
+			(NP the Congo)))
+		(X (VP began
+		       (PP with
+			   (NP the
+			       old
+			       Adam)))
+		   and
+		   (X  (ADVP consequently)
+		       (AUX will)
+		       (ADVP never)
+		       (VP end)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP a historian)
+	 (AUX might)
+	 (VP (VP put
+		 (NP his finger)
+		 (PP on
+		     (NP a specific man and date)))
+	     ,
+	     and
+	     (VP hold
+		 (ADVP out)
+		 (NP the hope
+		     (SBAR that
+			   (S (NP the troubles)
+			      (AUX will)
+			      (ADVP sometime)
+			      (VP pass
+				  (ADVP away)
+				  ))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The man)
+   (VP was
+       (NP (NP King Leopold 2
+	       ,
+	       (PP of
+		   (NP the Belgians))
+	       ,)
+	   (SBAR 
+	    (WHNP who)
+	    (S  
+	     (PP in
+		 (NP 1885))
+	     (S (NP T)
+		(VP concluded
+		    (SBAR that
+			  (S (NP he)
+			     (AUX had)
+			     (ADVP better)
+			     (VP grab
+				 (NP a colony))
+			     (SBAR while
+				   (S (NP the grabbing)
+				      (VP was
+					  (ADVP still)
+					  (ADJP good)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP force))
+   ,
+   (S (NP he)
+      (VP (VP took
+	      (PP under
+		  (NP his protection))
+	      (NP-1 *pseudo-attach*))
+	  ,
+	  or
+	  (VP stole
+	      (NP-1 *pseudo-attach*))
+	  ,
+	  (NP-1 900,000 square miles
+		(PP of
+		    (NP wilderness))
+		(PP in
+		    (NP Central Africa))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP is
+	  (NP (NP an area)
+	      (ADJP   (ADVP nearly)
+		      as
+		      large
+		      (PP as
+			  (NP Western Europe))))))
+     ;
+     ;
+     and
+     (S (NP it)
+	(AUX was)
+	(VP filled
+	    (ADVP then
+		  (PP as
+		      (ADVP now)))
+	    (PP by
+		(NP  (VP quarreling)
+		     tribes
+		     (PP with
+			 (NP no (ADJP political or historical) unity)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Its boundaries)
+      (VP had
+	  (NP nothing
+	      (S (NP *)
+		 (AUX to)
+		 (VP do
+		     (PP with
+			 (NP (NP geography)
+			     or
+			     (NP ethnic groupings))))))))
+     ;
+     ;
+     (S (NP they)
+	(AUX were)
+	(VP determined
+	     
+	    (PP by
+		(NP (NP the points)
+		    (SBAR (WHPP at
+				(WHNP which))
+			  (S
+			   (NP 
+			    (NP Leopold)
+			    's explorers and gunmen)
+			   (VP got
+			       (ADJP tired
+				     (PP of
+					 (NP walking)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The population
+       (PP of
+	   (NP the Congo)))
+   (VP is
+       (NP (NP 13.5 million)
+	   ,
+	   (VP divided
+	       (PP into
+		   (NP (NP (PP at
+			       (ADJP least))
+			   seven major
+			   ``
+			   culture clusters
+			   '')
+		       and
+		       (NP (NP innumerable tribes)
+			   (VP speaking
+			       (NP 400 separate dialects)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The religions
+       (PP of
+	   (NP the people)))
+   (VP include
+       (NP (NP Christianity)
+	   ,
+	   (NP Mohammedanism)
+	   ,
+	   (NP paganism)
+	   ,
+	   (NP ancestor worship) 
+	   and
+	   (NP animism))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The climate)
+   (VP ranges
+       (PP from
+	   (NP the
+	       (ADJP  steamily
+		      equatorial)))
+       (PP to
+	   (NP the
+	       (ADJP temperate)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The hospitals)
+    (VP contain
+	(NP (NP patients)
+	    (VP (VP trampled
+		    (PP by
+			(NP elephants)))
+		or
+		(VP run
+		    (PRT over)
+		    (PP by
+			(NP sports
+			    cars)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (S   (NP *) 
+	      (AUX To)
+	      (VP make
+		  (NP one nation)
+		  (PP out
+		      (PP of
+			  (NP these disparities))))))
+     (AUX would)
+     (VP be
+	 (NP (NP a problem)
+	     (ADJP large
+		   enough
+		   (PP in
+		       (NP any case))))))
+    ;
+    ;
+    (S (NP it)
+       (AUX has)
+       (VP been
+	   (VP made
+	       (ADJP   (ADVP far
+			     more)
+		       difficult)
+	       (PP by
+		   (SBAR (WHNP what)
+			 (S
+			  (NP the Belgians)
+			  (AUX have)
+			  (VP  (VP done
+				   (NP T) )
+			       ,
+			       or
+			       (VP failed
+				   (S (NP *)
+				      (AUX to)
+				      (VP do
+					  (NP T) )))
+			       ,)
+			  (PP in
+			      (NP the Congo))
+			  (PP  since
+			       (NP 1885)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(ADVP first))
+    (S
+     (NP the Belgian royal family)
+     (VP administered
+	 (NP the Congo)
+	 (PP as
+	     (NP its
+		 own private
+		 property)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP by
+	  (NP 1908))
+      (S (NP its record
+	     (PP of
+		 (NP brutality)))
+	 (AUX had)
+	 (VP touched
+	     (NP the national conscience))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP The Belgian government)
+	 (NP itself))
+     (VP took
+	 (PRT over)
+	 (NP administration))
+     ,
+     (S  (NP *) 
+	 (VP commencing
+	     (NP (NP a program
+		     (PP of
+			 (NP paternalism)))
+		 (ADJP unmatched
+		       (PP in
+			   (NP the history
+			       (PP of
+				   (NP colonialism)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One definition
+       (PP of
+	   (NP paternalism)))
+   (VP is
+       ``
+       (NP The principle or practice
+	   ,
+	   (PP on
+	       (NP the part
+		   (PP of
+		       (NP a government))))
+	   ,
+	   (PP of
+	       (S (NP *) 
+		  (VP managing
+		      (NP the affairs
+			  (PP of
+			      (NP a country)))
+		      (PP in
+			  (NP the manner
+			      (PP of
+				  (NP (NP a father)
+				      (VP dealing
+					  (PP with
+					      (NP his children)))))))))))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The honor
+	  (PP of
+	      (NP the Belgians))
+	  (PP in
+	      (NP this matter)))
+      (VP is
+	  (NEG not)
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (VP questioned
+		     )))))
+     --
+     (NP (ADVP only)
+	 their judgment))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Ordinarily)
+	 (S (NP a father)
+	    (VP permits
+		(NP his children)
+		(S (NP *)
+		   (AUX to)
+		   (VP grow
+		       (PRT up))
+		   (PP in
+		       (NP due time))))))
+     --
+     but
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP the colony)
+	    (VP received
+		(NP independence))
+	    (PP in
+		(NP 1960))))
+	(S (NP the Congolese child)
+	   ,
+	   (SBAR if
+		 (S (NP one)
+		    (VP imagines
+			(S (NP him)
+			   (AUX to)
+			   (VP have
+			       (VP been
+				   (VP born
+				       )))
+			   (PP in
+			       (NP 1908))))))
+	   ,
+	   (X (VP was
+		  (NP 52))
+	      and
+	      (X   
+	       (AUX had)
+	       (PP until
+		   (ADVP then))
+	       (VP been
+		   (VP treated
+	      
+		       (PP as
+			   (NP an infant)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Belgians)
+   (VP were
+       (ADJP interested
+	     (ADVP primarily)
+	     (PP in
+		 (NP the economic development
+		     (PP of
+			 (NP (NP the Congo)
+			     ,
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (VP is
+				     (ADJP rich
+					   (PP in
+					       (NP (NP copper)
+						   ,
+						   (NP tin)
+						   ,
+						   (NP cobalt)
+						   ,
+						   (NP manganese)
+						   ,
+						   (NP zinc)
+						   ,
+						   and
+						   (NP uranium)
+						   ,
+						   and
+						   (NP cotton and palm oil))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The colony)
+   (AUX was)
+   (VP administered
+	     
+       (PP from
+	   (NP Brussels))
+       ,
+       (PP with
+	   (S (NP neither
+		  (NP the Congolese)
+		  nor
+		  (NP the
+		      resident
+		      Belgians))
+	      (VP having
+		  (NP any vote))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The beneficiaries
+       (PP of
+	   (NP this administration)))
+   (VP were
+       (NP (NP a number
+	       (PP of
+		   (NP huge cartels)))
+	   (SBAR  
+	    (WHPP in
+		  (WHNP which))
+	    (S (NP both
+		   (NP individuals)
+		   and
+		   (NP (NP the Belgian government)
+		       (NP itself)))
+	       (VP held
+		   (NP stock)))))))
+  .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP Inside Africa))
+     ,
+     (S (NP John Gunther)
+	(VP describes
+	    (NP (NP one
+		    (PP of
+			(NP these)))
+		,
+		(NP the Societe Generale)
+		,)
+	    (PP as
+		(NP  ``
+		     (NP the kind
+			 (PP of
+			     (NP colossus)))
+		     (SBAR  
+		      (WHNP that)
+		      (S (NP T)
+			 (AUX might)
+			 (VP be
+			     (VP envisaged))
+			 (SBAR if
+			       (S  ,
+				   (S  (NP *) 
+				       (VP let
+					   (NP us)
+					   (VP say)))
+				   ,
+				   (S (NP (NP the House
+					      (PP of
+						  (NP Morgan)))
+					  ,
+					  (NP Anaconda Copper)
+					  ,
+					  (NP the Mutual Life Insurance Company
+					      (PP of
+						  (NP New York)))
+					  ,
+					  (NP the Pennsylvania Railroad)
+					  ,
+					  and
+					  (NP (NP various companies)
+					      (VP producing
+						  (NP agricultural products))))
+				      (AUX were)
+				      (VP lumped
+					  (ADVP together))
+				      ,
+				      (PP with
+					  (X (NP the United States government)
+					     (PP as
+						 (NP a heavy partner)))))))))
+		     '')))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR (SINV  (AUX Had)
+		(NP they)
+		(VP been
+		    (ADJP  truly
+			   ruthless))))
+   ,
+   (S (NP the Belgians)
+      (AUX might)
+      (VP have
+	  (VP exploited
+	      (NP the Congolese)
+	      (PP without
+		  (NP compassion))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP they)
+	 (VP were
+	     (NEG not))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP provided
+	  (NP (NP a social security system)
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (VP covered
+		      (NP all
+			  their African employes)))))))
+     ;
+     ;
+     (S (NP their program
+	    (PP of
+		(NP 
+		 mass medical
+		 care)))
+	(VP was
+	    (ADVP doubtless)
+	    (NP the
+		(ADJP best)
+		(PP on
+		    (NP the continent)))))
+     ;
+     ;
+     (S (NP they)
+	(VP put
+	    (NP much effort)
+	    (PP into
+		(NP public housing)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (ADVP also)
+   (VP instituted
+       (NP (NP a ration system)
+	   (SBAR 
+	    (WHPP under
+		  (WHNP which))
+	    (S (NP all employers
+		   (PP in
+		       (NP the Congo)))
+	       (AUX were)
+	       (VP required
+		    
+		   (S (NP *)
+		      (AUX to)
+		      (VP furnish
+			  (NP their employes)
+			  (PP with
+			      (NP (NP clothing)
+				  and
+				  (NP adequate food)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (ADVP instead
+	    (PP of
+		(S  (NP *) 
+		    (VP delivering
+			(NP the ration)
+			--
+			(PP  either
+			     (PP in
+				 (NP actual commodities))
+			     or
+			     (PP in
+				 (NP cash)))
+			--
+			(PP at
+			    (NP intervals
+				(PP of
+				    (NP  (ADVP perhaps)
+					 two weeks
+					 or
+					 a month))))))))
+      ,
+      (S (NP the Belgians)
+	 (VP felt
+	     (ADJP obliged
+		   (S (NP *)
+		      (AUX to)
+		      (VP dole
+			  (NP it)
+			  (PRT out)
+			  (ADVP more often)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ  
+   (AUX Would)
+   (NEG not)
+   (NP the children)
+   ,
+   (SBAR if
+	 (S (NP they)
+	    (VP received
+		(NP all
+		    their food))
+	    (PP on
+		(NP the first day
+		    (PP of
+			(NP the month))))))
+   ,
+   (VP (VP eat
+	   (NP it)
+	   (PRT up)
+	   (ADVP immediately))
+       ,
+       and
+       (ADVP later)
+       (VP go
+	   (ADJP hungry))))
+  ?
+  ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The Belgians)
+   (ADVP also)
+   (VP placed
+       (NP great emphasis)
+       (PP on
+	   (NP education))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the 1950s))
+   (S (NP there)
+      (VP were
+	  (NP  (ADJP as
+		     many
+		     (PP as
+			 (NP 25,000)))
+	       schools))
+      (PP in
+	  (NP the Congo))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP (ADVP almost)
+	     all
+	     the schools)
+	 (VP were
+	     (ADJP primary))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The
+	average
+	Congolese)
+    (AUX can)
+    (VP do
+	(ADVP little
+	      more
+	      (PP than
+		  (VP (VP puzzle
+			  (PRT out)
+			  (NP the meaning
+			      (PP of
+				  (NP ``
+				      (NP la chatte)
+				      ''
+				      and
+				      ``
+				      (NP le chien)
+				      ''))))
+		      and
+		      (VP write
+			  (NP his name)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Some schools)
+      (VP were
+	  (ADJP technical)))
+   --
+   (S (NP the Belgians)
+      (VP (VP needed
+	      (NP carpenters and mechanics
+		  (S (NP *)
+		     (AUX to)
+		     (VP help
+			 (VP exploit
+			     (NP the land))))))
+	  ,
+	  and
+	  (VP trained
+	      (NP many)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP they)
+	 (AUX did)
+	 (NEG not)
+	 (VP believe
+	     (PP (PP in
+		     (NP 
+		      widespread secondary
+		      education))
+		 ,
+		 (ADJP  much
+			less)
+		 (PP in
+		     (NP college))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It
+	(SBAR-2 *pseudo-attach*))
+    (VP was
+	(NP their conviction))
+    (SBAR-2 that
+	    (S (NP the people)
+	       (AUX should)
+	       (VP be
+		   (VP  ``
+			brought
+			  
+			(PRT up)
+			(ADVP together)
+			''
+			,
+			(NP a grade
+			    (PP at
+				(NP a time)))
+			,
+			(PP until
+			    (S (PP in
+				   (NP some indefinite future))
+			       (S  (NP some)
+				   (AUX might)
+				   (VP be
+				       (ADJP ready
+					     (S (NP *)
+						(AUX to)
+						(VP tackle
+						    (NP (NP history)
+							,
+							(NP economics)
+							and
+							(NP political science))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S (NP the Belgians)
+	 (VP discouraged
+	     (NP higher
+		 education))
+	 ,
+	 (S (NP *) 
+	    (VP fearing
+		(NP the creation
+		    (PP of
+			(NP (NP a
+				native intellectual
+				elite)
+			    (SBAR 
+			     (WHNP which)
+			     (S (NP T)
+				(AUX might)
+				(VP cause
+				    (NP unrest)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP the Congo)
+	 (VP received
+	     (NP its independence))
+	 (PP in
+	     (NP 1960))))
+     (S (NP there)
+	(VP were
+	    ,
+	    (PP among
+		(NP its 13.5 million people))
+	    ,
+	    (NP  (ADVP exactly)
+		 14 university graduates))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP Why)
+  (SQ  (AUX did)
+       (NP the Belgians)
+       (VP grant
+	   (NP independence)
+	   (PP to
+	       (NP a colony
+		   (ADJP    so
+			    manifestly
+			    unprepared
+			    (S (NP *)
+			       (AUX to)
+			       (VP accept
+				   (NP it)))))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP one large oversimplification))
+   ,
+   (S (NP it)
+      (AUX might)
+      (VP be
+	  (VP said
+	      (SBAR that
+		    (S (NP the Belgians)
+		       (VP felt
+			   ,
+			   (ADVP (ADVP far
+				       too)
+				 late)
+			   ,
+			   (NP (NP the gale
+				   (PP of
+				       (NP nationalism)))
+			       (VP sweeping
+				   (NP Africa))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP lacked
+       (NP time
+	   (S (NP *)
+	      (AUX to)
+	      (VP prepare
+		  (NP the Congo)
+		  ,
+		  (PP as
+		      (S (NP  the British
+			      and
+			      French)
+			 (AUX had)
+			 (VP prepared
+			     (NP their colonies)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The Congolese)
+       (AUX were)
+       (VP clamoring
+	   (PP for
+	       (NP their independence)))
+       ,
+       (SBAR  even
+	      though
+	      (S  (NP most)
+		  (VP were
+		      (ADJP unsure
+			    (SBAR (WHNP what)
+				  (S (NP it)
+				     (VP meant
+					 (NP T) ))))))))
+    ;
+    ;
+    and
+    (S (PP in
+	   (NP Brussels))
+       ,
+       (S (NP street crowds)
+	  (VP shouted
+	      ,
+	      (NP  ``
+		   (NP Pas une goutte de sang
+		       !
+		       !)
+		   ''
+		   *LRB*
+		   (NP Not
+		       one drop
+		       (PP of
+			   (NP blood))
+		       !
+		       !))))))
+ *RRB*
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The Belgians)
+       (AUX would)
+       (NEG not)
+       (VP fight
+	   (PP for
+	       (NP the privilege
+		   (PP of
+		       (S (NP *) 
+			  (VP being
+			      (NP the detested pedagogue))))))))
+    ;
+    ;
+    (S (ADVP rather
+	     (PP than
+		 (VP teach
+		     (SBAR 
+		      (WHADVP where)
+		      (S (NP teaching)
+			 (AUX was)
+			 (NEG not)
+			 (VP wanted
+			     ))))))
+       ,
+       (S (NP they)
+	  (AUX would)
+	  (VP wash
+	      (NP their hands)
+	      (PP of
+		  (NP the mess))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (S-3 *pseudo-attach*))
+   (VP is
+       (ADJP hard))
+   (S-3 (NP *)
+	(AUX to)
+	(VP blame
+	    (NP them)
+	    (PP for
+		(NP this)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  Yet
+      (S (NP there)
+	 (VP were
+	     (NP (NP (NP other motivations and actions)
+		     (SBAR (WHNP which
+				 (S (NP the Belgians)
+				    (VP took
+					(NP T) )))
+			   (PP after
+			       (NP independence))))
+		 (SBAR (WHPP for
+			     (WHNP which))
+		       (S (NP history)
+			  (AUX may)
+			  (NEG not)
+			  (VP find
+			      (NP them)
+			      (ADJP guiltless))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+	   (S (NP the time
+		  (PP for
+		      (NP independence)))
+	      (VP approached)))
+    (S (NP there)
+       (VP were
+	   (PP in
+	       (NP the Congo))
+	   (NP (NP (ADJP no
+			 fewer
+			 (PP than
+			     (NP 120)))
+		   political parties)
+	       ,
+	       or
+	       (NP (ADVP approximately)
+		   eight
+		   (PP for
+		       (NP each university graduate)))))))   
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP were
+       (NP four principal ones)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP First)
+   ,
+   (S (NP there)
+      (VP were
+	  (NP (NP those Congolese)
+	      *LRB*
+	      (X (PP among
+		     (NP them))
+		 (NP Joseph Kasavubu))
+	      *RRB*
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP favored
+		      (S (NP *) 
+			 (VP splitting
+			     (NP the country)
+			     (PP into
+				 (NP 
+				  small independent
+				  states)))
+			 ,
+			 (S (NP *) 
+			    (VP Balkanizing
+				(NP it)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP Second)
+   ,
+   (S (NP there)
+      (VP were
+	  (NP (NP (NP those)
+		  *LRB*
+		  (NP Moise Tshombe)
+		  *RRB*)
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP favored
+		      (NP (NP near-Balkanization)
+			  ,
+			  (NP (NP a loose federalism)
+			      (VP having
+				  (NP a central government
+				      (PP of
+					  (NP limited authority)))
+				  ,
+				  (PP with
+				      (S (NP much power)
+					 (VP residing
+					     (PP in
+						 (NP the states)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADVP Third)
+   ,
+   (S (NP there)
+      (VP were
+	  (NP (NP (NP those)
+		  *LRB*
+		  (ADVP notably)
+		  (NP Patrice Lumumba)
+		  *RRB*)
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP favored
+		      (NP a
+			  unified
+			  Congo
+			  (PP with
+			      (NP a
+				  (ADJP very
+					strong) central
+				  government))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (ADVP fourth)
+      ,
+      (S (NP there)
+	 (VP were
+	     (NP (NP moderates)
+		 (SBAR 
+		  (WHNP who)
+		  (S (NP T)
+		     (VP (VP were
+			     (PP in
+				 (NP no hurry
+				     (PP for
+					 (NP independence)))))
+			 and
+			 (VP wished
+			     (S (NP *)
+				(AUX to)
+				(VP wait
+				    (PP until
+					(S (NP the Congo)
+					   (VP grew
+					       (PRT up))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S (NP the positions
+	     (PP of
+		 (NP all parties and leaders)))
+	 (AUX were)
+	 (VP (ADVP constantly)
+	     shifting)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP A final factor)
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (VP contributed
+		(ADVP greatly)
+		(PP to
+		    (NP the fragmentation
+			(PP of
+			    (NP the Congo)))))
+	    ,
+	    (PP  (ADVP immediately)
+		 after
+		 (NP independence))
+	    ,)))
+    (VP was
+	(NP (NP the provincial structure)
+	    (SBAR 
+	     (WHNP that)
+	     (S (NP T)
+		(AUX had)
+		(VP been
+		    (VP established
+			(PP by
+			    (NP the Belgians))
+			(PP for
+			    (NP convenience
+				(PP in
+				    (NP administration)))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX had)
+   (VP divided
+       (NP the Congo)
+       (PP into
+	   (NP (NP six provinces)
+	       --
+	       (NP (NP Leopoldville)
+		   ,
+		   (NP Kasai)
+		   ,
+		   (NP Kivu)
+		   ,
+		   (NP Katanga)
+		   ,
+		   (NP Equator)
+		   and
+		   (NP Eastern))
+	       --)))
+   (ADVP unfortunately)
+   (PP with
+       (NP little regard
+	   (PP for
+	       (NP ethnic groupings)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  Thus
+	 (S (NP some provinces)
+	    (VP contained
+		(NP (NP tribes)
+		    (SBAR 
+		     (WHNP which)
+		     (S (NP T)
+			(VP detested
+			    (NP each
+				other))))))))
+     ,
+     and
+     (S  
+      (PP to
+	  (NP them))
+      (S
+       (NP independence)
+       (VP meant
+	   (NP an opportunity
+	       (PP for
+		   (NP war)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The Belgian Congo)
+      (AUX was)
+      (VP granted
+	   
+	  (NP its independence))
+      (PP with
+	  (SBAR (WHNP what)
+		(S (NP T)  
+		   (VP seemed
+		       (NP a
+			   workable (ADJP Western-style)
+			   form
+			   (PP of
+			       (NP government))))))))
+   :
+   (S (NP there)
+      (VP were
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (NP (NP (NP a president)
+			 and
+			 (NP a premier))
+		     ,
+		     and
+		     (NP (NP a bicameral legislature)
+			 (VP elected
+			     (PP by
+				 (NP universal suffrage
+				     (PP in
+					 (NP the provinces))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Well-wishers
+       (PP around
+	   (NP the world)))
+   (VP hoped
+       (SBAR that
+	     (S (NP the Congo)
+		(AUX would)
+		(ADVP quickly)
+		(VP assume
+		    (NP a respectable position
+			(PP in
+			    (NP the society
+				(PP of
+				    (NP nations))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR If
+	 (S (NP internal frictions)
+	    (VP arose)))
+   ,
+   (S (NP they)
+      (AUX could)
+      (VP be
+	  (VP handled
+	      (PP by
+		  (NP (NP (NP the
+			      (ADJP 25,000-man)
+			      Congolese army)
+			  ,
+			  (NP the Force Publique)
+			  ,)
+		      (SBAR 
+		       (WHNP which)
+		       (S (NP T)
+			  (X  (X (AUX had)
+				 (VP been
+				     (VP trained
+					 (PP-1 *pseudo-attach*))))
+			      and
+			      (X (AUX was)
+				 (ADVP still)
+				 (VP officered
+				     (PP-1 by
+					   (NP (ADJP white)
+					       Belgians)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP The president)
+	 ,
+	 (NP Joseph Kasavubu)
+	 ,)
+     (VP seemed
+	 (NP an able administrator)))
+    and
+    (X (NP (NP the premier)
+	   ,
+	   (NP Patrice Lumumba)
+	   ,)
+       (NP a reasonable man)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (PP (NP Twenty-four hours)
+	 after
+	 (NP independence))
+     (S (NP the wild tribesmen)
+	(VP commenced
+	    (S (NP *) 
+	       (VP fighting
+		   (NP each
+		       other))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Presently)
+      (S (NP (NP the well-armed members
+		 (PP of
+		     (NP the Force Publique)))
+	     --
+	     (NP (NP many
+		     (PP of
+			 (NP them)))
+		 (VP drawn
+		     (PP from
+			 (NP (ADJP (ADJP savage)
+				   and
+				   (ADJP even
+					 cannibalistic)) tribes))))
+	     ,)
+	 (VP erupted
+	     (PP in
+		 (NP (NP mutiny)
+		     ,
+		     (NP rioting)
+		     ,
+		     (NP raping) 
+		     and 
+		     (NP looting))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Terror)
+   (VP engulfed
+       (NP (NP the thousands
+	       (PP of
+		   (NP Belgian civilians)))
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX had)
+	       (VP remained
+		   (PP in
+		       (NP the country))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Belgian government)
+    (VP (VP decided
+	    (S (NP *)
+	       (AUX to)
+	       (VP act)))
+	,
+	and
+	(VP (PP on
+		(NP July 10))
+	    dispatched
+	    (NP paratroops)
+	    (PP to
+		(NP the Congo)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+	 (NP July 11))
+     (S (NP (NP the head
+		(PP of
+		    (NP the (ADJP mineral-rich) province
+			(PP of
+			    (NP Katanga)))))
+	    ,
+	    (NP Moise Tshombe)
+	    ,)
+	(VP announced
+	    (SBAR  that
+		   (S (NP his province)
+		      (AUX had)
+		      (VP seceded
+			  (PP from
+			      (NP the country))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Confusion)
+      (VP became
+	  (NP chaos)))
+     ;
+     ;
+     (S (NP each succeeding day)
+	(VP brought
+	    (NP new acts
+		(PP of
+		    (NP violence))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  
+     (NP Lumumba)
+     and
+     (NP Kasavubu))
+    (VP (VP blamed
+            (NP it
+		all)
+	    (PP on
+		(NP the military intervention
+		    (PP by
+			(NP the Belgians)))))
+	,
+	and
+	(VP appealed
+	    (PP to
+		(NP the United Nations))
+	    (S (NP *)
+	       (AUX to)
+	       (VP send
+		   (NP troops
+		       (S (NP *)
+			  (AUX to)
+			  (VP oust
+			      (NP them)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+	 (NP July 14))
+     (S  
+      (NP the Security Council)
+      --
+      (PP with
+	  (S (NP (NP France)
+		 and
+		 (NP  Great
+		      Britain))
+	     (VP abstaining)))
+      --
+      (VP voted
+	  (NP (NP the resolution)
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (VP drew
+		      (NP the U.N.)
+		      (PP into
+			  (NP the Congo)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (ADJP Vague
+	 (PP in
+	     (NP wording)))
+   ,
+   (S (NP it)
+      (VP (VP called
+	      (PP for
+		  (NP withdrawal
+		      (PP of
+			  (NP Belgian troops)))))
+	  and
+	  (VP authorized
+	      (NP the Secretary-General)
+	      ``
+	      (S (NP *)
+		 (AUX to)
+		 (VP take
+		     (NP the necessary steps
+			 (S (NP *)
+			    (AUX to)
+			    (VP provide
+				(NP the
+				    *LRB*
+				    Congolese
+				    *RRB*
+				    Government)
+				(PP with
+				    (NP 
+				     such military
+				     assistance
+				     (PP as
+					 (S  (NP *) 
+					     (AUX may)
+					     (VP be
+						 (ADJP necessary))))))))))
+		 ,
+		 (PP  until
+		      ,
+		      (S (PP (PP through
+				 (NP the efforts
+				     (PP of
+					 (NP the Congolese Government))))
+			     (PP with
+				 (NP the technical assistance
+				     (PP of
+					 (NP the United Nations)))))
+			 ,
+			 (S (NP the national security forces)
+			    (AUX may)
+			    (VP be
+				(ADJP able
+				      ,
+				      (PP in
+					  (NP the opinion
+					      (PP of
+						  (NP the Government))))
+				      ,
+				      (S (NP *)
+					 (AUX to)
+					 (VP meet
+					     (ADVP fully)
+					     (NP their tasks)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ''
+   (S (NP Secretary-General Hammarskjold)
+      (VP decided
+	  (SBAR that
+		(S (NP it
+		       (SBAR-4 *pseudo-attach*))
+		   (AUX would)
+		   (VP be
+		       (ADJP preferable))
+		   (SBAR-4 if
+			   (S (NP (NP the U.N. troops)
+				  (VP sent
+				      (PP into
+					  (NP the Congo))))
+			      (VP were
+				  (S (NP *)
+				     (AUX to)
+				     (VP come
+					 (PP (PP from
+						 (NP (ADJP (ADJP African)
+							   ,
+							   or
+							   (ADJP (PP at
+								     (ADJP least))
+								 nonwhite)
+							   ,)
+						     nations))
+					     --
+					     (ADVP certainly)
+					     (NEG not)
+					     (PP from
+						 (NP (NP the U.S.)
+						     ,
+						     (NP Russia)
+						     ,
+						     (NP Great Britain)
+						     or
+						     (NP France)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (ADVP quickly)
+   (VP called
+       (PP on
+	   (NP (NP (NP Ghana)
+		   ,
+		   (NP Tunisia)
+		   ,
+		   (NP Morocco)
+		   ,
+		   (NP Guinea)
+		   and
+		   (NP Mali)
+		   ,)
+	       (SBAR 
+		(WHNP which)
+		(S (NP T)
+		   (VP dispatched
+		       (NP troops))
+		   (PP within
+		       (NP hours))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Ultimately)
+     (S (NP the U.N. army
+	    (PP in
+		(NP the Congo)))
+	(VP reached
+	    (NP (NP a top strength
+		    (PP of
+			(NP 19,000)))
+		,
+		(VP including
+		    (NP (NP  (ADVP about)
+			     5,000
+			     (PP from
+				 (NP India)))
+			and
+			(NP (NP a few soldiers
+				(PP from
+				    (NP (NP Eire)
+					and
+					(NP Sweden))))
+			    ,
+			    (SBAR 
+			     (WHNP who)
+			     (S (NP T)
+				(VP were
+				    (NP the only whites)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP took
+       (NP the U.N.)
+       (NP three months))
+   (S (NP *)
+      (AUX to)
+      (VP bring
+	  (NP a modest form
+	      (PP of
+		  (NP order)))
+	  (PP to
+	      (NP the Congo)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The Belgians)
+    (VP (VP were
+	    (ADJP reluctant
+		  (S (NP *)
+		     (AUX to)
+		     (VP withdraw
+			 (NP their troops)))))
+	and
+	(ADVP often)
+	(VP obstructed
+	    (NP U.N. efforts))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  (ADJP  wildly
+		 erratic) nature
+	  (PP of
+	      (NP Patrice Lumumba)))
+      (VP caused
+	  (NP constant problems)))
+     --
+     (S (NP he)
+	(ADVP frequently)
+	(VP (VP announced
+		(SBAR that
+		      (S (NP he)
+			 (VP wanted
+			     (S (NP the U.N.)
+				(AUX to)
+				(VP get
+				    (PP out
+					(PP of
+					    (NP the Congo))))
+				(PP along
+				    (PP with
+					(NP the Belgians))))))))
+	    ,
+	    and
+	    (VP appealed
+		(PP to
+		    (NP Russia))
+		(PP for
+		    (NP help))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  (ADVP However)
+       ,
+       (S (NP there)
+	  (VP is
+	      (NP little evidence
+		  (SBAR that
+			(S (NP  the
+				late
+				Lumumba)
+			   (VP was
+			       (NP a Communist))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Before
+       (S (NP *) 
+	  (VP appealing
+	      (PP (PP to
+		      (NP the U.N.))
+		  or
+		  (PP to
+		      (NP Russia))))))
+   ,
+   (S (NP he)
+      (ADVP first)
+      (X (VP appealed
+	     (PP to
+		 (NP the U.S.))
+	     (PP for
+		 (NP military help)))
+	 ,
+	 and
+	 (X  
+	  (AUX was)
+	  (VP rejected
+	      )))))
+  .
+  *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Lumumba)
+    (ADVP further)
+    (VP complicated
+	(NP 
+	 (NP the U.N.)
+	 's mission)
+	(PP by
+	    (S (NP *) 
+	       (VP initiating
+		   (NP small
+		       ``
+		       wars
+		       ''
+		       (PP (PP with
+			       (NP the secessionist province
+				   (PP of
+				       (NP Katanga))))
+			   and
+			   (PP with
+			       (NP (NP South Kasai)
+				   (SBAR (WHNP which)
+					 (S  ,
+					     (PP under
+						 (NP Albert Kalonji))
+					     ,
+					     (S  (NP T) 
+						 (VP wanted
+						     (S (NP *)
+							(AUX to)
+							(VP secede)))
+						 (ADVP as
+						       well)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Meanwhile)
+     (S (NP Russia)
+	(VP took
+	    (NP every opportunity)
+	    (S (NP *)
+	       (AUX to)
+	       (VP meddle
+		   (PP in
+		       (NP the Congo))))
+	    ,
+	    (X (S  (NP *) 
+		   (VP (VP sending
+			   (NP Lumumba equipment
+			       (PP for
+				   (NP his
+				       ``
+				       wars
+				       ''))))
+		       ,
+		       (VP dispatching
+			   (NP  ``
+				technicians
+				''))
+		       and
+		       (VP (ADVP even)
+			   threatening
+			   ,
+			   (PP on
+			       (NP occasion))
+			   ,
+			   (S (NP *)
+			      (AUX to)
+			      (VP intervene
+				  (ADVP openly))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP by
+	  (NP the end
+	      (PP of
+		  (NP the (ADJP three-month) period))))
+      ,
+      (PP in
+	  (NP October 1960))
+      ,
+      (S (NP (NP something)
+	     (VP approaching
+		 (NP calm)))
+	 (VP settled
+	     (PP on
+		 (NP the Congo)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP President Kasavubu)
+   (VP (VP became
+	   (ADJP exasperated
+		 (PP with
+		     (NP Lumumba))))
+       and
+       (VP fired
+	   (NP him))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Lumumba)
+   (VP fired
+       (NP Kasavubu)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (NP Control
+	  (PP of
+	      (NP the government)))
+      --
+      (NP (NP such control
+	      (PP as
+		  (S (NP there)
+		     (VP was))))
+	  and
+	  (NP such government
+	      (PP as
+		  (S (NP there)
+		     (VP was)))))
+      --)
+  (VP passed
+      (PP into
+	  (NP the hands
+	      (PP of
+		  (NP (NP Joseph Mobutu)
+		      ,
+		      (NP chief
+			  (PP of
+			      (NP staff))
+			  (PP of
+			      (NP the Congolese army)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mobutu)
+   (ADVP promptly)
+   (VP flung
+       (PRT out)
+       (NP (NP the Russians)
+	   ,
+	   (SBAR 
+	    (WHNP who)
+	    (S (NP T)
+	       (AUX have)
+	       (NEG not)
+	       (ADVP since)
+	       (VP played
+		   (NP any significant part
+		       (PP on
+			   (NP the local scene))))
+	       ,
+	       (SBAR although
+		     (S (NP they)
+			(AUX have)
+			(VP redoubled
+			    (NP their obstructionist efforts
+				(PP at
+				    (NP U.N. headquarters
+					(PP in
+					    (NP New York)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The Belgians)
+  --
+  (ADVP (PP at
+	    (ADJP least))
+	officially)
+  --
+  (VP departed
+      (PP from
+	  (NP the Congo))
+      (ADVP  as
+	     well))
+  ,
+  (S  (NP *) 
+      (VP withdrawing
+	  (NP all
+	      (PP of
+		  (NP their (ADJP uniformed) troops))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP they)
+	 (VP left
+	     (PP behind
+		 (NP them))
+	     (NP  large numbers
+		  (PP of
+		      (NP (NP (NP officers)
+			      ,
+			      (VP  (ADVP variously)
+				   called
+				   (NP ``
+				       (NP volunteers)
+				       ''
+				       or
+				       ``
+				       (NP mercenaries)
+				       ''))
+			      ,)
+			  (SBAR 
+			   (WHNP who)
+			   (S  (NP T)
+			       (ADVP now)
+			       (VP staff
+				   (NP the army
+				       (PP of
+					   (NP Moise Tshombe))))
+			       (PP in
+				   (NP (NP Katanga)
+				       ,
+				       (NP (NP the seceded province)
+					   (SBAR (WHNP which)
+						 (S  ,
+						     (VP according
+							 (PP to
+							     (NP Tshombe)))
+						     ,
+						     (S (NP T)  
+							(VP holds
+							    (NP 65 %
+								(PP of
+								    (NP the mineral wealth
+									(PP of
+									    (NP the entire country))))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP (PP From
+	   (NP October 1960))
+       (PP to
+	   (NP February 1961)))
+   ,
+   (S (NP the U.N. forces
+	  (PP in
+	      (NP the Congo)))
+      (VP took
+	  (NP little action))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP was
+	  (NP no directive
+	      (PP for
+		  (NP it)))))
+     --
+     (S (S (NP
+	    (NP the Security Council)
+	    's resolution)
+	   (AUX had)
+	   (NEG not)
+	   (VP mentioned
+	       (NP political matters)))
+	,
+	and
+	(S (PP in
+	       (NP any case))
+	   (S (NP the United Nations)
+	      (PP by
+		  (NP the terms
+		      (PP of
+			  (NP its charter))))
+	      (AUX may)
+	      (NEG not)
+	      (VP interfere
+		  (PP in
+		      (NP the political affairs
+			  (PP of
+			      (NP any nation))))
+		  ,
+		  (ADVP (WHADVP whether)
+			(S (NP *)
+			   (AUX to)
+			   (VP (VP unify
+				   (NP it))
+			       ,
+			       (VP federalize
+				   (NP it))
+			       or
+			       (VP Balkanize
+				   (NP it))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP During
+       (NP the (ADJP five-month) lull))
+   ,
+   (S (NP civil war)
+      (VP (VP smoldered)
+	  and
+	  (VP flickered))
+      (PP throughout
+	  (NP the Congo))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP February))
+     (S (NP the murder
+	    (PP of
+		(NP (NP Patrice Lumumba)
+		    ,
+		    (SBAR  
+		     (WHNP who)
+		     (S (NP T)
+			(AUX had)
+			(VP been
+			    (VP (VP kidnaped
+		       
+				    (PP into
+					(NP Katanga)))
+				and
+				(VP executed
+				    (PP on
+					(NP order
+					    (PP of
+						(NP Tshombe)))))))))
+		    ,)))
+	(ADVP again)
+	(VP stirred
+	    (NP the U.N.)
+	    (PP to
+		(NP action)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP On
+	 (NP Feb. 21))
+     (S (NP the council)
+	(VP passed
+	    (NP (NP another resolution)
+		(VP urging
+		    (NP the taking
+			(PP of
+			    ``
+			    (NP (NP all appropriate measures
+				    (S (NP *)
+				       (AUX to)
+				       (VP prevent
+					   (NP the occurrence
+					       (PP of
+						   (NP civil war))
+					       (PP in
+						   (NP the Congo))))))
+				,
+				(VP including
+				    (NP the use
+					(PP of
+					    (NP force)))
+				    ,
+				    (X if
+				       (ADJP necessary))
+				    ,
+				    (PP in
+					(NP the last resort))))
+			    '')))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP the resolution)
+	      (AUX might)
+	      (VP have
+		  (VP been
+		      (ADJP   (ADVP far
+				    more)
+			      specific)))))
+     ,
+     (S (NP it)
+	(VP was
+	    (ADJP  considerably
+		   tougher
+		   (PP than
+		       (NP the
+			   earlier
+			   one))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

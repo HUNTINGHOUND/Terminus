@@ -1,0 +1,2355 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (SINV  
+   (PP Into
+       (NP Washington))
+   (PP on
+       (NP (NP 
+	    (NP President-elect  John F. Kennedy)
+	    's
+	    Convair)
+	   ,
+	   (NP the Caroline)
+	   ,))
+   (VP winged)
+   (NP (NP Actor-Crooner (NP Frank Sinatra))
+       and
+       (NP (NP his
+	       close
+	       Hollywood pal)
+	   ,
+	   (NP (NP Cinemactor (NP Peter Lawford))
+	       ,
+	       (NP 
+		(NP Jack Kennedy)
+		's brother-in-law)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SINV   (ADVP Also)
+	     (VP included
+		 (PP in
+		     (NP the entourage)))
+	     :
+	     (NP a dog
+		 (PP in
+		     (NP a black sweater))))
+     ,
+     (S (NP (NP Frankie)
+	    and
+	    (NP Peter))
+	(VP had
+	    (NP (NP an urgent mission)
+		:
+		(S (NP *)
+		   (AUX to)
+		   (VP stage
+		       (NP a
+			   mammoth
+			   Inauguration Eve entertainment gala)
+		       (PP in
+			   (NP 
+			    (NP the capital)
+			    's National Guard Armory))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Frankie)
+      (VP was
+	  (ADJP   (ADVP fairly)
+		  glutted
+		        
+		  (PP with
+		      (NP ideas))))
+      ,
+      (PP as
+	  (S (NP he)
+	     (AUX had)
+	     (VP hinted)
+	     (PP upon
+		 (NP his arrival)))))
+   :
+   ``
+   (S (NP It)
+      (VP 's
+	  (ADVP really)
+	  (ADJP tremendous))
+      (SBAR 
+       (WHADVP when)
+       (S (NP you)
+	  (VP think
+	      (SBAR 0
+		    (S (NP Ella Fitzgerald)
+		       (AUX is)
+		       (VP coming
+			   (PP from
+			       (NP Australia))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX could)
+   (VP (VP talk
+	   (PP to
+	       (NP you))
+	   (PP for
+	       (NP three hours)))
+       and
+       (VP (ADVP still)
+	   (NEG not)
+	   be
+	   (ADJP able
+		 (S (NP *)
+		    (AUX to)
+		    (VP give
+			(NP you)
+			(NP all
+			    (PP of
+				(NP our plans)))))))))
+  ''
+  !
+  !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  As
+	  (S (NP the plans)
+	     (AUX were)
+	     (VP laid
+		 )))
+   ,
+   (S (NP some several thousand fat cats)
+      (VP were
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (VP ensconced
+			 
+		     (PP (PP in
+			     (NP 
+			      (NP the armory)
+			      's
+			      $ 100
+			      seats))
+			 and
+			 (PP in
+			     (NP (NP 68 ringside boxes)
+				 (VP priced
+				     (PP at
+					 (NP (NP $ 10,000)
+					     (NP each)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  biggest single
+	  act)
+      (AUX would)
+      (ADVP doubtless)
+      (VP be
+	  (VP staged
+	      (PP by
+		  (NP (NP Frankie)
+		      (NP himself))))))
+     :
+     (S (NP his Inaugural wardrobe)
+	(AUX had)
+	(VP been
+	    (VP designed
+		 
+		(PP by
+		    (NP (NP Hollywood Couturier (NP Don Loper))
+			,
+			(SBAR 
+			 (WHNP who)
+			 (S   (NP T)
+			      (ADVP regularly)
+			      (VP makes
+				  (PRT up)
+				  (NP 
+				   (NP ladies)
+				   ' ensembles))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP (ADVP Soon)
+	 after
+	 (S (NP Loper)
+	    (VP leaked
+		(NP the news
+		    (SBAR that
+			  (S (NP Frankie)
+			     (AUX had)
+			     (VP ordered
+				 (NP  ``
+				      two
+				      (PP of
+					  (NP everything))
+				      ''))
+			     (PP (ADVP just)
+				 ``
+				 in
+				 (NP (NP case)
+				     (SBAR 0
+					   (S
+					    (NP he)
+					    (VP spills
+						(NP anything)))))
+				 '')))))))
+     ,
+     (S (NP Frankie)
+	(VP got
+	    (ADJP so
+		  mad
+		  (PP at
+		      (NP the (ADJP chic) designer))
+		  (SBAR that
+			(S (NP he)
+			   (VP vowed
+			       (SBAR 0
+				     (S (NP he)
+					(AUX would)
+					(NEG not)
+					(VP wear
+					    (NP a stitch
+						(PP of
+						    (NP Loper clothing)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP (NP A year)
+       after
+       (S (NP he)
+	  (AUX was)
+	  (VP (VP catapulted
+		   
+		  (PP over
+		      (NP (NP nine officers)
+			  (ADJP senior
+				(PP to
+				    (NP him))))))
+	      and
+	      (VP made
+		  (NP commandant
+		      (PP of
+			  (NP the Marine Corps)))))))
+   ,
+   (S (NP General David M. Shoup)
+      (VP delivered
+	  (NP a
+	      peppery annual
+	      report)
+	  (PP in
+	      (NP the form
+		  (PP of
+		      (NP a
+			  ``
+			  happy
+			  ,
+			  warless
+			  New Year
+			  ''
+			  greeting
+			  (PP to
+			      (NP his Pentagon staff)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SINV 
+      (VP Said)
+      (NP Leatherneck Shoup))
+     :
+     ``
+     (S (ADVP (NP A year)
+	      ago)
+	(S (NP I)
+	   (VP took
+	       (NP the grips
+		   (PP of
+		       (NP the plow)))
+	       (PP in
+		   (NP my hands))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (S (NP *) 
+	  (VP pushing
+	      (NP an accumulation
+		  (PP of
+		      (NP (NP vines) and (NP weeds))))
+	      (PP from
+		  (NP the moldboard)))))
+   ,
+   (S (NP I)
+      (VP (VP lifted
+	      (NP the lines)
+	      (PP from
+		  (NP the dust)))
+	  and
+	  (VP found
+	      (VP hitched
+		  (PP to
+		      (NP that plow)))
+	      (NP (NP the
+		      finest
+		      team)
+		  (SBAR 0
+			(S
+			 (NP I)
+			 (ADVP ever)
+			 (VP held
+			     (NP a rein)
+			     (PP on
+				 (NP T) )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Little
+	 geeing
+	 and
+	 hawing)
+    (AUX have)
+    (VP been
+	(ADJP necessary)))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP Shoup)
+	 (ADVP also)
+	 (VP gave
+	     (NP the Corps)
+	     (NP a tilling)
+	     (PP in
+		 (NP spots)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Speaking
+	  (PP of
+	      (NP  ``
+		   pride
+		   ''))))
+   ,
+   (S (NP he)
+      (VP deplored
+	  (NP (NP (NP the (ADJP noncommissioned) officer)
+		  ``
+		  (SBAR 
+		   (WHNP whose uniform)
+		   (S (NP T)
+		      (VP looks
+			  (PP like
+			      (S (NP it)
+				 (VP belonged
+				     (PP to
+					 (NP (NP someone)
+					     (SBAR 
+					      (WHNP who)
+					      (S (NP T)
+						 (VP retired)
+						 (PP in
+						     (NP 1940)))))))))))))
+	      ;
+	      ;
+	      (NP the officer
+		  (PP with
+		      (NP (NP the yellow socks)
+			  or
+			  (NP the bay window))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A few
+       (PP of
+	   (NP these people)))
+   (VP are
+       (ADVP still)
+       (ADVP around)))  
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (ADJP Old and new))
+    (VP (VP (ADVP briefly)
+	    crossed
+	    (NP paths)
+	    (PP in
+		(NP the U.S. Senate)))
+	,
+	(ADVP then)
+	(VP went
+	    (NP their respective ways))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP a reception
+	   (PP for
+	       (NP new members
+		   (PP of
+		       (NP Congress))))))
+   ,
+   (S (NP (NP Oregon Democrat (NP Maurine Neuberger))
+	  ,
+	  (VP taking
+	      (NP (NP the Senate seat)
+		  (VP held
+		      (PP by
+			  (NP (NP her husband)
+			      (NP Richard)))
+		      (PP until
+			  (NP his death 
+			      (NP  last
+				   March))))))
+	  ,)
+      (VP got
+	  (NP a (ADJP brotherly) buss)
+	  (PP from
+	      (NP (NP Democratic Elder Statesman (NP Adlai Stevenson))
+		  ,
+		  (NP U.S. Ambassador-designate
+		      (PP to
+			  (NP the U.N
+			      .))))))))
+  .)  
+(   (S (ADVP Meanwhile)
+       ,
+       (PP after
+	   (NP 24 years
+	       (PP in
+		   (NP the Senate))))
+       ,
+       (S (NP (NP 
+	       (NP Rhode Island)
+	       's
+	       durable
+	       Democrat)
+	      (NP Theodore Francis Greene))
+	  --
+	  (S (NP *) 
+	     (AUX having)
+	     (VP (VP (VP walked)
+		     ,
+		     (VP swum)
+		     and
+		     (VP cerebrated))
+		 (NP himself)
+		 (PP to
+		     (NP the hearty age
+			 (PP of
+			     (NP 93))))))
+	  --
+	  (VP left
+	      (NP  that
+		   august body)
+	      *LRB*
+	      (ADVP (ADVP voluntarily)
+		    ,
+		    (SBAR because
+			  (S (NP he)
+			     (AUX could)
+			     (ADVP surely)
+			     (VP have
+				 (VP been
+				     (VP re-elected
+					 )))
+			     (SBAR (SINV  
+				    (AUX had)
+				    (NP he)
+				    (VP chosen
+					(S (NP *)
+					   (AUX to)
+					   (VP run
+					       (ADVP again))
+					   (NP  last
+						November))))))))
+	      *RRB*
+	      ,
+	      (PP as
+		  (NP the
+		      oldest
+		      man
+		      (S (NP *) 
+			 (ADVP ever)
+			 (AUX to)
+			 (VP serve
+			     (PP in
+				 (NP the Senate)))))))))
+    .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP The
+	  (ADJP  most famous)
+	  undergraduate
+	  (PP of
+	      (NP South Philadelphia High School)))
+      (VP is
+	  (NP (NP a current bobby-sox idol)
+	      ,
+	      (NP (NP Dreamboat Cacophonist Fabian)
+		  *LRB*
+		  (NP (NP real name)
+		      :
+		      (NP Fabian Forte))
+		  *RRB*)
+	      ,
+	      (NP 17)
+	      ,)))
+   and
+   (S (NP last week)
+      (S
+       (NP it
+	   (SBAR-1 *pseudo-attach*))
+       (VP developed)
+       (SBAR-1 that
+	       (S (NP he)
+		  (AUX will)
+		  (VP remain
+		      (NP an undergraduate))
+		  (PP for
+		      (NP a while)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The principal
+       (PP of
+	   (NP the school)))
+   (VP announced
+       (SBAR that
+	     (S --
+		(PP despite
+		    (NP the help
+			(PP of
+			    (NP private tutors
+				(PP in
+				    (NP (NP Hollywood)
+					and
+					(NP Philadelphia)))))))
+		--
+		(S (NP Fabian)
+		   (VP is
+		       (NP a 10-o'clock scholar)
+		       (PP in
+			   (NP (NP English)
+			       and
+			       (NP mathematics)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Lacking
+	  (NP his needed credits)
+	  (PP in
+	      (NP those subjects))))
+   ,
+   (S (NP Fabian)
+      (AUX will)
+      (NEG not)
+      (VP graduate
+	  (PP with
+	      (NP his old classmates)))
+      (NP next
+	  week)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP South Philadelphia High)
+    's principal)
+   (VP added
+       (SBAR that
+	     (S (NP the current delay)
+		(AUX was)
+		(VP caused
+			  
+		    (PP by
+			(NP the
+			    ``
+			    pressure
+			    ''
+			    (PP of
+				(NP (NP a movie)
+				    (SBAR (WHNP that)
+					  (S (NP the toneless lad)
+					     (AUX was)
+					     (VP making
+						 (NP T)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (SINV   
+   (PP To
+       (NP (NP (NP 
+		Decathlon Man
+		(NP Rafer Johnson))
+	       *LRB*
+	       (NP (NP Time cover)
+		   ,
+		   (NP Aug. 29))
+	       *RRB*)
+	   ,
+	   (SBAR  
+	    (WHNP whose gold medal
+		  (PP in
+		      (NP 
+		       (NP last summer)
+		       's
+		       Olympic Games)))
+	    (S  (NP T) 
+		(AUX was)
+		(VP won
+		    (ADVP  as
+			   much
+			   (PP on
+			       (NP gumption))
+			   (PP as
+			       (NP talent))))))))
+   ,
+   (VP went)
+   (NP 
+    (NP the A.A.U.)
+    's (NP James E. Sullivan) Memorial Trophy)
+   (PP as
+       (NP the
+	   (ADJP outstanding)
+	   U.S. amateur athlete
+	   (PP of
+	       (NP 1960)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP (NP 
+	    (NP the world)
+	    's top sportsman)
+	   --
+	   (ADJP  pro or amateur)
+	   --))
+   (S (NP Sports Illustrated)
+      (VP tapped
+	  (NP (NP (NP 
+		   (NP golf)
+		   's
+		   confident
+		   Arnold Palmer)
+		  *LRB*
+		  (NP (NP Time cover)
+		      ,
+		      (NP May 2))
+		  *RRB*)
+	      ,
+	      (SBAR  
+	       (WHNP who)
+	       (S (NP T)
+		  (VP (VP staged
+			  (NP two
+			      (ADJP cliffhanging)
+			      rallies)
+			  (S (NP *)
+			     (AUX to)
+			     (VP win
+				 (NP both
+				     the Masters
+				     and
+				     U.S. Open crowns))))
+		      ,
+		      (VP went
+			  (ADVP on)
+			  (S (NP *)
+			     (AUX to)
+			     (VP win
+				 (NP a record $
+				     80,738)
+				 (PP for
+				     (NP the year))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Tooling
+	  (PP through
+	      (NP Sydney))
+	  (PP on
+	      (NP his way
+		  (S (NP *) 
+		     (AUX to)
+		     (VP race
+			 (PP in
+			     (NP the New Zealand Grand Prix))))))))
+   ,
+   (S (NP (NP 
+	   (NP Britain)
+	   's  (ADJP balding)
+	   Ace Driver (NP Stirling Moss))
+	  ,
+	  (NP 31)
+	  ,)
+      (VP (ADVP all
+		but)
+	  smothered
+	  (NP himself)
+	  (PP in
+	      (NP his own exhaust
+		  (PP of
+		      (NP self-crimination)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP I)
+	 (VP 'm
+	     (NP a slob)))
+      ''
+      ,
+      (S (NP he)
+	 (VP announced)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP My taste)
+      (VP is
+	  (ADJP gaudy)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP 'm
+       (ADJP useless
+	     (PP for
+		 (NP anything
+		     (PP but
+			 (S (NP *) 
+			    (VP racing
+				(NP cars)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP I)
+      (VP 'm
+	  (ADJP   ruddy
+		  lazy)))
+     ,
+     and
+     (S (NP I)
+	(AUX 'm)
+	(VP getting
+	    (ADVP on)
+	    (PP in
+		(NP years)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP gets
+	  (ADJP so
+		frustrating)))
+     ,
+     but
+     (ADVP then)
+     (ADVP again)
+     (S (NP I)
+	(AUX do)
+	(NEG n't)
+	(VP know
+	    (SBAR (WHNP what)
+		  (S
+		   (NP I)
+		   (AUX could)
+		   (VP do
+		       (NP T))
+		   (SBAR if
+			 (S (NP I)
+			    (VP gave
+				(PRT up)
+				(NP racing)))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SQ 
+   (VP Has)
+   (NP Moss)
+   (NP no (ADJP stirling) virtues))
+  ?
+  ?) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP appreciate
+	  (NP beauty)))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP One
+	   (PP of
+	       (NP 
+		(NP Nikita Khrushchev)
+		's
+		(ADJP most enthusiastic)
+		eulogizers)))
+       ,
+       (NP
+	(NP the U.S.S.R.)
+	's
+	daily
+	Izvestia)
+       ,)
+   (VP (ADVP enterprisingly)
+       interviewed
+       (NP  Red-prone Comedian
+	    (NP Charlie Chaplin))
+       (PP at
+	   (NP (NP his Swiss villa)
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (NP he)
+		   (AUX has)
+		   (VP been
+		       (PP in
+			   (NP self-exile)))
+		   (PP  since
+			(NP 1952))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP Chaplin)
+	  ,
+	  (NP 71)
+	  ,)
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP met
+	      (NP K.))
+	  (SBAR 
+	   (WHADVP when)
+	   (S (NP the Soviet boss)
+	      (VP visited
+		  (NP England))
+	      (PP in
+		  (NP 1956)))))))
+  ,
+  (VP confided
+      (SBAR that
+	    (S (NP he)
+	       (VP hopes
+		   (S (NP *)
+		      (AUX to)
+		      (VP visit
+			  (NP Russia))))
+	       (NP some time
+		   (NP this summer))
+	       (SBAR because
+		     ``
+		     (S (S (NP I)
+			   (AUX have)
+			   (VP marveled
+			       (PP at
+				   (NP your grandiose experiment))))
+			and
+			(S (NP I)
+			   (VP believe
+	    
+			       (PP in
+				   (NP your future)))))
+		     '')))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Then)
+	 (S (NP Charlie)
+	    (VP spooned
+		(PRT out)
+		(NP (NP some quick impressions
+			(PP of
+			    (NP the Nikita)))
+		    (SBAR 0
+			  (S
+			   (NP he)
+			   (AUX had)
+			   (VP glimpsed
+			       (NP T) ))))))
+	 :
+	 ``
+	 (S (NP I)
+	    (AUX was)
+	    (VP captivated
+		(PP (PP by
+			(NP his humor
+			    ,
+			    frankness
+			    and
+			    good nature))
+		    and
+		    (PP by
+			(NP his
+			    (ADJP (ADJP kind)
+				  ,
+				  (ADJP strong) 
+				  and
+				  (ADJP somewhat
+					sly))
+			    face)))))
+	 ''))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP G. David Thompson)
+      (VP is
+	  (NP one
+	      (PP of
+		  (NP (NP those names)
+		      (VP known
+			  (PP (PP to
+				  (NP the stewards
+				      (PP of
+					  (NP transatlantic jetliners))))
+			      and
+			      (PP to
+				  (NP doormen
+				      (PP in
+					  (NP 
+					   (NP Europe)
+					   's
+					   (ADJP best)
+					   hotels)))))))))))
+     ,
+     but
+     (S (NP he)
+	(VP is
+	    (NP somewhat
+		(PP of
+		    (NP an enigma)))
+	    (PP to
+		(NP 
+		 most
+		 people
+		 (PP in
+		     (NP his own home town
+			 (PP of
+			     (NP Pittsburgh)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP There)
+      (S (NP the name)
+	 (VP  (ADVP vaguely)
+	      connotes
+	      (NP (NP new-rich wealth)
+		  ,
+		  (NP a reputation
+		      (PP for
+			  (NP eccentricity)))
+		  ,
+		  and
+		  (NP an ardor
+		      (PP for
+			  (S (NP *) 
+			     (VP collecting
+				 (NP art)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last week)
+   ,
+   (PP in
+       (NP the German city
+	   (PP of
+	       (NP Dusseldorf))))
+   ,
+   (S (NP G. David Thompson)
+      (AUX was)
+      (VP making
+	  (NP (NP headlines)
+	      (SBAR 
+	       (WHNP that)
+	       (S (NP T)
+		  (AUX could)
+		  (ADVP well)
+		  (VP give
+		      (NP Pittsburgh)
+		      (NP pause))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SINV 
+      (PP On
+	  (NP display))
+      (VP were)
+      (NP 343  first-class paintings and sculptures
+	  (PP from
+	      (NP his (ADJP fabled) collection))))
+     --
+     and
+     (S (NP every
+	    (ADJP single)
+	    one
+	    (PP of
+		(NP them)))
+	(VP was
+	    (PP (ADVP up)
+		for
+		(NP sale)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Like
+       (NP (NP 
+	    (NP Philadelphia)
+	    's
+	    late
+	    Dr. Albert C. Barnes)
+	   (SBAR  
+	    (WHNP who)
+	    (S (NP T)
+	       (VP kept
+		   (NP his
+		       own great
+		       collection)
+		   (ADJP  closed
+			  (PP to
+			      (NP the general public))))))
+	   *LRB*
+	   (NP (NP Time)
+	       ,
+	       (NP Jan. 2))
+	   *RRB*))
+   ,
+   (S (NP (NP Thompson)
+	  ,
+	  (PP at
+	      (NP 61))
+	  ,)
+      (VP is
+	  (NP something
+	      (PP of
+		  (NP a legend
+		      (PP in
+			  (NP his own lifetime))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP made
+       (NP his fortune))
+   (PP during
+       (NP (NP World War 2)
+	   ,
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP he)
+	       (VP (VP took
+		       (PRT over)
+		       (NP a number
+			   (PP of
+			       (NP  (VP dying)
+				    steel plants))))
+		   and
+		   (VP kept
+		       (NP them)
+		       (ADJP alive)
+		       (PP until
+			   (NP the boom)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP  (ADVP Even)
+       before
+       (S (NP he)
+	  (VP hit
+	      (NP big money))))
+  ,
+  (S (NP he)
+     (AUX had)
+     (VP begun
+	 (S  (NP *) 
+	     (VP buying
+		 (NP modern paintings))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP gave
+	  (NP the impression
+	      (PP of
+		  (S    (NP *)  
+			(ADVP never)
+			(AUX having)
+			(VP read
+			    (NP a word
+				(PP about
+				    (NP art)))))))))
+     ,
+     but
+     (S (NP there)
+	(VP was
+	    (NP no doubt
+		(SBAR that
+		      (S (NP he)
+			 (VP had
+			     (NP an eye
+				 (PP for
+				     (NP the
+					 (ADJP best)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP was
+	  (ADJP able
+		(S (NP *)
+		   (AUX to)
+		   (VP smell
+		       (NP (NP a bargain)
+			   --
+			   and
+			   (NP a masterpiece)
+			   --)
+		       (ADVP  
+			(NP a continent)
+			away))))))
+     ,
+     and
+     (S (NP (NP the Museum
+		(PP of
+		    (NP Modern Art)))
+	    's
+	    Alfred Barr)
+	(VP said
+	    (PP of
+		(NP him))
+	    :
+	    ``
+	    (S (NP I)
+	       (AUX have)
+	       (ADVP never)
+	       (VP mentioned
+		   (NP (NP a new artist)
+		       (SBAR (WHNP that)
+			     (S (NP Thompson)
+				(AUX did)
+				(NEG n't)
+				(VP know
+				    (PP about
+					(NP T) 
+					)))))))
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX might)
+    (VP (VP barge
+	    (PP into
+		(NP a gallery)))
+	,
+	(VP start
+	    (S (NP *) 
+	       (VP haggling
+		   (PP over
+		       (NP prices))))
+	    (PP without     
+		(NP so
+		    much
+		    (PP as
+			(NP a word
+			    (PP of
+				(NP greeting)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (AUX could)
+      (VP be
+	  (ADJP  lavishly
+		 generous)
+	  (PP with
+	      (NP (NP friends)
+		  ,
+		  (NP cab drivers) and (NP bellboys)))))
+     ,
+     but
+     (S (PP with
+	    (NP dealers))
+	(S
+	 (NP he)
+	 (VP was
+	     (ADJP tough)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP bought
+       (PRT up)
+       (NP (NP Cezannes)
+	   ,
+	   (NP Braques)
+	   ,
+	   (NP Matisses)
+	   ,
+	   (NP Legers)
+	   ,
+	   (NP a
+	       splendid
+	       Picasso series)
+	   ,
+	   (NP (ADJP more
+		     (PP than
+			 (NP 70)))
+	       Giacometti sculptures))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP gathered
+       (NP one
+	   (PP of
+	       (NP the
+		   biggest
+		   collections
+		   (PP of
+		       (NP Paul Klees))
+		   (PP in
+		       (NP the world)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP All
+	  these)
+      (S (NP he)
+	 (VP hung
+	     (NP T) 
+	     (PP in
+		 (NP (NP his burglarproof home
+			 (PP-3 *pseudo-attach*))
+		     (VP called
+			 (NP 
+			  (NP Stone)
+			  's
+			  Throw))
+		     ,
+		     (PP-3 outside
+			   (NP Pittsburgh)))))))
+     ,
+     and
+     (S (NP (NP only people)
+	    (SBAR 0
+		  (S
+		   (NP he)
+		   (VP liked
+		       and
+		       trusted
+		       (NP T)))))
+	(ADVP ever)
+	(VP got
+	    (S (NP *)
+	       (AUX to)
+	       (VP see
+		   (NP them))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (ADVP (NP Two years)
+	 ago)
+   (S (NP Thompson)
+      (VP offered
+	  (NP his collection)
+	  (PP to
+	      (NP the city)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP he)
+	 (VP insisted
+	     (SBAR that
+		   (S (NP it)
+		      (AUX be)
+		      (VP housed
+			   
+			  (PP in
+			      (NP a special museum))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP Pittsburgh)
+    (VP turned
+	(NP him)
+	(PRT down))
+    ,
+    (PP  (ADVP just)
+	 as
+	 (S (NP Pittsburgh society)
+	    (AUX had)
+	    (VP been
+		(VP snubbing
+		    (NP him)))
+	    (PP for
+		(NP years)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP went
+       (ADVP then)
+       (PP to
+	   (NP (NP (NP a
+		       (ADJP 40-year-old)
+		       Basel art dealer)
+		   (VP named
+		       (NP Ernst Beyeler)))
+	       ,
+	       (SBAR (WHPP with
+			   (WHNP whom))
+		     (S
+		      (NP he)
+		      (AUX had)
+		      (ADVP long)
+		      (VP been
+			  (VP trading
+			      (NP pictures)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last year)
+   (S (NP Beyeler)
+      (VP arranged
+	   
+	  (S (NP *)
+	     (AUX to)
+	     (VP sell
+		 (NP $ 1,500,000
+		     worth
+		     (PP of
+			 (NP Klees)))
+		 (PP to
+		     (NP the state
+			 (PP of
+			     (NP (NP North Rhine-Westphalia)
+				 ,
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (AUX will)
+				     (VP house
+					 (NP them)
+					 (PP in
+					     (NP (NP a museum)
+						 (SBAR 
+						  (WHNP that)
+						  (S (NP T)
+						     (VP is
+							 (S  (NP *)
+							     (ADVP yet)
+							     (AUX to)
+							     (VP be
+								 (VP built
+								     ))))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last week)
+   (S (NP (NP   most
+		(PP of
+		    (NP the other prizes)))
+	  ,
+	  (VP  (ADVP once)
+	       offered
+	       (PP to
+		   (NP Pittsburgh)))
+	  ,)
+      (VP went
+	  (PP on
+	      (NP the block)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP the opening
+	   (PP of
+	       (NP the Dusseldorf show))))
+   ,
+   (S (NP (NP Thompson)
+	  (NP himself))
+      (VP   (ADVP scarcely)
+	    glanced
+	    (PP at
+		(NP (NP the treasures)
+		    (SBAR (WHNP that)
+			  (S (NP he)
+			     (AUX was)
+			     (VP seeing
+				 (NP T) 
+				 (ADVP together)
+				 )
+			     (PP for
+				 (NP the last time)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP fact))
+     (S (NP he)
+	(VP seemed
+	    (ADJP delighted
+		  (S (NP *)
+		     (AUX to)
+		     (VP get
+			 (ADJP rid
+			       (PP of
+				   (NP them)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some observers)
+   (VP speculated
+       (SBAR that
+	     (S (NP this)
+		(AUX might)
+		(VP be
+		    (NP his revenge
+			(PP on
+			    (NP his home town))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Thompson)
+	(NP himself))
+    (VP said
+	:
+	``
+	(S (NP I)
+	   (VP want
+	       (S (NP *)
+		  (AUX to)
+		  (VP enjoy
+		      (ADVP once
+			    more)
+		      (NP the pleasure
+			  (PP of
+			      (NP (NP bare walls)
+				  (VP waiting
+				      (PP for
+					  (NP new pictures))))))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Break
+      (PP in
+	  (NP Georgia)))
+  )
+( (S
+   (NP The University
+       (PP of
+	   (NP Georgia)))
+   (AUX has)
+   (ADVP long)
+   (VP claimed
+       (SBAR that
+	     (S (NP it)
+		(AUX does)
+		(NEG not)
+		(VP discriminate
+		    (PP against
+			(NP any applicant))
+		    (PP on
+			(NP the basis
+			    (PP of
+				(NP (NP race) or (NP color))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP in
+	  (NP all
+	      its 175 years))
+      ,
+      (S (NP (NEG not)
+	     a
+	     single
+	     Negro student)
+	 (AUX has)
+	 (VP entered
+	     (NP its classrooms))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last week)
+   (S (NP Federal District Judge (NP William A. Bootle))
+      (VP ordered
+	  (NP the university)
+	  (S (NP *)
+	     (AUX to)
+	     (VP admit
+		 (ADVP immediately)
+		 (NP a
+		     ``
+		     qualified
+		     ''
+		     Negro boy and girl))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their entry)
+   (AUX will)
+   (VP crack
+       (NP the total segregation
+	   (PP of
+	       (NP (NP all public education)
+		   ,
+		   (PP (PP from
+			   (NP kindergarten))
+		       (PP through
+			   (NP graduate school)))
+		   ,
+		   (PP (PP in
+			   (NP Georgia))
+		       --
+		       and
+		       (PP in
+			   (NP (NP Alabama)
+			       ,
+			       (NP Mississippi)
+			       and
+			       (NP South Carolina)))
+		       (ADVP as
+			     well)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP 18 months))
+   ,
+   (S (NP (NP (NP Hamilton Holmes)
+	      ,
+	      (NP 19)
+	      ,)
+	  and
+	  (NP (NP Charlayne Hunter)
+	      ,
+	      (NP 18)
+	      ,))
+      (AUX had)
+      (VP tried
+	  (S (NP *)
+	     (AUX to)
+	     (VP get
+		 (PP into
+		     (NP the university)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP graduated
+       (ADVP together)
+       (PP from
+	   (NP (NP 
+		(NP Atlanta)
+		's
+		Turner High School)
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (S (NP Valedictorian Holmes)
+		      (VP was
+			  (ADJP first
+				(PP in
+				    (NP the class)))))
+		   and
+		   (X (NP Charlayne)
+		      (ADJP third))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The university)
+   (VP (VP rejected
+	   (NP them)
+	   (PP on
+	       (NP a variety
+		   (PP of
+		       (NP pretexts)))))
+       ,
+       but
+       (VP was
+	   (ADJP careful
+		 (S   (NP *)
+		      (ADVP never)
+		      (AUX to)
+		      (VP mention
+			  (NP the color
+			      (PP of
+				  (NP their skins)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Holmes)
+    (VP went
+	(PP to
+	    (NP (NP 
+		 (NP Atlanta)
+		 's
+		 Morehouse
+		 *LRB*
+		 Negro
+		 *RRB*
+		 College)
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (NP he)
+		    (VP is
+			(NP a B student and star halfback))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Charlayne)
+   (VP studied
+       (NP journalism))
+   (PP at
+       (NP 
+	(NP Detroit)
+	's
+	Wayne State University)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last fall)
+   ,
+   (PP after
+       (S (NP they)
+	  (VP took
+	      (NP their hopes
+		  (PP for
+		      (S (NP *) 
+			 (VP entering
+			     (NP Georgia)))))
+	      (PP to
+		  (NP court)))))
+   ,
+   (S (NP Judge Bootle)
+      (VP ordered
+	  (NP them)
+	  (S (NP *)
+	     (AUX to)
+	     (VP apply
+		 (ADVP again))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Charlayne)
+    (AUX was)
+    (VP ``
+	(ADVP tentatively)
+	''
+	admitted
+	 
+	(PP for
+	    (NP next fall)))
+    ,
+    (PP after
+	(S (NP state investigators)
+	   (VP questioned
+	       (NP her white roommate
+		   (PP at
+		       (NP Wayne State)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP Holmes)
+	 (AUX was)
+	 (VP rejected
+	     (ADVP again)
+	     ``
+	     (PP on
+		 (NP the basis
+		     (PP of
+			 (NP his record and interview))))
+	     '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The evidence
+	(PP in
+	    (NP court)))
+    (VP was
+	(NP testimony
+	    (PP about
+		(NP (NP the interview)
+		    ,
+		    (SBAR 
+		     (WHNP which)
+		     (S  
+		      (PP for
+			  (NP Holmes))
+		      (S (NP T)
+			 (VP lasted
+			     (NP an hour)))
+		      ,
+		      (SBAR although
+			    (S (NP (PP at
+				       (ADJP least))
+				   one
+				   white student
+				   (PP at
+				       (NP Georgia)))
+			       (VP got
+				   (PP through
+				       (NP this ritual))
+				   (PP by
+				       (NP a simple phone conversation))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Holmes)
+   (AUX was)
+   (VP asked
+	     
+       (SBAR if
+	     (S (NP he)
+		(AUX had)
+		(ADVP ever)
+		(VP visited
+		    (NP (NP a house
+			    (PP of
+				(NP prostitution)))
+			,
+			or
+			(NP a
+			    ``
+			    beatnik parlor or teahouse
+			    '')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S No
+	,
+	(SINV  
+	 (VP said)
+	 (NP he)))
+     ,
+     but
+     (S (NP officials)
+	(ADVP still)
+	(VP called
+	    (NP him)
+	    ``
+	    (ADJP evasive)
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (ADVP also)
+   (VP said
+       (SBAR 0
+	     (S (NP he)
+		(VP lied)
+		(PP in
+		    (S (NP *) 
+		       (VP saying
+			   (SBAR that
+				 (S (NP he)
+				    (AUX had)
+				    (ADVP never)
+				    (VP been
+					``
+					(VP arrested)
+					''))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Their reason)
+   :
+   (S (NP Holmes)
+      (ADVP once)
+      (VP (VP paid
+	      (NP a
+		  $ 20
+		  speeding
+		  fine))
+	  ,
+	  (VP had
+	      (NP his license)
+	      (VP suspended)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   
+ (S (NP Negro lawyers)
+    (VP (VP dug
+	    (PP into
+		(NP the records
+		    (PP of
+			(NP 300 white students)))))
+	,
+	(VP found
+	    (SBAR that
+		  (S (S (NP many)
+			(AUX were)
+			(ADVP hardly)
+			(VP interviewed
+			    
+			    (PP at
+				(NP all))))
+		     --
+		     and
+		     (S (NP few)
+			(VP had
+			    (NP (NP academic records)
+				(ADJP  as
+				       good
+				       (PP as
+					   (NP Hamilton Holmes)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The real reason
+       (PP for
+	   (NP his rejection)))
+   ,
+   (S (NP they)
+      (VP argued))
+   ,
+   (VP is
+       (NP the fact
+	   (SBAR that
+		 (S (NP Georgia law)
+		    (VP  (ADVP automatically)
+			 cuts
+			    
+			 (PRT off)
+			 (NP funds)
+			 (PP for
+			     (NP any (ADJP desegregated) school))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP 
+    (NP Judge Bootle)
+    's decision)
+   :
+   ``
+   (S (NP The two plaintiffs)
+      (X (VP are
+	     (ADJP qualified
+		   (PP for
+		       (NP admission
+			   (PP  to
+				(NP (VP said)
+				    university))))))
+	 and
+	 (X  
+	  (AUX would)
+	  (ADVP already)
+	  (VP have
+	      (VP been
+		  (VP admitted
+		      ))))
+	 (SBAR (SINV  
+		(AUX had)
+		(NP it)
+		(NEG not)
+		(VP been
+		    (PP for
+			(NP their race and color)))))))
+   '')
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The state)
+      (AUX will)
+      (VP appeal))
+     --
+     but
+     (S (NP few)
+	(VP think
+	    (SBAR 0
+		  (S (NP it)
+		     (AUX will)
+		     (ADVP actually)
+		     (VP try
+			 (S (NP *)
+			    (AUX to)
+			    (VP close
+				(NP the university)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S   ``
+      (ADJP Surprised
+	    and
+	    pleased)
+      ''
+      ,
+      (S (NP Students
+	     (NP (NP Holmes)
+		 and
+		 (NP Hunter)))
+	 (AUX may)
+	 (VP enter
+	     (NP the University
+		 (PP of
+		     (NP Georgia))))
+	 (NP this week)))
+ .) 
+(  END_OF_TEXT_UNIT)
+((NP Catch
+    (PP for
+	(NP Chicago))))
+((S (SBAR 
+     (WHADVP When)
+     (S (NP (NP the University
+		(PP of
+		    (NP Chicago)))
+	    's
+	    Chancellor Lawrence A. Kimpton)
+	(VP submitted
+	    (NP his resignation))
+	(NP  last
+	     March)))
+    ,
+    (S (NP a mighty talent hunt)
+       (VP gripped
+	   (NP the Midway))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV  (ADVP Out)
+	 (VP went)
+	 (NP (NP letters
+		 (PP to
+		     (NP 60,000 old grads)))
+	     ,
+	     (VP asking
+		 (PP for
+		     (NP suggestions)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Such academic
+    statesmen
+    (PP as
+	(NP James B. Conant)))
+   (AUX were)
+   (VP consulted))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Two committees)
+   (VP pondered
+       (NP (NP 375 possible Kimpton successors)
+	   ,
+	   (VP including
+	       (NP (NP Adlai Stevenson)
+		   ,
+		   (NP Richard Nixon)
+		   ,
+		   and
+		   (NP 
+		    (NP Harvard)
+		    's
+		    Dean McGeorge Bundy))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The debate)
+    (VP led
+	(PP to
+	    (NP a decision
+		(SBAR that
+		      (S (NP Chicago)
+			 (VP needed
+			     (NP (NP  neither
+				      (NP a big name)
+				      nor
+				      (NP an
+					  (ADJP experienced) academic
+					  administrator))
+				 ,
+				 but
+				 (ADVP rather)
+				 ,
+				 (PP as
+				     (S (NP Trustee Chairman (NP Glen A. Lloyd))
+					(VP put
+					    (NP it))))
+				 ,
+				 (NP (NP  ``
+					  a top scholar
+					  (PP in
+					      (NP his own right))
+					  '')
+				     --
+				     (NP (NP a bright light)
+					 (S (NP *)
+					    (AUX to)
+					    (VP lure
+						(NP 
+						 other top
+						 scholars)
+						(PP to
+						    (NP Chicago))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Last week)
+   (S (NP Chicago)
+      (VP  (ADVP happily)
+	   found
+	   (NP its top scholar)
+	   (PP in
+        
+	       (NP (NP 
+		    (NP Caltech)
+		    's acting dean
+		    (PP of
+			(NP the faculty)))
+		   :
+		   (NP (NP (NP dynamic
+			       Geneticist
+			       (NP George Wells Beadle))
+			   ,
+			   (NP 57)
+			   ,)
+		       (SBAR (WHNP who)
+			     (S (NP T)
+				(VP shared
+				    (NP the 1958
+					Nobel Prize
+					(PP in
+					    (NP (NP medicine) and (NP physiology)))))
+				(PP for
+				    (S (NP *) 
+				       (VP discovering
+					   (SBAR 
+					    (WHADVP how)
+					    (S (NP genes)
+					       (VP affect
+						   (NP heredity)
+						   (PP by
+						       (S  (NP *) 
+							   (VP controlling
+							       (NP cell chemistry))))))))))))
+		       *LRB*
+		       (NP (NP Time)
+			   ,
+			   (NP Cover)
+			   ,
+			   (NP (NP July 14) ,
+			       (NP 1958)))
+		       *RRB*))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP fell
+	(PP to
+	    (NP (NP Chancellor Kimpton)
+		,
+		(ADVP now)
+		(NP a Standard Oil
+		    *LRB*
+		    (NP Indiana)
+		    *RRB*
+		    executive)
+		,)))
+    (S (NP *)
+       (AUX to)
+       (VP spend
+	   (NP his (ADJP nine-year) reign)
+	   (S (NP *) 
+	      (VP tidying
+		  (PRT up)
+		  (NP Chicago))
+	      (PP after
+		  (NP the (ADJP 21-year) typhoon
+		      (PP of
+			  (NP Idealist
+			      (NP Robert Maynard Hutchins)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP threw
+	    (PRT out)
+	    (NP some
+		(PP of
+		    (NP 
+		     (NP Hutchins)
+		     '
+		     (ADJP (ADVP more wildly)
+			   experimental) courses))))
+	,
+	(VP raised
+	    (NP (VP sagging)
+		undergraduate enrollment)
+	    (PP to
+		(NP 2,100)))
+	,
+	(VP  (ADVP nearly)
+	     doubled
+	     (NP endowment)
+	     (PP to
+		 (NP $ 139.3
+		     million)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  But
+       (SBAR though
+	     (S (NP Kimpton)
+		(VP put
+		    (NP Chicago)
+		    (PP  in
+			 (SBAR (WHNP what)
+			       (S (NP he)
+				  (VP felt
+				      (SBAR 0
+					    (S  (NP T) 
+						(VP was)
+						(NP  working
+						     order))))))))))
+       ,
+       (S (NP some old grads)
+	  (VP feel
+	      (SBAR that
+		    (S (NP it)
+		       (ADVP still)
+		       (VP needs
+			   (NP (NP the kind
+				   (PP of
+				       (NP lively teachers)))
+			       (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (VP filled
+				       (NP it))
+				   (PP in
+				       (NP the
+					   heady
+					   Hutchins era)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP At
+       (NP Caltech))
+   ,
+   (S (NP Geneticist Beadle)
+      (AUX has)
+      (VP stuck
+	  (ADJP close
+		(PP to
+		    (NP his research))))
+      (PP as
+	  (NP head
+	      (PP of
+		  (NP 
+		   (NP the school)
+		   's famous biology division))
+	      (PP  since
+		   (NP 1946))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP he)
+	 (X (X (AUX has)
+	       (VP shown
+		   (NP a (ADJP sixth-sense) ability
+		       (S (NP *)
+			  (AUX to)
+			  (VP spot
+			      ,
+			      recruit 
+			      and 
+			      excite
+			      (NP able researchers))))))
+	    ,
+	    and
+	    (X  
+	     (AUX has)
+	     (VP developed
+		 (NP (ADJP unexpected) talents
+		     (PP in
+			 (NP (NP fund
+				 raising)
+			     and
+			     (NP speech-making)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Beadle)
+      (VP is
+	  (ADVP even)
+	  (NP  (NP that
+		   rare scientist)
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP takes
+		       (NP an interest)
+		       (PP in
+			   (NP money matters))))))))
+     ;
+     ;
+     (S (NP he)
+	(VP (VP  (ADVP avidly)
+		 reads
+		 (NP the Wall Street Journal))
+	    ,
+	    and
+	    (VP took
+		(NP delight)
+		(PP in
+		    (S (NP *) 
+		       (VP (VP driving
+			       (NP a
+				   $ 250
+				   model
+				   A Ford)
+			       (PP for
+				   (NP 22 years)))
+			   ,
+			   (ADVP then)
+			   (VP selling
+			       (NP it)
+			       (PP for
+				   (NP $ 300))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

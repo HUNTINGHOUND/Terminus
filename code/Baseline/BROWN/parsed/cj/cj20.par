@@ -1,0 +1,2179 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Consider
+	  (NP (NP a
+		  simple
+		  ,
+		  closed
+		  ,
+		  plane curve C)
+	      (SBAR (SBAR 
+		     (WHNP which)
+		     (S (NP T)
+			(VP is
+			    (NP a (ADJP real-analytic) image
+				(PP of
+				    (NP the unit circle))))))
+		    ,
+		    and
+		    (SBAR 
+		     (WHNP which)
+		     (S (NP T)
+			(AUX is)
+			(VP given
+	      
+			    (PP by
+				(NP A[fj])))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP are
+       (NP real
+	   analytic periodic
+	   functions
+	   (PP with
+	       (NP period T)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the (VP following) paper))
+     (S
+      (NP it
+	  (SBAR-1 *pseudo-attach*))
+      (AUX is)
+      (VP shown)
+      (SBAR-1 that
+	      (S (PP in
+		     (NP a
+			 certain definite
+			 sense))
+		 ,
+		 (S (NP (ADVP exactly)
+			an odd number
+			(PP of
+			    (NP squares)))
+		    (AUX can)
+		    (VP be
+			(VP inscribed
+	        
+			    (PP in
+				(NP (NP every such curve)
+				    (SBAR 
+				     (WHNP which)
+				     (S (NP T)
+					(AUX does)
+					(NEG not)
+					(VP contain
+					    (NP an infinite number
+						(PP of
+						    (NP (VP inscribed) squares)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This theorem)
+   (VP is
+       (ADJP similar
+	     (PP to
+		 (NP the theorem
+		     (PP of
+			 (NP Kakutani))
+		     (SBAR that
+			   (S  (NP there)
+			       (VP exists
+				   (NP a (VP circumscribing) cube))
+			       (PP around
+				   (NP any
+				       closed
+				       ,
+				       (VP bounded)
+				       convex set
+				       (PP in
+					   (NP A[fj])))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The latter theorem)
+   (AUX has)
+   (VP been
+       (VP generalized
+		 
+	   (PP by
+	       (NP (NP (NP Yamabe)
+		       and
+		       (NP Yujobo))
+		   ,
+		   and
+		   (NP Cairns)))
+	   (S (NP *)
+	      (AUX to)
+	      (VP show
+		  (SBAR that
+			(S  
+			 (PP in
+			     (NP A[fj]))
+			 (S (NP there)
+			    (VP are
+				(NP families
+				    (PP of
+					(NP such cubes))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Here)
+      ,
+      (S  
+       (PP for
+	   (NP the case
+	       (PP of
+		   (NP (NP squares)
+		       (VP inscribed
+			   (PP in
+			       (NP plane curves)))))))
+       ,
+       (S (NP we)
+	  (VP (VP remove
+		  (NP the restriction
+		      (PP to
+			  (NP convexity))))
+	      and
+	      (VP give
+		  (NP 
+		   certain other
+		   results))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A square)
+       (VP inscribed
+	   (PP in
+	       (NP a curve C))))
+   (VP means
+       (NP a square
+	   (PP with
+	       (NP its four corner points
+		   (PP on
+		       (NP the curve))))))
+   ,
+   (SBAR though
+	 (S (NP it)
+	    (AUX may)
+	    (NEG not)
+	    (VP lie
+		(ADVP entirely)
+		(PP in
+		    (NP the interior
+			(PP of
+			    (NP C))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Indeed)
+      ,
+      (S  
+       (NP the spiral A[fj])
+       ,
+       (PP with
+	   (S (NP the two endpoints)
+	      (VP connected
+		  (PP by
+		      (NP a straight line)))))
+       (VP possesses
+	   (NP  only
+		one
+		(VP inscribed)
+		square))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The square)
+   (X (VP has
+	  (NP one corner point
+	      (PP on
+		  (NP the straight line segment))))
+      ,
+      and
+      (X  
+       (AUX does)
+       (NEG not)
+       (VP lie
+	   (ADVP entirely)
+	   (PP in
+	       (NP the interior))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP On
+	  (NP C))
+      ,
+      (PP (PP from
+	      (NP the point P
+		  (PP at
+		      (NP A[fj]))))
+	  (PP to
+	      (NP the point Q
+		  (PP at
+		      (NP A[fj])))))
+      ,
+      (S (NP we)
+	 (VP construct
+	     (NP the chord))))
+     ,
+     and
+     (X  
+      (PP upon
+	  (NP the chord
+	      (PP as
+		  (NP a side))))
+      (VP erect
+	  (NP a square)
+	  (PP in
+	      (NP  such
+		   a way
+		   (SBAR that
+			 (S (SBAR  as
+				   (S (NP S)
+				      (VP approaches
+					  (NP zero))))
+			    (S
+			     (NP the square)
+			     (VP is
+				 (PP inside
+				     (NP C)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP S)
+	     (VP increases)))
+   (S (NP we)
+      (VP consider
+	  (NP (NP (NP the two free corner points
+		      (PP of
+			  (NP the square)))
+		  ,
+		  (NP (NP A[fj]) and (NP A[fj]))
+		  ,)
+	      (ADJP adjacent
+		    (PP to
+			(NP (NP (NP P) and (NP Q))
+			    (ADVP respectively))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP S)
+	     (VP approaches
+		 (NP T))))
+   (S (S
+       (NP the square)
+       (AUX will)
+       (VP be
+	   (PP outside
+	       (NP C))))
+      and
+      (S (ADVP therefore)
+	 (S (NP both (NP A[fj]) and (NP A[fj]))
+	    (AUX must)
+	    (VP cross
+		(NP C)
+		(NP an odd number
+		    (PP of
+			(NP times))))
+	    (SBAR  as
+		   (S (NP S)
+		      (VP varies
+			  (PP (PP from
+				  (NP zero))
+			      (PP to
+				  (NP T))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The points)
+   (AUX may)
+   (ADVP also)
+   (VP touch
+       (NP C)
+       (PP without
+	   (S (NP *) 
+	      (VP crossing)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Suppose
+	  (SBAR 0
+		(S (NP A[fj])
+		   (VP crosses
+		       (NP C))
+		   (X  
+		    (WHADVP when)
+		    (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP now)
+   (VP have
+       (NP certain squares
+	   (PP with
+	       (NP three corners
+		   (PP on
+		       (NP C)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP For
+	 (NP any such square))
+     (S (S
+	 (NP the middle corner
+	     (PP of
+		 (NP these)))
+	 (AUX will)
+	 (VP be
+	     (VP called
+	       
+		 (NP the vertex
+		     (PP of
+			 (NP the square))))))
+	and
+	(S (NP the corner
+	       (PP  
+		(NEG not)
+		on
+		(NP the curve)))
+	   (AUX will)
+	   (VP be
+	       (VP called
+		    
+		   (NP the diagonal point
+		       (PP of
+			   (NP the square))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Each point
+      (PP on
+	  (NP C)))
+  ,
+  (PP as
+      (NP a vertex))
+  ,
+  (AUX may)
+  (VP possess
+      (NP a finite number
+	  (PP of
+	      (NP 
+	       (VP corresponding) diagonal
+	       points)))
+      (PP by
+	  (NP the above construction))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP To
+       (NP  each (VP paired) vertex
+	    and
+	    diagonal point))
+   (S  (NP there)
+       (VP corresponds
+	   (NP (NP a
+		   unique forward
+		   corner point)
+	       ,
+	       i.e.
+	       ,
+	       (NP (NP the corner
+		       (PP on
+			   (NP C)))
+		   (VP reached
+		       (ADVP first)
+		       (PP by
+			   (S (NP *) 
+			      (VP proceeding
+				  (PP along
+				      (NP C))
+				  (PP from
+				      (NP the vertex))
+				  (PP in
+				      (NP the direction
+					  (PP of
+					      (NP (VP increasing)
+						  T)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR (SBAR  If
+		(S (NP the vertex)
+		   (VP is
+		       (PP at
+			   (NP A[fj])))))
+	 ,
+	 and
+	 (SBAR if
+	       (S (NP the interior
+		      (PP of
+			  (NP C)))
+		  (VP is
+		      (PP on
+			  (NP the
+			      (ADJP left))))
+		  (SBAR  as
+			 (S (NP one)
+			    (VP moves
+				(PP in
+				    (NP the direction
+					(PP of
+					    (NP (VP increasing)
+						t))))))))))
+   ,
+   (ADVP then)
+   (S (NP every such corner)
+      (AUX can)
+      (VP be
+	  (VP found
+		  
+	      (PP from
+		  (NP (NP the curve)
+		      (VP obtained
+			  (PP by
+			      (S (NP *) 
+				 (VP rotating
+				     (NP C)
+				     (ADVP clockwise)
+				     (PP through
+					 (NP 90-degrees
+					     (PP about
+						 (NP the vertex))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The set
+      (PP of
+	  (NP intersections
+	      (PP of
+		  (NP (NP A[fj])
+		      ,
+		      (NP the (VP rotated) curve)
+		      ,))
+	      (PP with
+		  (NP the original curve C)))))
+  (VP consists
+      (PP of
+	  (NP (ADVP just)
+	      (NP the set
+		  (PP of
+		      (NP (NP forward corner points
+			      (PP on
+				  (NP C)))
+			  (VP corresponding
+			      (PP to
+				  (NP the vertex
+				      (PP at
+					  (NP A[fj]))))))))
+	      ,
+	      plus
+	      (NP (NP the vertex)
+		  (NP itself))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (VP note
+	  (SBAR that
+		(S (NP (NP two such curves)
+		       (NP (NP C) and (NP A[fj])))
+		   ,
+		   (AUX can)
+		   (NEG not)
+		   (VP coincide
+		       (PP at
+			   (NP more
+			       (PP than
+				   (NP a finite number
+				       (PP of
+					   (NP points)))))))))))
+     ;
+     ;
+     (S  (ADVP otherwise)
+	 ,
+	 (S  (NP *)  
+	     (VP being
+		 (NP analytic)))
+	 ,
+	 (S (S (NP they)
+	       (AUX would)
+	       (VP coincide
+		   (PP at
+		       (NP all points))))
+	    ,
+	    (SBAR 
+	     (WHNP which)
+	     (S (NP T)
+		(VP is
+		    (ADJP impossible))
+		(SBAR since
+		      (S (NP they)
+			 (AUX do)
+			 (NEG not)
+			 (VP coincide
+			     (PP near
+				 (NP A[fj]))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (PP With
+	 (NP each vertex))
+     (S
+      (NP we)
+      (VP associate
+	  (NP (NP 
+	       certain numerical
+	       values)
+	      ,
+	      (ADVP namely)
+	      (NP the set
+		  (PP of
+		      (NP positive differences
+			  (PP in
+			      (NP the parameter T))
+			  (PP between
+			      (NP (NP the vertex)
+				  and
+				  (NP its
+				      (VP corresponding) forward
+				      corner points))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP the vertex
+	   (PP at
+	       (NP A[fj]))))
+   ,
+   (S (NP these values)
+      (AUX will)
+      (VP be
+	  (VP denoted
+		  
+	      (PP by
+		  (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The function f)
+      *LCB*
+      (NP t)
+      *RCB*)
+  (S  (NP *)  
+      (VP defined
+	  (PP in
+	      (NP this way))))
+  (VP is
+      (ADJP multi-valued)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP consider
+	(ADVP now)
+	(NP the graph
+	    (PP of
+		(NP (NP the function f)
+		    *LCB*
+		    (NP t)
+		    *RCB*))
+	    (PP on
+		(NP A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX will)
+   (VP (VP refer
+	   (PP to
+	       (NP the plane
+		   (PP of
+		       (NP (NP C) and (NP A[fj])))))
+	   (PP as
+	       (NP the C-plane)))
+       and
+       (X (PP to
+	      (NP the plane
+		  (PP of
+		      (NP the graph))))
+	  (PP as
+	      (NP the A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The graph)
+  ,
+  (PP as
+      (NP a set))
+  ,
+  (AUX may)
+  (VP have
+      (NP a finite number
+	  (PP of
+	      (NP components)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (AUX will)
+    (VP denote
+	(NP the values
+	    (PP of
+		(NP (NP f)
+		    *LCB*
+		    (NP t)
+		    *RCB*))
+	    (PP-2 *pseudo-attach*))
+	(PP-2 on
+	    (NP different components))
+	(PP by
+	    (NP A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each point
+       (PP with
+	   (NP abscissa T))
+       (PP on
+	   (NP the graph)))
+   (VP represents
+       (NP an intersection
+	   (PP between
+	       (NP (NP C) and (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (NP two types
+	   (PP of
+	       (NP such intersections))))
+   ,
+   (S  (NP *)  
+       (VP depending
+	   (ADVP essentially)
+	   (PP on
+	       (SBAR whether
+		     (S (NP the curves)
+			(VP cross
+			    (PP at
+				(NP the point
+				    (PP of
+					(NP intersection)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An ordinary point)
+   (AUX will)
+   (VP be
+       (NP (NP any point
+	       (PP of
+		   (NP intersection
+		       A)))
+	   (SBAR  such
+		  that
+		  (S (PP in
+			 (NP every neighborhood
+			     (PP of
+				 (NP A))
+			     (PP in
+				 (NP the C-plane))))
+		     ,
+		     (S (NP A[fj])
+			(VP meets
+			    (NP both
+				(NP the interior
+				    (PP-2 *pseudo-attach*))
+				and
+				(NP the exterior
+				    (PP-2 *pseudo-attach*))
+				(PP-2 of
+				    (NP C))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Any other point
+       (PP of
+	   (NP intersection
+	       (PP between
+		   (NP (NP C) and (NP A[fj]))))))
+   (AUX will)
+   (VP be
+       (VP called
+	   (NP a tangent point))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This terminology)
+   (AUX will)
+   (ADVP also)
+   (VP be
+       (VP applied
+		 
+	   (PP to
+	       (NP the (VP corresponding) points
+		   (PP in
+		       (NP the A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX can)
+   (ADVP now)
+   (VP prove
+       (NP several lemmas)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Lemma 1)
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP some neighborhood
+	  (PP in
+	      (NP the f-plane
+		  (PP of
+		      (NP any ordinary point
+			  (PP of
+			      (NP the graph))))))))
+  ,
+  (S (NP the function f)
+     (VP is
+	 (NP a
+	     (ADJP single-valued)
+	     ,
+	     continuous
+	     function))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP first)
+   (VP show
+       (SBAR that
+	     (S (NP the function)
+		(VP is
+		    (ADJP single-valued)
+		    (PP in
+			(NP some neighborhood)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP With
+      (NP the vertex
+	  (PP at
+	      (NP A[fj]))
+	  (PP in
+	      (NP the C-plane))))
+  (S (NP we)
+     (VP assume
+	 (SBAR that
+	       (S (NP A[fj])
+		  (VP is
+		      (NP the parametric location
+			  (PP on
+			      (NP C))
+			  (PP of
+			      (NP an ordinary intersection Q
+				  (PP between
+				      (NP (NP C) and (NP A[fj]))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the f-plane))
+     (S
+      (NP the coordinates
+	  (PP of
+	      (NP the (VP corresponding) point)))
+      (VP are
+	  (NP A[fj]))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP know
+       (SBAR that
+	     (S (PP in
+		    (NP the C-plane))
+		(S
+		 (NP both (NP C) and (NP A[fj]))
+		 (VP are
+		     (ADJP analytic)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the C-plane))
+   (S (NP we)
+      (VP construct
+	  (NP (NP a set
+		  (PP of
+		      (NP 
+		       rectangular Cartesian
+		       coordinates)))
+	      (NP (NP (NP u)
+		      ,
+		      (NP V))
+		  (X (PP with
+			 (NP the origin
+			     (PP at
+				 (NP Q))))
+		     and
+		     (ADJP such
+			   (SBAR that
+				 (S (NP both (NP C) and (NP A[fj]))
+				    (VP have
+					(NP finite slope)
+					(PP at
+					    (NP Q))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Near
+       (NP Q))
+   ,
+   (S
+    (NP  both
+	 curves)
+    (AUX can)
+    (VP be
+	(VP represented
+	        
+	    (PP by
+		(NP analytic functions
+		    (PP of
+			(NP U))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP a neighborhood
+	     (PP of
+		 (NP Q))))
+     (S
+      (NP the difference
+	  (PP between
+	      (NP these functions)))
+      (VP is
+	  (ADVP also)
+	  (NP a
+	      (ADJP single-valued)
+	      ,
+	      analytic
+	      function
+	      (PP of
+		  (NP U))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Furthermore)
+	 ,
+	 (S (NP one)
+	    (AUX can)
+	    (VP find
+		(NP (NP a neighborhood
+			(PP of
+			    (NP Q)))
+		    (SBAR (WHPP in
+				(WHNP which))
+			  (S
+			   (NP the difference function)
+			   (VP is
+			       (ADJP monotone))))))))
+     ,
+     for
+     (S (SBAR since
+	      (S (NP it)
+		 (VP is
+		     (ADJP analytic))))
+	(S (NP it)
+	   (AUX can)
+	   (VP have
+	       (NP  (ADVP only)
+		    a finite number
+		    (PP of
+			(NP extrema)))
+	       (PP in
+		   (NP any interval))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      ,
+      (S (NP *)
+	 (AUX to)
+	 (VP find
+	     (NP A[fj])))
+      ,
+      (S (NP one)
+	 (VP needs
+	     (NP the intersection
+		 (PP of
+		     (NP (NP C) and (NP A[fj])))
+		 (PP near
+		     (NP Q))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  But
+	 (S (NP A[fj])
+	    (VP is
+		(NP  (ADVP just)
+		     (NP the curve A[fj])
+		     (VP translated
+			 (PP without
+			     (NP rotation
+				 (PP through
+				     (NP a small arc)))))))))
+     ,
+     for
+     (S (NP A[fj])
+	(AUX is)
+	(ADVP always)
+	(VP obtained
+		 
+	    (PP by
+		(S (NP *) 
+		   (VP rotating
+		       (NP C)
+		       (PP through
+			   (NP  (ADVP exactly)
+				90-degrees))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The arc)
+   (VP is
+       (NP itself)
+       (NP a segment
+	   (PP of
+	       (NP an analytic curve)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Thus)
+	 (SBAR if
+	       (S (NP E)
+		  (VP is
+		      (ADJP  sufficiently
+			     small))))
+	 ,
+	 (S (NP there)
+	    (AUX can)
+	    (VP be
+		(NP  only
+		     one intersection
+		     (PP of
+			 (NP (NP C) and (NP A[fj])))
+		     (PP near
+			 (NP Q))))))
+     ,
+     for
+     (S (SBAR if
+	      (S (NP there)
+		 (VP were
+		     (NP (ADJP more
+			       (PP than
+				   (NP one)))
+			 intersection)
+		     (PP for
+			 (NP every E)))))
+	(ADVP then)
+	(S (NP the difference
+	       (PP between
+		   (NP (NP C) and (NP A[fj])))
+	       (PP near
+		   (NP Q)))
+	   (AUX would)
+	   (NEG not)
+	   (VP be
+	       (NP a monotone function)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S (NP A[fj])
+	 (VP is
+	     (ADJP single-valued)
+	     (PP near
+		 (NP Q)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (ADVP also)
+   (VP seen
+       (X that
+	  (NP (NP A[fj])
+	      ,
+	      (SBAR since
+		    (S (NP the change
+			   (PP (PP from
+				   (NP A[fj]))
+			       (PP to
+				   (NP A[fj]))))
+		       (AUX is)
+		       (VP accomplished
+			   (PP by
+			       (NP a continuous translation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (ADVP Thus)
+    (S (NP A[fj])
+       (VP is
+	   (ADVP also)
+	   (ADJP continuous)
+	   (PP (PP at
+		   (NP A[fj]))
+	       ,
+	       and
+	       (PP in
+		   (NP (NP a neighborhood
+			   (PP of
+			       (NP A[fj])))
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (AUX does)
+			   (NEG not)
+			   (VP contain
+			       (NP a tangent point)))))))))
+    .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP turn
+       (ADVP now)
+       (PP to
+	   (NP the set
+	       (PP of
+		   (NP tangent points
+		       (PP on
+			   (NP the graph))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This set)
+    (AUX must)
+    (VP consist
+	(PP of
+	    (NP (NP  (ADJP isolated)
+		     points)
+		and
+		(NP (ADJP closed)
+		    intervals)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP The fact
+	   (SBAR that
+		 (S (NP there)
+		    (AUX can)
+		    (NEG not)
+		    (VP be
+			(NP any limit points
+			    (PP of
+				(NP the set)))
+			(PP except
+			    (PP in
+				(NP 
+				 (ADJP closed)
+				 intervals)))))))
+       (VP follows
+	   (PP from
+	       (NP (NP (NP the argument)
+		       (VP used
+			   (PP in
+			       (NP Lemma 1))))
+		   ,
+		   (ADVP namely)
+		   ,
+		   (SBAR that
+			 (S (S (PP near
+				   (NP any tangent point
+				       (PP in
+					   (NP the C-plane))))
+			       (S (NP  the curves
+				       C and A[fj])
+				  (VP are
+				      (ADJP analytic))))
+			    ,
+			    and
+			    (ADVP therefore)
+			    (S (NP the difference
+				   (PP between
+				       (NP them)))
+			       (AUX must)
+			       (VP be
+				   (NP a monotone function)
+				   (PP in
+				       (NP some neighborhood
+					   (PP on
+					       (NP either side
+						   (PP of
+						       (NP the tangent point)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP prevents
+       (NP the occurrence
+	   (PP of
+	       (NP an infinite sequence
+		   (PP of
+		       (NP  (ADJP isolated)
+			    tangent points)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Lemma 2)
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP some neighborhood
+	       (PP of
+		   (NP an
+		       (ADJP isolated) tangent
+		       point
+		       (PP in
+			   (NP the f-plane)))))
+	   ,
+	   (S  (NP *) 
+	       (VP say
+		   (NP A[fj])))
+	   ,))
+   (S (NP the function A[fj])
+      (VP (VP is
+	      either
+	      (ADJP double-valued))
+	  or
+	  (VP has
+	      (NP (NP no values)
+		  (VP defined))
+	      ,
+	      (PP except
+		  (PP at
+		      (NP (NP (NP the tangent point)
+			      (NP itself))
+			  ,
+			  (SBAR 
+			   (WHADVP where)
+			   (S (NP it)
+			      (VP is
+				  (ADJP single-valued)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A tangent point Q
+       (PP in
+	   (NP the C-plane)))
+   (VP occurs)
+   (SBAR 
+    (WHADVP when)
+    (S (NP (NP C) and (NP A[fj]))
+       (VP are
+	   (ADJP tangent
+		 (PP to
+		     (NP one
+			 another)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A continuous change
+       (PP in
+	   (NP T))
+       (PP through
+	   (NP an amount E)))
+   (VP results
+       (PP in
+	   (NP a translation
+	       (PP along
+		   (NP an analytic arc
+		       (PP of
+			   (NP the curve A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP There)
+      (VP are
+	  (NP three possibilities)))
+   :
+   (S (S  *LRB*
+	  (NP A)
+	  *RRB*
+	  (S (NP A[fj])
+	     (VP remains
+		 (ADJP tangent
+		       (PP to
+			   (NP C))))
+	     (SBAR  as
+		    (S (NP it)
+		       (AUX is)
+		       (VP translated
+			   )))))
+      ;
+      ;
+      (S *LRB*
+	 (NP B)
+	 *RRB*
+	 (S (NP A[fj])
+	    (X (VP moves
+		   (ADVP away
+			 (PP from
+			     (NP C))))
+	       and
+	       (X  
+		(AUX does)
+		(NEG not)
+		(VP intersect
+		    (NP it)
+		    (PP at
+			(NP all))
+		    (PP for
+			(NP A[fj])))))))
+      ;
+      ;
+      (S  *LRB*
+	  (NP C)
+	  *RRB*
+	  (S (S (NP A[fj])
+		(VP cuts
+		    (PP across
+			(NP C))))
+	     and
+	     (S (NP there)
+		(VP are
+		    (NP two ordinary intersections
+			(PP for
+			    (NP every T
+				(PP in
+				    (NP A[fj])))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The first possibility)
+    (VP results
+	(PP in
+	    (NP (NP a (ADJP closed) interval
+		    (PP of
+			(NP tangent points
+			    (PP in
+				(NP the f-plane)))))
+		,
+		(SBAR (WHNP  the end points
+			     (WHPP of
+				   (WHNP which)))
+		      (S (NP T)  
+			 (VP fall
+			     (PP into
+				 (NP  category
+				      *LRB*
+				      B
+				      *RRB*
+				      or
+				      *LRB*
+				      C
+				      *RRB*)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the second category))
+     (S
+      (NP the function A[fj])
+      (VP has
+	  (NP (NP no values)
+	      (VP defined
+		  (PP in
+		      (NP a neighborhood A[fj])))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the third category))
+     (S
+      (NP the function)
+      (VP is
+	  (ADJP double-valued)
+	  (PP in
+	      (NP this interval)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The same remarks)
+   (VP apply
+       (PP to
+	   (NP an interval
+	       (PP on
+		   (NP the other side
+		       (PP of
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Again)
+      ,
+      (S (NP the analyticity
+	     (PP of
+		 (NP the two curves)))
+	 (VP guarantees
+	     (SBAR that
+		   (S (NP such intervals)
+		      (VP exist))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the neighborhood
+	   (PP of
+	       (NP an end point
+		   (PP of
+		       (NP an interval
+			   (PP of
+			       (NP tangent points
+				   (PP in
+				       (NP the f-plane))))))))))
+   (S
+    (NP the function)
+    (VP (VP is
+	    (ADJP two-valued or no-valued
+		  (PP on
+		      (NP one side))))
+	,
+	and
+	(VP is
+	    (NP (NP a (ADJP single-valued) function)
+		(VP consisting
+		    (ADVP entirely)
+		    (PP of
+			(NP tangent points
+			    (PP on
+				(NP the other side))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP the above results))
+   (S (NP we)
+      (AUX can)
+      (VP make
+	  (NP the  (ADJP following) remarks
+	      (PP about
+		  (NP the graph
+		      (PP of
+			  (NP F))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP First)
+      ,
+      (PP for
+	  (NP (NP any value
+		  (PP of
+		      (NP T)))
+	      (SBAR 
+	       (WHPP for
+		     (WHNP which))
+	       (S (NP all values
+		      (PP of
+			  (NP (NP f)
+			      *LCB*
+			      (NP t)
+			      *RCB*)))
+		  (VP are
+		      (NP ordinary points))))))
+      (S  
+       (NP the number
+	   (PP of
+	       (NP values
+		   (PP of
+		       (NP (NP f)
+			   *LCB*
+			   (NP t)
+			   *RCB*)))))
+       (AUX must)
+       (VP be
+	   (ADJP odd))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  For
+	(NP it
+	    (SBAR-3 *pseudo-attach*))
+	(VP is
+	    (ADJP clear))
+	(SBAR-3 that
+		(S (NP the total number
+		       (PP of
+			   (NP ordinary intersections
+			       (PP of
+				   (NP (NP C) and (NP A[fj]))))))
+		   (AUX must)
+		   (VP be
+		       (ADJP even)))))
+    *LRB*
+    (S  (ADVP otherwise)
+	,
+	(S  (NP *)  
+	    (VP starting
+		(PP in
+		    (NP the interior
+			(PP of
+			    (NP C))))))
+	,
+	(S (NP A[fj])
+	   (AUX could)
+	   (NEG not)
+	   (ADVP finally)
+	   (VP return
+	       (PP to
+		   (NP the interior)))))
+    *RRB*
+    ,
+    and
+    (S (NP the center
+	   (PP of
+	       (NP rotation))
+	   (PP at
+	       (NP T)))
+       (VP is
+	   (NP (NP the argument
+		   (PP of
+		       (NP the function)))
+	       ,
+	       (NEG not)
+	       (NP a value)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (PP for
+	  (NP any value
+	      (PP of
+		  (NP T))))
+      (S  
+       (NP the number
+	   (PP of
+	       (NP values
+		   (PP of
+		       (NP f
+			   *LCB*
+			   t
+			   *RCB*)))))
+       (VP is
+	   (ADJP equal
+		 (PP to
+		     (NP (NP the
+			     *LRB*
+			     finite
+			     *RRB*
+			     number
+			     (PP of
+				 (NP tangent points)))
+			 (VP corresponding
+			     (PP to
+				 (NP (NP the argument T)
+				     (PP plus
+					 (NP an odd number)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (NP Definition)
+   .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The number
+      (PP of
+	  (NP ordinary values
+	      (PP of
+		  (NP the function f
+		      *LCB*
+		      t
+		      *RCB*
+		      (PP at
+			  (NP T)))))))
+  (AUX will)
+  (VP be
+      (VP called
+	     
+	  (NP its multiplicity
+	      (PP at
+		  (NP T. Lemma
+		      3))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The graph
+       (PP of
+	   (NP f)))
+   (VP has
+       (NP (NP (PP at
+		   (ADJP least))
+	       one component)
+	   (SBAR 
+	    (WHNP whose support)
+	    (S (NP T)
+	       (VP is
+		   (NP the entire interval A[fj])))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP suppose
+       (NEG not)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (S (NP every component
+	     (PP of
+		 (NP the graph
+		     (PP of
+			 (NP F)))))
+	 (AUX must)
+	 (VP be
+	     (VP defined
+		  
+		 (PP over
+		     (NP a (VP bounded) sub-interval))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP *) 
+     (VP Suppose
+	 (SBAR 0
+	       (S (NP A[fj])
+		  (AUX is)
+		  (VP defined
+		      
+		      (PP in
+			  (NP the sub-interval A[fj])))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Now)
+	 (S (NP (NP A[fj]) and (NP A[fj]))
+	    (AUX must)
+	    both
+	    (VP be
+		(NP tangent points
+		    (PP on
+			(NP the T component
+			    (PP in
+				(NP the f-plane))))))))
+     ;
+     ;
+     (S  (ADVP otherwise)
+	 (PP by
+	     (NP Lemma 1))
+	 (S
+	  (NP the component)
+	  (AUX would)
+	  (VP extend
+	      (PP beyond
+		  (NP these points))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Further)
+      ,
+      (S (NP we)
+	 (VP see
+	     (PP by
+		 (NP Lemma 2))
+	     (SBAR that
+		   (S (NP the multiplicity
+			  (PP of
+			      (NP F)))
+		      (X (X (AUX can)
+			    (ADVP only)
+			    (VP change
+				(NP T)
+				(PP at
+				    (NP a tangent point))))
+			 ,
+			 and
+			 (X  
+			  (PP at
+			      (NP  such
+				   a point))
+			  (AUX can)
+			  (ADVP only)
+			  (VP change
+			      (PP by
+				  (NP an (ADJP even) integer))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP the multiplicity
+	     (PP of
+		 (NP A[fj]))
+	     (PP for
+		 (NP a (ADJP given) T)))
+	 (AUX must)
+	 (VP be
+	     (NP an (ADJP even) number))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP true
+	     (PP of
+		 (NP (NP all components)
+		     (SBAR 
+		      (WHNP which)
+		      (S (NP T)
+			 (VP have
+			     (NP  such
+				  a (ADJP bounded) support)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  But
+	 (S (NP this)
+	    (VP is
+		(NP a contradiction))))
+     ,
+     for
+     (S (NP we)
+	(VP know
+	    (SBAR that
+		  (S (NP the multiplicity
+			 (PP of
+			     (NP f
+				 *LCB*
+				 t
+				 *RCB*)))
+		     (VP is
+			 (ADJP odd
+			       (PP for
+				   (NP every T)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX have)
+   (VP shown
+       (SBAR that
+	     (S (NP the graph
+		    (PP of
+			(NP F)))
+		(VP contains
+		    (NP (NP (PP at
+				(ADJP least))
+			    one component)
+			(SBAR (SBAR  
+			       (WHNP whose inverse)
+			       (S (NP T)
+				  (VP is
+				      (NP (NP the entire interval)
+					  *LCB*
+					  (NP 0,T)
+					  *RCB*))))
+			      ,
+			      and
+			      (SBAR 
+			       (WHNP whose multiplicity)
+			       (S (NP T)
+				  (VP is
+				      (ADJP odd)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX must)
+   (VP be
+       (NP an odd number
+	   (PP of
+	       (NP (NP such components)
+		   ,
+		   (SBAR 
+		    (WHNP which)
+		    (S (NP T)
+		       (AUX will)
+		       (VP be
+			   (VP called
+			       (NP complete components))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The (VP remaining)
+      *LRB*
+      incomplete
+      *RRB*
+      components)
+  all
+  (X (VP have
+	 (NP an even number
+	     (PP of
+		 (NP ordinary points)))
+	 (PP at
+	     (NP any argument)))
+     ,
+     and
+     (X  
+      (AUX are)
+      (VP defined
+	     
+	  (PP  (ADVP only)
+	       on
+	       (NP a proper sub-interval
+		   (PP of
+		       (NP A[fj]))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX must)
+   (ADVP now)
+   (VP show
+       (SBAR that
+	     (S  
+	      (PP on
+		  (NP some component
+		      (PP of
+			  (NP the graph))))
+	      (S (NP there)
+		 (VP exist
+		     (NP (NP two points)
+			 (SBAR (WHPP for
+				     (WHNP which))
+			       (S
+				(NP the
+				    (ADJP corresponding) diagonal
+				    points
+				    (PP in
+					(NP the C-plane)))
+				(VP are
+				    (PP on
+					(NP opposite sides
+					    (PP of
+						(NP C))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP again)
+   (VP consider
+       (NP (NP a (ADJP fixed) point P
+	       (PP at
+		   (NP A[fj])))
+	   and
+	   (NP a variable point Q
+	       (PP at
+		   (NP A[fj]))
+	       (PP on
+		   (NP C))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP erect
+       (NP a square
+	   (PP (PP with
+		   (NP PQ
+		       (PP as
+			   (NP a side))))
+	       and
+	       (PP with
+		   (NP (NP free corners
+			   A[fj] and A[fj])
+		       (ADJP adjacent
+			     (PP to
+				 (NP (NP (NP P) and (NP Q))
+				     (ADVP respectively))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  As
+	  (S (NP S)
+	     (VP varies
+		 (PP (PP from
+			 (NP zero))
+		     (PP to
+			 (NP T))))))
+   ,
+   (S (NP (NP the values
+	      (PP of
+		  (NP S)))
+	  (SBAR (WHPP for
+		      (WHNP which))
+		(S
+		 (NP (NP A[fj]) and (NP A[fj]))
+		 (VP cross
+		     (NP C)))))
+      (AUX will)
+      (VP be
+	  (VP denoted
+	    
+	      (PP by
+		  (NP (NP (NP A[fj]) and (NP A[fj]))
+		      (ADVP respectively)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP have
+       (NP (NP A[fj])
+	   ,
+	   plus
+	   (NP tangent points))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These s-values)
+   (VP are
+       (NP  (ADVP just)
+	    the ordinary values
+	    (PP of
+		(NP A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (NP Lemma 4)
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The values
+      A[fj])
+  (VP are
+      (NP the ordinary values
+	  (PP at
+	      (NP A[fj]))
+	  (PP of
+	      (NP (NP a (ADJP multi-valued)
+		      function g
+		      *LCB*
+		      t
+		      *RCB*)
+		  (SBAR  
+		   (WHNP which)
+		   (S (NP T)
+		      (VP has
+			  (NP (NP components)
+			      (VP corresponding
+				  (PP to
+				      (NP those
+					  (PP of
+					      (NP f
+						  *LCB*
+						  t
+						  *RCB*))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP Proof)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP We)
+      (ADVP first)
+      (VP define
+	  (NP a function b
+	      *LCB*
+	      t
+	      *RCB*)
+	  (PP as
+	      (S  (NP *) 
+		  (VP follows)))))
+   :
+   (S (VP given
+	  (NP (NP the set
+		  (PP of
+		      (NP squares)))
+	      (ADJP such
+		    (SBAR that
+			  (S (NP each)
+			     (VP (VP has
+				     (NP three corners
+					 (PP on
+					     (NP C))))
+				 and
+				 (X (NP vertex)
+				    (PP at
+					(NP t)))))))))
+      ,
+      (S (NP b
+	     *LCB*
+	     t
+	     *RCB*)
+	 (VP is
+	     (NP the (VP corresponding) set
+		 (PP of
+		     (NP 
+		      positive parametric
+		      differences
+		      (PP between
+			  (NP (NP T)
+			      and
+			      (NP the backward corner points))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The functions
+      F and B)
+  (VP have
+      (NP  (ADVP exactly)
+	   the same multiplicity)
+      (PP at
+	  (NP every argument T))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (ADVP Now)
+       (PP with
+	   (S (NP P)
+	      (VP fixed
+		  (PP at
+		      (NP A[fj])))))
+       ,
+       (S (NP Af-values)
+	  (VP (VP occur
+		  (SBAR 
+		   (WHADVP when)
+		   (S (NP the corner A[fj])
+		      (VP crosses
+			  (NP C)))))
+	      ,
+	      and
+	      (VP are
+		  (PP among
+		      (NP (NP the values
+			      (PP of
+				  (NP S)))
+			  (X (ADJP such)
+			     that
+			     (NP A[fj]))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The roots
+	(PP of
+	    (NP this equation)))
+    (VP are
+	(NP  (ADVP just)
+	     the ordinates
+	     (PP of
+		 (NP the intersections
+		     (PP of
+			 (NP the graph
+			     (PP of
+				 (NP B))))
+		     (PP with
+			 (NP a straight line
+			     (PP of
+				 (NP unit slope
+				     (PP through
+					 (NP A[fj]))))
+			     (PP in
+				 (NP (NP the b-plane)
+				     *LRB*
+				     (NP the plane
+					 (PP of
+					     (NP the graph
+						 (PP of
+						     (NP b)))))
+				     *RRB*)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP We)
+    (VP (VP define
+	    (NP these values)
+	    (PP as
+		(NP A[fj])))
+	,
+	and
+	(VP define
+	    (NP g
+		*LCB*
+		t
+		*RCB*)
+	    (PP in
+		(NP the same way))
+	    (PP for
+		(NP each T)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP we)
+	 (VP obtain
+	     (NP g
+		 *LCB*
+		 t
+		 *RCB*)
+	     (PP by
+		 (S (NP *) 
+		    (VP introducing
+			(NP an oblique g
+			    *LCB*
+			    t
+			    *RCB*
+			    -
+			    axis
+			    (PP in
+				(NP the A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

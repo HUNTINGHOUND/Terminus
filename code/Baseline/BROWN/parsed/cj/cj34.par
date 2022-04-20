@@ -1,0 +1,2286 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (ADJP obvious
+	     (ADVP enough)))
+   (SBAR-1 that
+	   (S (NP linguists)
+	      (PP in
+		  (ADJP general))
+	      (AUX have)
+	      (VP been
+		  (ADJP  less
+			 successful
+			 (PP in
+			     (S (NP *) 
+				(VP coping
+				    (PP with
+					(NP tone systems)))))
+			 (PP than
+			     (PP with
+				 (NP (NP consonants) or (NP vowels)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No single explanation)
+   (VP is
+       (ADJP adequate
+	     (S (NP *)
+		(AUX to)
+		(VP account
+		    (PP for
+			(NP this)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP Improvement)
+     ,
+     (ADVP however)
+     ,
+     (VP is
+	 (ADJP urgent)))
+    ,
+    and
+    (S  
+     (NP (PP at
+	     (ADJP least))
+	 three things)
+     (AUX will)
+     (VP be
+	 (VP needed
+	     ))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       first)
+   (VP is
+       (NP a (ADJP wide-ranging) sample
+	   (PP of
+	       (NP 
+		successful tonal
+		analyses)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP  (ADVP Even)
+       (ADJP beginning)
+       students
+       (PP in
+	   (NP linguistics)))
+  (AUX are)
+  (VP made
+      (ADJP familiar
+	    (PP with
+		(NP an appreciable variety
+		    (PP of
+			(NP consonant systems)))))
+      ,
+      (PP  both
+	   (PP in
+	       (NP their general outlines))
+	   and
+	   (PP in
+	       (NP many specific details)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP An (ADJP advanced) student)
+        (AUX has)
+        (VP read
+            (NP a considerable number
+                (PP of
+                    (NP descriptions
+                        (PP of
+                            (NP (NP consonantal systems)
+				,
+				(VP including
+				    (NP some
+					(PP of
+					    (NP the
+						(ADJP more
+						      unusual) types)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP contrast))
+   ,
+   (S (NP   (ADVP even)
+	    (ADJP experienced)
+	    linguists)
+      (ADVP commonly)
+      (VP know
+	  (NP no
+	      more
+	      (PP of
+		  (NP the range
+		      (PP of
+			  (NP possibilities
+			      (PP in
+				  (NP tone systems))))))
+	      (PP than
+		  (NP the (ADJP over-simple) distinction
+		      (PP between
+			  (NP (ADJP register and contour) languages))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This (ADJP limited) familiarity
+       (PP with
+	   (NP the possible phenomena)))
+   (AUX has)
+   (VP  (ADVP severely)
+	hampered
+	(NP work
+	    (PP with
+		(NP tone)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Tone analysis)
+    (AUX will)
+    (VP continue
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (ADJP difficult and unsatisfactory)))
+	(PP until
+	    (S (NP a
+		   (ADJP  more
+			  representative) selection
+		   (PP of
+		       (NP systems)))
+	       (VP is
+		   (ADJP familar
+			 (PP to
+			     (NP every (VP practicing) field linguist))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Papers
+       (PP like
+	   (NP these four)))
+   ,
+   (SBAR if
+	 (S (NP *)  
+	    (VP (ADVP widely)
+		read)))
+   ,
+   (AUX will)
+   (VP contribute
+       (ADVP importantly)
+       (PP to
+	   (NP improvement
+	       (PP of
+		   (NP our analytic work))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The second need)
+   (VP is
+       (NP better
+	   field techniques)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The great majority
+       (PP of
+	   (NP (ADJP present-day) linguists)))
+   (VP fall
+       (PP into
+	   (NP (NP one
+		   or
+		   more
+		   (PP of
+		       (NP a number
+			   (PP of
+			       (NP   (VP overlapping)
+				     types)))))
+	       :
+	       (NP (NP (NP those)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP are
+			       (ADJP convinced
+				     (SBAR that
+					   (S (NP  tone)
+					      (AUX can)
+					      (NEG not)
+					      (VP be
+						  (VP analysed
+						      ))))))
+			   )))
+		   ,
+		   (NP (NP those)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP  are
+				(ADVP personally)
+				(ADJP scared
+				      (PP of
+					  (NP (NP tone) and (NP tone languages))))
+				)
+			   (ADVP generally))))
+		   ,
+		   (NP (NP those)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP  are
+				(ADJP convinced
+				      (SBAR that
+					    (S (NP  tone)
+					       (VP is
+						   (NP  (ADVP merely)
+							an
+							unnecessary marginal
+							feature)
+						   (PP in
+						       (NP (NP those languages)
+							   (SBAR 
+							    (WHADVP where)
+							    (S (NP it)
+							       (VP occurs)))))))))
+				))))
+		   ,
+		   (NP (NP those)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP have
+			       (NP no idea
+				   (SBAR (WHADVP how)
+					 (S (NP *)
+					    (AUX to)
+					    (VP proceed
+						(PP with
+						    (NP tone analysis))))))))))
+		   ,
+		   (NP (NP those)
+		       (SBAR 
+			(WHNP who)
+			(S (NP T)
+			   (VP take
+			       (NP a simplistic view
+				   (PP of
+				       (NP the whole matter))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The result)
+   (AUX has)
+   (VP been
+       (NP (NP neglect)
+	   ,
+	   (NP  (ADJP fumbling)
+		efforts)
+	   ,
+	   or
+	   (NP superficial treatment))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SINV   
+  (SBAR  As
+	 (S (NP these maladies)
+	    (VP overlap)))
+  ,
+  (SINV   (ADVP so)
+	  (AUX must)
+	  (NP the cure)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Analyses)
+       (ADJP such
+	     (PP as
+		 (NP these four))))
+   (AUX will)
+   (VP (ADVP simultaneously)
+       combat
+       (NP the assumptions
+	   (SBAR (SBAR that
+		       (S (NP tone)
+			  (VP is
+			      (ADJP impossible))))
+		 and
+		 (SBAR that
+		       (S (NP it)
+			  (VP is
+			      (ADJP simple))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX will)
+   (VP give
+       (NP (NP suggestions)
+	   (SBAR 
+	    (WHNP that)
+	    (S (NP T)
+	       (AUX can)
+	       (VP be
+		   (VP worked
+		       (PRT up)
+		       (PP into
+			   (NP field procedures)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Good field techniques)
+   (AUX will)
+   (VP (CONJP (NEG not)
+	      only)
+       (VP equip
+	   (NP linguists)
+	   (PP for
+	       (NP 
+		better
+		work)))
+       ,
+       (CONJP but
+	      also)
+       (VP help
+	   (NP them)
+	   (VP overcome
+	       (NP negative attitudes)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Actually)
+      ,
+      (S (NP none
+	     (PP of
+		 (NP these papers)))
+	 (VP says
+	     (ADVP much)
+	     (ADVP directly)
+	     (PP about
+		 (NP field techniques)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it
+	     (SBAR-2 *pseudo-attach*))
+	 (VP is
+	     (PP  worth
+		  (S (NP *)  
+		     (VP pondering))))
+	 (SBAR-2 that
+		 (S   (NP (ADJP very
+				little))
+		      (AUX has)
+		      (VP been
+			  (VP published
+			   
+			      (PP on
+				  (NP any phase
+				      (PP of
+					  (NP field techniques
+					      (PP in
+						  (NP linguistics))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These things)
+   (AUX have)
+   (VP been
+       (VP (VP disseminated
+		 
+	       (PP by
+		   (NP other means)))
+	   ,
+	   but
+	   (X  (ADVP always)
+	       (PP in
+		   (NP the wake
+		       (PP of
+			   (NP extensive publication
+			       (PP of
+				   (NP analytic results))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The third need)
+   (VP is
+       (PP for
+	   (NP 
+	    better
+	    theory))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP We)
+      (AUX should)
+      (VP expect
+	  (SBAR that
+		(S (NP 
+		    general phonologic
+		    theory)
+		   (AUX should)
+		   (VP be
+		       (ADJP  as
+			      adequate
+			      (PP for
+				  (NP tone))
+			      (PP as
+				  (PP for
+				      (NP (NP consonants) and (NP vowels))))))))))
+   ,
+   but
+   (S (NP it)
+      (AUX has)
+      (NEG not)
+      (VP been)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This)
+       (AUX can)
+       (ADVP only)
+       (VP be
+	   (PP for
+	       (NP one
+		   (PP of
+		       (NP two reasons))))))
+    :
+    (S  either
+	(S (NP the two)
+	   (X (VP are
+		  (ADJP  quite
+			 different))
+	      and
+	      (X  
+	       (AUX will)
+	       (VP require
+		   (NP  (ADJP (ADVP totally)
+			      different)
+			theory
+			*LRB*
+			and
+			(ADVP hence)
+			techniques
+			*RRB*)))))
+	,
+	or
+	(S (NP our (VP existing) theories)
+	   (VP are
+	       (ADJP  (ADVP insufficiently)
+		      general)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (SBAR If
+	    (S  ,
+		(PP as
+		    (S (NP I)
+		       (VP suspect)))
+		,
+		(S (NP the problem)
+		   (VP is
+		       (ADVP largely)
+		       (PP of
+			   (NP the second sort))))))
+      ,
+      (ADVP then)
+      (S  
+       (NP development
+	   (PP of
+	       (NP (NP a theory)
+		   (ADJP  (ADVP better)
+			  able
+			  (S (NP *)
+			     (AUX to)
+			     (VP handle
+				 (NP tone)))))))
+       (AUX will)
+       (VP result
+	   (ADVP automatically)
+	   (PP in
+	       (NP 
+		better
+		theory
+		(PP for
+		    (NP all phonologic subsystems)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP One issue)
+	(SBAR  
+	 (WHNP that)
+	 (S (NP T)
+	    (AUX must)
+	    (VP be
+		(VP faced
+		    )))))
+    (VP is
+	(NP the relative difficulty
+	    (PP of
+		(NP analysis
+		    (PP of
+			(NP 
+			 different phonologic
+			 subsystems)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (SBAR  Since
+	 (S (NP tone systems)
+	    (ADVP typically)
+	    (VP comprise
+		(NP 
+		 fewer
+		 units
+		 (PP than
+		     (NP either consonant or vowel systems))))))
+  ,
+  (S (NP we)
+     (AUX might)
+     (VP expect
+	 (SBAR that
+	       (S (NP they)
+		  (AUX would)
+		  (VP be
+		      (NP the
+			  easiest
+			  part
+			  (PP of
+			      (NP a phonologic analysis)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Actual practice)
+   (AUX does)
+   (NEG not)
+   (ADVP often)
+   (VP work
+       (PRT out)
+       (NP this way)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Tone systems)
+    (VP are
+	(ADJP (ADVP certainly)
+	      (ADJP more
+		    complex
+		    (PP than
+			(NP (NP the number
+				(PP of
+				    (NP units)))
+			    (SBAR 0
+				  (S  (NP T) 
+				      (AUX would)
+				      (VP suggest))))))
+	      ,
+	      and
+	      (ADVP often)
+	      (ADJP  (ADVP analytically)
+		     more
+		     difficult
+		     (PP than
+			 (NP much larger consonantal systems))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Welmers)
+   (AUX has)
+   (VP suggested
+       (NP one explanation)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Tone languages)
+   (VP use
+       (PP for
+	   (NP linguistic contrasts))
+       (NP (NP speech parameters)
+	   (SBAR 
+	    (WHNP which)
+	    (S  (NP T)  
+		(ADVP also)
+		(VP function
+		    (ADVP heavily)
+		    (PP in
+			(NP nonlinguistic use))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX may)
+   (VP   both
+	 (VP divert
+	     (NP the attention
+		 (PP of
+		     (NP the uninitiate))))
+	 and
+	 (VP cause 
+	     (NP confusion)
+	     (PP for
+		 (NP the
+		     (ADJP  more
+			    knowledgeable))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The problem)
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP disentangle
+	      (NP the linguistic features
+		  (PP of
+		      (NP pitch)))
+	      (PP from
+		  (NP the
+		      (VP co-occurring) nonlinguistic
+		      features))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP Of
+	  (NP course))
+      ,
+      (S (NP something
+	     (PP of
+		 (NP the same sort)))
+	 (VP occurs
+	     (PP with
+		 (NP other sectors
+		     (PP of
+			 (NP the phonology)))))))
+     :
+     (S (NP consonantal articulations)
+	(VP have
+	    (NP  both
+		 a
+		 linguistic
+		 and
+		 an individual component))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (PP in
+	  (ADJP general))
+      (S (NP the individual variation)
+	 (VP is
+	     (NP (NP a small thing)
+		 (VP added
+		     (PP onto
+			 (NP 
+			  basic linguistic
+			  features
+			  (PP of
+			      (NP 
+			       greater
+			       magnitude)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP tone))
+   ,
+   (S (NP individual differences)
+      (AUX may)
+      (VP be
+	  (ADJP greater
+		(PP than
+		    (NP (NP the linguistic contrasts)
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (AUX are)
+			    (VP superimposed
+	        
+				(PP on
+				    (NP them)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Pitch differences
+      (PP (PP (PP from
+		  (NP one speaker))
+	      (PP to
+		  (NP another)))
+	  ,
+	  or
+	  (PP (PP from
+		  (NP one emotional state))
+	      (PP to
+		  (NP another)))
+	  ,))
+  (AUX may)
+  (VP  (ADVP far)
+       exceed
+       (NP the small differences
+	   (PP between
+	       (NP tones)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (S  
+       (NP any such suggestion)
+       (VP accounts
+	   (PP (PP for
+		   (NP  (ADVP only)
+			some
+			(PP of
+			    (NP the difficulties
+				(PP (PP in
+					(S  (NP *)
+					    (VP hearing
+						(NP  tone))))
+				    ,
+				    or
+				    (PP in
+					(S (NP *) 
+					   (VP developing
+					       (NP a realistic attitude
+						   (PP about
+						       (NP tone)))))))))))
+	       ,
+	       but
+	       (NEG not)
+	       (PP for
+		   (NP (NP the analytic difficulties)
+		       (SBAR 
+			(WHNP that)
+			(S (NP T)
+			   (VP occur)
+			   (SBAR (WHADVP  (ADVP even)
+					  when)
+				 (S (NP tone)
+				    (AUX is)
+				    (VP  (ADVP meticulously)
+					 recorded
+					 )))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A second explanation)
+   (AUX is)
+   (VP suggested
+	     
+       (PP by
+	   (NP (NP the material)
+	       (VP described
+		   (PP in
+		       (NP 
+			(NP Rowlands)
+			' paper)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Tone) and (NP intonation))
+    (ADVP often)
+    (VP become
+	(ADJP (ADVP seriously)
+	      intermeshed)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP Neither)
+     (AUX can)
+     (VP be
+	 (VP  (ADVP adequately)
+	      systematized
+	      ))
+     (PP until
+	 (S (NP we)
+	    (VP are
+		(ADJP able
+		      (S (NP *)
+			 (AUX to)
+			 (VP (VP separate
+				 (NP the two))
+			     and
+			     (VP assign
+				 (NP the (VP observed) phenomena)
+				 (ADVP individually)
+				 (PP to
+				     (NP (NP one)
+					 or
+					 (NP the
+					     other)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Other pairs
+	  (PP of
+	      (NP phonologic subsystems)))
+      (ADVP also)
+      (VP interact or overlap
+	  (PP in
+	      (NP this way))))
+     ;
+     ;
+     (S (PP for
+	    (NP example))
+	,
+	(S (NP duration)
+	   (ADVP sometimes)
+	   (VP figures
+	       (PP in
+		   (NP both
+		       (NP the vowel system)
+		       and
+		       (NP the intonation)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Some phonetic features)
+      ,
+      (PP for
+	  (NP example))
+      (NP glottal catch or murmur)
+      ,)
+  (VP are
+      (S  (NP *) 
+	  (ADVP sometimes)
+	  (AUX to)
+	  (VP be
+	      (VP assigned
+		    
+		  (PP (PP to
+			  (NP segmental phonemics))
+		      and
+		      (ADVP sometimes)
+		      (PP to
+			  (NP accentual systems))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP no
+	     other
+	     two phonologic systems)
+	 (VP are
+	     (ADJP  as
+		    difficult
+		    (S (NP *)
+		       (AUX to)
+		       (VP disentangle))
+		    (PP as
+			(SINV  
+			 (VP are)
+			 (NP  tone and  intonation
+			      (PP-1 *pseudo-attach*))))))
+	 (PP-1 in
+	     (NP some languages))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP This explanation
+      (PP of
+	  (NP tone difficulties)))
+  ,
+  (ADVP however)
+  ,
+  (AUX does)
+  (NEG not)
+  (VP apply
+      (PP in
+	  (NP all languages))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP some)
+	   *LRB*
+	   (NP (NP the Ewe type)
+	       (VP mentioned
+		   (ADVP above)))
+	   *RRB*))
+   (S (NP interaction
+	  (PP of
+	      (NP (NP tone) and (NP intonation))))
+      (AUX is)
+      (VP restricted
+	  
+	  (PP to
+	      (NP the ends
+		  (PP of
+		      (NP intonation spans)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP many
+	   (PP of
+	       (NP the syllables))))
+   ,
+   (S (S (NP intonation)
+	 (AUX can)
+	 (VP be
+	     (VP  (ADVP safely)
+		  ignored
+		  )))
+      ,
+      and
+      (S  (NP much
+	      (PP of
+		  (NP the tonal analysis)))
+	  (AUX can)
+	  (VP be
+	      (VP done
+	      
+		  (PP without
+		      (NP any study
+			  (PP of
+			      (NP intonation)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Still)
+      ,
+      (S (PP  (ADVP even)
+	      in
+	      (NP such languages))
+	 (S (NP tone analysis)
+	    (AUX has)
+	    (NEG not)
+	    (VP been
+		(ADJP  as
+		       simple
+		       (PP as
+			   (S (NP one)
+			      (AUX might)
+			      (VP expect))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A third explanation)
+   (AUX is)
+   (VP suggested
+	     
+       (PP by
+	   (NP 
+	    (NP Richardson)
+	    's analysis
+	    (PP of
+		(NP Sukuma tone))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP There)
+      (S (NP we)
+	 (VP see
+	     (NP a
+		 (ADJP (ADVP basically)
+		       simple) 
+		 phonemic
+		 system)
+	     (VP enmeshed
+		 (PP in
+		     (NP a
+			 (ADJP very
+			       complex and puzzling)
+			 morphophonemic
+			 system))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  While
+	   (S (NP the phonemes)
+	      (AUX can)
+	      (VP be
+		  (VP (ADVP  very
+			     easily)
+		      stated
+		      ))))
+    ,
+    (S (NP no one)
+       (VP is
+	   (ADJP likely
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(ADJP  satisfied
+				   
+			       (PP with
+				   (NP the statement)))))))
+       (PP (PP until
+	       (S (NP phonemic occurrences)
+		  (AUX can)
+		  (VP be
+		      (VP related
+		        
+			  (PP in
+			      (NP some way))
+			  (PP to
+			      (NP morphemic units))))))
+	   i.e.
+	   ,
+	   (PP until
+	       (X (S (NP the morphophonemics)
+		     (AUX is)
+		     (VP worked
+			 (PRT out)))
+		  ,
+		  or
+		  (ADVP (PP at
+			    (ADJP least))
+			far
+			enough
+			(SBAR that
+			      (S (NP it
+				     (S-1 *pseudo-attach*))
+				 (VP seems
+			   
+				     (ADJP reasonable))
+				 (S-1 (NP *)
+				      (AUX to)
+				      (VP expect
+					  (NP success)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the
+	   ``
+	   typical tone language
+	   ''))
+   ,
+   (S (NP tonal morphophonemics)
+      (VP is
+	  (PP of
+	      (NP the same order
+		  (PP of
+		      (NP complexity))
+		  (PP as
+		      (NP consonantal morphophonemics)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP The phonemic systems)
+	(SBAR  
+	 (WHNP which)
+	 (S (NP T)
+	    (AUX must)
+	    (VP support
+		(NP these morphophonemic systems)))))
+    ,
+    (ADVP however)
+    ,
+    (VP are
+	(ADJP  very
+	      different)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The inventory
+	  (PP of
+	      (NP tones)))
+      (VP is
+	  (ADJP  much
+		 smaller)))
+     ,
+     and
+     (S  (ADVP commonly)
+	 (NP the contrasts)
+	 (VP range
+	     (PP along
+		 (NP (NP one single dimension)
+		     ,
+		     (NP pitch level))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Consonantal systems)
+      (VP are
+	  (NEG not)
+	  (ADVP merely)
+	  (ADJP larger)))
+     ,
+     (S (NP they)
+	(VP are
+	    (ADJP multidimensional))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Morphophonemic rules)
+   (AUX may)
+   (VP be
+       (VP thought
+	   (PP of
+	       (NP *) )
+	   (PP as
+	       (S (NP *)
+		  (VP joining
+		      (NP certain points
+			  (PP in
+			      (NP the system)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP The possibilities
+	 (PP in
+	     (NP the consonantal system)))
+     (VP are
+	 (ADJP  very
+		numerous)))
+    ,
+    and
+    (S (NP  (ADVP only)
+	    a small portion
+	    (PP of
+		(NP them)))
+       (AUX are)
+       (ADVP actually)
+       (VP used
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Phonemes)
+       (VP connected
+	   (PP by
+	       (NP a morphophonemic rule))))
+   (ADVP commonly)
+   (VP show
+       (NP (NP a good bit
+	       (PP of
+		   (NP phonetic similarity)))
+	   ,
+	   (ADJP possible
+		 (ADVP because
+		       (PP of
+			   (NP the several dimensions
+			       (PP of
+				   (NP contrast))
+			       (PP in
+				   (NP the system)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Tonal morphophonemics)
+  ,
+  (PP in
+      (NP a common case))
+  ,
+  (AUX can)
+  (VP do
+      (NP nothing                
+	  (PP but
+	      (VP   either
+		    raise
+		    or
+		    lower
+			(NP the tone))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The possibilities)
+      (VP are
+	  (NP few)))
+     ,
+     and
+     (S (NP the total number
+	    (PP of
+		(NP rules)))
+	(AUX may)
+	(VP be
+	    (ADJP  (ADVP considerably)
+		   greater))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Often)
+      ,
+      (ADVP therefore)
+      ,
+      (S (NP there)
+	 (VP are
+	     (NP (NP (NP a number
+			 (PP of
+			     (NP rules)))
+		     (VP having
+			 (NP the same effect)))
+		 ,
+		 and
+		 (ADVP commonly)
+		 (NP (NP other sets
+			 (PP of
+			     (NP rules))
+			 (ADVP as
+			       well))
+		     ,
+		     (VP having
+			 (NP the opposite effect)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Tonal morphophonemics)
+   (VP is
+       (ADJP   (ADVP much
+		     more)
+	       confusing
+	       (PP to
+		   (NP the (ADJP beginning) analyst))
+	       (PP than
+		   (NP consonantal morphophonemics))))
+   ,
+   (SBAR 
+    (WHADVP  (ADVP even)
+	     when)
+    (S (NP the total number
+	   (PP of
+	       (NP rules)))
+       (VP is
+	   (ADJP  no
+		  greater)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The difficulty
+       (PP of
+	   (NP analysis
+	       (PP of
+		   (NP any subsystem
+		       (PP in
+			   (NP the phonology)))))))
+   (VP is
+       (NP (NP an inverse function
+	       (PP of
+		   (NP the size)))
+	   --
+	   (S (NP
+	       smaller
+	       systems)
+	      (VP are
+		  (ADJP  more
+			 troublesome)))
+	   --)
+       (PP for
+	   (NP any given degree
+	       (PP of
+		   (NP morphophonemic complexity))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This hypothesis)
+   (AUX will)
+   (VP account
+       (PP for
+	   (NP (NP a large part
+		   (PP of
+		       (NP the difficulties
+			   (PP of
+			       (NP tonal analysis)))))
+	       ,
+	       (ADVP as
+		     well
+		     (PP as
+			 (NP the fact
+			     (SBAR that
+				   (S (NP vowel systems)
+				      (VP are
+					  (ADVP often)
+						   
+					  (ADJP  more
+						 puzzling
+						 (PP than
+						     (NP consonantal systems)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The statement
+       (PP of
+	   (NP the system)))
+   (VP is
+       (NP a different matter)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Smaller
+    systems)
+   (AUX can)
+   (PP of
+       (NP course))
+   (VP be
+       (VP stated
+		 
+	   (ADVP  (ADVP much
+			more) succinctly))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A phonemic system)
+      (AUX can)
+      (VP be
+	  (VP stated
+		 
+	      (PP without
+		  (NP reference
+		      (PP to
+			  (NP morphophonemics)))))))
+     ,
+     but
+     (S (NP it)
+	(AUX can)
+	(NEG not)
+	(ADVP always)
+	(VP be
+	    (VP found
+		(PP without
+		    (NP morphophonemics))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (SBAR (X (ADJP  the
+			 more
+			 complex))
+	       (S (NP the morphophonemic system)
+		  (VP is)
+		  (PP in
+		      (NP relation
+			  (PP to
+			      (NP the phonemic base))))))
+	 ,
+	 (S (S (X (ADVP   the
+			  less easily))
+	       (S (NP a phonemic system)
+		  (AUX will)
+		  (VP be
+		      (VP analysed
+		  
+			  (PP without
+			      (NP close attention
+				  (PP to
+				      (NP the morphophonemics))))))))
+	    --
+	    (PP at
+		(ADJP least))
+	    ,
+	    (SINV  (X (ADJP the
+			    less satisfying))
+		   (SINV  (AUX will)
+			  (NP a phonemic statement)
+			  (VP be)
+			  (SBAR if
+				(S (NP it)
+				   (AUX can)
+				   (NEG not)
+				   (VP be
+				       (VP related
+					   (PP through
+					       (NP morphophonemic rules))
+					   (PP to
+					       (NP  (ADJP (ADVP grammatically)
+							  meaningful) structures)))))))) )))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The design
+	(PP of
+	    (NP orthographies)))
+    (AUX has)
+    (VP received
+	(NP 
+	 (ADJP  much
+		less)
+	 attention
+	 (PP from
+	     (NP linguists))
+	 (PP than
+	     (S (NP the problem)
+		(VP deserves))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (AUX has)
+   (VP been
+       (NP a tendency
+	   (PP on
+	       (NP the part
+		   (PP of
+		       (NP many American linguists))))
+	   (S (NP *)
+	      (AUX to)
+	      (VP assume
+		  (SBAR (SBAR that
+			      (S (NP a phonemic transcription)
+				 (AUX will)
+				 (ADVP automatically)
+				 (VP be
+				     (NP the
+					 (ADJP best possible)
+					 orthography))))
+			and
+			(SBAR that
+			      (S (NP the
+				     only 
+				     real
+				     problem)
+				 (AUX will)
+				 (ADVP then)
+				 (VP be
+				     (NP the
+					 social
+					 one
+					 (PP of
+					     (S (NP *) 
+						(VP securing
+						    (NP acceptance))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP seems
+       (ADJP naive)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    Most
+    others)
+   (AUX have)
+   (VP been
+       (ADJP content
+	     (S (NP *)
+		(AUX to)
+		(VP give
+		    (NP  (ADVP only)
+			 the
+			 (ADJP most general)
+			 attention)
+		    (PP to
+			(NP the
+			    (ADJP (ADJP broadest)
+				  and
+				  (ADJP most obvious))
+			    features
+			    (PP of
+				(NP the phonology))))))))
+   (SBAR (WHADVP when)
+	 (S (NP *)  
+	    (VP designing
+		(NP orthographies)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Apparently)
+      (S (NP the feeling)
+	 (VP is
+	     (SBAR that
+		   (S (NP (NP anything)
+			  (ADJP more))
+		      (AUX would)
+		      (VP be
+			  (NP involvement
+			      (PP in
+				  (NP technical abstrusenesses
+				      (PP (PP of
+					      (NP 
+					       possible pedantic
+					       interest))
+					  but
+					  (PP of
+					      (NP no visible significance
+						  (PP in
+						      (NP practical affairs))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The result
+       (PP of
+	   (NP this attitude)))
+   (AUX has)
+   (VP been
+       (NP the domination
+	   (PP of
+	       (NP many orthography conferences))
+	   (PP by
+	       (NP such considerations
+		   (PP as
+		       (NP (NP typographic
+			       '
+			       esthetics
+			       ')
+			   ,
+			   (SBAR 
+			    (WHNP which)
+			    (S  (NP T) 
+				(ADVP usually)
+				(VP turns
+				    (PRT out)
+				    (S (NP *)
+				       (AUX to)
+				       (VP be
+					   (NP (NP nothing)
+					       (ADJP more
+						     (PP than
+							 (NP (NP certain prejudices)
+							     (VP carried
+								 (PRT over)
+								 (PP from
+								     (NP European languages)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP  Many
+       (PP of
+	   (NP the (VP suggested) systems)))
+  (VP seem
+      (S (NP *)
+	 (AUX to)
+	 (VP have
+	     (NP  (ADVP only)
+		  the
+		  (ADJP most tenuous)
+		  relationship
+		  (PP to
+		      (NP (NP the language structures)
+			  (SBAR (WHNP that)
+				(S (NP they)
+				   (VP purport
+				       (S (NP *)  
+					  (AUX to)
+					  (VP represent
+					      (NP T) ))
+				       ))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Linguists)
+    (X (X (AUX have)
+	  (NEG not)
+	  (ADVP always)
+	  (VP been
+	      (ADJP   more
+		      enlightened
+		      (PP than
+			  ``
+			  (NP practical people)
+			  ''))))
+       and
+       (X (ADVP sometimes)
+	  (AUX have)
+	  (VP insisted
+	      (PP on
+		  (NP  (ADJP (ADVP incredibly)
+			     trivial) points)))
+	  (SBAR while
+		(S  (NP *) 
+		    (VP neglecting
+			(NP things
+			    (PP of
+				(NP 
+				 (ADJP  much
+					greater)
+				 significance)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP a result))
+   ,
+   (S (NP many people)
+      (AUX have)
+      (VP been
+	  (VP confirmed
+		  
+	      (PP in
+		  (NP their conviction
+		      (SBAR that
+			    (S (NP  orthography design)
+			       (VP is
+				   (NEG not)
+				   (NP (NP an activity)
+				       (SBAR (WHPP to (WHNP which ))
+					     (S (NP experts)
+						(AUX can)
+						(VP contribute
+						    (NP anything 
+							(PP but 
+							    (NP confusion))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP A.E. Sharp)
+  ,
+  (PP in
+      (NP Vowel-Length And Syllabicity
+	  (PP In
+	      (NP Kikuyu))))
+  ,
+  (VP examines
+      (NP (NP one set
+	      (PP of
+		  (NP related orthographic
+		      questions)))
+	  and
+	  (NP its phonologic background))
+      (PP in
+	  (NP detail))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His objective)
+   (VP is
+       (ADVP merely)
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      ``
+	      (SBAR (WHNP what distinctions
+			  (PP of
+			      (NP (NP length) and (NP syllabicity))))
+		    (S (NP it
+			   (S-2 *pseudo-attach*))
+		       (AUX may)
+		       (VP be
+			   (ADJP desirable))
+		       (S-2 (NP *)
+			    (AUX to)
+			    (VP make
+				(NP T) 
+				(ADJP explicit)))
+		       (PP in
+			   (NP a Kikuyu orthography))))
+	      ''))))
+  *LRB*
+  (NP 59)
+  *RRB*
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP do
+	    (ADVP so)))
+     ,
+     (S (NP he)
+	(VP finds
+	    (NP it
+		(S-3 *pseudo-attach*))
+	    (ADJP necessary)
+	    (S-3 (NP *)
+		 (AUX to)
+		 (VP examine
+		     (NP the relevant parts
+			 (PP of
+			     (NP the phonology)))
+		     (X  (ADVP thoroughly)
+			 and
+			 (PP in
+			     (NP detail))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the process))
+   ,
+   (S (NP he)
+      (VP develops
+	  (NP some
+	      (ADJP very
+		    significant) observations
+	      (PP about
+		  (NP (NP problems
+			  (PP of
+			      (NP a sort)))
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (VP are
+			      (ADVP often)
+			      (ADJP difficult))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A few
+	  (PP of
+	      (NP his examples)))
+      (VP are
+	  (PP of
+	      (NP  (ADJP very
+			 great) interest))))
+     ,
+     and
+     (X (NP the whole discussion)
+	(PP of
+	    (NP some importance
+		(PP for
+		    (NP theory))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His orthographic recommendations)
+   (VP are
+       (NP  no
+	    simplistic acceptance
+	    (PP (PP (PP of
+			(NP phonemics))
+		    (PP on
+			(NP the one hand)))
+		or
+		(PP (PP of
+			(NP superficiality))
+		    (PP on
+			(NP the
+			    other)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Rather)
+      (S (NP he)
+	 (VP weighs
+	     (NP each phonologic fact)
+	     (PP in
+		 (NP the light
+		     (PP of
+			 (NP its orthographic usefulness)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP concludes
+	   (SBAR that
+		 (S (NP (NP some changes)
+			(SBAR-1 *pseudo-attach*))
+		    (AUX can)
+		    (VP be
+			(VP made))
+		    (PP in
+			(NP the current orthography))
+		    (SBAR-1 
+		     (WHNP which)
+		     (S (NP T)
+			(AUX will)
+			(VP  (ADVP appreciably)
+			     improve
+			     (NP its usefulness)))))))
+       ,
+       but
+       (VP hesitates
+	   (S (NP *)
+	      (AUX to)
+	      (VP suggest
+		  (NP (NP 
+		       precise graphic
+		       devices)
+		      (S (NP *)
+			 (AUX to)
+			 (VP effect
+			     (NP these changes)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP hope
+       (SBAR 0
+	     (S (NP his suggestions)
+		(AUX are)
+		(VP given
+			  
+		    (NP (NP the consideration)
+			(SBAR 0
+			      (S
+			       (NP they)
+			       (VP deserve
+				   (NP T) )))))
+		(PP in
+		    (NP Kikuyu circles))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP This)
+  ,
+  (ADVP however)
+  ,
+  (AUX will)
+  (NEG not)
+  (VP exhaust
+      (NP their practical usefulness))
+  ,
+  (SBAR  as
+	 (S  (NP they)
+	     (VP (ADVP rather
+		       clearly)
+		 indicate
+		 (SBAR  (WHNP what)
+			(S
+			 (NP thorough phonologic
+			     investigation)
+			 (AUX can)
+			 (VP contribute
+			     (NP T)
+			     (PP to
+				 (NP orthography design)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP need
+       (NP 
+	(ADJP  many
+	       more)
+	studies
+	(PP of
+	    (NP this sort))))
+   (SBAR if
+	 (S (NP the design
+		(PP of
+		    (NP (ADJP written) languages)))
+	    (VP is
+		(S (NP *)
+		   (AUX to)
+		   (VP be
+		       (VP put
+			   (PP on
+			       (NP a sound basis)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One other paper)
+   (VP deals
+       (PP with
+	   (NP a phonologic problem)))
+   :
+   (NP (NP Vowel Harmony
+	   (PP In
+	       (NP Igbo)))
+       ,
+       (PP by
+	   (NP J. Carnochan))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP restates
+       (NP the
+	   (ADJP   (ADVP already)
+		   (ADVP widely)
+		   known)
+	   facts)
+       (PP in
+	   (NP terms
+	       (PP of
+		   (NP prosodies))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP As
+	 (NP a restatement))
+     (S
+      (NP it)
+      (VP makes
+	  (NP  (ADVP only)
+	       a small contribution
+	       (PP to
+		   (NP knowledge
+		       (PP of
+			   (NP Igbo))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it)
+	 (AUX would)
+	 (VP seem
+	     (VP (ADVP more)
+		 intended
+		 (PP as
+		     (NP (NP a tract)
+			 (VP advocating
+			     (NP the prosodic theory))))
+		 (PP than
+		     (NP (NP a paper)
+			 (VP directed
+			     (PP to
+				 (NP the specific problems
+				     (PP of
+					 (NP Igbo phonology)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The paper)
+    (VP has
+	(NP a certain value)
+	(PP as
+	    (NP a
+		(ADJP  (ADVP comparatively)
+		       easy) introduction
+		(PP to
+		    (NP this approach)))))
+    ,
+    (SBAR  (ADVP particularly)
+	   since
+	   (S (NP it)
+	      (VP treats
+		  (NP (NP a
+			  (ADJP  (ADVP fairly)
+				 simple and straightforward) phenomenon)
+		      (SBAR 
+		       (WHADVP where)
+		       (S (NP it
+			      (S-4 *pseudo-attach*))
+			  (VP is
+			      (ADJP possible))
+			  (S-4 (NP *)
+			       (AUX to)
+			       (VP compare
+				   (NP it)
+				   (PP with
+				       (NP a
+					   (ADJP (ADJP  more
+							traditional)
+						 *LRB*
+						 (X though
+						    (NEG not)
+						    (ADJP structural))
+						 *RRB*)
+					   statement)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX does)
+   (VP show
+       (NP (NP one feature
+	       (PP of
+		   (NP the system)))
+	   (SBAR 
+	    (WHNP that)
+	    (S (NP T)
+	       (AUX has)
+	       (NEG not)
+	       (VP been
+		   (ADVP previously)
+		   (VP described
+		       ))  )))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP it)
+	 (AUX does)
+	 (NEG not)
+	 ,
+	 (PP as
+	     (S (NP it)
+		(VP claims)))
+	 ,
+	 (VP demonstrate
+	     (SBAR that
+		   (S (NP this)
+		      (AUX could)
+		      (NEG not)
+		      (VP be
+			  (VP treated
+				  
+			      (PP by
+				  (NP traditional methods)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP seems
+       (PP to
+	   (NP me))
+       (SBAR that
+	     (S (NP it)
+		(ADVP rather
+		      easily)
+		(AUX can)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Five
+       (PP of
+	   (NP the papers)))
+   (VP deal
+       (PP with
+	   (NP grammatical problems))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (PP On
+	    (NP the whole))
+	(S
+	 (NP they)
+	 (VP maintain
+	     (NP  much
+		  the
+		  same high
+		  standard))))
+     ,
+     but
+     (S (NP they)
+	(VP are
+	    (ADJP   (ADVP much
+			  more)
+		    difficult
+		    (S (NP *)
+		       (AUX to)
+		       (VP discuss
+			   (PP in
+			       (NP detail))))))
+	(ADVP because
+	      (PP of
+		  (NP their
+		      wider
+		      variety
+		      (PP of
+			  (NP subject matter)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP My comments)
+    (AUX must)
+    (VP be
+	(ADJP briefer
+	      (PP than
+		  (S (NP the papers)
+		     (VP deserve))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP W.H. Whiteley)
+   (VP writes
+       (PP on
+	   (NP The Verbal Radical
+	       (PP In
+		   (NP Iraqw))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX must)
+   (VP be
+       (VP considered
+	   (ADVP primarily)
+	   (NP an amendment and supplement
+	       (PP to
+		   (NP his
+		       (ADJP early)
+		       (NP A Short Description
+			   (PP Of
+			       (NP Item-Categories
+				   (PP In
+				       (NP Iraqw)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP (VP exhibits
+	   (NP  much
+		the
+		same descriptive
+		technique))
+       and
+       (VP is
+	   (ADJP open
+		 (PP to
+		     (NP  much
+			  the same criticisms))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The treatment)
+   (VP seems
+       (ADJP   (ADVP unnecessarily)
+	       loose-jointed and complex))
+   ,
+   (SBAR (ADVP largely)
+	 because
+	 (S (S (NP the method)
+	       (VP is
+		   (ADJP lax)))
+	    and
+	    (S (NP the analysis)
+	       (VP seems
+		   (S  (NP *) 
+		       (ADVP never)
+		       (AUX to)
+		       (VP be
+			   (VP pushed
+	 
+			       (PP to
+				   (NP a
+				       satisfactory
+				       or
+				       even
+				       a consistent stopping-point))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

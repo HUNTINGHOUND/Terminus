@@ -1,0 +1,2269 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This 
+	(ADJP broad) 
+	delegation)
+    (VP leaves
+	(PP within
+	    (NP our discretion))
+	(ADJP *LRB*
+	      subject
+	      (PP to
+		  (NP the 
+		      (ADJP always-present) 
+		      criterion
+		      (PP of
+			  (NP the 
+			      (ADJP public) 
+			      interest))))
+	      *RRB*)
+	(NP both
+	    (NP (NP the determination)
+		(SBAR (WHPP of
+			    (WHNP what degree
+				  (PP of
+				      (NP interference))))
+		      (S (NP T)
+			 (AUX shall)
+			 (VP be
+			     (VP considered
+				 (ADJP excessive))))))
+	    ,
+	    and
+	    (NP (NP the methods)
+		(SBAR (WHPP by
+			    (WHNP which))
+		      (S
+		       (NP 
+			(ADJP such)
+			(ADJP excessive)
+			interference)
+		       (AUX shall)
+		       (VP be
+			   (VP avoided
+			       ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP 3)
+    .
+    (S (S (NP The 
+	      (ADJP present) 
+	      proceeding)
+	  (AUX is)
+	  (VP concerned
+	      (PP with
+		  (NP (NP the 
+			  (ADJP standard)
+			  broadcast)
+		      (NP *LRB*
+			  AM
+			  *RRB*
+			  band
+			  ,
+			  (PP (PP from
+				  (NP 540 kc.))
+			      (PP to
+				  (NP 1600 kc.))))))))
+       .
+       (S (SBAR (WHADVP Whenever)
+		(S (NP two
+		       or
+		       (ADJP more)
+		       (ADJP standard) 
+		       broadcast stations)
+		   (VP operate
+		       (ADVP simultaneously)
+		       (PP on
+			   (NP the 
+			       (ADJP same) 
+			       or
+			       (ADJP (ADVP closely)
+				     adjacent)
+			       frequencies)))))
+	  ,
+	  (S (NP each)
+	     (VP interferes
+		 (PP to
+		     (NP some extent))
+		 (PP with
+		     (NP reception
+			 (PP of
+			     (NP the
+				 (ADJP other))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The extent
+	    (PP of
+		(NP (ADJP such) 
+		    interference)))
+	--
+	(SBAR 
+	 (WHNP which)
+	 (S (NP T)
+	    (X (X (AUX may)
+		  (VP be
+		      (ADJP so
+			    slight
+			    (PP as
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (ADJP undetectable
+					     (PP at
+						 (NP (NP any point)
+						     (SBAR 
+						      (WHADVP where)
+						      (S (NP either
+							     (PP of
+								 (NP the stations)))
+							 (VP renders
+							     (NP a
+								 (ADJP usable)
+								 signal)))))))))))))
+	       ,
+	       or
+	       (X (AUX may)
+		  (VP be
+		      (ADJP so
+			    great
+			    (PP as
+				(S  (NP *) 
+				    (AUX to)
+				    (VP (ADVP virtually)
+					destroy
+					(NP the service areas
+					    (PP of
+						(NP both
+						    stations))))))))))))
+	--)
+    (VP depends
+	(PP on
+	    (NP (NP many factors)
+		,
+		(PP among
+		    (NP  the
+			 (ADJP principal)
+			 ones))
+		(VP being
+		    (NP (NP the distance
+			    (PP between
+				(NP the stations)))
+			,
+			(NP their
+			    (ADJP respective) 
+			    (ADJP radiated)
+			    power)
+			,
+			and
+			,
+			(PP of
+			    (NP (ADJP particular) 
+				significance
+				(ADVP here)))
+			,
+			(NP the time
+			    (PP of
+				(NP day)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP (ADJP Other) 
+	     factors)
+	 (VP playing
+	     (NP a part
+		 (PP in
+		     (NP the extent
+			 (PP of
+			     (NP AM
+				 service and interference)))))))
+     (VP are
+	 (NP (NP (NP the frequency)
+		 (VP involved))
+	     ,
+	     (NP the time
+		 (PP of
+		     (NP year)))
+	     ,
+	     (NP the position
+		 (PP of
+		     (NP the year))
+		 (PP in
+		     (NP the sunspot cycle)))
+	     ,
+	     (NP ground conductivity
+		 (PP along
+		     (NP the transmission path)))
+	     ,
+	     (NP (ADJP (ADJP atmospheric)
+		       and
+		       (ADJP manmade))
+		 noise)
+	     ,
+	     and
+	     (NP others))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP the existence
+	    (PP of
+		(NP (NP these many factors)
+		    ,
+		    (NP (NP some
+			    (PP of
+				(NP them)))
+			(ADJP variable))))))
+    ,
+    (S (NP it)
+       (ADVP obviously)
+       (X (X (AUX has)
+	     (ADVP never)
+	     (VP been
+		 (ADJP-2 *pseudo-attach*)))
+	  and
+	  (X (VP is)
+	     (NEG not)
+	     (ADVP  now)
+	     (ADJP-2 possible
+		     (PP for
+			 (S (NP the Commission)
+			    (AUX to)
+			    (VP make
+				(NP assignments
+				    (PP of
+					(NP AM
+					    stations))
+				    (PP on
+					(NP (NP a 
+						(ADJP case-to-case) 
+						basis)
+					    (SBAR
+					     (WHNP which)
+					     (S (NP T)
+						(AUX will)
+						(VP insure
+						    (PP against
+							(NP any
+							    interference
+							    (PP-3 *pseudo-attach*)))
+						    (PP-3 in
+							(NP any circumstances))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Rather)
+     ,
+     (S (NP (ADJP such)
+	    assignments)
+	(AUX are)
+	(VP made
+	    ,
+	    (PP as
+		(S (NP they)
+		   (AUX must)
+		   (VP be)))
+	    ,
+	    (PP on
+		(NP the basis
+		    (PP of
+			(NP (NP 
+			     (ADJP certain)
+			     (ADJP overall)
+			     rules and standards)
+			    ,
+			    (VP representing
+				(PP to
+				    (NP some extent))
+				(NP a 
+				    (ADJP statistical) 
+				    approach
+				    (PP to
+					(NP the problem)))))))))
+	,
+	(S (NP *)
+	   (VP (VP taking
+		   (PP into
+		       (NP account))
+		   (PP for
+		       (NP each situation))
+		   (NP some
+		       (PP of
+			   (NP (NP the variables)
+			       (NP *LRB*
+				   (NP e.g.)
+				   ,
+				   (NP power) 
+				   and 
+				   (NP station separations)
+				   *RRB*)))))
+	       and
+	       (VP averaging
+		   (PRT out)
+		   (NP others)
+		   (PP in
+		       (NP order
+			   (S (NP *)
+			      (AUX to)
+			      (VP achieve
+				  (NP (NP the balance)
+				      (SBAR
+				       (WHNP which)
+				       (S (NP T)
+					  (AUX must)
+					  (VP be
+					      (VP struck
+						  (PP between
+						      (NP (NP protection
+							      (PP against
+								  (NP (ADJP destructive) 
+								      interference)))
+							  and
+							  (NP the assignment
+							      (PP of
+								  (NP (NP a number
+									  (PP of
+									      (NP stations)))
+								      (ADJP large
+									    enough
+									    (S (NP *)
+									       (AUX to)
+									       (VP afford
+										   (NP (ADJP optimum) 
+										       radio service)
+										   (PP to
+										       (NP the Nation))))))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An example
+       (PP of
+	   (NP (NP the
+		   (ADJP overall) 
+		   standards)
+	       (VP applied))))
+   (VP is
+       (NP (NP the 20-to-1 ratio)
+	   (VP established
+	       (PP for
+		   (NP the determination
+		       (PP of
+			   (NP (NP that degree
+				   (PP of
+				       (NP cochannel interference)))
+			       (SBAR
+				(WHNP which)
+				(S (NP T)
+				   (AUX is)
+				   (VP regarded
+				       (PP as
+					   (ADJP objectionable)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(NP this standard))
+    ,
+    (S (NP it
+	   (SBAR-1 *pseudo-attach*))
+       (AUX is)
+       (VP determined)
+       (SBAR-1 that
+	     (S (SBAR 
+		 (WHADVP where)
+		 (S (NP (NP two stations)
+			(VP operating
+			    (PP on
+				(NP the
+				    (ADJP same) 
+				    frequency))))
+		    (AUX are)
+		    (VP involved)))
+		,
+		(S (NP (ADJP objectionable) 
+		       interference
+		       (PP from
+			   (NP station
+			       A)))
+		   (VP exists
+		       (PP at
+			   (NP (NP any point
+				   (PP within
+				       (NP the service area
+					   (PP of
+					       (NP station
+						   B)))))
+			       (SBAR 
+				(WHADVP where)
+				(S (NP (NP station
+					   A)
+				       's
+				       signal)
+				   (VP is
+				       (PP of
+					   (NP (NP an intensity) 
+					       (NP one-twentieth
+						   or
+						   (ADJP more)
+						   (PP of
+						       (NP the strength
+							   (PP of
+							       (NP 
+								(NP station B)
+								's signal
+								(PP at
+								    (NP that point))))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP 4)
+     .
+     (S
+      (NP The 20-to-1 ratio
+	  (PP for
+	      (NP cochannel interference)))
+      (VP embodies
+	  (NP one
+	      (PP of
+		  (NP (NP (NP the
+			      (ADJP fundamental)
+			      (ADJP limiting)
+			      principles)
+			  (SBAR which
+				(S
+				 (NP we)
+				 (AUX must)
+				 (ADVP always)
+				 (VP take
+				     (NP T)
+				     (PP into
+					 (NP account))
+				     (PP in
+					 (NP AM
+					     assignments and allocations)))))
+			  --)
+		      (SBAR that
+			    (S (NP signals
+				   (PP from
+				       (NP a 
+					   (ADJP particular) 
+					   station)))
+			       (VP are
+				   (NP (ADJP potential) 
+				       sources
+				       (PP of
+					   (NP (ADJP objectionable) 
+					       interference))
+				       (PP over
+					   (NP (NP an area)
+					       (ADJP much
+						     greater
+						     (PP than
+							 (NP (NP that)
+							     (SBAR (WHPP within
+									 (WHNP which))
+								   (S (NP they)
+								      (VP provide
+									  (NP (ADJP useful) 
+									      service)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A
+       (ADJP second)
+       (ADJP fundamental)
+       principle)
+   (VP is
+       (NP (NP (NP that)
+	       (ADJP involved
+		     (ADVP particularly)
+		     (PP in
+			 (NP the 
+			     (ADJP present) 
+			     proceeding))))
+	   --
+	   (NP the difference
+	       (PP between
+		   (NP nighttime and daytime propagation conditions))
+	       (PP with
+		   (NP respect
+		       (PP to
+			   (NP the
+			       (ADJP standard) 
+			       broadcast frequencies))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(S (NP This)
+   (VP is
+       (NP (NP (NP a phenomenon)
+	       (ADJP familiar
+		     (PP to
+			 (NP all radio listeners))))
+	   ,
+	   (VP resulting
+	       (PP from
+		   (NP reflection
+		       (PP of
+			   (NP skywave signals))
+		       (PP at
+			   (NP night))
+		       (PP from
+			   (NP  (NP the 
+				    (ADJP ionized) 
+				    layer
+				    (PP in
+					(NP the 
+					    (ADJP upper) 
+					    atmosphere)))
+				(VP known
+				    (PP as
+					(NP the ionosphere))))))))))
+.)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP All
+	    AM
+	    stations)
+	(VP radiate
+	    (NP both skywave and groundwave signals)
+	    ,
+	    (PP at
+	       (NP all hours))))
+     ;
+     ;
+     but
+     (S (S (PP during
+	       (NP the 
+		   (ADJP middle) 
+		   daytime hours))
+	   (S (NP these skywave radiations)
+	      (AUX are)
+	      (NEG not)
+	      (VP reflected
+		  (PP in
+		      (NP any 
+			  (ADJP substantial)
+			  quantity)))))
+	,
+	and
+	(S (PP during
+	       (NP this portion
+		   (PP of
+		       (NP the day))))
+	   (S
+	    (NP both 
+		(NP skywave service) 
+		and 
+		(NP skywave interference))
+	    (VP are
+		,
+		(PP in
+		    (NP (ADJP general)))
+		,
+		(ADJP negligible))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (PP during
+	    (NP nighttime hours))
+	(S (NP the skywave radiations)
+	   (AUX are)
+	   (VP reflected
+	       (PP from
+		   (NP the ionosphere)))
+	   ,
+	   (S (NP *)
+	      thereby
+	      (VP (VP creating
+		      (NP the possibility
+			  (PP of
+			      (NP 
+			       (NP one station)
+			       's
+			       (S (NP *)
+				  (VP rendering
+				      (NP service)
+				      ,
+				      (PP via
+					  (NP skywave))
+				      ,
+				      (PP at
+					  (NP a
+					      (ADJP much greater) 
+					      distance
+					      (PP than
+						  (S (NP it)
+						     (AUX can)
+						     (PP through
+							 (NP its groundwave signal))))))))))))
+		  ,
+		  and
+		  (PP at
+		      (NP the same time))
+		  (VP (ADVP vastly)
+		      complicating
+		      (NP the interference problem))
+		  (ADVP because
+			(PP of
+			    (NP (NP the
+				    (ADJP still
+					  greater)
+				    distance)
+				(SBAR (WHPP over
+					    (WHNP which))
+				      (S (NP these skywave signals)
+					 (AUX may)
+					 (VP cause
+					     (NP interference
+						 (PP to
+						     (NP the signals
+							 (PP of
+							     (NP stations
+								 (PP on
+								     (NP the 
+									 (ADJP same)
+									 and
+									 (ADJP (ADVP closely)
+									       adjacent)
+									 frequencies))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP Because
+	  (PP of
+	      (NP the difference
+		  (PP between
+		      (NP daytime and nighttime propagation conditions)))))
+    ,
+    (S (NP it
+	   (S-2 *pseudo-attach*))
+       (AUX has)
+       (VP been
+	   (ADJP necessary))
+       (S-2 (NP *)
+	  (AUX to)
+	  (VP evolve
+	      (NP (ADJP different)
+		  allocation structures)
+	      (PP for
+		  (NP daytime and nighttime broadcasting
+		      (PP in
+			  (NP the
+			      AM
+			      band))))
+	      ,
+	      (PP with
+		  (NP (NP many more stations)
+		      (VP operating
+			  (PP during
+			      (NP the day))
+			  (ADVP than
+			      (PP at
+				  (NP night))))))))))
+ .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP 5)
+      .
+      (S (NP It
+	     (SBAR-3 *pseudo-attach*))
+	 (AUX was)
+	 (VP recognized
+	     (ADVP (NP years)
+		   ago))
+	 (SBAR-3 that
+	       (S (NP (NP the transition
+			  (PP from
+			      (NP daytime))
+			  (PP to
+			      (NP nighttime propagation conditions)))
+		      ,
+		      and
+		      (NP vice
+			 versa)
+		      ,)
+		  (VP (VP is
+			  (NEG not)
+			  (NP an 
+			      (ADJP instantaneous)
+			      process))
+		      ,
+		      but
+		      (VP takes
+			  (NP place)
+			  (PP over
+			      (NP periods
+				  (PP of
+				      (NP time))
+				  (PP (PP (PP from
+					      (NP roughly
+						  2 hours
+						  (PP before
+						      (NP sunset))))
+					  (PP until
+					      (NP about
+						  2 hours
+						  (PP after
+						      (NP sunset)))))
+				      ,
+				      and
+				      (ADVP again)
+				      (PP (PP from
+					      (NP roughly
+						  2 hours
+						  (PP before
+						      (NP sunrise))))
+					  (PP until
+					      (NP some 2 hours
+						  (PP after
+						      (NP sunrise))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP During
+	   (NP the period
+	       (PP of
+		   (NP about
+		       4 hours
+		       (PP around
+			   (NP sunset))))))
+       ,
+       (S (NP skywave transmission conditions)
+	  (AUX are)
+	  (VP building
+	      (PRT up)
+	      (PP until
+		  (S (NP 
+		      (ADJP full)
+		      nighttime
+		      conditions)
+		     (VP prevail))))))
+    ;
+    ;
+    (S (PP during
+	   (NP the 
+	       (ADJP same) 
+	       period
+	       (PP around
+		   (NP sunrise))))
+       ,
+       (S (NP skywave transmission)
+	  (AUX is)
+	  (VP declining)
+	  ,
+	  (SBAR until
+	      (S (PP at
+		     (NP about
+			 2 hours
+			 (PP after
+			     (NP sunrise))))
+		 (S (NP it)
+		    (VP reaches
+			(NP (NP a point)
+			    (SBAR 
+			     (WHADVP where)
+			     (S (NP it)
+				(VP becomes
+				    (PP of
+					(NP little 
+					    (ADJP practical) 
+					    significance)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP However)
+     ,
+     (S (PP (PP in
+		(NP this case))
+	    (PP as
+		(ADVP elsewhere)))
+	(S (NP it
+	       (S-4 *pseudo-attach*))
+	   (VP was
+	       (ADJP necessary))
+	   (S-4 (S (NP *)
+		 (AUX to)
+		 (VP arrive
+		     (PP at
+			 (NP (NP (NP a 
+				     (ADJP single) 
+				     standard)
+				 (S (NP *)
+				    (AUX to)
+				    (VP be
+					(VP applied
+					    (PP to
+						(NP all situations))))))
+			     ,
+			     (VP representing
+				 (NP an averaging
+				     (PP of
+					 (NP conditions))))))))
+	      ,
+	      and
+	      (S (ADVP thus)
+		 (S (NP *)
+		    (AUX to)
+		    (VP fix
+			(NP (NP (ADJP particular)
+				points
+				(PP in
+				    (NP time)))
+			    (SBAR
+			     (WHNP which)
+			     (S (NP T)
+				(AUX would)
+				(VP be
+				    (VP considered
+					(NP the dividing points
+					    (PP between
+						(NP daytime and nighttime conditions)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-5 *pseudo-attach*))
+   (AUX was)
+   (VP determined)
+   (SBAR-5 that
+	 (S (NP the hours
+		(PP of
+		    (NP (NP (NP sunrise) 
+			    and 
+			    (NP sunset))
+			,
+			(ADVP respectively))))
+	    ,
+	    (AUX should)
+	    (VP be
+		(VP used
+		    (PP for
+			(NP this purpose)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Accordingly)
+     ,
+     (S (NP the 1938-39 rules)
+	(VP adopted
+	    (NP these hours)
+	    (PP as
+		(NP limitations
+		    (PP upon
+			(NP the operation
+			    (PP of
+				(NP daytime stations)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Class 2)
+    ,
+    (S (NP (NP stations)
+	   (VP operating
+	       (PP on
+		   (NP (ADJP clear) 
+		       channels))))
+       (AUX are)
+       (VP required
+	   (S (NP *)
+	      (AUX to)
+	      (VP (VP cease
+		      (NP operation))
+		  or
+		  (VP operate
+		      (PP under
+			  (NP nighttime restrictions))))))
+       (S (NP *)
+	  (VP beginning
+	      (X either
+		 (PP at
+		     (NP (ADJP local) 
+			 sunset
+			 (PP *LRB*
+			     for
+			     (NP daytime class
+				 2
+				 ,
+				 stations)
+			     *RRB*)))
+		 or
+		 (NP sunset
+		     (PP at
+			 (NP the location
+			     (PP of
+				 (NP (NP the 
+					 (ADJP dominant) 
+					 class
+					 1
+					 ,
+					 station)
+				     (SBAR (WHADVP where)
+					   (S (NP *)
+					      (VP located
+						  (ADVP west
+							(PP of
+							    (NP the
+								class 2
+								,
+								station))))
+					      (PP *LRB*
+						  for
+						  (NP limited-time class
+						      2
+						      ,
+						      stations)
+						  *RRB*)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The 
+       (ADJP same)
+       restrictions)
+   (VP apply
+       (PP after
+	   (NP (ADJP local) 
+	       sunset)))
+   (PP in
+       (NP the case
+	   (PP of
+	       (NP (NP (NP class 3
+			   ,
+			   stations)
+		       (VP operating
+			   (PP on
+			       (NP (ADJP regional) 
+				   channels))))
+		   ,
+		   (SBAR 
+		    (WHNP which
+			  (S (PP after
+				 (NP that time))
+			     (S (NP T)
+				(AUX are)
+				(VP required
+				    (S (NP *)
+				       (AUX to)
+				       (VP operate
+					   (PP under
+					       (NP nighttime restrictions)))))
+				(PP in
+				    (NP order
+					(S (NP *)
+					   (AUX to)
+					   (VP protect
+					       (NP each
+						   (ADJP other)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP respect
+	    (PP to
+		(NP nighttime assignments))))
+    ,
+    (S (NP the degree
+	   (PP of
+	       (NP skywave service and interference)))
+       (AUX is)
+       (VP determined
+	   (PP by
+	       (NP (NP (NP skywave curves)
+		       (NP *LRB*
+			   figs. 1
+			   and
+			   2
+			   (PP of
+			       (NP sec. 3.190
+				   (PP of
+				       (NP the rules))))
+			   *RRB*))
+		   (VP giving
+		       (NP (ADJP average) 
+			   skywave values)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP These curves)
+        (AUX were)
+        (VP derived
+	    (PP by
+		(NP an analysis
+		    (PP of
+			(NP (ADJP extensive) 
+			    skywave measurement data))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-6 *pseudo-attach*))
+   (AUX was)
+   (VP recognized)
+   (SBAR-6 that
+	 (S (NP skywave signals)
+	    ,
+	    (ADVP because
+		  (PP of
+		      (NP their 
+			  (ADJP reflected)
+			  nature)))
+	    ,
+	    (VP are
+		(X (PP of
+		       (NP (ADJP great) 
+			   variability))
+		   and
+		   (ADJP subject
+			 (PP to
+			     (NP (ADJP wide) 
+				 fluctuations
+				 (PP in
+				     (NP strength))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP For
+	   (NP this reason))
+       ,
+       (S (NP the
+	      (ADJP more
+		    uncertain)
+	      skywave service)
+	  (AUX was)
+	  (VP denominated
+	      (ADJP ``
+		    secondary
+		    ''
+		    (PP in
+			(NP our rules))
+		    ,
+		    (PP as
+			(S (NP *)
+			   (VP compared
+			       (PP to
+				   (NP the
+				       (ADJP steadier)
+				       ,
+				       (ADJP more
+					     reliable)
+				       groundwave
+				       ``
+				       (ADJP primary) 
+				       service
+				       '')))))))))
+    ,
+    and
+    ,
+    (S (PP for
+	   (NP both 
+	       (NP skywave service) 
+	       and 
+	       (NP skywave interference)))
+       ,
+       (S (NP signal strength)
+	  (AUX is)
+	  (VP expressed
+	      (PP in
+		  (NP terms
+		      (PP of
+			  (NP (NP (NP percentage
+				      (PP of
+					  (NP (NP time)
+					      (SBAR-4 0
+						      (S
+						       (NP a 
+							   (ADJP particular) 
+							   signal-intensity level)
+						       (AUX is)
+						       (VP exceeded))))))
+				  (SBAR-4 *pseudo-attach*))
+			      --
+			      (NP (NP 50 percent
+				      (PP of
+					  (NP the time))
+				      (PP for
+					  (NP skywave service)))
+				  ,
+				  (NP 10 percent
+				      (PP of
+					  (NP the time))
+				      (PP for
+					  (NP skywave
+					      interference))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Allocation policies)
+	(NP 6))
+    .
+    (S (PP As
+	   (S (NP *)
+	      (VP mentioned)))
+       ,
+       (S (NP the allocation
+	      (PP of
+		  (NP AM
+		      stations)))
+	  (VP represents
+	      (NP a balance
+		  (PP between
+		      (NP (NP protection
+			      (PP against
+				  (NP interference)))
+			  and
+			  (NP the provision
+			      (PP of
+				  (NP opportunity
+				      (PP for
+					  (NP an 
+					      (ADJP adequate)
+					      number
+					      (PP of
+						  (NP stations))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The rules and policies
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP applied
+		   (PP in
+		       (NP this process
+			   (PP of
+			       (NP course))))))))
+    (AUX must)
+    (VP be
+	(VP based
+	    (PP on
+		(NP (NP objectives)
+		    (SBAR
+		     (WHNP which)
+		     (S (NP T)
+			(VP represent
+			    (SBAR
+			     (WHNP what)
+			     (S (NP T)
+				(VP is
+				    (S (NP *)
+				       (AUX to)
+				       (VP be
+					   (VP desired))))
+				(SBAR if
+				      (S (NP radio service)
+					 (VP is
+					     (S (NP *)
+						(AUX to)
+						(VP be
+						    (PP of
+							(NP maximum use
+							    (PP to
+								(NP the Nation)))))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Our objectives)
+    ,
+    (PP as
+	(S (NP we)
+	   (AUX have)
+	   (VP stated
+	       (NP many times))))
+    ,
+    (VP are
+	--
+	(S (S (NP *LRB*
+		  1
+		  *RRB*)
+	      (S (NP *)
+		 (AUX To)
+		 (VP provide
+		     (NP some service)
+		     (PP to
+			 (NP all listeners)))))
+	      ;
+	      ;
+	      (S (NP *LRB*
+		     2
+		     *RRB*)
+		 (S  (NP *) 
+		     (AUX To)
+		     (VP provide
+			 (NP as
+			     many choices
+			     (PP of
+				 (NP service)))
+			 (PP to
+			     (NP  as
+				  many listeners
+				  (PP as
+				      (ADJP possible)))))))
+	      ;
+	      ;
+	      (S  (NP *LRB*
+		      3
+		      *RRB*)
+		  (S  (NP *) 
+		      (AUX To)
+		      (VP provide
+			  (NP service
+			      (PP of
+				  (NP (ADJP local) 
+				      origin)))
+			  (PP to
+			      (NP as
+				  many listeners
+				  (PP as
+				      (ADJP possible))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR Since
+	 (S (NP broadcast frequencies)
+	    (AUX are)
+	    (ADJP very
+		  limited
+		  (PP in
+		      (NP number)))))
+   ,
+   (S (S (NP these objectives)
+	 (VP are
+	     (PP to
+		 (NP some extent))
+	     (ADJP inconsistent
+		   (PP in
+		       (SBAR that
+			     (S (NEG not)
+				(NP all
+				    (PP of
+					(NP them)))
+				(AUX can)
+				(VP be
+				    (VP  (ADVP fully)
+					 realized
+					 ))))))))
+      ,
+      and
+      (S (PP to
+	     (NP (NP the extent)
+		 (SBAR that
+		       (S (NP each)
+			  (AUX is)
+			  (VP realized)))))
+	 ,
+	 (S (NP there)
+	    (VP is
+		(NP a 
+		    (ADJP corresponding) 
+		    reduction
+		    (PP of
+			(NP the possibilities
+			    (PP for
+				(NP 
+				 (ADJP fullest)
+				 achievement
+				 (PP of
+				     (NP the others))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Accordingly)
+     ,
+     (S (NP the Commission)
+	(X (X (AUX has)
+	      (VP recognized
+		  (SBAR that
+			(S (NP an 
+			       (ADJP optimum) 
+			       allocation pattern
+			       (PP for
+				   (NP one frequency)))
+			   (AUX does)
+			   (NEG not)
+			   (VP (ADVP necessarily)
+			       represent
+			       (NP the
+				   (ADJP best)
+				   pattern
+				   (PP for
+				       (NP (ADJP other) 
+					   frequencies))))))))
+	   ,
+	   and
+	   (X (AUX has)
+	      (VP assigned
+		  (NP (ADJP different)
+		      frequencies
+		      (PP for
+			  (NP use
+			      (PP by
+				  (NP (ADJP different) 
+				      classes
+				      (PP of
+					  (NP stations))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Some 45 frequencies)
+    (AUX are)
+    (VP assigned
+	(PP for
+	    (NP use
+		(ADVP primarily)
+		(PP by
+		    (NP (NP (ADJP dominant) 
+			    Class
+			    1
+			    ,
+			    --
+			    A or Class 1
+			    ,
+			    --
+			    B clear-channel stations)
+			,
+			(VP designed
+			    (S (S (NP *)
+				  (AUX to)
+				  (VP operate
+				      (PP with
+					  (NP (ADJP adequate)
+					      power))))
+			       and
+			       (S (NP *)
+				  (AUX to)
+				  (VP provide
+				      (NP (NP service)
+					  --
+					  (NP both groundwave
+					      and
+					      (PP *LRB*
+						  at
+						  (NP night)
+						  *RRB*)
+					      skywave)
+					  --)
+				      (PP (PP over
+					      (NP (ADJP large)
+						  areas))
+					  and
+					  (PP at
+					      (NP (ADJP great) 
+						  distances)))))
+			       ,
+			       (S (NP *)
+				  (VP being
+				      (VP protected
+					  (PP against
+					      (NP interference))
+					  (PP to
+					      (NP (NP the degree)
+						  (ADJP necessary
+							(S (NP *)
+							   (AUX to)
+							   (VP achieve
+							       (NP this objective)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(S (NP *)
+	   (VP dealing
+	       (PP with
+		   (NP these frequencies)))))
+    ,
+    (S (S (NP (NP (NP the objective)
+		  (VP listed
+		      (ADJP first)
+		      (ADJP above)))
+	      --
+	      (NP provision
+		  (PP of
+		      (NP service))
+		  (PP to
+		      (NP all listeners)))
+	      --)
+	  (VP was
+	      (ADJP predominant)))
+	 ;
+	 ;
+	 (S (NP the 
+		(ADJP other)
+		objectives)
+	    (AUX were)
+	    (VP subordinated
+		(PP to
+		    (NP it))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+	class 1
+	,
+	stations
+	(PP on
+	    (NP (ADJP these) 
+		clear
+		channels)))
+    (AUX are)
+    (VP protected
+	(PP to
+	    (NP their 0.1-mv. groundwave contours))
+	(PP against
+	    (NP daytime cochannel interference))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP With
+	   (NP respect
+	       (PP to
+		   (NP (NP skywave service)
+		       (VP rendered
+			   (PP at
+			       (NP night)))))))
+       ,
+       (S (NP class 1
+	      ,
+	      --
+	      A stations)
+	  (VP (VP are
+		  (NP (NP the only stations)
+		      (VP permitted
+			  (S (NP *)
+			     (AUX to)
+			     (VP operate
+				 (PP in
+				     (NP the United States))
+				 (PP on
+				     (NP (NP (ADJP clear)
+					     channels)
+					 (VP specified
+					     (PP for
+						 (NP class 1
+						     ,
+						     --
+						     A operation))))))))))
+	      ,
+	      and
+	      (ADVP so)
+	      (VP render
+		  (NP skywave service)
+		  (ADJP free
+			(PP from
+			    (NP cochannel interference)))
+		  (SBAR 
+		   (WHADVP whereever)
+		   (S (NP they)
+		      (AUX may)
+		      (VP be
+			  (VP received))))))))
+      ;
+      ;
+      (S (NP class 1
+	     ,
+	     --
+	     B stations)
+	 (AUX are)
+	 (VP protected
+	     (PP at
+		 (NP night))
+	     (PP to
+		 (NP their 0.5-mv)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (NP 50-percent time skywave contours
+       (PP against
+	   (NP cochannel interference)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP the provision
+		 (PP of
+		     (NP skywave service)))
+	     (VP requires
+		 (NP (ADJP adequate)
+		     freedom
+		     (PP from
+			 (NP interference))))))
+    ,
+    (S (NP only class
+	   1
+	   ,
+	   stations)
+       (VP are
+	   (ADJP capable
+		 (PP of
+		     (S  (NP *)
+			 (VP rendering
+			     (NP skywave service))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S But
+     (S (NP nighttime operation
+	    (PP by
+		(NP stations
+		    (PP of
+			(NP (ADJP other) 
+			    classes)))))
+	(PP of
+	    (NP course))
+	(VP entails
+	    (NP (NP skywave interference
+		    (PP to
+			(NP groundwave service)))
+		,
+		(NP (NP interference)
+		    (SBAR
+		     (WHNP which)
+		     (S (NP T)
+			(VP is
+			    (ADJP substantial))
+			(SBAR unless
+			      (S (NP steps)
+				 (AUX are)
+				 (VP taken)
+				 (S (NP *)
+				    (AUX to)
+				    (VP minimize
+					(NP it))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP 7)
+      .
+      (S (PP With
+	     (NP respect
+		 (PP to
+		     (NP (ADJP other) 
+			 frequencies))))
+	 ,
+	 (S (NP these)
+	    (AUX are)
+	    (VP (VP designated
+		    (PP as
+			(NP 
+			 (ADJP (NP regional)
+			       or 
+			       (NP local)))))
+		,
+		and
+		(VP assigned
+		    (PP for
+			(NP use
+			    (PP by
+				(NP (NP (NP class 3
+					    ,
+					    and
+					    class 4
+					    ,
+					    stations)
+					,
+					(ADVP respectively))
+				    ,
+				    (NP (NP stations)
+					(VP operating
+					    (ADVP generally)
+					    (PP with
+						(NP 
+						 (ADJP lower)
+						 power)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP (NP the allocation pattern)
+	    (VP worked
+		(PRT out)
+		(PP for
+		    (NP these frequencies)))))
+    ,
+    (S (NP the provision
+	   (PP of
+	       (NP long-range service)))
+       (AUX has)
+       (PP to
+	   (NP some extent))
+       (VP been
+	   (VP subordinated
+	       (PP to
+		   (NP (NP the
+			   (ADJP other)
+			   two objectives)
+		       --
+		       (NP (NP assignment
+			       (PP of
+				   (NP (ADJP multiple) 
+				       facilities)))
+			   ,
+			   and
+			   (NP assignment
+			       (PP of
+				   (NP stations))
+			       (PP in
+				   (NP as
+				       many communities
+				       (PP as
+					   (ADJP possible))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP 8)
+     .
+     (S (PP As
+	    (S (NP *)
+	       (VP mentioned)))
+	,
+	(S (NP (NP the 
+		   (ADJP primary)
+		   allocation objective)
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (VP followed))))
+	   (PP in
+	       (NP the allocation
+		   (PP of
+		       (NP stations
+			   (PP on
+			       (NP (ADJP clear) 
+				   channels))))))
+	   (VP is
+	       (NP the provision
+		   (PP of
+		       (NP (NP (ADJP widespread) 
+			       service)
+			   ,
+			   (ADJP free
+				 (PP from
+				     (NP (ADJP destructive) 
+					 interference))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP nighttime hours))
+    ,
+    (S (ADVP because
+	     (PP of
+		 (NP (NP the 
+			 (ADJP intense)
+			 skywave propagation)
+		     (ADVP then)
+		     (VP prevailing))))
+       ,
+       (S (NP no 
+	      (ADJP large) 
+	      number
+	      (PP of
+		  (NP stations)))
+	  (AUX can)
+	  (VP be
+	      (VP permitted
+		  (S (NP *)
+		     (AUX to)
+		     (VP operate
+			 (PP on
+			     (NP one
+				 (PP of
+				     (NP these channels))))))))
+	  ,
+	  (SBAR if
+		(S (NP (NP the 
+			   (ADJP wide) 
+			   area service)
+		       (SBAR (WHPP for
+				   (WHNP which))
+			     (S (NP these frequencies)
+				(AUX are)
+				(VP assigned
+				    ))))
+		   (VP is
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (VP rendered
+				  (ADVP satisfactorily)
+				  (PP by
+				      (NP (NP the
+					      (ADJP dominant) 
+					      stations)
+					  (SBAR
+					   (WHNP which)
+					   (S (NP T)
+					      (AUX must)
+					      (VP be
+						  (VP relied
+						      (PP upon)
+						      (S (NP *)
+							 (AUX to)
+							 (VP render
+							     (NP it))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Therefore)
+     ,
+     (S (PP under
+	    (NP our 
+		(ADJP longstanding) 
+		allocation rules))
+	,
+	(S (PP on
+	       (NP some
+		   (PP of
+		       (NP these channels))))
+	   (S (NP (NP no station)
+		  (ADJP other
+			(PP than
+			    (NP the
+				(ADJP dominant)
+				*LRB*
+				class 1
+				*RRB*
+				--
+				A
+				*RRB*
+				station))))
+	      (AUX is)
+	      (VP permitted
+		  (S (NP *)
+		     (AUX to)
+		     (VP operate
+			 (PP at
+			     (NP night)))))
+	      ,
+	      (SBAR  so
+		    that
+		    (S (NP the 1
+			   ,
+			   --
+			   A station)
+		       (AUX can)
+		       (VP render
+			   (NP (NP service)
+			       ,
+			       (ADJP interference
+				     free)))
+		       ,
+		       (SBAR 
+			(WHADVP wherever)
+			(S (NP it)
+			   (AUX can)
+			   (VP be
+			       (VP received
+				   ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP On
+	(NP the remainder
+	    (PP of
+		(NP the 
+		    (ADJP clear) 
+		    channels))))
+    ,
+    (S (S (NP the
+	      (ADJP dominant)
+	      *LRB*
+	      class 1
+	      *RRB*
+	      --
+	      B stations)
+	  (AUX are)
+	  (VP protected
+	      (PP as
+		  (S (NP *)
+		     (VP described
+			 (ADVP above))))))
+       ,
+       and
+       (S (NP the
+	      (ADJP (ADVP relatively)
+		    small)
+	      number
+	      (PP of
+		  (NP (NP (ADJP secondary)
+			  *LRB*
+			  class 2
+			  *RRB*
+			  *RRB*
+			  stations)
+		      (VP permitted
+			  (S (NP *)
+			     (AUX to)
+			     (VP operate
+				 (PP on
+				     (NP these channels))
+				 (PP at
+				     (NP night))))))))
+	  (AUX are)
+	  (VP required
+	      (S (NP *)
+		 (AUX to)
+		 (VP operate
+		     (X (ADVP directionally)
+			and
+			(PP with
+			    (NP (ADJP reduced)
+				power))))
+		 (PP so
+		     (PP as
+			 (S (NP *)
+			    (AUX to)
+			    (VP protect
+				(NP the
+				    class 1
+				    ,
+				    stations))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP the daytime))
+    ,
+    (S (PP on
+	   (NP the 
+	       (ADJP other) 
+	       hand))
+       ,
+       (S (SBAR since
+		(S (NP skywave transmission)
+		   (VP is
+		       (ADJP (ADVP relatively)
+			     inefficient))))
+	  ,
+	  (S (NP it
+		 (S-7 *pseudo-attach*))
+	     (VP is
+		 (ADJP possible))
+	     (S-7 (NP *)
+		(AUX to)
+		(VP assign
+		    (NP a
+			(ADJP (ADVP substantially)
+			      larger)
+			number
+			(PP of
+			    (NP stations)))
+		    (PP on
+			(NP these channels))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (ADJP Additional) 
+	class
+	2
+	,
+	assignments
+	(PP for
+	    (NP daytime operation)))
+    (X (X (AUX can)
+	  (VP be
+	      (VP made
+		  (PP without
+		      (S (NP *)
+			 (VP causing
+			     (NP (ADJP destructive) 
+				 interference
+				 (PP (PP to
+					 (NP the
+					     class 1
+					     ,
+					     stations))
+				     or
+				     (PP to
+					 (NP each
+					     (ADJP other)))))))))))
+       ,
+       and
+       (X (PP by
+	      (NP their operation))
+	  (VP provide
+	      (NP (NP (ADJP additional) 
+		      service
+		      (PP on
+			  (NP these channels)))
+		  and
+		  (NP 
+		   (ADJP additional)
+		   (ADJP local)
+		   outlets
+		   (PP for
+		       (NP a 
+			   (ADJP large) 
+			   number
+			   (PP of
+			       (NP communities))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP 
+	(ADJP Such)
+	(ADJP additional)
+	daytime class
+	2
+	,
+	assignments)
+       (VP are
+	   (ADJP appropriate))
+       (SBAR if
+	     (S (NP (ADJP optimum)
+		    use)
+		(VP is
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP made
+			       (PP of
+				   (NP these frequencies)))))))))
+    ,
+    and
+    (S (NP the Commission)
+       (AUX has)
+       (PP over
+	   (NP the years))
+       (VP made
+	   (NP a 
+	       (ADJP large) 
+	       number
+	       (PP of
+		   (NP them))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Similarly)
+     ,
+     (S (PP on
+	    (NP the 
+		(ADJP regional) 
+		channels))
+	(S (NP many class
+	       3
+	       ,
+	       stations)
+	   (AUX have)
+	   (VP been
+	       (VP assigned
+		   (S either
+		      (S (NP *)
+			 (AUX to)
+			 (VP operate
+			     (NP daytime
+				 only)))
+		      or
+		      (S (NP *)
+			 (AUX to)
+			 (VP operate
+			     (NP nighttime)
+			     (PP with
+				 (NP (NP (ADJP directional) 
+					 antennas)
+				     and
+				     (NP 
+				      (ADJP lower)
+				      power)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP 9)
+      .
+      (S (ADVP Essentially)
+	 ,
+	 (S (NP (NP the question)
+		(VP presented
+		    (PP for
+			(NP decision))
+		    (PP in
+			(NP the
+			    (ADJP present)
+			    Daytime Skywave proceeding))))
+	    (VP is
+		(SBAR (SBAR (WHADVP whether)
+			    (S (NP our decision
+				   (PP *LRB*
+				       in
+					   (NP 1938-1939)
+				       *RRB*)
+				   (S (NP *)
+				      (AUX to)
+				      (VP assign
+					  (NP stations)
+					  (PP on
+					      (NP the basis
+						  (PP of
+						      (NP daytime conditions
+							  (PP (PP from
+								  (NP sunrise))
+							      (PP to
+								  (NP sunset))))))))))
+			       ,
+			       (VP is
+				   (ADJP sound
+					 (PP as
+					     (NP a basis
+						 (PP for
+						     (NP AM
+							 allocations))))))))
+		      ,
+		      or
+		      (SBAR whether
+			    ,
+			    (S (S (PP in
+				      (NP the light
+					  (PP of
+					      (NP (NP 
+						   (ADJP later)
+						   developments)
+						  and
+						  (NP (ADJP new) 
+						      understanding)))))
+				  ,
+				  (S (NP skywave transmission)
+				     (VP is
+					 (PP of
+					     (NP (ADJP such) 
+						 significance
+						 (PP during
+						     (NP the hours
+							 (ADVP immediately)
+							 (PP (PP before
+								 (NP sunset))
+							     and
+							     (PP after
+								 (NP sunrise)))))
+						 (SBAR that
+						       (S (S (NP this condition)
+							     (AUX should)
+							     (VP be
+								 (VP taken
+								     (PP into
+									 (NP account)))))
+							  ,
+							  and
+							  (S (NP some stations)
+							     (VP required
+								 (S (NP *)
+								    (AUX to)
+								    (VP afford
+									(NP protection)
+									(PP to
+									    (NP (ADJP other)
+										stations))
+									(PP during
+									    (NP these
+										hours))))))))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP The history
+     (PP of
+	 (NP the
+	     (ADJP proceeding)
+	     10)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The decision)
+       (VP reached
+	   (PP in
+	       (NP 1938-39))))
+   (AUX was)
+   (VP made
+       (PP after
+	   (NP (NP the accumulation
+		   (PP of
+		       (NP a 
+			   (ADJP large) 
+			   amount
+			   (PP of
+			       (NP data)))))
+	       and
+	       (NP (ADJP thorough) 
+		   study
+		   (ADVP thereof))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Since
+	 (ADVP then))
+     ,
+     (S (NP there)
+	(AUX has)
+	(VP been
+	    (NP a
+		(ADJP notable) 
+		increase
+		(PP in
+		    (NP (NP the number
+			    (PP of
+				(NP stations)))
+			and
+			(ADVP also)
+			(NP (NP the accumulation
+				(PP of
+				    (NP (ADJP additional)
+					data)))
+			    and
+			    (NP the development
+				(PP of
+				    (NP (ADJP new)
+					techniques
+					(PP for
+					    (S (NP *)
+					       (VP using
+						   (NP it))))))))))))
+	,
+	(S (NP *)
+	   (VP leading
+	       (PP to
+		   (NP a
+		       (ADJP better)
+		       understanding
+		       (PP of
+			   (NP propagation phenomena))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP 1947))
+    ,
+    (S (NP (NP affidavits)
+	   (VP-1 *pseudo-attach*))
+       (AUX were)
+       (VP filed
+	   (PP with
+	       (NP the Commission))
+	   (PP by
+	       (NP 
+		(ADJP various)
+		(ADJP clear-channel)
+		stations)))
+       (S (NP *)
+	  (VP-1 alleging
+		(SBAR that 
+		      (S (NP (ADJP extensive) 
+			     interference
+			     (PP-2 *pseudo-attach*))
+			 (AUX was)
+			 (VP being
+			     (VP caused
+				 (PP to
+				     (NP the service areas
+					 (PP of
+					     (NP these stations))))
+				 (PP during
+				     (NP daylight hours))))
+			 ,
+			 (PP-2 from
+			       (NP (NP  class 2
+					   ,
+					   stations)
+				   (SBAR 
+				    (WHNP whose signals)
+				    (S (NP T)
+				       (AUX were)
+				       (VP being
+					   (VP reflected
+					       (PP from
+						   (NP the ionosphere))
+					       (ADVP so
+						     (PP as
+							 (S (NP *)
+							    (AUX to)
+							    (VP create
+								(NP skywave intereference)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

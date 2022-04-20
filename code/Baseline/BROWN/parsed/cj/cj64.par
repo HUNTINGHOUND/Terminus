@@ -1,0 +1,2237 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+            (S
+             (NP  one
+                  characteristic)
+             (VP distinguishes
+                 (NP Boris Godunov))))
+      ,
+      (S (NP it)
+         (VP is
+             (NP (NP the consistency)
+                 (SBAR (WHPP with
+                             (WHNP which))
+                       (S  
+                        (NP (NP every person
+                                (PP on
+                                    (NP the stage)))
+                            --
+                            (VP including
+                                (NP the chorus))
+                            --)
+                        (VP comes
+                            (ADJP alive)
+                            (PP in
+                                (NP the music)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP Much
+        (PP of
+            (NP this lifelike quality)))
+    (VP results
+        (PP from
+            (NP 
+             (NP Mussorgsky)
+             's care
+             (PP in
+                 (S (NP *)  
+                    (VP basing
+                        (NP his vocal line)
+                        (PP on
+                            (NP natural speech inflections)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+         (NP this))
+     (S
+      (NP he)
+      (VP followed
+          (NP (NP a path)
+              (SBAR (WHNP that)
+                    (S (NP T)
+                       (VP led
+                           (ADVP back)
+                           (PP to
+                               (NP the very source
+                                   (PP of
+                                       (NP opera))))))))))
+     ;
+     ;
+     (S (NP such composers
+            (PP as
+                (NP (NP Monteverdi)
+                    ,
+                    (NP Lully)
+                    and
+                    (NP Purcell)
+                    ,))
+            (PP with
+                (NP the same goal
+                    (PP in
+                        (NP mind))))
+            ,)
+        (AUX had)
+        (VP developed
+            (NP (NP styles
+                    (PP of
+                        (NP recitative)))
+                (VP (ADVP sensitively)
+                    attuned
+                    (PP to
+                        (NP their own languages)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Through
+        (NP long experimentation
+            (PP in
+                (NP his songs))))
+    ,
+    (S (NP Mussorgsky)
+       (VP developed
+           (NP (NP a Russian recitative)
+               (ADJP  as
+                      different
+                      (PP from
+                          (NP others))
+                      (PP as
+                          (NP (NP the language)
+                              (NP itself))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Giving
+           (NP most
+               (PP of
+                   (NP his musical continuity)))
+           (PP to
+               (NP the orchestra))))
+    ,
+    (S (NP (NP he)
+           (VP-1 *pseudo-attach*))
+       (VP lets
+           (NP the speech)
+           (VP fall
+               (PP into
+                   (NP place))
+               (PP as
+                   (SBAR if
+                         (PP by
+                             (NP coincidence))))))
+       ,
+       but
+       (VP-1 controlling
+           (NP the pace and emphasis
+               (PP of
+                   (NP the words))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The moments
+        (PP of
+            (NP (VP sung)
+                melody
+                ,
+                (PP in
+                    (NP the usual sense))
+                ,)))
+    (VP come
+        (ADVP most often)
+        (SBAR 
+         (WHADVP when)
+         (S (NP the character)
+            (AUX is)
+            (ADVP actually)
+            (VP supposed
+                 
+                (S (NP *)
+                   (AUX to)
+                   (VP be
+                       (VP singing
+                           ,
+                           (PP as
+                               (PP in
+                                   (NP (NP folk songs)
+                                       and
+                                       (NP liturgical chants))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Otherwise)
+      (S (NP Mussorgsky)
+         (VP reserves
+             (NP his vocal melodies)
+             (PP for
+                 (NP (NP (VP prolonged)
+                         expressions
+                         (PP of
+                             (NP emotion)))
+                     --
+                     (NP 
+                      (NP Boris)
+                      ' first monologue)
+                     ,
+                     (PP for
+                         (NP example)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Even
+            then)
+      ,
+      (S (NP the flexibility
+             (PP of
+                 (NP the phrasing)))
+         (VP suggests
+             (SBAR that
+                   (S (NP the word)
+                      (VP comes
+                          (ADVP first
+                                (PP in
+                                    (NP importance)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Aside
+            (PP from
+                (NP (NP Boris)
+                    (NP himself))))
+      ,
+      (S (NP one)
+         (AUX need)
+         (VP  (ADVP but) examine
+              (NP the secondary roles))
+         (S (NP *)
+            (AUX to)
+            (VP place
+                (NP Mussorgsky)
+                (PP among
+                    (NP the masters
+                        (PP of
+                            (NP musical portraiture))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+ (S (NP (NP  Even
+             those)
+        (SBAR (WHNP who)
+              (S (NP T)
+                 (VP appear
+                     (PP in
+                         (NP  only
+                              one
+                              or
+                              two scenes))))))
+    (VP are
+        (NP (NP full personalities)
+            ,
+            (VP defined
+                (PP with
+                    (NP economical precision))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)  
+     (VP Consider
+         (NP (NP the four monks)
+             (SBAR (WHNP who)
+                   (S (NP T)
+                      (VP figure
+                          (ADVP prominently)
+                          (PP in
+                              (NP the action)))))
+             :
+             (NP Pimen)
+             ,
+             (NP Varlaam)
+             ,
+             (NP Missail)
+             and
+             (NP the Jesuit Rangoni))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SINV (PP Under
+              (NP no circumstances))
+          (AUX could)
+          (NP we)
+          (VP mistake
+              (NP one)
+              (PP for
+                  (NP the
+                      (ADJP other)))))
+    ;
+    ;
+    (S (NP each musical setting)
+       (VP has
+           (NP an individual touch))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pimen)
+   (VP is
+       (NP (NP an old man)
+           ,
+           (ADJP weak
+                 (PP in
+                     (NP body)))
+           --
+           (S (NP his voice)
+              (ADVP rarely)
+              (VP rises
+                  (PP to
+                      (NP a full forte))))
+           --
+           but
+           (ADJP firm and clear
+                 (PP of
+                     (NP mind))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His calmness)
+   (VP offers
+       (NP contrast
+           (PP to
+               (NP 
+                (NP Grigori)
+                's youthful excitement)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A quiet but sturdy theme)
+        ,
+        (ADJP  somewhat
+               folklike
+               (PP in
+                   (NP character)))
+        ,)
+    (VP appears
+        (SBAR 
+         (WHADVP whenever)
+         (S (NP the old monk)
+            (VP speaks
+                (PP of
+                    (NP (NP the history)
+                        (SBAR 0
+                              (S
+                               (NP he)
+                               (AUX is)
+                               (VP recording
+                                   (NP T))))))
+                or
+                (PP of
+                    (NP his own past life))))))) 
+ :)
+((S (NP This theme)
+     (VP comes
+         (S (NP *)
+            (AUX to)
+            (VP represent
+                (NP (NP the outer world)
+                    ,
+                    (NP the realm
+                        (PP of
+                            (NP battles and banquets)))
+                    --
+                    (VP seen
+                        (PP from
+                            (NP a distance)))
+                    ,
+                    (ADJP  quite
+                           distinct
+                           (PP from
+                               (NP the
+                                   quieter spiritual
+                                   life
+                                   (PP in
+                                       (NP the monastery))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP It)
+      (VP  changes
+           and
+           develops
+           (VP according
+               (PP to
+                   (NP the text)))))
+     ;
+     ;
+     (S (NP it)
+        (VP introduces
+            (NP Pimen))
+        (SBAR 
+         (WHADVP when)
+         (S (NP he)
+            (VP comes
+                (PP before
+                    (NP Boris)))
+            (PP in
+                (NP the last act))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(   (S (SBAR Once
+             (S (NP he)
+                (AUX has)
+                (VP been
+                    (VP identified
+                        ))))
+       ,
+       (ADVP however)
+       ,
+       (S (NP a new melody)
+          (AUX is)
+          (VP used
+            
+              (S (NP *)
+                 (AUX to)
+                 (VP accompany
+                     (NP his narrative))))
+          ,
+          (NP a bleak motif
+              (PP with
+                  (NP (NP barren octaves)
+                      (VP creating
+                          (NP a
+                              (ADJP  rather
+                                     ancient) effect)))))))
+    :)
+( (S (NP An imaginative storyteller)
+     ,
+     (S (NP Pimen)
+        (VP takes
+            (PRT on)
+            (NP (NP the character)
+                (SBAR 0
+                      (S
+                       (NP he)
+                       (VP describes
+                           (NP T)))))
+            ,
+	    (SBAR  as
+		  if
+		  (S (NP he)
+		     (AUX were)
+		     (VP experiencing
+			 (NP 
+			  (NP the old shepherd)
+			  's blindness
+			  and
+			  miraculous cure)))))))
+    .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Here)
+      (S (NP the composer)
+         (VP uses
+             (NP (NP a favorite device
+                     (PP of
+                         (NP his)))
+                 ,
+                 (NP the intensification
+                     (PP of
+                         (NP the mood))
+                     (PP through
+                         (NP key relationships)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The original D minor)
+   (VP seems
+       (S (NP *)
+          (AUX to)
+          (VP symbolize
+              (NP (NP blindness)
+                  ,
+                  (ADJP inescapable
+                        (PP in
+                            (NP spite
+                                (PP of
+                                    (NP all attempts
+                                        (S (NP *)
+                                           (AUX to)
+                                           (VP move
+                                               (ADVP away)
+                                               (PP from
+                                                   (NP it))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+          (S (NP the child)
+             (VP addresses
+                 (NP the shepherd)
+                 (PP in
+                     (NP a dream)))))
+    ,
+    (S (NP light
+           --
+           (PP in
+               (NP the form
+                   (PP of
+                       (NP the major mode))))
+           --)
+       (VP begins
+           (S (NP *)
+              (AUX to)
+              (VP appear))))
+    ,
+    and
+    (PP at
+        (NP the moment
+            (PP of
+                (NP the miracle))))
+    (S
+     (NP we)
+     (VP hear
+         (NP a (ADJP clear and shining) D major))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Varlaam)
+        and
+        (NP Missail))
+    (VP (ADVP always)
+        (VP appear
+            (ADVP together))
+        and
+        (ADVP often)
+        (VP sing
+            (ADVP together)
+            ,
+            (PP in
+                (NP (NP a
+                        straightforward
+                        ,
+                        (ADJP  rhythmically
+                               vigorous)
+                        idiom)
+                    (SBAR (WHNP that)
+                          (S (NP T)
+                             (VP distinguishes
+                                 (NP them)
+                                 (PP from
+                                     (NP the
+                                         (ADJP  more
+                                               subtle and well-educated)
+                                         Pimen))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Their begging song)
+    (AUX might)
+    (VP (ADVP easily)
+        be
+        (NP a folk melody)))
+ :
+ )
+(  (S (NP The
+          (ADJP same))
+      (AUX could)
+      (VP be
+          (VP said
+              (PP for
+                  (NP (NP the song)
+                      (SBAR (WHPP to
+                                  (WHNP which))
+                            (S
+                             (NP they)
+                             (VP make
+                                 (NP their entrance)
+                                 (PP in
+                                     (NP the final scene))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Apparently)
+      (S (NP their origin)
+         (VP is
+             (ADJP humble)))
+      ,
+      (X (NP their approach
+             (PP to
+                 (NP life)))
+         (ADJP direct and unsophisticated)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(
+  (S (NP (SBAR (WHNP Whatever learning)
+               (S (NP they)
+                  (AUX may)
+                  (VP have
+                      (VP had
+                          (NP T)
+                          (PP in
+                              (NP their order)))))))
+     (AUX does)
+     (NEG n't)
+     (VP disturb
+         (NP them)
+         (ADVP now)))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Missail)
+   (VP is
+       (NP (NP the straight man)
+           ,
+           (ADJP (NEG not)
+                 very
+                 talkative)
+           ,
+            (ADJP mild-mannered)
+            (SBAR 
+             (WHADVP when)
+             (S (NP he)
+                (AUX does)
+                (VP speak))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Varlaam)
+   (VP is
+       (ADJP loud
+             ,
+             rowdy
+             ,
+             (ADJP uninhibited
+                   (PP in
+                       (NP his pleasures)))
+             and
+             (ADJP impatient
+                   (PP with
+                       (NP (NP anyone)
+                           (SBAR (WHNP who)
+                                 (S (NP T)
+                                    (VP is
+                                        (NEG not)
+                                        (NP the
+                                            (ADJP same)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP A rough ostinato figure)
+        ,
+        (VP heard
+            (ADVP first)
+            (PP in
+                (NP the introduction
+                    (PP to
+                        (NP the inn scene)))))
+        ,)
+    (VP (VP characterizes
+            (NP him)
+            (ADVP amusingly))
+        and
+        (VP reappears
+            (SBAR 
+             (WHADVP whenever)
+             (S (NP he)
+                (VP comes
+                    (PP into
+                        (NP the action))))))))
+ :
+ )
+((S  
+  (NP (NP The Song 
+	  (PP Of
+	      (NP Kazan)))
+      ,
+      (SBAR (WHPP in
+                  (WHNP which))
+            (S (NP this figure)
+               (VP becomes
+                   (NP a wild-sounding accompaniment))))
+      ,)
+  (VP fills
+      (PP in
+          (NP the picture
+              (PP of
+                  (NP 
+                   undisciplined high
+                   spirits))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The phrasing)
+      (VP is
+          (ADJP irregular)))
+     ,
+     and
+     (S (NP the abrupt key changes)
+        (VP have
+            (NP a primitive forcefulness))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP We)
+      (AUX can)
+      (VP imagine
+          (SBAR 
+           (WHADVP how)
+           (S (NP they)
+              (VP startled
+                  (NP audiences
+                      (PP of
+                          (NP 
+                           (NP the 1870)
+                           's))))))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP
+        (NP Varlaam)
+        's music)
+       (VP begins
+           (S (NP *)
+              (AUX to)
+              (VP ramble)))
+       (SBAR as
+             (S (NP he)
+                (VP feels
+                    (NP the effects
+                        (PP of
+                            (NP the wine)))))))
+    ,
+    but
+    (S (NP he)
+       (VP pulls
+           (NP himself)
+           (ADVP together))
+       (SBAR 
+        (WHADVP when)
+        (S (NP the need)
+           (VP arises)))))
+ .)
+(  END_OF_TEXT_UNIT)   
+( (S (S
+      (NP  Both
+           monks)
+      (VP respond
+          (PP to
+              (NP 
+               (NP the guard)
+               's challenge))
+          (PP with
+              (NP a few phrases
+                  (PP of
+                      (NP their begging song))))))
+     ;
+     ;
+     (S (NP a
+            (ADJP clever naturalistic)
+            touch)
+        (VP is
+            (NP 
+             (NP Varlaam)
+             's labored reading
+             (PP of
+                 (NP the warrant))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR As
+          (S (NP the knack)
+             (VP  (ADVP gradually)
+                  comes
+                  (ADVP back
+                        (PP to
+                            (NP him))))))
+    ,
+    (S (NP his rhythm)
+       (VP becomes
+           (ADJP steadier
+                 ,
+                 (PP with
+                     (NP the rigid monotony
+                         (PP of
+                             (NP an unskilled reader))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+        (NP the only time
+            (PP in
+                (NP the opera))))
+    ,
+    (S (NP words)
+       (AUX are)
+       (NEG not)
+       (VP set
+           (VP according
+               (PP to
+                   (NP their natural inflection)))))
+    ;
+    ;
+    (S (NP (S (NP *)
+              (AUX to)
+              (VP do
+                  (ADVP so))))
+       (AUX would)
+       (VP have
+           (VP spoiled
+               (NP the dramatic point
+                   (PP of
+                       (NP the scene)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Musically and dramatically)
+      ,
+      (S (NP Rangoni)
+         (AUX is)
+         (VP (ADVP as
+                   far)
+             removed
+              
+             (PP from
+                 (NP the conventional monk))
+             (PP as
+                 (NP Varlaam)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His music)
+    (VP shows
+        (NP (NP a sensuality)
+            (VP coupled
+                (PP with
+                    (NP an eerie quality)))
+            (SBAR (WHNP that)
+                  (S (NP T)
+                     (VP suggest
+                         (ADVP somehow)
+                         (NP a blood-kinship
+                             (PP with
+                                 (NP Dappertutto
+                                     (PP in
+                                         (NP 
+                                          (NP Offenbach)
+                                          's
+                                          Hoffman)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP His speech)
+      (VP shows
+          (NP none
+              (PP of
+                  (NP the native accent
+                      (PP of
+                          (NP the Russian characters)))))))
+     ;
+     ;
+     (PP in
+         (NP spite
+             (PP of
+                 (NP the Italian name))))
+     ,
+     (S (NP he)
+        (VP sounds
+            (NP French))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP His personality)
+    (VP appears
+        (ADJP  more
+               striking)
+        (PP by
+            (NP contrast
+                (PP with
+                    (NP (NP Marina)
+                        ,
+                        (SBAR 
+                         (WHNP who)
+                         (S (NP T)
+                            (VP is
+                                --
+                                (ADVP perhaps
+                                      purposely)
+                                --
+                                (ADJP (ADVP  rather
+                                             superficially)
+                                      characterized))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Rangoni)
+    's first entrance)
+   (VP is
+       (NP (NP a musical shock)
+           ,
+           (NP a
+               sudden open fifth
+               (PP in
+                   (NP (NP a key)
+                       (ADJP  totally
+                              unrelated
+                              (PP to
+                                  (SBAR (WHNP what)
+                                        (S (NP T)  
+                                           (AUX has)
+                                           (VP preceded
+                                               (NP it))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The effect)
+   (VP is
+       (PP as
+           (SBAR if
+                 (S (NP he)
+                    (AUX had)
+                    (VP materialized
+                        (PP out
+                            (PP of
+                                (NP nowhere)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP speaks
+       (ADVP quietly))
+   ,
+   (S (NP *)  
+      (VP concealing
+          (NP his authority)
+          (PP beneath
+              (NP a smooth humility))
+          ,
+          (PP  just
+               as
+               (S (NP (NP the shifting harmonies)
+                      (SBAR (WHNP that)
+                            (S (NP T)
+                               (VP accompany
+                                   (NP him)))))
+                  (VP (ADVP  all
+                             but)
+                      hide
+                      (NP the firm pedal point
+                          (PP beneath
+                              (NP them)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP addresses
+           (NP Marina)
+           (PP with
+               (NP great deference)))
+       ,
+       (S (NP *)  
+          (VP calling
+              (NP her)
+              (NP  ``
+                   Princess
+                   ''))
+          (PP at
+              (ADJP first))))
+    ;
+    ;
+    (S (NP it
+           (SBAR-2 *pseudo-attach*))
+       (VP is
+           (PP  only
+                after
+                (S (NP he)
+                   (AUX has)
+                   (VP involved
+                       (NP her emotions)
+                       (PP in
+                           (NP his scheme))))))
+       (SBAR-2 that
+             (S (NP he)
+                (VP uses
+                    (NP her
+                        (ADJP given)
+                        name)
+                    ,
+                    (S (NP *)  
+                       (VP placing
+                           (NP himself)
+                           (PP by
+                               (NP implication))
+                           (PP in
+                               (NP the position
+                                   (PP of
+                                       (NP a solicitous father)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Curiously)
+      ,
+      (S (NP this scene)
+         (VP is
+             (NP a
+                 close
+                 parallel
+                 (PP to
+                     (NP (NP one)
+                         (SBAR (WHNP that)
+                               (S
+                                (NP Verdi)
+                                (AUX was)
+                                (VP writing
+                                    (PP at
+                                        (NP the same time)))))
+                         ,
+                         (NP the scene
+                             (PP between
+                                 (NP (NP Amonasro)
+                                     and
+                                     (NP Aida))))))))))
+   .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Rangoni)
+           and
+           (NP Amonasro))
+       (VP have
+           (NP (NP the same purpose)
+               --
+               (S (NP *)  
+                  (VP forcing
+                      (NP the girl)
+                      (S (NP *)
+                         (AUX to)
+                         (VP charm
+                             (NP (NP the man)
+                                 (SBAR 0
+                                       (S
+                                        (NP she)
+                                        (VP loves 
+                                            (NP T)))))
+                             (PP into
+                                 (S (NP *)  
+                                    (VP serving
+                                        (NP 
+                                         (NP her country)
+                                         's cause))))))))
+               --)))
+    and
+    (S (NP their tactics)
+       (VP are
+           (NP  much
+                the
+                (ADJP same)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Rangoni)
+      (VP begins
+          (PP by
+              (S (NP *)  
+                 (VP describing
+                     (NP the sad state
+                         (PP of
+                             (NP the Church))))))))
+     ;
+     ;
+     (S (NP this)
+        (VP brings
+            (NP a reaction
+                (PP of
+                    (NP distress)))
+            (PP from
+                (NP Marina)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The music)
+       (VP becomes
+           (ADJP ethereal))
+       (SBAR as
+             (S (NP he)
+                (VP calls
+                    (PRT up)
+                    (NP a vision
+                        (PP of
+                            (NP her own sainthood)))))))
+    :
+    (S (NP it)
+       (VP is
+           (NP (NP she)
+               ,
+               (S (NP he)
+                  (VP tells
+                      (NP her)))
+               ,
+               (SBAR 
+                (WHNP who)
+                (S (NP T)
+                   (AUX can)
+                   (VP (VP bring
+                           (NP the truth)
+                           (PP to
+                               (NP Russia)))
+                       and
+                       (VP convert
+                           (NP the heretics)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  As
+          if
+          (PP in
+              (NP a trance)))
+    ,
+    (S (NP she)
+       (VP (VP repeats
+               (NP his words))
+           --
+           then
+           (VP realizes
+               ,
+               (PP with
+                   (NP a shock))
+               ,
+               (NP her own audacity)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP is
+          (NP no assignment
+              (PP for
+                  (NP a frivolous girl)))))
+     ,
+     (S (NP she)
+        (VP assures
+            (NP him))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S (NP Rangoni)
+         (VP comes
+             (PP to
+                 (NP the point))))
+      ,
+      and
+      (S (NP we)
+         (VP hear
+             ,
+             (PP for
+                 (NP the first time))
+             ,
+             (NP (NP a
+                     long
+                     ,
+                     downward chromatic
+                     scale)
+                 (SBAR (WHNP that)
+                       (S (NP T)
+                          (AUX will)
+                          (VP become
+                              (NP the characteristic motif
+                                  (PP of
+                                      (NP his sinister power))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP (NP a phrase)
+           (ADJP as
+                 arresting
+                 (PP as
+                     (NP 
+                      (NP a magician)
+                      's gesture)))
+           ,
+           (PP with
+               (NP (NP a piquant turn
+                       (PP of
+                           (NP harmony)))
+                   (VP giving
+                       (NP an effect
+                           (PP of
+                               (NP strangeness)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Another theme)
+        ,
+        (ADJP  sinuously
+               chromatic)
+        ,)
+    (VP appears)
+    (SBAR as
+          (S (NP he)
+             (VP directs
+                 (NP her)
+                 (S (NP *)
+                    (AUX to)
+                    (VP gain
+                        (NP power
+                            (PP over
+                                (NP Grigori)))
+                        (PP by
+                            (NP any means))
+                        ,
+                        (PP  even
+                             at
+                             (NP the cost
+                                 (PP of
+                                     (NP her honor))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)  
+       (VP Coming
+           (PP from
+               (NP a priest))))
+    ,
+    (S (NP the music)
+       (VP sounds
+           (ADJP  as
+                  odd
+                  (PP as
+                      (NP the advice)))))
+    :
+    (S (NP Marina)
+       (VP rebels
+           (PP at
+               (NP this suggestion)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Her pride)
+      (VP is
+          (PP (ADVP as
+                    much)
+              at
+              (NP stake)
+              (PP as
+                  (NP her virtue)))))
+     ;
+     ;
+     (S (NP she)
+        (VP is
+            (NP (NP the unattainable beauty)
+                ,
+                (NP (NP the princess)
+                    (SBAR (WHNP who)
+                          (S (NP T)
+                             (VP turns
+                                 (ADVP away)
+                                 (NP suitors
+                                     (PP by
+                                         (NP the dozen)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Indignantly)
+      (S (NP she)
+         (VP (VP denounces
+                 (NP Rangoni)
+                 (PP for
+                     (NP his evil thoughts)))
+             and
+             (VP orders
+                 (NP him)
+                 (S (NP *)
+                    (AUX to)
+                    (VP leave
+                        (NP her)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+        (ADVP once))
+    (S (NP the Jesuit)
+       (VP pulls
+           (PP out
+               (NP all
+                   the stops)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP To
+        (NP  music
+             (PP of
+                 (NP a menacing darkness))))
+    ,
+    (S (NP he)
+       (VP describes
+           (S (NP the powers
+                  (PP of
+                      (NP Satan)))
+              (VP (VP gaining
+                      (NP control
+                          (PP of
+                              (NP the girl))))
+                  ,
+                  (VP poisoning
+                      (NP her soul)
+                      (PP with
+                          (NP pride)))
+                  and
+                  (VP destroying
+                      (NP her beauty)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The combined threat
+          (PP of
+              (NP (NP hell-fire) 
+                  and 
+                  (NP ugliness))))
+      (VP is
+          (NP  too
+               much
+               (PP for
+                   (NP her)))))
+     ,
+     and
+     (S (NP she)
+        (VP falls
+            (ADJP terrified)
+            (PP at
+                (NP his feet)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+        (NP another sudden change
+            (PP of
+                (NP mood))))
+    ,
+    (S (NP he)
+       (VP is
+           (ADVP again)
+           (ADJP calm and protective))
+       ,
+       (S (NP *)  
+          (VP exhorting
+              (NP her)
+              (S (NP *)
+                 (AUX to)
+                 (VP trust and obey
+                     (NP him
+                         (PP as
+                             (NP 
+                              (NP God)
+                              's spokesman))))))))
+    --
+    and
+    (S (NP the chromatic scale)
+       (VP descends
+           (PP in
+               (NP ominous contradiction)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (WHNP Whatever
+            (NP the source
+                (PP of
+                    (NP 
+                     (NP Rangoni)
+                     's power))))
+      ,
+      (S (NP Marina)
+         (VP is
+             (NP his captive))
+         (ADVP now))
+      ;
+      ;
+      (S (NP we)
+         (AUX are)
+         (VP reminded
+                 
+             (PP of
+                 (NP this))
+             (PP at
+                 (NP (NP the end
+                         (PP of
+                             (NP the next scene)))
+                     ,
+                     (SBAR 
+                      (WHADVP when)
+                      (S (NP his theme)
+                         (VP cuts
+                             (PP through
+                                 (NP the warmth
+                                     (PP of
+                                         (NP the love duet)))))
+                         ,
+                         (ADVP again)
+                         (S (NP *)  
+                            (VP throwing
+                                (NP a chill)
+                                (PP over
+                                    (NP the atmosphere)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The
+        (ADJP most unusual)
+        feature
+        (PP of
+            (NP Boris)))
+    ,
+    (ADVP however)
+    ,
+    (VP is
+        (NP the use
+            (PP of
+                (NP (NP the
+                        (ADJP greatest)
+                        character
+                        (PP of
+                            (NP all)))
+                    ,
+                    (NP the chorus))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP is
+          (NP the real protagonist
+              (PP of
+                  (NP the drama)))))
+     ;
+     ;
+     (S (NP the conflict)
+        (VP is
+            (NEG not)
+            (NP (NP Boris
+                    (PP versus
+                        (NP (NP Grigori)
+                            or
+                            (NP Shuiski)
+                            or
+                            even
+                            (NP the ghost
+                                (PP of
+                                    (NP the murdered child)))))))
+            ,
+            but
+            (NP Boris
+                (PP versus
+                    (NP the Russian people))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mussorgsky)
+   (VP makes
+       (NP this
+           (ADJP  quite
+                 clear))
+       (PP by
+	   (NP (NP the extent)
+	       (SBAR (WHPP to
+			   (WHNP which))
+		     (S
+		      (NP choral scenes)
+		      (VP propel
+			  (NP the action))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Boris)
+    ' first entrance)
+   (VP seems
+       (NP  almost
+           a footnote
+           (PP to
+               (NP the splendor
+                   (PP of
+                       (NP the Coronation Scene
+                           ,
+                           (PP with
+                               (NP its dazzling confusion
+                                   (PP of
+                                       (NP tonalities)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP We)
+      (VP have
+          (NP a brief glimpse
+              (PP of
+                  (NP (NP 
+                       (NP the Tsar)
+                       's public personality)
+                      ,
+                      (NP the
+                          ``
+                          (ADJP official)
+                          Boris
+                          ''))))))
+     ,
+     but
+     (S (NP our real focus)
+        (VP is
+            (PP on
+                (NP (NP the excitement
+                        (PP of
+                            (NP the crowd)))
+                    --
+                    (NP a significant contrast
+                        (PP with
+                            (NP (NP its halfhearted acclamation
+                                    (PP in
+                                        (NP the opening scene)))
+                                ,
+                                (NP its bitter resentment and fury
+                                    (PP in
+                                        (NP the final act)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One reason
+       (PP for
+           (NP the unique vitality
+               (PP of
+                   (NP the chorus)))))
+   (VP is
+       (NP its great variety
+           (PP in
+               (NP expression)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (ADVP rarely)
+   (VP speaks
+       (PP as
+           (NP a unit))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (PP  Even
+         in
+         (NP (NP its
+                 (ADJP most conventional)
+                 appearance)
+             ,
+             (NP 
+              (NP the guests)
+              ' song
+              (PP of
+                  (NP praise
+                      (PP to
+                          (NP Marina)))))))
+    ,
+    (S (NP there)
+       (VP are
+           (NP (NP a few female dissenters)
+               (VP criticizing
+                   (NP the princess)
+                   (PP for
+                       (NP her coldness)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP (NP many passages)
+            --
+            (PP for
+                (NP example))
+            ,
+            (NP the council
+                (PP of
+                    (NP boyars)))
+            --))
+    (S (NP each section
+           (PP of
+               (NP the chorus)))
+       (VP becomes
+           (NP a character group
+               (PP with
+                   (NP a particular opinion))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hot arguments)
+   (VP arise
+       (PP between
+           (NP (NP tenors) 
+               and 
+               (NP basses)
+               ,
+               (SBAR 
+                (WHNP who)
+                (S (NP T)
+                   (AUX will)
+                   (VP sing
+                       (PP in
+                           (NP harmony)))
+                   (SBAR  only
+                          (WHADVP when)
+                          (S (NP they)
+                             (VP agree
+                                 (PP on
+                                     (NP an idea)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The opening scene)
+   (VP shows
+       (NP this method
+           (PP at
+               (NP its
+                   (ADJP most)
+                   individual)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mussorgsky)
+   (VP paints
+       (NP a telling picture
+           (PP of
+               (NP (NP the common people)
+                   ,
+                   (NP (NP those)
+                       (SBAR (WHNP who)
+                             (S (NP T)
+                                (AUX must)
+                                (VP suffer
+                                    (NP the effects
+                                        (PP of
+                                            (NP 
+                                             (NP their rulers)
+                                             ' struggle
+                                             (PP for
+                                                 (NP power)))))
+                                    (PP without
+                                        (S (NP *)  
+                                           (VP understanding
+                                               (NP the causes)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (AUX are)
+   (VP held
+        
+       (PP in
+           (NP control))
+       (PP by
+           (NP force))
+       ,
+       but
+       (ADVP barely)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (AUX will)
+      (VP (VP kneel) 
+          and 
+          (VP plead
+              (PP for
+                  (NP 
+                   (NP Boris)
+                   ' leadership)))
+          (PP in
+              (NP (NP a
+                      (ADJP  strangely
+                             intense) song)
+                  ,
+                  (S (NP its phrases)
+                     (VP  irregularly
+                          broken
+			  (SBAR  as
+				 if
+				 (S (NP *)  
+				    (VP gasping
+					(PP for
+					    (NP breath)))))))))))
+     ,
+     but
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (NP the police
+		(PP with
+		    (NP their cudgels)))
+	    (VP move
+		(ADVP away))))
+	,
+	(S (NP they)
+	   (VP (VP mock)
+	       and
+	       (VP grumble)
+	       and
+	       (VP fight
+		   (PP among
+		       (NP themselves)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a quick change
+           (PP (PP from
+                   (NP the plaintive song))
+               (PP to
+                   (NP a conversational tone))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (INTJ Hey)
+     ,
+     (NP Mityukh)
+     ''
+     ,
+     (SINV (VP asks)
+           (NP one group))
+     ,
+     ``
+     (SBARQ (WHNP what)
+            (SQ (AUX are)
+                (NP we)
+                (VP shouting
+                    (PP about))))
+     '')
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S And
+      (S (NP (NP Mityukh)
+             ,
+             (ADVP apparently)
+             (NP the intellectual leader
+                 (PP of
+                     (NP the crowd)))
+             ,)
+         (VP replies
+             (SBAR that
+                   (S (NP he)
+                      (VP has
+                          (NP no notion)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The jokes and arguments)
+      (VP grow
+          (ADJP louder)
+          (PP until
+              (NP the police return))))
+     ;
+     ;
+     then
+     (S (NP the people)
+        (VP strike
+            (PRT up)
+            (NP their song)
+            (PP with
+                (NP 
+                 (ADJP  even
+                        more)
+                 fervor
+                 (PP than
+                     (ADVP before)))))
+        ,
+        (S (NP *)  
+           (VP ending
+               (NP it)
+               (PP with
+                   (NP a wail
+                       (PP of
+                           (NP despair))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mussorgsky)
+   (ADVP frequently)
+   (VP uses
+       (NP liturgical music)
+       (PP with
+           (NP 
+            considerable dramatic
+            force))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+         (NP 
+          (NP Pimen)
+          's cell))
+     (S (NP (NP the soft prayers
+                (PP of
+                    (NP the monks)))
+            ,
+            (VP heard
+                (PP from
+                    (ADVP offstage)))
+            ,)
+        (VP (CONJP (NEG not)
+                   only)
+            (VP help
+                (S (NP *)
+                   (AUX to)
+                   (VP set
+                       (NP the scene))))
+            but
+            (VP emphasize
+                (NP the contrast
+                    (PP between
+                        (NP (NP 
+                             (NP (ADJP young)
+                                 Grigori)
+                             's thoughts)
+                            and
+                            (NP his situation))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP  especially
+              striking))
+   (PP between
+       (NP (NP 
+            (NP Pimen)
+            's quiet exit)
+           and
+           (NP 
+            (NP Grigori)
+            's vehement outburst
+            (PP against
+                (NP Boris))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Again)
+      ,
+      (SBAR as
+            (S (NP Boris)
+               (VP feels
+                   (NP himself)
+                   (VP nearing
+                       (NP death)))))
+      ,
+      (S (NP a procession)
+         (VP files
+             (PP into
+                 (NP the hall)))
+         (S (NP *)  
+            (VP singing
+                (NP a hymn)))
+         ,
+         (S (NP its modal harmonies)
+            (VP adding
+                (NP a churchly touch)
+                (PP to
+                    (NP the grim atmosphere))))))
+   :)
+( 
+ (S (NP The words)
+    (AUX are)
+    (VP  (ADVP hardly)
+         calculated
+                  
+         (S (NP *)
+            (AUX to)
+            (VP put
+                (NP 
+                 (NP the Tsar)
+                 's mind)
+                (PP at
+                    (NP ease))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP echo
+       (NP (NP the words)
+           (SBAR (WHPP with
+                       (WHNP which))
+                 (S
+                  (NP he)
+                  (AUX has)
+                  (VP described
+                      (NP his own vision
+                          (PP of
+                              (NP (NP the dying child)
+                                  (SBAR (WHNP who)
+                                        ``
+                                        (S (S  (NP T) 
+                                               (VP (VP trembles)
+                                                   and
+                                                   (VP begs
+                                                       (PP for
+                                                           (NP mercy)))))
+                                           --
+                                           and
+                                           (S (NP there)
+                                              (VP is
+                                                  (NP no mercy))))
+                                        ''))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP (NP The living)
+          (ADVP as
+		well
+		(PP as
+		    (NP the dead))))
+      (ADVP now)
+      (VP accuse
+          (NP him)))
+     ;
+     ;
+     (S (NP this final reminder
+            (PP of
+                (NP his guilt)))
+        (VP is
+            (NP the
+                (ADJP fatal)
+                one))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP One
+       (PP of
+           (NP the outstanding assets
+               (PP of
+                   (NP the present production)))))
+   (VP is
+       (NP the restoration
+           (PP of
+               (NP (NP 
+                    (NP the St. Basil)
+                    's scene)
+                   ,
+                   (ADVP usually)
+                   (VP omitted
+                       (PP from
+                           (NP performances)))
+                   and
+                   (ADVP rarely)
+                   (VP included
+                       (PP in
+                           (NP a published score))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Though
+        (ADJP brief))
+    ,
+    (S (NP it)
+       (VP has
+           (NP (NP a
+                   sharp dramatic
+                   edge)
+               and
+               (NP great poignancy)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+        (NP addition))
+    ,
+    (S (NP it)
+       (VP is
+           (NP an important link
+               (PP in
+                   (NP the plot))))
+       ,
+       (S (NP *)  
+          (VP giving
+              (NP us)
+              (NP a revealing glimpse
+                  (PP of
+                      (NP 
+                       (NP the people)
+                       's attitude
+                       (PP toward
+                           (NP (NP Boris)
+                               and
+                               (NP the
+                                   (ADJP false)
+                                   Dimitri))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The mayhem
+       (PP in
+           (NP the forest
+               (PP of
+                   (NP Kromy)))))
+   (VP is
+       (NP a natural sequel)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP The St. Basil)
+    's scene)
+   (VP opens
+       (PP with
+           (S (S (NP little groups
+                     (PP of
+                         (NP beggars)))
+                 (VP milling
+                     (PP around
+                         (NP the square))))
+              ,
+              (S (NP the
+                     (ADJP  ever
+                            present) police)
+                 (VP keeping
+                     (NP them)
+                     (PP under
+                         (NP scrutiny))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+         (NP the orchestra))
+     (S
+      (NP we)
+      (VP hear
+          (ADVP first)
+          (NP (NP a
+                  hushed
+                  ,
+                  hesitant
+                  pizzicato figure)
+              ,
+              then
+              (NP the insistent
+                  ``
+                  police
+                  ''
+                  motif))
+	  (PP as
+	      (S (NP it)
+		 (VP appeared
+		     (PP in
+			 (NP the opening scene))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The service)
+      (VP is
+          (ADJP over)))
+     ,
+     and
+     (S (NP a number
+            (PP of
+                (NP people)))
+        (VP come
+            (PP from
+                (NP the church))
+            (PP with
+                (NP (NP their spokesman)
+                    (NP Mityukh)
+                    (PP in
+                        (NP the lead)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP They)
+      (VP bring
+          (NP the news
+              (SBAR that
+                    (S (NP the Pretender)
+                       (AUX has)
+                       (VP been
+                           (VP excommunicated
+                               )))))))
+     ;
+     ;
+     (S (NP this)
+        (AUX is)
+        (VP met
+             
+            (PP with
+                (NP scorn))
+            (PP by
+                (NP (NP the hearers)
+                    ,
+                    (SBAR 
+                     (WHNP who)
+                     (S (NP T)
+                        (VP claim
+                            (SBAR that
+                                  (S (NP Mityukh)
+                                     (AUX is)
+                                     (X (VP lying)
+                                        or
+                                        (ADJP drunk))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+    (S (NP Mussorgsky)
+       (VP (ADVP cleverly)
+           contrasts
+           (NP the two groups)
+           (PP by
+               (NP (NP their orchestral accompaniment)
+                   ,
+                   (NP solemn chords)
+                   or
+                   (NP (VP mocking)
+                       staccatos)))))
+    .
+    *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (NP There)
+       (VP is
+           (NP (ADJP  still
+                      more)
+               news)))
+    ,
+    (S (NP Mityukh)
+       (VP announces))
+    :
+    (S (NP they)
+       (AUX have)
+       (VP prayed
+           (PP for
+               (NP the soul
+                   (PP of
+                       (NP the Tsarevich)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

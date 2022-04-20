@@ -1,0 +1,2412 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP sentences))
+   ,
+   (S (NP patterns
+	  (PP of
+	      (NP stress)))
+      (AUX are)
+      (VP determined
+	      
+	  (PP by
+	      (NP (NP complex combinations
+		      (PP of
+			  (NP influences)))
+		  (SBAR 
+		   (WHNP that)
+		   (S (NP T)
+		      (AUX can)
+		      (VP (ADVP only)
+			  be
+			  (VP suggested))
+		      (ADVP here))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The tendency)
+   (VP is
+       (PP toward
+	   (S (NP *)
+	      (VP putting
+		  (NP dominant stress)
+		  (PP at
+		      (NP the end)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP is
+       (NP a parallel
+	   (PP to
+	       (NP this tendency)))
+       (PP in
+	   (NP the assignment
+	       (PP of
+		   (NP time))
+	       (PP in
+		   (NP (ADJP long-known) hymn tunes))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP the first lines
+	     (PP of
+		 (NP one
+		     (PP of
+			 (NP 
+			  (NP Charles Wesley)
+			  's hymns)))))
+	 (VP are
+	     (PP as
+		 (S (NP *)
+		    (VP follows))))))  
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S  
+    (NP (NP A charge)
+	(S (NP *)
+	   (AUX to)
+	   (VP keep
+	       (NP T) )))
+    (S (NP I)
+       (VP have)
+       ,
+       (NP (NP A God)
+	   (S (NP *)
+	      (AUX to)
+	      (VP glorify
+		  (NP T) )))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (NP (NP the tune)
+	       (SBAR (WHPP to
+			   (WHNP which))
+		     (S
+		      (NP this hymn)
+		      (AUX is)
+		      (VP (ADVP  most often)
+			  sung))))
+	   ,
+	   (NP  ``
+		Boylston
+		'')
+	   ,))
+   (S (NP (NP the syllables
+	      (NP (NP have)
+		  and
+		  (NP fy)))
+	  ,
+	  (VP ending
+	      (NP their lines))
+	  ,)
+      (VP have
+	  (ADVP twice
+		(NP (NP the time)
+		    (SBAR 0
+			  (S
+			   (NP any other syllables)
+			   (VP have))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Dominant stress)
+      (VP (VP is
+	      (PP of
+		  (NP course))
+	      (NP more
+		  (PP than
+		      (NP extended duration))))
+	  ,
+	  and
+	  (VP (ADVP normally)
+	      centers
+	      (PP on
+		  (NP (NP syllables)
+		      (SBAR 
+		       (WHNP that)
+		       (S (NP T)
+			  (AUX would)
+			  (VP have
+			      (NP  (NP primary stress) or (NP phrase stress)))
+			  (SBAR if
+				(S (NP (NP the words)
+				       or
+				       (NP (NP longer
+					       units)
+					   (SBAR 0
+						 (S (NP they)
+						    (VP are
+							(NP parts
+							    (PP of
+								(NP T))))))))
+				   (AUX were)
+				   (VP spoken
+				       (ADVP alone)))))))))))
+     :
+     (S (NP (NP a dominant stress)
+	    (VP given
+		(PP  to
+		     (NP glorify))))
+	(AUX would)
+	(ADVP normally)
+	(VP center
+	     (PP on
+		 (NP (NP its first syllable)
+		     (ADVP rather
+			   (PP than
+			       (NP its
+				   last))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP the parallel)
+	 (VP is
+	     (ADJP significant))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP the answer
+	   (PP to
+	       (NP (SBARQ (WHNP what)
+			  (SQ   
+			   (VP  's)
+			   (NP T) 
+			   (ADJP wrong)
+			   (ADVP now))
+			  ?
+			  ?))))
+       (VP Is
+	   (NP (S (NP Bill)
+		  (AUX 's)
+		  (VP broken
+		      (NP a chair)))))))
+   ,
+   (S (NP dominant stress)
+      (AUX will)
+      (ADVP usually)
+      (VP be
+	  (PP on
+	      (NP (NP the complement)
+		  (NP a chair))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S (S (PP From
+	      (NP the point
+		  (PP of
+		      (NP view
+			  (PP of
+			      (NP syntactic analysis))))))
+	  (S
+	   (NP the head word
+	       (PP in
+		   (NP the statement)))
+	   (VP is
+	       (NP the predicator
+		   (NP has
+		       broken)))))
+       ,
+       and
+       (S (PP from
+	      (NP the point
+		  (PP of
+		      (NP view
+			  (PP of
+			      (NP meaning))))))
+	  (S
+	   (NP it)
+	   (AUX would)
+	   (VP seem
+	       (SBAR that
+		     (S (NP the trouble)
+			(VP centers
+			    (PP in
+				(NP the breaking)))))))))
+    ;
+    ;
+    but
+    (S (NP dominant stress)
+       (AUX will)
+       (VP be
+	   (VP assigned
+		     
+	       (PP to
+		   (NP broken))))
+       (ADVP only)
+       (PP in
+	   (NP  (ADJP rather
+		      exceptional) versions
+		      (PP of
+			  (NP the sentence))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP (S (NP I)
+		 (VP know
+		     (NP one thing)))))
+      (S (NP dominant stress)
+	 (AUX will)
+	 (ADVP usually)
+	 (VP be
+	     (PP on
+		 (NP the
+		     complement 
+		     (NP one
+			 thing))))))
+     ;
+     ;
+     (S (PP in
+	    (NP (S (NP one thing)
+		   (S (NP I)
+		      (VP know)))))
+	(S (NP it)
+	   (AUX will)
+	   (ADVP usually)
+	   (VP be
+	       (PP on
+		   (NP the predicator
+		       (NP know)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (PP In
+	  (NP (S (NP  small-town people)
+		 (VP are
+		     (ADJP  very
+			    friendly)))))
+      (S (NP  dominant
+	      stress)
+	 (AUX will)
+	 (ADVP generally)
+	 (VP be
+	     (PP on
+		 (NP the complement
+		     (NP (ADJP  very
+				friendly)))))))
+     ;
+     ;
+     (S (PP in
+	    (NP the double sentence
+		(NP (S  (SBAR  (ADJP  the
+				      smaller)
+			       (NP the town))
+			,
+			(X (ADJP  the
+				  friendlier)
+			   (NP the people))))))
+	(S
+	 (NP it)
+	 (AUX will)
+	 (ADVP generally)
+	 (VP be
+	     (PP on
+		 (NP the subjects
+		     (NP (NP the town)
+			 and
+			 (NP the people))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (PP  In
+	  (NP (SBARQ (WHNP what)
+		     (SQ  (VP 's)
+			  (NP T)
+			  (NP a linguist))
+		     ?
+		     ?)))
+     (S
+      (NP dominant stress)
+      (AUX will)
+      (ADVP generally)
+      (VP be
+	  (PP on
+	      (NP the subject
+		  (NP a linguist))))))
+    ;
+    ;
+    (S (PP  in
+	    (NP (SBARQ (WHNP who)
+		       (SQ  (VP 's)
+			    (NP T)
+			    (NP a linguist))
+		       ?)))
+       (S
+	(NP it)
+	(AUX will)
+	(ADVP generally)
+	(VP be
+	    (PP on
+		(NP the complement
+		    (NP a linguist)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dominant stress)
+   (VP is
+       (PP on
+	   (NP her luggage)))
+   (PP  both
+	(PP in
+	    (NP (NP (S (NP that) 
+		       (VP 's
+			   (NP her luggage))))
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (NP her luggage)
+		    (VP is
+			(NP the complement))))))
+	,
+	and
+	(PP in
+	    (NP (NP (S (NP there)
+		       (VP 's
+			   (NP her luggage))))
+		,
+		(SBAR 
+		 (WHADVP where)
+		 (S (NP it)
+		    (VP is
+			(NP the subject))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP 
+   Adverbial second
+   complements)
+  ,
+  (ADVP however)
+  ,
+  (VP are
+      (ADJP likely
+	    (S   (NP *) 
+		 (NEG not)
+		 (AUX to)
+		 (VP have
+		     (NP dominant stress))
+		 (SBAR 
+		  (WHADVP when)
+		  (S (NP they)
+		     (VP terminate
+			 (NP sentences))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP the answer
+		  (PP to
+		      (NP (SBARQ (WHNP what)
+				 (SQ  (VP was)
+				      (NP that noise)
+				      (NP T))
+				 ?
+				 ?)))
+		  )
+	      (VP Is
+		  (NP (S (NP George)
+			 (VP put
+			     (NP the cat)
+			     (ADVP out)))))))
+    ,
+    (S (NP dominant stress)
+       (AUX will)
+       (ADVP ordinarily)
+       (VP be
+	   (PP on
+	       (NP (NP (NP the first complement)
+		       ,
+		       (NP the cat)
+		       ,)
+		   (NEG not)
+		   (NP (NP the second complement)
+		       (ADVP out)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Final adjuncts)
+   (AUX (AUX may)
+	or
+	(AUX may)
+	(NEG not))
+   (VP have
+       (NP dominant stress)))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (SBAR  If
+	 (S (NP the answer
+		(PP to
+		    (NP (SBARQ (WHNP what)
+			       (SQ  (VP was)
+				    (NP that noise)
+				    (NP T))
+			       ?
+			       ?))))
+	    (VP Is
+		(NP (S (NP George)
+		       (VP reads
+			   (NP the news)
+			   (ADVP emotionally)))))))
+  ,
+  (S (NP dominant stress)
+     (AUX (AUX may)
+	  or
+	  (AUX may)
+	  (NEG not))
+     (VP be
+	 (PP on
+	     (NP the adjunct
+		 (NP emotionally))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP prepositional complements)
+       (AUX are)
+       (VP divided
+	   )
+       (PP as
+	   (PP in
+	       (NP (SBARQ (WHNP what)
+			  (SQ  
+			   (AUX are)
+			   (NP you)
+			   (VP looking
+			       (PP for
+				   (NP T) )))
+			  ?
+			  ?))))))
+   (S
+    (NP They)
+    (VP are
+	(ADJP likely
+	      (S (NP *)
+		 (AUX to)
+		 (VP lose
+		     (NP dominant stress)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Context)
+   (VP is
+       (PP of
+	   (NP extreme importance))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (SBAR  
+       (WHNP What)
+       (S (NP T)
+	  (VP is
+	      (ADJP new))
+	  (PP in
+	      (NP the context)))))
+  (VP is
+      (ADJP likely
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (VP made
+		       (ADJP  more
+			      prominent
+			      (PP  than
+				   (SBAR (WHNP what)
+					 (S  (NP T) 
+					     (VP is)
+					     (NEG not)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Thus)
+	 (PP in
+	     (NP (NP a context)
+		 (SBAR 
+		  (WHPP in
+			(WHNP which))
+		  (S (S (NP there)
+			(AUX has)
+			(VP been
+			    (NP discussion
+				(PP of
+				    (NP snow)))))
+		     but
+		     (S (NP mention
+			    (PP of
+				(NP local conditions)))
+			(VP is
+			    (ADJP new)))))))
+	 ,
+	 (S (NP  dominant
+		 stress)
+	    (AUX will)
+	    (ADVP probably)
+	    (VP be
+		(PP on
+		    (NP here)))
+	    (PP in
+		(NP (S (NP it)
+		       (VP (ADVP rarely)
+			   snows
+			   (ADVP here)))))))
+     ,
+     but
+     (S (PP in
+	    (NP (NP a context)
+		(SBAR 
+		 (WHPP in
+		       (WHNP which))
+		 (S (NP there)
+		    (AUX has)
+		    (VP been
+			(NP (NP discussion
+				(PP of
+				    (NP local weather)))
+			    but
+			    (NP no mention
+				(PP of
+				    (NP snow)))))))))
+	,
+	(S (NP dominant stress)
+	   (AUX will)
+	   (ADVP probably)
+	   (VP be
+	       (PP on
+		   (NP snows))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP The personal pronouns and substitute one)
+  (VP are
+      (ADVP normally)
+      (ADJP unstressed))
+  (SBAR because
+	(S (NP they)
+	   (VP refer
+			 
+	       (PP  to
+		    (SBAR (WHNP what)
+			  (S (NP T) 
+			     (VP is
+				 (ADJP prominent))
+			     (PP in
+				 (NP the immediate context)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP (S (NP I)
+		  (AUX 'll)
+		  (VP go
+		      (PP with
+			  (NP George))))))
+       (S (NP dominant stress)
+	  (VP is
+	      (ADVP probably)
+	      (PP on
+		  (NP George)))))
+    ;
+    ;
+    but
+    (S (SBAR if
+	     (S (S (NP George)
+		   (AUX has)
+		   (ADVP just)
+		   (VP been
+		       (VP mentioned
+			   (ADVP prominently))))
+		*LRB*
+		and
+		(S (NP (NP the trip)
+		       (S (NP *)
+			  (AUX to)
+			  (VP be
+			      (VP made
+				  ))))
+		   (AUX has)
+		   (VP been
+		       (PP under
+			   (NP discussion))))
+		*RRB*))
+       ,
+       (S (S  
+	   (NP (SBAR  
+		(WHNP what)
+		(S (NP T)
+		   (AUX is)
+		   (VP said))))
+	   (VP is
+	       (ADVP probably)
+	       (NP (S (NP I)
+		      (AUX 'll)
+		      (VP go
+			  (PP with
+			      (NP him)))))))
+	  ,
+	  and
+	  (S (NP dominant stress)
+	     (VP is
+		 (ADVP probably)
+		 (PP on
+		     (NP the preposition
+			 (NP with))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (SBAR 
+   (WHADVP When)
+   (S (NP a gesture)
+      (VP accompanies
+	  (NP (SBARQ (WHNP who)
+		     (SQ  (VP 's)
+			  (NP he)
+			  (NP T) )
+		     ?
+		     ?)))))
+  (S
+   (NP the personal pronoun)
+   (VP has
+       (NP dominant stress))
+   (SBAR because
+	 (S ``
+	    (NP he)
+	    ''
+	    (AUX has)
+	    (NEG not)
+	    (VP been
+		(VP mentioned
+		    (ADVP previously)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (S (NP  both 
+		     (NP George)
+		     and
+		     (NP (NP a piece
+			     (PP of
+				 (NP information)))
+			 (SBAR 0
+			       (S (NP George)
+				  (AUX does)
+				  (NEG not)
+				  (VP have
+				      (NP T) )))))
+		(VP are
+		    (ADJP prominent))
+		(PP in
+		    (NP the context)))
+	     ,
+	     but
+	     (S (NP the idea
+		    (PP of
+			(S  (NP *)
+			    (VP telling
+				(NP George)))))
+		(VP is
+		    (ADJP new)))))
+   ,
+   (ADVP then)
+   (S (NP  dominant
+	   stress)
+      (AUX will)
+      (ADVP probably)
+      (VP be
+	  (PP on
+	      (NP tell)))
+      (PP in
+	  (NP (SBARQ (WHADVP why)
+		     (SQ (NP *)  
+			 (NEG not)
+			 (VP tell
+			     (NP George)))
+		     ?
+		     ?))))))
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR 
+       (WHADVP when)
+       (S  
+	(NP (SBAR 
+	     (WHNP what)
+	     (S (NP T)
+		(VP is
+		    (ADJP new))
+		(PP in
+		    (NP a particular context)))))
+	(VP is
+	    (ADVP also)
+	    (ADJP  (ADVP fairly)
+		   obvious))))
+      ,
+      (S (NP there)
+	 (VP is
+	     (ADVP normally)
+	     (NP (NP  (ADVP only)
+		      light
+		      stress)
+		 or
+		 (NP no stress
+		     (PP at
+			 (NP all)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Thus)
+	 (S (NP the
+		(ADJP unstressed)
+		it
+		(PP of
+		    (NP (S (NP it)
+			   (ADVP rarely)
+			   (VP snows
+			       (ADVP here))))))
+	    (VP gets
+		(NP its significance)
+		(PP from
+		    (NP its use
+			(PP with
+			    (NP snows)))))))
+     :
+     (S (NP nothing
+	    (PP-1 *pseudo-attach*))
+	(AUX can)
+	(VP snow
+	    (NP snow))
+	(PP-1 but
+	      ``
+	      (NP it)
+	      '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (PP In
+	  (NP (S (NP there)
+		 (VP are
+		     (NEG n't)
+		     (NP many young people)
+		     (PP in
+			 (NP the neighborhood))))))
+      (S
+       (NP the modifier
+	   (NP  young))
+       (VP takes
+	   (NP dominant stress)
+	   (PRT away)
+	   (PP from
+	       (NP its head people)))))
+     :
+     (S (NP the fact
+	    (SBAR that
+		  (S (NP the young creatures
+			 (PP of
+			     (NP interest)))
+		     (VP are
+			 (NP people)))))
+	(VP seems
+	    (ADJP  rather
+		   obvious))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP women)
+	     (VP replaced
+		 (NP people))))
+   ,
+   (S (NP it)
+      (AUX would)
+      (ADVP normally)
+      (VP have
+	   (NP dominant stress))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP I)
+	      (VP have
+		  (NP (NP things)
+		      (S (NP *)
+			 (AUX to)
+			 (VP do)))))))
+   (S (NP the word 
+	  (NP things))
+      (VP (VP makes
+	      (NP  little
+		   real contribution
+		   (PP to
+		       (NP meaning))))
+	  and
+	  (VP has
+	      (NP 
+	       weaker
+	       stress
+	       (PP than
+		   (NP do)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (NP work)
+	      (AUX is)
+	      (VP substituted
+		     
+		  (PP for
+		      (NP things)))
+	      *LRB*
+	      (PP with
+		  (NP  (ADJP more
+			     exact) contribution
+			     (PP to
+				 (NP meaning))))
+	      *RRB*))
+    ,
+    (S (NP it)
+       (AUX will)
+       (VP have
+	   (NP dominant stress))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP I)
+	      (VP know
+		  (NP one thing)))))
+   (S (NP  dominant stress)
+      (VP is
+	  (ADJP likely
+		(S (NP *)
+		   (AUX to)
+		   (VP go
+		       (PP (PP to
+			       (NP one))
+			   (ADVP rather
+				 (PP than
+				     (PP to
+					 (NP  (ADJP (ADVP semantically)
+						    pale) thing)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (S (NP I)
+		 (VP knew
+		     (NP you))
+		 (SBAR 
+		  (WHADVP when)
+		  (S (NP you)
+		     (VP were
+			 (NP a child)))))
+	      ,
+	      and
+	      (S (NP you)
+		 (VP were
+		     (ADJP pretty))
+		 (ADVP then)))))
+   (S (NP dominant stress
+	  (PP on
+	      (NP then)))
+      (VP implies
+	  (SBAR that
+		(S (NP (NP the young woman)
+		       (VP spoken
+			   (PP to
+			       (NP *) )))
+		   (VP is
+		       (ADVP still)
+		       (ADJP pretty)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dominant stress
+       (PP on
+	   (NP (ADJP pretty))))
+   (AUX would)
+   (VP be
+       (ADJP  (ADVP almost)
+	      insulting)
+       (ADVP here)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (PP In
+	  (NP the  (ADJP written) language))
+      (S (NP then)
+	 (AUX can)
+	 (VP be
+	     (VP (VP underlined)
+		 or
+		 (VP italicized)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP guide
+		(NP the reader))
+	    (ADVP here))))
+     ,
+     but
+     (S  (NP much
+	     (PP of
+		 (NP the time)))
+	 (S (S
+	     (NP the (ADJP written) language)
+	     (VP  (ADVP simply)
+		  depends
+		  (PP on
+		      (NP 
+		       (NP the reader)
+		       's alertness))))
+	    ,
+	    and
+	    (S (NP a careless reader)
+	       (AUX will)
+	       (VP have
+		   (S (NP *)
+		      (AUX to)
+		      (VP (VP back
+			      (PRT up))
+			  and 
+			  (VP reread))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Often)
+      ,
+      (S (NP dominant stress)
+	 (VP  (ADVP simply)
+	      indicates
+	      (NP a centering
+		  (PP of
+		      (NP (NP attention) or (NP emotion)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (PP in
+	  (NP (S (NP it
+		     (SBAR-1 *pseudo-attach*))
+		 (VP 's
+		     (ADJP incredible))
+		 (SBAR-1 (WHNP what)
+			 (S (NP that boy)
+			    (AUX can)
+			    (VP eat
+				(NP T) ))))))
+      (S (S (NP dominant stress)
+	    (VP is
+		(ADJP likely
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (PP on
+				 (NP incredible)))))))
+	 ,
+	 and
+	 (S (NP eat)
+	    (AUX will)
+	    (VP have
+		(NP strong stress))
+	    (ADVP also))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP she)
+	      (VP has
+		  (NP it)
+		  (PRT in)
+		  (PP for (NP George ))))))
+   (S (NP dominant stress)
+      (AUX will)
+      (ADVP ordinarily)
+      (VP be
+	  (PP on
+	      (NP (NP in)
+		  ,
+		  (SBAR 
+		   (WHADVP where)
+		   (S (NP the notion
+			  (PP of
+			      (NP (ADJP stored-up) antipathy)))
+		      (VP seems
+			  (PP to
+			      (NP center))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP (S (NP we)
+	     (AUX 're)
+	     (VP painting
+		 (PP at (NP our garage ))))))
+  (S (NP strong stress
+	 (PP on
+	     (NP at)))
+     (VP indicates
+	 (SBAR that
+	       (S (NP (NP the job)
+		      (VP being
+			  (VP done)))
+		  (VP is
+		      (NP (NEG not)
+			  (NP real painting)
+			  but
+			  (NP (ADVP simply)
+			      an effort
+			      (PP at
+				  (NP painting))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP Where)
+      (S (NP there)
+	 (VP is
+	     (NP (NP comparison) or (NP contrast)))))
+     ,
+     (S (NP dominant stresses)
+	(ADVP normally)
+	(VP operate
+	    (S (NP *)
+	       (AUX to)
+	       (VP center
+		   (NP attention))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Thus)
+	 (PP in
+	     (NP (S (NP his friends)
+		    (VP are
+			(ADJP stranger
+			      (PP than
+				  (NP 
+				   his sisters ' )))))))
+	 (S (NP strong stresses)
+	    (VP are
+		(ADJP normal)
+		(PP for
+		    (NP (NP his)
+			and
+			(NP 
+			 sisters
+			 '))))))
+     ,
+     but
+     (S (PP in
+	    (NP (S (NP his friends)
+		   (VP are
+		       (ADJP stranger
+			     (PP than
+				 (NP his sisters)))))))
+	(S (NP strong stresses)
+	   (VP are
+	       (ADJP normal)
+	       (PP for
+		   (NP (NP friends) and (NP sisters)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP he)
+	      (AUX 's)
+	      (VP hurting
+		  (NP himself)
+		  (ADVP more
+			(PP than
+			    (S (NP he)
+			       (AUX 's)
+			       (VP hurting
+				   (NP you)))))))))
+   (S (NP  both
+	   (NP himself)
+	   and
+	   (NP you))
+      (VP have
+	  (NP 
+	   stronger
+	   stress
+	   (PP than
+	       (S (NP they)
+		  (AUX would)
+		  (ADVP ordinarily)
+		  (VP have)
+		  (SBAR if
+			(S (NP there)
+			   (VP were
+			       (NP no contrast))))))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP In
+       (NP (SQ (VP is)
+	       (NP she)
+	       (ADJP  Chinese
+		      or
+		      Japanese)
+	       ?
+	       ?)))
+   (S  
+    (NP The desire
+	(S (NP *)
+	   (AUX to)
+	   (VP contrast
+	       (NP the first parts
+		   (PP of
+		       (NP (NP words)
+			   (SBAR  
+			    (WHNP which)
+			    (S (NP T)
+			       (VP are
+				   (ADJP alike)
+				   (PP in
+				       (NP their last
+					   components)))))))))))
+    (VP produces
+	(NP an exceptional disregard
+	    (PP of
+		(NP the normal patterns
+		    (PP of
+			(NP stress
+			    (PP of
+				(NP (NP Chinese)
+				    and
+				    (NP Japanese)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Sometimes)
+      (S (NP strong stress)
+	 (VP serves
+	     (S (NP *)
+		(AUX to)
+		(VP focus
+		    (NP an
+			important secondary
+			relationship))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Thus)
+     (PP in
+	 (NP (S (NP Mary)
+		(VP wrote
+		    (NP an account
+			(PP of
+			    (NP the trip))))
+		(ADVP first))))
+     (S (S (NP strong stress
+	       (PP on
+		   (NP Mary)))
+	   (VP marks
+	       (NP Mary)
+	       (PP as
+		   (NP the
+		       first
+		       (PP in
+			   (NP (NP a series
+				   (PP of
+				       (NP people)))
+			       (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (VP wrote
+				       (NP accounts
+					   (PP of
+					       (NP the trip))))))))))))
+	,
+	(S (NP strong stress
+	       (PP on
+		   (NP wrote)))
+	   (NP marks
+	       (NP the writing)
+	       (PP as
+		   (NP the
+		       first
+		       (PP of
+			   (NP (NP (NP a series
+				       (PP of
+					   (NP actions
+					       (PP of
+						   (NP Mary 's)))))
+				   (VP concerned
+				       (PP with
+					   (NP an account
+					       (PP of
+						   (NP her trip))))))
+			       *LRB*
+			       (SBAR (WHPP about
+					   (WHNP which))
+				     (S (NP she)
+					(AUX may)
+					(ADVP later)
+					(VP have
+					    (VP made
+						(NP speeches)))
+					,
+					(PP for
+					    (NP example))))
+			       *RRB*))))))
+	,
+	and
+	(S (NP strong stress
+	       (PP on
+		   (NP trip)))
+	   (VP makes
+	       (NP the trip)
+	       (NP the
+		   first
+		   (PP of
+		       (NP (NP a series
+			       (PP of
+				   (NP subjects)))
+			   (SBAR (WHPP about
+				       (WHNP which))
+				 (S
+				  (NP Mary)
+				  (VP wrote
+				      (NP accounts)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP hunger)
+	      (VP stimulates
+		  (NP man))
+	      (ADVP too))))
+   (S (NP the situation)
+      (VP is
+	  (ADJP  very
+		 similar))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Strong stress
+	   (PP on
+	       (NP hunger)))
+       (VP treats
+	   (NP hunger)
+	   (PP as
+	       (NP an additional stimulus))))
+    ,
+    (S (NP strong stress
+	   (PP on
+	       (NP stimulates)))
+       (VP treats
+	   (NP stimulation)
+	   (PP as
+	       (NP an additional effect
+		   (PP of
+		       (NP hunger))))))
+    ,
+    (S (NP strong stress
+	   (PP on
+	       (NP man)))
+       (VP treats
+	   (NP man)
+	   (PP as
+	       (NP (NP an additional creature)
+		   (SBAR 
+		    (WHNP who)
+		    (S (NP T)
+		       (VP responds
+			   (PP to
+			       (NP the stimulation
+				   (PP of
+				       (NP hunger))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S   (ADVP Here)
+	  (ADVP again)
+	  ,
+	  (PP in
+	      (NP the written language))
+	  (S
+	   (NP it
+	       (S-2 *pseudo-attach*))
+	   (VP is
+	       (ADJP possible))
+	   (S-2 (NP *)
+		(AUX to)
+		(VP help
+		    (NP the reader)
+		    (VP get
+			(NP his stresses)
+			(ADJP right))
+		    (PP by
+			(S (NP *) 
+			   (VP using
+			       (NP (NP underlining) or (NP italics)))))))))
+     ,
+     but
+     (S  (NP much
+	     (PP of
+		 (NP the time)))
+	 (S
+	  (NP there)
+	  (VP is
+	      (ADVP simply)
+	      (NP reliance
+		  (PP on
+		      (NP his understanding
+			  (PP in
+			      (NP the light
+				  (PP of
+				      (NP context)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR
+     (WHADVP When)
+     (S (NP a word)
+	(VP represents
+	    (NP (NP a
+		    larger
+		    construction)
+		(SBAR (WHPP of
+			    (WHNP which))
+		      (S (NP it)
+			 (VP is
+			     (NP the
+				 (ADJP only)
+				 (VP expressed) part))))))))
+    ,
+    (S (NP it)
+       (ADVP normally)
+       (VP has
+	   (NP 
+	    more
+	    stress
+	    (PP than
+		(S (NP it)
+		   (AUX would)
+		   (VP have
+		       (PP in
+			   (NP  (VP (ADVP fully)
+				    expressed) construction)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (SBAR (WHADVP when)
+	    (S  (NP (S (X yes)
+		       ,
+		       (S (NP I)
+			  (AUX have))))
+		(VP is
+		    (NP the response
+			(PP to
+			    (NP (SQ  (AUX have)
+				     (NP you)
+				     (VP finished
+					 (S (NP *) 
+					    (VP reading
+						(NP the paper))))
+				     ?
+				     ?)))))))
+      (S (NP The stress
+	     (PP on
+		 (NP (NP have)
+		     ,
+		     (SBAR 
+		      (WHNP which)
+		      (S  (NP T) 
+			  (ADVP here)
+			  (VP represents
+			      (NP (AUX have)
+				  (VP finished
+				      (S (NP *) 
+					 (VP reading
+					     (NP the paper))))))))
+		     ,)))
+	 (VP is
+	     (ADJP  quite
+		    strong))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (S (NP Mack)
+		 (VP 's
+		     (NP the leader)
+		     (PP at
+			 (NP camp))))
+	      ,
+	      but
+	      (S (NP Jack)
+		 (VP is)
+		 (ADVP here)))))
+   (S (NP the is
+	  (PP of
+	      (NP the
+		  second main
+		  declarative)))
+      (VP (VP represents
+	      (NP (VP is
+		      (NP the leader))))
+	  and
+	  (ADVP therefore)
+	  (VP has
+	      (NP stress)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  
+  (NP (S (S (NP Mack)
+	    (VP 's
+		(NP the leader)
+		(PP at
+		    (NP camp))))
+	 ,
+	 but
+	 (S  
+	  (NP Jack)
+	  (VP 's
+	      (ADVP here)))))
+  ,
+  (PP with
+      (S (NP this
+	     is)
+	 (VP deprived
+       
+	     (PP of
+		 (NP stress)))))
+  ,
+  (VP makes
+      (NP here)
+      (NP the complement
+	  (PP in
+	      (NP the clause)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (PP In
+      (NP (S (PP of
+		 (NP (NP all
+			 the suggestions)
+		     (SBAR 
+		      (WHNP that)
+		      (S (NP T)
+			 (AUX were)
+			 (VP made
+			     )))))
+	     ,
+	     (S (NP his)
+		(VP was
+		    (NP the
+			silliest))))))
+  (S (NP the
+	 possessive
+	 (NP his))
+     (X (VP represents
+	    (NP his suggestion))
+	and
+	(X  
+	 (AUX is)
+	 (VP stressed
+	     )))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (SBAR  
+       (WHADVP When)
+       (S 
+	(NP go)
+	(VP represents
+	    (NP (NP itself)
+		and
+		(NP a complement)))
+	*LRB*
+	(S (NP *) 
+	   (VP being
+	       (NP equivalent
+		   ,
+		   (ADVP say)
+		   ,
+		   (PP  to
+			(NP (VP go
+				(PP to
+				    (NP Martinique))))))))
+	*RRB*
+	(PP in
+	    (NP (SBARQ (WHNP which boat)
+		       (SQ  (AUX did)
+			    (NP Jack)
+			    (VP go
+				(PP on
+				    (NP T))))
+		       ?
+		       ?)))))
+      (S (NP It)
+	 (VP has
+	     (NP strong stress))))
+     ;
+     ;
+     (S (SBAR 
+	 (WHADVP when)
+	 (S (S (NP it)
+	       (VP represents
+		   (NP (ADVP only)
+		       itself)))
+	    and
+	    (S (NP  on
+		    which)
+	       (VP is
+		   (NP its complement)))
+	    *LRB*
+	    (SBAR  so
+		   that
+		   (S (NP  go
+			   on)
+		      (VP is
+			  (ADVP semantically)
+			  (ADJP equivalent
+				(PP to
+				    (NP board))))))
+	    *RRB*))
+	,
+	(S  (NP on)
+	    (VP has
+		(NP 
+		 stronger
+		 stress
+		 (PP than
+		     (S (NP go)
+			(AUX does))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Omission
+      (PP of
+	  (NP a subordinator pronoun)))
+  ,
+  (ADVP however)
+  ,
+  (AUX does)
+  (NEG not)
+  (NP result
+      (PP in
+	  (NP an increase
+	      (PP in
+		  (NP stress
+		      (PP on
+			  (NP (NP a prepositional adverb)
+			      (SBAR (WHPP for
+					  (WHNP which))
+				    (S
+				     (NP the subordinator pronoun)
+				     (AUX would)
+				     (VP be
+					 (NP object))))))))))))
+ .
+ ) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S  
+       (NP to)
+       (VP has
+	   (NP light stress))
+       (PP  both
+	    (PP in
+		(NP (S (NP that)
+		       (VP was
+			   (NP (NP the conclusion)
+			       (SBAR (WHNP that)
+				     (S (NP I)
+					(VP came
+					    (PP to
+						(NP T) )))))))))
+	    and
+	    (PP   in
+		  (NP (S (NP that)
+			 (VP was
+			     (NP (NP the conclusion)
+				 (SBAR 0
+				       (S
+					(NP I)
+					(VP came
+					    (PP to
+						(NP T) ))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR (WHADVP when)
+	    (S 
+	     (NP to)
+	     (VP represents
+		 (NP (PP to
+			 (NP consciousness))))
+	     (PP (PP in
+		     (NP (S (NP that)
+			    (VP was
+				(NP (NP the moment)
+				    (SBAR that
+					  (S (NP I)
+					     (VP came
+						 (PRT to)
+						 ))))))))
+		 ,
+		 and
+		 (ADVP similarly)
+		 (PP in
+		     (NP (S (NP that)
+			    (VP was
+				(NP (NP the moment)
+				    (SBAR 0
+					  (S
+					   (NP I)
+					   (VP came
+					       (PRT to))))))))))))
+      ,
+      (S (NP there)
+	 (VP is
+	     (NP (ADJP  much
+			stronger)
+		 stress
+		 (PP on
+		     (NP to))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (S (NP I)
+		 (VP wanted
+		     (S (NP *)
+			(AUX to)
+			(VP tell
+			    (NP him)))))
+	      ,
+	      but
+	      (S (NP I)
+		 (VP was
+		     (ADJP afraid
+			   (S  (NP *)
+			       (AUX to))))))))
+   (S (NP the
+	  final
+	  to)
+      (AUX  is)
+      (VP  (ADVP lightly)
+	   stressed
+	   )
+      (SBAR because
+	    (S (NP it)
+	       (VP represents
+		     
+		   (NP (AUX to)
+		       (VP tell
+			   (NP him))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP (S (NP *)
+	      (AUX to)
+	      (VP tell
+		  (NP him)))))
+   ,
+   (PP of
+       (NP course))
+   ,
+   (S 
+    (NP to)
+    (VP is
+	(ADVP normally)
+	(ADJP unstressed))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP (S (NP I)
+	      (VP have
+		  (NP  instructions
+		       (S (NP *)
+			  (AUX to)
+			  (VP leave))))))
+       (VP is
+	   (ADJP equivalent
+		 (PP in
+		     (NP meaning))
+		 (PP to
+		     (NP (S (NP I)
+			    (VP have
+				(NP instructions
+				    (SBAR that
+					  (S (NP I)
+					     (VP am
+						 (S (NP *)
+						    (AUX to)
+						    (VP leave
+							(NP this place)))))))))))))))
+   ,
+   (S (NP dominant stress)
+      (VP is
+	  (ADVP ordinarily)
+	  (PP on
+	      (NP leave)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP the same sequence)
+       (VP is
+	   (ADJP equivalent
+		 (PP in
+		     (NP meaning))
+		 (PP to
+		     (NP (S (NP I)
+			    (VP have
+				(NP (NP instructions)
+				    (SBAR (WHNP which)
+					  (S (NP I)
+					     (VP am
+						 (S (NP *)
+						    (AUX to)
+						    (VP leave
+							(NP T)))))))))))))))
+   ,
+   (S (NP dominant stress)
+      (VP is
+	  (ADVP ordinarily)
+	  (PP on
+	      (NP instructions)))))
+  .)    
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (VP is
+       (ADJP clear))
+   (SBAR-3 that
+	   (S (NP patterns
+		  (PP of
+		      (NP stress)))
+	      (ADVP sometimes)
+	      (VP show
+		  (NP construction)
+		  (ADVP unambiguously))
+	      (PP in
+		  (NP the (ADJP spoken) language))
+	      (SBAR (WHADVP where)
+		    (S (PP without
+			   (NP the help
+			       (PP of
+				   (NP context))))
+		       (S
+			(NP it)
+			(AUX would)
+			(VP be
+			    (ADJP ambiguous))
+			(PP in
+			    (NP the
+				(ADJP written)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Other examples)
+   (VP follow))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX 'll)
+      (VP come
+	  (ADVP  by))
+      (NP Tuesday))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX ca)
+   (NEG n't)
+   (VP be
+       (ADJP happy)
+       (ADVP long))
+   (PP without
+       (S  (NP *)
+	   (VP drinking
+	       (NP water)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP the
+	       first
+	       (PP of
+		   (NP these sentences))))
+       (SBAR if
+	     (S (S (NP by)
+		   (VP is
+		       (NP the complement
+			   (PP of
+			       (NP come)))))
+		and
+		(S (NP Tuesday)
+		   (VP is
+		       (NP (NP an adjunct
+			       (PP of
+				   (NP time)))
+			   (ADJP equivalent
+				 (PP to
+				     (NP (PP on
+					     (NP Tuesday))))))))))
+       ,
+       (S (NP there)
+	  (AUX will)
+	  (VP be
+	      (NP strong stress
+		  (PP on
+		      (NP by))))
+	  (PP in
+	      (NP the (ADJP spoken language)))))
+    ;
+    ;
+    but
+    (S (SBAR if
+	     (S (S (NP a complement
+		       (PP for
+			   (NP come)))
+		   (AUX is)
+		   (VP implied
+		       ))
+		and
+		(S (NP (PP by
+			   (NP Tuesday)))
+		   (VP is
+		       (NP (NP a prepositional unit)
+			   (VP used
+			       (PP as
+				   (NP an adjunct))))))))
+       ,
+       (S  (NP by)
+	   (AUX will)
+	   (VP be
+	       (ADJP (ADJP unstressed)
+		     or
+		     (ADJP  (ADVP lightly)
+			    stressed
+			    (PP at
+				(ADJP most))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP the second sentence))
+       (SBAR if
+	     (S (S (NP (S (NP *) 
+			  (VP drinking
+			      (NP water))))
+		   (VP is
+		       (NP a gerundial clause)))
+		and
+		(S (NP (PP without
+			   (S  (NP *)
+			       (VP drinking
+				   (NP water))) ))
+		   (VP is
+		       (ADJP  (ADVP roughly)
+			      equivalent
+			      (PP in
+				  (NP meaning))
+			      (PP to
+				  (NP (SBAR unless
+					    (S (NP I)
+					       (VP drink
+						   (NP water)))))))))))
+       ,
+       (S (NP there)
+	  (AUX will)
+	  (VP be
+	      (NP stronger
+		  stress
+		  (PP on
+		      (NP water))
+		  (PP than
+		      (PP on
+			  (NP drinking)))))))
+    ;
+    ;
+    but
+    (S (SBAR if
+	     (S (S (NP drinking)
+		   (VP is
+		       (NP (NP a gerundial noun)
+			   (VP modifying
+			       (NP water)))))
+		and
+		(S (NP (PP without
+			   (NP drinking water)))
+		   (VP is
+		       (ADJP equivalent
+			     (PP to
+				 (NP (PP without
+					 (NP water
+					     (PP for
+						 (NP drinking)))))))))))
+       ,
+       (S (NP there)
+	  (AUX will)
+	  (VP be
+	      (NP stronger
+		  stress
+		  (PP on
+		      (NP drinking))
+		  (PP than
+		      (PP on
+			  (NP water))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S  
+       (NP the use
+	   (PP of
+	       (NP stress))
+	   (PP in
+	       (NP (NP comparison) and (NP contrast))))
+       ,
+       (PP for
+	   (NP example))
+       ,
+       (AUX can)
+       (VP undermine
+	   (NP (NP distinctions)
+	       (ADJP such
+		     (PP as
+			 (NP these)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  And
+      (S (NP patterns
+	     (PP of
+		 (NP stress)))
+	 (VP are
+	     (NEG not)
+	     (ADVP always)
+	     (ADJP unambiguous)
+	     (PP by
+		 (NP any means)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP In
+	  (NP (S (NP the Steiners)
+		 (VP have
+		     (NP busy lives))
+		 (PP without
+		     (S (NP *)
+			(VP visiting
+			    (NP relatives)))))))
+      (S (NP only context)
+	 (AUX can)
+	 (VP indicate
+	     (SBAR whether
+		   (S  (NP (S  (NP *) 
+			       (VP visiting
+				   (NP relatives))))
+		       (VP is
+			   (ADJP equivalent
+				 (PP in
+				     (NP meaning))
+				 (PP (PP to
+					 (NP (S (NP *)  
+						(VP paying
+						    (NP visits)
+						    (PP to
+							(NP relatives))))))
+				     or
+				     (PP to
+					 (NP (NP relatives)
+					     (SBAR  
+					      (WHNP who)
+					      (S (NP T)
+						 (AUX are)
+						 (VP visiting
+						     (NP them))))))))))))))
+     ,
+     and
+     (S (PP in
+	    (NP  (NP (S (NP I)
+			(VP looked
+			    (PRT up)
+			    (NP the number))))
+		 and
+		 (NP (S (NP I)
+			(VP looked
+			    (PP  up
+				 (NP the chimney)))))))
+	(S (NP  (ADVP only)
+		the meanings
+		(PP of
+		    (NP (NP number) and (NP chimney))))
+	   (VP make
+	       (NP it
+		   (SBAR-4 *pseudo-attach*))
+	       (ADJP clear)
+	       (SBAR-4 that
+		       (S  (NP up)
+			   (VP (VP is
+				   (ADVP syntactically)
+				   (NP a second complement)
+				   (PP in
+				       (NP the first sentence)))
+			       and
+			       (X  (NP (NP a preposition)
+				       (VP followed
+					   (PP by
+					       (NP its object))))
+				   (PP in
+				       (NP the second))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (NP Syllabification)
+   .
+   --)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Syllables)
+    (VP are
+	(NP (NP (NP linguistic units)
+		(VP centering
+		    (PP in
+			(NP   peaks))))
+	    (SBAR (SBAR        
+		   (WHNP which)
+		   (S (NP T)
+		      (VP (VP are
+			      (ADVP usually)
+			      (ADJP vocalic))
+			  but
+			  ,
+			  (PP as
+			      (S (NP *)  
+				 (AUX has)
+				 (VP been
+				     (VP noted
+					 ))))
+			  ,
+			  (VP are
+			      (ADJP consonantal)
+			      (PP under
+				  (NP certain circumstances))))))
+		  ,
+		  and
+		  (SBAR 
+		   (WHNP which)
+		   (S (NP T)
+		      (AUX (AUX may)
+			   or
+			   (AUX may)
+			   (NEG not))
+		      (VP be
+			  (VP combined
+		    
+			      (PP with
+				  (NP (VP (VP preceding)
+					  and
+					  (VP following))
+				      consonants
+				      or
+				      combinations
+				      (PP of
+					  (NP consonants))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Syllables)
+      (VP are
+	  (NP genuine units)))
+     ,
+     but
+     (S (NP division
+	    (PP of
+		(NP (NP words) and (NP sentences)))
+	    (PP into
+		(NP them)))
+	(VP presents
+	    (NP great difficulties))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Sometimes)
+      (S (NP  (ADVP even)
+	      the number
+	      (PP of
+		  (NP syllables)))
+	 (VP is
+	     (NEG not)
+	     (ADJP clear))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Doubt
+       (PP on
+	   (NP this point)))
+   (VP is
+       (ADJP strongest)
+       (PP before
+	   (NP  and           
+		AAb
+		or))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (PP From
+       (NP the point
+	   (PP of
+	       (NP view))
+	   (PP of
+	       (NP word formation))))
+   (S  (NP real)
+       (AUX might)
+       (VP be
+	   (VP expected
+	        
+	       (S (NP *)
+		  (AUX to)
+		  (VP have
+		      (NP two syllables)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Historically)
+      (S (S (NP re)
+	    (VP is
+		(NP (NP the formative)
+		    (SBAR 
+		     (WHNP that)
+		     (S (NP T)
+			(AUX is)
+			(VP employed
+			    (ADVP also)
+			    (PP in
+				(NP republic))))))))
+	 ,
+	 and
+	 (S (NP al)
+	    (VP is
+		(NP the common suffix)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S (NP ity)
+       (AUX is)
+       (VP added
+	   )))
+   ,
+   (S  (NP real)
+       (ADVP clearly)
+       (VP has
+	   (NP two syllables))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  But
+	 (S (NP there)
+	    (VP is
+		(NP  every reason
+		     (S (NP *)
+			(AUX to)
+			(VP regard
+			    (NP deal)
+			    (PP as
+				(NP a monosyllable))))))))
+     ,
+     and
+     (S (ADVP because
+	      (PP of
+		  (NP the fact
+		      (SBAR  that
+			     (S
+			      (NP commonly)
+			      (VP has
+				  (NP the quality
+				      (PP of
+					  (NP AAb))))
+			      (SBAR 
+			       (WHADVP when)
+			       (S (NP it)
+				  (VP follows
+				      (NP vowel sounds)))))))))
+	,
+	(S (NP deal)
+	   (VP seems
+	       (S (NP *)
+		  (AUX to)
+		  (VP be
+		      (NP a
+			  (ADJP  (ADVP perfectly)
+				 satisfactory) rhyme
+			  (PP with
+			      (NP deal)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

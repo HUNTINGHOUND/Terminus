@@ -1,0 +1,2463 @@
+
+ 
+ 
+
+ 
+
+(
+ (SBARQ
+        (WHADVP (WRB How)
+                (RB else))
+        (SQ (AUX (MD can))
+            (NP (NN one))
+            (VP (VB explain)
+                (, ,)
+                (PP (IN for)
+                    (NP (NN example)))
+                (, ,)
+                (S (S (NP (-NONE- *))
+                      (VP (VBG allowing)
+                          (NP (DT the) (NN survival)
+                              (PP (IN of)
+                                  (NP (NP (NP (DT the) (NN right)
+                                              (S (NP (-NONE- *))
+                                                 (AUX (TO to))
+                                                 (VP (VB amortize)
+                                                     (NP (NP (NN bond) (NN discount)) (CC and) (NP (NN premium))))))
+                                          (-LRB- -LRB-)
+                                          (NP (NP (NN section) (CD 381))
+                                              (-LRB- -LRB-)
+                                              (NP (NN c))
+                                              (-RRB- -RRB-)
+                                              (-LRB- -LRB-)
+                                              (NP (CD 9))
+                                              (-RRB- -RRB-))
+                                          (-RRB- -RRB-))
+                                      (, ,)
+                                      (CC but)
+                                      (NEG (RB not))
+                                      (NP (DT the) (NN right)
+                                          (S (NP (-NONE- *))
+                                             (AUX (TO to))
+                                             (VP (VB amortize)
+                                                 (NP (NN bond) (NN issue) (NNS expenses))))))))))
+                   (: ;)
+                   (: ;)
+                   (CC or)
+                   (S (NP (-NONE- *))
+                      (VP (VBG allowing)
+                          (NP (NP (NP (DT a) (NN deduction)
+                                      (PP (IN for)
+                                          (NP (NN payment)
+                                              (PP (IN of)
+                                                  (NP (NP (JJ certain) (NNS obligations)
+                                                          (PP (IN of)
+                                                              (NP (DT a) (NN transferor))))
+                                                      (VP (VBN assumed)
+                                                          (PP (IN in)
+                                                              (NP (DT the) (NN reorganization)))))))))
+                                  (-LRB- -LRB-)
+                                  (NP (NP (NN section) (CD 381))
+                                      (-LRB- -LRB-)
+                                      (NP (NN c))
+                                      (-RRB- -RRB-)
+                                      (-LRB- -LRB-)
+                                      (NP (CD 16))
+                                      (-RRB- -RRB-))
+                                  (-RRB- -RRB-))
+                              (, ,)
+                              (CC but)
+                              (NEG (RB not))
+                              (NP (DT a) (NN deduction)
+                                  (PP (IN for)
+                                      (NP (NP (NN theft) (NNS losses))
+                                          (VP (VP (VBN sustained)
+                                                  (PP (IN by)
+                                                      (NP (DT a) (NN transferor)))
+                                                  (ADVP (RB prior)
+                                                        (PP (TO to)
+                                                            (NP (DT a) (NN reorganization)))))
+                                              (CC but)
+                                              (VP (VBD discovered)
+                                                  (PP (IN after)
+                                                      (NP (PRP it))))))))))))
+                (: ;)
+                (: ;)
+                (CC or)
+                (S (NP (-NONE- *))
+                   (VP (VBG requiring)
+                       (S (NP (DT a) (NN transferor))
+                          (AUX (TO to))
+                          (VP (VB carry)
+                              (PRT (IN over))
+                              (NP (PRP$ its) (NN method)
+                                  (PP (IN of)
+                                      (NP (NN depreciation))))))))
+                (-LRB- -LRB-)
+                (NP (NN section) (CD 381)
+                    (-LRB- -LRB-)
+                    (NP (NN c))
+                    (-RRB- -RRB-)
+                    (-LRB- -LRB-)
+                    (NP (CD 6))
+                    (-RRB- -RRB-))
+                (-RRB- -RRB-)
+                (, ,)
+                (CC but)
+                (NEG (RB not))
+                (S (NP (-NONE- *))
+                   (VP (VBG allowing)
+                       (NP (JJ rapid) (NN amortization)
+                           (PP (IN of)
+                               (NP (NP (NN emergency) (NNS facilities))
+                                   (VP (VBN transferred)
+                                       (PP (IN in)
+                                           (NP (DT a) (NN reorganization)))))))))
+                (: ;)
+                (: ;)
+                (CC or)
+                (S (NP (-NONE- *))
+                   (VP (VBG allowing)
+                       (NP (NN survival)
+                           (PP (IN of)
+                               (NP (NP (NP (DT a) (NN dividend) (NN carryover)
+                                           (PP (TO to)
+                                               (NP (DT a)
+                                                   (JJ personal)
+                                                   (VBG holding)
+                                                   (NN company))))
+                                       (-LRB- -LRB-)
+                                       (NP (NP (NN section) (CD 381))
+                                           (-LRB- -LRB-)
+                                           (NP (NN c))
+                                           (-RRB- -RRB-)
+                                           (-LRB- -LRB-)
+                                           (NP (CD 14))
+                                           (-RRB- -RRB-))
+                                       (-RRB- -RRB-))
+                                   (, ,)
+                                   (CC but)
+                                   (NEG (RB not))
+                                   (NP (NN carryover)
+                                       (PP (IN of)
+                                           (NP (JJ excess) (NN tax) (NNS credits)
+                                               (PP (IN for)
+                                                   (NP (JJ foreign) (NNS taxes))))))))))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+((S
+    (NP (NP (DT These) (NNS items))
+        (, ,)
+        (CC and)
+        (NP (JJS most)
+            (PP (IN of)
+                (NP (NP (DT the) (NNS others))
+                    (VP (VBN listed)
+                        (ADVP (IN above))))))
+        (, ,))
+    (VP (VBP seem)
+        (ADJP (RB quite)
+              (JJ comparable)
+              (PP (TO to)
+                  (NP (NP (NNS items))
+                      (SBAR
+                            (WHNP (WP$ whose) (NN right)
+                                  (PP (IN of)
+                                      (NP (NN survival))))
+                            (S (NP (-NONE- T))
+                               (AUX (VBZ is))
+                               (VP (VBN provided)
+                                   
+                                   (PP (IN for)
+                                       (NP (-NONE- *)))
+                                   (PP (IN in)
+                                       (NP (NN section) (CD 381)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (AUX (VBZ does))
+    (NEG (RB not))
+    (VP (VB seem)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB be)
+               (NP (DT any) (JJ reasonable) (NN basis)
+                   (PP (IN for)
+                       (NP (NN distinction))))
+               (PP (CC either)
+                   (PP (IN in)
+                       (NP (NNS terms)
+                           (PP (IN of)
+                               (NP (DT the) (NN nature)
+                                   (PP (IN of)
+                                       (NP (DT the) (NN tax) (NN attribute)))))))
+                   (CC or)
+                   (PP (IN in)
+                       (NP (NNS terms)
+                           (PP (IN of)
+                               (NP (NN tax-avoidance) (NNS possibilities))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN With)
+        (NP (NN respect)
+            (PP (TO to)
+                (NP (NP (NNS items))
+                    (ADJP (JJ such)
+                          (PP (IN as)
+                              (NP (DT these))))))))
+    (S (NP (DT the) (NNS provisions)
+           (PP (IN of)
+               (NP (NP (NN section) (CD 381))
+                   (-LRB- -LRB-)
+                   (NP (NN c))
+                   (-RRB- -RRB-))))
+       (, ,)
+       (S (NP (-NONE- *))
+          (VP (VBN viewed)
+              (PP (IN in)
+                  (NP (JJ historical) (NN perspective)))))
+       (, ,)
+       (VP (VBP suggest)
+           (NP (NP (DT a) (NN rule))
+               (VP (VBG requiring)
+                   (NP (NN survival))
+                   (, ,)
+                   (SBAR (IN whether)
+                         (S (NP (DT the) (NNS items))
+                            (VP (VBP are)
+                                (ADJP (JJ beneficial) (CC or) (JJ detrimental)
+                                      (PP (TO to)
+                                          (NP (DT the) (VP (VBG surviving)) (NN corporation))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (TO To)
+        (NP (DT this) (NN extent)))
+    (S (NP (DT some) (VBG stretching)
+           (PP (IN of)
+               (NP (DT the) (JJ literal) (NN meaning)
+                   (PP (IN of)
+                       (NP (DT the) (NNP Committee) (NNP Report))))))
+       (VP (VBZ seems)
+           (ADJP (VBN justified)))
+       (, ,)
+       (SBAR (IN since)
+             (S (NP (DT the) (JJ literal) (NN meaning))
+                (VP (NNS conflicts)
+                    (PP (IN with)
+                        (NP (NP (DT the) (JJ clear) (NN implication))
+                            (, ,)
+                            (X (IN if)
+                               (NEG (RB not))
+                               (NP (DT the) (NN language)))
+                            (, ,)
+                            (PP (IN of)
+                                (NP (DT the) (NN statute))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (AUX (VBZ is))
+    (NEG (RB not))
+    (VP (VBN contended)
+        )
+    (SBAR-1 (IN that)
+            (S (NP (NN section) (CD 381))
+               (AUX (MD should))
+               (VP (VB prescribe)
+                   (NP (DT the) (NN survival)
+                       (PP (IN of)
+                           (NP (DT all)
+                               (PP (IN of)
+                                   
+                                   (NP
+                                       (NP (DT the) (NN transferor))
+                                       (POS 's) (NN tax) (NNS attributes))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (PDT Such)
+           (DT an) (NN interpretation))
+       (AUX (MD could))
+       (NEG (RB not))
+       (VP (VB be)
+           (VP (VBN justified)
+               
+               (PP (IN by)
+                   (NP (DT a) (NN construction)
+                       (PP (IN of)
+                           (NP (DT the) (NN statute)))
+                       (ADVP (RB alone)))))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP it))
+       (AUX (MD would))
+       (ADVP (RB certainly))
+       (VP (VB violate)
+           (NP (NP (DT the) (NN intention)
+                   (PP (IN of)
+                       (NP (NNP Congress))))
+               (PP (IN as)
+                   (S (NP (-NONE- *))
+                      (VP (VBN expressed)
+                          (PP (IN in)
+                              (NP (DT the) (NNP Committee) (NNP Report)))))))))
+    (: ;)
+    (: ;)
+    (CC and)
+    (S (PP (IN in)
+           (NP (NP (PP (IN at)
+                       (ADJP (JJS least)))
+                   (CD one) (NN instance))
+               (, ,)
+               (VP (VBG involving)
+                   (NP (NN refund) (NNS claims)))
+               (, ,)))
+       (S (NP (PRP it))
+          (AUX (MD might))
+          (VP (VB be)
+              (ADJP (JJ contrary)
+                    (PP (TO to)
+                        (NP (DT another) (NN provision)
+                            (PP (IN of)
+                                (NP (DT the) (NNP United) (NNPS States) (NNP Code))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NN Refund) (NNS claims)))
+ 
+
+(
+ (S (NP (NN Section) (CD 203)
+        (PP (IN of)
+            (NP (DT the) (NNP United) (NNPS States) (NNP Code))))
+    (VP (VBZ voids)
+        (NP (DT an) (NN assignment)
+            (PP (IN of)
+                (NP (DT a) (NN claim)
+                    (PP (IN against)
+                        (NP (DT the) (NNP Government)))))))
+    (SBAR (IN unless)
+          (S (NP (-NONE- *))
+             (VP (VBN made)
+                 )
+             (PP (IN after)
+                 (S (S (NP (PRP it))
+                       (AUX (VBZ has))
+                       (VP (VBN been)
+                           (VP (VBN allowed)
+                               )))
+                    (, ,)
+                    (S (NP (NP (DT the) (NN amount))
+                           (ADJP (RB due)))
+                       (AUX (VBZ has))
+                       (VP (VBN been)
+                           (VP (VBN ascertained)
+                               )))
+                    (, ,)
+                    (CC and)
+                    (S (NP (DT a) (NN warrant)
+                           (PP (IN for)
+                               (NP (PRP$ its) (NN payment))))
+                       (AUX (VBZ has))
+                       (VP (VBN been)
+                           (VP (VBN issued)
+                               ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP it))
+             (VP (VBD were)
+                 (NEG (RB not))
+                 (PP (IN for)
+                     (NP (JJ judicial) (NN development)
+                         (PP (IN of)
+                             (NP (JJ certain) (NNS exceptions))))))))
+    (, ,)
+    (S (NP (DT this) (NN section))
+       (AUX (MD would))
+       (VP (VB prohibit)
+           (NP (DT a) (NN suit)
+               (PP (IN for)
+                   (NP (NN refund)))
+               (PP (IN by)
+                   (NP (DT an) (VP (VBG acquiring)) (NN corporation)))
+               (PP (IN for)
+                   (NP (NP (NNS taxes))
+                       (VP (VBN paid)
+                           (PP (IN by)
+                               (NP (DT a) (NN transferor) (NN corporation))))))))
+       (, ,)
+       (SBAR (ADVP (RB even))
+             (IN though)
+             (S (NP (DT the) (NN reorganization))
+                (VP (VBZ meets)
+                    (NP (DT the) (NNS requirements)
+                        (PP (IN of)
+                            (NP (NP (NN section) (CD 381))
+                                (-LRB- -LRB-)
+                                (NP (DT a))))))))))
+ (-NONE- .))
+ 
+
+((S
+    (NP (DT A)
+        (VP (ADVP (RB clearly))
+            (VBN recognized)) (NN exception))
+    (VP (VBZ is)
+        (NP (DT a) (JJ statutory) (NN merger) (CC or) (NN consolidation))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NP (DT The) (ADJP (VBG leading)) (NN case))
+           (, ,)
+           (NP (NNP Seaboard) (NNP Air) (NNP Line) (NNP Railway)
+               (PP (CC v.)
+                   (NP (NNP United) (NNPS States))))
+           (, ,))
+       (VP (VBD held)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN transferee))
+                    (AUX (MD could))
+                    (VP (VB sue)
+                        (PP (IN for)
+                            (NP (DT a) (NN refund)
+                                (PP (IN of)
+                                    (NP (NP (NNS taxes))
+                                        (VP (VBN paid)
+                                            (PP (IN by)
+                                                (NP (DT the) (NN transferor)))))))))))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP it))
+       (AUX (VBZ has))
+       (VP (VBN been)
+           (ADVP (RB consistently))
+           (VP (VBN followed)
+               ))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNP Court))
+    (VP (VBD said)
+        (SBAR (-NONE- 0)
+              (S (NP (DT the) (NN purpose)
+                     (PP (IN of)
+                         (NP (DT the) (NN section))))
+                 (VP (VBD was)
+                     (ADVP (RB principally))
+                     (S (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB spare)
+                               (NP (DT the) (NNP Government))
+                               (NP (DT the) (NN embarrassment) (CC and) (NN trouble)
+                                   (PP (IN of)
+                                       (S (NP (-NONE- *))
+                                          (VP (VBG dealing)
+                                              (PP (IN with)
+                                                  (NP (NP (JJ several) (NNS parties))
+                                                      (, ,)
+                                                      (NP (NP (NN one)
+                                                              (PP (IN of)
+                                                                  (NP (PRP them))))
+                                                          (NP (DT a) (NN stranger)
+                                                              (PP (TO to)
+                                                                  (NP (DT the) (NN claim)))))))))))))
+                        (, ,)
+                        (CC and)
+                        (S (NP (-NONE- *))
+                           (AUX (TO to))
+                           (VP (VB prevent)
+                               (NP (NN traffic)
+                                   (PP (IN in)
+                                       (NP (NP (NNS claims)
+                                               (, ,))
+                                           (NP (ADVP (RB particularly))
+                                               (JJ tenuous) (NNS claims))
+                                           (, ,)
+                                           (PP (IN against)
+                                               (NP (DT the) (NNP Government))))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+((S (S
+       (NP (CC Neither)
+           (NN reason))
+       (, ,)
+       (SINV
+             (VP (VBD said))
+             (NP (DT the) (NNP Court)))
+       (, ,)
+       (VP (VBN applied)
+           (PP (TO to)
+               (NP (DT the) (NN case)
+                   (PP (IN at)
+                       (NP (NN hand)))))))
+    (: ;)
+    (: ;)
+    (S (ADVP (RB furthermore))
+       (, ,)
+       (S (NP (NNP Congress))
+          (AUX (MD could))
+          (NEG (RB not))
+          (VP (VB be)
+              (VP (VBN presumed)
+                  
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (VP (VB have)
+                         (VP (VBN intended)
+                             (S (NP (-NONE- *))
+                                (AUX (TO to))
+                                (VP (VB obstruct)
+                                    (NP (NP (NNS mergers))
+                                        (VP (VBN approved)
+                                            (PP (IN by)
+                                                (NP (DT the) (NNS states)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Other) (NNS exceptions))
+    (VP (VBP are)
+        (NP (NP (NNS assignments)
+                (PP (IN for)
+                    (NP (DT the) (NN benefit)
+                        (PP (IN of)
+                            (NP (NNS creditors))))))
+            (, ,)
+            (NP (JJ corporate) (NNS dissolutions))
+            (, ,)
+            (NP (NNS transfers)
+                (PP (IN by)
+                    (NP (NN descent))))
+            (, ,)
+            (CC or)
+            (NP (NNS transfers)
+                (PP (IN by)
+                    (NP (NN subrogation)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNS Exceptions))
+    (AUX (VBP are))
+    (ADVP (RB often))
+    (VP (VBN classified)
+        
+        (PP (IN as)
+            (NP (NNS transfers)
+                (PP (IN by)
+                    (NP (`` ``)
+                        (NN operation)
+                        (PP (IN of)
+                            (NP (NN law)))
+                        ('' '')))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (ADJP (JJ tax-free)) (NN reorganization))
+        (VP
+            (NEG (RB not))
+            (VBG complying)
+            (PP (IN with)
+                (NP (DT the) (NN merger) (CC or) (NN consolidation) (NNS statutes)
+                    (PP (IN of)
+                        (NP (NP (DT the) (NNS states))
+                            (VP (VBN involved))))))))
+    (VP (VBZ is)
+        (ADJP (JJ difficult)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB fit)
+                     (PP (IN into)
+                         (NP (DT an)
+                             (NP (`` ``)
+                                 (NN operation)
+                                 (PP (IN of)
+                                     (NP (NN law)
+                                         ('' ''))))
+                             (NN mold))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (IN Although)
+          (S (NP (PRP it))
+             (VP (VBZ is)
+                 (PP (IN in)
+                     (NP (DT some) (NNS ways)))
+                 (ADJP (JJ comparable)
+                       (PP (TO to)
+                           (NP (NP (DT a) (JJ voluntary) (NN sale)
+                                   (PP (IN of)
+                                       (NP (NNS assets)))
+                                   (PP (IN for)
+                                       (NP (NN cash))))
+                               (, ,)
+                               (SBAR
+                                     (WHPP (TO to)
+                                           (WHNP (WDT which)))
+                                     (S (NP (NN section) (CD 203))
+                                        (ADVP (RB quite)
+                                              (RB clearly))
+                                        (VP (VBZ applies))))))))))
+    (, ,)
+    (S (NP (DT the) (NNS courts)
+           (CC and)
+           (NNP Treasury))
+       (AUX (VBP have))
+       (VP (VBN held)
+           (SBAR (IN that)
+                 (S (NP (VP (VBG acquiring))
+                        (NNS corporations))
+                    (PP (IN in)
+                        (NP (JJ several) (NNS types)
+                            (PP (IN of)
+                                (NP (JJ non-taxable) (NNS reorganizations)))))
+                    (AUX (MD may))
+                    (VP (VB sue)
+                        (PP (IN for)
+                            (NP (NN refund)
+                                (PP (IN of)
+                                    (NP (NP (NNS taxes))
+                                        (VP (VBN paid)
+                                            (PP (IN by)
+                                                (NP (NNS transferors))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ recent) (NN case)
+        (PP (IN in)
+            (NP (NN point))))
+    (VP (VBZ is)
+        (NP (NP (NNP Mitchell) (NNP Canneries)
+                (PP (CC v.)
+                    (NP (NNP United) (NNPS States))))
+            (, ,)
+            (SBAR (WHPP (IN in)
+                        (WHNP (WDT which)))
+                  (S
+                     (NP (DT a) (NN claim)
+                         (PP (IN against)
+                             (NP (DT the) (NNP Government))))
+                     (AUX (VBD was))
+                     (VP (VBN transferred)
+                         (ADVP (RB first))
+                         (PP (IN from)
+                             (NP (DT a) (NN corporation)))
+                         (PP (PP (TO to)
+                                 (NP (NP (DT a) (NN partnership))
+                                     (, ,)
+                                     (SBAR
+                                           (WHNP (WP$ whose) (NNS partners))
+                                           (S (NP (-NONE- T))
+                                              (VP (VBD were)
+                                                  (NP (JJ former) (NNS stockholders)))))
+                                     (, ,)))
+                             (CC and)
+                             (ADVP (RB then))
+                             (PP (TO to)
+                                 (NP (NP (DT another) (NN corporation))
+                                     (VP (VBN formed)
+                                         (PP (IN by)
+                                             (NP (DT the) (NNS partners)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (VBG Holding)
+           (NP (NP (DT the) (JJ final) (NN corporation))
+               (ADJP (VBN entitled)
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB sue)
+                            (PP (IN on)
+                                (NP (DT the) (NN claim)))))))))
+    (, ,)
+    (S (NP (DT the) (NNP Court))
+       (VP (VBD cited)
+           (NP (DT the) (NNP Seaboard)
+               (, ,)
+               (NNP Novo) (NNP Trading)
+               (, ,)
+               (CC and)
+               (NNP Roomberg) (NNS cases))
+           (PP (IN for)
+               (NP (DT the) (NN proposition)
+                   (SBAR (IN that)
+                         (`` ``)
+                         (S (NP (NNS transfers)
+                                (PP (PP (IN by)
+                                        (NP (NN operation)
+                                            (PP (IN of)
+                                                (NP (NN law)))))
+                                    (CC or)
+                                    (PP (IN in)
+                                        (NP (NN conjunction)
+                                            (PP (IN with)
+                                                (NP (NNS changes)
+                                                    (PP (IN of)
+                                                        (NP (JJ corporate) (NN structure)))))))))
+                            (VP (VBP are)
+                                (NEG (RB not))
+                                (NP (NP (NNS assignments))
+                                    (VP (VBN prohibited)
+                                        (PP (IN by)
+                                            (NP (DT the) (NN statute)))))))
+                         ('' '')))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NP (DT an)
+                (ADJP (JJR earlier))
+                (NN case))
+            (, ,)
+            (NP (NNP Kingan)
+                (CC &)
+                (NNP Co.)
+                (PP (CC v.)
+                    (NP (NNP United) (NNPS States))))
+            (, ,)))
+    (S (NP (DT an) (NNP American) (NN corporation))
+       (AUX (VBD was))
+       (VP (VBN formed)
+           
+           (PP (IN for)
+               (NP (DT the) (NN purpose)
+                   (PP (IN of)
+                       (S (NP (-NONE- *))
+                          (VP (VP (VBG acquiring)
+                                  (NP (DT the) (NN stock)
+                                      (PP (IN of)
+                                          (NP (DT a) (NNP British) (NN corporation))))
+                                  (PP (IN in)
+                                      (NP (NN exchange)
+                                          (PP (IN for)
+                                              (NP (PRP$ its) (JJ own)
+                                                  (NN stock))))))
+                              (CC and)
+                              (ADVP (RB then))
+                              (VP (VBG liquidating)
+                                  (NP (DT the) (NNP British) (NN corporation)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ anti-assignment) (NN statute))
+    (AUX (VBD was))
+    (VP (VBN held)
+        
+        (S (NP (-NONE- *))
+           (NEG (RB not))
+           (AUX (TO to))
+           (VP (VB prevent)
+               (NP (DT the) (NNP American) (NN corporation))
+               (PP (IN from)
+                   (S (NP (-NONE- *))
+                      (VP (VBG suing)
+                          (PP (IN for)
+                              (NP (DT a) (NN refund)
+                                  (PP (IN of)
+                                      (NP (NP (NNS taxes))
+                                          (VP (VBN paid)
+                                              (PP (IN by)
+                                                  (NP (DT the) (NNP British) (NN corporation)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN transaction))
+    (ADVP (RB presumably))
+    (AUX (MD would))
+    (VP (VB have)
+        (VP (VP (VBN qualified)
+                (PP (PP (IN under)
+                        (NP (NP (NN section) (CD 368))
+                            (-LRB- -LRB-)
+                            (NP (DT a))
+                            (-RRB- -RRB-)
+                            (-LRB- -LRB-)
+                            (NP (CD 1))
+                            (-RRB- -RRB-))
+                        (PP (IN as)
+                            (NP (DT a) (JJ contractual) (NN reorganization))
+                            (, ,)
+                            (VP (VBN followed)
+                                (PP (IN by)
+                                    (NP (DT a)
+                                        (NN section) (CD 332)
+                                        (NN liquidation))))))
+                    (, ,)
+                    (CC but)
+                    (PP (NEG (RB not))
+                        (IN under)
+                        (NP (NP (NN section) (CD 368))
+                            (-LRB- -LRB-)
+                            (NP (DT a))
+                            (-RRB- -RRB-)
+                            (-LRB- -LRB-)
+                            (NP (CD 1))
+                            (-RRB- -RRB-))
+                        (PP (IN as)
+                            (NP (DT a) (JJ statutory) (NN merger)
+                                (PP (IN of)
+                                    (NP (NN consolidation)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNP Court))
+    (, ,)
+    (ADVP (RB nevertheless))
+    (, ,)
+    (VP (VP (VBD relied)
+            (PP (IN on)
+                (NP (DT the) (NNP Seaboard) (NN case))))
+        (CC and)
+        (ADVP (RB also))
+        (VP (VBD mentioned)
+            (SBAR (IN that)
+                  (S (NP (DT the) (NNS shareholders)
+                         (PP (IN of)
+                             (NP (DT the) (CD two) (NNS corporations))))
+                     (VP (VBD were)
+                         (ADJP (DT the)
+                               (JJ same))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN substance)))
+    (, ,)
+    (SINV
+          (VP (VBD said))
+          (NP (DT the) (NNP Court)))
+    (, ,)
+    (S (NP (EX there))
+       (VP (VBD was)
+           (NP (DT no) (NN transfer)
+               (PP (IN of)
+                   (NP (JJ equitable) (NN title)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNP Treasury))
+    (VP (VP (VBZ arrives)
+            (PP (IN at)
+                (NP (ADVP (RB substantially))
+                    (DT the) (JJ same) (NN conclusion))))
+        (, ,)
+        (CC but)
+        (VP (VBZ skirts)
+            (NP (DT the) (NN problem)
+                (PP (IN of)
+                    (NP (NN section) (CD 203)
+                        (PP (IN of)
+                            (NP (DT the) (NNP United) (NNPS States) (NNP Code)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NNP Revenue) (NNP Ruling) (CD 54-17))
+    (VP (VBZ provides)
+        (SBAR (IN that)
+              (S (SBAR (IN if)
+                       (S (NP (NP (DT the) (NN corporation))
+                              (SBAR (WHPP (IN against)
+                                          (WHNP (WDT which)))
+                                    (S (NP (DT a) (NN tax))
+                                       (AUX (VBD was))
+                                       (VP (VBN assessed)
+                                           ))))
+                          (AUX (VBZ has))
+                          (ADVP (IN since))
+                          (VP (VBN been)
+                              (VP (VBN liquidated)
+                                  
+                                  (PP (IN by)
+                                      (NP (NN merger)
+                                          (PP (IN with)
+                                              (NP (DT a) (NN successor) (NN corporation)))))))))
+                 (, ,)
+                 (S (NP (DT a) (NN claim)
+                        (PP (IN for)
+                            (NP (NN refund))))
+                    (AUX (MD should))
+                    (VP (VB be)
+                        (VP (VBN filed)
+                            
+                            (PP (IN by)
+                                (NP (DT the) (NN successor)))
+                            (PP (PP (IN in)
+                                    (NP (DT the) (NN name)
+                                        (PP-1 (-NONE- *pseudo-attach*))))
+                                (CC and)
+                                (PP (IN on)
+                                    (NP (NN behalf)
+                                        (PP-1 (IN of)
+                                              (NP (NP (DT the) (NN corporation))
+                                                  (SBAR
+                                                        (WHNP (WDT which))
+                                                        (S (NP (-NONE- T))
+                                                           (VP (VBD paid)
+                                                               (NP (DT the) (NN tax))))))))))
+                            (, ,)
+                            (VP (VBN followed)
+                                (PP (IN by)
+                                    (NP (DT the) (NN name)
+                                        (PP (IN of)
+                                            (NP (DT the) (NN successor) (NN corporation)))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (JJ Proper) (NN evidence)
+        (PP (IN of)
+            (NP (DT the) (NN liquidation) (CC and) (NN succession))))
+    (AUX (MD must))
+    (ADVP (RB also))
+    (VP (VB be)
+        (VP (VBN filed)
+            )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (SBAR (IN If)
+             (S (NP (DT the) (NN succession))
+                (VP (VBZ is)
+                    (NP (DT a) (NN matter)
+                        (PP (IN of)
+                            (NP (NN public) (NN record)))))))
+       (, ,)
+       (S
+          (NP (NNS certificates)
+              (PP (IN of)
+                  (NP (NP (DT the) (NNPS Secretaries)
+                          (PP (IN of)
+                              (NP (NNP State))))
+                      (CC or)
+                      (NP (NP (JJ other) (NN public) (NNS officials))
+                          (VP (VBG having)
+                              (NP (NN custody)
+                                  (PP (IN of)
+                                      (NP (DT the) (NNS documents)))))))))
+          (AUX (MD will))
+          (VP (VB suffice))))
+    (: ;)
+    (: ;)
+    (S (SBAR (IN if)
+             (S (NP (DT the) (NN succession))
+                (VP (VBZ is)
+                    (NEG (RB not))
+                    (PP (IN of)
+                        (NP (NN record))))))
+       (, ,)
+       (S (NP (NP (DT all) (NNS documents))
+              (VP (VP (VBG relating)
+                      (PP (TO to)
+                          (NP (JJ such) (NN succession))))
+                  (VP (ADVP (RB properly))
+                      (VBN certified))))
+          (, ,)
+          (-NONE- ,)
+          (AUX (VBP are))
+          (VP (VBN required)
+              ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ former) (NN proof))
+       (VP (VBZ seems)
+           (ADJP (JJ applicable)
+                 (PP (TO to)
+                     (NP (DT a) (JJ statutory) (NN merger) (CC or) (NN consolidation))))))
+    (, ,)
+    (X (NP (DT the) (NN latter))
+       (PP (TO to)
+           (NP (DT a) (JJ contractual) (NN acquisition)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN Ruling))
+    (AUX (MD would))
+    (NEG (RB not))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VB apply)
+        (PP (TO to)
+            (NP (DT an) (NN acquisition)
+                (PP (IN of)
+                    (NP (NNS assets)))
+                (PP (IN for)
+                    (NP (NN cash)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT A) (JJ recent) (NN Ruling))
+    (, ,)
+    (ADJP (ADVP (IN although))
+          (ADVP (RB rather))
+          (VBG confusing))
+    (, ,)
+    (VP (VBZ cites)
+        (CC and)
+        (VBZ follows)
+        (NP (NNP Rev.) (NNP Rul.) (CD 54-17))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN Ruling))
+    (VP (VBZ suggests)
+        (ADVP (RB also))
+        (SBAR (IN that)
+              (S (NP (PRP it))
+                 (VP (VBZ applies)
+                     (PP (TO to)
+                         (NP (CC either)
+                             (DT a) (JJ statutory) (CC or) (JJ contractual) (NN reorganization))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (S (NP (DT a) (NN successor) (NN corporation)
+           (PP (IN in)
+               (NP (DT a) (NN C) (NN reorganization))))
+       (VP (VBZ appears)
+           (ADJP (VBN entitled)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB sue)
+                        (PP (IN for)
+                            (NP (DT a) (NN refund)
+                                (PP (IN of)
+                                    (NP (NP (NNS taxes))
+                                        (VP (VBN paid)
+                                            (PP (IN by)
+                                                (NP (DT the) (VP (VBN merged)) (NN corporation)))))))))))
+           (PP (IN despite)
+               (NP (NN section) (CD 203))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NP (DT a) (NN B) (NN reorganization))
+            (, ,)
+            (VP (VBN followed)
+                (PP (IN by)
+                    (NP (DT a)
+                        (NN section) (CD 332)
+                        (NN liquidation))))))
+    (, ,)
+    (S (NP (NP (DT those) (NNS cases))
+           (SBAR
+                 (WHNP (WDT which))
+                 (S (NP (-NONE- T))
+                    (VP (VBP hold)
+                        (SBAR (DT that)
+                              (S (NP (NN section) (CD 203))
+                                 (VP (VBZ is)
+                                     (ADJP (JJ inapplicable)
+                                           (PP (TO to)
+                                               (NP (NNS transfers)
+                                                   (PP (IN in)
+                                                       (NP (NN liquidation)))))))))))))
+       (VP (VBP appear)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB permit)
+                  (NP (DT the) (NN successor) (NN corporation))
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (VP (VB sue)
+                         (PP (IN for)
+                             (NP (NN refund)
+                                 (PP (IN of)
+                                     (NP (NP (NNS taxes))
+                                         (VP (VBN paid)
+                                             (PP (IN by)
+                                                 (NP (DT the) (NN transferor)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (NN fact)))
+    (, ,)
+    (S (NP (NP (DT a) (NN cash) (NN purchase)
+               (PP (IN of)
+                   (NP
+                       (NP (DT a) (NN corporation))
+                       (POS 's) (NN stock))))
+           (VP (VBN followed)
+               (PP (IN by)
+                   (NP (NN liquidation)))))
+       (AUX (MD might))
+       (ADVP (RB also))
+       (VP (VB be)
+           (NP (DT an) (JJ effective) (NN way)
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB transfer)
+                      (NP (DT a) (NN claim)
+                          (PP (IN for)
+                              (NP (NN refund))))))))
+       (SBAR (IN if)
+             (S (NP (DT the) (NNP Kimbell-Diamond) (NN doctrine))
+                (AUX (VBZ is))
+                (NEG (RB not))
+                (VP (VBN applied)
+                    (S (NP (-NONE- *))
+                       (AUX (TO to))
+                       (VP (VB eliminate)
+                           (NP (DT the) (JJ intermediate) (NN step)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT These) (NNS results))
+    (VP (VBP appear)
+        (ADJP (JJ sound))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN As)
+          (S (NP (-NONE- *))
+             (VP (VBN stated)
+                 (PP (IN in)
+                     (NP (NP (NNP Seaboard))
+                         (CC and)
+                         (NP
+                             (JJ numerous) (JJ other)
+                             (NNS cases)))))))
+    (, ,)
+    (S (NP (DT the) (CD two) (JJ primary) (NNS reasons)
+           (PP (IN for)
+               (NP (DT the) (NN enactment)
+                   (PP (IN of)
+                       (NP (NN section) (CD 203)
+                           (PP (IN of)
+                               (NP (DT the) (NNP United) (NNPS States) (NNP Code))))))))
+       (VP (VBD were)
+           (S (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB prevent)
+                     (NP (DT the) (NNP Government))
+                     (PP (IN from)
+                         (S (NP (-NONE- *))
+                            (VP (VBG having)
+                                (S (NP (-NONE- *))
+                                   (AUX (TO to))
+                                   (VP (VB deal)
+                                       (PP (IN with)
+                                           (NP (ADJP (RBR more)
+                                                     (PP (IN than)
+                                                         (NP (CD one))))
+                                               (NN claimant))))))))))
+              (CC and)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB prevent)
+                     (NP (DT the) (NN assignment)
+                         (PP (IN of)
+                             (NP (JJ meretricious) (NNS claims)))
+                         (PP (IN on)
+                             (NP (DT a) (JJ contingent-fee) (NN basis))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS cases))
+    (AUX (VBP have))
+    (VP (VBN allowed)
+        (NP (NN transfer)
+            (PP (IN of)
+                (NP (NNS claims)))))
+    (SBAR (IN if)
+          (S (NP (JJ beneficial) (NN ownership))
+             (AUX (VBZ is))
+             (NEG (RB not))
+             (VP (VBN changed)
+                 ))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ first) (NN reason))
+    (AUX (MD would))
+    (ADVP (RB never))
+    (VP (VB apply)
+        (PP (TO to)
+            (NP (NP (NP (DT a) (NN reorganization) (NN transfer))
+                    (SBAR
+                          (WHNP (WDT which))
+                          (S (NP (-NONE- T))
+                             (VP (VBZ meets)
+                                 (NP (DT the) (NNS conditions)
+                                     (PP (IN of)
+                                         (NP (NP (NN section) (CD 381))
+                                             (-LRB- -LRB-)
+                                             (NP (NN a))
+                                             (-RRB- -RRB-))))))))
+                (, ,)
+                (SBAR
+                      (WHNP (WDT which))
+                      (S (NP (-NONE- T))
+                         (VP (VBZ is)
+                             (NP (NP (DT the) (JJ only) (NN type))
+                                 (PP (ADVP (RB presently))
+                                     (IN under)
+                                     (NP (NN discussion)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (NN Section) (CD 381))
+        (-LRB- -LRB-)
+        (NP (NN a))
+        (-RRB- -RRB-))
+    (VP (VBZ applies)
+        (PP (ADVP (RB only))
+            (TO to)
+            (NP (NP (DT a) (NN transfer)
+                    (PP (IN by)
+                        (NP (NN liquidation)))
+                    (PP (IN of)
+                        (NP (NP (DT a) (NN subsidiary))
+                            (VP (VBN owned)
+                                (PP (TO to)
+                                    (NP (DT the) (NN extent)
+                                        (PP (IN of)
+                                            (NP (PP (IN at)
+                                                    (ADJP (JJS least)))
+                                                (CD 80)
+                                                (IN per)
+                                                (NN cent)))))))))
+                (, ,)
+                (NP (DT a) (JJ statutory) (NN merger) (CC or) (NN consolidation))
+                (, ,)
+                (NP (DT an) (NN acquisition)
+                    (PP (IN of)
+                        (NP (ADVP (RB substantially))
+                            (PDT all)
+                            (NP
+                                (NP (DT a) (NN corporation))
+                                (POS 's) (NNS assets))))
+                    (PP (ADVP (RB solely))
+                        (IN in)
+                        (NP (NN exchange)
+                            (PP (IN for)
+                                (NP (NN voting) (NN stock))))))
+                (, ,)
+                (CC or)
+                (NP (DT a) (NN change)
+                    (PP (IN of)
+                        (NP (NP (NN identity))
+                            (, ,)
+                            (NP (NN form))
+                            (, ,)
+                            (CC or)
+                            (NP (NN place)
+                                (PP (IN of)
+                                    (NP (NN organization)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (ADVP (RB virtually))
+            (DT every) (NN case)))
+    (S (S
+          (NP (DT the) (NN transferor) (NN corporation))
+          (AUX (VBZ is))
+          (VP (VBN liquidated)
+              ))
+       (, ,)
+       (CC and)
+       (S (NP (PRP$ its) (JJ former) (NNS stockholders))
+          (VP (CC either)
+              (VP (VBP own)
+                  (NP-3 (-NONE- *pseudo-attach*))
+                  (ADVP (JJ outright)))
+              (, ,)
+              (CC or)
+              (VP (VBP have)
+                  (NP (DT a) (VP (JJ continuing)) (NN stock) (NN interest))
+                  (PP (IN in)
+                      (, ,)
+                      (NP-3 (NP (DT the) (NNS assets))
+                            (SBAR
+                                  (WHNP (WDT which))
+                                  (S (NP (-NONE- T))
+                                     (VP (VBD gave)
+                                         (NP (NN rise))
+                                         (PP (TO to)
+                                             (NP (DT the) (NN tax)))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (DT these) (NNS circumstances)))
+    (S
+       (NP (DT the) (NN possibility)
+           (PP (IN of)
+               (NP (ADJP (JJ multiple) (CC or) (JJ conflicting)) (NNS claims))))
+       (VP (VBZ is)
+           (ADJP (ADVP (RB exceedingly))
+                 (JJ remote)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Furthermore))
+    (, ,)
+    (PP (IN in)
+        (NP (DT a) (NN C) (NN reorganization)))
+    (S (NP (DT the) (VP (JJ continuing)) (NN interest)
+           (PP (IN of)
+               (NP (NNS stockholders)
+                   (PP (IN of)
+                       (NP (NP (DT the) (NN corporation))
+                           (SBAR
+                                 (WHNP (WDT which))
+                                 (S (NP (-NONE- T))
+                                    (VP (VBD paid)
+                                        (NP (DT the) (NN tax))))))))))
+       (AUX (MD must))
+       (VP (VB be)
+           (ADJP (JJR greater)
+                 (PP (IN than)
+                     (S (NP (-NONE- *))
+                        (VP (VBZ is)
+                            (ADJP (JJ necessary)))
+                        (PP (IN in)
+                            (NP (NP (DT a) (JJ statutory) (NN merger))
+                                (, ,)
+                                (SBAR (WHPP (TO to)
+                                            (WHNP (WDT which)))
+                                      (S
+                                         (NP (DT the) (NN statute))
+                                         (VP (VBZ is)
+                                             (ADVP (RB clearly))
+                                             (ADJP (JJ inapplicable)))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+((SINV (CC Nor)
+       (VP (VBZ is))
+       (NP (PRP it)
+           (SBAR-4 (-NONE- *pseudo-attach*)))
+       (ADJP (PP (IN at)
+                 (NP (RB all)))
+             (JJ likely))
+       (SBAR-4 (IN that)
+               (S (NP (DT a)
+                      (ADJP (`` ``)
+                            (JJ desperate)
+                            ('' ''))
+                      (NN claim)
+                      (PP (IN against)
+                          (NP (DT the) (NNP Government))))
+                  (AUX (MD will))
+                  (VP (VB be)
+                      (VP (VBN assigned)
+                          
+                          (PP (IN on)
+                              (NP (DT a) (ADJP (JJ contingent-fee)) (NN basis)))
+                          (PP (IN in)
+                              (NP (DT the) (NN guise)
+                                  (PP (IN of)
+                                      (NP (DT a) (ADJP (JJ tax-free)) (NN reorganization))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN transferor))
+             (VP (VBZ has)
+                 (NP (NP (JJ substantial) (NNS assets))
+                     (ADJP (JJ other)
+                           (PP (IN than)
+                               (NP (DT the) (NN claim))))))))
+    (, ,)
+    (S (NP (PRP it)
+           (S-5 (-NONE- *pseudo-attach*)))
+       (VP (VBZ seems)
+           (ADJP (JJ reasonable)))
+       (S-5 (NP (-NONE- *))
+            (AUX (TO to))
+            (VP (VB assume)
+                (SBAR (-NONE- 0)
+                      (S (NP (DT no) (NN corporation))
+                         (AUX (MD would))
+                         (VP (VB be)
+                             (ADJP (JJ willing)
+                                   (S (NP (-NONE- *))
+                                      (AUX (TO to))
+                                      (VP (VB acquire)
+                                          (NP (DT all)
+                                              (PP (IN of)
+                                                  (NP (PRP$ its) (NNS properties)))))
+                                      (PP (IN in)
+                                          (NP (DT the) (JJ dim) (NN hope)
+                                              (PP (IN of)
+                                                  (S (NP (-NONE- *))
+                                                     (VP (VBG collecting)
+                                                         (NP (DT a) (NN claim)
+                                                             (PP (IN for)
+                                                                 (NP (NN refund)
+                                                                     (PP (IN of)
+                                                                         (NP (NNS taxes))))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (PDT such)
+                 (DT an) (JJ unlikely) (NN transaction))
+             (VP (VBD were)
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB take)
+                        (NP (NN place)))))))
+    (, ,)
+    (S (NP (PRP it))
+       (AUX (MD would))
+       (ADVP (RBR more) (RB logically))
+       (VP (VB be)
+           (VP (VBN accomplished)
+               
+               (PP (IN by)
+                   (NP (NP (DT a) (NN stock) (NN purchase))
+                       (, ,)
+                       (VP (VBN followed)
+                           (PP (IN by)
+                               (NP (DT the) (NN prosecution)
+                                   (PP (IN of)
+                                       (NP (DT the) (NN claim)))
+                                   (PP (IN by)
+                                       (NP (DT the) (JJ wholly-owned) (NN subsidiary))))))
+                       (, ,)
+                       (VP (VBN followed)
+                           (PP (IN by)
+                               (NP (NN liquidation))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN In)
+        (NP (DT the) (JJ rare) (NN case)
+            (SBAR
+                  (WHADVP (WRB where))
+                  (S (NP (NP
+                             (NP (DT a) (NN corporation))
+                             (POS 's)
+                             (JJ only) (JJ substantial)
+                             (NN asset))
+                         (, ,)
+                         (CC or)
+                         (NP (PRP$ its)
+                             (ADJP (JJS most) (JJ important))
+                             (CD one))
+                         (, ,))
+                     (VP (VBZ is)
+                         (NP (DT a) (NN claim)
+                             (PP (IN for)
+                                 (NP (NN refund)))))))))
+    (, ,)
+    (ADVP (RB perhaps))
+    (S (NP (PRP$ its) (NN transfer))
+       (AUX (MD should))
+       (NEG (RB not))
+       (VP (VB be)
+           (VP (VBN permitted)
+               ))
+       (, ,)
+       (SBAR (IN whether)
+             (S (NP (DT the) (NN reorganization))
+                (VP (VBZ takes)
+                    (NP (DT the) (NN form)
+                        (PP (PP (IN of)
+                                (NP (DT a) (JJ statutory) (NN merger)))
+                            (CC or)
+                            (PP (IN of)
+                                (NP (DT the) (NN acquisition)
+                                    (PP (IN of)
+                                        (NP (NNS assets)))
+                                    (PP (IN for)
+                                        (NP (NN stock))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (S (NP (PRP It)
+           (SBAR-6 (-NONE- *pseudo-attach*)))
+       (VP (VBZ appears)
+           (, ,)
+           (ADVP (RB then))
+           (, ,)
+           (SBAR-6 (IN that)
+                   (S (SBAR (IN although)
+                            (S (NP (DT the) (NN matter))
+                               (AUX (VBZ is))
+                               (NEG (RB not))
+                               (VP (VBN dealt)
+                                   
+                                   (PP (IN with)
+                                       (NP (-NONE- *)))
+                                   (PP (IN in)
+                                       (NP (NP (NN section) (CD 381))
+                                           (-LRB- -LRB-)
+                                           (NP (NN c))
+                                           (-RRB- -RRB-))))))
+                      (, ,)
+                      (S (NP (DT a) (NN successor) (NN corporation)
+                             (PP (IN in)
+                                 (NP (DT a) (NN reorganization)
+                                     (PP (IN of)
+                                         (NP (NP (DT a) (NN type))
+                                             (VP (VBN specified)
+                                                 (PP (IN in)
+                                                     (NP (NP (NN section) (CD 381))
+                                                         (-LRB- -LRB-)
+                                                         (NP (NN a))
+                                                         (-RRB- -RRB-)))))))))
+                         (VP (VBZ is)
+                             (ADJP (VBN entitled)
+                                   (S (NP (-NONE- *))
+                                      (AUX (TO to))
+                                      (VP (VB sue)
+                                          (PP (IN for)
+                                              (NP (NN refund)
+                                                  (PP (IN of)
+                                                      (NP (NP (NNS taxes))
+                                                          (VP (VBN paid)
+                                                              (PP (IN by)
+                                                                  (NP (DT a) (NN transferor) (NN corporation))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NN Section) (CD 203)
+        (PP (IN of)
+            (NP (DT the) (NNP United) (NNPS States) (NNP Code))))
+    (AUX (VBZ has))
+    (VP (VBN been)
+        (VP (VBN interpreted)
+            (PP (RB as)
+                (S (NP (-NONE- *))
+                   (NEG (RB not))
+                   (VP (VBG applying)
+                       (PP (TO to)
+                           (NP (NP (NNS claims)
+                                   (PP (IN against)
+                                       (NP (DT the) (NNP Government))))
+                               (VP (VBN transferred)
+                                   (PP (IN in)
+                                       (NP (JJ tax-free) (NNS reorganizations))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN successor) (NNS corporations))
+    (AUX (VBP have))
+    (VP (VBN been)
+        (VP (VBN held)
+            
+            (ADJP (VBN entitled)
+                  (S (NP (-NONE- *))
+                     (AUX (TO to))
+                     (VP (VB sue)
+                         (PP (IN on)
+                             (NP (JJ such) (NNS claims)))))))))
+ (. .))
+ 
+
+ 
+
+((NP (JJ Other) (NN tax) (NNS attributes)
+     (PP (IN of)
+         (NP (DT the) (NN transferor))))
+ )
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBP are)
+        (NP (NP (JJ certain) (NN tax) (NNS attributes)
+                (PP (IN of)
+                    (NP (DT a) (NN corporation))))
+            (SBAR
+                  (WHNP (WP$ whose) (NN nature) (CC and) (NN effect))
+                  (S (NP (-NONE- T))
+                     (AUX (MD might))
+                     (VP (VB depend)
+                         (PP (IN on)
+                             (NP (DT the) (NNS facts)
+                                 (PP (IN of)
+                                     (NP (NP (DT the) (JJ particular) (NN reorganization))
+                                         (VP (VBN involved))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (NN example)))
+    (, ,)
+    (S
+       (NP (NP (NP (NN property))
+               (VP (`` ``)
+                   (VBN used)
+                   (PP (IN in)
+                       (NP (DT the) (NN trade) (CC or) (NN business)
+                           ('' '')
+                           (PP (IN of)
+                               (NP (DT a) (NN transferor) (NN corporation)))))))
+           (, ,)
+           (SBAR (IN as)
+                 (S (NP (-NONE- *))
+                    (VP (VBN defined)
+                        (PP (IN in)
+                            (NP (NN section) (CD 1231))))))
+           (, ,))
+       (ADVP (RB presumably))
+       (AUX (MD would))
+       (NEG (RB not))
+       (VP (VB retain)
+           (NP (PRP$ its) (JJ special) (NN status)))
+       (VP (VBG following)
+           (NP (DT a) (JJ non-taxable) (NN reorganization)))
+       (SBAR (IN if)
+             (S (NP (PRP it))
+                (AUX (VBZ is))
+                (NEG (RB not))
+                (VP (ADVP (RB so))
+                    (VBN used)
+                    (PP (IN in)
+                        (NP (DT the) (NN business)
+                            (PP (IN of)
+                                (NP (DT the) (VP (VBG acquiring)) (NN corporation))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S
+    (NP (DT The) (NN parent)
+        (PP (IN of)
+            (NP (NP (DT a) (NN group))
+                (VP (VBG filing)
+                    (NP (VP (JJ consolidated)) (NNS returns))))))
+    (AUX (MD might))
+    (VP (VB be)
+        (VP (VP (VBN treated)
+                
+                (PP (PP (IN as)
+                        (NP (DT the) (JJ same) (NN corporation))
+                        (VP (VBG following)
+                            (NP (NP (DT a) (NN reorganization))
+                                (VP (VBN defined)
+                                    (PP (IN in)
+                                        (NP (NP (NN section) (CD 368))
+                                            (-LRB- -LRB-)
+                                            (NP (NN a))
+                                            (-RRB- -RRB-)
+                                            (-LRB- -LRB-)
+                                            (NP (CD 1))
+                                            (-RRB- -RRB-)))))))
+                    (, ,)
+                    (CC but)
+                    (PP (IN as)
+                        (NP (DT a) (JJ different) (NN corporation))
+                        (PP (IN for)
+                            (NP (DT this) (NN purpose)))
+                        (PP (IN after)
+                            (NP (DT a) (JJ tax-free) (NN acquisition)
+                                (PP (IN by)
+                                    (NP (NP (DT another) (NN corporation))
+                                        (SBAR
+                                              (WHNP (WDT which))
+                                              (S (NP (-NONE- T))
+                                                 (AUX (VBD had))
+                                                 (NEG (RB not))
+                                                 (, ,)
+                                                 (PP (IN for)
+                                                     (NP (NN example)))
+                                                 (, ,)
+                                                 (VP (VBN elected)
+                                                     (S (NP (-NONE- *))
+                                                        (AUX (TO to))
+                                                        (VP (VB file)
+                                                            (NP (VP (JJ consolidated)) (NNS returns)
+                                                                (PP (IN with)
+                                                                    (NP (PRP$ its) (JJ own) (NNS subsidiaries)))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (JJ Similar) (NNS considerations))
+    (ADVP (RB presumably))
+    (VP (VBD made)
+        (NP (PRP it)
+            (S-7 (-NONE- *pseudo-attach*)))
+        (ADJP (JJ difficult))
+        (S-7 (NP (-NONE- *))
+             (AUX (TO to))
+             (VP (VB prescribe)
+                 (NP (DT a) (JJ general) (NN rule)))
+             (SBAR
+                   (WHADVP (WRB where))
+                   (S (NP (DT the)
+                          (VP (VP (VBN acquired))
+                              (CC and)
+                              (VP (VBG acquiring)))
+                          (NNS corporations))
+                      (VP (VBP have)
+                          (NP (JJ different) (NNS methods)
+                              (PP (IN of)
+                                  (NP (NP (NP (NN accounting))
+                                          (-LRB- -LRB-)
+                                          (NP (NP (NN section) (CD 381))
+                                              (-LRB- -LRB-)
+                                              (NP (NN c))
+                                              (-RRB- -RRB-)
+                                              (-LRB- -LRB-)
+                                              (NP (CD 4))
+                                              (-RRB- -RRB-))
+                                          (-RRB- -RRB-))
+                                      (CC or)
+                                      (NP (NP (NN depreciation))
+                                          (-LRB- -LRB-)
+                                          (NP (NP (NN section) (CD 381))
+                                              (-LRB- -LRB-)
+                                              (NP (NN c))
+                                              (-RRB- -RRB-)
+                                              (-LRB- -LRB-)
+                                              (NP (CD 6))
+                                              (-RRB- -RRB-))
+                                          (-RRB- -RRB-))))))))
+             )))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (JJ Other) (NNS sections)
+        (PP (IN of)
+            (NP (DT the) (CD 1954)
+                (NNP Internal) (NNP Revenue) (NNP Code))))
+    (VP (VBP provide)
+        (PP (IN for)
+            (NP (NN survival)
+                (PP (IN of)
+                    (NP (JJ certain)
+                        (PP (IN of)
+                            (NP
+                                (NP (DT a) (NN transferor))
+                                (POS 's) (NN tax) (NNS attributes)))))
+                (VP (VBG following)
+                    (NP (DT a) (JJ tax-free) (NN reorganization)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NN Section) (CD 362))
+       (VP (VBZ requires)
+           (NP (NN carryover)
+               (PP (IN of)
+                   (NP
+                       (NP (DT the) (NN transferor) (NN corporation))
+                       (POS 's) (NN basis))))
+           (PP (IN for)
+               (NP (NP (NN property))
+                   (VP (VBN transferred))))))
+    (, ,)
+    (CC and)
+    (S (NP (NN section) (CD 1223))
+       (VP (VBZ provides)
+           (PP (IN for)
+               (S (NP (-NONE- *))
+                  (VP (VBG tacking)
+                      (PRT (IN on))
+                      (NP
+                          (NP (DT the) (NN transferor))
+                          (POS 's) (VBG holding) (NN period)
+                          (PP (IN for)
+                              (NP (JJ such) (NN property))))
+                      (PP (TO to)
+                          (NP (DT that)
+                              (PP (IN of)
+                                  (NP (DT the) (NN transferee)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NN Section) (CD 169))
+    (VP (VBZ permits)
+        (NP (NP (DT a) (NN person))
+            (VP (VBG acquiring)
+                (NP (NN grain-storage) (NNS facilities))))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB elect)
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB continue)
+                      (NP (NN amortization)))
+                  (PP (IN over)
+                      (NP (DT a) (JJ 60-month) (NN period))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB However))
+    (, ,)
+    (S (NP (DT a) (JJ similar) (NN privilege))
+       (AUX (VBD was))
+       (NEG (RB not))
+       (VP (ADVP (RB specifically))
+           (VBN provided)
+           
+           (PP (IN in)
+               (NP (NN section) (CD 168)))
+           (PP (IN for)
+               (NP (NP (DT a) (NN person))
+                   (VP (VBG acquiring)
+                       (NP (NN emergency) (NNS facilities))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (NP (NNS Attributes))
+     (ADJP (JJ similar)
+           (PP (TO to)
+               (NP (DT a) (NN loss) (NN carryover)))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (AUX (MD may))
+    (VP (VB be)
+        (NP (NP (JJ certain) (NNS items))
+            (SBAR (SBAR
+                        (WHNP (WDT which))
+                        (S (NP (-NONE- T))
+                           (VP (VBP are)
+                               (ADJP (RB quite)
+                                     (JJ similar)
+                                     (PP (TO to)
+                                         (NP (DT a) (NN net)
+                                             (VBG operating)
+                                             (NN loss) (NN carryover)
+                                             (CC or)
+                                             (VBG operating)
+                                             (NN deficit)))))))
+                  (CC and)
+                  (SBAR
+                        (WHNP (WP$ whose) (NN right)
+                              (S (NP (-NONE- *))
+                                 (AUX (TO to))
+                                 (VP (VB survive)
+                                     (NP (DT a) (NN reorganization)))))
+                        (S (NP (-NONE- T))
+                           (AUX (MD should))
+                           (ADVP (RB perhaps))
+                           (VP (VB be)
+                               (ADJP (JJ subject)
+                                     (PP (TO to)
+                                         (NP (NP (DT the) (NNS conditions))
+                                             (ADJP (JJ applicable)
+                                                   (PP (TO to)
+                                                       (NP (DT those) (NNS items))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN For)
+        (NP (NN example)))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB suppose)
+           (SBAR (-NONE- 0)
+                 (S (NP (NP (DT another) (NN excess) (NNS profits)
+                            (NN tax))
+                        (ADJP (JJ similar)
+                              (PP (TO to)
+                                  (NP (JJ prior) (NNS laws)))))
+                    (AUX (VBZ is))
+                    (VP (VBN enacted)
+                        )
+                    (, ,)
+                    (S (NP (-NONE- *))
+                       (VP (VBG providing)
+                           (PP (IN for)
+                               (NP (NN carryover)
+                                   (PP (IN of)
+                                       (NP (JJ excess) (NNS profits)
+                                           (NNS credits))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN carryover) (NN right))
+    (VP (VBZ has)
+        (NP (DT a) (NN number)
+            (PP (IN of)
+                (NP (NNS things))))
+        (PP (IN in)
+            (NP (NN common))
+            (PP (IN with)
+                (NP (DT a) (NN net)
+                    (VBG operating)
+                    (NN loss) (NN carryover))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (PRP It))
+       (VP (VBZ is)
+           (NP (NP (DT an) (VBG averaging) (NN device))
+               (VP (VBN intended)
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB ease)
+                          (NP (DT the) (NN tax) (NN burden)
+                              (PP (IN of)
+                                  (NP (VP (VBG fluctuating))
+                                      (NN income))))))))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (NP (NP (DT a) (NN tax) (NN benefit))
+               (SBAR
+                     (WHNP (WDT which))
+                     (S (NP (-NONE- T))
+                        (AUX (MD might))
+                        (VP (VB be)
+                            (PP (IN of)
+                                (NP (JJ substantial) (NN value)))
+                            (PP (TO to)
+                                (NP (NP (DT a) (NN corporation))
+                                    (SBAR
+                                          (WHNP (WDT which))
+                                          (S (NP (-NONE- T))
+                                             (VP (VBZ expects)
+                                                 (S (NP (-NONE- *))
+                                                    (AUX (TO to))
+                                                    (VP (VB have)
+                                                        (NP (DT a)
+                                                            (JJ high) (JJ excess)
+                                                            (NNS profits)
+                                                            (NN tax))))))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN Under)
+        (NP (DT the) (CD 1939)
+            (NNP Code)))
+    (S
+       (NP (DT this) (NN item))
+       (AUX (VBD was))
+       (VP (VP (VBN permitted)
+               
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB survive)
+                      (NP (DT a) (JJ tax-free) (NN reorganization)))
+                  (PP (IN in)
+                      (NP (DT the) (NNP Stanton) (NNP Brewery) (NN case)))))
+           (, ,)
+           (CC but)
+           (X (ADVP (RB only))
+              (PP (IN over)
+                  (NP (DT the) (NN dissent)
+                      (PP (IN of)
+                          (NP (NP (NNP Judge) (NNP Learned) (NNP Hand))
+                              (, ,)
+                              (SBAR
+                                    (WHNP (WP who))
+                                    (S (NP (-NONE- T))
+                                       (VP (VBD wrote)
+                                           (NP (DT the) (NN majority) (NN opinion)))
+                                       (PP (IN in)
+                                           (NP (NP (DT the) (NNP Sansome) (NN case))
+                                               (, ,)
+                                               (NP (NP (DT a) (ADJP (JJ leading)) (NN case))
+                                                   (VP (VBG requiring)
+                                                       (NP (NN carryover)
+                                                           (PP (IN of)
+                                                               (NP (NP (NNS earnings)) (CC and) (NP (NNS profits)))))
+                                                       (PP (IN in)
+                                                           (NP (DT a) (JJ non-taxable) (NN reorganization)))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (SBAR (IN Since)
+          (S (NP (DT this) (NN type)
+                 (PP (IN of)
+                     (NP (NN item))))
+             (VP (VBD was)
+                 (NEG (RB not))
+                 (PP (IN in)
+                     (NP (DT the) (NN statute))))
+             (SBAR
+                   (WHADVP (WRB when))
+                   (S (NP (NN section) (CD 381))
+                      (AUX (VBD was))
+                      (VP (VBN enacted)
+                          )
+                      (PP (IN in)
+                          (NP (CD 1954)))))))
+    (, ,)
+    (S (NP (NN one))
+       (AUX (MD can))
+       (NEG (RB not))
+       (VP (VB say)
+           (PP (IN with)
+               (NP (NN certainty)))
+           (SBAR (WHNP (WDT what) (NN effect))
+                 (S
+                    (NP (DT the) (NN enactment)
+                        (PP (IN of)
+                            (NP (DT that) (NN section))))
+                    (AUX (MD should))
+                    (VP (VB have)
+                        (NP (-NONE- T))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (PP (IN With)
+        (NP (NN respect)
+            (PP (TO to)
+                (NP (DT this) (NN type)
+                    (PP (IN of)
+                        (NP (NN item)))))))
+    (, ,)
+    (S (NP (NN one))
+       (AUX (MD might))
+       (ADVP (RB properly))
+       (VP (VB apply)
+           (NP (DT the) (NN language)
+               (PP (IN of)
+                   (NP (NP (DT the) (NNP Committee) (NNP Report))
+                       (, ,)
+                       (VP (VBN quoted)
+                           (ADVP (IN above)))
+                       (, ,)
+                       (SBAR
+                             (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (VP (VBZ cautions)
+                                    (PP (IN against)
+                                        (S (NP (-NONE- *))
+                                           (VP (VBG using)
+                                               (NP (NN section) (CD 381))
+                                               (PP (IN as)
+                                                   (NP (DT a) (NN basis)
+                                                       (PP (IN for)
+                                                           (S (NP (-NONE- *))
+                                                              (VP (VBG treating)
+                                                                  (NP (NP (JJ other) (NN tax) (NNS attributes))
+                                                                      (VP (NEG (RB not))
+                                                                          (VBN mentioned)
+                                                                          (ADVP (RB therein)))))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Actually))
+    (, ,)
+    (S (NP (EX there))
+       (AUX (VBP do))
+       (NEG (RB not))
+       (ADVP (RB presently))
+       (VP (VB appear)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (NP (NP (NNS items)
+                          (PP (IN in)
+                              (NP (DT the) (NN statute))))
+                      (ADJP (JJ comparable)
+                            (PP (TO to)
+                                (NP (DT a) (NN net)
+                                    (VBG operating)
+                                    (NN loss) (NN carryover))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Probably))
+    (S (NP (DT the) (JJ primary) (NN reason)
+           (PP (IN for)
+               (NP (JJ special) (NN treatment)
+                   (PP (IN of)
+                       (NP (DT a) (NN net)
+                           (VBG operating)
+                           (NN loss) (NN carryover))))))
+       (VP (VBZ is)
+           (NP (NP (DT the) (JJ unique) (NN opportunity))
+               (SBAR (-NONE- 0)
+                     (S
+                        (NP (PRP it))
+                        (VP (VBZ presents)
+                            (NP (-NONE- T)))))
+               (PP (IN for)
+                   (NP (NN tax) (NN avoidance)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

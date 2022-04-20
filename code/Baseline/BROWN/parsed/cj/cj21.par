@@ -1,0 +1,2066 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (NP Introduction)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP 1))
+     (S
+      (NP we)
+      (VP investigate
+	  (NP a new series
+	      (PP of
+		  (NP line involutions
+		      (PP in
+			  (NP a projective space
+			      (PP of
+				  (NP three dimensions))))
+		      (PP over
+			  (NP the field
+			      (PP of
+				  (NP complex numbers))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX are)
+   (VP defined
+	     
+       (PP by
+	   (NP a
+	       simple involutorial
+	       transformation
+	       (PP of
+		   (NP (NP the points)
+		       (SBAR (WHPP in
+				   (WHNP which))
+			     (S (NP a general line)
+				(VP meets
+				    (NP (NP a
+					    nonsingular quadric
+					    surface)
+					(VP bearing
+					    (NP a curve
+						(PP of
+						    (NP symbol A[fj]))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Then)
+      (PP in
+	  (NP 2))
+      (S (NP we)
+	 (VP show
+	     (SBAR that
+		   (S (NP any line involution
+			  (PP with
+			      (NP the properties
+				  (SBAR that
+					(S (S  *LRB*
+					       (NP A)
+					       *RRB*
+					       (S (NP It)
+						  (VP has
+						      (NP no
+							  complex
+							  (PP of
+							      (NP invariant lines))))))
+					   ,
+					   and
+					   (S  *LRB*
+					       (NP B)
+					       *RRB*
+					       (S (NP Its singular lines)
+						  (VP form
+						      (NP (NP a complex)
+							  (VP consisting
+							      (ADVP exclusively)
+							      (PP of
+								  (NP (NP the lines)
+								      (SBAR  
+								       (WHNP which)
+								       (S (NP T)
+									  (VP meet
+									      (NP a (ADJP twisted) curve)))))))))))
+					   ,)))))
+		      (VP is
+			  (ADVP necessarily)
+			  (PP of
+			      (NP (NP the type)
+				  (VP discussed
+				      (PP in
+					  (NP 1)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP No generalization
+       (PP of
+	   (NP these results))
+       (PP to
+	   (NP spaces
+	       (PP of
+		   (NP  
+		    (ADJP more
+			  (PP than
+			      (NP three)))
+		    dimensions)))))
+   (AUX has)
+   (ADVP so
+	 far)
+   (VP been
+       (VP found
+	   (ADJP possible))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP 1)
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Let
+	     (NP Q)
+	     (VP be
+		 (NP (NP a
+			 nonsingular quadric
+			 surface)
+		     (VP bearing
+			 (NP reguli
+			     A[fj] and A[fj]))))))
+     ,
+     and
+     (S  (NP *) 
+	 (VP let
+	     (NP ** zg)
+	     (VP be
+		 (NP a A[fj] curve
+		     (PP of
+			 (NP order
+			     K))
+		     (PP on
+			 (NP Q)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP A general line L)
+    (VP meets
+	(NP Q)
+	(PP in
+	    (NP (NP (NP two points)
+		    ,
+		    (NP (NP A[fj]) and (NP A[fj]))
+		    ,)
+		(SBAR (WHPP  through
+			     (WHNP  each
+				    (WHPP of
+					  (WHNP which))))
+		      (SINV  
+		       (VP passes)
+		       (NP (NP a unique generator
+			       (PP of
+				   (NP (NP the regulus)
+				       ,
+				       (NP A[fj]))))
+			   ,
+			   (SBAR 
+			    (WHNP whose lines)
+			    (S (NP T)
+			       (VP are
+				   (NP simple secants
+				       (PP of
+					   (NP A[fj])))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP these generators))
+   (S  (NP *) 
+       (VP let
+	   (NP (NP A[fj]) and (NP A[fj]))
+	   (VP be
+	       ,
+	       (ADVP (X respectively))
+	       ,
+	       (NP the harmonic conjugates
+		   (PP of
+		       (NP (NP A[fj]) and (NP A[fj]))))
+	       (PP with
+		   (NP respect
+		       (PP to
+			   (NP (NP the two points)
+			       (SBAR  
+				(WHPP in
+				      (WHNP which))
+				(S
+				 (NP the (VP corresponding) generator)
+				 (VP meets
+				     (NP A[fj]))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S
+  (NP The line A[fj])
+  (VP is
+      (NP the image
+	  (PP of
+	      (NP L)))))
+ .)
+((S  (ADVP Clearly)
+     ,
+     (S (NP the transformation)
+	(VP is
+	    (ADJP involutorial))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (VP observe
+       (ADVP first)
+       (SBAR that
+	     (S (NP (NP no line)
+		    ,
+		    (NP l)
+		    ,)
+		(AUX can)
+		(VP meet
+		    (NP its image)
+		    (PP except
+			(PP at
+			    (NP one
+				(PP of
+				    (NP its intersections
+					(PP with
+					    (NP Q))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (SBAR if
+	    (S (NP it)
+	       (VP did)))
+      ,
+      (S (S (NP the plane
+		(PP of
+		    (NP (NP L) and (NP l '))))
+	    (AUX would)
+	    (VP contain
+		(NP two generators
+		    (PP of
+			(NP A[fj])))))
+	 ,
+	 (SBAR 
+	  (WHNP which)
+	  (S (NP T)
+	     (VP is
+		 (ADJP impossible))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (PP from
+	  (NP the definitive transformation
+	      (PP of
+		  (NP intercepts
+		      (PP on
+			  (NP the generators
+			      (PP of
+				  (NP A[fj]))))))))
+      ,
+      (S (NP it
+	     (SBAR-1 *pseudo-attach*))
+	 (VP is
+	     (ADJP clear))
+	 (SBAR-1 that
+		 (S (NP (NP the only points
+			    (PP of
+				(NP Q)))
+			(SBAR (WHPP at
+				    (WHNP which))
+			      (S
+			       (NP a line)
+			       (AUX can)
+			       (VP meet
+				   (NP its image)))))
+		    (VP are
+			(NP the points
+			    (PP of
+				(NP A[fj]))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S (NP the totality
+	     (PP of
+		 (NP singular lines)))
+	 (VP is
+	     (NP the T order complex
+		 (PP of
+		     (NP (NP lines)
+			 (SBAR 
+			  (WHNP which)
+			  (S (NP T)
+			     (VP meet
+				 (NP A[fj]))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The invariant lines)
+   (VP are
+       (NP the lines
+	   (PP of
+	       (NP the congruence
+		   (PP of
+		       (NP secants
+			   (PP of
+			       (NP ** zg))))))))
+   ,
+   (SBAR since
+	 (S (NP each
+		(PP of
+		    (NP these)))
+	    (VP meets
+		(NP Q)
+		(PP in
+		    (NP (NP two points)
+			(SBAR 
+			 (WHNP which)
+			 (S (NP T)
+			    (VP are
+				(ADJP invariant))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The order
+	(PP of
+	    (NP this congruence)))
+    (VP is
+	(NP A[fj]))
+    ,
+    (SBAR since
+	  (S (NP A[fj] secants
+		 (PP of
+		     (NP a curve
+			 (PP of
+			     (NP symbol
+				 *LRB*
+				 B
+				 *RRB*
+				 (PP on
+				     (NP a quadric surface)))))))
+	     (VP pass
+		 (PP through
+		     (NP an arbitrary point))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The class
+       (PP of
+	   (NP the congruence)))
+   (VP is
+       (NP A[fj]))
+   ,
+   (SBAR since
+	 (S (NP an arbitrary plane)
+	    (VP meets
+		(NP ** zg)
+		(PP in
+		    (NP K points))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR (SBAR  Since
+		(S (NP the complex
+		       (PP of
+			   (NP singular lines)))
+		   (VP is
+		       (PP of
+			   (NP order
+			       K)))))
+	 and
+	 (SBAR since
+	       (S (NP there)
+		  (VP is
+		      (NP no complex
+			  (PP of
+			      (NP invariant lines)))))))
+   ,
+   (S (NP it
+	  (SBAR-2 *pseudo-attach*))
+      (VP follows
+	  (PP from
+	      (NP the formula A[fj])))
+      (SBAR-2 that
+	      (S (NP the order
+		     (PP of
+			 (NP the involution)))
+		 (VP is
+		     (NP A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S
+    (NP There)
+    (VP are
+	(NP various sets
+	    (PP of
+		(NP (NP exceptional lines)
+		    ,
+		    or
+		    (NP (NP lines)
+			(SBAR 
+			 (WHNP whose images)
+			 (S (NP T)
+			    (VP are
+				(NEG not)
+				(ADJP unique))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP  most obvious)
+       (PP of
+	   (NP these)))
+   (VP is
+       (NP (NP the quadratic complex
+	       (PP of
+		   (NP tangents
+		       (PP to
+			   (NP Q)))))
+	   ,
+	   (SBAR (WHNP  each line
+			(WHPP of
+			      (WHNP which)))
+		 (S  (NP T)
+		     (AUX is)
+		     (VP transformed
+	     
+			 (PP into
+			     (NP the entire pencil
+				 (PP of
+				     (NP (NP lines)
+					 (ADJP tangent
+					       (PP to
+						   (NP Q)))))))
+			 (PP at
+			     (NP the image
+				 (PP of
+				     (NP the point
+					 (PP of
+					     (NP tangency
+						 (PP of
+						     (NP the (ADJP given) line))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP pencils
+	     (PP of
+		 (NP tangents
+		     (PP to
+			 (NP Q)))))
+	 (AUX are)
+	 (VP transformed
+	      
+	     (PP into
+		 (NP pencils
+		     (PP of
+			 (NP tangents)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-3 *pseudo-attach*))
+   (VP is
+       (ADJP interesting))
+   (SBAR-3 that
+	   (S (S (NP a 1 :
+		     1 correspondence)
+		 (AUX can)
+		 (VP be
+		     (VP established))
+		 (PP between
+		     (NP the lines
+			 (PP of
+			     (NP two such pencils)))))
+	      ,
+	      (SBAR so
+		    that
+		    (S  
+		     (PP in
+			 (NP a sense))
+		     (S
+		      (NP a unique image)
+		      (AUX can)
+		      (ADVP actually)
+		      (VP be
+			  (VP assigned
+	     
+			      (PP to
+				  (NP each tangent))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP For
+       (NP the lines
+	   (PP of
+	       (NP any plane))))
+   ,
+   (S (NP (NP ** yp)
+	  ,
+	  (VP meeting
+	      (NP Q)
+	      (PP in
+		  (NP a
+		      conic
+		      C)))
+	  ,)
+      (AUX are)
+      (VP transformed
+	  
+	  (PP into
+	      (NP the congruence
+		  (PP of
+		      (NP secants
+			  (PP of
+			      (NP (NP the curve
+				      C ')
+				  (SBAR (WHPP into
+					      (WHNP which))
+					(S
+					 (NP C)
+					 (AUX is)
+					 (VP transformed
+					     )
+					 (PP in
+					     (NP the point involution
+						 (PP on
+						     (NP Q)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (ADJP particular))
+   ,
+   (S (NP tangents
+	  (PP to
+	      (NP C)))
+      (AUX are)
+      (VP transformed
+	  
+	  (PP into
+	      (NP tangents
+		  (PP to
+		      (NP C ')))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (SBAR if
+	    (S (NP (NP A[fj]) and (NP A[fj]))
+	       (VP are
+		   (NP (NP two planes)
+		       (VP intersecting
+			   (PP in
+			       (NP (NP a line l)
+				   ,
+				   (ADJP tangent
+					 (PP to
+					     (NP Q))
+					 (PP at
+					     (NP a point
+						 P))))))))))
+      ,
+      (S (S (NP the two free intersections
+		(PP of
+		    (NP the image curves
+			A[fj] and A[fj])))
+	    (AUX must)
+	    (VP coincide
+		(PP at
+		    (NP (NP P ')
+			,
+			(NP the image
+			    (PP of
+				(NP P)))))))
+	 ,
+	 and
+	 (S (PP at
+		(NP this point))
+	    (S (NP (NP A[fj]) and (NP A[fj]))
+	       (AUX must)
+	       (VP have
+		   (NP a
+		       common tangent
+		       l '))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      ,
+      (S  (NP *)  
+	  (VP thought
+	      (PP of
+		  (NP *) )
+	      (PP as
+		  (NP a line
+		      (PP in
+			  (NP a particular plane ** yp))))))
+      ,
+      (S (S (NP any tangent
+		(PP to
+		    (NP Q)))
+	    (VP has
+		(NP a unique image)))
+	 and
+	 (S (ADVP moreover)
+	    (S (NP this image)
+	       (VP is
+		   (NP the
+		       (ADJP same))
+		   (PP for
+		       (NP all planes
+			   (PP through
+			       (NP L)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S  
+     (NP (NP Each generator)
+	 ,
+	 (NP ** yl)
+	 ,
+	 (PP of
+	     (NP A[fj])))
+     (VP is
+	 (ADVP also)
+	 (ADJP exceptional)))
+    ,
+    for
+    (S (NP each)
+       (AUX is)
+       (VP transformed
+	       
+	   (PP into
+	       (NP the entire congruence
+		   (PP of
+		       (NP secants
+			   (PP of
+			       (NP (NP the curve)
+				   (SBAR (WHPP into
+					       (WHNP which))
+					 (S
+					  (NP that generator)
+					  (AUX is)
+					  (VP transformed
+	      
+					      (PP by
+						  (NP the point involution
+						      (PP on
+							  (NP Q))))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This curve)
+   (VP is
+       (PP of
+	   (NP symbol A[fj])))
+   (SBAR (SBAR since
+	       (S (NP it)
+		  (VP meets
+		      (NP (NP ** yl)
+			  ,
+			  and
+			  (ADVP hence)
+			  (NP every line
+			      (PP of
+				  (NP A[fj]))
+			      (PP in
+				  (NP the A[fj] invariant points
+				      (PP on
+					  (NP ** yl)))))))))
+	 and
+	 (SBAR since
+	       (S (NP it)
+		  (ADVP obviously)
+		  (VP meets
+		      (NP every line
+			  (PP of
+			      (NP A[fj]))
+			  (PP in
+			      (NP a single point))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The congruence
+       (PP of
+	   (NP its secants)))
+   (VP is
+       (ADVP therefore)
+       (PP of
+	   (NP (NP order A[fj]) and (NP class A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP A final class
+	  (PP of
+	      (NP exceptional lines)))
+      (VP is
+	  (ADJP identifiable
+		(PP from
+		    (NP the  (ADJP following) considerations)))))
+   :
+   (S (SBAR  Since
+	     (S (NP no two generators
+		    (PP of
+			(NP A[fj])))
+		(AUX can)
+		(VP intersect)))
+      ,
+      (S (NP it)
+	 (VP follows
+	     (SBAR that
+		   (S (NP their image curves)
+		      (AUX can)
+		      (VP have
+			  (NP no free intersections))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP other words))
+   ,
+   (S (NP these curves)
+      (VP have
+	  (NP (NP (ADVP only)
+		  fixed
+		  intersections)
+	      (ADJP common
+		    (PP to
+			(NP them
+			    all)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (ADVP Now)
+	 (S (NP (NP the only way)
+		(SBAR 
+		 (WHPP in
+		       (WHNP which))
+		 (S (NP all curves
+			(PP of
+			    (NP the image family
+				(PP of
+				    (NP A[fj])))))
+		    (AUX can)
+		    (VP pass
+			(PP through
+			    (NP a (ADJP fixed) point))))))
+	    (VP is
+		(S (NP *)
+		   (AUX to)
+		   (VP have
+		       (NP (NP a generator
+			       (PP of
+				   (NP A[fj])))
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP is
+				   (NP (NEG not)
+				       (NP a secant)
+				       but
+				       (NP a tangent
+					   (PP of
+					       (NP ** zg)))))))))))))
+     ,
+     for
+     (S  (ADVP then)
+	 (S (NP any point
+		(PP on
+		    (NP  such
+			 a generator)))
+	    (AUX will)
+	    (VP be
+		(VP transformed
+	       
+		    (PP into
+			(NP the point
+			    (PP of
+				(NP tangency)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  Since
+	  (S (NP two curves
+		 (PP of
+		     (NP symbol A[fj]
+			 (PP on
+			     (NP Q)))))
+	     (VP intersect
+		 (PP in
+		     (NP A[fj] points)))))
+   ,
+   (S (NP it)
+      (VP follows
+	  (SBAR that
+		(S (NP there)
+		   (VP are
+		       (NP (NP A[fj] lines
+			       (PP of
+				   (NP A[fj])))
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP are
+				   (ADJP tangent
+					 (PP to
+					     (NP A[fj])))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Clearly)
+      ,
+      (S  
+       (NP (NP any line)
+	   ,
+	   (NP l)
+	   ,
+	   (PP of
+	       (NP (NP any bundle)
+		   (VP having
+		       (NP (NP one
+			       (PP of
+				   (NP these points
+				       (PP of
+					   (NP tangency)))))
+			   ,
+			   (NP T)
+			   ,)
+		       (PP as
+			   (NP vertex))))))
+       (AUX will)
+       (VP be
+	   (VP transformed
+	        
+	       (PP into
+		   (NP (NP the entire pencil)
+		       (VP  (VP having
+				(NP (NP the image
+					(PP of
+					    (NP the second intersection
+						(PP of
+						    (NP L)))))
+				    and
+				    (NP Q))
+				(PP as
+				    (NP vertex)))
+			    and
+			    (VP lying
+				(PP in
+				    (NP (NP the plane)
+					(VP determined
+					    (PP by
+						(NP (NP the image point)
+						    and
+						    (NP (NP the generator
+							    (PP of
+								(NP A[fj])))
+							(SBAR 
+							 (WHNP which)
+							 (S (NP T)
+							    (VP is
+								(ADJP tangent
+								      (PP to
+									  (NP ** zg))
+								      (PP at
+									  (NP T))))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP A line
+      (PP through
+	  (NP (NP two
+		  (PP of
+		      (NP these points)))
+	      ,
+	      (NP (NP A[fj]) and (NP A[fj]))
+	      ,)))
+  (AUX will)
+  (VP be
+      (VP transformed
+	     
+	  (PP into
+	      (NP (NP the
+		      entire bilinear
+		      congruence)
+		  (VP having
+		      (NP the tangents
+			  (PP to
+			      (NP ** zg))
+			  (PP at
+			      (NP (NP A[fj]) and (NP A[fj]))))
+		      (PP as
+			  (NP directrices))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP (NP A conic)
+	  ,
+	  (NP C)
+	  ,)
+      (VP being
+	  (NP a
+	      *LRB*
+	      1 , 1
+	      *RRB*
+	      curve
+	      (PP on
+		  (NP Q))))
+      ,)
+  (VP meets
+      (NP (NP the image
+	      (PP of
+		  (NP any line
+		      (PP of
+			  (NP A[fj])))))
+	  ,
+	  (SBAR  
+	   (WHNP which)
+	   (S
+	    (NP we)
+	    (AUX have)
+	    (ADVP already)
+	    (VP found
+		(S  (NP T) 
+		    (AUX to)
+		    (VP be
+			(NP a A[fj] curve
+			    (PP on
+				(NP Q)))
+			,
+			(PP in
+			    (NP A[fj] points))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S  
+       (NP (NP its image)
+	   ,
+	   (NP C ')
+	   ,)
+       (VP meets
+	   (NP any line
+	       (PP of
+		   (NP A[fj])))
+	   (PP in
+	       (NP A[fj] points)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (S (NP C ')
+	 (ADVP obviously)
+	 (VP meets
+	     (NP any line A[fj])
+	     (PP in
+		 (NP a single point)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S (NP C ')
+	 (VP is
+	     (NP a A[fj] curve
+		 (PP on
+		     (NP Q))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Therefore)
+      ,
+      (S  
+       (NP (NP the congruence
+	       (PP of
+		   (NP its secants)))
+	   ,
+	   (S (NP that)
+	      (VP is
+		  (NP the image
+		      (PP of
+			  (NP a general plane field
+			      (PP of
+				  (NP lines)))))))
+	   ,)
+       (VP is
+	   (PP of
+	       (NP (NP order A[fj]) and (NP class A[fj]))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Finally)
+      ,
+      (S (NP the image
+	     (PP of
+		 (NP a general bundle
+		     (PP of
+			 (NP lines)))))
+	 (VP is
+	     (NP (NP a congruence)
+		 (SBAR (SBAR 
+			(WHNP whose order)
+			(S (NP T)
+			   (VP is
+			       (NP (NP the order
+				       (PP of
+					   (NP the congruence
+					       (PP of
+						   (NP invariant lines)))))
+				   ,
+				   (ADVP namely)
+				   (NP A[fj])))))
+		       and
+		       (SBAR 
+			(WHNP whose class)
+			(S (NP T)
+			   (VP is
+			       (NP (NP the order
+				       (PP of
+					   (NP the image congruence
+					       (PP of
+						   (NP a general plane field
+						       (PP of
+							   (NP lines)))))))
+				   ,
+				   (ADVP namely)
+				   (NP Af. 2))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The (VP preceding) observations)
+   (VP make
+       (NP it
+	   (SBAR-4 *pseudo-attach*))
+       (ADJP clear)
+       (SBAR-4 that
+	       (S (NP there)
+		  (VP exist
+		      (NP line involutions
+			  (PP of
+			      (NP (NP all orders)
+				  (ADJP greater
+					(PP than
+					    (NP 1)))))
+			  (PP (PP with
+				  (NP no complex
+				      (PP of
+					  (NP invariant lines))))
+			      and
+			      (PP with
+				  (NP (NP a complex
+					  (PP of
+					      (NP singular lines)))
+				      (VP consisting
+					  (ADVP exclusively)
+					  (PP of
+					      (NP (NP the lines)
+						  (SBAR 
+						   (WHNP which)
+						   (S (NP T)
+						      (VP meet
+							  (NP a (ADJP twisted) curve A[fj]))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP now)
+   (AUX shall)
+   (VP show
+       (SBAR that
+	     (S (NP any involution
+		    (PP with
+			(NP these characteristics)))
+		(VP is
+		    (ADVP necessarily)
+		    (PP of
+			(NP (NP the type)
+			    (SBAR 0
+				  (S
+				   (NP we)
+				   (AUX have)
+				   (ADVP just)
+				   (VP described
+				       (NP T) ))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (AUX To)
+      (VP do
+	  (NP this)))
+   (S (NP we)
+      (AUX must)
+      (ADVP first)
+      (VP show
+	  (SBAR that
+		(S (NP (NP every line)
+		       (SBAR 
+			(WHNP which)
+			(S (NP T)
+			   (VP meets
+			       (NP ** zg)
+			       (PP in
+				   (NP a point
+				       P))))))
+		   (VP meets
+		       (NP its image)
+		       (PP at
+			   (NP P))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (AUX To)
+	 (VP see
+	     (NP this)))
+     ,
+     (S  (NP *) 
+	 (VP consider
+	     (NP (NP a general pencil
+		     (PP of
+			 (NP lines)))
+		 (VP containing
+		     (NP a general secant
+			 (PP of
+			     (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (PP By
+	  *LRB*
+	  (NP 1)
+	  *RRB*)
+      ,
+      (S (NP the image
+	     (PP of
+		 (NP this pencil)))
+	 (VP is
+	     (NP (NP a (VP ruled) surface
+		     (PP of
+			 (NP order A[fj])))
+		 (SBAR 
+		  (WHNP which)
+		  (S (NP T)
+		     (AUX is)
+		     (VP met
+		 
+			 (PP by
+			     (NP the plane
+				 (PP of
+				     (NP the pencil))))
+			 (PP in
+			     (NP (NP a curve)
+				 ,
+				 (NP C)
+				 ,
+				 (PP of
+				     (NP order A[fj])))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP On
+       (NP C))
+   (S (NP there)
+      (VP is
+	  (NP (NP a A[fj] correspondence)
+	      (SBAR (WHPP in
+			  (WHNP which))
+		    (S  
+		     (NP (NP the A[fj] points)
+			 (VP cut
+			     (PP from
+				 (NP C))
+			     (PP by
+				 (NP (NP a general line)
+				     ,
+				     (NP l)
+				     ,
+				     (PP of
+					 (NP the pencil))))))
+		     (VP correspond
+			 (PP to
+			     (NP the point
+				 (PP of
+				     (NP intersection
+					 (PP of
+					     (NP (NP the image
+						     (PP of
+							 (NP L)))
+						 and
+						 (NP the plane
+						     (PP of
+							 (NP the pencil))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR  Since
+	  (S (NP C)
+	     (VP is
+		 (ADJP rational))))
+   ,
+   (S (NP this correspondence)
+      (VP has
+	  (NP (NP K coincidences)
+	      ,
+	      (SBAR (WHNP  each
+			   (WHPP of
+				 (WHNP which)))
+		    (S  (NP T) 
+			(VP implies
+			    (NP (NP a line
+				    (PP of
+					(NP the pencil)))
+				(SBAR 
+				 (WHNP which)
+				 (S (NP T)
+				    (VP meets
+					(NP its image))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (SBAR since
+	    (S (NP the pencil)
+	       (VP contains
+		   (NP a secant
+		       (PP of
+			   (NP ** zg))))))
+      (S
+       (NP it)
+       (ADVP actually)
+       (VP contains
+	   (NP only A[fj] singular lines))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP avoid
+	    (NP this contradiction)))
+     (S
+      (NP it
+	  (SBAR-5 *pseudo-attach*))
+      (VP is
+	  (ADJP necessary))
+      (SBAR-5 that
+	      (S (NP C)
+		 (VP be
+		     (ADJP composite)
+		     ,
+		     (PP with
+			 (NP (NP (NP the secant
+				     (PP of
+					 (NP ** zg)))
+				 and
+				 (NP a curve
+				     (PP of
+					 (NP order A[fj]))))
+			     (PP as
+				 (NP components)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Thus)
+      (S (NP it)
+	 (VP follows
+	     (SBAR that
+		   (S (NP the secants
+			  (PP of
+			      (NP ** zg)))
+		      (VP are
+			  (NP all invariant)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S   But
+       (SBAR if
+	     (S (NP this)
+		(VP is
+		    (NP the case))))
+       ,
+       (ADVP then)
+       (S  
+	(NP an arbitrary pencil
+	    (PP of
+		(NP (NP lines)
+		    (VP having
+			(NP (NP a point)
+			    ,
+			    (NP P)
+			    ,
+			    (PP of
+				(NP ** zg)))
+			(PP as
+			    (NP vertex))))))
+	(AUX is)
+	(VP transformed
+	  
+	    (PP into
+		(NP (NP a (VP ruled) surface
+			(PP of
+			    (NP order A[fj])))
+		    (VP having
+			(NP (NP A[fj] generators)
+			    (ADJP concurrent
+				  (PP at
+				      (NP P))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR  Since
+	    (S (NP a (VP ruled) surface
+		   (PP of
+		       (NP order
+			   N))
+		   (PP with
+		       (NP N concurrent generators)))
+	       (VP is
+		   (ADVP necessarily)
+		   (NP a cone))))
+     ,
+     (S (NP it)
+	(VP follows
+	    (ADVP finally)
+	    (SBAR that
+		  (S (NP every line
+			 (PP through
+			     (NP (NP a point)
+				 ,
+				 (NP P)
+				 ,
+				 (PP of
+				     (NP ** zg)))))
+		     (VP meets
+			 (NP its image)
+			 (PP at
+			     (NP P)))
+		     ,
+		     (PP as
+			 (S  (NP *) 
+			     (VP asserted))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S  (NP *) 
+	  (VP consider
+	      (NP the transformation
+		  (PP of
+		      (NP the lines
+			  (PP of
+			      (NP (NP a bundle
+				      (PP with
+					  (NP (NP vertex)
+					      ,
+					      (NP P)
+					      ,
+					      (PP on
+						  (NP ** zg)))))
+				  (SBAR 
+				   (WHNP which)
+				   (S (NP T)
+				      (AUX is)
+				      (VP effected
+		 
+					  (PP by
+					      (NP the involution
+						  (PP as
+						      (NP a whole)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP From
+       (NP the (VP preceding) remarks))
+   ,
+   (S (NP it
+	  (SBAR-6 *pseudo-attach*))
+      (VP is
+	  (ADJP clear))
+      (SBAR-6 that
+	      (S (NP  such
+		      a bundle)
+		 (AUX is)
+		 (VP transformed
+		     (PP into
+			 (NP itself))
+		     (PP in
+			 (NP an involutorial fashion)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (S (PP in
+	     (NP this involution))
+	 (S
+	  (NP there)
+	  (VP is
+	      (NP (NP a cone
+		      (PP of
+			  (NP invariant lines
+			      (PP of
+				  (NP order A[fj])))))
+		  ,
+		  (ADVP namely)
+		  (NP the cone
+		      (PP of
+			  (NP (NP secants
+				  (PP of
+				      (NP ** zg)))
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (VP pass
+				      (PP through
+					  (NP P)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Hence)
+      (S (NP it)
+	 (VP follows
+	     (SBAR that
+		   (S (S (NP the involution
+			     (PP within
+				 (NP the bundle)))
+			 (AUX must)
+			 (VP be
+			     (NP a
+				 perspective
+				 De Jonquieres involution
+				 (PP of
+				     (NP order A[fj])))))
+		      and
+		      (S (NP the invariant locus)
+			 (AUX must)
+			 (VP have
+			     (NP a multiple line
+				 (PP of
+				     (NP (NP multiplicity) 
+					 (NP either (NP A[fj]) or (NP A[fj]))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The first possibility)
+      (VP requires
+	  (SBAR that
+		(S (NP there)
+		   (VP be
+		       (NP (NP a line
+			       (PP through
+				   (NP P)))
+			   (SBAR 
+			    (WHNP which)
+			    (S (NP T)
+			       (VP meets
+				   (NP ** zg)
+				   (PP in
+				       (NP A[fj] points)))))))))))
+     ;
+     ;
+     (S (NP the second)
+	(VP requires
+	    (SBAR that
+		  (S (NP there)
+		     (VP be
+			 (NP (NP a line
+				 (PP through
+				     (NP P)))
+			     (SBAR 
+			      (WHNP which)
+			      (S (NP T)
+				 (VP meets
+				     (NP ** zg)
+				     (PP in
+					 (NP A[fj] points))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP each case))
+   ,
+   (S (NP lines
+	  (PP of
+	      (NP the bundles)))
+      (AUX are)
+      (VP transformed
+	      
+	  (PP by
+	      (NP involutions
+		  (PP within
+		      (NP (NP the pencils)
+			  (SBAR 0
+				(S (NP they)
+				   (VP determine
+				       (NP T) 
+				       (PP with
+					   (NP the multiple secant))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP In
+	 (NP the first case))
+     (S
+      (NP the (ADJP fixed) elements
+	  (PP within
+	      (NP each pencil)))
+      (VP are
+	  (NP (NP the multiple secant)
+	      and
+	      (NP (NP the line)
+		  (VP joining
+		      (NP (NP the vertex)
+			  ,
+			  (NP P)
+			  ,)
+		      (PP to
+			  (NP (NP the intersection
+				  (PP of
+				      (NP (NP ** zg)
+					  and
+					  (NP the plane
+					      (PP of
+						  (NP the pencil))))))
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (AUX does)
+				  (NEG not)
+				  (VP lie
+				      (PP on
+					  (NP the multiple secant)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the
+	   (ADJP second)))
+   ,
+   (S (NP the (ADJP fixed) elements)
+      (VP are
+	  (NP (NP the lines)
+	      (SBAR 
+	       (WHNP which)
+	       (S (NP T)
+		  (VP join
+		      (NP (NP the vertex)
+			  ,
+			  (NP P)
+			  ,)
+		      (PP to
+			  (NP (NP the two intersections
+				  (PP of
+				      (NP (NP ** zg)
+					  and
+					  (NP the plane
+					      (PP of
+						  (NP the
+						      pencil))))))
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (AUX do)
+				  (NEG not)
+				  (VP lie
+				      (PP on
+					  (NP the multiple secant))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP The multiple secants)
+      ,
+      (PP of
+	  (NP course))
+      ,
+      (VP are
+	  (ADJP exceptional)))
+     and
+     (X (PP in
+	    (NP each case))
+	(AUX are)
+	(VP transformed
+	      
+	    (PP into
+		(NP cones
+		    (PP of
+			(NP order A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Observations)
+       (ADJP similar
+	     (PP to
+		 (NP these))))
+   (AUX can)
+   (VP be
+       (VP made
+		 
+	   (PP at
+	       (NP each point
+		   (PP of
+		       (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  Hence
+      (S (NP ** zg)
+	 (AUX must)
+	 (VP have
+	     (NP either
+		 (NP a regulus
+		     (PP of
+			 (NP Af-fold secants)))
+		 or
+		 (NP a regulus
+		     (PP of
+			 (NP Af-fold secants)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Moreover)
+      ,
+      (X  if
+	  (NP A[fj]))
+      ,
+      (S (NP no two
+	     (PP of
+		 (NP the multiple secants)))
+	 (AUX can)
+	 (VP intersect)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   For
+   (SBAR if
+	 (S  (NP such)
+	     (VP were
+		 (NP the case))))
+   ,
+   (S  either
+       (S (NP the plane
+	      (PP of
+		  (NP the two lines)))
+	  (AUX would)
+	  (VP meet
+	      (NP ** zg)
+	      (PP in
+		  (NP  (ADJP more
+			     (PP than
+				 (NP K)))
+		       points))))
+       or
+       ,
+       (ADVP alternatively)
+       ,
+       (S (NP the order
+	      (PP of
+		  (NP (NP the image regulus
+			  (PP of
+			      (NP the pencil)))
+		      (VP determined
+			  (PP by
+			      (NP the two lines))))))
+	  (AUX would)
+	  (VP be
+	      (ADJP  too
+		     high)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR if
+	    (S (NP no two lines
+		   (PP of
+		       (NP the regulus
+			   (PP of
+			       (NP multiple secants
+				   (PP of
+				       (NP ** zg)))))))
+	       (AUX can)
+	       (VP intersect)))
+      ,
+      (ADVP then)
+      (S (S (NP the regulus)
+	    (AUX must)
+	    (VP be
+		(ADJP quadratic)))
+	 ,
+	 or
+	 (S  
+	  (PP in
+	      (NP other words))
+	  ,
+	  (S (NP ** zg)
+	     (AUX must)
+	     (VP be
+		 (NP either
+		     a A[fj]
+		     or
+		     a A[fj] curve
+		     (PP on
+			 (NP a nonsingular quadric surface))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (ADVP now)
+   (VP observe
+       (SBAR that
+	     (S (NP (NP the case)
+		    (SBAR (WHPP in
+				(WHNP which))
+			  (S (NP ** zg)
+			     (VP is
+				 (NP a A[fj] curve
+				     (PP on
+					 (NP a quadric)))))))
+		(VP is
+		    (ADJP impossible))
+		(SBAR if
+		      (S (NP the complex
+			     (PP of
+				 (NP singular lines)))
+			 (VP consists
+			     (ADVP exclusively)
+			     (PP of
+				 (NP (NP the lines)
+				     (SBAR 
+				      (WHNP which)
+				      (S (NP T)
+					 (VP meet
+					     (NP A[fj])))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  For
+      (S  
+       (NP any pencil
+	   (PP in
+	       (NP (NP a plane)
+		   (VP containing
+		       (NP a Af-fold secant
+			   (PP of
+			       (NP ** zg)))))))
+       (VP has
+	   (NP (NP  (NP an image regulus)
+		    (SBAR 
+		     (WHNP which)
+		     (S (NP T)
+			(VP meets
+			    (NP the plane
+				(PP of
+				    (NP the pencil))
+				(PP in
+				    (NP A[fj] lines)))))))
+	       ,
+	       (ADVP namely)
+	       (NP (NP the images
+		       (PP of
+			   (NP (NP the lines
+				   (PP of
+				       (NP the pencil)))
+			       (SBAR 
+				(WHNP which)
+				(S (NP T)
+				   (VP pass
+				       (PP through
+					   (NP the intersection
+					       (PP of
+						   (NP (NP ** zg)
+						       and
+						       (NP the multiple secant)))))))))))
+		   ,
+		   plus
+		   (NP (NP an additional component)
+		       (S (NP *)  
+			  (AUX to)
+			  (VP account
+			      (PP for
+				  (NP the intersections
+				      (PP of
+					  (NP the images
+					      (PP of
+						  (NP the general lines
+						      (PP of
+							  (NP the pencil))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP However)
+      ,
+      (SBAR if
+	    (S (NP there)
+	       (VP is
+		   (NP no additional complex
+		       (PP of
+			   (NP singular lines))))))
+      ,
+      (S (NP the order
+	     (PP of
+		 (NP the image regulus
+		     (PP of
+			 (NP a pencil)))))
+	 (VP is
+	     (NP  (ADVP precisely)
+		  A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This)
+      (VP contradicts
+	  (NP the (VP preceding) observations)))
+     ,
+     and
+     (S  (ADVP so)
+	 ,
+	 (PP under
+	     (NP the assumption
+		 (PP of
+		     (NP this paper))))
+	 ,
+	 (S (NP we)
+	    (AUX must)
+	    (VP reject
+		(NP the possibility
+		    (SBAR that
+			  (S (NP ** zg)
+			     (VP is
+				 (NP a A[fj] curve
+				     (PP on
+					 (NP a quadric surface)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Continuing
+	     (PP with
+		 (NP (NP the case)
+		     (SBAR (WHPP in
+				 (WHNP which))
+			   (S
+			    (NP ** zg)
+			    (VP is
+				(NP a A[fj] curve
+				    (PP on
+					(NP a quadric
+					    Q))))))))))
+     ,
+     (S (NP we)
+	(ADVP first)
+	(VP observe
+	    (SBAR that
+		  (S (NP the second regulus
+			 (PP of
+			     (NP Q)))
+		     (VP consists
+			 (ADVP precisely)
+			 (PP of
+			     (NP (NP the lines)
+				 (SBAR 
+				  (WHNP which)
+				  (S (NP T)
+				     (VP join
+					 (NP the two free intersections
+					     (PP of
+						 (NP (NP ** zg)
+						     and
+						     (NP the
+							 planes
+							 (PP through
+							     (NP any one
+								 (PP of
+								     (NP the multiple secants)))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   For
+   (S (NP each
+	  (PP of
+	      (NP these lines)))
+      (VP meets
+	  (NP Q)
+	  (PP in
+	      (NP (NP three points)
+		  ,
+		  (ADVP namely)
+		  (NP (NP two points
+			  (PP on
+			      (NP ** zg)))
+		      and
+		      (NP one point
+			  (PP on
+			      (NP one
+				  (PP of
+				      (NP the multiple secants)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now)
+      (S  (NP *) 
+	  (VP consider
+	      (NP (NP (NP an arbitrary line)
+		      ,
+		      (NP l)
+		      ,)
+		  (VP meeting
+		      (NP Q)
+		      (PP in
+			  (NP (NP two points)
+			      ,
+			      (NP (NP A[fj]) and (NP A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (SBAR (SBAR  If
+		(S (S (NP ** ya)
+		      (VP is
+			  (NP (NP the multiple secant
+				  (PP of
+				      (NP ** zg)))
+			      (SBAR  
+			       (WHNP which)
+			       (S (NP T)
+				  (VP passes
+				      (PP through
+					  (NP  A[fj]))))))))
+		   and
+		   (S (NP ** yb)
+		      (VP is
+			  (NP (NP the simple secant
+				  (PP of
+				      (NP ** zg)))
+			      (SBAR 
+			       (WHNP which)
+			       (S (NP T)
+				  (VP passes
+				      (PP through
+					  (NP A[fj]))))))))))
+	 ,
+	 and
+	 (SBAR if
+	       (S (NP A[fj])
+		  (VP are
+		      (NP (NP the points)
+			  (SBAR (WHPP in
+				      (WHNP which))
+				(S
+				 (NP ** ya)
+				 (VP meets
+				     (NP ** zg))))))))
+	 ,
+	 and
+	 (SBAR if
+	       (S (NP A[fj])
+		  (VP is
+		      (NP the image
+			  (PP of
+			      (NP A[fj]))
+			  (PP on
+			      (NP the generator ** yb)))))))
+   ,
+   (S (NP it)
+      (VP follows
+	  (SBAR that
+		(S (NP the image
+		       (PP of
+			   (NP the line A[fj])))
+		   (VP is
+		       (NP A[fj])))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

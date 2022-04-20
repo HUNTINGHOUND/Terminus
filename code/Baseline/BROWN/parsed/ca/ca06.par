@@ -1,0 +1,2132 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+((NP Plainfield)
+ --)
+(  
+ (S  
+  (NP (NP James P. Mitchell)
+      and
+      (NP (NP Sen. Walter H. Jones) 
+	  (NP R-Bergen)))
+  ,
+  (NP last night)
+  (VP disagreed
+      (PP on
+	  (NP the value
+	      (PP of
+		  (S (NP *) 
+		     (VP using
+			 (PP as
+			     (NP a campaign issue))
+			 (NP a remark
+			     (PP by
+				 (NP (NP Richard J. Hughes)
+				     ,
+				     (NP Democratic gubernatorial candidate)
+				     ,))
+			     (SBAR that
+				   (S (NP the GOP)
+				      (AUX is)
+				      ``
+				      (VP Campaigning
+					  (PP on
+					      (NP the carcass
+						  (PP of
+						      (NP Eisenhower
+							  Republicanism)))))
+				      ''))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S 
+   (S (NP Mitchell)
+      (VP was
+	  (PP  for
+	       (S-1  (NP *) 
+		     (VP using
+			 (NP it))))))
+   ,
+   (X (NP Jones)
+      (PP against
+	  (S-1 *pseudo-attach*)))
+   ,
+   and
+   (S (NP (NP Sen. Wayne Dumont Jr
+	      .)
+	  (NP R-Warren))
+      (AUX did)
+      (NEG not)
+      (VP mention
+	  (NP it))
+      (SBAR 
+       (WHADVP when)
+       (S (NP the three
+	      Republican gubernatorial candidates)
+	  (VP spoke
+	      (PP at
+		  (NP staggered intervals)))
+	  (PP before
+	      (NP 100 persons))
+	  (PP at
+	      (NP the Park Hotel))))))
+  .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The controversial remark)
+   (AUX was)
+   (ADVP first)
+   (VP made
+	     
+       (NP Sunday)
+       (PP by
+	   (NP Hughes)))
+   (PP at
+       (NP a Westfield Young Democratic Club cocktail party
+	   (PP at
+	       (NP the Scotch Plains Country Club)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX was)
+   (VP greeted
+	     
+       (PP with
+	   (NP a chorus
+	       (PP of
+		   (NP boos))))
+       (PP by
+	   (NP 500 women
+	       (PP in
+		   (NP Trenton))
+	       (NP Monday)
+	       (PP at
+		   (NP a forum
+		       (PP of
+			   (NP the State Federation
+			       (PP of
+				   (NP 
+				    (NP Women)
+				    's Clubs))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hughes)
+   (VP said
+       (NP Monday)
+       ,
+       ``
+       (S (S (NP It
+		 (S-1 *pseudo-attach*))
+	     (VP is
+		 (NP the apparent intention
+		     (PP of
+			 (NP the Republican Party))))
+	     (S-1 (NP *)
+		  (AUX to)
+		  (VP campaign
+		      (PP on
+			  (NP the carcass
+			      (PP of
+				  (SBAR (WHNP what)
+					(S
+					 (NP they)
+					 (VP call
+					     (NP T) 
+					     (NP Eisenhower Republicanism))))))))))
+	  ,
+	  but
+	  (S (S (S (NP the heart)
+		   (VP stopped
+		       (S (NP *) 
+			  (VP beating))))
+		and
+		(S (NP the lifeblood)
+		   (VP congealed)))
+	     (PP after
+		 (S (NP Eisenhower)
+		    (VP retired)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Now
+	    (SBAR 0
+		  (S (NP he)
+		     (AUX 's)
+		     (VP gone))))
+      ,
+      (S (NP the Republican Party)
+	 (AUX is)
+	 (NEG not)
+	 (VP going
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP able
+			  (S (NP *)
+			     (AUX to)
+			     (VP sell
+				 (NP the tattered remains)
+				 (PP to
+				     (NP the people
+					 (PP of
+					     (NP the state))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S (NP Sunday)
+     (S  (NP he)
+	 (AUX had)
+	 (VP added
+	     ,
+	     ``
+	     (S (S (NP We)
+		   (AUX can)
+		   (VP love
+		       (NP (NP Eisenhower)
+			   (NP the man)))
+		   ,
+		   (SBAR  (ADVP even)
+			  if
+			  (S (NP we)
+			     (VP considered
+				 (NP him)
+				 (NP a mediocre president)))))
+		but
+		(S (NP there)
+		   (VP is
+		       (NP (NP nothing
+			       (PP-1 *pseudo-attach*))
+			   (VP left)
+			   (PP-1 of
+				 (NP the Republican Party))))
+		   (PP without
+		       (NP his leadership))))
+	     '')))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mitchell)
+   (VP said
+       (SBAR 0
+	     (S (NP the statement)
+		(AUX should)
+		(VP become
+		    (NP a major issue))
+		(PP in
+		    (NP (NP the primary)
+			and
+			(NP the fall campaign)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SBARQ 
+    (WHADVP How)
+    (SQ  (AUX can)
+	 (NP a man
+	     (PP with
+		 (NP any degree
+		     (PP of
+			 (NP common decency)))))
+	 (VP charge
+	     (NP this))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP asked))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The former secretary
+       (PP of
+	   (NP labor)))
+   (VP said
+       (SBAR 0
+	     (S (NP he)
+		(VP was
+		    (ADJP (ADJP proud
+				(S (NP *)
+				   (AUX to)
+				   (VP be
+				       (NP an Eisenhower Republican))))
+			  ``
+			  and
+			  (ADJP proud
+				(S (NP *)
+				   (AUX to)
+				   (VP have
+				       (VP absorbed
+					   (NP his philosophy)))
+				   ''
+				   (SBAR while
+					 (S (NP *) 
+					    (VP working
+						(PP in
+						    (NP his adminstration)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mitchell)
+   (VP said
+       (SBAR 0
+	     (S (NP the closeness
+		    (PP of
+			(NP the outcome))
+		    (PP in
+			(NP 
+			 (NP last fall)
+			 's Presidential election)))
+		(AUX did)
+		(NEG not)
+		(VP mean
+		    (SBAR that
+			  (S (NP Eisenhower Republicanism)
+			     (VP was
+				 (NP a dead issue)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (VP Regrets
+	 (NP attack))))
+((S (NP Jones)
+     (VP said
+	 (SBAR 0
+	       (S (NP he)
+		  (VP regretted
+		      (SBAR 0
+			    (S (NP Hughes)
+			       (AUX had)
+			       (VP made
+				   (NP a personal attack
+				       (PP on
+					   (NP a past president)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (NP He)
+     (VP is
+	 (ADJP wrong
+	       (S (NP *)
+		  (AUX to)
+		  (VP inject
+		      (NP Eisenhower)
+		      (PP into
+			  (NP this campaign))))))
+     ''
+     ,
+     (S (NP he)
+	(VP said))
+     ,
+     ``
+     (SBAR because
+	   (S (S (NP the primary)
+		 (AUX is)
+		 (VP being
+		     (VP waged
+		      
+			 (PP on
+			     (NP state issues)))))
+	      and
+	      (S (NP I)
+		 (AUX will)
+		 (NEG not)
+		 (VP be
+		     (VP forced
+	        
+			 (PP into
+			     (S (NP *) 
+				(VP re-arguing
+				    (NP an
+					old national
+					campaign)))))))))
+     '')
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The audience)
+   (NP last night)
+   (AUX did)
+   (NEG not)
+   (VP respond
+       (PP with
+	   (NP either 
+	       (NP applause)
+	       or
+	       (NP boos)))
+       (PP to
+	   (NP mention
+	       (PP of
+		   (NP 
+		    (NP Hughes)
+		    ' remark))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Dumont)
+   (VP spoke
+       (PP on
+	   (NP the merit
+	       (PP of
+		   (S (NP *) 
+		      (VP having
+			  (NP an open primary))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (ADVP then)
+   (VP launched
+       (PP  into
+	    (SBAR (WHNP what)
+		  (S
+		   (NP the issues)
+		   (AUX should)
+		   (VP be
+		       (NP T) 
+		       (PP in
+			   (NP the campaign))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP State aid
+	 (PP to
+	     (NP schools)))
+     ,
+     (NP the continuance
+	 (PP of
+	     (NP railroad passenger service)))
+     ,
+     (NP the proper uses
+	 (PP of
+	     (NP surplus funds
+		 (PP of
+		     (NP the Port
+			 (PP of
+			     (NP New York Authority)))))))
+     ,
+     and
+     (S  (NP *) 
+	 (VP making
+	     (NP New Jersey)
+	     (ADJP attractive
+		   (PP to
+		       (NP new industry))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (VP Decries
+	 (NP joblessness))))
+((S (NP Mitchell)
+     (VP (VP decried
+	     (NP the high rate
+		 (PP of
+		     (NP unemployment))
+		 (PP in
+		     (NP the state))))
+	 and
+	 (VP said
+	     (SBAR 0
+		   (S (NP (NP the Meyner administration)
+			  and
+			  (NP the
+			      (ADJP Republican-controlled)
+			      State Senate))
+		      ``
+		      (AUX Must)
+		      (VP share
+			  (NP the blame
+			      (PP for
+				  (NP this))))
+		      '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(VP Noting
+	    (SBAR that
+		  (S (NP Plainfield)
+		     (NP last year)
+		     (AUX had)
+		     (VP lost
+			 (NP the Mack Truck Co. plant))))))
+     ,
+     (S (NP he)
+	(VP said
+	    (SBAR 0
+		  (S (NP industry)
+		     (AUX will)
+		     (NEG not)
+		     (VP come
+			 (PP into
+			     (NP this state)))
+		     (PP until
+			 (S (NP there)
+			    (VP is
+				(NP tax reform)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S  But
+	  (S (NP I)
+	     (VP am
+		 (NEG not)
+		 (PP in
+		     (NP favor
+			 (PP of
+			     (NP a sales or state income tax)))))
+	     (PP at
+		 (NP this time))))
+      ''
+      ,
+      (S (NP Mitchell)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP Jones)
+       ,
+       (ADJP unhappy
+	     (SBAR that
+		   (S (NP the candidates)
+		      (AUX were)
+		      (VP limited
+			      
+			  (PP to
+			      (NP (NP eight minutes
+				      (PP for
+					  (NP a speech)))
+				  and
+				  (NP no audience questions))))))))
+   ,
+   (VP saved
+       (NP his barbs)
+       (PP for
+	   (NP Mitchell))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       (SBAR 0
+	     (S (NP Mitchell)
+		(VP (VP is
+			(PP  against
+			     (NP the centralization
+				 (PP of
+				     (NP government))
+				 (PP in
+				     (NP Washington)))))
+		    but
+		    (VP looks
+			(PP to
+			    (NP the Kennedy Administration))
+			(PP for
+			    (NP aid
+				(S (NP *)
+				   (AUX to)
+				   (VP meet
+				       (NP New Jersey school and transportation crises)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (S (NP He)
+	    (VP calls
+		(PP for
+		    (NP help)))
+	    (SBAR while
+		  (S (NP *) 
+		     (VP saying
+			 (SBAR 0
+			       (S (NP he)
+				  (VP is
+				      (PP against
+					  (NP centralization)))))))))
+	 ,
+	 but
+	 (S (NP you)
+	    (AUX ca)
+	    (NEG n't)
+	    (VP have
+		(NP it)
+		(NP  both
+		     ways))))
+      ''
+      ,
+      (S (NP Jones)
+	 (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The state)
+      (AUX is)
+      (ADVP now)
+      (VP faced
+	   
+	  (PP with
+	      (NP the immediate question
+		  (PP of
+		      (S (NP *)  
+			 (VP raising
+			     (NP new taxes
+				 (PP  (X whether)
+				      on
+				      (NP (NP utilities)
+					  ,
+					  (NP real estate)
+					  or
+					  (NP motor vehicles)))))))))))
+     ,
+     (S (NP he)
+	(VP said))
+     ,
+     ``
+     and
+     (S (NP I)
+	(VP challenge
+	    (NP Mitchell)
+	    (S (NP *)
+	       (AUX to)
+	       (VP tell
+		   (NP the people)
+		   (SBAR 
+		    (WHADVP where)
+		    (S (NP he)
+		       (VP stands
+			   (PP on
+			       (NP the tax issue)))))))))
+     '')
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)   
+     (VP Defends
+	 (NP Ike))))
+(  
+ (S  (ADVP Earlier)
+     ,
+     (S (NP Mitchell)
+	(VP said
+	    (PP in
+		(NP a statement))
+	    :
+	    ``
+	    (S (NP I)
+	       (VP think
+		   (SBAR that
+			 (S (NP all Americans)
+			    (AUX will)
+			    (VP resent
+				(ADVP deeply)
+				(NP (NP the statements)
+				    (VP made
+					(PP about
+					    (NP President Eisenhower))
+					(PP by
+					    (NP Richard J. Hughes))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP His reference
+	 (PP to
+	     (NP    '
+		    (ADJP discredited)
+		    carcass
+		    '
+		    or
+		    '
+		    (ADJP tattered)
+		    remains
+		    '
+		    (PP of
+			(NP 
+			 (NP the president)
+			 's leadership)))))
+     (VP is
+	 (NP an insult
+	     (PP (PP to
+		     (NP (NP the man)
+			 (SBAR 
+			  (WHNP who)
+			  (S (NP T)
+			     (VP led
+				 (NP our forces)
+				 (PP to
+				     (NP victory)))
+			     (PP in
+				 (NP the
+				     greatest
+				     war
+				     (PP in
+					 (NP all history))))))))
+		 ,
+		 (PP to
+		     (NP (NP the man)
+			 (SBAR (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (AUX was)
+				   (ADVP twice)
+				   (VP elected
+				       (ADVP overwhelmingly)
+				       (PP by
+					   (NP the American people))
+				       (PP as
+					   (NP president
+					       (PP of
+						   (NP the United States)))))))
+			       ,
+			       and
+			       (SBAR 
+				(WHNP who)
+				(S (NP T)
+				   (AUX has)
+				   (VP been
+				       (NP the symbol
+					   (PP to
+					       (NP the world))
+					   (PP of
+					       (NP the  (ADJP peace-loving) intentions
+						   (PP of
+						       (NP the free nations)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP find
+	  (NP it)
+	  (ADJP hard
+		(S (NP *)
+		   (AUX to)
+		   (VP understand)))
+	  (SBAR 
+	   (WHADVP how)
+	   (S (NP (NP anyone)
+		  (VP seeking
+		      (NP a position
+			  (PP in
+			      (NP public life)))))
+	      (AUX could)
+	      (VP demonstrate
+		  (NP 
+		   such
+		   poor
+		   judgment
+		   and
+		   bad taste))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP  Such
+	   a vicious statement)
+      (AUX can)
+      (VP  (ADVP only)
+	   have
+	   (NP its origin)
+	   (PP in
+	       (NP the desire
+		   (PP of
+		       (NP a
+			   new political
+			   candidate))
+		   (S (NP *)
+		      (AUX to)
+		      (VP try
+			  (S (NP *)
+			     (AUX to)
+			     (VP make
+				 (NP his name)
+				 (VP known)
+				 (PP by
+				     (S (NP *) 
+					(VP condemning
+					    (NP a man
+						(PP of
+						    (NP world stature))))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (VP  (ADVP only)
+	rebound
+	(PP to
+	    (NP 
+	     (NP Mr. Hughes)
+	     ' discredit))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)   
+     (VP Sees
+	 (NP Jones)
+	 (ADVP ahead))))
+(  
+ (S  
+  (NP (NP Sen. Charles W. Sandman)
+      ,
+      (NP R-Cape May)
+      ,)
+  (VP said
+      (NP today)
+      (SBAR 0
+	    (S (NP Jones)
+	       (AUX will)
+	       (VP run
+		   (ADVP well
+			 ahead
+			 (PP of
+			     (NP his GOP opponents
+				 (PP for
+				     (NP the gubernatorial nomination))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Sandman)
+      ,
+      (NP state campaign chairman
+	  (PP for
+	      (NP Jones)))
+      ,)
+  (AUX was)
+  (VP addressing
+      (NP a meeting
+	  (PP in
+	      (NP (NP the Military Park Hotel)
+		  ,
+		  (NP Newark)
+		  ,))
+	  (PP of
+	      (NP Essex County leaders and campaign managers
+		  (PP for
+		      (NP Jones)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sandman)
+   (VP told
+       (NP the gathering)
+       (SBAR that
+	     (S (NP reports
+		    (PP from
+			(NP workers
+			    (PP on
+				(NP a local level))))
+		    (PP   (ADVP all)
+			  over
+			  (NP the state)))
+		(VP indicate
+		    (SBAR that
+			  (S (NP Jones)
+			     (AUX will)
+			     (VP be
+				 (VP chosen
+				     
+				     (NP 
+				      (NP the Republican Party)
+				      's nominee)
+				     (PP with
+					 (NP (NP the
+						 largest
+						 majority)
+					     (VP given
+						 (NP a candidate)
+						 (PP in
+						     (NP recent years))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Sandman)
+    (VP said
+	:
+	``
+	(S (NP The announcement
+	       (SBAR that
+		     (S (NP Sen. Clifford Case Aj)
+			,
+			(AUX has)
+			(VP decided
+			    (S (NP *)
+			       (AUX to)
+			       (VP spend
+				   (NP all
+				       his available time)
+				   (S  (NP *)  
+				       (VP campaigning
+					   (PP for
+					       (NP Mr. Mitchell))))))))))
+	   (VP is
+	       (NP a dead giveaway)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP a desperate effort
+	   (S (NP *)
+	      (AUX to)
+	      (VP prop
+		  (PRT up)
+		  (NP (NP a sagging candidate)
+		      (SBAR 
+		       (WHNP who)
+		       (S (NP T)
+			  (AUX has)
+			  (VP proven
+			      (SBAR 0
+				    (S (NP he)
+				       (AUX can)
+				       (NEG not)
+				       (VP answer
+					   (NP any questions
+					       (PP about
+						   (NP 
+						    (NP New Jersey)
+						    's problems)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (AUX have)
+      (VP witnessed
+	  (PP in
+	      (NP this campaign))
+	  (NP the effort
+	      (S (NP *)
+		 (AUX to)
+		 (VP project
+		     (NP Mr. Mitchell)
+		     (PP as
+			 (NP the image
+			     (PP of
+				 (NP a unity candidate
+				     (PP from
+					 (NP Washington)))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP That)
+    (VP failed))
+ .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP We)
+      (AUX are)
+      (ADVP now)
+      (VP witnessing
+	  (NP an effort
+	      (S (NP *)
+		 (AUX to)
+		 (VP transfer
+		     (PP to
+			 (NP Mr. Mitchell))
+		     (NP some
+			 (PP of
+			     (NP the glow
+				 (PP of
+				     (NP 
+				      (NP Sen. Case)
+				      's candidacy
+				      (PP of
+					  (NP last year))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP That)
+   ,
+   (ADVP too)
+   ,
+   (AUX will)
+   (VP fail))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sandman)
+   (VP announced
+       (NP the appointment
+	   (PP of
+	       (NP Mrs. Harriet Copeland Greenfield
+		   (PP of
+		       (NP (NP 330
+			       Woodland Ave.)
+			   ,
+			   (NP Westfield)
+			   ,))))
+	   (PP as
+	       (NP state chairman
+		   (PP of
+		       (NP the  (NP Republican Women
+				    (PP for
+					(NP Jones)))
+			   Committee)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mrs. Greenfield)
+   (VP (VP is
+	   (NP president
+	       (PP of
+		   (NP 
+		    (NP the Westfield Women)
+		    's Republican Club))))
+       and
+       (VP is
+	   (NP a Westfield county committeewoman))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP County Supervisor (NP Weldon R. Sheets))
+      ,
+      (SBAR  
+       (WHNP who)
+       (S (NP T)
+	  (VP is
+	      (NP a candidate
+		  (PP for
+		      (NP the
+			  Democratic gubernatorial
+			  nomination))))))
+      ,)
+  (NP today)
+  (VP called
+      (PP for
+	  (NP an end
+	      (PP to
+		  (NP paper ballots))
+	      (PP in
+		  (NP (NP those counties
+			  (PP in
+			      (NP the state)))
+		      (SBAR 
+		       (WHNP which)
+		       (S   (NP T) 
+			    (ADVP still)
+			    (VP use
+				(NP them))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP The proposal)
+   ,
+   (S (NP Sheets)
+      (VP said))
+   ,
+   (VP represents
+       (NP part
+	   (PP of
+	       (NP his program
+		   (PP for
+		       (NP (NP election reforms)
+			   (ADJP necessary
+				 (S (NP *)
+				    (AUX to)
+				    (VP make
+					(NP democracy
+					    (PP in
+						(NP New Jersey)))
+					(ADJP  more
+					       (PP than
+						   (NP a
+						       ``
+						       lip service word
+						       '')))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sheets)
+   (VP said
+       (SBAR that
+	     (S (NP his proposed law)
+		(AUX would)
+		(VP offer
+		    (NP state
+			financing
+			aid)
+		    (PP for
+			(NP the purchase
+			    (PP of
+				(NP  voting
+				     machines))))
+		    ,
+		    (S (NP *) 
+		       (VP enabling
+			   (NP counties)
+			   (S (NP *)
+			      (AUX to)
+			      (VP repay
+				  (NP the loan)
+				  (PP over
+				      (NP a 10-year period))
+				  (PP without
+				      (NP (NP interest) or (NP charge))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sheets)
+   (VP added
+       (SBAR that
+	     (S (NP he)
+		(AUX would)
+		(VP ask
+		    (PP for
+			(NP exclusive use
+			    (PP of
+				(NP  voting
+				     machines))
+			    (PP in
+				(NP the state))
+			    (PP by
+				(NP (NP January)
+				    ,
+				    (NP 1964))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR Although
+	 (S (NP he)
+	    (VP pointed
+		(PRT out)
+		(SBAR that
+		      (S (NP  (NP mandatory legislation)
+			      (VP impinging
+				  (PP on
+				      (NP home rule))))
+			 (VP is
+			     (ADVP basically)
+			     (ADJP distasteful)))))))
+   ,
+   (S (NP he)
+      (VP added
+	  (SBAR that
+		(S (NP the vital interest
+		       (PP in
+			   (NP election results)))
+		   (VP transcended
+		       (NP county lines)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The candidacy
+      (PP of
+	  (NP Mayor James J. Sheeran
+	      (PP of
+		  (NP West Orange))))
+      ,
+      (PP for
+	  (NP the Republican nomination
+	      (PP for
+		  (NP sheriff
+		      (PP of
+			  (NP Essex County))))))
+      ,)
+  (AUX was)
+  (VP supported
+      (NP today)
+      (PP by
+	  (NP (NP Edward W. Roos)
+	      ,
+	      (NP West Orange
+		  public safety commissioner)))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Sheeran)
+      ,
+      (NP (NP a lawyer)
+	  and
+	  (NP
+	   former
+	   FBI man)))
+  (AUX is)
+  (VP running
+      (PP against
+	  (NP (NP 
+	       (NP the Republican organization)
+	       's candidate)
+	      ,
+	      (NP Freeholder William MacDonald)
+	      ,))
+      (PP for
+	  (NP (NP the vacancy)
+	      (VP left
+		  (PP by
+		      (NP the resignation
+			  (PP of
+			      (NP (NP Neil Duffy)
+				  ,
+				  (NP  (ADVP now)
+				       a member
+				       (PP of
+					   (NP the State Board
+					       (PP of
+						   (NP Tax Appeals))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (NP My experience
+	 (PP as
+	     (NP public safety commissioner)))
+     ''
+     ,
+     (S (NP Roos)
+	(VP said))
+     ,
+     ``
+     (AUX has)
+     (VP shown
+	 (NP me)
+	 (SBAR that
+	       (S (NP the office
+		      (PP of
+			  (NP sheriff)))
+		  (AUX is)
+		  (VP  (ADVP best)
+		       filled
+		      
+		       (PP by
+			   (NP (NP a man
+				   (PP with
+				       (NP law enforcement experience)))
+			       ,
+			       and
+			       (ADVP preferably)
+			       (NP (NP one)
+				   (SBAR 
+				    (WHNP who)
+				    (S (NP T)
+				       (VP is
+					   (NP a lawyer))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jim Sheeran)
+   (VP fits
+       (NP that description)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Trenton)
+ --)
+(   
+ (S  
+  (NP (NP William J. Seidel)
+      ,
+      (NP state fire warden
+	  (PP in
+	      (NP the Department
+		  (PP of
+		      (NP (NP Conservation)
+			  and
+			  (NP Economic Development))))))
+      ,)
+  (AUX has)
+  (VP retired)
+  (PP after
+      (NP 36 years
+	  (PP of
+	      (NP service)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A citation
+       (PP from
+	   (NP Conservation Commissioner (NP Salvatore A. Bontempo))))
+   (VP credits
+       (NP his supervision)
+       (PP with
+	   (NP a reduction
+	       (PP in
+		   (NP the number
+		       (PP of
+			   (NP forest fires))
+		       (PP in
+			   (NP the state))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Seidel)
+   (VP joined
+       (NP the department)
+       (PP in
+	   (NP 1925))
+       (PP as
+	   (NP a division fire warden)))
+   (PP after
+       (NP (NP graduation
+	       (PP in
+		   (NP 1921))
+	       (PP from
+		   (NP the University
+		       (PP of
+			   (NP Michigan))))
+	       (PP with
+		   (NP a degree
+		       (PP in
+			   (NP forestry)))))
+	   and
+	   (NP employment
+	       (PP with
+		   (NP private lumber companies))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP October 1944))
+   ,
+   (S (NP he)
+      (AUX was)
+      (VP appointed
+	  (NP (NP state warden)
+	      and 
+	      (NP chief
+		  (PP of
+		      (NP the Forest Fire Section)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Under
+       (NP his supervision))
+   ,
+   (S (NP the state fire-fighting agency)
+      (VP (VP developed
+	      (NP such techniques
+		  (PP as
+		      (NP  plowing
+			   (PP of
+			       (NP fire lines))))))
+	  and
+	  (VP established
+	      (NP a fleet
+		  (PP of
+		      (NP (NP tractor plows) and (NP tractor units)))
+		  (PP for
+		      (NP fire fighting)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (ADVP also)
+   (VP  expanded
+	and
+	modernized
+	(NP the radio system)
+	(PP with
+	    (NP a central control station))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP introduced
+	(NP (NP  regular
+		 briefing
+		 sessions
+		 (PP for
+		     (NP district fire wardens)))
+	    and
+	    (NP first aid training
+		(PP for
+		    (NP section wardens))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX is)
+   (VP credited
+	     
+       (PP with
+	   (S (NP *) 
+	      (VP setting
+		  (PRT up)
+		  (NP an
+		      annual co-operative
+		      fire prevention program)
+		  (PP in
+		      (NP co-operation
+			  (PP with
+			      (NP the Red Cross
+				  and
+				  State Department
+				  of
+				  Education)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Boonton)
+ --)
+(  
+ (S (NP Richard J. Hughes)
+    (VP made
+	(NP his Morris County debut
+	    (PP in
+		(NP his bid
+		    (PP for
+			(NP the Democratic gubernatorial nomination)))))
+	(ADVP here)
+	(NP last night)
+	(PP with
+	    (NP a pledge
+		``
+		(S (NP *)
+		   (AUX to)
+		   (VP carry
+		       (NP the issues)
+		       (PP to
+			   (NP every corner
+			       (PP of
+				   (NP the state))))))
+		''))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP promised
+       (NP   (ADVP nearly)
+	     200 Democratic county committee members)
+       (PP at
+	   (NP the meeting
+	       (PP in
+		   (NP the Puddingstone Inn))))
+       :
+       ``
+       (S (SBAR 
+	   (WHADVP When)
+	   (S (NP I)
+	      (VP come
+		  (PRT back)
+		  (ADVP here))
+	      (PP after
+		  (NP the November election))))
+	  (S
+	   (NP you)
+	   (AUX 'll)
+	   (VP think
+	       ,
+	       '
+	       (S (S (NP You)
+		     (VP 're
+			 (NP my man)))
+		  --
+		  (S (NP you)
+		     (VP 're
+			 (NP (NP the kind
+				 (PP of
+				     (NP governor)))
+			     (SBAR 0
+				   (S
+				    (NP we)
+				    (VP 're
+					(ADJP glad
+					      (SBAR 0
+						    (S (NP we)
+						       (VP elected
+							   (NP T) )))))))))))
+	       ')))
+       ''))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP said
+	,
+	``
+	(S (NP (NP We)
+	       (NP Democrats))
+	   (AUX must)
+	   (VP resolve
+	       (NP our issues)
+	       (PP on
+		   (NP the test
+		       (PP of
+			   (SBAR (SBAR (WHNP what)
+				       (S  (NP T) 
+					   (VP is
+					       (ADJP right and just))))
+				 ,
+				 and
+				 (NEG not)
+				 (SBAR 
+				  (WHNP what)
+				  (S (NP T)
+				     (VP is
+					 (ADJP expedient)
+					 (PP at
+					     (NP the time)))))))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  (NP *)  
+     (VP Attacks
+	 (NP Republicans))))
+((S  
+  (PP In
+      (NP his only attack
+	  (PP on
+	      (NP the Republicans))))
+  ,
+  (S (NP Hughes)
+     (VP said
+	 ,
+	 ``
+	 (S (NP The three Republican candidates
+		(PP for
+		    (NP governor)))
+	    (AUX are)
+	    (VP tripping
+		(PP over
+		    (NP their feet))
+		(PP for
+		    (NP  popular slogans))
+		(S (NP *)
+		   (AUX to)
+		   (VP win
+		       (NP the primary))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP we)
+	 (AUX 'll)
+	 (VP have
+	     (NP a (ADJP (ADJP liberal)
+			 ,
+			 (ADJP   (ADVP well)
+				 planned)
+			 ,
+			 (ADJP   (ADVP forward)
+				 looking)
+			 ,
+			 (ADJP honest))
+		 platform))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX 'll)
+   (NEG not)
+   (VP talk
+       (PP (PP (PP out
+		   (PP of
+		       (NP one side
+			   (PP of
+			       (NP our mouth)))))
+	       (PP in
+		   (NP Morris County
+		       )))
+	   and
+	   (PP (PP out
+		   (PP of
+		       (NP the other side)))
+	       (PP in
+		   (NP Hudson))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (S (NP We)
+	 (AUX 'll)
+	 (VP take
+	     (NP the truth)
+	     (PP to
+		 (NP the people))))
+      ,
+      and
+      (S (NP the people)
+	 (AUX will)
+	 (VP (VP like
+		 (NP the truth))
+	     and
+	     (VP elect
+		 (NP their candidate and party)
+		 (PP in
+		     (NP November))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       ,
+       ``
+       (S (NP You)
+	  (AUX can)
+	  (VP see
+	      (NP signs
+		  (PP of
+		      (NP 
+		       (NP the Republicans)
+		       ' feeble attack
+		       (PP on
+			   (NP the Meyner administration)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP I)
+	 (AUX shall)
+	 (VP campaign
+	     (PP on
+		 (NP the Meyner record))
+	     (S (NP *)
+		(AUX to)
+		(VP meet
+		    (NP the needs
+			(PP of
+			    (NP (NP the years)
+				(ADVP ahead)))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP urged
+       (NP New Jersey)
+       (S (NP *)
+	  (AUX to)
+	  ``
+	  (VP become
+	      (NP a full partner
+		  (PP in
+		      (NP the courageous actions
+			  (PP of
+			      (NP President Kennedy))))))
+	  '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP called
+       (PP for
+	   (NP (NP a
+		   greater
+		   attraction
+		   (PP of
+		       (NP industry)))
+	       and
+	       (NP a stop
+		   (PP to
+		       (NP the piracy
+			   (PP of
+			       (NP industry))
+			   (PP by
+			       (NP Southern states)))))
+	       ,
+	       and
+	       (NP a strong fight
+		   (PP against
+		       (NP discrimination
+			   (PP in
+			       (NP (NP business) and (NP industry))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S (NP We)
+	 (AUX must)
+	 (VP keep
+	     (NP the bloodstream
+		 (PP of
+		     (NP New Jersey)))
+	     (ADJP clean)))
+      ''
+      ,
+      (S (NP the
+	     former
+	     Superior Court judge)
+	 (VP said)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S   (NP *) 
+	(AUX To)
+	(VP prevent
+	    (NP hoodlums)
+	    (PP from
+		(S (NP *) 
+		   (VP infiltrating
+		       (NP the state)
+		       (PP as
+			   (S (NP they)
+			      (VP did)
+			      (PP in
+				  (NP the Republican administration))
+			      (PP in
+				  (NP the
+				      early
+				      1940s)))))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(VP Calling
+	    (NP the Democrats)
+	    (NP (NP the
+		    ``
+		    party)
+		(SBAR (WHNP that)
+		      (S (NP T)
+			 (VP  lives
+			      ,
+			      breathes
+			      and
+			      thinks
+			      (PP for
+				  (NP the good
+				      (PP of
+					  (NP the people)))))))
+		'')))
+     ,
+     (S (NP Hughes)
+	(VP asked
+	    ,
+	    ``
+	    (NP a
+		representative Democratic
+		vote
+		(PP in
+		    (NP the primary))
+		(PP for
+		    (NP a springboard
+			(PP toward
+			    (NP victory
+				(PP in
+				    (NP November)))))))
+	    '')))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hughes)
+   (VP supported
+       (NP 
+	(NP Gov. Meyner)
+	's
+	``
+	Green Acres
+	''
+	plan
+	(PP for
+	    (S (NP *) 
+	       (VP saving
+		   (NP large tracts
+		       (PP of
+			   (NP open land)))
+		   (PP from
+		       (NP the onrush
+			   (PP of
+			       (NP urban development))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       (SBAR 0
+	     (S (NP legislation
+		    (PP for
+			(NP (NP a
+				$ 60
+				million bond issue)
+			    (S  (NP T) 
+				(AUX to)
+				(VP underwrite
+				    (NP the program))))))
+		(AUX is)
+		(VP expected
+       
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (VP introduced
+			       ))
+		       (NP Monday)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((NP Conservation plan))
+((S (NP The plan)
+    (AUX will)
+    (VP provide
+	(NP $ 45
+	    million)
+	(PP for
+	    (NP purchase
+		(PP of
+		    (NP open land))
+		(PP by
+		    (NP the state))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The other $
+      15 million)
+  (VP is
+      (S (NP *)
+	 (AUX to)
+	 (VP be
+	     (VP alloted
+		    
+		 (PP to
+		     (NP municipalities))
+		 (PP on
+		     (NP a matching fund basis)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hughes)
+   (VP said
+       ,
+       ``
+       (S (NP This)
+	  (VP is
+	      (NEG not)
+	      (NP a plan
+		  (S (S (NP *)
+			(AUX to)
+			(VP conquer
+			    (NP space)))
+		     --
+		     but
+		     (S (NP *)
+			(AUX to)
+			(VP conserve
+			    (NP it))))))))
+   ''
+   ,
+   (S (NP *) 
+      (VP pointing
+	  (PRT out)
+	  (SBAR 0
+		(S (NP the state population)
+		   (AUX has)
+		   (VP increased
+		       (NP 125,000))
+		   (NP each year)
+		   (PP since
+		       (NP 1950)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP He)
+      (VP said
+	  ``
+	  (S (S (NP Morris County)
+		(AUX is)
+		(VP (ADVP rapidly)
+		    changing))
+	     and
+	     (S (SBAR unless
+		      (S (NP steps
+			     (S-1 *pseudo-attach*))
+			 (AUX are)
+			 (VP taken
+			     )
+			 (X (S-1 (NP *)
+				 (AUX to)
+				 (VP preserve
+				     (NP the green areas))))))
+		,
+		(S (NP there)
+		   (AUX will)
+		   (VP be
+		       (NP  (NP no land)
+			    (S-3 *pseudo-attach*))
+		       (VP left)
+		       (S-3 (NP *)
+			    (AUX to)
+			    (VP preserve))))))
+	  '')))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hughes)
+   (AUX would)
+   (NEG not)
+   (VP comment
+       (PP on
+	   (NP (NP tax reforms)
+	       or
+	       (NP (NP other issues)
+		   (SBAR (WHPP in
+			       (WHNP which))
+			 (S
+			  (NP the Republican candidates)
+			  (AUX are)
+			  (VP involved
+			      ))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP said
+       (SBAR 0
+	     (S (ADVP  no matter
+		       (SBAR (WHNP (WHNP what stand)
+				   (S
+				    (NP he)
+				    (VP takes
+					(NP T) )))))
+		(S (NP it)
+		   (AUX would)
+		   (VP be
+		       (VP misconstrued
+				  
+			   (SBAR that
+				 (S (NP he)
+				    (VP was
+					(ADJP sympathetic
+					      (PP to
+						  (NP  one
+						       or
+						       the other
+						       (PP of
+							   (NP the Republicans)))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (PP After
+	 (NP the primary))
+     ''
+     ,
+     (S (NP he)
+	(VP promised
+	    ,
+	    ``
+	    (S (NP I)
+	       (AUX 'll)
+	       (VP be
+		   (ADJP explicit
+			 (PP on
+			     (SBAR 
+			      (WHADVP where)
+			      (S (NP I)
+				 (VP stand)
+				 (S (NP *)
+				    (AUX to)
+				    (VP bring
+					(NP you)
+					(NP a
+					    strong
+					    ,
+					    dynamic
+					    administration))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP 'm
+       (NEG not)
+       (ADJP afraid
+	     (S (NP *)
+		(AUX to)
+		(VP tangle
+		    (PP with
+			(NP the Republican nominee)))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Trenton)
+ --)
+( 
+ (S (NP (NP Fifteen members
+	    (PP of
+		(NP the Republican State Committee)))
+	(SBAR 
+	 (WHNP who)
+	 (S (NP T)
+	    (AUX are)
+	    (VP retiring
+		--
+		(ADVP voluntarily)
+		--)
+	    (NP this year))))
+    (AUX were)
+    (VP honored
+	(NP yesterday)
+	(PP by
+	    (NP their colleagues))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP (NP The outgoing members)
+       ,
+       (SBAR  
+	(WHNP whose four-year terms)
+	(S (NP T)
+	   (AUX will)
+	   (VP expire
+	       (PP (NP a week)
+		   after
+		   (NP the April 18 primary election)))))
+       ,)
+   (VP received
+       (NP    (NP (VP carved)
+		  wooden elephants)
+	      ,
+	      (ADJP complete
+		    (PP with
+			(NP ivory tusks)))
+	      ,
+	      (S (NP *)
+		 (AUX to)
+		 (VP remember
+		     (NP the state committee)
+		     (PP by
+			 (NP T) ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (AUX may)
+      (VP be
+	  (NP  other
+	       1961 state committee retirements))
+      (SBAR (SINV  (VP come)
+		   (NP April 18))))
+     ,
+     but
+     (S (NP they)
+	(AUX will)
+	(VP be
+	    (VP leaving
+		(PP by
+		    (NP choice
+			(PP of
+			    (NP the Republican voters))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A special presentation)
+   (AUX was)
+   (VP made
+	     
+       (PP to
+	   (NP (NP Mrs. Geraldine Thompson
+		   (PP of
+		       (NP Red Bank)))
+	       ,
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (AUX is)
+		   (VP stepping
+		       (ADVP down))
+		   (PP after
+		       (NP 35 years
+			   (PP on
+			       (NP the committee))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (ADVP also)
+   (VP was
+       (NP the
+	   original
+	   GOP national committeewoman
+	   (PP from
+	       (NP New Jersey))))
+   (PP in
+       (NP the
+	   early
+	   1920s))
+   (VP following
+       (NP adoption
+	   (PP of
+	       (NP 
+		(NP the women)
+		's suffrage amendment)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP She)
+   (VP served
+       (NP one (ADJP four-year) term)
+       (PP on
+	   (NP the national committee))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

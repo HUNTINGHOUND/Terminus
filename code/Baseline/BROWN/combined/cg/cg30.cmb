@@ -1,0 +1,2978 @@
+
+ 
+ 
+
+ 
+
+((S (S
+       (NP (NNP Copernicus))
+       (AUX (VBD did))
+       (NEG (RB not))
+       (VP (VB question)
+           (NP (PRP it))))
+    (, ,)
+    (S (NP (NNP Ptolemy))
+       (AUX (MD could))
+       (NEG (RB not))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SQ (NP (-NONE- *))
+     (VP (VBN Given)
+         (NP (NP (DT the) (JJ conceptual) (NN context))
+             (SBAR (WHPP (IN within)
+                         (WHNP (WDT which)))
+                   (S (NP (JJ ancient) (NN thought))
+                      (VP (VBD thrived))))))
+     (, ,)
+     (SBARQ (WHADVP (WRB how))
+            (SQ (AUX (MD could))
+                (VP (NN anyone))
+                (VP (VBP have)
+                    (VP (VBN questioned)
+                        (NP (DT this) (NN principle)))))))
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS reasons)
+        (PP (IN for)
+            (NP (DT this))))
+    (VP (VBP are)
+        (X (ADJP (ADJP (ADVP (RB partly))
+                       (JJ observational))
+                 (, ,)
+                 (ADJP (ADVP (RB partly))
+                       (JJ philosophical)))
+           (, ,)
+           (CC and)
+           (VP (VBN reinforced)
+               (PP (IN by)
+                   (NP
+                       (ADJP (JJ other) (JJ aesthetic) (CC and) (JJ cultural))
+                       (NNS factors)))))))
+ (. .))
+ 
+
+ 
+
+((NP (ADVP (RB First))
+     (, ,)
+     (NP (DT the) (JJ observational) (NNS reasons)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (JJ obvious) (JJ natural)
+        (NN fact)
+        (PP (TO to)
+            (NP (JJ ancient) (NNS thinkers))))
+    (VP (VBD was)
+        (NP (DT the) (JJ diurnal) (NN rotation)
+            (PP (IN of)
+                (NP (DT the) (NNS heavens))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CONJP (RB Not)
+           (RB only))
+    (SINV (AUX (VBD did))
+          (NP (NNS constellations)
+              (PP (IN like)
+                  (NP (NP (NNP Draco))
+                      (, ,)
+                      (NP (NNP Cepheus))
+                      (, ,)
+                      (CC and)
+                      (NP (NNP Cassiopeia)))))
+          (VP (VB spin)
+              (NP (NNS circles))
+              (PP (IN around)
+                  (NP (DT the) (NN pole)))))
+    (, ,)
+    (CC but)
+    (S (NP (NP (NNS stars))
+           (SBAR (WHNP (WDT which))
+                 (S (NP (-NONE- T))
+                    (VP (VBD were)
+                        (NEG (RB not))
+                        (ADJP (JJ circumpolar))))))
+       (VP (NN rose)
+           (CC and)
+           (VBD set)
+           (PP (IN at)
+               (NP (DT the) (JJ same) (NN place)
+                   (PP (IN on)
+                       (NP (DT the) (NN horizon))))))
+       (NP (DT each) (NN night))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+((SINV (CC Nor)
+       (AUX (VBD did))
+       (NP
+           (NP (DT a) (NN constellation))
+           (POS 's) (NNS stars))
+       (VP (VB vary)
+           (PP (IN in)
+               (NP (NN brightness))))
+       (PP (IN during)
+           (NP (DT the) (NN course)
+               (PP (IN of)
+                   (NP (PRP$ their) (JJ nocturnal) (NNS flights))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (NP (NP (DT The) (NN conclusion))
+     (: --)
+     (S (S (NP (DT the) (NNS distances)
+               (PP (IN of)
+                   (NP (DT the) (NNS constellations))))
+           (AUX (VBD did))
+           (NEG (RB not))
+           (VP (VB vary)))
+        (CC and)
+        (S (NP (PRP$ their) (NNS paths))
+           (VP (VBD were)
+               (ADJP (JJ circular))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (ADVP (RB Moreover))
+       (, ,)
+       (S (NP
+              (NP (DT the) (NN sun))
+              (POS 's) (NN path)
+              (PP (IN over)
+                  (NP (NN earth))))
+          (VP (VBD described)
+              (NP (DT a) (NN segment)
+                  (PP (IN of)
+                      (NP (DT a) (JJ great) (NN circle)))))))
+    (: ;)
+    (: ;)
+    (S (NP (DT this))
+       (VP (VBD was)
+           (ADJP (JJ clear)))
+       (PP (IN from)
+           (NP (DT the) (NN contour)
+               (PP (IN of)
+                   (NP (NP (DT the) (NN shadow))
+                       (VP (VBN traced)
+                           (PP (IN by)
+                               (NP (DT a) (NN gnomon)))
+                           (PP (IN before) (CC and) (IN after)
+                               (NP (NN noon))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB As)
+          (RB early)
+          (PP (IN as)
+              (NP (DT the) (JJ 6th) (NN century) (NN B.C.))))
+    (S (NP (DT the) (NN earth))
+       (AUX (VBD was))
+       (VP (VBN seen)
+           
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (ADJP (JJ spherical)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NNS Ships))
+       (VP (VBP disappear)
+           (ADVP (RB hull-first))
+           (PP (IN over)
+               (NP (DT the) (NN horizon)))))
+    (: ;)
+    (: ;)
+    (S (S (NP (-NONE- *))
+          (VP (VBG approaching)
+              (ADJP (JJ shore))))
+       (S (NP (PRP$ their) (NNS masts))
+          (VP (VBD appeared))
+          (ADVP (RB first)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (NP (NN Earth))
+           (, ,)
+           (VP (VBG being)
+               (PP (IN at)
+                   (NP (DT the) (NN center)
+                       (PP (IN of)
+                           (NP (DT the) (NN universe))))))
+           (, ,))
+       (AUX (MD would))
+       (VP (VB have)
+           (NP (DT the) (JJ same) (NN shape)
+               (PP (IN as)
+                   (NP (DT the) (NN latter))))))
+    (: ;)
+    (: ;)
+    (SINV (ADVP (RB so))
+          (, ,)
+          (FW e.g.)
+          (AUX (VBD did))
+          (NP (NNP Aristotle))
+          (VP (VB argue))
+          (, ,)
+          (SBAR (IN although)
+                (S (NP (DT this))
+                   (AUX (MD may))
+                   (NEG (RB not))
+                   (VP (VB be)
+                       (NP (DT an) (JJ observational) (NN reason)
+                           (PP (IN in)
+                               (NP (NN favor)
+                                   (PP (IN of)
+                                       (NP (NN circularity)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ discoid) (NNS shapes)
+        (PP (IN of)
+            (NP (NN sun) (CC and) (NN moon))))
+    (AUX (VBD were))
+    (ADVP (RB also))
+    (VP (VBN felt)
+        
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB indicate)
+               (NP (DT the) (NN shape)
+                   (PP (IN of)
+                       (NP (JJ celestial) (NNS things))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN light)
+            (PP (IN of)
+                (NP (PDT all)
+                    (DT this)))))
+    (, ,)
+    (S (NP (NN one))
+       (AUX (MD would))
+       (VP (VB require)
+           (NP (JJ special) (NNS reasons)
+               (PP (IN for)
+                   (S (NP (-NONE- *))
+                      (VP (VBG saying)
+                          (SBAR (IN that)
+                                (S (NP (DT the) (NNS paths)
+                                       (PP (IN of)
+                                           (NP (DT the) (JJ heavenly) (NNS bodies))))
+                                   (VP (VBD were)
+                                       (ADJP (JJ other)
+                                             (PP (IN than)
+                                                 (ADJP (JJ circular))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBARQ (WHADVP (WRB Why))
+        (, ,)
+        (PP (IN for)
+            (NP (NN example)))
+        (, ,)
+        (SQ (AUX (MD should))
+            (NP (DT the) (NNS ancients))
+            (AUX (VB have))
+            (VP (VBN supposed)
+                (NP (DT the) (JJ diurnal) (NN rotation)
+                    (PP (IN of)
+                        (NP (DT the) (NNS heavens))))
+                (S (NP (-NONE- *))
+                   (AUX (TO to))
+                   (VP (VB be)
+                       (ADJP (JJ elliptical)))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((X (CC Or)
+    (ADJP (JJ oviform)))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((X (CC Or)
+    (ADJP (JJ angular)))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBD were)
+        (NP (DT no) (NNS reasons)))
+    (PP (IN for)
+        (NP (DT such) (NNS suppositions)))
+    (ADVP (RB then)))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT This))
+        (, ,)
+        (VP (VBN conjoined)
+            (PP (IN with)
+                (NP (NP (DT the) (NNS considerations))
+                    (ADJP (IN above))))))
+    (, ,)
+    (VP (VBD made)
+        (NP (DT the) (JJ circular) (NNS motions)
+            (PP (IN of)
+                (NP (JJ heavenly) (NNS bodies))))
+        (VP (VB appear)
+            (NP (DT an)
+                (ADJP (ADVP (RB almost)
+                            (RB directly))
+                      (VBN observed))
+                (NN fact)))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP
+            (ADJP (JJ Additional))
+            (ADJP (JJ philosophical))
+            (NNS considerations))
+        (, ,)
+        (VP (VBN advanced)
+            (ADVP (RB notably))
+            (PP (IN by)
+                (NP (NNP Aristotle))))
+        (, ,))
+    (VP (VBD supported)
+        (ADVP (RB further))
+        (NP (DT the) (NN circularity) (NN principle))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN By)
+        (S (S (NP (-NONE- *))
+              (VP (VBG distinguishing)
+                  
+                  (NP (ADJP (JJ superlunary))
+                      (-LRB- -LRB-)
+                      (JJ celestial)
+                      (-RRB- -RRB-)
+                      (CC and)
+                      (ADJP (JJ sublunary))
+                      (-LRB- -LRB-)
+                      (JJ terrestrial)
+                      (-RRB- -RRB-)
+                      (NN existence))))
+           (, ,)
+           (CC and)
+           (S (NP (-NONE- *))
+              (VP (VBG reinforcing)
+                  (NP (DT this))
+                  (PP (IN with)
+                      (NP (DT the) (JJ four-element) (NN physics)
+                          (PP (IN of)
+                              (NP (NNP Empedocles)))))))))
+    (, ,)
+    (S (NP (NNP Aristotle))
+       (VP (VBD came)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB speak)
+                  (PP (IN of)
+                      (NP (DT the) (NNS stars)))
+                  (PP (IN as)
+                      (NP (NP (JJ perfect) (NNS bodies))
+                          (, ,)
+                          (SBAR
+                                (WHNP (WDT which))
+                                (S (NP (-NONE- T))
+                                   (VP (VBD moved)
+                                       (PP (PP (IN in)
+                                               (NP (ADVP (RB only))
+                                                   (DT a) (JJ perfect) (NN way)))
+                                           (, ,)
+                                           (X (NP (NN viz.))
+                                              (PP (IN in)
+                                                  (NP (DT a) (JJ perfect) (NN circle)))))))))))))))
+ (. .))
+ 
+
+ 
+
+((SQ (ADVP (RB Now))
+     (SBARQ
+            (WHNP (WP what))
+            (S (NP (-NONE- T))
+               (VP (VBZ is)
+                   (NP (JJ perfect) (NN motion))))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD must))
+    (, ,)
+    (ADVP (RB apparently))
+    (, ,)
+    (VP (VB be)
+        (NP (NN motion)
+            (PP (IN without)
+                (NP (NNS termini))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((SBAR (IN Because)
+       (S (NP (NP (NN motion))
+              (SBAR (WHNP (WDT which))
+                    (S (NP (-NONE- T))
+                       (VP (VBZ begins)
+                           (CC and)
+                           (VBZ ends)
+                           (PP (IN at)
+                               (NP (JJ discrete) (NNS places)))))))
+          (AUX (MD would))
+          (-LRB- -LRB-)
+          (PP (FW e.g.)
+              (PP (IN for)
+                  (NP (NNP Aristotle))))
+          (-RRB- -RRB-)
+          (VP (VB be)
+              (ADJP (JJ incomplete)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (JJ Circular) (NN motion))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (SBAR (IN since)
+          (S (NP (PRP it))
+             (VP (VBZ is)
+                 (ADJP (JJ eternal) (CC and)
+                       (ADVP (RB perfectly))
+                       (JJ continuous)))))
+    (, ,)
+    (VP (VBZ lacks)
+        (NP (NNS termini))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ is)
+        (ADVP (RB never))
+        (NP (NN motion)
+            (PP (IN towards)
+                (NP (NN something))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (ADVP (RB Only))
+        (ADJP (JJ imcomplete)
+              (, ,)
+              (JJ imperfect))
+        (NNS things))
+    (VP (VBP move)
+        (PP (IN towards)
+            (SBAR (WHNP (WP what))
+                  (S
+                     (NP (PRP they))
+                     (VP (VBP lack)
+                         (NP (-NONE- T))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP
+        (ADJP (JJ Perfect)
+              (, ,)
+              (JJ complete))
+        (NNS entities))
+    (, ,)
+    (SBAR (IN if)
+          (S (NP (PRP they))
+             (VP (VBP move))
+             (PP (IN at)
+                 (NP (DT all)))))
+    (, ,)
+    (AUX (VBP do))
+    (NEG (RB not))
+    (VP (VB move)
+        (PP (IN towards)
+            (SBAR (WHNP (WP what))
+                  (S
+                     (NP (PRP they))
+                     (VP (VBP lack)
+                         (NP (-NONE- T))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (PRP They))
+    (VP (VBP move)
+        (PP (ADVP (RB only))
+            (IN in)
+            (NP (NN accordance)
+                (PP (IN with)
+                    (SBAR (WHNP (WP what))
+                          (S (NP (-NONE- T))
+                             (VP (VBZ is)
+                                 (PP (IN in)
+                                     (NP (PRP$ their) (NNS natures)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (JJ circular) (NN motion))
+       (VP (VBZ is)
+           (NP (PRP itself))
+           (NP (NN one)
+               (PP (IN of)
+                   (NP (DT the) (JJ essential) (NNS characteristics)
+                       (PP (IN of)
+                           (NP
+                               (ADJP (ADVP (RB completely))
+                                     (JJ perfect))
+                               (ADJP (JJ celestial))
+                               (NN existence)))))))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB return)
+           (ADVP (RB now))
+           (PP (TO to)
+               (NP (DT the) (JJ four-element) (NN physics)))))
+    (, ,)
+    (S (NP (DT a) (NN mixture)
+           (PP (IN of)
+               (NP
+                   (ADJP (JJ muddy)
+                         (, ,)
+                         (JJ frothy))
+                   (NN water))))
+       (AUX (MD will))
+       (, ,)
+       (SBAR (WHADVP (WRB when))
+             (S (NP (-NONE- *))
+                (VP (VBG standing)
+                    (PP (IN in)
+                        (NP (DT a) (NN jar))))))
+       (, ,)
+       (VP (JJ separate)
+           (ADVP (IN out))
+           (PP (IN with)
+               (NP (NP (NN earth)
+                       (PP (IN at)
+                           (NP (DT the) (NN bottom))))
+                   (, ,)
+                   (NP (NN water)
+                       (PP (IN on)
+                           (NP (NN top))))
+                   (, ,)
+                   (CC and)
+                   (NP (DT the) (NN air)
+                       (PP (IN on)
+                           (NP (NN top)
+                               (PP (IN of)
+                                   (NP (DT that)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN candle))
+        (ADJP (JJ alight)
+              (PP (IN in)
+                  (NP (DT the) (NN air)))))
+    (VP (VBZ directs)
+        (NP (PRP$ its) (NN flame) (CC and) (NN smoke))
+        (ADVP (RB upwards))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ gives)
+        (NP (DT a) (NN clue))
+        (PP (TO to)
+            (NP (DT the) (JJ cosmical) (NN order)
+                (PP (IN of)
+                    (NP (NNS elements)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (S (NP (NN earth))
+       (AUX (VBZ has))
+       (VP (VBN fallen)
+           (PP (TO to)
+               (NP (DT the) (NN center)
+                   (PP (IN of)
+                       (NP (DT the) (NN universe))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (PRP It))
+       (AUX (VBZ is))
+       (VP (VBN covered)
+           (-LRB- -LRB-)
+           (ADVP (RB partly))
+           (-RRB- -RRB-)
+           (PP (IN with)
+               (NP (NN water)))))
+    (, ,)
+    (S (NP (NN air))
+       (VP (VBZ is)
+           (PP (IN atop)
+               (PP (IN of)
+                   (NP (DT that)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (JJ Pure) (NN fire))
+        (-LRB- -LRB-)
+        (NP (DT the) (NNS stars))
+        (-RRB- -RRB-))
+    (VP (VBZ is)
+        (PP (IN in)
+            (NP (DT the) (NNS heavens)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (WHADVP (WRB When))
+          (S (NP (-NONE- *))
+             (VP (VBN combined)
+                 (PP (IN with)
+                     (NP (DT the) (JJ metaphysical) (NN notion)
+                         (SBAR (IN that)
+                               (S (NP (JJ pure) (NNS forms)
+                                      (PP (IN of)
+                                          (NP (DT this) (NN universe))))
+                                  (AUX (VBP are))
+                                  (VP (ADVP (RB best))
+                                      (VBN appreciated))
+                                  (SBAR (WHADVP (WRB when)
+                                                (S (NP (-NONE- *))
+                                                   (VP (ADVP (JJS least))
+                                                       (VBN embodied)
+                                                       (PP (IN in)
+                                                           (NP (DT a) (NN material) (NN substratum))))))))))))))
+    (, ,)
+    (S (NP (PRP it))
+       (VP (VBZ becomes)
+           (ADJP (JJ clear)
+                 (SBAR (IN that)
+                       (S (SBAR (IN while)
+                                (S (NP (NN earth))
+                                   (AUX (MD will))
+                                   (VP (VB be)
+                                       (NP (NN dross)))
+                                   (PP (IN on)
+                                       (NP (DT a) (NN scale)
+                                           (PP (IN of)
+                                               (NP (JJ material-formal) (NNS ratios)))))))
+                          (, ,)
+                          (S (S (NP (JJ celestial) (NNS bodies))
+                                (AUX (MD will))
+                                (VP (VB be)
+                                    (PP (IN of)
+                                        (NP (NP (DT a)
+                                                (ADJP (JJ subtle))
+                                                (, ,)
+                                                (VP (VBN quickened))
+                                                (, ,)
+                                                (JJ ethereal) (NN existence))
+                                            (, ,)
+                                            (SBAR (WHPP (IN in)
+                                                        (WHNP (WP$ whose)
+                                                              (NN embodiment)))
+                                                  (S (NP (JJ pure) (NN form))
+                                                     (AUX (MD will))
+                                                     (VP (VB be)
+                                                         (NP (DT the) (JJ dominant)
+                                                             (NN component)))))))))
+                             (CC and)
+                             (S (NP (NN matter))
+                                (AUX (MD will))
+                                (VP (VP (VB be)
+                                        (ADJP (JJ absent)))
+                                    (CC or)
+                                    (VP (VB remain)
+                                        (ADJP (NN subsidiary))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS stars))
+    (VP (VBP constitute)
+        (NP (DT an) (NN order)
+            (PP (IN of)
+                (NP (NP (NN existence))
+                    (ADJP (JJ different)
+                          (WHPP (IN from)
+                                (SBAR (WHNP (WP what))
+                                      (S
+                                         (NP (PRP we))
+                                         (VP (VBP encounter)
+                                             (NP (-NONE- T))
+                                             (PP (IN on)
+                                                 (NP (NN earth)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (ADJP (JJ clear)))
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (NN one))
+             (VP (VBZ distinguishes)
+                 (NP (NP (DT the) (NNS types)
+                         (PP (IN of)
+                             (NP (NN motion))))
+                     (ADJP (JJ appropriate)
+                           (PP (TO to)
+                               (NP (DT both)
+                                   (NNS regions)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN projectile))
+        (VP (VBN shot)
+            (ADVP (IN up))
+            (PP (IN from)
+                (NP (NN earth)))))
+    (VP (VBZ returns)
+        (ADVP (RB rectlinearly))
+        (PP (TO to)
+            (NP (PRP$ its)
+                (SYM ')
+                (JJ natural)
+                ('' ')
+                (NN place)
+                (PP (IN of)
+                    (NP (NN rest)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (DT the) (JJ natural) (NN condition))
+       (PP (IN for)
+           (NP (DT the) (JJ heavenly) (NNS bodies)))
+       (VP (VBZ is)
+           (NP (RB neither)
+               (NP (NN rest))
+               (, ,)
+               (CC nor)
+               (NP (JJ rectilinear) (NN motion))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (VP (VBG Being)
+           (VP (ADVP (RBR less))
+               (VBN encumbered)
+               (PP (IN by)
+                   (NP (NN material) (NNS embodiments))))))
+    (S (NP (PRP they))
+       (VP (VBP partake)
+           (ADVP (RBR more)
+                 (PP (IN of)
+                     (SBAR (WHNP (WP what))
+                           (S (NP (-NONE- T))
+                              (VP (VBZ is)
+                                  (ADJP (JJ divine))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP$ Their) (NN motion))
+    (AUX (MD will))
+    (VP (VB be)
+        (ADJP (JJ eternal) (CC and) (JJ perfect))))
+ (. .))
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (PRP us))
+        (VP (VB re-examine)
+            (NP (DT the) (VBN publicized) (NNS contrasts)
+                (PP (IN between)
+                    (NP (NNP Ptolemaic)
+                        (CC and)
+                        (NNP Copernican) (NN astronomy)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Bluntly))
+    (, ,)
+    (S (NP (EX there))
+       (ADVP (RB never))
+       (VP (VBD was)
+           (NP (DT a) (JJ Ptolemaic) (NN system)
+               (PP (IN of)
+                   (NP (NN astronomy)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (NP (NNP Copernicus))
+        (POS ') (NN achievement))
+    (VP (VBD was)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB have)
+               (VP (VBN invented)
+                   (NP (JJ systematic) (NN astronomy)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NNP Almagest))
+        (CC and)
+        (NP (DT The) (NNPS Hypotheses)))
+    (VP (VBP outline)
+        (NP
+            (NP (NNP Ptolemy))
+            (POS 's) (NN conception)
+            (PP (IN of)
+                (NP (PRP$ his) (JJ own) (NN task)))
+            (PP (IN as)
+                (NP (DT the) (NN provision)
+                    (PP (IN of)
+                        (NP (NP (JJ computational) (NNS tables))
+                            (, ,)
+                            (NP (JJ independent) (NN calculating) (NNS devices)
+                                (PP (IN for)
+                                    (NP (DT the) (NN prediction)
+                                        (PP (IN of)
+                                            (NP
+                                                (ADJP (JJ future))
+                                                (ADJP (JJ planetary))
+                                                (NNS perturbations)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Indeed))
+    (, ,)
+    (PP (IN in)
+        (NP (DT the) (NNP Halma) (NN edition)
+            (PP (IN of)
+                (NP
+                    (NP (NNP Theon))
+                    (POS 's) (NN presentation)
+                    (PP (IN of)
+                        (NP (DT The) (NNPS Hypotheses)))))))
+    (S (NP (EX there))
+       (VP (VBZ is)
+           (NP (NP (DT a) (NN chart))
+               (VP (VBG setting)
+                   (PRT (IN out))
+                   (-LRB- -LRB-)
+                   (PP (IN under)
+                       (NP (CD six) (JJ distinct) (NNS headings)))
+                   (-RRB- -RRB-)
+                   (NP (ADJP (ADVP (RB otherwise))
+                             (JJ unrelated)) (NNS diagrams)
+                       (PP (IN for)
+                           (S (NP (-NONE- *))
+                              (VP (VBG describing)
+                                  (NP (DT the) (JJ planetary) (NNS motions)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT No) (NN attempt))
+    (AUX (VBZ is))
+    (VP (VBN made)
+        
+        (PP (IN by)
+            (NP (NNP Ptolemy)))
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB weld)
+               (PP (IN into)
+                   (NP (DT a) (JJ single) (NN scheme)))
+               (-LRB- -LRB-)
+               (ADVP (NN a-la-Aristotle))
+               (-RRB- -RRB-)
+               (, ,)
+               (NP (DT these) (JJ independent) (NNS predicting-machines))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (NP (PRP They))
+           (NP (DT all)))
+       (VP (VBP have)
+           (NP (DT this))
+           (PP (IN in)
+               (ADJP (JJ common)))))
+    (: :)
+    (S (NP (DT the) (NN earth))
+       (AUX (VBZ is))
+       (VP (VBN situated)
+           
+           (PP (IN near)
+               (NP (DT the) (NN center)
+                   (PP (IN of)
+                       (NP (DT the) (NN deferent))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (SBAR (IN that)
+          (S (NP (NN one))
+             (AUX (MD should))
+             (VP (VP (VB superimpose)
+                     (NP (PDT all)
+                         (DT these) (NNS charts)))
+                 (, ,)
+                 (VP (VB run)
+                     (NP (DT a) (NN pin))
+                     (PP (IN through)
+                         (NP (DT the) (JJ common) (NN point))))
+                 (, ,)
+                 (CC and)
+                 (ADVP (RB then))
+                 (VP (VB scale)
+                     (NP (DT each) (JJ planetary) (NN deferent))
+                     (ADJP (ADJP (JJR larger))
+                           (CC and)
+                           (ADJP (JJR smaller)))
+                     (-LRB- -LRB-)
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB keep)
+                            (NP (DT the) (NNS epicycles))
+                            (PP (IN from)
+                                (S (NP (-NONE- *))
+                                   (VP ('' ')
+                                       (VBG bumping)
+                                       ('' '))))))
+                     (-RRB- -RRB-)))))
+    (, ,)
+    (S (NP (DT this))
+       (VP (VBZ is)
+           (ADJP (JJ contrary)
+                 (PP (TO to)
+                     (NP (NP (DT any) (NN intention))
+                         (SBAR (-NONE- 0)
+                               (S (NP (NNP Ptolemy))
+                                  (ADVP (RB ever))
+                                  (VP (VBZ expresses)
+                                      (NP (-NONE- T)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP He))
+    (AUX (MD might))
+    (ADVP (RB even))
+    (VP (VB suppose)
+        (S (NP (DT the) (NNS planets))
+           (AUX (TO to))
+           (VP (VB move)
+               (PP (IN at)
+                   (NP (NN infinity)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (NP (NNP Ptolemy))
+        (POS 's) (NN problem))
+    (VP (VBZ is)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB forecast)
+               (SBAR (WHADVP (WRB where))
+                     (S (, ,)
+                        (PP (IN against)
+                            (NP (DT the) (JJ inverted) (NN bowl)
+                                (PP (IN of)
+                                    (NP (NN night)))))
+                        (, ,)
+                        (S (NP (DT some) (JJ particular) (NN light))
+                           (AUX (MD will))
+                           (VP (VB be)
+                               (VP (VBN found)
+                                   ))
+                           (PP (IN at)
+                               (NP (JJ future) (NNS times))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP$ His) (NN problem))
+    (VP (VBZ concerns)
+        (NP (NP (NNS longitudes))
+            (, ,)
+            (NP (NNS latitudes))
+            (, ,)
+            (CC and)
+            (NP (JJ angular) (NNS velocities)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NNS distances)
+        (PP (IN of)
+            (NP (DT these) (NNS points)
+                (PP (IN of)
+                    (NP (NN light))))))
+    (VP (VBZ is)
+        (NP (NP (DT a) (NN problem))
+            (SBAR (-NONE- 0)
+                  (S
+                     (NP (PRP he))
+                     (AUX (MD can))
+                     (NEG (RB not))
+                     (VP (VB master)
+                         (NP (-NONE- T)))
+                     (, ,)
+                     (PP (IN beyond)
+                         (NP (JJ crude) (NNS conjectures)
+                             (PP (IN as)
+                                 (PP (TO to)
+                                     (NP (DT the) (NNS orderings)
+                                         (PP (IN of)
+                                             (NP (NP (DT the) (JJ planetary) (NNS orbits))
+                                                 (VP (VBN viewed)
+                                                     (ADVP (RB outward)
+                                                           (PP (IN from)
+                                                               (NP (NN earth)))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (NN none)
+           (PP (IN of)
+               (NP (DT this))))
+       (AUX (VBZ has))
+       (VP (VBN prevented)
+           (NP (NP (NNS scientists))
+               (, ,)
+               (NP (NNS philosophers))
+               (, ,)
+               (CC and)
+               (NP (ADVP (RB even))
+                   (NNS historians)
+                   (PP (IN of)
+                       (NP (NN science))))
+               (, ,))
+           (PP (IN from)
+               (S (NP (-NONE- *))
+                  (VP (VBG speaking))
+                  (PP (IN of)
+                      (NP (DT the) (JJ Ptolemaic) (NN system)))
+                  (, ,)
+                  (PP (IN in)
+                      (NP (NN contrast)
+                          (PP (TO to)
+                              (NP (DT the)
+                                  (ADJP (JJ Copernican)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (NP (DT a) (NN mistake))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (VBZ is))
+    (VP (VBN engendered)
+        
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG confounding)
+                   (NP (DT the) (JJ Aristotelian) (NN cosmology)
+                       (PP (IN in)
+                           (NP (NNP The) (NNP Almagest))))
+                   (PP (IN with)
+                       (NP (DT the) (JJ geocentric) (NN astronomy))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (NNP Ptolemy))
+    (ADVP (RB recurrently))
+    (VP (VBZ denies)
+        (SBAR (IN that)
+              (S (NP (PRP he))
+                 (AUX (MD could))
+                 (ADVP (RB ever))
+                 (VP (VB explain)
+                     (NP (JJ planetary) (NN motion)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (SBAR
+              (WHNP (WP what))
+              (S (NP (-NONE- T))
+                 (VP (VBZ necessitates)
+                     (NP (DT the) (JJ nonsystematic) (NN character)
+                         (PP (IN of)
+                             (NP (PRP$ his) (NN astronomy)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB So))
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (NP (NNS textbooks))
+                 (, ,)
+                 (PP (IN like)
+                     (NP (IN that)
+                         (PP (IN of)
+                             (NP (NNP Baker))))))
+             (VP (VBD set)
+                 (PRT (IN out))
+                 (NP (NP (NNS drawings)
+                         (PP (IN of)
+                             (NP (DT the)
+                                 ('' ')
+                                 (NNP Ptolemaic) (NNP System)
+                                 ('' '))))
+                     (, ,)
+                     (ADJP (JJ complete)
+                           (PP (IN with)
+                               (NP (NP (NN earth)
+                                       (PP (IN in)
+                                           (NP (DT the) (NN center))))
+                                   (CC and)
+                                   (NP (NP (DT the) (CD seven) (JJ heavenly) (NNS bodies))
+                                       (VP (ADVP (RB epicyclically))
+                                           (VBN arranged)
+                                           (PP (IN on)
+                                               (NP (PRP$ their) (JJ several) (NNS deferents))))))))))))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VBP have)
+           (NP (NN nothing)
+               (CC but)
+               (NP (DT a)
+                   (JJ misleading) (JJ 20th-century)
+                   (NN idea)
+                   (PP (IN of)
+                       (SBAR (WHNP (WP what))
+                             (S (NP (-NONE- T))
+                                (ADVP (RB never))
+                                (VP (VBD existed)
+                                    (ADVP (RB historically)))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-1 (-NONE- *pseudo-attach*)))
+    (VP (VBZ is)
+        (NP (DT the) (JJ chief) (NN merit)
+            (PP (IN in)
+                (NP
+                    (NP (NNP Copernicus))
+                    (POS ') (NN work)))))
+    (SBAR-1 (IN that)
+            (S (NP (PDT all)
+                   (PRP$ his) (JJ planetary) (NNS calculations))
+               (VP (VBP are)
+                   (ADJP (JJ interdependent))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP He))
+    (AUX (MD can))
+    (NEG (RB not))
+    (, ,)
+    (FW e.g.)
+    (VP (VB compute)
+        (NP (NP (DT the) (JJ retrograde) (NN arc))
+            (VP (VBN traveled)
+                (PP (IN by)
+                    (NP (NNP Mars))))))
+    (, ,)
+    (PP (IN without)
+        (S (NP (-NONE- *))
+           (ADVP (RB also))
+           (VP (VBG making)
+               (NP (NNS suppositions)
+                   (PP (IN about)
+                       (NP
+                           (NP (DT the) (NN earth))
+                           (POS 's) (JJ own) (NN motion))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP He))
+    (AUX (MD can))
+    (NEG (RB not))
+    (VP (VB describe)
+        (NP (NNS eclipses)))
+    (PP (IN without)
+        (S (NP (-NONE- *))
+           (VP (VBG entertaining)
+               (NP (DT some) (NN form)
+                   (PP (IN of)
+                       (NP (DT a) (JJ three-body) (NN problem))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (JJ Ptolemaic) (NNS terms)))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (S (NP (NP (NNS eclipses))
+           (CC and)
+           (NP (JJ retrograde) (NN motion)))
+       (VP (VBD were)
+           (NP (NNS phenomena)
+               (FW simpliciter))
+           (, ,)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB be)
+                  (VP (VBN explained)
+                      (ADVP (RB directly))
+                      (PP (IN as)
+                          (NP (JJ possible) (NNS resultants)
+                              (PP (IN of)
+                                  (NP (JJ epicyclical) (NNS combinations)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (PP (IN In)
+           (NP (NP (DT a) (JJ systematic) (NN astronomy))
+               (, ,)
+               (PP (IN like)
+                   (NP (IN that)
+                       (PP (IN of)
+                           (NP (NNP Copernicus)))))
+               (, ,)))
+       (S (NP (NNS retrogradations))
+          (VP (VBP become)
+              (NP (NN part)
+                  (PP (IN of)
+                      (NP (DT the) (JJ conceptual) (NN structure)
+                          (PP (IN of)
+                              (NP (DT the) (NN system)))))))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP they))
+       (VP (VBP are)
+           (ADVP (RB no)
+                 (RB longer))
+           (NP (DT a) (JJ puzzling) (NN aspect)
+               (PP (IN of)
+                   (NP
+                       (ADJP (ADVP (RB intricately))
+                             (JJ variable))
+                       (, ,)
+                       (ADJP (JJ local))
+                       (ADJP (JJ planetary))
+                       (NNS motions)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (DT Another) (NN contrast))
+        (VP (VBD stressed)
+            (SBAR (WHADVP (WRB when))
+                  (S (NP (-NONE- *))
+                     (VP (VBG discussing)
+                         (NP (JJ Ptolemaic) (CC vs.) (JJ Copernican) (NN astronomy)))))))
+    (, ,)
+    (VP (VBZ turns)
+        (PP (IN on)
+            (NP (DT the) (NN idea)
+                (PP (IN of)
+                    (NP (NN simplicity)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It)
+        (SBAR-2 (-NONE- *pseudo-attach*)))
+    (AUX (VBZ is))
+    (ADVP (RB often))
+    (VP (VBN stated)
+        )
+    (SBAR-2 (IN that)
+            (S (NP (JJ Copernican) (NN astronomy))
+               (VP (VBZ is)
+                   (ADJP (SYM ')
+                         (JJR simpler)
+                         ('' ')
+                         (PP (IN than)
+                             (ADJP (JJ Ptolemaic))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT Some))
+    (ADVP (RB even))
+    (VP (VB say)
+        (SBAR (IN that)
+              (S (NP (DT this))
+                 (VP (VBZ is)
+                     (NP (DT the) (NN reason)
+                         (PP (IN for)
+                             (NP (DT the) (JJ ultimate) (NN acceptance)
+                                 (PP (IN of)
+                                     (NP (DT the)
+                                         (ADJP (JJ former))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (, ,)
+    (S (NP (NNP Margenau))
+       (VP (VBZ remarks)
+           (: :)
+           (S (`` ``)
+              (S (NP (DT A) (JJ large) (NN number)
+                     (PP (IN of)
+                         (NP (JJ unrelated) (NNS epicycles))))
+                 (AUX (VBD was))
+                 (VP (VBN needed)
+                     
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB explain)
+                            (NP (DT the) (NNS observations))))))
+              (, ,)
+              (CC but)
+              (S (ADVP (RB otherwise))
+                 (S (NP (DT the)
+                        (-LRB- -LRB-)
+                        (JJ Ptolemaic)
+                        (-RRB- -RRB-)
+                        (NN system))
+                    (VP (VBD served)
+                        (X (ADVP (RB well))
+                           (CC and)
+                           (PP (IN with)
+                               (NP (JJ quantitative) (NN precision)))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NNP Copernicus))
+    (, ,)
+    (PP (IN by)
+        (S (NP (-NONE- *))
+           (VP (VBG placing)
+               (NP (DT the) (NN sun))
+               (PP (IN at)
+                   (NP (DT the) (NN center)
+                       (PP (IN of)
+                           (NP (DT the) (JJ planetary) (NN universe))))))))
+    (, ,)
+    (VP (VBD was)
+        (ADJP (JJ able)
+              (S (NP (-NONE- *))
+                 (AUX (TO to))
+                 (VP (VB reduce)
+                     (NP (DT the) (NN number)
+                         (PP (IN of)
+                             (NP (NNS epicycles))))
+                     (PP (IN from)
+                         (NP (CD eighty-three)))
+                     (PP (TO to)
+                         (NP (CD seventeen))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (JJ Historical) (NNS records))
+       (VP (VBP indicate)
+           (SBAR (IN that)
+                 (S (NP (NNP Copernicus))
+                    (VP (VBD was)
+                        (ADJP (ADJP (JJ unaware)
+                                    (PP (IN of)
+                                        (NP (DT the) (JJ fundamental) (NNS aspects)
+                                            (PP (IN of)
+                                                (NP (PRP$ his) (JJ so-called)
+                                                    ('' ')
+                                                    (NN revolution)
+                                                    ('' '))))))))))))
+    (S (, ,)
+       (ADJP (JJ unaware)
+             (ADVP (RB perhaps))
+             (PP (IN of)
+                 (NP (PRP$ its) (JJ historical) (NN importance))))
+       (, ,)
+       (S (NP (PRP he))
+          (VP (VBD rested)
+              (ADJP (JJ content)
+                    (PP (IN with)
+                        (S (NP (-NONE- *))
+                           (VP (VBG having)
+                               (VP (VBN produced)
+                                   (NP (DT a)
+                                       (ADJP (JJR simpler))
+                                       (NN scheme)
+                                       (PP (IN for)
+                                           (NP (NN prediction)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN As)
+        (NP (DT an) (NN illustration)
+            (PP (IN of)
+                (NP (DT the) (NN principle)
+                    (PP (IN of)
+                        (NP (NN simplicity)))))))
+    (S
+       (NP (DT the) (JJ heliocentric) (NN discovery))
+       (VP (VBZ has)
+           (NP (DT a) (JJ peculiar) (NN appeal)))
+       (SBAR (IN because)
+             (S (S (NP (PRP it))
+                   (VP (VBZ allows)
+                       (NP (NN simplicity))
+                       (S (NP (-NONE- *))
+                          (AUX (TO to))
+                          (VP (VB be)
+                              (VP (VBN arithmetized)
+                                  )))))
+                (: ;)
+                (: ;)
+                (S (NP (PRP it))
+                   (VP (VBZ involves)
+                       (NP (DT a) (NN reduction)
+                           (PP (IN in)
+                               (NP (DT the) (NN number)
+                                   (PP (IN of)
+                                       (NP (NNS epicycles)))))
+                           (PP (IN from)
+                               (NP (CD eighty-three)))
+                           (PP (TO to)
+                               (NP (CD seventeen))))))))))
+ ('' '')
+ (. .))
+ 
+
+ 
+
+((S (PP (IN Without)
+        (NP (JJ careful) (NN qualification)))
+    (S
+       (NP (DT this))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBG misleading)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (PP (IN in)
+                 (NP (DT any) (CD one) (NN calculation)))
+             (S (NP (NNP Ptolemy))
+                (AUX (VBD had))
+                (VP (VBN had)
+                    (S (NP (-NONE- *))
+                       (AUX (TO to))
+                       (VP (VB invoke)
+                           (NP (CD 83) (NNS epicycles)))
+                       (NP (DT all)
+                           (PP (IN at)
+                               (NP (RB once)))))))
+             (, ,)
+             (SBAR (IN while)
+                   (S (NP (NNP Copernicus))
+                      (ADVP (RB never))
+                      (VP (VBD required)
+                          (NP (ADJP (JJR more)
+                                    (PP (IN than)
+                                        (NP (CD one) (JJ third))))
+                              (DT this) (NN number)))))))
+    (, ,)
+    (S (ADVP (RB then))
+       (-LRB- -LRB-)
+       (PP (IN in)
+           (NP (NP (DT the) (NN sense))
+               (ADJP (JJ obvious)
+                     (PP (TO to)
+                         (NP (NNP Margenau))))))
+       (-RRB- -RRB-)
+       (S (NP (JJ Ptolemaic) (NN astronomy))
+          (AUX (MD would))
+          (VP (VB be)
+              (ADJP (JJR simpler)
+                    (PP (IN than)
+                        (ADJP (JJ Copernican))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (DT no)
+           (ADJP (JJ single))
+           (ADJP (JJ planetary))
+           (NN problem))
+       (ADVP (RB ever))
+       (VP (VBN required)
+           (PP (IN of)
+               (NP (NNP Ptolemy)))
+           (NP (ADJP (RBR more)
+                     (PP (IN than)
+                         (NP (CD six))))
+               (NNS epicycles)))
+       (PP (IN at)
+           (NP (CD one) (NN time)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This))
+    (, ,)
+    (PP (IN of)
+        (NP (NN course)))
+    (, ,)
+    (VP (VBZ results)
+        (PP (IN from)
+            (NP (DT the)
+                (ADJP (JJ non-systematic))
+                (, ,)
+                (ADJP ('' ')
+                      (JJ cellular)
+                      ('' '))
+                (NN character)
+                (PP (IN of)
+                    (NP (JJ Ptolemaic) (NN theory)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NNS Calculations)
+        (PP (IN within)
+            (NP (DT the) (JJ Copernican) (NN framework))))
+    (ADVP (RB always))
+    (VP (VBD raised)
+        (NP (NNS questions)
+            (PP (IN about)
+                (NP (JJ planetary) (NNS configurations))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These))
+    (AUX (MD could))
+    (VP (VB be))
+    (VP (VBN met)
+        (ADVP (RB only))
+        (PP (IN by)
+            (S (NP (-NONE- *))
+               (VP (VBG considering)
+                   (NP (DT the) (JJ dynamical) (NNS elements)
+                       (PP (IN of)
+                           (NP (JJ several) (NNS planets))))
+                   (PP (IN at)
+                       (NP (CD one) (NN time))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT This))
+    (VP (VBZ is)
+        (ADJP (ADVP (RBR more))
+              (JJ ambitious)
+              (PP (IN than)
+                  (S (NP (NNP Ptolemy))
+                     (AUX (VBZ is))
+                     (ADVP (RB ever))
+                     (VP (VBN required)
+                         
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB be))))
+                     (SBAR
+                           (WHADVP (WRB when))
+                           (S (NP (PRP he))
+                              (VP (VBZ faces)
+                                  (NP (PRP$ his) (VBN isolated) (NNS problems))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((SINV (ADVP (RB Thus))
+       (, ,)
+       (PP (IN in)
+           (NP (DT no) (JJ ordinary) (NN sense)
+               (PP (IN of)
+                   (NP ('' ')
+                       (NN simplicity)
+                       ('' ')))))
+       (VP (VBZ is))
+       (NP (DT the) (JJ Ptolemaic) (NN theory))
+       (ADJP (JJR simpler)
+             (PP (IN than)
+                 (NP (DT the)
+                     (ADJP (JJ Copernican))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN latter))
+    (VP (VBD required)
+        (S (NP (-NONE- *))
+           (VP (VBG juggling)
+               (NP (JJ several) (NNS elements))
+               (ADVP (RB simultaneously))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBD was)
+        (ADJP (RB not)
+              (ADJP (JJR simpler))
+              (CC but)
+              (ADJP (ADVP (RB much)
+                          (RBR more))
+                    (JJ difficult)
+                    (PP (IN than)
+                        (NP (NNS exercises)
+                            (PP (IN within)
+                                (NP
+                                    (NP (NNP Ptolemy))
+                                    (POS 's) (NN astronomy)))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Analogously))
+    (, ,)
+    (S (NP (NP (NN anyone))
+           (SBAR (WHNP (WP who))
+                 (S (NP (-NONE- T))
+                    (VP (VBZ argues)
+                        (SBAR (IN that)
+                              (S (NP
+                                     (NP (NNP Einstein))
+                                     (POS 's) (NN theory)
+                                     (PP (IN of)
+                                         (NP (NN gravitation))))
+                                 (VP (VBZ is)
+                                     (ADJP (JJR simpler)
+                                           (PP (IN than)
+                                               (NP
+                                                   (NP (NNP Newton))
+                                                   (POS 's)))))))))))
+       (, ,)
+       (AUX (MD must))
+       (VP (VB say)
+           (ADJP (ADVP (RB rather))
+                 (JJR more))
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB explain)
+                  (SBAR
+                        (WHADVP (WRB how))
+                        (S (NP (PRP it))
+                           (VP (VBZ is))
+                           (SBAR (IN that)
+                                 (S (NP (DT the) (NN latter))
+                                    (AUX (VBZ is))
+                                    (VP (VBN mastered)
+                                        
+                                        (PP (IN by)
+                                            (NP (NNS student-physicists))))
+                                    (, ,)
+                                    (SBAR (IN while)
+                                          (S (NP (DT the)
+                                                 (ADJP (JJ former)))
+                                             (AUX (MD can))
+                                             (VP (VB be)
+                                                 (VP (VBN managed)
+                                                     (-LRB- -LRB-)
+                                                     (PP (IN with)
+                                                         (NP (NN difficulty)))
+                                                     (-RRB- -RRB-)
+                                                     (PP (ADVP (RB only))
+                                                         (IN by)
+                                                         (NP (JJ accomplished) (NNS experts))))))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (DT a) (NN sense)))
+    (, ,)
+    (S (S (NP
+              (NP (NNP Einstein))
+              (POS 's) (NN theory))
+          (VP (VBZ is)
+              (ADJP (JJR simpler)
+                    (PP (IN than)
+                        (NP
+                            (NP (NNP Newton))
+                            (POS 's))))))
+       (, ,)
+       (CC and)
+       (S (NP (EX there))
+          (VP (VBZ is)
+              (NP (NP (DT a) (JJ corresponding) (NN sense))
+                  (SBAR (WHPP (IN in)
+                              (WHNP (WDT which)))
+                        (S
+                           (NP
+                               (NP (NNP Copernicus))
+                               (POS ') (NN theory))
+                           (VP (VBZ is)
+                               (ADJP (JJR simpler)
+                                     (PP (IN than)
+                                         (NP
+                                             (NP (NNP Ptolemy))
+                                             (POS 's))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP ('' ')
+           (NN simplicity)
+           ('' '))
+       (ADVP (RB here))
+       (VP (VBZ refers)
+           (PP (TO to)
+               (NP (JJ systematic) (NN simplicity))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN number)
+        (PP (IN of)
+            (NP (JJ primitive) (NNS ideas)
+                (PP (IN in)
+                    (NP (JJ systematically-simple) (NNS theories))))))
+    (AUX (VBZ is))
+    (VP (VBN reduced)
+        
+        (PP (TO to)
+            (NP (DT a) (NN minimum)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT The) (NNS Axioms))
+        (VP (VBN required)
+            (S (NP (-NONE- *))
+               (AUX (TO to))
+               (VP (VB make)
+                   (NP (DT the) (JJ theoretical) (NN machinery))
+                   (VP (VB operate))))))
+    (AUX (VBP are))
+    (VP (VBN set)
+        
+        (PRT (IN out))
+        (ADVP (RB tersely) (CC and) (RB powerfully)))
+    (, ,)
+    (SBAR (RB so)
+          (IN that)
+          (S (NP (DT all) (JJ permissible) (NNS operations)
+                 (PP (IN within)
+                     (NP (DT the) (NN theory))))
+             (AUX (MD can))
+             (VP (VB be)
+                 (VP (VBN traced)
+                     (ADVP (RB rigorously))
+                     (ADVP (RB back)
+                           (PP (TO to)
+                               (NP (DT these) (NNS axioms)
+                                   (, ,)
+                                   (NNS rules)
+                                   (, ,)
+                                   (CC and)
+                                   (JJ primitive) (NNS notions)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ characterizes)
+        (NP (NP
+                (NP (NNP Euclid))
+                (POS 's) (NN formulation)
+                (PP (IN of)
+                    (NP (NN geometry))))
+            (, ,)
+            (CONJP (CC but)
+                   (NEG (RB not)))
+            (NP
+                (NP (NNP Ptolemy))
+                (POS 's) (NN astronomy)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (EX There))
+    (VP (VBP are)
+        (PP (IN in)
+            (NP (DT The) (NNP Almagest)))
+        (NP (RB no)
+            (NNS rules)
+            (PP (IN for)
+                (S (NP (-NONE- *))
+                   (VP (VBG determining)
+                       (PP (IN in)
+                           (NP (NN advance)))
+                       (SBAR (IN whether)
+                             (S (NP (DT a) (JJ new) (NN epicycle))
+                                (AUX (MD will))
+                                (VP (VB be)
+                                    (VP (VBN required)
+                                        
+                                        (PP (IN for)
+                                            (S (NP (-NONE- *))
+                                               (VP (VBG dealing)
+                                                   (PP (IN with)
+                                                       (NP (NNS abberations)
+                                                           (PP (IN in)
+                                                               (NP (ADJP (JJ lunar))
+                                                                   (, ,)
+                                                                   (ADJP (JJ solar))
+                                                                   (, ,)
+                                                                   (CC or)
+                                                                   (ADJP (JJ planetary)) (NN behavior))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The)
+        (ADJP (JJS strongest))
+        (NN appeal)
+        (PP (IN of)
+            (NP (DT the) (JJ Copernican) (NN formulation))))
+    (VP (VBD consisted)
+        (PP (IN in)
+            (NP (NP (ADVP (RB just))
+                    (DT this))
+                (: :)
+                (S (ADVP (RB ideally))
+                   (, ,)
+                   (S (NP (DT the) (NN justification)
+                          (PP (IN for)
+                              (S (NP (-NONE- *))
+                                 (VP (VBG dealing)
+                                     (PP (IN with)
+                                         (NP (JJ special) (NNS problems)))
+                                     (PP (IN in)
+                                         (NP (JJ particular) (NNS ways)))))))
+                      (AUX (VBZ is))
+                      (ADVP (RB completely))
+                      (VP (VBN set)
+                          
+                          (PRT (IN out))
+                          (PP (IN in)
+                              (NP
+                                  (DT the) (JJ basic)
+                                  ('' ')
+                                  (NNS rules)
+                                  (POS ')
+                                  (PP (IN of)
+                                      (NP (DT the) (NN theory))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ lower-level) (NNS hypotheses))
+    (VP (VBP are)
+        (X (X (ADVP (RB never))
+              (ADJP ('' ')
+                    (FW ad)
+                    (FW hoc)
+                    ('' ')))
+           (, ,)
+           (X (ADVP (RB never))
+              (VP (VBN introduced)
+                  (NP (FW ex) (FW post) (FW facto))
+                  (S (NP (-NONE- *))
+                     (ADVP (RB just))
+                     (AUX (TO to))
+                     (VP (VB sweep)
+                         (PRT (IN up))
+                         (PP (IN within)
+                             (NP (DT the) (NN theory)))
+                         (NP (DT some) (JJ recalcitrant) (NN datum)))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NNP Copernicus))
+    (, ,)
+    (PP (TO to)
+        (NP (NP (DT an) (NN extent))
+            (VP (VBN unachieved)
+                (PP (IN by)
+                    (NP (NNP Ptolemy))))))
+    (, ,)
+    (VP (VBD approximated)
+        (PP (TO to)
+            (NP
+                (NP (NNP Euclid))
+                (POS 's) (NN vision)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (FW De) (FW Revolutionibus))
+    (VP (VBZ is)
+        (NEG (RB not))
+        (NP (ADVP (RB just))
+            (DT a) (NN collection)
+            (PP (IN of)
+                (NP (NNS facts) (CC and) (NNS techniques))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ is)
+        (NP (DT an) (VBN organized) (NN system)
+            (PP (IN of)
+                (NP (DT these) (NNS things))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (S (NP (-NONE- *))
+           (VP (VBG Solving)
+               (NP (JJ astronomical) (NNS problems)))))
+    (VP (VBZ requires)
+        (, ,)
+        (PP (IN for)
+            (NP (NNP Copernicus)))
+        (, ,)
+        (NP (RB not)
+            (NP (DT a) (JJ random) (NN search)
+                (PP (IN of)
+                    (NP (JJ unrelated) (NNS tables))))
+            (, ,)
+            (CC but)
+            (NP (DT a) (JJ regular) (NN employment)
+                (PP (IN of)
+                    (NP (NP (DT the) (NNS rules))
+                        (VP (VBG defining)
+                            (NP (DT the) (JJ entire) (NN discipline)))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (, ,)
+    (S (NP (S (NP (-NONE- *))
+              (VP (VBG noting)
+                  (NP (NP (DT the) (NN simplicity))
+                      (VP (VBN achieved)
+                          (PP (IN in)
+                              (NP
+                                  (NP (NNP Copernicus))
+                                  (POS ') (NN formulation))))))))
+       (AUX (VBZ does))
+       (NEG (RB not))
+       (VP (VB provide)
+           (NP (NP (DT another) (NN reason)
+                   (PP (IN for)
+                       (NP (DT the) (NN acceptance)
+                           (PP (IN of)
+                               (NP (FW De) (FW Revolutionibus))))))
+               (, ,)
+               (NP (DT another) (NN reason)
+                   (PP (IN beyond)
+                       (NP (PRP$ its) (JJ systematic) (NN superiority))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ provides)
+        (NP (ADVP (RB exactly))
+            (DT the) (JJ same) (NN reason))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (CD 1543) (NN A.D.))
+    (AUX (VBZ is))
+    (ADVP (RB often))
+    (VP (VBN venerated)
+        
+        (PP (IN as)
+            (NP (DT the) (NN birthday)
+                (PP (IN of)
+                    (NP (DT the) (JJ scientific) (NN revolution)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ is)
+        (ADVP (RB really))
+        (NP (DT the) (JJ funeral) (NN day)
+            (PP (IN of)
+                (NP (JJ scholastic) (NN science))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (VP (VBN Granted))
+    (, ,)
+    (S (NP (NP (DT the)
+               (ADJP (JJ cosmological))
+               (, ,)
+               (ADJP (JJ philosophical))
+               (, ,)
+               (CC and)
+               (ADJP (JJ cultural)) (NNS reverberations))
+           (VP (VBN initiated)
+               (PP (IN by)
+                   (NP (DT the) (FW De) (FW Revolutionibus)))))
+       (AUX (VBD were))
+       (VP (VBN felt)
+           
+           (PP (IN with)
+               (NP (VBG increasing)
+                   (NN violence)))
+           (PP (IN during)
+               (NP (NP (DT the) (CD 300) (NNS years))
+                   (S (NP (-NONE- *))
+                      (AUX (TO to))
+                      (VP (VB follow))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VBN considered)
+           (PP (IN within)
+               (NP (JJ technical) (NN astronomy)))))
+    (, ,)
+    (S (NP (DT a) (JJ different) (NN pattern))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN traced)
+               ))))
+ (. .))
+ 
+
+ 
+
+(
+ (SBARQ
+        (WHPP (IN In)
+              (WHNP (WP what)))
+        (SQ (AUX (VBZ does))
+            (NP (DT the) (NN dissatisfaction)
+                (PP (IN of)
+                    (NP (NN Copernicus-the-astronomer))))
+            (VP (VB consist))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (SBARQ
+        (WHNP (WP What)
+              (PP (IN in)
+                  (NP (DT The) (NNP Almagest))))
+        (SQ (NP (-NONE- T))
+            (VP (VBZ draws)
+                (NP (PRP$ his) (NN fire)))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+(
+ (NP (NN Geocentricism)
+     (PP (IN per)
+         (NP (NN se))))
+ (. ?)
+ (. ?))
+ 
+
+ 
+
+ 
+
+ 
+
+((NP (RB No))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (JJ formal) (NN displacement)
+            (PP (IN of)
+                (NP (DT the) (JJ geocentric) (NN principle))))
+        (ADVP (RB far)
+              (PP (IN from)
+                  (S (NP (-NONE- *))
+                     (VP (VBG being)
+                         (NP
+                             (NP (NNP Copernicus))
+                             (POS ') (JJ primary) (NN concern))))))
+        (, ,))
+    (AUX (VBD was))
+    (VP (VBN introduced)
+        
+        (S (NP (-NONE- *))
+           (ADVP (RB only))
+           (AUX (TO to))
+           (VP (VB resolve)
+               (NP (SBAR
+                         (WHNP (WP what))
+                         (S (NP (-NONE- T))
+                            (VP (VBD seemed)
+                                (PP (TO to)
+                                    (NP (PRP him)))
+                                (ADJP (JJ intolerable)
+                                      (PP (IN in)
+                                          (NP (NN orthodox) (NN astronomy)))))))
+                   (NP (, ,)
+                       (ADVP (RB namely))
+                       (, ,)
+                       (DT the)
+                       ('' ')
+                       (JJ unphysical)
+                       ('' ')
+                       (NN triplication)
+                       (PP (IN of)
+                           (NP (NP (JJ centric) (NNS reference-points))
+                               (: :)
+                               (NP (NP (NP (CD one) (NN center))
+                                       (SBAR (WHPP (IN from)
+                                                   (WHNP (WDT which)))
+                                             (S
+                                                (NP
+                                                    (NP (DT the) (NN planet))
+                                                    (POS 's) (NNS distances))
+                                                (AUX (VBD were))
+                                                (VP (VBN calculated)
+                                                    ))))
+                                   (, ,)
+                                   (NP (NP (DT another))
+                                       (SBAR (WHPP (IN around)
+                                                   (WHNP (WDT which)))
+                                             (S (NP (JJ planetary) (NNS velocities))
+                                                (AUX (VBD were))
+                                                (VP (VBN computed)
+                                                    ))))
+                                   (, ,)
+                                   (CC and)
+                                   (NP (NP (NP (RB still)
+                                               (DT a) (JJ third) (NN center))
+                                           (-LRB- -LRB-)
+                                           (NP (DT the) (NN earth))
+                                           (-RRB- -RRB-))
+                                       (SBAR (WHPP (IN from)
+                                                   (WHNP (WDT which)))
+                                             (S
+                                                (NP (DT the) (NNS observations))
+                                                (VP (VBD originated))))))))))))))
+ (. .))
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT This) (NN arrangement))
+       (VP (VBD was)
+           (PP (IN for)
+               (NP (NNP Copernicus)))
+           (ADJP (ADVP (RB literally))
+                 (JJ monstrous))))
+    (: :)
+    (S (`` ``)
+       (PP (IN With)
+           (-LRB- -LRB-)
+           (NP (DT the) (NNS Ptolemaists))
+           (-RRB- -RRB-))
+       (S (S (NP (PRP it))
+             (VP (VBZ is)
+                 (PP (IN as)
+                     (SBAR (IN though)
+                           (S (NP (DT an) (NN artist))
+                              (VP (VBD were)
+                                  (S (NP (-NONE- *))
+                                     (AUX (TO to))
+                                     (VP (VB gather)
+                                         (NP (NP (DT the) (NNS hands))
+                                             (, ,)
+                                             (NP (NNS feet))
+                                             (, ,)
+                                             (NP (NN head))
+                                             (CC and)
+                                             (NP (JJ other) (NNS members)))
+                                         (PP (IN for)
+                                             (NP (PRP$ his) (NNS images)))
+                                         (PP (IN from)
+                                             (NP (JJ divers) (NNS models))))
+                                     (, ,)
+                                     (NP (NP (DT each) (NN part))
+                                         (VP (VP (ADVP (RB excellently))
+                                                 (VBN drawn))
+                                             (, ,)
+                                             (CC but)
+                                             (VP (NEG (RB not))
+                                                 (VBN related)
+                                                 (PP (TO to)
+                                                     (NP (DT a) (JJ single) (NN body)))))))))))))
+          (: ;)
+          (: ;)
+          (CC and)
+          (S (SBAR (IN since)
+                   (S (NP (PRP they))
+                      (PP (IN in)
+                          (NP (DT no) (NN way)))
+                      (VP (VBP match)
+                          (NP (DT each)
+                              (ADJP (JJ other))))))
+             (, ,)
+             (S (NP (DT the) (NN result))
+                (AUX (MD would))
+                (VP (VB be)
+                    (NP (DT a) (NN monster))
+                    (ADVP (RB rather)
+                          (PP (IN than)
+                              (NP (DT a) (NN man))))))))
+       ('' '')))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NNP Copernicus))
+    (VP (VBD required)
+        (NP (DT a)
+            (ADJP (RB systematically)
+                  (VBN integrated))
+            (, ,)
+            (ADJP (RB physically)
+                  (JJ intelligible)) (NN astronomy))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP$ His) (NN objective))
+    (VP (VBD was)
+        (, ,)
+        (ADVP (RB essentially))
+        (, ,)
+        (S (NP (-NONE- *))
+           (AUX (TO to))
+           (VP (VB repair)
+               (NP (NP (DT those) (NNS aspects)
+                       (PP (IN of)
+                           (NP (NN orthodox) (NN astronomy))))
+                   (ADJP (JJ responsible)
+                         (PP (IN for)
+                             (NP (PRP$ its) (NNS deficiencies)
+                                 (PP (IN in)
+                                     (S (NP (-NONE- *))
+                                        (VP (VBG achieving)
+                                            (NP (DT these) (NNS ends)))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (SBAR (IN That)
+              (S (NP (DT such) (NNS deficiencies))
+                 (VP (VBD existed))
+                 (PP (IN within)
+                     (NP
+                         (NP (NNP Ptolemy))
+                         (POS 's) (NN theory))))))
+    (AUX (VBD was))
+    (NEG (RB not))
+    (VP (VBN discovered)
+        (ADJP (FW de) (FW novo))
+        (PP (IN by)
+            (NP (NNP Copernicus)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The)
+        (ADJP (JJ critical))
+        (, ,)
+        (ADJP (JJ rigorous))
+        (NNS examinations)
+        (PP (IN of)
+            (NP (NP (NNP Nicholas)
+                    (PP (IN of)
+                        (NP (NNP Cusa))))
+                (CC and)
+                (NP (NNP Nicholas)
+                    (PP (IN of)
+                        (NP (NNP Oresme)))))))
+    (VP (VBD provided)
+        (NP (NP (DT the) (NN context))
+            (-LRB- -LRB-)
+            (NP (DT a)
+                (ADJP (JJ late) (JJ medieval))
+                (NN context))
+            (-RRB- -RRB-)
+            (PP (IN for)
+                (NP
+                    (NP (NNP Nicholas) (NNP Copernicus))
+                    (POS ') (JJ own) (NN work))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN latter))
+    (VP (VBD looked)
+        (ADVP (RB backward))
+        (PP (IN upon)
+            (NP (VBN inherited)
+                (NNS deficiencies)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN Without)
+        (S (NP (-NONE- *))
+           (VP (VBG abandoning)
+               (NP (RB too)
+                   (JJ much)))))
+    (, ,)
+    (S (NP (NNP Copernicus))
+       (VP (VBD sought)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB make)
+                  (NP (JJ orthodox) (NN astronomy))
+                  (ADJP (ADVP (RB systematically) (CC and) (RB mechanically))
+                        (JJ acceptable)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP He))
+    (AUX (VBD did))
+    (NEG (RB not))
+    (VP (VB think)
+        (S (NP (PRP himself))
+           (AUX (TO to))
+           (VP (VB be)
+               (VP (VBG firing)
+                   (NP (DT the) (JJ first) (NN shot)
+                       (PP (IN of)
+                           (NP (DT an) (JJ intellectual) (NN revolution)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

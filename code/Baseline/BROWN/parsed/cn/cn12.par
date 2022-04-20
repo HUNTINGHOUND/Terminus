@@ -1,0 +1,2893 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+          (S (S (NP several minutes)
+                (AUX had)
+                (VP passed))
+             and
+             (S (NP Curt)
+                (AUX had)
+                (NEG n't)
+                (VP emerged
+                    (PP from
+                        (NP the livery stable)))))))
+     ,
+     (S (NP Brenner)
+        (VP (VP reentered
+                (NP the hotel))
+            and
+            (VP faced
+                (NP Summers)
+                (PP across
+                    (NP the counter)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP I)
+     (VP have
+         (NP a little job)
+         (PP for
+             (NP you)))
+     ,
+     (NP Charlie))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP I)
+    (VP 'm
+        (ADJP sure)
+	(SBAR 0
+	      (S (NP you)
+		 (AUX wo)
+		 (NEG n't)
+		 (VP mind
+		     (S  (NP *)
+			 (VP doing
+			     (NP me)
+			     (NP a small favor))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP (NP Brenner)
+           's voice)
+       (VP was
+           (ADJP oily)))
+    ,
+    but
+    (S (NP Summers)
+       (AUX was)
+       (NEG n't)
+       (VP fooled
+           )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP moistened
+       (NP his lips)
+       uneasily))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (SBARQ (WHNP What)
+	(S (NP T)
+	   (VP is
+	       (NP it)
+	       (SBAR 0
+		     (S (NP you)
+			(VP want
+			    (S (NP me)
+			       (AUX to)
+			       (VP do
+				   (NP T) ))))))
+	   ,
+	   (NP Mr. Brenner)))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Brenner)
+   (VP shrugged
+       carelessly))
+  .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP It)
+     (VP 's
+         (ADJP  very
+                simple)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (ADVP just)
+   (VP want
+       (S (NP you)
+          (AUX to)
+          (VP take
+              (NP a message)
+              (PP to
+                  (NP Diane Molinari))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Tell
+           (NP her)
+           (S (NP *)
+              (AUX to)
+              (VP come
+                  (ADVP here)
+                  (PP to
+                      (NP the hotel))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (ADJP  (ADVP Vastly)
+           relieved)
+    ,
+    (S (NP Summers)
+       (VP (VP nodded)
+           and
+           (VP started
+               (PP toward
+                   (NP the door))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+     (NP One thing)
+     ,
+     (NP Summers)
+     ''
+     ,
+     (S (NP Brenner)
+        (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+ (S (NP You)
+    (VP 're
+	(NEG not)
+	(S (NP *)
+	   (AUX to)
+	   (VP mention
+	       (NP my name)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *) 
+      (VP Tell
+          (NP her)
+          (SBAR 0
+		(S (NP Curt Adams)
+		   (VP wants
+		       (S (NP *)
+			  (AUX to)
+			  (VP see
+			      (NP her))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Summers)
+   (VP (VP pulled
+           (PRT up)
+           (ADJP short))
+       ,
+       and
+       (VP turned
+           (ADVP around))))
+  .)
+(   END_OF_TEXT_UNIT)
+((S  ``
+     (S (NP I)
+	(AUX do)
+	(NEG n't)
+	(VP know)
+	,
+	(NP Mr. Brenner))
+     ''
+     ,
+     (S (NP he)
+	(VP said
+	    haltingly)
+	,
+	(S  (NP *) 
+	    (VP beginning
+		(S (NP *)
+		   (AUX to)
+		   (VP get
+		       (NP an inkling
+			   (PP of
+			       (NP (NP Brenner)
+				   's plans)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S  (NP It
+	  (NP-1 *pseudo-attach*))
+      (AUX does)
+      (NEG n't)
+      (VP seem
+	  (ADJP   quite
+		  right))
+      ,
+      (NP-1 (S   (NP *) 
+		 (VP telling
+		     (NP her)
+		     (NP a thing
+			 (PP like
+			     (NP that)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((SQ    (AUX Could)
+	(NEG n't)
+	(NP I)
+	(ADVP just)
+	(VP *))
+ ''
+ --)
+(  
+ (S (NP His voice)
+    (VP trailed
+	(PRT off)
+	(PP into
+	    (NP silence))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Brenner)
+      (VP continued
+          (S (NP *)
+             (AUX to)
+             (VP smile))))
+     ,
+     but
+     (S (NP his eyes)
+        (VP were
+            (ADJP cold))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP turned)
+        and
+        (VP looked
+            (ADVP around)
+	    (PP at
+		(NP the lobby))
+	    (SBAR  as
+		   though
+		   (S  (NP *)
+		       (VP seeing
+			   (NP (NP things)
+			       (SBAR 0
+				     (S (NP he)
+					(AUX had)
+					(NEG n't)
+					(ADVP before)
+					(VP noticed
+					    (NP T) ))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP You)
+       (VP know)
+       ,
+       (NP Summers))
+    ''
+    ,
+    (S (NP he)
+       (VP said
+           thoughtfully)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP (NP Eagle)
+	's
+	Nest)
+    (VP  ought
+	 (S  (NP *)
+	     (AUX to)
+	     (VP have
+		 (NP a fire company)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR If
+          (S (NP someone)
+             (VP were
+                 (S (NP *)
+                    (AUX to)
+                    (VP drop
+                        (NP a match)
+                        (PP in
+                            (NP here)))))))
+    ,
+    (S (NP this place)
+       (AUX would)
+       (VP go
+           (PRT up)
+           (PP like
+               (NP a haystack)))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP started
+            (PP toward
+                (NP the stairway)))
+        ,
+        then
+        (VP turned
+            (S (NP *)
+               (AUX to)
+               (VP add
+                   ,
+		   ``
+		   (S (S (NP *) 
+			 (VP Tell
+			     (NP her)
+			     (S (NP *)
+				(AUX to)
+				(VP come
+				    (PP to
+					(NP (NP Adams)
+					    's room))))))
+		      ,
+		      (S (NP  that
+			      Adams)
+			 (VP is
+			     (PP in
+				 (NP trouble))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (VP Tell
+           (NP her)
+           (S (NP *)
+              (AUX to)
+              (VP hurry))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (X  ``
+     (INTJ Yes)
+     (NP sir)
+     '')
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (X (NP His face)
+        (ADJP pale))
+     ,
+     (S (NP Summers)
+        (VP headed
+            (PP for
+                (NP the street)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Curt)
+        's visit
+        (PP to
+            (NP the livery stable)))
+    (AUX had)
+    (VP been
+	(NP (NP (ADVP merely)
+		a precaution)
+	    (SBAR (PP in
+		      (NP case))
+		  (S (NP anyone)
+		     (AUX should)
+		     (VP be
+			 (VP watching)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP paused
+	    (ADJP  (ADVP only)
+		   long
+		   enough
+		   (S (NP *)
+		      (AUX to)
+		      (VP ascertain
+			  (SBAR (SBAR that
+				      (S (NP (NP Jess)
+					     's buckskin)
+					 (VP was
+					     (ADVP still)
+					     (ADJP missing))))
+				and
+				(SBAR that
+				      (S (NP his own gray)
+					 (VP was
+					     (ADJP  all
+						    right)))))))))
+        ,
+        then
+        (VP (VP climbed
+                (PP through
+                    (NP a back window)))
+            and
+            (VP dropped
+                (PP to
+                    (NP (NP the ground)
+			(ADVP outside)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP The fact
+           (SBAR that
+                 (S (NP (NP Jess)
+                        's horse)
+                    (AUX had)
+                    (NEG not)
+                    (VP been
+                        (VP returned
+                              
+                            (PP to
+                                (NP its stall)))))))
+       (AUX could)
+       (VP indicate
+           (SBAR that
+		 (S (NP (NP Diane)
+			's information)
+		    (AUX had)
+		    (VP been
+			(ADJP wrong))))))
+    ,
+    but
+    (S (NP Curt)
+       (AUX did)
+       (NEG n't)
+       (VP interpret
+           (NP it)
+           (NP this way))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP A man
+        (PP like
+            (NP Jess)))
+    (AUX would)
+    (VP want
+        (S (NP *)
+           (AUX to)
+           (VP have
+               (NP a ready means
+                   (PP of
+                       (NP escape))))
+	   (SBAR  (PP in
+		      (NP case))
+		  (S (NP it)
+		     (AUX was)
+		     (VP needed
+			 ))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Probably)
+      (S (NP his horse)
+         (AUX would)
+         (VP be
+             (ADJP close
+                   (PP to
+                       (SBAR 
+                        (WHADVP where)
+                        (S (NP he)
+                           (AUX was)
+                           (VP hiding))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (PP From
+         (NP the back
+             (PP of
+                 (NP the barn))))
+     (S  (NP it
+	     (S-2 *pseudo-attach*))
+         (VP was
+             (NP a simple matter))
+         (S-2 (NP *)
+	      (AUX to)
+	      (VP reach
+		  (NP (NP Black)
+		      's house))
+	      (PP without
+		  (S  (NP *) 
+		      (VP using
+			  (NP the street)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP (VP approached
+            (NP the place)
+            cautiously)
+        ,
+        and
+        (VP watched
+            (NP it)
+            (NP several minutes)
+            (PP from
+                (NP the protection
+                    (PP of
+                        (NP a grove
+                            (PP of
+                                (NP trees)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP There)
+       (VP was
+           (NP a light
+               (PP in
+		   (NP (NP Black)
+		       's front room)))))
+    ,
+    but
+    (S (NP  (VP drawn)
+	    curtains)
+       (VP prevented
+	   (NP any view
+	       (PP of
+		   (NP the interior))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP (VP circled
+	    (NP the house))
+	and
+	(VP located
+	    (NP a barn)
+	    (ADVP  out
+		   back))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+  END_OF_TEXT_UNIT
+(  
+ (S (NP He)
+    (AUX could)
+    (VP hear
+	(NP  (NP (S (NP horses)
+		    (VP moving
+			(ADVP around)
+			(ADVP inside))))
+	     ,
+	     and
+	     (NP  nothing
+		  (ADVP else)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP was
+       (NP (NP no lock
+	       (PP on
+		   (NP the door)))
+	   ,
+	   (NP (ADVP only)
+	       (NP an iron hook)
+	       (SBAR (WHNP which)
+		     (S
+		      (NP he)
+		      (VP unfastened
+			  (NP T) )))))))
+  .)    
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP opened
+	   (NP the door))
+       and
+       (VP went
+	   (ADVP in)))
+   ,
+   (S  (NP *)
+       (VP pulling
+	   (NP it)
+	   (ADJP shut)
+	   (PP behind
+	       (NP him)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Again)
+	 (S (NP he)
+	    (VP stood
+		(PP in
+		    (NP the darkness))
+		(S  (NP *) 
+		    (VP listening)))))
+      ,
+      but
+      (S (NP there)
+	 (VP was
+	     (NP (ADVP only)
+		 the scrape
+		 (PP of
+		     (NP a shod hoof))
+		 (PP on
+		     (NP a plank floor))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP moved
+	   (ADVP ahead)
+	   carefully
+	   ,
+	   (X (NP his left hand)
+	      (PP in
+		  (NP front
+		      (PP of
+			  (NP him)))))
+	   ,)
+       and
+       (VP came
+	   (PP to
+	       (NP a wooden partition)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Horse smell)
+      (VP was
+	  (ADJP  very
+		 strong)))
+     ,
+     and
+     (S (NP he)
+	(AUX could)
+	(VP hear
+	    (NP the crunch
+		(PP of
+		    (S (NP grain)
+		       (VP being
+			   (VP ground
+			       (PP between
+				   (NP strong jaws))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP found
+	    (NP a match)
+	    (PP in
+		(NP his pocket)))
+	and
+	(VP lit
+	    (NP it))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP were
+       (NP (NP two horses
+	       (PP in
+		   (NP the barn)))
+	   ,
+	   (NP (NP a sway-backed dun)
+	       and
+	       (NP (NP Jess Crouch)
+		   's buckskin)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (VP snuffed
+       (ADVP out)
+       (NP the match)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It
+	   (SBAR-3 *pseudo-attach*))
+       (VP was
+	   (ADJP certain))
+       (ADVP now)
+       (SBAR-3 that
+	       (S (NP Jess)
+		  (VP was
+		      (PP in
+			  (NP the house))))))
+    ,
+    but
+    (SINV   (ADVP also)
+	    ,
+	    (ADVP presumably)
+	    ,
+	    (VP was)
+	    (NP Stacey Black)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP wanted
+	(S (NP *)
+	   (AUX to)
+	   (VP get
+	       (NP Jess)
+	       (ADJP alone)
+	       ,
+	       (PP without
+		   (NP interference
+		       (PP from
+			   (NP (NP anyone)
+			       ,
+			       (NP (ADVP even)
+				   (ADJP  as
+					  spineless)
+				   a person
+				   (PP as
+				       (NP the store owner)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP studied
+	    (NP the problem)
+	    (PP for
+		(NP a few seconds)))
+	and
+	(VP thought
+	    (PP of
+		(NP (NP a means)
+		    (SBAR (WHPP by
+				(WHNP which))
+			  (S
+			   (NP it)
+			   (AUX might)
+			   (VP be
+			       (VP solved
+				   )))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Reaching
+	   (PP across
+	       (NP the side
+		   (PP of
+		       (NP the stall))))))
+    ,
+    (S (NP he)
+       (VP slapped
+	   (NP the buckskin)
+	   (PP on
+	       (NP the rump)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The startled animal)
+    (VP (VP let
+	    (PRT out)
+	    (NP a terrified squeal))
+	and
+	(VP thrashed
+	    (ADVP around)
+	    (PP in
+		(NP the stall)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP Curt)
+	   (AUX had)
+	   (VP hoped)))
+    ,
+    (S (NP the house door)
+       (VP banged
+	   (ADJP open))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP slapped
+	  (NP the buckskin)
+	  (ADVP again)))
+     and
+     (S (NP it)
+	(VP kicked
+	    (ADVP wildly)
+	    ,
+	    (S (NP its hoofs)
+	       (VP rattling
+		   (NP the side
+		       (PP of
+			   (NP the stall))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (VP (VP moved
+	   (ADVP over)
+	   (PP beside
+	       (NP the door)))
+       and
+       (VP waited)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Presently)
+      (S (NP he)
+	 (VP heard
+	     (NP  (NP (S (NP footsteps)
+			 (VP crossing
+			     (NP the yard))))
+		  ,
+		  and
+		  (NP (NP Jess)
+		      's smothered curses)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The door)
+       (VP swung
+	   (ADJP open)))
+    ,
+    and
+    (S (NP Jess)
+       (VP said
+	   (ADVP sourly)
+	   ,
+	   ``
+	   (SBAR (WHNP  What
+			(X (NP the hell)))
+		  (S  (NP T)
+		      (VP 's
+			  (NP the matter)
+			  (PP with
+			      (NP you))))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ''
+ (S (NP The horse)
+     (VP continued
+	 (S (NP *)
+	    (AUX to)
+	    (VP snort))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP doubted
+	(SBAR that
+	      (S (NP (NP any animal)
+		     (VP belonging
+			 (PP to
+			     (NP Jess))))
+		 (AUX would)
+		 (VP find
+		     (NP much reassurance)
+		     (PP in
+			 (NP (NP its owner)
+			     's voice)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Jess)
+    (VP (VP cursed
+	    (ADVP again))
+	,
+	and
+	(VP entered
+	    (NP the barn))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP A match)
+       (VP flared))
+    ,
+    and
+    (S (NP he)
+       (VP reached
+	   (PP above
+	       (NP his head)))
+       (S (NP *)
+	  (AUX to)
+	  (VP light
+	      (NP (NP a lantern)
+		  (SBAR (WHNP which)
+			(S (NP T)
+			   (VP hung
+			       (PP from
+				   (NP a wire loop))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP he)
+	   (VP crossed
+	       (PP to
+		   (NP the side
+		       (PP of
+			   (NP the stall)))))))
+    ,
+    (S (NP Curt)
+       (VP (VP drew
+	       (NP his gun))
+	   and
+	   (VP clicked
+	       (ADVP back)
+	       (NP the hammer)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+     (PP Before
+	 (S (NP you)
+	    (VP try
+		(NP anything))))
+     ''
+     ,
+     (S (NP he)
+	(VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+ (S (NP *) 
+    (VP Remember
+	(SBAR (WHNP what)
+	      (S (NP T)
+		 (VP happened
+		     (PP to
+			 (NP Gruller)))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP caught
+       (NP his breath)
+       (PP in
+	   (NP surprise))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP started
+	    (S (NP *)
+	       (AUX to)
+	       (VP reach
+		   (PP for
+		       (NP his gun)))))
+	,
+	but
+	(ADVP apparently)
+	(VP thought
+	    (ADVP better)
+	    (PP of
+		(NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+    (S (NP That)
+       (VP 's
+	   (NP the stuff)))
+    ''
+    ,
+    (S (NP Curt)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+ (S (NP *)
+    (ADVP  Just)
+    (VP hold
+	(NP it)
+	(NP  that
+	     way)))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP reached
+	(ADVP out)
+	(S (NP *)
+	   (AUX to)
+	   (VP (VP pull
+		   (NP the door)
+		   (ADJP shut))
+	       and
+	       (VP fasten
+		   (NP it)
+		   (PP with
+		       (NP a   sliding bolt)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP (NP You)
+	and
+	(NP I))
+    (VP have
+	(NP (NP  a
+		 little
+		 talking)
+	    (S (NP *)
+	       (AUX to)
+	       (VP do
+		   (NP T) ))))
+    ,
+    (NP Jess))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (AUX wo)
+   (NEG n't)
+   (VP be
+       (VP needing
+	   (NP this))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP (VP moved
+	    (PRT up))
+	and
+	(VP lifted
+	    (NP (NP Jess)
+		's pistol)
+	    (PP out
+		(PP of
+		    (NP its holster))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP *) 
+       (VP Damn
+	   (NP you))
+       ,
+       (NP Adams))
+    ''
+    --
+    (S (NP Jess)
+       (AUX was)
+       (VP beginning
+	   (S (NP *)
+	      (AUX to)
+	      (VP recover
+		  (PP from
+		      (NP his initial shock)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP We)
+     (AUX ai)
+     (NEG n't)
+     (VP got
+	 (NP (NP nothing)
+	     (S (NP *)
+		(AUX to)
+		(VP talk
+		    (PP about
+			(NP T) ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (SBAR If
+	  (S (NP I)
+	     (AUX do)
+	     (NEG n't)
+	     (VP come
+		 (ADVP back)
+		 (PP in
+		     (NP the house)))))
+    ,
+    (S (NP Breed)
+       (AUX 's)
+       (VP going
+	   (S  (NP *) 
+	       (AUX to) 
+	       (VP *) ))))
+ ''
+ --)
+(  
+ ``
+ (S (NP Your trigger-happy brother)
+    (VP is
+	(NEG n't)
+	(PP in
+	    (NP the house))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (ADVP  About
+	   now)
+    (S (NP he)
+       (AUX 's)
+       (ADVP probably)
+       (VP having
+	   (NP supper))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP  That
+	     long
+	     ride)
+	(SBAR 0
+	      (S (NP the four
+		     (PP of
+			 (NP you)))
+		 (VP took
+		     (NP T) ))))
+    (AUX must)
+    (AUX 've)
+    (VP given
+	(NP him)
+	(NP a good appetite)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S  (NP *) 
+	  (VP turn
+	      (ADVP around))
+	  (SBAR so
+		(S (NP I)
+		   (AUX can)
+		   (VP see
+		       (NP your face))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP turned))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP There)
+      (VP was
+	  (NP raw fury)
+	  (PP in
+	      (NP his eyes))))
+     ,
+     and
+     (S (NP the veins
+	    (PP of
+		(NP his neck)))
+	(AUX were)
+	(VP swollen
+	    )))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP You)
+    (VP 're
+	(ADJP   (ADVP about)
+		as
+		dumb
+		(PP as
+		    (S (NP they)
+		       (VP come)))))
+    ,
+    (NP Adams))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S 
+  (NP I)
+  (AUX do)
+  (NEG n't)
+  (VP know
+      (SBAR (WHNP what)
+	    (S
+	     (NP you)
+	     (VP 're
+		 (PP up
+		     (PP to
+			 (NP T) ))))))
+  ,
+  but
+  (X (SBAR (WHADVP when)
+	   (S (NP Brenner)))))
+ ''
+ --)
+( (S  ``
+      (S (NP You)
+	 (AUX can)
+	 (VP forget
+	     (PP about
+		 (NP (NP Brenner)
+		     ,
+		     (ADVP too)))))
+      ''
+      ,
+      (S (NP Curt)
+	 (VP said)))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP It)
+    (VP 's
+	(NP (NP Ben Arbuckle)
+	    (SBAR 0
+		  (S (NP we)
+		     (AUX 're)
+		     (VP going
+			 (S (NP *)
+			    (AUX to)
+			    (VP talk
+				(PP about
+				    (NP T) )))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (NP Arbuckle)
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP stiffened))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP I)
+    (AUX do)
+    (NEG n't)
+    (VP know
+	(NP nothin
+	    '
+	    (PP about
+		(NP him)))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+  ``
+ (INTJ No)
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP I)
+    (VP suppose
+	(SBAR 0
+	      (S (NP you)
+		 (AUX do)
+		 (NEG n't)
+		 (VP know
+		     (NP anything
+			 (PP about
+			     (NP (NP a piece
+				     (PP of
+					 (NP two-by-four)))
+				 ,
+				 (ADVP either)
+				 ;
+				 ;
+				 (NP one
+				     (PP with
+					 (X (NP blood)
+					    (PP  (X all)
+						 over
+						 (NP it))
+					    ,
+					    (NP (NP Arbuckle)
+						's blood))))))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Curt)
+       's fingers)
+   (VP put
+       (NP (ADJP (NP a
+		     little)
+		 more)
+	   pressure)
+       (PP on
+	   (NP the trigger
+	       (PP of
+		   (NP his gun))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(``
+ (S (S (S (NP *) 
+	  (VP (ADVP So)
+	      help
+	      (NP me))
+	  ,
+	  (NP Crouch))
+       ,
+       (S (S (NP I)
+	     (AUX 'd)
+	     (VP like
+		 (S (NP *)
+		    (AUX to)
+		    (VP kill
+			(NP you))
+		    (SBAR (WHADVP where)
+			  (S (NP you)
+			     (VP stand)))))))
+       ,)
+    but
+    ,
+    (S (PP before
+	   (S (NP I)
+	      (AUX do)
+	      (VP *) ))
+       ,
+       (S (NP I)
+	  (AUX 'm)
+	  (VP going
+	      (S (NP *)
+		 (AUX to)
+		 (VP hear
+		     (NP you)
+		     (VP admit
+			 (S  (NP *) 
+			     (VP killing
+				 (NP him))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S  (NP *) 
+	  (VP start
+	      (S  (NP *)
+		  (VP talking)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP Who)
+  (SQ  (NP T)
+       (VP told
+	   (NP you)
+	   (S (NP *)
+	      (AUX to)
+	      (VP do
+		  (NP it))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (SQ (VP Was)
+     (NP it)
+     (NP Dutch Brenner))
+ ''
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (AUX was)
+   (VP holding
+       (NP 
+	(NP Jess)
+	's gun)
+       (PP in
+	   (NP his left hand))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (X (VP drew
+	   (ADVP back)
+	   (NP his arm)
+	   (S (NP *)
+	      (AUX to)
+	      (VP slash
+		  (NP the gunbarrel)
+		  (PP across
+		      (NP (NP Jess)
+			  's face)))))
+       ,
+       but
+       (X (AUX did)
+	  (NEG n't)
+	  (VP finish
+	      (NP the motion)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP (S (NP *) 
+	       (VP  Pistol-whipping
+		    (NP an unarmed man))))
+	(AUX might)
+	(VP come
+	    (ADJP easy)
+	    (PP to
+		(NP someone
+		    (PP like
+			(NP Jess))))))
+     ,
+     but
+     (S (NP Curt)
+	(AUX could)
+	(NEG n't)
+	(VP bring
+	    (NP himself)
+	    (S (NP *)
+	       (AUX to)
+	       (VP do
+		   (NP it))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(   (S  (S (NP *)
+	   (ADVP Apparently)
+	   (VP (VP sensing
+		   (NP this))
+	       ,
+	       and
+	       (VP realizing
+		   (SBAR that
+			 (S (NP it)
+			    (VP gave
+				(NP him)
+				(NP an advantage)))))))
+	,
+	(S (NP Jess)
+	   (VP became
+	       (ADJP bold))))
+    .) 
+(  END_OF_TEXT_UNIT)
+(   ``
+    (S (S (NP (S  (NP *)
+		  (VP Having
+		      (NP all
+			  the guns))))
+	  (VP makes
+	      (NP you)
+	      (NP a big man)))
+       ,
+       (SQ  (AUX do)
+	    (NEG n't)
+	    (NP it)
+	    (VP *) 
+	    ,
+	    (NP Adams)))
+    ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (SBAR If
+	  (S (NP we)
+	     (VP was
+		 (X both)
+		 (ADJP armed))))
+    ,
+    (S (NP you)
+       (AUX would)
+       (NEG n't)
+       (VP talk
+	   (ADVP   so
+		   tough))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (INTJ No)
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (VP (VP reached
+	   (ADVP out))
+       and
+       (VP dropped
+	   (NP (NP Jess)
+	       's pistol)
+	   (ADVP back
+		 (PP into
+		     (NP the holster))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP retreated
+	   (NP a step))
+       and
+       (VP holstered
+	   (NP his
+	       own))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (ADJP  All
+	   right)
+    ,
+    (NP Crouch)
+     ;
+     ;
+    (S (NP we)
+       (VP 're
+	   (PP on
+	       (NP (ADJP even) terms)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Now)
+      (S   (NP *)  
+	   (VP draw)))
+   ''
+   !
+   !)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Sweat)
+   (VP bubbled
+       (PRT out)
+       (PP on
+	   (NP 
+	    (NP Jess)
+	    's swarthy face))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The fingers
+	   (PP of
+	       (NP his right hand)))
+       (VP twisted
+	   (PP into
+	       (NP a claw))))
+    ,
+    but
+    (S (NP he)
+       (AUX did)
+       (NEG n't)
+       (VP reach
+	   (PP for
+	       (NP the gun)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Curt)
+	,
+	(ADJP angry
+	      (ADVP enough
+		    (S (NP *)
+		       (AUX to)
+		       (VP be
+			   (ADJP (NP a
+				     little)
+				 reckless)))))
+	,)
+    (VP raised
+	(NP his hands)
+	(ADJP shoulder
+	      high)))
+ .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (SQ  (AUX Does)
+       (NP this)
+       (VP make
+	   (NP it)
+	   (ADJP  any
+		  easier))
+       ,
+       (NP coward))
+ ''
+ ?)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  ``
+    (S (NP I)
+       (AUX ai)
+       (NEG n't)
+       (VP drawin
+	   '
+	   (PP against
+	       (NP you))))
+    ''
+    ,
+    (S (NP Jess)
+       (VP said
+	   thickly)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP I)
+     (VP heard
+	 (SBAR 
+	  (WHADVP how)
+	  (S (NP you)
+	     (VP outdrew
+		 (NP Chico))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP ai
+       (NEG n't)
+       (NP a gunslinger)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (INTJ No)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP You)
+   (VP 're
+       (NP (NP the kind
+	       (PP of
+		   (NP bastard)))
+	   (SBAR  (WHNP who)
+		  (S (NP T)
+		     (VP (VP sneaks
+			     (PRT up)
+			     (PP on
+				 (NP a man))
+			     (PP from
+				 (NP behind)))
+			 and
+			 (VP hits
+			     (NP him)
+			     (PP with
+				 (NP a club)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (ADVP just)
+   (VP wanted
+       (S (NP *)
+	  (AUX to)
+	  (VP hear
+	      (NP you)
+	      (VP say
+		  (ADVP so))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Jess)
+    (VP (VP stared
+	    (PP at
+		(NP him))
+	    (PP without
+		(S  (NP *)
+		    (VP answering))))
+	and
+	(VP let
+	    (NP his hands)
+	    (VP fall
+		(PP to
+		    (NP his sides))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (AUX had)
+    (VP (VP found
+	    (NP (NP (NP Curt)
+		    's weakness)
+		,
+		or
+		(SBAR (WHNP what)
+		      (S (PP to
+			     (NP Jess))
+			 (S  (NP T) 
+			     (VP was
+				 (NP a weakness)))))))
+	,
+	and
+	(VP was
+	    (ADJP smart
+		  (ADVP enough
+			(S (NP *)
+			   (AUX to)
+			   (VP take
+			       (NP advantage
+				   (PP of
+				       (NP it))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Somewhere)
+      (PP in
+	  (NP the distance))
+      ,
+      (S (NP a woman)
+	 (VP screamed)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (AUX was)
+   (VP (ADVP too)
+       involved
+       (PP in
+	   (NP his own problems))
+       (S (NP *)
+	  (AUX to)
+	  (VP pay
+	      (NP much attention)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP He)
+      (VP had
+	  (S (NP *)
+	     (AUX to)
+	     (VP make
+		 (NP Jess)
+		 (VP talk)))))
+     ,
+     and
+     (S (NP he)
+	(VP had
+	    (S (NP *)
+	       (AUX to)
+	       (VP do
+		   (NP it))
+	       (PP before
+		   (S (NP Stacey Black)
+		      (VP (VP got
+			      (ADJP curious))
+			  and
+			  (VP came
+			      (S (NP *)
+				 (AUX to)
+				 (VP investigate))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Once
+	       more)
+	 (S (NP he)
+	    (VP lifted
+		(NP (NP Jess)
+		    's gun)
+		(PP from
+		    (NP its holster)))))
+      ,
+      (S (ADVP only)
+	 (NP this time)
+	 (S
+	  (NP he)
+	  (VP tossed
+	      (NP it)
+	      (PP into
+		  (NP the stall))
+	      (PP with
+		  (NP the frightened buckskin))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP dropped
+       (NP his
+	   own)
+       (PP beside
+	   (NP it))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP We)
+       (AUX 'll)
+       (VP do
+	   (NP it)
+	   (NP another way))
+       ,
+       (ADVP then))
+    ''
+    ,
+    (S (NP he)
+       (VP said
+	   harshly)))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S 
+   (NP (NP Jess)
+       's coarse features)
+   (VP twisted
+       (PP in
+	   (NP (NP a surprised grin)
+	       (SBAR (WHNP which)
+		     (S (NP T)
+			(AUX was)
+			(VP smashed
+			     
+			    (PP out
+				(PP of
+				    (NP shape)))
+			    (PP by
+				(NP 
+				 (NP Curt)
+				 's fist)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP With
+	(NP a roar
+	    (PP of
+		(NP (NP pain)
+		    and 
+		    (NP fury)))))
+    (S (NP Jess)
+       (VP made
+	   (NP his attack))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP (VP managed
+	    (S (NP *)
+	       (AUX to)
+	       (VP duck
+		   (PP beneath
+		       (NP 
+			(NP the man)
+			's  flailing fist)))))
+	,
+	and
+	(VP drove
+	    (ADVP home)
+	    (NP a solid
+		left
+		(PP to
+		    (NP 
+		     (NP Jess)
+		     's mid-section))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP was
+       (PP like
+	   (S  (NP *) 
+	       (VP hitting
+		   (NP a sack
+		       (PP of
+			   (NP salt))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Pain)
+       (VP shot
+	   (PP up
+	       (NP (NP Curt)
+		   's arm))
+	   (PP  (ADVP clear)
+		to
+		(NP the shoulder))))
+    ,
+    but
+    (S (NP Jess)
+       (VP seemed
+	   (ADJP  hardly
+		  aware
+		  (SBAR that
+			(S (NP he)
+			   (AUX had)
+			   (VP been
+			       (VP hit
+				   ))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP slammed
+	    (PP into
+		(NP the wall)))
+	,
+	(VP bounced
+	    (ADVP back))
+	,
+	and
+	(VP caught
+	    (NP Curt)
+	    (PP with
+		(NP (NP a roundhouse right)
+		    (SBAR (WHNP which)
+			  (S (NP T)
+			     (VP sent
+				 (NP him)
+				 (S  (NP *) 
+				     (VP spinning))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (ADJP (NP An inch)
+	  lower)
+    and
+    (S (NP it)
+       (AUX would)
+       (VP have
+	   (VP knocked
+	       (NP him)
+	       (ADVP out)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP As
+	(S (NP it)
+	   (VP was)))
+    ,
+    (S (S (NP his vision)
+	  (VP blurred))
+       and
+       (S (PP for
+	      (NP a moment))
+	  (S
+	   (NP he)
+	   (VP was
+	       (ADJP unable
+		     (S (NP *)
+			(AUX to)
+			(VP move))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP his eyes)
+	 (VP began
+	     (S (NP *)
+		(AUX to)
+		(VP focus)))))
+     ,
+     (S (NP he)
+	(VP saw
+	    (NP Jess)
+	    (S  (NP *)
+		(VP charging
+		    (PP at
+			(NP him))
+		    (PP with
+			(NP a pitchfork)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Curt)
+      (VP twisted
+	  (PP to
+	      (NP one side))))
+     ,
+     and
+     (S (NP the tines
+	    (PP of
+		(NP the fork)))
+	(VP bit
+	    (PP into
+		(NP the floor)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Jess)
+    (VP wasted
+	(NP a few seconds)
+	(S  (NP *) 
+	    (VP trying
+		(S (NP *)
+		   (AUX to)
+		   (VP yank
+		       (NP them)
+		       (ADJP loose)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP gave
+       (NP Curt)
+       (NP (NP time)
+	   (S (NP *)
+	      (AUX to)
+	      (VP stagger
+		  (PP to
+		      (NP his feet)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The tines)
+      (VP broke
+	  (ADVP off)
+	  (PP under
+	      (NP (NP Jess)
+		  's twisting))))
+     ,
+     and
+     (S (NP he)
+	(VP swung
+	    (NP the handle)
+	    (PP in
+		(NP an attempt
+		    (S (NP *)
+		       (AUX to)
+		       (VP knock
+			   (NP 
+			    (NP Curt)
+			    's brains)
+			   (ADVP out))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP His aim)
+       (VP was
+	   (ADJP hurried)))
+    ;
+    ;
+    so
+    (S (NP the pitchfork)
+       (VP whistled
+	   (PP over
+	       (NP (NP Curt)
+		   's head)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (PP By
+	(NP now))
+    (S (NP Curt)
+       (AUX was)
+       (VP seeing
+	   (ADVP clearly)
+	   (ADVP again))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP stepped
+	   (PP inside
+	       (NP (NP Jess)
+		   's guard)))
+       and
+       (VP landed
+	   (NP two blows
+	       (PP to
+		   (NP 
+		    (NP the big man)
+		    's belly)))
+	   ,
+	   (S  (NP *) 
+	       (VP putting
+		   (NP (NP everything)
+		       (SBAR 0
+			     (S
+			      (NP he)
+			      (VP had
+				  (NP T)
+				  (PP behind
+				      (NP them)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP made
+       (NP Jess)
+       (VP double
+	   (PRT over))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP his head)
+	 (VP came
+	     (ADVP down))))
+     ,
+     (S (NP Curt)
+	(VP (VP grabbed
+		(NP him)
+		(PP by
+		    (NP the hair)))
+	    and
+	    (VP catapulted
+		(NP him)
+		(ADVP  head
+		       first)
+		(PP into
+		    (NP the wall))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The building)
+   (VP shook
+       ,
+       (S (NP *) 
+	  (VP  (VP setting
+		   (NP the lantern)
+		   (PP to
+		       (S  (NP *) 
+			   (VP swaying))))
+	       ,
+	       and
+	       (VP *
+		   (NP the buckskin)
+		   (PP to
+		       (S  (NP *)
+			   (VP pitching
+			       (ADVP again)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (ADVP Even)
+	   (NP Black)
+	   's old crowbait)
+	(VP began
+	    (S (NP *)
+	       (AUX to)
+	       (VP snort))))
+    ,
+    and
+    (S (PP from
+	   (NP the house))
+       (S (NP Black)
+	  (VP yelled
+	      ,
+	      ``
+	      (NP Jess)))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHNP What)
+	(S  (NP T) 
+	    (AUX 's)
+	    (VP going
+		(PRT on)
+		(PP out
+		    (ADVP there)))))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (AUX did)
+   (NEG n't)
+   (VP seem
+       (ADJP  too
+	      sure)
+       (NP himself)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP lurched
+	    (ADVP drunkenly)
+	    (PP to
+		(NP his feet)))
+	,
+	(VP lowered
+	    (NP his head))
+	,
+	and
+	(VP took
+	    (NP one step)
+	    (ADVP away
+		  (PP from
+		      (NP the wall))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP caught
+	(NP him)
+	(ADJP flush
+	      (PP on
+		  (NP the nose)))
+	(PP with
+	    (NP (NP a blow)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP started
+			     (PP at
+				 (NP the floor)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Jess)
+    (AUX had)
+    (VP had
+	(ADVP enough)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Blood)
+       (VP gushed
+	   (PP from
+	       (NP his nose))))
+    ,
+    and
+    (S (NP he)
+       (VP backed
+	   (PRT off)
+	   (ADVP  as
+		  rapidly
+		  (PP as
+		      (S (NP he)
+			 (AUX could)
+			 (VP *) )))
+	   ,
+	   (S  (NP *)
+	       (VP stumbling
+		   (PP over
+		       (NP his own feet))
+		   (PP in
+		       (NP (NP his frantic haste)
+			   (S (NP *)
+			      (AUX to)
+			      (VP get
+				  (ADVP away
+					(PP from
+					    (NP (NP Curt)
+						's fists))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Curt)
+      (VP was
+	  (PP in
+	      (NP (ADJP (ADVP almost)
+			as
+			bad)
+		  shape))))
+     ,
+     but
+     (S (NP he)
+	(AUX would)
+	(NEG n't)
+	(VP quit)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP He)
+    (VP (VP backed
+	    (NP Jess)
+	    (PP into
+		(NP a corner)))
+	,
+	(VP grabbed
+	    (NP a handful
+		(PP of
+		    (NP (NP the man)
+			's shirtfront))))
+	,
+	and
+	(VP drew
+	    (ADVP back)
+	    (NP his right fist))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP *) 
+    (VP Tell
+	(NP me)
+	(PP about
+	    (NP Arbuckle))))
+ !
+ !)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP You)
+       (VP killed
+	   (NP him)))
+    ,
+    (SQ  (AUX did)
+	 (NEG n't)
+	 (NP you)
+	 (VP *) ))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (S (NP It)
+	(VP was
+	    (NP (NP Brenner)
+		's idea)))
+     ''
+     ,
+     (S (NP Jess)
+	(VP mumbled)
+	,
+	(S  (NP *)
+	    (VP dabbing
+		(PP at
+		    (NP his nose))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP He)
+     (VP found
+	 (PRT out)
+	 (PP about
+	     (S (NP (NP you)
+		    and
+		    (NP Arbuckle))
+		(VP talking)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP He)
+    (VP wanted
+	(S (NP *)
+	   (AUX to)
+	   (VP show
+	       (NP the town)
+	       (SBAR (WHNP what)
+		     (S (NP T)
+			(VP happened
+			    (PP to
+				(NP (NP anyone)
+				    (SBAR (WHNP who)
+					  (S (NP T)
+					     (VP tried
+						 (S (NP *)
+						    (AUX to)
+						    (VP start
+							(NP trouble)))))))))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+((S  ``
+    (S (NP You)
+       (VP mean
+	   (NP (NP anyone)
+	       (SBAR (WHNP who)
+		     (S (NP T)
+			(VP stood
+			    (PRT up)
+			    (PP for
+				(NP his rights))))))))
+    ''
+    ,
+    (S (NP Curt)
+       (VP said)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP He)
+       (VP let
+	   (VP go
+	       (PP of
+		   (NP the shirt)))))
+    ,
+    and
+    (S (NP Jess)
+       (VP slumped
+	   (PP to
+	       (NP the floor)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Turning
+	   (NP his back)))
+    ,
+    (S (NP Curt)
+       (VP (VP crossed
+	       (PP to
+		   (NP the stall)))
+	   ,
+	   (VP reached
+	       (ADVP over)
+	       (S (NP *)
+		  (AUX to)
+		  (VP untie
+		      (NP (NP the buckskin)
+			  's halter rope))))
+	   ,
+	   and
+	   (VP waved
+	       (NP his hand)
+	       (PP in
+		   (NP (NP the animal)
+		       's face))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The buckskin)
+   (VP bolted
+       (PP out
+	   (PP of
+	       (NP the stall)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Curt)
+   (VP (VP moved
+	   (ADVP in))
+       and
+       (VP picked
+	   (PRT up)
+	   (NP his gun))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP shook
+	   (NP loose straw)
+	   (PP out
+	       (PP of
+		   (NP the action))))
+       ,
+       and
+       (VP placed
+	   (NP the gun)
+	   (PP in
+	       (NP his holster)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *)
+       (VP Leaving
+	   (NP Jess
+	       's)
+	   (SBAR 
+	    (WHADVP where)
+	    (S (NP it)
+	       (VP lay)))))
+    ,
+    (S (NP he)
+       (VP left
+	   (NP the stall))))
+ .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP *) 
+     (VP Get
+	 (PRT up))
+     ,
+     (NP Crouch))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX 're)
+   (VP going
+       (NP someplace)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP (ADVP painfully)
+       got
+       (PP to
+	   (NP his feet)))
+   (PP as
+       (S (NP someone)
+	  (VP rattled
+	      (NP the door)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (SBAR (WHNP Who)
+       (S  (NP T) 
+	   (VP 's
+	       (PP in
+		   (NP there)))))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Black)
+   (VP called
+       (ADVP fearfully)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Curt)
+    (VP (VP opened
+	    (NP the door))
+	,
+	(VP grabbed
+	    (NP Black)
+	    (PP by
+		(NP the shoulder)))
+	,
+	and
+	(VP pulled
+	    (NP him)
+	    (PP into
+		(NP the barn)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP You)
+    (AUX 're)
+    (VP staying
+	(ADVP right
+	      here)
+	(PP for
+	    (NP a while))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This dirty coward)
+    (ADVP just)
+    (VP admitted
+	(S (NP *)  
+	   (VP killing
+	       (NP Arbuckle)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP I)
+    (AUX 'm)
+    (VP going
+	(S (NP *)
+	   (AUX to)
+	   (VP let
+	       (NP him)
+	       (VP tell
+		   (NP it)
+		   (PP to
+		       (NP somebody
+			   (ADJP else))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP (VP shoved
+	   (NP Black)
+	   (PP toward
+	       (NP the stall)))
+       ,
+       and
+       (VP pointed
+	   (NP his pistol)
+	   (PP at
+	       (NP Jess)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (NP *) 
+     (VP Get
+	 (PP out
+	     (PP of
+		 (NP here)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP You)
+       (AUX 're)
+       (VP coming
+	   (ADVP along)
+	   (ADVP peacefully)))
+    ,
+    or
+    (S (NP I)
+       (AUX 'll)
+       (VP put
+	   (NP a bullet)
+	   (PP in
+	       (NP your leg)))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP stumbled
+       (PP through
+	   (NP the door))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Curt)
+    (VP followed
+	,
+	(S  (NP *) 
+	    (VP reaching
+		(PP behind
+		    (NP him)))
+	    (S (NP *)
+	       (AUX to)
+	       (VP (VP shut
+		       (NP the door))
+		   and
+		   (VP hook
+		       (NP it)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Black)
+       (AUX would)
+       (VP have
+	   (NP little trouble)
+	   (S  (NP *)
+	       (VP getting
+		   (ADVP out)))))
+    ,
+    but
+    (S (NP it)
+       (AUX might)
+       (VP delay
+	   (NP him)
+	   (NP a few minutes))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( ``
+  (SBARQ (WHADVP Where)
+	 (SQ  (AUX 're)
+	      (NP you)
+	      (VP takin
+		  '
+		  (NP me))))
+  ''
+  ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Jess)
+   (VP asked
+       (ADVP worriedly)))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ ``
+ (S (NP We)
+    (AUX 're)
+    (VP going
+	(PP to
+	    (NP (NP Marshal Woods)
+		's house))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Maybe)
+      (SBAR if
+	    (S (NP the marshal)
+	       (VP hears
+		   (NP this)
+		   (NP himself))))
+      ,
+      (S (NP it)
+	 (AUX 'll)
+	 (VP make
+	     (NP a difference))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Somebody
+       (PP in
+	   (NP this town)))
+   (AUX must)
+   (ADVP still)
+   (VP have
+       (NP some backbone)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

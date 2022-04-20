@@ -1,0 +1,2460 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Copernicus)
+      (AUX did)
+      (NEG not)
+      (VP question
+	  (NP it)))
+     ,
+     (S (NP Ptolemy)
+	(AUX could)
+	(NEG not)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SQ  (NP *)
+      (VP Given
+	  (NP (NP the conceptual context)
+	      (SBAR (WHPP within
+			  (WHNP which))
+		    (S (NP ancient thought)
+		       (VP thrived)))))
+      ,
+      (SBARQ (WHADVP how)
+	     (SQ (AUX could)
+		 (VP anyone)
+		 (VP have
+		     (VP questioned
+			 (NP this principle))))))
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The reasons
+       (PP for
+	   (NP this)))
+   (VP are
+       (X (ADJP (ADJP  (ADVP partly)
+		       observational)
+		,
+		(ADJP  (ADVP partly)
+		       philosophical))
+	  ,
+	  and
+	  (VP reinforced
+	      (PP by
+		  (NP 
+		   (ADJP other aesthetic and cultural)
+		   factors))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (NP (ADVP First)
+      ,
+      (NP the observational reasons))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       obvious natural
+       fact
+       (PP to
+	   (NP ancient thinkers)))
+   (VP was
+       (NP the diurnal rotation
+	   (PP of
+	       (NP the heavens)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (CONJP Not
+	    only)
+     (SINV  (AUX did)
+	    (NP constellations
+		(PP like
+		    (NP (NP Draco)
+			,
+			(NP Cepheus)
+			,
+			and
+			(NP Cassiopeia))))
+	    (VP spin
+		(NP circles)
+		(PP around
+		    (NP the pole))))
+     ,
+     but
+     (S (NP (NP stars)
+	    (SBAR (WHNP which)
+		  (S (NP T)
+		     (VP were
+			 (NEG not)
+			 (ADJP circumpolar)))))
+	(VP rose
+	    and
+	    set
+	    (PP at
+		(NP the same place
+		    (PP on
+			(NP the horizon)))))
+	(NP each night)))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV Nor
+	 (AUX did)
+	 (NP 
+	  (NP a constellation)
+	  's stars)
+	 (VP vary
+	     (PP in
+		 (NP brightness)))
+	 (PP during
+	     (NP the course
+		 (PP of
+		     (NP their nocturnal flights)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP (NP The conclusion)
+     --
+     (S (S (NP the distances
+	       (PP of
+		   (NP the constellations)))
+	   (AUX did)
+	   (NEG not)
+	   (VP vary))
+	and
+	(S (NP their paths)
+	   (VP were
+	       (ADJP circular)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Moreover)
+	 ,
+	 (S (NP
+	     (NP the sun)
+	     's path
+	     (PP over
+		 (NP earth)))
+	    (VP described
+		(NP a segment
+		    (PP of
+			(NP a great circle))))))
+      ;
+      ;
+      (S (NP this)
+	 (VP was
+	     (ADJP clear))
+	 (PP from
+	     (NP the contour
+		 (PP of
+		     (NP (NP the shadow)
+			 (VP traced
+			     (PP by
+				 (NP a gnomon))
+			     (PP before and after
+				 (NP noon)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP As
+	    early
+	    (PP as
+		(NP the 6th century B.C.)))
+      (S (NP the earth)
+	 (AUX was)
+	 (VP seen
+	      
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (ADJP spherical))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Ships)
+      (VP disappear
+	  (ADVP hull-first)
+	  (PP over
+	      (NP the horizon))))
+     ;
+     ;
+     (S (S  (NP *) 
+	    (VP approaching
+		(ADJP shore)))
+	(S (NP their masts)
+	   (VP appeared)
+	   (ADVP first))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (S (NP (NP Earth)
+	   ,
+	   (VP being
+	       (PP at
+		   (NP the center
+		       (PP of
+			   (NP the universe)))))
+	   ,)
+       (AUX would)
+       (VP have
+	   (NP the same shape
+	       (PP as
+		   (NP the latter)))))
+    ;
+    ;
+    (SINV  (ADVP so)
+	   ,
+	   e.g.
+	   (AUX did)
+	   (NP Aristotle)
+	   (VP argue)
+	   ,
+	   (SBAR although
+		 (S (NP this)
+		    (AUX may)
+		    (NEG not)
+		    (VP be
+			(NP an observational reason
+			    (PP in
+				(NP favor
+				    (PP of
+					(NP circularity))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The discoid shapes
+       (PP of
+	   (NP sun and moon)))
+   (AUX were)
+   (ADVP also)
+   (VP felt
+        
+       (S (NP *)
+	  (AUX to)
+	  (VP indicate
+	      (NP the shape
+		  (PP of
+		      (NP celestial things)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP light
+	    (PP of
+		(NP all
+		    this))))
+    ,
+    (S (NP one)
+       (AUX would)
+       (VP require
+	   (NP special reasons
+	       (PP for
+		   (S  (NP *)
+		       (VP saying
+			   (SBAR that
+				 (S (NP the paths
+					(PP of
+					    (NP the heavenly bodies)))
+				    (VP were
+					(ADJP other
+					      (PP than
+						  (ADJP circular)))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ (WHADVP Why)
+	,
+	(PP for
+	    (NP example))
+	,
+	(SQ  (AUX should)
+	     (NP the ancients)
+	     (AUX have)
+	     (VP supposed
+		 (NP the diurnal rotation
+		     (PP of
+			 (NP the heavens)))
+		 (S (NP *)
+		    (AUX to)
+		    (VP be
+			(ADJP elliptical))))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Or
+      (ADJP oviform))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (X Or
+      (ADJP angular))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP were
+       (NP no reasons))
+   (PP for
+       (NP such suppositions))
+   (ADVP then))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP This)
+	,
+	(VP conjoined
+	    (PP with
+		(NP (NP the considerations)
+		    (ADJP above)))))
+    ,
+    (VP made
+	(NP the circular motions
+	    (PP of
+		(NP heavenly bodies)))
+	(VP appear
+	    (NP an
+		(ADJP  (ADVP almost
+			     directly)
+		       observed)
+		fact))))
+ .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP 
+	 (ADJP Additional)
+	 (ADJP  philosophical)
+	 considerations)
+	,
+	(VP advanced
+	    (ADVP notably)
+	    (PP by
+		(NP Aristotle)))
+	,)
+    (VP supported
+	(ADVP further)
+	(NP the circularity principle)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP By
+	(S (S  (NP *)
+	       (VP distinguishing
+        
+		   (NP (ADJP superlunary)
+		       *LRB*
+		       celestial
+		       *RRB*
+		       and
+		       (ADJP sublunary)
+		       *LRB*
+		       terrestrial
+		       *RRB*
+		       existence)))
+	   ,
+	   and
+	   (S  (NP *) 
+	       (VP reinforcing
+		   (NP this)
+		   (PP with
+		       (NP the four-element physics
+			   (PP of
+			       (NP Empedocles))))))))
+    ,
+    (S (NP Aristotle)
+       (VP came
+	   (S (NP *)
+	      (AUX to)
+	      (VP speak
+		  (PP of
+		      (NP the stars))
+		  (PP as
+		      (NP (NP perfect bodies)
+			  ,
+			  (SBAR 
+			   (WHNP which)
+			   (S (NP T)
+			      (VP moved
+				  (PP (PP in
+					  (NP  (ADVP only)
+					       a perfect way))
+				      ,
+				      (X (NP viz.)
+					 (PP in
+					     (NP a perfect circle))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (SQ (ADVP Now)
+       (SBARQ 
+	(WHNP what)
+	(S (NP T)
+	   (VP is
+	       (NP perfect motion)))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX must)
+   ,
+   (ADVP apparently)
+   ,
+   (VP be
+       (NP motion
+	   (PP without
+	       (NP termini)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SBAR  Because
+	 (S (NP (NP motion)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP begins
+			     and
+			     ends
+			     (PP at
+				 (NP discrete places))))))
+	    (AUX would)
+	    *LRB*
+	    (PP  e.g.
+		 (PP for
+		     (NP Aristotle)))
+	    *RRB*
+	    (VP be
+		(ADJP incomplete))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Circular motion)
+    ,
+    (ADVP however)
+    ,
+    (SBAR since
+	  (S (NP it)
+	     (VP is
+		 (ADJP eternal and
+		       (ADVP perfectly)
+		       continuous))))
+    ,
+    (VP lacks
+	(NP termini)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADVP never)
+       (NP motion
+	   (PP towards
+	       (NP something)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Only)
+	 (ADJP imcomplete
+	       ,
+	       imperfect)
+	 things)
+    (VP move
+	(PP  towards
+	     (SBAR (WHNP what)
+		   (S
+		    (NP they)
+		    (VP lack
+			(NP T) ))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP 
+     (ADJP Perfect
+	   ,
+	   complete)
+     entities)
+    ,
+    (SBAR if
+	  (S (NP they)
+	     (VP move)
+	     (PP at
+		 (NP all))))
+    ,
+    (AUX do)
+    (NEG not)
+    (VP move
+	(PP  towards
+	     (SBAR (WHNP what)
+		   (S
+		    (NP they)
+		    (VP lack
+			(NP T) ))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP They)
+    (VP move
+	(PP  (ADVP only)
+	     in
+	     (NP accordance
+		 (PP with
+		     (SBAR (WHNP what)
+			   (S  (NP T) 
+			       (VP is
+				   (PP in
+				       (NP their natures))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP circular motion)
+	 (VP is
+	     (NP itself)
+	     (NP one
+		 (PP of
+		     (NP the essential characteristics
+			 (PP of
+			     (NP 
+			      (ADJP  (ADVP completely)
+				     perfect)
+			      (ADJP celestial)
+			      existence))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP return
+	    (ADVP now)
+	    (PP to
+		(NP the four-element physics))))
+     ,
+     (S (NP a mixture
+	    (PP of
+		(NP 
+		 (ADJP muddy
+		       ,
+		       frothy)
+		 water)))
+	(AUX will)
+	,
+	(SBAR (WHADVP when)
+	      (S (NP *)
+		 (VP standing
+		     (PP in
+			 (NP a jar)))))
+	,
+	(VP separate
+	    (ADVP out)
+	    (PP with
+		(NP (NP earth
+			(PP at
+			    (NP the bottom)))
+		    ,
+		    (NP water
+			(PP on
+			    (NP top)))
+		    ,
+		    and
+		    (NP the air
+			(PP on
+			    (NP top
+				(PP of
+				    (NP that))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A candle)
+       (ADJP alight
+	     (PP in
+		 (NP the air))))
+   (VP directs
+       (NP its flame and smoke)
+       (ADVP upwards)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP gives
+       (NP a clue)
+       (PP to
+	   (NP the cosmical order
+	       (PP of
+		   (NP elements))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      (S (NP earth)
+	 (AUX has)
+	 (VP fallen
+	     (PP to
+		 (NP the center
+		     (PP of
+			 (NP the universe)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (AUX is)
+       (VP covered
+	   *LRB*
+	   (ADVP partly)
+	   *RRB*
+	   (PP with
+	       (NP water))))
+    ,
+    (S (NP air)
+       (VP is
+	   (PP atop
+	       (PP of
+		   (NP that))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (NP (NP Pure fire)
+	 *LRB*
+	 (NP the stars)
+	 *RRB*)
+     (VP is
+	 (PP in
+	     (NP the heavens))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S  (NP *) 
+	      (VP combined
+		  (PP with
+		      (NP the metaphysical notion
+			  (SBAR that
+				(S (NP pure forms
+				       (PP of
+					   (NP this universe)))
+				   (AUX are)
+				   (VP  (ADVP best)
+					appreciated)
+				   (SBAR (WHADVP when
+						 (S (NP *)
+						    (VP  (ADVP least)
+							 embodied
+							 (PP in
+							     (NP a material substratum)))))))))))))
+    ,
+    (S (NP it)
+       (VP becomes
+	   (ADJP clear
+		 (SBAR that
+		       (S (SBAR while
+				(S (NP earth)
+				   (AUX will)
+				   (VP be
+				       (NP dross))
+				   (PP on
+				       (NP a scale
+					   (PP of
+					       (NP material-formal ratios))))))
+			  ,
+			  (S (S (NP celestial bodies)
+				(AUX will)
+				(VP be
+				    (PP of
+					(NP (NP a
+						(ADJP subtle)
+						,
+						(VP quickened)
+						,
+						ethereal existence)
+					    ,
+					    (SBAR (WHPP in
+							(WHNP whose
+							      embodiment))
+						  (S (NP pure form)
+						     (AUX will)
+						     (VP be
+							 (NP the dominant
+							     component))))))))
+			     and
+			     (S (NP   matter)
+				(AUX will)
+				(VP (VP be
+					(ADJP absent))
+				    or
+				    (VP remain
+					(ADJP subsidiary)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The stars)
+   (VP constitute
+       (NP an order
+	   (PP of
+	       (NP (NP existence)
+		   (ADJP different
+			 (WHPP from
+			       (SBAR (WHNP what)
+				     (S
+				      (NP we)
+				      (VP encounter
+					  (NP T)
+					  (PP on
+					      (NP earth))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP clear))
+   (SBAR 
+    (WHADVP when)
+    (S (NP one)
+       (VP distinguishes
+	   (NP (NP the types
+		   (PP of
+		       (NP motion)))
+	       (ADJP appropriate
+		     (PP to
+			 (NP both
+			     regions))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A projectile)
+       (VP shot
+	   (ADVP up)
+	   (PP from
+	       (NP earth))))
+   (VP returns
+       (ADVP rectlinearly)
+       (PP to
+	   (NP its
+	       '
+	       natural
+	       '
+	       place
+	       (PP of
+		   (NP rest))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP the natural condition)
+	 (PP for
+	     (NP the heavenly bodies))
+	 (VP is
+	     (NP neither
+		 (NP rest)
+		 ,
+		 nor
+		 (NP rectilinear motion)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Being
+	      (VP  (ADVP less)
+		   encumbered
+		   (PP by
+		       (NP material embodiments)))))
+      (S (NP they)
+	 (VP partake
+	     (ADVP more
+		   (PP  of
+			(SBAR (WHNP what)
+			      (S  (NP T) 
+				  (VP is
+				      (ADJP divine)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Their motion)
+   (AUX will)
+   (VP be
+       (ADJP eternal and perfect)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP *)
+     (VP Let
+	 (NP us)
+	 (VP re-examine
+	     (NP the publicized contrasts
+		 (PP between
+		     (NP Ptolemaic
+			 and
+			 Copernican astronomy))))))
+  .)  
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Bluntly)
+      ,
+      (S (NP there)
+	 (ADVP never)
+	 (VP was
+	     (NP a Ptolemaic system
+		 (PP of
+		     (NP astronomy))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Copernicus)
+    ' achievement)
+   (VP was
+       (S (NP *)
+	  (AUX to)
+	  (VP have
+	      (VP invented
+		  (NP systematic astronomy))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The Almagest)
+	and
+	(NP The Hypotheses))
+    (VP outline
+	(NP 
+	 (NP Ptolemy)
+	 's conception
+	 (PP of
+	     (NP his own task))
+	 (PP as
+	     (NP the provision
+		 (PP of
+		     (NP (NP computational tables)
+			 ,
+			 (NP independent calculating devices
+			     (PP for
+				 (NP the prediction
+				     (PP of
+					 (NP 
+					  (ADJP future)
+					  (ADJP  planetary)
+					  perturbations))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Indeed)
+      ,
+      (PP in
+	  (NP the Halma edition
+	      (PP of
+		  (NP 
+		   (NP Theon)
+		   's presentation
+		   (PP of
+		       (NP The Hypotheses))))))
+      (S (NP there)
+	 (VP is
+	     (NP (NP a chart)
+		 (VP setting
+		     (PRT out)
+		     *LRB*
+		     (PP under
+			 (NP six distinct headings))
+		     *RRB*
+		     (NP (ADJP  (ADVP otherwise)
+				unrelated) diagrams
+				(PP for
+				    (S  (NP *)
+					(VP describing
+					    (NP the planetary motions))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP No attempt)
+    (AUX is)
+    (VP made
+		 
+	(PP by
+	    (NP Ptolemy))
+	(S (NP *)
+	   (AUX to)
+	   (VP weld
+	       (PP into
+		   (NP a single scheme))
+	       *LRB*
+	       (ADVP a-la-Aristotle)
+	       *RRB*
+	       ,
+	       (NP these independent predicting-machines)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+( (S (S (NP (NP They)
+	    (NP all))
+	(VP have
+	    (NP this)
+	    (PP in
+		(ADJP common))))
+     :
+     (S (NP the earth)
+	(AUX is)
+	(VP situated
+	     
+	    (PP near
+		(NP the center
+		    (PP of
+			(NP the deferent)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (SBAR that
+	    (S (NP one)
+	       (AUX should)
+	       (VP (VP superimpose
+		       (NP all
+			   these charts))
+		   ,
+		   (VP run
+		       (NP a pin)
+		       (PP through
+			   (NP the common point)))
+		   ,
+		   and
+		   (ADVP then)
+		   (VP scale
+		       (NP each planetary deferent)
+		       (ADJP (ADJP larger)
+			     and
+			     (ADJP smaller))
+		       *LRB*
+		       (S (NP *)
+			  (AUX to)
+			  (VP keep
+			      (NP the epicycles)
+			      (PP from
+				  (S (NP *)
+				     (VP  '
+					  bumping
+					  ')))))
+		       *RRB*))))
+      ,
+      (S (NP this)
+	 (VP is
+	     (ADJP contrary
+		   (PP to
+		       (NP (NP any intention)
+			   (SBAR 0
+				 (S (NP Ptolemy)
+				    (ADVP ever)
+				    (VP expresses
+					(NP T) )))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX might)
+   (ADVP even)
+   (VP suppose
+       (S (NP the planets)
+	  (AUX to)
+	  (VP move
+	      (PP at
+		  (NP infinity))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Ptolemy)
+    's problem)
+   (VP is
+       (S (NP *)
+	  (AUX to)
+	  (VP forecast
+	      (SBAR (WHADVP where)
+		    (S  ,
+			(PP against
+			    (NP the inverted bowl
+				(PP of
+				    (NP night))))
+			,
+			(S (NP some particular light)
+			   (AUX will)
+			   (VP be
+			       (VP found
+				   ))
+			   (PP at
+			       (NP future times)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His problem)
+   (VP concerns
+       (NP (NP longitudes)
+	   ,
+	   (NP latitudes)
+	   ,
+	   and
+	   (NP angular velocities))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The distances
+       (PP of
+	   (NP these points
+	       (PP of
+		   (NP light)))))
+   (VP is
+       (NP (NP a problem)
+	   (SBAR 0
+		 (S
+		  (NP he)
+		  (AUX can)
+		  (NEG not)
+		  (VP master
+		      (NP T) )
+		  ,
+		  (PP beyond
+		      (NP crude conjectures
+			  (PP as
+			      (PP to
+				  (NP the orderings
+				      (PP of
+					  (NP (NP the planetary orbits)
+					      (VP viewed
+						  (ADVP outward
+							(PP from
+							    (NP earth))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP none
+	     (PP of
+		 (NP this)))
+	 (AUX has)
+	 (VP prevented
+	     (NP (NP scientists)
+		 ,
+		 (NP philosophers)
+		 ,
+		 and
+		 (NP  (ADVP even)
+		      historians
+		      (PP of
+			  (NP science)))
+		 ,)
+	     (PP from
+		 (S  (NP *)
+		     (VP speaking)
+		     (PP of
+			 (NP the Ptolemaic system))
+		     ,
+		     (PP in
+			 (NP contrast
+			     (PP to
+				 (NP the
+				     (ADJP Copernican))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP a mistake)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP engendered
+	     
+       (PP by
+	   (S  (NP *)
+	       (VP confounding
+		   (NP the Aristotelian cosmology
+		       (PP in
+			   (NP The Almagest)))
+		   (PP with
+		       (NP the geocentric astronomy)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Ptolemy)
+   (ADVP recurrently)
+   (VP denies
+       (SBAR that
+	     (S (NP he)
+		(AUX could)
+		(ADVP ever)
+		(VP explain
+		    (NP planetary motion))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (SBAR
+	(WHNP what)
+	(S (NP T)
+	   (VP necessitates
+	       (NP the nonsystematic character
+		   (PP of
+		       (NP his astronomy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP So)
+      (SBAR 
+       (WHADVP when)
+       (S (NP (NP textbooks)
+	      ,
+	      (PP like
+		  (NP that
+		      (PP of
+			  (NP Baker)))))
+	  (VP set
+	      (PRT out)
+	      (NP (NP drawings
+		      (PP of
+			  (NP the
+			      '
+			      Ptolemaic System
+			      ')))
+		  ,
+		  (ADJP complete
+			(PP with
+			    (NP (NP earth
+				    (PP in
+					(NP the center)))
+				and
+				(NP (NP the seven heavenly bodies)
+				    (VP  (ADVP epicyclically)
+					 arranged
+					 (PP on
+					     (NP their several deferents)))))))))))
+      ,
+      (S (NP we)
+	 (VP have
+	     (NP nothing
+		 but
+		 (NP a
+		     misleading 20th-century
+                     idea
+		     (PP  of
+			  (SBAR (WHNP what)
+				(S (NP T)
+				   (ADVP never)
+				   (VP existed
+				       (ADVP historically))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-1 *pseudo-attach*))
+   (VP is
+       (NP the chief merit
+	   (PP in
+	       (NP 
+		(NP Copernicus)
+		' work))))
+   (SBAR-1 that
+	 (S (NP all
+		his planetary calculations)
+	    (VP are
+		(ADJP interdependent)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX can)
+   (NEG not)
+   ,
+   e.g.
+   (VP compute
+       (NP (NP the retrograde arc)
+	   (VP traveled
+	       (PP by
+		   (NP Mars)))))
+   ,
+   (PP without
+       (S  (NP *)
+	   (ADVP also)
+	   (VP making
+	       (NP suppositions
+		   (PP about
+		       (NP 
+			(NP the earth)
+			's own motion)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX can)
+   (NEG not)
+   (VP describe
+       (NP eclipses))
+   (PP without
+       (S  (NP *)
+	   (VP entertaining
+	       (NP some form
+		   (PP of
+		       (NP a three-body problem)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP Ptolemaic terms))
+    ,
+    (ADVP however)
+    ,
+    (S (NP (NP eclipses)
+	   and
+	   (NP retrograde motion))
+       (VP were
+	   (NP phenomena
+	       simpliciter)
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP explained
+		      (ADVP directly)
+		      (PP as
+			  (NP possible resultants
+			      (PP of
+				  (NP epicyclical combinations))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (PP In
+	   (NP (NP a systematic astronomy)
+	       ,
+	       (PP like
+		   (NP that
+		       (PP of
+			   (NP Copernicus))))
+	       ,))
+       (S (NP retrogradations)
+	  (VP become
+	      (NP part
+		  (PP of
+		      (NP the conceptual structure
+			  (PP of
+			      (NP the system))))))))
+    ;
+    ;
+    (S (NP they)
+       (VP are
+	   (ADVP no
+		 longer)
+	   (NP a puzzling aspect
+	       (PP of
+		   (NP 
+		    (ADJP  (ADVP intricately)
+			   variable)
+		    ,
+		    (ADJP local)
+		    (ADJP planetary)
+		    motions))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Another contrast)
+	(VP stressed
+	    (SBAR (WHADVP when)
+		  (S (NP *)
+		     (VP discussing
+			 (NP Ptolemaic vs. Copernican astronomy))))))
+    ,
+    (VP turns
+	(PP on
+	    (NP the idea
+		(PP of
+		    (NP simplicity))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It
+       (SBAR-2 *pseudo-attach*))
+   (AUX is)
+   (ADVP often)
+   (VP stated
+)
+   (SBAR-2 that
+	 (S (NP Copernican astronomy)
+	    (VP is
+		(ADJP  '
+		       simpler
+		       '
+		       (PP than
+			   (ADJP Ptolemaic)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some)
+   (ADVP even)
+   (VP say
+       (SBAR that
+	     (S (NP this)
+		(VP is
+		    (NP the reason
+			(PP for
+			    (NP the ultimate acceptance
+				(PP of
+				    (NP the
+					(ADJP former)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (S (NP Margenau)
+	 (VP remarks
+	     :
+	     (S  ``
+		 (S (NP A large number
+			(PP of
+			    (NP unrelated epicycles)))
+		    (AUX was)
+		    (VP needed
+		 
+			(S (NP *)
+			   (AUX to)
+			   (VP explain
+			       (NP the observations)))))
+		 ,
+		 but
+		 (S (ADVP otherwise)
+		    (S (NP  the
+			    *LRB*
+			    Ptolemaic
+			    *RRB*
+			    system)
+		       (VP served
+			   (X (ADVP well)
+			      and
+			      (PP with
+				  (NP quantitative precision))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Copernicus)
+    ,
+    (PP by
+	(S  (NP *)
+	    (VP placing
+		(NP the sun)
+		(PP at
+		    (NP the center
+			(PP of
+			    (NP the planetary universe)))))))
+    ,
+    (VP was
+	(ADJP able
+	      (S (NP *)
+		 (AUX to)
+		 (VP reduce
+		     (NP the number
+			 (PP of
+			     (NP epicycles)))
+		     (PP from
+			 (NP eighty-three))
+		     (PP to
+			 (NP seventeen)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Historical records)
+      (VP indicate
+	  (SBAR that
+		(S (NP Copernicus)
+		   (VP was
+		       (ADJP (ADJP unaware
+				   (PP of
+				       (NP the fundamental aspects
+					   (PP of
+					       (NP his so-called
+						   '
+						   revolution
+						   ')))))))))))
+     (S ,
+	(ADJP unaware
+	      (ADVP perhaps)
+	      (PP of
+		  (NP its historical importance)))
+	,
+	(S (NP he)
+	   (VP rested
+	       (ADJP content
+		     (PP with
+			 (S  (NP *)
+			     (VP having
+				 (VP produced
+				     (NP a
+					 (ADJP simpler)
+					 scheme
+					 (PP for
+					     (NP prediction))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP As
+	 (NP an illustration
+	     (PP of
+		 (NP the principle
+		     (PP of
+			 (NP simplicity))))))
+     (S
+      (NP the heliocentric discovery)
+      (VP has
+	  (NP a peculiar appeal))
+      (SBAR because
+	    (S (S (NP it)
+		  (VP allows
+		      (NP simplicity)
+		      (S (NP *)
+			 (AUX to)
+			 (VP be
+			     (VP arithmetized
+				 )))))
+	       ;
+	       ;
+	       (S (NP it)
+		  (VP involves
+		      (NP a reduction
+			  (PP in
+			      (NP the number
+				  (PP of
+				      (NP epicycles))))
+			  (PP from
+			      (NP eighty-three))
+			  (PP to
+			      (NP seventeen)))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (PP Without
+	 (NP careful qualification))
+     (S
+      (NP this)
+      (AUX can)
+      (VP be
+	  (VP misleading))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR  If
+	   (S (PP in
+		  (NP any one calculation))
+	      (S (NP Ptolemy)
+		 (AUX had)
+		 (VP had
+		     (S (NP *)
+			(AUX to)
+			(VP invoke
+			    (NP 83 epicycles))
+			(NP all
+			    (PP at
+				(NP once))))))
+	      ,
+	      (SBAR while
+		    (S (NP Copernicus)
+		       (ADVP never)
+		       (VP required
+			   (NP (ADJP more
+				     (PP than
+					 (NP one third)))
+			       this number))))))
+    ,
+    (S (ADVP then)
+       *LRB*
+       (PP in
+	   (NP (NP the sense)
+	       (ADJP obvious
+		     (PP to
+			 (NP Margenau)))))
+       *RRB*
+       (S (NP Ptolemaic astronomy)
+	  (AUX would)
+	  (VP be
+	      (ADJP simpler
+		    (PP than
+			(ADJP Copernican)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP no
+	     (ADJP single)
+	     (ADJP  planetary)
+	     problem)
+	 (ADVP ever)
+	 (VP required
+	     (PP of
+		 (NP Ptolemy))
+	     (NP (ADJP more
+		       (PP than
+			   (NP six)))
+		 epicycles))
+	 (PP at
+	     (NP one time))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP This)
+    ,
+    (PP of
+	(NP course))
+    ,
+    (VP results
+	(PP from
+	    (NP the
+		(ADJP non-systematic)
+		,
+		(ADJP  '
+		       cellular
+		       ')
+		character
+		(PP of
+		    (NP Ptolemaic theory))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Calculations
+       (PP within
+	   (NP the Copernican framework)))
+   (ADVP always)
+   (VP raised
+       (NP questions
+	   (PP about
+	       (NP planetary configurations)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (AUX could)
+   (VP be)
+   (VP met
+       (ADVP only)
+       (PP by
+	   (S  (NP *)
+	       (VP considering
+		   (NP the dynamical elements
+		       (PP of
+			   (NP several planets)))
+		   (PP at
+		       (NP one time)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP This)
+    (VP is
+	(ADJP  (ADVP more)
+	       ambitious
+	       (PP than
+		   (S (NP Ptolemy)
+		      (AUX is)
+		      (ADVP ever)
+		      (VP required
+				  
+			  (S (NP *)
+			     (AUX to)
+			     (VP be)))
+		      (SBAR 
+		       (WHADVP when)
+		       (S (NP he)
+			  (VP faces
+			      (NP his isolated problems)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV  (ADVP Thus)
+	  ,
+	  (PP in
+	      (NP no ordinary sense
+		  (PP of
+		      (NP  '
+			   simplicity
+			   '))))
+	  (VP is)
+	  (NP the Ptolemaic theory)
+	  (ADJP simpler
+		(PP than
+		    (NP the
+			(ADJP Copernican)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The latter)
+    (VP required
+	(S (NP *)
+	   (VP juggling
+	       (NP several elements)
+	       (ADVP simultaneously)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP was
+       (ADJP  not
+	      (ADJP simpler)
+	      but
+	      (ADJP  (ADVP much
+			   more)
+		     difficult
+		     (PP than
+			 (NP exercises
+			     (PP within
+				 (NP 
+				  (NP Ptolemy)
+				  's astronomy))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Analogously)
+      ,
+      (S (NP (NP anyone)
+	     (SBAR (WHNP who)
+		   (S (NP T)
+		      (VP argues
+			  (SBAR that
+				(S (NP
+				    (NP Einstein)
+				    's theory
+				    (PP of
+					(NP gravitation)))
+				   (VP is
+				       (ADJP simpler
+					     (PP than
+						 (NP 
+						  (NP Newton)
+						  's))))))))))
+	 ,
+	 (AUX must)
+	 (VP say
+	     (ADJP  (ADVP rather)
+		    more)
+	     (S (NP *)
+		(AUX to)
+		(VP explain
+		    (SBAR 
+		     (WHADVP how)
+		     (S (NP it)
+			(VP is)
+			(SBAR that
+			      (S (NP the latter)
+				 (AUX is)
+				 (VP mastered
+				      
+				     (PP by
+					 (NP student-physicists)))
+				 ,
+				 (SBAR while
+				       (S (NP the
+					      (ADJP former))
+					  (AUX can)
+					  (VP be
+					      (VP managed
+						  *LRB*
+						  (PP with
+						      (NP difficulty))
+						  *RRB*
+						  (PP  (ADVP only)
+						       by
+						       (NP accomplished experts)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP a sense))
+    ,
+    (S (S (NP
+	   (NP Einstein)
+	   's theory)
+	  (VP is
+	      (ADJP simpler
+		    (PP than
+			(NP 
+			 (NP Newton)
+			 's)))))
+       ,
+       and
+       (S (NP there)
+	  (VP is
+	      (NP (NP a corresponding sense)
+		  (SBAR (WHPP in
+			      (WHNP which))
+			(S
+			 (NP 
+			  (NP Copernicus)
+			  ' theory)
+			 (VP is
+			     (ADJP simpler
+				   (PP than
+				       (NP 
+					(NP Ptolemy)
+					's)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP  '
+	      simplicity
+	      ')
+	 (ADVP here)
+	 (VP refers
+	     (PP to
+		 (NP systematic simplicity)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The number
+       (PP of
+	   (NP primitive ideas
+	       (PP in
+		   (NP systematically-simple theories)))))
+   (AUX is)
+   (VP reduced
+	     
+       (PP to
+	   (NP a minimum))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The Axioms)
+       (VP required
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP the theoretical machinery)
+		  (VP operate)))))
+   (AUX are)
+   (VP set
+        
+       (PRT out)
+       (ADVP tersely and powerfully))
+   ,
+   (SBAR  so
+	 that
+	 (S (NP all permissible operations
+		(PP within
+		    (NP the theory)))
+	    (AUX can)
+	    (VP be
+		(VP traced
+		    (ADVP rigorously)
+		    (ADVP back
+			  (PP to
+			      (NP  these axioms
+				   ,
+				   rules
+				   ,
+				   and
+				   primitive notions))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP characterizes
+       (NP (NP 
+	    (NP Euclid)
+	    's formulation
+	    (PP of
+		(NP geometry)))
+	   ,
+	   (CONJP but
+		  (NEG not))
+	   (NP 
+	    (NP Ptolemy)
+	    's astronomy))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP There)
+   (VP are
+       (PP in
+	   (NP The Almagest))
+       (NP  no
+	    rules
+	    (PP for
+		(S  (NP *)
+		    (VP determining
+			(PP in
+			    (NP advance))
+			(SBAR whether
+			      (S (NP a new epicycle)
+				 (AUX will)
+				 (VP be
+				     (VP required
+		        
+					 (PP for
+					     (S  (NP *) 
+						 (VP dealing
+						     (PP with
+							 (NP abberations
+							     (PP in
+								 (NP (ADJP lunar)
+								     ,
+								     (ADJP solar)
+								     ,
+								     or
+								     (ADJP planetary) behavior)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       (ADJP strongest)
+       appeal
+       (PP of
+	   (NP the Copernican formulation)))
+   (VP consisted
+       (PP in
+	   (NP (NP  (ADVP just)
+		    this)
+	       :
+	       (S (ADVP ideally)
+		  ,
+		  (S (NP the justification
+			 (PP for
+			     (S  (NP *)
+				 (VP dealing
+				     (PP with
+					 (NP special problems))
+				     (PP in
+					 (NP particular ways))))))
+		     (AUX is)
+		     (ADVP completely)
+		     (VP set
+		 
+			 (PRT out)
+			 (PP in
+			     (NP 
+			      the basic
+			      '
+			      rules
+			      '
+			      (PP of
+				  (NP the theory)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The lower-level hypotheses)
+   (VP are
+       (X (X (ADVP never)
+	     (ADJP   '
+		     ad
+		     hoc
+		     '))
+	  ,
+	  (X (ADVP never)
+	     (VP introduced
+		 (NP ex post facto)
+		 (S (NP *)
+		    (ADVP just)
+		    (AUX to)
+		    (VP sweep
+			(PRT up)
+			(PP within
+			    (NP the theory))
+			(NP some recalcitrant datum))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S  (NP Copernicus)
+     ,
+     (PP to
+	 (NP (NP an extent)
+	     (VP unachieved
+		 (PP by
+		     (NP Ptolemy)))))
+     ,
+     (VP approximated
+	 (PP to
+	     (NP 
+	      (NP Euclid)
+	      's vision))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP De Revolutionibus)
+   (VP is
+       (NEG not)
+       (NP  (ADVP just)
+	    a collection
+	    (PP of
+		(NP facts and techniques)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP an organized system
+	   (PP of
+	       (NP these things)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (S (NP *)
+	   (VP Solving
+	       (NP astronomical problems))))
+    (VP requires
+	,
+	(PP for
+	    (NP Copernicus))
+	,
+	(NP  not
+	     (NP a random search
+		 (PP of
+		     (NP unrelated tables)))
+	     ,
+	     but
+	     (NP a regular employment
+		 (PP of
+		     (NP (NP the rules)
+			 (VP defining
+			     (NP the entire discipline))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Hence)
+      ,
+      (S  (NP (S  (NP *) 
+		  (VP noting
+		      (NP (NP the simplicity)
+			  (VP achieved
+			      (PP in
+				  (NP 
+				   (NP Copernicus)
+				   ' formulation)))))))
+	  (AUX does)
+	  (NEG not)
+	  (VP provide
+	      (NP (NP another reason
+		      (PP for
+			  (NP the acceptance
+			      (PP of
+				  (NP De Revolutionibus)))))
+		  ,
+		  (NP another reason
+		      (PP beyond
+			  (NP its systematic superiority)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP provides
+       (NP  (ADVP exactly)
+	    the same reason)))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 1543 A.D.)
+   (AUX is)
+   (ADVP often)
+   (VP venerated
+	     
+       (PP as
+	   (NP the birthday
+	       (PP of
+		   (NP the scientific revolution))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADVP really)
+       (NP the funeral day
+	   (PP of
+	       (NP scholastic science)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (VP Granted)
+    ,
+    (S (NP (NP the
+	       (ADJP cosmological)
+	       ,
+	       (ADJP philosophical)
+	       ,
+	       and
+	       (ADJP cultural) reverberations)
+	   (VP initiated
+	       (PP by
+		   (NP the De Revolutionibus))))
+       (AUX were)
+       (VP felt
+	      
+	   (PP with
+	       (NP  increasing
+		    violence))
+	   (PP during
+	       (NP (NP the 300 years)
+		   (S (NP *)
+		      (AUX to)
+		      (VP follow)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      ,
+      (S (NP *)
+	 (VP considered
+	     (PP within
+		 (NP technical astronomy))))
+      ,
+      (S (NP a different pattern)
+	 (AUX can)
+	 (VP be
+	     (VP traced
+		 ))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHPP In
+	(WHNP what))
+  (SQ  (AUX does)
+       (NP the dissatisfaction
+	   (PP of
+	       (NP Copernicus-the-astronomer)))
+       (VP consist)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHNP What
+	(PP in
+	    (NP The Almagest)))
+  (SQ  (NP T)
+       (VP draws
+	   (NP his fire))))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Geocentricism
+     (PP per
+	 (NP se)))
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP No)
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP The formal displacement
+	    (PP of
+		(NP the geocentric principle)))
+	(ADVP far
+	      (PP from
+		  (S  (NP *)
+		      (VP being
+			  (NP 
+			   (NP Copernicus)
+			   ' primary concern)))))
+	,)
+    (AUX was)
+    (VP introduced
+	  
+	(S (NP *)
+	   (ADVP only)
+	   (AUX to)
+	   (VP resolve
+	       (NP (SBAR
+		    (WHNP what)
+		    (S (NP T)
+		       (VP seemed
+			   (PP to
+			       (NP him))
+			   (ADJP intolerable
+				 (PP in
+				     (NP orthodox astronomy))))))
+		   (NP  ,
+			(ADVP namely)
+			,
+			the
+			'
+			unphysical
+			'
+			triplication
+			(PP of
+			    (NP (NP centric reference-points)
+				:
+				(NP (NP (NP one center)
+					(SBAR (WHPP from
+						    (WHNP which))
+					      (S
+					       (NP 
+						(NP the planet)
+						's distances)
+					       (AUX were)
+					       (VP calculated
+						   ))))
+				    ,
+				    (NP (NP another)
+					(SBAR (WHPP around
+						    (WHNP which))
+					      (S (NP planetary velocities)
+						 (AUX were)
+						 (VP computed
+						     ))))
+				    ,
+				    and
+				    (NP (NP (NP  still
+						 a third center)
+					    *LRB*
+					    (NP the earth)
+					    *RRB*)
+					(SBAR (WHPP from
+						    (WHNP which))
+					      (S
+					       (NP the observations)
+					       (VP originated)))))))))))))
+ .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This arrangement)
+       (VP was
+	   (PP for
+	       (NP Copernicus))
+	   (ADJP  (ADVP literally)
+		  monstrous)))
+    :
+    (S  ``
+	(PP With
+	    *LRB*
+	    (NP the Ptolemaists)
+	    *RRB*)
+	(S (S (NP it)
+	      (VP is
+		  (PP as
+		      (SBAR though
+			    (S (NP an artist)
+			       (VP were
+				   (S (NP *)
+				      (AUX to)
+				      (VP gather
+					  (NP (NP the hands)
+					      ,
+					      (NP feet)
+					      ,
+					      (NP head)
+					      and
+					      (NP other members))
+					  (PP for
+					      (NP his images))
+					  (PP from
+					      (NP divers models)))
+				      ,
+				      (NP (NP each part)
+					  (VP (VP  (ADVP excellently)
+						   drawn)
+					      ,
+					      but
+					      (VP (NEG not)
+						  related
+						  (PP to
+						      (NP a single body))))))))))))
+	   ;
+	   ;
+	   and
+	   (S (SBAR since
+		    (S (NP they)
+		       (PP in
+			   (NP no way))
+		       (VP match
+			   (NP each
+			       (ADJP other)))))
+	      ,
+	      (S (NP the result)
+		 (AUX would)
+		 (VP be
+		     (NP a monster)
+		     (ADVP rather
+			   (PP than
+			       (NP a man)))))))
+	''))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Copernicus)
+    (VP required
+	(NP a
+	    (ADJP   systematically
+		    integrated)
+	    ,
+	    (ADJP physically
+		  intelligible) astronomy)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP His objective)
+   (VP was
+       ,
+       (ADVP essentially)
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP repair
+	      (NP (NP those aspects
+		      (PP of
+			  (NP orthodox astronomy)))
+		  (ADJP responsible
+			(PP for
+			    (NP its deficiencies
+				(PP in
+				    (S  (NP *)
+					(VP achieving
+					    (NP these ends))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (SBAR  That
+	       (S (NP such deficiencies)
+		  (VP existed)
+		  (PP within
+		      (NP 
+		       (NP Ptolemy)
+		       's theory)))))
+    (AUX was)
+    (NEG not)
+    (VP discovered
+	(ADJP de novo)
+	(PP by
+	    (NP Copernicus))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP The
+	(ADJP critical)
+	,
+	(ADJP rigorous)
+	examinations
+	(PP of
+	    (NP (NP Nicholas
+		    (PP of
+			(NP Cusa)))
+		and
+		(NP Nicholas
+		    (PP of
+			(NP Oresme))))))
+    (VP provided
+	(NP (NP the context)
+	    *LRB*
+	    (NP a
+		(ADJP late medieval)
+		context)
+	    *RRB*
+	    (PP for
+		(NP 
+		 (NP Nicholas Copernicus)
+                 ' own work)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The latter)
+    (VP looked
+	(ADVP backward)
+	(PP upon
+	    (NP  inherited
+		 deficiencies))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Without
+	(S  (NP *)
+	    (VP abandoning
+		(NP  too
+		     much))))
+    ,
+    (S (NP Copernicus)
+       (VP sought
+	   (S (NP *)
+	      (AUX to)
+	      (VP make
+		  (NP orthodox astronomy)
+		  (ADJP  (ADVP systematically and mechanically)
+			 acceptable))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (AUX did)
+   (NEG not)
+   (VP think
+       (S (NP himself)
+	  (AUX to)
+	  (VP be
+	      (VP firing
+		  (NP the first shot
+		      (PP of
+			  (NP an intellectual revolution))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

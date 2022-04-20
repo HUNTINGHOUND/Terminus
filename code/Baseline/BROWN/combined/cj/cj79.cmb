@@ -1,0 +1,2477 @@
+
+ 
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN set)
+        (PP (IN of)
+            (NP (DT all) (NNS decisions))))
+    (AUX (VBZ is))
+    (VP (VBN called)
+        
+        (NP (NP (DT the) (VBG operating) (NN policy))
+            (CC or)
+            (, ,)
+            (ADVP (RBR more) (RB simply))
+            (, ,)
+            (NP (DT the) (NN policy)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT An) (JJ optimal) (NN policy))
+    (VP (VBZ is)
+        (NP (NP (CD one))
+            (SBAR (WHNP (WDT which))
+                  (S (PP (IN in)
+                         (NP (DT some) (NN sense)))
+                     (S (NP (-NONE- T))
+                        (VP (VBZ gets)
+                            (NP (DT the)
+                                (ADJP (JJS best)))
+                            (PP (IN out)
+                                (PP (IN of)
+                                    (NP (DT the) (NN process)
+                                        (PP (IN as)
+                                            (NP (DT a) (NN whole))))))
+                            (PP (IN by)
+                                (S (NP (-NONE- *))
+                                   (VP (VBG maximizing)
+                                       (NP (DT the) (NN value)
+                                           (PP (IN of)
+                                               (NP (DT the) (NN product))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (EX There))
+    (VP (VBP are)
+        (ADVP (RB thus))
+        (NP (NP (CD three) (NNS components)
+                (PP (TO to)
+                    (NP (DT an) (JJ optimal) (NN design) (NN problem))))
+            (: :)
+            (NP (-LRB- -LRB-)
+                (NP (LS 1))
+                (-RRB- -RRB-)
+                (NP (DT The) (NN specification)
+                    (PP (IN of)
+                        (NP (DT the) (NN state)
+                            (PP (IN of)
+                                (NP (DT the) (NN process) (NN stream)))))))
+            (: ;)
+            (: ;)
+            (NP (-LRB- -LRB-)
+                (NP (LS 2))
+                (-RRB- -RRB-)
+                (NP (DT The) (NN specification)
+                    (PP (IN of)
+                        (NP (NP (DT the) (VBG operating) (NNS variables))
+                            (CC and)
+                            (NP (NP (DT the) (NN transformation))
+                                (SBAR (-NONE- 0)
+                                      (S (NP (PRP they))
+                                         (VP (VBP effect)
+                                             (NP (-NONE- T))))))))))
+            (: ;)
+            (: ;)
+            (NP (-LRB- -LRB-)
+                (NP (LS 3))
+                (-RRB- -RRB-)
+                (NP (DT The) (NN specification)
+                    (PP (IN of)
+                        (NP (NP (DT the) (JJ objective) (NN function))
+                            (SBAR (WHPP (IN of)
+                                        (WHNP (WDT which)))
+                                  (S
+                                     (NP (DT the) (NN optimization))
+                                     (AUX (VBZ is))
+                                     (VP (VBN desired)
+                                         ))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (DT a) (JJ chemical) (NN process)))
+    (S
+       (NP (DT the)
+           (ADJP (JJ first))
+           (PP (IN of)
+               (NP (DT these))))
+       (AUX (MD might))
+       (VP (VB involve)
+           (NP (NP (DT the) (NNS concentrations)
+                   (PP (IN of)
+                       (NP (DT the) (JJ different) (NN chemical) (NN species))))
+               (, ,)
+               (CC and)
+               (NP (DT the) (NN temperature) (CC or) (NN pressure)
+                   (PP (IN of)
+                       (NP (DT the) (NN stream))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (DT the)
+            (ADJP (JJ second))))
+    (S
+       (NP (PRP we))
+       (AUX (MD might))
+       (VP (VB have)
+           (S (NP (-NONE- *))
+              (AUX (TO to))
+              (VP (VB choose)
+                  (NP (NP (NP (DT the) (NN volume)
+                              (PP (IN of)
+                                  (NP (NN reactor))))
+                          (CC or)
+                          (NP (NN amount)
+                              (PP (IN of)
+                                  (NP (NN cooling)))))
+                      (S (NP (-NONE- *))
+                         (AUX (TO to))
+                         (VP (VB be)
+                             (VP (VBN supplied)
+                                 ))))))))
+    (: ;)
+    (: ;)
+    (S (NP (NP (DT the) (NN way))
+           (SBAR (WHPP (IN in)
+                       (WHNP (WDT which)))
+                 (S (NP (DT the) (NN transformation)
+                        (PP (IN of)
+                            (NP (NN state))))
+                    (VP (VBZ depends)
+                        (PP (IN on)
+                            (NP (DT the) (VBG operating) (NNS variables)
+                                (PP (IN for)
+                                    (NP (DT the) (JJ main) (NNS types)
+                                        (PP (IN of)
+                                            (NP (NNS reactors)))))))))))
+       (AUX (VBZ is))
+       (VP (VBN discussed)
+           
+           (PP (IN in)
+               (NP (DT the) (JJ next) (NN chapter))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ objective) (NN function))
+       (VP (VBZ is)
+           (NP (DT some) (NN measure)
+               (PP (IN of)
+                   (NP (DT the) (NN increase)
+                       (PP (IN in)
+                           (NP (NN value)
+                               (PP (IN of)
+                                   (NP (DT the) (NN stream)))))
+                       (PP (IN by)
+                           (NP (VBG processing))))))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (NP (DT the) (NN subject)
+               (PP (IN of)
+                   (NP (NN Chapter) (CD 4)))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT The) (JJ essential) (NN characteristic)
+        (PP (IN of)
+            (NP (NP (DT an) (JJ optimal) (NN policy))
+                (SBAR
+                      (WHADVP (WRB when))
+                      (S (NP (DT the) (NN state)
+                             (PP (IN of)
+                                 (NP (DT the) (NN stream))))
+                         (AUX (VBZ is))
+                         (VP (VBN transformed)
+                             
+                             (PP (IN in)
+                                 (NP (DT a) (NN sequence)
+                                     (PP (IN of)
+                                         (NP (NNS stages)))
+                                     (PP (IN with)
+                                         (NP (DT no) (NN feedback)))))))))))
+    (AUX (VBD was))
+    (ADVP (RB first))
+    (VP (VBN isolated)
+        (PP (IN by)
+            (NP (NNP Bellman)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP He))
+    (VP (VBD recognized)
+        (SBAR (IN that)
+              (S (SBAR
+                       (WHNP (WDT whatever) (NN transformation))
+                       (S (NP (-NONE- T))
+                          (AUX (MD may))
+                          (VP (VB be)
+                              (VP (VBN effected)
+                                  (PP (IN in)
+                                      (NP (DT the) (JJ first) (NN stage)
+                                          (PP (IN of)
+                                              (NP (DT an) (JJ R-stage) (NN process)))))))))
+                 (, ,)
+                 (S (NP (DT the) (VBG remaining) (NNS stages))
+                    (AUX (MD must))
+                    (VP (VB use)
+                        (NP (DT an)
+                            (JJ optimal) (JJ Af-stage)
+                            (NN policy)
+                            (PP (IN with)
+                                (NP (NN respect)
+                                    (PP (TO to)
+                                        (NP (NP (DT the) (NN state))
+                                            (VP (VBG resulting)
+                                                (PP (IN from)
+                                                    (NP (DT the) (JJ first) (NN stage))))))))))
+                    (, ,)
+                    (SBAR (IN if)
+                          (S (NP (EX there))
+                             (VP (VBZ is)
+                                 (S (NP (-NONE- *))
+                                    (AUX (TO to))
+                                    (VP (VB be)
+                                        (NP (DT any) (NN chance)
+                                            (PP (IN of)
+                                                (S (NP (-NONE- *))
+                                                   (VP (VBG optimizing)
+                                                       (NP (DT the) (JJ complete) (NN process))))))))))))))))
+ (. .))
+ 
+
+ 
+
+((S (ADVP (RB Moreover))
+    (, ,)
+    (PP (IN by)
+        (S (NP (-NONE- *))
+           (VP (VP (ADVP (RB systematically))
+                   (VBG varying)
+                   (NP (DT the) (VBG operating) (NNS conditions)
+                       (PP (IN in)
+                           (NP (DT the) (JJ first) (NN stage)))))
+               (CC and)
+               (ADVP (RB always))
+               (VP (VBG using)
+                   (NP (DT the)
+                       (JJ optimal) (JJ Af-stage)
+                       (NN policy))
+                   (PP (IN for)
+                       (NP (DT the) (VBG remaining) (NNS stages)))))))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD shall))
+       (ADVP (RB eventually))
+       (VP (VB find)
+           (NP (DT the) (JJ optimal) (NN policy)
+               (PP (IN for)
+                   (NP (DT all) (NN R) (NNS stages)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (VP (VBG Proceeding)
+           (PP (IN in)
+               (NP (DT this) (NN way)))
+           (, ,)
+           (PP (PP (PP (IN from)
+                       (NP (CD one)))
+                   (PP (TO to)
+                       (NP (CD two))))
+               (CC and)
+               (PP (PP (IN from)
+                       (NP (CD two)))
+                   (PP (TO to)
+                       (NP (CD three) (NNS stages)))))))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD may))
+       (VP (ADVP (RB gradually))
+           (VB build)
+           (PRT (IN up))
+           (NP (DT the) (NN policy))
+           (PP (IN for)
+               (NP (DT any) (NN number))))))
+ (. .))
+ 
+
+ 
+
+((S (PP (IN At)
+        (NP (DT each) (NN step)
+            (PP (IN of)
+                (NP (DT the) (NN calculation)))))
+    (S
+       (NP (DT the) (VBG operating) (NNS variables)
+           (PP (IN of)
+               (NP (RB only)
+                   (CD one) (NN stage))))
+       (AUX (MD need))
+       (VP (VB be)
+           (VP (VBN varied)
+               ))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB see)
+           (SBAR (ADJP
+                       (WHADVP (WRB how))
+                       (JJ important))
+                 (S (NP (DT this) (NN economy))
+                    (VP (VBZ is))))))
+    (, ,)
+    (S (NP (-NONE- *))
+       (VP (VB let)
+           (NP (PRP us))
+           (VP (VB suppose)
+               (SBAR (IN that)
+                     (S (NP (EX there))
+                        (VP (VBP are)
+                            (NP (NN M)
+                                (VBG operating)
+                                (NNS variables))
+                            (PP (IN at)
+                                (NP (DT each) (NN stage))))))
+               (CC and)
+               (SBAR (IN that)
+                     (S (NP (DT the) (NN state))
+                        (AUX (VBZ is))
+                        (VP (VBN specified)
+                            
+                            (PP (IN by)
+                                (NP (NN N) (NNS variables)))))))))
+    (: ;)
+    (: ;)
+    (ADVP (RB then))
+    (S (NP (DT the) (NN search)
+           (PP (IN for)
+               (NP (DT the) (NN maximum)
+                   (PP (IN at)
+                       (NP (DT any) (CD one) (NN stage))))))
+       (AUX (MD will))
+       (VP (VB require)
+           (NP (DT a) (NN number)
+               (PP (IN of)
+                   (NP (NNS operations)
+                       (PP (IN of)
+                           (NP (NP (NN order) (-NONE- A[fj]))
+                               (-LRB- -LRB-)
+                               (SBAR
+                                     (WHADVP (WRB where))
+                                     (S (NP (NN a))
+                                        (VP (VBZ is)
+                                            (NP (DT some) (NN number)
+                                                (ADJP (ADVP (NEG (RB not))
+                                                            (RB unreasonably))
+                                                      (JJ large))))))
+                               (-RRB- -RRB-)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB proceed)
+           (PP (PP (IN from)
+                   (NP (CD one) (NN stage)))
+               (PP (TO to)
+                   (NP (DT the)
+                       (ADJP (JJ next)))))))
+    (S (NP (DT a) (JJ sufficient) (NN number)
+           (PP (IN of)
+               (NP (NN feed) (NNS states))))
+       (AUX (MD must))
+       (VP (VB be)
+           (VP (VBN investigated)
+               ))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB allow)
+              (PP (IN for)
+                  (NP (NN interpolation))))))
+    (: ;)
+    (: ;)
+    (S (NP (DT this) (NN number))
+       (AUX (MD will))
+       (VP (VB be)
+           (PP (IN of)
+               (NP (DT the) (NN order)
+                   (PP (IN of)
+                       (NP (-NONE- A[fj]))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR (IN If)
+          (, ,)
+          (S (ADVP (RB however))
+             (, ,)
+             (S (NP (PRP we))
+                (AUX (VBP are))
+                (VP (VBG seeking)
+                    (NP (DT the)
+                        (JJ optimal) (JJ R-stage)
+                        (NN policy)
+                        (PP (IN for)
+                            (NP (DT a) (VBN given) (NN feed) (NN state))))))))
+    (, ,)
+    (S (NP (RB only)
+           (CD one) (NN search)
+           (PP (IN for)
+               (NP (DT a) (NN maximum))))
+       (AUX (VBZ is))
+       (VP (VBN required)
+           
+           (PP (IN at)
+               (NP (DT the) (JJ final) (NN step))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (S (NP (DT a) (NN number)
+           (PP (IN of)
+               (NP (NNS operations)
+                   (PP (IN of)
+                       (NP (DT the) (NN order)
+                           (PP (IN of)
+                               (NP (-NONE- A[fj]))))))))
+       (AUX (VBP are))
+       (VP (VBN required)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PDT all)
+                 (DT the) (VBG operating) (NNS variables))
+             (AUX (VBD were))
+             (VP (VBN varied)
+                 (ADVP (RB simultaneously)))))
+    (, ,)
+    (S (NP (-NONE- A[fj]) (NNS operations))
+       (AUX (MD would))
+       (VP (VB be)
+           (VP (VBN required)
+               ))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB do)
+              (NP (DT the) (JJ same) (NN job)))))
+    (, ,)
+    (CC and)
+    (SBAR (IN as)
+          (S (NP (NN R))
+             (VP (VBZ increases))))
+    (S (NP (DT this))
+       (VP (VBZ increases)
+           (ADVP (RB very)
+                 (RB much)
+                 (RBR more) (RB rapidly)
+                 (PP (IN than)
+                     (NP (NP (DT the) (NN number)
+                             (PP (IN of)
+                                 (NP (NNS operations))))
+                         (VP (VBN required)
+                             (PP (IN by)
+                                 (NP (DT the) (JJ dynamic) (NN program))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((SINV (CC But)
+       (ADJP (RB even)
+             (RBR more)
+             (JJ important)
+             (PP (IN than)
+                 (NP (DT this))))
+       (VP (VBZ is))
+       (NP (DT the) (NN fact)
+           (SBAR (IN that)
+                 (S (NP (DT the) (JJ direct) (NN search)
+                        (PP (IN by)
+                            (VP (ADVP (RB simultaneously))
+                                (VBG varying)
+                                (NP (DT all) (VBG operating) (NNS conditions)))))
+                    (AUX (VBZ has))
+                    (VP (VBN produced)
+                        (NP (NP (RB only)
+                                (CD one) (JJ optimal) (NN policy))
+                            (, ,)
+                            (ADVP (RB namely))
+                            (, ,)
+                            (NP (IN that)
+                                (PP (IN for)
+                                    (NP (DT the) (VBN given) (NN feed) (NN state) (CC and) (NN R) (NNS stages))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (NP (NN contrast)))
+    (, ,)
+    (S (NP (DT the) (JJ dynamic) (NN program))
+       (VP (VBZ produces)
+           (NP (NP (DT this) (NN policy))
+               (CC and)
+               (NP (DT a) (JJ whole) (NN family)
+                   (PP (IN of)
+                       (NP (NNS policies)))))
+           (PP (IN for)
+               (NP (DT any)
+                   (ADJP (JJR smaller))
+                   (NN number)
+                   (PP (IN of)
+                       (NP (NNS stages))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (SBAR (IN If)
+          (S (NP (DT the) (NN problem))
+             (AUX (VBZ is))
+             (VP (VBN enlarged)
+                 
+                 (S (NP (-NONE- *))
+                    (AUX (TO to))
+                    (VP (VB require)
+                        (NP (DT a) (JJ complete) (NN coverage)
+                            (PP (IN of)
+                                (NP (NN feed) (NNS states)))))))))
+    (, ,)
+    (S (NP (-NONE- A[fj]) (NNS operations))
+       (AUX (VBP are))
+       (VP (VBN needed)
+           
+           (PP (IN by)
+               (NP (DT the) (JJ dynamic) (NN program)))))
+    (CC and)
+    (X (NP (-NONE- A[fj])
+           (PP (IN by)
+               (NP (DT the) (JJ direct) (NN search))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (CC But)
+    (S (NP (-NONE- A[fj]))
+       (VP (VBZ is)
+           (ADJP (RB vastly)
+                 (JJR larger)
+                 (PP (IN than)
+                     (NP (NN R)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT No) (NN optimism))
+    (VP (VBZ is)
+        (ADJP (RBR more)
+              (JJ baseless)
+              (PP (IN than)
+                  (NP (NP (IN that))
+                      (SBAR
+                            (WHNP (WDT which))
+                            (S (NP (-NONE- T))
+                               (VP (VBZ believes)
+                                   (SBAR (IN that)
+                                         (S (NP (DT the) (JJ high) (NN speed)
+                                                (PP (IN of)
+                                                    (NP
+                                                        (ADJP (JJ modern) (JJ digital))
+                                                        (NNS computers))))
+                                            (VP (VBZ allows)
+                                                (PP (IN for)
+                                                    (NP (NN use)
+                                                        (PP (IN of)
+                                                            (NP (DT the)
+                                                                (ADJP (JJS crudest)
+                                                                      (PP (IN of)
+                                                                          (NP (NNS methods))))))
+                                                        (PP (IN in)
+                                                            (S (NP (-NONE- *))
+                                                               (VP (VBG searching)
+                                                                   (PRT (IN out))
+                                                                   (NP (DT a) (NN result))))))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (-NONE- *))
+    (VP (VB Suppose)
+        (SBAR (IN that)
+              (NP (-NONE- A[fj])))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+              (S (NP (DT the) (JJ average) (NN operation))
+                 (VP (VBZ requires)
+                     (NP (JJ only) (-NONE- A[fj]) (NN sec.)))))))
+ (. .)
+ )
+ 
+
+((S (ADVP (RB Then))
+    (S (NP (DT the) (JJ dynamic) (NN program))
+       (AUX (MD would))
+       (VP (VB require)
+           (PP (IN about)
+               (NP (DT a) (NN minute))))
+       (SBAR (IN whereas)
+             (S (NP (DT the) (JJ direct) (NN search))
+                (AUX (MD would))
+                (VP (VB take)
+                    (NP (ADJP (RBR more)
+                              (PP (IN than)
+                                  (NP (CD three))))
+                        (NN millennia)))))))
+ (. !)
+ (. !))
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN principle)
+        (PP (IN of)
+            (NP (NN optimality))))
+    (ADVP (RB thus))
+    (VP (VBZ brings)
+        (NP (DT a) (JJ vital) (NN organization))
+        (PP (IN into)
+            (NP (DT the) (NN search)
+                (PP (IN for)
+                    (NP (DT the) (JJ optimal) (NN policy)
+                        (PP (IN of)
+                            (NP (DT a) (JJ multistage) (NN decision) (NN process)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (NNP Bellman))
+        (NP (-LRB- -LRB-)
+            (CD 1957)
+            (-RRB- -RRB-)))
+    (AUX (VBZ has))
+    (VP (VBN annunciated)
+        (PP (IN in)
+            (NP (DT the) (VBG following) (NNS terms)))
+        (: :)
+        (`` ``)
+        (S (NP (DT An) (JJ optimal) (NN policy))
+           (VP (VBZ has)
+               (NP (DT the) (NN property)
+                   (SBAR (IN that)
+                         (S (SBAR (WHNP (WDT whatever))
+                                  (S (NP (NP (DT the) (JJ initial) (NN state))
+                                         (CC and)
+                                         (NP (JJ initial) (NN decision)))
+                                     (VP (VBP are)
+                                         (NP (-NONE- T)))))
+                            (, ,)
+                            (S (NP (DT the) (VBG remaining) (NNS decisions))
+                               (AUX (MD must))
+                               (VP (VB constitute)
+                                   (NP (DT an) (JJ optimal) (NN policy)
+                                       (PP (IN with)
+                                           (NP (NN respect)
+                                               (PP (TO to)
+                                                   (NP (NP (DT the) (NN state))
+                                                       (VP (VBG resulting)
+                                                           (PP (IN from)
+                                                               (NP (DT the) (JJ first) (NN decision))))))))))))))))
+        ('' '')))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (NP (NP (DT the) (NN principle))
+            (SBAR (WHNP (WDT which))
+                  (S
+                     (NP (PRP we))
+                     (AUX (MD will))
+                     (VP (VB invoke)
+                         (NP (-NONE- T))
+                         (PP (IN in)
+                             (NP (DT every) (NN case)))
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB set)
+                                (PRT (IN up))
+                                (NP (DT a) (JJ functional) (NN equation))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (VP (VBZ appears)
+        (PP (IN in)
+            (NP (NP (DT a) (NN form))
+                (SBAR (WHNP (WDT that))
+                      (S (NP (-NONE- T))
+                         (AUX (VBZ is))
+                         (VP (ADVP (RB admirably))
+                             (VBN suited)
+                             
+                             (PP (TO to)
+                                 (NP (DT the) (NNS powers)
+                                     (PP (IN of)
+                                         (NP (DT the) (JJ digital) (NN computer))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN At)
+        (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (S (NP (NP (DT every) (NN device))
+           (SBAR (WHNP (WDT that))
+                 (S (NP (-NONE- T))
+                    (AUX (MD can))
+                    (VP (VB be)
+                        (VP (VBN employed)
+                            
+                            (S (NP (-NONE- *))
+                               (AUX (TO to))
+                               (VP (VB reduce)
+                                   (NP (DT the) (NN number)
+                                       (PP (IN of)
+                                           (NP (NNS variables)))))))))))
+       (VP (VBZ is)
+           (PP (IN of)
+               (NP (DT the)
+                   (ADJP (JJS greatest))
+                   (NN value)))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP it))
+       (VP (VBZ is)
+           (NP (CD one)
+               (PP (IN of)
+                   (NP (DT the) (JJ attractive) (NNS features)
+                       (PP (IN of)
+                           (NP (JJ dynamic) (NN programming)))))))
+       (SBAR (DT that)
+             (S
+                (NP (NN room))
+                (AUX (VBZ is))
+                (VP (VBN left)
+                    (PP (IN for)
+                        (NP (NN ingenuity)
+                            (PP (IN in)
+                                (S (NP (-NONE- *))
+                                   (VP (VBG using)
+                                       (NP (DT the) (JJ special) (NNS features)
+                                           (PP (IN of)
+                                               (NP (DT the) (NN problem))))
+                                       (PP (TO to)
+                                           (NP (DT this) (NN end)))))))))))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (CD 2.2))
+     (NP (DT the)
+         (ADJP (JJ discrete) (JJ deterministic))
+         (NN process))))
+ 
+
+(
+ (S (NP (-NONE- *))
+    (VP (VB Consider)
+        (NP (NP (DT the) (NN process))
+            (VP (VBN illustrated)
+                (PP (IN in)
+                    (NP (NN Fig.) (CD 2.1))))
+            (, ,)
+            (VP (VBG consisting)
+                (PP (IN of)
+                    (NP (NN R) (JJ distinct) (NNS stages)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT These))
+    (AUX (MD will))
+    (VP (VB be)
+        (VP (VBN numbered)
+            
+            (PP (IN in)
+                (NP (NP (DT the) (NN direction))
+                    (ADJP (JJ opposite)
+                          (PP (TO to)
+                              (NP (DT the) (NN flow)
+                                  (PP (IN of)
+                                      (NP (DT the) (NN process) (NN stream))))))))
+            (, ,)
+            (SBAR (RB so)
+                  (IN that)
+                  (S (NP (NN stage) (NN R))
+                     (VP (VBZ is)
+                         (NP (DT the) (NN T) (NN stage)
+                             (PP (IN from)
+                                 (NP (DT the) (NN end))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (DT the) (NN state)
+            (PP (IN of)
+                (NP (NP (DT the) (NN stream))
+                    (VP (VBG leaving)
+                        (NP (NN stage) (NN R))))))
+        (AUX (VB be))
+        (VP (VBN denoted)
+            
+            (PP (IN by)
+                (NP (DT a) (NN vector) (-NONE- A[fj]))))
+        (CC and)
+        (NP (DT the) (VBG operating) (NNS variables)
+            (PP (IN of)
+                (NP (NN stage) (NN R)))
+            (PP (IN by)
+                (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (S (NP (-NONE- A[fj]))
+       (VP (VBZ denotes)
+           (NP (DT the) (NN state)
+               (PP (IN of)
+                   (NP (DT the) (NN feed)
+                       (PP (TO to)
+                           (NP (DT the) (JJ R-stage) (NN process))))))))
+    (, ,)
+    (CC and)
+    (X (NP (-NONE- A[fj]))
+       (NP (DT the) (NN state)
+           (PP (IN of)
+               (NP (DT the) (NN product)
+                   (PP (IN from)
+                       (NP (DT the) (JJ last) (NN stage))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT Each) (NN stage))
+    (VP (VBZ transforms)
+        (NP (DT the) (NN state) (-NONE- A[fj])
+            (PP (IN of)
+                (NP (PRP$ its) (NN feed)))
+            (PP (TO to)
+                (NP (DT the) (NN state) (-NONE- A[fj]))))
+        (PP (IN in)
+            (NP (NP (DT a) (NN way))
+                (SBAR (WHNP (WDT that))
+                      (S (NP (-NONE- T))
+                         (VP (VBZ depends)
+                             (PP (IN on)
+                                 (NP (DT the) (VBG operating) (NNS variables)
+                                     (-NONE- A[fj]))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP write)
+        (NP (DT this) (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+((S (S
+       (NP (DT This) (NN transformation))
+       (AUX (VBZ is))
+       (VP (ADVP (RB uniquely))
+           (VBN determined)
+           
+           (PP (IN by)
+               (NP (-NONE- A[fj])))))
+    (CC and)
+    (S (NP (PRP we))
+       (ADVP (RB therefore))
+       (VP (VBP speak)
+           (PP (IN of)
+               (NP (DT the) (NN process)
+                   (PP (IN as)
+                       (ADJP (JJ deterministic))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (JJ practical) (NNS situations)))
+    (S
+       (NP (EX there))
+       (AUX (MD will))
+       (VP (VB be)
+           (NP (NNS restrictions)
+               (PP (IN on)
+                   (NP (DT the)
+                       (ADJP (JJ admissible))
+                       (VP (VBG operating))
+                       (NNS conditions))))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP we))
+       (VP (VBP regard)
+           (NP (DT the) (NNS vectors))
+           (PP (IN as)
+               (S (NP (-NONE- *))
+                  (VP (VBG belonging)
+                      (PP (TO to)
+                          (NP (DT a) (JJ fixed) (CC and) (JJ bounded) (NN set) (NN S)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (NN set)
+           (PP (IN of)
+               (NP (NNS vectors)
+                   (-NONE- A[fj]))))
+       (VP (VBZ constitutes)
+           (NP (NP (DT the) (VBG operating) (NN policy))
+               (CC or)
+               (, ,)
+               (ADVP (RBR more)
+                     (NN briefly))
+               (, ,)
+               (NP (DT the) (NN policy)))))
+    (, ,)
+    (CC and)
+    (S (NP (DT a) (NN policy))
+       (VP (VBZ is)
+           (ADJP (JJ admissible)))
+       (SBAR (IN if)
+             (S (NP (DT all)
+                    (DT the) (-NONE- A[fj]))
+                (VP (VB belong)
+                    
+                    (PP (TO to)
+                        (NP (NN S))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (DT the) (NN policy))
+             (AUX (VBZ has))
+             (VP (VBN been)
+                 (VP (VBN chosen)
+                     ))))
+    (, ,)
+    (S (NP (DT the) (NN state)
+           (PP (IN of)
+               (NP (DT the) (NN product))))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN obtained)
+               
+               (PP (IN from)
+                   (NP (DT the) (NN state)
+                       (PP (IN of)
+                           (NP (DT the) (NN feed)))))
+               (PP (IN by)
+                   (NP (VP (VBN repeated))
+                       (NN application)
+                       (PP (IN of)
+                           (NP (DT the) (NN transformation)
+                               (-LRB- -LRB-)
+                               (CD 1)
+                               (-RRB- -RRB-)))))))
+       (: ;)
+       (: ;)
+       (RB thus)
+       (X (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN objective) (NN function))
+        (, ,)
+        (SBAR (WHNP (WDT which))
+              (S (NP (-NONE- T))
+                 (VP (VBZ is)
+                     (S (NP (-NONE- *))
+                        (AUX (TO to))
+                        (VP (VB be)
+                            (VP (VBN maximized)
+                                ))))))
+        (, ,))
+    (VP (VBZ is)
+        (NP (NP (DT some) (NN function))
+            (, ,)
+            (ADJP (RB usually)
+                  (RB piecewise)
+                  (JJ continuous))
+            (, ,)
+            (PP (IN of)
+                (NP (DT the) (NN product) (NN state))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (DT this))
+        (AUX (VB be))
+        (VP (VBN denoted)
+            
+            (PP (IN by)
+                (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (DT An) (JJ optimal) (NN policy))
+    (VP (VBZ is)
+        (NP (NP (DT an) (JJ admissible) (NN policy) (-NONE- A[fj]))
+            (SBAR (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ maximizes)
+                         (NP (DT the) (JJ objective) (NN function) (NN P))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (DT The) (NN policy))
+       (AUX (MD may))
+       (NEG (RB not))
+       (VP (VB be)
+           (ADJP (JJ unique))))
+    (CC but)
+    (S (NP (DT the) (JJ maximum) (NN value)
+           (PP (IN of)
+               (NP (NN P))))
+       (ADVP (RB certainly))
+       (VP (VBZ is)))
+    (, ,)
+    (CC and)
+    (SBAR (RB once)
+          (S (NP (DT the) (NN policy))
+             (AUX (VBZ is))
+             (VP (VBN specified)
+                 )))
+    (S (NP (DT this) (NN maximum))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN calculated)
+               
+               (PP (IN by)
+                   (NP (NP (-LRB- -LRB-)
+                           (CD 2)
+                           (-RRB- -RRB-))
+                       (CC and)
+                       (NP (-LRB- -LRB-)
+                           (CD 3)
+                           (-RRB- -RRB-))))
+               (PP (IN as)
+                   (NP (DT a) (NN function)
+                       (PP (IN of)
+                           (NP (DT the) (NN feed) (NN state) (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (NP (-NONE- *))
+    (VP (VB Let)
+        (NP (-NONE- A[fj])))
+    (SBAR
+          (WHADVP (WRB where))
+          (S (NP (DT the) (NN maximization))
+             (VP (VBZ is)
+                 (PP (IN over)
+                     (NP (DT all) (JJ admissible) (NNS policies)
+                         (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (PRP it))
+             (VP (VBZ is)
+                 (ADJP (JJ necessary)))
+             (S (NP (-NONE- *))
+                (AUX (TO to))
+                (VP (VB be)
+                    (ADJP (JJ specific))))))
+    (S
+       (NP (PRP we))
+       (VP (VBP say)
+           (SBAR (IN that)
+                 (S (NP (DT the) (JJ optimal) (NN policy))
+                    (VP (VBZ is)
+                        (NP (DT an)
+                            (JJ optimal) (JJ R-stage)
+                            (NN policy)
+                            (PP (IN with)
+                                (NP (NN respect)
+                                    (PP (TO to)
+                                        (NP (DT the) (NN feed) (NN state) (-NONE- A[fj]))))))))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (PP (IN For)
+        (NP (DT any) (NN choice)
+            (PP (IN of)
+                (NP (JJ admissible) (NN policy) (-NONE- A[fj])
+                    (PP (IN in)
+                        (NP (DT the) (JJ first) (NN stage)))))))
+    (, ,)
+    (S (NP (DT the) (NN state)
+           (PP (IN of)
+               (NP (NP (DT the) (NN stream))
+                   (VP (VBG leaving)
+                       (NP (DT this) (NN stage))))))
+       (AUX (VBZ is))
+       (VP (VBN given)
+           (PP (IN by)
+               (NP (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (VP (VBZ is)
+        (NP (DT the) (NN feed) (NN state)
+            (PP (IN of)
+                (NP (NP (DT the) (JJ subsequent) (-NONE- A[fj]) (NNS stages))
+                    (SBAR (WHNP (WDT which))
+                          (, ,)
+                          (S (VP (VBG according)
+                                 (PP (TO to)
+                                     (NP (DT the) (NN principle)
+                                         (PP (IN of)
+                                             (NP (NN optimality))))))
+                             (, ,)
+                             (S (NP (-NONE- T))
+                                (AUX (MD must))
+                                (VP (VB use)
+                                    (NP (DT an)
+                                        (JJ optimal) (JJ Af-stage)
+                                        (NN policy)
+                                        (PP (IN with)
+                                            (NP (NN respect)
+                                                (PP (TO to)
+                                                    (NP (DT this) (NN state)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT This))
+       (AUX (MD will))
+       (VP (VB result)
+           (PP (IN in)
+               (NP (DT a) (NN value) (-NONE- A[fj])
+                   (PP (IN of)
+                       (NP (DT the) (JJ objective) (NN function)))))))
+    (, ,)
+    (CC and)
+    (S (SBAR
+             (WHADVP (WRB when))
+             (S (NP (-NONE- A[fj]))
+                (AUX (VBZ is))
+                (VP (VBN chosen)
+                    (ADVP (RB correctly)))))
+       (S (NP (DT this))
+          (AUX (MD will))
+          (VP (VB give)
+              (NP (NP (-NONE- A[fj]))
+                  (, ,)
+                  (NP (DT the) (NN maximum)
+                      (PP (IN of)
+                          (NP (DT the) (JJ objective) (NN function)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Thus))
+    (NP (NP (-NONE- A[fj]))
+        (SBAR
+              (WHADVP (WRB where))
+              (S (NP (DT the) (NN maximization))
+                 (VP (VBZ is)
+                     (PP (IN over)
+                         (NP (DT all) (JJ admissible) (NNS policies)
+                             (-NONE- A[fj])))))))
+    (, ,)
+    (CC and)
+    (S (NP (-NONE- A[fj]))
+       (AUX (VBZ is))
+       (VP (VBN related)
+           
+           (PP (TO to)
+               (NP (-NONE- A[fj])))
+           (PP (IN by)
+               (NP (-LRB- -LRB-)
+                   (CD 5)
+                   (-RRB- -RRB-))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (S (NP (NP (DT The) (NN sequence)
+               (PP (IN of)
+                   (NP (NNS equations))))
+           (NP (-LRB- -LRB-)
+               (CD 6)
+               (-RRB- -RRB-)))
+       (AUX (MD can))
+       (VP (VB be)
+           (VP (VBN solved)
+               
+               (PP (IN for)
+                   (NP (-NONE- A[fj])))))
+       (SBAR
+             (WHADVP (WRB when))
+             (S (NP (-NONE- A[fj]))
+                (AUX (VBZ is))
+                (VP (VBN known)
+                    )
+                (, ,)
+                (CC and)
+                (X (ADVP (RB clearly))
+                   (NP (-NONE- A[fj]))))))
+    (, ,)
+    (S (NP (DT the) (NN maximization))
+       (VP (VBG being)
+           (PP (IN over)
+               (NP (DT all) (JJ admissible) (-NONE- A[fj]))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (DT The) (NN set)
+        (PP (IN of)
+            (NP (NP (NNS equations)
+                    (-LRB- -LRB-)
+                    (CD 5)
+                    (-RRB- -RRB-)
+                    (, ,)
+                    (-LRB- -LRB-)
+                    (CD 6)
+                    (-RRB- -RRB-))
+                (, ,)
+                (CC and)
+                (NP (DT the) (VBG starting) (NN equation)
+                    (-LRB- -LRB-)
+                    (CD 7)
+                    (-RRB- -RRB-)))))
+    (VP (VBZ is)
+        (PP (IN of)
+            (NP (NP (DT a) (JJ recursive) (NN type))
+                (ADJP (RB well)
+                      (VBN suited)
+                      (PP (TO to)
+                          (NP (NN programming)
+                              (PP (IN on)
+                                  (NP (DT the) (JJ digital) (NN computer))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (PP (IN In)
+        (S (NP (-NONE- *))
+           (VP (VBG finding)
+               (NP (DT the)
+                   (JJ optimal) (JJ R-stage)
+                   (NN policy))
+               (PP (IN from)
+                   (NP (DT that)
+                       (PP (IN of)
+                           (NP (-NONE- A[fj]) (NNS stages))))))))
+    (, ,)
+    (S (NP (RB only)
+           (DT the) (NN function) (-NONE- A[fj]))
+       (AUX (VBZ is))
+       (VP (VBN needed)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (SBAR
+          (WHADVP (WRB When))
+          (S (NP (-NONE- A[fj]))
+             (AUX (VBZ has))
+             (VP (VBN been)
+                 (VP (VBN found)
+                     ))))
+    (S (NP (PRP it))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN transferred)
+               
+               (PP (IN into)
+                   (NP (DT the) (NN storage) (NN location)
+                       (PP (IN of)
+                           (NP (-NONE- A[fj]))))))))
+    (CC and)
+    (S (NP (DT the) (JJ whole) (NN calculation))
+       (VP (VBD repeated))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (ADVP (RB also))
+    (VP (VBP see)
+        (SBAR
+              (WHADVP (WRB how))
+              (S (NP (DT the) (NNS results))
+                 (AUX (MD may))
+                 (VP (VB be)
+                     (VP (VBN presented)
+                         )))))
+    (, ,)
+    (SBAR (IN although)
+          (S (SBAR (IN if)
+                   (S (NP (NP (NN n))
+                          (, ,)
+                          (NP (DT the) (NN number)
+                              (PP (IN of)
+                                  (NP (NN state) (NNS variables))))
+                          (, ,))
+                      (VP (VBZ is)
+                          (ADJP (JJ large)))))
+             (S (NP (DT any) (NN tabulation))
+                (AUX (MD will))
+                (VP (VB become)
+                    (ADJP (JJ cumbersome)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (NP (DT A) (NN table))
+        (CC or)
+        (NP (NN set)
+            (PP (IN of)
+                (NP (NNS tables)))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN set)
+            (PRT (IN out))
+            (PP (IN as)
+                (PP (IN in)
+                    (NP (NN Table) (CD 2.1)))))))
+ (. .))
+ 
+
+ 
+
+((S (S (NP (-NONE- *))
+       (AUX (TO To))
+       (VP (VB extract)
+           (NP (DT the)
+               (JJ optimal) (JJ R-stage)
+               (NN policy)
+               (PP (IN with)
+                   (NP (NN respect)
+                       (PP (TO to)
+                           (NP (DT the) (NN feed) (NN state) (-NONE- A[fj]))))))))
+    (, ,)
+    (S (NP (PRP we))
+       (VP (VP (VBP enter)
+               (NP (NN section) (NN R)
+                   (PP (IN of)
+                       (NP (DT this) (NN table))))
+               (PP (IN at)
+                   (NP (DT the) (NN state) (-NONE- A[fj]))))
+           (CC and)
+           (VP (VB find)
+               (ADVP (RB immediately))
+               (PP (IN from)
+                   (NP (DT the) (JJ last) (NN column)))
+               (NP (DT the) (JJ maximum) (NN value)
+                   (PP (IN of)
+                       (NP (DT the) (JJ objective) (NN function))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SINV (PP (IN In)
+              (NP (DT the) (JJ third) (NN column)))
+          (AUX (VBZ is))
+          (VP (VBN given))
+          (NP (DT the) (JJ optimal) (NN policy)
+              (PP (IN for)
+                  (NP (NN stage) (NN R)))))
+    (, ,)
+    (CC and)
+    (PP (IN in)
+        (NP (DT the)
+            (ADJP (JJ fourth))))
+    (, ,)
+    (X (NP (DT the) (VBG resulting) (NN state)
+           (PP (IN of)
+               (NP (DT the) (NN stream))))
+       (SBAR
+             (WHADVP (WRB when))
+             (S (NP (DT this) (NN policy))
+                (AUX (VBZ is))
+                (VP (VBN used)
+                    )))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN Since)
+          (S (PP (IN by)
+                 (NP (DT the) (NN principle)
+                     (PP (IN of)
+                         (NP (NN optimality)))))
+             (S
+                (NP (DT the) (VBG remaining) (NNS stages))
+                (VP (VB use)
+                    (NP (DT an)
+                        (JJ optimal) (JJ Af-stage)
+                        (NN policy)
+                        (PP (IN with)
+                            (NP (NN respect)
+                                (PP (TO to)
+                                    (NP (-NONE- A[fj]))))))))))
+    (, ,)
+    (S (NP (PRP we))
+       (AUX (MD may))
+       (VP (VP (VB enter)
+               (NP (NN section) (-NONE- A[fj])
+                   (PP (IN of)
+                       (NP (DT the) (NN table))))
+               (PP (IN at)
+                   (NP (DT this) (NN state) (-NONE- A[fj]))))
+           (CC and)
+           (VP (VBD read)
+               (PRT (IN off))
+               (NP (NP (DT the) (JJ optimal) (NN policy)
+                       (PP (IN for)
+                           (NP (NN stage) (-NONE- A[fj]))))
+                   (CC and)
+                   (NP (DT the) (VBG resulting) (NN state) (-NONE- A[fj])))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (S (NP (-NONE- *))
+       (VP (VBG Proceeding)
+           (PP (IN in)
+               (NP (DT this) (NN way)))
+           (PP (IN up)
+               (NP (DT the) (NN table)))))
+    (S
+       (NP (PRP we))
+       (VP (VBP extract)
+           (NP (DT the)
+               (JJ complete) (JJ optimal)
+               (NN policy))))
+    (CC and)
+    (, ,)
+    (S (SBAR (IN if)
+             (S (NP (PRP it))
+                (AUX (VBZ is))
+                (VP (VBN desired)
+                    )))
+       (, ,)
+       (S (NP (PRP we))
+          (AUX (MD can))
+          (VP (VB check)
+              (PP (IN on)
+                  (NP (-NONE- A[fj])))
+              (PP (IN by)
+                  (S (NP (-NONE- *))
+                     (VP (VBG evaluating)
+                         (NP (-NONE- A[fj])))
+                     (PP (IN at)
+                         (NP (DT the) (JJ last) (NN stage)))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP It))
+    (AUX (MD may))
+    (VP (VB be)
+        (SBAR (IN that)
+              (S (NP (DT the) (JJ objective) (NN function))
+                 (VP (VBZ depends)
+                     (PP (CONJP (RB not)
+                                (RB only))
+                         (PP (IN on)
+                             (NP (-NONE- A[fj])))
+                         (CONJP (CC but)
+                                (RB also))
+                         (PP (IN on)
+                             (NP (-NONE- A[fj])))))
+                 (, ,)
+                 (PP (IN as)
+                     (SBAR
+                           (WHADVP (WRB when))
+                           (S (NP (DT the) (NN cost)
+                                  (PP (IN of)
+                                      (NP (DT the) (VBG operating) (NN policy))))
+                              (AUX (VBZ is))
+                              (VP (VBN considered)
+                                  ))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP
+        (NP (DT A) (NN moment))
+        (POS 's) (NN reflection))
+    (VP (VBZ shows)
+        (SBAR (IN that)
+              (S (NP (DT the) (JJ above) (NN algorithm) (CC and) (NN presentation))
+                 (VP (NN work)
+                     (ADVP (RB equally)
+                           (RB well))
+                     (PP (IN in)
+                         (NP (DT this) (NN case))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (NP (NP (DT A) (NN form)
+            (PP (IN of)
+                (NP (JJ objective) (NN function))))
+        (SBAR (WHNP (IN that))
+              (S (NP (PRP we))
+                 (AUX (MD shall))
+                 (ADVP (RB often))
+                 (VP (VB have)
+                     (NP (NN occasion)
+                         (S (NP (-NONE- *))
+                            (AUX (TO to))
+                            (VP (VB consider)
+                                (NP (-NONE- T)))))))))
+    (VP (VBZ is)
+        (NP (-NONE- A[fj]))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Here))
+    (S (NP (NN P))
+       (VP (VBZ represents)
+           (NP (DT the) (NN value)
+               (PP (IN of)
+                   (NP (DT the) (NN stream)))
+               (PP (IN in)
+                   (NP (NN state) (NN P))))))
+    (CC and)
+    (X (NP (NN Q))
+       (NP (DT the) (NN cost)
+           (PP (IN of)
+               (S (NP (-NONE- *))
+                  (VP (VBG operating)
+                      (NP (DT the) (NN stage))
+                      (PP (IN with)
+                          (NP (NNS conditions)
+                              (NN Q)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Hence))
+    (S (NP (NN P))
+       (VP (VBZ is)
+           (NP (NP (NP (DT the) (NN increase)
+                       (PP (IN in)
+                           (NP (NN value)
+                               (PP (IN of)
+                                   (NP (DT the) (NN stream))))))
+                   (PP (CC minus)
+                       (NP (DT the) (NN cost)
+                           (PP (IN of)
+                               (NP (NN operation))))))
+               (, ,)
+               (S (NP (DT that))
+                  (VP (VBZ is)))
+               (, ,)
+               (NP (DT the) (JJ net) (NN profit))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (-NONE- A[fj]))
+             (VP (VBZ denotes)
+                 (NP (DT the) (JJ net) (NN profit)
+                     (PP (IN from)
+                         (NP (NP (NN stage) (NN R))
+                             (CC and)
+                             (NP (-NONE- A[fj]))))))))
+    (, ,)
+    (RB then)
+    (S (NP (DT the) (NN principle)
+           (PP (IN of)
+               (NP (NN optimality))))
+       (VP (VBZ gives)
+           (NP (-NONE- A[fj])))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This) (NN sequence)
+        (PP (IN of)
+            (NP (NNS equations))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN started)
+            (PP (IN with)
+                (NP (DT the) (NN remark)
+                    (SBAR (IN that)
+                          (S (PP (IN with)
+                                 (NP (DT no) (NN process) (-NONE- A[fj])))
+                             (S (NP (EX there))
+                                (VP (VBZ is)
+                                    (NP (NP (DT no) (NN profit))
+                                        (, ,)
+                                        (X (FW i.e.))
+                                        (, ,)
+                                        (NP (NN Af.))))))))))))
+ )
+ 
+
+((NP (NP (CD 2.3))
+     (NP (DT the)
+         (JJ discrete) (JJ stochastic)
+         (NN process)))
+ )
+ 
+
+(
+ (S (NP (NP (DT The) (NN process))
+        (SBAR (WHPP (IN in)
+                    (WHNP (WDT which)))
+              (S (NP (DT the) (NN outcome)
+                     (PP (IN of)
+                         (NP (DT any) (CD one) (NN stage))))
+                 (AUX (VBZ is))
+                 (VP (VBN known)
+                     (ADVP (RB only)
+                           (RB statistically))))))
+    (VP (VBZ is)
+        (ADVP (RB also))
+        (PP (IN of)
+            (NP (NN interest))))
+    (, ,)
+    (SBAR (IN although)
+          (S (PP (IN for)
+                 (NP (JJ chemical) (NN reactor) (NN design)))
+             (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                    (NEG (RB not))
+                    (ADJP (RB as)
+                          (JJ important)
+                          (PP (IN as)
+                              (NP (DT the) (JJ deterministic) (NN process)))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN In)
+        (NP (DT this) (NN case)))
+    (S (NP (NP (DT the) (NN stage) (NN R))
+           (VP (VBG operating)
+               (PP (IN with)
+                   (NP (NNS conditions)
+                       (-NONE- A[fj])))))
+       (VP (VBZ transforms)
+           (NP (DT the) (NN state)
+               (PP (IN of)
+                   (NP (DT the) (NN stream)))
+               (PP (PP (IN from)
+                       (NP (-NONE- A[fj])))
+                   (PP (TO to)
+                       (NP (-NONE- A[fj])))))))
+    (, ,)
+    (CC but)
+    (S (NP (RB only)
+           (DT the) (NN probability) (NN distribution)
+           (PP (IN of)
+               (NP (-NONE- A[fj]))))
+       (AUX (VBZ is))
+       (VP (VBN known)
+           )))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT This))
+    (AUX (VBZ is))
+    (VP (VBN specified)
+        
+        (PP (IN by)
+            (NP (DT a) (NN distribution) (NN function) (-NONE- A[fj])
+                (SBAR (JJ such)
+                      (IN that)
+                      (S (NP (DT the) (NN probability)
+                             (SBAR (IN that)
+                                   (S (NP (-NONE- A[fj]))
+                                      (VP (VBZ lies)
+                                          
+                                          (PP (IN in)
+                                              (NP (DT some) (NN region) (NN D)
+                                                  (PP (IN of)
+                                                      (NP (DT the) (NN stage) (NN space)))))))))
+                         (VP (VBZ is)
+                             (NP (-NONE- A[fj])))))))))
+ (. .))
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (AUX (MD can))
+    (NEG (RB not))
+    (ADVP (RB now))
+    (VP (VB speak)
+        (PP (IN of)
+            (S (NP (-NONE- *))
+               (VP (VBG maximizing)
+                   (NP (DT the) (NN value)
+                       (PP (IN of)
+                           (NP (DT the) (JJ objective) (NN function))))))))
+    (, ,)
+    (SBAR (IN since)
+          (S (NP (DT this) (NN function))
+             (AUX (VBZ is))
+             (ADVP (RB now))
+             (VP (VBN known)
+                 
+                 (PP (RB only)
+                     (IN in)
+                     (NP (DT a) (JJ probabilistic) (NN sense)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (AUX (MD can))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VB maximize)
+        (NP (PRP$ its) (VBN expected) (NN value))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (PP (IN For)
+        (NP (DT a) (JJ single) (NN stage)))
+    (S
+       (NP (PRP we))
+       (AUX (MD may))
+       (VP (VB define)
+           (NP (NP (-NONE- A[fj]))
+               (SBAR
+                     (WHADVP (WRB where))
+                     (S (NP (DT the) (NN maximization))
+                        (VP (VBZ is)
+                            (PP (IN by)
+                                (NP (NN choice)
+                                    (PP (IN of)
+                                        (NP (-NONE- A[fj]))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (ADVP (RB thus))
+    (VP (VBP have)
+        (NP (NP (DT an) (JJ optimal) (NN policy))
+            (SBAR (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ maximizes)
+                         (NP (DT the) (VBN expected) (NN value)
+                             (PP (IN of)
+                                 (NP (DT the) (JJ objective) (NN function)))
+                             (PP (IN for)
+                                 (NP (DT a) (VBN given) (-NONE- A[fj]))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (PRP we))
+             (VP (VBP consider)
+                 (NP (NP (DT a) (NN process))
+                     (SBAR (WHPP (IN in)
+                                 (WHNP (WDT which)))
+                           (S
+                              (NP (DT the) (NN outcome)
+                                  (PP (IN of)
+                                      (NP (CD one) (NN stage))))
+                              (AUX (VBZ is))
+                              (VP (VBN known)
+                                  )
+                              (PP (IN before)
+                                  (NP (NN passage)
+                                      (PP (TO to)
+                                          (NP (DT the)
+                                              (ADJP (JJ next))))))))))))
+    (, ,)
+    (RB then)
+    (S (NP (DT the) (NN principle)
+           (PP (IN of)
+               (NP (NN optimality))))
+       (VP (VBZ shows)
+           (SBAR (IN that)
+                 (S (NP (DT the) (NN policy)
+                        (PP (IN in)
+                            (NP (JJ subsequent) (NNS stages))))
+                    (AUX (MD should))
+                    (VP (VB be)
+                        (ADJP (JJ optimal)
+                              (PP (IN with)
+                                  (NP (NN respect)
+                                      (PP (TO to)
+                                          (NP (DT the) (NN outcome)
+                                              (PP (IN of)
+                                                  (NP (DT the)
+                                                      (ADJP (JJ first)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (ADVP (RB Then))
+    (NP (-NONE- A[fj]))
+    (, ,)
+    (S (NP (DT the) (NN maximization))
+       (VP (VBG being)
+           (PP (IN over)
+               (NP (DT all) (JJ admissible) (-NONE- A[fj])))))
+    (CC and)
+    (X (NP (DT the) (NN integration))
+       (PP (IN over)
+           (NP (DT the) (NN whole)
+               (PP (IN of)
+                   (NP (NN stage) (NN space)))))))
+ (. .))
+ 
+
+ 
+
+(
+ (S (NP (NP (DT The) (NN type)
+            (PP (IN of)
+                (NP (NN presentation)
+                    (PP (IN of)
+                        (NP (NNS results))))))
+        (VP (VBN used)
+            (PP (IN in)
+                (NP (DT the) (JJ deterministic) (NN process)))))
+    (AUX (MD may))
+    (VP (VB be)
+        (VP (VBN used)
+            (ADVP (RB here))))
+    (, ,)
+    (PP (IN except)
+        (SBAR (IN that)
+              (S (ADVP (RB now))
+                 (S (NP (DT the) (JJ fourth) (NN column))
+                    (VP (VBZ is)
+                        (ADJP (JJ redundant))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (JJ third) (NN column))
+       (VP (VBZ gives)
+           (NP (DT the) (JJ optimal) (NN policy))))
+    (, ,)
+    (CC but)
+    (S (NP (PRP we))
+       (AUX (MD must))
+       (VP (VP (VB wait)
+               (S (NP (-NONE- *))
+                  (AUX (TO to))
+                  (VP (VB see)
+                      (NP (DT the) (NN outcome)
+                          (PP (IN of)
+                              (NP (NN stage) (NN R)))))))
+           (CC and)
+           (VP (VB enter)
+               (NP (DT the) (VBG preceding) (NN section)
+                   (PP (IN of)
+                       (NP (DT the) (NN table))))
+               (PP (IN at)
+                   (NP (DT this) (NN state)))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (DT The) (NN discussion)
+        (PP (IN of)
+            (NP (DT the) (JJ optimal) (NN policy))))
+    (SBAR
+          (WHADVP (WRB when))
+          (S (NP (DT the) (NN outcome)
+                 (PP (IN of)
+                     (NP (CD one) (NN stage))))
+             (AUX (VBZ is))
+             (NEG (RB not))
+             (VP (VBN known))
+             (PP (IN before)
+                 (S (NP (-NONE- *))
+                    (VP (VBG passing)
+                        (PP (TO to)
+                            (NP (DT the)
+                                (ADJP (JJ next)))))))))
+    (VP (VBZ is)
+        (NP (DT a)
+            (ADJP (RB very)
+                  (RB much)
+                  (RBR more)
+                  (JJ difficult)) (NN matter))))
+ (. .))
+ 
+
+ 
+
+((NP (NP (CD 2.4))
+     (NP (DT the)
+         (JJ continuous) (JJ deterministic)
+         (NN process))))
+ 
+
+(
+ (S (PP (IN In)
+        (NP (JJ many) (NNS cases)))
+    (S
+       (NP (PRP it))
+       (VP (VBZ is)
+           (NEG (RB not))
+           (ADJP (JJ possible)))
+       (S (NP (-NONE- *))
+          (AUX (TO to))
+          (VP (VB divide)
+              (NP (DT the) (NN process)
+                  (PP (IN into)
+                      (NP (DT a) (JJ finite) (NN number)
+                          (PP (IN of)
+                              (NP (JJ discrete) (NNS stages))))))))
+       (, ,)
+       (SBAR (IN since)
+             (S (NP (DT the) (NN state)
+                    (PP (IN of)
+                        (NP (DT the) (NN stream))))
+                (AUX (VBZ is))
+                (VP (VBN transformed)
+                    
+                    (PP (IN in)
+                        (NP (DT a) (JJ continuous) (NN manner)))
+                    (PP (IN through)
+                        (NP (DT the) (NN process))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S
+    (NP (PRP We))
+    (VP (VBP replace)
+        (NP (NP (NN r))
+            (, ,)
+            (NP (DT the) (NN number)
+                (PP (IN of)
+                    (NP (DT the) (NN stage)
+                        (PP (IN from)
+                            (NP (DT the) (NN end)
+                                (PP (IN of)
+                                    (NP (DT the) (NN process))))))))
+            (, ,))
+        (PP (IN by)
+            (NP (NP (NN t))
+                (, ,)
+                (NP (NP (DT a) (JJ continuous) (NN variable))
+                    (SBAR (WHNP (WDT which))
+                          (S (NP (-NONE- T))
+                             (VP (VBZ measures)
+                                 (NP (NP (DT the)
+                                         (`` ``)
+                                         (NN distance)
+                                         ('' '')
+                                         (PP (IN of)
+                                             (NP (DT the) (NN point))))
+                                     (VP (VBN considered)
+                                         (PP (IN from)
+                                             (NP (DT the) (NN end)
+                                                 (PP (IN of)
+                                                     (NP (DT the) (NN process)))))))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (DT The) (NN word) (NN distance))
+       (AUX (VBZ is))
+       (VP (VBN used)
+           (ADVP (RB here))
+           (PP (IN in)
+               (NP (DT a)
+                   (ADJP (RB rather)
+                         (JJ general)) (NN sense)))))
+    (: ;)
+    (: ;)
+    (S (NP (PRP it))
+       (AUX (MD may))
+       (PP (IN in)
+           (NP (NN fact)))
+       (VP (VB be)
+           (NP (NP (DT the) (NN time))
+               (SBAR (WHNP (WDT that))
+                     (S (NP (-NONE- T))
+                        (AUX (MD will))
+                        (VP (VB elapse))
+                        (PP (IN before)
+                            (NP (DT the) (NN end)
+                                (PP (IN of)
+                                    (NP (DT the) (NN process)))))))))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+(
+ (S (SBAR (IN If)
+          (S (NP (NN T))
+             (VP (VBZ is)
+                 (NP (DT the) (JJ total)
+                     (`` ``)
+                     (NN length)
+                     ('' '')
+                     (PP (IN of)
+                         (NP (DT the) (NN process)))))))
+    (, ,)
+    (S (NP (PRP$ its) (NN feed) (NN state))
+       (AUX (MD may))
+       (VP (VB be)
+           (VP (VBN denoted)
+               
+               (PP (IN by)
+                   (NP (DT a) (NN vector) (NN p)
+                       (-LRB- -LRB-)
+                       (NN T)
+                       (-RRB- -RRB-))))))
+    (CC and)
+    (X (NP (DT the) (NN product) (NN state))
+       (PP (IN by)
+           (NP (NN p)
+               (-LRB- -LRB-)
+               (NN Q)
+               (-RRB- -RRB-)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 
+
+((S (S
+       (NP (NN P))
+       (VP (VBZ denotes)
+           (NP (DT the) (NN state)
+               (PP (IN at)
+                   (NP (DT any) (NN point) (NN T)))))
+       (CC and)
+       (X (NP (NN Q))
+          (NP (DT the) (NN vector)
+              (PP (IN of)
+                  (NP (VP (VBG operating))
+                      (NNS variables))))
+          (ADVP (RB there)))))
+ (. .))
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,2089 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The following items)
+       (NP-1 *pseudo-attach*))
+   (AUX may)
+   (VP be
+       (VP specified
+		 
+	   (PP in
+	       (NP (ADJP actual or symbolic) form))
+	   (PP in
+	       (NP the operands
+		   (PP of
+		       (NP (NP those instructions)
+			   (SBAR (WHNP which)
+				 (S (NP T)
+				    (VP refer
+					(PP to
+					    (NP the particular items)))))))))))
+   :
+   (NP-1 (NP channel)
+       ,
+       (NP unit)
+       ,
+       (NP (VP combined)
+	   channel and unit)
+       ,
+       (NP (VP combined)
+	   arm and file)
+       ,
+       (NP unit record synchronizers)
+       ,
+       (NP inquiry synchronizers)
+       ,
+       and
+       (NP alteration switches)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The declarative operation EQU)
+       (AUX is)
+       (VP used
+		 
+	   (S (NP *)
+	      (AUX to)
+	      (VP equate
+		  (NP symbolic names)
+		  (PP to
+		      (NP item numbers))))))
+    *LRB*
+    (S (NP *)  
+       (VP see
+	   (NP page 85)))
+    *RRB*)
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP Continuation cards))
+(  
+ (S (NP Certain Autocoder statements)
+    (VP make
+	(NP provision
+	    (PP for
+		(NP
+		 (ADJP more)
+		 parameters
+		 (PP than
+		     (S (NP *)  
+			(AUX may)
+			(VP be
+			    (VP contained
+		 
+				(PP in
+				    (NP (NP the operand)
+					*LRB*
+					(NP columns 21
+					    -
+					    75)
+					*RRB*
+					(PP of
+					    (NP a single line
+						(PP on
+						    (NP the Autocoder coding sheet)))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP this)
+	 (VP is
+	     (NP the case))))
+     ,
+     (S (NP the appropriate section
+	    (PP of
+		(NP this manual)))
+	(AUX will)
+	(VP indicate
+	    (SBAR that
+		  (S (NP  ``
+			 Continuation Cards
+			 '')
+		     (AUX may)
+		     (VP be
+			 (VP used
+			     )))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Thus)
+      ,
+      (SBAR (WHADVP when)
+	    (S  (NP *) 
+		(VP  (ADVP specifically)
+		     permitted)))
+      ,
+      (S (NP the operand
+	     (PP of
+		 (NP a given line
+		     (PP on
+			 (NP the Autocoder coding sheet)))))
+	 (AUX may)
+	 (VP be
+	     (VP continued
+		  
+		 (PP in
+		     (NP the operand
+			 (PP of
+			     (NP (NP  (PP (PP from
+					      (NP one))
+					  (PP to
+					      (NP four)))
+				      additional lines)
+				 (SBAR (WHNP which)
+				       (S  (NP T)  
+					   (ADVP immediately)
+					   (VP follow)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The label and operation columns)
+      (AUX must)
+      (VP be
+	  (ADJP blank)))
+     and
+     (S (NP the continuation
+	    (PP of
+		(NP the operand)))
+	(AUX must)
+	(VP begin
+	    (PP in
+		(NP column 21))))
+     ;
+     ;
+     (X i.e.)
+     ,
+     (S (NP it)
+	(AUX must)
+	(VP be
+	    (ADJP left-justified
+		  (PP in
+		      (NP the operand column
+			  (PP of
+			      (NP the coding sheet))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The operand)
+   (X (X (AUX need)
+	 (NEG not)
+	 (VP extend
+	     (PP across
+		 (NP the entire operand column
+		     (PP of
+			 (NP  either
+			      the header card or continuation cards))))))
+      but
+      (X (AUX may)
+	 (VP end
+	     (PP with
+		 (NP (NP the comma)
+		     (VP following
+			 (NP any parameter))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Remarks)
+   (AUX may)
+   (VP appear
+       (PP to
+	   (NP the right
+	       (PP of
+		   (NP the last parameter
+		       (PP on
+			   (NP each card)))))))
+   (VP provided
+       (SBAR 0
+	     (S (NP they)
+		(AUX are)
+		(VP separated
+				      
+		    (PP from
+			(NP the operand))
+		    (PP by
+			(NP (PP at
+				(ADJP least))
+			    two blank spaces)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Illustrations
+       (PP of
+	   (NP the use
+	       (PP of
+		   (NP continuation cards)))))
+   (AUX are)
+   (VP included
+        
+       (PP throughout
+	   (NP (NP the examples)
+	       (VP illustrating
+		   (NP the various statements))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP a continuation card)
+	     (VP follows
+		 (NP (NP a statement)
+		     (SBAR (WHNP that)
+			   (S (NP T)
+			      (AUX does)
+			      (NEG not)
+			      (VP permit
+				  (NP continuation cards))))))))
+    ,
+    (S (NP the compiler)
+       (AUX will)
+       (VP (VP generate
+	       (NP a NOP))
+	   and
+	   (VP issue
+	       (NP an error message)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP Additional restrictions)
+      (VP regarding
+	  (S (NP the use
+		 (PP of
+		     (NP continuation cards
+			 (PP with
+			     (NP macro-instructions)))))))
+      (VP appear
+	  (PP on
+	      (NP page 106))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP Reservation
+     (PP of
+	 (NP (NP index words)
+	     and
+	     (NP electronic switches))))
+  )
+((S  
+  (NP The assignment
+      (PP of
+	  (NP actual addresses))
+      (PP to
+	  (NP symbolic index word
+	      and
+	      electronic switch names)))
+  (VP occurs
+      (PP in
+	  (NP Phase 3
+	      ,
+	      (PP of
+		  (NP the Autocoder processor))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The initial availability
+      (PP of
+	  (NP (NP index words)
+	      and
+	      (NP electronic switches))))
+  (AUX is)
+  (VP determined
+	 
+      (PP by
+	  (NP (NP a table)
+	      (SBAR (WHNP which)
+		    (S (NP T)
+		       (AUX is)
+		       (VP included
+			      
+			   (PP in
+			       (NP the Compiler Systems
+				   Tape)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP This table)
+      (VP  (ADVP originally)
+	   indicates
+	   (SBAR that
+		 (S  (NP (NP index words
+			     (NP 1
+				 (PP through)
+				 (NP 96)))
+			 and
+			 (NP electronic switches
+			     (NP 1
+				 (PP through
+				     (NP 30)))))
+		    (VP are
+			(ADJP available
+			      (PP for
+				  (NP assignment
+				      (PP to
+					  (NP symbolic references))))))))))
+     ;
+     ;
+     (S  
+      (NP index words
+	  (NP 97
+	      (PP through
+		  (NP 99))))
+      (VP are
+	  (NEG not)
+	  (ADJP available))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The initial setting
+       (PP of
+	   (NP this table)))
+   (AUX may)
+   (VP be
+       (VP altered
+	   ,
+	   (ADVP however)
+	   ,
+	   (PP as
+	       (S (NP *)  
+		  (VP described
+		      (PP in
+			  (NP (NP the 70707074 Data
+				  Processing System Bulletin)
+			      ``
+			      (NP (NP  IBM
+				       70707074 Compiler System)
+				  :
+				  (NP Operating Procedure))
+			      ''
+			      ,
+			      (NP form A[fj])))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the first pass
+	    (PP of
+		(NP Phase 3))))
+    ,
+    ,
+    (S  
+     (NP references
+	 (PP to
+	     (NP the actual addresses
+		 (PP of
+		     (NP (NP index words)
+			 and
+			 (NP electronic switches))))))
+     (AUX are)
+     (VP collected
+	 ))
+    and
+    (S (NP the availability table)
+       (AUX is)
+       (VP updated
+	   )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP At
+	(NP the end
+	    (PP of
+		(NP this pass))))
+    ,
+    (S (NP the table)
+       (VP indicates
+	   (SBAR (WHNP which index words
+		       and
+		       electronic switches)
+		 (S (NP T)  
+		    (VP are
+			(NEG not)
+			(ADJP available
+			      (PP for
+				  (NP assignment
+				      (PP to
+					  (NP symbolic references)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Both 
+      (NP index words)
+      and
+      (NP electronic switches))
+  (AUX may)
+  (VP have
+      (VP been
+	  (VP made
+	      (ADJP unavailable
+		    (PP before
+			(NP the start
+			    (PP of
+				(NP assignment))))
+		    (PP in
+			(NP one
+			    (PP of
+				(NP the following ways)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 1
+       .))
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The initial setting
+       (PP of
+	   (NP the availability table)))
+   (VP indicated
+       (SBAR that
+	     (S (NP the index word
+		    or
+		    electronic switch)
+		(VP was
+		    (NEG not)
+		    (ADJP available
+			  (PP for
+			      (NP assignment))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 2
+       .))
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The one
+	-
+	or
+	two-digit number
+	(PP of
+	    (NP (NP the index word)
+		or
+		(NP electronic switch))))
+    (AUX was)
+    (VP used
+		   
+	(PP in
+	    (NP the operand
+		(PP of
+		    (NP a symbolic machine instruction))))
+	(S (NP *)
+	   (AUX to)
+	   (VP specify
+	       (NP indexing)))
+	or
+	(PP as
+	    (NP (NP a parameter)
+		(SBAR (WHNP which)
+		      (S (NP T)
+			 (VP is
+			     (ADVP always)
+			     (NP (NP an index word)
+				 or
+				 (NP electronic switch)))))
+		,
+		(NP (X e.g.))
+		,
+		(NP 3)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The one
+	   -
+	   or
+	   two-digit number
+	   (PP of
+	       (NP  the index word
+		    or
+		    electronic switch)))
+       (AUX was)
+       (VP used
+	 
+	   (PP in
+	       (NP the operand
+		   (PP of
+		       (NP an EQU statement))))))
+    ,
+    (NP (X e.g.))
+    ,
+    (S (SBAR 
+	(WHADVP When)
+	(S (NP the index words
+	       or
+	       electronic switches)
+	   (AUX are)
+	   (VP reserved
+	       (ADVP because
+		     (PP of
+			 (NP actual usage
+			     (PP in
+				 (NP (NP the statements)
+				     (VP described
+					 (ADVP above))))))))))
+       ,
+       (S (NP the position or order
+	      (PP of
+		  (NP the statements))
+	      (PP within
+		  (NP the program)))
+	  (VP is
+	      (NEG not)
+	      (ADJP important)))
+       ;
+       ;
+       (S (NP any such reference)
+	  (AUX will)
+	  (VP make
+	      (NP the index word
+		  or
+		  (NP electronic switch))
+	      (ADJP unavailable)
+	      (PP at
+		  (NP the end
+		      (PP of
+			  (NP this pass))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the assignment pass
+	    (PP of
+		(NP Phase 3))))
+    ,
+    ,
+    (S (NP (NP index words)
+	   and
+	   (NP electronic switches))
+       (AUX are)
+       (VP reserved
+	      
+	   (SBAR as
+		 (S (NP they)
+		    (AUX are)
+		    (VP encountered
+			(PP during
+			    (NP assignment))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP (NP Index words)
+	and
+	(NP electronic switches))
+    (AUX may)
+    (VP be
+	(VP reserved
+	      
+	    (PP in
+		(NP the following ways)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP The
+	  (ADJP first)
+	  two methods)
+      (VP apply
+	  (PP to
+	      (NP both 
+		  (NP index words)
+		  and
+		  (NP electronic switches)))))
+     ;
+     ;
+     (S (NP the third)
+	(VP applies
+	    (ADVP only)
+	    (PP to
+		(NP index words)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 1
+       .))
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP During
+	(NP the assignment pass))
+    ,
+    (S (NP each instruction)
+       (AUX is)
+       (VP examined
+	      
+	   (PP for
+	       (NP reference
+		   (PP to
+		       (NP the symbolic name
+			   (PP of
+			       (NP an index word
+				   or
+				   electronic switch)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP such
+	     a reference)
+	 (AUX is)
+	 (VP found
+	     )))
+     ,
+     (S (NP an actual address)
+	(AUX is)
+	(VP assigned
+	    ))
+     and
+     (S (NP the availability table)
+	(AUX is)
+	(VP changed
+	     
+	    (SBAR  so
+		   that
+		   (S (NP the assigned index word or switch)
+		      (VP is
+			  (ADVP  no
+				longer)
+			  (ADJP available
+				(PP for
+				    (NP later assignment)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 2
+       .))
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the one
+		 -
+		 or
+		 two-digit address
+		 (PP of
+		     (NP an index word
+			 or
+			 electronic switch)))
+	     (X (X (AUX is)
+		   (VP used
+		       ))
+		or
+		(X (AUX is)
+		   (VP included
+		     
+		       (PP in
+			   (NP the operand
+			       (PP of
+				   (NP an XRESERVE or SRESERVE statement
+				       *LRB*
+				       (S  (NP *) 
+					   (VP see
+					       (NP page 99)))
+				       *RRB*)))))))))
+    ,
+    (S  
+     (NP the corresponding index word
+	 or
+	 electronic switch)
+     (AUX is)
+     (VP reserved
+	 )))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (NP 3
+       .))
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP a statement)
+	     (AUX has)
+	     (VP been
+		 (VP assigned
+		     
+		     (NP an address)
+		     (PP in
+			 (NP the index word area))
+		     (PP by
+			 (NP means
+			     (PP of
+				 (NP an actual label))))
+		     or
+		     (PP by
+			 (NP means
+			     (PP of
+				 (NP (NP an origin statement)
+				     (SBAR (WHNP which)
+					   (S (NP T)
+					      (VP refers
+						  (PP to
+						      (NP an actual address)))))))))))))
+    ,
+    (S (NP the corresponding index word)
+       (AUX will)
+       (VP be
+	   (VP reserved
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These entries)
+   (AUX should)
+   (ADVP normally)
+   (VP appear
+       (PP at
+	   (NP the beginning
+	       (PP of
+		   (NP the program))))
+       or
+       (VP  (ADVP immediately)
+	    following
+	    (NP each LITORIGIN statement))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Otherwise)
+      ,
+      (S (NP symbolic names)
+	 (AUX may)
+	 (VP have
+	     (ADVP previously)
+	     (VP been
+		 (VP assigned
+		      
+		     (PP to
+			 (NP these same index words)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+    (S (NP This method)
+        (AUX does)
+	(NEG not)
+        (VP apply
+	    (PP to
+		(NP electronic switches))))
+    .
+    *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP The preceding methods)
+    (VP allow
+	(NP efficient use
+	    (PP of
+		(NP (NP index words)
+		    and
+		    (NP electronic switches))))
+	(PP during
+	    (NP a sectionalized or multi-phase program)))
+    ,
+    (ADVP particularly)
+    (SBAR (WHADVP when)
+	  (S (NP *)  
+	     (VP used
+		 (PP in
+		     (NP conjunction
+			 (PP with
+			     (NP the LITORIGIN statement))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Extreme caution)
+   (AUX should)
+   (VP be
+       (VP used
+	   ,
+	   (ADVP however)
+	   ,
+	   (S (NP *)
+	      (AUX to)
+	      (VP avoid
+		  (NP (NP the conflicting usage
+			  (PP of
+			      (NP an index word
+				  or
+				  electronic switch)))
+		      (SBAR (WHNP which)
+			    (S (NP T)
+			       (AUX may)
+			       (VP result
+				   (PP from
+				       (NP the assignment
+					   (PP of
+					       (NP  more
+						    (PP than
+							(NP one))
+						    name or function))
+					   (PP to
+					       (NP the same address)))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the symbolic name
+		 or
+		 actual address
+		 (PP of
+		     (NP an index word
+			 or
+			 electronic switch)))
+	     (X (VP appears
+		    (PP-1 *pseudo-attach*))
+		or
+		(X (AUX is)
+		   (VP included
+		       (PP-1 *pseudo-attach*)))
+		(PP-1 in
+		    (NP the operand
+			(PP of
+			    (NP an XRELEASE or SRELEASE statement
+				*LRB*
+				(S  (NP *) 
+				    (VP see
+					(NP page 101)))
+				*RRB*)))))))
+    ,
+    (S  
+     (NP the specified index word
+	 or
+	 electronic switch)
+     (AUX will)
+     (ADVP again)
+     (VP be
+	 (VP made
+	     (ADJP available)))
+     ,
+     (ADVP regardless
+	   (PP of
+	       (NP (NP the method)
+		   (SBAR (WHPP by
+			       (WHNP which))
+			 (S
+			  (NP it)
+			  (AUX was)
+			  (VP reserved
+			      ))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX will)
+   (NEG not)
+   ,
+   (ADVP however)
+   ,
+   (VP be
+       (VP used
+	    
+	   (PP for
+	       (NP symbolic assignment))))
+   (PP until
+       (S (NP all other index words
+	      or
+	      (NP electronic switches))
+	  (AUX have)
+	  (VP been
+	      (VP assigned
+		        
+		  (PP for
+		      (NP the first time)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+	    ,
+	    (S (PP at
+		   (NP any time
+		       (PP during
+			   (NP the assignment pass))))
+	       ,
+	       (S (NP the compiler)
+		  (VP finds
+		      (SBAR that
+			    (S (NP there)
+			       (VP are
+				   (NP no
+				       (ADJP more)
+				       index words)
+				   (ADJP available
+					 (PP for
+					     (NP assignment))))))))))
+      ,
+      (S (NP (NP the warning message)
+	     ``
+	     (NP (NP No
+		     (ADJP More)
+		     Index Words)
+		 (ADJP Available))
+	     '')
+	 (AUX will)
+	 (VP be
+	     (VP placed
+		  
+		 (PP in
+		     (NP the object program listing)))))
+      ,
+      (S (NP the table)
+	 (AUX will)
+	 (VP be
+	     (VP altered
+		  
+		 (S (NP *)
+		    (AUX to)
+		    (VP show
+			(SBAR that
+			      (S  (NP index words
+				      (NP 1
+					  (PP through
+					      (NP 96))))
+				 (VP are
+				     (ADJP available)))))))))
+      ,
+      and
+      (S (NP the assignment)
+	 (AUX will)
+	 (VP continue
+	     (PP as
+		 (ADVP before)
+		 ))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the compiler)
+	     (VP finds
+		 (SBAR that
+		       (S (NP there)
+			  (VP are
+			      (NP no
+				  more
+				  electronic switches)
+			      (ADJP available
+				    (PP for
+					(NP assignment)))))))))
+    ,
+    (S (NP (NP the warning message)
+	   ``
+	   (NP (NP No
+		   More Electronic
+		   Switches)
+	       (ADJP Available))
+	   '')
+       (AUX will)
+       (VP be
+	   (VP placed
+	        
+	       (PP in
+		   (NP the object program listing)))))
+    ,
+    (S (NP the table)
+       (AUX will)
+       (VP be
+	   (VP altered
+	        
+	       (S (NP *)
+		  (AUX to)
+		  (VP show
+		      (SBAR that
+			    (S  (NP electronic switches
+				    (NP 1
+					(PP through
+					    (NP 30))))
+			       (VP are
+				   (ADJP available)))))))))
+    ,
+    and
+    (S (NP assignment)
+       (AUX will)
+       (VP continue
+	   (PP as
+	       (PP before
+		   )))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The
+      (ADJP resultant)
+      (VP conflicting)
+      usage
+      (PP of
+	  (NP (NP index words)
+	      or
+	      (NP electronic switches))))
+    (AUX may)
+    (VP be
+	(VP avoided
+	     
+	    (PP by
+		(S (NP *)  
+		   (VP reducing
+		       (NP the number
+			   (PP of
+			       (NP (NP symbolic names)
+				   (VP used)))))))
+	    ,
+	    (NP (X e.g.))
+	    ,
+	    (PP through
+		(NP the proper use
+		    (PP of
+			(NP the EQU
+			    ,
+			    XRELEASE
+			    ,
+			    or
+			    SRELEASE statements)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP As
+	(S (NP *)  
+	   (VP noted
+	       (PP in
+		   (NP Appendix C)))))
+    ,
+    (S  (NP index words
+	    (NP 97
+		(PP through
+		    (NP 99))))
+       (VP are
+	   (ADVP never)
+	   (ADJP available
+		 (PP for
+		     (NP assignment
+			 (PP to
+			     (NP symbolic names))
+			 (PP by
+			     (NP the compiler)))))))
+    ;
+    ;
+    also
+    ,
+    (S  
+     (NP index words
+	 (NP 93
+	     (PP through
+		 (NP 96))))
+     (AUX may)
+     (VP have
+	 (VP been
+	     (VP made
+		 (ADJP unavailable
+		       (PP for
+			   (NP assignment))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((NP Declarative statements))
+(  
+ (S (NP Autocoder declarative statements)
+    (VP provide
+	(NP the processor)
+	(PP with
+	    (NP the necessary information
+		(S (NP *)
+		   (AUX to)
+		   (VP complete
+		       (NP the imperative operations)
+		       (ADVP properly)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Declarative statements)
+   (X (X (AUX are)
+	 (ADVP never)
+	 (VP executed
+        
+	     (PP in
+		 (NP the object program))))
+      and
+      (X (AUX should)
+	 (VP be
+	     (VP separated
+	       
+		 (PP from
+		     (NP (NP the program instruction area)
+			 ,
+			 (VP placed
+			     (ADVP preferably)
+			     (PP at
+				 (NP its beginning or end))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Otherwise)
+      ,
+      (S (NP special care)
+	 (AUX must)
+	 (VP be
+	     (VP taken
+		  
+		 (S (NP *)
+		    (AUX to)
+		    (VP branch
+			(PP around
+			    (NP them))))))
+	 (SBAR  so
+		that
+		(S (NP the program)
+		   (AUX will)
+		   (NEG not)
+		   (VP attempt
+		  
+		       (S (NP *)
+			  (AUX to)
+			  (VP execute
+			      (NP something
+				  (PP in
+				      (NP a data
+					  area)))
+			      (PP as
+				  (NP an instruction)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the compiler)
+	     (AUX does)
+	     (VP encounter
+		 (NP such statements))))
+    ,
+    (S (NP a warning message)
+       (AUX will)
+       (VP be
+	   (VP issued
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP 70707074 Autocoder)
+    (VP includes
+	(NP the following declarative statements))
+    :
+    (NP (NP (NP DA)
+	    *LRB*
+	    (S  (NP *) 
+		(VP Define
+		    (NP Area)))
+	    *RRB*)
+	,
+	(NP (NP DC)
+	    *LRB*
+	    (S  (NP *) 
+		(VP Define
+		    (NP Constant)))
+	    *RRB*)
+	,
+	(NP (NP DRDW)
+	    *LRB*
+	    (S (NP *)  
+	       (VP Define
+		   (NP Record Definition Word)))
+	    *RRB*)
+	,
+	(NP (NP DSW)
+	    *LRB*
+	    (S  (NP *) 
+		(VP Define
+		    (NP Switch)))
+	    *RRB*)
+	,
+	(NP (NP DLINE)
+	    *LRB*
+	    (S (NP *)  
+	       (VP Define
+		   (NP Line)))
+	    *RRB*)
+	,
+	(NP (NP EQU)
+	    *LRB*
+	    (S (NP *)  
+	       (VP Equate))
+	    *RRB*)
+	,
+	(NP (NP CODE,DTF)
+	    *LRB*
+	    (S  (NP *) 
+		(VP Define
+		    (NP Tape File)))
+	    *RRB*)
+	,
+	(NP (NP DIOCS)
+	    *LRB*
+	    (S (NP *)  
+	       (VP Define
+		   (NP Input Control System)))
+	    *RRB*)
+	,
+	and
+	(NP (NP DUF)
+	    *LRB*
+	    (NP Descriptive Entry
+		(PP For
+		    (NP Unit Records)))
+	    *RRB*)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP DA)
+      ,
+      (NP DC)
+      ,
+      (NP DTF)
+      ,
+      and
+      (NP DLINE))
+  (VP require
+      (NP  more
+	   (PP than
+	       (NP one))
+	    entry)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The DA statement)
+   (AUX is)
+   (VP used
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP name and define
+	      (NP the positions and length
+		  (PP of
+		      (NP fields
+			  (PP within
+			      (NP an area)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The DC statement)
+   (AUX is)
+   (VP used
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP name and enter
+	      (NP constants)
+	      (PP into
+		  (NP the object program))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR Since
+	  (S (NP the 7070
+		 and
+		 (NP 7074))
+	     (VP make
+		 (NP use
+		     (PP of
+			 (NP (NP record definition words)
+			     *LRB*
+			     (NP RDWS)
+			     *RRB*))
+		     (S (NP *)
+			(AUX to)
+			(VP  read
+			     ,
+			     write
+			     ,
+			     move
+			     ,
+			     and
+			     (ADVP otherwise)
+			     examine
+				 (NP blocks
+				     (PP of
+					 (NP storage)))))))))
+    ,
+    (S (NP the DA and DC statements)
+       (VP provide
+	   (NP the option
+	       (PP of
+		   (S (NP *)  
+		      (VP generating
+			  (NP RDWS)
+			  (ADVP automatically))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP *)  
+	     (ADVP so)
+	     (VP instructed)))
+    ,
+    (S (NP Autocoder)
+       (AUX will)
+       (VP (VP generate
+	       (NP one
+		   or
+		   (ADJP more)
+		   RDWS))
+	   and
+	   (VP assign
+	       (NP (NP them successive locations)
+		   (ADVP immediately)
+		   (VP preceding
+		       (NP (NP the area)
+			   (SBAR (WHPP with
+				       (WHNP which))
+				 (S
+				  (NP they)
+				  (VP are
+				      (S (NP *)
+					 (AUX to)
+					 (VP be
+					     (VP associated
+						 )))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP An RDW)
+   (AUX will)
+   (VP be
+       (PP of
+	   (NP (NP the form A[fj])
+	       ,
+	       (SBAR 
+		(WHADVP where)
+		(S (S (NP xxxx)
+		      (VP is
+			  (NP the starting location
+			      (PP of
+				  (NP the area)))))
+		   and
+		   (S (NP yyyy)
+		      (VP is
+			  (NP its ending location)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These addresses)
+   (AUX are)
+   (VP calculated
+       (ADVP automatically)
+       (PP by
+	   (NP the processor))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP some cases))
+    ,
+    (S (NP it)
+       (AUX may)
+       (VP be
+	   (ADJP  more
+		  advantageous))
+       (S (NP *)
+	  (AUX to)
+	  (VP assign
+	      (NP (NP locations
+		      (PP to
+			  (NP RDWS)))
+		  (VP associated
+		      (PP with
+			  (NP DA and DC areas
+			      (PP in
+				  (NP some other part
+				      (PP of
+					  (NP storage)))))))
+		  ,
+		  (X i.e.)
+		  ,
+		  (NEG not)
+		  (VP (ADVP immediately)
+		      preceding
+		      (NP the DA or DC areas)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The DRDW statement)
+   (AUX may)
+   (VP be
+       (VP used
+		 
+	   (PP for
+	       (NP this purpose)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The DRDW statement)
+   (AUX may)
+   (ADVP also)
+   (VP be
+       (VP used
+	    
+	   (S (NP *)
+	      (AUX to)
+	      (VP generate
+		  (NP (NP an RDW)
+		      (VP defining
+			  (NP (NP any area)
+			      (VP specified
+				  (PP by
+				      (NP the programmer)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (ADJP  As
+	       many
+	       (PP as
+		   (NP ten)))
+	 digital switches)
+     (AUX may)
+     (VP be
+	 (VP (VP named
+		 )
+	     and
+	     (VP provided
+		 (PP by
+		     (NP the DSW statement))
+		 (PP for
+		     (NP consideration
+			 (PP by
+			     (NP the SETSW and logic macro-instructions))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Each switch)
+    (X (VP occupies
+	   (NP one digit position
+	       (PP in
+		   (NP a word))))
+       ,
+       (X (AUX can)
+	  (VP be
+	      (VP set
+		  (ADVP on or off))))
+       ,
+       and
+       (X (AUX is)
+	  (VP considered
+	      (PP as
+		  (ADJP  logically
+			 equivalent
+			 (PP to
+			     (NP an electronic switch))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX can)
+   (NEG not)
+   ,
+   (ADVP however)
+   ,
+   (VP be
+       (VP referred
+		      
+	   (PP to)
+	   (PP by
+	       (NP (NP electronic switch commands)
+		   ,
+		   (X e.g.)
+		   ,
+		   (NP ESN)
+		   ,
+		   (NP BSN)
+		   ,
+		   (NP (X etc.)))))))
+  .)
+((S  
+  (NP (NP An individual switch)
+      or
+      (NP the
+	  (ADJP entire)
+	  set
+	  (PP of
+	      (NP switches
+		  (PP in
+		      (NP a word))))))
+  (AUX may)
+  (VP be
+      (VP (VP tested
+	      )
+	  or
+	  (VP altered)
+	  (PP as
+	      (S (NP *)  
+		 (VP desired))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP Through
+	(NP use
+	    (PP of
+		(NP the DLINE statement))))
+    ,
+    (S (NP a means)
+       (AUX is)
+       (VP provided
+	    
+	   (PP for
+	       (S (NP *)  
+		  (VP specifying
+		      (NP both
+			  (NP the editing
+			      (PP of
+				  (NP (NP fields)
+				      (S (NP *)
+					 (AUX to)
+					 (VP be
+					     (VP inserted
+						  
+						 (PP in
+						     (NP a print line area))))))))
+			  and
+			  (NP the layout
+			      (PP of
+				  (NP (NP the area)
+				      (NP itself)))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The area)
+    (AUX may)
+    (VP include
+	(NP (NP constant information)
+	    (VP supplied
+		(PP by
+		    (NP the programmer))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The area)
+   (AUX may)
+   (ADVP also)
+   (VP be
+       (VP provided
+	    
+	   (PP with
+	       (NP additional data))
+	   (PP during
+	       (NP the running
+		   (PP of
+		       (NP the object program))))
+	   (PP by
+	       (NP means
+		   (PP of
+		       (NP EDMOV or move macro-instructions)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The declarative statement EQU)
+   (VP permits
+       (S (NP the programmer)
+	  (X (X (AUX to)
+		(VP equate
+		    (NP symbolic names)
+		    (PP to
+			(NP (NP actual index words)
+			    ,
+			    (NP electronic switches)
+			    ,
+			    (NP arm and file numbers)
+			    ,
+			    (NP tape channel and unit numbers)
+			    ,
+			    (NP alteration switches)
+			    ,
+			    (NP (X etc.))))))
+	     ,
+	     and
+	     (X (AUX to)
+		(VP equate
+		    (NP a symbol)
+		    (PP to
+			(NP another symbol))
+		    or
+		    (PP to
+			(NP an actual address))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP The DIOCS
+      ,
+      DTF
+      ,
+      and
+      DUF statements)
+  (AUX are)
+  (VP used
+	 
+      (SBAR (WHADVP when)
+	    (S (NP *)  
+	       (VP required)))
+      (PP by
+	  (NP the Input Control System))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP DIOCS)
+   (AUX is)
+   (VP used
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP select
+	      (NP (NP the major methods
+		      (PP of
+			  (S (NP *)  
+			     (VP processing))))
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (VP used
+			     ))))))
+       ,
+       and
+       (S (NP *)
+	  (AUX to)
+	  (VP name
+	      (NP (NP the index words)
+		  (VP used
+		      (PP by
+			  (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each tape file)
+   (AUX must)
+   (VP be
+       (VP described
+		 
+	   (PP by
+	       (NP (NP Tape File Specifications)
+		   ,
+		   (VP produced
+		       (PP by
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP In
+	(NP addition
+	    (PP to
+		(NP (NP information)
+		    (VP related
+			(PP to
+			    (NP (NP the file)
+				and
+				(NP its records))))))))
+    ,
+    (S (NP the File Specifications)
+       (VP contain
+	   (NP (NP subroutine locations)
+	       and
+	       (NP the location
+		   (PP of
+		       (NP tape label information)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP A DUF entry)
+       (VP-2 *pseudo-attach*))
+   (AUX must)
+   (VP be
+       (VP supplied
+		 
+	   (PP for
+	       (NP every unit record file))))
+   (VP-2 describing
+       (NP (NP the type
+	       (PP of
+		   (NP file)))
+	   and
+	   (NP the unit record equipment)
+	   (S (NP *)
+	      (AUX to)
+	      (VP be
+		  (VP used
+		      ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The DUF)
+   (ADVP also)
+   (VP supplies
+       (NP the locations
+	   (PP of
+	       (NP (NP subroutines)
+		   (VP written
+		       (PP by
+			   (NP the user)))
+		   (SBAR (WHNP that)
+			 (S (NP T)
+			    (VP are
+				(ADJP unique
+				      (PP to
+					  (NP the file)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP A full description
+      (PP of
+	  (NP the DIOCS
+	      ,
+	      DTF
+	      ,
+	      and
+	      DUF statements)))
+  (AUX is)
+  (VP contained
+	 
+      (PP in
+	  (NP (NP the 7070 Data
+		  Processing System Bulletin)
+	      ``
+	      (NP  IBM
+		   7070 Input Control System)
+	      ''
+	      ,
+	      (NP form A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (NP Brief descriptions
+	    (PP of
+		(NP these three declarative statements)))
+	and
+	(NP (VP detailed)
+	    descriptions
+	    (PP of
+		(NP the formats and functions
+		    (PP of
+			(NP each
+			    (PP of
+				(NP the
+				    (ADJP other)
+				    70707074 Autocoder declarative statements))))))))
+    (VP follow
+	(ADVP below)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((NP (NP diocs)
+    --
+    (S  (NP *) 
+	(VP define
+	    (NP input control system)))))
+(  
+ (S (SBAR 
+     (WHADVP When)
+     (S (NP the Input Control System)
+	(VP is
+	    (S (NP *)
+	       (AUX to)
+	       (VP be
+		   (VP used
+		      
+		       (PP in
+			   (NP a program))))))))
+    ,
+    (S (NP a DIOCS statement)
+       (AUX must)
+       (VP be
+	   (VP used
+	        
+	       (S (NP *)
+		  (AUX to)
+		  (VP select
+		      (NP (NP the major methods
+			      (PP of
+				  (S (NP *)  
+				     (VP processing))))
+			  (S (NP *)
+			     (AUX to)
+			     (VP be
+				 (VP used
+				     ))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This statement)
+   (ADVP also)
+   (VP allows
+       (NP the naming
+	   (PP of
+	       (NP (NP the index words)
+		   (VP used
+		       (PP by
+			   (NP A[fj]))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (NP Source program format)
+ )
+(  
+ (S (S (NP The basic format
+	   (PP of
+	       (NP the DIOCS statement)))
+       (VP is
+	   (PP as
+	       (S (NP *)  
+		  (VP follows)))))
+    :
+    (S (NP anylabel)
+       (VP is
+	   (NP  any
+	       symbolic label)))
+    ;
+    ;
+    (S (NP it)
+       (AUX may)
+       (VP be
+	   (VP omitted
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The entry DIOCS)
+    (AUX must)
+    (VP be
+	(VP written
+		     
+	    (PP  (ADVP exactly)
+		 as
+		 (S (NP *)  
+		    (VP shown))))))
+ .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The first item
+	  (PP in
+	      (NP the operand)))
+      ,
+      (NP IOCSIXF)
+      ,)
+  (AUX is)
+  (VP used
+	 
+      (S (NP *)
+	 (AUX to)
+	 (VP specify
+	     (NP the first IOCS index word
+		 (PP for
+		     (NP (NP programs)
+			 (VP using
+			     (NP tape files)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This item)
+   (AUX may)
+   (VP be
+       (NP (NP a symbolic name)
+	   or
+	   (NP an
+	       actual one-digit or two-digit
+	       index word address
+	       (PP in
+		   (NP the
+		       range 3
+		       -
+		       94))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the first item
+		 (PP in
+		     (NP the operand)))
+	     (AUX is)
+	     (VP omitted
+		 )))
+    ,
+    (S (NP the symbolic name IOCSIXF)
+       (AUX will)
+       (VP be
+	   (VP assigned
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP an actual index word)
+	     or
+	     (NP a symbolic address))
+	 (AUX is)
+	 (VP specified
+	     )))
+     ,
+     (S (NP Autocoder)
+	(AUX will)
+	(VP equate
+	    (NP the name IOCSIXF)
+	    (PP to
+		(NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP The second item
+	  (PP in
+	      (NP the operand)))
+      ,
+      (NP IOCSIXG)
+      ,)
+    (AUX is)
+    (VP used
+	 
+	(S (NP *)
+	   (AUX to)
+	   (VP specify
+	       (NP the second IOCS index word)
+	       (PP for
+		   (NP (NP programs)
+		       (VP using
+			   (NP tape files))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This item)
+   (AUX may)
+   (VP be
+       (NP (NP a symbolic name)
+	   or
+	   (NP an
+	       actual one-digit or two-digit
+	       index word address
+	       (PP in
+		   (NP the
+		       range 3
+		       -
+		       94))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR If
+	  (S (NP the second item
+		 (PP in
+		     (NP the operand)))
+	     (AUX is)
+	     (VP omitted
+		 )))
+    ,
+    (S (NP the symbolic name IOCSIXG)
+       (AUX will)
+       (VP be
+	   (VP assigned
+	       ))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP (NP an actual index word)
+	     or
+	     (NP a symbolic address))
+	 (AUX is)
+	 (VP specified
+	     )))
+     ,
+     (S (NP Autocoder)
+	(AUX will)
+	(VP equate
+	    (NP IOCSIXG)
+	    (PP to
+		(NP it)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

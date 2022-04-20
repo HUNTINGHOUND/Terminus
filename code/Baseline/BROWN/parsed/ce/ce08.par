@@ -1,0 +1,2220 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP Scientists)
+    (VP say
+	(SBAR that
+	      (S (NP (NP the world)
+		     and
+		     (NP everything
+			 (PP in
+			     (NP it))))
+		 (AUX are)
+		 (VP based
+		     (PP on
+			 (NP mathematics)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (PP Without
+	 (NP math))
+     (S (NP (NP the men)
+	    (SBAR (WHNP who)
+		  (S (NP T)
+		     (AUX are)
+		     (VP  (ADVP continually)
+			  seeking
+			  (NP (NP  the causes
+				   (PP of
+				       (NP-1 *pseudo-attach*)))
+			      and
+			      (NP the reasons
+				  (PP for
+				      (NP-1 (NP the many things)
+					    (SBAR that
+						  (S  (NP T) 
+						      (VP make
+							  (NP the world)
+							  (VP go
+							      (ADVP 'round)))))))))))))
+	(AUX would)
+	(NEG not)
+	(VP have
+            (NP any means
+                (PP of
+                    (S  (NP *) 
+			(VP   analyzing
+			      ,
+			      standardizing
+			      ,
+			      and
+			      communicating
+			      (NP (NP the things)
+				  (SBAR 0
+					(S (NP they)
+					   (VP  discover
+						and
+						learn
+						(NP T) )))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Math)
+	and
+	(NP (NP the formulas)
+	    (SBAR that
+		  (S  (NP T) 
+		      (VP allow
+			  (NP it)
+			  (S (NP *)
+			     (AUX to)
+			     (VP be
+				 (VP applied
+				     (PP to
+					 (NP  different problems))))))))))
+    (VP are
+	,
+	(ADVP therefore)
+	,
+	(ADJP essential
+	      (PP to
+		  (NP any  scientific endeavor)))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Hot rodding)
+   (VP is
+       (NP a science)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP It)
+       (VP 's
+	   (NEG not)
+	   (NP (NP a science)
+	       (ADJP  as
+		      involved
+		      (PP as
+			  (S  (NP *)
+			      (VP (VP determining
+				      (SBAR
+				       (WHNP what)
+				       (S (NP T)
+					  (VP makes
+					      (NP the earth)
+					      (VP rotate
+						  (PP on
+						      (NP its axis)))))))
+				  or
+				  (VP building
+				      (NP a rocket))
+				  or
+				  (VP putting
+				      (NP a satellite)
+				      (PP into
+					  (NP orbit))))))))))
+    but
+    (S (NP it)
+       (VP is
+	   ,
+	   (ADVP nevertheless)
+	   ,
+	   (NP a science))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (NP (SBAR because
+		(S (NP science)
+		   (AUX is)
+		   (VP based
+		       (PP on
+			   (NP mathematics))))))
+      (AUX does)
+      (NEG n't)
+      (VP mean
+	  (SBAR that
+		(S (NP a hot rodder)
+		   (AUX must)
+		   (ADVP necessarily)
+		   (VP be
+		       (NP a mathematician))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A guy)
+      (AUX can)
+      (VP be
+	  (NP an
+	      (ADJP  active and  successful)
+	      hot
+	      rodder)
+	  (PP for
+	      (NP years))
+	  (PP without
+	      (S  (NP *)
+		  (VP becoming
+		      (ADJP (ADVP even)
+			    remotely
+			    involved
+			    (PP with
+				(NP  mathematical problems))))))))
+     ;
+     ;
+     (S (ADVP however)
+	,
+	(S (S (NP he)
+	      (AUX will)
+	      (VP have
+		  (NP a
+		      clearer
+		      understanding
+		      (PP of
+			  (SBAR
+			   (WHNP what)
+			   (S
+			    (NP he)
+			    (AUX is)
+			    (VP doing
+				(NP T))))))))
+	   and
+	   (S (NP the chances)
+	      (VP are
+		  (SBAR 0
+			(S (NP he)
+			   (AUX will)
+			   (VP be
+			       (ADJP  more
+				      successful))
+			   (SBAR if
+				 (S (NP he)
+				    (VP understands
+					(NP (NP the  few formulas)
+					    (SBAR that
+						  (S  (NP T) 
+						      (VP apply
+							  (PP to
+							      (S (NP *)  
+								 (VP rodding)))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A  mathematical formula)
+   (VP is
+       (NP (NP nothing)
+	   (ADJP more
+		 (PP than
+		     (NP a pattern
+			 (PP for
+			     (S  (NP *)
+				 (VP solving
+				     (NP a  specific problem))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP places
+	(NP (NP the  various factors)
+	    (VP involved
+		(PP in
+		    (NP the problem))))
+	(PP in
+	    (NP their  correct order
+		(PP in
+		    (NP relation
+			(PP to
+			    (NP each
+				other)))))))
+    (SBAR  so
+	   that
+	   (S (NP the influence
+		  (PP of
+		      (NP factors
+			  (PP on
+			      (NP each
+				  other)))))
+	      (AUX can)
+	      (VP be
+		  (VP computed
+		      )))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (NP The first step
+	 (PP in
+	     (S  (NP *)
+		 (VP using
+		     (NP a formula)))))
+     (VP is
+	 (S (NP *)
+	    (AUX to)
+	    (VP insert
+		(NP the  numerical values
+		    (PP of
+			(NP (NP the factors)
+			    (VP involved))))
+		(PP in
+		    (NP their  correct positions
+			(PP in
+			    (NP the formula))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP changes
+       (NP the formula)
+       (PP to
+	   (NP an
+	       ``
+	       equation
+	       ''))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The equation)
+   (AUX is)
+   (VP used
+       (PP for
+	   (NP the  mathematical process
+	       (PP of
+		   (S  (NP *) 
+		       (VP solving
+			   (NP the problem))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Equations
+       (PP for
+	   (NP  (VP rodding) formulas)))
+   (AUX are
+	(NEG not)
+	(ADJP complicated))
+   )
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP involve
+       (NP (NP only  simple mathematics)
+	   (SBAR that
+		 (S  (NP T) 
+		     (AUX are)
+		     (VP taught
+			 (PP in
+			     (NP   grammar school arithmetic classes))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP it)
+	 (VP is
+	     (ADJP essential))
+	 (SBAR that
+	       (S (NP (NP the
+			  various
+			  mathematical
+			  symbols)
+		      (VP used
+			  (PP in
+			      (NP the equations))))
+		  (AUX be)
+		  (VP understood)
+		  (SBAR  so
+			 that
+			 (S (NP the  mathematical processes)
+			    (AUX can)
+			    (VP be
+				(VP done
+				    (X (ADVP properly)
+				       and
+				       (PP in
+					   (NP their  correct order)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP indicate
+       (NP (NP  simple division)
+	   ,
+	   (NP multiplication)
+	   ,
+	   (NP subtraction)
+	   ,
+	   and
+	   (NP addition))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The symbol
+       (PP for
+	   (NP division)))
+   (VP is
+       (NP (NP a  straight line)
+	   (SBAR that
+		 (S  (NP T) 
+		     (VP separates
+			 (NP (NP two numbers)
+			     (VP placed
+				 (NP one
+				     (PP above
+					 (NP the
+					     (ADJP other))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       lower
+       number)
+   (AUX is)
+   (ADVP always)
+   (VP divided
+        
+       (PP into
+	   (NP the  upper number))))
+  :
+  (X A[fj])
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The symbol
+       (PP for
+	   (NP multiplication)))
+   (VP is
+       (NP  ``
+	    (X ** b)
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (AUX is)
+   (VP used
+	     
+       (S (NP *)
+	  (AUX to)
+	  (VP separate
+	      (NP  two
+		   or
+		   more
+		   numbers
+		   (PP in
+		       (NP a row)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (PP For
+	(NP example))
+    :
+    (X A[fj]))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Numbers)
+	(S (NP *)
+	   (AUX to)
+	   (VP be
+	       (VP multiplied
+		   (ADVP together)))))
+    (AUX may)
+    (VP be
+	(VP multiplied
+	    (PP in
+		(NP any order)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The result)
+   (AUX will)
+   (VP be
+       (NP the
+	   (ADJP same)))
+   (ADVP regardless
+	 (PP of
+	     (NP (NP the order)
+		 (VP used)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The symbol
+       (PP for
+	   (NP subtraction)))
+   (VP is
+       (NP the
+	   standard minus
+	   sign)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP nothing)
+	   (ADJP more
+		 (PP than
+		     (NP a dash))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP separates
+       (NP  two
+		 or
+		 more
+	   numbers)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The number
+       (PP on
+	   (NP the right
+	       (PP of
+		   (NP the symbol)))))
+   (AUX is)
+   (ADVP always)
+   (VP subtracted
+        
+       (PP from
+	   (NP the number
+	       (PP on
+		   (NP the left
+		       (PP of
+			   (NP the symbol))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (PP For
+	(NP example))
+    :
+    (X A[fj]))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP  more
+		       than
+		       two figures)
+	     (AUX are)
+	     (VP separated
+		 (PP by
+		     (NP subtraction symbols)))))
+    (S
+     (NP the subtraction)
+     (AUX must)
+     (VP be
+	 (VP carried
+	     (PRT out)
+	     (PP (PP from
+		     (NP the left))
+		 (PP to
+		     (NP right)))))
+     (SBAR if
+	   (S (NP the result)
+	      (VP is
+		  (S (NP *)
+		     (AUX to)
+		     (VP be
+			 (ADJP correct))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (PP for
+	(NP the problem
+	    (X A[fj])))
+    ,
+    (S (S (NP 10
+	      (PP from
+		  (NP 25)))
+	  (VP equals
+	      (NP 15)))
+       ,
+       (ADVP then)
+       (S (NP 6
+	      (PP from
+		  (NP 15)))
+	  (VP equals
+	      (NP 9)))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Addition)
+   (AUX is)
+   (VP indicated
+       (PP by
+	   (NP the +
+	       symbol))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The symbol)
+   (AUX is)
+   (VP used
+       (S (NP *)
+	  (AUX to)
+	  (VP separate
+	      (NP  two
+			or
+			more
+		  numbers)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (X (PP For
+	(NP example))
+    :
+    (X A[fj]))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Numbers)
+       (VP separated
+	   (PP by
+	       (NP addition symbols))))
+   (AUX may)
+   (VP be
+       (VP placed
+	   (PP in
+	       (NP any order)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP *)
+	     (VP solving
+		 (NP (NP an equation)
+		     (SBAR that
+			   (S  (NP T) 
+			       (VP involves
+				   (NP (NP division)
+				       (ADVP  as
+					      well
+					      (PP as
+						  (NP other steps)))))))))))
+    ,
+    (S  (NP *) 
+	(VP do
+	    (NP  all
+		 the division steps)
+	    (ADVP first))
+	(S (NP *)
+	   (AUX to)
+	   (VP reduce
+	       (NP those parts
+		   (PP of
+		       (NP the equation)))
+	       (PP to
+		   (NP their  numerical value))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP Multiplication)
+	,
+	(NP subtraction)
+	,
+	and
+	(NP addition))
+    (AUX can)
+    (ADVP then)
+    (VP be
+	(VP accomplished
+	    (PP as
+		(S (NP they)
+		   (VP appear
+		       (PP in
+			   (NP the equation)))))
+	    (PP by
+		(S  (NP *)
+		    (VP (VP starting
+			    (PP at
+				(NP the  left end
+				    (PP of
+					(NP the equation)))))
+			and
+			(VP working
+			    (PP toward
+				(NP the right)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP (S (NP *) 
+	    (VP Completing
+		(NP the division)
+		(ADVP first))))
+     (ADVP also)
+     (VP includes
+	 (NP (NP those division parts)
+	     (SBAR that
+		   (S  (NP T) 
+		       (VP require
+			   (NP (NP multiplication)
+			       ,
+			       (NP subtraction)
+			       ,
+			       or
+			       (NP addition steps))))))))
+  :
+  (X A[fj])
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX would)
+   (VP be
+       (VP reduced
+	   (PP by
+	       (S  (NP *) 
+		   (VP (VP multiplying
+			   (NP 8)
+			   (PP times
+			       (NP 6)))
+		       and
+		       (ADVP then)
+		       (VP dividing
+			   (NP the product)
+			   (PP by
+			       (NP 12)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This part
+       (PP of
+	   (NP the equation)))
+   (AUX would)
+   (ADVP then)
+   (VP become
+       (NP 4)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP use
+	    (PP in
+		(NP formulas))))
+    ,
+    (S (NP fractions)
+       (AUX should)
+       (VP be
+	   (VP converted
+		   
+	       (PP to
+		   (NP their decimal equivalents))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S 
+    (NP (NP The
+	    easiest
+	    way)
+	(S (NP *)
+	   (AUX to)
+	   (VP do
+	       (NP this))))
+    (VP is
+	(PP with
+	    (NP a conversion chart))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Charts
+       (PP for
+	   (NP this purpose)))
+   (VP are
+       (ADJP available)
+       (PP from
+	   (NP many sources))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S 
+   (S (NP They)
+      (AUX are)
+      (VP included
+	  (PP in
+	      (NP all types
+		  (PP of
+		      (NP  mathematical handbooks))))))
+   and
+   (S (NP they)
+      (AUX are)
+      (VP stamped
+	  (PP on
+	      (NP some types
+		  (PP of
+		      (NP precision (VP measuring) instruments)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The
+       various
+       mathematical
+       processes)
+   (AUX can)
+   (VP be
+       (VP simplified
+	   (PP by
+	       (S  (NP *)
+		   (VP carrying
+		       (NP the results)
+		       (PP to
+			   (NP (ADVP only)
+			       two
+				     or
+				     three 
+			       decimal places))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (S  (NP *)
+	    (VP Shortening
+		(NP the results)
+		(PP in
+		    (NP this manner)))))
+    (AUX will)
+    (NEG not)
+    (VP have
+	(NP any  detrimental effect)
+	(PP on
+	    (NP the accuracy
+		(PP of
+		    (NP the  final result))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Some formulas)
+   (VP contain
+       (NP  ``
+	    constants
+	    '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP A constant)
+   (VP is
+       (NP (NP a number)
+	   (SBAR that
+		 (S  (NP T) 
+		     (VP remains
+			 (NP the
+			     (ADJP same))
+			 (ADVP regardless
+			       (PP of
+				   (NP (NP (NP the other numbers)
+					   (VP used
+					       (PP in
+						   (NP the formula))))
+				       and
+				       (NP the  resultant equation))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (NP (NP a number)
+	   (SBAR (WHPP without
+		       (WHNP which))
+		 (S
+		  (NP the equation)
+		  (AUX can)
+		  (NEG not)
+		  (VP be
+		      (VP solved
+			  (ADVP correctly))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (VP Rodding) formulas)
+   (VP apply
+       (PP to
+	   (NP many phases
+	       (PP of
+		   (NP the sport))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The answers)
+	(SBAR 0
+	      (S (NP they)
+		 (VP give
+		     (NP T) ))))
+    (X (X (AUX can)
+	  (ADVP often)
+	  (VP pave
+	      (NP the way
+		  (PP to
+		      (NP performance increases)))))
+       and
+       ,
+       (ADVP quite
+	     often)
+       ,
+       (VP are
+	   (ADJP necessary)
+	   (PP for
+	       (S  (NP *)
+		   (VP completing
+		       (NP entry blanks
+			   (PP for
+			       (NP  different events)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (SBAR (WHADVP When)
+	  (S (NP it)
+	     (AUX is)
+	     (VP needed)))
+    ,
+    (S (NP one formula)
+       (VP is
+	   (ADJP  as
+		 important
+		 (PP as
+		     (NP another))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP some formulas)
+	 (AUX are)
+	 (VP used
+	     (NP  more
+		  (PP than
+		      (NP others))))
+	 ))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP We)
+   (AUX 'll)
+   (VP take
+       (NP them)
+       (PP in
+	   (NP the  general order
+	       (PP of
+		   (NP their popularity))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (X (NP Engine displacement))
+ )
+( (S
+   (NP A rodder)
+   (AUX should)
+   (VP be
+       (ADJP able
+	     (S (NP *)
+		(AUX to)
+		(VP compute
+		    (NP the displacement
+			(PP of
+			    (NP his engine))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Displacement)
+   (AUX is)
+   (ADVP sometimes)
+   (VP referred
+       (PP to
+	   (NP *) )
+       (PP as
+	   (NP  ``
+		swept volume
+		''))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Most
+       entry blanks
+       (PP for
+	   (NP  competitive events)))
+   (VP require
+       (NP engine displacement information))
+   (ADVP  because
+	  (PP of
+	      (NP class restrictions))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP is
+       (ADJP good))
+   (S (NP *)
+      (AUX to)
+      (VP be
+	  (ADJP able
+		(S (NP *)
+		   (AUX to)
+		   (VP compute
+		       (NP displacement))
+		   (SBAR  so
+			 that
+			 (S (NP (NP changes
+				    (PP in
+					(NP it)))
+				(VP resulting
+				    (PP from
+					(NP  (VP boring) and  (VP stroking)))))
+			    (AUX can)
+			    (VP be
+				(VP computed
+				    )))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Factors)
+       (VP involved
+	   (PP in
+	       (NP the displacement formula))))
+   (VP are
+       (NP (NP the bore diameter
+	       (PP of
+		   (NP 
+		    (NP the engine)
+		    's cylinders)))
+	   ,
+	   (NP the length
+	       (PP of
+		   (NP the piston stroke)))
+	   ,
+	   (NP the number
+	       (PP of
+		   (NP cylinders
+		       (PP in
+			   (NP the engine)))))
+	   ,
+	   and
+	   (NP a constant))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The constant)
+   (VP is
+       ,
+       (X (SBAR 
+	   (WHNP which)
+	   (S (NP T)
+	      (VP is
+		  (NP one-quarter
+		      (PP of
+			  (NP (NP 3.1416)
+			      ,
+			      (NP (NP another constant)
+				  (VP known
+				      (PP as
+					  (NP  ``
+					       pi
+					       '')))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pi)
+   (AUX is)
+   (VP used
+       (PP in
+	   (NP (NP formulas)
+	       (VP concerned
+		   (PP with
+		       (NP the dimensions
+			   (PP of
+			       (NP circles)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Actually)
+      ,
+      (S (NP the engine displacement formula)
+	 (VP is
+	     (NP the  standard formula
+		 (PP for
+		     (S  (NP *)
+			 (VP computing
+			     (NP the volume
+				 (PP of
+				     (NP a cylinder
+					 (PP of
+					     (NP any type)))))
+			     (PP with
+				 (NP (NP an  (VP added) factor)
+				     (SBAR (WHNP that)
+					   (S  (NP T) 
+					       (VP represents
+						   (NP the number
+						       (PP of
+							   (NP cylinders))
+						       (PP in
+							   (NP the engine)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP The  cross-sectional area
+	   (PP of
+	       (NP the cylinders)))
+       (AUX is)
+       (VP determined))
+    and
+    (S (ADVP then)
+       (S (NP the volume
+	      (PP of
+		  (NP the  individual cylinders)))
+	  (AUX is)
+	  (VP computed
+	      (PP by
+		  (S  (NP *)
+		      (VP multiplying
+			  (NP the area)
+			  (PP by
+			      (NP (NP the stroke length)
+				  ,
+				  (SBAR 
+				   (WHNP which)
+				   (S (NP T)
+				      (VP is
+					  (NP the equivalent
+					      (PP of
+						  (NP the length
+						      (PP of
+							  (NP the cylinders)))))))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (S (NP *) 
+	   (VP Multiplying
+	       (NP the result)
+	       (PP by
+		   (NP the number
+		       (PP of
+			   (NP cylinders
+			       (PP in
+				   (NP the engine)))))))))
+    (VP gives
+	(NP 
+	 (NP the engine)
+	 's  total displacement)))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The formula)
+   (VP is))
+  :
+  (X A[fj])
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP Dimensions
+	 (PP in
+	     (NP (NP inches)
+		 ,
+		 and
+		 (NP fractions
+		     (PP of
+			 (NP inches))))))
+     (AUX will)
+     (VP give
+	 (NP the displacement
+	     (PP in
+		 (NP  cubic inches)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Dimensions
+	(PP in
+	    (NP (NP centimeters)
+		and
+		(NP fractions
+		    (PP of
+			(NP centimeters))))))
+    (AUX will)
+    (VP give
+	(NP the displacement
+	    (PP in
+		(NP (NP  cubic centimeters)
+		    *LRB*
+		    (NP cc
+			.)
+		    *RRB*)))))
+ .)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP One inch)
+      (VP equals
+	  (NP 2.54 centimeters)))
+     :
+     (S (NP one  cubic inch)
+	(VP equals
+	    (NP 16.38  cubic centimeters))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP example))
+    ,
+    (S  (NP *)
+	(VP let
+	    (NP 's)
+	    (VP consider
+		(NP a
+		    standard
+		    283  cubic inch 
+		    Chevy)))))
+ (X A[fj])
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP These engines)
+        (VP have
+            (NP (NP a cylinder diameter
+		    (PP of
+			(NP 3-78 inches)))
+		and
+		(NP a stroke length
+		    (PP of
+			(NP 3 inches))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S  (NP The formula)
+     ,
+     (PP with
+	 (NP (NP the fractions)
+	     (VP converted
+		 (PP to
+		     (NP decimals)))))
+     ,
+     (VP becomes
+	 (NP (X A[fj]))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP arrive
+	    (PP at
+		(NP the answer))))
+    ,
+    (S  (NP *) 
+	(VP multiply
+	    (NP the numbers)
+	    (ADVP together)
+	    (PP by
+		(S  (NP *) 
+		    (VP (VP starting
+			    (PP at
+				(NP the left
+				    (PP of
+					(NP the group)))))
+			and
+			(VP working
+			    (PP to
+				(NP the right)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  different steps)
+   (AUX will)
+   (VP look
+       (PP like
+	   (NP this))))
+  :
+  (X A[fj])
+  .)
+(  END_OF_TEXT_UNIT)
+( 
+ (X (NP Compression ratio))
+ )
+( (S
+   (NP 
+    (NP A cylinder)
+    's compression ratio)
+   (AUX is)
+   (VP computed
+       (PP by
+	   (S  (NP *) 
+	       (VP comparing
+		   (NP (NP 
+			(NP the cylinder)
+			's volume)
+		       ,
+		       or
+		       (NP its displacement)
+		       ,)
+		   (PP with
+		       (NP the  total volume
+			   (PP of
+			       (NP (NP the cylinder)
+				   and
+				   (NP its combustion chamber))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Cylinder volume)
+      (AUX can)
+      (VP be
+	  (VP determined
+	      (ADVP mathematically))))
+     but
+     (S (NP combustion chamber volume)
+	(AUX must)
+	(VP be
+	    (VP measured
+		(PP with
+		    (NP a liquid))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Cylinder volume)
+   (AUX is)
+   (VP determined
+       (PP in
+	   (NP  exactly
+		the  same manner
+		(PP as
+		    (PP for
+			(NP the displacement formula)))))))
+  :
+  (X A[fj])
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(AUX To)
+	(VP measure
+	    (NP the volume
+		(PP of
+		    (NP one
+			(PP of
+			    (NP the combustion chambers
+				(PP in
+				    (NP the cylinder head)))))))))
+    ,
+    (S  (NP *) 
+	(VP (VP install
+		(NP the valves and spark plug)
+		(PP in
+		    (NP the chamber)))
+	    and
+	    (VP support
+		(NP the head)
+		(SBAR  so
+		       that
+		       (S (NP its gasket surface)
+			  (VP is
+			      (ADJP level))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  (ADVP Then)
+     (S  (NP *) 
+	 (VP pour
+	     (NP (NP water)
+		 or
+		 (NP  light oil))
+	     (PP from
+		 (NP a (ADJP graduated) beaker))
+	     (PP into
+		 (NP the chamber)))
+	 (S (NP *)
+	    (AUX to)
+	    (VP fill
+		(NP the chamber)
+		(PP to
+		    (NP its gasket surface))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S  (NP *) 
+       (AUX Do)
+       (NEG not)
+       (VP overfill
+	   (NP the chamber)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (ADJP possible)
+       (PP with
+	   (NP (NP (NP water)
+		   and
+		   (NP other liquids))
+	       (SBAR that
+		     (S  (NP T) 
+			 (VP have
+			     (NP a  high surface tension))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Such liquids)
+    (AUX will)
+    (VP rise
+	(PP to
+	    (NP a  considerable height
+		(PP above
+		    (NP the surface
+			(PP around
+			    (NP the chamber)))))))
+    (PP before
+	(S (NP they)
+	   (AUX will)
+	   (VP flow
+	       (PP out
+		   (PP of
+		       (NP the chamber)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The amount
+	   (PP of
+	       (NP liquid)))
+       (VP poured
+	   (PP into
+	       (NP the chamber))))
+   (AUX is)
+   (VP determined
+       (PP by
+	   (S  (NP *)
+	       (VP subtracting
+		   (NP (NP the quantity)
+		       (PP (ADVP still)
+			   in
+			   (NP the beaker))))
+	       (SBAR 
+		(WHADVP when)
+		(S (NP the chamber)
+		   (VP is
+		       (ADJP full)
+		       (PP from
+			   (NP the  original quantity)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S 
+  (NP  Most
+       beakers)
+  (AUX are)
+  (VP graduated
+      (PP in
+	  (NP (NP  cubic centimeters)
+	      *LRB*
+	      (NP cc.)
+	      *RRB*)))
+  ,
+  (S (NP *) 
+     (VP making
+	 (NP it)
+	 (ADJP necessary)
+	 (S (NP *)
+	    (AUX to)
+	    (VP convert
+		(NP the result)
+		(PP to
+		    (NP  cubic inches)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP However)
+      ,
+      (S (NP the displacement
+	     (PP of
+		 (NP the cylinder)))
+	 (AUX can)
+	 (VP be
+	     (VP converted
+		 (PP to
+		     (NP  cubic centimeters))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP The compression ratio)
+       (VP arrived
+	   (PP at
+	       (NP *) )
+	   (PP with
+	       (NP the formula))))
+   (AUX will)
+   (VP be
+       (NP the
+	   same))
+   (ADVP regardless
+	 (PP of
+	     (SBAR whether
+		   (S (NP (NP  cubic inches)
+			  or
+			  (NP  cubic centimeters))
+		      (AUX are)
+		      (VP used
+			  ))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The  only precaution)
+   (VP is
+       (SBAR that
+	     (S (NP (NP all volumes)
+		    (VP used
+			(PP in
+			    (NP the formula))))
+		(AUX be)
+		(VP quoted
+		    (PP in
+			(NP the  same terms)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The volume
+       (PP of
+	   (NP the cylinder opening
+	       (PP in
+		   (NP the head gasket)))))
+   (AUX must)
+   (VP be
+       (VP computed
+	   (PP by
+	       (S  (NP *)
+		   (VP multiplying
+		       (NP its area
+			   (PP in
+			       (NP square inches)))
+		       (PP by
+			   (NP 
+			    (NP the gasket)
+			    's thickness
+			    (PP in
+				(NP thousandths
+				    (PP of
+					(NP an inch))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Sometimes)
+      (S (S (NP it)
+	    (VP is
+		(ADJP necessary))
+	    (S (NP *) 
+	       (AUX to)
+	       (VP (ADVP roughly)
+		   calculate
+		   (NP the square inch area
+		       (PP of
+			   (NP the opening))))))
+	 but
+	 (S (NP the calculation)
+	    (AUX can)
+	    (ADVP usually)
+	    (VP be
+		(VP made
+		    (PP with
+			(NP  sufficient accuracy
+			     (X (SBAR that
+				      (S (NP it)
+					 (AUX wo)
+					 (NEG n't)
+					 (VP affect
+					     (NP the  final computation))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The volume
+       (PP of
+	   (NP the opening)))
+   (AUX is)
+   (VP added
+       (PP to
+	   (NP the combustion chamber volume))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (NP (NP Another thing)
+	  (SBAR that
+		(S  (NP T) 
+		    (AUX must)
+		    (VP be
+			(VP taken
+			    (PP into
+				(NP consideration)))))))
+      (VP is
+	  (NP (NP the volume
+		  (PP of
+		      (NP the area
+			  (PP between
+			      (NP (NP the top
+				      (PP of
+					  (NP the piston)))
+				  and
+				  (NP the top
+				      (PP of
+					  (NP the cylinder block))))))))
+	      (SBAR 
+	       (WHADVP when)
+	       (S (NP the piston)
+		  (VP is
+		      (PP in
+			  (NP 
+			   top  dead
+			   center position))))))))
+   (PP .))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *)
+	(VP Compute
+	    (NP this volume)
+	    (PP by
+		(S  (NP *)
+		    (VP measuring
+			(NP the distance
+			    (PP from
+				(NP the top
+				    (PP of
+					(NP the block))))
+			    (PP to
+				(NP the piston head)))
+			(ADVP  as
+			      accurately
+			      (PP as
+				  (ADJP possible)))
+			(PP with
+			    (NP (NP a depth micrometer)
+				or
+				(NP some other precision (VP measuring) device))))))))
+    and
+    (S (ADVP then)
+       (S  (NP *) 
+	   (VP multiply
+	       (NP the area
+		   (PP of
+		       (NP the cylinder)))
+	       (PP by
+		   (NP the depth))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The formula
+       (PP for
+	   (NP this step)))
+   (VP is
+       :
+       (NP (X A[fj]))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This volume)
+   (AUX is)
+   (VP added
+       (PP to
+	   (NP the  total volume
+	       (PP of
+		   (NP the combustion chamber and head gasket opening))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The total
+       (PP of
+	   (NP these three volumes)))
+   (VP is
+       (NP the
+	   ``
+	   final combustion chamber volume
+	   '')))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP After
+	(S (NP (NP the factors)
+	       (VP  (ADVP just)
+		    described))
+	   (AUX have)
+	   (VP been
+	       (VP computed)
+	       )))
+    ,
+    (S (NP they)
+       (AUX are)
+       (VP applied
+	   (PP to
+	       (NP the (ADJP following) formula)))))
+ :
+ (X A[fj])
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP an example))
+    (S  (NP *)
+	(VP let
+	    (NP 's)
+	    (VP dream
+		(PRT up)
+		(NP (NP an engine)
+		    (SBAR that
+			  (S  (NP T) 
+			      (VP has
+				  (NP (NP a  final combustion chamber volume
+					  (PP of
+					      (NP 5  cubic inches)))
+				      and
+				      (NP a cylinder volume
+					  (PP of
+					      (NP 45  cubic inches))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S  (NP *) 
+	(VP Applying
+	    (NP these figures)
+	    (PP to
+		(NP the formula))))
+    (S
+     (NP we)
+     (VP get
+	 (NP the equation
+	     :
+	     (X A[fj])))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The compression ratio)
+   (VP is
+       (NP 10
+	   (PP to
+	       (NP 1)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP This method
+	 (PP of
+	     (S  (NP *) 
+		 (VP computing
+		     (NP compression ratio)))))
+     (AUX can)
+     (NEG not)
+     (VP be
+	 (VP used
+	     (ADVP accurately)
+	     (PP for
+		 (NP (NP engines)
+		     (SBAR that
+			   (S  (NP T) 
+			       (VP have
+				   (NP pistons
+				       (PP with
+					   (NP (ADJP  either
+						      (ADJP domed) 
+						      or
+						      (ADJP  irregularly
+							     shaped)) 
+					       heads)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Any irregularity
+       (PP on
+	   (NP the piston heads)))
+   (AUX will)
+   (VP make
+       (NP it)
+       (ADJP impossible)
+       ,
+       (PP with
+	   (NP  normal means))
+       ,
+       (S (NP *)
+	  (AUX to)
+	  (VP determine
+	      (NP the  final combustion chamber volume))))
+   (SBAR because
+	 (S (NP (NP the volume)
+		(VP displaced
+		    (PP by
+			(NP the piston heads))))
+	    (AUX can)
+	    (NEG not)
+	    (VP be
+		(VP  (ADVP readily)
+		     computed
+		     )))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP (NP The  only way)
+	(S (NP *)
+	   (AUX to)
+	   (VP determine
+	       (NP the  final combustion chamber volume))
+	   (SBAR 
+	    (WHADVP when)
+	    (S (NP such pistons)
+	       (AUX are)
+	       (VP used
+		   )))))
+    (VP is
+	(PP by
+	    (S  (NP *)
+		(VP measuring
+		    (NP it)
+		    (PP with
+			(NP liquid)))
+		(SBAR while
+		      (S (S (NP the cylinder head)
+			    (AUX is)
+			    (VP bolted
+				(PP to
+				    (NP the cylinder block))))
+			 and
+			 (S (NP the piston)
+			    (VP is
+				(PP in
+				    (NP top  dead
+					center position))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (X  (NP Gear ratio)
+     --
+     (NP speed relationships))
+ )
+( (S
+   (NP There)
+   (VP are
+       (NP (NP four versions
+	       (PP of
+		   (NP the formula)))
+	   (SBAR that
+		 (S  (NP T) 
+		     (VP involves
+			 (NP the relationships
+			     (PP of
+				 (NP (NP car speed)
+				     ,
+				     (NP engine speed)
+				     ,
+				     (NP rear axle gear ratio)
+				     ,
+				     and
+				     (NP rear tire size))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (PP By
+	  (S  (NP *) 
+	      (VP using
+		  (NP the  appropriate version))))
+      (S
+       (NP any one
+	   (PP of
+	       (NP these factors)))
+       (AUX can)
+       (VP be
+	   (VP determined
+	       (PP for
+		   (NP any combination
+		       (PP of
+			   (NP the
+			       other
+			       three))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP simplify
+	    (NP the formulas)))
+     (S
+      (NP a  representative symbol)
+      (AUX is)
+      (VP substituted
+	  (PP for
+	      (NP each
+		  (PP of
+		      (NP the factors)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP These)
+   (VP are
+       (NP MPH)
+       (PP for
+	   (NP Car speed))
+       ,
+       (PP  (PP for
+		(NP Engine crankshaft speed))
+	    ,
+	    (PP for
+		(NP Rear axle gear ratio))
+	    ,
+	    (PP for
+		(NP Tire size)))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (S
+     (NP Tire size)
+     (AUX can)
+     (VP be
+	 (VP determined
+	     (PP in
+		 (NP several ways)))))
+    but
+    (S (NP (NP the one)
+	   (SBAR that
+		 (S  (NP T) 
+		     (VP is
+			 (X (NP the
+				(ADJP easiest))
+			    and
+			    (ADJP  as
+				   accurate
+				   (PP as
+				       (NP any))))))))
+       (VP is
+	   (PP by
+	       (S  (NP *)
+		   (VP measuring
+		       (NP the  effective radius
+			   (PP of
+			       (NP a wheel and tire assembly)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (AUX is)
+   (VP done
+       (PP by
+	   (S  (NP *) 
+	       (VP measuring
+		   (NP the distance
+		       (PP from
+			   (NP (NP the surface)
+			       (SBAR (WHPP on
+					   (WHNP which))
+				     (S
+				      (NP the tire)
+				      (AUX is)
+				      (VP resting)))))
+		       (PP to
+			   (NP the center
+			       (PP of
+				   (NP the rear axle shaft))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP A tire)
+      (AUX must)
+      (VP be
+	  (VP inflated
+	      (PP to
+		  (NP its
+		      normal  hot (VP operating)
+		      pressure)))))
+     and
+     (S (NP the car)
+	(AUX must)
+	(VP be
+	    (VP loaded
+		(PP to
+		    (NP its  (VP operating) weight))))
+	(SBAR 
+	 (WHADVP when)
+	 (S (NP this measurement)
+	    (AUX is)
+	    (VP made
+		)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The measurement)
+   (AUX must)
+   (VP be
+       (PP in
+	   (NP inches))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP (NP Any fraction
+	   (PP of
+	       (NP an inch)))
+       (VP involved
+	   (PP in
+	       (NP the measurement))))
+   (AUX must)
+   (VP be
+       (VP converted
+	   (PP to
+	       (NP a decimal equivalent))))
+   (S (NP *)
+      (AUX to)
+      (VP simplify
+	  (NP the mathematics))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR
+      (WHADVP When)
+      (S (NP tire size)
+	 (AUX is)
+	 (VP measured
+	     (PP in
+		 (NP this manner)))))
+     (S (NP a constant
+	    (PP of
+		(NP 168)))
+	(AUX is)
+	(VP used
+	    (PP in
+		(NP the formula)))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP determine
+	    (NP car speed)
+	    (PP for
+		(NP a   given combination
+		    (PP of
+			(NP (NP engine speed)
+			    ,
+			    (NP gear ratio)
+			    ,
+			    and
+			    (NP tire size)))))))
+     ,
+     (S (NP the formula)
+	(VP is
+	    :
+	    (NP (X A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (PP For
+	(NP (NP an engine speed
+		(PP of
+		    (NP 5000 rpm)))
+	    ,
+	    (NP a gear ratio
+		(PP of
+		    (NP 4.00
+			(PP to
+			    (NP 1)))))
+	    ,
+	    and
+	    (NP a tire radius
+		(PP of
+		    (NP 13 inches)))))
+    ,
+    (S (NP the equation)
+       (AUX would)
+       (VP look
+	   (PP like
+	       (NP this)))))
+ :
+ (X A[fj])
+ .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP determine
+	    (NP engine speed)
+	    (PP for
+		(NP a  given combination
+		    (PP of
+			(NP the
+			    other
+			    three factors))))))
+     (S (NP) the formula
+	(VP is
+	    :
+	    (NP (X A[fj])))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S  (NP *) 
+	  (VP Using
+	      (NP the  same figures
+		  (PP as
+		      (PP for
+			  (NP the  previous example))))))
+      ,
+      (S (NP the equation)
+	 (VP becomes
+	     :
+	     (NP (X A[fj])))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP determine
+	    (NP the rear axle gear ratio
+		(PP for
+		    (NP a combination
+			(PP of
+			    (NP the
+				other
+				three factors)))))))
+     ,
+     (S (NP the formula)
+	(VP is
+	    :
+	    (NP (X A[fj])))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP *) 
+       (VP Using
+	   (NP the figures
+	       (PP from
+		   (NP the  previous examples)))))
+    ,
+    (S (NP the equation)
+       (VP becomes
+	   :
+	   (NP (X A[fj])))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

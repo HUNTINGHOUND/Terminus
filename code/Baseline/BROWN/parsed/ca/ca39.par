@@ -1,0 +1,2552 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S  
+     (NP (NP Mickey Charles Mantle)
+	 ,
+	 (NP 
+	  (NP the New York Yankees)
+	  ' man
+	  (PP of
+	      (NP muscle)))
+	 ,)
+     (VP drives
+	 (NP a home
+	     run)
+	 (PP (NP 450 feet)
+	     into
+	     (NP the bleachers)))))
+   ,
+   (S (NP his feat)
+      (VP touches
+	  (PP upon
+	      (NP the sublime)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR 
+    (WHADVP When)
+    (S  
+     (NP (NP Roger Eugene Maris)
+	 ,
+	 (NP 
+	  (NP Mantle)
+	  's muscular teammate)
+	 ,)
+     (VP powers
+	 (NP four home runs)
+	 (PP in
+	     (NP a double-header)))))
+   ,
+   (S (NP his performance)
+      (VP merits
+	  (NP awe))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR (WHADVP when)
+	    (S  
+	     (NP (NP  tiny
+		      ,
+		      (ADJP 145-pound)
+		      Albert Gregory Pearson
+		      (PP of
+			  (NP the Los Angeles Angels)))
+		 ,
+		 (SBAR  
+		  (WHNP who)
+		  (S   (NP T)
+		       (ADVP once)
+		       (VP caught
+			   (NP (ADJP three straight) fly balls)
+			   (PP in
+			       (NP center field)))
+		       (SBAR because
+			     (S  ,
+				 (PP as
+				     (S (NP a teammate)
+					(VP explained)))
+				 ,
+				 ``
+				 (S (NP the other team)
+				    (VP thought
+					(SBAR 0
+					      (S (NP no one)
+						 (VP was
+						     (ADVP out
+							   there))))))
+				 ''))))
+		 ,)
+	     (VP hits
+		 (NP (NP seven home runs
+			 (PP in
+			     (NP four months)))
+		     *LRB*
+		     (ADJP (NP three)
+			   more
+			   (PP than
+			       (NP his total
+				   (PP in
+				       (NP (NP 1958) 
+					   ,
+					   (NP 1959)
+					   ,
+					   and
+					   (NP 1960))))))
+		     *RRB*))))
+      ,
+      (S (NP his achievement)
+	 (VP borders
+	     (PP on
+		 (NP the
+		     ridiculous)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP Baseball 1961)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP  (NP the year)
+	    (SBAR 0
+		  (S (NP  home runs)
+		     (VP ranged
+			 (PP (PP from
+				 (NP the (ADJP sublime)))
+			     (PP to
+				 (NP the
+				     (ADJP ridiculous))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP It)
+    (VP is
+	(NP (NP the year)
+	    (SBAR (WHADVP when)
+		  (S (S  *LRB*
+			 (NP 1)
+			 *RRB*
+			 (S (NP (ADJP amiable)
+				Jim Gentile
+				(PP of
+				    (NP the Baltimore Orioles)))
+			    (VP (VP ambled
+				    (PP to
+					(NP the plate))
+				    (PP in
+					(NP consecutive innings))
+				    (PP with
+					(S (NP the bases)
+					   (VP loaded))))
+				and
+				(VP   ,
+				      (PP in
+					  (NP (ADJP unprecedented) style))
+				      ,
+				      (VP delivered
+					  (NP 
+					   consecutive grand-slam
+					   home runs))))))
+		     ;
+		     ;
+		     (S  *LRB*
+			 (NP 2)
+			 *RRB*
+			 (S (NP Willie Mays
+				(PP of
+				    (NP the San Francisco Giants)))
+			    (VP (VP borrowed
+				    (NP 
+				     (NP a teammate)
+				     's bat))
+				and
+				(VP became
+				    (NP (NP the
+					    ninth big
+					    leaguer)
+					(S (NP *)
+					   (AUX to)
+					   (VP stroke
+					       (NP four home runs)
+					       (PP in
+						   (NP a game)))))))))
+		     ;
+		     ;
+		     (S *LRB*
+			(NP 3)
+			*RRB*
+			(S (NP the Milwaukee Braves)
+			   (VP (VP tied
+				   (NP a major-league record)
+				   (PP with
+				       (NP fourteen home runs
+					   (PP in
+					       (NP three games)))))
+			       and
+			       (VP lost
+				   (NP two
+				       (PP of
+					   (NP them)))))))
+		     ;
+		     ;
+		     and
+		     (S  *LRB*
+			 (NP 4)
+			 *RRB*
+			 (S (NP  catcher
+				 (NP Johnny Blanchard
+				     (PP of
+					 (NP the New York Yankees))))
+			    (VP matched
+				(NP a record))
+			    (PP with
+				(NP (NP home runs
+					(PP in
+					    (NP four successive times
+						(PP at
+						    (NP bat)))))
+				    ,
+				    (NP two
+					(PP of
+					    (NP them))
+					(PP as
+					    (NP a pinch-hitter))))))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Pitchers)
+   (VP grumble
+       (PP about
+	   (NP (NP (NP lively balls)
+		   and
+		   (NP lively bats))
+	       ,
+	       (NP the (ADJP shrinking) strike zone)
+	       ,
+	       and
+	       (NP the fact
+		   (SBAR that
+			 (S (NP the knock-down pitch)
+			    (VP is
+				(ADVP now)
+				(ADJP illegal)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Experts)
+    (VP point
+	(PP to
+	    (NP (NP the thinning
+		    (PP of
+			(NP pitching talent
+			    (PP in
+				(NP the American League)))))
+		(VP caused
+		    (PP by
+			(NP expansion)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (SINV (NP (WHNP Whatever)
+	     the reasons)
+	  ,
+	  (NEG not)
+	  (PP in
+	      (NP 30 years))
+	  (AUX has)
+	  (NP a single season)
+	  (VP produced
+	      (NP 
+	       such thunderous
+	       assaults
+	       (PP upon
+		   (NP (NP the bureau
+			   (PP of
+			       (NP baseball records)))
+		       ,
+		       (NP home-run division))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Of
+       (NP all
+	   the records
+	   (PP in
+	       (NP peril))))
+   ,
+   (S (NP (NP one)
+	  (ADJP-1 *pseudo-attach*))
+      (VP stands
+	  (ADVP apart))
+      ,
+      (ADJP-1 (ADJP dramatic
+		    (PP in
+			(NP its making)))
+	      ,
+	      (ADJP dramatic
+		    (PP in
+			(NP its endurance)))
+	      ,
+	      and
+	      (ADVP now)
+	      ,
+	      (ADJP  doubly
+		     dramatic
+		     (PP in
+			 (NP its jeopardy))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP This)
+   ,
+   (PP of
+       (NP course))
+   ,
+   (VP is
+       (NP (NP 
+	    (NP baseball)
+	    's
+	    (ADJP most remarkable)
+	    mark)
+	   :
+	   (NP (NP The 60 home runs)
+	       (VP hit
+		   (PP in
+		       (NP 1927))
+		   (PP by
+		       (NP (NP (NP the incorrigible epicure)
+			       ,
+			       (NP the incredible athlete)
+			       ,)
+			   (NP George Herman
+			       *LRB*
+			       Babe
+			       *RRB*
+			       Ruth
+			       (PP of
+				   (NP the Yankees))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (PP Since
+	  (NP 1927))
+      ,
+      (S (NP (ADJP fewer
+		   (PP than
+		       (NP a dozen)))
+	     men)
+	 (AUX have)
+	 (VP made
+	     (NP serious runs)
+	     (PP at
+		 (NP 
+		  (NP Babe Ruth)
+		  's record)))))
+     and
+     (S  
+      (NP each)
+      ,
+      (PP in
+	  (NP turn))
+      ,
+      (AUX has)
+      (VP been
+	  (VP thwarted
+	      ))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S (NP (SBAR 
+	 (WHNP What)
+	 (S   (NP T)
+	      (ADVP ultimately)
+	      (VP frustrated
+		  (NP every challenger)))))
+    (VP was
+	(NP 
+	 (NP Ruth)
+	 's
+	 (ADJP amazing)
+	 September surge)))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP the final month
+	   (PP of
+	       (NP the 1927 season))))
+   ,
+   (S (NP he)
+      (VP hit
+	  (NP (NP seventeen home runs)
+	      ,
+	      (NP (NP a closing spurt)
+		  (VP  (ADVP never)
+		       matched))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Double threat)
+   :
+   (S  (ADVP Always)
+       ,
+       (PP in
+	   (NP the abortive attacks
+	       (PP upon
+		   (NP 
+		    (NP Ruth)
+		    's record))))
+       ,
+       (S (NP (NP one man
+		  (ADVP alone))
+	      --
+	      (NP (NP (NP a Jimmy Foxx)
+		      *LRB*
+		      (NP 58
+			  (PP in
+			      (NP 1932)))
+		      *RRB*)
+		  or
+		  (NP (NP a Hank Greenberg)
+		      *LRB*
+		      (NP 58
+			  (PP in
+			      (NP 1938)))
+		      *RRB*)
+		  or
+		  (NP (NP a Hack Wilson)
+		      *LRB*
+		      (NP 56
+			  (PP in
+			      (NP 1930)))
+		      *RRB*))
+	      --)
+	  (VP made
+	      (NP the bid)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (ADVP now)
+      ,
+      (PP for
+	  (NP the first time
+	      (PP  since
+		   (S (NP (NP Lou Gehrig)
+			  *LRB*
+			  (PP with
+			      (NP 47 home runs))
+			  *RRB*)
+		      (VP spurred
+			  (NP Ruth)
+			  (ADVP on))
+		      (PP in
+			  (NP 1927))))))
+      ,
+      (S (NP (NP two men)
+	     (VP playing
+		 (PP for
+		     (NP the same team))))
+	 (AUX have)
+	 (VP zeroed
+	     (PRT in)
+	     (PP on
+		 (NP 60)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Their names)
+      (VP are
+	  (NP (NP Mantle)
+	      and
+	      (NP Maris))))
+     ,
+     (S (NP their team)
+	(VP is
+	    (NP the Yankees)))
+     ,
+     and
+     (S (NP their threat)
+	(VP is
+	    (ADJP real))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP 108 games
+	   (PP in
+	       (NP 1927))))
+   ,
+   (S (NP Ruth)
+      (VP had
+	  (NP 35 home runs))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP After
+       (NP 108 games
+	   (PP in
+	       (NP 1961))))
+   ,
+   (S (S (NP Mickey Mantle)
+	 (VP has
+	     (NP 43)))
+      ,
+      (X (NP Roger Maris)
+	 (NP 41))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  (NP *)  
+	 (VP Extend
+	     (NP 
+	      (X (NP Mantle)
+		 's
+		 and
+		 (NP Maris)
+		 's)
+	      present paces)
+	     (PP over
+		 (NP the
+		     full
+		     1961 schedule
+		     (PP of
+			 (NP 162 games))))))
+     ,
+     and
+     (S  ,
+	 (ADVP mathematically)
+	 ,
+	 (S (NP each)
+	    (AUX will)
+	    (VP hit
+		(NP (ADJP more
+			  (PP than
+			      (NP 60)))
+		    home runs)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP (NP the great edge)
+	   (SBAR 0
+		 (S (NP  the two
+			 Yankees)
+		    (VP have
+			(NP T)
+			(VP  going
+			     (PP for
+				 (NP them)))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(AUX To)
+	(VP better
+	    (NP 
+	     (NP Ruth)
+	     's mark)))
+     ,
+     (S (NP neither)
+	(VP needs
+	    (NP a
+		(ADJP spectacular)
+		September flourish))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP All)
+	 (SBAR 0
+	       (S (NP  Mantle)
+		  (VP needs
+		      (NP T) ))))
+     (VP is
+	 (NP (NP (ADJP (NP eight) more) home runs
+		 (PP in
+		     (NP August)))
+	     and
+	     (NP ten
+		 (PP in
+		     (NP September))))))
+    ,
+    and
+    (S (NP he)
+       (AUX will)
+       (VP establish
+	   (NP a new record))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP (PP In
+	   (NP 
+	    (NP Ruth)
+	    's day))
+       --
+       and
+       (PP until
+	   (NP this year))
+       --)
+   (S (NP the schedule)
+      (VP was
+	  (NP 154 games))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( 
+ (S (NP  Baseball commissioner
+	 (NP Ford Frick))
+    (AUX has)
+    (VP ruled
+	(SBAR that
+	      (S (NP
+		  (NP Ruth)
+		  's record)
+		 (AUX will)
+		 (VP remain
+		     (ADJP official))
+		 (SBAR unless
+		       (S (NP it)
+			  (AUX is)
+			  (VP broken
+					  
+			      (PP in
+				  (NP 154 games)))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  *RRB*
+      ``
+      (S (PP  (ADVP Even)
+	      on
+	      (NP the basis
+		  (PP of
+		      (NP 154 games))))
+	 ,
+	 (S (NP this)
+	    (VP is
+		(NP the ideal situation))))
+      ''
+      ,
+      (SINV  
+       (VP insists)
+       (NP (NP Hank Greenberg)
+	   ,
+	   (ADVP now)
+	   (NP vice-president
+	       (PP of
+		   (NP the Chicago White Sox))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It)
+      (VP has
+	  (S (NP *)
+	     (AUX to)
+	     (VP be
+		 (ADJP easier))
+	     (PP with
+		 (NP two
+		     (PP of
+			 (NP them)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (SBARQ 
+  (WHADVP How)
+  (SQ  (AUX can)
+       (NP you)
+       (VP walk
+	   (NP Maris)
+	   (S (NP *)
+	      (AUX to)
+	      (VP get
+		  (PP to
+		      (NP Mantle)))))))
+ ''
+ ?
+ ?)
+(  END_OF_TEXT_UNIT)
+((NP Roommates)
+ :)
+(   
+ (S (S  
+     (NP Neither 
+	 (NP Mantle)
+	 nor
+	 (NP Maris))
+     ,
+     (ADVP understandably)
+     ,
+     (AUX will)
+     (VP predict
+	 (NP 60 home runs)
+	 (PP for
+	     (NP himself)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR Although
+	   (S (NP both)
+	      (VP concede
+		  (SBAR 0
+			(S (NP they)
+			   (AUX would)
+			   (VP like
+			       (S (NP *)
+				  (AUX to)
+				  (VP hit
+				      (NP 60)))))))))
+     ,
+     (S (NP they)
+	(VP stick
+	    (ADVP primarily)
+	    (PP to
+		(NP (NP 
+		     (NP the baseball player)
+		     's standard quote)
+		    :
+		    ``
+		    (S (NP The important thing)
+		       (VP is
+			   (S (NP *)
+			      (AUX to)
+			      (VP win
+				  (NP the pennant)))))
+		    '')))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S  But
+	 (S (NP one thing)
+	    (VP is
+		(PP for
+		    (ADJP certain)))))
+     :
+     (S (NP There)
+	(VP is
+	    (NP no dissension
+		(PP between
+		    (NP (NP (NP Mantle)
+			    ,
+			    (NP 
+			     (NP the American League)
+			     's
+			     (ADJP Most
+				   Valuable) Player
+			     (PP in
+				 (NP (NP 1956)
+				     and
+				     (NP 1957))))
+			    ,)
+			and
+			(NP (NP Maris)
+			    ,
+			    (NP the MVP
+				(PP in
+				    (NP 1960))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (S (NP Each)
+	  (VP enjoys
+	      (S (NP *) 
+		 (VP seeing
+		     (NP the
+			 other)
+		     (VP hit
+			 (NP home runs))))))
+       *LRB*
+       (S ``
+	  (S (NP I)
+	     (VP hope
+		 (SBAR 0
+		       (S (NP Roger)
+			  (VP hits
+			      (NP 80))))))
+	  ''
+	  ,
+	  (S (NP Mantle)
+	     (VP says)))
+       *RRB*)
+    ,
+    and
+    (S (S (NP each)
+	  (VP enjoys
+	      (ADVP even
+		    more)
+	      (S (NP *) 
+		 (VP seeing
+		     (NP himself)
+		     (VP hit
+			 (NP home runs))))))
+       *LRB*
+       ``
+       and
+       (S (NP I)
+	  (VP hope
+	      (SBAR 0
+		    (S (NP I)
+		       (VP hit
+			   (NP 81))))))
+       ''
+       *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP The sluggers)
+    (VP get
+	(PRT along)
+	(ADVP so
+	      well)
+	(PP in
+	    (NP fact))
+	,
+	(SBAR that
+	      (S (PP with
+		     (X (X (NP their families)
+			   (PP at
+			       (NP home))
+			   (PP for
+			       (NP the summer)))
+			*LRB*
+			(X (X (NP (NP Mantle)
+				  's)
+			      (PP in
+				  (NP Dallas)))
+			   ,
+			   (X (NP (NP Maris)
+				  's)
+			      (PP in
+				  (NP Kansas City))))
+			*RRB*))
+		 ,
+		 (S (NP they)
+		    (AUX are)
+		    (VP rooming
+			(ADVP together)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mantle)
+      ,
+      (NP Maris)
+      ,
+      and
+      (NP (NP Bob Cerv)
+	  ,
+	  (NP a utility outfielder)
+	  ,))
+  (VP share
+      (NP an apartment
+	  (PP in
+	      (NP (NP Jamaica)
+		  ,
+		  (NP Long Island)
+		  ,))
+	  (NEG not)
+	  (ADVP far
+		(PP from
+		    (NP New York International Airport))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP The three)
+   (VP pay
+       (NP (NP $ 251)
+	   (NP a month))
+       (PP for
+	   (NP (NP four rooms)
+	       *LRB*
+	       (NP (NP kitchen)
+		   ,
+		   (NP  dining
+			room)
+		   ,
+		   (NP  living
+			room)
+		   ,
+		   and
+		   (NP bedroom))
+	       *RRB*
+	       ,
+	       (PP with
+		   (NP (NP air-conditioning)
+		       and
+		       (NP new modern furniture)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Mantle)
+	 and
+	 (NP Cerv))
+     (VP use
+	 (NP the twin beds
+	     (PP in
+		 (NP the bedroom)))))
+    ;
+    ;
+    (S (NP Maris)
+       (VP sleeps
+	   (PP on
+	       (NP a green studio couch
+		   (PP in
+		       (NP the living room)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP They)
+      (VP divide
+	  (PRT up)
+	  (NP the household chores)))
+   :
+   (S (NP Cerv)
+      (VP does
+	  (NP most
+	      (PP of
+		  (NP (NP the cooking)
+		      *LRB*
+		      (NP (NP
+			   (NP breakfast)
+			   and
+			   (NP sandwich snacks))
+			  ,
+			  (PP with
+			      (NP dinner
+				  (ADVP out))))
+		      *RRB*)))))
+   ,
+   (S (NP Mantle)
+      (VP supplies
+	  (NP (NP the transportation)
+	      *LRB*
+	      (NP a
+		  (ADJP white)
+		  1961 Oldsmobile convertible)
+	      *RRB*)))
+   ,
+   and
+   (S (NP Maris)
+      (VP drives
+	  (NP the (ADJP 25-minute) course
+	      (PP (PP from
+		      (NP the apartment house))
+		  (PP to
+		      (NP Yankee Stadium)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (S  
+     (NP (NP Mantle)
+	 ,
+	 (NP Maris)
+	 ,
+	 and
+	 (NP Cerv))
+     (ADVP probably)
+     (VP share
+	 (NP one
+	     major-league record))
+     (ADVP already))
+    :
+    (S (PP Among
+	   (NP them))
+       ,
+       (S (NP they)
+	  (VP have
+	      (NP (NP fifteen children)
+		  --
+		  (NP (NP eight
+			  (PP for
+			      (NP Cerv)))
+		      ,
+		      (NP four
+			  (PP for
+			      (NP Mantle)))
+		      ,
+		      and
+		      (NP three
+			  (PP for
+			      (NP Maris)))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP As
+       (NP (NP roommates)
+	   ,
+	   (NP teammates)
+	   ,
+	   and
+	   (NP home-run mates)))
+   ,
+   (S  
+    (NP (NP (NP (NP Mantle)
+		,
+		(NP 29)
+		,)
+	    (SBAR  
+	     (WHNP who)
+	     (S (NP T)
+		(VP broke
+		    (PRT in)
+		    (PP with
+			(NP the Yankees)))
+		(ADVP (NP ten years)
+		      ago))))
+	,
+	and
+	(NP (NP (NP Maris)
+		,
+		(NP 26)
+		,)
+	    (SBAR 
+	     (WHNP who)
+	     (S (NP T)
+		(VP came
+		    (PP to
+			(NP the Yankees))
+		    (PP from
+			(NP Kansas City)))
+		(ADVP (NP two years)
+		      ago))))
+	,)
+    (VP have
+	(NP (ADJP  strikingly
+		   similar) backgrounds))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (S (NP Both)
+	  (VP were
+	      (NP scholastic stars
+		  (PP in
+		      (NP (NP football)
+			  ,
+			  (NP basketball)
+			  ,
+			  and
+			  (NP baseball))))))
+       *LRB*
+       (X (X (NP Mantle)
+	     (PP in
+		 (NP (NP Commerce)
+		     ,
+		     (NP Okla.))))
+	  ,
+	  (X (NP Maris)
+	     (PP in
+		 (NP (PNP Fargo)
+		     ,
+		     (NP N.D.)))))
+       *RRB*)
+    ;
+    ;
+    (S (S (PP as
+	      (NP halfbacks))
+	  ,
+	  (S (NP both)
+	     (VP came
+		 (ADVP close
+		       (PP to
+			   (S (NP *) 
+			      (VP playing
+				  (NP football))
+			      (PP at
+				  (NP the University
+				      (PP of
+					  (NP Oklahoma))))))))))
+       *LRB*
+       (S ``
+	  (ADVP Sometimes)
+	  (PP in
+	      (NP the minors))
+	  ''
+	  ,
+	  (S (NP Maris)
+	     (VP recalls))
+	  ,
+	  ``
+	  (S (NP I)
+	     (VP wished
+		 (SBAR 0
+		       (S (NP I)
+			  (AUX had)
+			  (VP gone
+			      (PP to
+				  (NP Oklahoma)))))))
+	  '')
+       *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP  To
+	(NP an extent))
+   ,
+   (S (NP the two)
+      (ADVP even)
+      (VP look
+	  (ADJP alike))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Both)
+   (VP have
+       (NP (NP blue eyes)
+	   and
+	   (NP 
+	    short blond
+	    hair))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP Both)
+       (VP (VP are
+	       (ADJP (NP 6 feet)
+		     tall))
+	   and
+	   (VP weigh
+	       (PP between
+		   (NP (NP (NP 195)
+			   and
+			   (NP 200))
+		       pounds)))))
+    ,
+    but
+    (S (NP (NP Mantle)
+	   ,
+	   (ADJP (ADJP  incredibly
+			muscular)
+		 *LRB*
+		 (S (NP he)
+		    (VP has
+			(NP a (ADJP 17-12-inch) neck)))
+		 *RRB*)
+	   ,)
+       (VP looks
+	   (ADJP bigger))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP (NP their huge backs)
+	   and
+	   (NP (ADJP overdeveloped) shoulders)))
+   ,
+   (S (NP both)
+      (AUX must)
+      (VP have
+	  (NP their clothes)
+	  (VP made
+	      (PP to
+		  (NP order))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Maris)
+   (VP purchases
+       (NP $ 100
+	   suits)
+       (PP from
+	   (NP Simpson 's
+	       (PP in
+		   (NP New York))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP Mantle)
+      ,
+      (ADJP  more
+	     concerned
+	     (PP with
+		 (NP dress)))
+      ,)
+  (VP (VP buys
+	  (NP his
+	      suits)
+	  (NP four
+	      (PP at
+		  (NP a time)))
+	  (PP at
+	      (NP Neiman-Marcus
+		  (PP in
+		      (NP Dallas)))))
+      and
+      (VP pays
+	  (ADJP as
+		much
+		(PP as
+		    (NP (NP $ 250)
+			(NP each)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (NP Light reading)
+  :)
+(  
+ (S  (S (NP  Neither
+	     (NP Mantle)
+	     nor
+	     (NP Maris))
+	(AUX need)
+	(VP fear
+	    (S (NP *)  
+	       (AUX being)
+	       (VP classified
+		   (NP an intellectual)))))
+     ,
+     but
+     (S  (ADVP lately)
+	 (S (NP Mantle)
+	    (AUX has)
+	    (VP shown
+		(NP unusual devotion
+		    (PP to
+			(NP (NP an intellectual opus)
+			    ,
+			    (NP (NP Henry Miller)
+				's
+				``
+				Tropic
+				(PP of
+				    (NP Cancer))
+				''))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Mantle)
+     (VP (ADVP so)
+	 appreciated
+	 (NP 
+	  (NP Miller)
+	  's
+	  delicate literary
+	  style)
+	 (SBAR that
+	       (S (NP he)
+		  (VP broadened
+		      (NP 
+		       (NP teammates)
+		       ' minds)
+		      (PP by
+			  (S (NP *) 
+			     (VP reading
+				 (NP sensitive passages)
+				 (ADVP aloud))
+			     (PP during
+				 (NP road trips)))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Mantle)
+   (AUX is)
+   (NEG not)
+   (ADVP normally)
+   (VP given
+       (PP (PP to
+	       (NP public
+		   speaking))
+	   --
+	   or
+	   ,
+	   (PP for
+	       (NP that matter))
+	   ,
+	   (PP to
+	       (NP  private
+		    speaking)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S ``
+     (SBARQ 
+      (WHNP What)
+      (SQ  
+       (AUX do)
+       (NP (NP you)
+	   and
+	   (NP Mickey))
+       (VP talk
+	   (PP about
+	       (NP T) ))
+       (PP at
+	   (NP home))))
+     ''
+     ?
+     ?
+     (S
+      (NP A reporter)
+      (VP asked
+	  (NP Maris))
+      (ADVP recently)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (S   (NP *) 
+	   (AUX To)
+	   (VP tell
+	       (NP you)
+	       (NP the truth)))
+      ''
+      ,
+      (S (NP Maris)
+	 (VP said))
+      ,
+      ``
+      (S (NP Mickey)
+	 (AUX do)
+	 (NEG n't)
+	 (VP talk
+	     (ADVP much)))
+      '')
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP This)
+   (VP is
+       (NP no surprising trait)
+       (PP for
+	   (NP a ballplayer))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  
+     (SBAR (WHNP What)
+	   (S (NP T)
+	      (VP is
+		  (ADJP surprising and pleasant)))))
+    (VP is
+	(SBAR that
+	      (S (NP (NP Mantle)
+		     and
+		     (NP Maris))
+		 ,
+		 (PP under
+		     (NP constant pressure
+			 (PP from
+			     (NP (NP writers) and (NP photographers)))))
+		 ,
+		 (AUX are)
+		 (VP trying
+		     (S (NP *)
+			(AUX to)
+			(VP be
+			    (ADJP cooperative))))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S  
+    (PP Of
+	(NP the two))
+    ,
+    (S (S (NP Mantle)
+	  (VP is
+	      (PP by
+		  (NP nature))
+	      (NP the
+		  (ADJP  less
+			 outgoing))))
+       ,
+       (X (NP Maris)
+	  (NP the
+	      (ADJP  more
+		     outspoken)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (NP last week)
+      ,
+      (SBAR 
+       (WHADVP when)
+       (S (NP a reporter)
+	  (AUX was)
+	  (VP standing
+	      (PP near
+		  (NP 
+		   (NP Mantle)
+		   's locker)))))
+      ,
+      (S (NP Mickey)
+	 (VP (VP walked
+		 (ADVP up))
+	     and
+	     (VP volunteered
+		 (NP an anecdote)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (SQ  (NP *)  
+	   (VP See
+	       (NP that kid)))
+      ''
+      ?
+      ?
+      (S
+       (NP He)
+       (VP said)
+       ,
+       (S  (NP *) 
+	   (VP pointing
+	       (PP to
+		   (NP a
+		       (ADJP dark-haired) (ADJP 11-year-old)
+		       boy))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP That)
+      (VP 's
+	  (NP (NP  *LRB*
+		   Yogi
+		   *RRB*
+		   Berra)
+	      's)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (AUX 'll)
+   (ADVP never)
+   (VP forget
+       (NP one time)
+       (SBAR 0
+	     (S (S (NP I)
+		   (VP (VP struck
+			   (PRT out)
+			   (NP three times))
+		       ,
+		       (VP dropped
+			   (NP a fly ball))))
+		,
+		and
+		(S (NP we)
+		   (VP lost
+		       (NP the game)))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP I)
+      (VP came
+	  (ADVP back))
+      ,
+      (S (NP *) 
+	 (VP (VP sitting
+		 (PP by
+		     (NP my locker)))
+	     ,
+	     (VP feeling
+		 (ADJP real low)))))
+     ,
+     and
+     (S (NP the kid)
+	(VP (VP walks
+		(ADVP over)
+		(PP to
+		    (NP me)))
+	    ,
+	    (VP looks
+		(ADVP up))
+	    ,
+	    and
+	    (VP says
+		:
+		'
+		(S (NP You)
+		   (VP stunk))
+		'))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (S  
+      (NP Maris)
+      ,
+      (PP in
+	  (S (NP *) 
+	     (VP talking
+		 (PP to
+		     (NP reporters)))))
+      ,
+      (VP tries
+	  (S (NP *)
+	     (AUX to)
+	     (VP answer
+		 (NP all questions)
+		 (ADVP candidly and fully)))))
+     ,
+     but
+     (S (PP on
+	    (NP rare occasions))
+	,
+	(S (NP he)
+	   (VP shuns
+	       (NP newsmen)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (SBAR 
+      (WHADVP When)
+      (S (NP I)
+	 (AUX 've)
+	 (VP made
+	     (NP a dumb play))))
+     ''
+     ,
+     (S (NP he)
+	(VP says))
+     ,
+     ``
+     (S (NP I)
+	(AUX do)
+	(NEG n't)
+	(VP want
+	    (S (NP *)
+	       (AUX to)
+	       (VP talk
+		   (PP to
+		       (NP anyone)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP I)
+   (VP 'm
+       (ADJP angry)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP By
+       (NP his own confession))
+   ,
+   (S (NP Maris)
+      (VP is
+	  (NP an
+	      angry young
+	      man))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP *) 
+      (VP Benched)
+      (PP at
+	  (NP Tulsa))
+      (PP in
+	  (NP 1955)))
+   ,
+   (S (NP he)
+      (VP told
+	  (NP manager
+	      (NP Dutch Meyer))
+	  :
+	  ``
+	  (S (NP I)
+	     (AUX ca)
+	     (NEG n't)
+	     (VP play
+		 (PP for
+		     (NP you)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  (NP *)  
+      (VP Send
+	  (NP me)
+	  (SBAR 
+	   (WHADVP where)
+	   (S (NP I)
+	      (AUX can)
+	      (VP play)))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP Meyer)
+      (VP sent
+	  (NP him)
+	  (PP to
+	      (NP (NP Reading)
+		  ,
+		  (NP Pa
+		      .)))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (S (NP *)   
+     (VP Benched)
+     (PP at
+	 (NP Indianapolis))
+     (PP in
+	 (NP 1956)))
+  ,
+  (S (NP he)
+     (VP told
+	 (NP manager
+	     (NP Kerby Farrell))
+	 :
+	 ``
+	 (S (NP I)
+	    (AUX 'm)
+	    (NEG not)
+	    (VP learning
+		(NP anything)
+		(PP on
+		    (NP the bench)))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP *) 
+     (VP Play
+	 (NP me)))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (S (NP Farrell)
+	 (AUX did))
+      --
+      and
+      (S (NP Maris)
+	 (VP led
+	     (NP the team)
+	     (PP to
+		 (NP victory))
+	     (PP in
+		 (NP the Little World Series)))))
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+((S  ``
+     (S (NP That)
+	(VP 's
+	    (NP (NP the way)
+		(SBAR 0
+		      (S
+		       (NP I)
+		       (VP am))))))
+     ''
+     ,
+     (S (NP he)
+	(VP says)))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (VP tell
+	  (NP people)
+	  (SBAR (WHNP what)
+		(S
+		 (NP I)
+		 (VP think
+		     (NP T) )))))
+   .)   
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP you)
+	     (VP 're
+		 (NP a good ballplayer))))
+   ,
+   (S (NP you)
+      (AUX 've)
+      (VP got
+	  (S (NP *)
+	     (AUX to)
+	     (VP get
+		 (ADJP mad))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S (NP *) 
+	(VP Give
+	    (NP me)
+	    (NP a team
+		(PP of
+		    (NP nine angry men)))))
+     and
+     (S (NP I)
+	(AUX 'll)
+	(VP give
+	    (NP you)
+	    (NP a team
+		(PP of
+		    (NP nine gentlemen)))))
+     and
+     (S (NP we)
+	(AUX 'll)
+	(VP beat
+	    (NP you)
+	    (NP (NP nine
+		    (PP out
+			(PP of
+			    (NP ten))))
+		times))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (NP 
+  (NP Idols)
+  ' idols)
+ :
+ )
+( (S (NP One good indication
+	 (PP of
+	     (NP 
+	      (NP the two men)
+	      's personalities)))
+     (VP is
+	 (NP (NP the way)
+	     (SBAR 0
+		   (S
+		    (NP they)
+		    (VP reacted
+			(PP to
+			    (S (NP *) 
+			       (VP meeting
+				   (NP their own heroes))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Maris)
+    's)
+   (VP was
+       (NP Ted Williams)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (SBAR 
+       (WHADVP When)
+       (S (NP I)
+	  (VP was
+	      (NP a kid))))
+      ''
+      ,
+      (S (NP Maris)
+	 (VP told
+	     (NP a sportswriter))
+	 (NP last week))
+      ,
+      ``
+      (S (NP I)
+	 (VP used
+	     (S (NP *)
+		(AUX to)
+		(VP follow
+		    (NP Williams)
+		    (NP every day)
+		    (PP in
+			(NP the box score)))
+		,
+		(S (ADVP just)
+		   (S (NP *)
+		      (AUX to)
+		      (VP see
+			  (SBAR whether
+				(S (S (NP he)
+				      (VP got
+					  (NP a hit)))
+				   or
+				   (X (NEG not))))))))))
+      '')
+  .) 
+(  END_OF_TEXT_UNIT)
+(  ``
+   (SQ  
+    (SBAR 
+     (WHADVP When)
+     (S (NP you)
+	(VP came
+	    (PP up
+		(PP to
+		    (NP the majors))))))
+    ,
+    (SQ  
+     (AUX did)
+     (NP you)
+     (VP seek
+	 (PRT out)
+	 (NP Williams)
+	 (PP for
+	     (NP advice)))))
+   ''
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  (S ``
+      (SQ  
+       (AUX Are)
+       (NP you)
+       (VP kidding))
+      ''
+      ?
+      ?
+      (SINV 
+       (VP Said)
+       (NP Maris)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP You)
+      (VP 're
+	  (ADJP afraid
+		(S (NP *)
+		   (AUX to)
+		   (VP talk
+		       (PP to
+			   (NP (NP a guy)
+			       (SBAR 0
+				     (S
+				      (NP you)
+				      (VP idolize
+					  (NP T) ))))))))))
+   ''
+   .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP 
+    (NP Mantle)
+    's hero)
+   (VP was
+       (NP Joe DiMaggio)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  ``
+      (SBAR 
+       (WHADVP When)
+       (S (NP Mickey)
+	  (VP went
+	      (PP to
+		  (NP the Yankees)))))
+      ''
+      ,
+      (SINV  
+       (VP says)
+       (NP (NP Mark Freeman)
+	   ,
+	   (NP (NP an ex-Yankee pitcher)
+	       (SBAR 
+		(WHNP who)
+		(S (NP T)
+		   (VP sells
+		       (NP mutual funds)
+		       (PP in
+			   (NP Denver))))))))
+      ,
+      ``
+      (S (S (NP DiMaggio)
+	    (ADVP still)
+	    (AUX was)
+	    (VP playing))
+	 and
+	 (S (NP every day)
+	    (S (NP Mickey)
+	       (AUX would)
+	       (VP go
+		   (PP by
+		       (NP his locker)))
+	       ,
+	       (S  (NP *) 
+		   (VP (ADVP just)
+		       aching
+		       (PP for
+			   (NP some word
+			       (PP of
+				   (NP encouragement))
+			       (PP from
+				   (NP (NP this great man)
+				       ,
+				       (NP this hero
+					   (PP of
+					       (NP his)))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (S (NP DiMaggio)
+	 (ADVP never)
+	 (VP said
+	     (NP a word))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP It)
+   (VP crushed
+       (NP Mickey)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP He)
+   (VP told
+       (NP me)
+       (SBAR 0
+	     (S (NP he)
+		(VP vowed
+		    (ADVP right
+			  then)
+		    (SBAR that
+			  (S (SBAR if
+				   (S (NP he)
+				      (ADVP ever)
+				      (VP got
+					  (S (NP *)
+					     (AUX to)
+					     (VP be
+						 (NP a star))))))
+			     ,
+			     (S (NP this)
+				(ADVP never)
+				(AUX would)
+				(VP be
+				    (VP said
+					(PP of
+					    (NP him))))))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+        (NP Mantle)
+        (AUX has)
+        (VP kept
+            (NP the vow)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP Among
+       (NP all
+	   the Yankees))
+   ,
+   (S (NP he)
+      (VP is
+	  (NP (NP the veteran)
+	      (ADJP  most friendly
+		     (PP to
+			 (NP rookies)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP Neither 
+      (NP Mantle)
+      nor
+      (NP Maris))
+  (VP is
+      (ADJP (ADVP totally)
+	    devoted
+	    (PP to
+		(NP baseball))
+	    (PP above
+		(NP all else)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP (S (NP *) 
+		    (VP laying
+			(NP ties)
+			(PP on
+			    (NP a railroad track))))
+		 ,
+		 (SBAR (WHNP which)
+		       (S
+			(NP he)
+			(ADVP once)
+			(VP did
+			    (NP T)
+			    (PP for
+				(NP (NP $ 1)
+				    (NP an hour))))))
+		 ,)
+	     (VP paid
+		 (NP more
+		     (PP than
+			 (S (NP *) 
+			    (VP playing
+				(NP right field)
+				(PP for
+				    (NP the Yankees)))))))))
+   ,
+   (S (NP Maris)
+      (AUX would)
+      (VP lay
+	  (NP ties)
+	  (PP on
+	      (NP a railroad track)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (SBAR  If
+	  (S (NP (S (NP *) 
+		    (VP working
+			(PP in
+			    (NP a zinc mine))))
+		 ,
+		 (SBAR (WHNP which)
+		       (S
+			(NP he)
+			(ADVP once)
+			(VP did
+			    (NP T)
+			    (PP for
+				(NP (NP 87-12 cents)
+				    (NP an hour))))))
+		 ,)
+	     (VP paid
+		 (NP more
+		     (PP than
+			 (S (NP *) 
+			    (VP playing
+				(NP center field)
+				(PP for
+				    (NP the Yankees)))))))))
+   ,
+   (S (NP Mantle)
+      (AUX would)
+      (VP work
+	  (PP in
+	      (NP a zinc mine)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  But
+      (SBAR since
+	    (S (NP  (NP railroading)
+		    and
+		    (NP
+		     mining))
+	       (VP are
+		   (NEG not)
+		   (NP the
+		       (ADJP highest
+			     paid)
+		       arts))))
+      ,
+      (S (NP (NP Mantle)
+	     and
+	     (NP Maris))
+	 (VP concentrate
+	     (PP on
+		 (NP baseball)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP They)
+   (VP try
+       (S (NP *)
+	  (AUX to)
+	  (VP play
+	      (NP baseball)
+	      (NP (NP the
+		      (ADVP best))
+		  (SBAR 0
+			(S (NP they)
+			   (AUX can))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+( (S
+   (NP Each)
+   (VP is
+       (NP a complete ballplayer)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (NP Mantle)
+   ,
+   (PP beyond
+       (NP any question))
+   ,
+   (AUX can)
+   (VP do
+       (NP  more
+	    things)
+       (ADVP well)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S  ``
+       (NP One
+	   (PP of
+	       (NP (NP the reasons)
+		   (SBAR 0
+			 (S (NP they)
+			    (VP get
+				(PRT along)
+				(ADVP fine)))))))
+       ''
+       ,
+       (SINV (VP says)
+	     (NP (NP a sportswriter)
+		 (SBAR  
+		  (WHNP who)
+		  (S (NP T)
+		     (VP is
+			 (ADJP friendly
+			       (PP with
+				   (NP the two men))))))))
+       ,
+       ``
+       (VP is
+	   (SBAR that
+		 (S (NP both)
+		    (VP realize
+			(SBAR 0
+			      (S (NP Mantle)
+				 (VP is
+				     (PP (NP head-and-shoulders)
+					 above
+					 (NP Maris)))))))))
+       '')
+   .
+   *RRB*)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (S (NP *) 
+     (VP Hitting))
+  ,
+  (S  (NP Mantle)
+      (VP has
+	  (NP an immediate advantage))
+      (SBAR because
+	    (S (S (NP he)
+		  (VP bats
+		      (ADJP both
+			    (ADJP left-handed) and  (ADJP right-handed))))
+	       ,
+	       (X (NP Maris)
+		  (ADVP only)
+		  (ADJP left-handed))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)   
+( (S
+   (NP  They
+	both)
+   (VP possess
+       (NP (NP (ADJP  (ADVP near)
+		      classic) stances)
+	   ,
+	   (S (S (NP *) 
+		 (VP dug
+		     (ADVP in)
+		     (ADVP firmly)))
+	      ,
+	      (X (NP arms)
+		 (ADJP high))
+	      ,
+	      (S  (NP *) 
+		  (VP set
+		      (PP for
+			  (NP fierce swings))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (NP Mantle)
+    (VP  is
+	 (ADJP considerably
+	       better
+	       (S (NP *) 
+		  (VP hitting
+		      (PP for
+			  (ADJP average)))))
+	 *LRB*
+	 ,
+	 (X (ADJP fourth
+		  (PP in
+		      (NP the league)))
+	    ,
+	    (PP to
+		(X (PP for
+		       (NP Maris))
+		   (ADVP so
+			 far
+			 (NP this year)))))
+	 *RRB*))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S
+       (NP Both)
+       (VP are
+	   (NP good bunters)))
+      :
+      (S (S (NP Maris)
+	    (ADVP once)
+	    (VP beat
+		(PRT out)
+		(NP eighteen
+		    (PP of
+			(NP nineteen))))
+	    (PP in
+		(NP the minor leagues)))
+	 ;
+	 ;
+	 (S (NP Mantle)
+	    (VP is
+		(NP a master)
+		(PP at
+		    (S (NP *) 
+		       (VP dragging
+			   (NP a bunt)
+			   (PP toward
+			       (NP first base)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Both)
+      (VP have
+	  (NP brilliant speed)))
+   :
+   (S (S (NP Mantle)
+	 (AUX was)
+	 (VP timed
+	      
+	     (PP from
+		 (NP home plate))
+	     *LRB*
+	     (S (NP *) 
+		(VP batting
+		    (ADJP left-handed)))
+	     *RRB*
+	     (PP to
+		 (NP first base))
+	     (PP in
+		 (NP (NP 3.1 seconds)
+		     ,
+		     (ADJP faster
+			   (PP than
+			       (NP any
+				   other major
+				   leaguer)))))))
+      ;
+      ;
+      (S (NP Maris)
+	 (VP (VP ran
+		 (NP the (ADJP 100-yard) dash)
+		 (PP in
+		     (NP ten seconds))
+		 (PP in
+		     (NP high school)))
+	     and
+	     (ADVP once)
+	     (VP won
+		 (NP a race
+		     (PP against
+			 (NP (NP Luis Aparicio)
+			     ,
+			     (NP the
+				 swift
+				 ,
+				 base-stealing
+				 shortstop
+				 (PP of
+				     (NP the White Sox)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (S (NP Both)
+      (VP are
+	  (NP good
+	      ,
+	      daring
+	      fielders)))
+   :
+   (S (S (NP Mantle)
+	 (VP covers
+	     (NP 
+	      (ADJP more)
+	      ground)))
+      ;
+      ;
+      (S (NP
+	  (NP Maris)
+	  's throwing arm)
+	 (VP is
+	     (ADJP stronger)))))
+  .)
+(  END_OF_TEXT_UNIT)
+( (S  Yet
+      (PP with
+	  (NP all
+	      their skills))
+      ,
+      (S (NP the appeal
+	     (PP of
+		 (NP (NP Mantle)
+		     and
+		     (NP Maris))))
+	 (PP in
+	     (NP 1961))
+	 (VP comes
+	     (PP down
+		 (PP to
+		     (NP (NP one basic)
+			 :
+			 (NP The home run)))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP With
+       (NP this ultimate weapon))
+   ,
+   (S (NP  the two
+	   Yankees)
+      (AUX may)
+      (VP have
+	  (VP saved
+	      (NP baseball)
+	      (PP from
+		  (NP its
+		      dullest
+		      season))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  *LRB*
+   (S (NP American League expansion)
+      (VP created
+	  ,
+	  (ADVP inevitably)
+	  ,
+	  (NP 
+	   (ADJP weaker)
+	   teams)))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S  
+  (NP (NP  (ADVP Only)
+	   two teams
+	   (PP in
+	       (NP each league)))
+      *LRB*
+      (NP (NP (NP the Yankees)
+	      and
+	      (NP Detroit))
+	  ,
+	  (NP (NP the Dodgers)
+	      and
+	      (NP Cincinnati)))
+      *RRB*)
+  (AUX are)
+  (VP battling
+      (PP for
+	  (NP first place))))
+ .)
+(  END_OF_TEXT_UNIT)
+( (S  (ADVP Appropriately)
+      ,
+      (S (NP (NP the emphasis
+		 (PP on
+		     (NP the home run)))
+	     ,
+	     (PP at
+		 (NP a peak)
+		 (NP this year))
+	     ,)
+	 (VP came
+	     (PP into
+		 (S  (NP *) 
+		     (VP being))))
+	 (PP at
+	     (NP 
+	      (NP baseball)
+	      's
+	      lowest
+	      moment))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S  
+   (PP In
+       (NP 1920))
+   ,
+   (SBAR  as
+	  (S (NP the startling news
+		 (SBAR that
+		       (S (NP  the 1919
+			       White Sox)
+			  (AUX had)
+			  (VP conspired
+		   
+			      (S (NP *)
+				 (AUX to)
+				 (VP lose
+				     (NP the World Series)))))))
+	     (VP leaked
+		 (PRT out))))
+   ,
+   (S (NP fans)
+      (VP grew
+	  (ADJP disillusioned
+		and
+		disinterested
+		(PP in
+		    (NP baseball))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (S
+      (NP Something
+	  (X (S-1 *pseudo-attach*)))
+      (AUX was)
+      (VP needed
+	  )
+      (S-1 (NP *)
+	   (AUX to)
+	   (VP revive
+	       (NP interest))))
+     ;
+     ;
+     (S (NP the something)
+	(VP was
+	    (NP the home run))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)

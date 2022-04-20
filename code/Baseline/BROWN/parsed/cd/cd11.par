@@ -1,0 +1,2234 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR (WHADVP When)
+            (S (NP they)
+               (VP say
+                   (SBAR that
+                         (SINV  (PP under
+                                    (NP no circumstances))
+                                (AUX would)
+                                (NP it
+                                    (S-1 *pseudo-attach*))
+                                (ADVP ever)
+                                (VP be
+                                    (ADJP right))
+                                (S-1 (NP *)
+                                     (AUX to)
+                                     (VP  ``
+                                          permit
+                                          ''
+                                          (NP the termination
+                                              (PP of
+                                                  (NP the human race))
+                                              (PP by
+                                                  (NP human action)))))
+                                ,
+                                (SBAR because
+                                      (S (NP there)
+                                         (AUX could)
+                                         (NEG not)
+                                         (ADVP possibly)
+                                         (VP be
+                                             (NP any
+                                                 proportionate grave
+                                                 reason
+                                                 (S (NP *)
+                                                    (AUX to)
+                                                    (VP justify
+                                                        (NP  such
+                                                             a thing))))))))))))
+      ,
+      (S (NP they)
+         (VP know
+             (ADVP exactly)
+             (SBAR (WHNP what)
+                   (S (NP they)
+                      (VP mean
+                          (NP T) ))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Of
+          (NP course))
+      ,
+      (PP in
+          (NP prudential calculation))
+      ,
+      (PP in
+          (S (NP *)
+             (VP balancing
+                 (NP (NP the good)
+                     (ADVP directly)
+                     (VP (VP intended)
+                         and
+                         (VP done)))
+                 (PP against
+                     (NP (NP the evil)
+                         (X (ADJP unintended)
+                            and
+			    (VP (ADVP indirectly)
+				done)))))))
+      ,
+      (S (NP no
+             greater
+             precision
+             (PP-2 *pseudo-attach*))
+         (AUX can)
+         (VP be
+             (ADJP forthcoming))
+         (PP-2 than
+               (S (NP the subject)
+                  (VP allows)))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Yet)
+      (S (NP it
+             (SBAR-3 *pseudo-attach*))
+         (VP seems
+             (ADJP clear))
+         (SBAR-3 that
+                 (S (NP there)
+                    (AUX can)
+                    (VP be
+                        (NP (NP (NP  no
+                                     good)
+                                (ADJP  sufficiently
+                                       great
+                                       (S-4 *pseudo-attach*)))
+                            ,
+                            or
+                            (NP (NP (NP evil)
+                                    (VP repelled))
+                                (ADJP  sufficiently
+                                       grave
+                                       (S-4 *pseudo-attach*)))
+                            ,
+                            (S-4 (NP *)
+                                 (AUX to)
+                                 (VP warrant
+                                     (NP the destruction
+                                         (PP of
+                                             (NP mankind))
+                                         (PP by
+                                             (NP (NP man)
+                                                 's own action)))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (VP mean
+         ,
+         (ADVP however)
+         ,
+         (SBAR that
+               (S (NP the moral theologian)
+                  (VP knows
+                      (SBAR (WHNP what)
+                            (S (NP he)
+                               (VP means
+                                   (NP T) 
+                                   (PP by
+                                       ``
+                                       (S (NP *)
+                                          (VP permit))
+                                       '')))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX is)
+     (NEG not)
+     (VP talking
+         (PP in
+             (NP the main))
+         (PP about
+             (NP (NP probabilities)
+                 ,
+                 (NP risks) 
+                 and 
+                 (NP danger))))
+     (PP in
+         (NP general)))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX is)
+     (VP talking
+         (PP about
+             (NP (NP an action)
+                 (SBAR (WHNP which)
+                       (S  (NP T) 
+                           (X (VP (ADVP just
+					as
+					efficaciously)
+				  does
+				  (NP an evil thing)
+				  (PP-1 *pseudo-attach*))
+			      *LRB*
+			      and
+			      (X  (AUX is)
+				  (VP known
+				      (ADVP certainly and unavoidably)
+				      (S (NP *)
+					 (AUX to)
+					 (VP lead
+					     (PP to
+						 (NP this evil
+						     result))))))
+			      *RRB*
+			      (PP-1 as
+				  (S (NP it)
+				     (ADVP efficaciously)
+				     (VP does
+					 (NP some
+					     good)))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX is)
+     (VP talking
+         (PP about
+             (NP (NP double effects)
+                 ,
+                 (SBAR (SBAR (WHPP of
+                                   (WHNP which))
+                             (S (NP the specific action)
+                                (VP (VP (VP causes
+                                            (ADVP directly)
+                                            (NP the one))
+                                        and
+                                        (X (ADVP indirectly)
+                                           (NP the
+                                               (ADJP other))))
+                                    ,
+                                    but
+                                    (VP causes
+                                        (NP both)))))
+                       ;
+                       ;
+                       (SBAR (WHPP of
+                                   (WHNP which))
+                             (S (S (NP one)
+                                   (AUX is)
+                                   (ADVP deliberately)
+                                   (VP (VP willed)
+                                       or
+                                       (VP intended)))
+                                and
+                                (S (NP the
+                                       (ADJP other))
+                                   (VP (NEG not)
+                                       (VP intended)
+                                       or
+                                       (NEG not)
+                                       (VP  (ADVP directly)
+                                            intended)))
+                                ,
+                                but
+                                (S (ADVP still)
+                                   (S (NP both)
+                                      (AUX are)
+                                      (VP done))
+                                   ,
+                                   (SBAR while
+                                         (S (NP the evil effect)
+                                            (AUX is)
+                                            ,
+                                            (PP with
+                                                (NP equal consciousness
+                                                    (PP on
+                                                        (NP the part
+                                                            (PP of
+                                                                (NP the agent))))))
+                                            ,
+                                            (VP foreknown
+                                                (S (NP *)
+                                                   (AUX to)
+                                                   (VP be
+                                                       (PP among
+                                                           (NP the consequences)))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP This)
+      (VP is
+          (SBAR (WHNP what)
+                ,
+                (S (PP in
+                       (NP a technical sense))
+                   ,
+                   (S (NP (S (NP *)
+                             (AUX to)
+                             (VP  ``
+                                  (ADVP only)
+                                  permit
+                                  ''
+                                  (NP an evil result))))
+                      (VP means
+                          (NP T) ))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP means
+         (S (S (NP *)
+               (AUX to)
+               (VP do
+                   (NP it)
+                   (PP-5 *pseudo-attach*)))
+            and
+            (S (NP *)
+               (AUX to)
+               (VP know
+                   (SBAR 0
+                         (S (NP one)
+                            (AUX is)
+                            (VP doing
+                                (NP it)
+                                (PP-5 *pseudo-attach*))))))
+            ,
+            but
+            (PP-5 as
+                  (NP  (ADVP only)
+                       a
+                       (ADJP (ADJP secondary)
+                             (X if
+                                (ADJP certain)))
+                       effect
+                       (PP of
+                           (NP (NP the
+                                   good)
+                               (SBAR 0
+                                     (S (NP  one)
+                                        (ADVP primarily)
+                                        (VP does
+                                            and
+                                            intends
+                                            (NP T) ))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Of
+          (NP course))
+      ,
+      (S (NP grave guiltiness)
+         (AUX may)
+         (VP be
+             (VP imputed
+                 (PP (PP to
+                         (NP the military action
+                             (PP of
+                                 (NP (NP any nation)
+                                     (SBAR-6 *pseudo-attach*)))))
+                     ,
+                     or
+                     (PP to
+                         (NP the action
+                             (PP of
+                                 (NP (NP any leader or leaders)
+                                     (SBAR-6 *pseudo-attach*)))))
+                     ,
+                     (SBAR-6 (WHNP which)
+                             (S (PP for
+                                    (NP any supposed good))
+                                (S  (NP T) 
+                                    (VP  ``
+                                         permits
+                                         ''
+                                         ,
+                                         (PP in
+                                             (NP this sense))
+                                         ,
+                                         (NP the termination
+                                             (PP of
+                                                 (NP the human race))
+                                             (PP by
+                                                 (NP human action))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Certainly)
+      ,
+      (S (PP in
+             (S (NP *)
+                (VP analyzing
+                    (NP (NP an action)
+                        (SBAR (WHNP which)
+                              (S  (NP T) 
+                                  (ADVP truly)
+                                  (VP faced
+                                      (NP such alternatives))))))))
+         ,
+         ``
+         (S (S (NP it
+                   (SBAR-7 *pseudo-attach*))
+               (VP is
+                   (ADVP never)
+                   (ADJP possible))
+               (SBAR-7 that
+                     (S (NP no world)
+                        (AUX would)
+                        (VP be
+                            (ADJP preferable
+                                  (PP to
+                                      (NP some worlds)))))))
+            ,
+            and
+            (S (NP there)
+               (VP are
+                   (PP in
+                       (NP truth))
+                   (NP (NP no circumstances)
+                       (SBAR (WHPP in
+                                   (WHNP which))
+                             (S (NP the destruction
+                                    (PP of
+                                        (NP human life)))
+                                (VP presents
+                                    (NP itself)
+                                    (PP as
+                                        (NP a reasonable alternative)))))))))
+         ''))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Naturally)
+      ,
+      (SBAR (WHADVP where)
+            (S (NP one
+                   or
+                   the
+                   (ADJP other)
+                   (PP of
+                       (NP the effects
+                           (PP of
+                               (NP an action)))))
+               (VP is
+                   (ADJP uncertain))))
+      ,
+      (S (NP this)
+         (VP has
+             (S (NP *)
+                (AUX to)
+                (VP be
+                    (VP taken
+                        (PP into
+                            (NP account))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (SINV (ADVP Especially)
+        (VP is)
+        (NP this)
+        (ADJP true)
+        (SBAR (WHADVP when)
+              ,
+              (S (SBAR because
+                       (S (NP the good effect)
+                          (VP is
+                              (ADJP remote and speculative))
+                          (SBAR while
+                                (S (NP the
+                                       (ADJP evil))
+                                   (VP is
+                                       (ADJP certain and grave))))))
+                 ,
+                 (S (NP the action)
+                    (AUX is)
+                    (VP prohibited)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Presumably)
+      ,
+      (SBAR if
+            (S (S (NP the reverse)
+                  (VP is
+                      (NP the case)))
+               and
+               (S (NP the good effect)
+                  (VP is
+                      (ADJP  more
+                             certain
+                             (PP than
+                                 (NP (NP the evil result)
+                                     (SBAR (WHNP that)
+                                           (S (NP T)
+                                              (AUX may)
+                                              (VP be
+                                                  (ADJP forthcoming)))))))))))
+      ,
+      (S (CONJP not
+                only)
+         (SINV (AUX must)
+               (NP (NP the good)
+                   and
+                   (NP the evil))
+               (VP be
+                   (VP (VP (ADVP prudentially)
+                           weighed)
+                       and
+                       (VP found
+                           (ADJP proportionate)))))
+         ,
+         (CONJP but
+                also)
+         (S (NP calculation
+                (PP (PP of
+                        (NP the probabilities))
+                    and
+                    (PP of
+                        (NP the degree
+                            (PP of
+                                (NP certainty or uncertainty
+                                    (PP in
+                                        (NP the (ADJP good or evil) effect))))))))
+            (AUX must)
+            (VP be
+                (VP taken
+                    (PP into
+                        (NP account)))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP There)
+     (AUX must)
+     (CONJP not
+            only)
+     (VP be
+         (NP (NP greater
+                 good
+                 (PP than
+                     (NP evil
+                         (PP  (ADVP objectively)
+                              in
+                              (NP view)))))
+             ,
+             (CONJP but
+                    also)
+             (NP greater
+                 probability
+                 (PP of
+                     (S (NP *)
+                        (ADVP actually)
+                        (VP doing
+                            (NP more
+                                good
+                                (PP than
+                                    (NP harm))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (SBAR If
+           (S (NP (NP an evil)
+                  (SBAR (WHNP which)
+                        (S (NP T)
+                           (VP is
+                               (ADJP certain and extensive and immediate)))))
+              (AUX may)
+              (ADVP rarely)
+              (VP be
+                  (VP compensated
+                      (PP for)
+                      (PP by
+                          (NP a
+                              problematic
+                              ,
+                              speculative
+                              ,
+                              future
+                              good))))))
+     ,
+     (PP by
+         (NP the same token))
+     (S (NP (NP (NP (NEG not)
+                    every
+                    (ADJP present
+                          ,
+                          certain
+                          ,
+                          and
+                          immediate) 
+                    good)
+                *LRB*
+                or
+                (NP lesser
+                    evil)
+                *RRB*)
+            (SBAR (WHNP that)
+                  (S (NP T)
+                     (AUX may)
+                     (VP have
+                         (S (NP *)
+                            (AUX to)
+                            (VP be
+                                (VP done)))))))
+        (AUX will)
+        (VP be
+            (VP outweighed
+                (PP by
+                    (NP a
+                        (ADJP problematic
+                              ,
+                              speculative
+                              ,
+                              and
+                              future) 
+                        evil))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Nevertheless)
+      ,
+      (VP according
+          (PP to
+              (NP the traditional theory)))
+      ,
+      (S (S (NP a man)
+            (VP begins
+                (PP in
+                    (NP the midst
+                        (PP of
+                            (NP action))))))
+         and
+         (S (NP he)
+            (VP analyzes
+                (NP (NP its nature)
+                    and
+                    (NP immediate consequences)))
+            (PP before
+                or
+                while
+                (S (S (NP *)
+                      (VP putting
+                          (NP it)
+                          (ADVP forth)))
+                   and
+                   (S (NP *)
+                      (VP causing
+                          (NP these consequences))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX does)
+     (NEG not)
+     (VP expect
+         (S (NP *)
+            (AUX to)
+            (VP be
+                (ADJP able
+                      (S (NP *)
+                         (AUX to)
+                         (VP trammel
+                             (PRT up)
+                             (NP all
+                                 the future consequences
+                                 (PP of
+                                     (NP his action))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Above
+          (NP all))
+      ,
+      (S (NP he)
+         (AUX does)
+         (NEG not)
+         (VP (VP debate
+                 (NP mere contingencies))
+             ,
+             and
+             (ADVP therefore)
+             ,
+             (SBAR if
+                   (S (NP these)
+                      (VP are
+                          (ADJP  possibly
+                                 dreadful))))
+             ,
+             (VP find
+                 (S (NP himself)
+		    (VP forced
+			(PP into
+			    (NP inaction))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP does
+         (SBAR (WHNP what)
+               (S (NP he)
+                  (AUX (AUX can)
+                       and
+                       (AUX may)
+                       and
+                       (AUX must))
+                  (X (NP T)) )))
+     ,
+     (PP without
+         (S (NP *)
+            (VP regarding
+                (NP himself)
+                (PP (PP as
+                        (NP lord
+                            (PP of
+                                (NP the future))))
+                    or
+                    ,
+                    (PP on
+                        (NP the other hand))
+                    ,
+                    (PP as
+                        (S (NP *)
+                           (VP covered
+                               (PP with
+                                   (NP guilt))
+                               (PP (PP by
+                                       (NP (NP accident)
+                                           or
+                                           (NP unforeseen consequences)))
+                                   or
+                                   (PP by
+                                       (NP (NP results)
+                                           (SBAR 0
+                                                 (S (NP he)
+                                                    (AUX did)
+                                                    (NEG not)
+                                                    (VP  ``
+                                                         permit
+                                                         ''
+                                                         (PP in
+                                                             (NP (NP the sense)
+                                                                 (VP explained)))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (S (PP By
+             (NP contrast))
+         ,
+         (S (NP a good deal
+                (PP of
+                    (NP nuclear pacifism)))
+            (VP begins
+                (PP (PP with
+                        (NP (NP the contingencies)
+                            and
+                            (NP the probabilities)))
+                    ,
+                    and
+                    (NEG not)
+                    (PP with
+                        (NP the moral nature
+                            (PP of
+                                (NP (NP the action)
+                                    (S  (NP T) 
+                                        (AUX to)
+                                        (VP be
+                                            (VP done)))))))))))
+      ;
+      ;
+      and
+      (S (PP by
+             (S (NP *)
+                (VP deriving
+                    (NP legitimate decision)
+                    (ADVP backward)
+                    (PP from
+                        (SBAR (WHNP whatever)
+                              (S  (NP T) 
+                                  (AUX may)
+                                  (ADVP conceivably
+                                        or
+                                        possibly
+                                        or
+                                        probably)
+                                  (VP result)
+                                  ,
+				  (PP whether
+				      (PP by
+					  (NP (NP anyone)
+					      's doing))
+				      or
+				      (PP by
+					  (NP accident)))))))))
+         ,
+         (S (NP it)
+            (VP finds
+                (NP itself)
+                (VP driven
+                    (PP (PP to
+                            (NP inaction))
+                        ,
+                        (PP to
+                            (NP (NP non-political action
+                                    (PP in
+                                        (NP politics)))
+                                and
+                                (NP non-military action
+                                    (PP in
+                                        (NP military affairs)))))
+                        ,
+                        and
+                        (PP to
+                            (NP the
+                                (ADJP (NEG not)
+                                      very
+                                      surprising) 
+                                discovery
+                                (SBAR that
+                                      (S (NP there)
+                                         (VP are
+                                             (ADVP now)
+                                             (NP (NP no distinctions)
+                                                 (SBAR (WHPP on
+                                                             (WHNP which))
+                                                       (S (NP the defense
+                                                              (PP of
+                                                                  (NP justice)))
+                                                          (AUX can)
+                                                          (ADVP possibly)
+                                                          (VP be
+                                                              (VP based))))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+( (S (NP Mr. Philip Toynbee)
+     (VP writes
+         ,
+         (PP for
+             (NP example))
+         ,
+         (SBAR that
+               ``
+               (S (PP in
+                      (NP terms
+                          (PP of
+                              (NP probability))))
+                  (S (NP it
+                         (SBAR-9 *pseudo-attach*))
+                     (VP is
+                         (ADVP surely)
+                         (ADJP  as
+                                likely
+                                (PP as
+                                    (NEG not))))
+                     (SBAR-9 that
+                             (S (NP mutual fear)
+                                (AUX will)
+                                (VP lead
+                                    (PP to
+                                        (NP accidental war)))
+                                (PP in
+                                    (NP the near future))
+                                (SBAR if
+                                      (S (NP the present situation)
+                                         (VP continues))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR If
+            (S (NP it)
+               (VP continues
+                   (ADVP indefinitely))))
+      (S (NP it
+             (SBAR-10 *pseudo-attach*))
+         (VP is
+             (ADVP nearly)
+             (NP a statistical certainty))
+         (SBAR-10 (SBAR that
+                        (S (NP a mistake)
+                           (AUX will)
+                           (VP be
+                               (VP made))))
+                  and
+                  (SBAR that
+                        (S (NP the devastation)
+                           (AUX will)
+                           (VP begin))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP Against
+          (NP  such
+               a termination
+               (PP of
+                   (NP human life
+                       (PP on
+                           (NP earth))))
+               (PP by
+                   (NP human action))))
+      ,
+      (S (NP he)
+         (ADVP then)
+         (VP proposes
+             (PP as
+                 (NP an alternative))
+             (SBAR (SBAR that
+                         (S (NP we)
+                            ``
+                            (VP (VP negotiate
+                                    (PP at
+                                        (NP once))
+                                    (PP with
+                                        (NP the Russians)))
+                        	and
+				(VP get
+				    (NP (NP the
+					    best
+					    terms)
+					(SBAR (WHNP which)
+					      (S (NP T)
+						 (VP are
+						     (ADJP available)))))
+				    ))
+			    ''))
+		   ,
+		   (SBAR that
+			 (S (NP we)
+			    (ADVP deliberately)
+			    ``
+			    (VP negotiate
+				(PP from
+				    (NP comparative weakness)))
+			    ''))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (NP He)
+      (ADVP bravely)
+      (VP attempts
+	  (S (NP *)
+	     (AUX to)
+	     (VP face
+		 (NP this alternative)
+		 (X (ADVP realistically)
+		    ,
+		    i.e.
+		    ,
+		    (PP by
+			(S (NP *)
+			   (VP considering
+			       (NP (NP the
+				       worst possible
+				       outcome)
+				   ,
+				   (ADVP namely)
+				   ,
+				   (NP the total domination
+				       (PP of
+					   (NP the world))
+				       (PP by
+					   (NP Russia))
+				       (PP within
+					   (NP a few years))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (AUX would)
+     (VP be
+	 (PP by
+	     (ADVP far))
+	 (NP the
+	     better
+	     choice))
+     ,
+     (SBAR (WHADVP when)
+	   ``
+	   (S (NP it)
+	      (VP is
+		  (NP a question
+		      (PP (PP of
+			      (S (NP *)
+				 (VP allowing
+				     (S (NP the human race)
+					(AUX to)
+					(VP survive
+					    ,
+					    (PP (ADVP possibly)
+						under
+						(NP the domination
+						    (PP of
+							(NP (NP a regime)
+							    (SBAR (WHNP which)
+								  (S (NP most
+									 (PP of
+									     (NP us)))
+								     (VP detest
+									 (NP T) ))))))))))))
+			  ,
+			  or
+			  (PP of
+			      (S (NP *)
+				 (VP allowing
+				     (S (NP it)
+					(AUX to)
+					(VP destroy
+					    (NP itself)
+					    (PP in
+						(NP (ADJP appalling
+							  and
+							  prolonged)
+						    anguish)))))))))))
+	   ''))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (ADVP Nevertheless)
+     ,
+     (S (NP the consequence
+	    (PP of
+		(NP (NP the policy)
+		    (VP proposed))))
+	(AUX is)
+	(ADVP everywhere)
+	(VP  (ADVP subtly)
+	     qualified)
+	:
+	(X (S (NP it)
+	      (VP is
+		  ``
+		  (NP (NP a possible result)
+		      ,
+		      (ADJP (WHADVP however)
+			    improbable))
+		  ''))
+	   ;
+	   ;
+	   (NP  ``
+		the
+		(ADJP worst
+		      ,
+		      and
+		      (ADJP least probable))
+		''
+		result)
+	   ;
+	   ;
+	   ``
+	   (S (SBAR if
+		    (S (NP it)
+		       (AUX did)
+		       (NEG n't)
+		       (VP prevail)))
+	      (S (NP mankind)
+		 (AUX would)
+		 (ADVP still)
+		 (VP be
+		     (VP given
+			 (NP the opportunity
+			     (PP of
+				 (S (NP *)
+				    (VP prevailing))))))))
+	   ''
+	   ;
+	   ;
+	   (S for
+	      ``
+	      (ADVP surely)
+	      (S (NP anything)
+		 (VP is
+		     (ADJP better
+			   (PP than
+			       (NP (NP a policy)
+				   (SBAR (WHNP which)
+					 (S (NP T)
+					    (VP allows
+						(PP for
+						    (NP the possibility
+							(PP of
+							    (NP nuclear war))))))))))))
+	      ''))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (SBAR  If
+	     (S (NP we)
+		(AUX have)
+		(VP (NEG not)
+		    (VP thought)
+		    and
+		    (VP made
+			(NP a decision)
+			(PP  (ADVP entirely)
+			     in
+			     (NP these terms))))))
+      ,
+      (S (ADVP then)
+	 (S (NP we)
+	    (VP need
+		(S (NP *)
+		   (AUX to)
+		   (VP submit
+		       (NP ourselves)
+		       (PP to
+			   (NP (NP the following
+				   ``
+				   simple test
+				   '')
+			       :
+			       ``
+			       (SQ (AUX Have)
+				   (NP we)
+				   (VP decided
+				       (SBAR (WHADVP how)
+					     (S (NP we)
+						(VP are
+						    (S (NP *)
+						       (AUX to)
+						       (VP kill
+							   (NP the other members
+							       (PP of
+								   (NP our household))))))
+						(PP in
+						    (NP the event
+							(PP of
+							    (S  (NP our)
+								(VP being
+								    (ADJP  less
+									   injured
+									   (PP than
+									       (S (NP they)
+										  (VP are)))))))))))))
+			       ''))))))))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  (S (S (ADVP Thus)
+	 ,
+	 (S (NP moral decision)
+	    (AUX must)
+	    (VP be
+		(ADVP entirely)
+		(VP deduced
+		    (ADVP backward)
+		    (PP from
+			(NP the likely eventuality))))))
+      ;
+      ;
+      (S (NP it)
+	 (VP is
+	     (ADVP  no
+		    longer)
+	     (S (NP *)
+		(AUX to)
+		(VP be
+		    (VP formulated
+			(PP in
+			    (NP terms
+				(PP of
+				    (NP (NP the nature
+					    (PP of
+						(NP (NP present action)
+						    (NP itself))))
+					,
+					(NP its intention)
+					,
+					and
+					(NP (NP proximate effect)
+					    or
+					    (NP (NP the thing)
+						(S  (NP T) 
+						    (AUX to)
+						    (VP be
+							(VP done)))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  (S (NP Several
+	  (PP of
+	      (NP the replies
+		  (PP to
+		      (NP Mr. Toynbee)))))
+      ,
+      (PP without
+	  (NP conscious resort
+	      (PP to
+		  (NP the traditional terminology
+		      (PP with
+			  (NP regard
+			      (PP to
+				  (NP the permission
+				      (PP of
+					  (NP evil))))))))))
+      ,
+      (VP succeed
+	  (PP in
+	      (S (NP *)
+		 (VP restoring
+		     (NP (NP the actual context)
+			 (SBAR (WHPP in
+				     (WHNP which))
+			       (S (NP present 
+				      (ADJP moral and political)
+				      decisions)
+				  (AUX must)
+				  (VP be
+				      (VP made)))))
+		     ,
+		     (PP by
+			 (S (NP *)
+			    (VP distinguishing
+				(PP between
+				    (S (S (NP *)
+					  (VP choosing
+					      (NP a great evil)))
+				       and
+				       (S (NP *)
+					  (VP choosing
+					      (PP in
+						  (NP danger
+						      (PP of
+							  (NP this evil))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It
+	  (SBAR-11 *pseudo-attach*))
+      (VP is
+	  (ADJP worse
+		(PP-12 *pseudo-attach*)))
+      (SBAR-11 for
+	       (S (NP a nation)
+		  (AUX to)
+		  (VP give
+		      (ADVP in)
+		      (PP to
+			  (NP evil)))))
+      (PP-12 than
+	     (S (NP *)
+		(AUX to)
+		(VP run
+		    (NP the risk
+			(PP of
+			    (NP annihilation)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX am)
+      (ADVP consciously)
+      (VP prepared
+	  (S (NP *)
+	     (AUX to)
+	     (VP (VP run
+		     (NP the continued risk
+			 (PP of
+			     '
+			     (NP race suicide
+				 (PP by
+				     (NP accident)))
+			     ')))
+		 (ADVP rather
+		       (PP than
+			   (S (NP *)
+			      (VP accept
+				  (NP the alternative certainty
+				      (PP of
+					  (NP race slavery
+					      (PP by
+						  (NP design)))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP I)
+	 (AUX can)
+	 (ADVP only)
+	 (VP make
+	     (NP this choice))
+	 (SBAR because
+	       (S (NP I)
+		  (VP believe
+		      (SBAR that
+			    (S (NP the risk)
+			       (X (VP need
+				      (NEG not)
+				      (S (NP *)
+					 (VP increase)))
+				  ,
+				  but
+				  (X (AUX may)
+				     (VP be
+					 (ADVP deliberately)
+					 reduced
+					 ''
+					 *LRB*
+					 (PP (PP by
+						 (NP precautions
+						     (PP against
+							 (NP accidents))))
+					     or
+					     (PP by
+						 (S (NP *)
+						    (VP limiting
+							(NP war)))))
+					 ?
+					 ?
+					 *RRB*)))))))))))
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( ``
+  (S (S (NP *)
+	(VP Quoting
+	    (NP (NP Mr. Kennan)
+		's phrase
+		(SBAR that
+		      (S (NP anything)
+			 (AUX would)
+			 (VP be
+			     (ADJP better
+				   (PP than
+				       (NP (NP a policy)
+					   (SBAR (WHNP which)
+						 (S (NP T)
+						    (VP led
+							(ADVP inevitably)
+							(PP to
+							    (NP nuclear war))))))))))))))
+     ,
+     (S (NP (NP he)
+	    *LRB*
+	    (NP Toynbee)
+	    *RRB*)
+	(VP says
+	    (SBAR that
+		  (S (NP anything)
+		     (VP is
+			 (ADJP better
+			       (PP than
+				   (NP (NP a policy)
+				       (SBAR (WHNP which)
+					     (S (NP T)
+						(VP allows
+						    (PP for
+							(NP the possibility
+							    (PP of
+								(NP nuclear war))))))))))))))))
+  ''
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (SBAR  If
+	     (S (NP *)
+		(VP asked
+		    (S (NP *)
+		       (AUX to)
+		       (VP choose
+			   (PP between
+			       (NP (NP a terrible probability)
+				   and
+				   (NP a
+				       (ADJP  more
+					      terrible)
+				       possibility))))))))
+      ,
+      (S (NP most
+	     men)
+	 (AUX will)
+	 (VP choose
+	     (NP the (ADJP latter)))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (SBAR  If
+	     (S (NP Philip Toynbee)
+		(AUX is)
+		(VP claiming
+		    (SBAR that
+			  (S (NP the choice)
+			     (VP lies
+				 (PP between
+				     (NP (NP capitulation)
+					 and
+					 (NP the risk
+					     (PP of
+						 (NP nuclear war)))))))))))
+      ,
+      (S (NP I)
+	 (VP think
+	     (SBAR 0
+		   (S (NP he)
+		      (VP is
+			  (ADJP right)))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP I)
+     (AUX do)
+     (NEG not)
+     (VP accept
+	 (SBAR that
+	       (S (NP the choice)
+		  (VP is
+		      (PP between
+			  (NP (NP capitulation)
+			      and
+			      (NP the certainty
+				  (PP of
+				      (NP nuclear war))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+( (S (NP (NP (ADVP Even)
+	     Professor Arnold Toynbee)
+	 ,
+	 (VP agreeing
+	     (PP with
+		 (NP his son)))
+	 ,)
+     (VP does
+	 (ADVP so)
+	 (PP in
+	     (NP these terms)))
+     :
+     ``
+     (S (S (NP *)
+	   (VP Compared
+	       (PP to
+		   (S (NP *)
+		      (VP continuing
+			  (S (NP *)
+			     (AUX to)
+			     (VP incur
+				 (NP a constant risk
+				     (PP of
+					 (NP the destruction
+					     (PP of
+						 (NP the human race))))))))))))
+	,
+	(S (NP  all other evils)
+	   (VP are
+	       (NP  lesser
+		    evils)))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP *)
+    (VP Let
+	(NP us)
+	(ADVP therefore)
+	(VP (VP put
+		(NP first things)
+		(ADVP first))
+	    ,
+	    and
+	    (VP make
+		(ADJP sure)
+		(PP of
+		    (S (NP *)
+		       (VP preserving
+			   (NP the human race)
+			   (PP at
+			       (SBAR (WHNP whatever)
+				     (S (NP the temporary price)
+					(AUX may)
+					(VP be
+					    (NP T) )))))))))))
+ ''
+ .) 
+(  END_OF_TEXT_UNIT)
+( (S (NP Mr. Philip Toynbee)
+     (VP affirms
+	 (PP at
+	     (NP one point))
+	 (SBAR that
+	       (S (SBAR (SBAR if
+			      (S (NP he)
+				 (VP shared
+				     (NP the anticipations
+					 (PP of
+					     (NP Orwell))
+					 (PP in
+					     (NP Nineteen
+						 Eighty-Four))))))
+			,
+			(SBAR if
+			      (S (NP he)
+				 (VP believed
+				     (SBAR 0
+					   (S (NP Communism)
+					      (VP was
+						  (ADJP (CONJP not
+							       only)
+							(ADJP evil)
+							(CONJP but
+							       ``
+							       also)
+							(ADJP  irredeemably
+							       evil)
+							''))))))))
+		  ,
+		  (S (ADVP then)
+		     (S (NP he)
+			(AUX might)
+			``
+			(VP think
+			    (NP it
+				(S-1 *pseudo-attach*))
+			    (ADJP right)
+			    (S-1 (S (NP *)
+				    (AUX to)
+				    (VP do
+					(NP anything)))
+				 (ADVP rather
+				       (PP than
+					   (S (NP *)
+					      (AUX to)
+					      (VP take
+						  (NP the risk
+						      (PP of
+							  (NP a communist world)))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  (ADVP Even)
+	 a nuclear holocaust)
+    (VP is
+	(ADJP (NP a
+		  little)
+	      less
+	      frightful
+	      (S (NP *)
+		 (AUX to)
+		 (VP contemplate))
+	      (PP than
+		  (NP a race
+		      (PP of
+			  (NP (NP  dehumanised
+				   humans)
+			      (VP occupying
+				  (NP the earth)
+				  (PP until
+				      (NP doomsday))))))))))
+ ''
+ .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP  No political order
+	 or
+	 economic system)
+    (VP is
+	(ADJP   (ADVP so
+		      clearly)
+		contrary
+		(PP to
+		    (NP nature)))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S But
+      (S (NP one)
+	 (AUX does)
+	 (NEG not)
+	 (VP have
+	     (S (NP *)
+		(AUX to)
+		(VP affirm
+		    (NP the existence
+			(PP of
+			    (NP (NP (NP an evil order)
+				    (ADJP irredeemable
+					  (PP in
+					      (NP that sense))))
+				,
+				or
+				(NP (NP a static order)
+				    (SBAR (WHPP in
+						(WHNP which))
+					  (S (NP no changes)
+					     (AUX will)
+					     (VP take
+						 (NP place))
+					     (PP in
+						 (NP time)))))
+				,))))))
+	 (S (NP *)
+	    (AUX to)
+	    (VP be
+		(ADJP able
+		      (S  (NP *)
+			  (ADVP truthfully)
+			  (AUX to)
+			  (VP affirm
+			      (NP (NP the following fact)
+				  :
+				  (S (NP there)
+				     (AUX has)
+				     (ADVP never)
+				     (VP been
+					 (NP justitia)
+					 (VP imprinted
+					     (PP in
+						 (NP (NP social institutions)
+						     and
+						     (NP social relationships)))))
+				     (PP except
+					 (PP in
+					     (NP the context
+						 (PP of
+						     (NP (NP some pax-ordo)
+							 (VP preserved
+							     (PP by
+								 (NP  clothed
+								      or
+								      naked force)))))))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  (S (PP On
+	  (NP their way
+	      (PP to
+		  (NP the Heavenly City))))
+      (S (NP the children
+	     (PP of
+		 (NP God)))
+	 (VP (VP make
+		 (NP use)
+		 (PP of
+		     (NP the pax-ordo
+			 (PP of
+			     (NP the earthly city)))))
+	     and
+	     (VP acknowledge
+		 (NP their share
+		     (PP in
+			 (NP responsibility
+			     (PP for
+				 (NP its preservation)))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+((S (NP (S (NP *)
+	   (NEG Not)
+	   (AUX to)
+	   (VP (VP repel
+		   (NP injury))
+	       and
+	       (VP uphold and improve
+		   (NP pax-ordo)))))
+    (VP means
+	(S (CONJP not
+		  simply)
+	   (S (NP *)
+	      (AUX to)
+	      (VP accept
+		  (NP (NP the misshapen order and injustice)
+		      (SBAR (WHNP that)
+			    (S (NP T)
+			       (VP challenges
+				   (NP it))
+			       (PP at
+				   (NP the moment)))))))
+	   ,
+	   (CONJP but
+		  also)
+	   (S (NP *)
+	      (AUX to)
+	      (VP start
+		  (PP down
+		      (NP (NP the steep slope)
+			  (SBAR (WHPP along 
+				      (WHNP which ))
+				(S (NP justice)
+				   (AUX can)
+				   (VP find
+				       (NP (NP no place)
+					   (SBAR (WHADVP whereon)
+						 (S (NP *)
+						    (AUX to)
+						    (VP stand))))))))))))))
+ .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Toynbee)
+     (VP seems
+	 (S (NP *)
+	    (AUX to)
+	    (VP think
+		(SBAR that
+		      (S (NP there)
+			 (VP is
+			     (NP (NP some other way)
+				 (S (NP *)
+				    (AUX to)
+				    (VP give
+					(NP justice)
+					(NP social embodiment)))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP I)
+      (AUX would)
+      (VP (ADVP far
+		rather)
+	  (VP die
+	      (PP after
+		  (NP a Russian occupation
+		      (PP of
+			  (NP this country))))
+	      --
+	      (PP by
+		  (NP some deliberate act
+		      (PP of
+			  (NP refusal))))
+	      --)
+	  (PP than
+	      (S (NP *)
+		 (VP die
+		     (ADVP uselessly)
+		     (PP by
+			 (NP atomisation)))))))
+   ''
+   .)
+(  END_OF_TEXT_UNIT)
+(  (SQ (AUX Would)
+       (NP  such
+	    an act
+	    (PP of
+		(NP refusal)))
+       (VP be
+	   (ADJP useful)))
+   ?
+   ?)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (AUX does)
+     (NEG not)
+     (VP mean
+	 ,
+	 (S (PP in
+		(NP fact))
+	    (S (NP he)
+	       (VP addresses
+		   (NP himself)
+		   (ADVP specifically))))
+	 (S (NP *)
+	    (AUX to)
+	    (VP reject
+		(NP the proposition
+		    ,
+		    (SBAR that
+			  ``
+			  (S (SBAR if
+				   (S (NP we)
+				      (VP took
+					  (NP the risk
+					      (PP of
+						  (S (NP *)
+						     (VP surrendering)))))))
+			     ,
+			     (S (NP a new generation
+				    (PP in
+					(NP Britain)))
+				(AUX would)
+				(ADVP soon)
+				(VP begin
+				    (S (NP *)
+				       (AUX to)
+				       (VP amass
+					   (NP its strength)
+					   (PP in
+					       (NP secret)))
+				       (SBAR (PP in
+						 (NP order))
+					     (S (NP *)
+						(AUX to)
+						(VP reverse
+						    (NP the consequences
+							(PP of
+							    (NP that surrender))))))))))))))))
+  ''
+  .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP He)
+     (VP wants
+	 (S (NP *)
+	    (AUX to)
+	    (VP (VP be
+		    ``
+		    (ADJP  brutally
+			   frank))
+		and
+		(VP say
+		    (SBAR that
+			  (S (NP these rebellions)
+			     (AUX would)
+			     (VP be
+				 (ADJP (ADJP hopeless)
+				       --
+				       (ADJP  (ADVP far
+						    ,
+						    far
+						    more)
+					      hopeless
+					      (PP than
+						  (SINV (VP was)
+							(NP the Hungarian revolution
+							    (PP of
+								(NP 1956)))))))))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP This)
+     (VP is
+	 (NEG not)
+	 (NP a project
+	     (PP for
+		 (S (NP *)
+		    (VP regaining
+			(NP the ground
+			    (PP for
+				(NP (VP limited)
+				    war)))
+			,
+			(PP by
+			    (S (NP *)
+			       (VP creating
+				   (NP a monopoly
+				       (PP in
+					   (NP one power))
+				       (PP of
+					   (NP (NP the world)
+					       's arsenal
+					       (PP of
+						   (NP unlimited weapons))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP It)
+     (VP is
+	 (NP a proposal
+	     (SBAR that
+		   (S (NP  justice)
+		      (ADVP now)
+		      (AUX be)
+		      (VP served
+			  (PP by
+			      (NP (NP means)
+				  (ADJP other
+					(PP than
+					    (NP (NP those)
+						(SBAR (WHNP that)
+						      (S (NP T)
+							 (AUX have)
+							 (ADVP ever)
+							 (VP (VP preconditioned
+								 (NP the search
+								     (PP for
+									 (NP it))))
+							     ,
+							     or
+							     (VP preconditioned
+								 (NP  (ADJP more
+									    positive) means
+									    (PP for
+										(S (NP *)
+										   (VP attaining
+										       (NP it)))))
+								 ,
+								 (PP in
+								     (NP the past)))))))))))))))))
+  .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  ``
+   (S (NP It
+	  (S-2 *pseudo-attach*))
+      (VP is
+	  (ADJP  no
+		 good))
+      (S-2 (NP *)
+	   (VP recommending
+	       (NP (NP surrender)
+		   (ADVP rather
+			 (PP than
+			     (NP nuclear warfare))))
+	       (PP with
+		   (NP the proviso
+		       (SBAR that
+			     (S (NP  surrender)
+				(AUX could)
+				(VP be
+				    (VP followed
+					(PP by
+					    (NP the
+						effective military
+						resistance
+						(PP by
+						    (NP (VP occupied)
+							peoples)))))))))))))
+   .) 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP Hope
+	 (PP for
+	     (NP the future)))
+     (AUX would)
+     (VP lie
+	 (PP in
+	     (NP the natural longing
+		 (PP of
+		     (NP the human race))
+		 (PP for
+		     (NP (NP freedom)
+			 and
+			 (NP the right
+			     (S (NP *)
+				(AUX to)
+				(VP develop)))))))))
+  ''
+  .)
+(  END_OF_TEXT_UNIT)
+(  
+ (S (S (NP This)
+       (VP is
+	   (S (NP *)
+	      (AUX to)
+	      (VP surrender
+		  (PP in
+		      (NP advance))
+		  (PP to
+		      (SBAR (WHNP whatever attack)
+			    (S  (NP T) 
+				(AUX may)
+				(ADVP yet)
+				(VP be
+				    (VP mounted))
+				,
+				(PP to
+				    (NP the
+					(ADJP  very
+					       last))))))))))
+    ;
+    ;
+    (S (NP it)
+       (VP is
+	   (S (NP *)
+	      (AUX to)
+	      (VP stride
+		  (PP along
+		      (NP the steep slope))
+		  (ADVP downward))))))
+ .)
+(  END_OF_TEXT_UNIT)
+(  (S (S (NP The
+	     only contrary
+	     action)
+	 ,
+	 (PP in
+	     (NP the future
+		 (PP as
+		     (PP in
+			 (NP the past)))))
+	 ,
+	 (VP runs
+	     (NP the risk
+		 (PP of
+		     (NP war)))))
+      ;
+      ;
+      and
+      ,
+      (S (X (ADVP now)
+	    and
+	    (PP in
+		(NP the future))
+	    (PP unlike
+		(PP in
+		    (NP the past))))
+	 ,
+	 (S (NP any attempt
+		(S (S (NP *)
+		      (AUX to)
+		      (VP repel
+			  (NP injury)))
+		   and
+		   (S (NP *)
+		      (AUX to)
+		      (VP preserve
+			  (NP any
+			      particular
+			      civilized
+			      attainment
+			      (PP of
+				  (NP (NP mankind)
+				      or
+				      (NP its provisional justice))))))))
+	    (VP runs
+		(NP (NP some risk
+			(PP of
+			    (NP nuclear warfare)))
+		    and
+		    (NP the danger
+			(SBAR that
+			      (S (NP an effect
+				     (PP of
+					 (NP it)))
+				 (AUX will)
+				 ,
+				 (PP by
+				     (NP human action))
+				 ,
+				 (VP render
+				     (NP this planet)
+				     (ADJP  less
+					    habitable
+					    (PP by
+						(NP the human race))))))))))))
+   .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP That)
+     (VP is
+	 (SBAR (WHADVP why)
+	       (S (NP it
+		      (SBAR-3 *pseudo-attach*))
+		  (VP is
+		      (ADJP  so
+			     very
+			     important))
+		  (SBAR-3 that
+			  (S (NP ethical analysis)
+			     (VP (VP keep
+				     (ADJP clear)
+				     (NP the problem
+					 (PP of
+					     (NP decision
+						 (PP as
+						     (PP to
+							 (NP  ``
+							      (VP permitted)
+							      ''
+							      effects)))))))
+				 ,
+				 and
+				 (NEG not)
+				 (VP (VP draw
+					 (ADVP back)
+					 (PP in
+					     (NP fright
+						 (PP from
+						     (NP any conceivable
+							 contingency)))))
+				     or
+				     (VP suffer
+					 (NP paralysis
+					     (PP of
+						 (NP action)))
+					 (PP before
+					     (NP (NP possibilities or probabilities)
+						 (ADJP (ADJP unrelated
+							     (PP-4 *pseudo-attach*))
+						       ,
+						       or
+						       (NEG not)
+						       (ADJP   directly
+							       morally
+							       related
+							       (PP-4 *pseudo-attach*))
+						       ,
+						       (PP-4 to
+							     (SBAR (WHNP what)
+								   (S (NP we)
+								      (AUX (AUX can)
+									   and
+									   (AUX may)
+									   and
+									   (AUX must))
+								      (VP do
+									  (NP T) )
+								      (ADVP as
+									    long
+									    (PP as
+										(S (NP human history)
+										   (VP endures)))))))))))))))))))
+  .) 
+(  END_OF_TEXT_UNIT)
+(  (S (ADVP Finally)
+      ,
+      (PP  (ADVP just)
+	   as
+	   (S (NP no different issues)
+	      (AUX are)
+	      (VP posed
+		  (PP for
+		      (NP thoughtful analysis))
+		  (PP by
+		      (NP the foreshortening
+			  (PP of
+			      (NP (NP time)
+				  (SBAR (WHNP that)
+					(S (NP T)
+					   (AUX may)
+					   (ADVP yet)
+					   (VP pass)
+					   (PP before
+					       (NP the end
+						   (PP of
+						       (NP human life
+							   (PP on
+							       (NP this earth)))))))))))))
+	      ,
+	      but
+	      (NP only stimulation and alarm
+		  (PP to
+		      (NP the imagination)))))
+      ,
+      (S (NP the same thing)
+	 (AUX must)
+	 (VP be
+	     (VP said
+		 (PP in
+		     (NP connection
+			 (PP with
+			     (NP the question
+				 (PP of
+				     (SBAR (WHNP what)
+					   (S (NP we)
+					      (AUX may)
+					      (ADVP perhaps)
+					      (ADVP already)
+					      (VP be
+						  (VP doing
+						      (NP T)
+						      ,
+						      (PP by
+							  (NP human action))
+						      ,))
+					      (S (NP *)
+						 (AUX to)
+						 (VP accelerate
+						     (NP this end))))))))))))))
+   .)
+ 
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+( (S (NP We)
+     (AUX should)
+     (NEG not)
+     (VP allow
+	 (S (NP the image
+		(PP of
+		    (NP (NP an immanent end)
+			(VP brought
+			    (ADVP about)
+			    (ADVP indirectly)
+			    (PP by
+				(NP our own action
+				    (PP in
+					(NP the continuing human struggle
+					    (PP for
+						(NP a
+						    just
+						    endurable order
+						    (PP of
+							(NP
+							 existence))))))))))))
+	    (AUX to)
+	    (VP blind
+		(NP us)
+		(PP to
+		    (NP the fact
+			(SBAR that
+			      (S (PP in
+				     (NP some measure))
+				 (S (NP (S (NP *)
+					   (VP accelerating
+					       (NP the end
+						   (PP of
+						       (NP our lease))))))
+				    (AUX may)
+				    (VP be
+					(NP one consequence
+					    (PP among
+						(NP others
+						    (PP of
+							(NP many
+							    other
+							    (PP of
+								(NP (NP mankind)
+								    's thrusts
+								    (PP toward
+									(S (NP we)
+									   (VP know
+									       (NEG not)
+									       (WHNP what future)))))))))))))))))))))
+  .)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
+(  END_OF_TEXT_UNIT)
