@@ -1,0 +1,1473 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT following/VBG items/NNS ]
+may/MD be/VB specified/VBN in/IN 
+[ actual/JJ ]
+or/CC 
+[ symbolic/JJ form/NN ]
+in/IN 
+[ the/DT operands/NNS ]
+of/IN 
+[ those/DT instructions/NNS ]
+
+[ which/WDT ]
+refer/VBP to/TO 
+[ the/DT particular/JJ items/NNS ]
+:/: 
+[ channel/NN ]
+,/, 
+[ unit/NN ]
+,/, combined/VBN 
+[ channel/NN ]
+and/CC 
+[ unit/NN ]
+,/, combined/VBN 
+[ arm/NN ]
+and/CC 
+[ file/NN ]
+,/, 
+[ unit/NN record/NN synchronizers/NNS ]
+,/, 
+[ inquiry/NN synchronizers/NNS ]
+,/, and/CC 
+[ alteration/NN switches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT declarative/JJ operation/NN EQU/NN ]
+is/VBZ used/VBN to/TO equate/VB 
+[ symbolic/JJ names/NNS ]
+to/TO 
+[ item/NN numbers/NNS ]
+(/( see/VB 
+[ page/NN 85/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ Continuation/NN cards/NNS Certain/JJ Autocoder/NN statements/NNS ]
+make/VBP 
+[ provision/NN ]
+for/IN 
+[ more/JJR parameters/NNS ]
+than/IN may/MD be/VB contained/VBN in/IN 
+[ the/DT operand/NN ]
+(/( 
+[ columns/NNS 21/CD ]
+-/: 
+[ 75/CD ]
+)/) of/IN 
+[ a/DT single/JJ line/NN ]
+on/IN 
+[ the/DT Autocoder/NN coding/NN sheet/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ this/DT ]
+is/VBZ 
+[ the/DT case/NN ]
+,/, 
+[ the/DT appropriate/JJ section/NN ]
+of/IN 
+[ this/DT manual/NN ]
+will/MD indicate/VB that/IN ``/`` 
+[ Continuation/NN Cards/NNS ]
+''/'' may/MD be/VB used/VBN ./. 
+==================================
+
+==================================
+==================================
+Thus/RB ,/, when/WRB specifically/RB permitted/VBN ,/, 
+[ the/DT operand/NN ]
+of/IN 
+[ a/DT given/VBN line/NN ]
+on/IN 
+[ the/DT Autocoder/NN coding/NN sheet/NN ]
+may/MD be/VB continued/VBN in/IN 
+[ the/DT operand/NN ]
+of/IN from/IN 
+[ one/CD ]
+to/TO 
+[ four/CD additional/JJ lines/NNS ]
+
+[ which/WDT ]
+immediately/RB follow/VBP ./. 
+==================================
+
+[ The/DT label/NN ]
+and/CC 
+[ operation/NN columns/NNS ]
+must/MD be/VB blank/JJ and/CC 
+[ the/DT continuation/NN ]
+of/IN 
+[ the/DT operand/NN ]
+must/MD begin/VB in/IN 
+[ column/NN 21/CD ]
+;/: ;/: 
+[ i.e./FW ]
+,/, 
+[ it/PRP ]
+must/MD be/VB left-justified/JJ in/IN 
+[ the/DT operand/NN column/NN ]
+of/IN 
+[ the/DT coding/NN sheet/NN ]
+./. 
+==================================
+
+[ The/DT operand/NN ]
+need/MD not/RB extend/VB across/IN 
+[ the/DT entire/JJ operand/NN column/NN ]
+of/IN 
+[ either/CC ]
+
+[ the/DT header/NN card/NN ]
+or/CC 
+[ continuation/NN cards/NNS ]
+but/CC may/MD end/VB with/IN 
+[ the/DT comma/NN ]
+following/VBG 
+[ any/DT parameter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Remarks/NNS ]
+may/MD appear/VB to/TO 
+[ the/DT right/NN ]
+of/IN 
+[ the/DT last/JJ parameter/NN ]
+on/IN 
+[ each/DT card/NN ]
+provided/VBN 
+[ they/PRP ]
+are/VBP separated/VBN from/IN 
+[ the/DT operand/NN ]
+by/IN at/IN 
+[ least/JJS two/CD blank/JJ spaces/NNS ]
+./. 
+==================================
+
+[ Illustrations/NNS ]
+of/IN 
+[ the/DT use/NN ]
+of/IN 
+[ continuation/NN cards/NNS ]
+are/VBP included/VBN throughout/IN 
+[ the/DT examples/NNS ]
+illustrating/VBG 
+[ the/DT various/JJ statements/NNS ]
+./. 
+==================================
+If/IN 
+[ a/DT continuation/NN card/NN ]
+follows/VBZ 
+[ a/DT statement/NN ]
+
+[ that/WDT ]
+does/VBZ not/RB permit/VB 
+[ continuation/NN cards/NNS ]
+,/, 
+[ the/DT compiler/NN ]
+will/MD generate/VB 
+[ a/DT NOP/NN ]
+and/CC issue/VB 
+[ an/DT error/NN message/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Additional/JJ restrictions/NNS ]
+regarding/VBG 
+[ the/DT use/NN ]
+of/IN 
+[ continuation/NN cards/NNS ]
+with/IN 
+[ macro-instructions/NNS ]
+appear/VBP on/IN 
+[ page/NN 106/CD ]
+./. 
+==================================
+
+[ Reservation/NN ]
+of/IN 
+[ index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+
+[ The/DT assignment/NN ]
+of/IN 
+[ actual/JJ addresses/NNS ]
+to/TO 
+[ symbolic/JJ index/NN word/NN ]
+and/CC 
+[ electronic/JJ switch/NN names/NNS ]
+occurs/VBZ in/IN 
+[ Phase/NN 3/CD ]
+,/, of/IN 
+[ the/DT Autocoder/NN processor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT initial/JJ availability/NN ]
+of/IN 
+[ index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+is/VBZ determined/VBN by/IN 
+[ a/DT table/NN ]
+
+[ which/WDT ]
+is/VBZ included/VBN in/IN 
+[ the/DT Compiler/NN Systems/NNS Tape/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT table/NN ]
+originally/RB indicates/VBZ that/IN 
+[ index/NN words/NNS 1/CD ]
+through/IN 
+[ 96/CD ]
+and/CC 
+[ electronic/JJ switches/NNS 1/CD ]
+through/IN 
+[ 30/CD ]
+are/VBP available/JJ for/IN 
+[ assignment/NN ]
+to/TO 
+[ symbolic/JJ references/NNS ]
+;/: ;/: 
+[ index/NN words/NNS 97/CD ]
+through/IN 
+[ 99/CD ]
+are/VBP not/RB available/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT initial/JJ setting/NN ]
+of/IN 
+[ this/DT table/NN ]
+may/MD be/VB altered/VBN ,/, however/RB ,/, as/IN described/VBN in/IN 
+[ the/DT 70707074/CD Data/NNS Processing/NN System/NN Bulletin/NN ]
+``/`` 
+[ IBM/NN 70707074/CD Compiler/NN System/NN ]
+:/: 
+[ Operating/NN Procedure/NN ]
+''/'' ,/, 
+[ form/NN A[fj]/SYM ]
+./. 
+==================================
+During/IN 
+[ the/DT first/JJ pass/NN ]
+of/IN 
+[ Phase/NN 3/CD ]
+,/, ,/, 
+[ references/NNS ]
+to/TO 
+[ the/DT actual/JJ addresses/NNS ]
+of/IN 
+[ index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+are/VBP collected/VBN and/CC 
+[ the/DT availability/NN table/NN ]
+is/VBZ updated/VBN ./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT pass/NN ]
+,/, 
+[ the/DT table/NN ]
+indicates/VBZ 
+[ which/WDT index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+are/VBP not/RB available/JJ for/IN 
+[ assignment/NN ]
+to/TO 
+[ symbolic/JJ references/NNS ]
+./. 
+==================================
+
+[ Both/DT index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+may/MD have/VB been/VBN made/VBN 
+[ unavailable/JJ ]
+before/IN 
+[ the/DT start/NN ]
+of/IN 
+[ assignment/NN ]
+in/IN 
+[ one/CD ]
+of/IN 
+[ the/DT following/VBG ways/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 1/LS ]
+./. 
+==================================
+
+[ The/DT initial/JJ setting/NN ]
+of/IN 
+[ the/DT availability/NN table/NN ]
+indicated/VBD that/IN 
+[ the/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+was/VBD not/RB available/JJ for/IN 
+[ assignment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/LS ]
+./. 
+==================================
+
+[ The/DT one/CD ]
+-/: or/CC 
+[ two-digit/JJ number/NN ]
+of/IN 
+[ the/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+was/VBD used/VBN in/IN 
+[ the/DT operand/NN ]
+of/IN 
+[ a/DT symbolic/JJ machine/NN instruction/NN ]
+to/TO specify/VB 
+[ indexing/NN ]
+or/CC as/IN 
+[ a/DT parameter/NN ]
+
+[ which/WDT ]
+is/VBZ always/RB 
+[ an/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+,/, 
+[ e.g./FW ]
+,/, 
+[ 3/LS ]
+./. 
+==================================
+
+[ The/DT one/CD ]
+-/: or/CC 
+[ two-digit/JJ number/NN ]
+of/IN 
+[ the/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+was/VBD used/VBN in/IN 
+[ the/DT operand/NN ]
+of/IN 
+[ an/DT EQU/NN statement/NN ]
+,/, 
+[ e.g./FW ]
+,/, When/WRB 
+[ the/DT index/NN words/NNS ]
+or/CC 
+[ electronic/JJ switches/NNS ]
+are/VBP reserved/VBN because/IN of/IN 
+[ actual/JJ usage/NN ]
+in/IN 
+[ the/DT statements/NNS ]
+described/VBN above/IN ,/, 
+[ the/DT position/NN ]
+or/CC 
+[ order/NN ]
+of/IN 
+[ the/DT statements/NNS ]
+within/IN 
+[ the/DT program/NN ]
+is/VBZ not/RB 
+[ important/JJ ]
+;/: ;/: 
+[ any/DT such/JJ reference/NN ]
+will/MD make/VB 
+[ the/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+unavailable/JJ at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT pass/NN ]
+./. 
+==================================
+During/IN 
+[ the/DT assignment/NN pass/NN ]
+of/IN 
+[ Phase/NN 3/CD ]
+,/, ,/, 
+[ index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+are/VBP reserved/VBN as/IN 
+[ they/PRP ]
+are/VBP encountered/VBN during/IN 
+[ assignment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+may/MD be/VB reserved/VBN in/IN 
+[ the/DT following/VBG ways/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT first/JJ two/CD methods/NNS ]
+apply/VBP to/TO 
+[ both/DT index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+;/: ;/: 
+[ the/DT third/NN ]
+applies/VBZ only/RB to/TO 
+[ index/NN words/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 1/LS ]
+./. 
+==================================
+During/IN 
+[ the/DT assignment/NN pass/NN ]
+,/, 
+[ each/DT instruction/NN ]
+is/VBZ examined/VBN for/IN 
+[ reference/NN ]
+to/TO 
+[ the/DT symbolic/JJ name/NN ]
+of/IN 
+[ an/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ such/PDT a/DT reference/NN ]
+is/VBZ found/VBN ,/, 
+[ an/DT actual/JJ address/NN ]
+is/VBZ assigned/VBN and/CC 
+[ the/DT availability/NN table/NN ]
+is/VBZ changed/VBN so/RB that/IN 
+[ the/DT assigned/VBN index/NN word/NN ]
+or/CC 
+[ switch/NN ]
+is/VBZ 
+[ no/DT ]
+longer/RB available/JJ for/IN 
+[ later/JJ assignment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/LS ]
+./. 
+==================================
+If/IN 
+[ the/DT one/CD ]
+-/: or/CC 
+[ two-digit/JJ address/NN ]
+of/IN 
+[ an/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+is/VBZ used/VBN or/CC is/VBZ included/VBN in/IN 
+[ the/DT operand/NN ]
+of/IN 
+[ an/DT XRESERVE/NN ]
+or/CC 
+[ SRESERVE/NN statement/NN ]
+(/( see/VB 
+[ page/NN 99/CD ]
+)/) ,/, 
+[ the/DT corresponding/JJ index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+is/VBZ reserved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ 3/LS ]
+./. 
+==================================
+If/IN 
+[ a/DT statement/NN ]
+has/VBZ been/VBN assigned/VBN 
+[ an/DT address/NN ]
+in/IN 
+[ the/DT index/NN word/NN area/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ an/DT actual/JJ label/NN ]
+or/CC by/IN 
+[ means/NNS ]
+of/IN 
+[ an/DT origin/NN statement/NN ]
+
+[ which/WDT ]
+refers/VBZ to/TO 
+[ an/DT actual/JJ address/NN ]
+,/, 
+[ the/DT corresponding/JJ index/NN word/NN ]
+will/MD be/VB reserved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT entries/NNS ]
+should/MD normally/RB appear/VB at/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT program/NN ]
+or/CC immediately/RB following/VBG 
+[ each/DT LITORIGIN/NN statement/NN ]
+./. 
+==================================
+Otherwise/RB ,/, 
+[ symbolic/JJ names/NNS ]
+may/MD have/VB previously/RB been/VBN assigned/VBN to/TO 
+[ these/DT same/JJ index/NN words/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ This/DT method/NN ]
+does/VBZ not/RB apply/VB to/TO 
+[ electronic/JJ switches/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+)/) 
+[ The/DT preceding/VBG methods/NNS ]
+allow/VBP 
+[ efficient/JJ use/NN ]
+of/IN 
+[ index/NN words/NNS ]
+and/CC 
+[ electronic/JJ switches/NNS ]
+during/IN 
+[ a/DT sectionalized/JJ ]
+or/CC 
+[ multi-phase/JJ program/NN ]
+,/, particularly/RB when/WRB used/VBN in/IN 
+[ conjunction/NN ]
+with/IN 
+[ the/DT LITORIGIN/NN statement/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Extreme/JJ caution/NN ]
+should/MD be/VB used/VBN ,/, however/RB ,/, to/TO avoid/VB 
+[ the/DT conflicting/VBG usage/NN ]
+of/IN 
+[ an/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+
+[ which/WDT ]
+may/MD result/VB from/IN 
+[ the/DT assignment/NN ]
+of/IN more/RBR than/IN 
+[ one/CD name/NN ]
+or/CC 
+[ function/NN ]
+to/TO 
+[ the/DT same/JJ address/NN ]
+./. 
+==================================
+If/IN 
+[ the/DT symbolic/JJ name/NN ]
+or/CC 
+[ actual/JJ address/NN ]
+of/IN 
+[ an/DT index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+appears/VBZ or/CC is/VBZ included/VBN in/IN 
+[ the/DT operand/NN ]
+of/IN 
+[ an/DT XRELEASE/NN ]
+or/CC 
+[ SRELEASE/NN statement/NN ]
+(/( see/VB 
+[ page/NN 101/CD ]
+)/) ,/, 
+[ the/DT specified/VBN index/NN word/NN ]
+or/CC 
+[ electronic/JJ switch/NN ]
+will/MD again/RB be/VB made/VBN 
+[ available/JJ ]
+,/, regardless/RB of/IN 
+[ the/DT method/NN ]
+by/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+was/VBD reserved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+will/MD not/RB ,/, however/RB ,/, be/VB used/VBN for/IN 
+[ symbolic/JJ assignment/NN ]
+until/IN 
+[ all/DT other/JJ index/NN words/NNS ]
+or/CC 
+[ electronic/JJ switches/NNS ]
+have/VBP been/VBN assigned/VBN for/IN 
+[ the/DT first/JJ time/NN ]
+./. 
+==================================
+If/IN ,/, at/IN 
+[ any/DT time/NN ]
+during/IN 
+[ the/DT assignment/NN pass/NN ]
+,/, 
+[ the/DT compiler/NN ]
+finds/VBZ that/IN 
+[ there/EX ]
+are/VBP 
+[ no/DT more/JJR index/NN words/NNS ]
+available/JJ for/IN 
+[ assignment/NN ]
+,/, 
+[ the/DT warning/VBG message/NN ]
+``/`` 
+[ No/DT More/JJR Index/NN Words/NNS Available/JJ ]
+''/'' will/MD be/VB placed/VBN in/IN 
+[ the/DT object/NN program/NN listing/NN ]
+,/, 
+[ the/DT table/NN ]
+will/MD be/VB altered/VBN to/TO show/VB that/IN 
+[ index/NN words/NNS 1/CD ]
+through/IN 
+[ 96/CD ]
+are/VBP available/JJ ,/, and/CC 
+[ the/DT assignment/NN ]
+will/MD continue/VB as/IN before/IN ./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT compiler/NN ]
+finds/VBZ that/IN 
+[ there/EX ]
+are/VBP 
+[ no/DT more/RBR electronic/JJ switches/NNS ]
+available/JJ for/IN 
+[ assignment/NN ]
+,/, 
+[ the/DT warning/VBG message/NN ]
+``/`` 
+[ No/DT More/JJR Electronic/JJ Switches/NNS Available/JJ ]
+''/'' will/MD be/VB placed/VBN in/IN 
+[ the/DT object/NN program/NN listing/NN ]
+,/, 
+[ the/DT table/NN ]
+will/MD be/VB altered/VBN to/TO show/VB that/IN 
+[ electronic/JJ switches/NNS 1/CD ]
+through/IN 
+[ 30/CD ]
+are/VBP available/JJ ,/, and/CC 
+[ assignment/NN ]
+will/MD continue/VB as/IN before/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT resultant/JJ conflicting/VBG usage/NN ]
+of/IN 
+[ index/NN words/NNS ]
+or/CC 
+[ electronic/JJ switches/NNS ]
+may/MD be/VB avoided/VBN by/IN reducing/VBG 
+[ the/DT number/NN ]
+of/IN 
+[ symbolic/JJ names/NNS ]
+used/VBN ,/, 
+[ e.g./FW ]
+,/, through/IN 
+[ the/DT proper/JJ use/NN ]
+of/IN 
+[ the/DT EQU/NN ]
+,/, 
+[ XRELEASE/NN ]
+,/, or/CC 
+[ SRELEASE/NN statements/NNS ]
+./. 
+==================================
+As/IN noted/VBN in/IN 
+[ Appendix/NN C/NN ]
+,/, 
+[ index/NN words/NNS 97/CD ]
+through/IN 
+[ 99/CD ]
+are/VBP never/RB available/JJ for/IN 
+[ assignment/NN ]
+to/TO 
+[ symbolic/JJ names/NNS ]
+by/IN 
+[ the/DT compiler/NN ]
+;/: ;/: also/RB ,/, 
+[ index/NN words/NNS 93/CD ]
+through/IN 
+[ 96/CD ]
+may/MD have/VB been/VBN made/VBN unavailable/JJ for/IN 
+[ assignment/NN ]
+./. 
+==================================
+
+[ Declarative/JJ statements/NNS Autocoder/NN declarative/JJ statements/NNS ]
+provide/VBP 
+[ the/DT processor/NN ]
+with/IN 
+[ the/DT necessary/JJ information/NN ]
+to/TO complete/VB 
+[ the/DT imperative/JJ operations/NNS ]
+properly/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Declarative/JJ statements/NNS ]
+are/VBP never/RB executed/VBN in/IN 
+[ the/DT object/NN program/NN ]
+and/CC should/MD be/VB separated/VBN from/IN 
+[ the/DT program/NN instruction/NN area/NN ]
+,/, placed/VBN preferably/RB at/IN 
+[ its/PRP$ beginning/NN ]
+or/CC 
+[ end/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Otherwise/RB ,/, 
+[ special/JJ care/NN ]
+must/MD be/VB taken/VBN to/TO branch/VB around/IN 
+[ them/PRP ]
+so/RB that/IN 
+[ the/DT program/NN ]
+will/MD not/RB attempt/VB to/TO execute/VB 
+[ something/NN ]
+in/IN 
+[ a/DT data/NNS area/NN ]
+as/IN 
+[ an/DT instruction/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT compiler/NN ]
+does/VBZ encounter/VB 
+[ such/JJ statements/NNS ]
+,/, 
+[ a/DT warning/VBG message/NN ]
+will/MD be/VB issued/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ 70707074/CD Autocoder/NN ]
+includes/VBZ 
+[ the/DT ]
+following/VBG 
+[ declarative/JJ statements/NNS ]
+:/: 
+[ DA/NN ]
+(/( 
+[ Define/VB Area/NN ] 
+)/) ,/, 
+[ DC/NN ]
+(/( 
+[ Define/VB Constant/NN ]
+)/) ,/, 
+[ DRDW/NN ]
+(/( 
+[ Define/VB Record/NN Definition/NN Word/NN ]
+)/) ,/, 
+[ DSW/NN ]
+(/( 
+[ Define/VB Switch/NN ]
+)/) ,/, 
+[ DLINE/NN ]
+(/( 
+[ Define/VB Line/NN ]
+)/) ,/, 
+[ EQU/NN ]
+(/( Equate/VB )/) ,/, 
+[ CODE,DTF/NN ]
+(/( 
+[ Define/VB Tape/NN File/NN ]
+)/) ,/, 
+[ DIOCS/NN ]
+(/( 
+[ Define/VB Input/NN Control/NN System/NN ]
+)/) ,/, and/CC 
+[ DUF/NN ]
+(/( 
+[ Descriptive/JJ Entry/NN ]
+For/IN 
+[ Unit/NN Records/NNS ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ DA/NN ]
+,/, 
+[ DC/NN ]
+,/, 
+[ DTF/NN ]
+,/, and/CC 
+[ DLINE/NN ]
+require/VBP more/RBR than/IN 
+[ one/CD entry/NN ]
+./. 
+==================================
+
+[ The/DT DA/NN statement/NN ]
+is/VBZ used/VBN to/TO name/VB and/CC define/VB 
+[ the/DT positions/NNS ]
+and/CC 
+[ length/NN ]
+of/IN 
+[ fields/NNS ]
+within/IN 
+[ an/DT area/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT DC/NN statement/NN ]
+is/VBZ used/VBN to/TO name/VB and/CC enter/VB 
+[ constants/NNS ]
+into/IN 
+[ the/DT object/NN program/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ the/DT 7070/CD ]
+and/CC 
+[ 7074/CD ]
+make/VBP 
+[ use/NN ]
+of/IN 
+[ record/NN definition/NN words/NNS ]
+(/( 
+[ RDWS/NN ]
+)/) to/TO read/VB ,/, write/VB ,/, move/VB ,/, and/CC otherwise/RB examine/VB 
+[ blocks/NNS ]
+of/IN 
+[ storage/NN ]
+,/, 
+[ the/DT DA/NN ]
+and/CC 
+[ DC/NN statements/NNS ]
+provide/VB 
+[ the/DT  option/NN ]
+of/IN generating/VBG 
+[ RDWS/NN ]
+automatically/RB ./. 
+==================================
+
+==================================
+==================================
+When/WRB so/RB instructed/VBN ,/, 
+[ Autocoder/NN ]
+will/MD generate/VB 
+[ one/CD ]
+or/CC 
+[ more/JJR RDWS/NN ]
+and/CC assign/VB 
+[ them/PRP successive/JJ locations/NNS ]
+immediately/RB preceding/VBG 
+[ the/DT area/NN ]
+with/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+are/VBP to/TO be/VB associated/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT RDW/NN ]
+will/MD be/VB of/IN 
+[ the/DT form/NN A[fj]/SYM ]
+,/, where/WRB 
+[ xxxx/NN ]
+is/VBZ 
+[ the/DT starting/NN location/NN ]
+of/IN 
+[ the/DT area/NN ]
+and/CC 
+[ yyyy/NN ]
+is/VBZ 
+[ its/PRP$ ending/NN location/NN ]
+./. 
+==================================
+
+[ These/DT addresses/NNS ]
+are/VBP calculated/VBN automatically/RB by/IN 
+[ the/DT processor/NN ]
+./. 
+==================================
+In/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ it/PRP ]
+may/MD be/VB more/RBR advantageous/JJ to/TO assign/VB 
+[ locations/NNS ]
+to/TO 
+[ RDWS/NN ]
+associated/VBN with/IN 
+[ DA/NN ]
+and/CC 
+[ DC/NN areas/NNS ]
+in/IN 
+[ some/DT other/JJ part/NN ]
+of/IN 
+[ storage/NN ]
+,/, 
+[ i.e./FW ]
+,/, not/RB immediately/RB preceding/VBG 
+[ the/DT DA/NN ]
+or/CC 
+[ DC/NN areas/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT DRDW/NN statement/NN ]
+may/MD be/VB used/VBN for/IN 
+[ this/DT purpose/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT DRDW/NN statement/NN ]
+may/MD also/RB be/VB used/VBN to/TO generate/VB 
+[ an/DT RDW/NN ]
+defining/VBG 
+[ any/DT area/NN ]
+specified/VBN by/IN 
+[ the/DT programmer/NN ]
+./. 
+==================================
+As/RB many/JJ as/IN 
+[ ten/CD digital/JJ switches/NNS ]
+may/MD be/VB named/VBN and/CC provided/VBN by/IN 
+[ the/DT DSW/NN statement/NN ]
+for/IN 
+[ consideration/NN ]
+by/IN 
+[ the/DT SETSW/NN ]
+and/CC 
+[ logic/NN macro-instructions/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT switch/NN ]
+occupies/VBZ 
+[ one/CD digit/NN position/NN ]
+in/IN 
+[ a/DT word/NN ]
+,/, can/MD be/VB set/VBN on/IN or/CC off/IN ,/, and/CC is/VBZ considered/VBN as/RB logically/RB equivalent/JJ to/TO 
+[ an/DT electronic/JJ switch/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+can/MD not/RB ,/, however/RB ,/, be/VB referred/VBN to/TO by/IN 
+[ electronic/JJ switch/NN commands/NNS ]
+,/, 
+[ e.g./FW ]
+,/, 
+[ ESN/NN ]
+,/, 
+[ BSN/NN ]
+,/, 
+[ etc./FW ]
+./. 
+[ An/DT individual/JJ switch/NN ]
+or/CC 
+[ the/DT entire/JJ ]
+set/VBN of/IN 
+[ switches/NNS ]
+in/IN 
+[ a/DT word/NN ]
+may/MD be/VB tested/VBN or/CC altered/VBN as/IN desired/VBN ./. 
+==================================
+Through/IN 
+[ use/NN ]
+of/IN 
+[ the/DT DLINE/NN statement/NN ]
+,/, 
+[ a/DT means/NN ]
+is/VBZ provided/VBN for/IN specifying/VBG 
+[ both/PDT ]
+
+[ the/DT editing/NN ]
+of/IN 
+[ fields/NNS ]
+to/TO be/VB inserted/VBN in/IN 
+[ a/DT print/NN line/NN area/NN ]
+and/CC 
+[ the/DT layout/NN ]
+of/IN 
+[ the/DT area/NN ]
+
+[ itself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT area/NN ]
+may/MD include/VB 
+[ constant/JJ information/NN ]
+supplied/VBN by/IN 
+[ the/DT programmer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT area/NN ]
+may/MD also/RB be/VB provided/VBN with/IN 
+[ additional/JJ data/NNS ]
+during/IN 
+[ the/DT ]
+running/VBG of/IN 
+[ the/DT object/NN program/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ EDMOV/NN ]
+or/CC 
+[ move/NN macro-instructions/NNS ]
+./. 
+==================================
+
+[ The/DT declarative/JJ statement/NN EQU/NN ]
+permits/VBZ 
+[ the/DT programmer/NN ]
+to/TO equate/VB 
+[ symbolic/JJ names/NNS ]
+to/TO 
+[ actual/JJ index/NN words/NNS ]
+,/, 
+[ electronic/JJ switches/NNS ]
+,/, 
+[ arm/NN ]
+and/CC 
+[ file/NN numbers/NNS ]
+,/, 
+[ tape/NN channel/NN ]
+and/CC 
+[ unit/NN numbers/NNS ]
+,/, 
+[ alteration/NN switches/NNS ]
+,/, 
+[ etc./FW ]
+,/, and/CC to/TO equate/VB 
+[ a/DT symbol/NN ]
+to/TO 
+[ another/DT symbol/NN ]
+or/CC to/TO 
+[ an/DT actual/JJ address/NN ]
+./. 
+==================================
+
+[ The/DT DIOCS/NN ]
+,/, 
+[ DTF/NN ]
+,/, and/CC 
+[ DUF/NN statements/NNS ]
+are/VBP used/VBN when/WRB required/VBN by/IN 
+[ the/DT Input/NN Control/NN System/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ DIOCS/NN ]
+is/VBZ used/VBN to/TO select/VB 
+[ the/DT major/JJ methods/NNS ]
+of/IN processing/VBG to/TO be/VB used/VBN ,/, and/CC to/TO name/VB 
+[ the/DT index/NN words/NNS ]
+used/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT tape/NN file/NN ]
+must/MD be/VB described/VBN by/IN 
+[ Tape/NN File/NN Specifications/NNS ]
+,/, produced/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ addition/NN ]
+to/TO 
+[ information/NN ]
+related/VBN to/TO 
+[ the/DT file/NN ]
+and/CC 
+[ its/PRP$ records/NNS ]
+,/, 
+[ the/DT File/NN Specifications/NNS ]
+contain/VBP 
+[ subroutine/NN locations/NNS ]
+and/CC 
+[ the/DT location/NN ]
+of/IN 
+[ tape/NN label/NN information/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT DUF/NN entry/NN ]
+must/MD be/VB supplied/VBN for/IN 
+[ every/DT unit/NN record/NN file/NN ]
+describing/VBG 
+[ the/DT type/NN ]
+of/IN 
+[ file/NN ]
+and/CC 
+[ the/DT unit/NN record/NN equipment/NN ]
+to/TO be/VB used/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT DUF/NN ]
+also/RB supplies/VBZ 
+[ the/DT locations/NNS ]
+of/IN 
+[ subroutines/NNS ]
+written/VBN by/IN 
+[ the/DT user/NN ]
+
+[ that/WDT ]
+are/VBP unique/JJ to/TO 
+[ the/DT file/NN ]
+./. 
+==================================
+
+[ A/DT full/JJ description/NN ]
+of/IN 
+[ the/DT DIOCS/NN ]
+,/, 
+[ DTF/NN ]
+,/, and/CC 
+[ DUF/NN statements/NNS ]
+is/VBZ contained/VBN in/IN 
+[ the/DT 7070/CD Data/NNS Processing/NN System/NN Bulletin/NN ]
+``/`` 
+[ IBM/NN 7070/CD Input/NN Control/NN System/NN ]
+''/'' ,/, 
+[ form/NN A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Brief/JJ descriptions/NNS ]
+of/IN 
+[ these/DT three/CD declarative/JJ statements/NNS ]
+and/CC detailed/VBN 
+[ descriptions/NNS ]
+of/IN 
+[ the/DT formats/NNS ]
+and/CC 
+[ functions/NNS ]
+of/IN 
+[ each/DT ]
+of/IN 
+[ the/DT other/JJ 70707074/CD Autocoder/NN declarative/JJ statements/NNS ]
+follow/VBP below/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ diocs/NNS ]
+--/: define/VB 
+[ input/NN control/NN system/NN ]
+When/WRB 
+[ the/DT Input/NN Control/NN System/NN ]
+is/VBZ to/TO be/VB used/VBN in/IN 
+[ a/DT program/NN ]
+,/, 
+[ a/DT DIOCS/NN statement/NN ]
+must/MD be/VB used/VBN to/TO select/VB 
+[ the/DT major/JJ methods/NNS ]
+of/IN processing/VBG to/TO be/VB used/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT statement/NN ]
+also/RB allows/VBZ 
+[ the/DT naming/NN ]
+of/IN 
+[ the/DT index/NN words/NNS ]
+used/VBN by/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Source/NN program/NN format/NN ]
+
+[ The/DT basic/JJ format/NN ]
+of/IN 
+[ the/DT DIOCS/NN statement/NN ]
+is/VBZ as/IN follows/VBZ :/: 
+[ anylabel/NN ]
+is/VBZ 
+[ any/RB symbolic/JJ label/NN ]
+;/: ;/: 
+[ it/PRP ]
+may/MD be/VB omitted/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT entry/NN DIOCS/NN ]
+must/MD be/VB written/VBN exactly/RB as/IN shown/VBN ./. 
+==================================
+
+[ The/DT first/JJ item/NN ]
+in/IN 
+[ the/DT operand/NN ]
+,/, 
+[ IOCSIXF/NN ]
+,/, is/VBZ used/VBN to/TO specify/VB 
+[ the/DT first/JJ IOCS/NN index/NN word/NN ]
+for/IN 
+[ programs/NNS ]
+using/VBG 
+[ tape/NN files/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT item/NN ]
+may/MD be/VB 
+[ a/DT symbolic/JJ name/NN ]
+or/CC 
+[ an/DT actual/JJ one-digit/JJ ]
+or/CC 
+[ two-digit/JJ index/NN word/NN address/NN ]
+in/IN 
+[ the/DT range/NN 3/CD ]
+-/: 
+[ 94/CD ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT first/JJ item/NN ]
+in/IN 
+[ the/DT operand/NN ]
+is/VBZ omitted/VBN ,/, 
+[ the/DT symbolic/JJ name/NN IOCSIXF/NN ]
+will/MD be/VB assigned/VBN ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ an/DT actual/JJ index/NN word/NN ]
+or/CC 
+[ a/DT symbolic/JJ address/NN ]
+is/VBZ specified/VBN ,/, 
+[ Autocoder/NN ]
+will/MD equate/VB 
+[ the/DT name/NN IOCSIXF/NN ]
+to/TO 
+[ it/PRP ]
+./. 
+==================================
+
+[ The/DT second/JJ item/NN ]
+in/IN 
+[ the/DT operand/NN ]
+,/, 
+[ IOCSIXG/NN ]
+,/, is/VBZ used/VBN to/TO specify/VB 
+[ the/DT second/JJ IOCS/NN index/NN word/NN ]
+for/IN 
+[ programs/NNS ]
+using/VBG 
+[ tape/NN files/NNS ]
+./. 
+==================================
+
+[ This/DT item/NN ]
+may/MD be/VB 
+[ a/DT symbolic/JJ name/NN ]
+or/CC 
+[ an/DT actual/JJ one-digit/JJ ]
+or/CC 
+[ two-digit/JJ index/NN word/NN address/NN ]
+in/IN 
+[ the/DT range/NN 3/CD ]
+-/: 
+[ 94/CD ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ the/DT second/JJ item/NN ]
+in/IN 
+[ the/DT operand/NN ]
+is/VBZ omitted/VBN ,/, 
+[ the/DT symbolic/JJ name/NN IOCSIXG/NN ]
+will/MD be/VB assigned/VBN ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ an/DT actual/JJ index/NN word/NN ]
+or/CC 
+[ a/DT symbolic/JJ address/NN ]
+is/VBZ specified/VBN ,/, 
+[ Autocoder/NN ]
+will/MD equate/VB 
+[ IOCSIXG/NN ]
+to/TO 
+[ it/PRP ]
+./. 
+==================================
+==================================
+==================================

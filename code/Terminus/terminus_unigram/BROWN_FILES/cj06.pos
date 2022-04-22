@@ -1,0 +1,1435 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT thermal/JJ exchange/NN ]
+of/IN 
+[ chlorine/NN ]
+between/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ liquid/JJ A[fj]/SYM ]
+is/VBZ readily/RB measurable/JJ at/IN 
+[ temperatures/NNS ]
+in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 180-degrees/CD|NN ]
+and/CC 
+[ above/IN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT photochemical/JJ exchange/NN ]
+occurs/VBZ with/IN 
+[ a/DT quantum/NN yield/NN ]
+of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ unity/NN ]
+in/IN 
+[ the/DT liquid/JJ phase/NN ]
+at/IN 
+[ 65-degrees/CD|NN using/VBG light/NN ]
+absorbed/VBN only/RB by/IN 
+[ the/DT A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT gas/NN phase/NN ]
+,/, with/IN 
+[ A[fj]/SYM ]
+of/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+of/IN 
+[ A[fj]/SYM ]
+,/, 
+[ quantum/NN yields/NNS ]
+of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ A[fj]/SYM ]
+have/VBP been/VBN observed/VBN at/IN 
+[ 85-degrees/CD|NN ]
+./. 
+==================================
+
+==================================
+==================================
+Despite/IN 
+[ extensive/JJ attempts/NNS ]
+to/TO obtain/VB highly/RB 
+[ pure/JJ reagents/NNS ]
+,/, 
+[ serious/JJ difficulty/NN ]
+was/VBD experienced/VBN in/IN obtaining/VBG 
+[ reproducible/JJ rates/NNS ]
+of/IN 
+[ reaction/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+appears/VBZ possible/JJ to/TO set/VB 
+[ a/DT lower/JJR limit/NN ]
+of/IN about/IN 
+[ A[fj]/SYM ]
+for/IN 
+[ the/DT activation/NN energy/NN ]
+of/IN 
+[ the/DT abstraction/NN ]
+of/IN 
+[ a/DT chlorine/NN atom/NN ]
+from/IN 
+[ a/DT carbon/NN tetrachloride/NN molecule/NN ]
+by/IN 
+[ a/DT chlorine/NN atom/NN ]
+to/TO form/VB 
+[ A[fj]/SYM radical/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT rate/NN ]
+of/IN 
+[ the/DT gas/NN phase/NN exchange/NN reaction/NN ]
+appears/VBZ to/TO be/VB proportional/JJ to/TO 
+[ the/DT first/JJ power/NN ]
+of/IN 
+[ the/DT absorbed/VBN light/NN intensity/NN ]
+indicating/VBG that/IN 
+[ the/DT radical/JJ intermediates/NNS ]
+are/VBP removed/VBN at/IN 
+[ the/DT walls/NNS ]
+or/CC by/IN 
+[ reaction/NN ]
+with/IN 
+[ an/DT impurity/NN ]
+rather/RB than/IN by/IN 
+[ bimolecular/JJ radical/JJ combination/NN reactions/NNS ]
+./. 
+==================================
+
+[ Introduction/NNP ]
+Because/IN of/IN 
+[ the/DT simplicity/NN ]
+of/IN 
+[ the/DT molecules/NNS ]
+,/, 
+[ isotopic/JJ exchange/NN reactions/NNS ]
+between/IN 
+[ elemental/JJ halogens/NNS ]
+and/CC 
+[ the/DT corresponding/JJ carbon/NN tetrahalides/NNS ]
+would/MD appear/VB to/TO offer/VB particularly/RB 
+[ fruitful/JJ possibilities/NNS ]
+for/IN obtaining/VBG 
+[ unambiguous/JJ basic/JJ kinetic/JJ data/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+would/MD appear/VB that/IN 
+[ it/PRP ]
+should/MD be/VB possible/JJ to/TO determine/VB 
+[ unique/JJ mechanisms/NNS ]
+for/IN 
+[ the/DT thermal/JJ ]
+and/CC 
+[ photochemical/JJ reactions/NNS ]
+in/IN 
+[ both/PDT ]
+
+[ the/DT liquid/NN ]
+and/CC 
+[ gas/NN phases/NNS ]
+and/CC to/TO determine/VB 
+[ values/NNS ]
+for/IN 
+[ activation/NN energies/NNS ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT intermediate/JJ reactions/NNS ]
+of/IN 
+[ atoms/NNS ]
+and/CC 
+[ free/JJ radicals/NNS ]
+,/, as/RB well/RB as/IN 
+[ information/NN ]
+on/IN 
+[ the/DT heat/NN ]
+of/IN 
+[ dissociation/NN ]
+of/IN 
+[ the/DT carbon-halogen/NN bond/NN ]
+./. 
+==================================
+
+[ The/DT reaction/NN ]
+of/IN 
+[ chlorine/NN ]
+with/IN 
+[ carbon/NN tetrachloride/NN ]
+seemed/VBD particularly/RB suited/VBN for/IN 
+[ such/JJ studies/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+should/MD be/VB possible/JJ to/TO prepare/VB 
+[ very/RB pure/JJ chlorine/NN ]
+by/IN 
+[ oxidation/NN ]
+of/IN 
+[ inorganic/JJ chlorides/NNS ]
+on/IN 
+[ a/DT vacuum/NN system/NN ]
+followed/VBN by/IN 
+[ multiple/JJ distillation/NN ]
+of/IN 
+[ the/DT liquid/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+should/MD be/VB possible/JJ to/TO 
+[ free/VB carbon/NN tetrachloride/NN ]
+of/IN 
+[ any/DT ]
+
+[ interfering/VBG substances/NNS ]
+by/IN 
+[ the/DT usual/JJ purification/NN methods/NNS ]
+followed/VBN by/IN 
+[ prechlorination/NN ]
+prior/RB to/TO 
+[ addition/NN ]
+of/IN 
+[ radioactive/JJ chlorine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Furthermore/RB ,/, 
+[ the/DT exchange/NN ]
+would/MD not/RB be/VB expected/VBN to/TO be/VB sensitive/JJ to/TO trace/JJ 
+[ amounts/NNS ]
+of/IN 
+[ impurities/NNS ]
+because/IN 
+[ it/PRP ]
+would/MD not/RB be/VB apt/JJ to/TO be/VB 
+[ a/DT chain/NN reaction/NN ]
+since/IN 
+[ the/DT activation/NN energy/NN ]
+for/IN 
+[ abstraction/NN ]
+of/IN 
+[ chlorine/NN ]
+by/IN 
+[ a/DT chlorine/NN atom/NN ]
+would/MD be/VB expected/VBN to/TO be/VB too/RB high/JJ ;/: ;/: also/RB 
+[ it/PRP ]
+would/MD be/VB expected/VBN that/IN 
+[ A[fj]/SYM ]
+would/MD compete/VB very/RB effectively/RB with/IN 
+[ any/DT impurities/NNS ]
+as/IN 
+[ a/DT scavenger/NN ]
+for/IN 
+[ A[fj]/SYM radicals/NNS ]
+./. 
+==================================
+
+[ Contrary/JJ ]
+to/TO 
+[ these/DT expectations/NNS we/PRP ]
+have/VBP found/VBN 
+[ it/PRP ]
+impossible/JJ to/TO obtain/VB 
+[ the/DT degree/NN ]
+of/IN 
+[ reproducibility/NN one/CD ]
+would/MD wish/VB ,/, even/RB with/IN 
+[ extensive/JJ efforts/NNS ]
+to/TO prepare/VB especially/RB 
+[ pure/JJ reagents/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+are/VBP reporting/VBG 
+[ these/DT investigations/NNS ]
+here/RB 
+[ briefly/NN ]
+because/IN of/IN 
+[ their/PRP$ relevancy/NN ]
+to/TO 
+[ problems/NNS ]
+of/IN 
+[ the/DT study/NN ]
+of/IN apparently/RB 
+[ simple/JJ exchange/NN reactions/NNS ]
+of/IN 
+[ chlorine/NN ]
+and/CC because/IN 
+[ the/DT results/NNS ]
+furnish/VBP 
+[ some/DT information/NN ]
+on/IN 
+[ the/DT activation/NN energy/NN ]
+for/IN 
+[ abstraction/NN ]
+of/IN 
+[ chlorine/NN atoms/NNS ]
+from/IN 
+[ carbon/NN tetrachloride/NN ]
+./. 
+==================================
+
+[ Experimental/JJ reagents/NNS ]
+./. 
+==================================
+--/: 
+[ Matheson/NNP highest/JJS purity/NN tank/NN chlorine/NN ]
+was/VBD passed/VBN through/IN 
+[ a/DT tube/NN ]
+of/IN 
+[ resublimed/VBN A[fj]/SYM ]
+into/IN 
+[ an/DT evacuated/VBN Pyrex/NNP system/NN ]
+where/WRB 
+[ it/PRP ]
+was/VBD condensed/VBN with/IN 
+[ liquid/NN air/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD then/RB distilled/VBN at/IN 
+[ least/JJS three/CD times/NNS ]
+from/IN 
+[ a/DT trap/NN ]
+at/IN 
+[ -78-degrees/CD|NN ]
+to/TO 
+[ a/DT liquid/NN air/NN trap/NN ]
+with/IN only/RB 
+[ a/DT small/JJ middle/JJ fraction/NN ]
+being/VBG retained/VBN in/IN 
+[ each/DT distillation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT purified/VBN product/NN ]
+was/VBD stored/VBN at/IN 
+[ -78-degrees/CD|NN ]
+in/IN 
+[ a/DT tube/NN ]
+equipped/VBN with/IN 
+[ a/DT break/NN seal/NN ]
+./. 
+==================================
+Of/IN 
+[ several/JJ methods/NNS ]
+employed/VBN for/IN 
+[ tagging/VBG chlorine/NN ]
+with/IN 
+[ radiochlorine/NN ]
+,/, 
+[ the/DT exchange/NN ]
+of/IN 
+[ inactive/JJ chlorine/NN ]
+with/IN 
+[ tagged/JJ aluminum/NN chloride/NN ]
+at/IN 
+[ room/NN temperature/NN ]
+was/VBD found/VBN to/TO be/VB 
+[ the/DT most/RBS satisfactory/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO prepare/VB 
+[ the/DT latter/NN ]
+,/, 
+[ silver/NN chloride/NN ]
+was/VBD precipitated/VBN from/IN 
+[ a/DT solution/NN ]
+containing/VBG 
+[ A[fj]/SYM ]
+obtained/VBN from/IN 
+[ the/DT Oak/NNP Ridge/NNP National/NNP Laboratory/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT silver/NN chloride/NN ]
+was/VBD fused/VBN under/IN 
+[ vacuum/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ aluminum/NN chips/NNS ]
+with/IN 
+[ the/DT resultant/JJ product/NN ]
+of/IN 
+[ A[fj]/SYM ]
+
+[ which/WDT ]
+was/VBD sublimed/VBN into/IN 
+[ a/DT flask/NN ]
+on/IN 
+[ the/DT vacuum/NN line/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Previously/RB purified/VBN 
+[ chlorine/NN ]
+was/VBD subsequently/RB admitted/VBN and/CC 
+[ the/DT exchange/NN ]
+was/VBD allowed/VBN to/TO take/VB 
+[ place/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT radiochlorine/NN ]
+was/VBD stored/VBN at/IN 
+[ -78-degrees/CD|NN ]
+in/IN 
+[ a/DT tube/NN ]
+equipped/VBN with/IN 
+[ a/DT break/NN seal/NN ]
+./. 
+==================================
+
+[ Liter/NN quantities/NNS ]
+of/IN 
+[ Mallinckrodt/NNP ]
+,/, 
+[ low/JJ sulfur/NN ]
+,/, 
+[ reagent/NN grade/NN carbon/NN tetrachloride/NN ]
+were/VBD saturated/VBN with/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+and/CC illuminated/VBD for/IN about/IN 
+[ 50/CD hours/NNS ]
+with/IN 
+[ a/DT 1000/CD watt/NN tungsten/NN lamp/NN ]
+at/IN 
+[ a/DT distance/NN ]
+of/IN 
+[ a/DT few/JJ inches/NN ] 
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT mixture/NN ]
+was/VBD then/RB extracted/VBN with/IN 
+[ alkali/NN ]
+and/CC with/IN 
+[ water/NN ]
+following/VBG 
+[ which/WDT ]
+
+[ the/DT carbon/NN tetrachloride/NN ]
+was/VBD distilled/VBN on/IN 
+[ a/DT Vigreux/NNP column/NN ]
+,/, 
+[ a/DT 25/CD %/NN center/NN ]
+cut/NN being/VBG retained/VBN 
+[ which/WDT ]
+was/VBD then/RB degassed/VBN under/IN 
+[ vacuum/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Purified/VBN 
+[ inactive/JJ chlorine/NN ]
+was/VBD then/RB added/VBN from/IN 
+[ one/CD ]
+of/IN 
+[ the/DT tubes/NNS ]
+described/VBN above/IN and/CC 
+[ the/DT mixture/NN ]
+frozen/VBN out/IN and/CC sealed/VBN off/IN in/IN 
+[ a/DT flask/NN ]
+equipped/VBN with/IN 
+[ a/DT break/NN seal/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT chlorine-carbon/NN tetrachloride/NN solution/NN ]
+was/VBD illuminated/VBN for/IN 
+[ a/DT day/NN ]
+following/VBG 
+[ which/WDT ]
+
+[ the/DT flask/NN ]
+was/VBD resealed/VBN onto/IN 
+[ a/DT vacuum/NN system/NN ]
+and/CC 
+[ the/DT excess/JJ chlorine/NN ]
+distilled/VBN off/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT required/VBN amount/NN ]
+of/IN 
+[ carbon/NN tetrachloride/NN ]
+was/VBD distilled/VBN into/IN 
+[ a/DT series/NN ]
+of/IN 
+[ reaction/NN cells/NNS ]
+on/IN 
+[ a/DT manifold/NN ]
+on/IN 
+[ a/DT vacuum/NN line/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT desired/VBN amounts/NNS ]
+of/IN 
+[ inactive/JJ chlorine/NN ]
+and/CC 
+[ radioactive/JJ chlorine/NN ]
+were/VBD likewise/RB condensed/VBN in/IN 
+[ these/DT cells/NNS ]
+on/IN 
+[ the/DT vacuum/NN line/NN ]
+following/VBG 
+[ which/WDT ]
+
+[ they/PRP ]
+were/VBD frozen/VBN down/IN and/CC 
+[ the/DT manifold/NN ]
+as/IN 
+[ a/DT whole/NN ]
+was/VBD sealed/VBN off/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT contents/NNS ]
+of/IN 
+[ the/DT manifold/NN ]
+for/IN 
+[ liquid/NN phase/NN experiments/NNS ]
+were/VBD then/RB mixed/VBN by/IN shaking/VBG ,/, redistributed/VBN to/TO 
+[ the/DT reaction/NN tubes/NNS ]
+,/, frozen/VBN down/IN ,/, and/CC 
+[ each/DT tube/NN ]
+was/VBD then/RB sealed/VBN off/IN ./. 
+==================================
+
+[ The/DT reactants/NNS ]
+for/IN 
+[ the/DT gas/NN phase/NN experiments/NNS ]
+were/VBD first/RB frozen/VBN out/IN in/IN 
+[ a/DT side-arm/NN ]
+attached/VBN to/TO 
+[ the/DT manifold/NN ]
+and/CC then/RB allowed/VBN to/TO distil/VB slowly/RB into/IN 
+[ the/DT manifold/NN ]
+of/IN 
+[ pre-cooled/JJ reaction/NN cells/NNS ]
+before/IN sealing/VBG off/IN ./. 
+==================================
+
+[ This/DT method/NN ]
+in/IN 
+[ general/JJ ]
+solved/VBD 
+[ the/DT problem/NN ]
+of/IN obtaining/VBG fairly/RB 
+[ equal/JJ concentrations/NNS ]
+of/IN 
+[ reactants/NNS ]
+in/IN 
+[ each/DT ]
+of/IN 
+[ the/DT six/CD cells/NNS ]
+from/IN 
+[ a/DT set/NN ]
+./. 
+==================================
+
+[ Reaction/NN conditions/NNS ]
+and/CC 
+[ analysis/NN ]
+./. 
+==================================
+--/: 
+[ The/DT samples/NNS ]
+for/IN 
+[ liquid/NN phase/NN thermal/JJ reaction/NN studies/NNS ]
+were/VBD prepared/VBN in/IN 
+[ Pyrex/NNP capillary/NN tubing/NN 2.5/CD mm./NN i.d./NN ]
+and/CC about/IN 
+[ 15/CD cm./NN ]
+long/JJ ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ a/DT few/JJ experiments/NNS ]
+
+[ the/DT tubes/NNS ]
+were/VBD made/VBN from/IN 
+[ standard/JJ 6/CD mm./NN i.d/NN ]
+./. 
+==================================
+
+[ Pyrex/NNP tubing/NN ]
+of/IN 
+[ 1/CD mm./NN wall/NN thickness/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+
+[ types/NNS ]
+of/IN 
+[ tube/NN ]
+withstood/VBD 
+[ the/DT pressure/NN ]
+of/IN approximately/RB 
+[ 20/CD atmospheres/NNS ]
+exerted/VBN by/IN 
+[ the/DT carbon/NN tetrachloride/NN ]
+at/IN 
+[ 220-degrees/CD|NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT photochemical/JJ reaction/NN cells/NNS ]
+consisted/VBD of/IN 
+[ 10/CD mm./NN i.d/NN ]
+./. 
+==================================
+
+[ Pyrex/NNP tubing/NN ]
+,/, 
+[ 5.5/CD cm./NN long/JJ ]
+,/, 
+[ diffraction/NN effects/NNS ]
+being/VBG minimized/VBN by/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT light/NN ]
+passed/VBN through/IN 
+[ only/JJ liquid-glass/NN interfaces/NNS ]
+and/CC not/RB 
+[ gas-glass/NN interfaces/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT cells/NNS ]
+were/VBD used/VBN rather/RB than/IN 
+[ square/JJ Pyrex/NNP tubing/NN ]
+because/IN of/IN 
+[ the/DT tendency/NN ]
+of/IN 
+[ the/DT latter/NN ]
+to/TO shatter/VB when/WRB thawing/VBG 
+[ frozen/VBN carbon/NN tetrachloride/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT round/JJ cells/NNS ]
+were/VBD reproducibly/RB positioned/VBN in/IN 
+[ the/DT light/NN beam/NN ]
+
+[ which/WDT ]
+entered/VBD 
+[ the/DT thermostated/VBN mineral/NN oil-bath/NN ]
+through/IN 
+[ a/DT window/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Two/CD types/NNS ]
+of/IN 
+[ light/NN source/NN ]
+were/VBD used/VBN ,/, 
+[ a/DT thousand/CD watt/NN projection/NN lamp/NN ]
+and/CC 
+[ an/DT AH6/CD high/JJ pressure/NN mercury/NN arc/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT light/NN ]
+was/VBD filtered/VBN by/IN 
+[ the/DT soft/JJ glass/NN window/NN ]
+of/IN 
+[ the/DT thermostat/NN ]
+thus/RB ensuring/VBG 
+[ that/DT only/JJ light/NN ]
+absorbed/VBN by/IN 
+[ the/DT chlorine/NN ]
+and/CC not/RB by/IN 
+[ the/DT carbon/NN tetrachloride/NN ]
+could/MD enter/VB 
+[ the/DT reaction/NN cell/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Relative/JJ incident/NN light/NN intensities/NNS ]
+were/VBD measured/VBN with/IN 
+[ a/DT thermopile/NN potentiometer/NN system/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Changes/NNS ]
+of/IN 
+[ intensity/NN ]
+on/IN 
+[ the/DT cell/NN ]
+were/VBD achieved/VBN by/IN 
+[ use/NN ]
+of/IN 
+[ a/DT wire/NN screen/NN ]
+and/CC by/IN varying/VBG 
+[ the/DT distance/NN ]
+of/IN 
+[ the/DT light/NN source/NN ]
+from/IN 
+[ the/DT cell/NN ]
+./. 
+==================================
+Following/VBG 
+[ reaction/NN ]
+
+[ the/DT cells/NNS ]
+were/VBD scratched/VBN with/IN 
+[ a/DT file/NN ]
+and/CC opened/VBN under/IN 
+[ a/DT 20/CD %/NN aqueous/JJ sodium/NN iodide/NN solution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Carrier/NNP A[fj]/SYM ]
+was/VBD added/VBN and/CC 
+[ the/DT aqueous/JJ ]
+and/CC 
+[ organic/JJ phases/NNS ]
+were/VBD separated/VBN (/( 
+[ cells/NNS ]
+containing/VBG 
+[ gaseous/JJ reactants/NNS ]
+were/VBD immersed/VBN in/IN 
+[ liquid/NN air/NN ]
+before/IN opening/VBG under/IN 
+[ sodium/NN iodide/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+After/IN 
+[ titration/NN ]
+of/IN 
+[ the/DT liberated/VBN A[fj]/SYM ]
+with/IN 
+[ A[fj]/SYM ]
+,/, 
+[ aliquots/NNS ]
+of/IN 
+[ the/DT aqueous/JJ ]
+and/CC of/IN 
+[ the/DT organic/JJ phase/NN ]
+were/VBD counted/VBN in/IN 
+[ a/DT solution-type/JJ Geiger/NN tube/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT liquid/NN phase/NN ]
+runs/NNS 
+[ the/DT amount/NN ]
+of/IN 
+[ carbon/NN tetrachloride/NN ]
+in/IN 
+[ each/DT reaction/NN tube/NN ]
+was/VBD determined/VBN by/IN weighing/VBG 
+[ the/DT tube/NN ]
+before/IN opening/VBG and/CC weighing/VBG 
+[ the/DT fragments/NNS ]
+after/IN emptying/VBG ./. 
+==================================
+
+[ The/DT fraction/NN ]
+of/IN 
+[ exchange/NN ]
+was/VBD determined/VBN as/IN 
+[ the/DT ratio/NN ]
+of/IN 
+[ the/DT counts/NNS minute/NN ]
+observed/VBN in/IN 
+[ the/DT carbon/NN tetrachloride/NN ]
+to/TO 
+[ the/DT counts/NNS minute/NN ]
+calculated/VBN for/IN 
+[ the/DT carbon/NN tetrachloride/NN fractions/NNS ]
+for/IN 
+[ equilibrium/NN distribution/NN ]
+of/IN 
+[ the/DT activity/NN ]
+between/IN 
+[ the/DT chlorine/NN ]
+and/CC 
+[ carbon/NN tetrachloride/NN ]
+,/, empirically/RB determined/VBN 
+[ correction/NN being/NN ]
+made/VBN for/IN 
+[ the/DT difference/NN ]
+in/IN 
+[ counting/VBG efficiency/NN ]
+of/IN 
+[ A[fj]/SYM ]
+in/IN 
+[ A[fj]/SYM ]
+and/CC 
+[ A[fj]/SYM ]
+./. 
+==================================
+Results/NNS 
+[ the/DT thermal/JJ reaction/NN ]
+./. 
+==================================
+--/: In/IN studying/VBG 
+[ the/DT liquid/NN phase/NN thermal/JJ reaction/NN ]
+,/, 
+[ some/DT 70/CD tubes/NNS ]
+from/IN 
+[ 12/CD different/JJ manifold/JJ fillings/NNS ]
+were/VBD prepared/VBN and/CC analyzed/VBN ./. 
+==================================
+
+[ Experiments/NNS ]
+were/VBD done/VBN at/IN 
+[ 180/CD ]
+,/, 
+[ 200/CD ]
+,/, 
+[ 210/CD ]
+,/, and/CC 
+[ 220-degrees/CD|NN ]
+./. 
+==================================
+
+==================================
+==================================
+Following/VBG 
+[ observation/NN ]
+of/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT reaction/NN ]
+rates/NNS of/IN supposedly/RB 
+[ identical/JJ reaction/NN mixtures/NNS ]
+prepared/VBN on/IN 
+[ the/DT same/JJ filling/NN manifold/NN ]
+and/CC exposed/VBN under/IN 
+[ identical/JJ conditions/NNS ]
+often/RB differed/VBD by/IN 
+[ several/JJ hundred/CD ]
+per/IN 
+[ cent/NN ]
+,/, 
+[ a/DT systematic/JJ series/NN ]
+of/IN 
+[ experiments/NNS ]
+was/VBD undertaken/VBN to/TO see/VB whether/IN 
+[ the/DT difficulty/NN ]
+could/MD be/VB ascribed/VBN to/TO 
+[ the/DT method/NN ]
+of/IN preparing/VBG 
+[ the/DT chlorine/NN ]
+,/, to/TO 
+[ the/DT effects/NNS ]
+of/IN 
+[ oxygen/NN ]
+or/CC 
+[ moisture/NN ]
+or/CC to/TO 
+[ the/DT effect/NN ]
+of/IN 
+[ surface/NN ]
+to/TO 
+[ volume/NN ratio/NN ]
+in/IN 
+[ the/DT reaction/NN tubes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT method/NN ]
+described/VBN in/IN 
+[ the/DT section/NN ]
+above/IN ,/, 
+[ chlorine/NN ]
+and/CC 
+[ radiochlorine/NN ]
+were/VBD prepared/VBN by/IN 
+[ the/DT electrolysis/NN ]
+of/IN 
+[ a/DT A[fj]/SYM eutectic/NN ]
+on/IN 
+[ the/DT vacuum/NN line/NN ]
+,/, and/CC by/IN 
+[ exchange/NN ]
+of/IN 
+[ A[fj]/SYM ]
+with/IN 
+[ molten/JJ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Calcium/NN hydride/NN ]
+was/VBD substituted/VBN for/IN 
+[ A[fj]/SYM ]
+as/IN 
+[ a/DT drying/VBG agent/NN ]
+for/IN 
+[ carbon/NN tetrachloride/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT correlation/NN ]
+between/IN 
+[ these/DT variables/NNS ]
+and/CC 
+[ the/DT irreproducibility/NN ]
+of/IN 
+[ the/DT results/NNS ]
+was/VBD found/VBN ./. 
+==================================
+
+[ The/DT reaction/NN rates/NNS ]
+observed/VBN at/IN 
+[ 200-degrees/CD|NN ]
+ranged/VBD from/IN 
+[ A[fj]/SYM ]
+of/IN 
+[ the/DT chlorine/NN ]
+exchanged/VBN per/IN 
+[ hour/NN ]
+to/TO 
+[ 0.7/CD ]
+exchanged/VBD per/IN 
+[ hour/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ most/JJS cases/NNS ]
+
+[ the/DT chlorine/NN concentration/NN ]
+was/VBD about/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Sets/NNS ]
+of/IN 
+[ reaction/NN tubes/NNS ]
+containing/VBG 
+[ 0.2/CD ]
+of/IN 
+[ an/DT atmosphere/NN ]
+of/IN 
+[ added/VBN oxygen/NN ]
+in/IN 
+[ one/CD case/NN ]
+and/CC added/VBD 
+[ moisture/NN ]
+in/IN 
+[ another/DT ]
+,/, 
+[ both/DT ]
+gave/VBD 
+[ reaction/NN rates/NNS ]
+in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 0.1/CD ]
+to/TO 
+[ 0.4/CD ]
+of/IN 
+[ the/DT chlorine/NN ]
+exchanged/VBN per/IN 
+[ hour/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT detectable/JJ reaction/NN ]
+was/VBD found/VBN at/IN 
+[ room/NN temperature/NN ]
+for/IN 
+[ reaction/NN mixtures/NNS ]
+allowed/VBN to/TO stand/VB up/IN to/TO 
+[ 5/CD hours/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT liquid/NN phase/NN photochemical/JJ reaction/NN ]
+./. 
+==================================
+
+[ The/DT liquid/NN phase/NN photochemical/JJ exchange/NN ]
+between/IN 
+[ chlorine/NN ]
+and/CC 
+[ carbon/NN tetrachloride/NN ]
+was/VBD more/RBR reproducible/JJ than/IN 
+[ the/DT thermal/JJ exchange/NN ]
+,/, although/IN still/RB erratic/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT improvement/NN ]
+was/VBD most/RBS noticeable/JJ in/IN 
+[ the/DT greater/JJR consistency/NN ]
+among/IN 
+[ reaction/NN cells/NNS ]
+prepared/VBN as/IN 
+[ a/DT group/NN ]
+on/IN 
+[ the/DT same/JJ manifold/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Rather/RB 
+[ large/JJ differences/NNS ]
+were/VBD still/RB found/VBN between/IN 
+[ reaction/NN cells/NNS ]
+from/IN 
+[ different/JJ manifold/NN fillings/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT 80/CD reaction/NN tubes/NNS ]
+from/IN 
+[ 13/CD manifold/NN fillings/NNS ]
+were/VBD illuminated/VBN in/IN 
+[ the/DT temperature/NN range/NN ]
+from/IN 
+[ 40/CD ]
+to/TO 
+[ 85-degrees/CD|NN ]
+in/IN 
+[ a/DT further/JJR endeavor/NN ]
+to/TO determine/VB 
+[ the/DT cause/NN ]
+of/IN 
+[ the/DT irreproducibility/NN ]
+and/CC to/TO obtain/VB 
+[ information/NN ]
+on/IN 
+[ the/DT activation/NN energy/NN ]
+and/CC 
+[ the/DT effect/NN ]
+of/IN 
+[ light/NN intensity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ all/DT cases/NNS ]
+
+[ there/EX ]
+was/VBD readily/RB 
+[ measurable/JJ exchange/NN ]
+after/IN as/RB little/JJ as/IN 
+[ one/CD hour/NN ]
+of/IN 
+[ illumination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+By/IN 
+[ comparing/VBG reaction/NN cells/NNS ]
+sealed/VBN from/IN 
+[ the/DT same/JJ manifold/NN temperature/NN dependency/NN ]
+corresponding/JJ to/TO 
+[ activation/NN energies/NNS ]
+ranging/VBG from/IN 
+[ 11/CD ]
+to/TO 
+[ 18/CD A[fj]/SYM ]
+was/VBD observed/VBN while/IN 
+[ dependence/NN ]
+on/IN 
+[ the/DT first/JJ power/NN ]
+of/IN 
+[ the/DT light/NN intensity/NN ]
+seemed/VBD to/TO be/VB indicated/VBN in/IN 
+[ most/JJS cases/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+was/VBD possible/JJ to/TO make/VB 
+[ estimates/NNS ]
+of/IN 
+[ the/DT quantum/NN yield/NN ]
+by/IN observing/VBG 
+[ the/DT extent/NN ]
+of/IN 
+[ reduction/NN ]
+of/IN 
+[ a/DT uranyl/NN oxalate/NN actinometer/NN solution/NN ]
+illuminated/VBN for/IN 
+[ a/DT known/VBN time/NN ]
+in/IN 
+[ a/DT typical/JJ reaction/NN cell/NN ]
+and/CC making/VBG 
+[ appropriate/JJ conversions/NNS ]
+based/VBN on/IN 
+[ the/DT differences/NNS ]
+in/IN 
+[ the/DT absorption/NN spectra/NNS ]
+of/IN 
+[ uranyl/NN oxalate/NN ]
+and/CC of/IN 
+[ chlorine/NN ]
+,/, and/CC considering/VBG 
+[ the/DT spectral/JJ distribution/NN ]
+of/IN 
+[ the/DT light/NN source/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT estimates/NNS ]
+indicated/VBD that/IN 
+[ the/DT quantum/NN yield/NN ]
+for/IN 
+[ the/DT exchange/NN ]
+of/IN 
+[ chlorine/NN ]
+with/IN 
+[ liquid/NN carbon/NN tetrachloride/NN ]
+at/IN 
+[ 65-degrees/CD|NN ]
+is/VBZ of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ magnitude/NN ]
+of/IN 
+[ unity/NN ]
+./. 
+==================================
+When/WRB 
+[ typical/JJ reaction/NN cells/NNS ]
+to/TO 
+[ which/WDT ]
+
+[ 0.3/CD ]
+of/IN 
+[ an/DT atmosphere/NN ]
+of/IN 
+[ oxygen/NN ]
+had/VBD been/VBN added/VBN were/VBD illuminated/VBN ,/, 
+[ chlorine/NN ]
+and/CC 
+[ phosgene/NN ]
+were/VBD produced/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Exchange/NN ]
+was/VBD also/RB observed/VBN in/IN 
+[ these/DT cells/NNS ]
+,/, 
+[ which/WDT ]
+had/VBD 
+[ chlorine/NN ]
+present/JJ at/IN 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT photochemical/JJ exchange/NN ]
+in/IN 
+[ the/DT gas/NN phase/NN ]
+./. 
+==================================
+--/: Although/IN 
+[ there/EX ]
+was/VBD 
+[ some/DT variation/NN ]
+in/IN 
+[ results/NNS ]
+
+[ which/WDT ]
+must/MD be/VB attributed/VBN either/CC to/TO trace/JJ 
+[ impurities/NNS ]
+or/CC to/TO 
+[ variation/NN ]
+in/IN 
+[ wall/NN effects/NNS ]
+,/, 
+[ the/DT photochemical/JJ exchange/NN ]
+in/IN 
+[ the/DT gas/NN phase/NN ]
+was/VBD sufficiently/RB reproducible/JJ so/RB that/IN 
+[ it/PRP ]
+seemed/VBD meaningful/JJ to/TO compare/VB 
+[ the/DT reaction/NN rates/NNS ]
+in/IN 
+[ different/JJ series/NN ]
+of/IN 
+[ reaction/NN tubes/NNS ]
+for/IN 
+[ the/DT purpose/NN ]
+of/IN 
+[ obtaining/VBG information/NN ]
+on/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ chlorine/NN concentration/NN ]
+and/CC of/IN 
+[ carbon/NN tetrachloride/NN concentration/NN ]
+on/IN 
+[ the/DT reaction/NN rate/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Data/NNS ]
+on/IN 
+[ such/JJ comparisons/NNS ]
+together/RB with/IN 
+[ data/NNS ]
+on/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ light/NN intensity/NN ]
+are/VBP given/VBN in/IN 
+[ Table/NN 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+,/, In/IN 
+[ series/NN 1/CD ]
+,/, 
+[ the/DT relative/JJ light/NN intensity/NN ]
+was/VBD varied/VBN by/IN varying/VBG 
+[ the/DT distance/NN ]
+of/IN 
+[ the/DT lamp/NN ]
+from/IN 
+[ the/DT reaction/NN cell/NN ]
+over/IN 
+[ the/DT range/NN ]
+from/IN 
+[ 14.7/CD ]
+to/TO 
+[ 29.2/CD cm./NN ]
+./. 
+[ The/DT last/JJ column/NN ]
+shows/VBZ 
+[ the/DT rate/NN ]
+of/IN 
+[ exchange/NN ]
+
+[ that/WP ]
+would/MD have/VB been/VBN observed/VBN at/IN 
+[ a/DT relative/JJ intensity/NN ]
+of/IN 
+[ 4/CD ]
+(/( 
+[ 14.7/CD cm./NN distance/NN ]
+)/) calculated/VBN on/IN 
+[ the/DT assumptions/NNS ]
+that/IN 
+[ the/DT incident/JJ light/NN intensity/NN ]
+is/VBZ inversely/RB proportional/JJ to/TO 
+[ the/DT square/NN ]
+of/IN 
+[ the/DT distance/NN ]
+of/IN 
+[ the/DT lamp/NN ]
+from/IN 
+[ the/DT cell/NN ]
+and/CC that/IN 
+[ the/DT rate/NN ]
+is/VBZ directly/RB proportional/JJ to/TO 
+[ the/DT incident/JJ light/NN intensity/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Direct/JJ proportionality/NN ]
+of/IN 
+[ the/DT rate/NN ]
+to/TO 
+[ the/DT incident/JJ intensity/NN ]
+has/VBZ also/RB been/VBN assumed/VBN in/IN obtaining/VBG 
+[ the/DT value/NN ]
+in/IN 
+[ the/DT last/JJ column/NN ]
+for/IN 
+[ the/DT fourth/JJ sample/NN ]
+of/IN 
+[ series/NN 2/CD ]
+,/, where/WRB 
+[ the/DT light/NN intensity/NN ]
+was/VBD reduced/VBN by/IN 
+[ use/NN ]
+of/IN 
+[ a/DT screen/NN ]
+./. 
+==================================
+==================================
+==================================

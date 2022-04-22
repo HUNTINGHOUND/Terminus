@@ -1,0 +1,1843 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ 7-1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Examples/NNS ]
+of/IN 
+[ binomial/NN experiments/NNS ]
+
+[ Some/DT experiments/NNS ]
+are/VBP composed/VBN of/IN 
+[ repetitions/NNS ]
+of/IN 
+[ independent/JJ trials/NNS ]
+,/, 
+[ each/DT ]
+with/IN 
+[ two/CD possible/JJ outcomes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT binomial/NN probability/NN distribution/NN ]
+may/MD describe/VB 
+[ the/DT variation/NN ]
+
+[ that/WP ]
+occurs/VBZ from/IN 
+[ one/CD set/NN ]
+of/IN 
+[ trials/NNS ]
+of/IN 
+[ such/JJ a/DT binomial/NN experiment/NN ]
+to/TO 
+[ another/DT ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+devote/VBP 
+[ a/DT chapter/NN ]
+to/TO 
+[ the/DT binomial/NN distribution/NN ]
+not/RB only/RB because/IN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT mathematical/JJ model/NN ]
+for/IN 
+[ an/DT enormous/JJ variety/NN ]
+of/IN 
+[ real/JJ life/NN phenomena/NNS ]
+,/, but/CC also/RB because/IN 
+[ it/PRP ]
+has/VBZ 
+[ important/JJ properties/NNS ]
+
+[ that/WP ]
+recur/VBP in/IN 
+[ many/JJ other/JJ probability/NN models/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+begin/VBP with/IN 
+[ a/DT few/JJ examples/NNS ]
+of/IN 
+[ binomial/NN experiments/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Marksmanship/NN example/NN ]
+./. 
+==================================
+
+[ A/DT trained/VBN marksman/NN ]
+shooting/VBG 
+[ five/CD rounds/NNS ]
+at/IN 
+[ a/DT target/NN ]
+,/, 
+[ all/DT ]
+under/IN practically/RB 
+[ the/DT same/JJ conditions/NNS ]
+,/, may/MD hit/VB 
+[ the/DT bull's-eye/NN ]
+from/IN 
+[ 0/CD ]
+to/TO 
+[ 5/CD times/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ repeated/VBN sets/NNS ]
+of/IN 
+[ five/CD shots/NNS his/PRP$ numbers/NNS ]
+of/IN 
+[ bull's-eyes/NNS ]
+vary/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ What/WP ]
+can/MD 
+[ we/PRP ]
+say/VB of/IN 
+[ the/DT probabilities/NNS ]
+of/IN 
+[ the/DT different/JJ possible/JJ numbers/NNS ]
+of/IN 
+[ bull's-eyes/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Inheritance/NN ]
+in/IN 
+[ mice/NNS ]
+./. 
+==================================
+In/IN 
+[ litters/NNS ]
+of/IN 
+[ eight/CD mice/NNS ]
+from/IN 
+[ similar/JJ parents/NNS ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ mice/NNS ]
+with/IN 
+[ straight/JJ ]
+instead/RB of/IN 
+[ wavy/JJ hair/NN ]
+is/VBZ 
+[ an/DT integer/NN ]
+from/IN 
+[ 0/CD ]
+to/TO 
+[ 8/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ What/WDT probabilities/NNS ]
+should/MD be/VB attached/VBN to/TO 
+[ these/DT possible/JJ outcomes/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Aces/NNS ]
+(/( 
+[ ones/NNS ]
+)/) with/IN 
+[ three/CD dice/NNS ]
+./. 
+==================================
+When/WRB 
+[ three/CD dice/NNS ]
+are/VBP tossed/VBN repeatedly/RB ,/, 
+[ what/WP ]
+is/VBZ 
+[ the/DT probability/NN ]
+that/IN 
+[ the/DT number/NN ]
+of/IN 
+[ aces/NNS ]
+is/VBZ 
+[ 0/CD ]
+(/( or/CC 
+[ 1/CD ]
+,/, or/CC 
+[ 2/CD ]
+,/, or/CC 
+[ 3/CD ]
+)/) ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ General/JJ binomial/NN problem/NN ]
+./. 
+==================================
+More/RBR generally/RB ,/, suppose/VB that/IN 
+[ an/DT experiment/NN ]
+consists/VBZ of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ independent/JJ trials/NNS ]
+,/, that/IN 
+[ each/DT trial/NN ]
+results/VBZ in/IN 
+[ either/DT ]
+
+[ a/DT ]
+``/`` 
+[ success/NN ]
+''/'' or/CC 
+[ a/DT ]
+``/`` 
+[ non-success/NN ]
+''/'' (/( ``/`` 
+[ failure/NN ]
+''/'' )/) ,/, and/CC that/IN 
+[ the/DT probability/NN ]
+of/IN 
+[ success/NN remains/VBZ ]
+constant/JJ from/IN 
+[ trial/NN ]
+to/TO 
+[ trial/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT examples/NNS ]
+above/IN ,/, 
+[ the/DT occurrence/NN ]
+of/IN 
+[ a/DT bull's-eye/NN ]
+,/, 
+[ a/DT straight-haired/JJ mouse/NN ]
+,/, or/CC 
+[ an/DT ace/NN ]
+could/MD be/VB called/VBN 
+[ a/DT ]
+``/`` 
+[ success/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ general/JJ ]
+,/, 
+[ any/DT outcome/NN ]
+
+[ we/PRP ]
+choose/VBP may/MD be/VB labeled/VBN ``/`` 
+[ success/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT major/JJ question/NN ]
+in/IN 
+[ this/DT chapter/NN ]
+is/VBZ :/: 
+[ What/WP ]
+is/VBZ 
+[ the/DT probability/NN ]
+of/IN exactly/RB 
+[ X/NN successes/NNS ]
+in/IN 
+[ N/NN trials/NNS ]
+?/. ?/. 
+==================================
+In/IN 
+[ Chapters/NNS 3/CD ]
+and/CC 
+[ 4/CD ]
+
+[ we/PRP ]
+answered/VBD 
+[ questions/NNS ]
+like/IN 
+[ those/DT ]
+in/IN 
+[ the/DT examples/NNS ]
+,/, usually/RB by/IN counting/VBG 
+[ points/NNS ]
+in/IN 
+[ a/DT sample/NN space/NN ]
+./. 
+==================================
+Fortunately/RB ,/, 
+[ a/DT general/JJ formula/NN ]
+of/IN 
+[ wide/JJ applicability/NN ]
+solves/VBZ 
+[ all/DT problems/NNS ]
+of/IN 
+[ this/DT kind/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Before/IN deriving/VBG 
+[ this/DT formula/NN ]
+,/, 
+[ we/PRP ]
+explain/VBP 
+[ what/WP ]
+
+[ we/PRP ]
+mean/VBP by/IN ``/`` 
+[ problems/NNS ]
+of/IN 
+[ this/DT kind/NN ]
+''/'' ./. 
+==================================
+
+[ Experiments/NNS ]
+are/VBP often/RB composed/VBN of/IN 
+[ several/JJ identical/JJ trials/NNS ]
+,/, and/CC sometimes/RB 
+[ experiments/NNS themselves/PRP ]
+are/VBP repeated/VBN ./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT marksmanship/NN example/NN ]
+,/, 
+[ a/DT trial/NN ]
+consists/VBZ of/IN ``/`` 
+[ one/CD round/JJ shot/NN ]
+at/IN 
+[ a/DT target/NN ]
+''/'' with/IN 
+[ outcome/NN ]
+either/CC 
+[ one/CD bull's-eye/NN ]
+(/( 
+[ success/NN ]
+)/) or/CC 
+[ none/NN ]
+(/( 
+[ failure/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+Further/RB ,/, 
+[ an/DT experiment/NN ]
+might/MD consist/VB of/IN 
+[ five/CD rounds/NNS ]
+,/, and/CC 
+[ several/JJ sets/NNS ]
+of/IN 
+[ five/CD rounds/NNS ]
+might/MD be/VB regarded/VBN as/IN 
+[ a/DT super-experiment/NN ]
+composed/VBN of/IN 
+[ several/JJ repetitions/NNS ]
+of/IN 
+[ the/DT five-round/JJ experiment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+If/IN 
+[ three/CD dice/NNS ]
+are/VBP tossed/VBN ,/, 
+[ a/DT trial/NN ]
+is/VBZ 
+[ one/CD toss/NN ]
+of/IN 
+[ one/CD die/NN ]
+and/CC 
+[ the/DT experiment/NN ]
+is/VBZ composed/VBN of/IN 
+[ three/CD trials/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Or/CC ,/, 
+[ what/WP ]
+amounts/VBZ to/TO 
+[ the/DT same/JJ thing/NN ]
+,/, if/IN 
+[ one/CD die/NN ]
+is/VBZ tossed/VBN 
+[ three/CD times/NNS ]
+,/, 
+[ each/DT toss/NN ]
+is/VBZ 
+[ a/DT trial/NN ]
+,/, and/CC 
+[ the/DT three/CD tosses/NNS ]
+form/VBP 
+[ the/DT experiment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Mathematically/RB ,/, 
+[ we/PRP ]
+shall/MD not/RB distinguish/VB 
+[ the/DT experiment/NN ]
+of/IN 
+[ three/CD dice/NNS ]
+tossed/VBD once/RB from/IN 
+[ that/DT ]
+of/IN 
+[ one/CD die/NN ]
+tossed/VBD 
+[ three/CD times/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT examples/NNS ]
+are/VBP illustrative/JJ of/IN 
+[ the/DT use/NN ]
+of/IN 
+[ the/DT words/NNS ]
+``/`` 
+[ trial/NN ]
+''/'' and/CC ``/`` 
+[ experiment/NN ]
+''/'' as/IN 
+[ they/PRP ]
+are/VBP used/VBN in/IN 
+[ this/DT chapter/NN ]
+,/, but/CC 
+[ they/PRP ]
+are/VBP quite/RB 
+[ flexible/JJ words/NNS ]
+and/CC 
+[ it/PRP ]
+is/VBZ well/RB not/RB to/TO restrict/VB 
+[ them/PRP ]
+too/RB narrowly/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Example/NN 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Student/NN football/NN managers/NNS ]
+./. 
+==================================
+
+[ Ten/CD students/NNS ]
+act/VBP as/IN 
+[ managers/NNS ]
+for/IN 
+[ a/DT high-school/NN football/NN team/NN ]
+,/, and/CC of/IN 
+[ these/DT managers/NNS ]
+
+[ a/DT proportion/NN P/NN ]
+are/VBP 
+[ licensed/JJ drivers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT Friday/NNP one/CD manager/NN ]
+is/VBZ chosen/VBN by/IN 
+[ lot/NN ]
+to/TO stay/VB late/RB and/CC load/VB 
+[ the/DT equipment/NN ]
+on/IN 
+[ a/DT truck/NN ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ three/CD Fridays/NNPS ]
+
+[ the/DT coach/NN ]
+has/VBZ needed/VBN 
+[ a/DT driver/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Considering/VBG only/RB 
+[ these/DT Fridays/NNPS ]
+,/, 
+[ what/WP ]
+is/VBZ 
+[ the/DT probability/NN ]
+that/IN 
+[ the/DT coach/NN ]
+had/VBD 
+[ drivers/NNS all/DT 3/CD times/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Exactly/RB 
+[ 2/CD times/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ 1/CD time/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ 0/CD times/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Discussion/NN ]
+./. 
+==================================
+Note/VB that/IN 
+[ there/EX ]
+are/VBP 
+[ 3/CD trials/NNS ]
+of/IN 
+[ interest/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT trial/NN ]
+consists/VBZ of/IN choosing/VBG 
+[ a/DT student/NN manager/NN ]
+at/IN 
+[ random/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT 2/CD possible/JJ outcomes/NNS ]
+on/IN 
+[ each/DT trial/NN ]
+are/VBP ``/`` 
+[ driver/NN ]
+''/'' or/CC ``/`` 
+[ nondriver/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ the/DT choice/NN ]
+is/VBZ by/IN 
+[ lot/NN ]
+
+[ each/DT week/NN ]
+,/, 
+[ the/DT outcomes/NNS ]
+of/IN 
+[ different/JJ trials/NNS ]
+are/VBP independent/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT managers/NNS ]
+stay/VBP 
+[ the/DT same/JJ ]
+,/, so/RB that/IN 
+[ A[fj]/SYM ]
+is/VBZ 
+[ the/DT same/JJ ]
+for/IN 
+[ all/DT weeks/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+now/RB generalize/VBP 
+[ these/DT ideas/NNS ]
+for/IN 
+[ general/JJ binomial/NN experiments/NNS ]
+./. 
+==================================
+For/IN 
+[ an/DT experiment/NN ]
+to/TO qualify/VB as/IN 
+[ a/DT binomial/NN experiment/NN ]
+,/, 
+[ it/PRP ]
+must/MD have/VB 
+[ four/CD properties/NNS ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ there/EX ]
+must/MD be/VB 
+[ a/DT fixed/VBN number/NN ]
+of/IN 
+[ trials/NNS ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ each/DT trial/NN ]
+must/MD result/VB in/IN 
+[ a/DT ]
+``/`` 
+[ success/NN ]
+''/'' or/CC 
+[ a/DT ]
+``/`` 
+[ failure/NN ]
+''/'' (/( 
+[ a/DT binomial/NN trial/NN ]
+)/) ,/, (/( 
+[ 3/LS ]
+)/) 
+[ all/DT trials/NNS ]
+must/MD have/VB 
+[ identical/JJ probabilities/NNS ]
+of/IN 
+[ success/NN ]
+,/, (/( 
+[ 4/LS ]
+)/) 
+[ the/DT trials/NNS ]
+must/MD be/VB independent/JJ of/IN 
+[ each/DT other/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+Below/IN 
+[ we/PRP ]
+use/VBP 
+[ our/PRP$ earlier/JJR examples/NNS ]
+to/TO describe/VB and/CC illustrate/VB 
+[ these/DT four/CD properties/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+also/RB give/VBP ,/, for/IN 
+[ each/DT property/NN ]
+,/, 
+[ an/DT example/NN ]
+where/WRB 
+[ the/DT property/NN ]
+is/VBZ absent/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT language/NN ]
+and/CC 
+[ notation/NN ]
+introduced/VBN are/VBP standard/JJ throughout/IN 
+[ the/DT chapter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 1/CD ]
+./. 
+==================================
+
+[ There/EX ]
+must/MD be/VB 
+[ a/DT fixed/VBN number/NN n/NN ]
+of/IN 
+[ repeated/VBN trials/NNS ]
+./. 
+==================================
+For/IN 
+[ the/DT marksman/NN ]
+,/, 
+[ we/PRP ]
+study/VBP 
+[ sets/NNS ]
+of/IN 
+[ five/CD shots/NNS ]
+(/( 
+[ A[fj]/SYM ]
+)/) ;/: ;/: for/IN 
+[ the/DT mice/NNS ]
+,/, 
+[ we/PRP ]
+restrict/VBP 
+[ attention/NN ]
+to/TO 
+[ litters/NNS ]
+of/IN 
+[ eight/CD ]
+(/( 
+[ A[fj]/SYM ]
+)/) ;/: ;/: and/CC for/IN 
+[ the/DT aces/NNS ]
+,/, 
+[ we/PRP ]
+toss/VBP 
+[ three/CD dice/NNS ]
+(/( 
+[ A[fj]/SYM ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ Experiment/NN ]
+without/IN 
+[ a/DT fixed/VBN number/NN ]
+of/IN 
+[ trials/NNS ]
+./. 
+==================================
+Toss/VB 
+[ a/DT die/NN ]
+until/IN 
+[ an/DT ace/NN ]
+appears/VBZ ./. 
+==================================
+
+==================================
+==================================
+Here/RB 
+[ the/DT number/NN ]
+of/IN 
+[ trials/NNS ]
+is/VBZ 
+[ a/DT random/JJ variable/NN ]
+,/, not/RB 
+[ a/DT fixed/VBN number/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Binomial/NN trials/NNS ]
+./. 
+==================================
+
+[ Each/DT ]
+of/IN 
+[ the/DT N/NN trials/NNS ]
+is/VBZ either/RB 
+[ a/DT success/NN ]
+or/CC 
+[ a/DT failure/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Success/NN ]
+''/'' and/CC ``/`` 
+[ failure/NN ]
+''/'' are/VBP just/RB 
+[ convenient/JJ labels/NNS ]
+for/IN 
+[ the/DT two/CD categories/NNS ]
+of/IN 
+[ outcomes/NNS ]
+when/WRB 
+[ we/PRP ]
+talk/VBP about/IN 
+[ binomial/NN trials/NNS ]
+in/IN 
+[ general/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT words/NNS ]
+are/VBP more/RBR expressive/JJ than/IN 
+[ labels/NNS ]
+like/IN ``/`` 
+[ A/NN ]
+''/'' and/CC ``/`` 
+[ not-A/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ natural/JJ ]
+from/IN 
+[ the/DT marksman/NN 's/POS viewpoint/NN ]
+to/TO call/VB 
+[ a/DT bull's-eye/NN ]
+
+[ a/DT success/NN ]
+,/, but/CC in/IN 
+[ the/DT mice/NNS example/NN ]
+
+[ it/PRP ]
+is/VBZ arbitrary/JJ 
+[ which/WDT category/NN ]
+corresponds/VBZ to/TO 
+[ straight/JJ hair/NN ]
+in/IN 
+[ a/DT mouse/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT word/NN ]
+``/`` 
+[ binomial/NN ]
+''/'' 
+[ means/VBZ ]
+``/`` of/IN 
+[ two/CD names/NNS ]
+''/'' or/CC ``/`` of/IN 
+[ two/CD terms/NNS ]
+''/'' ,/, and/CC 
+[ both/DT ]
+
+[ usages/NNS ]
+apply/VBP in/IN 
+[ our/PRP$ work/NN ]
+:/: 
+[ the/DT first/JJ ]
+to/TO 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT two/CD outcomes/NNS ]
+of/IN 
+[ a/DT binomial/NN trial/NN ]
+,/, and/CC 
+[ the/DT second/NN ]
+to/TO 
+[ the/DT terms/NNS P/NN ]
+and/CC 
+[ A[fj]/SYM ]
+
+[ that/WP ]
+represent/VBP 
+[ the/DT probabilities/NNS ]
+of/IN ``/`` 
+[ success/NN ]
+''/'' and/CC ``/`` 
+[ failure/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+Sometimes/RB when/WRB 
+[ there/EX ]
+are/VBP 
+[ many/JJ outcomes/NNS ]
+for/IN 
+[ a/DT single/JJ trial/NN ]
+,/, 
+[ we/PRP ]
+group/VBP 
+[ these/DT outcomes/NNS ]
+into/IN 
+[ two/CD classes/NNS ]
+,/, as/IN in/IN 
+[ the/DT example/NN ]
+of/IN 
+[ the/DT die/NN ]
+,/, where/WRB 
+[ we/PRP ]
+have/VBP arbitrarily/RB constructed/VBN 
+[ the/DT classes/NNS ]
+``/`` 
+[ ace/NN ]
+''/'' and/CC ``/`` 
+[ not-ace/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Experiment/NN ]
+without/IN 
+[ the/DT two-class/JJ property/NN ]
+./. 
+==================================
+
+[ We/PRP ]
+classify/VBP 
+[ mice/NNS ]
+as/IN ``/`` 
+[ straight-haired/JJ ]
+''/'' or/CC ``/`` 
+[ wavy-haired/JJ ]
+''/'' ,/, but/CC 
+[ a/DT hairless/JJ mouse/NN ]
+appears/VBZ ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+can/MD escape/VB from/IN 
+[ such/JJ a/DT difficulty/NN ]
+by/IN ruling/VBG out/IN 
+[ the/DT animal/NN ]
+as/IN not/RB constituting/VBG 
+[ a/DT trial/NN ]
+,/, but/CC 
+[ such/JJ a/DT solution/NN ]
+is/VBZ not/RB always/RB satisfactory/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ 3/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ All/DT trials/NNS ]
+have/VBP 
+[ identical/JJ probabilities/NNS ]
+of/IN 
+[ success/NN ]
+./. 
+==================================
+
+[ Each/DT die/NN ]
+has/VBZ 
+[ probability/NN A[fj]/SYM ]
+of/IN producing/VBG 
+[ an/DT ace/NN ]
+;/: ;/: 
+[ the/DT marksman/NN ]
+has/VBZ 
+[ some/DT probability/NN p/NN ]
+,/, perhaps/RB 
+[ 0.1/CD ]
+,/, of/IN making/VBG 
+[ a/DT bull's-eye/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Note/VB that/IN 
+[ we/PRP ]
+need/MD not/RB know/VB 
+[ the/DT value/NN ]
+of/IN 
+[ p/NN ]
+,/, for/IN 
+[ the/DT experiment/NN ]
+to/TO be/VB binomial/NN ./. 
+==================================
+
+[ Experiment/NN ]
+where/WRB 
+[ p/NN ]
+is/VBZ not/RB constant/JJ ./. 
+==================================
+During/IN 
+[ a/DT round/NN ]
+of/IN 
+[ target/NN ]
+practice/NN 
+[ the/DT sun/NN ]
+comes/VBZ from/IN behind/IN 
+[ a/DT cloud/NN ]
+and/CC dazzles/VBZ 
+[ the/DT marksman/NN ]
+,/, lowering/VBG 
+[ his/PRP$ chance/NN ]
+of/IN 
+[ a/DT bull's-eye/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 4/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT trials/NNS ]
+are/VBP independent/JJ ./. 
+==================================
+Strictly/RB speaking/VBG ,/, 
+[ this/DT ]
+means/VBZ that/IN 
+[ the/DT probability/NN ]
+for/IN 
+[ each/DT possible/JJ outcome/NN ]
+of/IN 
+[ the/DT experiment/NN ]
+can/MD be/VB computed/VBN by/IN multiplying/VBG together/RB 
+[ the/DT probabilities/NNS ]
+of/IN 
+[ the/DT possible/JJ outcomes/NNS ]
+of/IN 
+[ the/DT single/JJ binomial/NN trials/NNS ]
+./. 
+==================================
+Thus/RB in/IN 
+[ the/DT three-dice/JJ example/NN A[fj]/SYM ]
+,/, 
+[ A[fj]/SYM ]
+,/, and/CC 
+[ the/DT independence/NN assumption/NN ]
+imply/VBP that/IN 
+[ the/DT probability/NN ]
+that/IN 
+[ the/DT three/CD dice/NN fall/NN ace/NN ]
+,/, 
+[ not-ace/NN ]
+,/, 
+[ ace/NN ]
+in/IN 
+[ that/DT order/NN ]
+is/VBZ 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+Experimentally/RB ,/, 
+[ we/PRP ]
+expect/VBP 
+[ independence/NN ]
+when/WRB 
+[ the/DT trials/NNS ]
+have/VBP 
+[ nothing/NN ]
+to/TO do/VB with/IN 
+[ one/CD another/DT ]
+./. 
+==================================
+
+[ Examples/NNS ]
+where/WRB 
+[ independence/NN ]
+fails/VBZ ./. 
+==================================
+
+[ A/DT family/NN ]
+of/IN 
+[ five/CD plans/NNS ]
+to/TO go/VB together/RB either/RB to/TO 
+[ the/DT beach/NN ]
+or/CC to/TO 
+[ the/DT mountains/NNS ]
+,/, and/CC 
+[ a/DT coin/NN ]
+is/VBZ tossed/VBN to/TO decide/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+want/VBP to/TO know/VB 
+[ the/DT number/NN ]
+of/IN 
+[ people/NNS ]
+going/VBG to/TO 
+[ the/DT mountains/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ this/DT experiment/NN ]
+is/VBZ viewed/VBN as/IN composed/VBN of/IN 
+[ five/CD binomial/NN trials/NNS ]
+,/, 
+[ one/CD ]
+for/IN 
+[ each/DT member/NN ]
+of/IN 
+[ the/DT family/NN ]
+,/, 
+[ the/DT outcomes/NNS ]
+of/IN 
+[ the/DT trials/NNS ]
+are/VBP obviously/RB not/RB independent/JJ ./. 
+==================================
+Indeed/RB ,/, 
+[ the/DT experiment/NN ]
+is/VBZ better/RB viewed/VBN as/IN consisting/VBG of/IN 
+[ one/CD binomial/NN trial/NN ]
+for/IN 
+[ the/DT entire/JJ family/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT following/NN ]
+is/VBZ 
+[ a/DT less/RBR extreme/JJ example/NN ]
+of/IN 
+[ dependence/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Consider/VB 
+[ couples/NNS ]
+visiting/VBG 
+[ an/DT art/NN museum/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT person/NN ]
+votes/VBZ for/IN 
+[ one/CD ]
+of/IN 
+[ a/DT pair/NN ]
+of/IN 
+[ pictures/NNS ]
+to/TO receive/VB 
+[ a/DT popular/JJ prize/NN ]
+./. 
+==================================
+Voting/VBG for/IN 
+[ one/CD picture/NN ]
+may/MD be/VB called/VBN ``/`` 
+[ success/NN ]
+''/'' ,/, for/IN 
+[ the/DT other/JJ ]
+``/`` 
+[ failure/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT experiment/NN ]
+consists/VBZ of/IN 
+[ the/DT voting/NN ]
+of/IN 
+[ one/CD couple/NN ]
+,/, or/CC 
+[ two/CD trials/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ repetitions/NNS ]
+of/IN 
+[ the/DT experiment/NN ]
+from/IN 
+[ couple/NN ]
+to/TO 
+[ couple/NN ]
+,/, 
+[ the/DT votes/NNS ]
+of/IN 
+[ the/DT two/CD persons/NNS ]
+in/IN 
+[ a/DT couple/NN ]
+probably/RB agree/VBP more/RBR often/RB than/IN 
+[ independence/NN ]
+would/MD imply/VB ,/, because/IN 
+[ couples/NNS ]
+
+[ who/WP ]
+visit/VBP 
+[ the/DT museum/NN ]
+together/RB are/VBP more/RBR likely/JJ to/TO have/VB 
+[ similar/JJ tastes/NNS ]
+than/IN are/VBP 
+[ a/DT random/JJ pair/NN ]
+of/IN 
+[ people/NNS ]
+drawn/VBN from/IN 
+[ the/DT entire/JJ population/NN ]
+of/IN 
+[ visitors/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Table/NN 7-1/CD ]
+illustrates/VBZ 
+[ the/DT point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT table/NN ]
+shows/VBZ that/IN 
+[ 0.6/CD ]
+of/IN 
+[ the/DT boys/NNS ]
+and/CC 
+[ 0.6/CD ]
+of/IN 
+[ the/DT girls/NNS vote/VBP ]
+for/IN 
+[ picture/NN ]
+
+[ A/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Therefore/RB ,/, under/IN 
+[ independent/JJ voting/NN ]
+,/, 
+[ A[fj]/SYM ]
+or/CC 
+[ 0.36/CD ]
+of/IN 
+[ the/DT couples/NNS ]
+would/MD cast/VB 
+[ two/CD votes/NNS ]
+for/IN 
+[ picture/NN ]
+
+[ A/NN ]
+,/, and/CC 
+[ A[fj]/SYM ]
+or/CC 
+[ 0.16/CD ]
+would/MD cast/VB 
+[ two/CD votes/NNS ]
+for/IN 
+[ picture/NN B/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Thus/RB in/IN 
+[ independent/JJ ]
+voting/VBG ,/, 
+[ A[fj]/SYM ]
+or/CC 
+[ 0.52/CD ]
+of/IN 
+[ the/DT couples/NNS ]
+would/MD agree/VB ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ Table/NN 7-1/CD ]
+shows/VBZ that/IN 
+[ A[fj]/SYM ]
+or/CC 
+[ 0.70/CD ]
+agree/VBP ,/, too/RB many/JJ for/IN 
+[ independent/JJ voting/NN ]
+./. 
+==================================
+
+[ Each/DT performance/NN ]
+of/IN 
+[ an/DT n-trial/NN binomial/NN experiment/NN results/VBZ ]
+in/IN 
+[ some/DT whole/JJ number/NN ]
+from/IN 
+[ 0/CD ]
+through/IN 
+[ N/NN ]
+as/IN 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT random/JJ variable/JJ X/NN ]
+,/, where/WRB 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+want/VBP to/TO study/VB 
+[ the/DT probability/NN function/NN ]
+of/IN 
+[ this/DT random/JJ variable/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+,/, 
+[ we/PRP ]
+are/VBP interested/VBN in/IN 
+[ the/DT number/NN ]
+of/IN 
+[ bull's-eyes/NNS ]
+,/, not/RB 
+[ which/WDT shots/NNS ]
+were/VBD bull's-eyes/NNS ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT binomial/NN experiment/NN ]
+can/MD produce/VB 
+[ random/JJ variables/NNS ]
+other/JJ than/IN 
+[ the/DT number/NN ]
+of/IN 
+[ successes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT marksman/NN ]
+gets/VBZ 
+[ 5/CD shots/NNS ]
+,/, but/CC 
+[ we/PRP ]
+take/VBP 
+[ his/PRP$ score/NN ]
+to/TO be/VB 
+[ the/DT number/NN ]
+of/IN 
+[ shots/NNS ]
+before/IN 
+[ his/PRP$ first/JJ bull's-eye/NN ]
+,/, 
+[ that/DT ]
+is/VBZ ,/, 
+[ 0/CD ]
+,/, 
+[ 1/CD ]
+,/, 
+[ 2/CD ]
+,/, 
+[ 3/CD ]
+,/, 
+[ 4/CD ]
+(/( or/CC 
+[ 5/CD ]
+,/, if/IN 
+[ he/PRP ]
+gets/VBZ 
+[ no/DT bull's-eye/NN ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+Thus/RB 
+[ we/PRP ]
+do/VBP not/RB score/VB 
+[ the/DT number/NN ]
+of/IN 
+[ bull's-eyes/NNS ]
+,/, and/CC 
+[ the/DT random/JJ variable/NN ]
+is/VBZ not/RB 
+[ the/DT number/NN ]
+of/IN 
+[ successes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT constancy/NN ]
+of/IN 
+[ P/NN ]
+and/CC 
+[ the/DT independence/NN ]
+are/VBP 
+[ the/DT conditions/NNS ]
+most/RBS likely/JJ to/TO give/VB 
+[ trouble/NN ]
+in/IN 
+[ practice/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Obviously/RB ,/, 
+[ very/RB slight/JJ changes/NNS ]
+in/IN 
+[ P/NN ]
+do/VBP not/RB change/VB 
+[ the/DT probabilities/NNS ]
+much/RB ,/, and/CC 
+[ a/DT slight/JJ lack/NN ]
+of/IN 
+[ independence/NN ]
+may/MD not/RB make/VB 
+[ an/DT appreciable/JJ difference/NN ]
+./. 
+==================================
+
+==================================
+==================================
+(/( For/IN 
+[ instance/NN ]
+,/, see/VB 
+[ Example/NN 2/CD ]
+of/IN 
+[ Section/NN 5-5/CD ]
+,/, on/IN 
+[ red/JJ cards/NNS ]
+in/IN 
+[ hands/NNS ]
+of/IN 
+[ 5/CD ]
+./. 
+==================================
+
+==================================
+==================================
+)/) On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, even/RB when/WRB 
+[ the/DT binomial/NN model/NN ]
+does/VBZ not/RB describe/VB well/RB 
+[ the/DT physical/JJ phenomenon/NN ]
+being/VBG studied/VBN ,/, 
+[ the/DT binomial/NN model/NN ]
+may/MD still/RB be/VB used/VBN as/IN 
+[ a/DT baseline/NN ]
+for/IN 
+[ comparative/JJ purposes/NNS ]
+;/: ;/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ we/PRP ]
+may/MD discuss/VB 
+[ the/DT phenomenon/NN ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ its/PRP$ departures/NNS ]
+from/IN 
+[ the/DT binomial/NN model/NN ]
+./. 
+==================================
+
+==================================
+==================================
+To/TO summarize/VB :/: 
+[ A/DT binomial/NN experiment/NN ]
+consists/VBZ of/IN 
+[ A[fj]/SYM independent/JJ binomial/NN trials/NNS ]
+,/, 
+[ all/DT ]
+with/IN 
+[ the/DT same/JJ probability/NN A[fj]/SYM ]
+of/IN yielding/VBG 
+[ a/DT success/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT outcome/NN ]
+of/IN 
+[ the/DT experiment/NN ]
+is/VBZ 
+[ X/NN successes/NNS ]
+./. 
+==================================
+
+[ The/DT random/JJ variable/NN X/NN ]
+takes/VBZ 
+[ the/DT values/NNS A[fj]/SYM ]
+with/IN 
+[ probabilities/NNS A[fj]/SYM ]
+or/CC ,/, 
+[ more/JJR briefly/NN A[fj]/SYM ]
+./. 
+==================================
+
+[ We/PRP ]
+shall/MD find/VB 
+[ a/DT formula/NN ]
+for/IN 
+[ the/DT probability/NN ]
+of/IN exactly/RB 
+[ X/NN successes/NNS ]
+for/IN 
+[ given/VBN values/NNS ]
+of/IN 
+[ P/NN ]
+and/CC 
+[ N/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ each/DT number/NN ]
+of/IN 
+[ successes/NNS X/NN ]
+is/VBZ paired/VBN with/IN 
+[ its/PRP$ probability/NN ]
+of/IN 
+[ occurrence/NN A[fj]/SYM ]
+,/, 
+[ the/DT set/NN ]
+of/IN 
+[ pairs/NNS A[fj]/SYM ]
+,/, is/VBZ 
+[ a/DT probability/NN function/NN ]
+called/VBD 
+[ a/DT binomial/NN distribution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT choice/NN ]
+of/IN 
+[ P/NN ]
+and/CC 
+[ N/NN ]
+determines/VBZ 
+[ the/DT binomial/NN distribution/NN ]
+uniquely/RB ,/, and/CC 
+[ different/JJ choices/NNS ]
+always/RB produce/VBP 
+[ different/JJ distributions/NNS ]
+(/( except/IN when/WRB 
+[ A[fj]/SYM ]
+;/: ;/: then/RB 
+[ the/DT number/NN ]
+of/IN 
+[ successes/NNS ]
+is/VBZ always/RB 
+[ 0/CD ]
+)/) ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT set/NN ]
+of/IN 
+[ all/DT binomial/NN distributions/NNS ]
+is/VBZ called/VBN 
+[ the/DT family/NN ]
+of/IN 
+[ binomial/NN distributions/NNS ]
+,/, but/CC in/IN 
+[ general/JJ discussions/NNS ]
+
+[ this/DT expression/NN ]
+is/VBZ often/RB shortened/VBN to/TO ``/`` 
+[ the/DT binomial/NN distribution/NN ]
+''/'' ,/, or/CC even/RB ``/`` 
+[ the/DT binomial/NN ]
+''/'' when/WRB 
+[ the/DT context/NN ]
+is/VBZ clear/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Binomial/NN distributions/NNS ]
+were/VBD treated/VBN by/IN 
+[ James/NNP Bernoulli/NNP ]
+about/IN 
+[ 1700/CD ]
+,/, and/CC for/IN 
+[ this/DT reason/NN binomial/NN trials/NNS ]
+are/VBP sometimes/RB called/VBN 
+[ Bernoulli/NNP trials/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Random/JJ variables/NNS ]
+./. 
+==================================
+
+[ Each/DT binomial/NN trial/NN ]
+of/IN 
+[ a/DT binomial/NN experiment/NN ]
+produces/VBZ 
+[ either/DT ]
+
+[ 0/CD ]
+or/CC 
+[ 1/CD success/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Therefore/RB 
+[ each/DT binomial/NN trial/NN ]
+can/MD be/VB thought/VBN of/IN as/IN producing/VBG 
+[ a/DT value/NN ]
+of/IN 
+[ a/DT random/JJ variable/NN ]
+associated/VBN with/IN 
+[ that/DT trial/NN ]
+and/CC taking/VBG 
+[ the/DT values/NNS 0/CD ]
+and/CC 
+[ 1/CD ]
+,/, with/IN 
+[ probabilities/NNS Q/NN ]
+and/CC 
+[ P/NN ]
+respectively/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT several/JJ trials/NNS ]
+of/IN 
+[ a/DT binomial/NN experiment/NN ]
+produce/VBP 
+[ a/DT new/JJ random/JJ variable/NN X/NN ]
+,/, 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ successes/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ just/RB 
+[ the/DT sum/NN ]
+of/IN 
+[ the/DT random/JJ variables/NNS ]
+associated/VBN with/IN 
+[ the/DT single/JJ trials/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Example/NN 2/CD ]
+./. 
+==================================
+
+[ The/DT marksman/NN ]
+gets/VBZ 
+[ two/CD bull's-eyes/NNS ]
+,/, 
+[ one/CD ]
+on/IN 
+[ his/PRP$ third/JJ shot/NN ]
+and/CC 
+[ one/CD ]
+on/IN 
+[ his/PRP$ fifth/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT numbers/NNS ]
+of/IN 
+[ successes/NNS ]
+on/IN 
+[ the/DT five/CD individual/JJ shots/NNS ]
+are/VBP ,/, then/RB ,/, 
+[ 0/CD ]
+,/, 
+[ 0/CD ]
+,/, 
+[ 1/CD ]
+,/, 
+[ 0/CD ]
+,/, 
+[ 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT number/NN ]
+of/IN 
+[ successes/NNS ]
+on/IN 
+[ each/DT shot/NN ]
+is/VBZ 
+[ a/DT value/NN ]
+of/IN 
+[ a/DT random/JJ variable/NN ]
+
+[ that/WP ]
+has/VBZ 
+[ values/NNS 0/CD ]
+or/CC 
+[ 1/CD ]
+,/, and/CC 
+[ there/EX ]
+are/VBP 
+[ 5/CD such/JJ random/JJ variables/NNS ]
+here/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Their/PRP$ sum/NN ]
+is/VBZ 
+[ X/NN ]
+,/, 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ successes/NNS ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ this/DT experiment/NN ]
+has/VBZ 
+[ the/DT value/NN A[fj]/SYM ]
+./. 
+==================================
+==================================
+==================================
