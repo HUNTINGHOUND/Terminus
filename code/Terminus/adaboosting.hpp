@@ -58,7 +58,7 @@ public:
     
     void fit(std::vector<std::vector<double>> const & x, std::vector<bool> const & y, size_t max_steps, std::vector<std::string> const & feature_name, double learning_rate=1);
     
-    std::vector<bool> predict(std::vector<std::vector<double>> const & x, std::unordered_map<std::string, size_t> & feature_name_to_idx);
+    std::vector<bool> predict(std::vector<std::vector<double>> const & x, phmap::flat_hash_map<std::string, size_t> & feature_name_to_idx);
     
 };
 

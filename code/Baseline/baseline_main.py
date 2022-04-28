@@ -39,51 +39,52 @@ run Basline systems, filling dictionaries
 '''
 #system one
 baseLineSystemOneWSJ('WSJ_24.words', ResultsBaselineOne)
-baseLineSystemOneBrown('BROWN/tagged/cb/cb02.pos', ResultsBaselineOne)
-baseLineSystemOneData_Sets(crime_fileName, ResultsBaselineOne)
-baseLineSystemOneData_Sets(bva_fileName, ResultsBaselineOne)
-baseLineSystemOneData_Sets(IP_fileName, ResultsBaselineOne)
-baseLineSystemOneData_Sets(SCOTUS_fileName, ResultsBaselineOne)
+#baseLineSystemOneBrown('BROWN/tagged/cb/cb02.pos', ResultsBaselineOne)
+#baseLineSystemOneData_Sets(crime_fileName, ResultsBaselineOne)
+#baseLineSystemOneData_Sets(bva_fileName, ResultsBaselineOne)
+#baseLineSystemOneData_Sets(IP_fileName, ResultsBaselineOne)
+#baseLineSystemOneData_Sets(SCOTUS_fileName, ResultsBaselineOne)
 
 #system two 
-baseLineSystemTwoData_Sets(crime_fileName, ResultsBaselineTwo)
-baseLineSystemTwoData_Sets(bva_fileName, ResultsBaselineTwo)
-baseLineSystemTwoData_Sets(IP_fileName, ResultsBaselineTwo)
-baseLineSystemTwoData_Sets(SCOTUS_fileName, ResultsBaselineTwo)
+#baseLineSystemTwoData_Sets(crime_fileName, ResultsBaselineTwo)
+#baseLineSystemTwoData_Sets(bva_fileName, ResultsBaselineTwo)
+#baseLineSystemTwoData_Sets(IP_fileName, ResultsBaselineTwo)
+#baseLineSystemTwoData_Sets(SCOTUS_fileName, ResultsBaselineTwo)
 
 #system three
-baseLineSystemThreeData_Sets(crime_fileName, ResultsBaselineThree)
-baseLineSystemThreeData_Sets(bva_fileName, ResultsBaselineThree)
-baseLineSystemThreeData_Sets(IP_fileName, ResultsBaselineThree)
-baseLineSystemThreeData_Sets(SCOTUS_fileName, ResultsBaselineThree)
+#baseLineSystemThreeData_Sets(crime_fileName, ResultsBaselineThree)
+#baseLineSystemThreeData_Sets(bva_fileName, ResultsBaselineThree)
+#baseLineSystemThreeData_Sets(IP_fileName, ResultsBaselineThree)
+#baseLineSystemThreeData_Sets(SCOTUS_fileName, ResultsBaselineThree)
 '''
 put results in data frame
 '''
 
 #system one
-BASLINESYSTEMONE = [(ResultsBaselineOne['WSJ_24'], 'WSJ'), (ResultsBaselineOne['Brown'], 'Brown'), (ResultsBaselineOne[crime_fileName]['Total'], 'crime'), (ResultsBaselineOne[bva_fileName]['Total'], 'bva'), (ResultsBaselineOne[IP_fileName]['Total'], 'IP'), (ResultsBaselineOne[SCOTUS_fileName]['Total'], 'SCOTUS')]
-System_One_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
-makeDataFrame(BASLINESYSTEMONE, System_One_Data_Frame)
-print("SYSTEM ONE:")
-print(System_One_Data_Frame)
+#BASLINESYSTEMONE = [(ResultsBaselineOne['WSJ_24'], 'WSJ'), (ResultsBaselineOne['Brown'], 'Brown'), (ResultsBaselineOne[crime_fileName]['Total'], 'crime'), (ResultsBaselineOne[bva_fileName]['Total'], 'bva'), (ResultsBaselineOne[IP_fileName]['Total'], 'IP'), (ResultsBaselineOne[SCOTUS_fileName]['Total'], 'SCOTUS')]
+#System_One_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
+#makeDataFrame(BASLINESYSTEMONE, System_One_Data_Frame)
+#print("SYSTEM ONE:")
+#print(System_One_Data_Frame)
+print(ResultsBaselineOne)
 
 #system one with only data from SJVMK
-BASLINESYSTEMONE_S = [(ResultsBaselineOne[crime_fileName]['Total'], 'crime'), (ResultsBaselineOne[bva_fileName]['Total'], 'bva'), (ResultsBaselineOne[IP_fileName]['Total'], 'IP'), (ResultsBaselineOne[SCOTUS_fileName]['Total'], 'SCOTUS')]
-System_One_Data_Frame_S = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
-makeDataFrame(BASLINESYSTEMONE_S, System_One_Data_Frame_S)
-print("SYSTEM ONE_S:")
-print(System_One_Data_Frame_S)
+#BASLINESYSTEMONE_S = [(ResultsBaselineOne[crime_fileName]['Total'], 'crime'), (ResultsBaselineOne[bva_fileName]['Total'], 'bva'), (ResultsBaselineOne[IP_fileName]['Total'], 'IP'), (ResultsBaselineOne[SCOTUS_fileName]['Total'], 'SCOTUS')]
+#System_One_Data_Frame_S = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
+#makeDataFrame(BASLINESYSTEMONE_S, System_One_Data_Frame_S)
+#print("SYSTEM ONE_S:")
+#print(System_One_Data_Frame_S)
 
 #system two
-BASLINESYSTEMTWO = [(ResultsBaselineTwo[crime_fileName]['Total'], 'crime'), (ResultsBaselineTwo[bva_fileName]['Total'], 'bva'), (ResultsBaselineTwo[IP_fileName]['Total'], 'IP'), (ResultsBaselineTwo[SCOTUS_fileName]['Total'], 'SCOTUS')]
-System_Two_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
-makeDataFrame(BASLINESYSTEMTWO, System_Two_Data_Frame)
-print("SYSTEM TWO:")
-print(System_Two_Data_Frame)
+#BASLINESYSTEMTWO = [(ResultsBaselineTwo[crime_fileName]['Total'], 'crime'), (ResultsBaselineTwo[bva_fileName]['Total'], 'bva'), (ResultsBaselineTwo[IP_fileName]['Total'], 'IP'), (ResultsBaselineTwo[SCOTUS_fileName]['Total'], 'SCOTUS')]
+#System_Two_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
+#makeDataFrame(BASLINESYSTEMTWO, System_Two_Data_Frame)
+#print("SYSTEM TWO:")
+#print(System_Two_Data_Frame)
 
 #system three
-BASLINESYSTEMTHREE = [(ResultsBaselineThree[crime_fileName]['Total'], 'crime'), (ResultsBaselineThree[bva_fileName]['Total'], 'bva'), (ResultsBaselineThree[IP_fileName]['Total'], 'IP'), (ResultsBaselineThree[SCOTUS_fileName]['Total'], 'SCOTUS')]
-System_Three_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
-makeDataFrame(BASLINESYSTEMTHREE, System_Three_Data_Frame)
-print("SYSTEM THREE:")
-print(System_Three_Data_Frame)
+#BASLINESYSTEMTHREE = [(ResultsBaselineThree[crime_fileName]['Total'], 'crime'), (ResultsBaselineThree[bva_fileName]['Total'], 'bva'), (ResultsBaselineThree[IP_fileName]['Total'], 'IP'), (ResultsBaselineThree[SCOTUS_fileName]['Total'], 'SCOTUS')]
+#System_Three_Data_Frame = pd.DataFrame(columns=['NAME', 'PRECISION', 'RECALL', 'F-SCORE', 'ACCURACY'])
+#makeDataFrame(BASLINESYSTEMTHREE, System_Three_Data_Frame)
+#print("SYSTEM THREE:")
+#print(System_Three_Data_Frame)

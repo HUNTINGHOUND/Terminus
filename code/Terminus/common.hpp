@@ -15,6 +15,7 @@
 #include <sstream>
 #include <atomic>
 #include <thread>
+#include "parallel_hashmap/phmap.h"
 
 
 #endif /* common_h */

@@ -2,6 +2,7 @@
 #include "util.hpp"
 #include "adaboosting.hpp"
 #include "feature_decoder.hpp"
+#include "json.hpp"
 
 using namespace std;
 
@@ -53,7 +54,6 @@ void print_res(vector<bool> & prediction, vector<bool> & correct_target, std::ve
     cout << "Accuracy = " << (tp + tn * 1.0) / (tp + tn + fp + fn * 1.0) << endl;
 }
 
-
 int main(int argc, const char * argv[]) {
     WSJDecoder decoder;
     
@@ -61,22 +61,22 @@ int main(int argc, const char * argv[]) {
     std::vector<std::vector<double>> feature;
     std::vector<bool> target;
     std::vector<std::string> feature_name;
-    std::tie(feature, target, feature_name) = decoder.feature_decode(head);
+    std::tie(feature, target, feature_name) = decoder.feature_decode(head, "/Users/morgan/Desktop/Terminus/code/Terminus/terminus_unigram/uni.json");
     
     std::vector<std::vector<double>> predict_feature;
-    std::unordered_map<std::string, size_t> feature_name_to_idx;
+    phmap::flat_hash_map<std::string, size_t> feature_name_to_idx;
     std::vector<std::string> sentences = decoder.read_file_token("/Users/morgan/Desktop/Terminus/datasets/WSJ_POS_CORPUS_FOR_STUDENTS/WSJ_24.words");
-    tie(predict_feature, feature_name_to_idx) = decoder.extract_feature(sentences);
+    tie(predict_feature, feature_name_to_idx) = decoder.extract_feature(sentences, "/Users/morgan/Desktop/Terminus/code/Terminus/terminus_unigram/uni.json");
     
     BinaryAdaBoosting booster;
-    booster.fit(feature, target, 100, feature_name, 1.2);
+    booster.fit(feature, target, 100, feature_name, 1);
 
     vector<bool> prediction = booster.predict(predict_feature, feature_name_to_idx);
     
     std::vector<std::vector<double>> correct_feature;
     std::vector<bool> correct_target;
     head = decoder.read_file("/Users/morgan/Desktop/Terminus/datasets/WSJ_POS_CORPUS_FOR_STUDENTS/WSJ_24.pos");
-    std::tie(correct_feature, correct_target, feature_name) = decoder.feature_decode(head);
+    std::tie(correct_feature, correct_target, feature_name) = decoder.feature_decode(head, "/Users/morgan/Desktop/Terminus/code/Terminus/terminus_unigram/uni.json");
     
     print_res(prediction, correct_target, sentences);
 

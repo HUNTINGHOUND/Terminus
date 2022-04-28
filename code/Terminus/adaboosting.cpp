@@ -193,7 +193,7 @@ void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vec
             else incorrect.push_back(false);
         }
         double error = compute_error(incorrect);
-        if(error <= 20 || error >= 980) {
+        if(error <= 0 || error >= 1000) {
             std::cout << "error boundary reached, stopping early" << std::endl;
             forrest.pop_back();
             //voting_power.push_back(*std::max_element(voting_power.begin(), voting_power.end()));
@@ -209,30 +209,41 @@ void BinaryAdaBoosting::fit(std::vector<std::vector<double>> const & x, std::vec
         for(size_t idx : bb)
             new_boot.push_back(boot[idx]);
         std::swap(new_boot, boot);
-        std::unordered_set<size_t> boot_uniq(boot.begin(), boot.end());
-        if(boot_uniq.size() < 5) {
+        phmap::flat_hash_set<size_t> boot_uniq(boot.begin(), boot.end());
+        
+        if(boot_uniq.size() < 3) {
             std::cout << "Not enough diversity, terminate early" << std::endl;
             break;
         }
+         
         std::cout << "Finished stump " << i + 1 << " used feature " << feature_name[thres_info.feature] << " with threshold = " << thres_info.threshold << std::endl;
         i++;
     }
 }
 
-std::vector<bool> BinaryAdaBoosting::predict(std::vector<std::vector<double>> const & x, std::unordered_map<std::string, size_t> & feature_name_to_idx) {
+std::vector<bool> BinaryAdaBoosting::predict(std::vector<std::vector<double>> const & x, phmap::flat_hash_map<std::string, size_t> & feature_name_to_idx) {
     std::vector<bool> y_hat;
     for(size_t i = 0; i < x[0].size(); i++) {
-        if(x[feature_name_to_idx["$"]][i] ||
-           (x[feature_name_to_idx["."]][i] && x[feature_name_to_idx["next is quote"]][i] && x[feature_name_to_idx["in quotes"]][i]) ||
+        if(x[feature_name_to_idx["$"]][i] || x[feature_name_to_idx["%"]][i] ||
+           x[feature_name_to_idx[","]][i] || x[feature_name_to_idx["open quote"]][i] ||
+           (x[feature_name_to_idx["."]][i] && x[feature_name_to_idx["next is close quote"]][i]) ||
            (x[feature_name_to_idx[":"]][i] && x[feature_name_to_idx["next is quote"]][i]) ||
-           (x[feature_name_to_idx["open quote"]][i])) {
+           (x[feature_name_to_idx["close quote"]][i] && x[feature_name_to_idx["next ("]][i])) {
             y_hat.push_back(false);
             continue;
         }
+        if((x[feature_name_to_idx["."]][i] && x[feature_name_to_idx["next is open quote"]][i]) ||
+           (x[feature_name_to_idx["''"]][i] && x[feature_name_to_idx["prev ."]][i])) {
+            y_hat.push_back(true);
+            continue;
+        }
+        
         double sum = 0;
         for(size_t j = 0; j < forrest.size(); j++) {
             if(forrest[j].predict(x[feature_name_to_idx[forrest[j].featureName]][i])) {
                 sum += voting_power[j];
+            } else {
+                sum -= voting_power[j];
             }
         }
         
